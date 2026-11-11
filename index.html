@@ -2,106 +2,124 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>HoloGuide uOttawa</title>
 <meta name="description" content="HoloGuide : borne holographique d'information de l'Université d'Ottawa, avec Gee-Gee.">
 <link rel="stylesheet" href="css/style.css">
 </head>
 <!-- Fond noir : la boîte holographique rend le noir transparent, seul Gee-Gee « flotte ». -->
 <body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-mic" viewBox="0 0 24 24"><path fill="currentColor" d="M12 15a3 3 0 0 0 3-3V6a3 3 0 1 0-6 0v6a3 3 0 0 0 3 3Zm5-3a5 5 0 0 1-10 0H5a7 7 0 0 0 6 6.92V21h2v-2.08A7 7 0 0 0 19 12h-2Z"/></symbol>
+  <symbol id="i-send" viewBox="0 0 24 24"><path fill="currentColor" d="M3.4 20.4 21 12 3.4 3.6 3.3 10l12.6 2-12.6 2z"/></symbol>
+  <symbol id="i-sound" viewBox="0 0 24 24"><path fill="currentColor" d="M4 9v6h4l5 4V5L8 9H4Zm12.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4Zm-2.5-8.7v2.1a7 7 0 0 1 0 13.2v2.1a9 9 0 0 0 0-17.4Z"/></symbol>
+  <symbol id="i-mute" viewBox="0 0 24 24"><path fill="currentColor" d="M4 9v6h4l5 4V5L8 9H4Zm12.6 3 2.7-2.7-1.4-1.4L15.2 10.6l-2.7-2.7-1.4 1.4L13.8 12l-2.7 2.7 1.4 1.4 2.7-2.7 2.7 2.7 1.4-1.4L16.6 12Z"/></symbol>
+  <symbol id="i-contrast" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm0 18V4a8 8 0 0 1 0 16Z"/></symbol>
+  <symbol id="i-history" viewBox="0 0 24 24"><path fill="currentColor" d="M13 3a9 9 0 0 0-9 9H1l4 4 4-4H6a7 7 0 1 1 2.05 4.95l-1.42 1.42A9 9 0 1 0 13 3Zm-1 5v5l4.25 2.52.77-1.28-3.52-2.09V8H12Z"/></symbol>
+  <symbol id="i-back" viewBox="0 0 24 24"><path fill="currentColor" d="M15.4 7.4 14 6l-6 6 6 6 1.4-1.4L10.8 12z"/></symbol>
+  <symbol id="i-next" viewBox="0 0 24 24"><path fill="currentColor" d="M8.6 16.6 10 18l6-6-6-6-1.4 1.4 4.6 4.6z"/></symbol>
+  <symbol id="i-close" viewBox="0 0 24 24"><path fill="currentColor" d="M19 6.4 17.6 5 12 10.6 6.4 5 5 6.4l5.6 5.6L5 17.6 6.4 19l5.6-5.6 5.6 5.6 1.4-1.4-5.6-5.6z"/></symbol>
+  <symbol id="i-replay" viewBox="0 0 24 24"><path fill="currentColor" d="M12 5V1L7 6l5 5V7a6 6 0 1 1-6 6H4a8 8 0 1 0 8-8Z"/></symbol>
+  <symbol id="i-link" viewBox="0 0 24 24"><path fill="currentColor" d="M14 3v2h3.6l-9.8 9.8 1.4 1.4L19 6.4V10h2V3h-7ZM19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7h-2v7Z"/></symbol>
+</svg>
 
-<!-- 1. Veille : Gee-Gee salue pour attirer les passants -->
+<!-- 1. Veille -->
 <section id="attract" class="screen active" tabindex="0" aria-label="Commencer · Start">
-  <p class="brand-line">HoloGuide · uOttawa × INNOVA</p>
-  <div class="stage tall" data-view="wide"></div>
-  <h1 data-t="attractTitle"></h1>
-  <p class="sub" data-t="attractSub"></p>
-  <p class="sub en" id="attractEn"></p>
-  <p class="tip" id="tip" aria-live="polite"></p>
-</section>
-
-<!-- 2. Accueil : langue et profil (sans aucune donnée personnelle) -->
-<section id="start" class="screen" aria-labelledby="welcomeTitle">
-  <div class="stage" data-view="bust"></div>
-  <div class="card">
-    <h1 id="welcomeTitle" data-t="welcome"></h1>
-    <h2 data-t="chooseLang"></h2>
-    <div class="row">
-      <button class="pill" data-lang="fr">Français</button>
-      <button class="pill" data-lang="en">English</button>
-    </div>
-    <h2 data-t="chooseProfile"></h2>
-    <div class="row">
-      <button class="pill" data-profile="student"></button>
-      <button class="pill" data-profile="staff"></button>
-      <button class="pill" data-profile="visitor"></button>
-    </div>
-    <button class="go" id="go" data-t="go"></button>
-    <p class="privacy" data-t="privacy"></p>
+  <div class="glow"></div>
+  <p class="eyebrow">HoloGuide · uOttawa × INNOVA</p>
+  <div class="stage hero" data-view="wide"></div>
+  <div class="attract-text">
+    <h1 data-t="attractTitle"></h1>
+    <p class="lead" data-t="attractSub"></p>
+    <p class="lead en" id="attractEn"></p>
+    <button class="cta pulse" type="button" data-t="touchStart"></button>
+    <p class="tip" id="tip" aria-live="polite"></p>
   </div>
 </section>
 
-<!-- 3. Conversation -->
+<!-- 2. Accueil : langue et profil -->
+<section id="start" class="screen" aria-labelledby="welcomeTitle">
+  <div class="glow"></div>
+  <div class="stage small" data-view="bust"></div>
+  <div class="sheet center">
+    <h1 id="welcomeTitle" data-t="welcome"></h1>
+    <p class="label" data-t="chooseLang"></p>
+    <div class="tiles two">
+      <button class="tile" data-lang="fr"><span class="big">FR</span><span>Français</span></button>
+      <button class="tile" data-lang="en"><span class="big">EN</span><span>English</span></button>
+    </div>
+    <p class="label" data-t="chooseProfile"></p>
+    <div class="tiles three">
+      <button class="tile" data-profile="student"><span class="emoji">🎓</span><span data-profile-label></span></button>
+      <button class="tile" data-profile="staff"><span class="emoji">💼</span><span data-profile-label></span></button>
+      <button class="tile" data-profile="visitor"><span class="emoji">👋</span><span data-profile-label></span></button>
+    </div>
+    <button class="cta wide" id="go" data-t="go"></button>
+    <p class="fine" data-t="privacy"></p>
+  </div>
+</section>
+
+<!-- 3. Conversation : Gee-Gee en haut, une seule réponse à la fois en dessous -->
 <section id="chat" class="screen">
-  <header class="bar">
-    <button class="brand" id="brand" aria-label="HoloGuide">HoloGuide</button>
+  <header class="topbar">
+    <button class="brand" id="brand">Holo<b>Guide</b></button>
     <div class="tools">
-      <button id="langBtn" class="tool"></button>
-      <button id="textDown" class="tool" data-aria="textDown">A−</button>
-      <button id="textUp" class="tool" data-aria="textUp">A+</button>
-      <button id="contrastBtn" class="tool" data-aria="contrast" aria-pressed="false">◐</button>
-      <button id="voiceBtn" class="tool" data-aria="voice" aria-pressed="true">🔊</button>
-      <button id="endBtn" class="tool danger" data-t="end"></button>
+      <button id="langBtn" class="round txt"></button>
+      <button id="textBtn" class="round txt" data-aria="textUp">Aa</button>
+      <button id="contrastBtn" class="round" data-aria="contrast" aria-pressed="false"><svg><use href="#i-contrast"/></svg></button>
+      <button id="voiceBtn" class="round" data-aria="voice" aria-pressed="true"><svg><use href="#i-sound"/></svg></button>
+      <button id="historyBtn" class="round" data-aria="history"><svg><use href="#i-history"/></svg><span class="count" id="histCount" hidden></span></button>
+      <button id="endBtn" class="end" data-t="end"></button>
     </div>
   </header>
   <div class="stage" data-view="bust"></div>
-  <p id="subtitle" class="subtitle" aria-live="polite"></p>
-  <ol id="log" class="log" aria-live="polite" aria-label="Conversation"></ol>
-  <nav id="topics" class="topics" data-aria="topics"></nav>
-  <form id="askForm" class="ask">
+  <main id="view" class="sheet scroll" aria-live="polite"></main>
+  <form id="askForm" class="askbar">
     <label class="sr" for="askInput" data-t="ask"></label>
-    <input id="askInput" autocomplete="off" data-ph="askPh">
-    <button type="button" id="micBtn" class="mic" data-aria="mic">🎙</button>
-    <button type="submit" class="send" data-t="send"></button>
+    <input id="askInput" autocomplete="off" enterkeyhint="send" data-ph="askPh">
+    <button type="button" id="micBtn" class="mic" data-aria="mic"><svg><use href="#i-mic"/></svg></button>
+    <button type="submit" class="send" data-aria="send"><svg><use href="#i-send"/></svg></button>
   </form>
 </section>
 
-<!-- 4. Fin : code QR (trace de la conversation) et satisfaction -->
+<!-- 4. Fin : code QR et satisfaction -->
 <section id="end" class="screen">
-  <div class="card">
+  <div class="glow"></div>
+  <div class="sheet center">
     <h1 data-t="endTitle"></h1>
-    <p id="qrText"></p>
+    <p class="lead" id="qrText"></p>
     <div id="qr" class="qr"></div>
-    <h2 data-t="rate"></h2>
-    <div class="row" id="rating">
-      <button class="pill face" data-rate="0" aria-label="😞">😞</button>
-      <button class="pill face" data-rate="1" aria-label="😐">😐</button>
-      <button class="pill face" data-rate="2" aria-label="😀">😀</button>
+    <p class="label" data-t="rate"></p>
+    <div class="tiles three" id="rating">
+      <button class="tile face" data-rate="0" aria-label="😞"><span class="emoji">😞</span></button>
+      <button class="tile face" data-rate="1" aria-label="😐"><span class="emoji">😐</span></button>
+      <button class="tile face" data-rate="2" aria-label="😀"><span class="emoji">😀</span></button>
     </div>
-    <button class="go" id="doneBtn" data-t="done"></button>
-    <p class="privacy" id="closing"></p>
+    <button class="cta wide" id="doneBtn" data-t="done"></button>
+    <p class="fine" id="closing"></p>
   </div>
 </section>
 
-<!-- Inactivité -->
-<div id="idle" class="modal" hidden role="alertdialog" aria-labelledby="idleTitle">
-  <div class="card small">
-    <h2 id="idleTitle" data-t="idleTitle"></h2>
-    <p id="idleText"></p>
-    <button class="go" id="stayBtn" data-t="stay"></button>
+<!-- Historique (transcription complète de la session) -->
+<div id="history" class="overlay" hidden role="dialog" aria-labelledby="historyTitle">
+  <div class="drawer">
+    <div class="drawer-head"><h2 id="historyTitle" data-t="history"></h2><button class="round" id="closeHistory" data-aria="close"><svg><use href="#i-close"/></svg></button></div>
+    <ol id="historyList" class="history"></ol>
   </div>
 </div>
 
+<!-- Plan agrandi -->
+<div id="lightbox" class="overlay" hidden role="dialog"><img id="lightboxImg" alt=""><button class="round close-corner" id="closeLightbox" data-aria="close"><svg><use href="#i-close"/></svg></button></div>
+
+<!-- Inactivité -->
+<div id="idle" class="overlay" hidden role="alertdialog" aria-labelledby="idleTitle">
+  <div class="sheet center small"><h2 id="idleTitle" data-t="idleTitle"></h2><p class="countdown" id="idleText"></p><button class="cta wide" id="stayBtn" data-t="stay"></button></div>
+</div>
+
 <!-- Tableau de bord (5 touches sur « HoloGuide » ou Maj+A) -->
-<div id="admin" class="modal" hidden role="dialog" aria-labelledby="adminTitle">
-  <div class="card">
-    <h2 id="adminTitle" data-t="admin"></h2>
-    <dl id="stats" class="stats"></dl>
-    <div class="row">
-      <button class="pill" id="resetStats" data-t="reset"></button>
-      <button class="go" id="closeAdmin" data-t="close"></button>
-    </div>
-  </div>
+<div id="admin" class="overlay" hidden role="dialog" aria-labelledby="adminTitle">
+  <div class="sheet small"><h2 id="adminTitle" data-t="admin"></h2><dl id="stats" class="stats"></dl>
+    <div class="row"><button class="ghost" id="resetStats" data-t="reset"></button><button class="cta" id="closeAdmin" data-t="close"></button></div></div>
 </div>
 
 <script src="vendor/qrcode.js"></script>

@@ -11,7 +11,7 @@ Projet GNG1503, équipe AVENGERS (AF23). Version refaite de zéro. Site statique
 ## Parcours
 1. **Veille** : Gee-Gee salue et des conseils défilent en français et en anglais. On touche l'écran pour commencer.
 2. **Accueil** : choix de la langue et du profil (étudiant·e, employé·e / prof, visiteur·euse). Aucune donnée personnelle.
-3. **Conversation** : question écrite, à la voix ou en touchant un sujet. Gee-Gee répond à voix haute avec sous-titres, plan du pavillon si utile, source officielle et date de vérification.
+3. **Conversation** : question écrite, à la voix ou en touchant une tuile de sujet. Une seule réponse à l'écran à la fois : le texte s'illumine mot par mot pendant que Gee-Gee parle (il sert de sous-titre), avec le plan du pavillon si utile, la source officielle, la date de vérification et les questions liées. Les échanges précédents sont dans l'**historique** (bouton horloge).
 4. **Fin** : code QR avec les questions posées et les liens officiels, puis note de satisfaction. Retour à la veille après 30 s.
 
 ## Exigences du client couvertes
@@ -23,7 +23,7 @@ Projet GNG1503, équipe AVENGERS (AF23). Version refaite de zéro. Site statique
 | Seulement de l'information officielle | 85 réponses tirées des pages uOttawa, source et date de vérification affichées |
 | Si pas de réponse : s'excuser et guider | Excuse, renvoi vers InfoService et suggestions proches |
 | Santé mentale exclue | Redirection vers le Centre de santé et de bien-être, et le 911 en cas d'urgence |
-| Accessibilité | Sous-titres, conversation écrite complète, taille du texte, contraste élevé, voix activable, navigation au clavier |
+| Accessibilité | Texte surligné mot par mot (sous-titres), historique complet, réécoute, taille du texte (bouton Aa), contraste élevé, voix activable, navigation au clavier |
 | Écran tactile si trop bruyant | Sujets et questions en boutons tactiles |
 | Profil | Adapte l'accueil et l'ordre des sujets |
 | Inactivité | Fenêtre « Es-tu encore là ? » après 45 s, puis fin de session et retour à la veille |

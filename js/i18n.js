@@ -1,6 +1,9 @@
 // Tous les textes de l'interface, en français et en anglais (le bilinguisme est la priorité n° 1 du client).
 export const TEXT = {
   fr: {
+    homeTitle: 'Comment je peux t\'aider ?', popular: 'Sujets populaires', allTopics: 'Tous les sujets', back: 'Retour',
+    history: 'Historique', historyEmpty: 'Tes questions apparaîtront ici.', youAsked: 'Ta question', relatedTitle: 'Questions liées',
+    infoservice: 'Contacter InfoService', urgent: 'Urgence : 911', zoom: 'Agrandir le plan', listenAgain: 'Réécouter', touchStart: 'Touche pour commencer',
     attractTitle: 'Salut ! Je suis Gee-Gee.', attractSub: 'Touche l\'écran pour me poser une question.',
     tips: ['Je réponds en français et en anglais.', 'Parle-moi ou écris ta question.', 'Je te montre le plan des pavillons.', 'À la fin, garde tes réponses avec un code QR.'],
     welcome: 'Bienvenue !', chooseLang: 'Choisis ta langue', chooseProfile: 'Tu es…',
@@ -11,7 +14,7 @@ export const TEXT = {
       visitor: 'Bienvenue à l\'Université d\'Ottawa ! Je suis Gee-Gee. Je peux t\'orienter sur le campus. Que cherches-tu ?'
     },
     askPh: 'Écris ta question…', ask: 'Ta question', send: 'Envoyer', mic: 'Parler', listening: 'Je t\'écoute…', micError: 'Je n\'ai pas bien entendu. Réessaie ou écris ta question.',
-    topics: 'Sujets', langBtn: 'EN', textDown: 'Texte plus petit', textUp: 'Texte plus grand', contrast: 'Contraste élevé', voice: 'Voix', end: 'Terminer',
+    topics: 'Sujets', langBtn: 'EN', textDown: 'Texte plus petit', textUp: 'Taille du texte', contrast: 'Contraste élevé', voice: 'Voix', end: 'Terminer',
     sources: 'Source officielle', verified: 'vérifiée le', pointer: 'Pour les détails à jour, consulte la page officielle :', time: 'Réponse en {ms} ms',
     helpful: 'Cette réponse t\'aide ?', yes: 'Oui', no: 'Non', thanksFb: 'Merci pour ton avis !', related: 'Aussi :', topicIntro: 'Voici ce que je peux te dire sur « {cat} » :',
     hello: 'Salut ! Qu\'est-ce que je peux faire pour toi ?', thanks: 'Avec plaisir ! As-tu une autre question ?',
@@ -28,6 +31,9 @@ export const TEXT = {
     close: 'Fermer', reset: 'Remettre à zéro'
   },
   en: {
+    homeTitle: 'How can I help you?', popular: 'Popular topics', allTopics: 'All topics', back: 'Back',
+    history: 'History', historyEmpty: 'Your questions will appear here.', youAsked: 'Your question', relatedTitle: 'Related questions',
+    infoservice: 'Contact InfoService', urgent: 'Emergency: 911', zoom: 'Enlarge the map', listenAgain: 'Listen again', touchStart: 'Touch to start',
     attractTitle: 'Hi! I\'m Gee-Gee.', attractSub: 'Touch the screen to ask me a question.',
     tips: ['I answer in English and French.', 'Talk to me or type your question.', 'I show you building floor plans.', 'At the end, keep your answers with a QR code.'],
     welcome: 'Welcome!', chooseLang: 'Choose your language', chooseProfile: 'You are…',
@@ -38,7 +44,7 @@ export const TEXT = {
       visitor: 'Welcome to the University of Ottawa! I\'m Gee-Gee and I can help you find your way. What are you looking for?'
     },
     askPh: 'Type your question…', ask: 'Your question', send: 'Send', mic: 'Speak', listening: 'I\'m listening…', micError: 'I didn\'t catch that. Try again or type your question.',
-    topics: 'Topics', langBtn: 'FR', textDown: 'Smaller text', textUp: 'Larger text', contrast: 'High contrast', voice: 'Voice', end: 'End',
+    topics: 'Topics', langBtn: 'FR', textDown: 'Smaller text', textUp: 'Text size', contrast: 'High contrast', voice: 'Voice', end: 'End',
     sources: 'Official source', verified: 'checked on', pointer: 'For up-to-date details, see the official page:', time: 'Answered in {ms} ms',
     helpful: 'Was this helpful?', yes: 'Yes', no: 'No', thanksFb: 'Thanks for your feedback!', related: 'Also:', topicIntro: 'Here is what I can tell you about "{cat}":',
     hello: 'Hi! What can I do for you?', thanks: 'You\'re welcome! Any other question?',
@@ -66,4 +72,11 @@ export const TOPIC_ORDER = {
   student: ['cours', 'examens', 'bibliotheques', 'batiments', 'services', 'finances', 'logement', 'associations', 'ti', 'transport', 'sante', 'calendrier', 'reglements', 'evenements', 'international', 'programmes', 'genie', 'admissions', 'borne'],
   staff: ['ti', 'batiments', 'transport', 'services', 'bibliotheques', 'evenements', 'calendrier', 'sante', 'reglements', 'cours', 'borne'],
   visitor: ['batiments', 'transport', 'evenements', 'admissions', 'programmes', 'international', 'services', 'bibliotheques', 'borne']
+};
+
+// Icône de chaque sujet (tuiles tactiles).
+export const TOPIC_ICON = {
+  admissions: '📝', programmes: '🎓', cours: '📚', calendrier: '📅', examens: '✏️', reglements: '⚖️', services: '🤝', batiments: '🏛️',
+  bibliotheques: '📖', transport: '🚌', logement: '🏠', finances: '💳', associations: '🎉', evenements: '🎤', genie: '⚙️',
+  international: '🌍', ti: '💻', sante: '🩺', borne: '🤖'
 };

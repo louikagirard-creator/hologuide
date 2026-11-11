@@ -39,7 +39,7 @@ export function speak(text, lang, { onStart, onWord, onNoWords, onEnd } = {}) {
   u.onboundary = (e) => {
     if (e.name !== 'word') return;
     gotWords = true;
-    onWord?.(e.charLength ? text.substr(e.charIndex, e.charLength) : text.substr(e.charIndex).split(/[\s,.;:!?«»]/)[0], rate);
+    onWord?.(e.charLength ? text.substr(e.charIndex, e.charLength) : text.substr(e.charIndex).split(/[\s,.;:!?«»]/)[0], rate, e.charIndex);
   };
   u.onend = u.onerror = finish;
   speechSynthesis.speak(u);

@@ -1,10 +1,11 @@
 // Tous les textes de l'interface, en français et en anglais (le bilinguisme est la priorité n° 1 du client).
 export const TEXT = {
   fr: {
+    rate0: 'Bof', rate1: 'Correct', rate2: 'Super',
     homeTitle: 'Comment je peux t\'aider ?', popular: 'Sujets populaires', allTopics: 'Tous les sujets', back: 'Retour',
     history: 'Historique', historyEmpty: 'Tes questions apparaîtront ici.', youAsked: 'Ta question', relatedTitle: 'Questions liées',
     infoservice: 'Contacter InfoService', urgent: 'Urgence : 911', zoom: 'Agrandir le plan', listenAgain: 'Réécouter', touchStart: 'Touche pour commencer',
-    attractTitle: 'Salut ! Je suis Gee-Gee.', attractSub: 'Touche l\'écran pour me poser une question.',
+    attractTitle: 'Salut !\nJe suis Gee\u2011Gee.', attractSub: 'Touche l\'écran pour me poser une question.',
     tips: ['Je réponds en français et en anglais.', 'Parle-moi ou écris ta question.', 'Je te montre le plan des pavillons.', 'À la fin, garde tes réponses avec un code QR.'],
     welcome: 'Bienvenue !', chooseLang: 'Choisis ta langue', chooseProfile: 'Tu es…',
     profiles: { student: 'Étudiant·e', staff: 'Employé·e / prof', visitor: 'Visiteur·euse' }, go: 'C\'est parti !',
@@ -27,14 +28,15 @@ export const TEXT = {
     rate: 'Comment était ton expérience ?', done: 'Terminer', closing: 'Retour à l\'accueil dans {s} s',
     privacy: 'Aucune donnée personnelle n\'est demandée ni conservée. Tout est effacé à la fin de la session.',
     qrHeader: 'HoloGuide uOttawa — tes questions', admin: 'Indicateurs de la borne',
-    stats: { sessions: 'Sessions', questions: 'Questions', unanswered: 'Sans réponse', qr: 'Codes QR', up: 'Réponses utiles', down: 'Réponses pas utiles', ratings: 'Satisfaction (😞 😐 😀)', top: 'Questions fréquentes', profiles: 'Profils', langs: 'Langues' },
+    stats: { sessions: 'Sessions', questions: 'Questions', unanswered: 'Sans réponse', qr: 'Codes QR', up: 'Réponses utiles', down: 'Réponses pas utiles', ratings: 'Satisfaction (bof / correct / super)', top: 'Questions fréquentes', profiles: 'Profils', langs: 'Langues' },
     close: 'Fermer', reset: 'Remettre à zéro'
   },
   en: {
+    rate0: 'Meh', rate1: 'Okay', rate2: 'Great',
     homeTitle: 'How can I help you?', popular: 'Popular topics', allTopics: 'All topics', back: 'Back',
     history: 'History', historyEmpty: 'Your questions will appear here.', youAsked: 'Your question', relatedTitle: 'Related questions',
     infoservice: 'Contact InfoService', urgent: 'Emergency: 911', zoom: 'Enlarge the map', listenAgain: 'Listen again', touchStart: 'Touch to start',
-    attractTitle: 'Hi! I\'m Gee-Gee.', attractSub: 'Touch the screen to ask me a question.',
+    attractTitle: 'Hi!\nI\'m Gee\u2011Gee.', attractSub: 'Touch the screen to ask me a question.',
     tips: ['I answer in English and French.', 'Talk to me or type your question.', 'I show you building floor plans.', 'At the end, keep your answers with a QR code.'],
     welcome: 'Welcome!', chooseLang: 'Choose your language', chooseProfile: 'You are…',
     profiles: { student: 'Student', staff: 'Staff / professor', visitor: 'Visitor' }, go: 'Let\'s go!',
@@ -57,7 +59,7 @@ export const TEXT = {
     rate: 'How was your experience?', done: 'Done', closing: 'Back to the start in {s} s',
     privacy: 'No personal data is requested or stored. Everything is erased when the session ends.',
     qrHeader: 'HoloGuide uOttawa — your questions', admin: 'Kiosk indicators',
-    stats: { sessions: 'Sessions', questions: 'Questions', unanswered: 'Unanswered', qr: 'QR codes', up: 'Helpful answers', down: 'Unhelpful answers', ratings: 'Satisfaction (😞 😐 😀)', top: 'Top questions', profiles: 'Profiles', langs: 'Languages' },
+    stats: { sessions: 'Sessions', questions: 'Questions', unanswered: 'Unanswered', qr: 'QR codes', up: 'Helpful answers', down: 'Unhelpful answers', ratings: 'Satisfaction (bof / correct / super)', top: 'Top questions', profiles: 'Profiles', langs: 'Languages' },
     close: 'Close', reset: 'Reset'
   }
 };

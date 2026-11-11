@@ -25,11 +25,11 @@
 
 <!-- 1. Veille -->
 <section id="attract" class="screen active" tabindex="0" aria-label="Commencer · Start">
-  <div class="glow"></div>
-  <p class="eyebrow">HoloGuide · uOttawa × INNOVA</p>
+  <p class="kicker"><span>HoloGuide</span> uOttawa × INNOVA</p>
   <div class="stage hero" data-view="wide"></div>
   <div class="attract-text">
-    <h1 data-t="attractTitle"></h1>
+    <h1 class="display" data-t="attractTitle"></h1>
+    <div class="stripes" aria-hidden="true"></div>
     <p class="lead" data-t="attractSub"></p>
     <p class="lead en" id="attractEn"></p>
     <button class="cta pulse" type="button" data-t="touchStart"></button>
@@ -39,7 +39,6 @@
 
 <!-- 2. Accueil : langue et profil -->
 <section id="start" class="screen" aria-labelledby="welcomeTitle">
-  <div class="glow"></div>
   <div class="stage small" data-view="bust"></div>
   <div class="sheet center">
     <h1 id="welcomeTitle" data-t="welcome"></h1>
@@ -50,9 +49,9 @@
     </div>
     <p class="label" data-t="chooseProfile"></p>
     <div class="tiles three">
-      <button class="tile" data-profile="student"><span class="emoji">🎓</span><span data-profile-label></span></button>
-      <button class="tile" data-profile="staff"><span class="emoji">💼</span><span data-profile-label></span></button>
-      <button class="tile" data-profile="visitor"><span class="emoji">👋</span><span data-profile-label></span></button>
+      <button class="tile" data-profile="student"><span class="num">01</span><span data-profile-label></span></button>
+      <button class="tile" data-profile="staff"><span class="num">02</span><span data-profile-label></span></button>
+      <button class="tile" data-profile="visitor"><span class="num">03</span><span data-profile-label></span></button>
     </div>
     <button class="cta wide" id="go" data-t="go"></button>
     <p class="fine" data-t="privacy"></p>
@@ -62,7 +61,7 @@
 <!-- 3. Conversation : Gee-Gee en haut, une seule réponse à la fois en dessous -->
 <section id="chat" class="screen">
   <header class="topbar">
-    <button class="brand" id="brand">Holo<b>Guide</b></button>
+    <button class="brand" id="brand"><span class="gg">GG</span>HoloGuide</button>
     <div class="tools">
       <button id="langBtn" class="round txt"></button>
       <button id="textBtn" class="round txt" data-aria="textUp">Aa</button>
@@ -84,16 +83,15 @@
 
 <!-- 4. Fin : code QR et satisfaction -->
 <section id="end" class="screen">
-  <div class="glow"></div>
   <div class="sheet center">
     <h1 data-t="endTitle"></h1>
     <p class="lead" id="qrText"></p>
     <div id="qr" class="qr"></div>
     <p class="label" data-t="rate"></p>
     <div class="tiles three" id="rating">
-      <button class="tile face" data-rate="0" aria-label="😞"><span class="emoji">😞</span></button>
-      <button class="tile face" data-rate="1" aria-label="😐"><span class="emoji">😐</span></button>
-      <button class="tile face" data-rate="2" aria-label="😀"><span class="emoji">😀</span></button>
+      <button class="tile" data-rate="0"><span data-t="rate0"></span></button>
+      <button class="tile" data-rate="1"><span data-t="rate1"></span></button>
+      <button class="tile" data-rate="2"><span data-t="rate2"></span></button>
     </div>
     <button class="cta wide" id="doneBtn" data-t="done"></button>
     <p class="fine" id="closing"></p>

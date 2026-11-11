@@ -1,7 +1,7 @@
 // HoloGuide : déroulement de la borne (veille > accueil > conversation > fin).
 // Une seule réponse à l'écran à la fois : le texte s'illumine mot par mot pendant que Gee-Gee parle (il sert de sous-titre).
 // Les échanges précédents restent dans l'historique (transcription complète).
-import { TEXT, LINKS, TOPIC_ORDER, TOPIC_ICON } from './i18n.js';
+import { TEXT, LINKS, TOPIC_ORDER } from './i18n.js';
 import { findAnswer, byId, inCategory, CATEGORIES } from './search.js';
 import { speak, stopSpeaking, listen, canListen } from './speech.js';
 import { GeeGee } from './mascot.js';
@@ -124,10 +124,12 @@ function setView(...children) {
   v.replaceChildren(...children.flat().filter(Boolean));
   v.scrollTop = 0;
 }
+// Sujets : liste numérotée façon tableau d'affichage sportif (01, 02…).
 function topicTiles(ids) {
-  return h('div', { class: 'topics-grid' }, ids.map((id) => {
+  return h('ol', { class: 'topics' }, ids.map((id, i) => {
     const c = CATEGORIES.find((x) => x.id === id);
-    return h('button', { class: 'tile', onclick: () => showTopic(id) }, h('span', { class: 'emoji', text: TOPIC_ICON[id] || '•' }), h('span', { text: L(c) }));
+    return h('li', {}, h('button', { onclick: () => showTopic(id) },
+      h('span', { class: 'num', text: String(i + 1).padStart(2, '0') }), h('span', { class: 'name', text: L(c) }), h('span', { class: 'count', text: inCategory(id).length }), icon('next')));
   }));
 }
 function profileTopics() {
@@ -158,7 +160,7 @@ function showTopic(id) {
   const intro = fill(t('topicIntro'), { cat: L(c) });
   const p = spokenText(intro);
   setView(h('button', { class: 'back', onclick: showAllTopics }, icon('back'), t('allTopics')),
-    h('h2', { class: 'view-title', text: `${TOPIC_ICON[id] || ''} ${L(c)}` }), p, h('div', { style: 'height:14px' }), questionList(inCategory(id)));
+    h('h2', { class: 'view-title', text: L(c) }), p, h('div', { style: 'height:14px' }), questionList(inCategory(id)));
   say(intro, p);
 }
 function logExchange(q, a, url) {
@@ -187,11 +189,11 @@ function ask(text, id) {
     const fb = h('div', { class: 'actions' },
       h('button', { class: 'round', 'aria-label': t('listenAgain'), title: t('listenAgain'), onclick: () => say(answer, p) }, icon('replay')),
       h('span', { class: 'spacer' }), h('span', { text: t('helpful') }),
-      ...[['up', '👍', 'yes'], ['down', '👎', 'no']].map(([k, sym, lab]) => h('button', { class: 'round', 'aria-label': t(lab), onclick: (ev) => {
+      ...[['up', 'yes'], ['down', 'no']].map(([k, lab]) => h('button', { class: 'chipbtn', onclick: (ev) => {
         const box = ev.currentTarget.parentNode; if (box.dataset.done) return;
         box.dataset.done = '1'; bump((s) => { s[k]++; });
         box.replaceChildren(h('span', { class: 'spacer' }), h('span', { text: t('thanksFb') }));
-      } }, sym)));
+      } }, t(lab))));
     setView(asked(q), p,
       e.image && h('button', { class: 'plan', onclick: () => openPlan(e.image) }, h('img', { src: e.image.src, alt: L(e.image.alt) }), h('span', { text: t('zoom') })),
       sourceLinks(e.sources), h('p', { class: 'meta', text: `${e.status === 'pointer' ? `${t('pointer')} · ` : ''}${fill(t('time'), { ms })}${e.verifiedOn ? ` · ${t('verified')} ${e.verifiedOn}` : ''}` }),

@@ -143,7 +143,7 @@ export class GeeGee {
 
     // Particules lumineuses qui montent : effet de projection holographique
     const N = 140, positions = new Float32Array(N * 3), colors = new Float32Array(N * 3);
-    const cyan = new THREE.Color(0x7fe6ff), red = new THREE.Color(0xff5c78);
+    const cyan = new THREE.Color(0xffffff), red = new THREE.Color(0xd0103a); // blanc et grenat
     this.sparks = Array.from({ length: N }, (_, i) => {
       const c = Math.random() < 0.75 ? cyan : red; colors.set([c.r, c.g, c.b], i * 3);
       return { a: Math.random() * Math.PI * 2, r: 0.55 + Math.random() * 0.55, y: Math.random() * 2.4 - 0.2, v: 0.08 + Math.random() * 0.18, w: (Math.random() - 0.5) * 0.4 };

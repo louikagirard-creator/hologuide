@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="fr">
+<head><meta charset="utf-8"><title>Tests HoloGuide</title>
+<style>body{font:16px Arial;background:#fff;color:#111;padding:16px}.ok{color:#176b34}.ko{color:#b00020}</style></head>
+<body>
+<h1>Tests de la recherche de réponses</h1>
+<ul id="out"></ul>
+<p id="sum"></p>
+<!-- Charge l'application dans un iframe et vérifie que chaque question tombe sur la bonne réponse. -->
+<iframe id="app" src="index.html" style="width:400px;height:300px"></iframe>
+<script>
+const CASES = [
+  ['Où est le pavillon CRX ?', 'kb', 'crx'], ['where is the library', 'kb', 'bibliotheque'],
+  ['comment payer mes frais de scolarité', 'kb', 'paiement-frais'], ['je veux créer un club', 'kb', 'creer-club'],
+  ['wifi eduroam', 'kb', 'wifi'], ['stationnement', 'kb', 'stationnement'], ['how do I print', 'kb', 'impression'],
+  ['examen différé', 'kb', 'examen-differe'], ['où manger', 'kb', 'alimentation'], ['urgence', 'kb', 'urgence'],
+  ['je me sens en dépression', 'sensitive'], ['bonjour', 'hello'], ['quelle est la recette des crêpes', 'none']
+];
+document.getElementById('app').onload = () => {
+  const hg = document.getElementById('app').contentWindow.HoloGuide;
+  let pass = 0;
+  for (const [q, type, id] of CASES) {
+    const r = hg.findAnswer(q);
+    const ok = r.type === type && (!id || r.entry.id === id);
+    pass += ok;
+    document.getElementById('out').insertAdjacentHTML('beforeend',
+      `<li class="${ok ? 'ok' : 'ko'}">${ok ? '✔' : '✘'} « ${q} » → ${r.type}${r.entry ? ' ' + r.entry.id : ''}</li>`);
+  }
+  document.getElementById('sum').textContent = `${pass} / ${CASES.length} réussis`;
+  document.title = `${pass}/${CASES.length}`;
+};
+</script>
+</body>
+</html>

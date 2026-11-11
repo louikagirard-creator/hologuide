@@ -4,132 +4,110 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>HoloGuide uOttawa</title>
-<link rel="icon" href="assets/portrait-geegee.jpg">
-<link rel="stylesheet" href="styles.css">
+<meta name="description" content="HoloGuide : borne holographique d'information de l'Université d'Ottawa, avec Gee-Gee.">
+<link rel="stylesheet" href="css/style.css">
 </head>
+<!-- Fond noir : la boîte holographique rend le noir transparent, seul Gee-Gee « flotte ». -->
 <body>
-<!-- Fond noir : la boîte holographique rend le noir transparent, seul l'avatar « flotte ». -->
 
-<!-- 1. Écran de veille -->
-<section id="screensaver" class="screen active" aria-label="Écran de veille" tabindex="0">
-  <div class="ss-inner">
-    <p class="ss-brand">HoloGuide · uOttawa × INNOVA</p>
-    <div class="avatar-slot" data-slot="ss"></div>
-    <h1 class="ss-title" data-i18n="ssTitle">Bonjour ! Touche l'écran pour me poser une question.</h1>
-    <p class="ss-sub" data-i18n="ssSub">Hello! Touch the screen to ask me a question.</p>
-    <p class="ss-tip" id="ssTip" aria-live="polite"></p>
-  </div>
+<!-- 1. Veille : Gee-Gee salue pour attirer les passants -->
+<section id="attract" class="screen active" tabindex="0" aria-label="Commencer · Start">
+  <p class="brand-line">HoloGuide · uOttawa × INNOVA</p>
+  <div class="stage tall" data-view="wide"></div>
+  <h1 data-t="attractTitle"></h1>
+  <p class="sub" data-t="attractSub"></p>
+  <p class="sub en" id="attractEn"></p>
+  <p class="tip" id="tip" aria-live="polite"></p>
 </section>
 
-<!-- 2. Accueil : langue, profil, avatar -->
-<section id="welcome" class="screen" aria-labelledby="wTitle">
-  <div class="panel">
-    <h2 id="wTitle" data-i18n="wTitle">Bienvenue !</h2>
-    <fieldset>
-      <legend data-i18n="chooseLang">Choisis ta langue</legend>
-      <div class="choice-row">
-        <button class="choice" data-lang="fr">Français</button>
-        <button class="choice" data-lang="en">English</button>
-      </div>
-    </fieldset>
-    <fieldset>
-      <legend data-i18n="chooseProfile">Tu es…</legend>
-      <div class="choice-row">
-        <button class="choice" data-profile="etudiant" data-i18n="pStudent">Étudiant·e</button>
-        <button class="choice" data-profile="employe" data-i18n="pStaff">Employé·e / prof</button>
-        <button class="choice" data-profile="visiteur" data-i18n="pVisitor">Visiteur·euse</button>
-      </div>
-    </fieldset>
-    <fieldset>
-      <legend data-i18n="chooseAvatar">Choisis ton guide</legend>
-      <div class="choice-row" id="avatarChoices"></div>
-    </fieldset>
-    <button id="startBtn" class="primary" data-i18n="start">Commencer</button>
-    <p class="privacy" data-i18n="privacy">Aucune donnée personnelle n'est demandée ni conservée.</p>
+<!-- 2. Accueil : langue et profil (sans aucune donnée personnelle) -->
+<section id="start" class="screen" aria-labelledby="welcomeTitle">
+  <div class="stage" data-view="bust"></div>
+  <div class="card">
+    <h1 id="welcomeTitle" data-t="welcome"></h1>
+    <h2 data-t="chooseLang"></h2>
+    <div class="row">
+      <button class="pill" data-lang="fr">Français</button>
+      <button class="pill" data-lang="en">English</button>
+    </div>
+    <h2 data-t="chooseProfile"></h2>
+    <div class="row">
+      <button class="pill" data-profile="student"></button>
+      <button class="pill" data-profile="staff"></button>
+      <button class="pill" data-profile="visitor"></button>
+    </div>
+    <button class="go" id="go" data-t="go"></button>
+    <p class="privacy" data-t="privacy"></p>
   </div>
 </section>
 
 <!-- 3. Conversation -->
-<section id="chat" class="screen" aria-label="Conversation">
-  <header class="topbar">
-    <span class="brand">HoloGuide</span>
+<section id="chat" class="screen">
+  <header class="bar">
+    <button class="brand" id="brand" aria-label="HoloGuide">HoloGuide</button>
     <div class="tools">
-      <button id="langToggle" class="tool" aria-label="Changer de langue">EN</button>
-      <button id="textDown" class="tool" aria-label="Réduire le texte">A−</button>
-      <button id="textUp" class="tool" aria-label="Agrandir le texte">A+</button>
-      <button id="contrastBtn" class="tool" aria-pressed="false" data-i18n-aria="contrast" aria-label="Contraste élevé">◐</button>
-      <button id="voiceBtn" class="tool" aria-pressed="true" data-i18n-aria="voice" aria-label="Voix">🔊</button>
-      <button id="endBtn" class="tool end" data-i18n="end">Terminer</button>
+      <button id="langBtn" class="tool"></button>
+      <button id="textDown" class="tool" data-aria="textDown">A−</button>
+      <button id="textUp" class="tool" data-aria="textUp">A+</button>
+      <button id="contrastBtn" class="tool" data-aria="contrast" aria-pressed="false">◐</button>
+      <button id="voiceBtn" class="tool" data-aria="voice" aria-pressed="true">🔊</button>
+      <button id="endBtn" class="tool danger" data-t="end"></button>
     </div>
   </header>
-
-  <div class="stage">
-    <div class="avatar-slot big" data-slot="chat"></div>
-    <p id="subtitle" class="subtitle" aria-live="polite"></p>
-  </div>
-
-  <div class="conv">
-    <ol id="transcript" class="transcript" aria-live="polite" data-i18n-aria="transcript" aria-label="Transcription"></ol>
-    <div id="menu" class="menu" aria-label="Sujets"></div>
-    <form id="askForm" class="ask" autocomplete="off">
-      <label for="askInput" class="sr-only" data-i18n="askLabel">Ta question</label>
-      <input id="askInput" type="text" data-i18n-ph="askPh" placeholder="Écris ta question…">
-      <button type="button" id="micBtn" class="mic" aria-pressed="false" data-i18n-aria="mic" aria-label="Parler">🎙</button>
-      <button type="submit" class="primary send" data-i18n="send">Envoyer</button>
-    </form>
-  </div>
+  <div class="stage" data-view="bust"></div>
+  <p id="subtitle" class="subtitle" aria-live="polite"></p>
+  <ol id="log" class="log" aria-live="polite" aria-label="Conversation"></ol>
+  <nav id="topics" class="topics" data-aria="topics"></nav>
+  <form id="askForm" class="ask">
+    <label class="sr" for="askInput" data-t="ask"></label>
+    <input id="askInput" autocomplete="off" data-ph="askPh">
+    <button type="button" id="micBtn" class="mic" data-aria="mic">🎙</button>
+    <button type="submit" class="send" data-t="send"></button>
+  </form>
 </section>
 
-<!-- 4. Fin de session : code QR + rétroaction -->
-<section id="summary" class="screen" aria-labelledby="sTitle">
-  <div class="panel">
-    <h2 id="sTitle" data-i18n="sTitle">Merci de ta visite !</h2>
-    <p data-i18n="sQr">Scanne ce code QR pour garder un résumé de notre conversation et les liens officiels.</p>
-    <div id="qr" class="qr" role="img" data-i18n-aria="qrAlt" aria-label="Code QR du résumé"></div>
-    <p id="qrEmpty" class="muted" hidden data-i18n="qrEmpty">Aucune question posée : pas de résumé à exporter.</p>
-    <p data-i18n="rate">Comment s'est passée ta visite ?</p>
-    <div class="choice-row" id="rating">
-      <button class="choice" data-rate="1">😕</button>
-      <button class="choice" data-rate="2">🙂</button>
-      <button class="choice" data-rate="3">😄</button>
+<!-- 4. Fin : code QR (trace de la conversation) et satisfaction -->
+<section id="end" class="screen">
+  <div class="card">
+    <h1 data-t="endTitle"></h1>
+    <p id="qrText"></p>
+    <div id="qr" class="qr"></div>
+    <h2 data-t="rate"></h2>
+    <div class="row" id="rating">
+      <button class="pill face" data-rate="0" aria-label="😞">😞</button>
+      <button class="pill face" data-rate="1" aria-label="😐">😐</button>
+      <button class="pill face" data-rate="2" aria-label="😀">😀</button>
     </div>
-    <button id="doneBtn" class="primary" data-i18n="done">Terminer</button>
-    <p class="muted" id="autoClose"></p>
+    <button class="go" id="doneBtn" data-t="done"></button>
+    <p class="privacy" id="closing"></p>
   </div>
 </section>
 
-<!-- Fenêtre d'inactivité -->
-<div id="idleModal" class="modal" role="alertdialog" aria-modal="true" aria-labelledby="idleTitle" hidden>
-  <div class="panel small">
-    <h2 id="idleTitle" data-i18n="idleTitle">Es-tu toujours là ?</h2>
-    <p><span data-i18n="idleText">La session se termine dans</span> <strong id="idleCount">15</strong> s.</p>
-    <button id="stayBtn" class="primary" data-i18n="stay">Je suis là</button>
+<!-- Inactivité -->
+<div id="idle" class="modal" hidden role="alertdialog" aria-labelledby="idleTitle">
+  <div class="card small">
+    <h2 id="idleTitle" data-t="idleTitle"></h2>
+    <p id="idleText"></p>
+    <button class="go" id="stayBtn" data-t="stay"></button>
   </div>
 </div>
 
-<!-- Tableau de bord (indicateurs de succès du client) : 5 touches rapides sur le logo, ou Maj+A -->
-<div id="adminModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="adminTitle" hidden>
-  <div class="panel">
-    <h2 id="adminTitle">Statistiques de la borne</h2>
+<!-- Tableau de bord (5 touches sur « HoloGuide » ou Maj+A) -->
+<div id="admin" class="modal" hidden role="dialog" aria-labelledby="adminTitle">
+  <div class="card">
+    <h2 id="adminTitle" data-t="admin"></h2>
     <dl id="stats" class="stats"></dl>
-    <div class="choice-row">
-      <button id="resetStats" class="choice">Réinitialiser</button>
-      <button id="closeAdmin" class="primary">Fermer</button>
+    <div class="row">
+      <button class="pill" id="resetStats" data-t="reset"></button>
+      <button class="go" id="closeAdmin" data-t="close"></button>
     </div>
   </div>
 </div>
 
 <script src="vendor/qrcode.js"></script>
-<script src="kb.js"></script>
-<script src="app.js"></script>
-<!-- Avatar 3D réaliste : three.js et TalkingHead servis en local (aucune dépendance réseau sur la borne). -->
 <script type="importmap">
-{ "imports": {
-  "three": "./vendor/three/three.module.js",
-  "three/addons/": "./vendor/three/addons/",
-  "talkinghead": "./vendor/talkinghead/talkinghead.mjs"
-} }
+{ "imports": { "three": "./vendor/three/three.module.js", "three/addons/": "./vendor/three/addons/" } }
 </script>
-<script type="module" src="avatar3d.js"></script>
+<script type="module" src="js/app.js"></script>
 </body>
 </html>

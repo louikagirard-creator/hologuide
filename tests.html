@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><title>Tests HoloGuide</title>
+<style>body{font-family:system-ui;background:#111;color:#eee;padding:20px}.ok{color:#5f5}.ko{color:#f66}</style></head>
+<body><h1>Tests de la recherche de réponses</h1><ul id="out"></ul><p id="sum"></p>
+<script type="module">
+import { findAnswer } from './js/search.js';
+import { CASES } from './tests/cases.js';
+let ok = 0;
+for (const [q, want] of CASES) {
+  const r = findAnswer(q), got = r.type === 'answer' ? r.entry.id : r.type, pass = got === want; if (pass) ok++;
+  document.getElementById('out').insertAdjacentHTML('beforeend', `<li class="${pass ? 'ok' : 'ko'}">${pass ? '✔' : '✘'} « ${q} » → ${got}${pass ? '' : ` (attendu ${want})`}</li>`);
+}
+document.getElementById('sum').textContent = `${ok} / ${CASES.length} réussis`;
+document.title = `${ok}/${CASES.length}`;
+</script></body></html>

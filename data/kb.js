@@ -1,5 +1,7 @@
-/* Base de réponses HoloGuide — extraite du prototype (sources officielles uOttawa). */
-window.HG_CATEGORIES = [
+// Base de connaissances HoloGuide : uniquement des informations officielles de l'Université d'Ottawa.
+// Chaque réponse : question et réponse FR/EN, mots-clés, sources (lien + date de vérification).
+// status « official » = réponse complète ; « pointer » = renvoi vers la page officielle.
+export const CATEGORIES = [
  {
   "id": "admissions",
   "fr": "Admission et inscription",
@@ -365,7 +367,8 @@ window.HG_CATEGORIES = [
   ]
  }
 ];
-window.HG_KB = [
+
+export const KB = [
  {
   "id": "crx",
   "category": "batiments",
@@ -403,7 +406,7 @@ window.HG_KB = [
    }
   ],
   "image": {
-   "src": "assets/crx-plan.jpg",
+   "src": "assets/plans/crx-plan.jpg",
    "alt": {
     "fr": "Plan du niveau 0 du pavillon Learning Crossroads (CRX)",
     "en": "Level 0 floor plan of the Learning Crossroads (CRX) building"
@@ -452,7 +455,7 @@ window.HG_KB = [
    }
   ],
   "image": {
-   "src": "assets/site-plan.jpg",
+   "src": "assets/plans/site-plan.jpg",
    "alt": {
     "fr": "Plan du niveau 0 du pavillon SITE (STE)",
     "en": "Level 0 floor plan of the SITE building (STE)"
@@ -493,7 +496,7 @@ window.HG_KB = [
    }
   ],
   "image": {
-   "src": "assets/cby-plan.jpg",
+   "src": "assets/plans/cby-plan.jpg",
    "alt": {
     "fr": "Plan du niveau 0 du pavillon Colonel By (CBY)",
     "en": "Level 0 floor plan of Colonel By Hall (CBY)"
@@ -536,7 +539,7 @@ window.HG_KB = [
    }
   ],
   "image": {
-   "src": "assets/fss-plan.jpg",
+   "src": "assets/plans/fss-plan.jpg",
    "alt": {
     "fr": "Plan du niveau 0 du pavillon des sciences sociales (FSS)",
     "en": "Level 0 floor plan of the Social Sciences Building (FSS)"
@@ -589,7 +592,7 @@ window.HG_KB = [
    }
   ],
   "image": {
-   "src": "assets/ucu-plan.jpg",
+   "src": "assets/plans/ucu-plan.jpg",
    "alt": {
     "fr": "Plan du niveau 0 du Centre universitaire (UCU)",
     "en": "Level 0 floor plan of the University Centre (UCU)"

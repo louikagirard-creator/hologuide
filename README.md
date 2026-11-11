@@ -1,48 +1,49 @@
-# HoloGuide — borne holographique uOttawa × INNOVA
+# HoloGuide v2 — borne holographique uOttawa × INNOVA
 
-Projet GNG1503, équipe AVENGERS (AF23). Site statique (HTML, CSS, JS) sans serveur ni compte, pensé pour la boîte holographique Holopro (Windows 11, écran tactile, micro, haut-parleurs). Le fond est noir parce que la boîte rend le noir transparent : seul l'avatar « flotte ».
-
-## En ligne
-- Site : https://louikagirard-creator.github.io/hologuide/ (GitHub Pages, branche `main`).
-- Mettre à jour : `git add -A && git commit -m "..." && git push` dans ce dossier ; le site se met à jour en 1 à 2 minutes.
+Projet GNG1503, équipe AVENGERS (AF23). Version refaite de zéro. Site statique (HTML, CSS, JavaScript), sans serveur, sans compte et sans dépendance réseau, pensé pour la boîte holographique (Windows 11, écran tactile vertical, micro, haut-parleurs). Le fond est noir parce que la boîte rend le noir transparent : seul Gee-Gee « flotte ».
 
 ## Lancer
-- Sur un ordinateur : `python3 -m http.server 5178` dans ce dossier, puis ouvrir http://localhost:5178.
-- Sur la borne : Chrome ou Edge en mode kiosque, par exemple `msedge --kiosk http://localhost:5178 --edge-kiosk-type=fullscreen`.
-- La voix et le micro utilisent l'API Web Speech du navigateur. **Utiliser Edge sur la borne** : ses voix « Natural » (ex. Sylvie, Antoine en fr-CA) sont les plus humaines et envoient le minutage de chaque mot, ce qui donne la meilleure synchronisation des lèvres. Le site les choisit automatiquement.
-- Le site doit être servi par un serveur (pas en double-cliquant sur `index.html`), sinon le navigateur bloque le chargement des modèles 3D.
+- Sur un ordinateur : `python3 -m http.server 5179` dans ce dossier, puis ouvrir http://localhost:5179.
+- Sur la borne : Edge en mode kiosque, par exemple `msedge --kiosk http://localhost:5179 --edge-kiosk-type=fullscreen`. Edge a les voix « Natural » les plus humaines et donne le minutage de chaque mot, ce qui synchronise le mieux la bouche de Gee-Gee.
+- Le site doit être servi par un serveur (pas en double-cliquant `index.html`), sinon le navigateur bloque les modules JavaScript.
+- Tests de la recherche : ouvrir `tests.html`, ou `node tests/search.test.mjs`.
+
+## Parcours
+1. **Veille** : Gee-Gee salue et des conseils défilent en français et en anglais. On touche l'écran pour commencer.
+2. **Accueil** : choix de la langue et du profil (étudiant·e, employé·e / prof, visiteur·euse). Aucune donnée personnelle.
+3. **Conversation** : question écrite, à la voix ou en touchant un sujet. Gee-Gee répond à voix haute avec sous-titres, plan du pavillon si utile, source officielle et date de vérification.
+4. **Fin** : code QR avec les questions posées et les liens officiels, puis note de satisfaction. Retour à la veille après 30 s.
 
 ## Exigences du client couvertes
-| Demande (rencontres client) | Dans le site |
+| Demande | Dans le site |
 |---|---|
-| Bilinguisme (priorité 1) | Tout le site et toutes les réponses en FR et EN, bouton de changement de langue |
+| Bilinguisme (priorité 1) | Toute l'interface et toutes les réponses en FR et EN, bouton de langue |
 | Vitesse de réponse (priorité 1) | Recherche locale instantanée, temps affiché sous chaque réponse |
-| Parler avec l'avatar, avatar humain réaliste qui bouge | Humain 3D réaliste (three.js + TalkingHead) : lèvres synchronisées mot par mot sur la voix, clignements, regard vers la personne, gestes des mains, salut, haussement d'épaules si pas de réponse |
-| Choix de l'avatar | 3 guides 3D au choix : la mascotte Gee-Gee (par défaut), Maya et Alex, chacun avec sa voix |
-| Mascotte des Gee-Gees | Cheval 3D animé aux couleurs uOttawa (grenat et gris) : bouche synchronisée sur la voix, clignements, oreilles qui bougent, regard, salut du sabot, haussement d'épaules, sabot levé, petit saut de joie, sourcils expressifs, joues roses ; tourne la tête vers l'endroit touché ; petites animations spontanées au repos (tête penchée, regard autour, saut) ; particules lumineuses façon hologramme |
-| Code QR (trace de ce que l'avatar a dit) | À la fin : QR avec les questions et les liens officiels |
-| Seulement de l'info officielle | 85 réponses tirées des pages uOttawa, source et date de vérification affichées |
-| Si pas de réponse : s'excuser et guider | Message d'excuse et renvoi vers InfoService |
+| Parler avec un avatar animé | Gee-Gee, mascotte 3D : bouche synchronisée mot par mot, clignements, regard, oreilles, gestes |
+| Seulement de l'information officielle | 85 réponses tirées des pages uOttawa, source et date de vérification affichées |
+| Si pas de réponse : s'excuser et guider | Excuse, renvoi vers InfoService et suggestions proches |
 | Santé mentale exclue | Redirection vers le Centre de santé et de bien-être, et le 911 en cas d'urgence |
-| Accessibilité : sous-titres, transcription, voix | Sous-titres, transcription complète, taille du texte, contraste élevé, voix activable |
-| Écran tactile (si trop bruyant) et menu | Sujets et questions fréquentes en boutons tactiles |
-| Profil (étudiant, employé, public) | Choix au départ ; adapte l'accueil et l'ordre des sujets |
-| Écran de veille si inactif, pop-up d'inactivité | Pop-up après 45 s, puis fin de session et écran de veille |
-| Session de 3 minutes environ | Rappel doux après 3 minutes |
-| Aucune donnée personnelle | Rien n'est demandé ; la conversation est effacée à la fin |
-| Indicateurs de succès (achalandage, questions, QR) | Tableau de bord : 5 touches sur « HoloGuide » ou Maj+A |
+| Accessibilité | Sous-titres, conversation écrite complète, taille du texte, contraste élevé, voix activable, navigation au clavier |
+| Écran tactile si trop bruyant | Sujets et questions en boutons tactiles |
+| Profil | Adapte l'accueil et l'ordre des sujets |
+| Inactivité | Fenêtre « Es-tu encore là ? » après 45 s, puis fin de session et retour à la veille |
+| Session d'environ 3 minutes | Rappel doux après 3 minutes |
+| Code QR | Trace des questions et des liens officiels, sans rien de personnel |
+| Aucune donnée personnelle | Rien n'est demandé ; tout est effacé à la fin de la session |
+| Indicateurs de succès | Tableau de bord : 5 touches sur « HoloGuide » ou Maj+A (sessions, questions, sans réponse, QR, avis, satisfaction, questions fréquentes) |
+
+## Gee-Gee
+Cheval de dessin animé aux couleurs uOttawa (grenat et gris), maillot « GG », construit entièrement en code avec three.js (`js/mascot.js`), donc rien à télécharger. Il parle syllabe par syllabe selon les voyelles, cligne des yeux, bouge les oreilles et les sourcils, tourne la tête vers l'endroit touché, salue, hausse les épaules quand il n'a pas de réponse, lève le sabot quand on le remercie, saute de joie quand il répond et s'anime tout seul au repos. Des particules lumineuses donnent un effet de projection.
+Design original inspiré des Gee-Gees : pour utiliser le logo ou la mascotte officielle, il faut l'accord de l'Université.
 
 ## Fichiers
-- `index.html`, `styles.css`, `app.js` : l'application.
-- `avatar3d.js` : l'avatar 3D (chargement du modèle, lèvres, gestes). Sans WebGL, le site garde un avatar dessiné en secours.
-- `mascot.js` : la mascotte Gee-Gee, entièrement construite en code avec three.js (aucun modèle à télécharger). Design original inspiré des Gee-Gees ; pour utiliser le logo ou la mascotte officielle, demander l'accord de l'Université (Service des sports / image de marque). `assets/portrait-geegee.jpg` : sa vignette.
-- `avatars/` : modèles 3D (`maya.glb` créé avec Avaturn, `alex.glb` avec AvatarSDK ; exemples du projet TalkingHead, usage non commercial). `assets/portrait-*.jpg` : vignettes de choix.
-- `vendor/three/` (three.js 0.186, MIT) et `vendor/talkinghead/` (TalkingHead 1.8.2, MIT) : servis en local, la borne n'a pas besoin d'Internet pour l'avatar.
-- `kb.js` : la base de réponses (catégories et réponses FR/EN avec sources). À enrichir pour ajouter des sujets.
-- `assets/` : plans officiels des pavillons. `vendor/qrcode.js` : générateur de QR (licence MIT).
-- `test.html` : vérifie que les questions types trouvent la bonne réponse.
-
-## Prochaines étapes (après le prototype, selon le client)
-- Avatar à l'image d'une vraie personne : créer un modèle à partir d'une photo (Avaturn), l'exporter en GLB avec les formes ARKit + Oculus visemes, puis le déposer dans `avatars/` et l'ajouter dans `avatar3d.js`.
-- Voix de synthèse premium (Azure, ElevenLabs) pour une voix encore plus naturelle : TalkingHead accepte l'audio et le minutage des mots.
-- Base de données alimentée par les services et facultés.
+- `index.html`, `css/style.css` : la page et son style.
+- `js/app.js` : le déroulement de la borne (écrans, conversation, QR, inactivité, indicateurs).
+- `js/search.js` : la recherche de réponses (mots-clés, tolérance aux fautes, santé mentale, salutations).
+- `js/speech.js` : la voix et le micro (API Web Speech du navigateur).
+- `js/mascot.js` : Gee-Gee en 3D.
+- `js/i18n.js` : tous les textes en FR et EN, liens de secours, ordre des sujets par profil.
+- `data/kb.js` : la base de réponses officielles (à enrichir pour ajouter des sujets).
+- `assets/plans/` : plans officiels des pavillons.
+- `vendor/three/` (three.js, licence MIT) et `vendor/qrcode.js` (licence MIT) : servis en local.
+- `tests.html`, `tests/` : questions types et réponse attendue.

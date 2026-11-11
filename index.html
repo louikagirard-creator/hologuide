@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HoloGuide uOttawa</title>
+<meta name="description" content="HoloGuide : borne holographique d'information de l'Université d'Ottawa, avec Gee-Gee.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<!-- Fond noir : la boîte holographique rend le noir transparent, seul Gee-Gee « flotte ». -->
+<body>
+
+<!-- 1. Veille : Gee-Gee salue pour attirer les passants -->
+<section id="attract" class="screen active" tabindex="0" aria-label="Commencer · Start">
+  <p class="brand-line">HoloGuide · uOttawa × INNOVA</p>
+  <div class="stage tall" data-view="wide"></div>
+  <h1 data-t="attractTitle"></h1>
+  <p class="sub" data-t="attractSub"></p>
+  <p class="sub en" id="attractEn"></p>
+  <p class="tip" id="tip" aria-live="polite"></p>
+</section>
+
+<!-- 2. Accueil : langue et profil (sans aucune donnée personnelle) -->
+<section id="start" class="screen" aria-labelledby="welcomeTitle">
+  <div class="stage" data-view="bust"></div>
+  <div class="card">
+    <h1 id="welcomeTitle" data-t="welcome"></h1>
+    <h2 data-t="chooseLang"></h2>
+    <div class="row">
+      <button class="pill" data-lang="fr">Français</button>
+      <button class="pill" data-lang="en">English</button>
+    </div>
+    <h2 data-t="chooseProfile"></h2>
+    <div class="row">
+      <button class="pill" data-profile="student"></button>
+      <button class="pill" data-profile="staff"></button>
+      <button class="pill" data-profile="visitor"></button>
+    </div>
+    <button class="go" id="go" data-t="go"></button>
+    <p class="privacy" data-t="privacy"></p>
+  </div>
+</section>
+
+<!-- 3. Conversation -->
+<section id="chat" class="screen">
+  <header class="bar">
+    <button class="brand" id="brand" aria-label="HoloGuide">HoloGuide</button>
+    <div class="tools">
+      <button id="langBtn" class="tool"></button>
+      <button id="textDown" class="tool" data-aria="textDown">A−</button>
+      <button id="textUp" class="tool" data-aria="textUp">A+</button>
+      <button id="contrastBtn" class="tool" data-aria="contrast" aria-pressed="false">◐</button>
+      <button id="voiceBtn" class="tool" data-aria="voice" aria-pressed="true">🔊</button>
+      <button id="endBtn" class="tool danger" data-t="end"></button>
+    </div>
+  </header>
+  <div class="stage" data-view="bust"></div>
+  <p id="subtitle" class="subtitle" aria-live="polite"></p>
+  <ol id="log" class="log" aria-live="polite" aria-label="Conversation"></ol>
+  <nav id="topics" class="topics" data-aria="topics"></nav>
+  <form id="askForm" class="ask">
+    <label class="sr" for="askInput" data-t="ask"></label>
+    <input id="askInput" autocomplete="off" data-ph="askPh">
+    <button type="button" id="micBtn" class="mic" data-aria="mic">🎙</button>
+    <button type="submit" class="send" data-t="send"></button>
+  </form>
+</section>
+
+<!-- 4. Fin : code QR (trace de la conversation) et satisfaction -->
+<section id="end" class="screen">
+  <div class="card">
+    <h1 data-t="endTitle"></h1>
+    <p id="qrText"></p>
+    <div id="qr" class="qr"></div>
+    <h2 data-t="rate"></h2>
+    <div class="row" id="rating">
+      <button class="pill face" data-rate="0" aria-label="😞">😞</button>
+      <button class="pill face" data-rate="1" aria-label="😐">😐</button>
+      <button class="pill face" data-rate="2" aria-label="😀">😀</button>
+    </div>
+    <button class="go" id="doneBtn" data-t="done"></button>
+    <p class="privacy" id="closing"></p>
+  </div>
+</section>
+
+<!-- Inactivité -->
+<div id="idle" class="modal" hidden role="alertdialog" aria-labelledby="idleTitle">
+  <div class="card small">
+    <h2 id="idleTitle" data-t="idleTitle"></h2>
+    <p id="idleText"></p>
+    <button class="go" id="stayBtn" data-t="stay"></button>
+  </div>
+</div>
+
+<!-- Tableau de bord (5 touches sur « HoloGuide » ou Maj+A) -->
+<div id="admin" class="modal" hidden role="dialog" aria-labelledby="adminTitle">
+  <div class="card">
+    <h2 id="adminTitle" data-t="admin"></h2>
+    <dl id="stats" class="stats"></dl>
+    <div class="row">
+      <button class="pill" id="resetStats" data-t="reset"></button>
+      <button class="go" id="closeAdmin" data-t="close"></button>
+    </div>
+  </div>
+</div>
+
+<script src="vendor/qrcode.js"></script>
+<script type="importmap">
+{ "imports": { "three": "./vendor/three/three.module.js", "three/addons/": "./vendor/three/addons/" } }
+</script>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

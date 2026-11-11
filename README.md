@@ -2,6 +2,10 @@
 
 Projet GNG1503, équipe AVENGERS (AF23). Site statique (HTML, CSS, JS) sans serveur ni compte, pensé pour la boîte holographique Holopro (Windows 11, écran tactile, micro, haut-parleurs). Le fond est noir parce que la boîte rend le noir transparent : seul l'avatar « flotte ».
 
+## En ligne
+- Site : https://louikagirard-creator.github.io/hologuide/ (GitHub Pages, branche `main`).
+- Mettre à jour : `git add -A && git commit -m "..." && git push` dans ce dossier ; le site se met à jour en 1 à 2 minutes.
+
 ## Lancer
 - Sur un ordinateur : `python3 -m http.server 5178` dans ce dossier, puis ouvrir http://localhost:5178.
 - Sur la borne : Chrome ou Edge en mode kiosque, par exemple `msedge --kiosk http://localhost:5178 --edge-kiosk-type=fullscreen`.

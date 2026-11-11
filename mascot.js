@@ -66,6 +66,8 @@ export class Mascot {
     this.clock = new THREE.Clock();
     this.running = false;
     new ResizeObserver(() => this.resize()).observe(this.el);
+    // Quand on touche l'écran, Gee-Gee tourne la tête et les yeux vers le doigt
+    window.addEventListener('pointerdown', (e) => this.lookToward(e.clientX, e.clientY), { passive: true });
   }
 
   build() {
@@ -99,6 +101,10 @@ export class Mascot {
     for (const s of [1, -1]) {
       const n = blob(0.04, 0x4a2c2e, 0.8, 1, 0.6, 16); n.position.set(0.09 * s, -0.15, 0.56); n.rotation.set(-0.3, 0.45 * s, 0); head.add(n);
     }
+    for (const s of [1, -1]) {
+      const blush = blob(0.055, mat(0xff8fa8, 0.8, { transparent: true, opacity: 0.45 }), 1, 0.6, 0.3, 20);
+      blush.position.set(0.2 * s, -0.12, 0.17); blush.rotation.y = 0.7 * s; head.add(blush);
+    }
     // Bouche : mâchoire mobile + intérieur sombre visible quand elle s'ouvre
     const mouthIn = blob(0.15, mat(0x3a0a12, 0.9), 1.15, 0.45, 0.9); mouthIn.position.set(0, -0.3, 0.38); head.add(mouthIn);
     const tongue = blob(0.08, mat(0xd8607a, 0.5), 1.2, 0.35, 1); tongue.position.set(0, -0.33, 0.42); head.add(tongue);
@@ -109,7 +115,7 @@ export class Mascot {
     this.smile = smile;
 
     // Yeux : blanc, iris, pupille, reflet ; paupières qui basculent pour cligner
-    this.lids = []; this.pupils = [];
+    this.lids = []; this.pupils = []; this.brows = [];
     for (const s of [1, -1]) {
       const eye = new THREE.Group(); eye.position.set(0.165 * s, 0.09, 0.2); eye.rotation.set(-0.2, 0.5 * s, 0); head.add(eye);
       eye.add(blob(0.085, mat(0xffffff, 0.25), 1, 1.12, 0.75));
@@ -121,7 +127,7 @@ export class Mascot {
       const lidMesh = new THREE.Mesh(new THREE.SphereGeometry(0.092, 32, 16, 0, Math.PI * 2, 0, Math.PI / 2), mat(COAT));
       lidMesh.scale.set(1, 1.12, 0.8); lid.add(lidMesh); this.lids.push(lid);
       const brow = new THREE.Mesh(new THREE.CapsuleGeometry(0.009, 0.06, 4, 8), mat(0x5a0a14, 0.7));
-      brow.rotation.z = Math.PI / 2 + 0.25 * s; brow.position.set(0.0, 0.13, 0.04); eye.add(brow);
+      brow.rotation.z = Math.PI / 2 + 0.25 * s; brow.position.set(0.0, 0.13, 0.04); eye.add(brow); this.brows.push({ m: brow, s });
     }
 
     // Oreilles (pivot à la base pour qu'elles bougent)
@@ -149,10 +155,26 @@ export class Mascot {
       this.mane.add(tuft);
     }
 
+    // Particules lumineuses qui montent autour de la mascotte : effet hologramme dans la boîte
+    const N = 140, pos = new Float32Array(N * 3), col = new Float32Array(N * 3);
+    this.sparks = [];
+    const cyan = new THREE.Color(0x7fe6ff), red = new THREE.Color(0xff5c78);
+    for (let i = 0; i < N; i++) {
+      const a = Math.random() * Math.PI * 2, rad = 0.55 + Math.random() * 0.55;
+      this.sparks.push({ a, rad, y: Math.random() * 2.4 - 0.2, v: 0.08 + Math.random() * 0.18, w: (Math.random() - 0.5) * 0.4 });
+      const c = Math.random() < 0.75 ? cyan : red; col.set([c.r, c.g, c.b], i * 3);
+    }
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+    geo.setAttribute('color', new THREE.BufferAttribute(col, 3));
+    this.sparkGeo = geo;
+    this.scene.add(new THREE.Points(geo, new THREE.PointsMaterial({ size: 0.03, vertexColors: true, transparent: true, opacity: 0.75, blending: THREE.AdditiveBlending, depthWrite: false })));
+
     // Bras : épaule (pivot) > manche grenat > coude (pivot) > avant-bras > sabot
     this.arms = [];
     for (const s of [1, -1]) { // s = 1 : côté droit de l'écran
       const shoulder = new THREE.Group(); shoulder.position.set(0.44 * s, 0.86, 0); root.add(shoulder);
+      const cap = blob(0.13, mat(GARNET, 0.8), 1, 0.9, 0.9); cap.position.y = -0.02; shoulder.add(cap);
       const sleeve = new THREE.Mesh(new THREE.CapsuleGeometry(0.095, 0.26, 6, 20), mat(GARNET, 0.8)); sleeve.position.y = -0.17; shoulder.add(sleeve);
       const cuff = new THREE.Mesh(new THREE.TorusGeometry(0.1, 0.02, 8, 24), mat(GREY, 0.6)); cuff.rotation.x = Math.PI / 2; cuff.position.y = -0.34; shoulder.add(cuff);
       const elbow = new THREE.Group(); elbow.position.y = -0.4; shoulder.add(elbow);
@@ -169,6 +191,7 @@ export class Mascot {
     this.nextBlink = 1.5; this.blinkT = -1; this.nextEar = 2; this.earT = -1; this.earSide = 0;
     this.gaze = new THREE.Vector2(); this.gazeTarget = new THREE.Vector2(); this.nextGaze = 1;
     this.pose = null;
+    this.attn = null; this.nextFidget = performance.now() / 1000 + 8;
   }
 
   setView(name) {
@@ -228,6 +251,14 @@ export class Mascot {
   }
   play(name, dur) { this.gesture = { name, t0: performance.now() / 1000, dur }; }
   idle() { this.mood = 'happy'; this.gazeTarget.set(0, 0); }
+  lookToward(cx, cy) {
+    if (!this.running) return;
+    const r = this.el.getBoundingClientRect();
+    const x = Math.max(-1, Math.min(1, (cx - (r.left + r.width / 2)) / (window.innerWidth / 2)));
+    const y = Math.max(-1, Math.min(1, (cy - (r.top + r.height * 0.3)) / (window.innerHeight / 2)));
+    this.attn = { x, y, until: performance.now() / 1000 + 1.8 };
+    this.gazeTarget.set(x * 0.8, -y * 0.5); this.nextGaze = this.attn.until;
+  }
 
   // Pose cible du moment (angles en radians), à partir d'une pose de repos + le geste en cours.
   targetPose(t) {
@@ -243,6 +274,19 @@ export class Mascot {
       p.arms[1].ex += -0.25 + Math.sin(t * 2.2 + 1) * 0.2;
     }
     if (this.mood === 'calm') { p.headX += 0.08; p.headZ += 0.1; }
+    if (this.attn) {
+      const left = this.attn.until - t;
+      if (left <= 0) this.attn = null;
+      else { const w = ease(Math.min(1, left / 0.4)); p.headY += -this.attn.x * 0.45 * w; p.headX += this.attn.y * 0.18 * w; p.rootRotY += -this.attn.x * 0.12 * w; }
+    }
+    p.brow = this.talking ? 0.5 + 0.5 * Math.sin(t * 3.1) : 0.15;
+    // Au repos : de temps en temps, une petite animation spontanée pour attirer les passants
+    if (!this.talking && !this.gesture && t > this.nextFidget) {
+      this.nextFidget = t + 7 + Math.random() * 8;
+      const pick = ['tilt', 'lookaround', 'hop', 'tilt'][Math.floor(Math.random() * 4)];
+      this.play(pick, pick === 'lookaround' ? 2.6 : 1.4);
+      if (pick === 'tilt') { this.earT = t; this.earSide = Math.random() < 0.5 ? 0 : 1; }
+    }
     const g = this.gesture;
     if (g) {
       const k = (t - g.t0) / g.dur;
@@ -250,6 +294,7 @@ export class Mascot {
       else {
         const w = ease(Math.min(k / 0.18, (1 - k) / 0.2, 1));
         const R = p.arms[0], Lf = p.arms[1];
+        if (g.name === 'wave' || g.name === 'hoofup' || g.name === 'hop') p.brow = 1;
         if (g.name === 'wave') {
           R.sz = lerp(R.sz, 2.2, w); R.sx = lerp(R.sx, -0.25, w); R.ex = lerp(R.ex, -0.2, w);
           R.ez = lerp(R.ez, 0.9 + 0.45 * Math.sin((t - g.t0) * 9), w); // avant-bras levé qui se balance
@@ -262,6 +307,10 @@ export class Mascot {
           p.headZ += 0.18 * w; p.headX -= 0.05 * w;
         } else if (g.name === 'hop') {
           p.rootY += 0.05 * Math.sin(Math.min(1, k * 2) * Math.PI) * w; p.headZ += 0.08 * w;
+        } else if (g.name === 'tilt') {
+          p.headZ += 0.22 * w; p.headX -= 0.06 * w; p.brow = 1;
+        } else if (g.name === 'lookaround') {
+          p.headY += Math.sin((t - g.t0) / g.dur * Math.PI * 2) * 0.45 * w; p.rootRotY += Math.sin((t - g.t0) / g.dur * Math.PI * 2) * 0.1 * w;
         } else if (g.name === 'calm') {
           for (const a of [R, Lf]) { a.sx = lerp(a.sx, -0.6, w); a.ex = lerp(a.ex, -1.2, w); a.sz = lerp(a.sz, -0.25 * (a === R ? 1 : -1), w); }
         }
@@ -277,13 +326,14 @@ export class Mascot {
     if (!this.pose) this.pose = JSON.parse(JSON.stringify(target));
     const k = 1 - Math.exp(-dt * 10);
     const P = this.pose;
-    for (const key of ['rootY', 'rootRotY', 'rootRotZ', 'headX', 'headY', 'headZ']) P[key] = lerp(P[key], target[key], k);
+    for (const key of ['rootY', 'rootRotY', 'rootRotZ', 'headX', 'headY', 'headZ', 'brow']) P[key] = lerp(P[key] ?? 0, target[key], k);
     P.arms.forEach((a, i) => { for (const key in a) a[key] = lerp(a[key], target.arms[i][key], k); });
 
     this.root.position.y = P.rootY;
     this.root.rotation.set(0, P.rootRotY, P.rootRotZ);
     this.torso.scale.y = 1 + 0.012 * Math.sin(t * 1.4);
     this.headPivot.rotation.set(P.headX, P.headY, P.headZ);
+    this.brows.forEach((b) => { b.m.position.y = 0.13 + P.brow * 0.03; b.m.rotation.z = Math.PI / 2 + (0.25 - P.brow * 0.15) * b.s; });
     this.arms.forEach((a, i) => {
       const q = P.arms[i];
       a.shoulder.position.y = 0.86 + q.lift;
@@ -335,6 +385,14 @@ export class Mascot {
     // Crinière et toupet suivent la tête avec un léger retard
     this.forelock.rotation.x = -P.headX * 0.8 + Math.sin(t * 3) * 0.03;
     this.mane.rotation.y = P.headY * 0.4;
+
+    const pa = this.sparkGeo.attributes.position;
+    this.sparks.forEach((sp, i) => {
+      sp.y += sp.v * dt; sp.a += sp.w * dt;
+      if (sp.y > 2.3) { sp.y = -0.2; sp.a = Math.random() * Math.PI * 2; }
+      pa.setXYZ(i, Math.cos(sp.a) * sp.rad, sp.y, Math.sin(sp.a) * sp.rad * 0.6 - 0.1);
+    });
+    pa.needsUpdate = true;
 
     this.renderer.render(this.scene, this.camera);
   }

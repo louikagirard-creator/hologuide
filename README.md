@@ -19,7 +19,7 @@ Projet GNG1503, équipe AVENGERS (AF23). Site statique (HTML, CSS, JS) sans serv
 | Vitesse de réponse (priorité 1) | Recherche locale instantanée, temps affiché sous chaque réponse |
 | Parler avec l'avatar, avatar humain réaliste qui bouge | Humain 3D réaliste (three.js + TalkingHead) : lèvres synchronisées mot par mot sur la voix, clignements, regard vers la personne, gestes des mains, salut, haussement d'épaules si pas de réponse |
 | Choix de l'avatar | 3 guides 3D au choix : la mascotte Gee-Gee (par défaut), Maya et Alex, chacun avec sa voix |
-| Mascotte des Gee-Gees | Cheval 3D animé aux couleurs uOttawa (grenat et gris) : bouche synchronisée sur la voix, clignements, oreilles qui bougent, regard, salut du sabot, haussement d'épaules, sabot levé, petit saut de joie |
+| Mascotte des Gee-Gees | Cheval 3D animé aux couleurs uOttawa (grenat et gris) : bouche synchronisée sur la voix, clignements, oreilles qui bougent, regard, salut du sabot, haussement d'épaules, sabot levé, petit saut de joie, sourcils expressifs, joues roses ; tourne la tête vers l'endroit touché ; petites animations spontanées au repos (tête penchée, regard autour, saut) ; particules lumineuses façon hologramme |
 | Code QR (trace de ce que l'avatar a dit) | À la fin : QR avec les questions et les liens officiels |
 | Seulement de l'info officielle | 85 réponses tirées des pages uOttawa, source et date de vérification affichées |
 | Si pas de réponse : s'excuser et guider | Message d'excuse et renvoi vers InfoService |

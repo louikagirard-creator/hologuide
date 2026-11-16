@@ -2,7 +2,7 @@
 export const TEXT = {
   fr: {
     rate0: 'Bof', rate1: 'Correct', rate2: 'Super',
-    homeTitle: 'Comment je peux t\'aider ?', directions: 'Itinéraire depuis ici', walk: '{m} m · {min} min à pied', hereAlready: 'Tu y es déjà !', enlargeMap: 'Agrandir la carte', floorPlan: 'Plan de l\'étage', campusMap: 'Carte du campus', tryAsk: 'Essaie : « Où est le pavillon Fauteux ? » ou « J\'ai perdu ma carte étudiante ».', popular: 'Sujets populaires', allTopics: 'Tous les sujets', back: 'Retour',
+    homeTitle: 'Comment je peux t\'aider ?', noneLinks: 'Je n\'ai pas de fiche détaillée là-dessus, mais voici les pages officielles de l\'Université qui en parlent. Touche une page pour l\'ouvrir sur ton téléphone.', officialPages: 'Pages officielles sur ce sujet', morePages: 'Pour aller plus loin (pages officielles)', scanToOpen: 'Scanne ce code avec ton téléphone pour ouvrir la page officielle.', directions: 'Itinéraire depuis ici', walk: '{m} m · {min} min à pied', hereAlready: 'Tu y es déjà !', enlargeMap: 'Agrandir la carte', floorPlan: 'Plan de l\'étage', campusMap: 'Carte du campus', tryAsk: 'Essaie : « Où est le pavillon Fauteux ? » ou « J\'ai perdu ma carte étudiante ».', popular: 'Sujets populaires', allTopics: 'Tous les sujets', back: 'Retour',
     history: 'Historique', historyEmpty: 'Tes questions apparaîtront ici.', youAsked: 'Ta question', relatedTitle: 'Questions liées',
     infoservice: 'Contacter InfoService', urgent: 'Urgence : 911', zoom: 'Agrandir le plan', listenAgain: 'Réécouter', touchStart: 'Touche pour commencer',
     attractTitle: 'Salut !\nJe suis Gee\u2011Gee.', attractSub: 'Touche l\'écran pour me poser une question.',
@@ -33,7 +33,7 @@ export const TEXT = {
   },
   en: {
     rate0: 'Meh', rate1: 'Okay', rate2: 'Great',
-    homeTitle: 'How can I help you?', directions: 'Walking directions from here', walk: '{m} m · {min} min walk', hereAlready: 'You are already here!', enlargeMap: 'Enlarge the map', floorPlan: 'Floor plan', campusMap: 'Campus map', tryAsk: 'Try: “Where is Fauteux Hall?” or “I lost my student card.”', popular: 'Popular topics', allTopics: 'All topics', back: 'Back',
+    homeTitle: 'How can I help you?', noneLinks: 'I don\'t have a detailed answer on that, but here are the official University pages about it. Touch a page to open it on your phone.', officialPages: 'Official pages on this topic', morePages: 'Learn more (official pages)', scanToOpen: 'Scan this code with your phone to open the official page.', directions: 'Walking directions from here', walk: '{m} m · {min} min walk', hereAlready: 'You are already here!', enlargeMap: 'Enlarge the map', floorPlan: 'Floor plan', campusMap: 'Campus map', tryAsk: 'Try: “Where is Fauteux Hall?” or “I lost my student card.”', popular: 'Popular topics', allTopics: 'All topics', back: 'Back',
     history: 'History', historyEmpty: 'Your questions will appear here.', youAsked: 'Your question', relatedTitle: 'Related questions',
     infoservice: 'Contact InfoService', urgent: 'Emergency: 911', zoom: 'Enlarge the map', listenAgain: 'Listen again', touchStart: 'Touch to start',
     attractTitle: 'Hi!\nI\'m Gee\u2011Gee.', attractSub: 'Touch the screen to ask me a question.',

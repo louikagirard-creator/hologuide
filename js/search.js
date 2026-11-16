@@ -3,7 +3,7 @@
 // shortcut: score par mots-clés + tolérance aux fautes ; passer à une recherche sémantique si la base dépasse quelques centaines de réponses.
 import { KB, CATEGORIES } from '../data/kb.js';
 
-const STOP = new Set(('le la les un une des de du d l au aux et ou a à en est sont je tu il elle on nous vous ils mon ma mes ton ta tes son sa ses ' +
+export const STOP = new Set(('le la les un une des de du d l au aux et ou a à en est sont je tu il elle on nous vous ils mon ma mes ton ta tes son sa ses ' +
   'ce cette ces qui que quoi quel quelle quels quelles comment ou où pour par sur dans avec pas ne se me te y ai as faire fait peux peut veux ' +
   'the a an of to in on at for and or is are am be i you he she it we they my your his her its our their what which who how where when do does can ' +
   'want need please svp stp est-ce ca ça c s t').split(' '));

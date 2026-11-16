@@ -7,6 +7,7 @@ import { speak, stopSpeaking, listen, canListen } from './speech.js';
 import { GeeGee } from './mascot.js';
 import { VideoGeeGee, CLIPS } from './avatar-video.js';
 import { loadCampus, routeForEntry, drawRoute } from './campusmap.js';
+import { loadLinks, searchLinks } from './links.js';
 
 const $ = (s, root = document) => root.querySelector(s);
 const $$ = (s, root = document) => [...root.querySelectorAll(s)];
@@ -204,7 +205,8 @@ function ask(text, id) {
     setView(asked(q), p, route || (sitePlan && campusCard()),
       e.image?.src && !sitePlan && h('button', { class: 'plan', onclick: () => openPlan(e.image) }, h('img', { src: e.image.src, alt: L(e.image.alt) }), h('span', { text: route ? t('floorPlan') : t('zoom') })),
       sourceLinks(e.sources), h('p', { class: 'meta', text: `${e.status === 'pointer' ? `${t('pointer')} · ` : ''}${fill(t('time'), { ms })}${e.verifiedOn ? ` · ${t('verified')} ${e.verifiedOn}` : ''}` }),
-      fb, related.length && h('p', { class: 'section', text: t('relatedTitle') }), related.length && questionList(related));
+      fb, related.length && h('p', { class: 'section', text: t('relatedTitle') }), related.length && questionList(related),
+      !route && pageList(searchLinks(q, state.lang, 3), t('morePages')));
     gg?.react('answer');
     say(answer, p);
   } else if (res.type === 'sensitive') {
@@ -219,14 +221,17 @@ function ask(text, id) {
     gg?.react(res.type);
     say(t(res.type), p);
   } else {
-    logExchange(q, t('none'), LINKS.infoservice.url);
+    // Pas de fiche : on cherche dans l'index des ~36 000 pages officielles
+    const pages = searchLinks(q, state.lang);
+    const said = pages.length ? t('noneLinks') : t('none');
+    logExchange(q, said, pages[0]?.url || LINKS.infoservice.url);
     bump((s) => { s.unanswered++; });
-    const p = spokenText(t('none'));
-    setView(asked(q), p, sourceLinks([{ label: t('infoservice'), url: LINKS.infoservice.url }]),
+    const p = spokenText(said);
+    setView(asked(q), p, pageList(pages), sourceLinks([{ label: t('infoservice'), url: LINKS.infoservice.url }]),
       res.alts.length && h('p', { class: 'section', text: t('didYouMean') }), res.alts.length && questionList(res.alts),
       h('p', { class: 'section', text: t('popular') }), topicTiles(profileTopics().slice(0, 3)));
-    gg?.react('none');
-    say(t('none'), p);
+    gg?.react(pages.length ? 'answer' : 'none');
+    say(said, p);
   }
 }
 
@@ -280,6 +285,22 @@ function openHistory() {
   $('#history').hidden = false;
 }
 function openPlan(img) { $('#lightboxMap').replaceChildren(); $('#lightboxImg').hidden = false; $('#lightboxImg').src = img.src; $('#lightboxImg').alt = L(img.alt); $('#lightbox').hidden = false; }
+// Pages officielles trouvées dans l'index : toucher une page affiche un code QR pour l'ouvrir sur son téléphone
+function pageList(pages, heading = t('officialPages')) {
+  if (!pages.length) return null;
+  return h('section', { class: 'pages' }, h('p', { class: 'section', text: heading }),
+    h('ul', { class: 'list' }, pages.map((pg) => h('li', {}, h('button', { onclick: () => openLinkQR(pg) },
+      h('span', {}, h('span', { class: 'pg-title', text: pg.title }), h('span', { class: 'pg-sec', text: pg.section })), icon('next'))))));
+}
+function openLinkQR(pg) {
+  qrcode.stringToBytes = qrcode.stringToBytesFuncs['UTF-8'];
+  const code = qrcode(0, 'M'); code.addData(pg.url, 'Byte'); code.make();
+  const box = h('div', { class: 'link-qr' }, h('p', { class: 'title', text: pg.title }), h('p', { class: 'lead', text: t('scanToOpen') }));
+  const qr = h('div', { class: 'qr' }); qr.innerHTML = code.createSvgTag({ cellSize: 4, margin: 2, scalable: true, alt: pg.url });
+  box.append(qr, h('p', { class: 'fine', text: pg.url }));
+  if (state.session) state.session.log.push({ q: pg.title, a: '', url: pg.url }); // aussi dans le code QR de fin
+  $('#lightboxImg').hidden = true; $('#lightboxMap').replaceChildren(box); $('#lightbox').hidden = false;
+}
 function openMap(svg) { $('#lightboxImg').hidden = true; $('#lightboxMap').replaceChildren(svg); $('#lightbox').hidden = false; }
 
 // ---------- Itinéraire à pied (carte d'ensemble + une petite carte zoomée par étape) ----------
@@ -391,6 +412,7 @@ function bind() {
 }
 
 loadCampus();
+loadLinks();
 applyText();
 placeMascot();
 bind();

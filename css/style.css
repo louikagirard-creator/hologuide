@@ -341,3 +341,12 @@ body.contrast .spoken.reading .w.now { text-decoration: underline 2px var(--acce
 .campus-map .m-deco text { font-family: var(--sans); fill: #1d1d1f; text-anchor: middle; font-weight: 600; }
 .campus-map .m-deco text.credit { text-anchor: end; font-weight: 400; fill: #8a8378; }
 .campus-map.mini .m-ground { fill: #f1eee9; }
+
+/* Pages officielles trouvées dans l'index (quand aucune fiche ne répond) */
+.pages .list button > span { display: flex; flex-direction: column; gap: 0.15rem; }
+.pg-title { font-size: 0.98rem; font-weight: 600; color: var(--ink); }
+.pg-sec { font-size: 0.78rem; color: var(--dim); }
+.link-qr { padding: 1.6rem; background: #fff; text-align: center; }
+.link-qr .title { margin: 0 0 0.4rem; }
+.link-qr .qr { margin: 1rem auto 0; }
+.link-qr .fine { word-break: break-all; margin: 0.8rem auto 0; }

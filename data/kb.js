@@ -16549,5 +16549,11227 @@ export const KB = [
   ],
   "verifiedOn": "2026-11-16",
   "status": "official"
+ },
+ {
+  "id": "f-arts-bureau-premier-cycle",
+  "category": "programmes",
+  "keywords": [
+   "bureau premier cycle arts",
+   "faculté des arts bureau",
+   "arts undergraduate office",
+   "simard 128",
+   "bureau des études arts",
+   "arts student office",
+   "conseiller arts",
+   "arts academic advising",
+   "file virtuelle arts",
+   "pavillon simard"
+  ],
+  "question": {
+   "fr": "Où est le bureau des études de premier cycle de la Faculté des arts ?",
+   "en": "Where is the Faculty of Arts undergraduate office?"
+  },
+  "answer": {
+   "fr": "Le bureau des études de premier cycle de la Faculté des arts est au pavillon Simard, 60, privé Université, salle 128. Tu peux passer par la file virtuelle ou prendre rendez-vous. Les bureaux scolaires sont ouverts du lundi au vendredi, de 9 h à 16 h 30, et ferment à 15 h 30 du 1er juin au 31 août.",
+   "en": "The Faculty of Arts undergraduate studies office is in Simard Hall, 60 University Private, room 128. You can use the virtual queue or book an appointment. The academic offices are open Monday to Friday, 9 a.m. to 4:30 p.m., closing at 3:30 p.m. from June 1 to August 31."
+  },
+  "sources": [
+   {
+    "label": "Contact us | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/contact-us"
+   }
+  ],
+  "related": [
+   "f-arts-departements",
+   "f-arts-programmes",
+   "f-communication"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-arts-departements",
+  "category": "programmes",
+  "keywords": [
+   "départements arts",
+   "écoles faculté des arts",
+   "arts departments",
+   "arts schools",
+   "unités faculté des arts",
+   "liste départements arts",
+   "academic units arts",
+   "département arts uottawa"
+  ],
+  "question": {
+   "fr": "Quels sont les départements et les écoles de la Faculté des arts ?",
+   "en": "What are the departments and schools in the Faculty of Arts?"
+  },
+  "answer": {
+   "fr": "La Faculté des arts regroupe les départements d'études anciennes et de sciences des religions, de communication, d'anglais, de géographie, de français, d'histoire, de linguistique, de langues et littératures modernes, de philosophie, de théâtre et d'arts visuels. Elle compte aussi l'École de musique, l'École des sciences de l'information et l'École de traduction et d'interprétation. L'Institut de recherche et d'études autochtones et l'Institut des langues officielles et du bilinguisme en font aussi partie.",
+   "en": "The Faculty of Arts includes the departments of Classics and Religious Studies, Communication, English, Geography, French, History, Linguistics, Modern Languages and Literatures, Philosophy, Theatre and Visual Arts. It also has the School of Music, the School of Information Studies and the School of Translation and Interpretation. The Institute of Indigenous Research and Studies and the Official Languages and Bilingualism Institute are also part of it."
+  },
+  "sources": [
+   {
+    "label": "Student Services | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/facilities-resources/student-services"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-programmes",
+   "f-communication"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-arts-programmes",
+  "category": "programmes",
+  "keywords": [
+   "programmes arts",
+   "programmes faculté des arts",
+   "arts programs",
+   "baccalauréat arts",
+   "ba uottawa",
+   "humanities programs",
+   "sciences humaines programmes",
+   "études interdisciplinaires",
+   "interdisciplinary studies",
+   "fine arts programs"
+  ],
+  "question": {
+   "fr": "Quels programmes de premier cycle offre la Faculté des arts ?",
+   "en": "What undergraduate programs does the Faculty of Arts offer?"
+  },
+  "answer": {
+   "fr": "La Faculté des arts offre des programmes en sciences humaines, comme l'histoire, la philosophie, la géographie et la communication, en langues et littératures, comme la traduction et les lettres françaises, et en beaux-arts et arts de la scène, comme la musique, le théâtre et les arts visuels. Il y a aussi un baccalauréat en études interdisciplinaires, offert aussi en ligne. Tu peux compléter ton programme avec des mineures, des microprogrammes ou des certificats.",
+   "en": "The Faculty of Arts offers programs in the humanities, such as history, philosophy, geography and communication, in languages and literatures, such as translation and Lettres françaises, and in fine and performing arts, such as music, theatre and visual arts. There is also a BA in Interdisciplinary Studies, also available online. You can add minors, microprograms or certificates to your program."
+  },
+  "sources": [
+   {
+    "label": "Undergraduate programs | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/programs/undergraduate"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-communication"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-communication",
+  "category": "programmes",
+  "keywords": [
+   "communication",
+   "programme communication",
+   "baccalauréat communication",
+   "communication studies",
+   "département de communication",
+   "études médiatiques",
+   "media studies",
+   "communication organisationnelle",
+   "organizational communication",
+   "cmn",
+   "communication coop"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de communication à uOttawa ?",
+   "en": "What is the Communication program at uOttawa?"
+  },
+  "answer": {
+   "fr": "Le Département de communication de la Faculté des arts forme ses étudiants dans deux grands domaines : les études médiatiques et la communication organisationnelle. Tu y développes ton esprit critique sur l'effet des technologies et des médias sur la société et les organisations. Plusieurs programmes offrent une option coop avec quatre stages rémunérés, et le département est au pavillon Desmarais, salle 11101.",
+   "en": "The Department of Communication in the Faculty of Arts trains students in two key areas: media studies and organizational communication. You develop critical skills to assess how technology and media affect society and organizations. Several programs offer a co-op option with four paid work terms, and the department is in Desmarais Hall, room 11101."
+  },
+  "sources": [
+   {
+    "label": "Department of Communication | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/communication"
+   },
+   {
+    "label": "Honours BA in Communication | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-ba-communication/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-journalisme-relations-publiques",
+  "category": "programmes",
+  "keywords": [
+   "journalisme",
+   "journalism",
+   "journalisme numérique",
+   "digital journalism",
+   "relations publiques",
+   "public relations",
+   "la cité collégiale",
+   "algonquin college",
+   "baccalauréat journalisme",
+   "programme relations publiques"
+  ],
+  "question": {
+   "fr": "Est-ce qu'on peut étudier le journalisme ou les relations publiques à uOttawa ?",
+   "en": "Can I study journalism or public relations at uOttawa?"
+  },
+  "answer": {
+   "fr": "Oui ! Le Département de communication offre un baccalauréat en journalisme numérique et un baccalauréat en relations publiques. Ces deux programmes sont offerts conjointement avec La Cité collégiale pour la section française et avec le Collège Algonquin pour la section anglaise.",
+   "en": "Yes! The Department of Communication offers a bachelor's degree in digital journalism and one in public relations. Both are offered jointly with La Cité collégiale for the French section and with Algonquin College for the English section."
+  },
+  "sources": [
+   {
+    "label": "Department of Communication | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/communication"
+   },
+   {
+    "label": "Undergraduate programs | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/programs/undergraduate"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-musique",
+  "category": "programmes",
+  "keywords": [
+   "musique",
+   "music",
+   "école de musique",
+   "school of music",
+   "baccalauréat en musique",
+   "bachelor of music",
+   "bmus",
+   "audition musique",
+   "music audition",
+   "musique et sciences",
+   "pavillon pérez"
+  ],
+  "question": {
+   "fr": "Comment étudier la musique à uOttawa ? Faut-il une audition ?",
+   "en": "How can I study music at uOttawa? Do I need an audition?"
+  },
+  "answer": {
+   "fr": "L'École de musique offre le baccalauréat en musique, conçu pour les futurs musiciens professionnels, et un baccalauréat ès arts en musique, en plus d'un programme combiné musique et sciences. Pour le baccalauréat en musique, tu dois passer une audition sur ton instrument principal et démontrer un niveau intermédiaire ou avancé. L'École est au pavillon Pérez, 50, privé Université, salle 103.",
+   "en": "The School of Music offers the Bachelor of Music, designed for future career musicians, and a BA in Music, plus a combined Music and Science program. For the Bachelor of Music, you must audition on your main instrument and show an intermediate or advanced level. The School is in Pérez Hall, 50 University Private, room 103."
+  },
+  "sources": [
+   {
+    "label": "School of Music | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/music"
+   },
+   {
+    "label": "Bachelor of Music | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/bachelor-music/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-arts-visuels",
+  "category": "programmes",
+  "keywords": [
+   "arts visuels",
+   "visual arts",
+   "beaux-arts",
+   "fine arts",
+   "baccalauréat en beaux-arts",
+   "bfa",
+   "histoire de l'art",
+   "art history",
+   "portfolio arts visuels",
+   "atelier peinture",
+   "mfa"
+  ],
+  "question": {
+   "fr": "Quels programmes offre le Département d'arts visuels ?",
+   "en": "What programs does the Department of Visual Arts offer?"
+  },
+  "answer": {
+   "fr": "Le Département d'arts visuels offre un baccalauréat en beaux-arts, une majeure en arts visuels, une majeure et une mineure en histoire et théorie de l'art, ainsi qu'une maîtrise en beaux-arts et une maîtrise en théorie de l'art contemporain. On y trouve des ateliers de peinture, de dessin et de sculpture, ainsi que des laboratoires de photo et d'arts médiatiques. Pour le baccalauréat en beaux-arts ou la majeure en arts visuels, tu dois soumettre un portfolio.",
+   "en": "The Department of Visual Arts offers a Bachelor of Fine Arts, a major in visual arts, a major and a minor in history and theory of art, plus a Master of Fine Arts and a master's in contemporary art theory. It has painting, drawing and sculpture studios as well as photography and media art labs. To apply to the BFA or the major in visual arts, you must submit a portfolio."
+  },
+  "sources": [
+   {
+    "label": "Department of Visual Arts | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/visual-arts"
+   },
+   {
+    "label": "Bachelor of Fine Arts (BFA) | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/bachelor-fine-arts-bfa/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-theatre",
+  "category": "programmes",
+  "keywords": [
+   "théâtre",
+   "theatre",
+   "département de théâtre",
+   "jeu théâtral",
+   "acting",
+   "bfa jeu",
+   "salle académique",
+   "academic hall",
+   "labo",
+   "mise en scène",
+   "directing",
+   "pièces de théâtre"
+  ],
+  "question": {
+   "fr": "C'est quoi le Département de théâtre à uOttawa ?",
+   "en": "What is the Department of Theatre at uOttawa?"
+  },
+  "answer": {
+   "fr": "Le Département de théâtre offre un baccalauréat en beaux-arts en jeu, intensif, ainsi que des études théâtrales au baccalauréat, à la majeure et à la mineure, et une maîtrise en mise en scène. Il présente une douzaine de productions par année dans ses salles, dont la Salle académique, au 133-135, privé Séraphin-Marion, et le LabO, au 60, rue Waller. Son bureau est au 135, privé Séraphin-Marion, salle 207.",
+   "en": "The Department of Theatre offers an intensive Bachelor of Fine Arts in acting, theatre studies through a BA, major and minor, and an MFA in directing. It presents about twelve productions a year in its venues, including Academic Hall at 133-135 Séraphin-Marion Private and the LabO at 60 Waller Street. Its office is at 135 Séraphin-Marion, room 207."
+  },
+  "sources": [
+   {
+    "label": "Department of Theatre | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/theatre"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-traduction",
+  "category": "programmes",
+  "keywords": [
+   "traduction",
+   "translation",
+   "traducteur",
+   "translator",
+   "interprétation",
+   "interpretation",
+   "école de traduction",
+   "examen d'entrée traduction",
+   "translation entrance exam",
+   "interprétation de conférence",
+   "pavillon hamelin"
+  ],
+  "question": {
+   "fr": "Où étudier la traduction à uOttawa ?",
+   "en": "Where can I study translation at uOttawa?"
+  },
+  "answer": {
+   "fr": "C'est à l'École de traduction et d'interprétation de la Faculté des arts, fondée en 1971 ; uOttawa a été le premier établissement canadien à offrir des cours de traduction professionnelle à l'université, en 1936. L'École offre des programmes de premier cycle, une maîtrise en interprétation de conférence et une nouvelle maîtrise en traduction, et certains programmes exigent un examen d'entrée. Elle est au pavillon Hamelin, 70, avenue Laurier Est, salle 401.",
+   "en": "It's at the School of Translation and Interpretation in the Faculty of Arts, founded in 1971; uOttawa was the first Canadian institution to offer professional translation courses at university, in 1936. The School offers undergraduate programs, a Master of Conference Interpreting and a new Master of Translation, and some programs require an entrance exam. It is in Hamelin Hall, 70 Laurier Avenue East, room 401."
+  },
+  "sources": [
+   {
+    "label": "School of Translation and Interpretation | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/translation-interpretation"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-anglais",
+  "category": "programmes",
+  "keywords": [
+   "anglais",
+   "english",
+   "département d'anglais",
+   "english department",
+   "littérature anglaise",
+   "english literature",
+   "creative writing",
+   "création littéraire",
+   "professional writing",
+   "rédaction anglaise"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Département d'anglais offre ?",
+   "en": "What does the Department of English offer?"
+  },
+  "answer": {
+   "fr": "Le Département d'anglais propose des études en littérature qui développent la lecture attentive, la pensée critique et l'écriture, une bonne base pour les études supérieures ou le marché du travail. On y trouve aussi des volets en création littéraire et en rédaction professionnelle, ainsi que des programmes aux cycles supérieurs. Le département est au pavillon Hamelin, 70, avenue Laurier Est, salle 338.",
+   "en": "The Department of English offers literary studies that build close reading, critical thinking and writing skills, a strong base for graduate studies or a career. It also offers creative writing and professional writing streams, as well as graduate programs. The department is in Hamelin Hall, 70 Laurier Avenue East, room 338."
+  },
+  "sources": [
+   {
+    "label": "Department of English | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/english"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-lettres-francaises",
+  "category": "programmes",
+  "keywords": [
+   "lettres françaises",
+   "français",
+   "département de français",
+   "french literature",
+   "littérature française",
+   "rédaction professionnelle",
+   "édition",
+   "lettres françaises et éducation",
+   "french department",
+   "centre de rédaction"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Département de français offre ?",
+   "en": "What does the Département de français offer?"
+  },
+  "answer": {
+   "fr": "Le Département de français fonctionne entièrement en français. Il offre notamment les programmes de lettres françaises, de lettres françaises et éducation, et de rédaction professionnelle et édition, où tu étudies la littérature de langue française, l'histoire de la langue, la création littéraire et l'édition. Son secrétariat est au pavillon Hamelin, 70, avenue Laurier Est, aux 4e et 5e étages.",
+   "en": "The Département de français operates entirely in French. It offers programs such as Lettres françaises, Lettres françaises et éducation, and professional writing and editing, where you study French-language literature, the history of the language, creative writing and editing. Its office is in Hamelin Hall, 70 Laurier Avenue East, on the 4th and 5th floors."
+  },
+  "sources": [
+   {
+    "label": "Département de français | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/francais"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-histoire",
+  "category": "programmes",
+  "keywords": [
+   "histoire",
+   "history",
+   "département d'histoire",
+   "history department",
+   "programme histoire",
+   "études médiévales",
+   "medieval and renaissance studies",
+   "stage musée",
+   "baccalauréat histoire",
+   "historien"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme d'histoire à uOttawa ?",
+   "en": "What is the History program at uOttawa?"
+  },
+  "answer": {
+   "fr": "Le Département d'histoire t'apprend à analyser des sources complexes, à argumenter avec rigueur et à communiquer clairement, dans des classes de petite taille. Grâce à l'emplacement au cœur de la capitale, tu peux faire des stages dans des musées, des archives et au gouvernement. Le département offre aussi un programme en études médiévales et de la Renaissance.",
+   "en": "The Department of History teaches you to analyze complex sources, argue rigorously and communicate clearly, in small classes. Thanks to its location in the heart of the capital, you can do internships at museums, archives and in government. The department also offers a Medieval and Renaissance Studies program."
+  },
+  "sources": [
+   {
+    "label": "Department of History | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/history"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-philosophie",
+  "category": "programmes",
+  "keywords": [
+   "philosophie",
+   "philosophy",
+   "département de philosophie",
+   "éthique",
+   "ethics",
+   "philosophie politique",
+   "political philosophy",
+   "éthique et philosophie politique",
+   "logique",
+   "pavillon desmarais philosophie"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Département de philosophie offre ?",
+   "en": "What does the Department of Philosophy offer?"
+  },
+  "answer": {
+   "fr": "Le Département de philosophie prend au sérieux autant la philosophie analytique que la philosophie continentale et offre un large choix de cours. En plus du programme de philosophie, il offre un programme en éthique et philosophie politique. Le département est au pavillon Desmarais, 55, avenue Laurier Est, salle 8101.",
+   "en": "The Department of Philosophy takes both analytic and continental philosophy seriously and offers a wide choice of courses. Besides the Philosophy program, it offers a program in Ethics and Political Philosophy. The department is in Desmarais Hall, 55 Laurier Avenue East, room 8101."
+  },
+  "sources": [
+   {
+    "label": "Department of Philosophy | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/philosophy"
+   },
+   {
+    "label": "Undergraduate programs | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/programs/undergraduate"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-linguistique",
+  "category": "programmes",
+  "keywords": [
+   "linguistique",
+   "linguistics",
+   "département de linguistique",
+   "science du langage",
+   "phonétique",
+   "phonetics",
+   "syntaxe",
+   "orthophonie",
+   "speech-language pathology",
+   "sciences du langage"
+  ],
+  "question": {
+   "fr": "C'est quoi la linguistique et où l'étudier à uOttawa ?",
+   "en": "What is linguistics and where can I study it at uOttawa?"
+  },
+  "answer": {
+   "fr": "La linguistique, c'est la science du langage : sa structure, son rôle dans l'activité humaine et sa relation avec l'organisme humain, sur les plans biologique et psychologique. Au Département de linguistique, tu reçois une formation de base en phonétique, phonologie, morphologie, syntaxe et sémantique. Ce programme mène aux études supérieures, mais aussi à des domaines comme l'enseignement des langues, l'orthophonie, l'audiologie et les sciences cognitives.",
+   "en": "Linguistics is the science of language: its structure, its role in human activity and its relationship to the human organism, biologically and psychologically. In the Department of Linguistics, you get solid training in phonetics, phonology, morphology, syntax and semantics. The program leads to graduate studies, but also to fields such as language teaching, speech-language pathology, audiology and cognitive science."
+  },
+  "sources": [
+   {
+    "label": "Department of Linguistics | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/linguistics"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-geographie",
+  "category": "programmes",
+  "keywords": [
+   "géographie",
+   "geography",
+   "géomatique",
+   "geomatics",
+   "études de l'environnement",
+   "environmental studies",
+   "géographie physique",
+   "physical geography",
+   "département de géographie",
+   "sig",
+   "urban studies"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on étudie au Département de géographie, environnement et géomatique ?",
+   "en": "What can I study in the Department of Geography, Environment and Geomatics?"
+  },
+  "answer": {
+   "fr": "Ce département offre des programmes en géographie, en études de l'environnement et en géomatique et analyse spatiale, ainsi qu'un programme en géographie physique et géomatique, au baccalauréat ès arts ou ès sciences. Il propose aussi des microprogrammes, notamment en géomatique et en études urbaines, et des cours sur le terrain. Le département est au pavillon Simard, 60, privé Université, salle 047.",
+   "en": "This department offers programs in geography, environmental studies, and geomatics and spatial analysis, as well as a program in physical geography and geomatics, as a BA or a BSc. It also offers microprograms, including geomatics and urban studies, and field courses. The department is in Simard Hall, 60 University Private, room 047."
+  },
+  "sources": [
+   {
+    "label": "Department of Geography, Environment and Geomatics | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/geography-environment-geomatics"
+   },
+   {
+    "label": "Undergraduate programs | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/programs/undergraduate"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-langues-modernes",
+  "category": "programmes",
+  "keywords": [
+   "langues modernes",
+   "modern languages",
+   "espagnol",
+   "spanish",
+   "allemand",
+   "german",
+   "italien",
+   "italian",
+   "arabe",
+   "arabic",
+   "russe",
+   "langues et cultures du monde",
+   "world languages"
+  ],
+  "question": {
+   "fr": "Quelles langues peut-on étudier au Département de langues et littératures modernes ?",
+   "en": "Which languages can I study in the Department of Modern Languages and Literatures?"
+  },
+  "answer": {
+   "fr": "Le Département de langues et littératures modernes offre des cours et des programmes en arabe, en allemand, en italien, en russe et en espagnol, ainsi qu'en études asiatiques, en études celtiques et en études latino-américaines. Il offre aussi une majeure en langues et cultures du monde. Son secrétariat est au pavillon Hamelin, 70, avenue Laurier Est, salle 234.",
+   "en": "The Department of Modern Languages and Literatures offers courses and programs in Arabic, German, Italian, Russian and Spanish, as well as Asian Studies, Celtic Studies and Latin American Studies. It also offers a major in World Languages and Cultures. Its office is in Hamelin Hall, 70 Laurier Avenue East, room 234."
+  },
+  "sources": [
+   {
+    "label": "Department of Modern Languages and Literatures | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/modern-languages-literatures"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-sciences-information",
+  "category": "programmes",
+  "keywords": [
+   "sciences de l'information",
+   "information studies",
+   "bibliothécaire",
+   "librarian",
+   "archiviste",
+   "archivist",
+   "ésis",
+   "maîtrise en sciences de l'information",
+   "bibliothéconomie",
+   "library science"
+  ],
+  "question": {
+   "fr": "Comment devenir bibliothécaire ou archiviste à uOttawa ?",
+   "en": "How can I become a librarian or archivist at uOttawa?"
+  },
+  "answer": {
+   "fr": "L'École des sciences de l'information, à la Faculté des arts, offre des programmes aux cycles supérieurs qui préparent aux carrières de bibliothécaire, d'archiviste, de gestionnaire de services d'information numérique ou d'architecte de l'information. Son programme est agréé par l'American Library Association. C'est un programme de cycle supérieur, donc il faut d'abord un baccalauréat.",
+   "en": "The School of Information Studies, in the Faculty of Arts, offers graduate programs that prepare you for careers as a librarian, archivist, digital information services manager or information architect. Its program is accredited by the American Library Association. These are graduate programs, so you need a bachelor's degree first."
+  },
+  "sources": [
+   {
+    "label": "School of Information Studies | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/information-studies"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-etudes-anciennes-religions",
+  "category": "programmes",
+  "keywords": [
+   "études anciennes",
+   "classics",
+   "études grecques et romaines",
+   "greek and roman studies",
+   "sciences des religions",
+   "religious studies",
+   "latin",
+   "grec ancien",
+   "antiquité",
+   "religion"
+  ],
+  "question": {
+   "fr": "Où étudier l'Antiquité grecque et romaine ou les religions ?",
+   "en": "Where can I study ancient Greece and Rome or religions?"
+  },
+  "answer": {
+   "fr": "Au Département d'études anciennes et de sciences des religions, à la Faculté des arts. Il offre un programme en études grecques et romaines et un programme en sciences des religions, en plus de programmes aux cycles supérieurs et de doubles majeures.",
+   "en": "At the Department of Classics and Religious Studies, in the Faculty of Arts. It offers a Greek and Roman Studies program and a Religious Studies program, plus graduate programs and double majors."
+  },
+  "sources": [
+   {
+    "label": "Department of Classics and Religious Studies | Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/classics-religious-studies"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-fss-bureau-premier-cycle",
+  "category": "programmes",
+  "keywords": [
+   "bureau premier cycle sciences sociales",
+   "fss 3010",
+   "social sciences undergraduate office",
+   "bureau des études sciences sociales",
+   "faculty of social sciences office",
+   "conseiller sciences sociales",
+   "fss office hours",
+   "heures bureau fss"
+  ],
+  "question": {
+   "fr": "Où est le bureau des études de premier cycle de la Faculté des sciences sociales et quelles sont ses heures ?",
+   "en": "Where is the Faculty of Social Sciences undergraduate office and what are its hours?"
+  },
+  "answer": {
+   "fr": "Le bureau des études de premier cycle est au pavillon des sciences sociales, 120, privé Université, salle 3010. Il est ouvert du lundi au vendredi, de 9 h à midi et de 13 h à 16 h 30 ; de juin au 21 août, il ferme à 15 h 30. Tu peux aussi le joindre par ses services virtuels.",
+   "en": "The undergraduate studies office is in the Social Sciences Building, 120 University Private, room 3010. It's open Monday to Friday, 9 a.m. to noon and 1 p.m. to 4:30 p.m.; from June to August 21, it closes at 3:30 p.m. You can also reach it through its virtual services."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-fss-centre-experience",
+  "category": "programmes",
+  "keywords": [
+   "centre de l'expérience étudiante",
+   "student experience centre",
+   "mentors sciences sociales",
+   "fss mentors",
+   "fss 3023",
+   "mentorat sciences sociales",
+   "aide études fss",
+   "study groups fss"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de l'expérience étudiante de la Faculté des sciences sociales ?",
+   "en": "What is the Faculty of Social Sciences Student Experience Centre?"
+  },
+  "answer": {
+   "fr": "C'est un centre où des étudiants mentors bilingues t'aident gratuitement à t'adapter à l'université, à gérer ton temps, à mieux lire, écrire et te préparer aux examens. Il organise aussi des groupes d'étude, des ateliers et des cafés d'étude. Il est au pavillon des sciences sociales, salle 3023, et tu n'as pas besoin de rendez-vous, mais les mentors ne font pas de tutorat dans une matière précise.",
+   "en": "It's a centre where bilingual student mentors help you for free to adjust to university, manage your time, read, write and prepare for exams. It also runs study groups, workshops and study cafés. It's in the Social Sciences Building, room 3023, and no appointment is needed, but mentors don't tutor specific course content."
+  },
+  "sources": [
+   {
+    "label": "Student Experience Centre | Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/student-hub/student-experience-centre"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-fss-unites",
+  "category": "programmes",
+  "keywords": [
+   "départements sciences sociales",
+   "écoles sciences sociales",
+   "social sciences departments",
+   "unités scolaires fss",
+   "programmes sciences sociales",
+   "social sciences schools",
+   "liste départements fss",
+   "faculty of social sciences units"
+  ],
+  "question": {
+   "fr": "Quelles sont les unités de la Faculté des sciences sociales ?",
+   "en": "What are the academic units of the Faculty of Social Sciences?"
+  },
+  "answer": {
+   "fr": "La Faculté des sciences sociales compte neuf unités : criminologie, science économique, études féministes et de genre, développement international et mondialisation, études politiques, psychologie, affaires publiques et internationales, service social, et études sociologiques et anthropologiques. La plupart sont au pavillon des sciences sociales, au 120, privé Université.",
+   "en": "The Faculty of Social Sciences has nine units: Criminology, Economics, Feminist and Gender Studies, International Development and Global Studies, Political Studies, Psychology, Public and International Affairs, Social Work, and Sociological and Anthropological Studies. Most are in the Social Sciences Building at 120 University Private."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/"
+   },
+   {
+    "label": "Student Experience Centre | Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/student-hub/student-experience-centre"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-criminologie",
+  "category": "programmes",
+  "keywords": [
+   "criminologie",
+   "criminology",
+   "département de criminologie",
+   "programme criminologie",
+   "criminologue",
+   "stage criminologie",
+   "field placement criminology",
+   "justice pénale",
+   "criminal justice",
+   "baccalauréat criminologie"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de criminologie à uOttawa ?",
+   "en": "What is the Criminology program at uOttawa?"
+  },
+  "answer": {
+   "fr": "La criminologie est l'analyse scientifique du crime, de la criminalisation et du contrôle social, et c'est aussi une discipline appliquée qui explore des façons d'intervenir. Au baccalauréat spécialisé, tu peux rester dans l'option cours ou demander, à l'automne de ta 3e année, l'option stage ou l'option recherche. Le Département de criminologie est au pavillon des sciences sociales, 120, privé Université, salle 14002.",
+   "en": "Criminology is the scientific analysis of crime, criminalization and social control, and it's also an applied discipline exploring ways to intervene. In the honours program, you can stay in the course option or apply, in the fall of your 3rd year, to the field placement or research option. The Department of Criminology is in the Social Sciences Building, 120 University Private, room 14002."
+  },
+  "sources": [
+   {
+    "label": "Department of Criminology | Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/criminology"
+   },
+   {
+    "label": "Honours BSocSc in Criminology | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-criminology/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-economie",
+  "category": "programmes",
+  "keywords": [
+   "économie",
+   "economics",
+   "science économique",
+   "département d'économie",
+   "economics department",
+   "politique publique",
+   "public policy",
+   "économie internationale",
+   "macroéconomie",
+   "microéconomie",
+   "économie coop"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme d'économie à uOttawa ?",
+   "en": "What is the Economics program at uOttawa?"
+  },
+  "answer": {
+   "fr": "La science économique étudie comment les personnes et la société font des choix quand les ressources sont limitées, en s'intéressant à la production, la distribution et la consommation des biens et services. Le Département de science économique offre aussi des programmes en économie et politiques publiques, en économie de l'environnement et en économie internationale et développement, avec l'option coop. Il est au pavillon des sciences sociales, salle 9005.",
+   "en": "Economics studies how individuals and society make choices when resources are limited, looking at the production, distribution and consumption of goods and services. The Department of Economics also offers programs in economics and public policy, environmental economics, and international economics and development, with a co-op option. It's in the Social Sciences Building, room 9005."
+  },
+  "sources": [
+   {
+    "label": "Department of Economics | Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/economics"
+   },
+   {
+    "label": "Honours BSocSc in Economics | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-science-politique",
+  "category": "programmes",
+  "keywords": [
+   "science politique",
+   "political science",
+   "études politiques",
+   "political studies",
+   "administration publique",
+   "public administration",
+   "stage parlementaire",
+   "parliamentary internship",
+   "politique",
+   "relations internationales"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de science politique à uOttawa ?",
+   "en": "What is the Political Science program at uOttawa?"
+  },
+  "answer": {
+   "fr": "La science politique décrit et analyse les rapports de pouvoir et les institutions qui encadrent la vie en société. À l'École d'études politiques, créée en 2003, tu étudies quatre sous-domaines : la pensée politique, la politique canadienne et québécoise, la politique comparée et les relations internationales, à deux pas de la Colline du Parlement. L'École offre aussi l'administration publique et est au pavillon des sciences sociales, salle 7005.",
+   "en": "Political science describes and analyzes power relations and the institutions that shape social life. At the School of Political Studies, created in 2003, you study four subfields: political thought, Canadian and Quebec politics, comparative politics and international relations, steps from Parliament Hill. The School also offers public administration and is in the Social Sciences Building, room 7005."
+  },
+  "sources": [
+   {
+    "label": "School of Political Studies | Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/political-studies"
+   },
+   {
+    "label": "Honours BSocSc in Political Science | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-political-science/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-psychologie",
+  "category": "programmes",
+  "keywords": [
+   "psychologie",
+   "psychology",
+   "école de psychologie",
+   "school of psychology",
+   "ba psychologie",
+   "bsc psychologie",
+   "baccalauréat psychologie",
+   "psychologie clinique",
+   "pavillon vanier",
+   "neurosciences"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre le B.A. et le B.Sc. en psychologie ?",
+   "en": "What's the difference between the BA and the BSc in Psychology?"
+  },
+  "answer": {
+   "fr": "Les deux étudient le comportement humain et les processus mentaux. Le B.A. met l'accent sur la façon dont on apprend, communique et interagit, tandis que le B.Sc. insiste sur les facteurs biologiques, chimiques, physiologiques et cognitifs, et prépare notamment aux neurosciences. L'École de psychologie est au pavillon Vanier, 136, privé Jean-Jacques-Lussier, salle 3002.",
+   "en": "Both study human behaviour and mental processes. The BA focuses on how we learn, communicate and interact, while the BSc emphasizes biological, chemical, physiological and cognitive factors and prepares you for fields like neuroscience. The School of Psychology is in Vanier Hall, 136 Jean-Jacques-Lussier Private, room 3002."
+  },
+  "sources": [
+   {
+    "label": "School of Psychology | Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/psychology"
+   },
+   {
+    "label": "Honours BA in Psychology | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-ba-psychology/"
+   },
+   {
+    "label": "Honours BSc in Psychology | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-psychology/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-service-social",
+  "category": "programmes",
+  "keywords": [
+   "service social",
+   "social work",
+   "travail social",
+   "école de service social",
+   "travailleur social",
+   "social worker",
+   "bss",
+   "programme service social",
+   "service social en français"
+  ],
+  "question": {
+   "fr": "Est-ce que le programme de service social est offert en anglais ?",
+   "en": "Is the Social Work program offered in English?"
+  },
+  "answer": {
+   "fr": "Non : l'École de service social offre ses programmes de baccalauréat et de maîtrise en français seulement, tandis que le doctorat est offert dans les deux langues officielles. Le programme met l'accent sur une approche critique de l'intervention en santé et en famille-enfance, en tenant compte de la réalité des francophones en milieu minoritaire. L'École est au pavillon des sciences sociales, salle 12002.",
+   "en": "No: the School of Social Work offers its bachelor's and master's programs in French only, while the PhD is offered in both official languages. The program focuses on a critical approach to intervention in health and family-childhood, taking into account the reality of francophones in a minority context. The School is in the Social Sciences Building, room 12002."
+  },
+  "sources": [
+   {
+    "label": "School of Social Work | Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/social-work"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-sociologie-anthropologie",
+  "category": "programmes",
+  "keywords": [
+   "sociologie",
+   "sociology",
+   "anthropologie",
+   "anthropology",
+   "études sociologiques et anthropologiques",
+   "études africaines",
+   "african studies",
+   "sciences sociales",
+   "social sciences program"
+  ],
+  "question": {
+   "fr": "Où étudier la sociologie ou l'anthropologie à uOttawa ?",
+   "en": "Where can I study sociology or anthropology at uOttawa?"
+  },
+  "answer": {
+   "fr": "À l'École d'études sociologiques et anthropologiques de la Faculté des sciences sociales, qui offre ses programmes en français et en anglais. Tu peux y étudier la sociologie, l'anthropologie, les études africaines ou les sciences sociales. L'École est au pavillon des sciences sociales, 120, privé Université, salle 10005.",
+   "en": "At the School of Sociological and Anthropological Studies in the Faculty of Social Sciences, which offers its programs in French and English. You can study sociology, anthropology, African studies or social sciences. The School is in the Social Sciences Building, 120 University Private, room 10005."
+  },
+  "sources": [
+   {
+    "label": "School of Sociological and Anthropological Studies | Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/sociological-anthropological-studies"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-developpement-international",
+  "category": "programmes",
+  "keywords": [
+   "développement international",
+   "international development",
+   "mondialisation",
+   "globalization",
+   "études internationales",
+   "global studies",
+   "coop développement international",
+   "aide internationale",
+   "dvm"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de développement international et mondialisation ?",
+   "en": "What is the International Development and Globalization program?"
+  },
+  "answer": {
+   "fr": "L'École de développement international et mondialisation est la plus grande unité universitaire au Canada spécialisée en développement international. Ses programmes portent sur la réduction des inégalités, la résolution pacifique des conflits et l'engagement citoyen, avec des cours à l'étranger et une option coop. L'École est au pavillon des sciences sociales, salle 8005.",
+   "en": "The School of International Development and Global Studies is Canada's largest academic unit specializing in international development. Its programs focus on reducing inequality, peaceful conflict resolution and citizen engagement, with courses abroad and a co-op option. The School is in the Social Sciences Building, room 8005."
+  },
+  "sources": [
+   {
+    "label": "School of International Development and Global Studies | Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/international-development-global-studies"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-etudes-feministes",
+  "category": "programmes",
+  "keywords": [
+   "études féministes",
+   "feminist studies",
+   "études de genre",
+   "gender studies",
+   "institut d'études féministes",
+   "women's studies",
+   "majeure études féministes",
+   "fem"
+  ],
+  "question": {
+   "fr": "Peut-on étudier les études féministes et de genre à uOttawa ?",
+   "en": "Can I study feminist and gender studies at uOttawa?"
+  },
+  "answer": {
+   "fr": "Oui, à l'Institut d'études féministes et de genre, qui analyse la place des femmes et la construction du genre, de la classe, de la race, de la sexualité et du handicap dans la société. Tu peux y faire une majeure ou une mineure, en français ou en anglais, ou des études supérieures. L'Institut est au pavillon des sciences sociales, salle 11002.",
+   "en": "Yes, at the Institute of Feminist and Gender Studies, which analyzes the position of women and the construction of gender, class, race, sexuality and disability in society. You can do a major or a minor, in French or English, or graduate studies. The Institute is in the Social Sciences Building, room 11002."
+  },
+  "sources": [
+   {
+    "label": "Institute of Feminist and Gender Studies | Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/feminist-gender-studies"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-conflits-droits-humains",
+  "category": "programmes",
+  "keywords": [
+   "études des conflits",
+   "conflict studies",
+   "droits de la personne",
+   "human rights",
+   "affaires publiques et internationales",
+   "public and international affairs",
+   "sécurité et défense",
+   "security and defence",
+   "gspia",
+   "épai"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme d'études des conflits et droits humains ?",
+   "en": "What is the Conflict Studies and Human Rights program?"
+  },
+  "answer": {
+   "fr": "C'est un baccalauréat en sciences sociales offert par l'École supérieure d'affaires publiques et internationales. Cette école forme des leaders en relations internationales, politiques publiques, développement durable, sécurité et défense, et offre aussi une maîtrise en études de la sécurité et de la défense. Elle est au pavillon des sciences sociales, salle 6005.",
+   "en": "It's a Bachelor of Social Sciences offered by the Graduate School of Public and International Affairs. The school trains leaders in international relations, public policy, environmental sustainability, security and defence, and also offers an MA in Security and Defence Studies. It's in the Social Sciences Building, room 6005."
+  },
+  "sources": [
+   {
+    "label": "Graduate School of Public and International Affairs | Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/public-international-affairs"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-sante-bureau-etudes",
+  "category": "programmes",
+  "keywords": [
+   "bureau des études sciences de la santé",
+   "health sciences academic office",
+   "montpetit 232",
+   "faculté des sciences de la santé bureau",
+   "file virtuelle sciences de la santé",
+   "conseiller sciences santé",
+   "health sciences advisor",
+   "changement de programme santé"
+  ],
+  "question": {
+   "fr": "Comment joindre le Bureau des études de la Faculté des sciences de la santé ?",
+   "en": "How do I reach the Faculty of Health Sciences Academic Office?"
+  },
+  "answer": {
+   "fr": "Le Bureau des études est au pavillon Montpetit, 125, privé Université, salle 232. Tu peux joindre sa file virtuelle et un membre de l'équipe te rappelle ou te reçoit en personne, pour l'inscription aux cours, les séquences de cours, un changement de programme, la diplomation ou les lettres de permission. Ce service est réservé aux étudiants de la Faculté ; si tu veux être admis au premier cycle, contacte plutôt InfoAdmission.",
+   "en": "The Academic Office is in Montpetit Hall, 125 University Private, room 232. You can join its virtual line and a team member will call you or meet you in person about course enrolment, course sequences, program changes, graduation or letters of permission. This service is for Faculty students; if you're applying to an undergraduate program, contact InfoAdmission instead."
+  },
+  "sources": [
+   {
+    "label": "Academic Office | Faculty of Health Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/academic-office"
+   },
+   {
+    "label": "Interdisciplinary School of Health Sciences | Faculty of Health Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/interdisciplinary"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-sciences-infirmieres",
+  "category": "programmes",
+  "keywords": [
+   "sciences infirmières",
+   "nursing",
+   "infirmière",
+   "infirmier",
+   "nurse",
+   "baccalauréat sciences infirmières",
+   "bscn",
+   "école des sciences infirmières",
+   "school of nursing",
+   "devenir infirmière"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de sciences infirmières à uOttawa ?",
+   "en": "What is the Nursing program at uOttawa?"
+  },
+  "answer": {
+   "fr": "Le baccalauréat spécialisé en sciences infirmières est un programme de quatre ans, offert en français et en anglais, qui forme des infirmières et infirmiers autorisés prêts à donner des soins de qualité et à jouer un rôle de leader. Il mène aussi à la maîtrise, au programme d'infirmière praticienne et au doctorat. Attention : les étudiants qui viennent d'un autre programme de sciences infirmières ne sont pas admissibles par transfert.",
+   "en": "The Honours BSc in Nursing is a four-year program, offered in French and English, that trains registered nurses ready to give quality care and take on leadership roles. It also leads to the master's, nurse practitioner and doctoral programs. Note: students transferring from another nursing program are not eligible for admission."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc in Nursing | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/"
+   },
+   {
+    "label": "School of Nursing | Faculty of Health Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/nursing"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-ecole-sciences-infirmieres",
+  "category": "programmes",
+  "keywords": [
+   "école des sciences infirmières",
+   "school of nursing office",
+   "bureau sciences infirmières",
+   "200 lees 313",
+   "nursing office",
+   "places réservées autochtones",
+   "indigenous nursing",
+   "nursing simulation"
+  ],
+  "question": {
+   "fr": "Où est l'École des sciences infirmières ?",
+   "en": "Where is the School of Nursing?"
+  },
+  "answer": {
+   "fr": "L'École des sciences infirmières est au 200, avenue Lees, salle 313. Elle réserve chaque année deux places pour des étudiants autochtones qui étudient en français et quatre pour ceux qui étudient en anglais au baccalauréat. Elle a aussi un Centre de simulation et de mentorat par les pairs.",
+   "en": "The School of Nursing is at 200 Lees Avenue, room 313. Each year it reserves two spots for Indigenous students studying in French and four for those studying in English in the undergraduate program. It also has a Simulation and Peer Mentorship Centre."
+  },
+  "sources": [
+   {
+    "label": "School of Nursing | Faculty of Health Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/nursing"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-sciences-activite-physique",
+  "category": "programmes",
+  "keywords": [
+   "sciences de l'activité physique",
+   "human kinetics",
+   "kinésiologie",
+   "kinesiology",
+   "bhk",
+   "kinésiologue",
+   "entraîneur",
+   "coaching",
+   "gestion du sport",
+   "sport management",
+   "école des sciences de l'activité physique"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de sciences de l'activité physique ?",
+   "en": "What is the Human Kinetics program?"
+  },
+  "answer": {
+   "fr": "L'École des sciences de l'activité physique offre cinq programmes de premier cycle et une mineure sur le sport, l'activité physique et le loisir, avec une approche multidisciplinaire. On y étudie la biomécanique, la physiologie de l'exercice, la gestion du sport et la promotion de la santé, menant à des carrières de kinésiologue, d'entraîneur ou d'éducateur en santé. Tu peux faire des stages en milieu communautaire ou un projet de recherche.",
+   "en": "The School of Human Kinetics offers five undergraduate programs and a minor on sport, physical activity and leisure, with a multidisciplinary approach. You study biomechanics, exercise physiology, sport management and health promotion, leading to careers as a kinesiologist, coach or health educator. You can do community internships or a research project."
+  },
+  "sources": [
+   {
+    "label": "School of Human Kinetics | Faculty of Health Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/human-kinetics"
+   },
+   {
+    "label": "Our programs | Faculty of Health Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/our-programs"
+   },
+   {
+    "label": "Honours Bachelor of Human Kinetics | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-nutrition",
+  "category": "programmes",
+  "keywords": [
+   "nutrition",
+   "diététique",
+   "dietetics",
+   "diététiste",
+   "dietitian",
+   "sciences des aliments",
+   "food science",
+   "école des sciences de la nutrition",
+   "nutrition et diététique",
+   "nutritionniste"
+  ],
+  "question": {
+   "fr": "Comment devenir diététiste à uOttawa ?",
+   "en": "How can I become a dietitian at uOttawa?"
+  },
+  "answer": {
+   "fr": "Le baccalauréat spécialisé en sciences en nutrition et diététique dure quatre ans et comprend des stages ; ce programme agréé prépare à l'inscription auprès d'un ordre provincial de diététistes. Les cours sont offerts en français seulement, mais les stages peuvent se faire en français, en anglais ou dans un milieu bilingue, donc tu dois bien maîtriser les deux langues. L'École des sciences de la nutrition est au 200, avenue Lees, salle 362.",
+   "en": "The Honours BSc in Nutrition and Dietetics lasts four years and includes internships; this accredited program prepares you for registration with a provincial dietetics regulator. Courses are offered in French only, but placements can be in French, English or bilingual settings, so you need strong skills in both languages. The School of Nutrition Sciences is at 200 Lees Avenue, room 362."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc in Nutrition and Dietetics | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/"
+   },
+   {
+    "label": "School of Nutrition Sciences | Faculty of Health Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/nutrition"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-readaptation",
+  "category": "programmes",
+  "keywords": [
+   "physiothérapie",
+   "physiotherapy",
+   "ergothérapie",
+   "occupational therapy",
+   "orthophonie",
+   "speech-language pathology",
+   "audiologie",
+   "audiology",
+   "sciences de la réadaptation",
+   "rehabilitation sciences",
+   "devenir physiothérapeute"
+  ],
+  "question": {
+   "fr": "Comment devenir physiothérapeute, ergothérapeute, orthophoniste ou audiologiste à uOttawa ?",
+   "en": "How can I become a physiotherapist, occupational therapist, speech-language pathologist or audiologist at uOttawa?"
+  },
+  "answer": {
+   "fr": "Ces programmes sont offerts par l'École des sciences de la réadaptation, au 200, avenue Lees, salle 261, et ce sont des programmes professionnels de cycle supérieur. Tu peux aussi viser un double diplôme accéléré : un baccalauréat en sciences de la santé avec une maîtrise en physiothérapie, en ergothérapie, en audiologie ou en orthophonie, ou un baccalauréat en sciences de l'activité physique avec une maîtrise en physiothérapie ou en ergothérapie.",
+   "en": "These programs are offered by the School of Rehabilitation Sciences, at 200 Lees Avenue, room 261, and they are graduate professional programs. You can also aim for a dual fast-track degree: a bachelor's in health sciences with a master's in physiotherapy, occupational therapy, audiology or speech-language pathology, or a bachelor's in human kinetics with a master's in physiotherapy or occupational therapy."
+  },
+  "sources": [
+   {
+    "label": "School of Rehabilitation Sciences | Faculty of Health Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/rehabilitation"
+   },
+   {
+    "label": "Our programs | Faculty of Health Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/our-programs"
+   },
+   {
+    "label": "Undergraduate programs | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-sciences-sante-interdisciplinaires",
+  "category": "programmes",
+  "keywords": [
+   "sciences de la santé",
+   "health sciences",
+   "baccalauréat en sciences de la santé",
+   "bhsc",
+   "santé publique",
+   "public health",
+   "sciences de la santé interdisciplinaires",
+   "pré-médecine",
+   "premed",
+   "santé des populations"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat en sciences de la santé ?",
+   "en": "What is the Bachelor of Health Sciences?"
+  },
+  "answer": {
+   "fr": "Le baccalauréat spécialisé en sciences de la santé étudie la santé de façon intégrée : une base en biosciences, des méthodes de recherche et les déterminants sociaux et environnementaux de la santé. Tu peux te concentrer sur l'une de trois options : biosciences intégratives de la santé, technologies et innovation en santé, ou santé des populations et santé publique. Il prépare bien aux études en médecine, en réadaptation, en dentisterie ou en pharmacie.",
+   "en": "The Honours Bachelor of Health Sciences studies health in an integrated way: a biosciences core, research methods and the social and environmental determinants of health. You can focus on one of three options: integrative health biosciences, technologies and innovation in healthcare, or population and public health. It's a strong foundation for further studies in medicine, rehabilitation, dentistry or pharmacy."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Health Sciences | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/"
+   },
+   {
+    "label": "Interdisciplinary School of Health Sciences | Faculty of Health Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/interdisciplinary"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-biologie",
+  "category": "programmes",
+  "keywords": [
+   "biologie",
+   "biology",
+   "département de biologie",
+   "programme biologie",
+   "écologie",
+   "ecology",
+   "physiologie animale",
+   "biologie cellulaire",
+   "plant science",
+   "pavillon gendron"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de biologie à uOttawa ?",
+   "en": "What is the Biology program at uOttawa?"
+  },
+  "answer": {
+   "fr": "La biologie est offerte en spécialisation, en majeure et en mineure, avec des options en physiologie animale, en biologie cellulaire et moléculaire, en écologie, évolution et comportement, et en sciences végétales. Le Département de biologie est au pavillon Gendron, 30, privé Marie-Curie, salle 160.",
+   "en": "Biology is offered as an honours program, a major and a minor, with options in animal physiology, cellular and molecular biology, ecology, evolution and behaviour, and plant science. The Department of Biology is in Gendron Hall, 30 Marie-Curie Private, room 160."
+  },
+  "sources": [
+   {
+    "label": "Programs at a glance | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/undergraduate-studies/programs-glance"
+   },
+   {
+    "label": "Department of Biology | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/biology"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-sciences-biomedicales",
+  "category": "genie",
+  "keywords": [
+   "sciences biomédicales",
+   "biomedical science",
+   "biomed",
+   "neurosciences",
+   "neuroscience",
+   "médecine cellulaire et moléculaire",
+   "biostatistique",
+   "pré-médecine",
+   "premed",
+   "baccalauréat sciences biomédicales"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de sciences biomédicales ?",
+   "en": "What is the Biomedical Science program?"
+  },
+  "answer": {
+   "fr": "Les sciences biomédicales, à la Faculté des sciences, forment un programme interdisciplinaire sur la structure et le fonctionnement du corps humain et d'autres animaux. Les deux premières années donnent une base solide en biologie, chimie, biochimie et mathématiques ; ensuite, tu peux choisir une option en neurosciences, en médecine cellulaire et moléculaire ou en biostatistique, ou une mineure. Le programme est offert en spécialisation seulement et l'option coop est possible.",
+   "en": "Biomedical Science, in the Faculty of Science, is an interdisciplinary program on the structure and function of the human body and other animals. The first two years build a solid base in biology, chemistry, biochemistry and math; then you can choose an option in neuroscience, cellular and molecular medicine or biostatistics, or a minor. It's offered as an honours program only and co-op is available."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc in Biomedical Science | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biomedical-science/"
+   },
+   {
+    "label": "Programs at a glance | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/undergraduate-studies/programs-glance"
+   }
+  ],
+  "related": [
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement",
+   "f-mathematiques-statistique"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-chimie-biochimie",
+  "category": "genie",
+  "keywords": [
+   "chimie",
+   "chemistry",
+   "biochimie",
+   "biochemistry",
+   "sciences biopharmaceutiques",
+   "biopharmaceutical science",
+   "chimie médicinale",
+   "medicinal chemistry",
+   "génomique",
+   "pavillon d'iorio"
+  ],
+  "question": {
+   "fr": "Quels programmes offre le Département de chimie et sciences biomoléculaires ?",
+   "en": "What programs does the Department of Chemistry and Biomolecular Sciences offer?"
+  },
+  "answer": {
+   "fr": "Ce département offre la chimie, avec des options en matériaux avancés et en écochimie, la biochimie, avec des options comme la microbiologie et l'immunologie ou la biologie synthétique, et les sciences biopharmaceutiques, avec des options en génomique et en chimie médicinale. Il offre aussi un double diplôme en biochimie et génie chimique. Le département est au pavillon D'Iorio, 10, privé Marie-Curie, salle 103.",
+   "en": "This department offers chemistry, with options in advanced materials and ecochemistry, biochemistry, with options such as microbiology and immunology or synthetic biology, and biopharmaceutical science, with options in genomics and medicinal chemistry. It also offers a dual degree in biochemistry and chemical engineering. The department is in D'Iorio Hall, 10 Marie-Curie Private, room 103."
+  },
+  "sources": [
+   {
+    "label": "Department of Chemistry and Biomolecular Sciences | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/chemistry-biomolecular-sciences"
+   },
+   {
+    "label": "Programs at a glance | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/undergraduate-studies/programs-glance"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-sciences-terre-environnement",
+   "f-mathematiques-statistique"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-sciences-terre-environnement",
+  "category": "genie",
+  "keywords": [
+   "sciences de la terre",
+   "earth sciences",
+   "géologie",
+   "geology",
+   "sciences de l'environnement",
+   "environmental science",
+   "géoscience environnementale",
+   "environmental geoscience",
+   "géologie-physique",
+   "complexe stem"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on étudie au Département des sciences de la Terre et de l'environnement ?",
+   "en": "What can I study in the Department of Earth and Environmental Sciences?"
+  },
+  "answer": {
+   "fr": "Ce département offre la géologie, la géologie-physique, la géoscience environnementale et les sciences de l'environnement, avec des options en conservation et biodiversité, en géochimie environnementale et écotoxicologie, et en changements planétaires. On y étudie entre autres les risques naturels, les ressources minérales et le climat. Le département est au Complexe STEM, 150, privé Louis-Pasteur.",
+   "en": "This department offers geology, geology-physics, environmental geoscience and environmental science, with options in conservation and biodiversity, environmental geochemistry and ecotoxicology, and global change. Topics include natural hazards, mineral resources and climate. The department is in the STEM Complex, 150 Louis-Pasteur Private."
+  },
+  "sources": [
+   {
+    "label": "Department of Earth and Environmental Sciences | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/earth-environmental-sciences"
+   },
+   {
+    "label": "Programs at a glance | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/undergraduate-studies/programs-glance"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-mathematiques-statistique"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-mathematiques-statistique",
+  "category": "genie",
+  "keywords": [
+   "mathématiques",
+   "mathematics",
+   "maths",
+   "statistique",
+   "statistics",
+   "mathématiques financières",
+   "financial mathematics",
+   "mathématiques et économie",
+   "département de mathématiques",
+   "actuariat"
+  ],
+  "question": {
+   "fr": "Quels programmes offre le Département de mathématiques et de statistique ?",
+   "en": "What programs does the Department of Mathematics and Statistics offer?"
+  },
+  "answer": {
+   "fr": "Il offre les mathématiques et la statistique en spécialisation, en majeure et en mineure, ainsi que les programmes de mathématiques financières et économie, et de mathématiques et économie. Il y a aussi un double diplôme accéléré en mathématiques et en informatique. Le département est au Complexe STEM, salle 342.",
+   "en": "It offers mathematics and statistics as honours programs, majors and minors, as well as Financial Mathematics and Economics, and Mathematics and Economics. There is also a dual fast-track degree in mathematics and computer science. The department is in the STEM Complex, room 342."
+  },
+  "sources": [
+   {
+    "label": "Department of Mathematics and Statistics | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/mathematics-statistics"
+   },
+   {
+    "label": "Programs at a glance | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/undergraduate-studies/programs-glance"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-physique",
+  "category": "genie",
+  "keywords": [
+   "physique",
+   "physics",
+   "département de physique",
+   "photonique",
+   "photonics",
+   "physique biologique",
+   "biophysics",
+   "physique-mathématiques",
+   "physique et génie électrique",
+   "physics and electrical engineering"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de physique à uOttawa ?",
+   "en": "What is the Physics program at uOttawa?"
+  },
+  "answer": {
+   "fr": "Le Département de physique offre un programme de physique et un programme de physique-mathématiques, avec des options en photonique et en physique biologique. Il offre aussi un double baccalauréat de cinq ans en physique et en génie électrique. Ses forces en recherche sont la biophysique, la photonique et les sciences des matériaux.",
+   "en": "The Department of Physics offers a Physics program and a Physics-Mathematics program, with options in photonics and biological physics. It also offers a five-year double bachelor's in physics and electrical engineering. Its research strengths are biophysics, photonics and materials science."
+  },
+  "sources": [
+   {
+    "label": "Department of Physics | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/physics"
+   },
+   {
+    "label": "Programs at a glance | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/undergraduate-studies/programs-glance"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-sciences-microprogrammes",
+  "category": "genie",
+  "keywords": [
+   "microprogramme sciences",
+   "science microprogram",
+   "entrepreneuriat scientifique",
+   "science entrepreneurship",
+   "politique scientifique",
+   "science policy",
+   "communication scientifique",
+   "science communication",
+   "éducation en sciences",
+   "science education"
+  ],
+  "question": {
+   "fr": "Quels microprogrammes la Faculté des sciences offre-t-elle ?",
+   "en": "What microprograms does the Faculty of Science offer?"
+  },
+  "answer": {
+   "fr": "La Faculté des sciences offre des microprogrammes en entrepreneuriat scientifique, en politique scientifique, en communication scientifique et en éducation en sciences. Ils te permettent d'approfondir un sujet précis sans faire une majeure ou une mineure complète.",
+   "en": "The Faculty of Science offers microprograms in science entrepreneurship, science policy, science communication and science education. They let you dig into a specific subject without doing a full major or minor."
+  },
+  "sources": [
+   {
+    "label": "Programs at a glance | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/undergraduate-studies/programs-glance"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-sciences-doubles-diplomes",
+  "category": "genie",
+  "keywords": [
+   "double diplôme sciences",
+   "dual fast-track science",
+   "biochimie génie chimique",
+   "physique génie électrique",
+   "musique et sciences",
+   "mathématiques et informatique",
+   "deux diplômes",
+   "double baccalauréat"
+  ],
+  "question": {
+   "fr": "Quels doubles diplômes accélérés offre la Faculté des sciences ?",
+   "en": "What dual fast-track degrees does the Faculty of Science offer?"
+  },
+  "answer": {
+   "fr": "La Faculté offre quatre doubles diplômes accélérés de cinq ans : biochimie et génie chimique (biotechnologie), physique et génie électrique, baccalauréat en musique avec un baccalauréat en sciences, et mathématiques avec informatique. Comme les cours qui se chevauchent sont éliminés, tu obtiens deux diplômes plus rapidement.",
+   "en": "The Faculty offers four five-year dual fast-track degrees: biochemistry and chemical engineering (biotechnology), physics and electrical engineering, a Bachelor of Music with a Bachelor of Science, and mathematics with computer science. Since overlapping courses are removed, you earn two degrees faster."
+  },
+  "sources": [
+   {
+    "label": "Programs at a glance | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/undergraduate-studies/programs-glance"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-sciences-bureau-aide",
+  "category": "programmes",
+  "keywords": [
+   "bureau des études sciences",
+   "faculty of science academic office",
+   "aide faculté des sciences",
+   "changement de programme sciences",
+   "file virtuelle sciences",
+   "science advisor",
+   "conseiller sciences",
+   "science academic office help"
+  ],
+  "question": {
+   "fr": "Pour quoi peut m'aider le Bureau des études de la Faculté des sciences ?",
+   "en": "What can the Faculty of Science Academic Office help me with?"
+  },
+  "answer": {
+   "fr": "Le Bureau des études de la Faculté des sciences t'aide avec ta séquence et ton choix de cours, un changement de programme, les équivalences, les échanges, ton dossier scolaire et les examens finaux et différés. Tu joins sa file virtuelle, et l'équipe te contacte par Teams, par téléphone ou en personne.",
+   "en": "The Faculty of Science Academic Office helps you with your course sequence and selection, program changes, equivalencies, exchanges, academic standing, and final and deferred exams. You join its virtual line, and the team reaches you on Teams, by phone or in person."
+  },
+  "sources": [
+   {
+    "label": "Academic Office | Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/student-hub/academic-office"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-informatique",
+  "category": "genie",
+  "keywords": [
+   "informatique",
+   "computer science",
+   "science informatique",
+   "programmation",
+   "programming",
+   "bsc informatique",
+   "cs uottawa",
+   "intelligence artificielle",
+   "baccalauréat informatique",
+   "computer science program"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme d'informatique à uOttawa ?",
+   "en": "What is the Computer Science program at uOttawa?"
+  },
+  "answer": {
+   "fr": "L'informatique, offerte par la Faculté de génie, combine les fondements du calcul et du traitement de l'information avec leurs applications, pour bâtir des systèmes logiciels rapides, fiables et sécuritaires. Le baccalauréat spécialisé couvre les bases de données, l'intelligence artificielle, l'infographie, la sécurité et l'algorithmique, et se termine par un projet. Il existe des options en gestion et entrepreneuriat et en science des données, et le programme est agréé par le Conseil d'agrément en informatique.",
+   "en": "Computer Science, offered by the Faculty of Engineering, combines the fundamentals of computation and information processing with their applications, to build fast, reliable and secure software systems. The honours program covers databases, artificial intelligence, computer graphics, security and algorithm design, ending with an honours project. There are options in management and entrepreneurship and in data science, and the program is accredited by the Computer Science Accreditation Council."
+  },
+  "sources": [
+   {
+    "label": "Computer Science | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/computer-science"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-genie-logiciel",
+  "category": "genie",
+  "keywords": [
+   "génie logiciel",
+   "software engineering",
+   "seg",
+   "logiciel",
+   "software",
+   "coop obligatoire",
+   "génie logiciel coop",
+   "développement logiciel",
+   "software developer"
+  ],
+  "question": {
+   "fr": "C'est quoi le génie logiciel et est-ce que la coop est obligatoire ?",
+   "en": "What is software engineering and is co-op mandatory?"
+  },
+  "answer": {
+   "fr": "Le génie logiciel combine les principes du génie et l'informatique pour concevoir, bâtir et tester des logiciels fiables et sécuritaires : prototypage, analyse des besoins, modélisation, tests et gestion de projet. Oui, c'est un programme offert seulement en régime coop, donc les stages sont obligatoires. Il est agréé par le Bureau canadien d'agrément des programmes de génie et par le Conseil d'agrément en informatique.",
+   "en": "Software engineering combines engineering principles and computer science to design, build and test reliable, secure software: prototyping, requirements analysis, modelling, testing and project management. Yes, it's a co-op only program, so work terms are mandatory. It's accredited by the Canadian Engineering Accreditation Board and the Computer Science Accreditation Council."
+  },
+  "sources": [
+   {
+    "label": "Software Engineering | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/software-engineering"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-science-donnees",
+  "category": "genie",
+  "keywords": [
+   "science des données",
+   "data science",
+   "données",
+   "data",
+   "double diplôme mathématiques informatique",
+   "math and computer science",
+   "analyse de données",
+   "statistiques et informatique"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme de science des données ?",
+   "en": "Is there a data science program?"
+  },
+  "answer": {
+   "fr": "Oui : la science des données est offerte sous forme de double diplôme accéléré, un baccalauréat en mathématiques et un baccalauréat en informatique. Tu y apprends à tirer des connaissances de grandes quantités de données en combinant mathématiques, informatique et statistique, avec des projets pratiques et un laboratoire de science des données. Tous les cours obligatoires sont offerts en anglais et en français.",
+   "en": "Yes: data science is offered as a dual fast-track degree, a BSc in Mathematics and a BSc in Computer Science. You learn to extract knowledge from large amounts of data by combining math, computer science and statistics, with hands-on projects and a Data Science Laboratory. All compulsory courses are offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Data Science | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/data-science"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-genie-informatique",
+  "category": "genie",
+  "keywords": [
+   "génie informatique",
+   "computer engineering",
+   "ceg",
+   "matériel et logiciel",
+   "hardware",
+   "microprocesseurs",
+   "robotique",
+   "robotics",
+   "systèmes embarqués"
+  ],
+  "question": {
+   "fr": "C'est quoi le génie informatique ?",
+   "en": "What is computer engineering?"
+  },
+  "answer": {
+   "fr": "Le génie informatique réunit le matériel et le logiciel pour créer des systèmes intelligents, des téléphones intelligents à la robotique. Tu peux te spécialiser en systèmes à microprocesseur, architecture des ordinateurs, systèmes d'exploitation en temps réel, génie logiciel et robotique. Le programme est agréé, et tous les cours sont offerts en anglais et la plupart en français.",
+   "en": "Computer engineering brings together hardware and software to create intelligent systems, from smartphones to robotics. You can specialize in microprocessor-based systems, computer architecture, real-time operating systems, software engineering and robotics. The program is accredited, and all courses are offered in English and most in French."
+  },
+  "sources": [
+   {
+    "label": "Computer Engineering | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/computer-engineering"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-genie-electrique",
+  "category": "genie",
+  "keywords": [
+   "génie électrique",
+   "electrical engineering",
+   "elg",
+   "électronique",
+   "electronics",
+   "énergie durable",
+   "photonique",
+   "télécommunications",
+   "communications",
+   "micro-ondes"
+  ],
+  "question": {
+   "fr": "C'est quoi le génie électrique à uOttawa ?",
+   "en": "What is electrical engineering at uOttawa?"
+  },
+  "answer": {
+   "fr": "Le génie électrique offre cinq spécialisations techniques : communications, systèmes, électronique, micro-ondes et photonique, et énergie électrique et durable. Tu peux aussi y ajouter l'option gestion et entrepreneuriat, ou faire un double diplôme avec la technologie informatique ou avec la physique. Le programme est agréé par le Bureau canadien d'agrément des programmes de génie.",
+   "en": "Electrical engineering offers five technical specializations: communications, systems, electronics, microwave and photonics, and power and sustainable energy. You can add the management and entrepreneurship option, or do a double degree with computing technology or with physics. The program is accredited by the Canadian Engineering Accreditation Board."
+  },
+  "sources": [
+   {
+    "label": "Electrical Engineering | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/electrical-engineering"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-genie-civil",
+  "category": "genie",
+  "keywords": [
+   "génie civil",
+   "civil engineering",
+   "cvg",
+   "ponts",
+   "bridges",
+   "infrastructures",
+   "structures",
+   "géotechnique",
+   "ressources hydriques",
+   "environnement génie civil"
+  ],
+  "question": {
+   "fr": "C'est quoi le génie civil et quelles options sont offertes ?",
+   "en": "What is civil engineering and what options are offered?"
+  },
+  "answer": {
+   "fr": "Les ingénieurs civils conçoivent et entretiennent les infrastructures dont les communautés dépendent : bâtiments, ponts, barrages, réseaux de transport, d'aqueduc et d'égout, et usines de traitement des eaux. À uOttawa, le baccalauréat en génie civil offre les options gestion et entrepreneuriat, environnement et ressources hydriques, et structures et géotechnique. Le programme est agréé par le Bureau canadien d'agrément des programmes de génie.",
+   "en": "Civil engineers design and maintain the infrastructure communities depend on: buildings, bridges, dams, transportation systems, water and sewer networks, and water treatment plants. At uOttawa, the civil engineering degree offers options in management and entrepreneurship, environmental and water resources, and structural geotechnical engineering. The program is accredited by the Canadian Engineering Accreditation Board."
+  },
+  "sources": [
+   {
+    "label": "Civil Engineering | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/civil-engineering"
+   },
+   {
+    "label": "Department of Civil Engineering | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/department-civil-engineering"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-genie-mecanique",
+  "category": "genie",
+  "keywords": [
+   "génie mécanique",
+   "mechanical engineering",
+   "mcg",
+   "mécanique",
+   "aérospatiale",
+   "aerospace",
+   "fabrication",
+   "manufacturing",
+   "mécatronique",
+   "robotique"
+  ],
+  "question": {
+   "fr": "C'est quoi le génie mécanique ?",
+   "en": "What is mechanical engineering?"
+  },
+  "answer": {
+   "fr": "Les ingénieurs mécaniques appliquent les sciences et les mathématiques pour concevoir des systèmes mécaniques, thermiques et biomédicaux, des pièces d'ordinateur aux centrales électriques et aux engins spatiaux. Les diplômés travaillent dans presque tous les secteurs : haute technologie, aérospatiale, fabrication, automobile, énergie et biomédical. Le Département de génie mécanique, fondé en 1967, offre ce programme agréé, et les cours de 1re et 2e année sont aussi offerts en français.",
+   "en": "Mechanical engineers apply science and math to design mechanical, thermal and biomedical systems, from computer parts to power plants and spacecraft. Graduates work in almost every sector: high tech, aerospace, manufacturing, automotive, energy and biomedicine. The Department of Mechanical Engineering, founded in 1967, offers this accredited program, and first- and second-year courses are also available in French."
+  },
+  "sources": [
+   {
+    "label": "Mechanical Engineering | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/mechanical-engineering"
+   },
+   {
+    "label": "Department of Mechanical Engineering | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/department-mechanical-engineering"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-genie-biomedical-mecanique",
+  "category": "genie",
+  "keywords": [
+   "génie biomédical",
+   "biomedical engineering",
+   "génie mécanique biomédical",
+   "biomedical mechanical engineering",
+   "prothèses",
+   "prostheses",
+   "implants",
+   "dispositifs médicaux",
+   "medical devices"
+  ],
+  "question": {
+   "fr": "C'est quoi le génie mécanique biomédical ?",
+   "en": "What is biomedical mechanical engineering?"
+  },
+  "answer": {
+   "fr": "Ce programme forme des ingénieurs qui conçoivent des cœurs artificiels, des implants, des prothèses et d'autres dispositifs médicaux, ou des robots pour la médecine. Il ressemble au programme de génie mécanique, mais des cours biomédicaux remplacent environ le quart du programme régulier. Il est agréé et peut aussi se faire en double diplôme avec la technologie informatique.",
+   "en": "This program trains engineers who design artificial hearts, implants, prostheses and other medical devices, or robots for medical applications. It's similar to mechanical engineering, but biomedical courses replace about a quarter of the regular program. It's accredited and can also be done as a double degree with computing technology."
+  },
+  "sources": [
+   {
+    "label": "Biomedical Mechanical Engineering | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/biomedical-mechanical"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-genie-chimique",
+  "category": "genie",
+  "keywords": [
+   "génie chimique",
+   "chemical engineering",
+   "chg",
+   "biotechnologie",
+   "biotechnology",
+   "génie de l'environnement",
+   "environmental engineering",
+   "procédés",
+   "génie chimique et biologique"
+  ],
+  "question": {
+   "fr": "C'est quoi le génie chimique ?",
+   "en": "What is chemical engineering?"
+  },
+  "answer": {
+   "fr": "Le génie chimique relie les sciences fondamentales et appliquées, l'économie et la sécurité pour transformer des matières premières en produits finis de façon durable. Le programme offre une option en génie de l'environnement, une option gestion et entrepreneuriat, et des doubles diplômes avec la biochimie (biotechnologie) ou la technologie informatique. Il est offert par le Département de génie chimique et biologique et il est agréé.",
+   "en": "Chemical engineering links basic and applied sciences, economics and safety to sustainably turn raw materials into finished products. The program offers an environmental engineering option, a management and entrepreneurship option, and double degrees with biochemistry (biotechnology) or computing technology. It's offered by the Department of Chemical and Biological Engineering and is accredited."
+  },
+  "sources": [
+   {
+    "label": "Chemical Engineering | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/chemical-engineering"
+   },
+   {
+    "label": "Department of Chemical and Biological Engineering | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/department-chemical-biological-engineering"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-design-multidisciplinaire",
+  "category": "genie",
+  "keywords": [
+   "design multidisciplinaire",
+   "multidisciplinary design",
+   "génie design multidisciplinaire",
+   "multidisciplinary design engineering",
+   "design et technologie",
+   "baccalauréat design",
+   "personnaliser génie",
+   "design engineering"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de design multidisciplinaire ?",
+   "en": "What is the Multidisciplinary Design program?"
+  },
+  "answer": {
+   "fr": "Il y a deux programmes de quatre ans : le baccalauréat en génie de design multidisciplinaire, pour devenir ingénieur en combinant le génie avec les arts, les affaires ou les sciences humaines, et le baccalauréat spécialisé en design multidisciplinaire, sans les exigences d'un diplôme en génie. Un conseiller t'aide à bâtir ton parcours, et tu choisis environ la moitié de tes cours. Les deux misent sur l'apprentissage par l'expérience, avec des stages, des laboratoires et des projets.",
+   "en": "There are two four-year programs: the BASc in Multidisciplinary Design Engineering, to become an engineer by combining engineering with arts, business or the humanities, and the Honours Bachelor of Multidisciplinary Design, without the requirements of an engineering degree. An advisor helps you build your path, and you choose about half of your courses. Both take an experiential learning approach, with internships, labs and projects."
+  },
+  "sources": [
+   {
+    "label": "Multidisciplinary Design | Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/multidisciplinary-design"
+   }
+  ],
+  "related": [
+   "f-sciences-biomedicales",
+   "f-chimie-biochimie",
+   "f-sciences-terre-environnement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-droit-civil-bureau",
+  "category": "programmes",
+  "keywords": [
+   "droit civil bureau",
+   "section de droit civil",
+   "civil law office",
+   "bureau premier cycle droit civil",
+   "pavillon fauteux",
+   "fauteux 201",
+   "civil law section",
+   "heures droit civil"
+  ],
+  "question": {
+   "fr": "Où est le bureau des études de premier cycle de la Section de droit civil ?",
+   "en": "Where is the Civil Law Section undergraduate office?"
+  },
+  "answer": {
+   "fr": "Le bureau des études de premier cycle de la Section de droit civil est au pavillon Fauteux, 57, rue Louis-Pasteur, pièce 201. De septembre à mai, il est ouvert du lundi au vendredi de 9 h à midi et de 13 h à 16 h 30 ; de juin à août, de 8 h 45 à midi et de 13 h à 15 h 30. Tu peux aussi le joindre virtuellement.",
+   "en": "The Civil Law Section undergraduate office is in Fauteux Hall, 57 Louis-Pasteur Street, room 201. From September to May, it's open Monday to Friday from 9 a.m. to noon and 1 p.m. to 4:30 p.m.; from June to August, 8:45 a.m. to noon and 1 p.m. to 3:30 p.m. You can also reach it virtually."
+  },
+  "sources": [
+   {
+    "label": "Droit civil | Faculté de droit — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/droit-civil"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-licence-droit-civil",
+  "category": "programmes",
+  "keywords": [
+   "licence en droit",
+   "droit civil",
+   "civil law",
+   "lll",
+   "ll.l.",
+   "barreau du québec",
+   "notaire",
+   "notary",
+   "chambre des notaires",
+   "étudier le droit civil"
+  ],
+  "question": {
+   "fr": "C'est quoi la licence en droit civil (LL.L.) ?",
+   "en": "What is the Civil Law degree (LL.L.)?"
+  },
+  "answer": {
+   "fr": "La licence en droit (LL.L.) est un programme de premier cycle de trois ans à temps plein, offert en français par la Section de droit civil ; tu peux aussi le faire à mi-temps sur un maximum de six ans. Elle offre une formation complète en droit public et privé, interne et international. Le programme est reconnu par le Barreau du Québec et la Chambre des notaires du Québec.",
+   "en": "The LL.L. (Licentiate in Law) is a three-year full-time undergraduate program offered in French by the Civil Law Section; you can also do it part-time over up to six years. It provides complete training in public and private, domestic and international law. The program is recognized by the Barreau du Québec and the Chambre des notaires du Québec."
+  },
+  "sources": [
+   {
+    "label": "Licence en droit (LL.L.) | Faculté de droit — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/droit-civil/programmes-etudes/licence-droit"
+   },
+   {
+    "label": "Droit civil | Faculté de droit — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/droit-civil"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-programme-national-droit-civil",
+  "category": "programmes",
+  "keywords": [
+   "programme national droit civil",
+   "national program civil law",
+   "jd vers lll",
+   "licence en un an",
+   "droit civil pour juristes common law",
+   "civil law for common law graduates",
+   "bijuridisme",
+   "double formation juridique"
+  ],
+  "question": {
+   "fr": "Je suis diplômé en common law ; puis-je obtenir une licence en droit civil ?",
+   "en": "I have a common law degree; can I get a civil law degree?"
+  },
+  "answer": {
+   "fr": "Oui, avec le Programme national en droit civil, un programme accéléré qui permet aux diplômés en common law (JD) d'obtenir une licence en droit civil en un an à temps plein, ou à temps partiel à ton rythme. La version française est offerte en personne à Ottawa et la version anglaise entièrement en ligne. Le diplôme est reconnu par l'École du Barreau du Québec.",
+   "en": "Yes, through the National Program in Civil Law, an accelerated program that lets common law (JD) graduates earn a civil law degree in one year full-time, or part-time at your own pace. The French version is offered in person in Ottawa and the English version fully online. The degree is recognized by the École du Barreau du Québec."
+  },
+  "sources": [
+   {
+    "label": "Programme national en droit civil | Faculté de droit — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/droit-civil/programmes-etudes/programme-national"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-certificat-general-droit",
+  "category": "programmes",
+  "keywords": [
+   "certificat en droit",
+   "certificat général en droit",
+   "general certificate in law",
+   "droit en ligne",
+   "law certificate online",
+   "initiation au droit",
+   "cours de droit sans être avocat",
+   "law for non-lawyers"
+  ],
+  "question": {
+   "fr": "Peut-on étudier le droit sans vouloir devenir avocat ?",
+   "en": "Can I study law without wanting to become a lawyer?"
+  },
+  "answer": {
+   "fr": "Oui : le Certificat général en droit offre une formation juridique de base aux personnes qui ne se destinent pas à la pratique du droit. C'est un programme de 30 crédits, soit 10 cours, entièrement en ligne, que tu peux faire en un an à temps plein ou en deux ans à temps partiel, en français, en anglais ou en mode bilingue.",
+   "en": "Yes: the General Certificate in Law offers basic legal training to people who don't plan to practise law. It's a 30-credit program of 10 courses, fully online, that you can complete in one year full-time or two years part-time, in French, in English or bilingually."
+  },
+  "sources": [
+   {
+    "label": "Certificat général en droit | Faculté de droit — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/droit-civil/programmes-etudes/certificat-general-droit"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-common-law-centre-etudiant",
+  "category": "programmes",
+  "keywords": [
+   "centre étudiant common law",
+   "common law student centre",
+   "section de common law",
+   "common law office",
+   "bureau common law",
+   "jd conseiller",
+   "qless common law",
+   "common law hours"
+  ],
+  "question": {
+   "fr": "Comment joindre le Centre étudiant de la Section de common law ?",
+   "en": "How do I reach the Common Law Student Centre?"
+  },
+  "answer": {
+   "fr": "Le Centre étudiant de common law répond à tes questions sur les programmes, les cours, l'inscription et l'aide financière. Tu peux joindre sa file virtuelle en choisissant l'aide en personne ou par téléphone, du lundi au vendredi, de 9 h à midi et de 13 h à 16 h 30 de septembre à mai, et jusqu'à 15 h 30 de juin à août. La file virtuelle ferme de midi à 13 h et le mercredi de 10 h à 11 h.",
+   "en": "The Common Law Student Centre answers your questions about programs, courses, enrolment and financial aid. You can join its virtual line, choosing in-person or phone help, Monday to Friday from 9 a.m. to noon and 1 p.m. to 4:30 p.m. from September to May, and until 3:30 p.m. from June to August. The virtual line closes from noon to 1 p.m. and on Wednesdays from 10 to 11 a.m."
+  },
+  "sources": [
+   {
+    "label": "Common Law Student Centre | Faculty of Law — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-common-law-jd",
+  "category": "programmes",
+  "keywords": [
+   "common law",
+   "juris doctor",
+   "jd",
+   "jd en français",
+   "jd en anglais",
+   "french jd",
+   "english jd",
+   "devenir avocat ontario",
+   "faculté de droit common law",
+   "law school ottawa"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de common law (JD) ?",
+   "en": "What is the Common Law (JD) program?"
+  },
+  "answer": {
+   "fr": "La Section de common law offre le Juris Doctor en anglais et en français, ainsi que des programmes combinés. Elle propose des spécialisations comme le règlement des différends, le droit de l'environnement, le droit des technologies, le droit public, la justice sociale et le droit autochtone. Pour l'admission, son bureau est au 57, rue Louis-Pasteur, salle 235, et il a aussi une file virtuelle.",
+   "en": "The Common Law Section offers the Juris Doctor in English and in French, as well as combined programs. It offers specializations such as dispute resolution, environmental law, technology law, public law, social justice and Aboriginal law. For admissions, its office is at 57 Louis-Pasteur Street, room 235, and it also has a virtual line."
+  },
+  "sources": [
+   {
+    "label": "Common Law | Faculty of Law — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law"
+   },
+   {
+    "label": "Admissions - Contact Us | Faculty of Law — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/admissions/contact-us"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-jd-programme-national",
+  "category": "programmes",
+  "keywords": [
+   "programme national jd",
+   "jd national program",
+   "droit civil vers common law",
+   "civil law to common law",
+   "jd huit mois",
+   "common law pour civilistes",
+   "bijural",
+   "jd pour civilistes"
+  ],
+  "question": {
+   "fr": "Je suis diplômé en droit civil ; puis-je obtenir un JD en common law ?",
+   "en": "I have a civil law degree; can I get a common law JD?"
+  },
+  "answer": {
+   "fr": "Oui, avec le Programme national de la Section de common law, un programme accéléré de huit mois pour les diplômés en droit civil d'une université canadienne, qui mène au Juris Doctor. Le programme est bilingue, donc il faut une très bonne maîtrise du français et de l'anglais. Il existe depuis 1972.",
+   "en": "Yes, through the Common Law Section's National Program, an accelerated eight-month program for graduates of Canadian civil law programs, leading to a Juris Doctor. The program is bilingual, so you need a high level of proficiency in both French and English. It has existed since 1972."
+  },
+  "sources": [
+   {
+    "label": "JD National Program | Faculty of Law — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/programs/jd-national-program"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-medecine-md-bureau",
+  "category": "programmes",
+  "keywords": [
+   "programme md",
+   "doctorat en médecine",
+   "md program",
+   "études médicales premier cycle",
+   "undergraduate medical education",
+   "bureau médecine",
+   "roger-guindon 2046",
+   "faculté de médecine bureau",
+   "devenir médecin"
+  ],
+  "question": {
+   "fr": "Où est le bureau du programme de doctorat en médecine (MD) ?",
+   "en": "Where is the MD program office?"
+  },
+  "answer": {
+   "fr": "Le bureau des études médicales de premier cycle est au pavillon Roger-Guindon, 451, chemin Smyth, salle 2046. Il est ouvert du lundi au vendredi, de 8 h à 16 h. Le site du programme explique aussi les cheminements vers le MD et le processus d'admission.",
+   "en": "The Undergraduate Medical Education office is in Roger Guindon Hall, 451 Smyth Road, room 2046. It's open Monday to Friday, 8 a.m. to 4 p.m. The program's website also explains the pathways to the MD and the application process."
+  },
+  "sources": [
+   {
+    "label": "Undergraduate Medical Education | Faculty of Medicine — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/undergraduate-medical-education"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-pharmacie-pharmd",
+  "category": "programmes",
+  "keywords": [
+   "pharmacie",
+   "pharmacy",
+   "pharmd",
+   "doctorat en pharmacie",
+   "pharmacien",
+   "pharmacist",
+   "école des sciences pharmaceutiques",
+   "pharmacie en français",
+   "études en pharmacie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'on peut étudier la pharmacie à uOttawa ?",
+   "en": "Can I study pharmacy at uOttawa?"
+  },
+  "answer": {
+   "fr": "Oui ! Depuis l'automne 2023, la Faculté de médecine offre le doctorat en pharmacie (PharmD) de premier cycle en français, le premier offert en français à l'extérieur du Québec, avec des stages en milieu francophone minoritaire. Il relève de l'École des sciences pharmaceutiques, créée en 2021, au pavillon Roger-Guindon, 451, chemin Smyth, salle 3040.",
+   "en": "Yes! Since fall 2023, the Faculty of Medicine offers an undergraduate Doctor of Pharmacy (PharmD) in French, the first one offered in French outside Quebec, with placements in francophone minority settings. It's run by the School of Pharmaceutical Sciences, created in 2021, in Roger Guindon Hall, 451 Smyth Road, room 3040."
+  },
+  "sources": [
+   {
+    "label": "PharmD | Faculty of Medicine — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/pharmd"
+   },
+   {
+    "label": "School of Pharmaceutical Sciences | Faculty of Medicine — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/school-pharmaceutical-sciences"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-medecine-translationnelle",
+  "category": "programmes",
+  "keywords": [
+   "médecine translationnelle",
+   "translational and molecular medicine",
+   "tmm",
+   "médecine moléculaire",
+   "molecular medicine",
+   "recherche biomédicale",
+   "biomedical research",
+   "bsc tmm",
+   "pré-médecine"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de médecine translationnelle et moléculaire ?",
+   "en": "What is the Translational and Molecular Medicine program?"
+  },
+  "answer": {
+   "fr": "C'est un baccalauréat spécialisé en sciences offert par la Faculté de médecine depuis 2016, qui applique les découvertes en sciences biologiques à des usages pharmaceutiques ou cliniques. Le programme intègre des questions cliniques dans la démarche scientifique, avec de la recherche en biologie du cancer, immunologie, neurobiologie ou cellules souches. Son bureau est au pavillon Roger-Guindon, 451, chemin Smyth.",
+   "en": "It's an Honours BSc offered by the Faculty of Medicine since 2016, which applies discoveries in the biological sciences to pharmaceutical or clinical uses. The program brings clinical questions into scientific research, in areas like cancer biology, immunology, neurobiology or stem cells. Its office is in Roger Guindon Hall, 451 Smyth Road."
+  },
+  "sources": [
+   {
+    "label": "Translational and Molecular Medicine | Faculty of Medicine — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/translational-molecular"
+   },
+   {
+    "label": "Department of Biochemistry, Microbiology and Immunology | Faculty of Medicine — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/biochemistry-microbiology-immunology"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-technologie-ophtalmique",
+  "category": "programmes",
+  "keywords": [
+   "technologie médicale en ophtalmologie",
+   "ophthalmic medical technology",
+   "omt",
+   "ophtalmologie",
+   "ophthalmology",
+   "soins des yeux",
+   "eye care",
+   "institut de l'œil",
+   "eye institute"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de technologie médicale en ophtalmologie ?",
+   "en": "What is the Ophthalmic Medical Technology program?"
+  },
+  "answer": {
+   "fr": "C'est un programme de la Faculté de médecine qui forme des spécialistes paramédicaux des soins des yeux, en combinant formation clinique et sciences de la vision. Les étudiants, en petits groupes, apprennent avec les technologies les plus récentes au sein de l'équipe de l'Institut de l'œil de l'Université d'Ottawa. Le programme est agréé par l'International Council of Accreditation.",
+   "en": "It's a Faculty of Medicine program that trains allied health specialists in eye care, combining clinical training and vision science. Students, in small classes, learn with the latest technologies as part of the team at the University of Ottawa Eye Institute. The program is accredited by the International Council of Accreditation."
+  },
+  "sources": [
+   {
+    "label": "Ophthalmic Medical Technology | Faculty of Medicine — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/ophthalmic-medical-technology"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-education-bureau",
+  "category": "programmes",
+  "keywords": [
+   "bureau des études éducation",
+   "faculty of education office",
+   "pavillon lamoureux",
+   "lamoureux 143",
+   "bureau premier cycle éducation",
+   "education undergraduate office",
+   "heures faculté d'éducation",
+   "education office hours"
+  ],
+  "question": {
+   "fr": "Où est le bureau des études de premier cycle de la Faculté d'éducation et quelles sont ses heures ?",
+   "en": "Where is the Faculty of Education undergraduate office and what are its hours?"
+  },
+  "answer": {
+   "fr": "La Faculté d'éducation est au pavillon Lamoureux, 145, privé Jean-Jacques-Lussier, salle 143. Le bureau des études de premier cycle est ouvert du lundi au vendredi, de 9 h à 16 h du 1er septembre au 31 mai, et de 9 h à 15 h 30 l'été, mais il ferme de midi à 13 h. Tu peux aussi appeler ou prendre rendez-vous.",
+   "en": "The Faculty of Education is in Lamoureux Hall, 145 Jean-Jacques-Lussier Private, room 143. The undergraduate office is open Monday to Friday, 9 a.m. to 4 p.m. from September 1 to May 31, and 9 a.m. to 3:30 p.m. in summer, but closes from noon to 1 p.m. You can also call or book an appointment."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Education — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/"
+   },
+   {
+    "label": "Academic support | Faculty of Education — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/academic-support"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-baccalaureat-education",
+  "category": "programmes",
+  "keywords": [
+   "baccalauréat en éducation",
+   "bachelor of education",
+   "bed",
+   "b.ed.",
+   "devenir enseignant",
+   "become a teacher",
+   "formation à l'enseignement",
+   "teacher education",
+   "enseignant ontario",
+   "stage enseignement",
+   "practicum"
+  ],
+  "question": {
+   "fr": "Comment devenir enseignant au primaire ou au secondaire avec uOttawa ?",
+   "en": "How can I become an elementary or high school teacher through uOttawa?"
+  },
+  "answer": {
+   "fr": "Il faut d'abord un baccalauréat reconnu, puis faire le baccalauréat en éducation : Teacher Education pour enseigner dans les écoles de langue anglaise de l'Ontario, ou Formation à l'enseignement pour les écoles de langue française. Le programme Teacher Education se fait à temps plein sur 12 mois et comprend deux stages d'au moins 40 jours. Il est agréé par l'Ordre des enseignantes et des enseignants de l'Ontario.",
+   "en": "You first need a recognized bachelor's degree, then the Bachelor of Education: Teacher Education to teach in Ontario's English-language schools, or Formation à l'enseignement for French-language schools. Teacher Education is full-time over 12 months and includes two practicums of at least 40 days each. It's accredited by the Ontario College of Teachers."
+  },
+  "sources": [
+   {
+    "label": "Undergraduate studies | Faculty of Education — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/undergraduate-studies"
+   },
+   {
+    "label": "Teacher Education | Faculty of Education — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/undergraduate-studies/teacher-education"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-cycles-enseignement",
+  "category": "programmes",
+  "keywords": [
+   "cycle primaire moyen",
+   "primary junior",
+   "junior intermediate",
+   "intermediate senior",
+   "p/j",
+   "j/i",
+   "i/s",
+   "français langue seconde enseignement",
+   "fsl teacher",
+   "division enseignement"
+  ],
+  "question": {
+   "fr": "Quels cycles d'enseignement peut-on choisir au baccalauréat en éducation ?",
+   "en": "Which teaching divisions can I choose in the Bachelor of Education?"
+  },
+  "answer": {
+   "fr": "Au programme Teacher Education, tu choisis un cycle : primaire-moyen, de la maternelle à la 6e année ; moyen-intermédiaire, de la 4e à la 10e année ; ou intermédiaire-supérieur, de la 7e à la 12e année. Une option en français langue seconde est offerte dans les trois cycles. Pour les cycles moyen-intermédiaire et intermédiaire-supérieur, tu choisis aussi des matières à enseigner.",
+   "en": "In Teacher Education, you choose a division: Primary/Junior, from kindergarten to grade 6; Junior/Intermediate, from grade 4 to 10; or Intermediate/Senior, from grade 7 to 12. A French as a Second Language option is offered in all three divisions. For Junior/Intermediate and Intermediate/Senior, you also choose teachable subjects."
+  },
+  "sources": [
+   {
+    "label": "Teacher Education | Faculty of Education — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/undergraduate-studies/teacher-education"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-education-autres-programmes",
+  "category": "programmes",
+  "keywords": [
+   "edutek",
+   "éducation technologique",
+   "technology education",
+   "enseignement des langues secondes",
+   "second language teaching",
+   "slt",
+   "microprogramme sciences et éducation",
+   "enseigner langue seconde"
+  ],
+  "question": {
+   "fr": "Quels autres programmes de premier cycle offre la Faculté d'éducation ?",
+   "en": "What other undergraduate programs does the Faculty of Education offer?"
+  },
+  "answer": {
+   "fr": "En plus du baccalauréat en éducation, la Faculté offre EduTek, un programme en ligne et en personne pour enseigner les technologies de la 9e à la 12e année dans les écoles de langue française de l'Ontario. Elle offre aussi, avec la Faculté des arts, des programmes en enseignement des langues secondes, ainsi qu'un microprogramme en sciences et éducation.",
+   "en": "Besides the Bachelor of Education, the Faculty offers EduTek, an online and in-person program to teach technology in grades 9 to 12 in Ontario's French-language schools. It also offers, with the Faculty of Arts, Second Language Teaching programs, plus a microprogram in Science and Education."
+  },
+  "sources": [
+   {
+    "label": "Undergraduate studies | Faculty of Education — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/undergraduate-studies"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-telfer-centre-services",
+  "category": "programmes",
+  "keywords": [
+   "centre de services aux étudiants telfer",
+   "telfer student services centre",
+   "dms 1100",
+   "bureau premier cycle telfer",
+   "telfer undergraduate office",
+   "conseiller bcom",
+   "telfer academic advisor",
+   "qless telfer"
+  ],
+  "question": {
+   "fr": "Où est le centre de services aux étudiants de l'École de gestion Telfer ?",
+   "en": "Where is the Telfer School of Management Student Services Centre?"
+  },
+  "answer": {
+   "fr": "Le Centre de services aux étudiants de Telfer est au pavillon Desmarais, salle DMS 1100. Le service en personne est offert du lundi au vendredi, de 9 h à 16 h, mais vérifie la page du Centre, car il annonce parfois des heures de fermeture exceptionnelles. Tu peux aussi joindre un agent par la file virtuelle ou le clavardage, pour l'inscription aux cours, les équivalences ou les exigences du diplôme.",
+   "en": "The Telfer Student Services Centre is in Desmarais Hall, room DMS 1100. In-person service is available Monday to Friday, 9 a.m. to 4 p.m., but check the Centre's page because it sometimes posts exceptional closing times. You can also reach an academic officer through the virtual queue or chat, for course enrolment, equivalencies or degree requirements."
+  },
+  "sources": [
+   {
+    "label": "Student Services Centre | Telfer School of Management — uOttawa",
+    "url": "https://telfer.uottawa.ca/en/bcom/student-services-centre/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-bcom-options",
+  "category": "programmes",
+  "keywords": [
+   "baccalauréat en commerce",
+   "bachelor of commerce",
+   "bcom",
+   "options bcom",
+   "comptabilité",
+   "accounting",
+   "finance",
+   "marketing",
+   "gestion des ressources humaines",
+   "entrepreneuriat",
+   "commerce uottawa"
+  ],
+  "question": {
+   "fr": "Quelles options peut-on choisir au baccalauréat en commerce de Telfer ?",
+   "en": "What options can I choose in the Telfer Bachelor of Commerce?"
+  },
+  "answer": {
+   "fr": "Le baccalauréat en commerce de Telfer combine une formation complète en gestion avec de l'apprentissage par l'expérience, comme la coop ou les stages, les compétitions de cas et les échanges. Tu peux te concentrer sur une ou deux options : comptabilité, analytique d'affaires, gestion des technologies d'affaires, entrepreneuriat, finance, analytique des soins de santé, gestion des ressources humaines, gestion internationale, gestion ou marketing.",
+   "en": "Telfer's Bachelor of Commerce combines a complete business education with experiential learning such as co-op or internships, case competitions and exchanges. You can focus on one or two options: accounting, business analytics, business technology management, entrepreneurship, finance, healthcare analytics, human resource management, international management, management or marketing."
+  },
+  "sources": [
+   {
+    "label": "Programs | Telfer School of Management — uOttawa",
+    "url": "https://telfer.uottawa.ca/en/programs/"
+   },
+   {
+    "label": "Undergraduate programs | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/"
+   },
+   {
+    "label": "Honours BCom, Option in Finance | Catalogue — uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-bcom-maitrise-acceleree",
+  "category": "programmes",
+  "keywords": [
+   "bcom msc",
+   "baccalauréat et maîtrise en gestion",
+   "bachelor and master in five years",
+   "maîtrise ès sciences en gestion",
+   "msc management",
+   "double diplôme accéléré telfer",
+   "dual fast-track telfer",
+   "commerce cinq ans"
+  ],
+  "question": {
+   "fr": "Est-ce qu'on peut faire un baccalauréat et une maîtrise en commerce en cinq ans ?",
+   "en": "Can I do a bachelor's and a master's in business in five years?"
+  },
+  "answer": {
+   "fr": "Oui ! Avec le double diplôme accéléré baccalauréat en commerce et maîtrise ès sciences en gestion, tu obtiens les deux diplômes en cinq ans. Tu réalises un projet de recherche dans une concentration, ce qui t'aide à te démarquer sur le marché du travail.",
+   "en": "Yes! With the Bachelor of Commerce plus Master of Science in Management dual fast-track degree, you earn both degrees in five years. You complete a research project in one concentration, which helps you stand out on the job market."
+  },
+  "sources": [
+   {
+    "label": "Programs | Telfer School of Management — uOttawa",
+    "url": "https://telfer.uottawa.ca/en/programs/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "f-telfer-carriere",
+  "category": "programmes",
+  "keywords": [
+   "centre de carrière telfer",
+   "telfer career centre",
+   "emploi bcom",
+   "carrière commerce",
+   "career development certificate",
+   "certificat développement de carrière",
+   "réseautage telfer",
+   "telfer networking"
+  ],
+  "question": {
+   "fr": "Est-ce que Telfer a son propre centre de carrière ?",
+   "en": "Does Telfer have its own career centre?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre de carrière de l'École de gestion Telfer aide les étudiants du baccalauréat, du MBA et les nouveaux diplômés à développer leurs compétences en gestion de carrière, avec des ressources, des programmes, des activités et des événements de réseautage avec les employeurs. Tu peux aussi y obtenir un Certificat de développement de carrière.",
+   "en": "Yes, the Telfer School of Management Career Centre helps undergraduate students, MBA students and recent alumni build their career management skills, with resources, programs, activities and networking events with employers. You can also earn a Career Development Certificate there."
+  },
+  "sources": [
+   {
+    "label": "Career Centre | Telfer School of Management — uOttawa",
+    "url": "https://telfer.uottawa.ca/en/careercentre/"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-fondation-universite",
+  "category": "services",
+  "keywords": [
+   "fondation",
+   "fondée quand",
+   "histoire de l'université",
+   "history",
+   "founded",
+   "1848",
+   "collège de bytown",
+   "college of bytown",
+   "oblats",
+   "fondateur",
+   "founder",
+   "guigues"
+  ],
+  "question": {
+   "fr": "Quand et par qui l'Université d'Ottawa a-t-elle été fondée ?",
+   "en": "When and by whom was the University of Ottawa founded?"
+  },
+  "answer": {
+   "fr": "L'Université a été fondée le 26 septembre 1848 sous le nom de Collège de Bytown, par les Oblats de Marie-Immaculée. Son fondateur est Mgr Joseph-Bruno Guigues, un Oblat originaire des Hautes-Alpes, en France. Dès le début, on y enseignait en français et en anglais.",
+   "en": "The University was founded on September 26, 1848, as the College of Bytown, by the Oblates of Mary Immaculate. Its founder was Bishop Joseph-Bruno Guigues, an Oblate from the Hautes-Alpes region of France. From the very beginning, it taught in both French and English."
+  },
+  "sources": [
+   {
+    "label": "About Francophonie — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/francophonie/about-francophonie"
+   },
+   {
+    "label": "French at uOttawa — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/francophonie/french-uottawa"
+   }
+  ],
+  "related": [
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue",
+   "g-bilinguisme-histoire"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-nom-universite-ottawa",
+  "category": "services",
+  "keywords": [
+   "nom de l'université",
+   "collège d'ottawa",
+   "college of ottawa",
+   "charte royale",
+   "royal charter",
+   "1933",
+   "loi sur l'université d'ottawa",
+   "university of ottawa act",
+   "statut universitaire",
+   "name history",
+   "depuis quand université"
+  ],
+  "question": {
+   "fr": "Depuis quand s'appelle-t-elle « Université d'Ottawa » ?",
+   "en": "Since when has it been called the \"University of Ottawa\"?"
+  },
+  "answer": {
+   "fr": "Le Collège de Bytown est devenu le Collège d'Ottawa en 1866 et a obtenu le statut d'université par charte royale. En 1889, une charte pontificale l'a élevé au rang d'université, et c'est le 18 avril 1933 qu'il est devenu l'« Université d'Ottawa ». La Loi sur l'Université d'Ottawa a été adoptée en 1965.",
+   "en": "The College of Bytown became the College of Ottawa in 1866 and received university status by Royal Charter. In 1889, a pontifical charter raised it to the rank of university, and on April 18, 1933, it became the \"University of Ottawa.\" The University of Ottawa Act was passed in 1965."
+  },
+  "sources": [
+   {
+    "label": "About Francophonie — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/francophonie/about-francophonie"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-plus-grande-universite-bilingue",
+   "g-bilinguisme-histoire"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-plus-grande-universite-bilingue",
+  "category": "services",
+  "keywords": [
+   "université bilingue",
+   "bilingual university",
+   "plus grande université bilingue",
+   "largest bilingual university",
+   "français anglais",
+   "french english",
+   "bilinguisme",
+   "bilingualism",
+   "pourquoi bilingue",
+   "francophone"
+  ],
+  "question": {
+   "fr": "Est-ce vrai que l'Université d'Ottawa est la plus grande université bilingue au monde ?",
+   "en": "Is uOttawa really the largest bilingual university in the world?"
+  },
+  "answer": {
+   "fr": "Oui ! L'Université d'Ottawa est la plus grande université bilingue français-anglais au monde. Elle se décrit comme un chef de file de l'Ontario français, du Canada français et de la Francophonie, et tu peux y étudier et y travailler dans la langue officielle de ton choix.",
+   "en": "Yes! The University of Ottawa is the largest English-French bilingual university in the world. It sees itself as a leader in French Ontario, French Canada and the wider French-speaking world, and you can study and work here in the official language of your choice."
+  },
+  "sources": [
+   {
+    "label": "About us — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/"
+   },
+   {
+    "label": "French at uOttawa — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/francophonie/french-uottawa"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-bilinguisme-histoire"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-bilinguisme-histoire",
+  "category": "services",
+  "keywords": [
+   "histoire du bilinguisme",
+   "bilingualism history",
+   "règlement sur le bilinguisme",
+   "regulation on bilingualism",
+   "1974",
+   "loi sur les services en français",
+   "french language services act",
+   "2016",
+   "langues officielles",
+   "official languages"
+  ],
+  "question": {
+   "fr": "Depuis quand l'Université est-elle officiellement bilingue ?",
+   "en": "Since when has the University been officially bilingual?"
+  },
+  "answer": {
+   "fr": "Dès sa fondation en 1848, l'Université a adopté l'anglais et le français comme langues officielles. Sa première politique sur le bilinguisme date de 1974, et en 2016 elle a été désignée en vertu de la Loi sur les services en français de l'Ontario. Ses règles sur le bilinguisme ont été mises à jour en 2022.",
+   "en": "Since its founding in 1848, the University has used English and French as its official languages. Its first bilingualism policy dates from 1974, and in 2016 it was designated under Ontario's French Language Services Act. Its bilingualism rules were updated in 2022."
+  },
+  "sources": [
+   {
+    "label": "Bilingual Services at the University of Ottawa — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/francophonie/bilingual-services-campus"
+   },
+   {
+    "label": "About Francophonie — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/francophonie/about-francophonie"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-offre-active",
+  "category": "services",
+  "keywords": [
+   "offre active",
+   "active offer",
+   "service en français",
+   "service in french",
+   "service in english",
+   "choisir ma langue",
+   "language of choice",
+   "plainte linguistique",
+   "language rights complaint",
+   "bonjour hello"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux me faire servir en français ou en anglais partout sur le campus ?",
+   "en": "Can I get service in French or English anywhere on campus?"
+  },
+  "answer": {
+   "fr": "Oui, c'est le principe de l'offre active : les services de l'Université t'accueillent dans les deux langues officielles, avec un « Bonjour, Hello » et de l'affichage bilingue, puis te servent dans la langue que tu choisis. Si on ne t'offre pas le service dans ta langue, tu peux déposer une plainte en matière de droits linguistiques.",
+   "en": "Yes, that's the idea behind active offer: University services greet you in both official languages, with a \"Bonjour, Hello\" and bilingual signs, then serve you in the language you choose. If you don't get service in your language, you can file a language rights complaint."
+  },
+  "sources": [
+   {
+    "label": "Bilingual Services at the University of Ottawa — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/francophonie/bilingual-services-campus"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-taille-universite",
+  "category": "services",
+  "keywords": [
+   "combien d'étudiants",
+   "how many students",
+   "taille",
+   "size",
+   "nombre d'employés",
+   "staff",
+   "diplômés",
+   "alumni",
+   "faits et chiffres",
+   "facts",
+   "statistiques"
+  ],
+  "question": {
+   "fr": "Combien y a-t-il d'étudiants à l'Université d'Ottawa ?",
+   "en": "How many students does the University of Ottawa have?"
+  },
+  "answer": {
+   "fr": "L'Université compte environ 50 000 étudiants et 12 000 professeurs, chercheurs et membres du personnel. Elle a aussi environ 300 000 diplômés à travers le monde.",
+   "en": "The University has about 50,000 students and 12,000 professors, researchers and staff. It also has around 300,000 alumni around the world."
+  },
+  "sources": [
+   {
+    "label": "About us — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-classement-recherche",
+  "category": "services",
+  "keywords": [
+   "classement",
+   "ranking",
+   "u15",
+   "intensité de recherche",
+   "research intensity",
+   "financement de recherche",
+   "research funding",
+   "meilleure université",
+   "top universities",
+   "rang"
+  ],
+  "question": {
+   "fr": "Où se classe l'Université d'Ottawa en recherche ?",
+   "en": "How does uOttawa rank in research?"
+  },
+  "answer": {
+   "fr": "L'Université d'Ottawa est membre du U15, le regroupement des universités de recherche canadiennes. Elle se classe au 5e rang au Canada pour l'intensité de la recherche et au 7e rang pour le financement de la recherche, et elle a reçu plus d'un demi-milliard de dollars en financement de recherche en 2025.",
+   "en": "The University of Ottawa is a member of the U15 group of Canadian research universities. It ranks 5th in Canada for research intensity and 7th for research funding, and it received over half a billion dollars in research funding in 2025."
+  },
+  "sources": [
+   {
+    "label": "About us — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-territoire-algonquin",
+  "category": "services",
+  "keywords": [
+   "territoire",
+   "territory",
+   "algonquin",
+   "anishinàbeg",
+   "non cédé",
+   "unceded",
+   "reconnaissance territoriale",
+   "land acknowledgement",
+   "affirmation autochtone",
+   "indigenous affirmation",
+   "autochtones"
+  ],
+  "question": {
+   "fr": "Sur quel territoire se trouve l'Université d'Ottawa ?",
+   "en": "Whose land is the University of Ottawa on?"
+  },
+  "answer": {
+   "fr": "L'Université est située sur le territoire non cédé des Anishinàbeg algonquins. Son Affirmation autochtone, rédigée avec des membres de la communauté autochtone, rend hommage au peuple algonquin, gardien traditionnel de ce territoire, et à tous les peuples autochtones qui vivent à Ottawa. Elle est lue au début des événements officiels.",
+   "en": "The University is located on the unceded territory of the Algonquin Anishinàbeg people. Its Indigenous Affirmation, written with members of the Indigenous community, pays respect to the Algonquin people as the traditional guardians of this land, and to all Indigenous peoples who call Ottawa home. It is read at the start of official events."
+  },
+  "sources": [
+   {
+    "label": "About us — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/"
+   },
+   {
+    "label": "Indigenous — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/indigenous"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-rectrice-chanceliere",
+  "category": "services",
+  "keywords": [
+   "recteur",
+   "rectrice",
+   "president",
+   "présidente",
+   "vice-chancelière",
+   "marie-eve sylvestre",
+   "chancelière",
+   "chancellor",
+   "claudette commanda",
+   "qui dirige l'université",
+   "leadership"
+  ],
+  "question": {
+   "fr": "Qui dirige l'Université d'Ottawa ?",
+   "en": "Who leads the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "Marie-Eve Sylvestre est rectrice et vice-chancelière depuis le 1er juillet 2025; son mandat se termine le 30 juin 2030. La chancelière de l'Université est Claudette Commanda, nommée le 9 novembre 2022.",
+   "en": "Marie-Eve Sylvestre has been president and vice-chancellor since July 1, 2025; her term ends on June 30, 2030. The University's chancellor is Claudette Commanda, appointed on November 9, 2022."
+  },
+  "sources": [
+   {
+    "label": "Leadership and governance — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-pavillon-tabaret-nom",
+  "category": "batiments",
+  "keywords": [
+   "tabaret",
+   "pavillon tabaret",
+   "tabaret hall",
+   "pourquoi tabaret",
+   "joseph-henri tabaret",
+   "550 cumberland",
+   "administration",
+   "bâtiment historique",
+   "bureau de liaison",
+   "visites du campus"
+  ],
+  "question": {
+   "fr": "Pourquoi le pavillon Tabaret porte-t-il ce nom, et qu'est-ce qu'on y trouve ?",
+   "en": "Why is it called Tabaret Hall, and what's inside?"
+  },
+  "answer": {
+   "fr": "Le pavillon Tabaret, au 550, rue Cumberland, porte depuis 1971 le nom du père Joseph-Henri Tabaret, considéré comme le « bâtisseur » de l'Université : c'est sous sa direction que le Collège de Bytown est devenu une université. C'est le centre administratif du campus; on y trouve notamment InfoService, InfoAdmission, le Bureau de liaison et les visites du campus, ainsi qu'un Go Café.",
+   "en": "Tabaret Hall, at 550 Cumberland Street, has been named since 1971 after Father Joseph-Henri Tabaret, considered the \"builder\" of the University: under his leadership, the College of Bytown became a university. It's the campus administrative hub, home to InfoService, InfoAdmission, the Liaison Office and campus tours, plus a Go Café."
+  },
+  "sources": [
+   {
+    "label": "Tabaret Hall (TBT) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/tabaret-hall"
+   }
+  ],
+  "related": [
+   "g-monument-francophonie",
+   "g-campus-kanata-nord",
+   "g-itineraire-accessible"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-nom-gee-gees",
+  "category": "evenements",
+  "keywords": [
+   "gee-gees",
+   "gee gees",
+   "pourquoi gee-gees",
+   "why gee-gees",
+   "origine du nom",
+   "name origin",
+   "mascotte",
+   "mascot",
+   "cheval",
+   "racehorse",
+   "gg"
+  ],
+  "question": {
+   "fr": "D'où vient le nom « Gee-Gees » ?",
+   "en": "Where does the name \"Gee-Gees\" come from?"
+  },
+  "answer": {
+   "fr": "Comme bien des établissements du 19e siècle, les équipes sportives de l'Université étaient d'abord connues seulement par leurs couleurs, le grenat et le gris, en anglais « Garnet and Grey ». L'abréviation « GG » a été associée à « gee-gee », un surnom britannique courant pour un cheval de course. Le nom et le logo d'aujourd'hui sont le fruit de plus de 170 ans d'histoire.",
+   "en": "Like many 19th-century schools, the University's sports teams were first known only by their colours, Garnet and Grey. The shorthand \"GG\" became linked to \"gee-gee,\" a common British nickname for a racehorse. Today's name and logo are the result of more than 170 years of history."
+  },
+  "sources": [
+   {
+    "label": "Gee-Gees Quick Facts — Ottawa Gee-Gees",
+    "url": "https://teams.geegees.ca/inside-athletics/geegeesfacts"
+   }
+  ],
+  "related": [
+   "g-couleurs-universite",
+   "g-match-panda",
+   "g-jour-franco-ontarien"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-couleurs-universite",
+  "category": "evenements",
+  "keywords": [
+   "couleurs",
+   "colours",
+   "colors",
+   "grenat",
+   "garnet",
+   "gris",
+   "grey",
+   "couleurs officielles",
+   "official colours",
+   "gee-gees couleurs"
+  ],
+  "question": {
+   "fr": "Quelles sont les couleurs officielles de l'Université d'Ottawa ?",
+   "en": "What are the University of Ottawa's official colours?"
+  },
+  "answer": {
+   "fr": "Les couleurs officielles de l'Université sont le grenat et le gris. Ce sont d'ailleurs ces couleurs, « Garnet and Grey », qui ont inspiré le nom des Gee-Gees.",
+   "en": "The University's official colours are garnet and grey. In fact, those colours, \"Garnet and Grey,\" inspired the Gee-Gees name."
+  },
+  "sources": [
+   {
+    "label": "Gee-Gees Quick Facts — Ottawa Gee-Gees",
+    "url": "https://teams.geegees.ca/inside-athletics/geegeesfacts"
+   }
+  ],
+  "related": [
+   "g-nom-gee-gees",
+   "g-match-panda",
+   "g-jour-franco-ontarien"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-match-panda",
+  "category": "evenements",
+  "keywords": [
+   "match panda",
+   "panda game",
+   "pedro",
+   "panda",
+   "carleton",
+   "ravens",
+   "football",
+   "td place",
+   "trophée",
+   "trophy",
+   "rivalité",
+   "rivalry"
+  ],
+  "question": {
+   "fr": "C'est quoi le match Panda ?",
+   "en": "What is the Panda Game?"
+  },
+  "answer": {
+   "fr": "Le match Panda est une tradition de football entre les Gee-Gees et leurs rivaux de Carleton depuis 1955. Il doit son nom à Pedro, un panda en peluche offert en prix au gagnant du match de 1955. Le trophée actuel, en aluminium brossé, a été créé en 2013 par l'artiste d'Ottawa Dale Dunning, et le match se joue à la Place TD.",
+   "en": "The Panda Game is a football tradition between the Gee-Gees and their Carleton rivals that dates back to 1955. It's named after Pedro, a stuffed panda offered as the prize for the 1955 game. The current brushed-aluminum trophy was created in 2013 by Ottawa artist Dale Dunning, and the game is played at TD Place."
+  },
+  "sources": [
+   {
+    "label": "The Panda Game — Ottawa Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/pandagame"
+   }
+  ],
+  "related": [
+   "g-nom-gee-gees",
+   "g-couleurs-universite",
+   "g-jour-franco-ontarien"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-francophonie-chiffres",
+  "category": "services",
+  "keywords": [
+   "francophonie",
+   "programmes en français",
+   "programs in french",
+   "étudier en français",
+   "study in french",
+   "combien de francophones",
+   "french students",
+   "immersion",
+   "ontario français",
+   "franco-ontarien"
+  ],
+  "question": {
+   "fr": "Combien d'étudiants étudient en français à l'Université d'Ottawa ?",
+   "en": "How many students study in French at uOttawa?"
+  },
+  "answer": {
+   "fr": "Plus de 15 000 étudiants sont inscrits à des programmes offerts en français, et environ 2 000 au Régime d'immersion en français. L'Université offre 371 programmes entièrement en français, et elle accueille 80 % des inscriptions universitaires aux programmes en français en Ontario.",
+   "en": "More than 15,000 students are enrolled in programs taught in French, and about 2,000 in the French Immersion Stream. The University offers 371 programs entirely in French, and it accounts for 80% of enrolments in French-language university programs in Ontario."
+  },
+  "sources": [
+   {
+    "label": "French at uOttawa — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/francophonie/french-uottawa"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-jour-franco-ontarien",
+  "category": "evenements",
+  "keywords": [
+   "jour des franco-ontariens",
+   "franco-ontarian day",
+   "25 septembre",
+   "september 25",
+   "drapeau franco-ontarien",
+   "franco-ontarian flag",
+   "vert et blanc",
+   "green and white",
+   "francophonie",
+   "fête"
+  ],
+  "question": {
+   "fr": "Est-ce que l'Université souligne le Jour des Franco-Ontariens ?",
+   "en": "Does the University celebrate Franco-Ontarian Day?"
+  },
+  "answer": {
+   "fr": "Oui ! Depuis 2010, l'Université célèbre chaque 25 septembre le Jour des Franco-Ontariens et des Franco-Ontariennes. Le drapeau franco-ontarien vert et blanc, hissé pour la première fois à Sudbury en 1975, flotte officiellement sur le campus depuis 1983.",
+   "en": "Yes! Since 2010, the University has celebrated Franco-Ontarian Day every September 25. The green and white Franco-Ontarian flag, first raised in Sudbury in 1975, was officially raised on campus for the first time in 1983."
+  },
+  "sources": [
+   {
+    "label": "About Francophonie — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/francophonie/about-francophonie"
+   }
+  ],
+  "related": [
+   "g-nom-gee-gees",
+   "g-couleurs-universite",
+   "g-match-panda"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-monument-francophonie",
+  "category": "batiments",
+  "keywords": [
+   "monument de la francophonie",
+   "monument",
+   "francophonie",
+   "2013",
+   "repère",
+   "landmark",
+   "franco-ontarien",
+   "art public",
+   "public art",
+   "statue"
+  ],
+  "question": {
+   "fr": "C'est quoi le Monument de la francophonie sur le campus ?",
+   "en": "What is the Monument de la francophonie on campus?"
+  },
+  "answer": {
+   "fr": "Le Monument de la francophonie a été inauguré sur le campus le 25 septembre 2013, pour le Jour des Franco-Ontariens. C'est un repère concret qui montre l'engagement de l'Université envers la communauté franco-ontarienne et la Francophonie mondiale.",
+   "en": "The Monument de la francophonie was unveiled on campus on September 25, 2013, for Franco-Ontarian Day. It's a tangible landmark showing the University's commitment to the Franco-Ontarian community and the French-speaking world."
+  },
+  "sources": [
+   {
+    "label": "About Francophonie — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/francophonie/about-francophonie"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-campus-kanata-nord",
+   "g-itineraire-accessible"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-rotonde-chuo",
+  "category": "services",
+  "keywords": [
+   "la rotonde",
+   "journal étudiant",
+   "student newspaper",
+   "chuo",
+   "radio étudiante",
+   "campus radio",
+   "radio",
+   "médias étudiants",
+   "student media",
+   "journal"
+  ],
+  "question": {
+   "fr": "Y a-t-il un journal étudiant ou une radio sur le campus ?",
+   "en": "Is there a student newspaper or radio station on campus?"
+  },
+  "answer": {
+   "fr": "Oui. La Rotonde, publiée pour la première fois le 21 novembre 1932, est le plus ancien journal étudiant universitaire de langue française hors Québec. La radio bilingue CHUO diffuse depuis 1984 et offre des émissions en français, en anglais et dans d'autres langues.",
+   "en": "Yes. La Rotonde, first published on November 21, 1932, is the oldest French-language university student newspaper outside Quebec. The bilingual radio station CHUO has been broadcasting since 1984, with programming in French, English and other languages."
+  },
+  "sources": [
+   {
+    "label": "About Francophonie — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/francophonie/about-francophonie"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-presses-universite",
+  "category": "services",
+  "keywords": [
+   "presses de l'université d'ottawa",
+   "university of ottawa press",
+   "maison d'édition",
+   "publisher",
+   "livres",
+   "books",
+   "éditions",
+   "publication",
+   "presse universitaire",
+   "university press"
+  ],
+  "question": {
+   "fr": "Est-ce que l'Université a sa propre maison d'édition ?",
+   "en": "Does the University have its own publishing house?"
+  },
+  "answer": {
+   "fr": "Oui, les Presses de l'Université d'Ottawa. Elles sont nées en 1936 sous le nom d'Éditions de l'Université d'Ottawa et ont pris leur nom actuel en 1986. Ce sont les plus anciennes presses universitaires de langue française au Canada et les seules presses universitaires bilingues en Amérique du Nord.",
+   "en": "Yes, the University of Ottawa Press. It was founded in 1936 as the Éditions de l'Université d'Ottawa and took its current name in 1986. It's Canada's oldest French-language university press and the only bilingual university press in North America."
+  },
+  "sources": [
+   {
+    "label": "About Francophonie — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/francophonie/about-francophonie"
+   },
+   {
+    "label": "Research and innovation — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-archives-histoire",
+  "category": "services",
+  "keywords": [
+   "archives",
+   "histoire de l'université",
+   "university history",
+   "collections spéciales",
+   "special collections",
+   "livres rares",
+   "rare books",
+   "manuscrits",
+   "manuscripts",
+   "morisset",
+   "recherche historique"
+  ],
+  "question": {
+   "fr": "Où puis-je en apprendre plus sur l'histoire de l'Université ou consulter des archives ?",
+   "en": "Where can I learn more about the University's history or see archives?"
+  },
+  "answer": {
+   "fr": "Les Archives et collections spéciales de la Bibliothèque sont au niveau concourse du pavillon Morisset. On y trouve des fonds d'archives, des livres rares, des manuscrits et des périodiques anciens, et on y offre des ateliers, des visites et un service de consultation.",
+   "en": "The Library's Archives and Special Collections are on the concourse level of Morisset Hall. They hold archival collections, rare books, manuscripts and old periodicals, and offer workshops, visits and consultation services."
+  },
+  "sources": [
+   {
+    "label": "Archives and Special Collections — uOttawa",
+    "url": "https://www.uottawa.ca/library/archives-special-collections"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-recherche-uottawa",
+  "category": "services",
+  "keywords": [
+   "recherche",
+   "research",
+   "chaires de recherche du canada",
+   "canada research chairs",
+   "revenus de recherche",
+   "research revenue",
+   "vice-rectorat à la recherche",
+   "research office",
+   "intelligence artificielle",
+   "research areas"
+  ],
+  "question": {
+   "fr": "Quelle place occupe la recherche à l'Université d'Ottawa ?",
+   "en": "How big is research at the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "La recherche est au cœur de l'Université : elle compte 94 chaires de recherche du Canada et 512 millions de dollars en revenus de recherche. Ses grands axes incluent notamment l'intelligence artificielle, la cybersécurité, la santé, les politiques publiques et la recherche arctique. Le Cabinet du vice-recteur à la recherche et à l'innovation est au pavillon Tabaret, local 246.",
+   "en": "Research is central to the University: it has 94 Canada Research Chairs and $512 million in research revenue. Major areas include artificial intelligence, cybersecurity, health care, public policy and Arctic research. The Office of the Vice-President, Research and Innovation is in Tabaret Hall, Room 246."
+  },
+  "sources": [
+   {
+    "label": "Research and innovation — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-carrefour-entrepreneuriat",
+  "category": "services",
+  "keywords": [
+   "carrefour de l'entrepreneuriat",
+   "entrepreneurship hub",
+   "ehub",
+   "entrepreneuriat",
+   "entrepreneurship",
+   "démarrer une entreprise",
+   "start a business",
+   "startup",
+   "idée d'entreprise",
+   "business idea",
+   "stm 122"
+  ],
+  "question": {
+   "fr": "J'ai une idée d'entreprise : où trouver de l'aide à l'Université ?",
+   "en": "I have a business idea: where can I get help at uOttawa?"
+  },
+  "answer": {
+   "fr": "Va voir le Carrefour de l'entrepreneuriat (eHub), au Complexe STEM, local 122, au 150, privée Louis-Pasteur. Il offre des programmes, des ateliers, des événements et un réseau de plus de 120 mentors aux étudiants, chercheurs, professeurs, membres du personnel et diplômés, à toutes les étapes de leur projet.",
+   "en": "Visit the Entrepreneurship Hub (eHub), in the STEM Complex, Room 122, at 150 Louis-Pasteur Private. It offers programs, workshops, events and a network of over 120 mentors to students, researchers, professors, staff and alumni at every stage of their project."
+  },
+  "sources": [
+   {
+    "label": "The Entrepreneurship Hub (Research and innovation) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/entrepreneurship-hub"
+   },
+   {
+    "label": "The Entrepreneurship Hub (Study) — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/entrepreneurship-hub"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-startup-garage",
+  "category": "services",
+  "keywords": [
+   "startup garage",
+   "accélérateur",
+   "accelerator",
+   "démarrage d'entreprise",
+   "startup",
+   "fondateurs",
+   "founders",
+   "mentorat",
+   "mentorship",
+   "espace de travail",
+   "workspace",
+   "capital"
+  ],
+  "question": {
+   "fr": "C'est quoi le Startup Garage ?",
+   "en": "What is Startup Garage?"
+  },
+  "answer": {
+   "fr": "Le Startup Garage est un programme d'accélération offert toute l'année par le Carrefour de l'entrepreneuriat, pour les entrepreneurs qui veulent lancer et faire grandir leur entreprise. Les fondateurs ont accès à un réseau de pairs, du mentorat, des services-conseils, du capital, un espace de travail et des ressources, de l'idée jusqu'à la croissance.",
+   "en": "Startup Garage is a year-round accelerator run by the Entrepreneurship Hub for entrepreneurs who want to start and grow their business. Founders get access to peer networks, mentorship, advisory services, capital, workspace and resources, from idea to launch to growth."
+  },
+  "sources": [
+   {
+    "label": "The Entrepreneurship Hub (Research and innovation) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/entrepreneurship-hub"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-certificat-esprit-entrepreneurial",
+  "category": "services",
+  "keywords": [
+   "certificat esprit entrepreneurial",
+   "entrepreneurial mindset certificate",
+   "certificat",
+   "ateliers entrepreneuriat",
+   "entrepreneurship workshops",
+   "cycles supérieurs",
+   "graduate students",
+   "chercheurs",
+   "researchers",
+   "compétences"
+  ],
+  "question": {
+   "fr": "Y a-t-il un certificat en entrepreneuriat pour les chercheurs ?",
+   "en": "Is there an entrepreneurship certificate for researchers?"
+  },
+  "answer": {
+   "fr": "Oui, le Certificat en esprit entrepreneurial du Carrefour de l'entrepreneuriat. Pour l'obtenir, tu suis cinq ateliers pratiques répartis dans trois volets : compétences, outils et réseautage. Il est idéal pour les chercheurs et les étudiants aux cycles supérieurs.",
+   "en": "Yes, the Entrepreneurship Hub's Entrepreneurial Mindset Certificate. To earn it, you complete five hands-on workshops from three streams: skills, tools and networking. It's ideal for researchers and graduate students."
+  },
+  "sources": [
+   {
+    "label": "The Entrepreneurship Hub (Research and innovation) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/entrepreneurship-hub"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-campus-kanata-nord",
+  "category": "batiments",
+  "keywords": [
+   "kanata nord",
+   "kanata north",
+   "campus de kanata",
+   "parc technologique",
+   "tech park",
+   "hub350",
+   "350 legget",
+   "legget drive",
+   "industrie",
+   "industry",
+   "partenariats"
+  ],
+  "question": {
+   "fr": "C'est quoi le campus Kanata Nord de l'Université ?",
+   "en": "What is uOttawa's Kanata North campus?"
+  },
+  "answer": {
+   "fr": "C'est la présence de l'Université dans le plus grand parc technologique du Canada, à Kanata. Depuis 2018, elle y favorise des partenariats de recherche et d'innovation avec l'industrie et l'accès aux talents étudiants. Le campus est au 350, promenade Legget, suite 300, et il y a aussi un espace uOttawa au Hub350.",
+   "en": "It's the University's presence in Canada's largest technology park, in Kanata. Since 2018, it has fostered research and innovation partnerships with industry and access to student talent. The campus is at 350 Legget Drive, Suite 300, and there's also a uOttawa space at Hub350."
+  },
+  "sources": [
+   {
+    "label": "Kanata North campus — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/kanata-north"
+   },
+   {
+    "label": "About us — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-itineraire-accessible"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-services-soutien-innovation",
+  "category": "services",
+  "keywords": [
+   "services de soutien à l'innovation",
+   "innovation support services",
+   "iss",
+   "commercialisation",
+   "commercialization",
+   "brevet",
+   "partenariat industriel",
+   "industry partnership",
+   "transfert technologique",
+   "pavillon site"
+  ],
+  "question": {
+   "fr": "Qui aide les chercheurs à transformer leurs découvertes en innovations ?",
+   "en": "Who helps researchers turn their discoveries into innovations?"
+  },
+  "answer": {
+   "fr": "Ce sont les Services de soutien à l'innovation (SSI). Ils aident les chercheurs à transformer leurs idées et découvertes en avancées pour la société, grâce à des partenariats avec l'industrie et à l'apprentissage expérientiel. Leur bureau est au pavillon SITE, local 3042, au 800, avenue King-Edward, et leur numéro est le 613-562-5399.",
+   "en": "That's Innovation Support Services (ISS). They help researchers turn their ideas and discoveries into societal advancements through industry partnerships and experiential learning. Their office is in the SITE Building, Room 3042, at 800 King Edward Avenue, and their number is 613-562-5399."
+  },
+  "sources": [
+   {
+    "label": "Research and innovation — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/"
+   },
+   {
+    "label": "Contact — uOttawa",
+    "url": "https://www.uottawa.ca/en/contact"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-experts-medias",
+  "category": "services",
+  "keywords": [
+   "relations avec les médias",
+   "media relations",
+   "journaliste",
+   "journalist",
+   "expert",
+   "trouver un expert",
+   "find an expert",
+   "entrevue",
+   "interview",
+   "salle de presse",
+   "newsroom"
+  ],
+  "question": {
+   "fr": "Je suis journaliste : comment joindre l'Université ou trouver un expert ?",
+   "en": "I'm a journalist: how do I reach the University or find an expert?"
+  },
+  "answer": {
+   "fr": "Communique avec l'équipe des relations avec les médias : son courriel est indiqué sur la page Médias de l'Université. Tu peux aussi chercher dans la base de données des experts, qui regroupe plus de 500 spécialistes capables de commenter l'actualité.",
+   "en": "Contact the media relations team: their email is listed on the University's Media page. You can also search the experts database, which lists more than 500 specialists who can comment on current events."
+  },
+  "sources": [
+   {
+    "label": "uOttawa Media Relations — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/media"
+   },
+   {
+    "label": "Experts database — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/media/experts-database"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-evenements-publics",
+  "category": "evenements",
+  "keywords": [
+   "événements publics",
+   "public events",
+   "conférences",
+   "lectures",
+   "conférencier",
+   "guest speaker",
+   "calendrier des événements",
+   "events calendar",
+   "qu'est-ce qui se passe",
+   "what's on",
+   "colloque"
+  ],
+  "question": {
+   "fr": "Y a-t-il des conférences ou des événements ouverts au public sur le campus ?",
+   "en": "Are there lectures or events open to the public on campus?"
+  },
+  "answer": {
+   "fr": "Oui, il y en a toute l'année : conférences, ateliers, panels et activités organisés par les facultés et les services. Le calendrier de tous les événements de l'Université te permet de les filtrer par faculté ou par service pour voir ce qui s'en vient.",
+   "en": "Yes, all year round: lectures, workshops, panels and activities organized by faculties and services. The University's all-events calendar lets you filter by faculty or service to see what's coming up."
+  },
+  "sources": [
+   {
+    "label": "All events — uOttawa",
+    "url": "https://www.uottawa.ca/en/events-all"
+   },
+   {
+    "label": "uOttawa Media Relations — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/media"
+   }
+  ],
+  "related": [
+   "g-nom-gee-gees",
+   "g-couleurs-universite",
+   "g-match-panda"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "g-visite-stationnement-retard",
+  "category": "transport",
+  "keywords": [
+   "visite du campus stationnement",
+   "tour parking",
+   "où me stationner pour la visite",
+   "where to park for tour",
+   "garage desmarais",
+   "desmarais garage",
+   "retard visite",
+   "late for tour",
+   "point de rencontre",
+   "meeting point",
+   "55 laurier"
+  ],
+  "question": {
+   "fr": "Où me stationner pour une visite du campus, et que se passe-t-il si j'arrive en retard ?",
+   "en": "Where do I park for a campus tour, and what if I'm late?"
+  },
+  "answer": {
+   "fr": "Tu peux te stationner au garage Desmarais, au 55, avenue Laurier Est, pendant toute la durée de la visite, qui part justement du hall du pavillon Desmarais. Arrive 10 à 15 minutes d'avance : les ambassadeurs étudiants ne sont disponibles qu'à l'heure prévue, donc les retardataires ne peuvent pas être accueillis.",
+   "en": "You can park in the Desmarais Garage, at 55 Laurier Avenue East, for the whole tour, which starts right in the Desmarais Hall lobby. Arrive 10 to 15 minutes early: student ambassadors are only available at the scheduled time, so late arrivals can't be accommodated."
+  },
+  "sources": [
+   {
+    "label": "Campus tours — uOttawa",
+    "url": "https://www.uottawa.ca/study/campus-tours-admissions-events/campus-tours"
+   }
+  ],
+  "related": [
+   "g-crx-para-transpo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-visite-programmes",
+  "category": "evenements",
+  "keywords": [
+   "visite pour quels programmes",
+   "tour programs",
+   "visite cycles supérieurs",
+   "graduate tour",
+   "visite droit",
+   "law tour",
+   "visite médecine",
+   "medicine tour",
+   "futur étudiant",
+   "prospective student",
+   "parents visite"
+  ],
+  "question": {
+   "fr": "Les visites guidées couvrent-elles tous les programmes, y compris aux cycles supérieurs ?",
+   "en": "Do the guided tours cover all programs, including graduate studies?"
+  },
+  "answer": {
+   "fr": "Les visites s'adressent surtout aux futurs étudiants au premier cycle en arts, génie, sciences de la santé, sciences, sciences sociales et à l'École de gestion Telfer. Les visites pour l'éducation, le droit et la médecine ne sont pas garanties, et les ambassadeurs étudiants ne peuvent pas répondre aux questions sur les programmes des cycles supérieurs.",
+   "en": "Tours are mainly for prospective undergraduate students in Arts, Engineering, Health Sciences, Science, Social Sciences and the Telfer School of Management. Tours for Education, Law and Medicine can't be guaranteed, and student ambassadors can't answer graduate program questions."
+  },
+  "sources": [
+   {
+    "label": "Campus tours — uOttawa",
+    "url": "https://www.uottawa.ca/study/campus-tours-admissions-events/campus-tours"
+   }
+  ],
+  "related": [
+   "g-nom-gee-gees",
+   "g-couleurs-universite",
+   "g-match-panda"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-bureau-liaison",
+  "category": "services",
+  "keywords": [
+   "bureau de liaison",
+   "liaison office",
+   "futurs étudiants",
+   "future students",
+   "recrutement",
+   "recruitment",
+   "conseillers d'orientation",
+   "guidance counsellors",
+   "ambassadeurs étudiants",
+   "student ambassadors",
+   "tabaret 088"
+  ],
+  "question": {
+   "fr": "Qui peut renseigner les futurs étudiants et leurs parents ?",
+   "en": "Who can help future students and their parents?"
+  },
+  "answer": {
+   "fr": "C'est le Bureau de liaison, au pavillon Tabaret, 550, rue Cumberland, local 088. Il organise les visites du campus, les activités pour futurs étudiants et le programme d'ambassadeurs étudiants. Tu peux le joindre au 613-562-5800, poste 1000, ou sans frais au 1-877-868-8292, du lundi au vendredi de 9 h à 16 h 30 entre septembre et mai, et jusqu'à 15 h 30 l'été.",
+   "en": "That's the Liaison Office, in Tabaret Hall, 550 Cumberland Street, Room 088. It runs campus tours, activities for future students and the student ambassador program. Reach it at 613-562-5800, ext. 1000, or toll-free at 1-877-868-8292, Monday to Friday, 9 a.m. to 4:30 p.m. from September to May, and until 3:30 p.m. in summer."
+  },
+  "sources": [
+   {
+    "label": "Contact — uOttawa",
+    "url": "https://www.uottawa.ca/en/contact"
+   },
+   {
+    "label": "Campus tours — uOttawa",
+    "url": "https://www.uottawa.ca/study/campus-tours-admissions-events/campus-tours"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-visiteur-premier-arret",
+  "category": "services",
+  "keywords": [
+   "je suis visiteur",
+   "visitor",
+   "par où commencer",
+   "where do i start",
+   "renseignements généraux",
+   "general inquiries",
+   "je suis perdu",
+   "i'm lost",
+   "accueil",
+   "information",
+   "numéro principal"
+  ],
+  "question": {
+   "fr": "Je suis visiteur et je ne sais pas où aller : par où commencer ?",
+   "en": "I'm a visitor and don't know where to go: where should I start?"
+  },
+  "answer": {
+   "fr": "Pour les renseignements généraux, l'Université répond au 613-562-5700, et son adresse principale est le pavillon Tabaret, au 550, rue Cumberland. Pour t'orienter, la carte interactive du campus te donne les pavillons, les itinéraires, le stationnement et les endroits pour manger. Et tu peux aussi me poser ta question ici !",
+   "en": "For general inquiries, the University answers at 613-562-5700, and its main address is Tabaret Hall, 550 Cumberland Street. To find your way, the interactive campus map shows buildings, directions, parking and places to eat. And you can also ask me right here!"
+  },
+  "sources": [
+   {
+    "label": "Contact — uOttawa",
+    "url": "https://www.uottawa.ca/en/contact"
+   },
+   {
+    "label": "Campus maps — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-hebergement-ete-visiteurs",
+  "category": "services",
+  "keywords": [
+   "hébergement d'été",
+   "summer accommodation",
+   "dormir sur le campus",
+   "stay on campus",
+   "chambre",
+   "room",
+   "hôtel",
+   "hotel",
+   "résidence été",
+   "visiteurs",
+   "famille",
+   "groupe"
+  ],
+  "question": {
+   "fr": "Est-ce que des visiteurs peuvent dormir en résidence l'été ?",
+   "en": "Can visitors stay in residence in the summer?"
+  },
+  "answer": {
+   "fr": "Oui ! De mai à août, l'Université ouvre ses résidences aux voyageurs, familles, groupes, équipes sportives et participants à des congrès, pour de courts ou de longs séjours. Pour 1 à 9 chambres, tu réserves en ligne; pour 10 chambres ou plus, tu remplis le formulaire de demande de groupe; et pour 30 nuits ou plus, tu communiques avec Congrès et réservations.",
+   "en": "Yes! From May to August, the University opens its residences to travellers, families, groups, sports teams and conference attendees, for short or long stays. For 1 to 9 rooms, book online; for 10 rooms or more, fill out the group request form; and for 30 nights or more, contact Conventions and Reservations."
+  },
+  "sources": [
+   {
+    "label": "Summer accommodation — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/reservations/summer-accommodation"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-organiser-evenement",
+  "category": "services",
+  "keywords": [
+   "louer une salle",
+   "rent a room",
+   "organiser un événement",
+   "host an event",
+   "congrès",
+   "conference",
+   "réservation de salle",
+   "room booking",
+   "traiteur",
+   "catering",
+   "congrès et réservations"
+  ],
+  "question": {
+   "fr": "Comment louer une salle ou organiser un événement à l'Université ?",
+   "en": "How do I rent a room or host an event at uOttawa?"
+  },
+  "answer": {
+   "fr": "Adresse-toi à Congrès et réservations, ton guichet unique pour les réunions, conférences et événements privés : réservation de salles, traiteur, audiovisuel et hébergement d'été. Le bureau est au Centre universitaire Jock-Turcot, local 339, au 613-562-5800, poste 4424; il faut prendre rendez-vous avant de passer.",
+   "en": "Contact Conventions and Reservations, your one-stop shop for meetings, conferences and private events: room booking, catering, AV and summer accommodation. The office is in the Jock Turcot University Centre, Room 339, at 613-562-5800, ext. 4424; you need an appointment before dropping by."
+  },
+  "sources": [
+   {
+    "label": "Conventions and Reservations — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/reservations"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-itineraire-accessible",
+  "category": "batiments",
+  "keywords": [
+   "itinéraire accessible",
+   "accessible route",
+   "carte interactive",
+   "interactive map",
+   "fauteuil roulant",
+   "wheelchair",
+   "sans obstacle",
+   "barrier-free",
+   "itinéraire le plus chaud",
+   "warmest route",
+   "directions"
+  ],
+  "question": {
+   "fr": "Comment trouver un itinéraire accessible sur le campus ?",
+   "en": "How do I find an accessible route on campus?"
+  },
+  "answer": {
+   "fr": "La carte interactive du campus offre plusieurs modes d'itinéraire : à pied, accessible, à vélo, en voiture et même « le plus chaud » pour l'hiver. Choisis le mode accessible pour un trajet sans obstacle; chaque fiche de pavillon indique aussi ses entrées accessibles, ses ascenseurs et ses toilettes.",
+   "en": "The interactive campus map offers several route modes: walking, accessible, cycling, driving and even \"warmest\" for winter. Choose the accessible mode for a barrier-free path; each building page also lists its accessible entrances, elevators and washrooms."
+  },
+  "sources": [
+   {
+    "label": "Campus maps — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps"
+   },
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-crx-entrees-accessibles",
+  "category": "batiments",
+  "keywords": [
+   "entrée accessible crx",
+   "crx accessible entrance",
+   "entrer dans le crx",
+   "enter crx",
+   "fauteuil roulant",
+   "wheelchair",
+   "porte automatique",
+   "accessible door",
+   "louis-pasteur",
+   "privée university",
+   "lamoureux"
+  ],
+  "question": {
+   "fr": "Où sont les entrées accessibles du pavillon CRX ?",
+   "en": "Where are the accessible entrances to the CRX building?"
+  },
+  "answer": {
+   "fr": "Tu peux entrer au 1er étage du CRX par les portes de la privée Louis-Pasteur, au coin sud-est du bâtiment, ou par la porte de la privée University, du côté nord. Le CRX est aussi relié de façon accessible au pavillon Lamoureux, du 1er au 4e étage, et au pavillon Montpetit, du 2e au 4e étage.",
+   "en": "You can enter the CRX 1st floor through the doors off Louis-Pasteur Private, at the southeast corner of the building, or through the door off University Private, on the north side. CRX also has accessible connections to Lamoureux Hall on floors 1 to 4, and to Montpetit Hall on floors 2 to 4."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-crx-toilettes",
+  "category": "batiments",
+  "keywords": [
+   "toilettes crx",
+   "washroom crx",
+   "salle de bain",
+   "bathroom",
+   "toilettes accessibles",
+   "accessible washroom",
+   "toilettes individuelles",
+   "single washroom",
+   "où sont les toilettes",
+   "where is the washroom",
+   "restroom"
+  ],
+  "question": {
+   "fr": "Où sont les toilettes dans le pavillon CRX ?",
+   "en": "Where are the washrooms in the CRX building?"
+  },
+  "answer": {
+   "fr": "Chaque étage du CRX, du niveau 0 au niveau 6, a des toilettes accessibles. Si tu cherches une toilette individuelle accessible, il y en a au 1er étage (110J), au 2e (C244), au 4e (C447) et au 5e (C547). Au 6e, près de l'espace INNOVA, les toilettes sont aux locaux C604, C605, C649 et C650.",
+   "en": "Every CRX floor, from level 0 to level 6, has accessible washrooms. If you need a single-stall accessible washroom, there's one on the 1st floor (110J), the 2nd (C244), the 4th (C447) and the 5th (C547). On the 6th floor, near the INNOVA Space, washrooms are in rooms C604, C605, C649 and C650."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Non-gendered single washrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/available-washrooms"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-crx-etages",
+  "category": "batiments",
+  "keywords": [
+   "étages crx",
+   "crx floors",
+   "qu'est-ce qu'il y a au crx",
+   "what's in crx",
+   "ascenseur",
+   "elevator",
+   "tim hortons",
+   "tinkering lab",
+   "studio balado",
+   "podcast studio",
+   "innova",
+   "6e étage"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve à chaque étage du CRX, et où sont les ascenseurs ?",
+   "en": "What's on each floor of CRX, and where are the elevators?"
+  },
+  "answer": {
+   "fr": "Au 1er étage, il y a un Tim Hortons et un salon; au 2e, le Tinkering Lab et les studios de balado et de réalité virtuelle; aux 3e et 4e, des salles de classe et des bureaux; au 5e, des salles d'étude et une salle de lecture de la Bibliothèque; et au 6e, l'espace INNOVA. Chaque étage, du niveau 0 au niveau 6, est desservi par trois ascenseurs pour passagers.",
+   "en": "The 1st floor has a Tim Hortons and a lounge; the 2nd has the Tinkering Lab and the podcast and virtual reality studios; the 3rd and 4th have classrooms and offices; the 5th has Library study rooms and a reading room; and the 6th has the INNOVA Space. Every floor, from level 0 to level 6, is served by three passenger elevators."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-crx-para-transpo",
+  "category": "transport",
+  "keywords": [
+   "para transpo crx",
+   "para transpo",
+   "arrêt para transpo",
+   "pick-up point",
+   "point de ramassage",
+   "transport adapté",
+   "accessible transit",
+   "crx",
+   "privée university",
+   "university square",
+   "point 6"
+  ],
+  "question": {
+   "fr": "Où est l'arrêt Para Transpo le plus proche du CRX ?",
+   "en": "Where is the closest Para Transpo stop to CRX?"
+  },
+  "answer": {
+   "fr": "Le point de ramassage et de dépôt Para Transpo numéro 6 est sur la privée University, entre le pavillon Lamoureux et University Square, juste à côté du CRX.",
+   "en": "Para Transpo pick-up and drop-off point 6 is on University Private, between Lamoureux Hall and University Square, right next to CRX."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [
+   "g-visite-stationnement-retard"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-toilettes-non-genrees",
+  "category": "batiments",
+  "keywords": [
+   "toilettes non genrées",
+   "non-gendered washroom",
+   "toilettes neutres",
+   "gender-neutral washroom",
+   "toilettes universelles",
+   "universal washroom",
+   "table à langer",
+   "change table",
+   "toilettes individuelles",
+   "single washroom",
+   "toilettes accessibles"
+  ],
+  "question": {
+   "fr": "Y a-t-il des toilettes non genrées ou universelles sur le campus ?",
+   "en": "Are there gender-neutral or universal washrooms on campus?"
+  },
+  "answer": {
+   "fr": "Oui, l'Université publie la liste de toutes ses toilettes individuelles non genrées accessibles au public, pavillon par pavillon, avec leurs caractéristiques. Les toilettes dites universelles ont de l'espace pour un fauteuil roulant et un accompagnateur, des barres d'appui, une table à langer pour tous les âges et un ouvre-porte automatique; par exemple, il y en a une au 2e étage du CRX, local C244.",
+   "en": "Yes, the University publishes a list of all its public single-stall non-gendered washrooms, building by building, with their features. Universal washrooms have room for a wheelchair and an attendant, grab bars, an all-ages change table and an automatic door opener; for example, there's one on the 2nd floor of CRX, Room C244."
+  },
+  "sources": [
+   {
+    "label": "Non-gendered single washrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/available-washrooms"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-carrefour-accessibilite",
+  "category": "services",
+  "keywords": [
+   "accessibilité",
+   "accessibility",
+   "carrefour de l'accessibilité",
+   "accessibility hub",
+   "handicap",
+   "disability",
+   "aoda",
+   "lavo",
+   "personnes handicapées",
+   "persons with disabilities",
+   "obstacles",
+   "barriers"
+  ],
+  "question": {
+   "fr": "Où trouver de l'information sur l'accessibilité à l'Université ?",
+   "en": "Where can I find information about accessibility at uOttawa?"
+  },
+  "answer": {
+   "fr": "Le Carrefour de l'accessibilité, géré par le Bureau des droits de la personne, est la ressource centrale en ligne sur l'accessibilité à l'Université. Il s'adresse aux étudiants, aux employés et aux visiteurs, et regroupe le stationnement accessible, le transport adapté, la carte inclusive et les plans des pavillons, les toilettes individuelles et un formulaire pour donner ta rétroaction.",
+   "en": "The Accessibility Hub, run by the Human Rights Office, is the University's central online resource for accessibility. It's for students, employees and visitors, and brings together accessible parking, accessible transportation, the inclusive map and building plans, single-stall washrooms and a feedback form."
+  },
+  "sources": [
+   {
+    "label": "Accessibility Hub — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/accessibility-hub"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-signaler-obstacle",
+  "category": "services",
+  "keywords": [
+   "signaler un obstacle",
+   "report a barrier",
+   "problème d'accessibilité",
+   "accessibility issue",
+   "porte automatique brisée",
+   "broken door opener",
+   "rétroaction accessibilité",
+   "accessibility feedback",
+   "trottoir",
+   "signalisation",
+   "wayfinding"
+  ],
+  "question": {
+   "fr": "Comment signaler un problème d'accessibilité sur le campus ?",
+   "en": "How do I report an accessibility problem on campus?"
+  },
+  "answer": {
+   "fr": "Les Installations ont un formulaire de rétroaction sur l'accessibilité pour tout ce qui relève d'elles : mobilier, équipements, bâtiments, espaces extérieurs et signalisation. Tu le trouves sur la page du Soutien à la clientèle des Installations, ou par le Carrefour de l'accessibilité.",
+   "en": "Facilities has an accessibility feedback form for anything under its responsibility: furniture, fixtures, buildings, outdoor spaces and wayfinding. You'll find it on the Facilities Client Support page, or through the Accessibility Hub."
+  },
+  "sources": [
+   {
+    "label": "Facilities Client Support — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/help-me"
+   },
+   {
+    "label": "Accessibility Hub — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/accessibility-hub"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-ascenseur-panne",
+  "category": "services",
+  "keywords": [
+   "ascenseur en panne",
+   "elevator broken",
+   "elevator failure",
+   "coincé dans l'ascenseur",
+   "stuck in elevator",
+   "fuite d'eau",
+   "water leak",
+   "panne de courant",
+   "power outage",
+   "trottoir glissant",
+   "slippery sidewalk",
+   "installations"
+  ],
+  "question": {
+   "fr": "Un ascenseur est en panne ou il y a une fuite d'eau : qui appeler ?",
+   "en": "An elevator is broken or there's a water leak: who do I call?"
+  },
+  "answer": {
+   "fr": "Pour une panne d'ascenseur, une fuite d'eau, une panne de courant ou un trottoir glissant, appelle le Soutien à la clientèle des Installations au 613-562-5800, poste 5000. Si quelqu'un est coincé dans un ascenseur ou si la situation est dangereuse, appelle tout de suite le Service de la protection au 613-562-5411.",
+   "en": "For a broken elevator, a water leak, a power outage or a slippery sidewalk, call Facilities Client Support at 613-562-5800, ext. 5000. If someone is stuck in an elevator or the situation is dangerous, call Protection Services right away at 613-562-5411."
+  },
+  "sources": [
+   {
+    "label": "Facilities Client Support — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/help-me"
+   },
+   {
+    "label": "Emergency — uOttawa",
+    "url": "https://www.uottawa.ca/en/emergency"
+   },
+   {
+    "label": "Other hazards — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-plan-urgence-personnalise",
+  "category": "services",
+  "keywords": [
+   "plan d'urgence personnalisé",
+   "personalized emergency plan",
+   "handicap urgence",
+   "disability emergency",
+   "évacuation fauteuil roulant",
+   "wheelchair evacuation",
+   "besoins particuliers",
+   "special needs",
+   "êtes-vous prêt",
+   "are you ready",
+   "système de jumelage"
+  ],
+  "question": {
+   "fr": "J'ai un handicap : comment me préparer à une évacuation d'urgence ?",
+   "en": "I have a disability: how do I prepare for an emergency evacuation?"
+  },
+  "answer": {
+   "fr": "Les personnes ayant un handicap ou des besoins particuliers peuvent communiquer avec l'équipe « Êtes-vous prêt? » de l'Université pour bâtir un plan d'urgence personnalisé. En cas d'évacuation, n'utilise pas les ascenseurs; utilise le système de jumelage si tu as besoin d'aide pour sortir d'un bâtiment.",
+   "en": "People with disabilities or special needs can contact the University's \"Are you ready?\" team to build a personalized emergency plan. During an evacuation, don't use elevators; use the buddy system if you need help leaving a building."
+  },
+  "sources": [
+   {
+    "label": "Emergency — uOttawa",
+    "url": "https://www.uottawa.ca/en/emergency"
+   },
+   {
+    "label": "Other hazards — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-alarme-incendie",
+  "category": "services",
+  "keywords": [
+   "alarme incendie",
+   "fire alarm",
+   "alarme de feu",
+   "feu",
+   "fire",
+   "odeur de fumée",
+   "smell smoke",
+   "gaz",
+   "gas",
+   "évacuer",
+   "evacuate"
+  ],
+  "question": {
+   "fr": "Que dois-je faire si l'alarme incendie sonne ?",
+   "en": "What should I do if the fire alarm goes off?"
+  },
+  "answer": {
+   "fr": "Arrête ce que tu fais, éteins les appareils et ouvre la porte lentement, la tête en retrait, pour vérifier qu'il n'y a pas de feu tout près. Prends tes clés, sors par l'escalier et la sortie sûre la plus proche, sans utiliser l'ascenseur, et ferme les portes derrière toi. Rends-toi au point de rassemblement extérieur et ne rentre que lorsque le Service de la protection ou les responsables du bâtiment le permettent.",
+   "en": "Stop what you're doing, turn off equipment and open the door slowly, keeping your head back, to check for fire nearby. Take your keys, leave by the nearest safe stairwell and exit, without using the elevator, and close doors behind you. Go to the outdoor assembly point and only go back in when Protection Services or the building wardens say it's safe."
+  },
+  "sources": [
+   {
+    "label": "Other hazards — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-decouvrir-feu",
+  "category": "services",
+  "keywords": [
+   "je vois un feu",
+   "i see a fire",
+   "découvrir un incendie",
+   "discover a fire",
+   "déclencheur manuel",
+   "pull station",
+   "extincteur",
+   "fire extinguisher",
+   "fumée dans le corridor",
+   "smoke in hallway",
+   "incendie"
+  ],
+  "question": {
+   "fr": "Que faire si je découvre un feu dans un bâtiment ?",
+   "en": "What should I do if I discover a fire in a building?"
+  },
+  "answer": {
+   "fr": "Quitte immédiatement la zone par la sortie et l'escalier sûrs les plus proches, sans ascenseur, en fermant les portes et en avertissant les gens. Active le déclencheur manuel d'alarme le plus proche, puis appelle le Service de la protection au 613-562-5411 d'un endroit sûr si l'alarme n'a pas sonné. N'essaie d'éteindre un feu que si tu peux le faire sans mettre ta vie ou celle des autres en danger.",
+   "en": "Leave the area right away by the nearest safe exit and stairwell, without the elevator, closing doors and warning people as you go. Pull the nearest manual fire alarm, then call Protection Services at 613-562-5411 from a safe place if the alarm hasn't gone off. Only try to put out a fire if you can do it without endangering yourself or others."
+  },
+  "sources": [
+   {
+    "label": "Other hazards — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   },
+   {
+    "label": "Emergency — uOttawa",
+    "url": "https://www.uottawa.ca/en/emergency"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-confinement",
+  "category": "services",
+  "keywords": [
+   "confinement",
+   "lockdown",
+   "tireur actif",
+   "active attacker",
+   "menace violente",
+   "violent threat",
+   "se cacher",
+   "hide",
+   "barricader",
+   "barricade",
+   "courir se cacher se défendre",
+   "run hide defend"
+  ],
+  "question": {
+   "fr": "Que faire en cas de confinement sur le campus ?",
+   "en": "What should I do during a lockdown on campus?"
+  },
+  "answer": {
+   "fr": "Reste dans le bâtiment où tu es, ou entre dans le plus proche si tu es dehors. Trouve une pièce fermée, verrouille ou barricade la porte, éteins les lumières, éloigne-toi des portes et des fenêtres et mets ton cellulaire en mode silencieux. N'ouvre à personne et ne réagis pas à une alarme incendie sauf si tu vois le feu; attends que les autorités annoncent que c'est sécuritaire.",
+   "en": "Stay inside the building you're in, or enter the nearest one if you're outside. Find a closed room, lock or barricade the door, turn off the lights, keep away from doors and windows and set your phone to silent. Don't open the door to anyone and don't react to a fire alarm unless you see fire; wait for authorities to say it's safe."
+  },
+  "sources": [
+   {
+    "label": "Violent threats — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/violent-threats"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-courir-cacher-defendre",
+  "category": "services",
+  "keywords": [
+   "courir se cacher se défendre",
+   "run hide defend",
+   "agresseur",
+   "attacker",
+   "danger immédiat",
+   "immediate danger",
+   "fuir",
+   "run",
+   "se cacher",
+   "hide",
+   "se défendre",
+   "defend"
+  ],
+  "question": {
+   "fr": "Que veut dire « Courir, se cacher, se défendre » ?",
+   "en": "What does \"Run, Hide, Defend\" mean?"
+  },
+  "answer": {
+   "fr": "Si un agresseur actif est tout près, d'abord cours : éloigne-toi du danger le plus vite possible, puis signale l'incident au Service de la protection ou au 911 une fois en sécurité. Si tu ne peux pas fuir, cache-toi dans un endroit verrouillé ou barricadé, en silence. En tout dernier recours, si ta vie est menacée et que tu ne peux ni fuir ni te cacher, défends-toi.",
+   "en": "If an active attacker is close by, first run: get away from the danger as fast as you can, then report it to Protection Services or 911 once you're safe. If you can't get away, hide in a locked or barricaded spot and stay quiet. As a last resort, if your life is in danger and you can't run or hide, defend yourself."
+  },
+  "sources": [
+   {
+    "label": "Violent threats — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/violent-threats"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-garder-securiser",
+  "category": "services",
+  "keywords": [
+   "garder et sécuriser",
+   "hold and secure",
+   "hold & secure",
+   "alerte précaution",
+   "precaution alert",
+   "incident à proximité",
+   "nearby incident",
+   "rester à l'intérieur",
+   "stay inside",
+   "alerteuo",
+   "alertuo"
+  ],
+  "question": {
+   "fr": "C'est quoi une alerte « garder et sécuriser » ?",
+   "en": "What is a \"hold and secure\" alert?"
+  },
+  "answer": {
+   "fr": "C'est une mesure de précaution quand un incident violent à proximité pourrait toucher le campus. Arrête tes activités, reste à l'intérieur ou entre dans le bâtiment le plus proche, éloigne-toi des portes et des fenêtres et repère un endroit où tu pourrais te barricader si la situation empire. Reste à l'écoute des alertes officielles et sois patient : ça peut durer plusieurs heures.",
+   "en": "It's a precaution used when a violent incident nearby could affect campus. Stop your activities, stay inside or enter the nearest building, keep away from doors and windows and find a place where you could barricade yourself if things escalate. Watch for official alerts and be patient: it can last several hours."
+  },
+  "sources": [
+   {
+    "label": "Violent threats — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/violent-threats"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-abri-sur-place",
+  "category": "services",
+  "keywords": [
+   "abri sur place",
+   "shelter in place",
+   "shelter-in-place",
+   "tempête",
+   "severe weather",
+   "tornade",
+   "tornado",
+   "produit chimique",
+   "chemical release",
+   "danger environnemental",
+   "environmental hazard",
+   "rester à l'intérieur"
+  ],
+  "question": {
+   "fr": "Que veut dire « s'abriter sur place » ?",
+   "en": "What does \"shelter-in-place\" mean?"
+  },
+  "answer": {
+   "fr": "On te demande de rester à l'intérieur du bâtiment où tu es, ou d'entrer dans le plus proche, à cause d'un danger environnemental comme une tempête violente ou un produit dangereux dans l'air extérieur. Ferme les fenêtres et les portes extérieures et, pour une tempête, réfugie-toi dans une petite pièce intérieure avec peu ou pas de fenêtres. Cette alerte n'est jamais utilisée pour une menace violente.",
+   "en": "You're asked to stay inside the building you're in, or enter the nearest one, because of an environmental hazard like severe weather or a dangerous substance in the outside air. Close windows and exterior doors and, for a storm, take refuge in a small interior room with few or no windows. This alert is never used for violent threats."
+  },
+  "sources": [
+   {
+    "label": "Shelter-in-place — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/shelter-place"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-evacuation",
+  "category": "services",
+  "keywords": [
+   "évacuation",
+   "evacuation",
+   "point de rassemblement",
+   "assembly point",
+   "quitter le bâtiment",
+   "leave the building",
+   "alerte à la bombe",
+   "bomb threat",
+   "plan d'évacuation",
+   "evacuation plan",
+   "sortie de secours"
+  ],
+  "question": {
+   "fr": "Comment se passe une évacuation, et où dois-je me rassembler ?",
+   "en": "How does an evacuation work, and where do I gather?"
+  },
+  "answer": {
+   "fr": "Reste calme, ferme les portes en sortant, prends tes clés et quitte par la sortie sûre la plus proche, sans prendre l'ascenseur. Les points de rassemblement de chaque pavillon, résidence et campus sont publiés par l'Université, et la plupart des bâtiments affichent leur plan d'évacuation aux entrées, près des ascenseurs et des escaliers. Ne retourne pas à l'intérieur avant que les autorités du campus le permettent.",
+   "en": "Stay calm, close doors on your way out, take your keys and leave by the nearest safe exit, without using the elevator. Assembly points for each building, residence and campus are published by the University, and most buildings post their evacuation plan at entrances and beside elevators and stairwells. Don't go back in until campus authorities say it's safe."
+  },
+  "sources": [
+   {
+    "label": "Evacuation — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/evacuation"
+   },
+   {
+    "label": "Other hazards — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-tremblement-de-terre",
+  "category": "services",
+  "keywords": [
+   "tremblement de terre",
+   "earthquake",
+   "séisme",
+   "se baisser s'abriter s'agripper",
+   "drop cover hold on",
+   "secousse",
+   "aftershock",
+   "sous une table",
+   "under a table",
+   "urgence naturelle"
+  ],
+  "question": {
+   "fr": "Que faire en cas de tremblement de terre sur le campus ?",
+   "en": "What should I do in an earthquake on campus?"
+  },
+  "answer": {
+   "fr": "Si tu es à l'intérieur : baisse-toi, abrite-toi sous une table ou contre un mur intérieur, et agrippe-toi, loin des fenêtres; ne te mets pas dans un cadre de porte. Attends plusieurs minutes sans répliques avant de sortir prudemment, sans ascenseur. Si tu es dehors, reste dehors et éloigne-toi des bâtiments, des arbres et des fils électriques.",
+   "en": "If you're indoors: drop, take cover under a table or against an inside wall, and hold on, away from windows; don't stand in a doorway. Wait several minutes without aftershocks before leaving carefully, without the elevator. If you're outside, stay outside and move away from buildings, trees and power lines."
+  },
+  "sources": [
+   {
+    "label": "Other hazards — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-colis-suspect",
+  "category": "services",
+  "keywords": [
+   "colis suspect",
+   "suspicious package",
+   "sac abandonné",
+   "unattended bag",
+   "lettre suspecte",
+   "suspicious letter",
+   "objet suspect",
+   "suspicious object",
+   "bombe",
+   "personne suspecte",
+   "suspicious person"
+  ],
+  "question": {
+   "fr": "J'ai vu un colis suspect ou une personne au comportement inquiétant : que faire ?",
+   "en": "I saw a suspicious package or someone acting strangely: what should I do?"
+  },
+  "answer": {
+   "fr": "Ne touche pas au colis et n'essaie pas de l'ouvrir, et ne déclenche pas l'alarme incendie. Garde les autres à distance et avise le Service de la protection au 613-562-5411. Pour une personne au comportement inquiétant, ne l'affronte pas, note sa description et signale-la aussi au Service de la protection.",
+   "en": "Don't touch or open the package, and don't pull the fire alarm. Keep others away and notify Protection Services at 613-562-5411. For someone acting in an alarming way, don't confront them, note their description and report it to Protection Services as well."
+  },
+  "sources": [
+   {
+    "label": "Other hazards — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   },
+   {
+    "label": "Emergency — uOttawa",
+    "url": "https://www.uottawa.ca/en/emergency"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-test-alertes-urgence",
+  "category": "services",
+  "keywords": [
+   "test des alertes",
+   "alert test",
+   "alertus",
+   "alertes d'urgence",
+   "emergency alerts",
+   "21 janvier",
+   "january 21",
+   "alertes sur ordinateur",
+   "desktop alerts",
+   "sirène",
+   "test du système"
+  ],
+  "question": {
+   "fr": "Quand a lieu le prochain test des alertes d'urgence ?",
+   "en": "When is the next emergency alert test?"
+  },
+  "answer": {
+   "fr": "Le prochain test complet du système d'alertes d'urgence aura lieu le 21 janvier 2027, entre 11 h et midi, sur tous les canaux. Pour recevoir les alertes, installe Alertus sur ton ordinateur, télécharge l'appli SecurUO et active ses notifications. Les alertes sont entièrement bilingues.",
+   "en": "The next full test of the emergency alert system is on January 21, 2027, between 11 a.m. and noon, on all channels. To receive alerts, install Alertus on your computer, download the SecurUO app and turn on its notifications. Alerts are fully bilingual."
+  },
+  "sources": [
+   {
+    "label": "Setting up emergency alerts — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/emergency-alerts"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-premiers-soins-dea",
+  "category": "services",
+  "keywords": [
+   "trousse de premiers soins",
+   "first aid kit",
+   "défibrillateur",
+   "defibrillator",
+   "dea",
+   "aed",
+   "premiers soins",
+   "first aid",
+   "malaise",
+   "someone collapsed",
+   "naloxone"
+  ],
+  "question": {
+   "fr": "Où trouver une trousse de premiers soins ou un défibrillateur sur le campus ?",
+   "en": "Where can I find a first aid kit or a defibrillator on campus?"
+  },
+  "answer": {
+   "fr": "Les trousses de premiers soins sont placées dans les aires communes et sont identifiées par le panneau vert habituel, et l'Université publie la liste des emplacements des défibrillateurs. En cas d'urgence médicale, avise immédiatement le Service de la protection au 613-562-5411 et suis ses instructions.",
+   "en": "First aid kits are placed in common areas and marked with the familiar green sign, and the University publishes a list of defibrillator locations. In a medical emergency, notify Protection Services right away at 613-562-5411 and follow their instructions."
+  },
+  "sources": [
+   {
+    "label": "Workplace first aiders — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/occupational-health-safety/first-aid"
+   },
+   {
+    "label": "Emergency — uOttawa",
+    "url": "https://www.uottawa.ca/en/emergency"
+   },
+   {
+    "label": "Other hazards — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-durabilite-objectifs",
+  "category": "services",
+  "keywords": [
+   "développement durable",
+   "sustainability",
+   "carboneutre",
+   "carbon neutral",
+   "2040",
+   "zéro déchet",
+   "zero waste",
+   "environnement",
+   "environment",
+   "climat",
+   "climate"
+  ],
+  "question": {
+   "fr": "Quels sont les objectifs environnementaux de l'Université ?",
+   "en": "What are the University's sustainability goals?"
+  },
+  "answer": {
+   "fr": "L'Université vise la carboneutralité d'ici 2040, une réduction de 30 % du volume total de déchets d'ici 2030 et zéro déchet envoyé au site d'enfouissement d'ici 2050. Le Bureau du développement durable du campus aide toute la communauté à intégrer ces pratiques au quotidien.",
+   "en": "The University aims to be carbon neutral by 2040, to cut its overall waste volume by 30% by 2030 and to send zero waste to landfill by 2050. The Office of Campus Sustainability helps the whole community build these practices into daily life."
+  },
+  "sources": [
+   {
+    "label": "Sustainability — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/sustainability"
+   },
+   {
+    "label": "Office of Campus Sustainability — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-sustainability"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-eau-embouteillee",
+  "category": "services",
+  "keywords": [
+   "eau embouteillée",
+   "bottled water",
+   "bouteille d'eau",
+   "water bottle",
+   "fontaine",
+   "water fountain",
+   "abreuvoir",
+   "eau potable",
+   "drinking water",
+   "remplir ma bouteille",
+   "refill"
+  ],
+  "question": {
+   "fr": "Pourquoi je ne trouve pas d'eau embouteillée à vendre sur le campus ?",
+   "en": "Why can't I find bottled water for sale on campus?"
+  },
+  "answer": {
+   "fr": "Depuis 2010, l'Université est un campus sans eau embouteillée, pour réduire le plastique et parce que l'accès à l'eau est un droit humain. Des fontaines d'eau potable gratuite se trouvent sur presque chaque étage de chaque pavillon, alors apporte ta bouteille réutilisable !",
+   "en": "Since 2010, uOttawa has been a bottled water-free campus, to cut plastic waste and because access to water is a human right. Free drinking fountains are on nearly every floor of every building, so bring your reusable bottle!"
+  },
+  "sources": [
+   {
+    "label": "Water management — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-sustainability/water"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-jardins-communautaires",
+  "category": "services",
+  "keywords": [
+   "jardin communautaire",
+   "community garden",
+   "jardinage",
+   "gardening",
+   "parcelle",
+   "garden plot",
+   "potager",
+   "vegetable garden",
+   "côte-de-sable",
+   "sandy hill",
+   "jardin bio"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un jardin communautaire sur le campus ?",
+   "en": "Is there a community garden on campus?"
+  },
+  "answer": {
+   "fr": "Oui ! Le jardin communautaire biologique de l'Université offre gratuitement une parcelle pour la saison, de la fin mai à la fin octobre. Il est ouvert à la communauté universitaire et aux résidents de la Côte-de-Sable, avec priorité aux étudiants; inscris-toi sur la liste d'attente, et les candidats sont contactés à la mi-mars.",
+   "en": "Yes! The University's organic community garden offers a free plot for the season, from late May to late October. It's open to the University community and Sandy Hill residents, with priority to students; sign up for the waitlist, and applicants are contacted in mid-March."
+  },
+  "sources": [
+   {
+    "label": "Community gardens — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-sustainability/activities-initiatives/community-gardens"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-tasse-reutilisable",
+  "category": "evenements",
+  "keywords": [
+   "tasse réutilisable",
+   "reusable mug",
+   "café gratuit",
+   "free coffee",
+   "muggy mornings",
+   "matins tasse",
+   "rabais 10 cents",
+   "10-cent discount",
+   "thé",
+   "tea",
+   "chocolat chaud"
+  ],
+  "question": {
+   "fr": "Est-ce que j'ai droit à un café gratuit si j'apporte ma tasse ?",
+   "en": "Do I get free coffee if I bring my own mug?"
+  },
+  "answer": {
+   "fr": "Oui, avec Muggy Mornings ! Apporte ta tasse au Salon du mieux-être, au Centre universitaire, local 205, les mercredis de 10 h 30 à 12 h 30, du 23 septembre au 9 décembre 2026, pour un café, un thé ou un chocolat chaud équitable gratuit. Et partout sur le campus, ta tasse réutilisable te donne 10 cents de rabais sur ta boisson.",
+   "en": "Yes, with Muggy Mornings! Bring your mug to the Wellness Lounge in the University Centre, Room 205, on Wednesdays from 10:30 a.m. to 12:30 p.m., from September 23 to December 9, 2026, for free fair trade coffee, tea or hot chocolate. And everywhere on campus, a reusable mug gets you a 10-cent discount on your drink."
+  },
+  "sources": [
+   {
+    "label": "Muggy Mornings — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-sustainability/activities-initiatives/muggy-mondays"
+   }
+  ],
+  "related": [
+   "g-nom-gee-gees",
+   "g-couleurs-universite",
+   "g-match-panda"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-dons-objets",
+  "category": "services",
+  "keywords": [
+   "donner des objets",
+   "donate items",
+   "boîte de dons",
+   "donation bin",
+   "dump and run",
+   "déménagement",
+   "moving out",
+   "bac rouge",
+   "red bin",
+   "recyclage",
+   "réutiliser"
+  ],
+  "question": {
+   "fr": "Où puis-je donner des objets dont je ne veux plus ?",
+   "en": "Where can I donate things I no longer want?"
+  },
+  "answer": {
+   "fr": "Il y a un bac de dons rouge ici même, au Carrefour des apprentissages (CRX), sous l'escalier principal ! À la fin de chaque session, l'activité Dump and Run installe aussi des bacs temporaires dans les résidences, et les objets sont remis à des organismes locaux ou au Magasin gratuit.",
+   "en": "There's a red donation bin right here in the Learning Crossroads (CRX), under the main staircase! At the end of each term, the Dump and Run also sets up temporary bins in residences, and the items go to local charities or the Free Store."
+  },
+  "sources": [
+   {
+    "label": "The Dump and Run — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-sustainability/activities-initiatives/dump-and-run"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-campus-vert",
+  "category": "services",
+  "keywords": [
+   "bâtiments leed",
+   "leed buildings",
+   "campus équitable",
+   "fair trade campus",
+   "commerce équitable",
+   "200 lees",
+   "leed platine",
+   "leed platinum",
+   "bâtiment vert",
+   "green building",
+   "durabilité"
+  ],
+  "question": {
+   "fr": "Est-ce que le campus a des bâtiments verts ?",
+   "en": "Does the campus have green buildings?"
+  },
+  "answer": {
+   "fr": "Oui, le campus compte cinq bâtiments certifiés LEED. Le pavillon de la Faculté des sciences de la santé, au 200, avenue Lees, a même obtenu la certification LEED Platine, le plus haut niveau. L'Université est aussi le 7e campus certifié équitable au Canada.",
+   "en": "Yes, the campus has five LEED-certified buildings. The Faculty of Health Sciences building at 200 Lees Avenue even earned LEED Platinum, the highest level. uOttawa is also the 7th Fair Trade certified campus in Canada."
+  },
+  "sources": [
+   {
+    "label": "Office of Campus Sustainability — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-sustainability"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-benevolat-durabilite",
+  "category": "services",
+  "keywords": [
+   "bénévolat environnement",
+   "sustainability volunteer",
+   "green reps",
+   "bénévole",
+   "volunteer",
+   "s'impliquer",
+   "get involved",
+   "bureau du développement durable",
+   "office of campus sustainability",
+   "infolettre",
+   "newsletter"
+  ],
+  "question": {
+   "fr": "Comment m'impliquer en développement durable sur le campus ?",
+   "en": "How can I get involved in sustainability on campus?"
+  },
+  "answer": {
+   "fr": "Le Bureau du développement durable du campus propose du bénévolat, le programme Green Reps pour les étudiants, le réseau EcoNetwork pour les employés et une infolettre mensuelle. Les bénévoles entretiennent aussi des jardins et des plates-bandes comestibles sur le campus.",
+   "en": "The Office of Campus Sustainability offers volunteer opportunities, the Green Reps program for students, the EcoNetwork for employees and a monthly newsletter. Volunteers also maintain gardens and edible landscape beds on campus."
+  },
+  "sources": [
+   {
+    "label": "Office of Campus Sustainability — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-sustainability"
+   },
+   {
+    "label": "Community gardens — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-sustainability/activities-initiatives/community-gardens"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "g-association-diplomes",
+  "category": "services",
+  "keywords": [
+   "association des diplômés",
+   "alumni association",
+   "diplômé",
+   "alumni",
+   "carte de membre",
+   "membership card",
+   "gratuit",
+   "free",
+   "ancien étudiant",
+   "former student",
+   "une fois gee-gee"
+  ],
+  "question": {
+   "fr": "Je suis diplômé : est-ce que je fais partie de l'Association des diplômés ?",
+   "en": "I'm a graduate: am I part of the Alumni Association?"
+  },
+  "answer": {
+   "fr": "Oui ! Tu deviens membre à vie de l'Association des diplômés de l'Université d'Ottawa dès que tu traverses la scène à la collation des grades, même virtuellement. Tu peux réclamer ta carte de membre gratuite en mettant à jour tes coordonnées. Une fois Gee-Gee, toujours Gee-Gee !",
+   "en": "Yes! You become a lifetime member of the uOttawa Alumni Association as soon as you walk across the stage at convocation, even virtually. You can claim your free membership card by updating your contact information. Once a Gee-Gee, always a Gee-Gee!"
+  },
+  "sources": [
+   {
+    "label": "Alumni — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-avantages-diplomes",
+  "category": "services",
+  "keywords": [
+   "avantages diplômés",
+   "alumni perks",
+   "rabais",
+   "discounts",
+   "assurance",
+   "insurance",
+   "carrière diplômés",
+   "alumni career",
+   "services aux diplômés",
+   "alumni services",
+   "coaching"
+  ],
+  "question": {
+   "fr": "Quels avantages ont les diplômés de l'Université ?",
+   "en": "What perks do uOttawa alumni get?"
+  },
+  "answer": {
+   "fr": "Les diplômés profitent de rabais de groupe exclusifs, notamment en assurances, santé et mieux-être, sports, divertissement et voyages. Ils ont aussi accès à des services d'orientation et de coaching de carrière, offerts avec le Centre de développement de carrière.",
+   "en": "Alumni get exclusive group discounts on things like insurance, health and wellness, sports, entertainment and travel. They also have access to career counselling and coaching services offered with the Career Development Centre."
+  },
+  "sources": [
+   {
+    "label": "Alumni — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-bureau-diplomes",
+  "category": "services",
+  "keywords": [
+   "bureau des diplômés",
+   "alumni office",
+   "relations avec les diplômés",
+   "alumni engagement",
+   "joindre les diplômés",
+   "contact alumni",
+   "157 séraphin-marion",
+   "mettre à jour mes coordonnées",
+   "update contact info",
+   "diplômés"
+  ],
+  "question": {
+   "fr": "Comment joindre le bureau des diplômés ?",
+   "en": "How do I contact the alumni office?"
+  },
+  "answer": {
+   "fr": "Le bureau des relations avec les diplômés est au 157, privée Séraphin-Marion. Tu peux l'appeler au 613-562-5857 ou sans frais au 1-800-465-1888.",
+   "en": "The Alumni Engagement office is at 157 Séraphin-Marion Private. You can call 613-562-5857 or toll-free at 1-800-465-1888."
+  },
+  "sources": [
+   {
+    "label": "Alumni — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-reseau-mondial-diplomes",
+  "category": "international",
+  "keywords": [
+   "réseau mondial",
+   "global network",
+   "diplômés à l'étranger",
+   "alumni abroad",
+   "conseil des diplômés",
+   "alumni council",
+   "diplômés autochtones",
+   "indigenous alumni council",
+   "paris",
+   "new york",
+   "toronto"
+  ],
+  "question": {
+   "fr": "Y a-t-il des réseaux de diplômés de l'Université ailleurs dans le monde ?",
+   "en": "Are there uOttawa alumni networks around the world?"
+  },
+  "answer": {
+   "fr": "Oui, il y a 12 réseaux mondiaux de diplômés : Toronto, Montréal, Calgary et Vancouver au Canada; New York, Boston, Los Angeles et la région de la baie de San Francisco aux États-Unis; Paris et Londres en Europe; et Shanghai en Asie. Il existe aussi un Conseil national des diplômés autochtones, et les diplômés de l'Université travaillent dans plus de 175 pays.",
+   "en": "Yes, there are 12 global alumni networks: Toronto, Montreal, Calgary and Vancouver in Canada; New York, Boston, Los Angeles and the San Francisco Bay Area in the U.S.; Paris and London in Europe; and Shanghai in Asia. There's also a national Indigenous Alumni Council, and uOttawa grads work in more than 175 countries."
+  },
+  "sources": [
+   {
+    "label": "Global network (Alumni) — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/global-network"
+   },
+   {
+    "label": "Alumni — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/"
+   }
+  ],
+  "related": [
+   "g-international-emploi-campus",
+   "h-cs-tests-langue",
+   "h-cs-mobilite-cotutelle"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-mentorat-benevolat-diplomes",
+  "category": "services",
+  "keywords": [
+   "devenir mentor",
+   "become a mentor",
+   "mentorat diplômés",
+   "alumni mentoring",
+   "ten thousand coffees",
+   "plateforme de réseautage",
+   "networking platform",
+   "bénévolat diplômés",
+   "alumni volunteer",
+   "ambassadeur",
+   "redonner"
+  ],
+  "question": {
+   "fr": "Comme diplômé, comment puis-je redonner aux étudiants ?",
+   "en": "As an alum, how can I give back to students?"
+  },
+  "answer": {
+   "fr": "Tu peux devenir mentor sur la plateforme de réseautage et de mentorat de l'Université, créée avec Ten Thousand Coffees. Tu peux aussi faire du bénévolat : accueillir les invités à un événement, devenir ambassadeur de retrouvailles pour ta promotion, raconter ton parcours aux étudiants ou accueillir un stagiaire coop.",
+   "en": "You can become a mentor on the University's networking and mentoring platform, created with Ten Thousand Coffees. You can also volunteer: welcome guests at an event, become a reunion ambassador for your class, share your career journey with students or host a co-op student."
+  },
+  "sources": [
+   {
+    "label": "Alumni — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/"
+   },
+   {
+    "label": "Volunteer (Alumni) — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/get-involved/volunteer"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-faire-un-don",
+  "category": "services",
+  "keywords": [
+   "faire un don",
+   "donate",
+   "don",
+   "donation",
+   "philanthropie",
+   "giving",
+   "journée du don",
+   "giving day",
+   "legs",
+   "legacy gift",
+   "soutenir l'université"
+  ],
+  "question": {
+   "fr": "Comment faire un don à l'Université ?",
+   "en": "How can I make a donation to the University?"
+  },
+  "answer": {
+   "fr": "Tu peux faire un don en ligne et le diriger vers ce qui te tient à cœur, comme une faculté, les sports Gee-Gees ou la santé mentale étudiante. L'Université propose aussi les dons planifiés, comme un legs, les fonds de dotation et les dons d'entreprise.",
+   "en": "You can donate online and direct your gift to what matters to you, like a faculty, Gee-Gees sports or student mental health. The University also offers planned giving, such as a legacy gift, endowments and corporate giving."
+  },
+  "sources": [
+   {
+    "label": "Giving — uOttawa",
+    "url": "https://www.uottawa.ca/giving/"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "g-emplois-personnel",
+  "category": "services",
+  "keywords": [
+   "travailler à l'université",
+   "work at uottawa",
+   "emplois",
+   "jobs",
+   "carrières",
+   "careers",
+   "offres d'emploi",
+   "job openings",
+   "ressources humaines",
+   "human resources",
+   "postuler",
+   "apply"
+  ],
+  "question": {
+   "fr": "Comment trouver un emploi à l'Université d'Ottawa ?",
+   "en": "How do I find a job at the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "Les offres d'emploi sont publiées sur la page Carrières de l'Université, avec des sections pour les postes universitaires et de recherche, administratifs et de soutien, de direction et étudiants. Pour des questions, les Ressources humaines sont au pavillon Tabaret, local 019, au 613-562-5832.",
+   "en": "Job openings are posted on the University's Careers page, with sections for academic and research, administrative and support, executive and student positions. For questions, Human Resources is in Tabaret Hall, Room 019, at 613-562-5832."
+  },
+  "sources": [
+   {
+    "label": "Careers — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers"
+   },
+   {
+    "label": "Careers: Students — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/students"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-avantages-employes",
+  "category": "services",
+  "keywords": [
+   "avantages employés",
+   "employee benefits",
+   "meilleurs employeurs",
+   "top employers",
+   "régime de retraite",
+   "pension plan",
+   "exonération droits de scolarité",
+   "tuition benefits",
+   "horaire flexible",
+   "flexible hours",
+   "bilinguisme au travail"
+  ],
+  "question": {
+   "fr": "Pourquoi travailler à l'Université d'Ottawa ?",
+   "en": "Why work at the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Université est reconnue depuis 19 années consécutives parmi les meilleurs employeurs de la région de la capitale nationale. Les employés ont un régime de retraite, des avantages sociaux en santé, des horaires flexibles et des avantages en droits de scolarité pour eux, leur conjoint et leurs personnes à charge, dans un milieu de travail bilingue.",
+   "en": "The University has been recognized for 19 consecutive years as one of the National Capital Region's Top Employers. Employees get a pension plan, health benefits, flexible hours and tuition benefits for themselves, their spouse and dependants, in a bilingual workplace."
+  },
+  "sources": [
+   {
+    "label": "Careers — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-emplois-etudiants-campus",
+  "category": "services",
+  "keywords": [
+   "emploi étudiant",
+   "student job",
+   "travailler sur le campus",
+   "work on campus",
+   "assistant d'enseignement",
+   "teaching assistant",
+   "assistant de recherche",
+   "research assistant",
+   "surveillant d'examen",
+   "proctor",
+   "correcteur"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux travailler sur le campus pendant mes études ?",
+   "en": "Can I work on campus while I study?"
+  },
+  "answer": {
+   "fr": "Oui ! Plus de 4 000 postes sont offerts aux étudiants pendant l'année dans les facultés et les services : travail-études, assistanats d'enseignement et de recherche, correction et surveillance d'examens. Les superviseurs tiennent compte de ton horaire de cours, et les offres sont publiées dans la section Étudiants de la page Carrières.",
+   "en": "Yes! More than 4,000 positions are open to students during the year in faculties and services: work-study, teaching and research assistantships, marking and exam proctoring. Supervisors work around your class schedule, and openings are posted in the Students section of the Careers page."
+  },
+  "sources": [
+   {
+    "label": "Careers: Students — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/students"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-international-emploi-campus",
+  "category": "international",
+  "keywords": [
+   "étudiant international emploi",
+   "international student job",
+   "travailler sur le campus permis d'études",
+   "on-campus work permit",
+   "permis d'études",
+   "study permit",
+   "emploi campus international",
+   "work authorization",
+   "conseillers en immigration",
+   "immigration advisors"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international : est-ce que je peux occuper un emploi sur le campus ?",
+   "en": "I'm an international student: can I take a job on campus?"
+  },
+  "answer": {
+   "fr": "Si tu étudies à temps plein avec un permis d'études valide, ton permis peut t'autoriser à travailler sur le campus. Consulte les postes étudiants sur la page Carrières, et pour toute question sur ton autorisation de travail, adresse-toi aux conseillers en immigration du Bureau international.",
+   "en": "If you study full-time with a valid study permit, your permit may allow you to work on campus. Check the student positions on the Careers page, and for any question about your work authorization, talk to the International Office's immigration advisors."
+  },
+  "sources": [
+   {
+    "label": "Careers: Students — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/students"
+   }
+  ],
+  "related": [
+   "g-reseau-mondial-diplomes",
+   "h-cs-tests-langue",
+   "h-cs-mobilite-cotutelle"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-galerie-115",
+  "category": "evenements",
+  "keywords": [
+   "galerie d'art",
+   "art gallery",
+   "galerie 115",
+   "gallery 115",
+   "exposition",
+   "exhibition",
+   "art sur le campus",
+   "art on campus",
+   "arts visuels",
+   "visual arts",
+   "exposition des finissants"
+  ],
+  "question": {
+   "fr": "Y a-t-il une galerie d'art sur le campus ?",
+   "en": "Is there an art gallery on campus?"
+  },
+  "answer": {
+   "fr": "Oui, le Département des arts visuels abrite la Galerie 115, gérée par les étudiants, où ils montent leurs propres expositions, séminaires et événements. Le département a plusieurs galeries étudiantes, et l'Exposition des finissants du baccalauréat en arts visuels a lieu chaque année à la fin avril.",
+   "en": "Yes, the Department of Visual Arts is home to Gallery 115, a student-run gallery where students curate their own exhibitions, seminars and events. The department has several student-run galleries, and the BFA Final Graduating Exhibition takes place every year at the end of April."
+  },
+  "sources": [
+   {
+    "label": "Visual Arts facilities — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/visual-arts/facilities"
+   }
+  ],
+  "related": [
+   "g-nom-gee-gees",
+   "g-couleurs-universite",
+   "g-match-panda"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-magasin-arts-sherry-welden",
+  "category": "services",
+  "keywords": [
+   "matériel d'art",
+   "art supplies",
+   "magasin sherry welden",
+   "sherry welden store",
+   "peinture",
+   "paint",
+   "fournitures d'artiste",
+   "artist supplies",
+   "arts visuels",
+   "visual arts",
+   "toile"
+  ],
+  "question": {
+   "fr": "Où acheter du matériel d'art sur le campus ?",
+   "en": "Where can I buy art supplies on campus?"
+  },
+  "answer": {
+   "fr": "Au magasin Sherry Welden du Département des arts visuels, nommé en mémoire d'une artiste diplômée de l'Université. Il offre du matériel abordable pour la photo, la peinture, la sculpture et les arts médiatiques, aux étudiants, aux diplômés et aux artistes de la région de la capitale.",
+   "en": "At the Department of Visual Arts' Sherry Welden Store, named in memory of an artist who graduated from uOttawa. It sells affordable supplies for photography, painting, sculpture and media arts to students, alumni and artists in the Capital Region."
+  },
+  "sources": [
+   {
+    "label": "Visual Arts facilities — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/visual-arts/facilities"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "g-atelier-cofab-arts",
+  "category": "batiments",
+  "keywords": [
+   "atelier cofab",
+   "cofab lab",
+   "arts makerspace",
+   "impression 3d",
+   "3d printing",
+   "art numérique",
+   "digital art",
+   "réalité virtuelle",
+   "virtual reality",
+   "100 laurier",
+   "laboratoire électronique"
+  ],
+  "question": {
+   "fr": "Y a-t-il un makerspace pour les arts ?",
+   "en": "Is there a makerspace for the arts?"
+  },
+  "answer": {
+   "fr": "Oui, l'Atelier CoFab, au 2e étage du Département des arts visuels, au 100, avenue Laurier Est. C'est un espace partagé de la Faculté des arts, centré sur l'art et la technologie numérique, avec des imprimantes 3D, un labo d'électronique, des ordinateurs équipés de logiciels de création et des outils de réalité virtuelle.",
+   "en": "Yes, the Atelier CoFab, on the 2nd floor of the Department of Visual Arts at 100 Laurier Avenue East. It's a shared Faculty of Arts space focused on art and digital technology, with 3D printers, an electronics lab, computers loaded with creative software and virtual reality tools."
+  },
+  "sources": [
+   {
+    "label": "Visual Arts facilities — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/visual-arts/facilities"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-exigences-minimales",
+  "category": "admissions",
+  "keywords": [
+   "admission maîtrise",
+   "admission doctorat",
+   "moyenne maîtrise",
+   "moyenne doctorat",
+   "graduate admission requirements",
+   "master's average",
+   "phd requirements",
+   "exigences cycles supérieurs",
+   "minimum average graduate",
+   "conditions admission études supérieures",
+   "70 %",
+   "75 %"
+  ],
+  "question": {
+   "fr": "Quelle moyenne me faut-il pour être admis à la maîtrise ou au doctorat ?",
+   "en": "What average do I need to get into a master's or PhD program?"
+  },
+  "answer": {
+   "fr": "Pour une maîtrise ou un diplôme d'études supérieures, il te faut un baccalauréat spécialisé de quatre ans ou l'équivalent, avec une moyenne de 70 % (B) calculée sur tes 20 derniers cours. Pour le doctorat, il te faut une maîtrise ou l'équivalent, avec une moyenne de 75 % (B+) sur tes 10 derniers cours. Certains programmes demandent davantage, et l'admission étant très compétitive, atteindre le minimum ne garantit pas une place.",
+   "en": "For a master's or graduate diploma, you need a four-year honours bachelor's degree or the equivalent, with a 70% (B) average based on your last 20 courses. For a PhD, you need a master's degree or the equivalent, with a 75% (B+) average based on your last 10 courses. Some programs ask for more, and since admission is highly competitive, meeting the minimum doesn't guarantee a spot."
+  },
+  "sources": [
+   {
+    "label": "How to apply (graduate studies) — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
+   }
+  ],
+  "related": [
+   "h-cs-faire-demande",
+   "h-cs-lettres-recommandation",
+   "h-cs-bourse-visite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-tests-langue",
+  "category": "international",
+  "keywords": [
+   "toefl maîtrise",
+   "ielts études supérieures",
+   "test de langue maîtrise",
+   "graduate language test",
+   "toefl score graduate",
+   "ielts score master's",
+   "exemption test de langue",
+   "language test exemption",
+   "tcf tef dalf",
+   "anglais études supérieures",
+   "english test phd"
+  ],
+  "question": {
+   "fr": "Quel résultat de test de langue faut-il pour les études supérieures ?",
+   "en": "What language test score do I need for graduate studies?"
+  },
+  "answer": {
+   "fr": "Exemples de minimums : IELTS Academic 6,5 au total et 6,5 en écriture, sans aucune note partielle sous 6, ou TOEFL iBT de 84 avec 24 en écriture pour un test passé avant le 21 janvier 2026. En français, on demande le DALF C1 ou C2, ou un TCF ou TEF Canada de niveau B2. Certains programmes exigent plus, et tu peux être exempté si tu as fait au moins deux ans d'études à temps plein dans un établissement d'un pays admissible où l'anglais ou le français est la seule langue d'enseignement.",
+   "en": "Examples of minimums: IELTS Academic 6.5 overall and 6.5 in writing, with no band below 6, or a TOEFL iBT of 84 with 24 in writing for tests taken before January 21, 2026. For French, a DALF C1 or C2, or a TCF or TEF Canada at level B2, is required. Some programs require more, and you may be exempt if you completed at least two years of full-time studies at an institution in an eligible country where English or French is the only language of instruction."
+  },
+  "sources": [
+   {
+    "label": "How to apply (graduate studies) — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
+   }
+  ],
+  "related": [
+   "g-reseau-mondial-diplomes",
+   "g-international-emploi-campus",
+   "h-cs-mobilite-cotutelle"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-faire-demande",
+  "category": "admissions",
+  "keywords": [
+   "demande maîtrise",
+   "postuler doctorat",
+   "apply graduate studies",
+   "ouac études supérieures",
+   "apply master's",
+   "accusé de réception",
+   "comment postuler maîtrise",
+   "how to apply phd",
+   "orpas",
+   "demande d'admission cycles supérieurs"
+  ],
+  "question": {
+   "fr": "Comment je fais une demande d'admission à la maîtrise ou au doctorat ?",
+   "en": "How do I apply to a master's or PhD program?"
+  },
+  "answer": {
+   "fr": "Tu remplis ta demande et payes les frais non remboursables en ligne auprès du Centre de demande d'admission aux universités de l'Ontario (OUAC). Tu devrais recevoir dans la semaine un courriel d'accusé de réception avec ton numéro d'étudiant et tes accès à uoZone, où tu suivras ton dossier. Sans nouvelles après deux semaines, communique avec l'unité scolaire responsable du programme. Pour l'ergothérapie, la physiothérapie, l'audiologie et l'orthophonie, la demande passe plutôt par le site ORPAS.",
+   "en": "You complete your application and pay the non-refundable fees online through the Ontario Universities' Application Centre (OUAC). Within a week, you should receive an acknowledgement email with your student number and uoZone login, where you'll track your file. If you hear nothing after two weeks, contact the academic unit responsible for the program. For occupational therapy, physiotherapy, audiology and speech-language pathology, you apply through the ORPAS website instead."
+  },
+  "sources": [
+   {
+    "label": "How to apply (graduate studies) — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
+   }
+  ],
+  "related": [
+   "h-cs-exigences-minimales",
+   "h-cs-lettres-recommandation",
+   "h-cs-bourse-visite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-lettres-recommandation",
+  "category": "admissions",
+  "keywords": [
+   "lettre de recommandation",
+   "lettres de référence",
+   "recommendation letter",
+   "reference letter graduate",
+   "répondants",
+   "referees",
+   "qui demander lettre",
+   "letters of reference master's",
+   "recommandation professeur",
+   "uozone répondant"
+  ],
+  "question": {
+   "fr": "Comment fonctionnent les lettres de recommandation pour les études supérieures ?",
+   "en": "How do recommendation letters work for graduate studies?"
+  },
+  "answer": {
+   "fr": "Vérifie combien de lettres ton programme exige, puis choisis idéalement des professeurs qui peuvent témoigner de tes aptitudes en recherche, et contacte-les deux à trois semaines avant la date limite. Tu inscris leurs noms et coordonnées dans ton dossier d'admission sur uoZone, et ils reçoivent un lien sécurisé pour envoyer leur lettre de façon confidentielle. Évite de demander à ta famille, à d'autres étudiants ou à des assistants d'enseignement, et sache que ton dossier ne sera pas évalué tant que toutes les lettres ne sont pas arrivées.",
+   "en": "Check how many letters your program requires, then ideally choose professors who can speak to your research ability, and contact them two to three weeks before the deadline. You enter their names and contact information in your admission file in uoZone, and they receive a secure link to submit their letter confidentially. Don't ask family members, other students or teaching assistants, and note that your file won't be evaluated until all the letters have arrived."
+  },
+  "sources": [
+   {
+    "label": "How to apply (graduate studies) — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
+   }
+  ],
+  "related": [
+   "h-cs-exigences-minimales",
+   "h-cs-faire-demande",
+   "h-cs-bourse-visite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-trouver-directeur",
+  "category": "programmes",
+  "keywords": [
+   "directeur de thèse",
+   "directrice de thèse",
+   "superviseur",
+   "thesis supervisor",
+   "find a supervisor",
+   "trouver un directeur",
+   "co-direction",
+   "co-supervisor",
+   "professeur superviseur",
+   "supervision de thèse",
+   "research supervisor"
+  ],
+  "question": {
+   "fr": "Comment trouver un directeur ou une directrice de thèse ?",
+   "en": "How do I find a thesis supervisor?"
+  },
+  "answer": {
+   "fr": "Si tu vises une maîtrise avec thèse ou mémoire, ou un doctorat, tu dois choisir un directeur de thèse, et certains programmes exigent même son acceptation avant ta demande. Cherche des professeurs selon leurs intérêts de recherche ou dans la liste des unités scolaires, et renseigne-toi bien avant de les contacter. Un professeur n'est pas obligé d'accepter, par exemple s'il manque d'espace, de temps ou de financement, et tu peux aussi avoir un codirecteur. Une fois inscrit, tu fais nommer ton directeur par une demande de service dans uoZone.",
+   "en": "If you're aiming for a master's with a thesis or research paper, or a PhD, you must choose a thesis supervisor, and some programs even require their acceptance before you apply. Search for professors by research interest or through the list of academic units, and do your homework before contacting them. A professor isn't obligated to accept, for example if they lack space, time or funding, and you can also have a co-supervisor. Once enrolled, you have your supervisor appointed through a service request in uoZone."
+  },
+  "sources": [
+   {
+    "label": "Thesis supervision — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/thesis/thesis-supervision"
+   },
+   {
+    "label": "How to apply (graduate studies) — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-comite-these",
+  "category": "programmes",
+  "keywords": [
+   "comité de thèse",
+   "comité consultatif",
+   "thesis committee",
+   "thesis advisory committee",
+   "membres du comité",
+   "committee meetings",
+   "réunion comité thèse",
+   "who is on my thesis committee"
+  ],
+  "question": {
+   "fr": "C'est quoi, un comité de thèse ?",
+   "en": "What is a thesis advisory committee?"
+  },
+  "answer": {
+   "fr": "Dans plusieurs unités scolaires, un comité consultatif est formé dès que tu as un directeur de thèse : il réunit toi, ton directeur, qui le préside habituellement, et en général au moins deux autres professeurs. Le comité te guide dans la planification, la recherche et la rédaction. C'est souvent à toi de lancer les réunions, et ce ne sont pas toutes les unités qui ont un comité, alors vérifie la façon de faire dans la tienne.",
+   "en": "In many academic units, an advisory committee is formed as soon as you have a thesis supervisor: it includes you, your supervisor, who usually chairs it, and usually at least two other professors. The committee guides you through planning, research and writing. You're usually the one who initiates meetings, and not every unit has a committee, so check how things work in yours."
+  },
+  "sources": [
+   {
+    "label": "Thesis supervision — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/thesis/thesis-supervision"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-types-maitrise",
+  "category": "programmes",
+  "keywords": [
+   "types de maîtrise",
+   "maîtrise avec thèse",
+   "maîtrise avec mémoire",
+   "maîtrise par cours",
+   "course-based master's",
+   "thesis master's",
+   "major research paper",
+   "durée maîtrise",
+   "how long is a master's",
+   "financement maîtrise",
+   "mrp"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre une maîtrise avec thèse, avec mémoire et par cours ?",
+   "en": "What's the difference between a thesis, research paper and course-based master's?"
+  },
+  "answer": {
+   "fr": "La maîtrise par cours dure environ 10 à 12 mois, celle avec mémoire de recherche, d'environ 50 pages, de 12 à 18 mois, et celle avec thèse, d'environ 100 pages, environ 24 mois. Plus il y a de recherche, moins il y a de cours. Le financement est offert sur concours pour l'option thèse, varie pour l'option mémoire et n'est normalement pas offert pour les maîtrises par cours. Certaines maîtrises offrent aussi l'enseignement coopératif, qui ajoute de quatre à huit mois de travail rémunéré.",
+   "en": "A course-based master's takes about 10 to 12 months, one with a research paper of about 50 pages takes 12 to 18 months, and one with a thesis of about 100 pages takes about 24 months. The more research, the fewer courses. Funding is available on a competitive basis for the thesis option, varies for the research paper option and is normally not provided for course-based master's. Some master's programs also offer co-op, which adds four to eight months of paid work."
+  },
+  "sources": [
+   {
+    "label": "Master's programs at the University of Ottawa — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/masters"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-diplome-etudes-superieures",
+  "category": "programmes",
+  "keywords": [
+   "diplôme d'études supérieures",
+   "graduate diploma",
+   "dess",
+   "programme court cycles supérieurs",
+   "gd",
+   "15 crédits",
+   "15 units",
+   "diplôme après baccalauréat",
+   "post-degree diploma",
+   "certificat cycles supérieurs"
+  ],
+  "question": {
+   "fr": "C'est quoi, un diplôme d'études supérieures ?",
+   "en": "What is a graduate diploma?"
+  },
+  "answer": {
+   "fr": "Le diplôme d'études supérieures compte 15 crédits et mise sur l'aspect pratique, avec des cours, de la recherche dirigée et des stages. Tu étudies avec des gens qui ont souvent déjà de l'expérience professionnelle, et les crédits obtenus peuvent être appliqués à une maîtrise si tu décides d'en faire une. Les exigences d'admission de chaque programme sont affichées en ligne.",
+   "en": "A graduate diploma is worth 15 units and focuses on practical learning, with lectures, directed research and internships. You study with people who often already have professional experience, and the units you earn can be applied towards a master's if you decide to pursue one. Each program's admission requirements are posted online."
+  },
+  "sources": [
+   {
+    "label": "Graduate diplomas (GD) — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/graduate-diplomas"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-microprogrammes",
+  "category": "programmes",
+  "keywords": [
+   "microprogramme",
+   "microprogram",
+   "microprogramme cycles supérieurs",
+   "graduate microprogram",
+   "formation courte",
+   "mettre à jour mes compétences",
+   "upskilling",
+   "cybersécurité microprogramme",
+   "étudiant spécial",
+   "non-degree graduate"
+  ],
+  "question": {
+   "fr": "C'est quoi, un microprogramme aux cycles supérieurs ?",
+   "en": "What is a graduate microprogram?"
+  },
+  "answer": {
+   "fr": "C'est un ensemble de cours ou d'activités de recherche dans un domaine précis, qu'on peut terminer en quatre à huit mois, à ton rythme, et dont les crédits peuvent compter pour une maîtrise. Si tu n'es pas déjà inscrit à une maîtrise, écris au bureau des études supérieures de la faculté qui l'offre avec ton CV et tes relevés de notes; si tu es accepté, tu seras inscrit comme étudiant non candidat à un grade, à temps partiel, avec un maximum de six crédits par session.",
+   "en": "It's a set of courses or research activities in a specific field that you can complete in four to eight months, at your own pace, and whose units can count towards a master's. If you're not already enrolled in a master's, email the graduate studies office of the faculty offering it with your CV and transcripts; if accepted, you'll be enrolled as a part-time non-degree student, with a maximum of six units per term."
+  },
+  "sources": [
+   {
+    "label": "Microprograms — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/microprograms"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-assistanats",
+  "category": "services",
+  "keywords": [
+   "assistant d'enseignement",
+   "assistant de recherche",
+   "teaching assistant",
+   "research assistant",
+   "ta job",
+   "ra job",
+   "assistanat",
+   "assistantship",
+   "emploi étudiant cycles supérieurs",
+   "workday postes",
+   "travailler pendant ma maîtrise"
+  ],
+  "question": {
+   "fr": "Comment devenir assistant d'enseignement ou de recherche ?",
+   "en": "How do I become a teaching or research assistant?"
+  },
+  "answer": {
+   "fr": "La plupart des unités scolaires offrent des assistanats d'enseignement et de recherche, et la priorité va aux titulaires d'une bourse d'admission de l'Université; certaines unités en accordent aussi à d'autres selon les fonds disponibles. Les postes sont affichés dans Workday, et tu peux demander à ton unité scolaire s'il y en a d'ouverts et comment postuler. Le Service d'appui à l'enseignement et à l'apprentissage offre aussi de la formation aux assistants.",
+   "en": "Most academic units offer teaching and research assistantships, and priority goes to University of Ottawa admission scholarship holders; some units also award them to other students depending on available funds. Positions are posted in Workday, and you can ask your academic unit whether any are open and how to apply. Teaching and Learning Support Service also offers training for TAs."
+  },
+  "sources": [
+   {
+    "label": "Working while you study — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/working-while-you-study"
+   },
+   {
+    "label": "On campus employment — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/campus-employment"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-rapport-progres",
+  "category": "programmes",
+  "keywords": [
+   "rapport de progrès",
+   "progress report",
+   "rapport annuel thèse",
+   "thesis progress report",
+   "rapport insatisfaisant",
+   "unsatisfactory report",
+   "quand remettre rapport de progrès",
+   "inscription bloquée",
+   "registration blocked"
+  ],
+  "question": {
+   "fr": "Quand dois-je remettre mon rapport de progrès de thèse ?",
+   "en": "When do I have to submit my thesis progress report?"
+  },
+  "answer": {
+   "fr": "Tous les étudiants d'un programme avec thèse en remettent un : le premier pendant la deuxième année, plus précisément à la quatrième session, puis un par année jusqu'au dépôt de la thèse. Tu le soumets à ton directeur par une demande de service dans uoZone. Si tu ne le remets pas, ton inscription est bloquée, et deux rapports insatisfaisants pendant tes études entraînent le retrait du programme.",
+   "en": "All students in a thesis program submit one: the first during second year, specifically in the fourth term, then one per year until the thesis is submitted. You submit it to your supervisor through a service request in uoZone. If you don't submit it, your registration is blocked, and two unsatisfactory reports during your studies lead to withdrawal from the program."
+  },
+  "sources": [
+   {
+    "label": "Progress report — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/thesis/progress-report"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-soutenance",
+  "category": "programmes",
+  "keywords": [
+   "soutenance de thèse",
+   "thesis defence",
+   "oral defence",
+   "soutenance orale",
+   "jury de thèse",
+   "défendre ma thèse",
+   "thesis jury",
+   "assister à une soutenance",
+   "verdict soutenance",
+   "phd defence"
+  ],
+  "question": {
+   "fr": "Comment se déroule une soutenance de thèse ?",
+   "en": "How does a thesis defence work?"
+  },
+  "answer": {
+   "fr": "La faculté organise la soutenance, présidée par une personne nommée par le doyen qui ne peut être ni ton directeur ni un examinateur. Tu présentes d'abord ton sujet, puis les examinateurs te posent leurs questions dans un ordre établi; ton directeur ne peut intervenir qu'à la fin. Le jury délibère ensuite sans toi, et la présidence t'annonce le verdict tout de suite. Les soutenances sont publiques, sauf pour une thèse confidentielle, alors tu peux en voir une pour te préparer.",
+   "en": "The faculty organizes the defence, chaired by someone named by the dean who can't be your supervisor or an examiner. You first present your topic, then the examiners question you in a set order; your supervisor can only speak at the end. The jury then deliberates without you, and the chair tells you the verdict right away. Defences are open to the public, except for confidential theses, so you can attend one to prepare."
+  },
+  "sources": [
+   {
+    "label": "Oral defence — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/thesis/oral-defence"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-depot-final",
+  "category": "programmes",
+  "keywords": [
+   "dépôt final thèse",
+   "version finale thèse",
+   "final thesis submission",
+   "uo research",
+   "déposer ma thèse",
+   "embargo thèse",
+   "thesis embargo",
+   "droit d'auteur thèse",
+   "bibliothèque et archives canada",
+   "submit final thesis"
+  ],
+  "question": {
+   "fr": "Comment je dépose la version finale de ma thèse ?",
+   "en": "How do I submit the final version of my thesis?"
+  },
+  "answer": {
+   "fr": "Après une soutenance réussie et les corrections, tu crées une demande de service dans uoZone, puis, une fois approuvée, tu déposes la version finale électronique dans uO Research, le dépôt institutionnel. Ta thèse devient accessible en libre accès, mais tu en gardes le droit d'auteur, et Bibliothèque et Archives Canada la récupère aussi. Si tu as besoin d'un embargo, ta demande doit être approuvée par la faculté avant le dépôt.",
+   "en": "After a successful defence and corrections, you create a service request in uoZone, then, once it's approved, you submit the final electronic version to uO Research, the institutional repository. Your thesis becomes open access, but you keep the copyright, and Library and Archives Canada also collects it. If you need an embargo, your request must be approved by the faculty before you submit."
+  },
+  "sources": [
+   {
+    "label": "Oral defence — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/thesis/oral-defence"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-formats-these",
+  "category": "programmes",
+  "keywords": [
+   "format de thèse",
+   "thèse par articles",
+   "thesis by articles",
+   "thèse monographie",
+   "monograph thesis",
+   "thesis format",
+   "thèse non traditionnelle",
+   "rédiger ma thèse",
+   "writing my thesis",
+   "plan de travail thèse"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire une thèse par articles ?",
+   "en": "Can I write my thesis as a series of articles?"
+  },
+  "answer": {
+   "fr": "Oui, si ton unité scolaire l'accepte. Il existe trois formats : la monographie, la plus courante en sciences humaines et sociales, la thèse par articles, fréquente en sciences, en génie et en médecine, et la thèse non traditionnelle, selon ce que permet chaque programme. Vérifie le format accepté par ton unité avant de commencer, et prépare tôt un plan de travail avec des dates réalistes à montrer à ton directeur.",
+   "en": "Yes, if your academic unit accepts it. There are three formats: the monograph, most common in the humanities and social sciences, the thesis by articles, common in science, engineering and medicine, and the non-traditional thesis, depending on what each program allows. Check which format your unit accepts before you start, and prepare a work plan with realistic dates early to show your supervisor."
+  },
+  "sources": [
+   {
+    "label": "Writing your thesis — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/thesis/writing-your-thesis"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-bureau-etudes-superieures",
+  "category": "services",
+  "keywords": [
+   "bureau des études supérieures",
+   "graduate and postdoctoral studies",
+   "vice-rectorat études supérieures",
+   "graduate studies office",
+   "pavillon hagen",
+   "hagen hall",
+   "fesp",
+   "qui contacter maîtrise",
+   "contact graduate studies",
+   "études postdoctorales"
+  ],
+  "question": {
+   "fr": "Où est le bureau des études supérieures et postdoctorales ?",
+   "en": "Where is the Graduate and Postdoctoral Studies office?"
+  },
+  "answer": {
+   "fr": "Le Cabinet du vice-provost aux études supérieures et postdoctorales se trouve au pavillon Hagen, au deuxième étage. Par contre, pour tes questions d'admission, d'inscription, de direction de thèse ou d'obtention du diplôme, c'est la faculté, l'école ou l'institut qui offre ton programme qu'il faut contacter en premier.",
+   "en": "The Office of the Vice-Provost, Graduate and Postdoctoral Studies is in Hagen Hall, on the second floor. However, for questions about admission, enrolment, thesis supervision or graduation, you should first contact the faculty, school or institute offering your program."
+  },
+  "sources": [
+   {
+    "label": "Vice-Provost, Graduate and Postdoctoral Studies — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/vice-provost-graduate-postdoctoral-studies"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-probleme-supervision",
+  "category": "services",
+  "keywords": [
+   "problème avec mon directeur",
+   "supervision problem",
+   "conflit directeur de thèse",
+   "plainte études supérieures",
+   "academic complaint graduate",
+   "directeur des études supérieures",
+   "vice-doyen études supérieures",
+   "ombudsman",
+   "problème académique maîtrise",
+   "who to contact supervisor issue"
+  ],
+  "question": {
+   "fr": "J'ai un problème avec ma supervision ou mon programme aux cycles supérieurs : à qui m'adresser ?",
+   "en": "I have a problem with my supervision or graduate program: who should I talk to?"
+  },
+  "answer": {
+   "fr": "Commence par en parler à ton directeur de thèse ou de mémoire, ou au bureau des études supérieures de ta faculté. Si ça ne se règle pas, les étapes sont : le directeur des études supérieures de ton unité, puis le directeur de l'unité, puis le vice-doyen aux études supérieures de ta faculté. En tout temps, tu peux aussi consulter le Bureau de l'ombudsman, la GSAÉD ou le Bureau des droits de la personne.",
+   "en": "Start by talking to your thesis or research paper supervisor, or your faculty's graduate studies office. If that doesn't resolve it, the steps are: your unit's director of graduate studies, then the director of the unit, then your faculty's vice-dean of graduate studies. At any time, you can also turn to the Office of the Ombudsperson, the GSAÉD or the Human Rights Office."
+  },
+  "sources": [
+   {
+    "label": "Mentoring and academic support — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/mentoring-academic-support"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-bourses",
+  "category": "services",
+  "keywords": [
+   "bourse maîtrise",
+   "bourse doctorat",
+   "graduate scholarship",
+   "bourse d'admission",
+   "admission scholarship",
+   "bourse de mérite spécial",
+   "bgso",
+   "ogs",
+   "crsh crsng irsc",
+   "tri-agency",
+   "financement études supérieures",
+   "graduate funding"
+  ],
+  "question": {
+   "fr": "Quelles bourses existent pour la maîtrise et le doctorat ?",
+   "en": "What scholarships are available for master's and PhD students?"
+  },
+  "answer": {
+   "fr": "L'Université offre notamment la bourse d'admission et la bourse de mérite spécial, et les étudiants internationaux peuvent avoir accès à la bourse d'exonération des droits de scolarité différentiels. Il existe aussi des bourses externes comme celles des trois organismes fédéraux et la Bourse d'études supérieures de l'Ontario. Le Carrefour de réussite pour les bourses d'études supérieures t'aide à préparer une demande solide.",
+   "en": "The University offers, among others, the Admission Scholarship and the Special Merit Scholarship, and international students may have access to the Differential Tuition Fee Exemption Scholarship. There are also external awards such as the Tri-Agency scholarships and the Ontario Graduate Scholarship. The Graduate Scholarship Success Hub helps you prepare a strong application."
+  },
+  "sources": [
+   {
+    "label": "Awards and Financial Support — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/awards-financial-support"
+   },
+   {
+    "label": "Graduate Scholarship Success Hub — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/graduate-scholarship-success-hub"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-postdoctorat",
+  "category": "programmes",
+  "keywords": [
+   "postdoctorat",
+   "postdoc",
+   "stagiaire postdoctoral",
+   "postdoctoral fellow",
+   "becoming a postdoc",
+   "inscription postdoctorale",
+   "postdoctoral registration",
+   "superviseur postdoc",
+   "fellowship uottawa"
+  ],
+  "question": {
+   "fr": "Comment faire un stage postdoctoral à l'Université d'Ottawa ?",
+   "en": "How do I become a postdoctoral fellow at the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "Commence par trouver un professeur de ton domaine qui accepte de superviser ta recherche, en consultant les sites des facultés ou la plateforme UniWeb. Une fois l'entente conclue, tu remplis avec lui le formulaire d'inscription postdoctorale et tu l'envoies au Cabinet du vice-provost aux études supérieures et postdoctorales avec la preuve de ton doctorat et ton CV. Tu reçois une décision par courriel dans les cinq jours ouvrables.",
+   "en": "Start by finding a professor in your field who agrees to supervise your research, using faculty websites or the UniWeb platform. Once you have an agreement, you complete the postdoctoral registration form with them and send it to the Office of the Vice-Provost, Graduate and Postdoctoral Studies with proof of your PhD and your CV. You'll get a decision by email within five business days."
+  },
+  "sources": [
+   {
+    "label": "Becoming a postdoctoral fellow — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/becoming-postdoctoral-fellow"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-mobilite-cotutelle",
+  "category": "international",
+  "keywords": [
+   "cotutelle",
+   "doctorat en cotutelle",
+   "étudiant chercheur invité",
+   "visiting research student",
+   "mobilité études supérieures",
+   "graduate mobility",
+   "recherche à l'étranger",
+   "research abroad",
+   "irex",
+   "séjour de recherche"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire une partie de mes études supérieures à l'étranger ?",
+   "en": "Can I do part of my graduate studies abroad?"
+  },
+  "answer": {
+   "fr": "Oui : au doctorat, une cotutelle te permet d'être encadré par deux communautés de recherche, dont une à l'étranger, et tu peux aussi faire un échange dans une université partenaire sans payer de droits de scolarité internationaux. Le bureau IREX, responsable de la recherche internationale et de l'apprentissage expérientiel, publie aussi des occasions de financement pour des séjours de recherche à l'étranger. À l'inverse, un étudiant inscrit ailleurs peut venir faire de la recherche ici comme étudiant chercheur invité, sans payer de droits de scolarité.",
+   "en": "Yes: at the doctoral level, a cotutelle lets you be supervised by two research communities, one of them abroad, and you can also do an exchange at a partner university without paying international tuition fees. The IREX office, responsible for international research and experiential learning, also lists funding opportunities for research stays abroad. Conversely, a student enrolled elsewhere can come do research here as a visiting research student, without paying tuition fees."
+  },
+  "sources": [
+   {
+    "label": "Mobility (graduate studies) — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/mobility"
+   }
+  ],
+  "related": [
+   "g-reseau-mondial-diplomes",
+   "g-international-emploi-campus",
+   "h-cs-tests-langue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-bourse-visite",
+  "category": "admissions",
+  "keywords": [
+   "bourse de déplacement",
+   "travel grant",
+   "explore uottawa",
+   "visiter le campus maîtrise",
+   "rencontrer un directeur",
+   "visit campus graduate",
+   "remboursement voyage",
+   "plan a visit",
+   "visite futur étudiant cycles supérieurs"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a de l'aide pour venir visiter le campus avant ma maîtrise ou mon doctorat ?",
+   "en": "Is there help to visit campus before starting a master's or PhD?"
+  },
+  "answer": {
+   "fr": "Oui, le programme Explore uOttawa offre une bourse de déplacement aux futurs étudiants à la maîtrise et au doctorat. Il faut voyager au moins 150 km, avoir un rendez-vous avec un directeur de thèse potentiel ou un directeur de programme, et ne jamais avoir reçu cette bourse. Tu fais ta demande par courriel à l'unité scolaire au moins 10 jours ouvrables avant ton voyage.",
+   "en": "Yes, the Explore uOttawa program offers a travel grant to future master's and PhD students. You must travel at least 150 km, have an appointment with a potential thesis supervisor or program director, and never have received this grant before. You apply by email to the academic unit at least 10 business days before your trip."
+  },
+  "sources": [
+   {
+    "label": "Plan a visit (graduate studies) — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/plan-a-visit"
+   }
+  ],
+  "related": [
+   "h-cs-exigences-minimales",
+   "h-cs-faire-demande",
+   "h-cs-lettres-recommandation"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-cours-autre-universite",
+  "category": "cours",
+  "keywords": [
+   "cours à carleton",
+   "carleton exchange",
+   "cours dans une autre université",
+   "ovgs",
+   "ontario visiting graduate student",
+   "lettre de permission",
+   "letter of permission graduate",
+   "take a course at carleton",
+   "étudiant gradué visiteur"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux suivre un cours de cycles supérieurs à Carleton ou ailleurs ?",
+   "en": "Can I take a graduate course at Carleton or another university?"
+  },
+  "answer": {
+   "fr": "Oui. Pour Carleton, tu passes par le programme d'échange entre les deux universités et son formulaire. Pour une autre université ontarienne, l'entente pour étudiants diplômés visiteurs de l'Ontario te permet de suivre un cours sans nouvelle demande d'admission, si tu es en règle. Ailleurs, il te faut une lettre de permission approuvée par ta faculté, avec des frais administratifs, et tu paies les droits directement à l'autre établissement.",
+   "en": "Yes. For Carleton, you go through the exchange program between the two universities and its form. For another Ontario university, the Ontario Visiting Graduate Student agreement lets you take a course without a new admission application, if you're in good standing. Elsewhere, you need a letter of permission approved by your faculty, with administrative fees, and you pay tuition directly to the other institution."
+  },
+  "sources": [
+   {
+    "label": "Managing your studies (graduate studies) — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/managing-your-studies"
+   }
+  ],
+  "related": [
+   "h-coop-rapport-stage",
+   "h-coop-cours-pendant-stage",
+   "h-apprentissage-communautaire-cel"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-uogradflix",
+  "category": "services",
+  "keywords": [
+   "uogradflix",
+   "concours vidéo",
+   "video competition",
+   "vulgariser ma recherche",
+   "60 secondes",
+   "present my research",
+   "concours étudiants diplômés",
+   "prix recherche vidéo"
+  ],
+  "question": {
+   "fr": "C'est quoi, le concours uOGRADflix ?",
+   "en": "What is the uOGRADflix competition?"
+  },
+  "answer": {
+   "fr": "C'est un concours où les étudiants des cycles supérieurs présentent leur recherche dans une vidéo originale de 60 secondes. Les prix sont de 1 000 $, 750 $ et 500 $, plus un prix du public de 500 $. Pour cette édition, l'inscription se fait en ligne d'ici le 16 décembre 2026, et la vidéo doit être envoyée au plus tard le 11 janvier 2027 à midi.",
+   "en": "It's a competition where graduate students present their research in an original 60-second video. Prizes are $1,000, $750 and $500, plus a $500 People's Choice award. For this edition, you register online by December 16, 2026, and the video must be submitted by noon on January 11, 2027."
+  },
+  "sources": [
+   {
+    "label": "uOGRADflix — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/uogradflix-competition"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cs-coop-maitrise",
+  "category": "programmes",
+  "keywords": [
+   "coop maîtrise",
+   "co-op master's",
+   "maîtrise coopérative",
+   "graduate co-op",
+   "stage maîtrise",
+   "coop cycles supérieurs",
+   "master's co-op admission",
+   "work term master's"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire l'enseignement coopératif pendant ma maîtrise ?",
+   "en": "Can I do co-op during my master's?"
+  },
+  "answer": {
+   "fr": "Oui, plusieurs maîtrises l'offrent, par exemple en informatique, en communication, en économie ou en traduction. Tu dois avoir commencé tes études à l'Université et avoir une moyenne d'au moins 75 % (B+), et la demande se fait habituellement avant le 30 septembre de ta première année. Ton premier stage a alors lieu en général l'été suivant, et le coop ajoute une session à ton programme.",
+   "en": "Yes, several master's programs offer it, for example in computer science, communication, economics or translation. You must have started your studies at the University and have an average of at least 75% (B+), and you usually apply before September 30 of your first year. Your first work term then usually takes place the following summer, and co-op adds one term to your program."
+  },
+  "sources": [
+   {
+    "label": "Co-op frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq"
+   },
+   {
+    "label": "Co-op programs — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/coop-programs"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-frais",
+  "category": "services",
+  "keywords": [
+   "frais coop",
+   "co-op fees",
+   "combien coûte le coop",
+   "how much is co-op",
+   "frais de stage",
+   "coop fee international",
+   "frais coop remboursable",
+   "co-op fee refund",
+   "payer le coop"
+  ],
+  "question": {
+   "fr": "Combien coûtent les frais du programme coop ?",
+   "en": "How much are co-op fees?"
+  },
+  "answer": {
+   "fr": "Pour 2026-2027, dans un programme où le coop est optionnel, les frais sont de 896 $ pour les citoyens canadiens et résidents permanents, et de 1 125 $ pour les étudiants internationaux, pour chaque session où tu es jumelé à un employeur. Les premiers frais se paient à la session qui précède ton premier stage et ne sont pas remboursables, même si tu quittes le programme. Dans un programme où le coop est obligatoire, tu paies plutôt 672 $ ou 843,75 $ à chaque session d'études.",
+   "en": "For 2026-2027, in a program where co-op is optional, fees are $896 for Canadian citizens and permanent residents and $1,125 for international students, for each term you're matched with an employer. The first fee is paid in the term before your first work term and isn't refundable, even if you leave the program. In a program where co-op is mandatory, you instead pay $672 or $843.75 every study term."
+  },
+  "sources": [
+   {
+    "label": "Co-op Fees — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/fees"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-salaire-duree",
+  "category": "services",
+  "keywords": [
+   "salaire coop",
+   "co-op salary",
+   "combien paie un stage",
+   "how much does co-op pay",
+   "durée stage coop",
+   "work term length",
+   "16 semaines",
+   "stage rémunéré",
+   "paid placement",
+   "co-op wage"
+  ],
+  "question": {
+   "fr": "Combien de temps dure un stage coop et combien c'est payé ?",
+   "en": "How long is a co-op work term and how much does it pay?"
+  },
+  "answer": {
+   "fr": "Un stage coop à temps plein dure habituellement 16 semaines, soit quatre mois. Le salaire dépend de l'employeur et du domaine, mais il varie généralement de 450 $ à 750 $ par semaine. Pendant ton stage, tu dois travailler à temps plein du début à la fin, et les congés ne sont permis qu'en cas de maladie.",
+   "en": "A full-time co-op work term usually lasts 16 weeks, or four months. Pay depends on the employer and the field, but it generally ranges from $450 to $750 per week. During your work term, you must work full time from start to finish, and time off is only allowed for illness."
+  },
+  "sources": [
+   {
+    "label": "Co-op frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-trouver-stage",
+  "category": "services",
+  "keywords": [
+   "trouver un stage coop",
+   "find a co-op job",
+   "portail coop",
+   "co-op portal",
+   "co-op index",
+   "j'ai trouvé mon propre stage",
+   "found own job",
+   "retourner chez mon employeur",
+   "entrevues coop",
+   "co-op interviews",
+   "navigateur coop"
+  ],
+  "question": {
+   "fr": "Comment je trouve mon stage coop ?",
+   "en": "How do I find my co-op placement?"
+  },
+  "answer": {
+   "fr": "Tu as accès au Portail coop, et à son application, au début de la session qui précède ton stage : tu y postules aux offres réservées aux étudiants de l'Université, et tu peux aussi postuler aux offres de l'outil Co-op IndEX. Si tu trouves un emploi par toi-même, il doit être rémunéré, lié à ton domaine et approuvé avec le formulaire « I found my own job ». Tu peux aussi retourner chez un ancien employeur avec une preuve écrite, et attention : une entrevue obtenue par le portail ne peut pas être annulée, sauf pour un laboratoire, un examen ou une raison médicale.",
+   "en": "You get access to the Co-op Portal, and its app, at the start of the term before your work term: you apply there to jobs reserved for University students, and you can also apply to jobs in the Co-op IndEX tool. If you find a job on your own, it must be paid, related to your field and approved with the I found my own job form. You can also return to a previous employer with written proof, and note: an interview obtained through the portal can't be cancelled, except for a lab, an exam or a medical reason."
+  },
+  "sources": [
+   {
+    "label": "Co-op Process Details — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/process"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-rapport-stage",
+  "category": "cours",
+  "keywords": [
+   "rapport de stage coop",
+   "work term report",
+   "rapport réflexif",
+   "reflective report",
+   "évaluation stage coop",
+   "note stage coop",
+   "co-op grade",
+   "pass fail coop",
+   "réussite échec coop",
+   "rapport coop format"
+  ],
+  "question": {
+   "fr": "Comment mon stage coop est-il évalué ?",
+   "en": "How is my co-op work term evaluated?"
+  },
+  "answer": {
+   "fr": "Chaque stage se termine par un rapport réflexif, que tu remets en format Word dans la plateforme d'apprentissage expérientiel, le Portail coop, où tu trouveras aussi le guide de rédaction. Tu reçois une note « réussite » ou « échec », basée sur l'évaluation de ton employeur et sur celle de ton rapport par ta faculté. Une réussite n'a aucun effet sur ta moyenne, mais un échec la fait baisser, et les rapports confidentiels ne sont plus acceptés.",
+   "en": "Each work term ends with a reflective report, which you submit in Word format on the Experiential Learning Platform, the Co-op Portal, where you'll also find the writing guide. You receive a pass or fail grade, based on your employer's evaluation and your faculty's evaluation of your report. A pass has no effect on your average, but a fail lowers it, and confidential reports are no longer accepted."
+  },
+  "sources": [
+   {
+    "label": "Co-op Work Term Report — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/work-term-report"
+   },
+   {
+    "label": "Co-op frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq"
+   }
+  ],
+  "related": [
+   "h-cs-cours-autre-universite",
+   "h-coop-cours-pendant-stage",
+   "h-apprentissage-communautaire-cel"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-moyenne-maintien",
+  "category": "programmes",
+  "keywords": [
+   "moyenne coop",
+   "co-op average",
+   "rester dans le coop",
+   "stay in co-op",
+   "mention coop diplôme",
+   "co-op designation",
+   "moyenne minimale coop",
+   "minimum cgpa co-op",
+   "exclu du coop"
+  ],
+  "question": {
+   "fr": "Quelle moyenne dois-je garder pour rester dans le programme coop ?",
+   "en": "What average do I need to stay in co-op?"
+  },
+  "answer": {
+   "fr": "Le minimum est habituellement une moyenne pondérée cumulative de 6,0 au baccalauréat et de 7,0 à la maîtrise. Si ta moyenne descend sous ce seuil, tu as deux sessions pour la remonter avant qu'on puisse te demander de quitter le programme. Pour obtenir la mention coop sur ton diplôme, tu dois terminer avec une moyenne au moins égale à celle exigée à l'admission.",
+   "en": "The minimum is usually a cumulative grade point average of 6.0 at the undergraduate level and 7.0 at the master's level. If your average drops below that, you have two terms to bring it back up before you may be asked to leave the program. To get the co-op designation on your diploma, you must finish with an average at least equal to the one required for admission."
+  },
+  "sources": [
+   {
+    "label": "Co-op frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-duree-diplome",
+  "category": "programmes",
+  "keywords": [
+   "coop retarde diplôme",
+   "co-op delay graduation",
+   "combien d'années avec coop",
+   "how long degree co-op",
+   "finir en décembre",
+   "coop cinquième année",
+   "coop et maîtrise",
+   "co-op medical school",
+   "coop médecine"
+  ],
+  "question": {
+   "fr": "Est-ce que le coop allonge mes études ?",
+   "en": "Does co-op make my degree longer?"
+  },
+  "answer": {
+   "fr": "Oui, un peu : dans la plupart des programmes, les étudiants coop terminent huit mois plus tard que les autres, soit en décembre de leur cinquième année au lieu du printemps de la quatrième. À la maîtrise, le coop ajoute une session. Si tu prévois une maîtrise ou la médecine ensuite, tiens compte de ce décalage et vérifie les exigences des programmes visés.",
+   "en": "Yes, a little: in most programs, co-op students finish eight months later than others, in December of their fifth year instead of the spring of their fourth. At the master's level, co-op adds one term. If you plan to do a master's or medicine afterwards, keep this shift in mind and check the requirements of the programs you're targeting."
+  },
+  "sources": [
+   {
+    "label": "Co-op frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-international",
+  "category": "international",
+  "keywords": [
+   "stage coop à l'étranger",
+   "international co-op placement",
+   "coop international",
+   "work abroad co-op",
+   "stage à l'étranger",
+   "mobilité internationale coop",
+   "coop hors canada",
+   "co-op abroad",
+   "visa stage étranger"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire un stage coop à l'étranger ?",
+   "en": "Can I do a co-op work term abroad?"
+  },
+  "answer": {
+   "fr": "Oui, à condition que le lieu soit jugé sécuritaire par Affaires mondiales Canada et par l'Université. Commence à planifier environ neuf mois à l'avance : tu suis les modules de mobilité du cours de développement professionnel coop sur Brightspace et tu rencontres un spécialiste coop pour ta recherche d'emploi. En général, c'est toi qui paies ton billet d'avion, ton visa et tes assurances, et certains stages à l'étranger ne sont pas rémunérés.",
+   "en": "Yes, as long as the location is considered safe by Global Affairs Canada and the University. Start planning about nine months ahead: you complete the mobility modules in the Co-op Professional Development course on Brightspace and meet a co-op specialist for your job search. In general, you pay for your flight, visa and insurance, and some placements abroad are unpaid."
+  },
+  "sources": [
+   {
+    "label": "International mobility (co-op) — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/international-mobility"
+   },
+   {
+    "label": "Co-op frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq"
+   }
+  ],
+  "related": [
+   "g-reseau-mondial-diplomes",
+   "g-international-emploi-campus",
+   "h-cs-tests-langue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-bourses-mobilite",
+  "category": "services",
+  "keywords": [
+   "bourse mobilité coop",
+   "co-op mobility scholarship",
+   "financer stage étranger",
+   "fund co-op abroad",
+   "bourse stage non rémunéré",
+   "unpaid placement bursary",
+   "bourse association des diplômés coop",
+   "jacques frémont"
+  ],
+  "question": {
+   "fr": "Y a-t-il des bourses pour un stage coop à l'étranger ou ailleurs au Canada ?",
+   "en": "Are there scholarships for a co-op placement abroad or elsewhere in Canada?"
+  },
+  "answer": {
+   "fr": "Oui : le bureau coop offre une bourse de mobilité internationale de 1 000 $ et une bourse de 500 $ pour les stages non rémunérés, à condition d'aviser le bureau de ton stage avant le 1er décembre, le 15 avril ou le 15 août selon la session. La bourse coop de l'Association des diplômés, pour les stages d'été seulement, vaut 1 500 $ à l'international et 1 000 $ au Canada, avec une date limite au 30 avril. D'autres bourses existent aussi, dont certaines réservées aux étudiants de Telfer.",
+   "en": "Yes: the co-op office offers a $1,000 international mobility scholarship and a $500 bursary for unpaid placements, as long as you inform the office of your placement by December 1, April 15 or August 15 depending on the term. The Alumni Association co-op mobility scholarship, for summer work terms only, is worth $1,500 internationally and $1,000 in Canada, with an April 30 deadline. Other awards also exist, some reserved for Telfer students."
+  },
+  "sources": [
+   {
+    "label": "Scholarships and bursaries (co-op) — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/scholarships-bursaries"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-national",
+  "category": "services",
+  "keywords": [
+   "stage coop ailleurs au canada",
+   "national co-op placement",
+   "coop hors ottawa",
+   "work term in another province",
+   "mobilité nationale",
+   "national mobility",
+   "stage à toronto",
+   "stage en alberta"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire mon stage coop ailleurs au Canada ?",
+   "en": "Can I do my co-op work term elsewhere in Canada?"
+  },
+  "answer": {
+   "fr": "Oui. Tu dois être en règle avec le programme coop, et le poste doit être rémunéré, lié à ton programme, à temps plein et d'une durée de 13 à 16 semaines. On te conseille d'assister à la séance d'information sur la mobilité nationale environ neuf mois avant ton départ, puis de rencontrer un spécialiste en développement professionnel coop pour bâtir ton plan de recherche.",
+   "en": "Yes. You must be in good standing with the co-op program, and the job must be paid, related to your program, full time and 13 to 16 weeks long. You're advised to attend the national mobility information session about nine months before you leave, then meet a co-op professional development specialist to build your job search plan."
+  },
+  "sources": [
+   {
+    "label": "National mobility (co-op) — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/national-mobility"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-etudiants-internationaux",
+  "category": "international",
+  "keywords": [
+   "coop étudiant international",
+   "international student co-op",
+   "coop sans citoyenneté",
+   "cote de sécurité",
+   "security clearance co-op",
+   "gouvernement du canada coop",
+   "lettre ircc coop",
+   "can international students do co-op"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international : est-ce que je peux faire le coop ?",
+   "en": "I'm an international student: can I do co-op?"
+  },
+  "answer": {
+   "fr": "Oui, si tu satisfais aux exigences d'admission du coop et aux conditions d'Immigration, Réfugiés et Citoyenneté Canada. Après ton admission, le bureau coop te fournit la lettre exigée par IRCC. Par contre, certains postes, comme au gouvernement fédéral, exigent une cote de sécurité difficile à obtenir et embauchent surtout des citoyens canadiens, alors tes stages se feront plutôt dans le secteur privé ou à l'Université.",
+   "en": "Yes, if you meet the co-op admission requirements and the conditions of Immigration, Refugees and Citizenship Canada. After you're admitted, the co-op office provides the letter required by IRCC. However, some positions, such as with the federal government, require a security clearance that's hard to obtain and mostly hire Canadian citizens, so your placements will more likely be in the private sector or at the University."
+  },
+  "sources": [
+   {
+    "label": "Co-op frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq"
+   }
+  ],
+  "related": [
+   "g-reseau-mondial-diplomes",
+   "g-international-emploi-campus",
+   "h-cs-tests-langue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-cours-pendant-stage",
+  "category": "cours",
+  "keywords": [
+   "cours pendant stage coop",
+   "course during work term",
+   "cours du soir coop",
+   "evening course co-op",
+   "temps plein coop",
+   "full-time co-op",
+   "12 crédits coop",
+   "dernière session coop"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux suivre un cours pendant mon stage coop ?",
+   "en": "Can I take a course during my co-op work term?"
+  },
+  "answer": {
+   "fr": "Oui, mais un seul cours du soir à la fois, sans composante de jour, et seulement s'il ne t'empêche pas de suivre la séquence de cours prévue à la session suivante. Pendant tes sessions d'études, tu dois rester inscrit à temps plein, soit au moins 12 crédits, et ta dernière session doit être une session d'études, pas un stage.",
+   "en": "Yes, but only one evening course at a time, with no daytime component, and only if it doesn't prevent you from following the required course sequence the next term. During your study terms, you must stay enrolled full time, meaning at least 12 units, and your last term must be a study term, not a work term."
+  },
+  "sources": [
+   {
+    "label": "Co-op frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq"
+   }
+  ],
+  "related": [
+   "h-cs-cours-autre-universite",
+   "h-coop-rapport-stage",
+   "h-apprentissage-communautaire-cel"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-abandon",
+  "category": "programmes",
+  "keywords": [
+   "quitter le coop",
+   "withdraw from co-op",
+   "abandonner le coop",
+   "leave co-op program",
+   "retrait coop",
+   "formulaire de retrait coop",
+   "enlever le coop",
+   "remove co-op"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux quitter le programme coop quand je veux ?",
+   "en": "Can I leave the co-op program whenever I want?"
+  },
+  "answer": {
+   "fr": "Pas tout à fait : le coop a ses propres dates limites, et si tu participes au processus de placement, avec des entrevues par exemple, tu ne peux plus te retirer avant d'avoir terminé ce stage, par respect envers les employeurs. Le retrait se fait avec le formulaire en ligne. Rappelle-toi aussi que les premiers frais coop ne sont pas remboursables.",
+   "en": "Not quite: co-op has its own deadlines, and if you take part in the placement process, with interviews for example, you can't withdraw until you've completed that work term, out of respect for employers. You withdraw using the online form. Also remember that the first co-op fee isn't refundable."
+  },
+  "sources": [
+   {
+    "label": "Co-op frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq"
+   },
+   {
+    "label": "Co-op Fees — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/fees"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-coop-dates-ateliers",
+  "category": "services",
+  "keywords": [
+   "dates coop",
+   "co-op key dates",
+   "ateliers obligatoires coop",
+   "mandatory co-op webinars",
+   "webinaires coop",
+   "brightspace coop",
+   "calendrier coop",
+   "co-op deadlines",
+   "cv coop date limite"
+  ],
+  "question": {
+   "fr": "Où trouver les dates importantes et les ateliers obligatoires du coop ?",
+   "en": "Where can I find co-op key dates and mandatory workshops?"
+  },
+  "answer": {
+   "fr": "La page des dates clés du coop donne, pour chaque session, les dates de stage, l'ouverture des offres, les entrevues, la remise du rapport et les ateliers à suivre. Tous les webinaires et modules sont obligatoires et se trouvent sur Brightspace, par exemple sur le CV coop, les entrevues et les réalités du marché du travail. Par exemple, pour un stage à l'été 2027, du 3 mai au 27 août, les offres s'ouvrent le 13 janvier 2027.",
+   "en": "The co-op key dates page lists, for each term, the work term dates, when jobs open, interviews, the report deadline and the workshops to attend. All webinars and modules are mandatory and are on Brightspace, for example on the co-op resume, interviews and the realities of the job market. For example, for a summer 2027 work term, from May 3 to August 27, job postings open on January 13, 2027."
+  },
+  "sources": [
+   {
+    "label": "Key dates (co-op) — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/key-dates"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-carriere-heures",
+  "category": "services",
+  "keywords": [
+   "heures carrefour carrière",
+   "career corner hours",
+   "carrefour carrière ouvert",
+   "career centre hours",
+   "centre de développement de carrière",
+   "career development centre",
+   "ucu 216",
+   "quand ouvre career corner"
+  ],
+  "question": {
+   "fr": "Quelles sont les heures d'ouverture du Carrefour carrière ?",
+   "en": "What are the Career Corner's hours?"
+  },
+  "answer": {
+   "fr": "Le Carrefour carrière, au Centre universitaire, salle 216, est ouvert du lundi au vendredi de 8 h 45 à 16 h 30 du 1er septembre au 30 mai, et de 8 h 45 à 15 h 30 du 1er juin au 31 août. Ses services sont offerts en personne et à distance, et tu peux prendre rendez-vous en ligne.",
+   "en": "The Career Corner, in the University Centre, room 216, is open Monday to Friday from 8:45 a.m. to 4:30 p.m. from September 1 to May 30, and from 8:45 a.m. to 3:30 p.m. from June 1 to August 31. Its services are offered in person and remotely, and you can book an appointment online."
+  },
+  "sources": [
+   {
+    "label": "Career development — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-carriere-sans-rendez-vous",
+  "category": "services",
+  "keywords": [
+   "sans rendez-vous carrière",
+   "career drop-in",
+   "drop-in session",
+   "conseiller en orientation",
+   "career counsellor",
+   "mentor carrière",
+   "faire réviser mon cv sans rendez-vous",
+   "changer de programme conseil",
+   "career advice walk-in"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux voir un conseiller en carrière sans rendez-vous ?",
+   "en": "Can I see a career advisor without an appointment?"
+  },
+  "answer": {
+   "fr": "Oui, le Carrefour carrière offre des séances sans rendez-vous de 15 minutes, au local UCU 216. Cet automne, les spécialistes de carrière et les mentors, qui commentent ton CV, ta lettre ou ton profil LinkedIn, sont là les mardis, mercredis et jeudis de 13 h à 14 h 30. Les conseillers en orientation, pour réfléchir à ton programme ou à ta carrière, sont là les mardis et jeudis de 13 h à 14 h 30.",
+   "en": "Yes, the Career Corner offers 15-minute drop-in sessions in room UCU 216. This fall, career specialists and mentors, who give feedback on your resume, cover letter or LinkedIn profile, are available Tuesdays, Wednesdays and Thursdays from 1 to 2:30 p.m. Career counsellors, to help you think about your program or career, are available Tuesdays and Thursdays from 1 to 2:30 p.m."
+  },
+  "sources": [
+   {
+    "label": "Career Corner Drop-in Sessions — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/career-corner-drop-in-sessions"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-carriere-groupes-pairs",
+  "category": "services",
+  "keywords": [
+   "groupes de pairs carrière",
+   "career peer groups",
+   "atelier cv en groupe",
+   "resume workshop",
+   "atelier entrevue",
+   "interview workshop",
+   "recherche d'emploi atelier",
+   "job search group",
+   "ateliers carrière"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a des ateliers en groupe sur le CV ou les entrevues ?",
+   "en": "Are there group workshops on resumes or interviews?"
+  },
+  "answer": {
+   "fr": "Oui, le Carrefour carrière organise des groupes de pairs : de petits groupes d'étudiants qui échangent avec un animateur formé. Les thèmes sont le CV, les entrevues, les stratégies de recherche d'emploi et la connaissance de soi, avec des séances en français et en anglais. L'horaire complet est affiché sur la page des groupes de pairs.",
+   "en": "Yes, the Career Corner runs peer groups: small groups of students who exchange ideas with a trained facilitator. Topics are resumes, interviews, job search strategies and knowing yourself, with sessions in French and English. The full schedule is posted on the peer groups page."
+  },
+  "sources": [
+   {
+    "label": "Career Corner Peer Groups — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/peer-groups"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-carriere-horizons",
+  "category": "services",
+  "keywords": [
+   "programme horizons",
+   "horizons program",
+   "modules carrière",
+   "career modules",
+   "brightspace carrière",
+   "développement de carrière en ligne",
+   "online career program",
+   "uocompétences",
+   "préparer ma carrière"
+  ],
+  "question": {
+   "fr": "C'est quoi, le programme Horizons ?",
+   "en": "What is the Horizons program?"
+  },
+  "answer": {
+   "fr": "Horizons est un programme de développement de carrière de 12 modules que tu suis à ton rythme, sans date limite, en français, en anglais ou dans les deux langues. Il couvre la connaissance de soi, l'exploration de carrières, le marché du travail, le CV et LinkedIn, et t'aide à développer les 11 uOCompétences recherchées par les employeurs. Pour t'inscrire, va dans l'onglet Découvrir de Brightspace et cherche Horizons Career Development Program.",
+   "en": "Horizons is a 12-module career development program you follow at your own pace, with no deadlines, in French, English or both. It covers self-awareness, career exploration, the labour market, resumes and LinkedIn, and helps you build the 11 uOCompetencies employers look for. To register, go to the Discover tab in Brightspace and search for Horizons Career Development Program."
+  },
+  "sources": [
+   {
+    "label": "Horizons program — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/horizons"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-carriere-mentorat-diplomes",
+  "category": "services",
+  "keywords": [
+   "ten thousand coffees",
+   "mentorat diplômés",
+   "alumni mentor",
+   "réseautage",
+   "networking platform",
+   "trouver un mentor",
+   "find a mentor",
+   "uottawa hub",
+   "café réseautage"
+  ],
+  "question": {
+   "fr": "Comment trouver un mentor parmi les diplômés de l'Université ?",
+   "en": "How can I find a mentor among University alumni?"
+  },
+  "answer": {
+   "fr": "Inscris-toi à la plateforme de réseautage et de mentorat Ten Thousand Coffees, sur le carrefour uOttawa. Tu indiques ton programme, ton secteur et tes objectifs, et chaque mois tu reçois un nouveau jumelage avec un diplômé, avec des conseils pour lancer la conversation. Vous choisissez ensemble de vous rencontrer dans un café ou en ligne, et tu peux suspendre les jumelages quand tu es débordé.",
+   "en": "Sign up for the Ten Thousand Coffees networking and mentoring platform, on the uOttawa Hub. You enter your program, industry and goals, and each month you get a new match with an alumnus, along with tips to start the conversation. You decide together whether to meet at a coffee shop or online, and you can pause matching when you're busy."
+  },
+  "sources": [
+   {
+    "label": "Ten Thousand Coffees platform — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/ten-thousand-coffees"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-carriere-salons",
+  "category": "services",
+  "keywords": [
+   "salon de l'emploi",
+   "career fair",
+   "foire de l'emploi",
+   "job fair",
+   "career week expo",
+   "salon stem",
+   "stem career fair",
+   "rencontrer des employeurs",
+   "meet employers",
+   "gymnase montpetit"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a des salons de l'emploi sur le campus ?",
+   "en": "Are there career fairs on campus?"
+  },
+  "answer": {
+   "fr": "Oui ! Le Carrefour carrière organise notamment un salon des carrières en STIM, l'Expo de la Semaine des carrières, le plus grand salon de l'année au gymnase Montpetit, et un salon des carrières en éducation pour les conseils scolaires francophones. Tu peux y laisser ton CV, rencontrer des employeurs pour un emploi d'été, un stage ou un poste après tes études, et tu t'inscris à chaque événement en ligne.",
+   "en": "Yes! The Career Corner runs, among others, a STEM Career Fair, the Career Week Expo, the biggest fair of the year in the Montpetit Gym, and an Education Career Fair for French school boards. You can drop off your resume and meet employers for a summer job, internship or post-graduation position, and you register for each event online."
+  },
+  "sources": [
+   {
+    "label": "Career events — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/career-events"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-carriere-diplomes",
+  "category": "services",
+  "keywords": [
+   "services carrière diplômés",
+   "alumni career services",
+   "après mon diplôme aide emploi",
+   "career help after graduation",
+   "diplômé carrefour carrière",
+   "alumni career counselling",
+   "100 $ par année",
+   "career services graduates"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux utiliser les services de carrière après avoir obtenu mon diplôme ?",
+   "en": "Can I use career services after I graduate?"
+  },
+  "answer": {
+   "fr": "Oui ! Si tu as obtenu ton diplôme il y a moins de deux ans, les services de développement de carrière sont gratuits. Après deux ans, tu as un accès illimité pour 100 $ par année. Tu peux par exemple te faire aider pour ton plan de carrière, ton CV, tes entrevues ou ta compréhension du marché du travail.",
+   "en": "Yes! If you graduated less than two years ago, career development services are free. After two years, you get unlimited access for $100 a year. For example, you can get help with your career plan, resume, interviews or understanding the job market."
+  },
+  "sources": [
+   {
+    "label": "Career services for alumni — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/alumni"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-carriere-tests-psychometriques",
+  "category": "services",
+  "keywords": [
+   "test de personnalité",
+   "mbti",
+   "strong interest inventory",
+   "test d'orientation",
+   "career test",
+   "test psychométrique",
+   "psychometric assessment",
+   "quel métier choisir",
+   "orientation professionnelle"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux passer un test d'orientation comme le MBTI ?",
+   "en": "Can I take a career assessment like the MBTI?"
+  },
+  "answer": {
+   "fr": "Oui, le Carrefour carrière offre le MBTI, sur la personnalité, et l'inventaire d'intérêts Strong, en deux rencontres avec un conseiller : une pour présenter la démarche, une autre pour interpréter tes résultats. Pour les étudiants et les diplômés depuis moins de deux ans, le MBTI coûte 30 $ et le Strong, 25 $.",
+   "en": "Yes, the Career Corner offers the MBTI, a personality assessment, and the Strong Interest Inventory, over two meetings with a counsellor: one to introduce the process and another to interpret your results. For students and alumni who graduated less than two years ago, the MBTI costs $30 and the Strong costs $25."
+  },
+  "sources": [
+   {
+    "label": "Psychometrics assessments — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/psychometrics-assessments"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-emploi-campus",
+  "category": "services",
+  "keywords": [
+   "emploi sur le campus",
+   "on-campus job",
+   "travailler à l'université",
+   "work on campus",
+   "emploi résidence",
+   "emploi récréation",
+   "sauveteur",
+   "lifeguard job",
+   "gee-gees emploi",
+   "student job uottawa",
+   "mascotte"
+  ],
+  "question": {
+   "fr": "Quels types d'emplois étudiants y a-t-il sur le campus ?",
+   "en": "What kinds of student jobs are there on campus?"
+  },
+  "answer": {
+   "fr": "Il y a des postes dans les services et les facultés, notamment en résidence, au Service des sports pour les arbitres, entraîneurs personnels et sauveteurs, aux événements des Gee-Gees, où la grande période d'embauche va du 1er juillet au 15 août, et comme assistant d'enseignement ou de recherche dans Workday. Le Programme travail-études offre aussi des emplois si tu démontres un besoin financier.",
+   "en": "There are positions in services and faculties, including in residence, with Recreation as referees, personal trainers and lifeguards, at Gee-Gees events, where the main hiring period runs from July 1 to August 15, and as a teaching or research assistant through Workday. The Work-Study Program also offers jobs if you demonstrate financial need."
+  },
+  "sources": [
+   {
+    "label": "On campus employment — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/campus-employment"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-emploi-arnaques",
+  "category": "services",
+  "keywords": [
+   "arnaque emploi",
+   "job scam",
+   "faux emploi courriel",
+   "fake job email",
+   "hameçonnage",
+   "phishing job",
+   "offre d'emploi suspecte",
+   "suspicious job offer",
+   "courriel emploi uottawa"
+  ],
+  "question": {
+   "fr": "J'ai reçu une offre d'emploi par courriel de l'Université : est-ce légitime ?",
+   "en": "I got a job offer by email from the University: is it legit?"
+  },
+  "answer": {
+   "fr": "Méfie-toi : l'Université affiche ses emplois étudiants sur des portails sécurisés comme uoZone, et un processus de recrutement ou d'embauche ne commence jamais par courriel. Le Carrefour carrière fait la promotion d'événements et d'ateliers, mais ne partage aucun emploi par courriel. En cas de doute, ne clique pas et vérifie directement dans uoZone.",
+   "en": "Be careful: the University posts student jobs on secure portals like uoZone, and a recruitment or hiring process never starts by email. The Career Corner promotes events and workshops but doesn't share any jobs by email. If in doubt, don't click and check directly in uoZone."
+  },
+  "sources": [
+   {
+    "label": "Work-Study Program — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/campus-employment/work-study-program"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-emploi-federal-pfete",
+  "category": "services",
+  "keywords": [
+   "pfete",
+   "fswep",
+   "emploi fédéral étudiant",
+   "federal student job",
+   "fonction publique emploi étudiant",
+   "government of canada student job",
+   "emploi d'été gouvernement",
+   "programme fédéral d'expérience de travail étudiant",
+   "summer job government"
+  ],
+  "question": {
+   "fr": "Comment obtenir un emploi étudiant au gouvernement fédéral ?",
+   "en": "How do I get a student job with the federal government?"
+  },
+  "answer": {
+   "fr": "Le Programme fédéral d'expérience de travail étudiant, le PFETE, est la base de données centrale des emplois étudiants dans la fonction publique fédérale. Il faut être étudiant à temps plein et retourner aux études à temps plein à la session suivante, sans expérience requise. Tu crées un profil avec ton CV, qui reste actif toute l'année, et les ministères y trouvent des candidats; tu peux travailler l'été, à temps partiel pendant l'année ou pendant un stage coop.",
+   "en": "The Federal Student Work Experience Program, FSWEP, is the central database for student jobs in the federal public service. You must be a full-time student returning to full-time studies the next term, with no experience required. You create a profile with your resume, which stays active all year, and departments find candidates there; you can work in the summer, part time during the year or during a co-op term."
+  },
+  "sources": [
+   {
+    "label": "Federal Student Work Experience Program (FSWEP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/federal-student-work-experience-program"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-page-chambre-communes",
+  "category": "programmes",
+  "keywords": [
+   "page chambre des communes",
+   "house of commons page",
+   "programme des pages",
+   "page program",
+   "travailler au parlement",
+   "work on parliament hill",
+   "colline du parlement",
+   "page du sénat",
+   "guide parlementaire"
+  ],
+  "question": {
+   "fr": "C'est quoi, le Programme des pages de la Chambre des communes ?",
+   "en": "What is the House of Commons Page Program?"
+  },
+  "answer": {
+   "fr": "Chaque année, 40 étudiants de partout au Canada sont choisis pour servir les députés à la Chambre et sur la Colline du Parlement pendant leur première année d'études, et la plupart choisissent l'Université d'Ottawa. Il faut être bilingue et commencer des études postsecondaires dans un établissement de la région de la capitale nationale, et l'expérience rapporte plus de 20 000 $. Le Bureau de liaison, au pavillon Tabaret, peut te renseigner.",
+   "en": "Each year, 40 students from across Canada are selected to serve MPs in the Chamber and on Parliament Hill during their first year of studies, and most choose the University of Ottawa. You must be bilingual and start post-secondary studies at an institution in the National Capital Region, and the experience pays over $20,000. The Liaison Office, in Tabaret Hall, can give you more information."
+  },
+  "sources": [
+   {
+    "label": "House of Commons Page Program — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/house-commons-page-program"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-apprentissage-experientiel",
+  "category": "programmes",
+  "keywords": [
+   "apprentissage expérientiel",
+   "experiential learning",
+   "acquérir de l'expérience",
+   "gain experience",
+   "expérience pratique",
+   "hands-on learning",
+   "stages et projets",
+   "uocompétences",
+   "11 compétences"
+  ],
+  "question": {
+   "fr": "Comment acquérir de l'expérience pratique pendant mes études ?",
+   "en": "How can I gain hands-on experience during my studies?"
+  },
+  "answer": {
+   "fr": "L'Université regroupe ses occasions en plusieurs catégories : l'apprentissage intégré au travail, comme le coop et le programme travail-études, l'apprentissage communautaire, comme le bénévolat crédité, l'apprentissage interdisciplinaire, l'apprentissage par projets et l'entrepreneuriat. Certaines sont intégrées à ton programme et créditées, d'autres se font dans tes temps libres, et elles t'aident à développer les 11 compétences recherchées par les employeurs. Les experts du Carrefour carrière peuvent t'aider à choisir.",
+   "en": "The University groups its opportunities into several categories: work-integrated learning, like co-op and the Work-Study Program, community-based learning, like credited volunteering, interdisciplinary learning, project-based learning and entrepreneurship. Some are built into your program and earn credit, others happen in your free time, and they help you build the 11 competencies employers look for. Career Corner experts can help you choose."
+  },
+  "sources": [
+   {
+    "label": "Experiential learning opportunities — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/opportunities"
+   },
+   {
+    "label": "Experiential learning — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-apprentissage-communautaire-cel",
+  "category": "cours",
+  "keywords": [
+   "apprentissage par l'engagement communautaire",
+   "community engaged learning",
+   "cel",
+   "community service learning",
+   "csl",
+   "bénévolat crédité",
+   "credited volunteering",
+   "remplacer un travail par du bénévolat",
+   "navigateur engagement communautaire"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux remplacer un travail de cours par du bénévolat ?",
+   "en": "Can I replace a course assignment with volunteering?"
+  },
+  "answer": {
+   "fr": "Oui, si ton cours offre l'option d'apprentissage par l'engagement communautaire, autrefois appelé apprentissage par le service communautaire. Dès le premier jour du cours, connecte-toi au Navigateur de l'engagement communautaire dans uoZone, choisis les placements CSL de ton cours, puis sélectionne-en un : c'est premier arrivé, premier servi. Tu contactes ensuite ton superviseur et tu inscris tes heures régulièrement dans ta feuille de temps.",
+   "en": "Yes, if your course offers the Community Engaged Learning option, formerly called Community Service Learning. From the first day of the course, log into the Community Engagement Navigator in uoZone, choose your course's CSL placements, then select one: it's first come, first served. You then contact your supervisor and enter your hours regularly in your timesheet."
+  },
+  "sources": [
+   {
+    "label": "Community Engaged Learning (CEL) Program — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/volunteering/cel-program"
+   }
+  ],
+  "related": [
+   "h-cs-cours-autre-universite",
+   "h-coop-rapport-stage",
+   "h-coop-cours-pendant-stage"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-benevolat-parascolaire",
+  "category": "services",
+  "keywords": [
+   "bénévolat",
+   "volunteering",
+   "faire du bénévolat",
+   "volunteer opportunities",
+   "bénévolat parascolaire michaëlle jean",
+   "extracurricular volunteering",
+   "engagement communautaire",
+   "community engagement",
+   "s'inscrire bénévolat"
+  ],
+  "question": {
+   "fr": "Comment je m'inscris pour faire du bénévolat ?",
+   "en": "How do I sign up to volunteer?"
+  },
+  "answer": {
+   "fr": "Le programme de bénévolat parascolaire Michaëlle-Jean offre des placements reconnus, sur le campus ou ailleurs, d'une journée à plusieurs mois. Connecte-toi au Navigateur de l'engagement communautaire dans uoZone, choisis Placements puis EV, et sélectionne un placement. Contacte ton superviseur dans les 48 heures, sinon tu risques de perdre ta place, et inscris tes heures après chaque quart, avant la fin de la session.",
+   "en": "The Michaëlle Jean Extracurricular Volunteering program offers recognized placements, on or off campus, lasting from one day to several months. Log into the Community Engagement Navigator in uoZone, choose Placements then EV, and select a placement. Contact your supervisor within 48 hours or you could lose your spot, and enter your hours after each shift, before the end of the term."
+  },
+  "sources": [
+   {
+    "label": "How to sign up (volunteering) — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/volunteering/how-to-sign-up"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-dossier-cocurriculaire",
+  "category": "services",
+  "keywords": [
+   "relevé cocurriculaire",
+   "dossier cocurriculaire",
+   "co-curricular record",
+   "ccr",
+   "preuve de bénévolat",
+   "volunteer hours record",
+   "attestation bénévolat",
+   "heures de bénévolat officielles"
+  ],
+  "question": {
+   "fr": "Comment obtenir une preuve officielle de mes heures de bénévolat ?",
+   "en": "How do I get official proof of my volunteer hours?"
+  },
+  "answer": {
+   "fr": "Demande ton relevé cocurriculaire, un document officiel de l'Université qui regroupe tes heures de bénévolat approuvées sur le campus et dans la communauté. Dans le Navigateur de l'engagement communautaire, choisis CCR puis Request Official CCR; quand tu reçois le courriel de confirmation, va le chercher au Carrefour carrière, local UCU 216. Seules les heures approuvées par ton superviseur y figurent, et tu peux aussi imprimer une version non officielle.",
+   "en": "Request your Co-Curricular Record, an official University document listing your approved volunteer hours on campus and in the community. In the Community Engagement Navigator, choose CCR then Request Official CCR; when you get the confirmation email, pick it up at the Career Corner, room UCU 216. Only hours approved by your supervisor appear on it, and you can also print an unofficial version."
+  },
+  "sources": [
+   {
+    "label": "Get your Co-Curricular Record — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/volunteering/co-curricular-record"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-cours-autodiriges",
+  "category": "cours",
+  "keywords": [
+   "cours autodirigé",
+   "self-directed course",
+   "slicc",
+   "créer mon propre cours",
+   "design my own course",
+   "projet crédité",
+   "credited project",
+   "cours individuel",
+   "3 crédits projet"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux concevoir mon propre cours et obtenir des crédits ?",
+   "en": "Can I design my own course and earn credits?"
+  },
+  "answer": {
+   "fr": "Oui, avec les cours autodirigés : seul ou en équipe, tu conçois un projet, comme de la recherche, un stage ou un projet communautaire, et tu peux obtenir jusqu'à 3 crédits. C'est ouvert aux étudiants du premier cycle qui ont au moins 45 crédits en Arts, en Sciences sociales, à Telfer ou au baccalauréat en sciences de la santé. Pour la session d'hiver 2027, les séances d'information ont lieu du 23 novembre au 8 décembre 2026, et la date limite est le 9 décembre 2026.",
+   "en": "Yes, with self-directed courses: alone or in a team, you design a project, such as research, an internship or a community project, and you can earn up to 3 units. It's open to undergraduate students with at least 45 units in Arts, Social Sciences, Telfer or the Bachelor of Health Sciences. For the Winter 2027 term, information sessions run from November 23 to December 8, 2026, and the deadline is December 9, 2026."
+  },
+  "sources": [
+   {
+    "label": "Self-directed courses and group projects — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/self-directed-courses"
+   }
+  ],
+  "related": [
+   "h-cs-cours-autre-universite",
+   "h-coop-rapport-stage",
+   "h-coop-cours-pendant-stage"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-defis-interdisciplinaires",
+  "category": "cours",
+  "keywords": [
+   "défi interdisciplinaire",
+   "interdisciplinary challenge",
+   "sprint d'innovation telfer",
+   "innovation sprint",
+   "défi fss",
+   "arts innovation lab",
+   "cours intensif fin de semaine",
+   "weekend course credits",
+   "1,5 crédit"
+  ],
+  "question": {
+   "fr": "C'est quoi, les défis interdisciplinaires ?",
+   "en": "What are interdisciplinary challenges?"
+  },
+  "answer": {
+   "fr": "Ce sont des cours intensifs et courts, valant 1,5 crédit, où des étudiants de différentes facultés travaillent avec des partenaires de la communauté ou de l'industrie sur un vrai problème. Par exemple, il y a un sprint d'innovation Telfer du 20 au 22 novembre 2026, un défi FSS sur l'intelligence artificielle du 29 au 31 janvier 2027 et un laboratoire d'innovation des Arts du 26 au 28 février 2027. Les places sont limitées, et l'inscription commence par un formulaire d'intérêt.",
+   "en": "They're short, intensive courses worth 1.5 units, where students from different faculties work with community or industry partners on a real problem. For example, there's a Telfer Innovation Sprint from November 20 to 22, 2026, an FSS challenge on artificial intelligence from January 29 to 31, 2027, and an Arts Innovation Lab from February 26 to 28, 2027. Spaces are limited, and registration starts with an expression of interest form."
+  },
+  "sources": [
+   {
+    "label": "Interdisciplinary challenges — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/interdisciplinary-challenges"
+   }
+  ],
+  "related": [
+   "h-cs-cours-autre-universite",
+   "h-coop-rapport-stage",
+   "h-coop-cours-pendant-stage"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-carrefour-entrepreneuriat",
+  "category": "services",
+  "keywords": [
+   "entrepreneuriat",
+   "entrepreneurship",
+   "carrefour de l'entrepreneuriat",
+   "entrepreneurship hub",
+   "ehub",
+   "lancer mon entreprise",
+   "start a business",
+   "startup étudiant",
+   "complexe stim entrepreneuriat"
+  ],
+  "question": {
+   "fr": "J'ai une idée d'entreprise : où trouver de l'aide sur le campus ?",
+   "en": "I have a business idea: where can I get help on campus?"
+  },
+  "answer": {
+   "fr": "Va voir le Carrefour de l'entrepreneuriat, le eHub, au Complexe STIM, salle 122, au 150, privé Louis-Pasteur. Il offre des ressources, des programmes, des événements et un réseau de mentors aux étudiants, aux chercheurs et aux diplômés, que tu veuilles lancer ton entreprise ou simplement développer tes compétences entrepreneuriales.",
+   "en": "Visit the Entrepreneurship Hub, the eHub, in the STEM Complex, room 122, at 150 Louis-Pasteur Private. It offers resources, programs, events and a network of mentors to students, researchers and alumni, whether you want to launch your business or simply build entrepreneurial skills."
+  },
+  "sources": [
+   {
+    "label": "The Entrepreneurship Hub — uOttawa",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/entrepreneurship-hub"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-recherche-icure",
+  "category": "programmes",
+  "keywords": [
+   "recherche premier cycle",
+   "undergraduate research",
+   "i-cure",
+   "projet de recherche crédité",
+   "research with a professor",
+   "faire de la recherche avec un professeur",
+   "urop",
+   "research opportunity undergraduate",
+   "expérience de recherche"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire de la recherche avec un professeur pendant mon baccalauréat ?",
+   "en": "Can I do research with a professor during my bachelor's?"
+  },
+  "answer": {
+   "fr": "Oui, notamment avec le programme I-CURE : pendant une session, tu mènes un projet de recherche supervisé par un professeur de l'Université et tu obtiens 3 crédits pour environ 135 heures de travail, avec un camp d'initiation à la recherche et un symposium. Il faut avoir réussi au moins 45 crédits, et tu paies les droits d'un cours de 3 crédits plus des frais de 175 $ et la TVH. Consulte la page du programme pour la prochaine date limite.",
+   "en": "Yes, notably through the I-CURE program: over one term, you carry out a research project supervised by a University professor and earn 3 units for about 135 hours of work, with a research bootcamp and a symposium. You must have completed at least 45 units, and you pay the tuition for a 3-unit course plus a $175 fee and HST. Check the program page for the next deadline."
+  },
+  "sources": [
+   {
+    "label": "I-CURE — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/international-research-experiential-learning/student-funding-opportunities/individually-created-undergraduate-research-experience"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-recherche-brpc-usra",
+  "category": "programmes",
+  "keywords": [
+   "brpc",
+   "usra",
+   "bourse de recherche premier cycle",
+   "undergraduate student research award",
+   "emploi de recherche été",
+   "summer research job",
+   "crsng été",
+   "nserc summer",
+   "assistant de recherche été",
+   "research assistant summer"
+  ],
+  "question": {
+   "fr": "Comment obtenir un emploi d'été en recherche au premier cycle ?",
+   "en": "How can I get a summer research job as an undergraduate?"
+  },
+  "answer": {
+   "fr": "Les bourses de recherche de premier cycle, ou BRPC, des organismes CRSNG, IRSC et CRSH financent un projet de 14 à 16 semaines avec un professeur. Pour l'été 2027, la bourse vaudra au moins 10 000 $, et l'appel principal s'ouvre en janvier 2027 pour des projets qui commencent au plus tôt le 1er mai 2027. Il faut être citoyen canadien, résident permanent ou personne protégée, au baccalauréat non professionnel, avec une moyenne pondérée cumulative d'au moins 7,5.",
+   "en": "Undergraduate Student Research Awards, or USRAs, from NSERC, CIHR and SSHRC fund a 14- to 16-week project with a professor. For summer 2027, the award will be worth at least $10,000, and the main call opens in January 2027 for projects starting no earlier than May 1, 2027. You must be a Canadian citizen, permanent resident or protected person, in a non-professional bachelor's program, with a cumulative grade point average of at least 7.5."
+  },
+  "sources": [
+   {
+    "label": "Undergraduate Student Research Awards Program (USRA) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/international-research-experiential-learning/undergraduate-student-research-awards-program-nsrec"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-recherche-mitacs-globalink",
+  "category": "international",
+  "keywords": [
+   "mitacs",
+   "globalink",
+   "stage de recherche à l'étranger",
+   "research internship abroad",
+   "bourse recherche internationale",
+   "globalink research award",
+   "recherche à l'international",
+   "research abroad funding"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a du financement pour faire un stage de recherche à l'étranger ?",
+   "en": "Is there funding for a research internship abroad?"
+  },
+  "answer": {
+   "fr": "Oui, entre autres la bourse de recherche Mitacs Globalink, gérée par le bureau IREX : les étudiants de troisième ou quatrième année du baccalauréat et des cycles supérieurs, à temps plein, peuvent faire un stage de recherche de 12 à 48 semaines à l'étranger, avec 6 000 $ par unité de stage. Le quota de 2026 est atteint pour le volet principal, et le prochain cycle de demandes est prévu à partir d'avril 2027.",
+   "en": "Yes, including the Mitacs Globalink Research Award, managed by the IREX office: full-time students in the third or fourth year of a bachelor's and graduate students can do a 12- to 48-week research internship abroad, with $6,000 per internship unit. The 2026 quota is filled for the main stream, and the next application cycle is expected starting in April 2027."
+  },
+  "sources": [
+   {
+    "label": "Mitacs Globalink Programs — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/international-research-experiential-learning/mitacs-globalink-programs"
+   }
+  ],
+  "related": [
+   "g-reseau-mondial-diplomes",
+   "g-international-emploi-campus",
+   "h-cs-tests-langue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-ilob-presentation",
+  "category": "services",
+  "keywords": [
+   "ilob",
+   "olbi",
+   "institut des langues officielles et du bilinguisme",
+   "official languages and bilingualism institute",
+   "apprendre le français",
+   "learn french",
+   "apprendre l'anglais",
+   "learn english",
+   "pavillon hamelin",
+   "cours de langue seconde"
+  ],
+  "question": {
+   "fr": "C'est quoi, l'Institut des langues officielles et du bilinguisme ?",
+   "en": "What is the Official Languages and Bilingualism Institute?"
+  },
+  "answer": {
+   "fr": "L'ILOB offre des cours crédités de français langue seconde, FLS, et d'anglais langue seconde, ESL, du niveau débutant à avancé, ouverts aux étudiants de toutes les facultés, ainsi que des tests de langue, des mineures et des majeures. Il se trouve au 70, avenue Laurier Est, salle 130, et tu peux le joindre au 613-562-5743.",
+   "en": "OLBI offers credit courses in French as a second language, FLS, and English as a second language, ESL, from beginner to advanced levels, open to students in all faculties, as well as language tests, minors and majors. It's located at 70 Laurier Avenue East, room 130, and you can reach it at 613-562-5743."
+  },
+  "sources": [
+   {
+    "label": "Second language courses — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/second-language-courses"
+   },
+   {
+    "label": "Language assessment — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/language-assessment"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-test-classement-langue",
+  "category": "cours",
+  "keywords": [
+   "test de classement",
+   "placement test",
+   "test de classement fls",
+   "esl placement test",
+   "xpresslab",
+   "test de français langue seconde",
+   "niveau de langue",
+   "language level test",
+   "estore test"
+  ],
+  "question": {
+   "fr": "Comment passer le test de classement pour un cours FLS ou ESL ?",
+   "en": "How do I take the placement test for an FLS or ESL course?"
+  },
+  "answer": {
+   "fr": "Connecte-toi au portail de tests XpressLab, demande l'accès au test FLS ou ESL, puis paie les frais non remboursables sur la boutique en ligne de l'Université. L'accès arrive dans un à trois jours ouvrables; prévois environ deux heures, et tu vois tout de suite la liste des cours auxquels tu peux t'inscrire. Le résultat est valide un an, et certains étudiants inscrits en anglais peuvent être exemptés du test ESL pour les cours avancés.",
+   "en": "Log into the XpressLab testing portal, request access to the FLS or ESL test, then pay the non-refundable fee on the University's eStore. Access is granted within one to three business days; allow about two hours, and you immediately see the list of courses you can enrol in. The result is valid for one year, and some students in English programs can be exempted from the ESL test for advanced courses."
+  },
+  "sources": [
+   {
+    "label": "Placement test for ESL and FLS courses — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/language-assessment/placement-test-esl-fls-courses"
+   }
+  ],
+  "related": [
+   "h-cs-cours-autre-universite",
+   "h-coop-rapport-stage",
+   "h-coop-cours-pendant-stage"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-certification-langue-seconde",
+  "category": "cours",
+  "keywords": [
+   "certificat de compétence langue seconde",
+   "second language certification",
+   "fls 3500",
+   "esl 3100",
+   "test de certification",
+   "certificate of proficiency in french",
+   "certificate of proficiency in english",
+   "attestation bilinguisme",
+   "prouver mon bilinguisme"
+  ],
+  "question": {
+   "fr": "Comment obtenir une certification de ma compétence en français ou en anglais langue seconde ?",
+   "en": "How do I get my second-language proficiency in French or English certified?"
+  },
+  "answer": {
+   "fr": "L'ILOB offre un certificat de compétence en langue seconde : tu t'inscris à FLS 3500 pour le français ou à ESL 3100 pour l'anglais avec l'application d'inscription de uoZone. C'est conçu pour un niveau intermédiaire avancé à avancé, et la plupart des étudiants de premier cycle à temps plein n'ont pas de frais supplémentaires. Le test n'est offert que deux fois par année; pour l'hiver 2027, les séances ont lieu en mars, et tu peux te réinscrire jusqu'à quatre fois.",
+   "en": "OLBI offers a certificate of second language proficiency: you enrol in FLS 3500 for French or ESL 3100 for English using the Enrol application in uoZone. It's designed for a high-intermediate to advanced level, and most full-time undergraduates pay no extra fees. The test is only offered twice a year; for Winter 2027, sessions take place in March, and you can re-register up to four times."
+  },
+  "sources": [
+   {
+    "label": "Second Language Certification Test — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/language-assessment/second-language-certification-test"
+   }
+  ],
+  "related": [
+   "h-cs-cours-autre-universite",
+   "h-coop-rapport-stage",
+   "h-coop-cours-pendant-stage"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-immersion-exigences-diplome",
+  "category": "programmes",
+  "keywords": [
+   "mention immersion diplôme",
+   "french immersion designation",
+   "exigences immersion",
+   "immersion requirements",
+   "14 cours en français",
+   "combien de cours en français immersion",
+   "fls 3500 immersion",
+   "diplôme immersion française"
+  ],
+  "question": {
+   "fr": "Que faut-il pour obtenir la mention « immersion française » sur mon diplôme ?",
+   "en": "What do I need to get the French Immersion designation on my diploma?"
+  },
+  "answer": {
+   "fr": "Tu dois réussir au moins 14 cours, soit 42 crédits, donnés en français, dont au moins deux cours de niveau 1000 et deux de niveau 3000 ou 4000 autres que FLS, et au plus quatre cours d'accompagnement linguistique. Tu dois aussi réussir FLS 3500, le test de certification en langue seconde, idéalement en troisième année. En sciences infirmières, il faut 12 cours en français.",
+   "en": "You must pass at least 14 courses, or 42 units, taught in French, including at least two 1000-level and two 3000- or 4000-level courses other than FLS, and no more than four accompanying language courses. You must also pass FLS 3500, the second language certification test, ideally in third year. In Nursing, 12 courses in French are required."
+  },
+  "sources": [
+   {
+    "label": "Diploma requirements (French Immersion) — uOttawa",
+    "url": "https://www.uottawa.ca/study/immersion/french/about/diploma-requirements"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-immersion-test-entree",
+  "category": "admissions",
+  "keywords": [
+   "test d'entrée immersion",
+   "immersion entry test",
+   "admission immersion française",
+   "delf b2 immersion",
+   "tef tcf immersion",
+   "prouver mon français",
+   "french immersion admission",
+   "test immersion en ligne"
+  ],
+  "question": {
+   "fr": "Comment prouver mon niveau de français pour entrer en immersion ?",
+   "en": "How do I prove my French level to get into French Immersion?"
+  },
+  "answer": {
+   "fr": "Après avoir reçu une offre d'admission avec l'option immersion, tu passes le test d'entrée en immersion, une évaluation en ligne des quatre habiletés qui peut durer jusqu'à deux heures et demie, payable sur la boutique en ligne de l'Université. Tu peux aussi en être exempté avec un DELF B2, ou un TEF ou un TCF de niveau B2, soit plus de 400 points. Le résultat n'affecte pas ton admission à l'Université, seulement ton accès à l'immersion.",
+   "en": "After receiving an offer of admission with the immersion option, you take the Immersion Entry Test, an online assessment of the four skills that can take up to two and a half hours, paid through the University's eStore. You can also be exempted with a DELF B2, or a TEF or TCF at level B2, meaning over 400 points. The result doesn't affect your admission to the University, only your entry into immersion."
+  },
+  "sources": [
+   {
+    "label": "Become a French Immersion student — uOttawa",
+    "url": "https://www.uottawa.ca/study/immersion/french/become-french-immersion-student"
+   }
+  ],
+  "related": [
+   "h-cs-exigences-minimales",
+   "h-cs-faire-demande",
+   "h-cs-lettres-recommandation"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-immersion-ajouter",
+  "category": "admissions",
+  "keywords": [
+   "ajouter l'immersion",
+   "add french immersion",
+   "rejoindre l'immersion",
+   "join immersion later",
+   "immersion déjà étudiant",
+   "retirer l'immersion",
+   "remove immersion",
+   "transfert immersion"
+  ],
+  "question": {
+   "fr": "Je suis déjà étudiant à l'Université : est-ce que je peux ajouter l'immersion française ?",
+   "en": "I'm already a uOttawa student: can I add French Immersion?"
+  },
+  "answer": {
+   "fr": "Oui, tu peux t'inscrire au Régime d'immersion en français en cours de route et obtenir la mention sur ton diplôme, si tu respectes les critères d'admissibilité. Les cours universitaires que tu as déjà suivis en français peuvent compter pour les exigences. Pour ajouter ou retirer l'immersion, écris directement au bureau de l'immersion plutôt que de passer par la demande de changement de programme.",
+   "en": "Yes, you can join the French Immersion Stream partway through and get the designation on your diploma, as long as you meet the eligibility criteria. University courses you've already taken in French may count towards the requirements. To add or remove immersion, email the immersion office directly instead of using the program change request."
+  },
+  "sources": [
+   {
+    "label": "Become a French Immersion student — uOttawa",
+    "url": "https://www.uottawa.ca/study/immersion/french/become-french-immersion-student"
+   },
+   {
+    "label": "Make changes to your undergraduate program — uOttawa",
+    "url": "https://www.uottawa.ca/study/make-changes-undergraduate-program"
+   }
+  ],
+  "related": [
+   "h-cs-exigences-minimales",
+   "h-cs-faire-demande",
+   "h-cs-lettres-recommandation"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-immersion-notes-qualitatives",
+  "category": "cours",
+  "keywords": [
+   "note qualitative immersion",
+   "satisfaisant non satisfaisant",
+   "pass fail immersion",
+   "qualitative grade",
+   "protéger ma moyenne immersion",
+   "s/ns",
+   "cours en français sans note",
+   "immersion gpa"
+  ],
+  "question": {
+   "fr": "En immersion, est-ce que mes cours en français peuvent ne pas compter dans ma moyenne ?",
+   "en": "In immersion, can my French courses not count in my average?"
+  },
+  "answer": {
+   "fr": "Oui, tu peux choisir une note qualitative, « satisfaisant » ou « non satisfaisant », pour un maximum de huit cours donnés en français pendant tes deux premières années, ce qui protège ta moyenne. Ce n'est pas possible aux facultés des sciences et de génie. Tu fais ta demande en ligne ou par formulaire avant la date limite du calendrier universitaire, et ensuite tu ne vois plus ta note en lettres.",
+   "en": "Yes, you can choose a qualitative grade, satisfactory or not satisfactory, for up to eight courses taught in French during your first two years, which protects your average. This isn't available in the faculties of Science and Engineering. You apply online or with a form before the deadline in the academic calendar, and afterwards you no longer see your letter grade."
+  },
+  "sources": [
+   {
+    "label": "Frequently asked questions (French Immersion) — uOttawa",
+    "url": "https://www.uottawa.ca/study/immersion/french/about/faq"
+   }
+  ],
+  "related": [
+   "h-cs-cours-autre-universite",
+   "h-coop-rapport-stage",
+   "h-coop-cours-pendant-stage"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-immersion-cours-accompagnement",
+  "category": "cours",
+  "keywords": [
+   "cours d'accompagnement",
+   "fls 2581",
+   "fls 3581",
+   "cours d'immersion",
+   "immersion course",
+   "adjunct language course",
+   "aide cours en français",
+   "comprendre mes cours en français"
+  ],
+  "question": {
+   "fr": "C'est quoi, les cours d'immersion FLS 2581 et FLS 3581 ?",
+   "en": "What are the FLS 2581 and FLS 3581 immersion courses?"
+  },
+  "answer": {
+   "fr": "Ce sont des cours de langue qui accompagnent un cours de contenu donné en français, comme en psychologie ou en économie : un professeur de français langue seconde assiste au cours avec toi, puis donne une séance de 90 minutes pour revoir la matière. Même s'ils ne durent qu'une heure et demie par semaine, ils valent 3 crédits, et les groupes comptent moins de 25 étudiants. Ils sont facultatifs, mais fortement recommandés en première et deuxième année.",
+   "en": "They're language courses that accompany a content course taught in French, such as psychology or economics: a French as a second language professor attends the course with you, then gives a 90-minute session to review the material. Even though they're only an hour and a half a week, they're worth 3 units, and groups have fewer than 25 students. They're optional but strongly recommended in first and second year."
+  },
+  "sources": [
+   {
+    "label": "Courses (French Immersion) — uOttawa",
+    "url": "https://www.uottawa.ca/study/immersion/french/courses"
+   },
+   {
+    "label": "Frequently asked questions (French Immersion) — uOttawa",
+    "url": "https://www.uottawa.ca/study/immersion/french/about/faq"
+   }
+  ],
+  "related": [
+   "h-cs-cours-autre-universite",
+   "h-coop-rapport-stage",
+   "h-coop-cours-pendant-stage"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-immersion-mentorat",
+  "category": "services",
+  "keywords": [
+   "mentors immersion",
+   "immersion mentoring centre",
+   "centre de mentorat immersion",
+   "aide immersion première année",
+   "atelier prise de notes",
+   "note-taking workshop",
+   "lecture efficace",
+   "transition université immersion"
+  ],
+  "question": {
+   "fr": "Où trouver de l'aide quand je suis en immersion française ?",
+   "en": "Where can I get help as a French Immersion student?"
+  },
+  "answer": {
+   "fr": "Commence par le Centre de mentorat en immersion : les mentors sont des étudiants d'immersion des années supérieures qui t'aident dans ta transition et te dirigent vers les bonnes ressources. Ils animent aussi des ateliers, « Prise de notes » et « Lecture efficace », plusieurs fois par année. Pour écrire en français, tu peux aussi consulter le Centre d'aide à la rédaction des travaux universitaires.",
+   "en": "Start with the Immersion Mentoring Centre: mentors are upper-year immersion students who help you with your transition and point you to the right resources. They also run workshops, Prise de notes and Lecture efficace, on note-taking and efficient reading, several times a year. For writing in French, you can also turn to the Academic Writing Help Centre."
+  },
+  "sources": [
+   {
+    "label": "Immersion Mentoring Centre — uOttawa",
+    "url": "https://www.uottawa.ca/study/immersion/french/mentoring-centre"
+   },
+   {
+    "label": "Support and resources (French Immersion) — uOttawa",
+    "url": "https://www.uottawa.ca/study/immersion/french/support-resources"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-mineure-langue-seconde",
+  "category": "programmes",
+  "keywords": [
+   "mineure français langue seconde",
+   "minor in french",
+   "majeure fls",
+   "minor english language studies",
+   "mineure anglais",
+   "microprogramme fls",
+   "microprogramme esl",
+   "4 cours de langue",
+   "french second language minor"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire une mineure ou un microprogramme en français ou en anglais langue seconde ?",
+   "en": "Can I do a minor or microprogram in French or English as a second language?"
+  },
+  "answer": {
+   "fr": "Oui. Si tu as un niveau intermédiaire ou avancé, tu peux ajouter une mineure, une mineure approfondie ou une majeure en français langue seconde, réservées aux non-francophones, ou en études de la langue anglaise. Peu importe ton niveau, tu peux aussi faire un microprogramme en suivant quatre cours FLS ou ESL de ton choix, qui comptent comme cours au choix et s'ajoutent avec l'outil en ligne.",
+   "en": "Yes. If you're at an intermediate or advanced level, you can add a minor, advanced minor or major in French as a second language, reserved for non-francophones, or in English Language Studies. Whatever your level, you can also complete a microprogram by taking four FLS or ESL courses of your choice, which count as electives and are added with the online tool."
+  },
+  "sources": [
+   {
+    "label": "Undergraduate programs (OLBI) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/undergraduate-programs"
+   },
+   {
+    "label": "French as a second language (FLS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/undergraduate-programs/french-second-language-fls"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-ateliers-conversation",
+  "category": "services",
+  "keywords": [
+   "atelier de conversation",
+   "conversation workshop",
+   "partenaire de conversation",
+   "conversation partner",
+   "pratiquer mon français",
+   "practice my english",
+   "centre de ressources julien-couture",
+   "julien couture resource centre",
+   "antidote"
+  ],
+  "question": {
+   "fr": "Où est-ce que je peux pratiquer mon français ou mon anglais à l'oral ?",
+   "en": "Where can I practise speaking French or English?"
+  },
+  "answer": {
+   "fr": "Au Centre de ressources Julien-Couture, au pavillon Hamelin, salle 02 : tu peux participer à des ateliers de conversation avec jusqu'à cinq personnes ou à des rencontres individuelles avec un partenaire de conversation, animés par des étudiants. Le centre offre aussi des salles d'étude, des ordinateurs avec Antidote et une collection de ressources pour apprendre l'anglais et le français.",
+   "en": "At the Julien Couture Resource Centre, in Hamelin Hall, room 02: you can join conversation workshops with up to five people or one-on-one sessions with a conversation partner, led by students. The centre also offers study rooms, computers with Antidote and a collection of resources for learning English and French."
+  },
+  "sources": [
+   {
+    "label": "Julien Couture Resource Centre (JCRC) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/julien-couture-resource-centre"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-passeport-risque-linguistique",
+  "category": "services",
+  "keywords": [
+   "passeport de prise de risques linguistiques",
+   "linguistic risk-taking passport",
+   "application risque linguistique",
+   "oser parler français",
+   "speak english confidence",
+   "bilinguisme campus",
+   "défis linguistiques",
+   "language challenge app"
+  ],
+  "question": {
+   "fr": "C'est quoi, le Passeport de prise de risques linguistiques ?",
+   "en": "What is the Linguistic Risk-Taking Passport?"
+  },
+  "answer": {
+   "fr": "C'est un outil de l'ILOB, en version papier ou en application, qui t'encourage à utiliser ta langue seconde dans ton quotidien sur le campus, par exemple en commandant ton café en français ou en anglais. Le passeport papier est remis dans certains cours FLS et ESL, et tu peux aussi le prendre au Centre de ressources Julien-Couture, au pavillon Hamelin. Si tu n'es pas inscrit à un cours de langue, tu peux demander l'accès à l'application par courriel à l'ILOB.",
+   "en": "It's an OLBI tool, in paper or app form, that encourages you to use your second language in your daily life on campus, for example by ordering your coffee in French or English. The paper passport is handed out in some FLS and ESL courses, and you can also pick one up at the Julien Couture Resource Centre in Hamelin Hall. If you're not in a language course, you can request access to the app by emailing OLBI."
+  },
+  "sources": [
+   {
+    "label": "Linguistic Risk-Taking Initiative — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/ccerbal/research-groups/linguistic-risk"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-immersion-anglaise",
+  "category": "cours",
+  "keywords": [
+   "immersion anglaise",
+   "english immersion",
+   "cours en anglais avec soutien",
+   "améliorer mon anglais",
+   "improve my english",
+   "francophone cours en anglais",
+   "english language support",
+   "soutien linguistique anglais"
+  ],
+  "question": {
+   "fr": "Je suis francophone : est-ce qu'il existe une immersion en anglais ?",
+   "en": "I'm a francophone: is there an English immersion option?"
+  },
+  "answer": {
+   "fr": "Oui ! Les cours d'immersion anglaise te permettent de suivre des cours de ton programme donnés en anglais, avec un soutien linguistique propre à chaque cours, sans frais supplémentaires. Si aucun cours d'immersion ne t'intéresse, tu peux aussi suivre des cours réguliers d'études de la langue anglaise. Et rappelle-toi que tu peux remettre tes travaux et examens en français dans presque tous les cours.",
+   "en": "Yes! English immersion courses let you take courses in your program taught in English, with course-specific language support, at no extra cost. If none of the immersion courses interest you, you can also take regular English Language Studies courses. And remember that you can write your assignments and exams in French in almost every course."
+  },
+  "sources": [
+   {
+    "label": "English Immersion — uOttawa",
+    "url": "https://www.uottawa.ca/study/immersion/english"
+   }
+  ],
+  "related": [
+   "h-cs-cours-autre-universite",
+   "h-coop-rapport-stage",
+   "h-coop-cours-pendant-stage"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-centre-apprentissage-langues",
+  "category": "international",
+  "keywords": [
+   "centre d'apprentissage des langues",
+   "centre for language learning",
+   "cours d'anglais été",
+   "english summer program",
+   "uottawa english experience",
+   "programme d'anglais court",
+   "short english course",
+   "apprendre l'anglais à ottawa",
+   "languages canada"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme d'anglais court pour les visiteurs ?",
+   "en": "Is there a short English program for visitors?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre d'apprentissage des langues de l'ILOB offre le programme uOttawa English Experience : trois semaines l'été ou cinq semaines l'hiver, axées sur l'anglais de tous les jours et les échanges culturels, avec un certificat de participation de l'Université. Le Centre, accrédité par Langues Canada, offre aussi le Programme intensif d'anglais. Il est situé au 70, avenue Laurier Est, salle 101.",
+   "en": "Yes, OLBI's Centre for Language Learning offers the uOttawa English Experience Program: three weeks in summer or five weeks in winter, focused on everyday English and cultural exchange, with a University certificate of completion. The Centre, accredited by Languages Canada, also offers the English Intensive Program. It's located at 70 Laurier Avenue East, room 101."
+  },
+  "sources": [
+   {
+    "label": "uOttawa English Experience Program — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/english-experience"
+   },
+   {
+    "label": "Centre for Language Learning (CLL) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning"
+   }
+  ],
+  "related": [
+   "g-reseau-mondial-diplomes",
+   "g-international-emploi-campus",
+   "h-cs-tests-langue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-etudiant-non-candidat",
+  "category": "admissions",
+  "keywords": [
+   "étudiant spécial",
+   "étudiant non candidat au grade",
+   "non-degree student",
+   "special student",
+   "cours pour intérêt personnel",
+   "personal interest course",
+   "suivre un cours sans être admis",
+   "take a course without a degree",
+   "cours à temps partiel"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux suivre des cours sans être inscrit à un programme ?",
+   "en": "Can I take courses without being enrolled in a program?"
+  },
+  "answer": {
+   "fr": "Oui, comme étudiant non candidat à un grade, ou étudiant spécial, sans faire de demande d'admission. Il faut par exemple un diplôme d'études secondaires de l'Ontario avec une moyenne de 70 % ou être admissible comme étudiant adulte, sauf dans la catégorie intérêt personnel, qui permet jusqu'à deux cours par session et 30 crédits au total. Si c'est ta première fois, remplis d'abord le formulaire d'identification; pour l'hiver 2027, l'inscription s'ouvre le mardi 8 décembre 2026.",
+   "en": "Yes, as a non-degree student, or special student, without applying for admission. You need, for example, an Ontario Secondary School Diploma with a 70% average or to qualify as a mature student, except in the personal interest category, which allows up to two courses per term and 30 units in total. If it's your first time, fill out the identification form first; for Winter 2027, enrolment opens on Tuesday, December 8, 2026."
+  },
+  "sources": [
+   {
+    "label": "Course enrolment for non-degree students — uOttawa",
+    "url": "https://www.uottawa.ca/study/course-enrolment/non-degree-students"
+   }
+  ],
+  "related": [
+   "h-cs-exigences-minimales",
+   "h-cs-faire-demande",
+   "h-cs-lettres-recommandation"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-perfectionnement-professionnel",
+  "category": "programmes",
+  "keywords": [
+   "perfectionnement professionnel",
+   "professional development",
+   "formation continue",
+   "continuing education",
+   "institut de perfectionnement professionnel",
+   "professional development institute",
+   "pdi",
+   "cours pour professionnels",
+   "formation fonction publique"
+  ],
+  "question": {
+   "fr": "L'Université offre-t-elle de la formation continue pour les professionnels ?",
+   "en": "Does the University offer continuing education for professionals?"
+  },
+  "answer": {
+   "fr": "Oui, l'Institut de perfectionnement professionnel de l'Université offre depuis plus de 40 ans des cours, des programmes et des événements pour les professionnels du secteur public et privé. On y trouve notamment la sécurité de l'information, la gestion de projet, la rédaction, le leadership et l'amélioration des processus d'affaires. Pour les diplômés, il existe aussi des microprogrammes et des diplômes d'études supérieures, dont plusieurs en ligne.",
+   "en": "Yes, the University's Professional Development Institute has offered courses, programs and events for public and private sector professionals for over 40 years. Topics include information security, project management, writing, leadership and business process improvement. For graduates, there are also microprograms and graduate diplomas, many of them online."
+  },
+  "sources": [
+   {
+    "label": "University of Ottawa Professional Development Institute — uOttawa",
+    "url": "https://pdinstitute.uottawa.ca/PDI/"
+   },
+   {
+    "label": "Online courses and programs — uOttawa",
+    "url": "https://www.uottawa.ca/study/online-courses-programs"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-programmes-en-ligne",
+  "category": "programmes",
+  "keywords": [
+   "programme en ligne",
+   "online program",
+   "étudier à distance",
+   "study online",
+   "diplôme en ligne",
+   "online degree",
+   "baccalauréat en ligne",
+   "maîtrise en ligne",
+   "online master's",
+   "temps partiel en ligne"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire un programme complet en ligne ?",
+   "en": "Can I complete a whole program online?"
+  },
+  "answer": {
+   "fr": "Oui, certains programmes sont offerts en ligne, par exemple le baccalauréat accéléré en études interdisciplinaires, la mineure en droit, le diplôme d'études supérieures en gestion de l'ingénierie, à temps partiel, et des maîtrises comme celle en transformation numérique et innovation. Plusieurs microprogrammes de Telfer sont aussi offerts en ligne, en français seulement. La liste complète est sur la page des cours et programmes en ligne.",
+   "en": "Yes, some programs are offered online, for example the accelerated BA in Interdisciplinary Studies, the Minor in Law, the part-time Graduate Diploma in Engineering Management, and master's programs such as Digital Transformation and Innovation. Several Telfer microprograms are also offered online, in French only. The full list is on the online courses and programs page."
+  },
+  "sources": [
+   {
+    "label": "Online courses and programs — uOttawa",
+    "url": "https://www.uottawa.ca/study/online-courses-programs"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-ajouter-mineure",
+  "category": "programmes",
+  "keywords": [
+   "ajouter une mineure",
+   "add a minor",
+   "changer de programme",
+   "change my program",
+   "changement de programme",
+   "program change request",
+   "changer de spécialisation",
+   "mineure",
+   "minor",
+   "demande changement programme hiver"
+  ],
+  "question": {
+   "fr": "Comment ajouter une mineure ou changer de programme ?",
+   "en": "How do I add a minor or change programs?"
+  },
+  "answer": {
+   "fr": "Tu fais une demande de changement de programme en ligne dans uoZone, si ton baccalauréat est offert par une faculté à admission directe : Arts, Sciences, Sciences sociales, Génie, Sciences de la santé ou Telfer. Pour la session d'hiver 2027, la période de demande va du 1er octobre au 30 novembre 2026; celle de l'automne 2026 est fermée. Le coop et l'immersion française, eux, s'ajoutent par d'autres démarches.",
+   "en": "You submit an online program change request in uoZone, if your bachelor's is offered by a direct-entry faculty: Arts, Science, Social Sciences, Engineering, Health Sciences or Telfer. For the Winter 2027 term, the request period runs from October 1 to November 30, 2026; the Fall 2026 period is closed. Co-op and French Immersion are added through other processes."
+  },
+  "sources": [
+   {
+    "label": "Make changes to your undergraduate program — uOttawa",
+    "url": "https://www.uottawa.ca/study/make-changes-undergraduate-program"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-doubles-diplomes-acceleres",
+  "category": "programmes",
+  "keywords": [
+   "double diplôme accéléré",
+   "dual fast-track degree",
+   "deux diplômes",
+   "two degrees",
+   "baccalauréat et jd",
+   "bachelor and juris doctor",
+   "musique et sciences",
+   "programme intégré",
+   "finir plus vite"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux obtenir deux diplômes plus rapidement ?",
+   "en": "Can I earn two degrees faster?"
+  },
+  "answer": {
+   "fr": "Oui, avec les doubles diplômes accélérés : tu fais une seule demande d'admission pour deux diplômes et tu économises une ou deux sessions, puisque les cours qui se chevauchent sont retirés. Par exemple, musique et sciences se font en cinq ans plutôt que six, et science politique ou commerce avec le Juris Doctor en six ans plutôt que sept. Ces parcours sont prestigieux et compétitifs.",
+   "en": "Yes, with dual fast-track degrees: you apply once for two degrees and save one or two terms, since overlapping courses are removed. For example, music and science take five years instead of six, and political science or commerce with the Juris Doctor take six years instead of seven. These paths are prestigious and competitive."
+  },
+  "sources": [
+   {
+    "label": "Dual fast-track degrees — uOttawa",
+    "url": "https://www.uottawa.ca/study/dual-fast-track-degrees"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-autochtone-places-reservees",
+  "category": "admissions",
+  "keywords": [
+   "admission autochtone",
+   "indigenous admission",
+   "places réservées autochtones",
+   "reserved seats indigenous",
+   "premières nations",
+   "first nations",
+   "inuit",
+   "métis",
+   "preuve d'identité autochtone",
+   "indigenous identity documents"
+  ],
+  "question": {
+   "fr": "Y a-t-il des places réservées aux étudiants autochtones ?",
+   "en": "Are there reserved seats for Indigenous students?"
+  },
+  "answer": {
+   "fr": "Oui, l'Université réserve des places aux candidats des Premières Nations, inuits et métis en common law, en droit civil, en médecine, en sciences infirmières et en formation à l'enseignement. Il faut satisfaire aux exigences du programme, suivre le processus d'admission habituel et fournir une preuve d'identité autochtone, comme une carte de statut ou de citoyenneté, ou une déclaration détaillée sur tes liens avec ta communauté. Le Centre de ressources autochtones peut t'accompagner.",
+   "en": "Yes, the University reserves seats for First Nations, Inuit and Métis applicants in Common Law, Civil Law, Medicine, Nursing and Teacher Education. You must meet the program's requirements, follow the regular admission process and provide proof of Indigenous identity, such as a status or citizenship card, or a detailed statement about your ties to your community. The Indigenous Resource Centre can support you."
+  },
+  "sources": [
+   {
+    "label": "Admission (Indigenous) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/indigenous/admission"
+   }
+  ],
+  "related": [
+   "h-cs-exigences-minimales",
+   "h-cs-faire-demande",
+   "h-cs-lettres-recommandation"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-autochtone-bourses",
+  "category": "services",
+  "keywords": [
+   "bourse autochtone",
+   "indigenous scholarship",
+   "indigenous bursary",
+   "bourse leadership autochtone",
+   "indigenous leadership scholarship",
+   "aide financière autochtone",
+   "bourse métis",
+   "première nation bourse",
+   "financial aid indigenous"
+  ],
+  "question": {
+   "fr": "Quelles bourses existent pour les étudiants autochtones ?",
+   "en": "What scholarships are available for Indigenous students?"
+  },
+  "answer": {
+   "fr": "L'Université offre notamment la Bourse de leadership autochtone, la Bourse pour étudiants autochtones, une bourse d'études pour étudiants autochtones et une bourse de la Nation métisse de l'Ontario, en plus de bourses en médecine et en éducation. Il faut fournir les documents prévus par le règlement sur l'admissibilité des Premières Nations, Inuits et Métis. L'équipe du Centre de ressources autochtones peut aussi t'aider à trouver des bourses externes.",
+   "en": "The University offers, among others, the Indigenous Leadership Scholarship, the Indigenous Student Bursary, an Education Bursary for Indigenous Students and a Métis Nation of Ontario bursary, as well as awards in Medicine and Education. You must provide the documents required by the regulation on First Nations, Inuit and Métis eligibility. The Indigenous Resource Centre team can also help you find external scholarships."
+  },
+  "sources": [
+   {
+    "label": "Financial aid (Indigenous) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/indigenous/financial-aid"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "h-autochtone-programmes",
+  "category": "programmes",
+  "keywords": [
+   "études autochtones",
+   "indigenous studies",
+   "institut de recherche et d'études autochtones",
+   "institute of indigenous research and studies",
+   "programme autochtone médecine",
+   "indigenous program medicine",
+   "programme pour étudiants autochtones",
+   "programmes autochtones"
+  ],
+  "question": {
+   "fr": "Quels programmes sont offerts en études autochtones ?",
+   "en": "What programs are offered in Indigenous studies?"
+  },
+  "answer": {
+   "fr": "L'Institut de recherche et d'études autochtones, anciennement l'Institut d'études canadiennes et autochtones, offre le programme d'études autochtones. La Faculté de médecine a aussi, depuis 2005, un Programme autochtone qui recrute et soutient les étudiants autochtones tout au long de leur formation médicale.",
+   "en": "The Institute of Indigenous Research and Studies, formerly the Institute of Canadian and Aboriginal Studies, offers the Indigenous Studies program. Since 2005, the Faculty of Medicine has also had an Indigenous Program that recruits and supports Indigenous students throughout their medical education."
+  },
+  "sources": [
+   {
+    "label": "Programs (Indigenous) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/indigenous/programs"
+   }
+  ],
+  "related": [
+   "f-arts-bureau-premier-cycle",
+   "f-arts-departements",
+   "f-arts-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-etages",
+  "category": "batiments",
+  "keywords": [
+   "crx etages",
+   "quoi dans crx",
+   "what is in crx",
+   "crx floors",
+   "etage crx",
+   "carrefour apprentissage",
+   "learning crossroads floors",
+   "plan crx",
+   "crx directory",
+   "ou aller dans crx",
+   "crx niveau"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve à chaque étage du CRX ?",
+   "en": "What's on each floor of CRX?"
+  },
+  "answer": {
+   "fr": "Au niveau 0, il y a des salles de classe et un salon ; au niveau 1, une salle de classe, un salon et un Tim Hortons. Le 2e étage regroupe des salles de classe, le Tinkering Lab et les studios de balado et de réalité virtuelle, les 3e et 4e étages ont des classes, des bureaux et des salles de réunion. Le 5e étage est un espace de la bibliothèque avec des salles d'étude et une salle de lecture, et le 6e étage accueille l'espace INNOVA.",
+   "en": "Level 0 has classrooms and a lounge; level 1 has a classroom, a lounge and a Tim Hortons. The 2nd floor has classrooms, the Tinkering Lab and the podcast and virtual reality studios, while the 3rd and 4th floors have classrooms, offices and meeting rooms. The 5th floor is a library space with study rooms and a reading room, and the 6th floor is home to the INNOVA Space."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-innova",
+  "category": "batiments",
+  "keywords": [
+   "innova",
+   "espace innova",
+   "innova space",
+   "c'est quoi innova",
+   "what is innova",
+   "6e etage crx",
+   "6th floor crx",
+   "technopedagogie",
+   "education francophone",
+   "ou suis-je",
+   "where am i",
+   "innova uottawa"
+  ],
+  "question": {
+   "fr": "C'est quoi, INNOVA ?",
+   "en": "What is INNOVA?"
+  },
+  "answer": {
+   "fr": "Tu es à INNOVA, l'espace qui occupe le 6e étage du pavillon Learning Crossroads (CRX). C'est un lieu de formation, de recherche et d'expérimentation en technopédagogie, financé par Patrimoine canadien et l'Université d'Ottawa, pour appuyer la communauté éducative francophone du Canada, de la petite enfance jusqu'aux études supérieures. Il a été inauguré en septembre 2024 comme le premier espace d'innovation éducative au Canada consacré à l'éducation en français en milieu minoritaire.",
+   "en": "You're at INNOVA, the space on the 6th floor of the Learning Crossroads (CRX) building. It's a place for training, research and experimentation in educational technology, funded by Canadian Heritage and the University of Ottawa, to support Canada's French-language education community from early childhood to higher education. It opened in September 2024 as Canada's first educational innovation space dedicated to French-language education in a minority setting."
+  },
+  "sources": [
+   {
+    "label": "INNOVA inauguration — uOttawa",
+    "url": "https://www.uottawa.ca/en/events-all/innova-inauguration"
+   },
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-innova-toilettes",
+  "category": "batiments",
+  "keywords": [
+   "toilettes",
+   "toilette la plus proche",
+   "nearest washroom",
+   "washroom",
+   "bathroom",
+   "restroom",
+   "salle de bain",
+   "toilettes innova",
+   "toilettes 6e etage",
+   "toilettes crx",
+   "where are the washrooms",
+   "ou sont les toilettes"
+  ],
+  "question": {
+   "fr": "Où sont les toilettes les plus proches ?",
+   "en": "Where's the nearest washroom?"
+  },
+  "answer": {
+   "fr": "Ici, au 6e étage du CRX où se trouve INNOVA, il y a des toilettes à plusieurs cabines accessibles : les locaux C604, C605, C649 et C650. Si tu préfères une toilette individuelle non genrée et accessible, la plus proche est un étage plus bas, au local C547.",
+   "en": "Right here on the 6th floor of CRX, where INNOVA is, there are accessible multi-stall washrooms: rooms C604, C605, C649 and C650. If you'd rather use a non-gendered, accessible single washroom, the closest one is one floor down, in room C547."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Non-gendered single washrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/available-washrooms"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-toilettes-accessibles",
+  "category": "batiments",
+  "keywords": [
+   "toilettes accessibles crx",
+   "accessible washroom crx",
+   "toilette fauteuil roulant",
+   "wheelchair washroom",
+   "toilettes crx",
+   "crx washrooms",
+   "toilettes chaque etage",
+   "washroom every floor",
+   "toilette accessible",
+   "accessible bathroom"
+  ],
+  "question": {
+   "fr": "Y a-t-il des toilettes accessibles dans le CRX ?",
+   "en": "Are there accessible washrooms in CRX?"
+  },
+  "answer": {
+   "fr": "Oui, chaque étage du CRX, du niveau 0 au 6e, a des toilettes à plusieurs cabines accessibles. Par exemple, au niveau 1, ce sont les locaux 126 et 127, et il y a aussi une toilette individuelle accessible au local 110J. Les 2e, 4e et 5e étages ont aussi une toilette individuelle accessible.",
+   "en": "Yes, every floor of CRX, from level 0 to the 6th floor, has accessible multi-stall washrooms. For example, on level 1 they're rooms 126 and 127, and there's also an accessible single washroom in room 110J. The 2nd, 4th and 5th floors also have an accessible single washroom."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-toilettes-non-genrees-crx",
+  "category": "batiments",
+  "keywords": [
+   "toilettes non genrees",
+   "gender neutral washroom",
+   "all gender washroom",
+   "toilette inclusive",
+   "gender inclusive washroom",
+   "toilettes mixtes",
+   "non-gendered washroom",
+   "toilette individuelle",
+   "single washroom",
+   "toilettes non genrees crx",
+   "lmx toilettes"
+  ],
+  "question": {
+   "fr": "Où sont les toilettes non genrées près d'ici ?",
+   "en": "Where are the gender-neutral washrooms near here?"
+  },
+  "answer": {
+   "fr": "Dans le complexe CRX–Lamoureux, il y a des toilettes individuelles non genrées et accessibles au niveau 1 (local 110J), au 2e étage (C244), au 4e (C447) et au 5e (C547). Celle du 2e étage est une toilette universelle, avec de l'espace pour un accompagnateur et une table à langer pour tous les âges.",
+   "en": "In the CRX–Lamoureux complex, there are non-gendered, accessible single washrooms on level 1 (room 110J), the 2nd floor (C244), the 4th (C447) and the 5th (C547). The one on the 2nd floor is a universal washroom, with room for an attendant and an all-ages change table."
+  },
+  "sources": [
+   {
+    "label": "Non-gendered single washrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/available-washrooms"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-toilettes-non-genrees-campus",
+  "category": "batiments",
+  "keywords": [
+   "toilettes non genrees campus",
+   "gender neutral washrooms campus",
+   "all gender bathroom",
+   "toilettes inclusives",
+   "liste toilettes",
+   "washroom list",
+   "toilettes stem",
+   "toilettes fss",
+   "toilettes ucu",
+   "non-gendered washrooms",
+   "toilette individuelle campus"
+  ],
+  "question": {
+   "fr": "Où trouver des toilettes non genrées sur le campus ?",
+   "en": "Where can I find gender-neutral washrooms on campus?"
+  },
+  "answer": {
+   "fr": "L'Université publie la liste de toutes ses toilettes individuelles non genrées, pavillon par pavillon. Par exemple, le complexe STEM en a une accessible à chaque étage, le pavillon des Sciences sociales (FSS) en a sur plusieurs étages, et le Centre universitaire (UCU) en a une au niveau 0, au local 010. Consulte la page des toilettes individuelles non genrées pour les autres pavillons.",
+   "en": "The University publishes a list of all its non-gendered single washrooms, building by building. For example, the STEM Complex has an accessible one on every floor, the Social Sciences Building (FSS) has them on several floors, and the University Centre (UCU) has one on level 0, in room 010. Check the non-gendered single washrooms page for other buildings."
+  },
+  "sources": [
+   {
+    "label": "Non-gendered single washrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/available-washrooms"
+   },
+   {
+    "label": "STEM Complex (STM) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/stem-complex"
+   },
+   {
+    "label": "Social Sciences Building (FSS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/social-sciences-building"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-toilettes-universelles",
+  "category": "batiments",
+  "keywords": [
+   "toilette universelle",
+   "universal washroom",
+   "toilette avec accompagnateur",
+   "attendant washroom",
+   "toilette familiale",
+   "family washroom",
+   "toilette adulte table a langer",
+   "adult change table",
+   "accessible washroom",
+   "toilettes accessibles campus"
+  ],
+  "question": {
+   "fr": "C'est quoi une toilette universelle et où en trouver ?",
+   "en": "What is a universal washroom and where can I find one?"
+  },
+  "answer": {
+   "fr": "Une toilette universelle offre de l'espace pour un appareil de mobilité et pour un accompagnateur, des barres d'appui, une table à langer pour tous les âges et une porte automatique. Il y en a notamment au 2e étage du CRX (C244), au local 1031 du pavillon SITE, au local 129A de Morisset et aux 10e et 12e étages du pavillon des Sciences sociales.",
+   "en": "A universal washroom has room for a mobility device and an attendant, grab bars, an all-ages change table and a door operator. You'll find them on the 2nd floor of CRX (C244), in room 1031 of the SITE building, in room 129A of Morisset, and on the 10th and 12th floors of the Social Sciences Building."
+  },
+  "sources": [
+   {
+    "label": "Non-gendered single washrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/available-washrooms"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-table-a-langer",
+  "category": "services",
+  "keywords": [
+   "table a langer",
+   "changing table",
+   "change table",
+   "changer une couche",
+   "change a diaper",
+   "bebe",
+   "baby",
+   "parent",
+   "toilette bebe",
+   "baby changing",
+   "couche"
+  ],
+  "question": {
+   "fr": "Où puis-je changer la couche de mon bébé ?",
+   "en": "Where can I change my baby's diaper?"
+  },
+  "answer": {
+   "fr": "Toutes les toilettes universelles ont une table à langer, comme celle du 2e étage du CRX, au local C244. Il y a aussi des tables à langer au complexe sportif Minto (locaux C203 et C204, avec une clé au comptoir de service), au 200 Lees (bloc E) et au 6e étage du pavillon Vanier. La salle d'allaitement du Centre universitaire en a une aussi.",
+   "en": "All universal washrooms have a change table, like the one on the 2nd floor of CRX, in room C244. There are also change tables at the Minto Sports Complex (rooms C203 and C204, with a key from the service desk), at 200 Lees (Block E) and on the 6th floor of Vanier Hall. The nursing room in the University Centre has one too."
+  },
+  "sources": [
+   {
+    "label": "Non-gendered single washrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/available-washrooms"
+   },
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-accessibilite",
+  "category": "batiments",
+  "keywords": [
+   "accessibilite crx",
+   "crx accessible",
+   "entree accessible",
+   "accessible entrance",
+   "ascenseur crx",
+   "crx elevator",
+   "fauteuil roulant",
+   "wheelchair",
+   "sans obstacle",
+   "barrier free",
+   "porte automatique"
+  ],
+  "question": {
+   "fr": "Le CRX est-il accessible en fauteuil roulant ?",
+   "en": "Is CRX wheelchair accessible?"
+  },
+  "answer": {
+   "fr": "Oui. Tu peux entrer au 1er étage par les portes au coin sud-est du bâtiment, sur la privée Louis-Pasteur, ou par la porte du côté nord, sur la privée University. Trois ascenseurs desservent tous les étages, du niveau 0 jusqu'au 6e.",
+   "en": "Yes. You can enter on the 1st floor through the doors at the southeast corner of the building, on Louis-Pasteur Private, or through the door on the north side, on University Private. Three passenger elevators serve every floor, from level 0 up to the 6th."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-paratranspo",
+  "category": "batiments",
+  "keywords": [
+   "para transpo crx",
+   "paratranspo",
+   "point de rencontre",
+   "pick-up point",
+   "stationnement accessible crx",
+   "accessible parking crx",
+   "debarcadere",
+   "drop-off",
+   "transport adapte",
+   "parking handicape"
+  ],
+  "question": {
+   "fr": "Où est le point Para Transpo et le stationnement accessible près du CRX ?",
+   "en": "Where is the Para Transpo stop and accessible parking near CRX?"
+  },
+  "answer": {
+   "fr": "Le point de prise en charge et de dépôt Para Transpo numéro 6 est sur la privée University, entre le pavillon Lamoureux et le Square University. Quatre places de stationnement accessibles se trouvent aussi sur la privée University, entre le côté sud du pavillon Montpetit et le côté nord du CRX ; il faut d'abord contacter le Service du stationnement pour y avoir accès.",
+   "en": "Para Transpo pick-up and drop-off point 6 is on University Private, between Lamoureux Hall and University Square. There are also four accessible parking spaces on University Private, between the south side of Montpetit Hall and the north side of CRX; you need to contact Parking Services first to get access."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-passages",
+  "category": "batiments",
+  "keywords": [
+   "passage crx lmx",
+   "relie",
+   "connected buildings",
+   "corridor",
+   "aller a lamoureux",
+   "go to montpetit",
+   "passer a l'interieur",
+   "indoor route",
+   "crx montpetit",
+   "crx lamoureux",
+   "sans sortir"
+  ],
+  "question": {
+   "fr": "Peut-on passer du CRX aux pavillons voisins sans sortir ?",
+   "en": "Can I get from CRX to nearby buildings without going outside?"
+  },
+  "answer": {
+   "fr": "Oui ! Le CRX est relié au pavillon Lamoureux (LMX) par des corridors aux 1er, 2e, 3e et 4e étages. Il est aussi relié au pavillon Montpetit (MNT) aux 2e, 3e et 4e étages.",
+   "en": "Yes! CRX is connected to Lamoureux Hall (LMX) by corridors on the 1st, 2nd, 3rd and 4th floors. It's also connected to Montpetit Hall (MNT) on the 2nd, 3rd and 4th floors."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-salons",
+  "category": "batiments",
+  "keywords": [
+   "s'asseoir",
+   "where to sit",
+   "salon crx",
+   "lounge crx",
+   "attendre",
+   "wait",
+   "espace detente",
+   "place assise",
+   "seating",
+   "pause",
+   "lounge area"
+  ],
+  "question": {
+   "fr": "Où puis-je m'asseoir ou attendre dans le CRX ?",
+   "en": "Where can I sit or wait in CRX?"
+  },
+  "answer": {
+   "fr": "Il y a des aires de salon au niveau 0 et au niveau 1 du CRX, et le Tim Hortons est aussi au niveau 1. Si tu veux travailler, les 2e et 5e étages offrent plus de 1 000 places d'étude individuelles ou en groupe, sans réservation pour les places individuelles.",
+   "en": "There are lounge areas on level 0 and level 1 of CRX, and the Tim Hortons is on level 1 too. If you want to work, the 2nd and 5th floors offer more than 1,000 individual and group study spaces, and the individual spots don't need a booking."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Study Spaces CRX Library — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/study-spaces-crx"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-tinkering-lab",
+  "category": "batiments",
+  "keywords": [
+   "tinkering lab",
+   "labo bricolage",
+   "crx 2e etage",
+   "learning lab",
+   "laboratoire d'apprentissage",
+   "crx second floor",
+   "bricoler",
+   "lab crx",
+   "espace creatif",
+   "studio crx"
+  ],
+  "question": {
+   "fr": "C'est quoi le Tinkering Lab du CRX ?",
+   "en": "What is the Tinkering Lab in CRX?"
+  },
+  "answer": {
+   "fr": "Le Tinkering Lab est au 2e étage du CRX, avec un laboratoire d'apprentissage et les studios de balado et de réalité virtuelle. La page du pavillon ne donne pas plus de détails sur ses activités ; pour les studios et les technologies du même étage, renseigne-toi auprès du Centre des compétences numériques de la bibliothèque.",
+   "en": "The Tinkering Lab is on the 2nd floor of CRX, alongside a learning lab and the podcast and virtual reality studios. The building page doesn't give more details about its activities; for the studios and technology on that floor, check with the Library's Digital Skills Hub."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Digital Skills Hub — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/digital-skills-hub"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "i-centre-competences-numeriques",
+  "category": "bibliotheques",
+  "keywords": [
+   "digital skills hub",
+   "centre des competences numeriques",
+   "carrefour numerique",
+   "studio crx",
+   "technologie crx",
+   "creation numerique",
+   "digital content",
+   "studio video",
+   "8k",
+   "ecran geant",
+   "crx 2e etage"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre des compétences numériques du CRX ?",
+   "en": "What is the Digital Skills Hub in CRX?"
+  },
+  "answer": {
+   "fr": "C'est un espace de la bibliothèque au 2e étage du CRX où tu peux découvrir la baladodiffusion, la réalité virtuelle et d'autres technologies, avec l'aide du personnel. On y trouve deux studios de balado, un mur vidéo 8K, de l'équipement de jeu et de réalité virtuelle, trois studios de création et un espace d'apprentissage flexible. Il est ouvert aux étudiants, au corps professoral et au personnel, avec priorité aux projets de recherche et d'enseignement.",
+   "en": "It's a Library space on the 2nd floor of CRX where you can explore podcasting, virtual reality and other technologies, with help from staff. It has two podcast studios, an 8K video wall, gaming and VR equipment, three creation studios and a flexible learning space. It's open to students, faculty and staff, with priority for research and teaching projects."
+  },
+  "sources": [
+   {
+    "label": "Digital Skills Hub — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/digital-skills-hub"
+   }
+  ],
+  "related": [
+   "i-studio-balado",
+   "i-realite-virtuelle",
+   "i-mur-video-8k"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-studio-balado",
+  "category": "bibliotheques",
+  "keywords": [
+   "podcast",
+   "balado",
+   "baladodiffusion",
+   "studio podcast",
+   "podcast studio",
+   "enregistrer",
+   "record audio",
+   "studio d'enregistrement",
+   "recording studio",
+   "micro",
+   "reserver studio"
+  ],
+  "question": {
+   "fr": "Où puis-je enregistrer un balado ?",
+   "en": "Where can I record a podcast?"
+  },
+  "answer": {
+   "fr": "Le Centre des compétences numériques, au 2e étage du CRX, a deux studios d'enregistrement de balado avec de l'équipement audio professionnel. Tu peux réserver le studio pour ton projet, et le personnel peut t'aider à améliorer tes techniques.",
+   "en": "The Digital Skills Hub, on the 2nd floor of CRX, has two podcast recording studios with professional audio equipment. You can book the studio for your project, and staff can help you build your skills."
+  },
+  "sources": [
+   {
+    "label": "Digital Skills Hub — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/digital-skills-hub"
+   }
+  ],
+  "related": [
+   "i-centre-competences-numeriques",
+   "i-realite-virtuelle",
+   "i-mur-video-8k"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-realite-virtuelle",
+  "category": "bibliotheques",
+  "keywords": [
+   "realite virtuelle",
+   "virtual reality",
+   "vr",
+   "casque vr",
+   "vr headset",
+   "jeux video",
+   "gaming",
+   "essayer vr",
+   "try vr",
+   "studio vr",
+   "rv"
+  ],
+  "question": {
+   "fr": "Où puis-je essayer la réalité virtuelle ?",
+   "en": "Where can I try virtual reality?"
+  },
+  "answer": {
+   "fr": "Au Centre des compétences numériques, au 2e étage du CRX, tu peux réserver une séance de réalité virtuelle ou de jeu pour un cours, une recherche ou une activité d'équipe, et il y a aussi des ateliers sans rendez-vous. Le Salon du mieux-être du Centre universitaire propose aussi des jeux de réalité virtuelle axés sur le bien-être pendant ses heures d'ouverture.",
+   "en": "At the Digital Skills Hub, on the 2nd floor of CRX, you can book a virtual reality or gaming session for a class, research or a team activity, and there are drop-in workshops too. The Wellness Lounge in the University Centre also offers wellness-focused VR gaming during its opening hours."
+  },
+  "sources": [
+   {
+    "label": "Digital Skills Hub — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/digital-skills-hub"
+   },
+   {
+    "label": "Wellness Lounge — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+   }
+  ],
+  "related": [
+   "i-centre-competences-numeriques",
+   "i-studio-balado",
+   "i-mur-video-8k"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-mur-video-8k",
+  "category": "bibliotheques",
+  "keywords": [
+   "mur video",
+   "8k",
+   "video wall",
+   "visualisation de donnees",
+   "data visualization",
+   "grand ecran",
+   "big screen",
+   "diffusion en direct",
+   "live streaming",
+   "hackathon"
+  ],
+  "question": {
+   "fr": "Y a-t-il un grand écran pour visualiser des données ?",
+   "en": "Is there a big screen for data visualization?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre des compétences numériques, au 2e étage du CRX, a un mur vidéo 8K et des écrans haute résolution pour visualiser des données. On peut aussi l'utiliser pour des diffusions en direct, et l'espace d'apprentissage flexible peut accueillir des conférences ou des hackathons.",
+   "en": "Yes, the Digital Skills Hub, on the 2nd floor of CRX, has an 8K video wall and high-resolution screens for data visualization. It can also be used for live streaming, and the flexible learning space can host conferences or hackathons."
+  },
+  "sources": [
+   {
+    "label": "Digital Skills Hub — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/digital-skills-hub"
+   }
+  ],
+  "related": [
+   "i-centre-competences-numeriques",
+   "i-studio-balado",
+   "i-realite-virtuelle"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-salles-groupe",
+  "category": "bibliotheques",
+  "keywords": [
+   "salle de groupe crx",
+   "group study room crx",
+   "reserver salle crx",
+   "book room crx",
+   "5e etage crx",
+   "salle d'etude crx",
+   "travail d'equipe",
+   "group work",
+   "salle de reunion etudiant",
+   "study room booking"
+  ],
+  "question": {
+   "fr": "Comment réserver une salle d'étude de groupe au CRX ?",
+   "en": "How do I book a group study room in CRX?"
+  },
+  "answer": {
+   "fr": "Le 5e étage du CRX compte 15 salles d'étude de groupe pour 2 à 16 personnes, avec ordinateurs, écrans, tableau blanc et bornes de recharge. Tu peux réserver en ligne une fois par jour, pour un maximum de 2 heures, jusqu'à deux semaines à l'avance, et seulement pour des travaux scolaires.",
+   "en": "The 5th floor of CRX has 15 group study rooms for 2 to 16 people, with computers, screens, a whiteboard and charging stations. You can book online once a day, for up to 2 hours, as far as two weeks ahead, and only for academic work."
+  },
+  "sources": [
+   {
+    "label": "Study Spaces CRX Library — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/study-spaces-crx"
+   }
+  ],
+  "related": [
+   "i-centre-competences-numeriques",
+   "i-studio-balado",
+   "i-realite-virtuelle"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-places-individuelles",
+  "category": "bibliotheques",
+  "keywords": [
+   "etudier crx",
+   "study crx",
+   "place individuelle",
+   "individual study",
+   "sans reservation",
+   "no booking",
+   "ordinateur crx",
+   "computer crx",
+   "etudier seul",
+   "quiet study",
+   "espace etude"
+  ],
+  "question": {
+   "fr": "Puis-je étudier seul au CRX sans réserver ?",
+   "en": "Can I study alone in CRX without booking?"
+  },
+  "answer": {
+   "fr": "Oui ! Aux 2e et 5e étages du CRX, plus de 50 places individuelles avec bureau, siège confortable, ordinateur et borne de recharge sont offertes sans réservation. Il y a le Wi-Fi partout, et garde toujours un œil sur tes affaires.",
+   "en": "Yes! On the 2nd and 5th floors of CRX, more than 50 individual spots with a desk, comfortable seating, a computer and a charging station are available with no booking. There's Wi-Fi throughout, and always keep an eye on your belongings."
+  },
+  "sources": [
+   {
+    "label": "Study Spaces CRX Library — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/study-spaces-crx"
+   }
+  ],
+  "related": [
+   "i-centre-competences-numeriques",
+   "i-studio-balado",
+   "i-realite-virtuelle"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-recharger-appareil",
+  "category": "services",
+  "keywords": [
+   "recharger telephone",
+   "charge phone",
+   "borne de recharge",
+   "charging station",
+   "prise",
+   "outlet",
+   "batterie",
+   "battery",
+   "recharger portable",
+   "charge laptop",
+   "chargeur"
+  ],
+  "question": {
+   "fr": "Où puis-je recharger mon téléphone ou mon portable ?",
+   "en": "Where can I charge my phone or laptop?"
+  },
+  "answer": {
+   "fr": "Les espaces d'étude des 2e et 5e étages du CRX ont des bornes de recharge, autant aux places individuelles que dans les salles de groupe. Les places individuelles ne demandent aucune réservation.",
+   "en": "The study spaces on the 2nd and 5th floors of CRX have charging stations, both at the individual spots and in the group rooms. The individual spots don't need a booking."
+  },
+  "sources": [
+   {
+    "label": "Study Spaces CRX Library — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/study-spaces-crx"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-imprimante",
+  "category": "ti",
+  "keywords": [
+   "imprimante crx",
+   "printer crx",
+   "imprimer crx",
+   "print crx",
+   "c230",
+   "photocopie",
+   "photocopy",
+   "numeriser",
+   "scan",
+   "uoprint crx",
+   "imprimer ici"
+  ],
+  "question": {
+   "fr": "Y a-t-il une imprimante dans le CRX ?",
+   "en": "Is there a printer in CRX?"
+  },
+  "answer": {
+   "fr": "Oui, il y a une imprimante libre-service uoPrint au local C230 du CRX. L'impression coûte 9 cents la page en noir et blanc recto, 25 cents en couleur recto, et la numérisation est gratuite ; tu paies par carte de débit ou de crédit.",
+   "en": "Yes, there's a uoPrint self-service printer in room C230 of CRX. Printing costs 9 cents per one-sided black-and-white page and 25 cents for one-sided colour, and scanning is free; you pay by debit or credit card."
+  },
+  "sources": [
+   {
+    "label": "uoPrint: Self-service printers — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/print/printer"
+   },
+   {
+    "label": "Study Spaces CRX Library — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/study-spaces-crx"
+   }
+  ],
+  "related": [
+   "i-docucentre",
+   "i-labo-info-genie",
+   "i-imprimantes-genie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-salle-lecture",
+  "category": "bibliotheques",
+  "keywords": [
+   "salle de lecture",
+   "reading room",
+   "5e etage crx",
+   "crx 5th floor",
+   "bibliotheque crx",
+   "library crx",
+   "endroit calme",
+   "quiet place",
+   "espace bibliotheque",
+   "lire"
+  ],
+  "question": {
+   "fr": "Y a-t-il une salle de lecture dans le CRX ?",
+   "en": "Is there a reading room in CRX?"
+  },
+  "answer": {
+   "fr": "Oui, le 5e étage du CRX est un espace de la bibliothèque avec une salle de lecture, un espace de travail et des salles d'étude. Les services de la bibliothèque du Carrefour d'apprentissage sont au 2e étage.",
+   "en": "Yes, the 5th floor of CRX is a Library space with a reading room, a workspace and study rooms. The Learning Crossroads library services are on the 2nd floor."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Learning Crossroads — uOttawa Library",
+    "url": "https://www.uottawa.ca/library/learning-crossroads"
+   }
+  ],
+  "related": [
+   "i-centre-competences-numeriques",
+   "i-studio-balado",
+   "i-realite-virtuelle"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-aide-bibliotheque",
+  "category": "bibliotheques",
+  "keywords": [
+   "aide bibliotheque crx",
+   "library help crx",
+   "comptoir bibliotheque",
+   "library desk",
+   "bibliothecaire",
+   "librarian",
+   "services bibliotheque crx",
+   "pret equipement crx",
+   "borrow camera",
+   "question bibliotheque"
+  ],
+  "question": {
+   "fr": "Où trouver de l'aide de la bibliothèque dans le CRX ?",
+   "en": "Where can I get Library help in CRX?"
+  },
+  "answer": {
+   "fr": "Les services de la bibliothèque du Carrefour d'apprentissage sont au 2e étage du CRX. La bibliothèque prête aussi de l'équipement comme des caméras, des micros et des trépieds. Pour une question générale, tu peux aussi utiliser le clavardage « Demandez à un bibliothécaire » ou appeler au 613-562-5213.",
+   "en": "The Learning Crossroads library services are on the 2nd floor of CRX. The Library also lends equipment like cameras, microphones and tripods. For general questions, you can also use the Ask a Librarian chat or call 613-562-5213."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads — uOttawa Library",
+    "url": "https://www.uottawa.ca/library/learning-crossroads"
+   }
+  ],
+  "related": [
+   "i-centre-competences-numeriques",
+   "i-studio-balado",
+   "i-realite-virtuelle"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-tim-hortons",
+  "category": "services",
+  "keywords": [
+   "tim hortons crx",
+   "tim hortons ici",
+   "tim hortons near me",
+   "tims",
+   "cafe crx",
+   "coffee crx",
+   "timmies",
+   "beigne",
+   "donut",
+   "heures tim hortons",
+   "tim hortons hours"
+  ],
+  "question": {
+   "fr": "Y a-t-il un Tim Hortons dans le CRX ?",
+   "en": "Is there a Tim Hortons in CRX?"
+  },
+  "answer": {
+   "fr": "Oui, il y a un Tim Hortons au niveau 1 du CRX. De septembre à avril, il est ouvert de 7 h 30 à 19 h 30 en semaine et fermé la fin de semaine, les jours fériés et pendant le congé des Fêtes. Tu peux aussi commander d'avance avec l'application Boost.",
+   "en": "Yes, there's a Tim Hortons on level 1 of CRX. From September to April, it's open 7:30 a.m. to 7:30 p.m. on weekdays and closed on weekends, statutory holidays and over the holiday break. You can also order ahead with the Boost app."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Eat on campus — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-manger",
+  "category": "services",
+  "keywords": [
+   "manger crx",
+   "eat crx",
+   "nourriture crx",
+   "food near me",
+   "manger ici",
+   "restaurant crx",
+   "lunch crx",
+   "diner",
+   "food crx",
+   "ou manger pres d'ici",
+   "where to eat nearby"
+  ],
+  "question": {
+   "fr": "Où puis-je manger dans le CRX ou juste à côté ?",
+   "en": "Where can I eat in CRX or right next door?"
+  },
+  "answer": {
+   "fr": "Au niveau 1 du complexe CRX–Lamoureux, tu as le Tim Hortons, Paramount (cuisine libanaise), Thai Express et le Go Café. Paramount et Thai Express sont ouverts de 11 h à 18 h en semaine, le Go Café de 7 h 30 à 17 h, et tout est fermé la fin de semaine.",
+   "en": "On level 1 of the CRX–Lamoureux complex, you'll find Tim Hortons, Paramount (Lebanese food), Thai Express and Go Café. Paramount and Thai Express are open 11 a.m. to 6 p.m. on weekdays, Go Café 7:30 a.m. to 5 p.m., and all are closed on weekends."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   },
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-paramount",
+  "category": "services",
+  "keywords": [
+   "paramount",
+   "libanais",
+   "lebanese",
+   "shawarma",
+   "falafel",
+   "paramount crx",
+   "cuisine libanaise",
+   "lebanese food",
+   "halal",
+   "paramount hours"
+  ],
+  "question": {
+   "fr": "Où est le Paramount et quelles sont ses heures ?",
+   "en": "Where is Paramount and what are its hours?"
+  },
+  "answer": {
+   "fr": "Paramount Lebanese Kitchen est au niveau 1 du complexe CRX–Lamoureux, à côté de toi. Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 11 h à 18 h, et fermé la fin de semaine, les jours fériés, pendant le congé des Fêtes et du 13 au 21 février. Tu peux commander d'avance avec l'application Boost.",
+   "en": "Paramount Lebanese Kitchen is on level 1 of the CRX–Lamoureux complex, right near you. From September 8 to April 30, it's open Monday to Friday from 11 a.m. to 6 p.m., and closed on weekends, statutory holidays, over the holiday break and from February 13 to 21. You can order ahead with the Boost app."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   },
+   {
+    "label": "Eat on campus — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-thai-express",
+  "category": "services",
+  "keywords": [
+   "thai express",
+   "thai",
+   "nouilles",
+   "noodles",
+   "pad thai",
+   "cuisine thai",
+   "thai food",
+   "thai express crx",
+   "asiatique",
+   "asian food"
+  ],
+  "question": {
+   "fr": "Y a-t-il un Thai Express près d'ici ?",
+   "en": "Is there a Thai Express near here?"
+  },
+  "answer": {
+   "fr": "Oui, Thai Express est au niveau 1 du complexe CRX–Lamoureux. Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 11 h à 18 h, et fermé la fin de semaine et les jours fériés. Il accepte aussi les commandes d'avance avec l'application Boost.",
+   "en": "Yes, Thai Express is on level 1 of the CRX–Lamoureux complex. From September 8 to April 30, it's open Monday to Friday from 11 a.m. to 6 p.m., and closed on weekends and statutory holidays. It also takes advance orders through the Boost app."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   },
+   {
+    "label": "Eat on campus — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-lmx-go-cafe",
+  "category": "services",
+  "keywords": [
+   "go cafe",
+   "go cafe lmx",
+   "cafe lamoureux",
+   "coffee lmx",
+   "lamoureux",
+   "cafe pres d'ici",
+   "cafe nearby",
+   "go cafe hours",
+   "heures go cafe",
+   "lmx food"
+  ],
+  "question": {
+   "fr": "Y a-t-il un café dans le pavillon Lamoureux ?",
+   "en": "Is there a café in Lamoureux Hall?"
+  },
+  "answer": {
+   "fr": "Oui, le Go Café est au niveau 1 du pavillon Lamoureux (LMX), relié directement au CRX. Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 7 h 30 à 17 h, et fermé la fin de semaine et les jours fériés.",
+   "en": "Yes, Go Café is on level 1 of Lamoureux Hall (LMX), directly connected to CRX. From September 8 to April 30, it's open Monday to Friday from 7:30 a.m. to 5 p.m., and closed on weekends and statutory holidays."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-tim-hortons-campus",
+  "category": "services",
+  "keywords": [
+   "tim hortons",
+   "tim hortons campus",
+   "tims",
+   "timmies",
+   "tim hortons site",
+   "tim hortons ucu",
+   "combien de tim hortons",
+   "where is tim hortons",
+   "ou est tim hortons",
+   "cafe tim"
+  ],
+  "question": {
+   "fr": "Où sont les Tim Hortons sur le campus ?",
+   "en": "Where are the Tim Hortons locations on campus?"
+  },
+  "answer": {
+   "fr": "Il y a trois Tim Hortons : au niveau 1 du CRX, au local 1040 du pavillon SITE et au niveau 0 du Centre universitaire (UCU). De septembre à avril, celui du CRX est ouvert de 7 h 30 à 19 h 30 et les deux autres de 7 h 30 à 17 h, du lundi au vendredi seulement.",
+   "en": "There are three Tim Hortons: on level 1 of CRX, in room 1040 of the SITE building and on level 0 of the University Centre (UCU). From September to April, the CRX one is open 7:30 a.m. to 7:30 p.m. and the other two 7:30 a.m. to 5 p.m., Monday to Friday only."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-site-manger",
+  "category": "services",
+  "keywords": [
+   "manger site",
+   "eat site",
+   "food court site",
+   "aire de restauration",
+   "pizza",
+   "800 degres",
+   "burrito",
+   "site building food",
+   "tim hortons site",
+   "genie manger",
+   "engineering food"
+  ],
+  "question": {
+   "fr": "Où manger dans le pavillon SITE ?",
+   "en": "Where can I eat in the SITE building?"
+  },
+  "answer": {
+   "fr": "Le pavillon SITE a une aire de restauration au niveau 1, au local 1040 : 800° Pizza, Burrito Loco et un Tim Hortons. Du 8 septembre au 30 avril, la pizzeria et Burrito Loco sont ouverts de 11 h à 19 h en semaine, et le Tim Hortons de 7 h 30 à 17 h ; tout est fermé la fin de semaine.",
+   "en": "The SITE building has a food court on level 1, in room 1040: 800° Pizza, Burrito Loco and a Tim Hortons. From September 8 to April 30, the pizza place and Burrito Loco are open 11 a.m. to 7 p.m. on weekdays, and Tim Hortons 7:30 a.m. to 5 p.m.; all are closed on weekends."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "SITE building (STE) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/site"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-genie-manger",
+  "category": "services",
+  "keywords": [
+   "manger stem",
+   "eat stem",
+   "manger colonel by",
+   "food cby",
+   "nourriture stem",
+   "food stem",
+   "genie nourriture",
+   "engineering students eat",
+   "pas de nourriture",
+   "no food services",
+   "manger marion"
+  ],
+  "question": {
+   "fr": "Peut-on manger dans le complexe STEM ou au pavillon Colonel-By ?",
+   "en": "Can I get food in the STEM Complex or Colonel By Hall?"
+  },
+  "answer": {
+   "fr": "Non, il n'y a pas de service alimentaire dans le complexe STEM, ni au pavillon Colonel-By, ni au pavillon Marion. Pour manger dans le secteur du génie et des sciences, va à l'aire de restauration du pavillon SITE, au niveau 1, ou au niveau 1 du complexe CRX–Lamoureux.",
+   "en": "No, there are no food services in the STEM Complex, Colonel By Hall or Marion Hall. To eat in the engineering and science area, head to the food court on level 1 of the SITE building, or to level 1 of the CRX–Lamoureux complex."
+  },
+  "sources": [
+   {
+    "label": "STEM Complex (STM) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/stem-complex"
+   },
+   {
+    "label": "Colonel By Hall (CBY) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/colonel-hall-cby"
+   },
+   {
+    "label": "SITE building (STE) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/site"
+   },
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-ucu-manger",
+  "category": "services",
+  "keywords": [
+   "manger ucu",
+   "eat ucu",
+   "centre universitaire nourriture",
+   "university centre food",
+   "bento sushi",
+   "sushi",
+   "cravings",
+   "dining hall",
+   "pivik",
+   "food ucu",
+   "ucu restaurants"
+  ],
+  "question": {
+   "fr": "Où manger dans le Centre universitaire (UCU) ?",
+   "en": "Where can I eat in the University Centre (UCU)?"
+  },
+  "answer": {
+   "fr": "Au niveau 0 du Centre universitaire, tu trouveras Bento Sushi et Tim Hortons Express, BT Cravings et le dépanneur Pivik, et la Salle à manger est au niveau 1. Au 2e étage, il y a Chai Guys. Bento Sushi est ouvert de 7 h 30 à 17 h en semaine, et BT Cravings de 11 h à 18 h 30 du lundi au jeudi et jusqu'à 18 h le vendredi.",
+   "en": "On level 0 of the University Centre, you'll find Bento Sushi and Tim Hortons Express, BT Cravings and the Pivik convenience store, and the Dining Hall is on level 1. On the 2nd floor, there's Chai Guys. Bento Sushi is open 7:30 a.m. to 5 p.m. on weekdays, and BT Cravings 11 a.m. to 6:30 p.m. Monday to Thursday and until 6 p.m. on Friday."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   },
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-chai-guys",
+  "category": "services",
+  "keywords": [
+   "chai guys",
+   "chai",
+   "the chai",
+   "chai tea",
+   "ucu 2e etage",
+   "cafe ouvert tard",
+   "open late cafe",
+   "the",
+   "tea",
+   "chaiguys"
+  ],
+  "question": {
+   "fr": "C'est quoi Chai Guys et jusqu'à quelle heure c'est ouvert ?",
+   "en": "What is Chai Guys and how late is it open?"
+  },
+  "answer": {
+   "fr": "Chai Guys est au 2e étage du Centre universitaire (UCU). Du 8 septembre au 30 avril, c'est ouvert du lundi au vendredi de 9 h à 21 h, ce qui en fait l'un des rares comptoirs ouverts en soirée ; c'est fermé la fin de semaine et pendant la semaine de lecture d'automne.",
+   "en": "Chai Guys is on the 2nd floor of the University Centre (UCU). From September 8 to April 30, it's open Monday to Friday from 9 a.m. to 9 p.m., making it one of the few spots open in the evening; it's closed on weekends and during fall reading week."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-premiere-moisson",
+  "category": "services",
+  "keywords": [
+   "premiere moisson",
+   "boulangerie",
+   "bakery",
+   "fss cafe",
+   "sciences sociales manger",
+   "social sciences food",
+   "croissant",
+   "sandwich",
+   "patisserie",
+   "pastry"
+  ],
+  "question": {
+   "fr": "Y a-t-il une Première Moisson sur le campus ?",
+   "en": "Is there a Première Moisson on campus?"
+  },
+  "answer": {
+   "fr": "Oui, la Première Moisson est dans le pavillon des Sciences sociales (FSS), au 120, privée University. Elle est ouverte de 7 h 30 à 16 h en semaine et fermée la fin de semaine, et tu peux commander d'avance avec l'application Boost.",
+   "en": "Yes, Première Moisson is in the Social Sciences Building (FSS), at 120 University Private. It's open 7:30 a.m. to 4 p.m. on weekdays and closed on weekends, and you can order ahead with the Boost app."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Social Sciences Building (FSS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/social-sciences-building"
+   },
+   {
+    "label": "Eat on campus — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-morisset-manger",
+  "category": "services",
+  "keywords": [
+   "manger morisset",
+   "second cup",
+   "cafe bibliotheque",
+   "library cafe",
+   "eat morisset",
+   "morisset food",
+   "cafe morisset",
+   "coffee library",
+   "mrt cafe",
+   "second cup heures"
+  ],
+  "question": {
+   "fr": "Peut-on acheter à manger à la bibliothèque Morisset ?",
+   "en": "Can I buy food at Morisset Library?"
+  },
+  "answer": {
+   "fr": "Oui, il y a un Second Cup au niveau 1 du pavillon Morisset (MRT). Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 9 h 30 à 17 h, et fermé la fin de semaine.",
+   "en": "Yes, there's a Second Cup on level 1 of Morisset Hall (MRT). From September 8 to April 30, it's open Monday to Friday from 9:30 a.m. to 5 p.m., and closed on weekends."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Morisset Hall (MRT) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/morisset-hall-mrt"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-omni-cafe",
+  "category": "services",
+  "keywords": [
+   "omni cafe",
+   "simard",
+   "cafe simard",
+   "smd cafe",
+   "arts cafe",
+   "faculte des arts cafe",
+   "coffee simard",
+   "omni",
+   "cafe arts",
+   "porte de cote"
+  ],
+  "question": {
+   "fr": "Y a-t-il un café dans le pavillon Simard ?",
+   "en": "Is there a café in Simard Hall?"
+  },
+  "answer": {
+   "fr": "Oui, l'Omni Café est au local 0029 du pavillon Simard (SMD), au 60, privée University ; on y entre par la porte de côté. Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 7 h 30 à 17 h.",
+   "en": "Yes, Omni Café is in room 0029 of Simard Hall (SMD), at 60 University Private; you go in through the side door. From September 8 to April 30, it's open Monday to Friday from 7:30 a.m. to 5 p.m."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-pub-campus",
+  "category": "services",
+  "keywords": [
+   "pub",
+   "bar",
+   "biere",
+   "beer",
+   "nox",
+   "nostalgica",
+   "pub campus",
+   "campus bar",
+   "sortir",
+   "boire un verre",
+   "grab a drink"
+  ],
+  "question": {
+   "fr": "Y a-t-il un pub sur le campus ?",
+   "en": "Is there a pub on campus?"
+  },
+  "answer": {
+   "fr": "Oui, deux : le Nox, au niveau 2 du complexe sportif Minto, est ouvert de 9 h à 1 h en semaine et de 10 h à minuit la fin de semaine. Le Nostalgica, au 601, rue Cumberland, est ouvert du lundi au vendredi de 11 h à 2 h. Les deux sont fermés les jours fériés.",
+   "en": "Yes, two: Nox, on level 2 of the Minto Sports Complex, is open 9 a.m. to 1 a.m. on weekdays and 10 a.m. to midnight on weekends. Nostalgica, at 601 Cumberland Street, is open Monday to Friday from 11 a.m. to 2 a.m. Both are closed on statutory holidays."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Minto Sports Complex (MNO) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/minto-sports-complex"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-manger-apres-minuit",
+  "category": "services",
+  "keywords": [
+   "manger tard",
+   "apres minuit",
+   "after midnight",
+   "late night food",
+   "fringale",
+   "nuit",
+   "night",
+   "three brothers",
+   "gabriel pizza",
+   "ouvert tard",
+   "open late"
+  ],
+  "question": {
+   "fr": "Où manger après minuit près du campus ?",
+   "en": "Where can I eat after midnight near campus?"
+  },
+  "answer": {
+   "fr": "Le Nostalgica, au 601, rue Cumberland, est ouvert jusqu'à 2 h en semaine, et le Nox, au complexe Minto, jusqu'à 1 h en semaine. Three Brothers, au 124, rue Osgoode, est ouvert jusqu'à 3 h du dimanche au mercredi et jusqu'à 4 h du jeudi au samedi. Gabriel Pizza, à la résidence Rideau, ferme à 1 h le vendredi et le samedi.",
+   "en": "Nostalgica, at 601 Cumberland Street, is open until 2 a.m. on weekdays, and Nox, in the Minto complex, until 1 a.m. on weekdays. Three Brothers, at 124 Osgoode Street, is open until 3 a.m. Sunday to Wednesday and until 4 a.m. Thursday to Saturday. Gabriel Pizza, at Rideau Residence, closes at 1 a.m. on Friday and Saturday."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-bac-a-frites",
+  "category": "services",
+  "keywords": [
+   "bac a frites",
+   "frites",
+   "fries",
+   "poutine",
+   "camion",
+   "food truck",
+   "stationnement k",
+   "parking lot k",
+   "cantine",
+   "chip truck"
+  ],
+  "question": {
+   "fr": "Où est le Bac à frites ?",
+   "en": "Where is the Bac à frites?"
+  },
+  "answer": {
+   "fr": "Le Bac à frites est au 56, privée University, dans le stationnement K. Du 31 août au 30 avril, il est ouvert de 11 h à 19 h du lundi au jeudi et de 11 h à 18 h le vendredi, et fermé la fin de semaine.",
+   "en": "The Bac à frites is at 56 University Private, in parking lot K. From August 31 to April 30, it's open 11 a.m. to 7 p.m. Monday to Thursday and 11 a.m. to 6 p.m. on Friday, and closed on weekends."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-flour-kitchen",
+  "category": "services",
+  "keywords": [
+   "flour kitchen",
+   "chinois",
+   "chinese food",
+   "cuisine chinoise",
+   "dumplings",
+   "nouilles",
+   "noodles",
+   "copernicus",
+   "restaurant chinois",
+   "asian"
+  ],
+  "question": {
+   "fr": "Y a-t-il de la cuisine chinoise sur le campus ?",
+   "en": "Is there Chinese food on campus?"
+  },
+  "answer": {
+   "fr": "Oui, Flour Kitchen sert de la cuisine chinoise au 25, privée University, au coin de la rue Copernicus. Du 31 août au 30 avril, c'est ouvert du lundi au vendredi de 11 h à 19 h, et fermé la fin de semaine.",
+   "en": "Yes, Flour Kitchen serves Chinese food at 25 University Private, at the corner of Copernicus Street. From August 31 to April 30, it's open Monday to Friday from 11 a.m. to 7 p.m., and closed on weekends."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-rgn-manger",
+  "category": "services",
+  "keywords": [
+   "manger roger guindon",
+   "elements",
+   "rgn cafe",
+   "campus alta vista",
+   "food rgn",
+   "faculte de medecine manger",
+   "medicine food",
+   "smyth",
+   "cafeteria rgn",
+   "eat rgn"
+  ],
+  "question": {
+   "fr": "Où manger au pavillon Roger-Guindon ?",
+   "en": "Where can I eat at Roger Guindon Hall?"
+  },
+  "answer": {
+   "fr": "Le comptoir Elements est au pavillon Roger-Guindon, au 451, chemin Smyth. Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 7 h 30 à 16 h, et fermé la fin de semaine, les jours fériés et pendant le congé des Fêtes.",
+   "en": "Elements is in Roger Guindon Hall, at 451 Smyth Road. From September 8 to April 30, it's open Monday to Friday from 7:30 a.m. to 4 p.m., and closed on weekends, statutory holidays and over the holiday break."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-lees-manger",
+  "category": "services",
+  "keywords": [
+   "manger lees",
+   "odelees",
+   "campus lees",
+   "food lees",
+   "200 lees",
+   "cafe lees",
+   "eat lees",
+   "lees cafeteria",
+   "sciences de la sante manger",
+   "health sciences food"
+  ],
+  "question": {
+   "fr": "Où manger au campus Lees ?",
+   "en": "Where can I eat on the Lees campus?"
+  },
+  "answer": {
+   "fr": "Au 200, avenue Lees, il y a l'Odelees. Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 8 h à 16 h, et fermé la fin de semaine, les jours fériés, pendant le congé des Fêtes et du 16 au 19 février.",
+   "en": "At 200 Lees Avenue, there's Odelees. From September 8 to April 30, it's open Monday to Friday from 8 a.m. to 4 p.m., and closed on weekends, statutory holidays, over the holiday break and from February 16 to 19."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-eau-potable",
+  "category": "services",
+  "keywords": [
+   "eau",
+   "water",
+   "fontaine",
+   "water fountain",
+   "remplir bouteille",
+   "refill bottle",
+   "station de remplissage",
+   "refill station",
+   "boire",
+   "drinking water",
+   "abreuvoir"
+  ],
+  "question": {
+   "fr": "Où puis-je remplir ma bouteille d'eau ?",
+   "en": "Where can I refill my water bottle?"
+  },
+  "answer": {
+   "fr": "Il y a des fontaines d'eau potable sur presque chaque étage de chaque pavillon, sur tous les campus, et l'eau est gratuite pour tout le monde. Apporte ta bouteille réutilisable : l'Université entretient et renouvelle ses fontaines chaque année.",
+   "en": "There are drinking fountains on nearly every floor of every building, on all campuses, and the water is free for everyone. Bring your reusable bottle: the University maintains and renews its fountains every year."
+  },
+  "sources": [
+   {
+    "label": "Water management — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-sustainability/water"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-eau-en-bouteille",
+  "category": "services",
+  "keywords": [
+   "eau en bouteille",
+   "bottled water",
+   "acheter de l'eau",
+   "buy water",
+   "bouteille d'eau",
+   "water bottle",
+   "sans eau embouteillee",
+   "bottled water free",
+   "pourquoi pas d'eau",
+   "distributrice"
+  ],
+  "question": {
+   "fr": "Puis-je acheter une bouteille d'eau sur le campus ?",
+   "en": "Can I buy bottled water on campus?"
+  },
+  "answer": {
+   "fr": "Non, depuis 2010, l'Université d'Ottawa est un campus sans eau embouteillée : on n'en vend ni dans les distributrices ni dans les comptoirs. Tu peux plutôt boire gratuitement aux fontaines, présentes sur presque chaque étage, et d'autres boissons sont offertes dans les comptoirs alimentaires.",
+   "en": "No, since 2010 the University of Ottawa has been a bottled water-free campus: it isn't sold in vending machines or food outlets. Instead, you can drink for free at the fountains found on nearly every floor, and other drinks are available at food outlets."
+  },
+  "sources": [
+   {
+    "label": "Water management — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-sustainability/water"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-lmx-interieur",
+  "category": "batiments",
+  "keywords": [
+   "lamoureux",
+   "lmx",
+   "quoi dans lmx",
+   "what is in lmx",
+   "faculte d'education",
+   "faculty of education",
+   "psychologie",
+   "psychology",
+   "edstudio",
+   "lmx etages",
+   "lamoureux floors"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve dans le pavillon Lamoureux (LMX) ?",
+   "en": "What's inside Lamoureux Hall (LMX)?"
+  },
+  "answer": {
+   "fr": "Le pavillon Lamoureux, relié au CRX, abrite la Faculté d'éducation et l'École de psychologie. Au niveau 1, il y a Paramount, Thai Express, le Go Café, un salon d'étude et des casiers ; au 2e étage, des salles d'étude privées, le Centre de ressources de la Faculté d'éducation, edstudiO et le Centre de mentorat de la Faculté d'éducation.",
+   "en": "Lamoureux Hall, connected to CRX, is home to the Faculty of Education and the School of Psychology. Level 1 has Paramount, Thai Express, Go Café, a study lounge and lockers; the 2nd floor has private study rooms, the Faculty of Education Resource Centre, edstudiO and the Faculty of Education Mentoring Centre."
+  },
+  "sources": [
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-casiers",
+  "category": "services",
+  "keywords": [
+   "casier",
+   "locker",
+   "casiers",
+   "lockers",
+   "ranger mes affaires",
+   "store my stuff",
+   "casier lmx",
+   "casier colonel by",
+   "louer un casier",
+   "rent a locker",
+   "cadenas"
+  ],
+  "question": {
+   "fr": "Y a-t-il des casiers sur le campus ?",
+   "en": "Are there lockers on campus?"
+  },
+  "answer": {
+   "fr": "Oui, il y a des casiers notamment au niveau 1 du pavillon Lamoureux, juste à côté du CRX, au pavillon Colonel-By (niveau 0 et 5e étage), au pavillon Fauteux et au pavillon Simard. Les pages des pavillons ne précisent pas comment les obtenir, alors renseigne-toi auprès de ta faculté ou de ton association étudiante.",
+   "en": "Yes, there are lockers on level 1 of Lamoureux Hall, right next to CRX, in Colonel By Hall (level 0 and the 5th floor), in Fauteux Hall and in Simard Hall. The building pages don't explain how to get one, so check with your faculty or student association."
+  },
+  "sources": [
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   },
+   {
+    "label": "Colonel By Hall (CBY) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/colonel-hall-cby"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-ucu-interieur",
+  "category": "batiments",
+  "keywords": [
+   "ucu",
+   "centre universitaire",
+   "university centre",
+   "quoi dans ucu",
+   "what is in ucu",
+   "uosu",
+   "seuo",
+   "centre etudiant",
+   "student centre",
+   "ucu etages",
+   "jock turcot"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve dans le Centre universitaire (UCU) ?",
+   "en": "What's inside the University Centre (UCU)?"
+  },
+  "answer": {
+   "fr": "Le Centre universitaire, au 85, privée University, est le carrefour de la vie étudiante. Au niveau 0, il y a la librairie du campus, le dépanneur Pivik, des comptoirs alimentaires, un guichet automatique et le bureau principal du SÉUO ; au niveau 1, la Salle à manger, une succursale RBC, un centre multiconfessionnel et une salle d'étude ouverte 24 heures sur 24. Le 2e étage regroupe le Coin carrière, le Salon du mieux-être, le Centre d'entraide et d'autres centres du SÉUO.",
+   "en": "The University Centre, at 85 University Private, is the hub of student life. Level 0 has the campus bookstore, the Pivik convenience store, food counters, an ATM and the UOSU main office; level 1 has the Dining Hall, an RBC branch, a multi-faith centre and a 24/7 study room. The 2nd floor has Career Corner, the Wellness Lounge, the Peer Help Centre and other UOSU centres."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-guichet-automatique",
+  "category": "services",
+  "keywords": [
+   "guichet automatique",
+   "atm",
+   "bank machine",
+   "retirer de l'argent",
+   "withdraw cash",
+   "banque",
+   "bank",
+   "rbc",
+   "argent comptant",
+   "cash",
+   "guichet"
+  ],
+  "question": {
+   "fr": "Y a-t-il un guichet automatique sur le campus ?",
+   "en": "Is there an ATM on campus?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre universitaire (UCU) a un guichet automatique au niveau 0 et un autre au 2e étage. Il y a aussi une succursale de la banque RBC au niveau 1 du même pavillon.",
+   "en": "Yes, the University Centre (UCU) has an ATM on level 0 and another on the 2nd floor. There's also an RBC bank branch on level 1 of the same building."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-amazon-casiers",
+  "category": "services",
+  "keywords": [
+   "amazon",
+   "casier amazon",
+   "amazon locker",
+   "colis",
+   "package",
+   "livraison",
+   "delivery",
+   "recevoir un colis",
+   "pick up parcel",
+   "amazon hub",
+   "paquet"
+  ],
+  "question": {
+   "fr": "Puis-je recevoir un colis Amazon sur le campus ?",
+   "en": "Can I get an Amazon package delivered on campus?"
+  },
+  "answer": {
+   "fr": "Oui, il y a un centre de livraison et des casiers Amazon au niveau 0 du Centre universitaire (UCU), au 85, privée University.",
+   "en": "Yes, there's an Amazon Delivery Hub with lockers on level 0 of the University Centre (UCU), at 85 University Private."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-salle-etude-24h",
+  "category": "bibliotheques",
+  "keywords": [
+   "24h",
+   "24/7",
+   "ouvert toute la nuit",
+   "open all night",
+   "salle 24 heures",
+   "24 hour study room",
+   "etudier la nuit",
+   "study overnight",
+   "nuit blanche",
+   "toute la nuit"
+  ],
+  "question": {
+   "fr": "Y a-t-il une salle d'étude ouverte 24 heures sur 24 ?",
+   "en": "Is there a study room open 24/7?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre universitaire (UCU) a une salle d'étude ouverte 24 heures sur 24, 7 jours sur 7, au niveau 1. Note que le CRX, lui, ferme à 21 h en semaine pendant la session.",
+   "en": "Yes, the University Centre (UCU) has a 24/7 study room on level 1. Note that CRX itself closes at 9 p.m. on weekdays during the term."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   },
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [
+   "i-centre-competences-numeriques",
+   "i-studio-balado",
+   "i-realite-virtuelle"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-salon-mieux-etre",
+  "category": "services",
+  "keywords": [
+   "salon du mieux-etre",
+   "wellness lounge",
+   "relaxer",
+   "relax",
+   "se detendre",
+   "jeux",
+   "games",
+   "pause",
+   "aide par les pairs",
+   "peer support",
+   "bien-etre"
+  ],
+  "question": {
+   "fr": "Où puis-je relaxer ou prendre une pause sur le campus ?",
+   "en": "Where can I relax or take a break on campus?"
+  },
+  "answer": {
+   "fr": "Va au Salon du mieux-être, au 2e étage du Centre universitaire (UCU) : tu peux t'y détendre, jouer à des jeux, étudier ou parler à un pair aidant, chaque jour de semaine. À partir du 4 septembre 2026, il est ouvert de 9 h à 16 h du lundi au vendredi, avec des heures réduites, de midi à 16 h, notamment pendant la semaine de lecture et les examens.",
+   "en": "Head to the Wellness Lounge on the 2nd floor of the University Centre (UCU): you can relax, play games, study or talk to a peer helper every weekday. Starting September 4, 2026, it's open 9 a.m. to 4 p.m. Monday to Friday, with reduced hours, noon to 4 p.m., including during reading week and exams."
+  },
+  "sources": [
+   {
+    "label": "Wellness Lounge — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-salles-mieux-etre",
+  "category": "services",
+  "keywords": [
+   "luminotherapie",
+   "light therapy",
+   "salle des plantes",
+   "plant room",
+   "salle detente",
+   "relaxing study room",
+   "deprime saisonniere",
+   "winter blues",
+   "reserver salle mieux-etre",
+   "uowellness"
+  ],
+  "question": {
+   "fr": "Y a-t-il une salle de luminothérapie sur le campus ?",
+   "en": "Is there a light therapy room on campus?"
+  },
+  "answer": {
+   "fr": "Oui, le Salon du mieux-être du Centre universitaire a trois salles d'étude à réserver, dont une salle de luminothérapie pour combattre la déprime hivernale et une salle remplie de plantes. Elles sont réservées aux étudiants actuels et il faut ta carte uOttawa pour y entrer.",
+   "en": "Yes, the Wellness Lounge in the University Centre has three bookable study rooms, including a light therapy room to beat the winter blues and a room full of plants. They're for current students only, and you need your uOttawa card to get in."
+  },
+  "sources": [
+   {
+    "label": "Wellness Lounge — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-chiens-therapie",
+  "category": "services",
+  "keywords": [
+   "chien",
+   "dog",
+   "chiens de therapie",
+   "therapy dogs",
+   "zootherapie",
+   "animaux",
+   "pet therapy",
+   "flatter un chien",
+   "stress",
+   "anxiete"
+  ],
+  "question": {
+   "fr": "Y a-t-il des chiens de thérapie sur le campus ?",
+   "en": "Are there therapy dogs on campus?"
+  },
+  "answer": {
+   "fr": "Oui, des séances avec des chiens de thérapie ont lieu au Salon du mieux-être, au 2e étage du Centre universitaire. Les places sans réservation sont limitées, alors réserve ta place à l'avance.",
+   "en": "Yes, therapy dog sessions take place at the Wellness Lounge, on the 2nd floor of the University Centre. Drop-in spots are limited, so reserve your spot ahead of time."
+  },
+  "sources": [
+   {
+    "label": "Wellness Lounge — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-photo-gratuite",
+  "category": "services",
+  "keywords": [
+   "photo",
+   "headshot",
+   "photo gratuite",
+   "free headshot",
+   "photo de finissant",
+   "graduation photo",
+   "portrait",
+   "photo linkedin",
+   "studio photo",
+   "photo studio"
+  ],
+  "question": {
+   "fr": "Où puis-je avoir une photo de finissant gratuite ?",
+   "en": "Where can I get a free graduation photo?"
+  },
+  "answer": {
+   "fr": "Le SÉUO offre des photos de finissant gratuites, prises dans son studio au sous-sol du Centre universitaire, au local 0030, au bas de l'escalier à côté de Pivik. Il faut réserver une plage horaire en ligne et arriver à l'heure, et si tu ne peux pas venir, annule avec le lien de ton courriel de confirmation.",
+   "en": "UOSU offers free graduation photos, taken in its studio in the University Centre basement, room 0030, at the bottom of the stairs next to Pivik. You need to book a time slot online and arrive on time, and if you can't make it, cancel using the link in your confirmation email."
+  },
+  "sources": [
+   {
+    "label": "Free Headshots — UOSU",
+    "url": "https://www.seuo-uosu.com/programs/free-headshots"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-espresso-toi",
+  "category": "services",
+  "keywords": [
+   "espresso-toi",
+   "cafe gratuit",
+   "free coffee",
+   "parler francais",
+   "speak french",
+   "insecurite linguistique",
+   "francophone",
+   "chocolat chaud",
+   "hot chocolate",
+   "patisserie gratuite"
+  ],
+  "question": {
+   "fr": "Puis-je avoir un café gratuit si je commande en français ?",
+   "en": "Can I get a free coffee if I order in French?"
+  },
+  "answer": {
+   "fr": "Oui ! Avec la campagne Espresso-toi, le SÉUO organise chaque semaine une heure du café où tu reçois un café ou un chocolat chaud et une pâtisserie gratuits si tu commandes en français. Le but est de lutter contre l'insécurité linguistique ; consulte le SÉUO pour l'endroit et l'horaire.",
+   "en": "Yes! With the Espresso-toi campaign, UOSU holds a weekly coffee hour where you get a free coffee or hot chocolate and a pastry if you order in French. The goal is to fight linguistic insecurity; check with UOSU for the location and schedule."
+  },
+  "sources": [
+   {
+    "label": "Espresso-toi — UOSU",
+    "url": "https://www.seuo-uosu.com/programs/espresso-toi"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-docucentre",
+  "category": "ti",
+  "keywords": [
+   "docucentre",
+   "affiche",
+   "poster",
+   "imprimer une affiche",
+   "print poster",
+   "cartes d'affaires",
+   "business cards",
+   "centre d'impression",
+   "print shop",
+   "impression grand format",
+   "reprographie"
+  ],
+  "question": {
+   "fr": "Où puis-je faire imprimer une affiche ?",
+   "en": "Where can I get a poster printed?"
+  },
+  "answer": {
+   "fr": "Le DocUcentre, au local 0024 du Centre universitaire, est le centre de conception et d'impression de l'Université : affiches, cartes d'affaires, numérisation et plus. Il est ouvert du lundi au vendredi de 8 h 30 à 17 h, et tu peux soumettre et payer ta commande en ligne avant d'aller la chercher.",
+   "en": "The DocUcentre, in room 0024 of the University Centre, is the University's design and print shop: posters, business cards, scanning and more. It's open Monday to Friday from 8:30 a.m. to 5 p.m., and you can submit and pay for your order online before picking it up."
+  },
+  "sources": [
+   {
+    "label": "DocUcentre — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/docucentre"
+   }
+  ],
+  "related": [
+   "i-crx-imprimante",
+   "i-labo-info-genie",
+   "i-imprimantes-genie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-fss-interieur",
+  "category": "batiments",
+  "keywords": [
+   "fss",
+   "sciences sociales",
+   "social sciences building",
+   "quoi dans fss",
+   "what is in fss",
+   "bibliotheque fss",
+   "salles d'etude fss",
+   "120 university",
+   "pavillon des sciences sociales",
+   "fss floors"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve pour les étudiants dans le pavillon des Sciences sociales (FSS) ?",
+   "en": "What's in the Social Sciences Building (FSS) for students?"
+  },
+  "answer": {
+   "fr": "Le pavillon FSS, au 120, privée University, compte 15 étages. On y trouve une Première Moisson et des aires de salon, et au 2e étage, une bibliothèque, des salles d'étude et les associations étudiantes de premier cycle et des cycles supérieurs. Le Centre de l'expérience étudiante de la Faculté est au 3e étage.",
+   "en": "The FSS building, at 120 University Private, has 15 floors. It has a Première Moisson and lounge areas, and on the 2nd floor, a library, study rooms and the undergraduate and graduate student associations. The Faculty's Student Experience Centre is on the 3rd floor."
+  },
+  "sources": [
+   {
+    "label": "Social Sciences Building (FSS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/social-sciences-building"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-desmarais-interieur",
+  "category": "batiments",
+  "keywords": [
+   "desmarais",
+   "dms",
+   "quoi dans desmarais",
+   "what is in desmarais",
+   "telfer",
+   "starbucks",
+   "bibliotheque de gestion",
+   "management library",
+   "coop bureau",
+   "aide financiere",
+   "55 laurier"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve dans le pavillon Desmarais ?",
+   "en": "What's inside Desmarais Hall?"
+  },
+  "answer": {
+   "fr": "Au niveau 1 du pavillon Desmarais, il y a un Starbucks, un kiosque d'information et le Centre des services aux étudiants de l'École de gestion Telfer. Le 2e étage a des laboratoires informatiques, un salon étudiant et la Bibliothèque de gestion, et le 3e étage abrite les bureaux des programmes coop, du Service de l'aide financière et des bourses et le Centre des examens adaptés.",
+   "en": "Level 1 of Desmarais Hall has a Starbucks, an info desk kiosk and the Telfer School of Management Student Services Centre. Level 2 has computer labs, a student lounge and the Management Library, and level 3 houses the Co-op Programs offices, Financial Aid and Awards and the (Adapted) Exam Centre."
+  },
+  "sources": [
+   {
+    "label": "Desmarais Hall (DMS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/desmarais-hall"
+   }
+  ],
+  "related": [
+   "g-pavillon-tabaret-nom",
+   "g-monument-francophonie",
+   "g-campus-kanata-nord"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-comptoir-information",
+  "category": "services",
+  "keywords": [
+   "kiosque d'information",
+   "info desk",
+   "comptoir information",
+   "information desk",
+   "renseignements",
+   "help desk",
+   "accueil",
+   "reception",
+   "ou demander",
+   "where to ask"
+  ],
+  "question": {
+   "fr": "Y a-t-il un comptoir d'information sur le campus ?",
+   "en": "Is there an information desk on campus?"
+  },
+  "answer": {
+   "fr": "Oui, il y a un kiosque d'information au niveau 1 du pavillon Desmarais, et un comptoir d'information au complexe sportif Minto. Et ici même, je peux répondre à beaucoup de tes questions !",
+   "en": "Yes, there's an info desk kiosk on level 1 of Desmarais Hall, and an info desk at the Minto Sports Complex. And right here, I can answer lots of your questions!"
+  },
+  "sources": [
+   {
+    "label": "Desmarais Hall (DMS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/desmarais-hall"
+   },
+   {
+    "label": "Minto Sports Complex (MNO) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/minto-sports-complex"
+   }
+  ],
+  "related": [
+   "g-fondation-universite",
+   "g-nom-universite-ottawa",
+   "g-plus-grande-universite-bilingue"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-labo-info-genie",
+  "category": "ti",
+  "keywords": [
+   "labo informatique genie",
+   "engineering computer lab",
+   "site 0110",
+   "cby b102",
+   "ordinateurs genie",
+   "engineering computers",
+   "labo site",
+   "computer lab site",
+   "colonel by lab",
+   "laboratoire informatique"
+  ],
+  "question": {
+   "fr": "Où sont les laboratoires informatiques de génie ?",
+   "en": "Where are the engineering computer labs?"
+  },
+  "answer": {
+   "fr": "La Faculté de génie a des laboratoires informatiques au local 0110 du pavillon SITE, au niveau 0, et au local B102 du pavillon Colonel-By. Pour plus de détails, consulte les Services informatiques de la Faculté de génie, au 2e étage du SITE.",
+   "en": "The Faculty of Engineering has computer labs in room 0110 of the SITE building, on level 0, and in room B102 of Colonel By Hall. For more details, check with the Faculty of Engineering IT Services, on the 2nd floor of SITE."
+  },
+  "sources": [
+   {
+    "label": "Computers - computing labs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/computing-labs"
+   },
+   {
+    "label": "SITE building (STE) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/site"
+   }
+  ],
+  "related": [
+   "i-crx-imprimante",
+   "i-docucentre",
+   "i-imprimantes-genie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-imprimantes-genie",
+  "category": "ti",
+  "keywords": [
+   "imprimante site",
+   "imprimante stem",
+   "printer site",
+   "printer stem",
+   "imprimer genie",
+   "print engineering",
+   "imprimante colonel by",
+   "imprimante marion",
+   "uoprint",
+   "ou imprimer"
+  ],
+  "question": {
+   "fr": "Où imprimer dans les pavillons de génie et de sciences ?",
+   "en": "Where can I print in the engineering and science buildings?"
+  },
+  "answer": {
+   "fr": "Il y a des imprimantes uoPrint au pavillon SITE (locaux 0110 et 1000D), au complexe STEM (local 119), au pavillon Colonel-By (local C01) et au pavillon Marion (local 020). Le CRX en a une aussi, au local C230.",
+   "en": "There are uoPrint printers in the SITE building (rooms 0110 and 1000D), the STEM Complex (room 119), Colonel By Hall (room C01) and Marion Hall (room 020). CRX has one too, in room C230."
+  },
+  "sources": [
+   {
+    "label": "uoPrint: Self-service printers — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/print/printer"
+   }
+  ],
+  "related": [
+   "i-crx-imprimante",
+   "i-docucentre",
+   "i-labo-info-genie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-imprimantes-pavillons",
+  "category": "ti",
+  "keywords": [
+   "imprimante",
+   "printer",
+   "ou imprimer",
+   "where to print",
+   "imprimante morisset",
+   "imprimante lamoureux",
+   "imprimante desmarais",
+   "imprimante vanier",
+   "liste imprimantes",
+   "printer locations",
+   "uoprint"
+  ],
+  "question": {
+   "fr": "Où sont les imprimantes étudiantes sur le campus ?",
+   "en": "Where are the student printers on campus?"
+  },
+  "answer": {
+   "fr": "Il y a 33 imprimantes uoPrint sur le campus. Morisset en a le plus, avec six au local 142 et d'autres aux étages 2, 3, 5 et 6 ; on en trouve aussi au pavillon Lamoureux (local 201), à Desmarais (2000K), à Vanier (2007), à Simard (023), à Fauteux (419) et à Hamelin. La liste complète, avec les numéros de local, est sur la page uoPrint.",
+   "en": "There are 33 uoPrint printers on campus. Morisset has the most, with six in room 142 and more on floors 2, 3, 5 and 6; you'll also find them in Lamoureux Hall (room 201), Desmarais (2000K), Vanier (2007), Simard (023), Fauteux (419) and Hamelin. The full list, with room numbers, is on the uoPrint page."
+  },
+  "sources": [
+   {
+    "label": "uoPrint: Self-service printers — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/print/printer"
+   }
+  ],
+  "related": [
+   "i-crx-imprimante",
+   "i-docucentre",
+   "i-labo-info-genie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
  }
 ];

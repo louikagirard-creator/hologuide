@@ -7,6 +7,8 @@ import { KB, CATEGORIES } from '../data/kb.js';
 const write = process.argv.includes('--write');
 const cats = new Set(CATEGORIES.map((c) => c.id));
 const ids = new Set(KB.map((e) => e.id));
+const merged = new Set(ids); // réponses déjà dans la base (lots fusionnés avant)
+let skipped = 0;
 const OFFICIAL = /(^|\.)(uottawa\.ca|geegees\.ca|seuo-uosu\.com|uosu\.ca|gsaed\.ca)$/;
 const problems = [];
 const added = [];
@@ -15,6 +17,7 @@ for (const f of readdirSync('data/new').filter((n) => n.endsWith('.json')).sort(
   let list;
   try { list = JSON.parse(readFileSync(`data/new/${f}`, 'utf8')); } catch (err) { problems.push(`${f} : JSON invalide (${err.message})`); continue; }
   for (const e of list) {
+    if (merged.has(e.id)) { skipped++; continue; }
     const where = `${f} › ${e.id}`;
     const bad = [];
     if (!e.id || ids.has(e.id)) bad.push('id manquant ou en double');
@@ -39,7 +42,7 @@ for (const f of readdirSync('data/new').filter((n) => n.endsWith('.json')).sort(
 // Questions liées : trois autres réponses de la même catégorie
 for (const e of added) e.related = added.filter((x) => x.category === e.category && x.id !== e.id).slice(0, 3).map((x) => x.id);
 
-console.log(`${added.length} nouvelles réponses valides, ${problems.length} rejetées.`);
+console.log(`${added.length} nouvelles réponses valides, ${problems.length} rejetées, ${skipped} déjà dans la base.`);
 problems.forEach((p) => console.log(`  - ${p}`));
 const count = {}; [...KB, ...added].forEach((e) => { count[e.category] = (count[e.category] || 0) + 1; });
 console.log(`Total après fusion : ${KB.length + added.length}`, count);

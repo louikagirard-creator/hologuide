@@ -1,0 +1,1167 @@
+[
+  {
+    "id": "h-cs-exigences-minimales",
+    "category": "admissions",
+    "keywords": ["admission maîtrise", "admission doctorat", "moyenne maîtrise", "moyenne doctorat", "graduate admission requirements", "master's average", "phd requirements", "exigences cycles supérieurs", "minimum average graduate", "conditions admission études supérieures", "70 %", "75 %"],
+    "question": { "fr": "Quelle moyenne me faut-il pour être admis à la maîtrise ou au doctorat ?", "en": "What average do I need to get into a master's or PhD program?" },
+    "answer": {
+      "fr": "Pour une maîtrise ou un diplôme d'études supérieures, il te faut un baccalauréat spécialisé de quatre ans ou l'équivalent, avec une moyenne de 70 % (B) calculée sur tes 20 derniers cours. Pour le doctorat, il te faut une maîtrise ou l'équivalent, avec une moyenne de 75 % (B+) sur tes 10 derniers cours. Certains programmes demandent davantage, et l'admission étant très compétitive, atteindre le minimum ne garantit pas une place.",
+      "en": "For a master's or graduate diploma, you need a four-year honours bachelor's degree or the equivalent, with a 70% (B) average based on your last 20 courses. For a PhD, you need a master's degree or the equivalent, with a 75% (B+) average based on your last 10 courses. Some programs ask for more, and since admission is highly competitive, meeting the minimum doesn't guarantee a spot."
+    },
+    "sources": [{ "label": "How to apply (graduate studies) — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-tests-langue",
+    "category": "international",
+    "keywords": ["toefl maîtrise", "ielts études supérieures", "test de langue maîtrise", "graduate language test", "toefl score graduate", "ielts score master's", "exemption test de langue", "language test exemption", "tcf tef dalf", "anglais études supérieures", "english test phd"],
+    "question": { "fr": "Quel résultat de test de langue faut-il pour les études supérieures ?", "en": "What language test score do I need for graduate studies?" },
+    "answer": {
+      "fr": "Exemples de minimums : IELTS Academic 6,5 au total et 6,5 en écriture, sans aucune note partielle sous 6, ou TOEFL iBT de 84 avec 24 en écriture pour un test passé avant le 21 janvier 2026. En français, on demande le DALF C1 ou C2, ou un TCF ou TEF Canada de niveau B2. Certains programmes exigent plus, et tu peux être exempté si tu as fait au moins deux ans d'études à temps plein dans un établissement d'un pays admissible où l'anglais ou le français est la seule langue d'enseignement.",
+      "en": "Examples of minimums: IELTS Academic 6.5 overall and 6.5 in writing, with no band below 6, or a TOEFL iBT of 84 with 24 in writing for tests taken before January 21, 2026. For French, a DALF C1 or C2, or a TCF or TEF Canada at level B2, is required. Some programs require more, and you may be exempt if you completed at least two years of full-time studies at an institution in an eligible country where English or French is the only language of instruction."
+    },
+    "sources": [{ "label": "How to apply (graduate studies) — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-faire-demande",
+    "category": "admissions",
+    "keywords": ["demande maîtrise", "postuler doctorat", "apply graduate studies", "ouac études supérieures", "apply master's", "accusé de réception", "comment postuler maîtrise", "how to apply phd", "orpas", "demande d'admission cycles supérieurs"],
+    "question": { "fr": "Comment je fais une demande d'admission à la maîtrise ou au doctorat ?", "en": "How do I apply to a master's or PhD program?" },
+    "answer": {
+      "fr": "Tu remplis ta demande et payes les frais non remboursables en ligne auprès du Centre de demande d'admission aux universités de l'Ontario (OUAC). Tu devrais recevoir dans la semaine un courriel d'accusé de réception avec ton numéro d'étudiant et tes accès à uoZone, où tu suivras ton dossier. Sans nouvelles après deux semaines, communique avec l'unité scolaire responsable du programme. Pour l'ergothérapie, la physiothérapie, l'audiologie et l'orthophonie, la demande passe plutôt par le site ORPAS.",
+      "en": "You complete your application and pay the non-refundable fees online through the Ontario Universities' Application Centre (OUAC). Within a week, you should receive an acknowledgement email with your student number and uoZone login, where you'll track your file. If you hear nothing after two weeks, contact the academic unit responsible for the program. For occupational therapy, physiotherapy, audiology and speech-language pathology, you apply through the ORPAS website instead."
+    },
+    "sources": [{ "label": "How to apply (graduate studies) — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-lettres-recommandation",
+    "category": "admissions",
+    "keywords": ["lettre de recommandation", "lettres de référence", "recommendation letter", "reference letter graduate", "répondants", "referees", "qui demander lettre", "letters of reference master's", "recommandation professeur", "uozone répondant"],
+    "question": { "fr": "Comment fonctionnent les lettres de recommandation pour les études supérieures ?", "en": "How do recommendation letters work for graduate studies?" },
+    "answer": {
+      "fr": "Vérifie combien de lettres ton programme exige, puis choisis idéalement des professeurs qui peuvent témoigner de tes aptitudes en recherche, et contacte-les deux à trois semaines avant la date limite. Tu inscris leurs noms et coordonnées dans ton dossier d'admission sur uoZone, et ils reçoivent un lien sécurisé pour envoyer leur lettre de façon confidentielle. Évite de demander à ta famille, à d'autres étudiants ou à des assistants d'enseignement, et sache que ton dossier ne sera pas évalué tant que toutes les lettres ne sont pas arrivées.",
+      "en": "Check how many letters your program requires, then ideally choose professors who can speak to your research ability, and contact them two to three weeks before the deadline. You enter their names and contact information in your admission file in uoZone, and they receive a secure link to submit their letter confidentially. Don't ask family members, other students or teaching assistants, and note that your file won't be evaluated until all the letters have arrived."
+    },
+    "sources": [{ "label": "How to apply (graduate studies) — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-trouver-directeur",
+    "category": "programmes",
+    "keywords": ["directeur de thèse", "directrice de thèse", "superviseur", "thesis supervisor", "find a supervisor", "trouver un directeur", "co-direction", "co-supervisor", "professeur superviseur", "supervision de thèse", "research supervisor"],
+    "question": { "fr": "Comment trouver un directeur ou une directrice de thèse ?", "en": "How do I find a thesis supervisor?" },
+    "answer": {
+      "fr": "Si tu vises une maîtrise avec thèse ou mémoire, ou un doctorat, tu dois choisir un directeur de thèse, et certains programmes exigent même son acceptation avant ta demande. Cherche des professeurs selon leurs intérêts de recherche ou dans la liste des unités scolaires, et renseigne-toi bien avant de les contacter. Un professeur n'est pas obligé d'accepter, par exemple s'il manque d'espace, de temps ou de financement, et tu peux aussi avoir un codirecteur. Une fois inscrit, tu fais nommer ton directeur par une demande de service dans uoZone.",
+      "en": "If you're aiming for a master's with a thesis or research paper, or a PhD, you must choose a thesis supervisor, and some programs even require their acceptance before you apply. Search for professors by research interest or through the list of academic units, and do your homework before contacting them. A professor isn't obligated to accept, for example if they lack space, time or funding, and you can also have a co-supervisor. Once enrolled, you have your supervisor appointed through a service request in uoZone."
+    },
+    "sources": [
+      { "label": "Thesis supervision — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/thesis/thesis-supervision" },
+      { "label": "How to apply (graduate studies) — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-comite-these",
+    "category": "programmes",
+    "keywords": ["comité de thèse", "comité consultatif", "thesis committee", "thesis advisory committee", "membres du comité", "committee meetings", "réunion comité thèse", "who is on my thesis committee"],
+    "question": { "fr": "C'est quoi, un comité de thèse ?", "en": "What is a thesis advisory committee?" },
+    "answer": {
+      "fr": "Dans plusieurs unités scolaires, un comité consultatif est formé dès que tu as un directeur de thèse : il réunit toi, ton directeur, qui le préside habituellement, et en général au moins deux autres professeurs. Le comité te guide dans la planification, la recherche et la rédaction. C'est souvent à toi de lancer les réunions, et ce ne sont pas toutes les unités qui ont un comité, alors vérifie la façon de faire dans la tienne.",
+      "en": "In many academic units, an advisory committee is formed as soon as you have a thesis supervisor: it includes you, your supervisor, who usually chairs it, and usually at least two other professors. The committee guides you through planning, research and writing. You're usually the one who initiates meetings, and not every unit has a committee, so check how things work in yours."
+    },
+    "sources": [{ "label": "Thesis supervision — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/thesis/thesis-supervision" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-types-maitrise",
+    "category": "programmes",
+    "keywords": ["types de maîtrise", "maîtrise avec thèse", "maîtrise avec mémoire", "maîtrise par cours", "course-based master's", "thesis master's", "major research paper", "durée maîtrise", "how long is a master's", "financement maîtrise", "mrp"],
+    "question": { "fr": "Quelle est la différence entre une maîtrise avec thèse, avec mémoire et par cours ?", "en": "What's the difference between a thesis, research paper and course-based master's?" },
+    "answer": {
+      "fr": "La maîtrise par cours dure environ 10 à 12 mois, celle avec mémoire de recherche, d'environ 50 pages, de 12 à 18 mois, et celle avec thèse, d'environ 100 pages, environ 24 mois. Plus il y a de recherche, moins il y a de cours. Le financement est offert sur concours pour l'option thèse, varie pour l'option mémoire et n'est normalement pas offert pour les maîtrises par cours. Certaines maîtrises offrent aussi l'enseignement coopératif, qui ajoute de quatre à huit mois de travail rémunéré.",
+      "en": "A course-based master's takes about 10 to 12 months, one with a research paper of about 50 pages takes 12 to 18 months, and one with a thesis of about 100 pages takes about 24 months. The more research, the fewer courses. Funding is available on a competitive basis for the thesis option, varies for the research paper option and is normally not provided for course-based master's. Some master's programs also offer co-op, which adds four to eight months of paid work."
+    },
+    "sources": [{ "label": "Master's programs at the University of Ottawa — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/masters" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-diplome-etudes-superieures",
+    "category": "programmes",
+    "keywords": ["diplôme d'études supérieures", "graduate diploma", "dess", "programme court cycles supérieurs", "gd", "15 crédits", "15 units", "diplôme après baccalauréat", "post-degree diploma", "certificat cycles supérieurs"],
+    "question": { "fr": "C'est quoi, un diplôme d'études supérieures ?", "en": "What is a graduate diploma?" },
+    "answer": {
+      "fr": "Le diplôme d'études supérieures compte 15 crédits et mise sur l'aspect pratique, avec des cours, de la recherche dirigée et des stages. Tu étudies avec des gens qui ont souvent déjà de l'expérience professionnelle, et les crédits obtenus peuvent être appliqués à une maîtrise si tu décides d'en faire une. Les exigences d'admission de chaque programme sont affichées en ligne.",
+      "en": "A graduate diploma is worth 15 units and focuses on practical learning, with lectures, directed research and internships. You study with people who often already have professional experience, and the units you earn can be applied towards a master's if you decide to pursue one. Each program's admission requirements are posted online."
+    },
+    "sources": [{ "label": "Graduate diplomas (GD) — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/graduate-diplomas" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-microprogrammes",
+    "category": "programmes",
+    "keywords": ["microprogramme", "microprogram", "microprogramme cycles supérieurs", "graduate microprogram", "formation courte", "mettre à jour mes compétences", "upskilling", "cybersécurité microprogramme", "étudiant spécial", "non-degree graduate"],
+    "question": { "fr": "C'est quoi, un microprogramme aux cycles supérieurs ?", "en": "What is a graduate microprogram?" },
+    "answer": {
+      "fr": "C'est un ensemble de cours ou d'activités de recherche dans un domaine précis, qu'on peut terminer en quatre à huit mois, à ton rythme, et dont les crédits peuvent compter pour une maîtrise. Si tu n'es pas déjà inscrit à une maîtrise, écris au bureau des études supérieures de la faculté qui l'offre avec ton CV et tes relevés de notes; si tu es accepté, tu seras inscrit comme étudiant non candidat à un grade, à temps partiel, avec un maximum de six crédits par session.",
+      "en": "It's a set of courses or research activities in a specific field that you can complete in four to eight months, at your own pace, and whose units can count towards a master's. If you're not already enrolled in a master's, email the graduate studies office of the faculty offering it with your CV and transcripts; if accepted, you'll be enrolled as a part-time non-degree student, with a maximum of six units per term."
+    },
+    "sources": [{ "label": "Microprograms — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/microprograms" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-assistanats",
+    "category": "services",
+    "keywords": ["assistant d'enseignement", "assistant de recherche", "teaching assistant", "research assistant", "ta job", "ra job", "assistanat", "assistantship", "emploi étudiant cycles supérieurs", "workday postes", "travailler pendant ma maîtrise"],
+    "question": { "fr": "Comment devenir assistant d'enseignement ou de recherche ?", "en": "How do I become a teaching or research assistant?" },
+    "answer": {
+      "fr": "La plupart des unités scolaires offrent des assistanats d'enseignement et de recherche, et la priorité va aux titulaires d'une bourse d'admission de l'Université; certaines unités en accordent aussi à d'autres selon les fonds disponibles. Les postes sont affichés dans Workday, et tu peux demander à ton unité scolaire s'il y en a d'ouverts et comment postuler. Le Service d'appui à l'enseignement et à l'apprentissage offre aussi de la formation aux assistants.",
+      "en": "Most academic units offer teaching and research assistantships, and priority goes to University of Ottawa admission scholarship holders; some units also award them to other students depending on available funds. Positions are posted in Workday, and you can ask your academic unit whether any are open and how to apply. Teaching and Learning Support Service also offers training for TAs."
+    },
+    "sources": [
+      { "label": "Working while you study — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/working-while-you-study" },
+      { "label": "On campus employment — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/campus-employment" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-rapport-progres",
+    "category": "programmes",
+    "keywords": ["rapport de progrès", "progress report", "rapport annuel thèse", "thesis progress report", "rapport insatisfaisant", "unsatisfactory report", "quand remettre rapport de progrès", "inscription bloquée", "registration blocked"],
+    "question": { "fr": "Quand dois-je remettre mon rapport de progrès de thèse ?", "en": "When do I have to submit my thesis progress report?" },
+    "answer": {
+      "fr": "Tous les étudiants d'un programme avec thèse en remettent un : le premier pendant la deuxième année, plus précisément à la quatrième session, puis un par année jusqu'au dépôt de la thèse. Tu le soumets à ton directeur par une demande de service dans uoZone. Si tu ne le remets pas, ton inscription est bloquée, et deux rapports insatisfaisants pendant tes études entraînent le retrait du programme.",
+      "en": "All students in a thesis program submit one: the first during second year, specifically in the fourth term, then one per year until the thesis is submitted. You submit it to your supervisor through a service request in uoZone. If you don't submit it, your registration is blocked, and two unsatisfactory reports during your studies lead to withdrawal from the program."
+    },
+    "sources": [{ "label": "Progress report — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/thesis/progress-report" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-soutenance",
+    "category": "programmes",
+    "keywords": ["soutenance de thèse", "thesis defence", "oral defence", "soutenance orale", "jury de thèse", "défendre ma thèse", "thesis jury", "assister à une soutenance", "verdict soutenance", "phd defence"],
+    "question": { "fr": "Comment se déroule une soutenance de thèse ?", "en": "How does a thesis defence work?" },
+    "answer": {
+      "fr": "La faculté organise la soutenance, présidée par une personne nommée par le doyen qui ne peut être ni ton directeur ni un examinateur. Tu présentes d'abord ton sujet, puis les examinateurs te posent leurs questions dans un ordre établi; ton directeur ne peut intervenir qu'à la fin. Le jury délibère ensuite sans toi, et la présidence t'annonce le verdict tout de suite. Les soutenances sont publiques, sauf pour une thèse confidentielle, alors tu peux en voir une pour te préparer.",
+      "en": "The faculty organizes the defence, chaired by someone named by the dean who can't be your supervisor or an examiner. You first present your topic, then the examiners question you in a set order; your supervisor can only speak at the end. The jury then deliberates without you, and the chair tells you the verdict right away. Defences are open to the public, except for confidential theses, so you can attend one to prepare."
+    },
+    "sources": [{ "label": "Oral defence — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/thesis/oral-defence" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-depot-final",
+    "category": "programmes",
+    "keywords": ["dépôt final thèse", "version finale thèse", "final thesis submission", "uo research", "déposer ma thèse", "embargo thèse", "thesis embargo", "droit d'auteur thèse", "bibliothèque et archives canada", "submit final thesis"],
+    "question": { "fr": "Comment je dépose la version finale de ma thèse ?", "en": "How do I submit the final version of my thesis?" },
+    "answer": {
+      "fr": "Après une soutenance réussie et les corrections, tu crées une demande de service dans uoZone, puis, une fois approuvée, tu déposes la version finale électronique dans uO Research, le dépôt institutionnel. Ta thèse devient accessible en libre accès, mais tu en gardes le droit d'auteur, et Bibliothèque et Archives Canada la récupère aussi. Si tu as besoin d'un embargo, ta demande doit être approuvée par la faculté avant le dépôt.",
+      "en": "After a successful defence and corrections, you create a service request in uoZone, then, once it's approved, you submit the final electronic version to uO Research, the institutional repository. Your thesis becomes open access, but you keep the copyright, and Library and Archives Canada also collects it. If you need an embargo, your request must be approved by the faculty before you submit."
+    },
+    "sources": [{ "label": "Oral defence — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/thesis/oral-defence" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-formats-these",
+    "category": "programmes",
+    "keywords": ["format de thèse", "thèse par articles", "thesis by articles", "thèse monographie", "monograph thesis", "thesis format", "thèse non traditionnelle", "rédiger ma thèse", "writing my thesis", "plan de travail thèse"],
+    "question": { "fr": "Est-ce que je peux faire une thèse par articles ?", "en": "Can I write my thesis as a series of articles?" },
+    "answer": {
+      "fr": "Oui, si ton unité scolaire l'accepte. Il existe trois formats : la monographie, la plus courante en sciences humaines et sociales, la thèse par articles, fréquente en sciences, en génie et en médecine, et la thèse non traditionnelle, selon ce que permet chaque programme. Vérifie le format accepté par ton unité avant de commencer, et prépare tôt un plan de travail avec des dates réalistes à montrer à ton directeur.",
+      "en": "Yes, if your academic unit accepts it. There are three formats: the monograph, most common in the humanities and social sciences, the thesis by articles, common in science, engineering and medicine, and the non-traditional thesis, depending on what each program allows. Check which format your unit accepts before you start, and prepare a work plan with realistic dates early to show your supervisor."
+    },
+    "sources": [{ "label": "Writing your thesis — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/thesis/writing-your-thesis" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-bureau-etudes-superieures",
+    "category": "services",
+    "keywords": ["bureau des études supérieures", "graduate and postdoctoral studies", "vice-rectorat études supérieures", "graduate studies office", "pavillon hagen", "hagen hall", "fesp", "qui contacter maîtrise", "contact graduate studies", "études postdoctorales"],
+    "question": { "fr": "Où est le bureau des études supérieures et postdoctorales ?", "en": "Where is the Graduate and Postdoctoral Studies office?" },
+    "answer": {
+      "fr": "Le Cabinet du vice-provost aux études supérieures et postdoctorales se trouve au pavillon Hagen, au deuxième étage. Par contre, pour tes questions d'admission, d'inscription, de direction de thèse ou d'obtention du diplôme, c'est la faculté, l'école ou l'institut qui offre ton programme qu'il faut contacter en premier.",
+      "en": "The Office of the Vice-Provost, Graduate and Postdoctoral Studies is in Hagen Hall, on the second floor. However, for questions about admission, enrolment, thesis supervision or graduation, you should first contact the faculty, school or institute offering your program."
+    },
+    "sources": [{ "label": "Vice-Provost, Graduate and Postdoctoral Studies — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/vice-provost-graduate-postdoctoral-studies" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-probleme-supervision",
+    "category": "services",
+    "keywords": ["problème avec mon directeur", "supervision problem", "conflit directeur de thèse", "plainte études supérieures", "academic complaint graduate", "directeur des études supérieures", "vice-doyen études supérieures", "ombudsman", "problème académique maîtrise", "who to contact supervisor issue"],
+    "question": { "fr": "J'ai un problème avec ma supervision ou mon programme aux cycles supérieurs : à qui m'adresser ?", "en": "I have a problem with my supervision or graduate program: who should I talk to?" },
+    "answer": {
+      "fr": "Commence par en parler à ton directeur de thèse ou de mémoire, ou au bureau des études supérieures de ta faculté. Si ça ne se règle pas, les étapes sont : le directeur des études supérieures de ton unité, puis le directeur de l'unité, puis le vice-doyen aux études supérieures de ta faculté. En tout temps, tu peux aussi consulter le Bureau de l'ombudsman, la GSAÉD ou le Bureau des droits de la personne.",
+      "en": "Start by talking to your thesis or research paper supervisor, or your faculty's graduate studies office. If that doesn't resolve it, the steps are: your unit's director of graduate studies, then the director of the unit, then your faculty's vice-dean of graduate studies. At any time, you can also turn to the Office of the Ombudsperson, the GSAÉD or the Human Rights Office."
+    },
+    "sources": [{ "label": "Mentoring and academic support — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/mentoring-academic-support" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-bourses",
+    "category": "services",
+    "keywords": ["bourse maîtrise", "bourse doctorat", "graduate scholarship", "bourse d'admission", "admission scholarship", "bourse de mérite spécial", "bgso", "ogs", "crsh crsng irsc", "tri-agency", "financement études supérieures", "graduate funding"],
+    "question": { "fr": "Quelles bourses existent pour la maîtrise et le doctorat ?", "en": "What scholarships are available for master's and PhD students?" },
+    "answer": {
+      "fr": "L'Université offre notamment la bourse d'admission et la bourse de mérite spécial, et les étudiants internationaux peuvent avoir accès à la bourse d'exonération des droits de scolarité différentiels. Il existe aussi des bourses externes comme celles des trois organismes fédéraux et la Bourse d'études supérieures de l'Ontario. Le Carrefour de réussite pour les bourses d'études supérieures t'aide à préparer une demande solide.",
+      "en": "The University offers, among others, the Admission Scholarship and the Special Merit Scholarship, and international students may have access to the Differential Tuition Fee Exemption Scholarship. There are also external awards such as the Tri-Agency scholarships and the Ontario Graduate Scholarship. The Graduate Scholarship Success Hub helps you prepare a strong application."
+    },
+    "sources": [
+      { "label": "Awards and Financial Support — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/awards-financial-support" },
+      { "label": "Graduate Scholarship Success Hub — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/graduate-scholarship-success-hub" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-postdoctorat",
+    "category": "programmes",
+    "keywords": ["postdoctorat", "postdoc", "stagiaire postdoctoral", "postdoctoral fellow", "becoming a postdoc", "inscription postdoctorale", "postdoctoral registration", "superviseur postdoc", "fellowship uottawa"],
+    "question": { "fr": "Comment faire un stage postdoctoral à l'Université d'Ottawa ?", "en": "How do I become a postdoctoral fellow at the University of Ottawa?" },
+    "answer": {
+      "fr": "Commence par trouver un professeur de ton domaine qui accepte de superviser ta recherche, en consultant les sites des facultés ou la plateforme UniWeb. Une fois l'entente conclue, tu remplis avec lui le formulaire d'inscription postdoctorale et tu l'envoies au Cabinet du vice-provost aux études supérieures et postdoctorales avec la preuve de ton doctorat et ton CV. Tu reçois une décision par courriel dans les cinq jours ouvrables.",
+      "en": "Start by finding a professor in your field who agrees to supervise your research, using faculty websites or the UniWeb platform. Once you have an agreement, you complete the postdoctoral registration form with them and send it to the Office of the Vice-Provost, Graduate and Postdoctoral Studies with proof of your PhD and your CV. You'll get a decision by email within five business days."
+    },
+    "sources": [{ "label": "Becoming a postdoctoral fellow — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/becoming-postdoctoral-fellow" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-mobilite-cotutelle",
+    "category": "international",
+    "keywords": ["cotutelle", "doctorat en cotutelle", "étudiant chercheur invité", "visiting research student", "mobilité études supérieures", "graduate mobility", "recherche à l'étranger", "research abroad", "irex", "séjour de recherche"],
+    "question": { "fr": "Est-ce que je peux faire une partie de mes études supérieures à l'étranger ?", "en": "Can I do part of my graduate studies abroad?" },
+    "answer": {
+      "fr": "Oui : au doctorat, une cotutelle te permet d'être encadré par deux communautés de recherche, dont une à l'étranger, et tu peux aussi faire un échange dans une université partenaire sans payer de droits de scolarité internationaux. Le bureau IREX, responsable de la recherche internationale et de l'apprentissage expérientiel, publie aussi des occasions de financement pour des séjours de recherche à l'étranger. À l'inverse, un étudiant inscrit ailleurs peut venir faire de la recherche ici comme étudiant chercheur invité, sans payer de droits de scolarité.",
+      "en": "Yes: at the doctoral level, a cotutelle lets you be supervised by two research communities, one of them abroad, and you can also do an exchange at a partner university without paying international tuition fees. The IREX office, responsible for international research and experiential learning, also lists funding opportunities for research stays abroad. Conversely, a student enrolled elsewhere can come do research here as a visiting research student, without paying tuition fees."
+    },
+    "sources": [{ "label": "Mobility (graduate studies) — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/mobility" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-bourse-visite",
+    "category": "admissions",
+    "keywords": ["bourse de déplacement", "travel grant", "explore uottawa", "visiter le campus maîtrise", "rencontrer un directeur", "visit campus graduate", "remboursement voyage", "plan a visit", "visite futur étudiant cycles supérieurs"],
+    "question": { "fr": "Est-ce qu'il y a de l'aide pour venir visiter le campus avant ma maîtrise ou mon doctorat ?", "en": "Is there help to visit campus before starting a master's or PhD?" },
+    "answer": {
+      "fr": "Oui, le programme Explore uOttawa offre une bourse de déplacement aux futurs étudiants à la maîtrise et au doctorat. Il faut voyager au moins 150 km, avoir un rendez-vous avec un directeur de thèse potentiel ou un directeur de programme, et ne jamais avoir reçu cette bourse. Tu fais ta demande par courriel à l'unité scolaire au moins 10 jours ouvrables avant ton voyage.",
+      "en": "Yes, the Explore uOttawa program offers a travel grant to future master's and PhD students. You must travel at least 150 km, have an appointment with a potential thesis supervisor or program director, and never have received this grant before. You apply by email to the academic unit at least 10 business days before your trip."
+    },
+    "sources": [{ "label": "Plan a visit (graduate studies) — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/plan-a-visit" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-cours-autre-universite",
+    "category": "cours",
+    "keywords": ["cours à carleton", "carleton exchange", "cours dans une autre université", "ovgs", "ontario visiting graduate student", "lettre de permission", "letter of permission graduate", "take a course at carleton", "étudiant gradué visiteur"],
+    "question": { "fr": "Est-ce que je peux suivre un cours de cycles supérieurs à Carleton ou ailleurs ?", "en": "Can I take a graduate course at Carleton or another university?" },
+    "answer": {
+      "fr": "Oui. Pour Carleton, tu passes par le programme d'échange entre les deux universités et son formulaire. Pour une autre université ontarienne, l'entente pour étudiants diplômés visiteurs de l'Ontario te permet de suivre un cours sans nouvelle demande d'admission, si tu es en règle. Ailleurs, il te faut une lettre de permission approuvée par ta faculté, avec des frais administratifs, et tu paies les droits directement à l'autre établissement.",
+      "en": "Yes. For Carleton, you go through the exchange program between the two universities and its form. For another Ontario university, the Ontario Visiting Graduate Student agreement lets you take a course without a new admission application, if you're in good standing. Elsewhere, you need a letter of permission approved by your faculty, with administrative fees, and you pay tuition directly to the other institution."
+    },
+    "sources": [{ "label": "Managing your studies (graduate studies) — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/managing-your-studies" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-uogradflix",
+    "category": "services",
+    "keywords": ["uogradflix", "concours vidéo", "video competition", "vulgariser ma recherche", "60 secondes", "present my research", "concours étudiants diplômés", "prix recherche vidéo"],
+    "question": { "fr": "C'est quoi, le concours uOGRADflix ?", "en": "What is the uOGRADflix competition?" },
+    "answer": {
+      "fr": "C'est un concours où les étudiants des cycles supérieurs présentent leur recherche dans une vidéo originale de 60 secondes. Les prix sont de 1 000 $, 750 $ et 500 $, plus un prix du public de 500 $. Pour cette édition, l'inscription se fait en ligne d'ici le 16 décembre 2026, et la vidéo doit être envoyée au plus tard le 11 janvier 2027 à midi.",
+      "en": "It's a competition where graduate students present their research in an original 60-second video. Prizes are $1,000, $750 and $500, plus a $500 People's Choice award. For this edition, you register online by December 16, 2026, and the video must be submitted by noon on January 11, 2027."
+    },
+    "sources": [{ "label": "uOGRADflix — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies/uogradflix-competition" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cs-coop-maitrise",
+    "category": "programmes",
+    "keywords": ["coop maîtrise", "co-op master's", "maîtrise coopérative", "graduate co-op", "stage maîtrise", "coop cycles supérieurs", "master's co-op admission", "work term master's"],
+    "question": { "fr": "Est-ce que je peux faire l'enseignement coopératif pendant ma maîtrise ?", "en": "Can I do co-op during my master's?" },
+    "answer": {
+      "fr": "Oui, plusieurs maîtrises l'offrent, par exemple en informatique, en communication, en économie ou en traduction. Tu dois avoir commencé tes études à l'Université et avoir une moyenne d'au moins 75 % (B+), et la demande se fait habituellement avant le 30 septembre de ta première année. Ton premier stage a alors lieu en général l'été suivant, et le coop ajoute une session à ton programme.",
+      "en": "Yes, several master's programs offer it, for example in computer science, communication, economics or translation. You must have started your studies at the University and have an average of at least 75% (B+), and you usually apply before September 30 of your first year. Your first work term then usually takes place the following summer, and co-op adds one term to your program."
+    },
+    "sources": [
+      { "label": "Co-op frequently asked questions — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq" },
+      { "label": "Co-op programs — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/coop-programs" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-frais",
+    "category": "services",
+    "keywords": ["frais coop", "co-op fees", "combien coûte le coop", "how much is co-op", "frais de stage", "coop fee international", "frais coop remboursable", "co-op fee refund", "payer le coop"],
+    "question": { "fr": "Combien coûtent les frais du programme coop ?", "en": "How much are co-op fees?" },
+    "answer": {
+      "fr": "Pour 2026-2027, dans un programme où le coop est optionnel, les frais sont de 896 $ pour les citoyens canadiens et résidents permanents, et de 1 125 $ pour les étudiants internationaux, pour chaque session où tu es jumelé à un employeur. Les premiers frais se paient à la session qui précède ton premier stage et ne sont pas remboursables, même si tu quittes le programme. Dans un programme où le coop est obligatoire, tu paies plutôt 672 $ ou 843,75 $ à chaque session d'études.",
+      "en": "For 2026-2027, in a program where co-op is optional, fees are $896 for Canadian citizens and permanent residents and $1,125 for international students, for each term you're matched with an employer. The first fee is paid in the term before your first work term and isn't refundable, even if you leave the program. In a program where co-op is mandatory, you instead pay $672 or $843.75 every study term."
+    },
+    "sources": [{ "label": "Co-op Fees — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/fees" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-salaire-duree",
+    "category": "services",
+    "keywords": ["salaire coop", "co-op salary", "combien paie un stage", "how much does co-op pay", "durée stage coop", "work term length", "16 semaines", "stage rémunéré", "paid placement", "co-op wage"],
+    "question": { "fr": "Combien de temps dure un stage coop et combien c'est payé ?", "en": "How long is a co-op work term and how much does it pay?" },
+    "answer": {
+      "fr": "Un stage coop à temps plein dure habituellement 16 semaines, soit quatre mois. Le salaire dépend de l'employeur et du domaine, mais il varie généralement de 450 $ à 750 $ par semaine. Pendant ton stage, tu dois travailler à temps plein du début à la fin, et les congés ne sont permis qu'en cas de maladie.",
+      "en": "A full-time co-op work term usually lasts 16 weeks, or four months. Pay depends on the employer and the field, but it generally ranges from $450 to $750 per week. During your work term, you must work full time from start to finish, and time off is only allowed for illness."
+    },
+    "sources": [{ "label": "Co-op frequently asked questions — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-trouver-stage",
+    "category": "services",
+    "keywords": ["trouver un stage coop", "find a co-op job", "portail coop", "co-op portal", "co-op index", "j'ai trouvé mon propre stage", "found own job", "retourner chez mon employeur", "entrevues coop", "co-op interviews", "navigateur coop"],
+    "question": { "fr": "Comment je trouve mon stage coop ?", "en": "How do I find my co-op placement?" },
+    "answer": {
+      "fr": "Tu as accès au Portail coop, et à son application, au début de la session qui précède ton stage : tu y postules aux offres réservées aux étudiants de l'Université, et tu peux aussi postuler aux offres de l'outil Co-op IndEX. Si tu trouves un emploi par toi-même, il doit être rémunéré, lié à ton domaine et approuvé avec le formulaire « I found my own job ». Tu peux aussi retourner chez un ancien employeur avec une preuve écrite, et attention : une entrevue obtenue par le portail ne peut pas être annulée, sauf pour un laboratoire, un examen ou une raison médicale.",
+      "en": "You get access to the Co-op Portal, and its app, at the start of the term before your work term: you apply there to jobs reserved for University students, and you can also apply to jobs in the Co-op IndEX tool. If you find a job on your own, it must be paid, related to your field and approved with the I found my own job form. You can also return to a previous employer with written proof, and note: an interview obtained through the portal can't be cancelled, except for a lab, an exam or a medical reason."
+    },
+    "sources": [{ "label": "Co-op Process Details — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/process" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-rapport-stage",
+    "category": "cours",
+    "keywords": ["rapport de stage coop", "work term report", "rapport réflexif", "reflective report", "évaluation stage coop", "note stage coop", "co-op grade", "pass fail coop", "réussite échec coop", "rapport coop format"],
+    "question": { "fr": "Comment mon stage coop est-il évalué ?", "en": "How is my co-op work term evaluated?" },
+    "answer": {
+      "fr": "Chaque stage se termine par un rapport réflexif, que tu remets en format Word dans la plateforme d'apprentissage expérientiel, le Portail coop, où tu trouveras aussi le guide de rédaction. Tu reçois une note « réussite » ou « échec », basée sur l'évaluation de ton employeur et sur celle de ton rapport par ta faculté. Une réussite n'a aucun effet sur ta moyenne, mais un échec la fait baisser, et les rapports confidentiels ne sont plus acceptés.",
+      "en": "Each work term ends with a reflective report, which you submit in Word format on the Experiential Learning Platform, the Co-op Portal, where you'll also find the writing guide. You receive a pass or fail grade, based on your employer's evaluation and your faculty's evaluation of your report. A pass has no effect on your average, but a fail lowers it, and confidential reports are no longer accepted."
+    },
+    "sources": [
+      { "label": "Co-op Work Term Report — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/work-term-report" },
+      { "label": "Co-op frequently asked questions — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-moyenne-maintien",
+    "category": "programmes",
+    "keywords": ["moyenne coop", "co-op average", "rester dans le coop", "stay in co-op", "mention coop diplôme", "co-op designation", "moyenne minimale coop", "minimum cgpa co-op", "exclu du coop"],
+    "question": { "fr": "Quelle moyenne dois-je garder pour rester dans le programme coop ?", "en": "What average do I need to stay in co-op?" },
+    "answer": {
+      "fr": "Le minimum est habituellement une moyenne pondérée cumulative de 6,0 au baccalauréat et de 7,0 à la maîtrise. Si ta moyenne descend sous ce seuil, tu as deux sessions pour la remonter avant qu'on puisse te demander de quitter le programme. Pour obtenir la mention coop sur ton diplôme, tu dois terminer avec une moyenne au moins égale à celle exigée à l'admission.",
+      "en": "The minimum is usually a cumulative grade point average of 6.0 at the undergraduate level and 7.0 at the master's level. If your average drops below that, you have two terms to bring it back up before you may be asked to leave the program. To get the co-op designation on your diploma, you must finish with an average at least equal to the one required for admission."
+    },
+    "sources": [{ "label": "Co-op frequently asked questions — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-duree-diplome",
+    "category": "programmes",
+    "keywords": ["coop retarde diplôme", "co-op delay graduation", "combien d'années avec coop", "how long degree co-op", "finir en décembre", "coop cinquième année", "coop et maîtrise", "co-op medical school", "coop médecine"],
+    "question": { "fr": "Est-ce que le coop allonge mes études ?", "en": "Does co-op make my degree longer?" },
+    "answer": {
+      "fr": "Oui, un peu : dans la plupart des programmes, les étudiants coop terminent huit mois plus tard que les autres, soit en décembre de leur cinquième année au lieu du printemps de la quatrième. À la maîtrise, le coop ajoute une session. Si tu prévois une maîtrise ou la médecine ensuite, tiens compte de ce décalage et vérifie les exigences des programmes visés.",
+      "en": "Yes, a little: in most programs, co-op students finish eight months later than others, in December of their fifth year instead of the spring of their fourth. At the master's level, co-op adds one term. If you plan to do a master's or medicine afterwards, keep this shift in mind and check the requirements of the programs you're targeting."
+    },
+    "sources": [{ "label": "Co-op frequently asked questions — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-international",
+    "category": "international",
+    "keywords": ["stage coop à l'étranger", "international co-op placement", "coop international", "work abroad co-op", "stage à l'étranger", "mobilité internationale coop", "coop hors canada", "co-op abroad", "visa stage étranger"],
+    "question": { "fr": "Est-ce que je peux faire un stage coop à l'étranger ?", "en": "Can I do a co-op work term abroad?" },
+    "answer": {
+      "fr": "Oui, à condition que le lieu soit jugé sécuritaire par Affaires mondiales Canada et par l'Université. Commence à planifier environ neuf mois à l'avance : tu suis les modules de mobilité du cours de développement professionnel coop sur Brightspace et tu rencontres un spécialiste coop pour ta recherche d'emploi. En général, c'est toi qui paies ton billet d'avion, ton visa et tes assurances, et certains stages à l'étranger ne sont pas rémunérés.",
+      "en": "Yes, as long as the location is considered safe by Global Affairs Canada and the University. Start planning about nine months ahead: you complete the mobility modules in the Co-op Professional Development course on Brightspace and meet a co-op specialist for your job search. In general, you pay for your flight, visa and insurance, and some placements abroad are unpaid."
+    },
+    "sources": [
+      { "label": "International mobility (co-op) — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/international-mobility" },
+      { "label": "Co-op frequently asked questions — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-bourses-mobilite",
+    "category": "services",
+    "keywords": ["bourse mobilité coop", "co-op mobility scholarship", "financer stage étranger", "fund co-op abroad", "bourse stage non rémunéré", "unpaid placement bursary", "bourse association des diplômés coop", "jacques frémont"],
+    "question": { "fr": "Y a-t-il des bourses pour un stage coop à l'étranger ou ailleurs au Canada ?", "en": "Are there scholarships for a co-op placement abroad or elsewhere in Canada?" },
+    "answer": {
+      "fr": "Oui : le bureau coop offre une bourse de mobilité internationale de 1 000 $ et une bourse de 500 $ pour les stages non rémunérés, à condition d'aviser le bureau de ton stage avant le 1er décembre, le 15 avril ou le 15 août selon la session. La bourse coop de l'Association des diplômés, pour les stages d'été seulement, vaut 1 500 $ à l'international et 1 000 $ au Canada, avec une date limite au 30 avril. D'autres bourses existent aussi, dont certaines réservées aux étudiants de Telfer.",
+      "en": "Yes: the co-op office offers a $1,000 international mobility scholarship and a $500 bursary for unpaid placements, as long as you inform the office of your placement by December 1, April 15 or August 15 depending on the term. The Alumni Association co-op mobility scholarship, for summer work terms only, is worth $1,500 internationally and $1,000 in Canada, with an April 30 deadline. Other awards also exist, some reserved for Telfer students."
+    },
+    "sources": [{ "label": "Scholarships and bursaries (co-op) — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/scholarships-bursaries" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-national",
+    "category": "services",
+    "keywords": ["stage coop ailleurs au canada", "national co-op placement", "coop hors ottawa", "work term in another province", "mobilité nationale", "national mobility", "stage à toronto", "stage en alberta"],
+    "question": { "fr": "Est-ce que je peux faire mon stage coop ailleurs au Canada ?", "en": "Can I do my co-op work term elsewhere in Canada?" },
+    "answer": {
+      "fr": "Oui. Tu dois être en règle avec le programme coop, et le poste doit être rémunéré, lié à ton programme, à temps plein et d'une durée de 13 à 16 semaines. On te conseille d'assister à la séance d'information sur la mobilité nationale environ neuf mois avant ton départ, puis de rencontrer un spécialiste en développement professionnel coop pour bâtir ton plan de recherche.",
+      "en": "Yes. You must be in good standing with the co-op program, and the job must be paid, related to your program, full time and 13 to 16 weeks long. You're advised to attend the national mobility information session about nine months before you leave, then meet a co-op professional development specialist to build your job search plan."
+    },
+    "sources": [{ "label": "National mobility (co-op) — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/national-mobility" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-etudiants-internationaux",
+    "category": "international",
+    "keywords": ["coop étudiant international", "international student co-op", "coop sans citoyenneté", "cote de sécurité", "security clearance co-op", "gouvernement du canada coop", "lettre ircc coop", "can international students do co-op"],
+    "question": { "fr": "Je suis étudiant international : est-ce que je peux faire le coop ?", "en": "I'm an international student: can I do co-op?" },
+    "answer": {
+      "fr": "Oui, si tu satisfais aux exigences d'admission du coop et aux conditions d'Immigration, Réfugiés et Citoyenneté Canada. Après ton admission, le bureau coop te fournit la lettre exigée par IRCC. Par contre, certains postes, comme au gouvernement fédéral, exigent une cote de sécurité difficile à obtenir et embauchent surtout des citoyens canadiens, alors tes stages se feront plutôt dans le secteur privé ou à l'Université.",
+      "en": "Yes, if you meet the co-op admission requirements and the conditions of Immigration, Refugees and Citizenship Canada. After you're admitted, the co-op office provides the letter required by IRCC. However, some positions, such as with the federal government, require a security clearance that's hard to obtain and mostly hire Canadian citizens, so your placements will more likely be in the private sector or at the University."
+    },
+    "sources": [{ "label": "Co-op frequently asked questions — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-cours-pendant-stage",
+    "category": "cours",
+    "keywords": ["cours pendant stage coop", "course during work term", "cours du soir coop", "evening course co-op", "temps plein coop", "full-time co-op", "12 crédits coop", "dernière session coop"],
+    "question": { "fr": "Est-ce que je peux suivre un cours pendant mon stage coop ?", "en": "Can I take a course during my co-op work term?" },
+    "answer": {
+      "fr": "Oui, mais un seul cours du soir à la fois, sans composante de jour, et seulement s'il ne t'empêche pas de suivre la séquence de cours prévue à la session suivante. Pendant tes sessions d'études, tu dois rester inscrit à temps plein, soit au moins 12 crédits, et ta dernière session doit être une session d'études, pas un stage.",
+      "en": "Yes, but only one evening course at a time, with no daytime component, and only if it doesn't prevent you from following the required course sequence the next term. During your study terms, you must stay enrolled full time, meaning at least 12 units, and your last term must be a study term, not a work term."
+    },
+    "sources": [{ "label": "Co-op frequently asked questions — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-abandon",
+    "category": "programmes",
+    "keywords": ["quitter le coop", "withdraw from co-op", "abandonner le coop", "leave co-op program", "retrait coop", "formulaire de retrait coop", "enlever le coop", "remove co-op"],
+    "question": { "fr": "Est-ce que je peux quitter le programme coop quand je veux ?", "en": "Can I leave the co-op program whenever I want?" },
+    "answer": {
+      "fr": "Pas tout à fait : le coop a ses propres dates limites, et si tu participes au processus de placement, avec des entrevues par exemple, tu ne peux plus te retirer avant d'avoir terminé ce stage, par respect envers les employeurs. Le retrait se fait avec le formulaire en ligne. Rappelle-toi aussi que les premiers frais coop ne sont pas remboursables.",
+      "en": "Not quite: co-op has its own deadlines, and if you take part in the placement process, with interviews for example, you can't withdraw until you've completed that work term, out of respect for employers. You withdraw using the online form. Also remember that the first co-op fee isn't refundable."
+    },
+    "sources": [
+      { "label": "Co-op frequently asked questions — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/faq" },
+      { "label": "Co-op Fees — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/fees" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-coop-dates-ateliers",
+    "category": "services",
+    "keywords": ["dates coop", "co-op key dates", "ateliers obligatoires coop", "mandatory co-op webinars", "webinaires coop", "brightspace coop", "calendrier coop", "co-op deadlines", "cv coop date limite"],
+    "question": { "fr": "Où trouver les dates importantes et les ateliers obligatoires du coop ?", "en": "Where can I find co-op key dates and mandatory workshops?" },
+    "answer": {
+      "fr": "La page des dates clés du coop donne, pour chaque session, les dates de stage, l'ouverture des offres, les entrevues, la remise du rapport et les ateliers à suivre. Tous les webinaires et modules sont obligatoires et se trouvent sur Brightspace, par exemple sur le CV coop, les entrevues et les réalités du marché du travail. Par exemple, pour un stage à l'été 2027, du 3 mai au 27 août, les offres s'ouvrent le 13 janvier 2027.",
+      "en": "The co-op key dates page lists, for each term, the work term dates, when jobs open, interviews, the report deadline and the workshops to attend. All webinars and modules are mandatory and are on Brightspace, for example on the co-op resume, interviews and the realities of the job market. For example, for a summer 2027 work term, from May 3 to August 27, job postings open on January 13, 2027."
+    },
+    "sources": [{ "label": "Key dates (co-op) — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/key-dates" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-carriere-heures",
+    "category": "services",
+    "keywords": ["heures carrefour carrière", "career corner hours", "carrefour carrière ouvert", "career centre hours", "centre de développement de carrière", "career development centre", "ucu 216", "quand ouvre career corner"],
+    "question": { "fr": "Quelles sont les heures d'ouverture du Carrefour carrière ?", "en": "What are the Career Corner's hours?" },
+    "answer": {
+      "fr": "Le Carrefour carrière, au Centre universitaire, salle 216, est ouvert du lundi au vendredi de 8 h 45 à 16 h 30 du 1er septembre au 30 mai, et de 8 h 45 à 15 h 30 du 1er juin au 31 août. Ses services sont offerts en personne et à distance, et tu peux prendre rendez-vous en ligne.",
+      "en": "The Career Corner, in the University Centre, room 216, is open Monday to Friday from 8:45 a.m. to 4:30 p.m. from September 1 to May 30, and from 8:45 a.m. to 3:30 p.m. from June 1 to August 31. Its services are offered in person and remotely, and you can book an appointment online."
+    },
+    "sources": [{ "label": "Career development — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-carriere-sans-rendez-vous",
+    "category": "services",
+    "keywords": ["sans rendez-vous carrière", "career drop-in", "drop-in session", "conseiller en orientation", "career counsellor", "mentor carrière", "faire réviser mon cv sans rendez-vous", "changer de programme conseil", "career advice walk-in"],
+    "question": { "fr": "Est-ce que je peux voir un conseiller en carrière sans rendez-vous ?", "en": "Can I see a career advisor without an appointment?" },
+    "answer": {
+      "fr": "Oui, le Carrefour carrière offre des séances sans rendez-vous de 15 minutes, au local UCU 216. Cet automne, les spécialistes de carrière et les mentors, qui commentent ton CV, ta lettre ou ton profil LinkedIn, sont là les mardis, mercredis et jeudis de 13 h à 14 h 30. Les conseillers en orientation, pour réfléchir à ton programme ou à ta carrière, sont là les mardis et jeudis de 13 h à 14 h 30.",
+      "en": "Yes, the Career Corner offers 15-minute drop-in sessions in room UCU 216. This fall, career specialists and mentors, who give feedback on your resume, cover letter or LinkedIn profile, are available Tuesdays, Wednesdays and Thursdays from 1 to 2:30 p.m. Career counsellors, to help you think about your program or career, are available Tuesdays and Thursdays from 1 to 2:30 p.m."
+    },
+    "sources": [{ "label": "Career Corner Drop-in Sessions — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/career-corner-drop-in-sessions" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-carriere-groupes-pairs",
+    "category": "services",
+    "keywords": ["groupes de pairs carrière", "career peer groups", "atelier cv en groupe", "resume workshop", "atelier entrevue", "interview workshop", "recherche d'emploi atelier", "job search group", "ateliers carrière"],
+    "question": { "fr": "Est-ce qu'il y a des ateliers en groupe sur le CV ou les entrevues ?", "en": "Are there group workshops on resumes or interviews?" },
+    "answer": {
+      "fr": "Oui, le Carrefour carrière organise des groupes de pairs : de petits groupes d'étudiants qui échangent avec un animateur formé. Les thèmes sont le CV, les entrevues, les stratégies de recherche d'emploi et la connaissance de soi, avec des séances en français et en anglais. L'horaire complet est affiché sur la page des groupes de pairs.",
+      "en": "Yes, the Career Corner runs peer groups: small groups of students who exchange ideas with a trained facilitator. Topics are resumes, interviews, job search strategies and knowing yourself, with sessions in French and English. The full schedule is posted on the peer groups page."
+    },
+    "sources": [{ "label": "Career Corner Peer Groups — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/peer-groups" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-carriere-horizons",
+    "category": "services",
+    "keywords": ["programme horizons", "horizons program", "modules carrière", "career modules", "brightspace carrière", "développement de carrière en ligne", "online career program", "uocompétences", "préparer ma carrière"],
+    "question": { "fr": "C'est quoi, le programme Horizons ?", "en": "What is the Horizons program?" },
+    "answer": {
+      "fr": "Horizons est un programme de développement de carrière de 12 modules que tu suis à ton rythme, sans date limite, en français, en anglais ou dans les deux langues. Il couvre la connaissance de soi, l'exploration de carrières, le marché du travail, le CV et LinkedIn, et t'aide à développer les 11 uOCompétences recherchées par les employeurs. Pour t'inscrire, va dans l'onglet Découvrir de Brightspace et cherche Horizons Career Development Program.",
+      "en": "Horizons is a 12-module career development program you follow at your own pace, with no deadlines, in French, English or both. It covers self-awareness, career exploration, the labour market, resumes and LinkedIn, and helps you build the 11 uOCompetencies employers look for. To register, go to the Discover tab in Brightspace and search for Horizons Career Development Program."
+    },
+    "sources": [{ "label": "Horizons program — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/horizons" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-carriere-mentorat-diplomes",
+    "category": "services",
+    "keywords": ["ten thousand coffees", "mentorat diplômés", "alumni mentor", "réseautage", "networking platform", "trouver un mentor", "find a mentor", "uottawa hub", "café réseautage"],
+    "question": { "fr": "Comment trouver un mentor parmi les diplômés de l'Université ?", "en": "How can I find a mentor among University alumni?" },
+    "answer": {
+      "fr": "Inscris-toi à la plateforme de réseautage et de mentorat Ten Thousand Coffees, sur le carrefour uOttawa. Tu indiques ton programme, ton secteur et tes objectifs, et chaque mois tu reçois un nouveau jumelage avec un diplômé, avec des conseils pour lancer la conversation. Vous choisissez ensemble de vous rencontrer dans un café ou en ligne, et tu peux suspendre les jumelages quand tu es débordé.",
+      "en": "Sign up for the Ten Thousand Coffees networking and mentoring platform, on the uOttawa Hub. You enter your program, industry and goals, and each month you get a new match with an alumnus, along with tips to start the conversation. You decide together whether to meet at a coffee shop or online, and you can pause matching when you're busy."
+    },
+    "sources": [{ "label": "Ten Thousand Coffees platform — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/ten-thousand-coffees" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-carriere-salons",
+    "category": "services",
+    "keywords": ["salon de l'emploi", "career fair", "foire de l'emploi", "job fair", "career week expo", "salon stem", "stem career fair", "rencontrer des employeurs", "meet employers", "gymnase montpetit"],
+    "question": { "fr": "Est-ce qu'il y a des salons de l'emploi sur le campus ?", "en": "Are there career fairs on campus?" },
+    "answer": {
+      "fr": "Oui ! Le Carrefour carrière organise notamment un salon des carrières en STIM, l'Expo de la Semaine des carrières, le plus grand salon de l'année au gymnase Montpetit, et un salon des carrières en éducation pour les conseils scolaires francophones. Tu peux y laisser ton CV, rencontrer des employeurs pour un emploi d'été, un stage ou un poste après tes études, et tu t'inscris à chaque événement en ligne.",
+      "en": "Yes! The Career Corner runs, among others, a STEM Career Fair, the Career Week Expo, the biggest fair of the year in the Montpetit Gym, and an Education Career Fair for French school boards. You can drop off your resume and meet employers for a summer job, internship or post-graduation position, and you register for each event online."
+    },
+    "sources": [{ "label": "Career events — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/career-events" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-carriere-diplomes",
+    "category": "services",
+    "keywords": ["services carrière diplômés", "alumni career services", "après mon diplôme aide emploi", "career help after graduation", "diplômé carrefour carrière", "alumni career counselling", "100 $ par année", "career services graduates"],
+    "question": { "fr": "Est-ce que je peux utiliser les services de carrière après avoir obtenu mon diplôme ?", "en": "Can I use career services after I graduate?" },
+    "answer": {
+      "fr": "Oui ! Si tu as obtenu ton diplôme il y a moins de deux ans, les services de développement de carrière sont gratuits. Après deux ans, tu as un accès illimité pour 100 $ par année. Tu peux par exemple te faire aider pour ton plan de carrière, ton CV, tes entrevues ou ta compréhension du marché du travail.",
+      "en": "Yes! If you graduated less than two years ago, career development services are free. After two years, you get unlimited access for $100 a year. For example, you can get help with your career plan, resume, interviews or understanding the job market."
+    },
+    "sources": [{ "label": "Career services for alumni — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/alumni" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-carriere-tests-psychometriques",
+    "category": "services",
+    "keywords": ["test de personnalité", "mbti", "strong interest inventory", "test d'orientation", "career test", "test psychométrique", "psychometric assessment", "quel métier choisir", "orientation professionnelle"],
+    "question": { "fr": "Est-ce que je peux passer un test d'orientation comme le MBTI ?", "en": "Can I take a career assessment like the MBTI?" },
+    "answer": {
+      "fr": "Oui, le Carrefour carrière offre le MBTI, sur la personnalité, et l'inventaire d'intérêts Strong, en deux rencontres avec un conseiller : une pour présenter la démarche, une autre pour interpréter tes résultats. Pour les étudiants et les diplômés depuis moins de deux ans, le MBTI coûte 30 $ et le Strong, 25 $.",
+      "en": "Yes, the Career Corner offers the MBTI, a personality assessment, and the Strong Interest Inventory, over two meetings with a counsellor: one to introduce the process and another to interpret your results. For students and alumni who graduated less than two years ago, the MBTI costs $30 and the Strong costs $25."
+    },
+    "sources": [{ "label": "Psychometrics assessments — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/psychometrics-assessments" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-emploi-campus",
+    "category": "services",
+    "keywords": ["emploi sur le campus", "on-campus job", "travailler à l'université", "work on campus", "emploi résidence", "emploi récréation", "sauveteur", "lifeguard job", "gee-gees emploi", "student job uottawa", "mascotte"],
+    "question": { "fr": "Quels types d'emplois étudiants y a-t-il sur le campus ?", "en": "What kinds of student jobs are there on campus?" },
+    "answer": {
+      "fr": "Il y a des postes dans les services et les facultés, notamment en résidence, au Service des sports pour les arbitres, entraîneurs personnels et sauveteurs, aux événements des Gee-Gees, où la grande période d'embauche va du 1er juillet au 15 août, et comme assistant d'enseignement ou de recherche dans Workday. Le Programme travail-études offre aussi des emplois si tu démontres un besoin financier.",
+      "en": "There are positions in services and faculties, including in residence, with Recreation as referees, personal trainers and lifeguards, at Gee-Gees events, where the main hiring period runs from July 1 to August 15, and as a teaching or research assistant through Workday. The Work-Study Program also offers jobs if you demonstrate financial need."
+    },
+    "sources": [{ "label": "On campus employment — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/campus-employment" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-emploi-arnaques",
+    "category": "services",
+    "keywords": ["arnaque emploi", "job scam", "faux emploi courriel", "fake job email", "hameçonnage", "phishing job", "offre d'emploi suspecte", "suspicious job offer", "courriel emploi uottawa"],
+    "question": { "fr": "J'ai reçu une offre d'emploi par courriel de l'Université : est-ce légitime ?", "en": "I got a job offer by email from the University: is it legit?" },
+    "answer": {
+      "fr": "Méfie-toi : l'Université affiche ses emplois étudiants sur des portails sécurisés comme uoZone, et un processus de recrutement ou d'embauche ne commence jamais par courriel. Le Carrefour carrière fait la promotion d'événements et d'ateliers, mais ne partage aucun emploi par courriel. En cas de doute, ne clique pas et vérifie directement dans uoZone.",
+      "en": "Be careful: the University posts student jobs on secure portals like uoZone, and a recruitment or hiring process never starts by email. The Career Corner promotes events and workshops but doesn't share any jobs by email. If in doubt, don't click and check directly in uoZone."
+    },
+    "sources": [{ "label": "Work-Study Program — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/campus-employment/work-study-program" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-emploi-federal-pfete",
+    "category": "services",
+    "keywords": ["pfete", "fswep", "emploi fédéral étudiant", "federal student job", "fonction publique emploi étudiant", "government of canada student job", "emploi d'été gouvernement", "programme fédéral d'expérience de travail étudiant", "summer job government"],
+    "question": { "fr": "Comment obtenir un emploi étudiant au gouvernement fédéral ?", "en": "How do I get a student job with the federal government?" },
+    "answer": {
+      "fr": "Le Programme fédéral d'expérience de travail étudiant, le PFETE, est la base de données centrale des emplois étudiants dans la fonction publique fédérale. Il faut être étudiant à temps plein et retourner aux études à temps plein à la session suivante, sans expérience requise. Tu crées un profil avec ton CV, qui reste actif toute l'année, et les ministères y trouvent des candidats; tu peux travailler l'été, à temps partiel pendant l'année ou pendant un stage coop.",
+      "en": "The Federal Student Work Experience Program, FSWEP, is the central database for student jobs in the federal public service. You must be a full-time student returning to full-time studies the next term, with no experience required. You create a profile with your resume, which stays active all year, and departments find candidates there; you can work in the summer, part time during the year or during a co-op term."
+    },
+    "sources": [{ "label": "Federal Student Work Experience Program (FSWEP) — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/federal-student-work-experience-program" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-page-chambre-communes",
+    "category": "programmes",
+    "keywords": ["page chambre des communes", "house of commons page", "programme des pages", "page program", "travailler au parlement", "work on parliament hill", "colline du parlement", "page du sénat", "guide parlementaire"],
+    "question": { "fr": "C'est quoi, le Programme des pages de la Chambre des communes ?", "en": "What is the House of Commons Page Program?" },
+    "answer": {
+      "fr": "Chaque année, 40 étudiants de partout au Canada sont choisis pour servir les députés à la Chambre et sur la Colline du Parlement pendant leur première année d'études, et la plupart choisissent l'Université d'Ottawa. Il faut être bilingue et commencer des études postsecondaires dans un établissement de la région de la capitale nationale, et l'expérience rapporte plus de 20 000 $. Le Bureau de liaison, au pavillon Tabaret, peut te renseigner.",
+      "en": "Each year, 40 students from across Canada are selected to serve MPs in the Chamber and on Parliament Hill during their first year of studies, and most choose the University of Ottawa. You must be bilingual and start post-secondary studies at an institution in the National Capital Region, and the experience pays over $20,000. The Liaison Office, in Tabaret Hall, can give you more information."
+    },
+    "sources": [{ "label": "House of Commons Page Program — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/house-commons-page-program" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-apprentissage-experientiel",
+    "category": "programmes",
+    "keywords": ["apprentissage expérientiel", "experiential learning", "acquérir de l'expérience", "gain experience", "expérience pratique", "hands-on learning", "stages et projets", "uocompétences", "11 compétences"],
+    "question": { "fr": "Comment acquérir de l'expérience pratique pendant mes études ?", "en": "How can I gain hands-on experience during my studies?" },
+    "answer": {
+      "fr": "L'Université regroupe ses occasions en plusieurs catégories : l'apprentissage intégré au travail, comme le coop et le programme travail-études, l'apprentissage communautaire, comme le bénévolat crédité, l'apprentissage interdisciplinaire, l'apprentissage par projets et l'entrepreneuriat. Certaines sont intégrées à ton programme et créditées, d'autres se font dans tes temps libres, et elles t'aident à développer les 11 compétences recherchées par les employeurs. Les experts du Carrefour carrière peuvent t'aider à choisir.",
+      "en": "The University groups its opportunities into several categories: work-integrated learning, like co-op and the Work-Study Program, community-based learning, like credited volunteering, interdisciplinary learning, project-based learning and entrepreneurship. Some are built into your program and earn credit, others happen in your free time, and they help you build the 11 competencies employers look for. Career Corner experts can help you choose."
+    },
+    "sources": [
+      { "label": "Experiential learning opportunities — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/opportunities" },
+      { "label": "Experiential learning — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-apprentissage-communautaire-cel",
+    "category": "cours",
+    "keywords": ["apprentissage par l'engagement communautaire", "community engaged learning", "cel", "community service learning", "csl", "bénévolat crédité", "credited volunteering", "remplacer un travail par du bénévolat", "navigateur engagement communautaire"],
+    "question": { "fr": "Est-ce que je peux remplacer un travail de cours par du bénévolat ?", "en": "Can I replace a course assignment with volunteering?" },
+    "answer": {
+      "fr": "Oui, si ton cours offre l'option d'apprentissage par l'engagement communautaire, autrefois appelé apprentissage par le service communautaire. Dès le premier jour du cours, connecte-toi au Navigateur de l'engagement communautaire dans uoZone, choisis les placements CSL de ton cours, puis sélectionne-en un : c'est premier arrivé, premier servi. Tu contactes ensuite ton superviseur et tu inscris tes heures régulièrement dans ta feuille de temps.",
+      "en": "Yes, if your course offers the Community Engaged Learning option, formerly called Community Service Learning. From the first day of the course, log into the Community Engagement Navigator in uoZone, choose your course's CSL placements, then select one: it's first come, first served. You then contact your supervisor and enter your hours regularly in your timesheet."
+    },
+    "sources": [{ "label": "Community Engaged Learning (CEL) Program — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/volunteering/cel-program" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-benevolat-parascolaire",
+    "category": "services",
+    "keywords": ["bénévolat", "volunteering", "faire du bénévolat", "volunteer opportunities", "bénévolat parascolaire michaëlle jean", "extracurricular volunteering", "engagement communautaire", "community engagement", "s'inscrire bénévolat"],
+    "question": { "fr": "Comment je m'inscris pour faire du bénévolat ?", "en": "How do I sign up to volunteer?" },
+    "answer": {
+      "fr": "Le programme de bénévolat parascolaire Michaëlle-Jean offre des placements reconnus, sur le campus ou ailleurs, d'une journée à plusieurs mois. Connecte-toi au Navigateur de l'engagement communautaire dans uoZone, choisis Placements puis EV, et sélectionne un placement. Contacte ton superviseur dans les 48 heures, sinon tu risques de perdre ta place, et inscris tes heures après chaque quart, avant la fin de la session.",
+      "en": "The Michaëlle Jean Extracurricular Volunteering program offers recognized placements, on or off campus, lasting from one day to several months. Log into the Community Engagement Navigator in uoZone, choose Placements then EV, and select a placement. Contact your supervisor within 48 hours or you could lose your spot, and enter your hours after each shift, before the end of the term."
+    },
+    "sources": [{ "label": "How to sign up (volunteering) — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/volunteering/how-to-sign-up" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-dossier-cocurriculaire",
+    "category": "services",
+    "keywords": ["relevé cocurriculaire", "dossier cocurriculaire", "co-curricular record", "ccr", "preuve de bénévolat", "volunteer hours record", "attestation bénévolat", "heures de bénévolat officielles"],
+    "question": { "fr": "Comment obtenir une preuve officielle de mes heures de bénévolat ?", "en": "How do I get official proof of my volunteer hours?" },
+    "answer": {
+      "fr": "Demande ton relevé cocurriculaire, un document officiel de l'Université qui regroupe tes heures de bénévolat approuvées sur le campus et dans la communauté. Dans le Navigateur de l'engagement communautaire, choisis CCR puis Request Official CCR; quand tu reçois le courriel de confirmation, va le chercher au Carrefour carrière, local UCU 216. Seules les heures approuvées par ton superviseur y figurent, et tu peux aussi imprimer une version non officielle.",
+      "en": "Request your Co-Curricular Record, an official University document listing your approved volunteer hours on campus and in the community. In the Community Engagement Navigator, choose CCR then Request Official CCR; when you get the confirmation email, pick it up at the Career Corner, room UCU 216. Only hours approved by your supervisor appear on it, and you can also print an unofficial version."
+    },
+    "sources": [{ "label": "Get your Co-Curricular Record — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/volunteering/co-curricular-record" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-cours-autodiriges",
+    "category": "cours",
+    "keywords": ["cours autodirigé", "self-directed course", "slicc", "créer mon propre cours", "design my own course", "projet crédité", "credited project", "cours individuel", "3 crédits projet"],
+    "question": { "fr": "Est-ce que je peux concevoir mon propre cours et obtenir des crédits ?", "en": "Can I design my own course and earn credits?" },
+    "answer": {
+      "fr": "Oui, avec les cours autodirigés : seul ou en équipe, tu conçois un projet, comme de la recherche, un stage ou un projet communautaire, et tu peux obtenir jusqu'à 3 crédits. C'est ouvert aux étudiants du premier cycle qui ont au moins 45 crédits en Arts, en Sciences sociales, à Telfer ou au baccalauréat en sciences de la santé. Pour la session d'hiver 2027, les séances d'information ont lieu du 23 novembre au 8 décembre 2026, et la date limite est le 9 décembre 2026.",
+      "en": "Yes, with self-directed courses: alone or in a team, you design a project, such as research, an internship or a community project, and you can earn up to 3 units. It's open to undergraduate students with at least 45 units in Arts, Social Sciences, Telfer or the Bachelor of Health Sciences. For the Winter 2027 term, information sessions run from November 23 to December 8, 2026, and the deadline is December 9, 2026."
+    },
+    "sources": [{ "label": "Self-directed courses and group projects — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/self-directed-courses" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-defis-interdisciplinaires",
+    "category": "cours",
+    "keywords": ["défi interdisciplinaire", "interdisciplinary challenge", "sprint d'innovation telfer", "innovation sprint", "défi fss", "arts innovation lab", "cours intensif fin de semaine", "weekend course credits", "1,5 crédit"],
+    "question": { "fr": "C'est quoi, les défis interdisciplinaires ?", "en": "What are interdisciplinary challenges?" },
+    "answer": {
+      "fr": "Ce sont des cours intensifs et courts, valant 1,5 crédit, où des étudiants de différentes facultés travaillent avec des partenaires de la communauté ou de l'industrie sur un vrai problème. Par exemple, il y a un sprint d'innovation Telfer du 20 au 22 novembre 2026, un défi FSS sur l'intelligence artificielle du 29 au 31 janvier 2027 et un laboratoire d'innovation des Arts du 26 au 28 février 2027. Les places sont limitées, et l'inscription commence par un formulaire d'intérêt.",
+      "en": "They're short, intensive courses worth 1.5 units, where students from different faculties work with community or industry partners on a real problem. For example, there's a Telfer Innovation Sprint from November 20 to 22, 2026, an FSS challenge on artificial intelligence from January 29 to 31, 2027, and an Arts Innovation Lab from February 26 to 28, 2027. Spaces are limited, and registration starts with an expression of interest form."
+    },
+    "sources": [{ "label": "Interdisciplinary challenges — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/interdisciplinary-challenges" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-carrefour-entrepreneuriat",
+    "category": "services",
+    "keywords": ["entrepreneuriat", "entrepreneurship", "carrefour de l'entrepreneuriat", "entrepreneurship hub", "ehub", "lancer mon entreprise", "start a business", "startup étudiant", "complexe stim entrepreneuriat"],
+    "question": { "fr": "J'ai une idée d'entreprise : où trouver de l'aide sur le campus ?", "en": "I have a business idea: where can I get help on campus?" },
+    "answer": {
+      "fr": "Va voir le Carrefour de l'entrepreneuriat, le eHub, au Complexe STIM, salle 122, au 150, privé Louis-Pasteur. Il offre des ressources, des programmes, des événements et un réseau de mentors aux étudiants, aux chercheurs et aux diplômés, que tu veuilles lancer ton entreprise ou simplement développer tes compétences entrepreneuriales.",
+      "en": "Visit the Entrepreneurship Hub, the eHub, in the STEM Complex, room 122, at 150 Louis-Pasteur Private. It offers resources, programs, events and a network of mentors to students, researchers and alumni, whether you want to launch your business or simply build entrepreneurial skills."
+    },
+    "sources": [{ "label": "The Entrepreneurship Hub — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/entrepreneurship-hub" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-recherche-icure",
+    "category": "programmes",
+    "keywords": ["recherche premier cycle", "undergraduate research", "i-cure", "projet de recherche crédité", "research with a professor", "faire de la recherche avec un professeur", "urop", "research opportunity undergraduate", "expérience de recherche"],
+    "question": { "fr": "Est-ce que je peux faire de la recherche avec un professeur pendant mon baccalauréat ?", "en": "Can I do research with a professor during my bachelor's?" },
+    "answer": {
+      "fr": "Oui, notamment avec le programme I-CURE : pendant une session, tu mènes un projet de recherche supervisé par un professeur de l'Université et tu obtiens 3 crédits pour environ 135 heures de travail, avec un camp d'initiation à la recherche et un symposium. Il faut avoir réussi au moins 45 crédits, et tu paies les droits d'un cours de 3 crédits plus des frais de 175 $ et la TVH. Consulte la page du programme pour la prochaine date limite.",
+      "en": "Yes, notably through the I-CURE program: over one term, you carry out a research project supervised by a University professor and earn 3 units for about 135 hours of work, with a research bootcamp and a symposium. You must have completed at least 45 units, and you pay the tuition for a 3-unit course plus a $175 fee and HST. Check the program page for the next deadline."
+    },
+    "sources": [{ "label": "I-CURE — uOttawa", "url": "https://www.uottawa.ca/research-innovation/international-research-experiential-learning/student-funding-opportunities/individually-created-undergraduate-research-experience" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-recherche-brpc-usra",
+    "category": "programmes",
+    "keywords": ["brpc", "usra", "bourse de recherche premier cycle", "undergraduate student research award", "emploi de recherche été", "summer research job", "crsng été", "nserc summer", "assistant de recherche été", "research assistant summer"],
+    "question": { "fr": "Comment obtenir un emploi d'été en recherche au premier cycle ?", "en": "How can I get a summer research job as an undergraduate?" },
+    "answer": {
+      "fr": "Les bourses de recherche de premier cycle, ou BRPC, des organismes CRSNG, IRSC et CRSH financent un projet de 14 à 16 semaines avec un professeur. Pour l'été 2027, la bourse vaudra au moins 10 000 $, et l'appel principal s'ouvre en janvier 2027 pour des projets qui commencent au plus tôt le 1er mai 2027. Il faut être citoyen canadien, résident permanent ou personne protégée, au baccalauréat non professionnel, avec une moyenne pondérée cumulative d'au moins 7,5.",
+      "en": "Undergraduate Student Research Awards, or USRAs, from NSERC, CIHR and SSHRC fund a 14- to 16-week project with a professor. For summer 2027, the award will be worth at least $10,000, and the main call opens in January 2027 for projects starting no earlier than May 1, 2027. You must be a Canadian citizen, permanent resident or protected person, in a non-professional bachelor's program, with a cumulative grade point average of at least 7.5."
+    },
+    "sources": [{ "label": "Undergraduate Student Research Awards Program (USRA) — uOttawa", "url": "https://www.uottawa.ca/research-innovation/international-research-experiential-learning/undergraduate-student-research-awards-program-nsrec" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-recherche-mitacs-globalink",
+    "category": "international",
+    "keywords": ["mitacs", "globalink", "stage de recherche à l'étranger", "research internship abroad", "bourse recherche internationale", "globalink research award", "recherche à l'international", "research abroad funding"],
+    "question": { "fr": "Est-ce qu'il y a du financement pour faire un stage de recherche à l'étranger ?", "en": "Is there funding for a research internship abroad?" },
+    "answer": {
+      "fr": "Oui, entre autres la bourse de recherche Mitacs Globalink, gérée par le bureau IREX : les étudiants de troisième ou quatrième année du baccalauréat et des cycles supérieurs, à temps plein, peuvent faire un stage de recherche de 12 à 48 semaines à l'étranger, avec 6 000 $ par unité de stage. Le quota de 2026 est atteint pour le volet principal, et le prochain cycle de demandes est prévu à partir d'avril 2027.",
+      "en": "Yes, including the Mitacs Globalink Research Award, managed by the IREX office: full-time students in the third or fourth year of a bachelor's and graduate students can do a 12- to 48-week research internship abroad, with $6,000 per internship unit. The 2026 quota is filled for the main stream, and the next application cycle is expected starting in April 2027."
+    },
+    "sources": [{ "label": "Mitacs Globalink Programs — uOttawa", "url": "https://www.uottawa.ca/research-innovation/international-research-experiential-learning/mitacs-globalink-programs" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-ilob-presentation",
+    "category": "services",
+    "keywords": ["ilob", "olbi", "institut des langues officielles et du bilinguisme", "official languages and bilingualism institute", "apprendre le français", "learn french", "apprendre l'anglais", "learn english", "pavillon hamelin", "cours de langue seconde"],
+    "question": { "fr": "C'est quoi, l'Institut des langues officielles et du bilinguisme ?", "en": "What is the Official Languages and Bilingualism Institute?" },
+    "answer": {
+      "fr": "L'ILOB offre des cours crédités de français langue seconde, FLS, et d'anglais langue seconde, ESL, du niveau débutant à avancé, ouverts aux étudiants de toutes les facultés, ainsi que des tests de langue, des mineures et des majeures. Il se trouve au 70, avenue Laurier Est, salle 130, et tu peux le joindre au 613-562-5743.",
+      "en": "OLBI offers credit courses in French as a second language, FLS, and English as a second language, ESL, from beginner to advanced levels, open to students in all faculties, as well as language tests, minors and majors. It's located at 70 Laurier Avenue East, room 130, and you can reach it at 613-562-5743."
+    },
+    "sources": [
+      { "label": "Second language courses — uOttawa", "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/second-language-courses" },
+      { "label": "Language assessment — uOttawa", "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/language-assessment" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-test-classement-langue",
+    "category": "cours",
+    "keywords": ["test de classement", "placement test", "test de classement fls", "esl placement test", "xpresslab", "test de français langue seconde", "niveau de langue", "language level test", "estore test"],
+    "question": { "fr": "Comment passer le test de classement pour un cours FLS ou ESL ?", "en": "How do I take the placement test for an FLS or ESL course?" },
+    "answer": {
+      "fr": "Connecte-toi au portail de tests XpressLab, demande l'accès au test FLS ou ESL, puis paie les frais non remboursables sur la boutique en ligne de l'Université. L'accès arrive dans un à trois jours ouvrables; prévois environ deux heures, et tu vois tout de suite la liste des cours auxquels tu peux t'inscrire. Le résultat est valide un an, et certains étudiants inscrits en anglais peuvent être exemptés du test ESL pour les cours avancés.",
+      "en": "Log into the XpressLab testing portal, request access to the FLS or ESL test, then pay the non-refundable fee on the University's eStore. Access is granted within one to three business days; allow about two hours, and you immediately see the list of courses you can enrol in. The result is valid for one year, and some students in English programs can be exempted from the ESL test for advanced courses."
+    },
+    "sources": [{ "label": "Placement test for ESL and FLS courses — uOttawa", "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/language-assessment/placement-test-esl-fls-courses" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-certification-langue-seconde",
+    "category": "cours",
+    "keywords": ["certificat de compétence langue seconde", "second language certification", "fls 3500", "esl 3100", "test de certification", "certificate of proficiency in french", "certificate of proficiency in english", "attestation bilinguisme", "prouver mon bilinguisme"],
+    "question": { "fr": "Comment obtenir une certification de ma compétence en français ou en anglais langue seconde ?", "en": "How do I get my second-language proficiency in French or English certified?" },
+    "answer": {
+      "fr": "L'ILOB offre un certificat de compétence en langue seconde : tu t'inscris à FLS 3500 pour le français ou à ESL 3100 pour l'anglais avec l'application d'inscription de uoZone. C'est conçu pour un niveau intermédiaire avancé à avancé, et la plupart des étudiants de premier cycle à temps plein n'ont pas de frais supplémentaires. Le test n'est offert que deux fois par année; pour l'hiver 2027, les séances ont lieu en mars, et tu peux te réinscrire jusqu'à quatre fois.",
+      "en": "OLBI offers a certificate of second language proficiency: you enrol in FLS 3500 for French or ESL 3100 for English using the Enrol application in uoZone. It's designed for a high-intermediate to advanced level, and most full-time undergraduates pay no extra fees. The test is only offered twice a year; for Winter 2027, sessions take place in March, and you can re-register up to four times."
+    },
+    "sources": [{ "label": "Second Language Certification Test — uOttawa", "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/language-assessment/second-language-certification-test" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-immersion-exigences-diplome",
+    "category": "programmes",
+    "keywords": ["mention immersion diplôme", "french immersion designation", "exigences immersion", "immersion requirements", "14 cours en français", "combien de cours en français immersion", "fls 3500 immersion", "diplôme immersion française"],
+    "question": { "fr": "Que faut-il pour obtenir la mention « immersion française » sur mon diplôme ?", "en": "What do I need to get the French Immersion designation on my diploma?" },
+    "answer": {
+      "fr": "Tu dois réussir au moins 14 cours, soit 42 crédits, donnés en français, dont au moins deux cours de niveau 1000 et deux de niveau 3000 ou 4000 autres que FLS, et au plus quatre cours d'accompagnement linguistique. Tu dois aussi réussir FLS 3500, le test de certification en langue seconde, idéalement en troisième année. En sciences infirmières, il faut 12 cours en français.",
+      "en": "You must pass at least 14 courses, or 42 units, taught in French, including at least two 1000-level and two 3000- or 4000-level courses other than FLS, and no more than four accompanying language courses. You must also pass FLS 3500, the second language certification test, ideally in third year. In Nursing, 12 courses in French are required."
+    },
+    "sources": [{ "label": "Diploma requirements (French Immersion) — uOttawa", "url": "https://www.uottawa.ca/study/immersion/french/about/diploma-requirements" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-immersion-test-entree",
+    "category": "admissions",
+    "keywords": ["test d'entrée immersion", "immersion entry test", "admission immersion française", "delf b2 immersion", "tef tcf immersion", "prouver mon français", "french immersion admission", "test immersion en ligne"],
+    "question": { "fr": "Comment prouver mon niveau de français pour entrer en immersion ?", "en": "How do I prove my French level to get into French Immersion?" },
+    "answer": {
+      "fr": "Après avoir reçu une offre d'admission avec l'option immersion, tu passes le test d'entrée en immersion, une évaluation en ligne des quatre habiletés qui peut durer jusqu'à deux heures et demie, payable sur la boutique en ligne de l'Université. Tu peux aussi en être exempté avec un DELF B2, ou un TEF ou un TCF de niveau B2, soit plus de 400 points. Le résultat n'affecte pas ton admission à l'Université, seulement ton accès à l'immersion.",
+      "en": "After receiving an offer of admission with the immersion option, you take the Immersion Entry Test, an online assessment of the four skills that can take up to two and a half hours, paid through the University's eStore. You can also be exempted with a DELF B2, or a TEF or TCF at level B2, meaning over 400 points. The result doesn't affect your admission to the University, only your entry into immersion."
+    },
+    "sources": [{ "label": "Become a French Immersion student — uOttawa", "url": "https://www.uottawa.ca/study/immersion/french/become-french-immersion-student" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-immersion-ajouter",
+    "category": "admissions",
+    "keywords": ["ajouter l'immersion", "add french immersion", "rejoindre l'immersion", "join immersion later", "immersion déjà étudiant", "retirer l'immersion", "remove immersion", "transfert immersion"],
+    "question": { "fr": "Je suis déjà étudiant à l'Université : est-ce que je peux ajouter l'immersion française ?", "en": "I'm already a uOttawa student: can I add French Immersion?" },
+    "answer": {
+      "fr": "Oui, tu peux t'inscrire au Régime d'immersion en français en cours de route et obtenir la mention sur ton diplôme, si tu respectes les critères d'admissibilité. Les cours universitaires que tu as déjà suivis en français peuvent compter pour les exigences. Pour ajouter ou retirer l'immersion, écris directement au bureau de l'immersion plutôt que de passer par la demande de changement de programme.",
+      "en": "Yes, you can join the French Immersion Stream partway through and get the designation on your diploma, as long as you meet the eligibility criteria. University courses you've already taken in French may count towards the requirements. To add or remove immersion, email the immersion office directly instead of using the program change request."
+    },
+    "sources": [
+      { "label": "Become a French Immersion student — uOttawa", "url": "https://www.uottawa.ca/study/immersion/french/become-french-immersion-student" },
+      { "label": "Make changes to your undergraduate program — uOttawa", "url": "https://www.uottawa.ca/study/make-changes-undergraduate-program" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-immersion-notes-qualitatives",
+    "category": "cours",
+    "keywords": ["note qualitative immersion", "satisfaisant non satisfaisant", "pass fail immersion", "qualitative grade", "protéger ma moyenne immersion", "s/ns", "cours en français sans note", "immersion gpa"],
+    "question": { "fr": "En immersion, est-ce que mes cours en français peuvent ne pas compter dans ma moyenne ?", "en": "In immersion, can my French courses not count in my average?" },
+    "answer": {
+      "fr": "Oui, tu peux choisir une note qualitative, « satisfaisant » ou « non satisfaisant », pour un maximum de huit cours donnés en français pendant tes deux premières années, ce qui protège ta moyenne. Ce n'est pas possible aux facultés des sciences et de génie. Tu fais ta demande en ligne ou par formulaire avant la date limite du calendrier universitaire, et ensuite tu ne vois plus ta note en lettres.",
+      "en": "Yes, you can choose a qualitative grade, satisfactory or not satisfactory, for up to eight courses taught in French during your first two years, which protects your average. This isn't available in the faculties of Science and Engineering. You apply online or with a form before the deadline in the academic calendar, and afterwards you no longer see your letter grade."
+    },
+    "sources": [{ "label": "Frequently asked questions (French Immersion) — uOttawa", "url": "https://www.uottawa.ca/study/immersion/french/about/faq" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-immersion-cours-accompagnement",
+    "category": "cours",
+    "keywords": ["cours d'accompagnement", "fls 2581", "fls 3581", "cours d'immersion", "immersion course", "adjunct language course", "aide cours en français", "comprendre mes cours en français"],
+    "question": { "fr": "C'est quoi, les cours d'immersion FLS 2581 et FLS 3581 ?", "en": "What are the FLS 2581 and FLS 3581 immersion courses?" },
+    "answer": {
+      "fr": "Ce sont des cours de langue qui accompagnent un cours de contenu donné en français, comme en psychologie ou en économie : un professeur de français langue seconde assiste au cours avec toi, puis donne une séance de 90 minutes pour revoir la matière. Même s'ils ne durent qu'une heure et demie par semaine, ils valent 3 crédits, et les groupes comptent moins de 25 étudiants. Ils sont facultatifs, mais fortement recommandés en première et deuxième année.",
+      "en": "They're language courses that accompany a content course taught in French, such as psychology or economics: a French as a second language professor attends the course with you, then gives a 90-minute session to review the material. Even though they're only an hour and a half a week, they're worth 3 units, and groups have fewer than 25 students. They're optional but strongly recommended in first and second year."
+    },
+    "sources": [
+      { "label": "Courses (French Immersion) — uOttawa", "url": "https://www.uottawa.ca/study/immersion/french/courses" },
+      { "label": "Frequently asked questions (French Immersion) — uOttawa", "url": "https://www.uottawa.ca/study/immersion/french/about/faq" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-immersion-mentorat",
+    "category": "services",
+    "keywords": ["mentors immersion", "immersion mentoring centre", "centre de mentorat immersion", "aide immersion première année", "atelier prise de notes", "note-taking workshop", "lecture efficace", "transition université immersion"],
+    "question": { "fr": "Où trouver de l'aide quand je suis en immersion française ?", "en": "Where can I get help as a French Immersion student?" },
+    "answer": {
+      "fr": "Commence par le Centre de mentorat en immersion : les mentors sont des étudiants d'immersion des années supérieures qui t'aident dans ta transition et te dirigent vers les bonnes ressources. Ils animent aussi des ateliers, « Prise de notes » et « Lecture efficace », plusieurs fois par année. Pour écrire en français, tu peux aussi consulter le Centre d'aide à la rédaction des travaux universitaires.",
+      "en": "Start with the Immersion Mentoring Centre: mentors are upper-year immersion students who help you with your transition and point you to the right resources. They also run workshops, Prise de notes and Lecture efficace, on note-taking and efficient reading, several times a year. For writing in French, you can also turn to the Academic Writing Help Centre."
+    },
+    "sources": [
+      { "label": "Immersion Mentoring Centre — uOttawa", "url": "https://www.uottawa.ca/study/immersion/french/mentoring-centre" },
+      { "label": "Support and resources (French Immersion) — uOttawa", "url": "https://www.uottawa.ca/study/immersion/french/support-resources" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-mineure-langue-seconde",
+    "category": "programmes",
+    "keywords": ["mineure français langue seconde", "minor in french", "majeure fls", "minor english language studies", "mineure anglais", "microprogramme fls", "microprogramme esl", "4 cours de langue", "french second language minor"],
+    "question": { "fr": "Est-ce que je peux faire une mineure ou un microprogramme en français ou en anglais langue seconde ?", "en": "Can I do a minor or microprogram in French or English as a second language?" },
+    "answer": {
+      "fr": "Oui. Si tu as un niveau intermédiaire ou avancé, tu peux ajouter une mineure, une mineure approfondie ou une majeure en français langue seconde, réservées aux non-francophones, ou en études de la langue anglaise. Peu importe ton niveau, tu peux aussi faire un microprogramme en suivant quatre cours FLS ou ESL de ton choix, qui comptent comme cours au choix et s'ajoutent avec l'outil en ligne.",
+      "en": "Yes. If you're at an intermediate or advanced level, you can add a minor, advanced minor or major in French as a second language, reserved for non-francophones, or in English Language Studies. Whatever your level, you can also complete a microprogram by taking four FLS or ESL courses of your choice, which count as electives and are added with the online tool."
+    },
+    "sources": [
+      { "label": "Undergraduate programs (OLBI) — uOttawa", "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/undergraduate-programs" },
+      { "label": "French as a second language (FLS) — uOttawa", "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/undergraduate-programs/french-second-language-fls" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-ateliers-conversation",
+    "category": "services",
+    "keywords": ["atelier de conversation", "conversation workshop", "partenaire de conversation", "conversation partner", "pratiquer mon français", "practice my english", "centre de ressources julien-couture", "julien couture resource centre", "antidote"],
+    "question": { "fr": "Où est-ce que je peux pratiquer mon français ou mon anglais à l'oral ?", "en": "Where can I practise speaking French or English?" },
+    "answer": {
+      "fr": "Au Centre de ressources Julien-Couture, au pavillon Hamelin, salle 02 : tu peux participer à des ateliers de conversation avec jusqu'à cinq personnes ou à des rencontres individuelles avec un partenaire de conversation, animés par des étudiants. Le centre offre aussi des salles d'étude, des ordinateurs avec Antidote et une collection de ressources pour apprendre l'anglais et le français.",
+      "en": "At the Julien Couture Resource Centre, in Hamelin Hall, room 02: you can join conversation workshops with up to five people or one-on-one sessions with a conversation partner, led by students. The centre also offers study rooms, computers with Antidote and a collection of resources for learning English and French."
+    },
+    "sources": [{ "label": "Julien Couture Resource Centre (JCRC) — uOttawa", "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/julien-couture-resource-centre" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-passeport-risque-linguistique",
+    "category": "services",
+    "keywords": ["passeport de prise de risques linguistiques", "linguistic risk-taking passport", "application risque linguistique", "oser parler français", "speak english confidence", "bilinguisme campus", "défis linguistiques", "language challenge app"],
+    "question": { "fr": "C'est quoi, le Passeport de prise de risques linguistiques ?", "en": "What is the Linguistic Risk-Taking Passport?" },
+    "answer": {
+      "fr": "C'est un outil de l'ILOB, en version papier ou en application, qui t'encourage à utiliser ta langue seconde dans ton quotidien sur le campus, par exemple en commandant ton café en français ou en anglais. Le passeport papier est remis dans certains cours FLS et ESL, et tu peux aussi le prendre au Centre de ressources Julien-Couture, au pavillon Hamelin. Si tu n'es pas inscrit à un cours de langue, tu peux demander l'accès à l'application par courriel à l'ILOB.",
+      "en": "It's an OLBI tool, in paper or app form, that encourages you to use your second language in your daily life on campus, for example by ordering your coffee in French or English. The paper passport is handed out in some FLS and ESL courses, and you can also pick one up at the Julien Couture Resource Centre in Hamelin Hall. If you're not in a language course, you can request access to the app by emailing OLBI."
+    },
+    "sources": [{ "label": "Linguistic Risk-Taking Initiative — uOttawa", "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/ccerbal/research-groups/linguistic-risk" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-immersion-anglaise",
+    "category": "cours",
+    "keywords": ["immersion anglaise", "english immersion", "cours en anglais avec soutien", "améliorer mon anglais", "improve my english", "francophone cours en anglais", "english language support", "soutien linguistique anglais"],
+    "question": { "fr": "Je suis francophone : est-ce qu'il existe une immersion en anglais ?", "en": "I'm a francophone: is there an English immersion option?" },
+    "answer": {
+      "fr": "Oui ! Les cours d'immersion anglaise te permettent de suivre des cours de ton programme donnés en anglais, avec un soutien linguistique propre à chaque cours, sans frais supplémentaires. Si aucun cours d'immersion ne t'intéresse, tu peux aussi suivre des cours réguliers d'études de la langue anglaise. Et rappelle-toi que tu peux remettre tes travaux et examens en français dans presque tous les cours.",
+      "en": "Yes! English immersion courses let you take courses in your program taught in English, with course-specific language support, at no extra cost. If none of the immersion courses interest you, you can also take regular English Language Studies courses. And remember that you can write your assignments and exams in French in almost every course."
+    },
+    "sources": [{ "label": "English Immersion — uOttawa", "url": "https://www.uottawa.ca/study/immersion/english" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-centre-apprentissage-langues",
+    "category": "international",
+    "keywords": ["centre d'apprentissage des langues", "centre for language learning", "cours d'anglais été", "english summer program", "uottawa english experience", "programme d'anglais court", "short english course", "apprendre l'anglais à ottawa", "languages canada"],
+    "question": { "fr": "Est-ce qu'il y a un programme d'anglais court pour les visiteurs ?", "en": "Is there a short English program for visitors?" },
+    "answer": {
+      "fr": "Oui, le Centre d'apprentissage des langues de l'ILOB offre le programme uOttawa English Experience : trois semaines l'été ou cinq semaines l'hiver, axées sur l'anglais de tous les jours et les échanges culturels, avec un certificat de participation de l'Université. Le Centre, accrédité par Langues Canada, offre aussi le Programme intensif d'anglais. Il est situé au 70, avenue Laurier Est, salle 101.",
+      "en": "Yes, OLBI's Centre for Language Learning offers the uOttawa English Experience Program: three weeks in summer or five weeks in winter, focused on everyday English and cultural exchange, with a University certificate of completion. The Centre, accredited by Languages Canada, also offers the English Intensive Program. It's located at 70 Laurier Avenue East, room 101."
+    },
+    "sources": [
+      { "label": "uOttawa English Experience Program — uOttawa", "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/english-experience" },
+      { "label": "Centre for Language Learning (CLL) — uOttawa", "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-etudiant-non-candidat",
+    "category": "admissions",
+    "keywords": ["étudiant spécial", "étudiant non candidat au grade", "non-degree student", "special student", "cours pour intérêt personnel", "personal interest course", "suivre un cours sans être admis", "take a course without a degree", "cours à temps partiel"],
+    "question": { "fr": "Est-ce que je peux suivre des cours sans être inscrit à un programme ?", "en": "Can I take courses without being enrolled in a program?" },
+    "answer": {
+      "fr": "Oui, comme étudiant non candidat à un grade, ou étudiant spécial, sans faire de demande d'admission. Il faut par exemple un diplôme d'études secondaires de l'Ontario avec une moyenne de 70 % ou être admissible comme étudiant adulte, sauf dans la catégorie intérêt personnel, qui permet jusqu'à deux cours par session et 30 crédits au total. Si c'est ta première fois, remplis d'abord le formulaire d'identification; pour l'hiver 2027, l'inscription s'ouvre le mardi 8 décembre 2026.",
+      "en": "Yes, as a non-degree student, or special student, without applying for admission. You need, for example, an Ontario Secondary School Diploma with a 70% average or to qualify as a mature student, except in the personal interest category, which allows up to two courses per term and 30 units in total. If it's your first time, fill out the identification form first; for Winter 2027, enrolment opens on Tuesday, December 8, 2026."
+    },
+    "sources": [{ "label": "Course enrolment for non-degree students — uOttawa", "url": "https://www.uottawa.ca/study/course-enrolment/non-degree-students" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-perfectionnement-professionnel",
+    "category": "programmes",
+    "keywords": ["perfectionnement professionnel", "professional development", "formation continue", "continuing education", "institut de perfectionnement professionnel", "professional development institute", "pdi", "cours pour professionnels", "formation fonction publique"],
+    "question": { "fr": "L'Université offre-t-elle de la formation continue pour les professionnels ?", "en": "Does the University offer continuing education for professionals?" },
+    "answer": {
+      "fr": "Oui, l'Institut de perfectionnement professionnel de l'Université offre depuis plus de 40 ans des cours, des programmes et des événements pour les professionnels du secteur public et privé. On y trouve notamment la sécurité de l'information, la gestion de projet, la rédaction, le leadership et l'amélioration des processus d'affaires. Pour les diplômés, il existe aussi des microprogrammes et des diplômes d'études supérieures, dont plusieurs en ligne.",
+      "en": "Yes, the University's Professional Development Institute has offered courses, programs and events for public and private sector professionals for over 40 years. Topics include information security, project management, writing, leadership and business process improvement. For graduates, there are also microprograms and graduate diplomas, many of them online."
+    },
+    "sources": [
+      { "label": "University of Ottawa Professional Development Institute — uOttawa", "url": "https://pdinstitute.uottawa.ca/PDI/" },
+      { "label": "Online courses and programs — uOttawa", "url": "https://www.uottawa.ca/study/online-courses-programs" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-programmes-en-ligne",
+    "category": "programmes",
+    "keywords": ["programme en ligne", "online program", "étudier à distance", "study online", "diplôme en ligne", "online degree", "baccalauréat en ligne", "maîtrise en ligne", "online master's", "temps partiel en ligne"],
+    "question": { "fr": "Est-ce que je peux faire un programme complet en ligne ?", "en": "Can I complete a whole program online?" },
+    "answer": {
+      "fr": "Oui, certains programmes sont offerts en ligne, par exemple le baccalauréat accéléré en études interdisciplinaires, la mineure en droit, le diplôme d'études supérieures en gestion de l'ingénierie, à temps partiel, et des maîtrises comme celle en transformation numérique et innovation. Plusieurs microprogrammes de Telfer sont aussi offerts en ligne, en français seulement. La liste complète est sur la page des cours et programmes en ligne.",
+      "en": "Yes, some programs are offered online, for example the accelerated BA in Interdisciplinary Studies, the Minor in Law, the part-time Graduate Diploma in Engineering Management, and master's programs such as Digital Transformation and Innovation. Several Telfer microprograms are also offered online, in French only. The full list is on the online courses and programs page."
+    },
+    "sources": [{ "label": "Online courses and programs — uOttawa", "url": "https://www.uottawa.ca/study/online-courses-programs" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-ajouter-mineure",
+    "category": "programmes",
+    "keywords": ["ajouter une mineure", "add a minor", "changer de programme", "change my program", "changement de programme", "program change request", "changer de spécialisation", "mineure", "minor", "demande changement programme hiver"],
+    "question": { "fr": "Comment ajouter une mineure ou changer de programme ?", "en": "How do I add a minor or change programs?" },
+    "answer": {
+      "fr": "Tu fais une demande de changement de programme en ligne dans uoZone, si ton baccalauréat est offert par une faculté à admission directe : Arts, Sciences, Sciences sociales, Génie, Sciences de la santé ou Telfer. Pour la session d'hiver 2027, la période de demande va du 1er octobre au 30 novembre 2026; celle de l'automne 2026 est fermée. Le coop et l'immersion française, eux, s'ajoutent par d'autres démarches.",
+      "en": "You submit an online program change request in uoZone, if your bachelor's is offered by a direct-entry faculty: Arts, Science, Social Sciences, Engineering, Health Sciences or Telfer. For the Winter 2027 term, the request period runs from October 1 to November 30, 2026; the Fall 2026 period is closed. Co-op and French Immersion are added through other processes."
+    },
+    "sources": [{ "label": "Make changes to your undergraduate program — uOttawa", "url": "https://www.uottawa.ca/study/make-changes-undergraduate-program" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-doubles-diplomes-acceleres",
+    "category": "programmes",
+    "keywords": ["double diplôme accéléré", "dual fast-track degree", "deux diplômes", "two degrees", "baccalauréat et jd", "bachelor and juris doctor", "musique et sciences", "programme intégré", "finir plus vite"],
+    "question": { "fr": "Est-ce que je peux obtenir deux diplômes plus rapidement ?", "en": "Can I earn two degrees faster?" },
+    "answer": {
+      "fr": "Oui, avec les doubles diplômes accélérés : tu fais une seule demande d'admission pour deux diplômes et tu économises une ou deux sessions, puisque les cours qui se chevauchent sont retirés. Par exemple, musique et sciences se font en cinq ans plutôt que six, et science politique ou commerce avec le Juris Doctor en six ans plutôt que sept. Ces parcours sont prestigieux et compétitifs.",
+      "en": "Yes, with dual fast-track degrees: you apply once for two degrees and save one or two terms, since overlapping courses are removed. For example, music and science take five years instead of six, and political science or commerce with the Juris Doctor take six years instead of seven. These paths are prestigious and competitive."
+    },
+    "sources": [{ "label": "Dual fast-track degrees — uOttawa", "url": "https://www.uottawa.ca/study/dual-fast-track-degrees" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-autochtone-places-reservees",
+    "category": "admissions",
+    "keywords": ["admission autochtone", "indigenous admission", "places réservées autochtones", "reserved seats indigenous", "premières nations", "first nations", "inuit", "métis", "preuve d'identité autochtone", "indigenous identity documents"],
+    "question": { "fr": "Y a-t-il des places réservées aux étudiants autochtones ?", "en": "Are there reserved seats for Indigenous students?" },
+    "answer": {
+      "fr": "Oui, l'Université réserve des places aux candidats des Premières Nations, inuits et métis en common law, en droit civil, en médecine, en sciences infirmières et en formation à l'enseignement. Il faut satisfaire aux exigences du programme, suivre le processus d'admission habituel et fournir une preuve d'identité autochtone, comme une carte de statut ou de citoyenneté, ou une déclaration détaillée sur tes liens avec ta communauté. Le Centre de ressources autochtones peut t'accompagner.",
+      "en": "Yes, the University reserves seats for First Nations, Inuit and Métis applicants in Common Law, Civil Law, Medicine, Nursing and Teacher Education. You must meet the program's requirements, follow the regular admission process and provide proof of Indigenous identity, such as a status or citizenship card, or a detailed statement about your ties to your community. The Indigenous Resource Centre can support you."
+    },
+    "sources": [{ "label": "Admission (Indigenous) — uOttawa", "url": "https://www.uottawa.ca/about-us/indigenous/admission" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-autochtone-bourses",
+    "category": "services",
+    "keywords": ["bourse autochtone", "indigenous scholarship", "indigenous bursary", "bourse leadership autochtone", "indigenous leadership scholarship", "aide financière autochtone", "bourse métis", "première nation bourse", "financial aid indigenous"],
+    "question": { "fr": "Quelles bourses existent pour les étudiants autochtones ?", "en": "What scholarships are available for Indigenous students?" },
+    "answer": {
+      "fr": "L'Université offre notamment la Bourse de leadership autochtone, la Bourse pour étudiants autochtones, une bourse d'études pour étudiants autochtones et une bourse de la Nation métisse de l'Ontario, en plus de bourses en médecine et en éducation. Il faut fournir les documents prévus par le règlement sur l'admissibilité des Premières Nations, Inuits et Métis. L'équipe du Centre de ressources autochtones peut aussi t'aider à trouver des bourses externes.",
+      "en": "The University offers, among others, the Indigenous Leadership Scholarship, the Indigenous Student Bursary, an Education Bursary for Indigenous Students and a Métis Nation of Ontario bursary, as well as awards in Medicine and Education. You must provide the documents required by the regulation on First Nations, Inuit and Métis eligibility. The Indigenous Resource Centre team can also help you find external scholarships."
+    },
+    "sources": [{ "label": "Financial aid (Indigenous) — uOttawa", "url": "https://www.uottawa.ca/about-us/indigenous/financial-aid" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "h-autochtone-programmes",
+    "category": "programmes",
+    "keywords": ["études autochtones", "indigenous studies", "institut de recherche et d'études autochtones", "institute of indigenous research and studies", "programme autochtone médecine", "indigenous program medicine", "programme pour étudiants autochtones", "programmes autochtones"],
+    "question": { "fr": "Quels programmes sont offerts en études autochtones ?", "en": "What programs are offered in Indigenous studies?" },
+    "answer": {
+      "fr": "L'Institut de recherche et d'études autochtones, anciennement l'Institut d'études canadiennes et autochtones, offre le programme d'études autochtones. La Faculté de médecine a aussi, depuis 2005, un Programme autochtone qui recrute et soutient les étudiants autochtones tout au long de leur formation médicale.",
+      "en": "The Institute of Indigenous Research and Studies, formerly the Institute of Canadian and Aboriginal Studies, offers the Indigenous Studies program. Since 2005, the Faculty of Medicine has also had an Indigenous Program that recruits and supports Indigenous students throughout their medical education."
+    },
+    "sources": [{ "label": "Programs (Indigenous) — uOttawa", "url": "https://www.uottawa.ca/about-us/indigenous/programs" }],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  }
+]

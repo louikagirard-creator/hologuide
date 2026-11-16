@@ -1,0 +1,2222 @@
+[
+ {
+  "id": "i-crx-etages",
+  "category": "batiments",
+  "keywords": [
+   "crx etages",
+   "quoi dans crx",
+   "what is in crx",
+   "crx floors",
+   "etage crx",
+   "carrefour apprentissage",
+   "learning crossroads floors",
+   "plan crx",
+   "crx directory",
+   "ou aller dans crx",
+   "crx niveau"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve à chaque étage du CRX ?",
+   "en": "What's on each floor of CRX?"
+  },
+  "answer": {
+   "fr": "Au niveau 0, il y a des salles de classe et un salon ; au niveau 1, une salle de classe, un salon et un Tim Hortons. Le 2e étage regroupe des salles de classe, le Tinkering Lab et les studios de balado et de réalité virtuelle, les 3e et 4e étages ont des classes, des bureaux et des salles de réunion. Le 5e étage est un espace de la bibliothèque avec des salles d'étude et une salle de lecture, et le 6e étage accueille l'espace INNOVA.",
+   "en": "Level 0 has classrooms and a lounge; level 1 has a classroom, a lounge and a Tim Hortons. The 2nd floor has classrooms, the Tinkering Lab and the podcast and virtual reality studios, while the 3rd and 4th floors have classrooms, offices and meeting rooms. The 5th floor is a library space with study rooms and a reading room, and the 6th floor is home to the INNOVA Space."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-innova",
+  "category": "batiments",
+  "keywords": [
+   "innova",
+   "espace innova",
+   "innova space",
+   "c'est quoi innova",
+   "what is innova",
+   "6e etage crx",
+   "6th floor crx",
+   "technopedagogie",
+   "education francophone",
+   "ou suis-je",
+   "where am i",
+   "innova uottawa"
+  ],
+  "question": {
+   "fr": "C'est quoi, INNOVA ?",
+   "en": "What is INNOVA?"
+  },
+  "answer": {
+   "fr": "Tu es à INNOVA, l'espace qui occupe le 6e étage du pavillon Learning Crossroads (CRX). C'est un lieu de formation, de recherche et d'expérimentation en technopédagogie, financé par Patrimoine canadien et l'Université d'Ottawa, pour appuyer la communauté éducative francophone du Canada, de la petite enfance jusqu'aux études supérieures. Il a été inauguré en septembre 2024 comme le premier espace d'innovation éducative au Canada consacré à l'éducation en français en milieu minoritaire.",
+   "en": "You're at INNOVA, the space on the 6th floor of the Learning Crossroads (CRX) building. It's a place for training, research and experimentation in educational technology, funded by Canadian Heritage and the University of Ottawa, to support Canada's French-language education community from early childhood to higher education. It opened in September 2024 as Canada's first educational innovation space dedicated to French-language education in a minority setting."
+  },
+  "sources": [
+   {
+    "label": "INNOVA inauguration — uOttawa",
+    "url": "https://www.uottawa.ca/en/events-all/innova-inauguration"
+   },
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-innova-toilettes",
+  "category": "batiments",
+  "keywords": [
+   "toilettes",
+   "toilette la plus proche",
+   "nearest washroom",
+   "washroom",
+   "bathroom",
+   "restroom",
+   "salle de bain",
+   "toilettes innova",
+   "toilettes 6e etage",
+   "toilettes crx",
+   "where are the washrooms",
+   "ou sont les toilettes"
+  ],
+  "question": {
+   "fr": "Où sont les toilettes les plus proches ?",
+   "en": "Where's the nearest washroom?"
+  },
+  "answer": {
+   "fr": "Ici, au 6e étage du CRX où se trouve INNOVA, il y a des toilettes à plusieurs cabines accessibles : les locaux C604, C605, C649 et C650. Si tu préfères une toilette individuelle non genrée et accessible, la plus proche est un étage plus bas, au local C547.",
+   "en": "Right here on the 6th floor of CRX, where INNOVA is, there are accessible multi-stall washrooms: rooms C604, C605, C649 and C650. If you'd rather use a non-gendered, accessible single washroom, the closest one is one floor down, in room C547."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Non-gendered single washrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/available-washrooms"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-toilettes-accessibles",
+  "category": "batiments",
+  "keywords": [
+   "toilettes accessibles crx",
+   "accessible washroom crx",
+   "toilette fauteuil roulant",
+   "wheelchair washroom",
+   "toilettes crx",
+   "crx washrooms",
+   "toilettes chaque etage",
+   "washroom every floor",
+   "toilette accessible",
+   "accessible bathroom"
+  ],
+  "question": {
+   "fr": "Y a-t-il des toilettes accessibles dans le CRX ?",
+   "en": "Are there accessible washrooms in CRX?"
+  },
+  "answer": {
+   "fr": "Oui, chaque étage du CRX, du niveau 0 au 6e, a des toilettes à plusieurs cabines accessibles. Par exemple, au niveau 1, ce sont les locaux 126 et 127, et il y a aussi une toilette individuelle accessible au local 110J. Les 2e, 4e et 5e étages ont aussi une toilette individuelle accessible.",
+   "en": "Yes, every floor of CRX, from level 0 to the 6th floor, has accessible multi-stall washrooms. For example, on level 1 they're rooms 126 and 127, and there's also an accessible single washroom in room 110J. The 2nd, 4th and 5th floors also have an accessible single washroom."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-toilettes-non-genrees-crx",
+  "category": "batiments",
+  "keywords": [
+   "toilettes non genrees",
+   "gender neutral washroom",
+   "all gender washroom",
+   "toilette inclusive",
+   "gender inclusive washroom",
+   "toilettes mixtes",
+   "non-gendered washroom",
+   "toilette individuelle",
+   "single washroom",
+   "toilettes non genrees crx",
+   "lmx toilettes"
+  ],
+  "question": {
+   "fr": "Où sont les toilettes non genrées près d'ici ?",
+   "en": "Where are the gender-neutral washrooms near here?"
+  },
+  "answer": {
+   "fr": "Dans le complexe CRX–Lamoureux, il y a des toilettes individuelles non genrées et accessibles au niveau 1 (local 110J), au 2e étage (C244), au 4e (C447) et au 5e (C547). Celle du 2e étage est une toilette universelle, avec de l'espace pour un accompagnateur et une table à langer pour tous les âges.",
+   "en": "In the CRX–Lamoureux complex, there are non-gendered, accessible single washrooms on level 1 (room 110J), the 2nd floor (C244), the 4th (C447) and the 5th (C547). The one on the 2nd floor is a universal washroom, with room for an attendant and an all-ages change table."
+  },
+  "sources": [
+   {
+    "label": "Non-gendered single washrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/available-washrooms"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-toilettes-non-genrees-campus",
+  "category": "batiments",
+  "keywords": [
+   "toilettes non genrees campus",
+   "gender neutral washrooms campus",
+   "all gender bathroom",
+   "toilettes inclusives",
+   "liste toilettes",
+   "washroom list",
+   "toilettes stem",
+   "toilettes fss",
+   "toilettes ucu",
+   "non-gendered washrooms",
+   "toilette individuelle campus"
+  ],
+  "question": {
+   "fr": "Où trouver des toilettes non genrées sur le campus ?",
+   "en": "Where can I find gender-neutral washrooms on campus?"
+  },
+  "answer": {
+   "fr": "L'Université publie la liste de toutes ses toilettes individuelles non genrées, pavillon par pavillon. Par exemple, le complexe STEM en a une accessible à chaque étage, le pavillon des Sciences sociales (FSS) en a sur plusieurs étages, et le Centre universitaire (UCU) en a une au niveau 0, au local 010. Consulte la page des toilettes individuelles non genrées pour les autres pavillons.",
+   "en": "The University publishes a list of all its non-gendered single washrooms, building by building. For example, the STEM Complex has an accessible one on every floor, the Social Sciences Building (FSS) has them on several floors, and the University Centre (UCU) has one on level 0, in room 010. Check the non-gendered single washrooms page for other buildings."
+  },
+  "sources": [
+   {
+    "label": "Non-gendered single washrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/available-washrooms"
+   },
+   {
+    "label": "STEM Complex (STM) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/stem-complex"
+   },
+   {
+    "label": "Social Sciences Building (FSS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/social-sciences-building"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-toilettes-universelles",
+  "category": "batiments",
+  "keywords": [
+   "toilette universelle",
+   "universal washroom",
+   "toilette avec accompagnateur",
+   "attendant washroom",
+   "toilette familiale",
+   "family washroom",
+   "toilette adulte table a langer",
+   "adult change table",
+   "accessible washroom",
+   "toilettes accessibles campus"
+  ],
+  "question": {
+   "fr": "C'est quoi une toilette universelle et où en trouver ?",
+   "en": "What is a universal washroom and where can I find one?"
+  },
+  "answer": {
+   "fr": "Une toilette universelle offre de l'espace pour un appareil de mobilité et pour un accompagnateur, des barres d'appui, une table à langer pour tous les âges et une porte automatique. Il y en a notamment au 2e étage du CRX (C244), au local 1031 du pavillon SITE, au local 129A de Morisset et aux 10e et 12e étages du pavillon des Sciences sociales.",
+   "en": "A universal washroom has room for a mobility device and an attendant, grab bars, an all-ages change table and a door operator. You'll find them on the 2nd floor of CRX (C244), in room 1031 of the SITE building, in room 129A of Morisset, and on the 10th and 12th floors of the Social Sciences Building."
+  },
+  "sources": [
+   {
+    "label": "Non-gendered single washrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/available-washrooms"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-table-a-langer",
+  "category": "services",
+  "keywords": [
+   "table a langer",
+   "changing table",
+   "change table",
+   "changer une couche",
+   "change a diaper",
+   "bebe",
+   "baby",
+   "parent",
+   "toilette bebe",
+   "baby changing",
+   "couche"
+  ],
+  "question": {
+   "fr": "Où puis-je changer la couche de mon bébé ?",
+   "en": "Where can I change my baby's diaper?"
+  },
+  "answer": {
+   "fr": "Toutes les toilettes universelles ont une table à langer, comme celle du 2e étage du CRX, au local C244. Il y a aussi des tables à langer au complexe sportif Minto (locaux C203 et C204, avec une clé au comptoir de service), au 200 Lees (bloc E) et au 6e étage du pavillon Vanier. La salle d'allaitement du Centre universitaire en a une aussi.",
+   "en": "All universal washrooms have a change table, like the one on the 2nd floor of CRX, in room C244. There are also change tables at the Minto Sports Complex (rooms C203 and C204, with a key from the service desk), at 200 Lees (Block E) and on the 6th floor of Vanier Hall. The nursing room in the University Centre has one too."
+  },
+  "sources": [
+   {
+    "label": "Non-gendered single washrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/available-washrooms"
+   },
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-accessibilite",
+  "category": "batiments",
+  "keywords": [
+   "accessibilite crx",
+   "crx accessible",
+   "entree accessible",
+   "accessible entrance",
+   "ascenseur crx",
+   "crx elevator",
+   "fauteuil roulant",
+   "wheelchair",
+   "sans obstacle",
+   "barrier free",
+   "porte automatique"
+  ],
+  "question": {
+   "fr": "Le CRX est-il accessible en fauteuil roulant ?",
+   "en": "Is CRX wheelchair accessible?"
+  },
+  "answer": {
+   "fr": "Oui. Tu peux entrer au 1er étage par les portes au coin sud-est du bâtiment, sur la privée Louis-Pasteur, ou par la porte du côté nord, sur la privée University. Trois ascenseurs desservent tous les étages, du niveau 0 jusqu'au 6e.",
+   "en": "Yes. You can enter on the 1st floor through the doors at the southeast corner of the building, on Louis-Pasteur Private, or through the door on the north side, on University Private. Three passenger elevators serve every floor, from level 0 up to the 6th."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-paratranspo",
+  "category": "batiments",
+  "keywords": [
+   "para transpo crx",
+   "paratranspo",
+   "point de rencontre",
+   "pick-up point",
+   "stationnement accessible crx",
+   "accessible parking crx",
+   "debarcadere",
+   "drop-off",
+   "transport adapte",
+   "parking handicape"
+  ],
+  "question": {
+   "fr": "Où est le point Para Transpo et le stationnement accessible près du CRX ?",
+   "en": "Where is the Para Transpo stop and accessible parking near CRX?"
+  },
+  "answer": {
+   "fr": "Le point de prise en charge et de dépôt Para Transpo numéro 6 est sur la privée University, entre le pavillon Lamoureux et le Square University. Quatre places de stationnement accessibles se trouvent aussi sur la privée University, entre le côté sud du pavillon Montpetit et le côté nord du CRX ; il faut d'abord contacter le Service du stationnement pour y avoir accès.",
+   "en": "Para Transpo pick-up and drop-off point 6 is on University Private, between Lamoureux Hall and University Square. There are also four accessible parking spaces on University Private, between the south side of Montpetit Hall and the north side of CRX; you need to contact Parking Services first to get access."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-passages",
+  "category": "batiments",
+  "keywords": [
+   "passage crx lmx",
+   "relie",
+   "connected buildings",
+   "corridor",
+   "aller a lamoureux",
+   "go to montpetit",
+   "passer a l'interieur",
+   "indoor route",
+   "crx montpetit",
+   "crx lamoureux",
+   "sans sortir"
+  ],
+  "question": {
+   "fr": "Peut-on passer du CRX aux pavillons voisins sans sortir ?",
+   "en": "Can I get from CRX to nearby buildings without going outside?"
+  },
+  "answer": {
+   "fr": "Oui ! Le CRX est relié au pavillon Lamoureux (LMX) par des corridors aux 1er, 2e, 3e et 4e étages. Il est aussi relié au pavillon Montpetit (MNT) aux 2e, 3e et 4e étages.",
+   "en": "Yes! CRX is connected to Lamoureux Hall (LMX) by corridors on the 1st, 2nd, 3rd and 4th floors. It's also connected to Montpetit Hall (MNT) on the 2nd, 3rd and 4th floors."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-salons",
+  "category": "batiments",
+  "keywords": [
+   "s'asseoir",
+   "where to sit",
+   "salon crx",
+   "lounge crx",
+   "attendre",
+   "wait",
+   "espace detente",
+   "place assise",
+   "seating",
+   "pause",
+   "lounge area"
+  ],
+  "question": {
+   "fr": "Où puis-je m'asseoir ou attendre dans le CRX ?",
+   "en": "Where can I sit or wait in CRX?"
+  },
+  "answer": {
+   "fr": "Il y a des aires de salon au niveau 0 et au niveau 1 du CRX, et le Tim Hortons est aussi au niveau 1. Si tu veux travailler, les 2e et 5e étages offrent plus de 1 000 places d'étude individuelles ou en groupe, sans réservation pour les places individuelles.",
+   "en": "There are lounge areas on level 0 and level 1 of CRX, and the Tim Hortons is on level 1 too. If you want to work, the 2nd and 5th floors offer more than 1,000 individual and group study spaces, and the individual spots don't need a booking."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Study Spaces CRX Library — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/study-spaces-crx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-tinkering-lab",
+  "category": "batiments",
+  "keywords": [
+   "tinkering lab",
+   "labo bricolage",
+   "crx 2e etage",
+   "learning lab",
+   "laboratoire d'apprentissage",
+   "crx second floor",
+   "bricoler",
+   "lab crx",
+   "espace creatif",
+   "studio crx"
+  ],
+  "question": {
+   "fr": "C'est quoi le Tinkering Lab du CRX ?",
+   "en": "What is the Tinkering Lab in CRX?"
+  },
+  "answer": {
+   "fr": "Le Tinkering Lab est au 2e étage du CRX, avec un laboratoire d'apprentissage et les studios de balado et de réalité virtuelle. La page du pavillon ne donne pas plus de détails sur ses activités ; pour les studios et les technologies du même étage, renseigne-toi auprès du Centre des compétences numériques de la bibliothèque.",
+   "en": "The Tinkering Lab is on the 2nd floor of CRX, alongside a learning lab and the podcast and virtual reality studios. The building page doesn't give more details about its activities; for the studios and technology on that floor, check with the Library's Digital Skills Hub."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Digital Skills Hub — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/digital-skills-hub"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "i-centre-competences-numeriques",
+  "category": "bibliotheques",
+  "keywords": [
+   "digital skills hub",
+   "centre des competences numeriques",
+   "carrefour numerique",
+   "studio crx",
+   "technologie crx",
+   "creation numerique",
+   "digital content",
+   "studio video",
+   "8k",
+   "ecran geant",
+   "crx 2e etage"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre des compétences numériques du CRX ?",
+   "en": "What is the Digital Skills Hub in CRX?"
+  },
+  "answer": {
+   "fr": "C'est un espace de la bibliothèque au 2e étage du CRX où tu peux découvrir la baladodiffusion, la réalité virtuelle et d'autres technologies, avec l'aide du personnel. On y trouve deux studios de balado, un mur vidéo 8K, de l'équipement de jeu et de réalité virtuelle, trois studios de création et un espace d'apprentissage flexible. Il est ouvert aux étudiants, au corps professoral et au personnel, avec priorité aux projets de recherche et d'enseignement.",
+   "en": "It's a Library space on the 2nd floor of CRX where you can explore podcasting, virtual reality and other technologies, with help from staff. It has two podcast studios, an 8K video wall, gaming and VR equipment, three creation studios and a flexible learning space. It's open to students, faculty and staff, with priority for research and teaching projects."
+  },
+  "sources": [
+   {
+    "label": "Digital Skills Hub — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/digital-skills-hub"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-studio-balado",
+  "category": "bibliotheques",
+  "keywords": [
+   "podcast",
+   "balado",
+   "baladodiffusion",
+   "studio podcast",
+   "podcast studio",
+   "enregistrer",
+   "record audio",
+   "studio d'enregistrement",
+   "recording studio",
+   "micro",
+   "reserver studio"
+  ],
+  "question": {
+   "fr": "Où puis-je enregistrer un balado ?",
+   "en": "Where can I record a podcast?"
+  },
+  "answer": {
+   "fr": "Le Centre des compétences numériques, au 2e étage du CRX, a deux studios d'enregistrement de balado avec de l'équipement audio professionnel. Tu peux réserver le studio pour ton projet, et le personnel peut t'aider à améliorer tes techniques.",
+   "en": "The Digital Skills Hub, on the 2nd floor of CRX, has two podcast recording studios with professional audio equipment. You can book the studio for your project, and staff can help you build your skills."
+  },
+  "sources": [
+   {
+    "label": "Digital Skills Hub — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/digital-skills-hub"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-realite-virtuelle",
+  "category": "bibliotheques",
+  "keywords": [
+   "realite virtuelle",
+   "virtual reality",
+   "vr",
+   "casque vr",
+   "vr headset",
+   "jeux video",
+   "gaming",
+   "essayer vr",
+   "try vr",
+   "studio vr",
+   "rv"
+  ],
+  "question": {
+   "fr": "Où puis-je essayer la réalité virtuelle ?",
+   "en": "Where can I try virtual reality?"
+  },
+  "answer": {
+   "fr": "Au Centre des compétences numériques, au 2e étage du CRX, tu peux réserver une séance de réalité virtuelle ou de jeu pour un cours, une recherche ou une activité d'équipe, et il y a aussi des ateliers sans rendez-vous. Le Salon du mieux-être du Centre universitaire propose aussi des jeux de réalité virtuelle axés sur le bien-être pendant ses heures d'ouverture.",
+   "en": "At the Digital Skills Hub, on the 2nd floor of CRX, you can book a virtual reality or gaming session for a class, research or a team activity, and there are drop-in workshops too. The Wellness Lounge in the University Centre also offers wellness-focused VR gaming during its opening hours."
+  },
+  "sources": [
+   {
+    "label": "Digital Skills Hub — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/digital-skills-hub"
+   },
+   {
+    "label": "Wellness Lounge — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-mur-video-8k",
+  "category": "bibliotheques",
+  "keywords": [
+   "mur video",
+   "8k",
+   "video wall",
+   "visualisation de donnees",
+   "data visualization",
+   "grand ecran",
+   "big screen",
+   "diffusion en direct",
+   "live streaming",
+   "hackathon"
+  ],
+  "question": {
+   "fr": "Y a-t-il un grand écran pour visualiser des données ?",
+   "en": "Is there a big screen for data visualization?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre des compétences numériques, au 2e étage du CRX, a un mur vidéo 8K et des écrans haute résolution pour visualiser des données. On peut aussi l'utiliser pour des diffusions en direct, et l'espace d'apprentissage flexible peut accueillir des conférences ou des hackathons.",
+   "en": "Yes, the Digital Skills Hub, on the 2nd floor of CRX, has an 8K video wall and high-resolution screens for data visualization. It can also be used for live streaming, and the flexible learning space can host conferences or hackathons."
+  },
+  "sources": [
+   {
+    "label": "Digital Skills Hub — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/digital-skills-hub"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-salles-groupe",
+  "category": "bibliotheques",
+  "keywords": [
+   "salle de groupe crx",
+   "group study room crx",
+   "reserver salle crx",
+   "book room crx",
+   "5e etage crx",
+   "salle d'etude crx",
+   "travail d'equipe",
+   "group work",
+   "salle de reunion etudiant",
+   "study room booking"
+  ],
+  "question": {
+   "fr": "Comment réserver une salle d'étude de groupe au CRX ?",
+   "en": "How do I book a group study room in CRX?"
+  },
+  "answer": {
+   "fr": "Le 5e étage du CRX compte 15 salles d'étude de groupe pour 2 à 16 personnes, avec ordinateurs, écrans, tableau blanc et bornes de recharge. Tu peux réserver en ligne une fois par jour, pour un maximum de 2 heures, jusqu'à deux semaines à l'avance, et seulement pour des travaux scolaires.",
+   "en": "The 5th floor of CRX has 15 group study rooms for 2 to 16 people, with computers, screens, a whiteboard and charging stations. You can book online once a day, for up to 2 hours, as far as two weeks ahead, and only for academic work."
+  },
+  "sources": [
+   {
+    "label": "Study Spaces CRX Library — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/study-spaces-crx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-places-individuelles",
+  "category": "bibliotheques",
+  "keywords": [
+   "etudier crx",
+   "study crx",
+   "place individuelle",
+   "individual study",
+   "sans reservation",
+   "no booking",
+   "ordinateur crx",
+   "computer crx",
+   "etudier seul",
+   "quiet study",
+   "espace etude"
+  ],
+  "question": {
+   "fr": "Puis-je étudier seul au CRX sans réserver ?",
+   "en": "Can I study alone in CRX without booking?"
+  },
+  "answer": {
+   "fr": "Oui ! Aux 2e et 5e étages du CRX, plus de 50 places individuelles avec bureau, siège confortable, ordinateur et borne de recharge sont offertes sans réservation. Il y a le Wi-Fi partout, et garde toujours un œil sur tes affaires.",
+   "en": "Yes! On the 2nd and 5th floors of CRX, more than 50 individual spots with a desk, comfortable seating, a computer and a charging station are available with no booking. There's Wi-Fi throughout, and always keep an eye on your belongings."
+  },
+  "sources": [
+   {
+    "label": "Study Spaces CRX Library — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/study-spaces-crx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-recharger-appareil",
+  "category": "services",
+  "keywords": [
+   "recharger telephone",
+   "charge phone",
+   "borne de recharge",
+   "charging station",
+   "prise",
+   "outlet",
+   "batterie",
+   "battery",
+   "recharger portable",
+   "charge laptop",
+   "chargeur"
+  ],
+  "question": {
+   "fr": "Où puis-je recharger mon téléphone ou mon portable ?",
+   "en": "Where can I charge my phone or laptop?"
+  },
+  "answer": {
+   "fr": "Les espaces d'étude des 2e et 5e étages du CRX ont des bornes de recharge, autant aux places individuelles que dans les salles de groupe. Les places individuelles ne demandent aucune réservation.",
+   "en": "The study spaces on the 2nd and 5th floors of CRX have charging stations, both at the individual spots and in the group rooms. The individual spots don't need a booking."
+  },
+  "sources": [
+   {
+    "label": "Study Spaces CRX Library — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/study-spaces-crx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-imprimante",
+  "category": "ti",
+  "keywords": [
+   "imprimante crx",
+   "printer crx",
+   "imprimer crx",
+   "print crx",
+   "c230",
+   "photocopie",
+   "photocopy",
+   "numeriser",
+   "scan",
+   "uoprint crx",
+   "imprimer ici"
+  ],
+  "question": {
+   "fr": "Y a-t-il une imprimante dans le CRX ?",
+   "en": "Is there a printer in CRX?"
+  },
+  "answer": {
+   "fr": "Oui, il y a une imprimante libre-service uoPrint au local C230 du CRX. L'impression coûte 9 cents la page en noir et blanc recto, 25 cents en couleur recto, et la numérisation est gratuite ; tu paies par carte de débit ou de crédit.",
+   "en": "Yes, there's a uoPrint self-service printer in room C230 of CRX. Printing costs 9 cents per one-sided black-and-white page and 25 cents for one-sided colour, and scanning is free; you pay by debit or credit card."
+  },
+  "sources": [
+   {
+    "label": "uoPrint: Self-service printers — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/print/printer"
+   },
+   {
+    "label": "Study Spaces CRX Library — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/study-spaces-crx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-salle-lecture",
+  "category": "bibliotheques",
+  "keywords": [
+   "salle de lecture",
+   "reading room",
+   "5e etage crx",
+   "crx 5th floor",
+   "bibliotheque crx",
+   "library crx",
+   "endroit calme",
+   "quiet place",
+   "espace bibliotheque",
+   "lire"
+  ],
+  "question": {
+   "fr": "Y a-t-il une salle de lecture dans le CRX ?",
+   "en": "Is there a reading room in CRX?"
+  },
+  "answer": {
+   "fr": "Oui, le 5e étage du CRX est un espace de la bibliothèque avec une salle de lecture, un espace de travail et des salles d'étude. Les services de la bibliothèque du Carrefour d'apprentissage sont au 2e étage.",
+   "en": "Yes, the 5th floor of CRX is a Library space with a reading room, a workspace and study rooms. The Learning Crossroads library services are on the 2nd floor."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Learning Crossroads — uOttawa Library",
+    "url": "https://www.uottawa.ca/library/learning-crossroads"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-aide-bibliotheque",
+  "category": "bibliotheques",
+  "keywords": [
+   "aide bibliotheque crx",
+   "library help crx",
+   "comptoir bibliotheque",
+   "library desk",
+   "bibliothecaire",
+   "librarian",
+   "services bibliotheque crx",
+   "pret equipement crx",
+   "borrow camera",
+   "question bibliotheque"
+  ],
+  "question": {
+   "fr": "Où trouver de l'aide de la bibliothèque dans le CRX ?",
+   "en": "Where can I get Library help in CRX?"
+  },
+  "answer": {
+   "fr": "Les services de la bibliothèque du Carrefour d'apprentissage sont au 2e étage du CRX. La bibliothèque prête aussi de l'équipement comme des caméras, des micros et des trépieds. Pour une question générale, tu peux aussi utiliser le clavardage « Demandez à un bibliothécaire » ou appeler au 613-562-5213.",
+   "en": "The Learning Crossroads library services are on the 2nd floor of CRX. The Library also lends equipment like cameras, microphones and tripods. For general questions, you can also use the Ask a Librarian chat or call 613-562-5213."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads — uOttawa Library",
+    "url": "https://www.uottawa.ca/library/learning-crossroads"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-tim-hortons",
+  "category": "services",
+  "keywords": [
+   "tim hortons crx",
+   "tim hortons ici",
+   "tim hortons near me",
+   "tims",
+   "cafe crx",
+   "coffee crx",
+   "timmies",
+   "beigne",
+   "donut",
+   "heures tim hortons",
+   "tim hortons hours"
+  ],
+  "question": {
+   "fr": "Y a-t-il un Tim Hortons dans le CRX ?",
+   "en": "Is there a Tim Hortons in CRX?"
+  },
+  "answer": {
+   "fr": "Oui, il y a un Tim Hortons au niveau 1 du CRX. De septembre à avril, il est ouvert de 7 h 30 à 19 h 30 en semaine et fermé la fin de semaine, les jours fériés et pendant le congé des Fêtes. Tu peux aussi commander d'avance avec l'application Boost.",
+   "en": "Yes, there's a Tim Hortons on level 1 of CRX. From September to April, it's open 7:30 a.m. to 7:30 p.m. on weekdays and closed on weekends, statutory holidays and over the holiday break. You can also order ahead with the Boost app."
+  },
+  "sources": [
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   },
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Eat on campus — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-crx-manger",
+  "category": "services",
+  "keywords": [
+   "manger crx",
+   "eat crx",
+   "nourriture crx",
+   "food near me",
+   "manger ici",
+   "restaurant crx",
+   "lunch crx",
+   "diner",
+   "food crx",
+   "ou manger pres d'ici",
+   "where to eat nearby"
+  ],
+  "question": {
+   "fr": "Où puis-je manger dans le CRX ou juste à côté ?",
+   "en": "Where can I eat in CRX or right next door?"
+  },
+  "answer": {
+   "fr": "Au niveau 1 du complexe CRX–Lamoureux, tu as le Tim Hortons, Paramount (cuisine libanaise), Thai Express et le Go Café. Paramount et Thai Express sont ouverts de 11 h à 18 h en semaine, le Go Café de 7 h 30 à 17 h, et tout est fermé la fin de semaine.",
+   "en": "On level 1 of the CRX–Lamoureux complex, you'll find Tim Hortons, Paramount (Lebanese food), Thai Express and Go Café. Paramount and Thai Express are open 11 a.m. to 6 p.m. on weekdays, Go Café 7:30 a.m. to 5 p.m., and all are closed on weekends."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   },
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-paramount",
+  "category": "services",
+  "keywords": [
+   "paramount",
+   "libanais",
+   "lebanese",
+   "shawarma",
+   "falafel",
+   "paramount crx",
+   "cuisine libanaise",
+   "lebanese food",
+   "halal",
+   "paramount hours"
+  ],
+  "question": {
+   "fr": "Où est le Paramount et quelles sont ses heures ?",
+   "en": "Where is Paramount and what are its hours?"
+  },
+  "answer": {
+   "fr": "Paramount Lebanese Kitchen est au niveau 1 du complexe CRX–Lamoureux, à côté de toi. Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 11 h à 18 h, et fermé la fin de semaine, les jours fériés, pendant le congé des Fêtes et du 13 au 21 février. Tu peux commander d'avance avec l'application Boost.",
+   "en": "Paramount Lebanese Kitchen is on level 1 of the CRX–Lamoureux complex, right near you. From September 8 to April 30, it's open Monday to Friday from 11 a.m. to 6 p.m., and closed on weekends, statutory holidays, over the holiday break and from February 13 to 21. You can order ahead with the Boost app."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   },
+   {
+    "label": "Eat on campus — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-thai-express",
+  "category": "services",
+  "keywords": [
+   "thai express",
+   "thai",
+   "nouilles",
+   "noodles",
+   "pad thai",
+   "cuisine thai",
+   "thai food",
+   "thai express crx",
+   "asiatique",
+   "asian food"
+  ],
+  "question": {
+   "fr": "Y a-t-il un Thai Express près d'ici ?",
+   "en": "Is there a Thai Express near here?"
+  },
+  "answer": {
+   "fr": "Oui, Thai Express est au niveau 1 du complexe CRX–Lamoureux. Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 11 h à 18 h, et fermé la fin de semaine et les jours fériés. Il accepte aussi les commandes d'avance avec l'application Boost.",
+   "en": "Yes, Thai Express is on level 1 of the CRX–Lamoureux complex. From September 8 to April 30, it's open Monday to Friday from 11 a.m. to 6 p.m., and closed on weekends and statutory holidays. It also takes advance orders through the Boost app."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   },
+   {
+    "label": "Eat on campus — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-lmx-go-cafe",
+  "category": "services",
+  "keywords": [
+   "go cafe",
+   "go cafe lmx",
+   "cafe lamoureux",
+   "coffee lmx",
+   "lamoureux",
+   "cafe pres d'ici",
+   "cafe nearby",
+   "go cafe hours",
+   "heures go cafe",
+   "lmx food"
+  ],
+  "question": {
+   "fr": "Y a-t-il un café dans le pavillon Lamoureux ?",
+   "en": "Is there a café in Lamoureux Hall?"
+  },
+  "answer": {
+   "fr": "Oui, le Go Café est au niveau 1 du pavillon Lamoureux (LMX), relié directement au CRX. Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 7 h 30 à 17 h, et fermé la fin de semaine et les jours fériés.",
+   "en": "Yes, Go Café is on level 1 of Lamoureux Hall (LMX), directly connected to CRX. From September 8 to April 30, it's open Monday to Friday from 7:30 a.m. to 5 p.m., and closed on weekends and statutory holidays."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-tim-hortons-campus",
+  "category": "services",
+  "keywords": [
+   "tim hortons",
+   "tim hortons campus",
+   "tims",
+   "timmies",
+   "tim hortons site",
+   "tim hortons ucu",
+   "combien de tim hortons",
+   "where is tim hortons",
+   "ou est tim hortons",
+   "cafe tim"
+  ],
+  "question": {
+   "fr": "Où sont les Tim Hortons sur le campus ?",
+   "en": "Where are the Tim Hortons locations on campus?"
+  },
+  "answer": {
+   "fr": "Il y a trois Tim Hortons : au niveau 1 du CRX, au local 1040 du pavillon SITE et au niveau 0 du Centre universitaire (UCU). De septembre à avril, celui du CRX est ouvert de 7 h 30 à 19 h 30 et les deux autres de 7 h 30 à 17 h, du lundi au vendredi seulement.",
+   "en": "There are three Tim Hortons: on level 1 of CRX, in room 1040 of the SITE building and on level 0 of the University Centre (UCU). From September to April, the CRX one is open 7:30 a.m. to 7:30 p.m. and the other two 7:30 a.m. to 5 p.m., Monday to Friday only."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-site-manger",
+  "category": "services",
+  "keywords": [
+   "manger site",
+   "eat site",
+   "food court site",
+   "aire de restauration",
+   "pizza",
+   "800 degres",
+   "burrito",
+   "site building food",
+   "tim hortons site",
+   "genie manger",
+   "engineering food"
+  ],
+  "question": {
+   "fr": "Où manger dans le pavillon SITE ?",
+   "en": "Where can I eat in the SITE building?"
+  },
+  "answer": {
+   "fr": "Le pavillon SITE a une aire de restauration au niveau 1, au local 1040 : 800° Pizza, Burrito Loco et un Tim Hortons. Du 8 septembre au 30 avril, la pizzeria et Burrito Loco sont ouverts de 11 h à 19 h en semaine, et le Tim Hortons de 7 h 30 à 17 h ; tout est fermé la fin de semaine.",
+   "en": "The SITE building has a food court on level 1, in room 1040: 800° Pizza, Burrito Loco and a Tim Hortons. From September 8 to April 30, the pizza place and Burrito Loco are open 11 a.m. to 7 p.m. on weekdays, and Tim Hortons 7:30 a.m. to 5 p.m.; all are closed on weekends."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "SITE building (STE) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/site"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-genie-manger",
+  "category": "services",
+  "keywords": [
+   "manger stem",
+   "eat stem",
+   "manger colonel by",
+   "food cby",
+   "nourriture stem",
+   "food stem",
+   "genie nourriture",
+   "engineering students eat",
+   "pas de nourriture",
+   "no food services",
+   "manger marion"
+  ],
+  "question": {
+   "fr": "Peut-on manger dans le complexe STEM ou au pavillon Colonel-By ?",
+   "en": "Can I get food in the STEM Complex or Colonel By Hall?"
+  },
+  "answer": {
+   "fr": "Non, il n'y a pas de service alimentaire dans le complexe STEM, ni au pavillon Colonel-By, ni au pavillon Marion. Pour manger dans le secteur du génie et des sciences, va à l'aire de restauration du pavillon SITE, au niveau 1, ou au niveau 1 du complexe CRX–Lamoureux.",
+   "en": "No, there are no food services in the STEM Complex, Colonel By Hall or Marion Hall. To eat in the engineering and science area, head to the food court on level 1 of the SITE building, or to level 1 of the CRX–Lamoureux complex."
+  },
+  "sources": [
+   {
+    "label": "STEM Complex (STM) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/stem-complex"
+   },
+   {
+    "label": "Colonel By Hall (CBY) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/colonel-hall-cby"
+   },
+   {
+    "label": "SITE building (STE) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/site"
+   },
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-ucu-manger",
+  "category": "services",
+  "keywords": [
+   "manger ucu",
+   "eat ucu",
+   "centre universitaire nourriture",
+   "university centre food",
+   "bento sushi",
+   "sushi",
+   "cravings",
+   "dining hall",
+   "pivik",
+   "food ucu",
+   "ucu restaurants"
+  ],
+  "question": {
+   "fr": "Où manger dans le Centre universitaire (UCU) ?",
+   "en": "Where can I eat in the University Centre (UCU)?"
+  },
+  "answer": {
+   "fr": "Au niveau 0 du Centre universitaire, tu trouveras Bento Sushi et Tim Hortons Express, BT Cravings et le dépanneur Pivik, et la Salle à manger est au niveau 1. Au 2e étage, il y a Chai Guys. Bento Sushi est ouvert de 7 h 30 à 17 h en semaine, et BT Cravings de 11 h à 18 h 30 du lundi au jeudi et jusqu'à 18 h le vendredi.",
+   "en": "On level 0 of the University Centre, you'll find Bento Sushi and Tim Hortons Express, BT Cravings and the Pivik convenience store, and the Dining Hall is on level 1. On the 2nd floor, there's Chai Guys. Bento Sushi is open 7:30 a.m. to 5 p.m. on weekdays, and BT Cravings 11 a.m. to 6:30 p.m. Monday to Thursday and until 6 p.m. on Friday."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   },
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-chai-guys",
+  "category": "services",
+  "keywords": [
+   "chai guys",
+   "chai",
+   "the chai",
+   "chai tea",
+   "ucu 2e etage",
+   "cafe ouvert tard",
+   "open late cafe",
+   "the",
+   "tea",
+   "chaiguys"
+  ],
+  "question": {
+   "fr": "C'est quoi Chai Guys et jusqu'à quelle heure c'est ouvert ?",
+   "en": "What is Chai Guys and how late is it open?"
+  },
+  "answer": {
+   "fr": "Chai Guys est au 2e étage du Centre universitaire (UCU). Du 8 septembre au 30 avril, c'est ouvert du lundi au vendredi de 9 h à 21 h, ce qui en fait l'un des rares comptoirs ouverts en soirée ; c'est fermé la fin de semaine et pendant la semaine de lecture d'automne.",
+   "en": "Chai Guys is on the 2nd floor of the University Centre (UCU). From September 8 to April 30, it's open Monday to Friday from 9 a.m. to 9 p.m., making it one of the few spots open in the evening; it's closed on weekends and during fall reading week."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-premiere-moisson",
+  "category": "services",
+  "keywords": [
+   "premiere moisson",
+   "boulangerie",
+   "bakery",
+   "fss cafe",
+   "sciences sociales manger",
+   "social sciences food",
+   "croissant",
+   "sandwich",
+   "patisserie",
+   "pastry"
+  ],
+  "question": {
+   "fr": "Y a-t-il une Première Moisson sur le campus ?",
+   "en": "Is there a Première Moisson on campus?"
+  },
+  "answer": {
+   "fr": "Oui, la Première Moisson est dans le pavillon des Sciences sociales (FSS), au 120, privée University. Elle est ouverte de 7 h 30 à 16 h en semaine et fermée la fin de semaine, et tu peux commander d'avance avec l'application Boost.",
+   "en": "Yes, Première Moisson is in the Social Sciences Building (FSS), at 120 University Private. It's open 7:30 a.m. to 4 p.m. on weekdays and closed on weekends, and you can order ahead with the Boost app."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Social Sciences Building (FSS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/social-sciences-building"
+   },
+   {
+    "label": "Eat on campus — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-morisset-manger",
+  "category": "services",
+  "keywords": [
+   "manger morisset",
+   "second cup",
+   "cafe bibliotheque",
+   "library cafe",
+   "eat morisset",
+   "morisset food",
+   "cafe morisset",
+   "coffee library",
+   "mrt cafe",
+   "second cup heures"
+  ],
+  "question": {
+   "fr": "Peut-on acheter à manger à la bibliothèque Morisset ?",
+   "en": "Can I buy food at Morisset Library?"
+  },
+  "answer": {
+   "fr": "Oui, il y a un Second Cup au niveau 1 du pavillon Morisset (MRT). Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 9 h 30 à 17 h, et fermé la fin de semaine.",
+   "en": "Yes, there's a Second Cup on level 1 of Morisset Hall (MRT). From September 8 to April 30, it's open Monday to Friday from 9:30 a.m. to 5 p.m., and closed on weekends."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Morisset Hall (MRT) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/morisset-hall-mrt"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-omni-cafe",
+  "category": "services",
+  "keywords": [
+   "omni cafe",
+   "simard",
+   "cafe simard",
+   "smd cafe",
+   "arts cafe",
+   "faculte des arts cafe",
+   "coffee simard",
+   "omni",
+   "cafe arts",
+   "porte de cote"
+  ],
+  "question": {
+   "fr": "Y a-t-il un café dans le pavillon Simard ?",
+   "en": "Is there a café in Simard Hall?"
+  },
+  "answer": {
+   "fr": "Oui, l'Omni Café est au local 0029 du pavillon Simard (SMD), au 60, privée University ; on y entre par la porte de côté. Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 7 h 30 à 17 h.",
+   "en": "Yes, Omni Café is in room 0029 of Simard Hall (SMD), at 60 University Private; you go in through the side door. From September 8 to April 30, it's open Monday to Friday from 7:30 a.m. to 5 p.m."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-pub-campus",
+  "category": "services",
+  "keywords": [
+   "pub",
+   "bar",
+   "biere",
+   "beer",
+   "nox",
+   "nostalgica",
+   "pub campus",
+   "campus bar",
+   "sortir",
+   "boire un verre",
+   "grab a drink"
+  ],
+  "question": {
+   "fr": "Y a-t-il un pub sur le campus ?",
+   "en": "Is there a pub on campus?"
+  },
+  "answer": {
+   "fr": "Oui, deux : le Nox, au niveau 2 du complexe sportif Minto, est ouvert de 9 h à 1 h en semaine et de 10 h à minuit la fin de semaine. Le Nostalgica, au 601, rue Cumberland, est ouvert du lundi au vendredi de 11 h à 2 h. Les deux sont fermés les jours fériés.",
+   "en": "Yes, two: Nox, on level 2 of the Minto Sports Complex, is open 9 a.m. to 1 a.m. on weekdays and 10 a.m. to midnight on weekends. Nostalgica, at 601 Cumberland Street, is open Monday to Friday from 11 a.m. to 2 a.m. Both are closed on statutory holidays."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   },
+   {
+    "label": "Minto Sports Complex (MNO) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/minto-sports-complex"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-manger-apres-minuit",
+  "category": "services",
+  "keywords": [
+   "manger tard",
+   "apres minuit",
+   "after midnight",
+   "late night food",
+   "fringale",
+   "nuit",
+   "night",
+   "three brothers",
+   "gabriel pizza",
+   "ouvert tard",
+   "open late"
+  ],
+  "question": {
+   "fr": "Où manger après minuit près du campus ?",
+   "en": "Where can I eat after midnight near campus?"
+  },
+  "answer": {
+   "fr": "Le Nostalgica, au 601, rue Cumberland, est ouvert jusqu'à 2 h en semaine, et le Nox, au complexe Minto, jusqu'à 1 h en semaine. Three Brothers, au 124, rue Osgoode, est ouvert jusqu'à 3 h du dimanche au mercredi et jusqu'à 4 h du jeudi au samedi. Gabriel Pizza, à la résidence Rideau, ferme à 1 h le vendredi et le samedi.",
+   "en": "Nostalgica, at 601 Cumberland Street, is open until 2 a.m. on weekdays, and Nox, in the Minto complex, until 1 a.m. on weekdays. Three Brothers, at 124 Osgoode Street, is open until 3 a.m. Sunday to Wednesday and until 4 a.m. Thursday to Saturday. Gabriel Pizza, at Rideau Residence, closes at 1 a.m. on Friday and Saturday."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-bac-a-frites",
+  "category": "services",
+  "keywords": [
+   "bac a frites",
+   "frites",
+   "fries",
+   "poutine",
+   "camion",
+   "food truck",
+   "stationnement k",
+   "parking lot k",
+   "cantine",
+   "chip truck"
+  ],
+  "question": {
+   "fr": "Où est le Bac à frites ?",
+   "en": "Where is the Bac à frites?"
+  },
+  "answer": {
+   "fr": "Le Bac à frites est au 56, privée University, dans le stationnement K. Du 31 août au 30 avril, il est ouvert de 11 h à 19 h du lundi au jeudi et de 11 h à 18 h le vendredi, et fermé la fin de semaine.",
+   "en": "The Bac à frites is at 56 University Private, in parking lot K. From August 31 to April 30, it's open 11 a.m. to 7 p.m. Monday to Thursday and 11 a.m. to 6 p.m. on Friday, and closed on weekends."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-flour-kitchen",
+  "category": "services",
+  "keywords": [
+   "flour kitchen",
+   "chinois",
+   "chinese food",
+   "cuisine chinoise",
+   "dumplings",
+   "nouilles",
+   "noodles",
+   "copernicus",
+   "restaurant chinois",
+   "asian"
+  ],
+  "question": {
+   "fr": "Y a-t-il de la cuisine chinoise sur le campus ?",
+   "en": "Is there Chinese food on campus?"
+  },
+  "answer": {
+   "fr": "Oui, Flour Kitchen sert de la cuisine chinoise au 25, privée University, au coin de la rue Copernicus. Du 31 août au 30 avril, c'est ouvert du lundi au vendredi de 11 h à 19 h, et fermé la fin de semaine.",
+   "en": "Yes, Flour Kitchen serves Chinese food at 25 University Private, at the corner of Copernicus Street. From August 31 to April 30, it's open Monday to Friday from 11 a.m. to 7 p.m., and closed on weekends."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-rgn-manger",
+  "category": "services",
+  "keywords": [
+   "manger roger guindon",
+   "elements",
+   "rgn cafe",
+   "campus alta vista",
+   "food rgn",
+   "faculte de medecine manger",
+   "medicine food",
+   "smyth",
+   "cafeteria rgn",
+   "eat rgn"
+  ],
+  "question": {
+   "fr": "Où manger au pavillon Roger-Guindon ?",
+   "en": "Where can I eat at Roger Guindon Hall?"
+  },
+  "answer": {
+   "fr": "Le comptoir Elements est au pavillon Roger-Guindon, au 451, chemin Smyth. Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 7 h 30 à 16 h, et fermé la fin de semaine, les jours fériés et pendant le congé des Fêtes.",
+   "en": "Elements is in Roger Guindon Hall, at 451 Smyth Road. From September 8 to April 30, it's open Monday to Friday from 7:30 a.m. to 4 p.m., and closed on weekends, statutory holidays and over the holiday break."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-lees-manger",
+  "category": "services",
+  "keywords": [
+   "manger lees",
+   "odelees",
+   "campus lees",
+   "food lees",
+   "200 lees",
+   "cafe lees",
+   "eat lees",
+   "lees cafeteria",
+   "sciences de la sante manger",
+   "health sciences food"
+  ],
+  "question": {
+   "fr": "Où manger au campus Lees ?",
+   "en": "Where can I eat on the Lees campus?"
+  },
+  "answer": {
+   "fr": "Au 200, avenue Lees, il y a l'Odelees. Du 8 septembre au 30 avril, il est ouvert du lundi au vendredi de 8 h à 16 h, et fermé la fin de semaine, les jours fériés, pendant le congé des Fêtes et du 16 au 19 février.",
+   "en": "At 200 Lees Avenue, there's Odelees. From September 8 to April 30, it's open Monday to Friday from 8 a.m. to 4 p.m., and closed on weekends, statutory holidays, over the holiday break and from February 16 to 19."
+  },
+  "sources": [
+   {
+    "label": "Restaurants, coffee shops and more — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-eau-potable",
+  "category": "services",
+  "keywords": [
+   "eau",
+   "water",
+   "fontaine",
+   "water fountain",
+   "remplir bouteille",
+   "refill bottle",
+   "station de remplissage",
+   "refill station",
+   "boire",
+   "drinking water",
+   "abreuvoir"
+  ],
+  "question": {
+   "fr": "Où puis-je remplir ma bouteille d'eau ?",
+   "en": "Where can I refill my water bottle?"
+  },
+  "answer": {
+   "fr": "Il y a des fontaines d'eau potable sur presque chaque étage de chaque pavillon, sur tous les campus, et l'eau est gratuite pour tout le monde. Apporte ta bouteille réutilisable : l'Université entretient et renouvelle ses fontaines chaque année.",
+   "en": "There are drinking fountains on nearly every floor of every building, on all campuses, and the water is free for everyone. Bring your reusable bottle: the University maintains and renews its fountains every year."
+  },
+  "sources": [
+   {
+    "label": "Water management — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-sustainability/water"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-eau-en-bouteille",
+  "category": "services",
+  "keywords": [
+   "eau en bouteille",
+   "bottled water",
+   "acheter de l'eau",
+   "buy water",
+   "bouteille d'eau",
+   "water bottle",
+   "sans eau embouteillee",
+   "bottled water free",
+   "pourquoi pas d'eau",
+   "distributrice"
+  ],
+  "question": {
+   "fr": "Puis-je acheter une bouteille d'eau sur le campus ?",
+   "en": "Can I buy bottled water on campus?"
+  },
+  "answer": {
+   "fr": "Non, depuis 2010, l'Université d'Ottawa est un campus sans eau embouteillée : on n'en vend ni dans les distributrices ni dans les comptoirs. Tu peux plutôt boire gratuitement aux fontaines, présentes sur presque chaque étage, et d'autres boissons sont offertes dans les comptoirs alimentaires.",
+   "en": "No, since 2010 the University of Ottawa has been a bottled water-free campus: it isn't sold in vending machines or food outlets. Instead, you can drink for free at the fountains found on nearly every floor, and other drinks are available at food outlets."
+  },
+  "sources": [
+   {
+    "label": "Water management — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-sustainability/water"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-lmx-interieur",
+  "category": "batiments",
+  "keywords": [
+   "lamoureux",
+   "lmx",
+   "quoi dans lmx",
+   "what is in lmx",
+   "faculte d'education",
+   "faculty of education",
+   "psychologie",
+   "psychology",
+   "edstudio",
+   "lmx etages",
+   "lamoureux floors"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve dans le pavillon Lamoureux (LMX) ?",
+   "en": "What's inside Lamoureux Hall (LMX)?"
+  },
+  "answer": {
+   "fr": "Le pavillon Lamoureux, relié au CRX, abrite la Faculté d'éducation et l'École de psychologie. Au niveau 1, il y a Paramount, Thai Express, le Go Café, un salon d'étude et des casiers ; au 2e étage, des salles d'étude privées, le Centre de ressources de la Faculté d'éducation, edstudiO et le Centre de mentorat de la Faculté d'éducation.",
+   "en": "Lamoureux Hall, connected to CRX, is home to the Faculty of Education and the School of Psychology. Level 1 has Paramount, Thai Express, Go Café, a study lounge and lockers; the 2nd floor has private study rooms, the Faculty of Education Resource Centre, edstudiO and the Faculty of Education Mentoring Centre."
+  },
+  "sources": [
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-casiers",
+  "category": "services",
+  "keywords": [
+   "casier",
+   "locker",
+   "casiers",
+   "lockers",
+   "ranger mes affaires",
+   "store my stuff",
+   "casier lmx",
+   "casier colonel by",
+   "louer un casier",
+   "rent a locker",
+   "cadenas"
+  ],
+  "question": {
+   "fr": "Y a-t-il des casiers sur le campus ?",
+   "en": "Are there lockers on campus?"
+  },
+  "answer": {
+   "fr": "Oui, il y a des casiers notamment au niveau 1 du pavillon Lamoureux, juste à côté du CRX, au pavillon Colonel-By (niveau 0 et 5e étage), au pavillon Fauteux et au pavillon Simard. Les pages des pavillons ne précisent pas comment les obtenir, alors renseigne-toi auprès de ta faculté ou de ton association étudiante.",
+   "en": "Yes, there are lockers on level 1 of Lamoureux Hall, right next to CRX, in Colonel By Hall (level 0 and the 5th floor), in Fauteux Hall and in Simard Hall. The building pages don't explain how to get one, so check with your faculty or student association."
+  },
+  "sources": [
+   {
+    "label": "Lamoureux Hall (LMX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   },
+   {
+    "label": "Colonel By Hall (CBY) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/colonel-hall-cby"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-ucu-interieur",
+  "category": "batiments",
+  "keywords": [
+   "ucu",
+   "centre universitaire",
+   "university centre",
+   "quoi dans ucu",
+   "what is in ucu",
+   "uosu",
+   "seuo",
+   "centre etudiant",
+   "student centre",
+   "ucu etages",
+   "jock turcot"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve dans le Centre universitaire (UCU) ?",
+   "en": "What's inside the University Centre (UCU)?"
+  },
+  "answer": {
+   "fr": "Le Centre universitaire, au 85, privée University, est le carrefour de la vie étudiante. Au niveau 0, il y a la librairie du campus, le dépanneur Pivik, des comptoirs alimentaires, un guichet automatique et le bureau principal du SÉUO ; au niveau 1, la Salle à manger, une succursale RBC, un centre multiconfessionnel et une salle d'étude ouverte 24 heures sur 24. Le 2e étage regroupe le Coin carrière, le Salon du mieux-être, le Centre d'entraide et d'autres centres du SÉUO.",
+   "en": "The University Centre, at 85 University Private, is the hub of student life. Level 0 has the campus bookstore, the Pivik convenience store, food counters, an ATM and the UOSU main office; level 1 has the Dining Hall, an RBC branch, a multi-faith centre and a 24/7 study room. The 2nd floor has Career Corner, the Wellness Lounge, the Peer Help Centre and other UOSU centres."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-guichet-automatique",
+  "category": "services",
+  "keywords": [
+   "guichet automatique",
+   "atm",
+   "bank machine",
+   "retirer de l'argent",
+   "withdraw cash",
+   "banque",
+   "bank",
+   "rbc",
+   "argent comptant",
+   "cash",
+   "guichet"
+  ],
+  "question": {
+   "fr": "Y a-t-il un guichet automatique sur le campus ?",
+   "en": "Is there an ATM on campus?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre universitaire (UCU) a un guichet automatique au niveau 0 et un autre au 2e étage. Il y a aussi une succursale de la banque RBC au niveau 1 du même pavillon.",
+   "en": "Yes, the University Centre (UCU) has an ATM on level 0 and another on the 2nd floor. There's also an RBC bank branch on level 1 of the same building."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-amazon-casiers",
+  "category": "services",
+  "keywords": [
+   "amazon",
+   "casier amazon",
+   "amazon locker",
+   "colis",
+   "package",
+   "livraison",
+   "delivery",
+   "recevoir un colis",
+   "pick up parcel",
+   "amazon hub",
+   "paquet"
+  ],
+  "question": {
+   "fr": "Puis-je recevoir un colis Amazon sur le campus ?",
+   "en": "Can I get an Amazon package delivered on campus?"
+  },
+  "answer": {
+   "fr": "Oui, il y a un centre de livraison et des casiers Amazon au niveau 0 du Centre universitaire (UCU), au 85, privée University.",
+   "en": "Yes, there's an Amazon Delivery Hub with lockers on level 0 of the University Centre (UCU), at 85 University Private."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-salle-etude-24h",
+  "category": "bibliotheques",
+  "keywords": [
+   "24h",
+   "24/7",
+   "ouvert toute la nuit",
+   "open all night",
+   "salle 24 heures",
+   "24 hour study room",
+   "etudier la nuit",
+   "study overnight",
+   "nuit blanche",
+   "toute la nuit"
+  ],
+  "question": {
+   "fr": "Y a-t-il une salle d'étude ouverte 24 heures sur 24 ?",
+   "en": "Is there a study room open 24/7?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre universitaire (UCU) a une salle d'étude ouverte 24 heures sur 24, 7 jours sur 7, au niveau 1. Note que le CRX, lui, ferme à 21 h en semaine pendant la session.",
+   "en": "Yes, the University Centre (UCU) has a 24/7 study room on level 1. Note that CRX itself closes at 9 p.m. on weekdays during the term."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   },
+   {
+    "label": "Learning Crossroads (CRX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/learning-crossroads-crx"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-salon-mieux-etre",
+  "category": "services",
+  "keywords": [
+   "salon du mieux-etre",
+   "wellness lounge",
+   "relaxer",
+   "relax",
+   "se detendre",
+   "jeux",
+   "games",
+   "pause",
+   "aide par les pairs",
+   "peer support",
+   "bien-etre"
+  ],
+  "question": {
+   "fr": "Où puis-je relaxer ou prendre une pause sur le campus ?",
+   "en": "Where can I relax or take a break on campus?"
+  },
+  "answer": {
+   "fr": "Va au Salon du mieux-être, au 2e étage du Centre universitaire (UCU) : tu peux t'y détendre, jouer à des jeux, étudier ou parler à un pair aidant, chaque jour de semaine. À partir du 4 septembre 2026, il est ouvert de 9 h à 16 h du lundi au vendredi, avec des heures réduites, de midi à 16 h, notamment pendant la semaine de lecture et les examens.",
+   "en": "Head to the Wellness Lounge on the 2nd floor of the University Centre (UCU): you can relax, play games, study or talk to a peer helper every weekday. Starting September 4, 2026, it's open 9 a.m. to 4 p.m. Monday to Friday, with reduced hours, noon to 4 p.m., including during reading week and exams."
+  },
+  "sources": [
+   {
+    "label": "Wellness Lounge — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-salles-mieux-etre",
+  "category": "services",
+  "keywords": [
+   "luminotherapie",
+   "light therapy",
+   "salle des plantes",
+   "plant room",
+   "salle detente",
+   "relaxing study room",
+   "deprime saisonniere",
+   "winter blues",
+   "reserver salle mieux-etre",
+   "uowellness"
+  ],
+  "question": {
+   "fr": "Y a-t-il une salle de luminothérapie sur le campus ?",
+   "en": "Is there a light therapy room on campus?"
+  },
+  "answer": {
+   "fr": "Oui, le Salon du mieux-être du Centre universitaire a trois salles d'étude à réserver, dont une salle de luminothérapie pour combattre la déprime hivernale et une salle remplie de plantes. Elles sont réservées aux étudiants actuels et il faut ta carte uOttawa pour y entrer.",
+   "en": "Yes, the Wellness Lounge in the University Centre has three bookable study rooms, including a light therapy room to beat the winter blues and a room full of plants. They're for current students only, and you need your uOttawa card to get in."
+  },
+  "sources": [
+   {
+    "label": "Wellness Lounge — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-chiens-therapie",
+  "category": "services",
+  "keywords": [
+   "chien",
+   "dog",
+   "chiens de therapie",
+   "therapy dogs",
+   "zootherapie",
+   "animaux",
+   "pet therapy",
+   "flatter un chien",
+   "stress",
+   "anxiete"
+  ],
+  "question": {
+   "fr": "Y a-t-il des chiens de thérapie sur le campus ?",
+   "en": "Are there therapy dogs on campus?"
+  },
+  "answer": {
+   "fr": "Oui, des séances avec des chiens de thérapie ont lieu au Salon du mieux-être, au 2e étage du Centre universitaire. Les places sans réservation sont limitées, alors réserve ta place à l'avance.",
+   "en": "Yes, therapy dog sessions take place at the Wellness Lounge, on the 2nd floor of the University Centre. Drop-in spots are limited, so reserve your spot ahead of time."
+  },
+  "sources": [
+   {
+    "label": "Wellness Lounge — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-photo-gratuite",
+  "category": "services",
+  "keywords": [
+   "photo",
+   "headshot",
+   "photo gratuite",
+   "free headshot",
+   "photo de finissant",
+   "graduation photo",
+   "portrait",
+   "photo linkedin",
+   "studio photo",
+   "photo studio"
+  ],
+  "question": {
+   "fr": "Où puis-je avoir une photo de finissant gratuite ?",
+   "en": "Where can I get a free graduation photo?"
+  },
+  "answer": {
+   "fr": "Le SÉUO offre des photos de finissant gratuites, prises dans son studio au sous-sol du Centre universitaire, au local 0030, au bas de l'escalier à côté de Pivik. Il faut réserver une plage horaire en ligne et arriver à l'heure, et si tu ne peux pas venir, annule avec le lien de ton courriel de confirmation.",
+   "en": "UOSU offers free graduation photos, taken in its studio in the University Centre basement, room 0030, at the bottom of the stairs next to Pivik. You need to book a time slot online and arrive on time, and if you can't make it, cancel using the link in your confirmation email."
+  },
+  "sources": [
+   {
+    "label": "Free Headshots — UOSU",
+    "url": "https://www.seuo-uosu.com/programs/free-headshots"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-espresso-toi",
+  "category": "services",
+  "keywords": [
+   "espresso-toi",
+   "cafe gratuit",
+   "free coffee",
+   "parler francais",
+   "speak french",
+   "insecurite linguistique",
+   "francophone",
+   "chocolat chaud",
+   "hot chocolate",
+   "patisserie gratuite"
+  ],
+  "question": {
+   "fr": "Puis-je avoir un café gratuit si je commande en français ?",
+   "en": "Can I get a free coffee if I order in French?"
+  },
+  "answer": {
+   "fr": "Oui ! Avec la campagne Espresso-toi, le SÉUO organise chaque semaine une heure du café où tu reçois un café ou un chocolat chaud et une pâtisserie gratuits si tu commandes en français. Le but est de lutter contre l'insécurité linguistique ; consulte le SÉUO pour l'endroit et l'horaire.",
+   "en": "Yes! With the Espresso-toi campaign, UOSU holds a weekly coffee hour where you get a free coffee or hot chocolate and a pastry if you order in French. The goal is to fight linguistic insecurity; check with UOSU for the location and schedule."
+  },
+  "sources": [
+   {
+    "label": "Espresso-toi — UOSU",
+    "url": "https://www.seuo-uosu.com/programs/espresso-toi"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-docucentre",
+  "category": "ti",
+  "keywords": [
+   "docucentre",
+   "affiche",
+   "poster",
+   "imprimer une affiche",
+   "print poster",
+   "cartes d'affaires",
+   "business cards",
+   "centre d'impression",
+   "print shop",
+   "impression grand format",
+   "reprographie"
+  ],
+  "question": {
+   "fr": "Où puis-je faire imprimer une affiche ?",
+   "en": "Where can I get a poster printed?"
+  },
+  "answer": {
+   "fr": "Le DocUcentre, au local 0024 du Centre universitaire, est le centre de conception et d'impression de l'Université : affiches, cartes d'affaires, numérisation et plus. Il est ouvert du lundi au vendredi de 8 h 30 à 17 h, et tu peux soumettre et payer ta commande en ligne avant d'aller la chercher.",
+   "en": "The DocUcentre, in room 0024 of the University Centre, is the University's design and print shop: posters, business cards, scanning and more. It's open Monday to Friday from 8:30 a.m. to 5 p.m., and you can submit and pay for your order online before picking it up."
+  },
+  "sources": [
+   {
+    "label": "DocUcentre — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/docucentre"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-fss-interieur",
+  "category": "batiments",
+  "keywords": [
+   "fss",
+   "sciences sociales",
+   "social sciences building",
+   "quoi dans fss",
+   "what is in fss",
+   "bibliotheque fss",
+   "salles d'etude fss",
+   "120 university",
+   "pavillon des sciences sociales",
+   "fss floors"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve pour les étudiants dans le pavillon des Sciences sociales (FSS) ?",
+   "en": "What's in the Social Sciences Building (FSS) for students?"
+  },
+  "answer": {
+   "fr": "Le pavillon FSS, au 120, privée University, compte 15 étages. On y trouve une Première Moisson et des aires de salon, et au 2e étage, une bibliothèque, des salles d'étude et les associations étudiantes de premier cycle et des cycles supérieurs. Le Centre de l'expérience étudiante de la Faculté est au 3e étage.",
+   "en": "The FSS building, at 120 University Private, has 15 floors. It has a Première Moisson and lounge areas, and on the 2nd floor, a library, study rooms and the undergraduate and graduate student associations. The Faculty's Student Experience Centre is on the 3rd floor."
+  },
+  "sources": [
+   {
+    "label": "Social Sciences Building (FSS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/social-sciences-building"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-desmarais-interieur",
+  "category": "batiments",
+  "keywords": [
+   "desmarais",
+   "dms",
+   "quoi dans desmarais",
+   "what is in desmarais",
+   "telfer",
+   "starbucks",
+   "bibliotheque de gestion",
+   "management library",
+   "coop bureau",
+   "aide financiere",
+   "55 laurier"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve dans le pavillon Desmarais ?",
+   "en": "What's inside Desmarais Hall?"
+  },
+  "answer": {
+   "fr": "Au niveau 1 du pavillon Desmarais, il y a un Starbucks, un kiosque d'information et le Centre des services aux étudiants de l'École de gestion Telfer. Le 2e étage a des laboratoires informatiques, un salon étudiant et la Bibliothèque de gestion, et le 3e étage abrite les bureaux des programmes coop, du Service de l'aide financière et des bourses et le Centre des examens adaptés.",
+   "en": "Level 1 of Desmarais Hall has a Starbucks, an info desk kiosk and the Telfer School of Management Student Services Centre. Level 2 has computer labs, a student lounge and the Management Library, and level 3 houses the Co-op Programs offices, Financial Aid and Awards and the (Adapted) Exam Centre."
+  },
+  "sources": [
+   {
+    "label": "Desmarais Hall (DMS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/desmarais-hall"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-comptoir-information",
+  "category": "services",
+  "keywords": [
+   "kiosque d'information",
+   "info desk",
+   "comptoir information",
+   "information desk",
+   "renseignements",
+   "help desk",
+   "accueil",
+   "reception",
+   "ou demander",
+   "where to ask"
+  ],
+  "question": {
+   "fr": "Y a-t-il un comptoir d'information sur le campus ?",
+   "en": "Is there an information desk on campus?"
+  },
+  "answer": {
+   "fr": "Oui, il y a un kiosque d'information au niveau 1 du pavillon Desmarais, et un comptoir d'information au complexe sportif Minto. Et ici même, je peux répondre à beaucoup de tes questions !",
+   "en": "Yes, there's an info desk kiosk on level 1 of Desmarais Hall, and an info desk at the Minto Sports Complex. And right here, I can answer lots of your questions!"
+  },
+  "sources": [
+   {
+    "label": "Desmarais Hall (DMS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/desmarais-hall"
+   },
+   {
+    "label": "Minto Sports Complex (MNO) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/minto-sports-complex"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-labo-info-genie",
+  "category": "ti",
+  "keywords": [
+   "labo informatique genie",
+   "engineering computer lab",
+   "site 0110",
+   "cby b102",
+   "ordinateurs genie",
+   "engineering computers",
+   "labo site",
+   "computer lab site",
+   "colonel by lab",
+   "laboratoire informatique"
+  ],
+  "question": {
+   "fr": "Où sont les laboratoires informatiques de génie ?",
+   "en": "Where are the engineering computer labs?"
+  },
+  "answer": {
+   "fr": "La Faculté de génie a des laboratoires informatiques au local 0110 du pavillon SITE, au niveau 0, et au local B102 du pavillon Colonel-By. Pour plus de détails, consulte les Services informatiques de la Faculté de génie, au 2e étage du SITE.",
+   "en": "The Faculty of Engineering has computer labs in room 0110 of the SITE building, on level 0, and in room B102 of Colonel By Hall. For more details, check with the Faculty of Engineering IT Services, on the 2nd floor of SITE."
+  },
+  "sources": [
+   {
+    "label": "Computers - computing labs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/computing-labs"
+   },
+   {
+    "label": "SITE building (STE) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/site"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-imprimantes-genie",
+  "category": "ti",
+  "keywords": [
+   "imprimante site",
+   "imprimante stem",
+   "printer site",
+   "printer stem",
+   "imprimer genie",
+   "print engineering",
+   "imprimante colonel by",
+   "imprimante marion",
+   "uoprint",
+   "ou imprimer"
+  ],
+  "question": {
+   "fr": "Où imprimer dans les pavillons de génie et de sciences ?",
+   "en": "Where can I print in the engineering and science buildings?"
+  },
+  "answer": {
+   "fr": "Il y a des imprimantes uoPrint au pavillon SITE (locaux 0110 et 1000D), au complexe STEM (local 119), au pavillon Colonel-By (local C01) et au pavillon Marion (local 020). Le CRX en a une aussi, au local C230.",
+   "en": "There are uoPrint printers in the SITE building (rooms 0110 and 1000D), the STEM Complex (room 119), Colonel By Hall (room C01) and Marion Hall (room 020). CRX has one too, in room C230."
+  },
+  "sources": [
+   {
+    "label": "uoPrint: Self-service printers — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/print/printer"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "i-imprimantes-pavillons",
+  "category": "ti",
+  "keywords": [
+   "imprimante",
+   "printer",
+   "ou imprimer",
+   "where to print",
+   "imprimante morisset",
+   "imprimante lamoureux",
+   "imprimante desmarais",
+   "imprimante vanier",
+   "liste imprimantes",
+   "printer locations",
+   "uoprint"
+  ],
+  "question": {
+   "fr": "Où sont les imprimantes étudiantes sur le campus ?",
+   "en": "Where are the student printers on campus?"
+  },
+  "answer": {
+   "fr": "Il y a 33 imprimantes uoPrint sur le campus. Morisset en a le plus, avec six au local 142 et d'autres aux étages 2, 3, 5 et 6 ; on en trouve aussi au pavillon Lamoureux (local 201), à Desmarais (2000K), à Vanier (2007), à Simard (023), à Fauteux (419) et à Hamelin. La liste complète, avec les numéros de local, est sur la page uoPrint.",
+   "en": "There are 33 uoPrint printers on campus. Morisset has the most, with six in room 142 and more on floors 2, 3, 5 and 6; you'll also find them in Lamoureux Hall (room 201), Desmarais (2000K), Vanier (2007), Simard (023), Fauteux (419) and Hamelin. The full list, with room numbers, is on the uoPrint page."
+  },
+  "sources": [
+   {
+    "label": "uoPrint: Self-service printers — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/print/printer"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ }
+]

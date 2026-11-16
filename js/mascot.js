@@ -6,6 +6,9 @@ import * as THREE from 'three';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 
 const C = { garnet: 0x8f001a, garnetDark: 0x5c0010, grey: 0x6d6e71, coat: 0xece7df, muzzle: 0xf7f2eb, hoof: 0x37373a, pink: 0xeaa3b2 };
+// Vrai modèle 3D de Gee-Gee : déposer le fichier dans assets/ puis écrire son chemin ici, ex. 'assets/geegee.glb'.
+// Laisser null pour utiliser le Gee-Gee fait en code.
+const MODEL_URL = null;
 const FLOOR = -1.33;   // dessous des souliers = plancher de la boîte
 const TOP = 2.02;      // bout des oreilles
 const FIT = 1.06;      // marge au-dessus des oreilles
@@ -58,6 +61,8 @@ export class GeeGee {
     this.figure = 0.27; // position horizontale de Gee-Gee dans l'image (0 = bord gauche)
 
     this.build();
+    this.modelYaw = 0;
+    if (MODEL_URL) this.loadModel(MODEL_URL);
     this.state = {
       mouth: 0, syllables: [], talking: false, gesture: null, calm: false, pose: null, attention: null,
       blinkAt: now() + 1.5, blinkStart: -1, earAt: now() + 2, earStart: -1, earSide: 0,
@@ -171,21 +176,10 @@ export class GeeGee {
     for (let i = 0; i < 6; i++) at(ball(0.075 - i * 0.008, mat(C.garnet, 0.55), 0.8, 1.3, 0.8), 0, -i * 0.11, -0.04 - Math.sin(i * 0.5) * 0.12, this.tail);
     this.tail.rotation.x = 0.35;
 
-    // Particules lumineuses qui montent : effet de projection holographique
-    const N = 140, positions = new Float32Array(N * 3), colors = new Float32Array(N * 3);
-    const cyan = new THREE.Color(0xffffff), red = new THREE.Color(0xd0103a); // blanc et grenat
-    this.sparks = Array.from({ length: N }, (_, i) => {
-      const c = Math.random() < 0.75 ? cyan : red; colors.set([c.r, c.g, c.b], i * 3);
-      return { a: Math.random() * Math.PI * 2, r: 0.3 + Math.random() * 0.45, y: FLOOR + Math.random() * 3.4, v: 0.08 + Math.random() * 0.18, w: (Math.random() - 0.5) * 0.4 };
-    });
-    this.sparkGeo = new THREE.BufferGeometry();
-    this.sparkGeo.setAttribute('position', new THREE.BufferAttribute(positions, 3));
-    this.sparkGeo.setAttribute('color', new THREE.BufferAttribute(colors, 3));
     // Ombre de contact sur le plancher de la boîte (seule l'ombre est dessinée)
-    const floor = at(new THREE.Mesh(new THREE.CircleGeometry(1.6, 48), new THREE.ShadowMaterial({ opacity: 0.45 })), 0, FLOOR, 0, this.scene);
+    const floor = at(new THREE.Mesh(new THREE.CircleGeometry(1.6, 48), new THREE.ShadowMaterial({ opacity: 0.22 })), 0, FLOOR, 0, this.scene);
     floor.rotation.x = -Math.PI / 2; floor.receiveShadow = true;
     this.root.traverse((o) => { if (o.isMesh) { o.castShadow = true; o.receiveShadow = true; } });
-    this.scene.add(new THREE.Points(this.sparkGeo, new THREE.PointsMaterial({ size: 0.035, vertexColors: true, transparent: true, opacity: 0.75, blending: THREE.AdditiveBlending, depthWrite: false })));
   }
 
   // ---------- Affichage ----------
@@ -243,7 +237,38 @@ export class GeeGee {
     this.state.calm = kind === 'sensitive';
     if (g) this.play(...g);
   }
-  play(name, dur) { this.state.gesture = { name, t0: now(), dur }; }
+  play(name, dur) {
+    this.state.gesture = { name, t0: now(), dur };
+    // Avec un vrai modèle : joue l'animation du fichier qui porte ce nom (ex. « wave »), puis revient au repos
+    const clip = this.clips?.find((c) => c.name.toLowerCase().includes(name.toLowerCase()));
+    if (clip && this.mixer) {
+      const a = this.mixer.clipAction(clip); a.reset().setLoop(THREE.LoopOnce, 1).fadeIn(0.25).play(); a.clampWhenFinished = false;
+    }
+  }
+
+  // ---------- Vrai modèle 3D ----------
+  // Si l'équipe dépose un fichier assets/geegee.glb (mascotte modélisée ou générée), il remplace le Gee-Gee fait en code.
+  // Il est mis à l'échelle de la boîte (tête aux pieds), posé au sol, et ses animations (idle, wave…) sont utilisées.
+  async loadModel(url) {
+    try {
+      const { GLTFLoader } = await import('three/addons/loaders/GLTFLoader.js');
+      const gltf = await new GLTFLoader().loadAsync(url);
+      const m = gltf.scene, box = new THREE.Box3().setFromObject(m), size = box.getSize(new THREE.Vector3());
+      m.scale.setScalar((TOP - FLOOR) / size.y);
+      box.setFromObject(m);
+      const c = box.getCenter(new THREE.Vector3());
+      m.position.set(-c.x, FLOOR - box.min.y, -c.z);
+      m.traverse((o) => { if (o.isMesh) { o.castShadow = true; o.receiveShadow = true; } });
+      this.model = new THREE.Group(); this.model.add(m); this.scene.add(this.model);
+      this.root.visible = false;
+      this.clips = gltf.animations;
+      if (this.clips.length) {
+        this.mixer = new THREE.AnimationMixer(m);
+        const idle = this.clips.find((k) => /idle|repos|breath/i.test(k.name)) || this.clips[0];
+        this.mixer.clipAction(idle).play();
+      }
+    } catch (err) { console.warn('Modèle 3D non chargé, Gee-Gee fait en code utilisé à la place :', err); }
+  }
   lookToward(x, y) {
     if (!this.el.isConnected) return;
     const r = this.el.getBoundingClientRect();
@@ -354,14 +379,12 @@ export class GeeGee {
     this.forelock.rotation.x = -P.hx * 0.8 + Math.sin(t * 3) * 0.03;
     this.mane.rotation.y = P.hy * 0.4;
 
-    // Particules
-    const pos = this.sparkGeo.attributes.position;
-    this.sparks.forEach((s, i) => {
-      s.y += s.v * dt; s.a += s.w * dt;
-      if (s.y > TOP + 0.3) { s.y = FLOOR; s.a = Math.random() * Math.PI * 2; }
-      pos.setXYZ(i, Math.cos(s.a) * s.r, s.y, Math.sin(s.a) * s.r * 0.6 - 0.1);
-    });
-    pos.needsUpdate = true;
+    // Vrai modèle 3D (s'il est présent) : animations du fichier, orientation et petits hochements quand il parle
+    if (this.model) {
+      this.mixer?.update(dt);
+      this.model.position.y = P.y; this.model.rotation.y = P.ry - 0.22 + this.modelYaw;
+      this.model.rotation.x = S.mouth * 0.035; this.model.rotation.z = P.rz;
+    }
 
     this.renderer.render(this.scene, this.camera);
   }

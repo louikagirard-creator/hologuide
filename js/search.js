@@ -14,7 +14,8 @@ const THANKS = ['merci', 'thanks', 'thank you', 'thx', 'super merci', 'merci bea
 
 export function norm(s) {
   return ` ${String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
-    .replace(/[’']/g, ' ').replace(/[^a-z0-9]+/g, ' ').trim()} `;
+    .replace(/[’']/g, ' ').replace(/[^a-z0-9]+/g, ' ').trim()
+    .replace(/\b([a-z]{4,})s\b/g, '$1')} `; // pluriel simple : « examens » = « examen »
 }
 const words = (s) => norm(s).trim().split(' ').filter((w) => w && !STOP.has(w));
 
@@ -34,6 +35,10 @@ const INDEX = KB.map((e) => {
   return { e, kws, vocab: [...vocab].filter((w) => w.length > 2 && !STOP.has(w)) };
 });
 const ALL_WORDS = new Set(INDEX.flatMap((it) => it.vocab)); // un mot connu n'est pas une faute de frappe
+// Rareté de chaque mot : « différés » ou « fauteux » départagent mieux les réponses que « examens » ou « pavillon ».
+const DF = new Map();
+INDEX.forEach((it) => it.vocab.forEach((w) => DF.set(w, (DF.get(w) || 0) + 1)));
+const idf = (w) => Math.min(2, 0.4 + Math.log(INDEX.length / (DF.get(w) || 1)) / 3);
 const CAT_HINTS = CATEGORIES.map((c) => ({ id: c.id, hints: c.hints.map(norm) }));
 
 function score(item, n, qwords, cats) {
@@ -44,7 +49,7 @@ function score(item, n, qwords, cats) {
   }
   for (const w of qwords) {
     if (w.length < 3) continue;
-    if (item.vocab.includes(w)) s += 1;
+    if (item.vocab.includes(w)) s += idf(w);
     else if (w.length >= 5 && !ALL_WORDS.has(w) && item.vocab.some((v) => v.length >= 5 && lev(w, v) <= 1)) s += 0.75;
   }
   if (cats.has(item.e.category)) s += 0.5;

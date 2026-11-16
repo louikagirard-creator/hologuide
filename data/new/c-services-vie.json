@@ -1,0 +1,2097 @@
+[
+  {
+    "id": "c-securite-joindre",
+    "category": "services",
+    "keywords": [
+      "sécurité",
+      "service de la protection",
+      "agent de sécurité",
+      "numéro sécurité",
+      "appeler la sécurité",
+      "protection services",
+      "campus security",
+      "security phone number",
+      "call security",
+      "5411",
+      "5499"
+    ],
+    "question": {
+      "fr": "Comment joindre le service de sécurité du campus ?",
+      "en": "How do I reach campus security?"
+    },
+    "answer": {
+      "fr": "Le Service de la protection est disponible 24 heures sur 24, 7 jours sur 7. En cas d'urgence sur le campus, compose le 613-562-5411, et hors campus, appelle le 911. Pour une question de sécurité non urgente, c'est le 613-562-5499. Le bureau principal est au 141, privé Louis-Pasteur.",
+      "en": "Protection Services is available 24 hours a day, 7 days a week. For an emergency on campus, dial 613-562-5411, and off campus, call 911. For a non-urgent security question, call 613-562-5499. The main office is at 141 Louis-Pasteur Private."
+    },
+    "sources": [
+      {
+        "label": "How to reach us (Protection Services) — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/reach-us"
+      },
+      {
+        "label": "Emergency — uOttawa",
+        "url": "https://www.uottawa.ca/en/emergency"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-urgence-campus",
+    "category": "services",
+    "keywords": [
+      "urgence",
+      "911",
+      "appel d'urgence",
+      "quelqu'un est blessé",
+      "accident",
+      "malaise",
+      "emergency",
+      "someone is hurt",
+      "report an emergency",
+      "call for help",
+      "first aid"
+    ],
+    "question": {
+      "fr": "Que faire s'il y a une urgence sur le campus ?",
+      "en": "What should I do in an emergency on campus?"
+    },
+    "answer": {
+      "fr": "Sur le campus, appelle le Service de la protection au 613-562-5411 : ses agents sont formés en premiers soins, ont un défibrillateur et guideront les ambulanciers jusqu'à toi. Hors campus, appelle d'abord le 911. Décris clairement la situation et l'endroit, et reste disponible pour donner plus de détails.",
+      "en": "On campus, call Protection Services at 613-562-5411: their guards are trained in first aid, carry a defibrillator and will guide paramedics to you. Off campus, call 911 first. Describe the situation and location clearly, and stay available in case more details are needed."
+    },
+    "sources": [
+      {
+        "label": "Emergency — uOttawa",
+        "url": "https://www.uottawa.ca/en/emergency"
+      },
+      {
+        "label": "How to reach us (Protection Services) — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/reach-us"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-telephones-urgence",
+    "category": "services",
+    "keywords": [
+      "téléphone d'urgence",
+      "lumière bleue",
+      "bouton panique",
+      "bouton d'urgence",
+      "borne d'urgence",
+      "je me sens en danger",
+      "emergency phone",
+      "blue light",
+      "panic button",
+      "feel unsafe",
+      "emergency button"
+    ],
+    "question": {
+      "fr": "C'est quoi les téléphones d'urgence avec une lumière bleue ?",
+      "en": "What are the blue-light emergency phones?"
+    },
+    "answer": {
+      "fr": "Il y a plus de 140 téléphones d'urgence sur les campus de l'Université. Appuie sur le bouton et tu parles tout de suite au Service de la protection; une lumière bleue clignote et un agent est envoyé sur place. Il y a aussi plus de 20 boutons panique, notamment dans certaines toilettes pour femmes.",
+      "en": "There are more than 140 emergency phones across the University's campuses. Press the button and you're connected right away to Protection Services; a blue strobe light turns on and a guard is sent to your location. There are also more than 20 panic buttons, including in some women's washrooms."
+    },
+    "sources": [
+      {
+        "label": "How to reach us (Protection Services) — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/reach-us"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-securuo-alertes",
+    "category": "services",
+    "keywords": [
+      "securuo",
+      "application sécurité",
+      "alertes d'urgence",
+      "alerte campus",
+      "notifications urgence",
+      "safety app",
+      "emergency alerts",
+      "campus alert",
+      "alertus",
+      "sms alert"
+    ],
+    "question": {
+      "fr": "Y a-t-il une application de sécurité pour le campus ?",
+      "en": "Is there a safety app for campus?"
+    },
+    "answer": {
+      "fr": "Oui, télécharge SecurUO, l'appli de sécurité mobile de uOttawa : elle a un bouton pour appeler directement le Service de la protection. Tu peux aussi t'abonner aux alertes d'urgence par texto et courriel; les étudiants actifs les reçoivent automatiquement à leur adresse uOttawa.",
+      "en": "Yes, download SecurUO, uOttawa's mobile safety app: it has a direct dialer to Protection Services. You can also subscribe to SMS and email emergency alerts; active students automatically get them at their uOttawa email address."
+    },
+    "sources": [
+      {
+        "label": "Emergency — uOttawa",
+        "url": "https://www.uottawa.ca/en/emergency"
+      },
+      {
+        "label": "Are you ready? — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/are-you-ready"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-raccompagnement",
+    "category": "services",
+    "keywords": [
+      "raccompagnement",
+      "safewalk",
+      "marcher le soir",
+      "accompagnement de nuit",
+      "foot patrol",
+      "patrouille à pied",
+      "walk home",
+      "safe walk",
+      "escort at night",
+      "walk me to the bus"
+    ],
+    "question": {
+      "fr": "Est-ce que quelqu'un peut me raccompagner le soir sur le campus ?",
+      "en": "Can someone walk me across campus at night?"
+    },
+    "answer": {
+      "fr": "Le SÉUO offre Safewalk : deux bénévoles formés t'accompagnent jusqu'à ta résidence, un arrêt d'autobus ou le stationnement. Selon sa page, le service fonctionne tous les jours de 20 h à minuit au 613-900-7184, avec un bureau au Centre universitaire. Le service dépend de bénévoles, alors en tout temps, tu peux aussi appeler le Service de la protection au 613-562-5499.",
+      "en": "UOSU offers Safewalk: two trained volunteers walk with you to your residence, a bus stop or the parking lot. According to its page, it runs every day from 8 p.m. to midnight at 613-900-7184, with an office in the University Centre. The service relies on volunteers, so at any time you can also call Protection Services at 613-562-5499."
+    },
+    "sources": [
+      {
+        "label": "SafeWalk — UOSU",
+        "url": "https://www.seuo-uosu.com/programs/safewalk"
+      },
+      {
+        "label": "How to reach us (Protection Services) — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/reach-us"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-objets-perdus",
+    "category": "services",
+    "keywords": [
+      "objets perdus",
+      "j'ai perdu",
+      "perdu mon sac",
+      "perdu mes clés",
+      "objets trouvés",
+      "lost and found",
+      "i lost my",
+      "lost my bag",
+      "lost my keys",
+      "lost item"
+    ],
+    "question": {
+      "fr": "J'ai perdu quelque chose sur le campus, où aller ?",
+      "en": "I lost something on campus, where do I go?"
+    },
+    "answer": {
+      "fr": "Remplis le formulaire en ligne des Objets perdus pour décrire ton objet; on te contactera si quelque chose correspond. Le bureau est au pavillon Montpetit, 125 privé Université, local 146; apporte une pièce d'identité pour récupérer ton objet. Les objets sont gardés deux mois, et les ordinateurs ou téléphones sont confiés au Service de la protection.",
+      "en": "Fill out the Lost and Found online form to describe your item; they'll contact you if something matches. The office is in Montpetit Hall, 125 University Private, room 146; bring ID to pick up your item. Items are kept for two months, and laptops or phones are handed to Protection Services."
+    },
+    "sources": [
+      {
+        "label": "Lost and Found — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/campus-sustainability/lost-found"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-objet-trouve",
+    "category": "services",
+    "keywords": [
+      "j'ai trouvé",
+      "objet trouvé",
+      "rapporter un objet",
+      "trouvé un portefeuille",
+      "trouvé une carte",
+      "found an item",
+      "i found a wallet",
+      "return lost item",
+      "found something",
+      "drop box"
+    ],
+    "question": {
+      "fr": "J'ai trouvé un objet, je le rapporte où ?",
+      "en": "I found something, where do I bring it?"
+    },
+    "answer": {
+      "fr": "Apporte-le au local 02A du Centre universitaire; il y a une boîte de dépôt accessible 24 heures sur 24. Indique quand et où tu l'as trouvé. Si tu es au pavillon Roger-Guindon ou au campus Lees, laisse-le au bureau de la Protection de l'édifice, et si c'est une carte étudiante, rapporte-la au Service de la carte uOttawa.",
+      "en": "Bring it to room 02A of the University Centre; there's a drop box accessible 24/7. Say when and where you found it. At Roger Guindon Hall or the Lees campus, leave it at the building's Protection office, and if it's a student card, return it to the uOttawa Card Service."
+    },
+    "sources": [
+      {
+        "label": "Lost and Found — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/campus-sustainability/lost-found"
+      },
+      {
+        "label": "Get a uOttawa student card — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/student-card/get-student-card"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-carte-perdue",
+    "category": "services",
+    "keywords": [
+      "carte étudiante perdue",
+      "perdu ma carte",
+      "carte volée",
+      "remplacer ma carte",
+      "désactiver ma carte",
+      "lost student card",
+      "lost my card",
+      "stolen card",
+      "replace student card",
+      "card replacement"
+    ],
+    "question": {
+      "fr": "J'ai perdu ma carte étudiante, je fais quoi ?",
+      "en": "I lost my student card, what do I do?"
+    },
+    "answer": {
+      "fr": "Si tu n'en as pas besoin tout de suite, attends quelques jours au cas où elle serait retrouvée, et vérifie aux Objets perdus. Tu peux la désactiver en attendant pour protéger tes fonds. Pour une nouvelle carte, des frais de 43,97 $ s'appliquent et l'ancienne sera désactivée pour de bon; le Service de la carte uOttawa est au 90 privé Université, local 145, au 613-562-5885.",
+      "en": "If you don't need it right away, wait a few days in case it turns up, and check with Lost and Found. You can deactivate it in the meantime to protect your funds. A replacement costs $43.97 and the old card is permanently deactivated; the uOttawa Card Service is at 90 University Private, room 145, at 613-562-5885."
+    },
+    "sources": [
+      {
+        "label": "Get a uOttawa student card — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/student-card/get-student-card"
+      },
+      {
+        "label": "Lost and Found — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/campus-sustainability/lost-found"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-carte-premiere",
+    "category": "services",
+    "keywords": [
+      "obtenir ma carte étudiante",
+      "première carte",
+      "photo carte étudiante",
+      "ramasser ma carte",
+      "carte uottawa",
+      "get student card",
+      "first student card",
+      "student card photo",
+      "pick up card",
+      "uottawa card"
+    ],
+    "question": {
+      "fr": "Comment obtenir ma carte étudiante ?",
+      "en": "How do I get my student card?"
+    },
+    "answer": {
+      "fr": "Une fois admis et inscrit à au moins un cours, soumets ta photo en ligne avec tes identifiants uoAccess. Attends le courriel qui dit que ta carte est prête, puis va la chercher au Service de la carte uOttawa, 90 privé Université, local 145, avec une pièce d'identité gouvernementale valide. Le bureau est ouvert du lundi au vendredi, de 9 h à 16 h 30, d'août à mai.",
+      "en": "Once you're admitted and enrolled in at least one course, submit your photo online with your uoAccess credentials. Wait for the email saying your card is ready, then pick it up at the uOttawa Card Service, 90 University Private, room 145, with valid government-issued ID. The office is open Monday to Friday, 9 a.m. to 4:30 p.m., from August to May."
+    },
+    "sources": [
+      {
+        "label": "Get a uOttawa student card — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/student-card/get-student-card"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-carte-defectueuse",
+    "category": "services",
+    "keywords": [
+      "carte ne fonctionne pas",
+      "carte brisée",
+      "carte endommagée",
+      "carte défectueuse",
+      "changement de nom carte",
+      "card not working",
+      "broken card",
+      "damaged card",
+      "card doesn't scan",
+      "name change card"
+    ],
+    "question": {
+      "fr": "Ma carte étudiante ne fonctionne plus, que faire ?",
+      "en": "My student card stopped working, what should I do?"
+    },
+    "answer": {
+      "fr": "Apporte-la au Service de la carte uOttawa, au 90 privé Université, local 145. Si elle a été endommagée, des frais non remboursables de 43,97 $ s'appliquent pour la remplacer. Pour un changement de nom légal, présente deux pièces d'identité à InfoService, au pavillon Tabaret.",
+      "en": "Bring it to the uOttawa Card Service at 90 University Private, room 145. If it was damaged, a non-refundable $43.97 replacement fee applies. For a legal name change, bring two pieces of ID to InfoService in Tabaret Hall."
+    },
+    "sources": [
+      {
+        "label": "Get a uOttawa student card — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/student-card/get-student-card"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-cafe",
+    "category": "services",
+    "keywords": [
+      "café",
+      "acheter un café",
+      "tim hortons",
+      "starbucks",
+      "second cup",
+      "où prendre un café",
+      "coffee",
+      "buy coffee",
+      "where can i get coffee",
+      "coffee shop"
+    ],
+    "question": {
+      "fr": "Où acheter un café sur le campus ?",
+      "en": "Where can I buy a coffee on campus?"
+    },
+    "answer": {
+      "fr": "Tu as plusieurs choix : Tim Hortons au Carrefour des apprentissages, au pavillon SITE et au niveau 0 du Centre universitaire, Starbucks au pavillon Desmarais, Second Cup au pavillon Morisset et les Go Café aux pavillons Tabaret, Fauteux et Lamoureux. La plupart ouvrent en semaine seulement, souvent dès 7 h 30. Vérifie les heures exactes sur la page des restaurants.",
+      "en": "You have lots of choices: Tim Hortons in the Learning Crossroads, the SITE building and level 0 of the University Centre, Starbucks in Desmarais, Second Cup in Morisset and Go Café in Tabaret, Fauteux and Lamoureux halls. Most are open weekdays only, often from 7:30 a.m. Check exact hours on the restaurants page."
+    },
+    "sources": [
+      {
+        "label": "Restaurants, coffee shops and more — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-salle-a-manger",
+    "category": "services",
+    "keywords": [
+      "salle à manger",
+      "cafétéria",
+      "buffet",
+      "à volonté",
+      "dining hall",
+      "cafeteria",
+      "all you can eat",
+      "where to eat dinner",
+      "manger au campus",
+      "eat on campus"
+    ],
+    "question": {
+      "fr": "C'est où la salle à manger, et qui peut y aller ?",
+      "en": "Where is the Dining Hall and who can eat there?"
+    },
+    "answer": {
+      "fr": "La salle à manger est au niveau 1 du Centre universitaire, et tout le monde est bienvenu : étudiants, personnel et visiteurs. C'est un buffet à volonté avec 10 comptoirs, ouvert de 6 h à 23 h en automne et en hiver. Tu peux payer à la porte ou utiliser un plan de repas.",
+      "en": "The Dining Hall is on level 1 of the University Centre, and everyone is welcome: students, staff and guests. It's an all-you-care-to-eat buffet with 10 stations, open from 6 a.m. to 11 p.m. in fall and winter. You can pay at the door or use a meal plan."
+    },
+    "sources": [
+      {
+        "label": "Dining Hall — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/eat-campus/dining-hall"
+      },
+      {
+        "label": "University Centre (UCU) — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-manger-tard",
+    "category": "services",
+    "keywords": [
+      "manger tard",
+      "manger le soir",
+      "fin de semaine",
+      "ouvert tard",
+      "souper",
+      "late night food",
+      "eat late",
+      "open on weekends",
+      "dinner on campus",
+      "food open now"
+    ],
+    "question": {
+      "fr": "Où manger le soir ou la fin de semaine ?",
+      "en": "Where can I eat in the evening or on weekends?"
+    },
+    "answer": {
+      "fr": "La salle à manger du Centre universitaire est ouverte jusqu'à 23 h en automne et en hiver. Le Nox, au niveau 2 du Complexe sportif Minto, est ouvert jusqu'à 1 h en semaine et jusqu'à minuit la fin de semaine, et Gabriel Pizza, à la résidence Rideau, ouvre aussi tous les jours. La plupart des cafés du campus ferment le samedi et le dimanche.",
+      "en": "The University Centre Dining Hall is open until 11 p.m. in fall and winter. Nox, on level 2 of the Minto Sports Complex, is open until 1 a.m. on weekdays and until midnight on weekends, and Gabriel Pizza at the Rideau Residence is also open every day. Most campus cafés are closed on Saturday and Sunday."
+    },
+    "sources": [
+      {
+        "label": "Dining Hall — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/eat-campus/dining-hall"
+      },
+      {
+        "label": "Restaurants, coffee shops and more — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-options-alimentaires",
+    "category": "services",
+    "keywords": [
+      "halal",
+      "végétarien",
+      "végane",
+      "sans gluten",
+      "allergies",
+      "végé",
+      "vegan",
+      "vegetarian",
+      "gluten free",
+      "dietary restrictions"
+    ],
+    "question": {
+      "fr": "Y a-t-il des options halal, végétariennes ou sans gluten ?",
+      "en": "Are there halal, vegetarian or gluten-free options?"
+    },
+    "answer": {
+      "fr": "Oui! La salle à manger offre des plats végétariens, végétaliens, halal, sans gluten et sans produits laitiers. Les restaurants du campus proposent aussi des choix à base de plantes et halal. Si tu as une allergie, consulte la section restrictions alimentaires et allergies du site des services alimentaires.",
+      "en": "Yes! The Dining Hall offers vegetarian, vegan, halal, made-without-gluten and made-without-dairy dishes. Campus restaurants also have plant-based and halal choices. If you have an allergy, check the dietary restrictions and allergies section of the food services website."
+    },
+    "sources": [
+      {
+        "label": "Dining Hall — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/eat-campus/dining-hall"
+      },
+      {
+        "label": "Eat on campus — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/eat-campus"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-plans-repas",
+    "category": "services",
+    "keywords": [
+      "plan de repas",
+      "forfait repas",
+      "meal plan",
+      "dining dollars",
+      "flex dollars",
+      "plan 7 jours",
+      "plan 5 jours",
+      "pay as you go",
+      "block plan",
+      "carte repas"
+    ],
+    "question": {
+      "fr": "Comment fonctionnent les plans de repas ?",
+      "en": "How do meal plans work?"
+    },
+    "answer": {
+      "fr": "Il y a quatre types de plans : le plan 7 jours, avec accès illimité à la salle à manger, le plan 5 jours du lundi au vendredi, obligatoire dans six résidences, un plan à solde dégressif sans taxes utilisable partout sur le campus, et un plan bloc pour la salle à manger. Tu peux acheter et gérer ton plan en ligne avec ta carte étudiante.",
+      "en": "There are four types of plans: the 7-day plan with unlimited Dining Hall access, the 5-day plan for Monday to Friday, mandatory in six residences, a tax-free pay-as-you-go balance usable at any campus food location, and a block plan for the Dining Hall. You can buy and manage your plan online with your student card."
+    },
+    "sources": [
+      {
+        "label": "Dining Hall — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/eat-campus/dining-hall"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-commander-boost",
+    "category": "services",
+    "keywords": [
+      "commander d'avance",
+      "application boost",
+      "précommande",
+      "éviter la file",
+      "boost app",
+      "order ahead",
+      "pre-order food",
+      "skip the line",
+      "mobile order",
+      "pick up order"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux commander d'avance pour éviter la file ?",
+      "en": "Can I order ahead to skip the line?"
+    },
+    "answer": {
+      "fr": "Oui, avec l'application Boost, tu peux commander, payer et ramasser ton repas. Elle fonctionne au Starbucks de Desmarais, au Second Cup de Morisset, à la Première Moisson du pavillon FSS, ainsi qu'au Tim Hortons, au Paramount et au Thai Express du Carrefour des apprentissages. Tu peux payer avec tes Dining Dollars, tes Flex Dollars ou une carte Visa ou Mastercard.",
+      "en": "Yes, with the Boost app you can pre-order, pre-pay and pick up. It works at Starbucks in Desmarais, Second Cup in Morisset, Première Moisson in FSS, and Tim Hortons, Paramount and Thai Express in the Learning Crossroads. You can pay with Dining Dollars, Flex Dollars, Visa or Mastercard."
+    },
+    "sources": [
+      {
+        "label": "Eat on campus — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/eat-campus"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-pivik",
+    "category": "services",
+    "keywords": [
+      "dépanneur",
+      "pivik",
+      "collation",
+      "acheter à boire",
+      "épicerie campus",
+      "convenience store",
+      "snacks",
+      "buy a drink",
+      "general store",
+      "corner store"
+    ],
+    "question": {
+      "fr": "Y a-t-il un dépanneur sur le campus ?",
+      "en": "Is there a convenience store on campus?"
+    },
+    "answer": {
+      "fr": "Oui, PIVIK, le magasin géré par et pour les étudiants du SÉUO, est au local 034 du Centre universitaire, 85 privé Université. Il est ouvert du lundi au vendredi de 8 h à 19 h et le samedi de 10 h à 14 h, fermé le dimanche.",
+      "en": "Yes, PIVIK, the store run by and for students through UOSU, is in room 034 of the University Centre, 85 University Private. It's open Monday to Friday from 8 a.m. to 7 p.m. and Saturday from 10 a.m. to 2 p.m., closed Sunday."
+    },
+    "sources": [
+      {
+        "label": "PIVIK — UOSU",
+        "url": "https://www.seuo-uosu.com/services/pivik"
+      },
+      {
+        "label": "Restaurants, coffee shops and more — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-banque-alimentaire",
+    "category": "services",
+    "keywords": [
+      "banque alimentaire",
+      "aide alimentaire",
+      "pas assez d'argent pour manger",
+      "épicerie gratuite",
+      "insécurité alimentaire",
+      "food bank",
+      "food support",
+      "free groceries",
+      "can't afford food",
+      "food insecurity"
+    ],
+    "question": {
+      "fr": "Y a-t-il une banque alimentaire pour les étudiants ?",
+      "en": "Is there a food bank for students?"
+    },
+    "answer": {
+      "fr": "Oui, la banque alimentaire du SÉUO, au local 0022 du Centre universitaire, aide les étudiants de premier cycle une fois tous les 30 jours, sans rendez-vous. Apporte ta carte étudiante et tes sacs réutilisables; tu repars avec environ une semaine d'épicerie. Les étudiants aux cycles supérieurs peuvent consulter le Carrefour d'aide alimentaire pour trouver leur banque alimentaire communautaire.",
+      "en": "Yes, the UOSU Food Bank in University Centre room 0022 helps undergraduate students once every 30 days, walk-in, no appointment. Bring your student card and reusable bags; you'll get about a week of groceries. Graduate students can check the Food support hub to find their community food bank."
+    },
+    "sources": [
+      {
+        "label": "Food Bank — UOSU",
+        "url": "https://www.seuo-uosu.com/services/food-bank"
+      },
+      {
+        "label": "Food support hub — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-collations-gratuites",
+    "category": "services",
+    "keywords": [
+      "collation gratuite",
+      "nourriture gratuite",
+      "repas gratuit",
+      "fed up",
+      "salon du mieux-être",
+      "free snacks",
+      "free food",
+      "free lunch",
+      "wellness lounge",
+      "free meal"
+    ],
+    "question": {
+      "fr": "Où trouver de la nourriture gratuite sur le campus ?",
+      "en": "Where can I find free food on campus?"
+    },
+    "answer": {
+      "fr": "Le Salon du mieux-être, au local 205 du Centre universitaire, offre des collations gratuites le matin et l'après-midi, jusqu'à épuisement. La campagne Fed Up du SÉUO propose aussi des repas chauds ou des marchés de produits frais, en alternance, le mercredi de midi à 13 h au Centre universitaire. Pendant les examens, l'équipe du mieux-être installe aussi des stations de collations gratuites.",
+      "en": "The Wellness Lounge in University Centre room 205 offers free snacks in the morning and afternoon, while supplies last. UOSU's Fed Up campaign also offers hot lunches or fresh produce markets, on alternating weeks, Wednesdays from noon to 1 p.m. in the University Centre. During exams, the Student Wellness team also sets up free snack stations."
+    },
+    "sources": [
+      {
+        "label": "Food support hub — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-ou-est-gym",
+    "category": "services",
+    "keywords": [
+      "gym",
+      "salle d'entraînement",
+      "centre de conditionnement",
+      "musculation",
+      "où est le gym",
+      "fitness centre",
+      "where is the gym",
+      "weight room",
+      "workout",
+      "health and lifestyle centre"
+    ],
+    "question": {
+      "fr": "Où est le gym ?",
+      "en": "Where is the gym?"
+    },
+    "answer": {
+      "fr": "Il y a deux centres de conditionnement physique : celui du pavillon Montpetit, au local 047, et le Health and Lifestyle Centre au Complexe sportif Minto, local N-100. Montpetit ouvre de 7 h 30 à 23 h en semaine et de 9 h 30 à 20 h 30 la fin de semaine; Minto, de 6 h 30 à 23 h en semaine et de 8 h à 20 h la fin de semaine. Les heures peuvent changer, vérifie la page des heures d'ouverture.",
+      "en": "There are two fitness centres: one in Montpetit Hall, room 047, and the Health and Lifestyle Centre at the Minto Sports Complex, room N-100. Montpetit is open 7:30 a.m. to 11 p.m. on weekdays and 9:30 a.m. to 8:30 p.m. on weekends; Minto, 6:30 a.m. to 11 p.m. on weekdays and 8 a.m. to 8 p.m. on weekends. Hours can change, so check the hours of operation page."
+    },
+    "sources": [
+      {
+        "label": "Hours of operation (sports facilities) — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/recreation/hours-operation"
+      },
+      {
+        "label": "Recreation — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/recreation"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-complexe-minto",
+    "category": "services",
+    "keywords": [
+      "complexe sportif minto",
+      "minto",
+      "aréna",
+      "patinoire",
+      "squash",
+      "801 king edward",
+      "minto sports complex",
+      "ice rink",
+      "squash court",
+      "matt anthony field"
+    ],
+    "question": {
+      "fr": "Qu'est-ce qu'il y a au Complexe sportif Minto ?",
+      "en": "What's in the Minto Sports Complex?"
+    },
+    "answer": {
+      "fr": "Le Complexe sportif Minto, au 801 avenue King Edward, compte deux patinoires, des terrains de squash, une salle multisports et le Health and Lifestyle Centre, avec 40 appareils cardio et des poids libres. Le terrain Matt Anthony est juste à côté. Tu y trouves aussi le Centre de santé et mieux-être étudiant et le restaurant Nox.",
+      "en": "The Minto Sports Complex, at 801 King Edward Avenue, has two ice rinks, squash courts, a multisport room and the Health and Lifestyle Centre, with 40 cardio machines and free weights. Matt Anthony Field is right next to it. You'll also find the Student Health and Wellness Centre and Nox restaurant there."
+    },
+    "sources": [
+      {
+        "label": "Sports facilities — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/recreation/facilities"
+      },
+      {
+        "label": "Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+      },
+      {
+        "label": "Restaurants, coffee shops and more — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/eat-campus/restaurants-coffee-shops-more"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-pavillon-montpetit",
+    "category": "services",
+    "keywords": [
+      "pavillon montpetit",
+      "montpetit",
+      "gymnase",
+      "salle d'arts martiaux",
+      "studio de danse",
+      "sauna",
+      "montpetit hall",
+      "gymnasium",
+      "martial arts room",
+      "dance studio"
+    ],
+    "question": {
+      "fr": "Qu'est-ce qu'il y a au pavillon Montpetit ?",
+      "en": "What's in Montpetit Hall?"
+    },
+    "answer": {
+      "fr": "Le pavillon Montpetit, au 125 privé Université, abrite trois gymnases, la piscine olympique de 50 mètres, un centre de conditionnement physique, une salle d'arts martiaux, un studio de danse et des saunas. Les matchs locaux de basketball et de volleyball féminin des Gee-Gees s'y jouent. Le Service à la clientèle des Gee-Gees y est aussi, au 613-562-5800, poste 4327.",
+      "en": "Montpetit Hall, at 125 University Private, has three gymnasiums, the 50-metre Olympic pool, a fitness centre, a martial arts room, a dance studio and saunas. Gee-Gees basketball and women's volleyball home games are played there. Gee-Gees Client Services is also there, at 613-562-5800 ext. 4327."
+    },
+    "sources": [
+      {
+        "label": "Sports facilities — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/recreation/facilities"
+      },
+      {
+        "label": "Recreation — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/recreation"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-piscine",
+    "category": "services",
+    "keywords": [
+      "piscine",
+      "nager",
+      "bain libre",
+      "longueurs",
+      "natation",
+      "pool",
+      "swimming",
+      "lane swim",
+      "swim schedule",
+      "aquatic centre"
+    ],
+    "question": {
+      "fr": "Est-ce qu'il y a une piscine sur le campus ?",
+      "en": "Is there a pool on campus?"
+    },
+    "answer": {
+      "fr": "Oui, le Centre aquatique du pavillon Montpetit a une piscine olympique de 50 mètres, avec des plateformes de plongeon de 3 et 5 mètres. Il y a des bains en longueurs et des bains libres selon un horaire publié en ligne. Si tu n'es pas membre, tu peux acheter un laissez-passer d'un jour à 7 $ plus taxes au Service à la clientèle.",
+      "en": "Yes, the Aquatic Centre in Montpetit Hall has a 50-metre Olympic pool with 3- and 5-metre diving platforms. There are lane swims and leisure swims on a schedule posted online. If you're not a member, you can buy a one-time pass for $7 plus tax at Client Services."
+    },
+    "sources": [
+      {
+        "label": "Swimming — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/recreation/drop-in-activities/swimming"
+      },
+      {
+        "label": "Sports facilities — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/recreation/facilities"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-intramuros",
+    "category": "services",
+    "keywords": [
+      "intra-muros",
+      "ligue intramurale",
+      "sport d'équipe",
+      "jouer au soccer",
+      "ligue de hockey",
+      "intramurals",
+      "intramural league",
+      "team sports",
+      "rec league",
+      "play basketball"
+    ],
+    "question": {
+      "fr": "Comment m'inscrire aux sports intra-muros ?",
+      "en": "How do I sign up for intramural sports?"
+    },
+    "answer": {
+      "fr": "Les ligues intra-muros des Gee-Gees ont lieu à l'automne et à l'hiver : basketball, ballon-chasseur, flag-football, hockey, soccer, spikeball, ultimate frisbee, volleyball et multisport. L'inscription se fait en ligne, premier arrivé, premier servi, au début de chaque session. Le bureau des intra-muros est au pavillon Montpetit, local 102, au 613-562-5800, poste 4477.",
+      "en": "Gee-Gees intramural leagues run in fall and winter: basketball, dodgeball, flag football, hockey, soccer, spikeball, ultimate frisbee, volleyball and multisport. Registration is online, first come, first served, at the start of each term. The Intramurals Office is in Montpetit Hall, room 102, at 613-562-5800 ext. 4477."
+    },
+    "sources": [
+      {
+        "label": "Intramurals — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/recreation/intramural-leagues"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-activites-libres",
+    "category": "services",
+    "keywords": [
+      "activités libres",
+      "sans inscription",
+      "badminton",
+      "pickleball",
+      "patinage libre",
+      "drop-in",
+      "drop in sports",
+      "free skate",
+      "pick up basketball",
+      "volleyball"
+    ],
+    "question": {
+      "fr": "Quelles activités sportives puis-je faire sans m'inscrire ?",
+      "en": "Which sports can I do without signing up?"
+    },
+    "answer": {
+      "fr": "Avec ton abonnement, tu as accès à plein d'activités libres sans inscription : badminton, basketball, volleyball, pickleball, squash, soccer, patinage au Complexe Minto, natation et cours de groupe. Apporte ta carte étudiante ou de membre, des espadrilles et des vêtements de sport. Les horaires sont sur la page des activités libres.",
+      "en": "With your membership you get lots of drop-in activities with no registration: badminton, basketball, volleyball, pickleball, squash, soccer, skating at Minto, swimming and group fitness. Bring your student or membership card, running shoes and athletic wear. Schedules are on the drop-in activities page."
+    },
+    "sources": [
+      {
+        "label": "Drop-in activities — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/recreation/drop-in-activities"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-cours-sportifs",
+    "category": "services",
+    "keywords": [
+      "cours de natation",
+      "cours de danse",
+      "arts martiaux",
+      "entraîneur personnel",
+      "apprendre à patiner",
+      "swimming lessons",
+      "dance classes",
+      "martial arts",
+      "personal training",
+      "learn to skate"
+    ],
+    "question": {
+      "fr": "Est-ce qu'il y a des cours de sport, comme la danse ou les arts martiaux ?",
+      "en": "Are there sports classes like dance or martial arts?"
+    },
+    "answer": {
+      "fr": "Oui, Gee-Gees Récréation offre des activités avec inscription, moyennant des frais supplémentaires : cours de natation, danse, conditionnement physique, arts martiaux comme le karaté ou le taekwondo, entraînement personnel et cours pour apprendre à patiner. L'inscription se fait en ligne; le Service à la clientèle peut t'aider au 613-562-5800, poste 4327.",
+      "en": "Yes, Gee-Gees Recreation offers registered activities for an extra fee: swimming lessons, dance, fitness, martial arts like karate or taekwondo, personal training and learn-to-skate classes. You register online; Client Services can help at 613-562-5800 ext. 4327."
+    },
+    "sources": [
+      {
+        "label": "Registered sports activities — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/recreation/registered-activities"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-aumonerie",
+    "category": "services",
+    "keywords": [
+      "aumônerie",
+      "aumônier",
+      "chapelain",
+      "spiritualité",
+      "religion",
+      "foi",
+      "chaplain",
+      "chaplaincy",
+      "spiritual support",
+      "faith community"
+    ],
+    "question": {
+      "fr": "Y a-t-il des aumôniers sur le campus ?",
+      "en": "Are there chaplains on campus?"
+    },
+    "answer": {
+      "fr": "Oui, des aumôniers de plusieurs confessions, musulmane, chrétiennes, juive et humaniste, offrent écoute et soutien; leurs services sont indépendants de l'Université. Leurs coordonnées sont sur la page des communautés spirituelles. L'équipe du mieux-être étudiant peut aussi t'aider à trouver une communauté de foi, au 613-562-5777.",
+      "en": "Yes, chaplains from several faiths, Muslim, Christian, Jewish and Humanist, offer listening and support; their services are independent from the University. Their contact information is on the Spiritual communities page. The Student Wellness team can also help you find a faith community, at 613-562-5777."
+    },
+    "sources": [
+      {
+        "label": "Spiritual communities — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/multi-faith-chaplaincy-services"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-salle-priere",
+    "category": "services",
+    "keywords": [
+      "salle de prière",
+      "prier",
+      "méditation",
+      "salle multiconfessionnelle",
+      "chapelle",
+      "prayer room",
+      "where can i pray",
+      "meditation room",
+      "multifaith room",
+      "chapel"
+    ],
+    "question": {
+      "fr": "Où puis-je prier ou méditer sur le campus ?",
+      "en": "Where can I pray or meditate on campus?"
+    },
+    "answer": {
+      "fr": "Il y a des salles de prière et de méditation multiconfessionnelles ouvertes à tous : au Centre universitaire, local 107, près de la cafétéria, au pavillon Colonel-By, local B506, au pavillon Roger-Guindon, local 2529, et au 200 Lees, local LEE 309. Elles ne se réservent pas et sont accessibles pendant les heures d'ouverture des édifices.",
+      "en": "There are multifaith prayer and meditation rooms open to everyone: University Centre room 107, near the cafeteria, Colonel By Hall room B506, Roger Guindon Hall room 2529, and 200 Lees room LEE 309. They can't be booked and are open during building hours."
+    },
+    "sources": [
+      {
+        "label": "Spiritual communities — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/multi-faith-chaplaincy-services"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-centre-autochtone",
+    "category": "services",
+    "keywords": [
+      "centre autochtone",
+      "mashkawazìwogamig",
+      "étudiants autochtones",
+      "premières nations",
+      "métis",
+      "inuit",
+      "indigenous resource centre",
+      "indigenous students",
+      "first nations",
+      "irc"
+    ],
+    "question": {
+      "fr": "Où est le Centre de ressources autochtones ?",
+      "en": "Where is the Indigenous Resource Centre?"
+    },
+    "answer": {
+      "fr": "Mashkawazìwogamig, le Centre de ressources autochtones, est au 145 privé Séraphin-Marion. Il offre du soutien, des programmes et des activités aux étudiants des Premières Nations, métis et inuits. Il est ouvert du lundi au vendredi de 9 h à 17 h, de septembre à avril, et tu peux le joindre au 613-562-5800, poste 4529.",
+      "en": "Mashkawazìwogamig, the Indigenous Resource Centre, is at 145 Séraphin-Marion Private. It offers support, programming and activities for First Nations, Métis and Inuit students. It's open Monday to Friday, 9 a.m. to 5 p.m., from September to April, and you can reach it at 613-562-5800 ext. 4529."
+    },
+    "sources": [
+      {
+        "label": "Indigenous — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/indigenous"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-librairie",
+    "category": "services",
+    "keywords": [
+      "librairie",
+      "manuels",
+      "acheter mes livres",
+      "boutique du campus",
+      "vêtements uottawa",
+      "bookstore",
+      "textbooks",
+      "campus store",
+      "buy books",
+      "uottawa merch"
+    ],
+    "question": {
+      "fr": "Où acheter mes manuels scolaires ?",
+      "en": "Where can I buy my textbooks?"
+    },
+    "answer": {
+      "fr": "La librairie du campus est au niveau 0 du Centre universitaire, au 85 privé Université. Pour des livres usagés gratuits, va aussi voir le Magasin gratuit du pavillon Montpetit. Vérifie toujours le plan de cours pour avoir la bonne édition.",
+      "en": "The campus bookstore is on level 0 of the University Centre, at 85 University Private. For free used books, also check the Free Store in Montpetit Hall. Always check your course syllabus to get the right edition."
+    },
+    "sources": [
+      {
+        "label": "University Centre (UCU) — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+      },
+      {
+        "label": "The Free Store — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/campus-sustainability/activities-initiatives/free-store"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "pointer"
+  },
+  {
+    "id": "c-magasin-gratuit",
+    "category": "services",
+    "keywords": [
+      "magasin gratuit",
+      "free store",
+      "friperie",
+      "objets gratuits",
+      "livres usagés",
+      "free clothes",
+      "free stuff",
+      "thrift",
+      "used textbooks",
+      "donate items"
+    ],
+    "question": {
+      "fr": "C'est quoi le Magasin gratuit ?",
+      "en": "What is the Free Store?"
+    },
+    "answer": {
+      "fr": "C'est une friperie où tout est gratuit pour la communauté uOttawa : vêtements, articles de cuisine, fournitures scolaires, manuels usagés et plus. Elle est au pavillon Montpetit, local 142, ouverte le mardi de 10 h à 14 h, le jeudi de 9 h 30 à 12 h 30 et le vendredi de 10 h à 13 h. Montre ta carte uOttawa à l'entrée, et c'est deux sacs maximum par visite.",
+      "en": "It's a thrift store where everything is free for the uOttawa community: clothes, kitchenware, school supplies, used textbooks and more. It's in Montpetit Hall, room 142, open Tuesday 10 a.m. to 2 p.m., Thursday 9:30 a.m. to 12:30 p.m. and Friday 10 a.m. to 1 p.m. Show your uOttawa card at the door, and it's two bags max per visit."
+    },
+    "sources": [
+      {
+        "label": "The Free Store — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/campus-sustainability/activities-initiatives/free-store"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-velo-coop",
+    "category": "services",
+    "keywords": [
+      "vélo",
+      "réparer mon vélo",
+      "coop vélo",
+      "bicyclette",
+      "atelier vélo",
+      "bike repair",
+      "bike co-op",
+      "fix my bike",
+      "bicycle",
+      "bike shop"
+    ],
+    "question": {
+      "fr": "Où réparer mon vélo sur le campus ?",
+      "en": "Where can I fix my bike on campus?"
+    },
+    "answer": {
+      "fr": "La Coop vélo du SÉUO est un atelier libre-service avec les outils et l'expertise pour réparer ton vélo. Elle est au local A105 du campus Lees, au 200 avenue Lees, et fonctionne sur rendez-vous seulement pour les étudiants de uOttawa. Tu peux réserver en ligne sur le site du SÉUO.",
+      "en": "The UOSU Bike Co-op is a DIY workshop with the tools and know-how to repair your bike. It's in room A105 at the Lees campus, 200 Lees Avenue, and works by appointment only for uOttawa students. You can book online on the UOSU website."
+    },
+    "sources": [
+      {
+        "label": "Bike Co-op — UOSU",
+        "url": "https://www.seuo-uosu.com/services/bike-co-op"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-impression-gratuite",
+    "category": "services",
+    "keywords": [
+      "imprimer",
+      "impression gratuite",
+      "imprimante",
+      "uoprint",
+      "imprimer un document",
+      "free printing",
+      "print",
+      "printer",
+      "where can i print",
+      "print my assignment"
+    ],
+    "question": {
+      "fr": "Où puis-je imprimer gratuitement ?",
+      "en": "Where can I print for free?"
+    },
+    "answer": {
+      "fr": "Grâce au SÉUO, l'impression est gratuite pour les étudiants de premier cycle. Connecte-toi à uoPrint, choisis Web Print, puis l'option Impression gratuite du SÉUO et téléverse ton document. Ensuite, va à n'importe quelle imprimante de uOttawa, scanne ta carte étudiante et lance l'impression.",
+      "en": "Thanks to UOSU, printing is free for undergraduate students. Log into uoPrint, choose Web Print, then the UOSU Free Printing option, and upload your document. Then go to any uOttawa printer, scan your student card and release your print job."
+    },
+    "sources": [
+      {
+        "label": "Free Printing — UOSU",
+        "url": "https://www.seuo-uosu.com/programs/free-printing"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-salle-allaitement",
+    "category": "services",
+    "keywords": [
+      "salle d'allaitement",
+      "allaiter",
+      "table à langer",
+      "parent étudiant",
+      "bébé",
+      "nursing room",
+      "breastfeeding",
+      "changing table",
+      "student parent",
+      "baby"
+    ],
+    "question": {
+      "fr": "Y a-t-il une salle d'allaitement sur le campus ?",
+      "en": "Is there a nursing room on campus?"
+    },
+    "answer": {
+      "fr": "Oui, au local 230E du Centre universitaire, au 2e étage. On y trouve des fauteuils, une table à langer, un micro-ondes, un réfrigérateur, des jouets et des couches gratuites. Un code est nécessaire : si tu ne l'as pas, contacte la GSAÉD, le Centre de ressources des femmes ou le Service de vie communautaire.",
+      "en": "Yes, room 230E on the 2nd floor of the University Centre. It has armchairs, a changing table, a microwave, a fridge, toys and free diapers. A code is required: if you don't have it, contact the GSAÉD, the Women's Resource Centre or the Community Life Service office."
+    },
+    "sources": [
+      {
+        "label": "University Centre (UCU) — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-ombud",
+    "category": "services",
+    "keywords": [
+      "ombud",
+      "ombudsman",
+      "plainte",
+      "injustice",
+      "traité injustement",
+      "conflit avec l'université",
+      "ombudsperson",
+      "complaint",
+      "unfair treatment",
+      "appeal help"
+    ],
+    "question": {
+      "fr": "Qui peut m'aider si je me sens traité injustement par l'Université ?",
+      "en": "Who can help if I feel the University treated me unfairly?"
+    },
+    "answer": {
+      "fr": "Le Bureau de l'ombud offre un service indépendant, impartial, confidentiel, gratuit et bilingue pour t'aider à trouver une solution juste. Il est au Centre universitaire, local 307, au 613-562-5342, du lundi au vendredi. Tu dois faire la demande toi-même, pas un parent ni un ami.",
+      "en": "The Office of the Ombudsperson offers an independent, impartial, confidential, free and bilingual service to help you find a fair solution. It's in the University Centre, room 307, at 613-562-5342, Monday to Friday. You must make the request yourself, not a parent or friend."
+    },
+    "sources": [
+      {
+        "label": "Office of the Ombudsperson — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/office-ombudsperson"
+      },
+      {
+        "label": "FAQs (Office of the Ombudsperson) — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/office-ombudsperson/about-us/faq"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-droits-personne",
+    "category": "services",
+    "keywords": [
+      "harcèlement",
+      "discrimination",
+      "racisme",
+      "violence sexuelle",
+      "bureau des droits de la personne",
+      "human rights office",
+      "harassment",
+      "racism",
+      "sexual violence",
+      "file a complaint"
+    ],
+    "question": {
+      "fr": "À qui m'adresser en cas de harcèlement ou de discrimination ?",
+      "en": "Who do I talk to about harassment or discrimination?"
+    },
+    "answer": {
+      "fr": "Le Bureau des droits de la personne gère les préoccupations et les plaintes liées au harcèlement, à la discrimination, au racisme, à la haine et à la violence sexuelle. Ses services sont gratuits, bilingues et confidentiels. Il est au pavillon Thompson, 25 privé Université, local 203, au 613-562-5222, du lundi au vendredi de 9 h à 16 h. Si tu es en danger, appelle le 911 ou le Service de la protection au 613-562-5411.",
+      "en": "The Human Rights Office handles concerns and complaints about harassment, discrimination, racism, hate and sexual violence. Its services are free, bilingual and confidential. It's in Thompson Hall, 25 University Private, room 203, at 613-562-5222, Monday to Friday, 9 a.m. to 4 p.m. If you're in danger, call 911 or Protection Services at 613-562-5411."
+    },
+    "sources": [
+      {
+        "label": "Human Rights Office — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office"
+      },
+      {
+        "label": "Emergency — uOttawa",
+        "url": "https://www.uottawa.ca/en/emergency"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-centre-droits-etudiants",
+    "category": "services",
+    "keywords": [
+      "centre des droits étudiants",
+      "appel académique",
+      "contester une note",
+      "défense des droits",
+      "règlements",
+      "student rights centre",
+      "academic appeal",
+      "grade appeal",
+      "student advocate",
+      "src"
+    ],
+    "question": {
+      "fr": "Qui peut m'aider avec un appel académique ?",
+      "en": "Who can help me with an academic appeal?"
+    },
+    "answer": {
+      "fr": "Le Centre des droits étudiants du SÉUO conseille les étudiants de premier cycle sur les règlements de l'Université et les accompagne dans les processus d'appel. Il est au local 211G du Centre universitaire, avec des heures sans rendez-vous du lundi au vendredi de 9 h 30 à midi. Pour ouvrir un dossier, passe par son portail en ligne.",
+      "en": "The UOSU Student Rights Centre gives undergraduate students guidance on University regulations and helps them through appeal processes. It's in University Centre room 211G, with drop-in hours Monday to Friday, 9:30 a.m. to noon. To open a case, use its online portal."
+    },
+    "sources": [
+      {
+        "label": "Student Rights Centre — UOSU",
+        "url": "https://www.seuo-uosu.com/services/src"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-accommodements-scolaires",
+    "category": "services",
+    "keywords": [
+      "accommodements scolaires",
+      "handicap",
+      "accessibilité",
+      "examen adapté",
+      "tdah",
+      "service d'accommodements",
+      "academic accommodations",
+      "disability",
+      "accessibility",
+      "exam accommodations"
+    ],
+    "question": {
+      "fr": "Comment obtenir des accommodements scolaires ?",
+      "en": "How do I get academic accommodations?"
+    },
+    "answer": {
+      "fr": "Si tu es inscrit à au moins un cours, rassemble ta documentation médicale, crée ton compte Ventus et remplis le formulaire d'accueil; une ou un spécialiste te contactera ensuite. Après chaque inscription à un cours, choisis tes accommodements dans Ventus, sinon ils ne s'appliqueront pas. Pour toute question, joins le Service d'accommodements scolaires au 613-562-5777.",
+      "en": "If you're enrolled in at least one course, gather your medical documentation, create your Ventus account and complete the intake form; a learning specialist will then contact you. After enrolling in each course, select your accommodations in Ventus, or they won't apply. For questions, contact the Academic Accommodations Service at 613-562-5777."
+    },
+    "sources": [
+      {
+        "label": "Registering for accommodations — uOttawa",
+        "url": "https://www.uottawa.ca/study/academic-support-mentoring/registering-accommodations"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-revision-cv",
+    "category": "services",
+    "keywords": [
+      "cv",
+      "curriculum vitae",
+      "lettre de motivation",
+      "révision de cv",
+      "service carrière",
+      "resume review",
+      "cover letter",
+      "career corner",
+      "check my resume",
+      "linkedin"
+    ],
+    "question": {
+      "fr": "Où faire réviser mon CV ?",
+      "en": "Where can I get my resume reviewed?"
+    },
+    "answer": {
+      "fr": "Le Career Corner, le service carrière situé au 2e étage du Centre universitaire, révise ton CV et ta lettre de motivation et te donne des modèles. Tu peux prendre rendez-vous en personne ou en virtuel, ou passer aux séances sans rendez-vous. On peut aussi revoir ton profil LinkedIn.",
+      "en": "Career Corner, on the 2nd floor of the University Centre, reviews your resume and cover letter and gives you templates. You can book an in-person or virtual appointment, or come to the drop-in sessions. They can also review your LinkedIn profile."
+    },
+    "sources": [
+      {
+        "label": "Booking career services — uOttawa",
+        "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/booking-career-services"
+      },
+      {
+        "label": "Resume (Career development) — uOttawa",
+        "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/resume"
+      },
+      {
+        "label": "University Centre (UCU) — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-simulation-entrevue",
+    "category": "services",
+    "keywords": [
+      "entrevue",
+      "simulation d'entrevue",
+      "préparer une entrevue",
+      "recherche d'emploi",
+      "orientation professionnelle",
+      "mock interview",
+      "job interview",
+      "job search",
+      "career counselling",
+      "interview practice"
+    ],
+    "question": {
+      "fr": "Comment me préparer à une entrevue d'emploi ?",
+      "en": "How can I prepare for a job interview?"
+    },
+    "answer": {
+      "fr": "Le Career Corner, le service carrière du Centre universitaire, offre des simulations d'entrevue, en personne ou en virtuel : on te pose de vraies questions, puis on te donne de la rétroaction. Il y a aussi des rendez-vous sur les stratégies de recherche d'emploi et du counseling d'orientation si tu hésites sur ton parcours.",
+      "en": "Career Corner offers mock interviews, in person or virtually: you get real interview questions, then feedback on your answers. There are also appointments on job search strategies and career counselling if you're unsure about your path."
+    },
+    "sources": [
+      {
+        "label": "Booking career services — uOttawa",
+        "url": "https://www.uottawa.ca/study/career-experiential-learning/career-development/booking-career-services"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-mentorat",
+    "category": "services",
+    "keywords": [
+      "mentor",
+      "mentorat",
+      "aide aux études",
+      "méthodes d'étude",
+      "procrastination",
+      "mentoring",
+      "study help",
+      "study skills",
+      "peer mentor",
+      "time management"
+    ],
+    "question": {
+      "fr": "Comment trouver un mentor étudiant ?",
+      "en": "How do I find a student mentor?"
+    },
+    "answer": {
+      "fr": "Les mentors sont des étudiants qui t'aident à aborder la matière difficile, à gérer ton temps, à combattre la procrastination et à t'adapter à la vie universitaire. La page Appui scolaire et mentorat t'aide à savoir qui contacter selon ton besoin : mentorat, bureau des études de ta faculté, professeur ou accommodements.",
+      "en": "Mentors are fellow students who help you tackle tough material, manage your time, beat procrastination and adjust to university life. The Academic support and mentoring page helps you figure out who to contact for your need: mentoring, your faculty's studies office, your professor or accommodations."
+    },
+    "sources": [
+      {
+        "label": "Academic support and mentoring — uOttawa",
+        "url": "https://www.uottawa.ca/study/academic-support-mentoring"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "pointer"
+  },
+  {
+    "id": "c-clinique-medicale",
+    "category": "sante",
+    "keywords": [
+      "clinique",
+      "médecin",
+      "voir un docteur",
+      "infirmière",
+      "clinique sans rendez-vous",
+      "centre de santé",
+      "doctor",
+      "medical clinic",
+      "see a doctor",
+      "health centre"
+    ],
+    "question": {
+      "fr": "Où est la clinique médicale du campus ?",
+      "en": "Where is the campus medical clinic?"
+    },
+    "answer": {
+      "fr": "Le Centre de santé et mieux-être étudiant est au Complexe sportif Minto, 801 avenue King Edward, local N203, au 2e étage. Il est réservé aux étudiants de uOttawa et de l'Université Saint-Paul, et ouvert du lundi au vendredi de 8 h à 16 h en automne et en hiver. Tu peux le joindre au 613-562-5777; il offre aussi des services en santé mentale.",
+      "en": "The Student Health and Wellness Centre is in the Minto Sports Complex, 801 King Edward Avenue, room N203, on the 2nd floor. It's only for uOttawa and Saint Paul University students, and open Monday to Friday, 8 a.m. to 4 p.m., in fall and winter. You can reach it at 613-562-5777; it also offers mental health services."
+    },
+    "sources": [
+      {
+        "label": "Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-rendez-vous-medical",
+    "category": "sante",
+    "keywords": [
+      "prendre rendez-vous",
+      "rendez-vous médecin",
+      "rendez-vous le jour même",
+      "telus health connect",
+      "réserver clinique",
+      "book appointment",
+      "doctor appointment",
+      "same day appointment",
+      "telus health",
+      "booking"
+    ],
+    "question": {
+      "fr": "Comment prendre un rendez-vous médical ?",
+      "en": "How do I book a medical appointment?"
+    },
+    "answer": {
+      "fr": "Les plages de la semaine suivante sont publiées chaque vendredi à 8 h, et quelques rendez-vous le jour même avec une infirmière sont offerts chaque jour à 8 h. Réserve avec l'application TELUS Health Connect, le portail Web, par téléphone au 613-562-5777 ou en personne. Garde ta carte santé, ou ton numéro RAMU, et ta carte étudiante à portée de main.",
+      "en": "Slots for the following week are released every Friday at 8 a.m., and a few same-day appointments with a registered nurse are released daily at 8 a.m. Book through the TELUS Health Connect app, the web portal, by phone at 613-562-5777 or in person. Keep your health card, or UHIP number, and student card handy."
+    },
+    "sources": [
+      {
+        "label": "Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-frais-clinique",
+    "category": "sante",
+    "keywords": [
+      "c'est gratuit",
+      "frais clinique",
+      "coût rendez-vous",
+      "rendez-vous manqué",
+      "certificat médical",
+      "clinic fees",
+      "is it free",
+      "missed appointment",
+      "medical note",
+      "doctor's note"
+    ],
+    "question": {
+      "fr": "Est-ce que les services de la clinique sont gratuits ?",
+      "en": "Are the clinic's services free?"
+    },
+    "answer": {
+      "fr": "Pour la plupart des étudiants, oui : les services sont financés par les frais de santé ou couverts par l'assurance provinciale ou le RAMU. Par contre, un rendez-vous annulé moins de 24 heures avant ou manqué est facturé, et certains services non couverts ont des frais, par exemple 20 $ pour un certificat médical. La liste complète est sur la page des frais.",
+      "en": "For most students, yes: services are funded by health fees or covered by provincial insurance or UHIP. However, appointments cancelled less than 24 hours ahead or missed are charged, and some uncovered services have fees, for example $20 for a medical certificate. The full list is on the fees page."
+    },
+    "sources": [
+      {
+        "label": "Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+      },
+      {
+        "label": "List of fees (Student Health and Wellness Centre) — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/fees-not-covered"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-pharmacie",
+    "category": "sante",
+    "keywords": [
+      "pharmacie",
+      "pharmacien",
+      "médicaments",
+      "renouveler ordonnance",
+      "shoppers",
+      "pharmacy",
+      "pharmacist",
+      "prescription refill",
+      "medication",
+      "minor ailment"
+    ],
+    "question": {
+      "fr": "Y a-t-il une pharmacie sur le campus ?",
+      "en": "Is there a pharmacy on campus?"
+    },
+    "answer": {
+      "fr": "Oui, la Clinique de soins pharmaceutiques Shoppers Drug Mart est au Complexe sportif Minto, local N209, au 2e étage. Le pharmacien répond gratuitement à tes questions sur les médicaments, renouvelle des ordonnances et traite des affections mineures comme une infection urinaire. Elle est ouverte du lundi au vendredi de 8 h à 16 h et le samedi de 9 h à 14 h, au 613-788-2029.",
+      "en": "Yes, the Shoppers Drug Mart Pharmacy Care Clinic is in the Minto Sports Complex, room N209, on the 2nd floor. The pharmacist answers medication questions for free, renews prescriptions and treats minor ailments like urinary tract infections. It's open Monday to Friday, 8 a.m. to 4 p.m., and Saturday, 9 a.m. to 2 p.m., at 613-788-2029."
+    },
+    "sources": [
+      {
+        "label": "Shoppers Drug Mart Pharmacy Care Clinic — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/shoppers-drug-mart-pharmacy-care-clinic"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-vaccins",
+    "category": "sante",
+    "keywords": [
+      "vaccin",
+      "vaccination",
+      "vaccin grippe",
+      "immunisation",
+      "santé voyage",
+      "flu shot",
+      "vaccine",
+      "immunization",
+      "travel vaccine",
+      "covid vaccine"
+    ],
+    "question": {
+      "fr": "Où me faire vacciner sur le campus ?",
+      "en": "Where can I get vaccinated on campus?"
+    },
+    "answer": {
+      "fr": "La Clinique de soins pharmaceutiques au Complexe Minto donne les vaccins contre la grippe et la COVID-19 gratuitement; les autres injections coûtent 20 $. Elle offre aussi des consultations santé-voyage. Certains vaccins, comme le VPH ou l'hépatite B, ne sont pas couverts par l'assurance de base, mais peuvent l'être par ton assurance complémentaire.",
+      "en": "The Pharmacy Care Clinic at Minto gives flu and COVID-19 vaccines for free; other injections cost $20. It also offers travel health consultations. Some vaccines, like HPV or hepatitis B, aren't covered by basic insurance but may be covered by your supplementary plan."
+    },
+    "sources": [
+      {
+        "label": "Shoppers Drug Mart Pharmacy Care Clinic — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/shoppers-drug-mart-pharmacy-care-clinic"
+      },
+      {
+        "label": "Student health insurance — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/insurance"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-resultats-labo",
+    "category": "sante",
+    "keywords": [
+      "résultats de laboratoire",
+      "prise de sang",
+      "résultats d'analyse",
+      "bio-test",
+      "test sanguin",
+      "lab results",
+      "blood test results",
+      "test results",
+      "bloodwork",
+      "lab test"
+    ],
+    "question": {
+      "fr": "Comment voir mes résultats de laboratoire de la clinique ?",
+      "en": "How do I see my lab results from the clinic?"
+    },
+    "answer": {
+      "fr": "Inscris-toi sur le portail Bio-Test avec ton adresse courriel uOttawa, accepte les conditions, puis crée ton mot de passe à partir du courriel reçu. Attends 24 heures, soit un jour ouvrable, après ton analyse avant de créer ton compte. Pour une question urgente, appelle le Centre au 613-562-5777.",
+      "en": "Register on the Bio-Test portal with your uOttawa email, accept the terms, then create your password from the email you receive. Wait 24 hours, one business day, after your lab test before creating your account. For urgent questions, call the Centre at 613-562-5777."
+    },
+    "sources": [
+      {
+        "label": "Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-assurance-sante",
+    "category": "sante",
+    "keywords": [
+      "assurance santé",
+      "assurance dentaire",
+      "alumo",
+      "greenshield",
+      "se retirer de l'assurance",
+      "health insurance",
+      "dental insurance",
+      "opt out",
+      "supplementary insurance",
+      "student insurance"
+    ],
+    "question": {
+      "fr": "Comment fonctionne l'assurance santé étudiante ?",
+      "en": "How does student health insurance work?"
+    },
+    "answer": {
+      "fr": "L'assurance santé est obligatoire. Le régime de base, provincial ou le RAMU pour les étudiants internationaux, couvre les visites médicales et l'hôpital. Le régime complémentaire, Alumo Greenshield au premier cycle et Greenshield aux cycles supérieurs, couvre les médicaments d'ordonnance, certains spécialistes et la vision; tu peux t'en retirer si tu as déjà une couverture équivalente.",
+      "en": "Health insurance is mandatory. The basic plan, provincial or UHIP for international students, covers doctor visits and hospital care. The supplementary plan, Alumo Greenshield for undergraduates and Greenshield for graduate students, covers prescriptions, some specialists and vision; you can opt out if you already have equivalent coverage."
+    },
+    "sources": [
+      {
+        "label": "Student health insurance — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/insurance"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-ramu",
+    "category": "sante",
+    "keywords": [
+      "ramu",
+      "uhip",
+      "étudiant international assurance",
+      "carte ramu",
+      "assurance internationale",
+      "international student insurance",
+      "uhip card",
+      "uhip fee",
+      "cowan",
+      "health coverage international"
+    ],
+    "question": {
+      "fr": "Je suis étudiant international, comment fonctionne le RAMU ?",
+      "en": "I'm an international student, how does UHIP work?"
+    },
+    "answer": {
+      "fr": "Le RAMU est obligatoire pour les étudiants internationaux et leurs personnes à charge. uOttawa t'y inscrit automatiquement quand tu t'inscris à un cours, et les frais s'ajoutent à ton état de compte; pour une année complète à partir de septembre 2026, c'est 948 $ pour une personne seule. Ta ressource à uOttawa pour le RAMU est InfoService.",
+      "en": "UHIP is mandatory for international students and their dependants. uOttawa enrols you automatically when you register for a course, and the fee is added to your statement of account; for a full year starting September 2026, it's $948 for a single person. Your UHIP contact at uOttawa is InfoService."
+    },
+    "sources": [
+      {
+        "label": "University Health Insurance Plan (UHIP) — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-seuo-membre",
+    "category": "associations",
+    "keywords": [
+      "séuo",
+      "uosu",
+      "syndicat étudiant",
+      "association étudiante",
+      "suis-je membre",
+      "students' union",
+      "student union",
+      "undergraduate union",
+      "join uosu",
+      "contact uosu"
+    ],
+    "question": {
+      "fr": "Qu'est-ce que le SÉUO et suis-je membre ?",
+      "en": "What is UOSU and am I a member?"
+    },
+    "answer": {
+      "fr": "Le Syndicat étudiant de l'Université d'Ottawa représente les étudiants de premier cycle, et tu en es automatiquement membre. Il gère 10 centres de services, appuie plus de 300 clubs, exploite le magasin PIVIK et offre l'assurance santé et dentaire, des bourses et des événements gratuits. Tu peux le joindre au 613-783-1380, poste 101.",
+      "en": "The University of Ottawa Students' Union represents undergraduate students, and you're automatically a member. It runs 10 service centres, supports more than 300 clubs, operates the PIVIK store and offers health and dental insurance, scholarships and free events. You can reach it at 613-783-1380 ext. 101."
+    },
+    "sources": [
+      {
+        "label": "Your uOttawa Students' Union — UOSU",
+        "url": "https://www.seuo-uosu.com/"
+      },
+      {
+        "label": "Contact Us — UOSU",
+        "url": "https://www.seuo-uosu.com/contact"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-gsaed",
+    "category": "associations",
+    "keywords": [
+      "gsaéd",
+      "gsaed",
+      "association des étudiants diplômés",
+      "cycles supérieurs",
+      "maîtrise doctorat",
+      "graduate students association",
+      "grad students",
+      "gradhouse",
+      "graduate union",
+      "phd students"
+    ],
+    "question": {
+      "fr": "Y a-t-il une association pour les étudiants aux cycles supérieurs ?",
+      "en": "Is there an association for graduate students?"
+    },
+    "answer": {
+      "fr": "Oui, la GSAÉD, l'association étudiante des cycles supérieurs, représente les étudiants aux cycles supérieurs depuis 1989. Elle offre des services, des événements et de la défense des droits. Tu la trouves à la Gradhouse, au 601 rue Cumberland, ou au 613-562-5800, poste 5935.",
+      "en": "Yes, the Graduate Students' Association, GSAÉD, has represented graduate students since 1989. It offers services, events and advocacy. You'll find it at the Gradhouse, 601 Cumberland Street, or at 613-562-5800 ext. 5935."
+    },
+    "sources": [
+      {
+        "label": "Graduate Students' Association of the University of Ottawa — GSAÉD",
+        "url": "https://gsaed.ca/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-associations-facultaires",
+    "category": "associations",
+    "keywords": [
+      "association facultaire",
+      "association de programme",
+      "gouvernement étudiant reconnu",
+      "agér",
+      "association de mon programme",
+      "faculty association",
+      "student government",
+      "rsg",
+      "program association",
+      "faculty student association"
+    ],
+    "question": {
+      "fr": "C'est quoi une association étudiante facultaire ?",
+      "en": "What is a faculty student association?"
+    },
+    "answer": {
+      "fr": "Chaque faculté ou programme a son gouvernement étudiant reconnu, qui représente ses étudiants et organise des activités comme la Semaine 101. La liste de ces associations, avec leurs comptes Instagram, est sur le site du SÉUO. Suis celle de ton programme pour ne rien manquer.",
+      "en": "Each faculty or program has its Recognized Student Government, which represents its students and organizes activities like 101 Week. The list of these associations, with their Instagram accounts, is on the UOSU website. Follow your program's association so you don't miss anything."
+    },
+    "sources": [
+      {
+        "label": "Recognized Student Governments (RSGs) — UOSU",
+        "url": "https://www.seuo-uosu.com/student-life/rsg"
+      },
+      {
+        "label": "101 Week — UOSU",
+        "url": "https://www.seuo-uosu.com/student-life/101-week"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "pointer"
+  },
+  {
+    "id": "c-foire-clubs",
+    "category": "associations",
+    "keywords": [
+      "foire des clubs",
+      "rejoindre un club",
+      "trouver un club",
+      "liste des clubs",
+      "activités parascolaires",
+      "club fair",
+      "join a club",
+      "find a club",
+      "clubs list",
+      "extracurricular"
+    ],
+    "question": {
+      "fr": "Comment trouver et rejoindre un club ?",
+      "en": "How do I find and join a club?"
+    },
+    "answer": {
+      "fr": "Le plus simple, c'est la Foire des clubs, organisée au début de chaque session, où tu peux découvrir les clubs et t'inscrire sur place. La liste des quelque 300 clubs est aussi sur le site du SÉUO. Le Service d'administration des clubs, au local 215D du Centre universitaire, peut répondre à tes questions au 613-783-1380, poste 600.",
+      "en": "The easiest way is the Club Fair, held at the start of each term, where you can discover clubs and sign up on the spot. The list of about 300 clubs is also on the UOSU website. The Club Administration Service, in University Centre room 215D, can answer your questions at 613-783-1380 ext. 600."
+    },
+    "sources": [
+      {
+        "label": "Club Administration Service — UOSU",
+        "url": "https://www.seuo-uosu.com/services/cas"
+      },
+      {
+        "label": "Your uOttawa Students' Union — UOSU",
+        "url": "https://www.seuo-uosu.com/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-semaine-101",
+    "category": "evenements",
+    "keywords": [
+      "semaine 101",
+      "trousse 101",
+      "kit 101",
+      "frosh",
+      "initiation",
+      "101 week",
+      "101 kit",
+      "frosh week",
+      "first year welcome",
+      "shinerama"
+    ],
+    "question": {
+      "fr": "C'est quoi la Semaine 101 ?",
+      "en": "What is 101 Week?"
+    },
+    "answer": {
+      "fr": "La Semaine 101 est la semaine d'accueil officielle des étudiants de première année, organisée au début septembre par le SÉUO et les associations étudiantes. Achète la trousse de ton association : elle comprend le t-shirt et le bracelet qui te donnent accès aux activités. Pour chaque activité avec alcool, tenue à Gatineau pour les 18 ans et plus, il y a une activité sans alcool en même temps.",
+      "en": "101 Week is the official welcome week for first-year students, organized in early September by UOSU and the student associations. Buy your association's kit: it includes the T-shirt and bracelet that get you into events. For every event with alcohol, held in Gatineau for those 18 and over, there's an alcohol-free event at the same time."
+    },
+    "sources": [
+      {
+        "label": "101 Week — UOSU",
+        "url": "https://www.seuo-uosu.com/student-life/101-week"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-semaine-accueil",
+    "category": "evenements",
+    "keywords": [
+      "semaine d'accueil",
+      "uoshow",
+      "activités de la rentrée",
+      "rentrée",
+      "welcome week",
+      "back to school events",
+      "uo show",
+      "start of term events",
+      "new students events",
+      "september events"
+    ],
+    "question": {
+      "fr": "Qu'est-ce que la Semaine d'accueil de l'Université ?",
+      "en": "What is the University's Welcome Week?"
+    },
+    "answer": {
+      "fr": "Au début septembre, l'Université organise la Semaine d'accueil, gratuite et ouverte aux nouveaux et aux anciens étudiants, en plus de la Semaine 101. On y trouve des sorties et des activités, et le point culminant est le uoShow. Le programme est publié sur la page de la Semaine d'accueil.",
+      "en": "In early September, the University hosts Welcome Week, free and open to new and returning students, in addition to 101 Week. There are outings and activities, and the highlight is the uoShow. The schedule is posted on the Welcome Week page."
+    },
+    "sources": [
+      {
+        "label": "Welcome Week — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/welcome-week"
+      },
+      {
+        "label": "101 Week — UOSU",
+        "url": "https://www.seuo-uosu.com/student-life/101-week"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-portes-ouvertes",
+    "category": "evenements",
+    "keywords": [
+      "portes ouvertes",
+      "visiter l'université",
+      "futur étudiant",
+      "soirée d'information parents",
+      "visite du campus",
+      "open house",
+      "visit campus",
+      "future students",
+      "prospective students",
+      "parent information night"
+    ],
+    "question": {
+      "fr": "Quand est la prochaine journée portes ouvertes ?",
+      "en": "When is the next open house?"
+    },
+    "answer": {
+      "fr": "La Journée portes ouvertes du printemps aura lieu le 20 mars 2027 sur le campus : tu pourras visiter les labos et les résidences, et parler à des étudiants et à des profs. Pour les parents, des soirées d'information virtuelles ont lieu le 24 novembre 2026 en anglais et le 25 novembre 2026 en français, sur Microsoft Teams.",
+      "en": "The Spring Open House takes place on March 20, 2027, on campus: you can tour labs and residences and talk to students and professors. For parents, virtual information nights take place on November 24, 2026, in English and November 25, 2026, in French, on Microsoft Teams."
+    },
+    "sources": [
+      {
+        "label": "Canadian admissions events — uOttawa",
+        "url": "https://www.uottawa.ca/study/campus-tours-admissions-events/canada-admissions-events"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-collation-grades",
+    "category": "evenements",
+    "keywords": [
+      "collation des grades",
+      "cérémonie de remise des diplômes",
+      "graduation",
+      "diplômé",
+      "date collation",
+      "convocation",
+      "graduation ceremony",
+      "convocation date",
+      "graduate",
+      "rogers centre"
+    ],
+    "question": {
+      "fr": "Quand ont lieu les cérémonies de collation des grades ?",
+      "en": "When are the convocation ceremonies?"
+    },
+    "answer": {
+      "fr": "Les cérémonies de 2027 auront lieu à Ottawa du 9 au 13 juin 2027, au Centre Rogers Ottawa, et durent environ deux heures et demie chacune. L'horaire détaillé sera publié à la fin janvier 2027. Les dates pour les campus de Windsor et de Toronto seront annoncées plus tard.",
+      "en": "The 2027 ceremonies will take place in Ottawa from June 9 to 13, 2027, at the Rogers Centre Ottawa, and each lasts about two and a half hours. The detailed schedule will be published at the end of January 2027. Dates for the Windsor and Toronto campuses will be announced later."
+    },
+    "sources": [
+      {
+        "label": "Schedule and guest tickets (Convocation) — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/schedule-guest-tickets"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-billets-collation",
+    "category": "evenements",
+    "keywords": [
+      "billets invités",
+      "billets collation",
+      "combien d'invités",
+      "famille cérémonie",
+      "diffusion en direct",
+      "guest tickets",
+      "convocation tickets",
+      "how many guests",
+      "livestream graduation",
+      "family attend"
+    ],
+    "question": {
+      "fr": "Combien d'invités puis-je amener à ma collation des grades ?",
+      "en": "How many guests can I bring to my convocation?"
+    },
+    "answer": {
+      "fr": "Les billets d'invités sont gratuits, et les diplômés reçoivent habituellement un maximum de deux billets; chaque invité de deux ans et plus a besoin du sien. L'information sur les billets pour le printemps 2027 sera disponible en mai 2027. Ceux qui ne peuvent pas venir peuvent suivre la cérémonie en direct en ligne.",
+      "en": "Guest tickets are free, and graduates typically get a maximum of two; every guest aged two and older needs their own. Ticket information for Spring 2027 will be available in May 2027. Anyone who can't attend can watch the ceremony livestream online."
+    },
+    "sources": [
+      {
+        "label": "Schedule and guest tickets (Convocation) — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/schedule-guest-tickets"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-retrouvailles",
+    "category": "evenements",
+    "keywords": [
+      "retrouvailles",
+      "homecoming",
+      "match panda",
+      "panda game",
+      "anciens",
+      "diplômés",
+      "alumni weekend",
+      "alumni",
+      "fall festival",
+      "football game"
+    ],
+    "question": {
+      "fr": "C'est quoi les Retrouvailles ?",
+      "en": "What is Homecoming?"
+    },
+    "answer": {
+      "fr": "Chaque automne, les Retrouvailles réunissent les diplômés, les étudiants, le personnel et le public autour d'événements sur le campus. En 2026, elles ont eu lieu du 1er au 4 octobre et se sont terminées par le traditionnel match Panda de football des Gee-Gees contre les Ravens. Surveille la page des Retrouvailles pour l'édition suivante.",
+      "en": "Every fall, Homecoming brings together alumni, students, staff and the public for events on campus. In 2026, it took place October 1 to 4 and ended with the traditional Panda Game, Gee-Gees football against the Ravens. Watch the Homecoming page for the next edition."
+    },
+    "sources": [
+      {
+        "label": "Homecoming 2026 — uOttawa",
+        "url": "https://www.uottawa.ca/alumni/homecoming-2026"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "c-matchs-gee-gees",
+    "category": "evenements",
+    "keywords": [
+      "match gee-gees",
+      "assister à un match",
+      "horaire des matchs",
+      "sports universitaires",
+      "équipes gee-gees",
+      "gee-gees game",
+      "watch a game",
+      "game schedule",
+      "varsity sports",
+      "basketball game"
+    ],
+    "question": {
+      "fr": "Où voir un match des Gee-Gees ?",
+      "en": "Where can I watch a Gee-Gees game?"
+    },
+    "answer": {
+      "fr": "Les Gee-Gees jouent au basketball et au volleyball féminin au gymnase du pavillon Montpetit, et au hockey au Complexe sportif Minto. Le soccer et le rugby féminins se jouent au terrain Matt Anthony. L'horaire complet de tous les matchs est sur le site des Gee-Gees.",
+      "en": "The Gee-Gees play basketball and women's volleyball in the Montpetit Hall gym, and hockey at the Minto Sports Complex. Women's soccer and rugby are played on Matt Anthony Field. The full schedule for all games is on the Gee-Gees website."
+    },
+    "sources": [
+      {
+        "label": "Sports facilities — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/recreation/facilities"
+      },
+      {
+        "label": "Ottawa Gee-Gees — Gee-Gees",
+        "url": "https://teams.geegees.ca/landing/index"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  }
+]

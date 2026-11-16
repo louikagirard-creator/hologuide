@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=540">
+<title>Maquettes HoloGuide</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 540px; height: 960px; overflow: hidden; background: #fff; }
+  body { font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, sans-serif; color: #1d1d1f; position: relative; }
+  .serif { font-family: "Iowan Old Style", Palatino, Georgia, serif; }
+  .tag { position: absolute; left: 14px; bottom: 12px; z-index: 50; font: 600 11px/1 "Avenir Next", Arial; letter-spacing: .12em; text-transform: uppercase; color: #fff; background: #1d1d1f; padding: 7px 10px; border-radius: 4px; }
+  .av { display: block; }
+  svg.i { width: 1em; height: 1em; }
+  button { font: inherit; border: 0; background: none; color: inherit; }
+</style>
+</head>
+<body>
+<script>
+const G = '#8f001a', GR = '#6d6e71';
+const Q = 'Où est la bibliothèque Morisset ?';
+const A = 'La bibliothèque Morisset est au pavillon Morisset Hall (MRT), 65, rue University. Elle est ouverte de 8 h à 2 h en semaine et de 10 h à 2 h la fin de semaine.';
+const TOP = ['Bibliothèques', 'Pavillons', 'Cours', 'Examens', 'Transport', 'Services', 'Santé', 'Informatique'];
+const ICONS = ['01','02','03','04','05','06','07','08'];
+// Emplacement de l'avatar (le nouvel avatar sera choisi à part)
+const av = (h, tint = '#cfc9bf', label = true) => `
+<svg class="av" viewBox="0 0 200 420" style="height:${h}px">
+  <defs><linearGradient id="g${h}" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="${tint}"/><stop offset="1" stop-color="#b9b2a7"/></linearGradient></defs>
+  <ellipse cx="100" cy="410" rx="62" ry="8" fill="#000" opacity=".08"/>
+  <path d="M70 40 L62 0 L88 30 Z M130 40 L138 0 L112 30 Z" fill="url(#g${h})"/>
+  <rect x="58" y="22" width="84" height="104" rx="42" fill="url(#g${h})"/>
+  <rect x="72" y="88" width="56" height="54" rx="26" fill="#f4f1ec"/>
+  <rect x="40" y="148" width="120" height="130" rx="34" fill="${G}"/>
+  <rect x="18" y="160" width="26" height="110" rx="13" fill="${G}"/><rect x="156" y="160" width="26" height="110" rx="13" fill="${G}"/>
+  <rect x="48" y="270" width="104" height="44" rx="12" fill="${GR}"/>
+  <rect x="62" y="310" width="28" height="80" rx="12" fill="url(#g${h})"/><rect x="110" y="310" width="28" height="80" rx="12" fill="url(#g${h})"/>
+  <rect x="52" y="384" width="44" height="22" rx="11" fill="#fff" stroke="#ddd"/><rect x="104" y="384" width="44" height="22" rx="11" fill="#fff" stroke="#ddd"/>
+  ${label ? `<text x="100" y="222" text-anchor="middle" font-family="Arial" font-weight="700" font-size="22" fill="#fff">GG</text>` : ''}
+</svg>`;
+const mic = `<svg class="i" viewBox="0 0 24 24"><path fill="currentColor" d="M12 15a3 3 0 0 0 3-3V6a3 3 0 1 0-6 0v6a3 3 0 0 0 3 3Zm5-3a5 5 0 0 1-10 0H5a7 7 0 0 0 6 6.92V21h2v-2.08A7 7 0 0 0 19 12h-2Z"/></svg>`;
+const send = `<svg class="i" viewBox="0 0 24 24"><path fill="currentColor" d="M3.4 20.4 21 12 3.4 3.6 3.3 10l12.6 2-12.6 2z"/></svg>`;
+const map = (h) => `<div style="height:${h}px;border-radius:12px;background:
+  linear-gradient(90deg,transparent 46%,#e7e3dc 46% 54%,transparent 54%),linear-gradient(0deg,transparent 40%,#e7e3dc 40% 48%,transparent 48%),#f6f4f0;position:relative;overflow:hidden">
+  <div style="position:absolute;left:58%;top:28%;width:26%;height:30%;background:${G};opacity:.85;border-radius:6px"></div>
+  <div style="position:absolute;left:62%;top:20%;font:600 11px Arial;color:${G}">MRT</div></div>`;
+
+const V = {
+// 1. Deux colonnes : avatar à gauche, panneau de réponse à droite
+1: ['Deux colonnes', `
+<div style="display:grid;grid-template-columns:44% 56%;height:100%">
+  <div style="display:flex;align-items:flex-end;justify-content:center;padding-bottom:30px">${av(820)}</div>
+  <div style="padding:34px 26px 26px 6px;display:flex;flex-direction:column">
+    <div style="font:600 11px Arial;letter-spacing:.16em;color:${G}">HOLOGUIDE · INNOVA</div>
+    <p style="margin-top:40px;color:#86868b;font-size:14px">« ${Q} »</p>
+    <p class="serif" style="font-size:24px;line-height:1.3;margin-top:10px">${A}</p>
+    <div style="margin-top:22px">${map(150)}</div>
+    <div style="flex:1"></div>
+    <div style="display:flex;gap:8px"><div style="flex:1;height:50px;border:1px solid #d2d2d7;border-radius:10px;padding:15px;color:#a1a1a6;font-size:14px">Écris ta question…</div>
+    <div style="width:50px;height:50px;border-radius:10px;background:${G};color:#fff;display:grid;place-items:center;font-size:20px">${mic}</div></div>
+  </div></div>`],
+
+// 2. Empilé : avatar en haut, carte de réponse en bas
+2: ['Avatar en haut, carte en bas', `
+<div style="height:100%;background:linear-gradient(#f5f5f7,#fff 55%)">
+  <div style="display:flex;justify-content:center;padding-top:26px">${av(430)}</div>
+  <div style="position:absolute;left:18px;right:18px;bottom:18px;background:#fff;border-radius:24px;box-shadow:0 20px 60px rgba(0,0,0,.12);padding:24px">
+    <p style="font-size:13px;color:#86868b">Tu as demandé</p><p style="font-weight:600;font-size:17px;margin-top:2px">${Q}</p>
+    <p style="font-size:17px;line-height:1.5;margin-top:14px;color:#333">${A}</p>
+    <div style="display:flex;gap:8px;margin-top:16px">${['Voir le plan','Heures','Site officiel'].map(x=>`<span style="padding:9px 14px;border-radius:99px;background:#f2f2f4;font-size:13px">${x}</span>`).join('')}</div>
+    <div style="display:flex;gap:10px;margin-top:18px"><div style="flex:1;height:52px;border-radius:26px;background:#f2f2f4;padding:16px 20px;color:#a1a1a6;font-size:14px">Pose une autre question…</div>
+    <div style="width:52px;height:52px;border-radius:50%;background:${G};color:#fff;display:grid;place-items:center;font-size:20px">${mic}</div></div>
+  </div></div>`],
+
+// 3. Messagerie : bulles de conversation, avatar en médaillon
+3: ['Messagerie', `
+<div style="height:100%;display:flex;flex-direction:column;background:#fff">
+  <div style="display:flex;align-items:center;gap:12px;padding:22px 20px;border-bottom:1px solid #eee">
+    <div style="width:54px;height:54px;border-radius:50%;background:#f2efe9;overflow:hidden;display:flex;justify-content:center">${av(130,'#cfc9bf',false)}</div>
+    <div><div style="font-weight:700">Gee-Gee</div><div style="font-size:12px;color:#34c759">● En ligne · Guide du campus</div></div></div>
+  <div style="flex:1;padding:20px;display:flex;flex-direction:column;gap:12px;background:#fafafa">
+    <div style="align-self:flex-start;max-width:80%;background:#fff;border:1px solid #eee;padding:13px 16px;border-radius:18px 18px 18px 4px;font-size:15px">Salut ! Je suis Gee-Gee. Que cherches-tu ?</div>
+    <div style="align-self:flex-end;max-width:80%;background:${G};color:#fff;padding:13px 16px;border-radius:18px 18px 4px 18px;font-size:15px">${Q}</div>
+    <div style="align-self:flex-start;max-width:85%;background:#fff;border:1px solid #eee;padding:13px 16px;border-radius:18px 18px 18px 4px;font-size:15px;line-height:1.45">${A}<div style="margin-top:10px">${map(120)}</div></div>
+    <div style="align-self:flex-start;display:flex;gap:6px">${['Heures d\'examen','Salles d\'étude','Imprimer'].map(x=>`<span style="padding:8px 12px;border:1px solid ${G};color:${G};border-radius:99px;font-size:12px">${x}</span>`).join('')}</div>
+  </div>
+  <div style="display:flex;gap:10px;padding:16px 18px;border-top:1px solid #eee"><div style="flex:1;height:50px;border-radius:25px;background:#f2f2f4;padding:15px 20px;color:#a1a1a6;font-size:14px">Message…</div>
+  <div style="width:50px;height:50px;border-radius:50%;background:${G};color:#fff;display:grid;place-items:center;font-size:20px">${mic}</div></div></div>`],
+
+// 4. Accueil en tuiles : grille de sujets
+4: ['Grille de sujets', `
+<div style="height:100%;padding:26px 22px;display:flex;flex-direction:column">
+  <div style="display:flex;align-items:center;gap:14px">
+    <div style="width:110px;display:flex;justify-content:center">${av(230)}</div>
+    <div><p class="serif" style="font-size:30px;line-height:1.1">Bonjour !<br>Comment puis-je t'aider ?</p><p style="color:#86868b;font-size:13px;margin-top:8px">Touche un sujet ou parle-moi.</p></div></div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:26px">
+    ${TOP.map((t,i)=>`<div style="height:118px;border-radius:18px;background:${i===0?G:'#f5f5f7'};color:${i===0?'#fff':'#1d1d1f'};padding:18px;display:flex;flex-direction:column;justify-content:space-between"><span style="font-size:22px;font-weight:300;opacity:.6">${ICONS[i]}</span><span style="font-weight:600;font-size:16px">${t}</span></div>`).join('')}
+  </div>
+  <div style="flex:1"></div>
+  <div style="height:64px;border-radius:32px;background:#1d1d1f;color:#fff;display:flex;align-items:center;justify-content:center;gap:10px;font-weight:600;font-size:17px"><span style="font-size:22px">${mic}</span> Touche pour parler</div>
+</div>`],
+
+// 5. Plein écran sous-titré : avatar géant, sous-titres karaoké
+5: ['Avatar géant sous-titré', `
+<div style="height:100%;display:flex;flex-direction:column;align-items:center">
+  <div style="margin-top:14px">${av(640)}</div>
+  <div style="position:absolute;left:0;right:0;bottom:120px;padding:0 30px;text-align:center">
+    <p style="font-size:24px;line-height:1.35;font-weight:500"><span style="color:#1d1d1f">La bibliothèque Morisset est au pavillon</span> <span style="color:#1d1d1f;background:#ffe3e8;border-radius:4px;padding:0 3px">Morisset</span> <span style="color:#c7c7cc">Hall (MRT), 65, rue University.</span></p></div>
+  <div style="position:absolute;bottom:30px;display:flex;gap:14px;align-items:center">
+    <span style="padding:12px 18px;border-radius:99px;border:1px solid #d2d2d7;font-size:14px">Écrire</span>
+    <div style="width:68px;height:68px;border-radius:50%;background:${G};color:#fff;display:grid;place-items:center;font-size:28px;box-shadow:0 0 0 10px rgba(143,0,26,.12)">${mic}</div>
+    <span style="padding:12px 18px;border-radius:99px;border:1px solid #d2d2d7;font-size:14px">Sujets</span></div></div>`],
+
+// 6. Identité uOttawa : bandeau grenat
+6: ['Identité uOttawa', `
+<div style="height:100%;display:flex;flex-direction:column">
+  <div style="background:${G};color:#fff;padding:22px 24px;display:flex;justify-content:space-between;align-items:center">
+    <div style="font-weight:800;font-size:20px;letter-spacing:.02em">uOttawa <span style="font-weight:400;opacity:.8">| HoloGuide</span></div><div style="font-size:13px;font-weight:600;border:1px solid rgba(255,255,255,.6);padding:6px 10px;border-radius:4px">EN</div></div>
+  <div style="height:6px;background:${GR}"></div>
+  <div style="display:grid;grid-template-columns:40% 60%;flex:1">
+    <div style="display:flex;align-items:flex-end;justify-content:center;padding-bottom:20px;background:#f7f7f7">${av(560)}</div>
+    <div style="padding:26px 22px">
+      <p style="font-size:12px;font-weight:700;color:${G};letter-spacing:.1em">RÉPONSE OFFICIELLE</p>
+      <p style="font-weight:700;font-size:21px;margin-top:8px">${Q}</p>
+      <p style="font-size:16px;line-height:1.5;margin-top:12px;color:#333">${A}</p>
+      <div style="margin-top:16px">${map(130)}</div>
+      <p style="margin-top:14px;font-size:13px;color:${G};font-weight:600;text-decoration:underline">Source : bibliotheque.uottawa.ca</p>
+    </div></div>
+  <div style="display:flex;gap:0;border-top:1px solid #ddd">${['Accueil','Sujets','Historique','Terminer'].map((x,i)=>`<div style="flex:1;padding:22px 0;text-align:center;font-weight:600;font-size:14px;${i===3?`background:${G};color:#fff`:''}">${x}</div>`).join('')}</div></div>`],
+
+// 7. Éditorial : très grande typographie
+7: ['Éditorial', `
+<div style="height:100%;padding:30px 28px;display:flex;flex-direction:column">
+  <div style="display:flex;justify-content:space-between;font-size:11px;letter-spacing:.18em;border-bottom:2px solid #1d1d1f;padding-bottom:10px"><b>HOLOGUIDE</b><span>N° 042 · BIBLIOTHÈQUES</span></div>
+  <div style="display:grid;grid-template-columns:1fr 150px;gap:14px;margin-top:26px">
+    <p class="serif" style="font-size:52px;line-height:.98;letter-spacing:-.02em">Où est la biblio&shy;thèque Morisset&nbsp;?</p>
+    <div style="display:flex;justify-content:center">${av(320)}</div></div>
+  <p class="serif" style="font-size:21px;line-height:1.45;margin-top:22px;column-count:2;column-gap:22px">${A} Le comptoir de service ferme plus tôt. Les heures sont prolongées pendant les examens.</p>
+  <div style="margin-top:20px">${map(140)}</div>
+  <div style="flex:1"></div>
+  <div style="display:flex;align-items:center;gap:12px;border-top:1px solid #1d1d1f;padding-top:14px"><span class="serif" style="font-size:20px;font-style:italic;flex:1;color:#86868b">Pose ta question…</span><span style="font-size:24px">${mic}</span></div></div>`],
+
+// 8. Cartes : la réponse découpée en cartes
+8: ['Cartes d\'information', `
+<div style="height:100%;background:#f5f5f7;padding:24px 18px;display:flex;flex-direction:column">
+  <div style="display:flex;align-items:flex-end;gap:12px"><div style="width:120px;display:flex;justify-content:center">${av(250)}</div>
+  <div style="background:#fff;border-radius:18px;padding:14px 16px;font-size:15px;margin-bottom:60px;box-shadow:0 4px 14px rgba(0,0,0,.06)">Voici ce que j'ai trouvé sur la bibliothèque Morisset</div></div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:14px">
+    <div style="grid-column:1/3;background:#fff;border-radius:18px;padding:16px">${map(170)}<p style="font-weight:700;margin-top:10px">Morisset Hall (MRT)</p><p style="font-size:13px;color:#86868b">65, rue University</p></div>
+    <div style="background:#fff;border-radius:18px;padding:16px"><p style="font-size:12px;color:#86868b">HEURES</p><p style="font-weight:700;font-size:20px;margin-top:6px">8 h – 2 h</p><p style="font-size:12px;color:#86868b">lundi au vendredi</p></div>
+    <div style="background:#fff;border-radius:18px;padding:16px"><p style="font-size:12px;color:#86868b">TÉLÉPHONE</p><p style="font-weight:700;font-size:18px;margin-top:6px">613-562-5213</p><p style="font-size:12px;color:#86868b">comptoir de service</p></div>
+    <div style="grid-column:1/3;background:${G};color:#fff;border-radius:18px;padding:16px;display:flex;justify-content:space-between;align-items:center"><span style="font-weight:600">Code QR : garder ces infos</span><span style="font-size:22px">▦</span></div>
+  </div>
+  <div style="flex:1"></div>
+  <div style="display:flex;gap:10px"><div style="flex:1;height:54px;border-radius:27px;background:#fff;padding:17px 20px;color:#a1a1a6;font-size:14px">Autre question…</div><div style="width:54px;height:54px;border-radius:50%;background:#1d1d1f;color:#fff;display:grid;place-items:center;font-size:20px">${mic}</div></div></div>`],
+
+// 9. Voix d'abord : gros micro, onde sonore
+9: ['La voix d\'abord', `
+<div style="height:100%;display:flex;flex-direction:column;align-items:center;padding:30px 26px">
+  <div style="font-size:12px;letter-spacing:.16em;color:#86868b">GEE-GEE T'ÉCOUTE</div>
+  <div style="margin-top:10px">${av(420)}</div>
+  <p style="font-size:22px;font-weight:500;text-align:center;margin-top:18px;color:#1d1d1f">« ${Q} »</p>
+  <div style="display:flex;gap:5px;align-items:center;height:70px;margin-top:22px">${Array.from({length:28},(_,i)=>`<span style="width:6px;border-radius:3px;background:${G};opacity:${.35+.65*Math.abs(Math.sin(i*.7))};height:${12+50*Math.abs(Math.sin(i*.55)*Math.cos(i*.21))}px"></span>`).join('')}</div>
+  <div style="flex:1"></div>
+  <div style="width:120px;height:120px;border-radius:50%;background:${G};color:#fff;display:grid;place-items:center;font-size:48px;box-shadow:0 0 0 16px rgba(143,0,26,.1),0 0 0 32px rgba(143,0,26,.05)">${mic}</div>
+  <p style="margin-top:34px;font-size:14px;color:#86868b">Ou <u>écris ta question</u> · <u>vois les sujets</u> · <u>English</u></p></div>`],
+
+// 10. Tableau de bord : barre de sujets à gauche
+10: ['Barre latérale de sujets', `
+<div style="height:100%;display:grid;grid-template-columns:140px 1fr">
+  <div style="background:#1d1d1f;color:#fff;padding:24px 14px;display:flex;flex-direction:column;gap:4px">
+    <div style="font-weight:800;font-size:15px;margin-bottom:18px">Holo<span style="color:#ff5c74">Guide</span></div>
+    ${TOP.map((t,i)=>`<div style="padding:11px 10px;border-radius:10px;font-size:13px;${i===0?`background:${G}`:'opacity:.7'}"><span style="opacity:.5">${ICONS[i]}</span>&nbsp; ${t}</div>`).join('')}
+    <div style="flex:1"></div><div style="padding:11px 10px;border:1px solid rgba(255,255,255,.3);border-radius:10px;font-size:13px;text-align:center">EN / FR</div></div>
+  <div style="display:flex;flex-direction:column;padding:22px 20px">
+    <div style="display:flex;justify-content:center">${av(380)}</div>
+    <div style="border:1px solid #e5e5ea;border-radius:16px;padding:18px;margin-top:12px">
+      <p style="font-weight:700;font-size:17px">${Q}</p><p style="font-size:15px;line-height:1.5;color:#333;margin-top:8px">${A}</p>
+      <div style="margin-top:12px">${map(110)}</div></div>
+    <div style="flex:1"></div>
+    <div style="display:flex;gap:8px"><div style="flex:1;height:50px;border:1px solid #d2d2d7;border-radius:12px;padding:15px;color:#a1a1a6;font-size:14px">Écris ta question…</div>
+    <div style="width:50px;height:50px;border-radius:12px;background:${G};color:#fff;display:grid;place-items:center;font-size:20px">${mic}</div></div></div></div>`]
+};
+const n = Number(new URLSearchParams(location.search).get('v')) || 1;
+document.body.innerHTML = V[n][1] + `<div class="tag">${n} · ${V[n][0]}</div>`;
+document.title = `Maquette ${n}`;
+</script>
+</body>
+</html>

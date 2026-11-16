@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "e-reserver-salle-morisset",
+    "category": "bibliotheques",
+    "keywords": ["réserver salle morisset", "salle de groupe morisset", "book study room morisset", "group study room", "réservation salle étude", "salle travail équipe", "morisset room booking", "bibliorooms", "réserver une salle", "study room reservation"],
+    "question": { "fr": "Comment réserver une salle d'étude de groupe à la bibliothèque Morisset ?", "en": "How do I book a group study room at Morisset Library?" },
+    "answer": {
+      "fr": "La bibliothèque Morisset compte 25 salles d'étude de groupe, situées au concourse, au quatrième et au sixième étage. Tu peux les réserver en ligne avec le système de réservation de salles de la Bibliothèque, pour un maximum de 2 heures. Les étudiants aux cycles supérieurs ont aussi huit salles réservées au sixième étage, pour des groupes de deux à six personnes.",
+      "en": "Morisset Library has 25 group study rooms, located on the concourse, the fourth floor and the sixth floor. You can book them online through the Library's room booking system, for up to 2 hours. Graduate students also have eight dedicated rooms on the sixth floor, for groups of two to six people."
+    },
+    "sources": [
+      { "label": "Morisset Library — uOttawa", "url": "https://www.uottawa.ca/library/morisset-library" },
+      { "label": "Reserve a study space — uOttawa", "url": "https://www.uottawa.ca/library/services/reserve-study-space" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-salle-etude-droit",
+    "category": "bibliotheques",
+    "keywords": ["salle étude droit", "bibliothèque de droit salle", "brian dickson study room", "law library room", "fauteux salle groupe", "réserver salle droit", "law study room booking", "ftx 514", "salle groupe fauteux", "study room law library"],
+    "question": { "fr": "Puis-je réserver une salle d'étude à la bibliothèque de droit Brian-Dickson ?", "en": "Can I book a study room at the Brian Dickson Law Library?" },
+    "answer": {
+      "fr": "Oui ! Les salles de groupe sont au cinquième étage du pavillon Fauteux, accueillent jusqu'à 7 personnes et se réservent en ligne pour un maximum de 2 heures, une fois par jour, deux fois par semaine et cinq fois par mois. Tu peux réserver jusqu'à 2 semaines à l'avance, et la salle est annulée si tu n'arrives pas dans les 30 minutes. Attention : pendant les périodes d'examens, elles sont réservées aux étudiants en droit.",
+      "en": "Yes! The group rooms are on the fifth floor of Fauteux Hall, hold up to 7 people and can be booked online for up to 2 hours, once a day, twice a week and five times a month. You can book up to 2 weeks ahead, and the room is cancelled if you don't show up within 30 minutes. Note that during exam periods they are reserved for law students."
+    },
+    "sources": [
+      { "label": "Study at the Brian Dickson Law Library — uOttawa", "url": "https://www.uottawa.ca/library/brian-dickson-law-library/study-rooms" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-salle-etude-sciences-sante",
+    "category": "bibliotheques",
+    "keywords": ["salle étude sciences de la santé", "roger guindon salle", "health sciences library room", "rgn study room", "réserver salle santé", "bibliothèque santé salle groupe", "group room health sciences", "salle groupe rgn", "campus lees salle", "lees library study room"],
+    "question": { "fr": "Y a-t-il des salles d'étude à réserver à la bibliothèque des sciences de la santé ?", "en": "Are there bookable study rooms at the Health Sciences Library?" },
+    "answer": {
+      "fr": "Oui, la bibliothèque des sciences de la santé, au pavillon Roger-Guindon, offre six salles pour le travail en petit groupe, réservées aux étudiants, pour un maximum de 2 heures par jour. Chaque salle a un tableau blanc, une table de réunion, des prises électriques et le Wi-Fi. Tu réserves en ligne et tu reçois une confirmation par courriel à garder comme preuve. La bibliothèque du campus Lees a aussi trois salles d'étude de six places.",
+      "en": "Yes, the Health Sciences Library in Roger Guindon Hall offers six rooms for small group work, for students only, for up to 2 hours per day. Each room has a whiteboard, a meeting table, power outlets and Wi-Fi. You book online and receive a confirmation email to keep as proof. The Lees Campus Library also has three study rooms for six people."
+    },
+    "sources": [
+      { "label": "Health Sciences Libraries — uOttawa", "url": "https://www.uottawa.ca/library/health-sciences-libraries" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-heures-morisset",
+    "category": "bibliotheques",
+    "keywords": ["heures morisset", "horaire bibliothèque morisset", "morisset hours", "morisset ouvert jusqu'à quand", "library opening hours", "bibliothèque ouverte", "morisset open late", "heures d'ouverture bibliothèque", "comptoir de service heures", "when does morisset close"],
+    "question": { "fr": "Quelles sont les heures d'ouverture de la bibliothèque Morisset ?", "en": "What are Morisset Library's opening hours?" },
+    "answer": {
+      "fr": "Pour la session d'automne, du 14 septembre au 21 décembre 2026, la bibliothèque Morisset est ouverte de 8 h à 2 h du matin du lundi au vendredi, et de 10 h à 2 h du matin la fin de semaine. Le comptoir de service ferme plus tôt : 22 h 30 du lundi au jeudi, 19 h 30 le vendredi et 18 h la fin de semaine. Le 22 décembre, c'est ouvert de 8 h à 17 h.",
+      "en": "For the fall term, from September 14 to December 21, 2026, Morisset Library is open from 8 a.m. to 2 a.m. Monday to Friday, and from 10 a.m. to 2 a.m. on weekends. The service desk closes earlier: 10:30 p.m. Monday to Thursday, 7:30 p.m. on Friday and 6 p.m. on weekends. On December 22, it's open from 8 a.m. to 5 p.m."
+    },
+    "sources": [
+      { "label": "Locations and hours — uOttawa Library", "url": "https://www.uottawa.ca/library/locations-hours" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-heures-biblio-droit",
+    "category": "bibliotheques",
+    "keywords": ["heures bibliothèque droit", "brian dickson hours", "law library hours", "horaire fauteux bibliothèque", "bibliothèque droit ouverte", "law library open late", "heures examens droit", "ftx library hours", "brian dickson horaire", "law library december"],
+    "question": { "fr": "Quelles sont les heures de la bibliothèque de droit Brian-Dickson ?", "en": "What are the Brian Dickson Law Library's hours?" },
+    "answer": {
+      "fr": "Du 14 septembre au 7 décembre 2026, la bibliothèque de droit est ouverte de 8 h à 23 h du lundi au jeudi, de 8 h à 20 h le vendredi et de 10 h à 20 h la fin de semaine. Pendant les examens, du 7 au 21 décembre, elle ouvre tous les jours de 8 h à 2 h du matin. Le 22 décembre, c'est de 8 h à 17 h.",
+      "en": "From September 14 to December 7, 2026, the Law Library is open from 8 a.m. to 11 p.m. Monday to Thursday, 8 a.m. to 8 p.m. on Friday and 10 a.m. to 8 p.m. on weekends. During exams, from December 7 to 21, it's open every day from 8 a.m. to 2 a.m. On December 22, it's 8 a.m. to 5 p.m."
+    },
+    "sources": [
+      { "label": "Locations and hours — uOttawa Library", "url": "https://www.uottawa.ca/library/locations-hours" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-heures-sciences-sante",
+    "category": "bibliotheques",
+    "keywords": ["heures bibliothèque santé", "health sciences library hours", "roger guindon bibliothèque horaire", "rgn library hours", "bibliothèque sciences de la santé ouverte", "lees library hours", "horaire bibliothèque lees", "health library open", "heures rgn", "smyth road library"],
+    "question": { "fr": "Quelles sont les heures de la bibliothèque des sciences de la santé ?", "en": "What are the Health Sciences Library's hours?" },
+    "answer": {
+      "fr": "Du 14 septembre au 21 décembre 2026, la bibliothèque des sciences de la santé, au pavillon Roger-Guindon, est ouverte de 8 h à 22 h 30 du lundi au jeudi, de 8 h à 20 h le vendredi et de 10 h à 19 h la fin de semaine. La bibliothèque du campus Lees suit les heures de l'édifice : de 7 h à 21 h en semaine et de 8 h à 16 h 30 la fin de semaine.",
+      "en": "From September 14 to December 21, 2026, the Health Sciences Library in Roger Guindon Hall is open from 8 a.m. to 10:30 p.m. Monday to Thursday, 8 a.m. to 8 p.m. on Friday and 10 a.m. to 7 p.m. on weekends. The Lees Campus Library follows the building's hours: 7 a.m. to 9 p.m. on weekdays and 8 a.m. to 4:30 p.m. on weekends."
+    },
+    "sources": [
+      { "label": "Locations and hours — uOttawa Library", "url": "https://www.uottawa.ca/library/locations-hours" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-biblio-droit",
+    "category": "bibliotheques",
+    "keywords": ["où est la bibliothèque de droit", "bibliothèque brian dickson", "law library location", "where is the law library", "pavillon fauteux bibliothèque", "57 louis pasteur", "bibliothèque droit téléphone", "law librarian", "law library phone", "emprunter toge"],
+    "question": { "fr": "Où se trouve la bibliothèque de droit Brian-Dickson ?", "en": "Where is the Brian Dickson Law Library?" },
+    "answer": {
+      "fr": "La bibliothèque de droit Brian-Dickson est au pavillon Fauteux, au 57, rue Louis-Pasteur, et occupe une grande partie des quatrième et cinquième étages. Le comptoir de service et l'aide à la référence sont au quatrième étage. Tu peux joindre l'équipe au 613-562-5812.",
+      "en": "The Brian Dickson Law Library is in Fauteux Hall, at 57 Louis Pasteur, and covers a large part of the fourth and fifth floors. The service desk and reference help are on the fourth floor. You can reach the team at 613-562-5812."
+    },
+    "sources": [
+      { "label": "Brian Dickson Law Library — uOttawa", "url": "https://www.uottawa.ca/library/brian-dickson-law-library" },
+      { "label": "Study at the Brian Dickson Law Library — uOttawa", "url": "https://www.uottawa.ca/library/brian-dickson-law-library/study-rooms" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-biblio-sciences-sante",
+    "category": "bibliotheques",
+    "keywords": ["bibliothèque sciences de la santé", "health sciences library", "où est la bibliothèque de médecine", "medical library", "roger guindon", "campus alta vista bibliothèque", "nursing librarian", "bibliothécaire santé", "451 smyth", "health library phone"],
+    "question": { "fr": "Où est la bibliothèque des sciences de la santé ?", "en": "Where is the Health Sciences Library?" },
+    "answer": {
+      "fr": "La bibliothèque des sciences de la santé est au pavillon Roger-Guindon, au 451, chemin Smyth, et il y a aussi une bibliothèque au campus Lees. Des bibliothécaires spécialisés en sciences infirmières, sciences de la santé, médecine et réadaptation peuvent t'aider avec tes travaux et tes recherches documentaires. Pour les joindre, appelle au 613-562-5407.",
+      "en": "The Health Sciences Library is in Roger Guindon Hall, at 451 Smyth Road, and there's also a library at the Lees Campus. Librarians specializing in nursing, health sciences, medicine and rehabilitation can help with your assignments and literature searches. To reach them, call 613-562-5407."
+    },
+    "sources": [
+      { "label": "Health Sciences Libraries — uOttawa", "url": "https://www.uottawa.ca/library/health-sciences-libraries" },
+      { "label": "Print, copy, scan — uOttawa Library", "url": "https://www.uottawa.ca/library/services/print-copy-scan" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-cout-impression-biblio",
+    "category": "bibliotheques",
+    "keywords": ["prix impression bibliothèque", "combien coûte imprimer", "printing cost library", "imprimer en couleur", "photocopie prix", "colour printing price", "ajouter argent carte étudiante", "add money student card", "imprimante morisset", "print at library"],
+    "question": { "fr": "Combien coûte une impression à la bibliothèque ?", "en": "How much does printing cost at the library?" },
+    "answer": {
+      "fr": "En noir et blanc, c'est 9 cents la page recto et 16 cents recto verso ; en couleur, 25 cents recto et 48 cents recto verso. La numérisation est gratuite. Pour payer, tu ajoutes des fonds à ta carte étudiante en ligne, au bureau du Service de la carte uOttawa ou avec une borne de rechargement, par carte de débit ou de crédit. À Morisset, les imprimantes sont notamment dans la salle MRT 142.",
+      "en": "Black and white is 9 cents per one-sided page and 16 cents double-sided; colour is 25 cents one-sided and 48 cents double-sided. Scanning is free. To pay, you add funds to your student card online, at the uOttawa Card Service office or at a card loader, by debit or credit card. At Morisset, printers are in room MRT 142, among other spots."
+    },
+    "sources": [
+      { "label": "Print, copy, scan — uOttawa Library", "url": "https://www.uottawa.ca/library/services/print-copy-scan" },
+      { "label": "Morisset Library — uOttawa", "url": "https://www.uottawa.ca/library/morisset-library" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-numeriser-document",
+    "category": "bibliotheques",
+    "keywords": ["numériser document", "scanner bibliothèque", "scan a document", "scanner livre", "book scanner", "numériser vers courriel", "scan to usb", "scan to email", "numériseur morisset", "scanner gratuit"],
+    "question": { "fr": "Où puis-je numériser un document ou un livre ?", "en": "Where can I scan a document or a book?" },
+    "answer": {
+      "fr": "Tu peux numériser gratuitement vers ton courriel ou une clé USB sur les photocopieurs de chaque bibliothèque. Un numériseur de livres libre-service se trouve au premier étage de Morisset, dans la salle 142. Pour les images, les films 35 mm ou les grands formats, il y a des numériseurs spécialisés au Laboratoire numérique, en MRT 016.",
+      "en": "You can scan for free to your email or a USB key on the photocopiers in every library. A self-serve book scanner is on the first floor of Morisset, in room 142. For images, 35 mm film or large formats, there are specialized scanners at the Digital Lab, in MRT 016."
+    },
+    "sources": [
+      { "label": "Print, copy, scan — uOttawa Library", "url": "https://www.uottawa.ca/library/services/print-copy-scan" },
+      { "label": "Accessibility — uOttawa Library", "url": "https://www.uottawa.ca/library/services/accessibility" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-pret-equipement",
+    "category": "bibliotheques",
+    "keywords": ["emprunter équipement", "prêt caméra", "borrow equipment", "borrow camera", "prêt micro trépied", "multimedia equipment loan", "emprunter chargeur", "macbook charger", "équipement multimédia", "prêt ordinateur bibliothèque"],
+    "question": { "fr": "Est-ce que je peux emprunter de l'équipement à la bibliothèque ?", "en": "Can I borrow equipment from the library?" },
+    "answer": {
+      "fr": "Oui, la Bibliothèque prête de l'équipement multimédia comme des caméras, des micros et des trépieds. À Morisset, au comptoir de service principal, le prêt dure 7 jours avec 2 renouvellements, pour les étudiants et le personnel actuels, et l'équipement se rapporte au comptoir de Morisset. La bibliothèque de droit prête aussi des chargeurs MacBook pour 4 heures. Le catalogue en ligne montre tout l'équipement offert.",
+      "en": "Yes, the Library lends multimedia equipment such as cameras, microphones and tripods. At Morisset's main service desk, loans last 7 days with 2 renewals, for current students and staff, and equipment must be returned to the Morisset desk. The Law Library also lends MacBook chargers for 4 hours. The online catalogue lists all the equipment available."
+    },
+    "sources": [
+      { "label": "Borrow — uOttawa Library", "url": "https://www.uottawa.ca/library/services/borrow" },
+      { "label": "Learning Crossroads — uOttawa Library", "url": "https://www.uottawa.ca/library/learning-crossroads" },
+      { "label": "Study at the Brian Dickson Law Library — uOttawa", "url": "https://www.uottawa.ca/library/brian-dickson-law-library/study-rooms" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-pret-entre-bibliotheques",
+    "category": "bibliotheques",
+    "keywords": ["prêt entre bibliothèques", "interlibrary loan", "pel", "ill", "livre pas à uottawa", "book from another library", "omni partenaires", "commander un livre", "request article", "emprunter ailleurs"],
+    "question": { "fr": "Comment emprunter un livre que la bibliothèque d'uOttawa n'a pas ?", "en": "How do I borrow a book that the uOttawa Library doesn't have?" },
+    "answer": {
+      "fr": "Utilise le prêt entre bibliothèques dans Omni : connecte-toi à ton compte, cherche le document et fais une demande, et l'une des 18 bibliothèques partenaires l'envoie à uOttawa. C'est gratuit, le délai moyen est de 7 à 10 jours ouvrables, et tu as la même période de prêt de 120 jours qu'un livre d'uOttawa. Ce service n'est pas offert aux diplômés ni aux utilisateurs externes.",
+      "en": "Use interlibrary loan in Omni: sign in to your account, search for the item and place a request, and one of the 18 partner libraries sends it to uOttawa. It's free, average delivery is 7 to 10 business days, and you get the same 120-day loan period as a uOttawa book. This service isn't available to alumni or external users."
+    },
+    "sources": [
+      { "label": "Interlibrary loan — uOttawa Library", "url": "https://www.uottawa.ca/library/services/interlibrary-loan" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-aide-recherche",
+    "category": "bibliotheques",
+    "keywords": ["aide à la recherche", "parler à un bibliothécaire", "research help", "talk to a librarian", "rendez-vous bibliothécaire", "guide de recherche", "research guide", "trouver des articles", "subject librarian", "consultation recherche"],
+    "question": { "fr": "Comment obtenir de l'aide d'un bibliothécaire pour un travail de recherche ?", "en": "How do I get help from a librarian for a research assignment?" },
+    "answer": {
+      "fr": "Chaque discipline a un guide de recherche avec les coordonnées d'un bibliothécaire ou d'un spécialiste, que tu peux rencontrer pour un travail ou ta recherche. Si tu ne sais pas qui contacter, appelle la Bibliothèque au 613-562-5213 ou écris-lui, et on te dirigera vers la bonne personne. On répond habituellement aux courriels en 24 heures.",
+      "en": "Each subject has a research guide with the contact details of a librarian or specialist you can meet for an assignment or your research. If you're not sure who to contact, call the Library at 613-562-5213 or email them, and they'll point you to the right person. Emails are usually answered within 24 hours."
+    },
+    "sources": [
+      { "label": "Research guides and librarians — uOttawa Library", "url": "https://www.uottawa.ca/library/research-guides-librarians" },
+      { "label": "Ask and contact — uOttawa Library", "url": "https://www.uottawa.ca/library/ask-contact" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-clavardage-biblio",
+    "category": "bibliotheques",
+    "keywords": ["clavarder bibliothèque", "chat bibliothèque", "library chat", "texto bibliothèque", "text the library", "poser question bibliothèque", "ask a librarian", "clavardage heures", "contacter bibliothèque", "library phone number"],
+    "question": { "fr": "Est-ce que je peux poser une question à la bibliothèque par clavardage ou texto ?", "en": "Can I ask the library a question by chat or text?" },
+    "answer": {
+      "fr": "Oui ! Tu peux texter la Bibliothèque au 613-801-5603 ou utiliser le clavardage. Pour l'automne 2026, jusqu'au 6 décembre, le clavardage est offert de 10 h à 22 h du lundi au jeudi et de 10 h à 17 h le vendredi. Tu peux aussi appeler au 613-562-5213 pendant les heures d'ouverture.",
+      "en": "Yes! You can text the Library at 613-801-5603 or use the chat. For fall 2026, until December 6, chat is available from 10 a.m. to 10 p.m. Monday to Thursday and 10 a.m. to 5 p.m. on Friday. You can also call 613-562-5213 during opening hours."
+    },
+    "sources": [
+      { "label": "Live chat schedule — uOttawa Library", "url": "https://www.uottawa.ca/library/ask-contact/live-chat-schedule" },
+      { "label": "Ask and contact — uOttawa Library", "url": "https://www.uottawa.ca/library/ask-contact" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-aide-citation",
+    "category": "bibliotheques",
+    "keywords": ["aide citation", "comment citer", "how to cite", "bibliographie", "zotero", "endnote", "citation help", "gestionnaire de références", "reference manager", "apa mla"],
+    "question": { "fr": "Où trouver de l'aide pour citer mes sources et faire ma bibliographie ?", "en": "Where can I get help citing my sources and building my bibliography?" },
+    "answer": {
+      "fr": "La Bibliothèque offre des ateliers pour apprendre à utiliser Zotero et EndNote, des outils qui organisent tes références et créent ta bibliographie automatiquement. Il y a aussi un guide sur la gestion des citations dans ses guides de recherche. Pour une question précise, tu peux contacter un bibliothécaire de ta discipline.",
+      "en": "The Library offers workshops on Zotero and EndNote, tools that organize your references and build your bibliography automatically. There's also a citation management guide among its research guides. For a specific question, you can contact a librarian in your subject."
+    },
+    "sources": [
+      { "label": "Library — uOttawa", "url": "https://www.uottawa.ca/library" },
+      { "label": "Research guides and librarians — uOttawa Library", "url": "https://www.uottawa.ca/library/research-guides-librarians" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "pointer"
+  },
+  {
+    "id": "e-zones-silencieuses",
+    "category": "bibliotheques",
+    "keywords": ["zone silencieuse", "endroit calme pour étudier", "quiet zone", "silent study", "étudier en silence", "quiet place to study", "morisset étage silencieux", "taux d'occupation", "library occupancy", "place libre bibliothèque"],
+    "question": { "fr": "Où trouver un endroit calme pour étudier à Morisset ?", "en": "Where can I find a quiet place to study at Morisset?" },
+    "answer": {
+      "fr": "À Morisset, il y a des zones calmes au troisième et au quatrième étage, une zone silencieuse au cinquième, et une zone calme réservée aux cycles supérieurs au sixième. La Bibliothèque publie aussi le taux d'occupation de chaque étage en temps réel, pratique pour trouver une place libre.",
+      "en": "At Morisset, there are quiet zones on the third and fourth floors, a silent zone on the fifth floor, and a graduate quiet zone on the sixth floor. The Library also posts each floor's occupancy in real time, which is handy for finding a free seat."
+    },
+    "sources": [
+      { "label": "Study Space — uOttawa Library", "url": "https://www.uottawa.ca/library/study-space" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-renouveler-livre",
+    "category": "bibliotheques",
+    "keywords": ["renouveler livre", "renew book", "prolonger prêt", "extend loan", "date de retour", "due date", "compte omni", "renouvellement", "combien de livres", "loan period"],
+    "question": { "fr": "Comment renouveler un livre emprunté ?", "en": "How do I renew a borrowed book?" },
+    "answer": {
+      "fr": "Connecte-toi à ton compte dans Omni pour renouveler tes documents ; la nouvelle date est calculée à partir du jour du renouvellement. Les étudiants peuvent emprunter jusqu'à 500 documents pour 120 jours, avec des renouvellements illimités, tant que personne n'a demandé le livre et que tu dois moins de 20 dollars en frais. Un avis de courtoisie est envoyé à ton courriel uOttawa environ 2 jours avant l'échéance.",
+      "en": "Sign in to your Omni account to renew your items; the new due date is calculated from the day you renew. Students can borrow up to 500 items for 120 days, with unlimited renewals, as long as no one has requested the book and you owe less than 20 dollars in fines. A courtesy notice is sent to your uOttawa email about 2 days before the due date."
+    },
+    "sources": [
+      { "label": "Borrow — uOttawa Library", "url": "https://www.uottawa.ca/library/services/borrow" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-amendes-biblio",
+    "category": "bibliotheques",
+    "keywords": ["amende bibliothèque", "library fine", "livre en retard", "overdue book", "livre perdu", "lost book", "frais de retard bibliothèque", "rappel livre", "recall", "payer amende"],
+    "question": { "fr": "Est-ce qu'il y a des amendes si je rends un livre en retard ?", "en": "Are there fines if I return a book late?" },
+    "answer": {
+      "fr": "Si un livre est rappelé parce que quelqu'un d'autre le demande, tu as 7 jours pour le rendre ; après, c'est 4 dollars par jour, ou 10 dollars par jour pour l'équipement. Après 14 jours, le document est déclaré perdu et des frais de remplacement de 125 dollars s'appliquent pour un livre. Si tu dois 20 dollars ou plus, ton droit d'emprunt est suspendu. La Bibliothèque accepte le débit, le crédit, les chèques et la carte uO Flex, mais pas l'argent comptant.",
+      "en": "If a book is recalled because someone else requested it, you have 7 days to return it; after that it's 4 dollars a day, or 10 dollars a day for equipment. After 14 days, the item is declared lost and a 125-dollar replacement charge applies for a book. If you owe 20 dollars or more, your borrowing privileges are suspended. The Library accepts debit, credit, cheques and the uO Flex card, but not cash."
+    },
+    "sources": [
+      { "label": "Borrow — uOttawa Library", "url": "https://www.uottawa.ca/library/services/borrow" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-retour-livre",
+    "category": "bibliotheques",
+    "keywords": ["rendre un livre", "return a book", "chute de retour", "book drop", "bibliothèque fermée retour", "return when closed", "retourner livre nuit", "night drop", "où rendre livre", "retour équipement"],
+    "question": { "fr": "Où rendre un livre quand la bibliothèque est fermée ?", "en": "Where can I return a book when the library is closed?" },
+    "answer": {
+      "fr": "Quand c'est fermé, utilise les chutes de retour de nuit à l'extérieur des bibliothèques Morisset, de droit Brian-Dickson et des sciences de la santé. Il y a aussi des chutes dans chaque bibliothèque et aux pavillons Desmarais, Colonel-By et des Sciences sociales. Par contre, les documents en réserve retournent à leur bibliothèque, et l'équipement doit être rendu au comptoir de Morisset.",
+      "en": "When it's closed, use the night return chutes outside the Morisset, Brian Dickson Law and Health Sciences libraries. There are also chutes in every library and in Desmarais Hall, Colonel By Hall and the Social Sciences Building. However, reserve items go back to their own library, and equipment must be returned to the Morisset desk."
+    },
+    "sources": [
+      { "label": "Borrow — uOttawa Library", "url": "https://www.uottawa.ca/library/services/borrow" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-reserver-livre",
+    "category": "bibliotheques",
+    "keywords": ["mettre un livre de côté", "place a hold", "réserver un livre", "reserve a book", "ramassage livre", "pickup book", "demande omni", "livre déjà emprunté", "nip libre-service", "self-checkout pin"],
+    "question": { "fr": "Comment faire mettre un livre de côté pour le récupérer ?", "en": "How do I place a hold on a book and pick it up?" },
+    "answer": {
+      "fr": "Connecte-toi à Omni, choisis l'option pour mettre le livre de côté et indique ton point de ramassage : Morisset, droit, sciences de la santé ou le centre de ressources de la Faculté d'éducation. Tu reçois un courriel quand il est prêt ; les livres sont classés selon la première lettre de ton nom et les cinq derniers chiffres de ton numéro étudiant. Tu as 7 jours ouvrables pour le récupérer, et il te faut un NIP pour le guichet libre-service, que tu obtiens au comptoir de service.",
+      "en": "Sign in to Omni, choose the place-a-hold option and pick your pickup location: Morisset, Law, Health Sciences or the Faculty of Education Resource Centre. You'll get an email when it's ready; books are shelved by the first letter of your last name and the last five digits of your student number. You have 7 business days to pick it up, and you need a PIN for the self-checkout, which you can get at the service desk."
+    },
+    "sources": [
+      { "label": "Place a hold — uOttawa Library", "url": "https://www.uottawa.ca/library/services/borrow-access/place-hold" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-carte-bibliotheque",
+    "category": "bibliotheques",
+    "keywords": ["carte de bibliothèque", "library card", "obtenir carte bibliothèque", "get a library card", "visiteur emprunter", "visitor borrow", "diplômé bibliothèque", "alumni library", "carte perdue bibliothèque", "lost library card"],
+    "question": { "fr": "Comment obtenir une carte de bibliothèque ?", "en": "How do I get a library card?" },
+    "answer": {
+      "fr": "Si tu es étudiant, ta carte étudiante sert de carte de bibliothèque, tu n'as rien à faire. Les visiteurs se présentent à un comptoir de service avec une pièce d'identité avec nom, photo et adresse, et une carte de leur établissement comme la carte SmartLibrary. Les diplômés obtiennent d'abord leur carte de membre de l'Association des diplômés. Une carte perdue coûte 5 dollars à remplacer.",
+      "en": "If you're a student, your student card is your library card, so there's nothing to do. Visitors go to a service desk with ID showing their name, photo and address, plus a card from their institution such as a SmartLibrary card. Alumni first get their membership card from the Alumni Association. A lost card costs 5 dollars to replace."
+    },
+    "sources": [
+      { "label": "Library account — uOttawa", "url": "https://www.uottawa.ca/library/services/library-account" },
+      { "label": "Alumni and visitors — uOttawa Library", "url": "https://www.uottawa.ca/library/services/alumni-visitors" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-visiteur-ordinateur-biblio",
+    "category": "bibliotheques",
+    "keywords": ["visiteur ordinateur bibliothèque", "guest computer", "compte invité", "guest account library", "public utiliser ordinateur", "non étudiant ordinateur", "accès public bibliothèque", "visitor internet", "ordinateur public", "researcher guest account"],
+    "question": { "fr": "Je ne suis pas étudiant : est-ce que je peux utiliser un ordinateur de la bibliothèque ?", "en": "I'm not a student: can I use a library computer?" },
+    "answer": {
+      "fr": "Oui, avec un compte invité. Le grand public peut utiliser un ordinateur pendant une heure, une fois par jour, en présentant une pièce d'identité avec nom et adresse au comptoir de Morisset ou de la bibliothèque de droit. Les chercheurs peuvent obtenir un compte d'une journée en démontrant leur affiliation de recherche.",
+      "en": "Yes, with a guest account. Members of the public can use a computer for one hour, once a day, by showing ID with their name and address at the Morisset or Law Library desk. Researchers can get a one-day account by showing their research affiliation."
+    },
+    "sources": [
+      { "label": "Alumni and visitors — uOttawa Library", "url": "https://www.uottawa.ca/library/services/alumni-visitors" },
+      { "label": "Computers and technology — uOttawa Library", "url": "https://www.uottawa.ca/library/services/computers-technology" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-ressources-distance",
+    "category": "bibliotheques",
+    "keywords": ["accès hors campus", "off-campus access", "articles en ligne maison", "ebooks from home", "openathens", "se connecter ressources électroniques", "base de données maison", "access databases", "paywall article", "lire article en ligne"],
+    "question": { "fr": "Comment accéder aux articles et livres électroniques de la bibliothèque depuis chez moi ?", "en": "How do I access the library's articles and e-books from home?" },
+    "answer": {
+      "fr": "Cherche le document dans Omni, clique sur le lien pour le voir en ligne, puis connecte-toi avec tes identifiants uoAccess quand on te le demande. Sur le site d'un éditeur, choisis l'option de connexion institutionnelle et sélectionne Bibliothèque uOttawa Library. Tu n'as à te connecter qu'une fois par session de navigation.",
+      "en": "Search for the item in Omni, click the link to view it online, then sign in with your uoAccess credentials when prompted. On a publisher's website, choose the institutional login option and select Bibliothèque uOttawa Library. You only need to sign in once per browser session."
+    },
+    "sources": [
+      { "label": "Sign in to online resources — uOttawa Library", "url": "https://www.uottawa.ca/library/services/sign-online-resources" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-salles-accessibles",
+    "category": "bibliotheques",
+    "keywords": ["salle accessible bibliothèque", "accessible study room", "technologie d'aide", "assistive technology", "lecteur d'écran", "screen reader", "read&write", "bureau ajustable", "handicap bibliothèque", "accessibility library"],
+    "question": { "fr": "Y a-t-il des salles d'étude accessibles et des technologies d'aide à la bibliothèque ?", "en": "Are there accessible study rooms and assistive technology at the library?" },
+    "answer": {
+      "fr": "Oui, il y a des salles d'étude individuelles accessibles, par exemple les salles 116, 117 et 416 à Morisset et la salle 408 à la bibliothèque de droit, avec bureaux ajustables, chaises ergonomiques et logiciels comme JAWS, NVDA, ZoomText ou Read&Write. Pour pouvoir réserver un poste adapté, écris d'abord à l'équipe accessibilité de la Bibliothèque. Une licence Read&Write est aussi offerte à tous les étudiants.",
+      "en": "Yes, there are accessible individual study rooms, for example rooms 116, 117 and 416 at Morisset and room 408 at the Law Library, with adjustable desks, ergonomic chairs and software such as JAWS, NVDA, ZoomText or Read&Write. To be able to book an adapted workstation, first email the Library's accessibility team. A Read&Write licence is also available to all students."
+    },
+    "sources": [
+      { "label": "Accessibility — uOttawa Library", "url": "https://www.uottawa.ca/library/services/accessibility" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-carrefour-apprentissage",
+    "category": "bibliotheques",
+    "keywords": ["carrefour des apprentissages", "learning crossroads", "crx étudier", "crx study space", "espace étude crx", "carrefour numérique", "digital skills hub", "balado réalité virtuelle", "podcast studio", "100 louis-pasteur"],
+    "question": { "fr": "Peut-on étudier au Carrefour des apprentissages (CRX) ?", "en": "Can I study at the Learning Crossroads (CRX)?" },
+    "answer": {
+      "fr": "Oui ! Les deuxième et cinquième étages du Carrefour des apprentissages offrent plus de 1 000 places d'étude individuelles ou en groupe, et certaines salles du cinquième étage se réservent en ligne. Tu y trouveras aussi le Carrefour des compétences numériques pour essayer la baladodiffusion ou la réalité virtuelle. Le CRX est au 100, promenade Louis-Pasteur.",
+      "en": "Yes! The second and fifth floors of the Learning Crossroads offer more than 1,000 individual or group study spaces, and some fifth-floor rooms can be booked online. You'll also find the Digital Skills Hub there to try podcasting or virtual reality. CRX is at 100 Louis-Pasteur Private."
+    },
+    "sources": [
+      { "label": "Learning Crossroads — uOttawa Library", "url": "https://www.uottawa.ca/library/learning-crossroads" },
+      { "label": "Reserve a study space — uOttawa", "url": "https://www.uottawa.ca/library/services/reserve-study-space" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-mot-de-passe-oublie",
+    "category": "ti",
+    "keywords": ["mot de passe oublié", "forgot password", "réinitialiser mot de passe", "reset password uoaccess", "compte bloqué", "locked out", "mot de passe uoaccess", "password reset", "je ne peux pas me connecter", "can't log in"],
+    "question": { "fr": "J'ai oublié mon mot de passe uoAccess, qu'est-ce que je fais ?", "en": "I forgot my uoAccess password, what do I do?" },
+    "answer": {
+      "fr": "Utilise le portail de réinitialisation libre-service de Microsoft, accessible depuis la page Gestion de compte des TI, sur ton téléphone ou ton ordinateur. Si l'outil ne fonctionne pas, remplis la demande de réinitialisation en ligne ou contacte le Centre de services TI. Ne saisis jamais ton mot de passe sur un appareil public.",
+      "en": "Use Microsoft's self-service password reset portal, linked from the IT Account Management page, on your phone or computer. If the tool doesn't work, fill out the online password reset request or contact the IT Service Desk. Never type your password on a public device."
+    },
+    "sources": [
+      { "label": "Account Management — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/account" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-compte-recuperation",
+    "category": "ti",
+    "keywords": ["compte de récupération", "recovery account", "courriel de récupération", "recovery email", "éviter blocage compte", "avoid lockout", "numéro de téléphone récupération", "security info", "configurer récupération", "set up recovery"],
+    "question": { "fr": "Comment éviter d'être bloqué hors de mon compte uOttawa ?", "en": "How can I avoid getting locked out of my uOttawa account?" },
+    "answer": {
+      "fr": "Configure dès maintenant ton compte de récupération : ça prend environ deux minutes. Tu ajoutes un courriel et un numéro de téléphone de récupération dans tes informations de sécurité Microsoft. Ainsi, si tu oublies ton mot de passe, tu pourras le réinitialiser toi-même, sans attendre.",
+      "en": "Set up your recovery account now: it takes about two minutes. You add a recovery email and phone number in your Microsoft security info. That way, if you forget your password, you can reset it yourself without waiting."
+    },
+    "sources": [
+      { "label": "Password recovery account set up — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/set-your-password-recovery-account" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-identifiant-uoaccess",
+    "category": "ti",
+    "keywords": ["identifiant uoaccess", "uoaccess id", "c'est quoi uoaccess", "what is uoaccess", "nom d'utilisateur uottawa", "username uottawa", "changer mot de passe", "change password", "mot de passe fort", "strong password"],
+    "question": { "fr": "C'est quoi mon identifiant uoAccess ?", "en": "What is my uoAccess ID?" },
+    "answer": {
+      "fr": "Ton identifiant uoAccess, c'est la partie courte avant le @uOttawa.ca de ton adresse courriel. Le même mot de passe sert pour uoZone, ton courriel et les applications de la Bibliothèque. Si tu le changes, choisis un mot de passe d'au moins 14 caractères avec des minuscules, des majuscules, des chiffres et des caractères spéciaux.",
+      "en": "Your uoAccess ID is the short part before @uOttawa.ca in your email address. The same password works for uoZone, your email and the Library's applications. If you change it, pick a password of at least 14 characters with lowercase and uppercase letters, numbers and special characters."
+    },
+    "sources": [
+      { "label": "uoAccess — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/account/uoaccess" },
+      { "label": "Account Management — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/account" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-mfa-nouveau-telephone",
+    "category": "ti",
+    "keywords": ["nouveau téléphone mfa", "new phone mfa", "perdu téléphone authentification", "lost phone mfa", "réinitialiser mfa", "reset mfa", "microsoft authenticator nouveau", "ssmr", "changer appareil mfa", "authenticator not working"],
+    "question": { "fr": "J'ai changé de téléphone, comment réinitialiser mon MFA ?", "en": "I got a new phone, how do I reset my MFA?" },
+    "answer": {
+      "fr": "Utilise l'outil libre-service de réinitialisation MFA de l'Université. Pour l'utiliser, ta connexion Internet doit être au Canada, tu dois le faire entre 7 h et 23 h, heure de l'Est, ne pas avoir changé ton mot de passe dans les 72 dernières heures, et avoir un courriel de récupération dans ton compte. Si ça ne marche pas, remplis le formulaire de réinitialisation de compte en choisissant MFA.",
+      "en": "Use the University's Self-Service MFA Reset tool. To use it, your internet connection must be in Canada, you must do it between 7 a.m. and 11 p.m. Eastern time, you must not have changed your password in the last 72 hours, and you need a recovery email on your account. If it doesn't work, fill out the account reset form and choose MFA."
+    },
+    "sources": [
+      { "label": "MFA enrol new device / lost device — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/security/mfa/enrol" },
+      { "label": "Account Management — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/account" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-mfa-sans-telephone",
+    "category": "ti",
+    "keywords": ["mfa sans téléphone", "mfa without smartphone", "jeton physique", "hardware token", "pas de cellulaire mfa", "no smartphone", "code à 6 chiffres", "authentification sans wi-fi", "plusieurs appareils mfa", "backup device"],
+    "question": { "fr": "Je n'ai pas de téléphone intelligent : comment faire l'authentification multifacteur ?", "en": "I don't have a smartphone: how do I do multi-factor authentication?" },
+    "answer": {
+      "fr": "Tu peux demander un jeton physique, un petit appareil qui affiche un code, en soumettant une demande au Centre de services TI. Si tu as un téléphone mais pas de Wi-Fi ni de données, l'application Microsoft Authenticator peut quand même générer un code à 6 chiffres. On te conseille d'inscrire plus d'un appareil ; jusqu'à cinq sont permis.",
+      "en": "You can request a hardware token, a small device that displays a code, by submitting a request to the IT Service Desk. If you have a phone but no Wi-Fi or data, the Microsoft Authenticator app can still generate a 6-digit code. It's a good idea to enrol more than one device; up to five are allowed."
+    },
+    "sources": [
+      { "label": "MFA — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/security/mfa" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-centre-services-ti",
+    "category": "ti",
+    "keywords": ["centre de services ti", "it service desk", "où est le soutien informatique", "where is it help", "aide informatique en personne", "morisset salle 06", "it support in person", "soutien ti roger guindon", "heures service desk", "computer help desk"],
+    "question": { "fr": "Où se trouve le Centre de services TI ?", "en": "Where is the IT Service Desk?" },
+    "answer": {
+      "fr": "Le soutien TI en personne est au pavillon Morisset, salle 06, du lundi au vendredi de 8 h à 20 h et la fin de semaine de 11 h à 16 h. Il y a aussi un comptoir au pavillon Roger-Guindon, salle 2011, du lundi au vendredi de 8 h à 17 h de septembre à mai. Attention : le soutien en personne est fermé du 23 décembre 2026 au 3 janvier 2027.",
+      "en": "In-person IT support is in Morisset Hall, room 06, Monday to Friday from 8 a.m. to 8 p.m. and on weekends from 11 a.m. to 4 p.m. There's also a desk in Roger Guindon Hall, room 2011, Monday to Friday from 8 a.m. to 5 p.m. from September to May. Note that in-person support is closed from December 23, 2026, to January 3, 2027."
+    },
+    "sources": [
+      { "label": "IT - Contact us — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/contact" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-joindre-ti",
+    "category": "ti",
+    "keywords": ["téléphone ti", "it phone number", "appeler service informatique", "call it support", "clavardage ti", "it live chat", "demande de service ti", "self-service centre", "topdesk", "contacter les ti"],
+    "question": { "fr": "Comment joindre les TI par téléphone ou clavardage ?", "en": "How can I reach IT by phone or chat?" },
+    "answer": {
+      "fr": "Appelle le 613-562-5000, ou le poste 5000 à l'interne, ou sans frais le 1-833-868-8292, du lundi au vendredi de 8 h à 20 h et la fin de semaine de 11 h à 16 h. Le clavardage est offert du lundi au vendredi de 8 h à 19 h 30 et la fin de semaine de 11 h à 15 h 30. Tu peux aussi ouvrir et suivre une demande en ligne dans le Centre de libre-service.",
+      "en": "Call 613-562-5000, or extension 5000 internally, or toll-free 1-833-868-8292, Monday to Friday from 8 a.m. to 8 p.m. and on weekends from 11 a.m. to 4 p.m. Live chat is available Monday to Friday from 8 a.m. to 7:30 p.m. and on weekends from 11 a.m. to 3:30 p.m. You can also open and track a request online in the Self-Service Centre."
+    },
+    "sources": [
+      { "label": "IT - Contact us — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/contact" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-wifi-visiteur",
+    "category": "ti",
+    "keywords": ["wi-fi visiteur", "guest wifi", "uopublic", "internet pour visiteur", "wifi without account", "wifi invité", "se connecter wifi visiteur", "visitor internet access", "wifi gratuit campus", "free wifi"],
+    "question": { "fr": "Je suis visiteur : comment me connecter au Wi-Fi ?", "en": "I'm a visitor: how do I connect to the Wi-Fi?" },
+    "answer": {
+      "fr": "Choisis le réseau uoPublic dans tes paramètres Wi-Fi, entre ton nom et ton courriel, accepte les conditions d'utilisation et clique sur Se connecter. C'est gratuit, pour 12 heures par session, mais le débit est limité et le réseau n'est pas sécurisé : évite d'y faire des transactions personnelles. Si ton établissement fait partie d'eduroam, utilise plutôt eduroam avec tes propres identifiants.",
+      "en": "Choose the uoPublic network in your Wi-Fi settings, enter your name and email, accept the terms of use and click Connect. It's free, for 12 hours per session, but bandwidth is limited and the network isn't secure, so avoid personal transactions on it. If your institution is part of eduroam, use eduroam instead with your own credentials."
+    },
+    "sources": [
+      { "label": "uOttawa guest Wi-Fi — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/uopublic" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-eduroam-connexion",
+    "category": "ti",
+    "keywords": ["connexion eduroam", "eduroam login", "eduroam ne marche pas", "eduroam not working", "nom d'utilisateur eduroam", "eduroam username", "wifi étudiant", "student wifi", "configurer eduroam", "eduroam mac windows"],
+    "question": { "fr": "Quel nom d'utilisateur dois-je entrer pour me connecter à eduroam ?", "en": "What username do I enter to connect to eduroam?" },
+    "answer": {
+      "fr": "Entre ton adresse courriel complète, y compris la partie @uOttawa.ca, puis ton mot de passe uoAccess. La plupart des appareils se connectent sans configuration manuelle ; sinon, la page eduroam des TI explique les étapes pour Mac et Windows. Les visiteurs d'autres établissements eduroam se connectent gratuitement avec leurs propres identifiants.",
+      "en": "Enter your full email address, including the @uOttawa.ca part, then your uoAccess password. Most devices connect without manual setup; otherwise, the IT eduroam page explains the steps for Mac and Windows. Visitors from other eduroam institutions connect for free with their own credentials."
+    },
+    "sources": [
+      { "label": "Eduroam — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/eduroam" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-vpn",
+    "category": "ti",
+    "keywords": ["vpn uottawa", "réseau privé virtuel", "anyconnect", "accès à distance", "remote access", "need vpn", "vpn étudiant", "vpn graduate students", "uocampus à distance", "lecteur réseau à distance"],
+    "question": { "fr": "Est-ce que j'ai besoin du VPN de l'Université ?", "en": "Do I need the University VPN?" },
+    "answer": {
+      "fr": "Pas pour le courriel, Teams, OneDrive ou Brightspace. Le VPN AnyConnect sert surtout à accéder aux partages de fichiers, à une connexion bureau à distance ou à certaines applications comme uoCampus. Il est offert aux employés et aux étudiants aux cycles supérieurs, et tu dois avoir configuré l'authentification multifacteur avant de t'y connecter.",
+      "en": "Not for email, Teams, OneDrive or Brightspace. The AnyConnect VPN is mainly for file shares, a remote desktop connection or certain applications like uoCampus. It's available to employees and graduate students, and you must have set up multi-factor authentication before connecting."
+    },
+    "sources": [
+      { "label": "Virtual private network (VPN) — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/vpn" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-microsoft-365",
+    "category": "ti",
+    "keywords": ["microsoft 365", "office gratuit", "free office", "word excel gratuit", "installer office", "install microsoft office", "onedrive étudiant", "teams étudiant", "office 365 student", "suite office"],
+    "question": { "fr": "Est-ce que j'ai accès gratuitement à Microsoft Office ?", "en": "Do I get Microsoft Office for free?" },
+    "answer": {
+      "fr": "Oui ! Microsoft 365 est offert à tous les étudiants actuels : Word, Excel, PowerPoint, Outlook, Teams et OneDrive, en ligne ou en version à installer sur jusqu'à cinq de tes appareils. Tu te connectes au portail Microsoft 365 avec tes identifiants uoAccess. Tes données sont conservées dans le nuage au Canada jusqu'à la fin de tes études.",
+      "en": "Yes! Microsoft 365 is available to all current students: Word, Excel, PowerPoint, Outlook, Teams and OneDrive, online or installed on up to five of your devices. You sign in to the Microsoft 365 portal with your uoAccess credentials. Your data is stored in the cloud in Canada until you finish your studies."
+    },
+    "sources": [
+      { "label": "Microsoft 365 — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-courriel-outlook",
+    "category": "ti",
+    "keywords": ["courriel uottawa", "uottawa email", "outlook étudiant", "outlook login", "accéder à mon courriel", "check my email", "pièce jointe trop grosse", "attachment size", "liquidfiles", "envoyer gros fichier"],
+    "question": { "fr": "Comment accéder à mon courriel uOttawa ?", "en": "How do I access my uOttawa email?" },
+    "answer": {
+      "fr": "Ouvre Outlook sur le Web ou télécharge l'application Outlook, puis connecte-toi avec tes identifiants uoAccess. Les pièces jointes sont limitées à 25 Mo et les éléments supprimés sont gardés 30 jours. Pour envoyer un gros fichier, utilise plutôt LiquidFiles, le service gratuit de l'Université.",
+      "en": "Open Outlook on the web or download the Outlook app, then sign in with your uoAccess credentials. Attachments are limited to 25 MB and deleted items are kept for 30 days. To send a large file, use LiquidFiles instead, the University's free service."
+    },
+    "sources": [
+      { "label": "Outlook — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/account/email" },
+      { "label": "Software for students, staff, and professors — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/software" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-logiciels-gratuits",
+    "category": "ti",
+    "keywords": ["logiciels gratuits", "free software", "logiciel étudiant", "student software", "arcgis gratuit", "nvivo", "chemdraw", "spss", "télécharger logiciel", "software download"],
+    "question": { "fr": "Quels logiciels gratuits sont offerts aux étudiants ?", "en": "What free software is available to students?" },
+    "answer": {
+      "fr": "En plus de Microsoft Office et Teams, les étudiants ont accès gratuitement à des logiciels comme ArcGIS Pro, ChemDraw, NVivo, SurveyMonkey et Read&Write. La liste complète, avec les liens de téléchargement, est sur la page des logiciels des TI ; consulte-la souvent, car elle change. Certains logiciels spécialisés sont aussi accessibles à distance avec uOlabsPlus.",
+      "en": "Besides Microsoft Office and Teams, students get free access to software such as ArcGIS Pro, ChemDraw, NVivo, SurveyMonkey and Read&Write. The full list, with download links, is on the IT software page; check it often, as it changes. Some specialized software is also available remotely through uOlabsPlus."
+    },
+    "sources": [
+      { "label": "Software for students, staff, and professors — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/software" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-uolabsplus",
+    "category": "ti",
+    "keywords": ["uolabsplus", "laboratoire à distance", "remote lab", "logiciel sur mon ordinateur", "spss à la maison", "use lab software at home", "vmware horizon", "solidworks maison", "lecteur h", "matlab remote"],
+    "question": { "fr": "Comment utiliser les logiciels des laboratoires depuis mon ordinateur personnel ?", "en": "How can I use lab software from my own computer?" },
+    "answer": {
+      "fr": "Avec uOlabsPlus, tu accèdes aux logiciels sous licence de l'Université depuis ton appareil, sur le campus ou à distance, en te connectant avec tes identifiants uoAccess. Tu dois d'abord t'inscrire à l'authentification multifacteur. Enregistre ton travail sur ton lecteur réseau H, car les fichiers laissés sur le serveur sont effacés à la fin de la session.",
+      "en": "With uOlabsPlus, you access the University's licensed software from your own device, on campus or remotely, by signing in with your uoAccess credentials. You must first enrol in multi-factor authentication. Save your work on your H network drive, because files left on the server are erased at the end of your session."
+    },
+    "sources": [
+      { "label": "uOlabsPlus — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/remote/lab" },
+      { "label": "Computers and technology — uOttawa Library", "url": "https://www.uottawa.ca/library/services/computers-technology" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-imprimer-portable",
+    "category": "ti",
+    "keywords": ["imprimer depuis mon portable", "print from laptop", "uoprint", "impression web", "web print", "imprimer depuis téléphone", "print from phone", "mobility print", "imprimer fichier pdf", "envoyer à l'imprimante"],
+    "question": { "fr": "Comment imprimer depuis mon ordinateur portable ou mon téléphone ?", "en": "How do I print from my laptop or phone?" },
+    "answer": {
+      "fr": "Le plus simple : connecte-toi au portail uoPrint avec ton identifiant uoAccess, choisis Impression Web et téléverse ton fichier, puis libère-le à une imprimante du campus. Les fichiers doivent faire 100 Mo ou moins, et une tâche de 30 dollars ou plus est annulée. Tu peux aussi installer le pilote d'impression sur ton appareil, à condition d'être connecté au réseau du campus, comme eduroam.",
+      "en": "The easiest way: sign in to the uoPrint portal with your uoAccess ID, choose Web Print and upload your file, then release it at a campus printer. Files must be 100 MB or less, and a job costing 30 dollars or more is cancelled. You can also install the print driver on your device, as long as you're connected to the campus network, such as eduroam."
+    },
+    "sources": [
+      { "label": "Printing | Guide for Students — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/print/printer/printing-guide-students/printing-guide-students" },
+      { "label": "uoPrint: Self-service printers — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/print/printer" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-imprimer-visiteur",
+    "category": "ti",
+    "keywords": ["imprimer visiteur", "guest printing", "carte découverte uottawa", "visitor card print", "imprimer sans carte étudiante", "print without student card", "carte visiteur", "photocopie visiteur", "visitor photocopy", "imprimer invité"],
+    "question": { "fr": "Je suis visiteur : comment imprimer sur le campus ?", "en": "I'm a visitor: how do I print on campus?" },
+    "answer": {
+      "fr": "Achète une carte Découvrir uOttawa à l'une des distributrices sur le campus, puis enregistre-la une seule fois sur une imprimante libre-service en suivant les instructions au dos de la carte. Ensuite, tu peux imprimer et faire des photocopies avec le solde de ta carte. Une tâche d'impression ne peut pas coûter 30 dollars ou plus.",
+      "en": "Buy a Discover uOttawa Card from one of the vending machines on campus, then register it once at a self-service printer by following the instructions on the back of the card. After that, you can print and photocopy using your card balance. A single print job can't cost 30 dollars or more."
+    },
+    "sources": [
+      { "label": "Printing | Guide for guests — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/print/printer/printing-guide-guests" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-soutien-brightspace",
+    "category": "ti",
+    "keywords": ["aide brightspace", "brightspace support", "campus virtuel problème", "virtual campus help", "brightspace ne marche pas", "brightspace not working", "soutien 24/7", "brightspace phone", "saea", "tlss"],
+    "question": { "fr": "J'ai un problème avec Brightspace, qui peut m'aider ?", "en": "I have a problem with Brightspace, who can help me?" },
+    "answer": {
+      "fr": "Le soutien pour le Campus virtuel Brightspace est offert 24 heures sur 24, 7 jours sur 7. Tu peux passer par le site du Service d'appui à l'enseignement et à l'apprentissage, par clavardage, par formulaire en ligne ou par téléphone au 1-866-811-3201.",
+      "en": "Support for the Brightspace Virtual Campus is available 24/7. You can go through the Teaching and Learning Support Service website, live chat, an online form or by phone at 1-866-811-3201."
+    },
+    "sources": [
+      { "label": "IT for students — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/it-students" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-labos-informatiques",
+    "category": "ti",
+    "keywords": ["laboratoire informatique", "computer lab", "ordinateur sur le campus", "campus computers", "labo vanier", "labo montpetit", "où trouver un ordinateur", "where can i use a computer", "salle ordinateurs", "computer room"],
+    "question": { "fr": "Où trouver un laboratoire informatique sur le campus ?", "en": "Where can I find a computer lab on campus?" },
+    "answer": {
+      "fr": "Plusieurs facultés ont leurs labos : par exemple, les Sciences sociales au pavillon Vanier, salles 2008, 2015 et 2025, et les Sciences au pavillon Montpetit, salles 141 et 142, ouverts de 7 h à 23 h tous les jours sauf les jours fériés quand il n'y a pas de cours. La bibliothèque de droit a aussi une salle d'ordinateurs, FTX 430. Tu te connectes avec ton identifiant et ton mot de passe uoAccess.",
+      "en": "Several faculties have their own labs: for example, Social Sciences in Vanier Hall, rooms 2008, 2015 and 2025, and Science in Montpetit Hall, rooms 141 and 142, open from 7 a.m. to 11 p.m. every day except holidays when no classes are scheduled. The Law Library also has a computer room, FTX 430. You log in with your uoAccess ID and password."
+    },
+    "sources": [
+      { "label": "Computers - computing labs — uOttawa", "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/computing-labs" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-frais-retard",
+    "category": "finances",
+    "keywords": ["frais de retard", "late fee", "payer en retard", "late payment", "pénalité frais scolarité", "intérêts compte étudiant", "interest tuition", "60 dollars retard", "date limite paiement", "missed payment"],
+    "question": { "fr": "Qu'est-ce qui arrive si je paie mes droits de scolarité en retard ?", "en": "What happens if I pay my tuition late?" },
+    "answer": {
+      "fr": "Des frais administratifs de retard de 60 dollars sont ajoutés automatiquement à ton compte le lendemain de la date limite, plus des intérêts au taux préférentiel de la Banque Nationale plus 9 %. Ces frais s'appliquent même si ton prêt gouvernemental n'est pas encore arrivé. L'Université n'annule pas ces pénalités si tu n'as pas consulté ton courriel ou uoZone.",
+      "en": "A 60-dollar late payment fee is added automatically to your account the day after the deadline, plus interest at the National Bank of Canada prime rate plus 9%. These charges apply even if your government loan hasn't arrived yet. The University doesn't cancel these penalties because you didn't check your email or uoZone."
+    },
+    "sources": [
+      { "label": "Payment of fees — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/payment-fees" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-date-limite-hiver-2027",
+    "category": "finances",
+    "keywords": ["date limite paiement hiver", "winter tuition deadline", "quand payer session d'hiver", "when to pay winter fees", "29 janvier", "date limite frais scolarité", "tuition due date", "payer sans pénalité", "deadline without late fees", "hiver 2027"],
+    "question": { "fr": "Quelle est la date limite pour payer mes droits de scolarité de la session d'hiver 2027 ?", "en": "What's the deadline to pay my Winter 2027 tuition?" },
+    "answer": {
+      "fr": "Le dernier jour pour payer les droits de scolarité de l'hiver 2027 sans frais de retard est le 29 janvier 2027. C'est aussi la date limite pour abandonner un cours et recevoir un crédit financier, s'il y a lieu. Vérifie toujours le montant exact dans ton état de compte sur uoZone.",
+      "en": "The last day to pay Winter 2027 tuition without late fees is January 29, 2027. It's also the deadline to withdraw from a course and receive a financial credit, if applicable. Always check the exact amount in your statement of account on uoZone."
+    },
+    "sources": [
+      { "label": "Important academic dates and deadlines - Winter 2027 — uOttawa", "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2027" },
+      { "label": "Payment of fees — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/payment-fees" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-promesse-de-payer",
+    "category": "finances",
+    "keywords": ["promesse de payer", "promise to pay", "plan de paiement", "payment plan", "payer en plusieurs versements", "pay in instalments", "étaler paiement", "versements frais scolarité", "difficulté payer frais", "split tuition payment"],
+    "question": { "fr": "Est-ce que je peux payer mes droits de scolarité en plusieurs versements ?", "en": "Can I pay my tuition in instalments?" },
+    "answer": {
+      "fr": "Oui, avec la Promesse de payer, offerte une session à la fois, mais pas à la session printemps-été. Tu paies d'abord 50 % du solde de la session et toute dette antérieure, puis tu t'inscris dans uoZone et tu paies le reste en deux versements égaux. Attention : des intérêts sont facturés sur le solde restant dès l'inscription et ne peuvent pas être annulés, et un solde impayé à la dernière échéance entraîne des frais de retard de 60 dollars.",
+      "en": "Yes, with the Promise to Pay, offered one term at a time, but not for the spring-summer term. You first pay 50% of the term balance plus any earlier debt, then sign up in uoZone and pay the rest in two equal instalments. Note that interest is charged on the remaining balance as soon as you sign up and can't be waived, and an unpaid balance at the final due date brings a 60-dollar late fee."
+    },
+    "sources": [
+      { "label": "Payment of fees — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/payment-fees" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-plan-paiement-cycles-superieurs",
+    "category": "finances",
+    "keywords": ["plan de paiement cycles supérieurs", "graduate payment plan", "contrat d'assistanat", "assistantship", "trois versements", "three instalments", "maîtrise doctorat frais", "grad student tuition", "payer frais maîtrise", "ta payment plan"],
+    "question": { "fr": "Y a-t-il un plan de paiement pour les étudiants aux cycles supérieurs ?", "en": "Is there a payment plan for graduate students?" },
+    "answer": {
+      "fr": "Oui, si tu as un contrat d'assistanat et que ton compte est en règle. Pour l'automne 2026, tu peux payer tes frais en trois versements égaux, les 15 octobre, 15 novembre et 15 décembre, sans pénalité. Le paiement en ligne par ton institution financière est recommandé.",
+      "en": "Yes, if you have an assistantship contract and your account is in good standing. For fall 2026, you can pay your fees in three equal instalments, on October 15, November 15 and December 15, without penalties. Paying online through your financial institution is recommended."
+    },
+    "sources": [
+      { "label": "Payment of fees — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/payment-fees" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-payer-carte-credit",
+    "category": "finances",
+    "keywords": ["payer carte de crédit", "pay by credit card", "payer carte débit", "debit card tuition", "cibc student pay", "visa mastercard frais scolarité", "frais de commodité", "convenience fee", "payer en ligne carte", "credit card fee"],
+    "question": { "fr": "Est-ce que je peux payer mes droits de scolarité par carte de crédit ?", "en": "Can I pay my tuition by credit card?" },
+    "answer": {
+      "fr": "Oui, par carte Visa ou Mastercard, de crédit ou de débit, avec CIBC Student Pay, accessible par uoZone. Des frais de commodité non remboursables de 2,5 % du montant sont perçus directement par CIBC Student Pay, pas par l'Université. Le paiement apparaît dans ton état de compte en 72 heures. Le paiement par services bancaires en ligne reste la méthode privilégiée.",
+      "en": "Yes, by Visa or Mastercard, credit or debit, through CIBC Student Pay, accessible via uoZone. A non-refundable convenience fee of 2.5% of the amount is collected directly by CIBC Student Pay, not by the University. The payment shows on your statement of account within 72 hours. Online banking remains the preferred method."
+    },
+    "sources": [
+      { "label": "Payment of fees — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/payment-fees" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-payer-etranger",
+    "category": "finances",
+    "keywords": ["payer de l'étranger", "pay from abroad", "virement international", "international payment", "convera", "cibc international", "payer en devise étrangère", "pay in my currency", "étudiant international paiement", "wire transfer tuition"],
+    "question": { "fr": "Comment payer mes droits de scolarité depuis l'extérieur du Canada ?", "en": "How do I pay my tuition from outside Canada?" },
+    "answer": {
+      "fr": "Tu dois utiliser l'une des deux plateformes de l'Université, CIBC Student Pay ou Convera, accessibles dans uoZone sous Finances et emplois. Tu paies dans la devise de ton choix, et le taux de change proposé est valide 72 heures. Le traitement prend en moyenne 14 jours, alors paie d'avance pour éviter les frais de retard, et inscris bien ton numéro de référence.",
+      "en": "You must use one of the University's two platforms, CIBC Student Pay or Convera, available in uoZone under Finances and jobs. You pay in the currency of your choice, and the exchange rate quote is valid for 72 hours. Processing takes about 14 days on average, so pay early to avoid late fees, and make sure to include your reference number."
+    },
+    "sources": [
+      { "label": "Payment of fees — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/payment-fees" },
+      { "label": "Frequently asked questions (student accounts) — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/faq" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-payer-comptant",
+    "category": "finances",
+    "keywords": ["payer comptant", "pay cash", "payer à infoservice", "pay at infoservice", "argent comptant frais", "payer en personne", "pay in person", "banque nationale", "pas de compte bancaire", "no bank account"],
+    "question": { "fr": "Est-ce que je peux payer mes frais en argent comptant à InfoService ?", "en": "Can I pay my fees in cash at InfoService?" },
+    "answer": {
+      "fr": "Non, l'Université n'accepte pas l'argent comptant, ni les paiements en personne à InfoService. Si tu n'as pas de compte bancaire, apporte ton état de compte à une succursale de la Banque Nationale ; la succursale du 232, rue Rideau est temporairement fermée, mais celles du 50, rue O'Connor et du 355, chemin de Montréal acceptent le paiement, moyennant des frais de 2 dollars. La banque transfère le paiement à l'Université en 72 heures.",
+      "en": "No, the University doesn't accept cash, or in-person payments at InfoService. If you don't have a bank account, bring your statement of account to a National Bank branch; the 232 Rideau Street branch is temporarily closed, but the branches at 50 O'Connor and 355 Montreal Road accept the payment, for a 2-dollar fee. The bank transfers the payment to the University within 72 hours."
+    },
+    "sources": [
+      { "label": "Payment of fees — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/payment-fees" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-payer-cheque",
+    "category": "finances",
+    "keywords": ["payer par chèque", "pay by cheque", "traite bancaire", "bank draft", "mandat", "money order", "chèque sans provision", "nsf cheque", "adresse postale paiement", "mail a cheque"],
+    "question": { "fr": "Est-ce que je peux payer mes frais par chèque ?", "en": "Can I pay my fees by cheque?" },
+    "answer": {
+      "fr": "Oui, par chèque, traite bancaire ou mandat à l'ordre de l'Université d'Ottawa, avec ton numéro étudiant inscrit dessus, envoyé par la poste à InfoService, au pavillon Tabaret. Prévois 2 semaines après réception pour que le crédit apparaisse, et les chèques postdatés ne sont pas acceptés. Si ton chèque est refusé par la banque, des frais de 50 dollars s'ajoutent à ton compte.",
+      "en": "Yes, by cheque, bank draft or money order made out to the University of Ottawa, with your student number written on it, mailed to InfoService at Tabaret Hall. Allow 2 weeks after receipt for the credit to show, and post-dated cheques aren't accepted. If your cheque is returned by the bank, a 50-dollar fee is added to your account."
+    },
+    "sources": [
+      { "label": "Payment of fees — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/payment-fees" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-payer-frais-residence",
+    "category": "finances",
+    "keywords": ["payer frais de résidence", "pay residence fees", "housing payment", "bénéficiaire housing", "payee housing", "frais logement séparément", "résidence paiement en ligne", "pay housing separately", "numéro étudiant compte", "online banking payee"],
+    "question": { "fr": "Comment payer mes frais de résidence séparément de mes droits de scolarité ?", "en": "How do I pay my residence fees separately from my tuition?" },
+    "answer": {
+      "fr": "Dans tes services bancaires en ligne, choisis le bénéficiaire University of Ottawa-Housing et entre ton numéro étudiant comme numéro de compte. Pour payer tout ton solde, droits de scolarité inclus, choisis plutôt le bénéficiaire University of Ottawa-Tuition. Les paiements apparaissent dans ton état de compte en 72 heures.",
+      "en": "In your online banking, choose the payee University of Ottawa-Housing and enter your student number as the account number. To pay your whole balance, tuition included, choose the payee University of Ottawa-Tuition instead. Payments show on your statement of account within 72 hours."
+    },
+    "sources": [
+      { "label": "Payment of fees — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/payment-fees" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-parent-payer",
+    "category": "finances",
+    "keywords": ["parent payer frais", "parent pay tuition", "quelqu'un d'autre paie", "third party payment", "facture université", "invoice tuition", "état de compte", "statement of account", "voir solde", "check my balance"],
+    "question": { "fr": "Mes parents peuvent-ils payer mes droits de scolarité, et où voir le montant à payer ?", "en": "Can my parents pay my tuition, and where do I see the amount owing?" },
+    "answer": {
+      "fr": "Oui, il suffit qu'ils ajoutent l'Université d'Ottawa comme bénéficiaire dans leurs services bancaires en ligne et utilisent ton numéro étudiant comme numéro de compte. L'Université ne produit pas de factures : le montant est dans ton état de compte, dans uoZone, sous Applications puis Centre étudiant. Attention, tout paiement devient la propriété de l'étudiant, et l'Université ne rembourse pas les tiers.",
+      "en": "Yes, they just add the University of Ottawa as a payee in their online banking and use your student number as the account number. The University doesn't issue invoices: the amount is in your statement of account, in uoZone, under Applications then Student Center. Note that any payment becomes the student's property, and the University doesn't refund third parties."
+    },
+    "sources": [
+      { "label": "For parents — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/parents" },
+      { "label": "Frequently asked questions (student accounts) — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/faq" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-remboursement-abandon",
+    "category": "finances",
+    "keywords": ["remboursement abandon cours", "refund after withdrawal", "abandonner cours remboursé", "drop course refund", "crédit financier", "financial credit", "demande de remboursement", "refund request", "frais administratifs 25", "argent remis"],
+    "question": { "fr": "Si j'abandonne un cours, est-ce que je suis remboursé ?", "en": "If I drop a course, do I get a refund?" },
+    "answer": {
+      "fr": "Seulement si tu abandonnes avant la date limite pour un crédit financier et que l'abandon te fait passer de temps plein à temps partiel, ou si tu es déjà à temps partiel. Le crédit est appliqué à ta prochaine session, sauf si tu fais une demande de remboursement dans uoZone ; des frais administratifs de 25 dollars sont alors déduits. Abandonner un cours peut aussi toucher ton aide financière ou tes bourses.",
+      "en": "Only if you withdraw before the financial credit deadline and the withdrawal moves you from full time to part time, or if you're already part time. The credit is applied to your next term unless you submit a refund request in uoZone; a 25-dollar administrative fee is then deducted. Dropping a course can also affect your financial aid or scholarships."
+    },
+    "sources": [
+      { "label": "Withdrawing from a course — uOttawa", "url": "https://www.uottawa.ca/study/course-enrolment/withdrawing-from-course" },
+      { "label": "Self-service (student accounts) — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/self-service" },
+      { "label": "Frequently asked questions (student accounts) — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/faq" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-remboursement-interac",
+    "category": "finances",
+    "keywords": ["virement interac remboursement", "interac refund", "pas reçu remboursement", "refund not received", "délai remboursement", "refund processing time", "crédit au compte", "credit balance refund", "virement expiré", "e-transfer expired"],
+    "question": { "fr": "J'ai demandé un remboursement, quand vais-je recevoir mon virement Interac ?", "en": "I requested a refund, when will I get my Interac e-Transfer?" },
+    "answer": {
+      "fr": "L'évaluation de ta demande prend environ 10 jours ouvrables, puis tu reçois un courriel d'Interac dans les 24 à 48 heures, uniquement à ton adresse @uOttawa ; vérifie aussi tes courriels indésirables. Le virement expire après 30 jours : l'argent revient alors à ton compte étudiant et tu peux refaire une demande. En période de pointe, les délais peuvent être plus longs.",
+      "en": "Your request takes about 10 business days to assess, then you get an Interac email within 24 to 48 hours, only at your @uOttawa address; check your junk mail too. The transfer expires after 30 days: the money then goes back to your student account and you can submit a new request. During peak periods, it can take longer."
+    },
+    "sources": [
+      { "label": "Frequently asked questions (student accounts) — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/faq" },
+      { "label": "Self-service (student accounts) — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/self-service" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-recu-impot-t2202",
+    "category": "finances",
+    "keywords": ["reçu d'impôt", "tax receipt", "t2202", "relevé 8", "rl-8", "feuillet impôt frais scolarité", "tuition tax form", "où trouver t2202", "impôts étudiant", "income tax slip"],
+    "question": { "fr": "Où trouver mon reçu d'impôt T2202 pour mes frais de scolarité ?", "en": "Where do I find my T2202 tax form for tuition?" },
+    "answer": {
+      "fr": "Tu l'imprimes dans uoZone, sous l'onglet Finances et emplois ; il est disponible à la mi-février. Ce n'est pas un reçu officiel, mais une confirmation des frais déductibles réellement payés pendant l'année, et tu n'as pas besoin de le joindre à ta déclaration. Si tu résides au Québec, ton relevé 8 est aussi dans uoZone à la mi-février.",
+      "en": "You print it in uoZone, under the Finances and jobs tab; it's available in mid-February. It isn't an official receipt, but a confirmation of the deductible fees you actually paid during the year, and you don't need to attach it to your tax return. If you live in Quebec, your RL-8 slip is also in uoZone in mid-February."
+    },
+    "sources": [
+      { "label": "Self-service (student accounts) — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/self-service" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-feuillet-t4a",
+    "category": "finances",
+    "keywords": ["t4a", "bourse imposable", "scholarship taxable", "feuillet t4a", "impôt sur bourse", "tax on bursary", "où trouver t4a", "t4a slip", "déclarer bourse", "report scholarship"],
+    "question": { "fr": "Est-ce que mes bourses sont imposables, et où trouver mon T4A ?", "en": "Are my scholarships taxable, and where do I find my T4A?" },
+    "answer": {
+      "fr": "Oui, les bourses sont imposables. Si tu as reçu des bourses ou des prix de l'Université pendant l'année, même financés par un organisme externe, tu reçois un feuillet T4A, disponible dans uoZone à la fin février. L'Université ne donne pas de conseils fiscaux ; pour ta situation, consulte l'Agence du revenu du Canada.",
+      "en": "Yes, scholarships are taxable. If you received scholarships or awards from the University during the year, even if funded by an outside organization, you get a T4A slip, available in uoZone at the end of February. The University doesn't give tax advice; for your situation, check with the Canada Revenue Agency."
+    },
+    "sources": [
+      { "label": "Self-service (student accounts) — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/self-service" },
+      { "label": "Applying for scholarships and awards — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/applying-scholarships-awards" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-bourse-admission",
+    "category": "finances",
+    "keywords": ["bourse d'admission", "admission scholarship", "bourse automatique", "automatic scholarship", "moyenne 90", "bourse 85 %", "combien bourse", "how much scholarship", "bourse première année", "entrance scholarship"],
+    "question": { "fr": "Combien vaut la bourse d'admission de l'Université d'Ottawa ?", "en": "How much is the University of Ottawa Admission Scholarship?" },
+    "answer": {
+      "fr": "Pour 2027-2028, la bourse est de 3 000 dollars pour une moyenne d'admission de 95 à 100 %, 2 000 dollars de 90 à 94,9 %, et 1 000 dollars de 85 à 89,9 %. Elle est accordée automatiquement, sans demande, aux étudiants admissibles à temps plein dans une faculté à admission directe ou en droit civil. Les candidats adultes et les étudiants transférés d'une autre université n'y sont pas admissibles.",
+      "en": "For 2027-2028, the scholarship is 3,000 dollars for an admission average of 95 to 100%, 2,000 dollars for 90 to 94.9%, and 1,000 dollars for 85 to 89.9%. It's awarded automatically, with no application, to eligible full-time students in a direct-entry faculty or in Civil Law. Mature applicants and university transfer students aren't eligible."
+    },
+    "sources": [
+      { "label": "Scholarships and awards - Overview — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-bourse-etudes-francais",
+    "category": "finances",
+    "keywords": ["bourse d'études en français", "french studies bursary", "étudier en français bourse", "bourse immersion", "french immersion bursary", "1000 dollars par année", "bourse francophone", "cours en français bourse", "fls bursary", "bilingual scholarship"],
+    "question": { "fr": "Y a-t-il une bourse pour étudier en français ?", "en": "Is there a bursary for studying in French?" },
+    "answer": {
+      "fr": "Oui, la Bourse d'études en français vaut 4 000 dollars, soit 1 000 dollars par année, et elle est accordée automatiquement aux étudiants à temps plein d'une faculté à admission directe ou en droit civil. Il faut suivre au moins 3 cours par session en français, ou 2 cours en français ou en français langue seconde si tu es en immersion. Elle est renouvelable trois ans si tu respectes les conditions.",
+      "en": "Yes, the French Studies Bursary is worth 4,000 dollars, or 1,000 dollars per year, and it's awarded automatically to full-time students in a direct-entry faculty or in Civil Law. You need to take at least 3 courses per term in French, or 2 courses in French or French as a second language if you're in immersion. It's renewable for three years if you meet the conditions."
+    },
+    "sources": [
+      { "label": "Scholarships and awards - Overview — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-demander-bourse",
+    "category": "finances",
+    "keywords": ["demander une bourse", "apply for scholarship", "bourse selon besoin", "bursary financial need", "bourses et bourses en ligne", "online scholarships and bursaries", "trouver une bourse", "find a bursary", "répertoire bourses", "scholarship directory"],
+    "question": { "fr": "Comment faire une demande de bourse ?", "en": "How do I apply for a scholarship or bursary?" },
+    "answer": {
+      "fr": "Toutes les demandes se font en ligne avec l'outil Bourses en ligne, accessible dans uoZone sous Applications, dès que tu as reçu ton identifiant uoAccess. Une bourse d'excellence récompense tes résultats, alors qu'une bourse d'aide financière est accordée selon tes besoins. Les formulaires sont habituellement offerts deux mois avant la date limite, et l'argent est versé dans ton compte étudiant.",
+      "en": "All applications are done online through the Online Scholarships and Bursaries tool, available in uoZone under Applications, as soon as you have your uoAccess ID. A scholarship rewards academic achievement, while a bursary is based on financial need. Forms are usually available two months before the deadline, and the money is credited to your student account."
+    },
+    "sources": [
+      { "label": "Applying for scholarships and awards — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/applying-scholarships-awards" },
+      { "label": "Scholarships and awards - Overview — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-bourse-pas-versee",
+    "category": "finances",
+    "keywords": ["bourse pas versée", "scholarship not deposited", "bourse pas arrivée", "scholarship not received", "quand bourse versée", "when is scholarship paid", "date limite bourse paiement", "bourse en retard", "scholarship instalments", "septembre janvier bourse"],
+    "question": { "fr": "La date limite de paiement approche et ma bourse n'est pas encore dans mon compte, que faire ?", "en": "The payment deadline is coming and my scholarship isn't in my account yet, what should I do?" },
+    "answer": {
+      "fr": "Contacte le Service de l'aide financière et des bourses pour confirmer ton admissibilité. Tu restes responsable de payer, avant la date limite, la partie du solde que ta bourse ne couvre pas. Les bourses d'admission sont habituellement versées en deux montants égaux, en septembre et en janvier, et appliquées à tes droits de scolarité.",
+      "en": "Contact the Financial Aid and Awards Service to confirm your eligibility. You're still responsible for paying the part of your balance not covered by your scholarship before the deadline. Admission scholarships are usually paid in two equal instalments, in September and January, and applied to your tuition."
+    },
+    "sources": [
+      { "label": "Frequently asked questions (student accounts) — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/faq" },
+      { "label": "Applying for scholarships and awards — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/applying-scholarships-awards" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-travail-etudes",
+    "category": "finances",
+    "keywords": ["programme travail-études", "work-study program", "emploi sur le campus", "on-campus job", "travailler à l'université", "work on campus", "questionnaire financier", "work-study navigator", "job étudiant", "student job"],
+    "question": { "fr": "Comment travailler sur le campus avec le programme Travail-études ?", "en": "How do I work on campus through the Work-Study Program?" },
+    "answer": {
+      "fr": "Dans uoZone, sous Finances et emplois, ouvre le Navigateur Travail-études et remplis le questionnaire financier ; ta réponse arrive après environ 48 heures. Il faut démontrer un besoin financier, avoir un bon dossier et, à l'automne ou à l'hiver, être inscrit à au moins neuf crédits au premier cycle. La période de demande pour l'hiver va du 1er décembre 2026 au 11 février 2027.",
+      "en": "In uoZone, under Finances and jobs, open the Work-Study Navigator and fill out the financial questionnaire; you'll get an answer after about 48 hours. You need to show financial need, be in good academic standing and, in fall or winter, be enrolled in at least nine units as an undergraduate. The winter application period runs from December 1, 2026, to February 11, 2027."
+    },
+    "sources": [
+      { "label": "Work-Study Program — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/campus-employment/work-study-program" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-pret-urgence",
+    "category": "finances",
+    "keywords": ["prêt d'urgence", "emergency loan", "aide financière urgence", "emergency financial aid", "pas d'argent", "no money", "difficulté financière", "financial hardship", "banque alimentaire", "food bank"],
+    "question": { "fr": "Je suis en difficulté financière, y a-t-il une aide d'urgence ?", "en": "I'm in financial difficulty, is there emergency help?" },
+    "answer": {
+      "fr": "Oui. Si tu attends ton aide financière gouvernementale, tu pourrais avoir droit à un prêt d'urgence d'au plus 500 dollars pour tes livres, ta nourriture ou ton loyer, sous certaines conditions. Si ta situation est grave, prends rendez-vous avec un conseiller en aide financière, qui évaluera l'urgence. La banque alimentaire du Syndicat étudiant peut aussi t'aider.",
+      "en": "Yes. If you're waiting for your government financial aid, you might qualify for an emergency loan of up to 500 dollars for books, food or rent, under certain conditions. If your situation is serious, book an appointment with a financial aid counsellor, who will assess the urgency. The Students' Union food bank can also help."
+    },
+    "sources": [
+      { "label": "Financial planning — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/financial-planning" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-bureau-aide-financiere",
+    "category": "finances",
+    "keywords": ["bureau aide financière", "financial aid office", "où est l'aide financière", "where is financial aid", "service aide financière et bourses", "financial aid and awards", "pavillon desmarais 3156", "conseiller financier", "file d'attente virtuelle", "virtual line"],
+    "question": { "fr": "Où se trouve le Service de l'aide financière et des bourses ?", "en": "Where is the Financial Aid and Awards Service?" },
+    "answer": {
+      "fr": "Il est au pavillon Desmarais, au 55, avenue Laurier Est, salle 3156. Pour le RAFEO, l'aide financière et les bourses, tu peux voir les temps d'attente et réserver ta place dans la file d'attente virtuelle en ligne. Pour les questions sur ton compte ou ta facturation, c'est plutôt InfoService, au pavillon Tabaret.",
+      "en": "It's in the Desmarais Building, at 55 Laurier Avenue East, room 3156. For OSAP, financial aid and scholarships, you can check wait times and save your spot in the online virtual line. For questions about your account or billing, go to InfoService at Tabaret Hall instead."
+    },
+    "sources": [
+      { "label": "Fees and financial support — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-depot-admission",
+    "category": "finances",
+    "keywords": ["dépôt d'admission", "admission deposit", "dépôt remboursable", "deposit refundable", "dépôt étudiant international", "international deposit", "2000 dollars dépôt", "lettre d'attestation provinciale", "pal letter", "confirmer offre"],
+    "question": { "fr": "Combien est le dépôt d'admission et est-il remboursable ?", "en": "How much is the admission deposit and is it refundable?" },
+    "answer": {
+      "fr": "Pour les étudiants internationaux, le dépôt standard est de 2 000 dollars au premier cycle et de 1 000 dollars pour les certificats et diplômes d'études supérieures ; le montant exact est indiqué dans ton offre. Il est appliqué à tes droits de scolarité et n'est pas remboursable, sauf si ta demande de permis d'études est refusée par IRCC. Une fois le dépôt reçu, ta lettre d'attestation provinciale t'est envoyée en environ trois jours ouvrables.",
+      "en": "For international students, the standard deposit is 2,000 dollars for undergraduate programs and 1,000 dollars for graduate certificates and diplomas; the exact amount is in your offer. It's applied to your tuition and isn't refundable, unless your study permit application is refused by IRCC. Once the deposit is received, your provincial attestation letter is emailed in about three business days."
+    },
+    "sources": [
+      { "label": "Admission deposit — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/admission-deposit" },
+      { "label": "Payment of fees — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/payment-fees" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-compte-en-souffrance",
+    "category": "finances",
+    "keywords": ["compte en souffrance", "overdue account", "solde impayé", "unpaid balance", "dette université", "owe the university", "pas de relevé de notes", "can't get transcript", "agence de recouvrement", "collection agency"],
+    "question": { "fr": "Qu'arrive-t-il si mon compte étudiant reste impayé ?", "en": "What happens if my student account stays unpaid?" },
+    "answer": {
+      "fr": "Un compte est en souffrance s'il reste impayé 30 jours après la date limite. Tant que le solde n'est pas payé, tu ne peux pas t'inscrire à des cours ni obtenir de documents officiels comme un relevé de notes ou ton diplôme. Après un certain temps, le dossier peut être transféré à une agence de recouvrement, ce qui peut nuire à ta cote de crédit. Si tu as de la difficulté, contacte les Ressources financières au pavillon Tabaret.",
+      "en": "An account is overdue if it's still unpaid 30 days after the deadline. Until the balance is paid, you can't enrol in courses or get official documents like a transcript or your diploma. After a while, the file can be sent to a collection agency, which can hurt your credit rating. If you're struggling, contact Financial Resources at Tabaret Hall."
+    },
+    "sources": [
+      { "label": "Overdue accounts — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/overdue" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "e-osap-surplus",
+    "category": "finances",
+    "keywords": ["surplus rafeo", "osap leftover", "argent rafeo restant", "osap remaining funds", "rafeo versé université", "osap net billing", "rafeo compte bancaire", "osap refund", "montant rafeo", "osap amount"],
+    "question": { "fr": "Que se passe-t-il avec le reste de mon RAFEO une fois mes frais payés ?", "en": "What happens to my leftover OSAP once my fees are paid?" },
+    "answer": {
+      "fr": "S'il reste des fonds du RAFEO après le paiement de tes frais, ils sont déposés dans ton compte bancaire. Pour voir combien a été versé à l'Université, ouvre ton état de compte dans uoZone et clique sur l'onglet de facturation nette du RAFEO. N'oublie pas que le prêt doit d'abord servir à payer tes droits de scolarité.",
+      "en": "If there are OSAP funds left after your fees are paid, they're deposited into your bank account. To see how much was sent to the University, open your statement of account in uoZone and click the OSAP net billing tab. Remember that the loan must first go toward paying your tuition."
+    },
+    "sources": [
+      { "label": "Frequently asked questions (student accounts) — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/faq" },
+      { "label": "Payment of fees — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/payment-fees" }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  }
+]

@@ -1,0 +1,2373 @@
+[
+ {
+  "id": "d-fauteux",
+  "category": "batiments",
+  "keywords": [
+   "ftx",
+   "fauteux",
+   "pavillon fauteux",
+   "fauteux hall",
+   "faculte de droit",
+   "law building",
+   "faculty of law",
+   "ou est ftx",
+   "where is ftx",
+   "droit civil",
+   "common law",
+   "57 louis-pasteur"
+  ],
+  "question": {
+   "fr": "Où est le pavillon Fauteux (FTX) ?",
+   "en": "Where is Fauteux Hall (FTX)?"
+  },
+  "answer": {
+   "fr": "Le pavillon Fauteux (FTX) est au 57, privée Louis-Pasteur. C'est la maison de la Faculté de droit, sections de droit civil et de common law, avec la Bibliothèque de droit Brian-Dickson aux 4e et 5e étages et le Go Café au 3e. Au 3e étage, une passerelle le relie aux résidences Leblanc et Thompson et au complexe Brooks.",
+   "en": "Fauteux Hall (FTX) is at 57 Louis-Pasteur Private. It's home to the Faculty of Law, both the Civil Law and Common Law sections, with the Brian Dickson Law Library on the 4th and 5th floors and Go Café on the 3rd. On the 3rd floor, a walkway connects it to Leblanc and Thompson residences and the Brooks Complex."
+  },
+  "sources": [
+   {
+    "label": "Fauteux Hall (FTX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/fauteux-hall"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-bibliotheque-droit",
+  "category": "batiments",
+  "keywords": [
+   "bibliotheque de droit",
+   "law library",
+   "brian dickson",
+   "bibliotheque brian-dickson",
+   "ftx 4e etage",
+   "law library location",
+   "ou est la bibliotheque de droit",
+   "where is the law library",
+   "fauteux bibliotheque",
+   "ftx"
+  ],
+  "question": {
+   "fr": "Où est la bibliothèque de droit ?",
+   "en": "Where is the law library?"
+  },
+  "answer": {
+   "fr": "La Bibliothèque de droit Brian-Dickson est dans le pavillon Fauteux (FTX), au 57, privée Louis-Pasteur, aux 4e et 5e étages. Le comptoir de service est au 4e étage; si tu as des besoins d'accessibilité, on t'y remet une carte d'accès pour te rendre au 5e étage par l'ascenseur.",
+   "en": "The Brian Dickson Law Library is in Fauteux Hall (FTX), 57 Louis-Pasteur Private, on the 4th and 5th floors. The service desk is on the 4th floor; if you have accessibility needs, they can give you an access card there to reach the 5th floor by elevator."
+  },
+  "sources": [
+   {
+    "label": "Fauteux Hall (FTX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/fauteux-hall"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-simard",
+  "category": "batiments",
+  "keywords": [
+   "smd",
+   "simard",
+   "pavillon simard",
+   "simard hall",
+   "faculte des arts",
+   "faculty of arts",
+   "departement de francais",
+   "geographie",
+   "geography",
+   "ou est smd",
+   "where is smd",
+   "60 university"
+  ],
+  "question": {
+   "fr": "Où est le pavillon Simard (SMD) ?",
+   "en": "Where is Simard Hall (SMD)?"
+  },
+  "answer": {
+   "fr": "Le pavillon Simard (SMD) est au 60, privée University. Il abrite la Faculté des arts et son bureau des services scolaires, le Département de français et le Département de géographie, environnement et géomatique. Tu y trouveras aussi le Centre de mentorat étudiant et l'Omni Café.",
+   "en": "Simard Hall (SMD) is at 60 University Private. It houses the Faculty of Arts and its Academic Services desk, the Département de français and the Department of Geography, Environment and Geomatics. You'll also find the Student Mentoring Centre and Omni Café there."
+  },
+  "sources": [
+   {
+    "label": "Simard Hall (SMD) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/simard-hall-smd"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-vanier",
+  "category": "batiments",
+  "keywords": [
+   "vnr",
+   "vanier",
+   "pavillon vanier",
+   "vanier hall",
+   "psychologie",
+   "psychology",
+   "ecole de psychologie",
+   "school of psychology",
+   "sait",
+   "tlss",
+   "ou est vnr",
+   "where is vnr"
+  ],
+  "question": {
+   "fr": "Où est le pavillon Vanier (VNR) ?",
+   "en": "Where is Vanier Hall (VNR)?"
+  },
+  "answer": {
+   "fr": "Le pavillon Vanier (VNR) est au 136, privée Jean-Jacques-Lussier. On y trouve l'École de psychologie de la Faculté des sciences sociales, le Service d'appui à l'enseignement et à l'apprentissage, et le Centre de services et de recherche en psychologie. Il n'y a pas de service alimentaire dans ce pavillon.",
+   "en": "Vanier Hall (VNR) is at 136 Jean-Jacques-Lussier Private. It houses the Faculty of Social Sciences' School of Psychology, Teaching and Learning Support Service, and the Centre for Psychological Services and Research. There are no food services in this building."
+  },
+  "sources": [
+   {
+    "label": "Vanier Hall (VNR) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/vanier-hall-vnr"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-hamelin",
+  "category": "batiments",
+  "keywords": [
+   "mhn",
+   "hmn",
+   "hamelin",
+   "pavillon hamelin",
+   "hamelin hall",
+   "traduction",
+   "translation",
+   "linguistique",
+   "linguistics",
+   "langues modernes",
+   "english department",
+   "ilob",
+   "olbi",
+   "ou est hamelin"
+  ],
+  "question": {
+   "fr": "Où est le pavillon Hamelin ?",
+   "en": "Where is Hamelin Hall?"
+  },
+  "answer": {
+   "fr": "Le pavillon Hamelin (MHN) est au 70, avenue Laurier Est. Il accueille plusieurs unités de la Faculté des arts : l'École de traduction et d'interprétation, les départements de linguistique, d'anglais, de philosophie, de langues et littératures modernes et d'études anciennes et de sciences des religions, ainsi que l'Institut des langues officielles et du bilinguisme et le Centre d'apprentissage des langues.",
+   "en": "Hamelin Hall (MHN) is at 70 Laurier Avenue East. It hosts several Faculty of Arts units: the School of Translation and Interpretation, the departments of Linguistics, English, Philosophy, Modern Languages and Literatures, and Classical and Religious Studies, plus the Official Languages and Bilingualism Institute and the Centre for Language Learning."
+  },
+  "sources": [
+   {
+    "label": "Hamelin Hall (MHN) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/hamelin-hall"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-morisset",
+  "category": "batiments",
+  "keywords": [
+   "mrt",
+   "morisset",
+   "pavillon morisset",
+   "morisset hall",
+   "bibliotheque morisset",
+   "main library",
+   "bibliotheque principale",
+   "chuo",
+   "archives",
+   "second cup",
+   "ou est mrt",
+   "where is morisset",
+   "65 university"
+  ],
+  "question": {
+   "fr": "Où est le pavillon Morisset (MRT) ?",
+   "en": "Where is Morisset Hall (MRT)?"
+  },
+  "answer": {
+   "fr": "Le pavillon Morisset (MRT) est au 65, privée University. Il abrite la bibliothèque principale, avec près de 6 millions de titres, les Archives et collections spéciales, la radio CHUO 89,1 FM et un Second Cup. On y trouve aussi des salles de classe, des salles d'étude et des laboratoires.",
+   "en": "Morisset Hall (MRT) is at 65 University Private. It houses the main library, with nearly 6 million titles, Archives and Special Collections, the CHUO 89.1 FM radio station and a Second Cup. There are also classrooms, study halls and labs."
+  },
+  "sources": [
+   {
+    "label": "Morisset Hall (MRT) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/morisset-hall-mrt"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-perez",
+  "category": "batiments",
+  "keywords": [
+   "prz",
+   "perez",
+   "pavillon perez",
+   "perez hall",
+   "ecole de musique",
+   "school of music",
+   "musique",
+   "music",
+   "bibliotheque de musique",
+   "ou est prz",
+   "where is perez",
+   "50 university"
+  ],
+  "question": {
+   "fr": "Où est le pavillon Pérez (PRZ) ?",
+   "en": "Where is Pérez Hall (PRZ)?"
+  },
+  "answer": {
+   "fr": "Le pavillon Pérez (PRZ) est au 50, privée University. C'est le pavillon de l'École de musique, avec sa propre bibliothèque de musique, des salles de pratique, un auditorium et un garage de stationnement souterrain. Il abrite aussi le Laboratoire de recherche en pédagogie du piano.",
+   "en": "Pérez Hall (PRZ) is at 50 University Private. It's the School of Music building, with its own music library, practice rooms, an auditorium and an underground parking garage. It's also home to the Piano Pedagogy Research Laboratory."
+  },
+  "sources": [
+   {
+    "label": "Pérez Hall (PRZ) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/perez-hall"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-hagen",
+  "category": "batiments",
+  "keywords": [
+   "hgn",
+   "hagen",
+   "pavillon hagen",
+   "hagen hall",
+   "etudes superieures",
+   "graduate studies",
+   "etudes superieures et postdoctorales",
+   "graduate and postdoctoral studies",
+   "ou est hgn",
+   "where is hagen",
+   "115 seraphin-marion"
+  ],
+  "question": {
+   "fr": "Où est le pavillon Hagen (HGN) ?",
+   "en": "Where is Hagen Hall (HGN)?"
+  },
+  "answer": {
+   "fr": "Le pavillon Hagen (HGN) est au 115, privée Séraphin-Marion. Il abrite les bureaux des Études supérieures et postdoctorales, l'Institut des finances publiques et de la démocratie, et le bureau de Recherche institutionnelle et planification. Il n'y a pas de service alimentaire dans ce pavillon.",
+   "en": "Hagen Hall (HGN) is at 115 Séraphin-Marion Private. It houses the offices of Graduate and Postdoctoral Studies, the Institute of Fiscal Studies and Democracy, and Institutional Research and Planning. There are no food services in this building."
+  },
+  "sources": [
+   {
+    "label": "Hagen Hall (HGN) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/hagen-hall"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-arc",
+  "category": "batiments",
+  "keywords": [
+   "arc",
+   "complexe de recherche avancee",
+   "advanced research complex",
+   "photonique",
+   "photonics",
+   "sciences de la terre",
+   "earth sciences",
+   "25 templeton",
+   "ou est arc",
+   "where is arc"
+  ],
+  "question": {
+   "fr": "C'est quoi le pavillon ARC ?",
+   "en": "What is the ARC building?"
+  },
+  "answer": {
+   "fr": "ARC, c'est le Complexe de recherche avancée, au 25, rue Templeton. Ouvert en 2014, ce pavillon de cinq étages certifié LEED Or est consacré à la recherche en photonique et en sciences de la Terre, pour les facultés des sciences et de génie. Il n'y a pas de service alimentaire sur place.",
+   "en": "ARC is the Advanced Research Complex, at 25 Templeton Street. Opened in 2014, this five-storey LEED Gold building is dedicated to photonics and Earth sciences research for the faculties of Science and Engineering. There are no food services on site."
+  },
+  "sources": [
+   {
+    "label": "Advanced Research Complex (ARC) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/advanced-research-complex-arc"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-biosciences",
+  "category": "batiments",
+  "keywords": [
+   "bsc",
+   "biosciences",
+   "complexe des biosciences",
+   "biosciences complex",
+   "biologie",
+   "biochimie",
+   "biochemistry",
+   "aquarium",
+   "30 marie-curie",
+   "ou est bsc",
+   "where is biosciences"
+  ],
+  "question": {
+   "fr": "Où est le pavillon des Biosciences (BSC) ?",
+   "en": "Where is the Biosciences building (BSC)?"
+  },
+  "answer": {
+   "fr": "Le pavillon des Biosciences (BSC) est au 30, privée Marie-Curie; c'est l'un des trois pavillons du Complexe des biosciences. On y trouve un aquarium de récif marin, le Centre de recherche et d'innovation en catalyse et des laboratoires d'enseignement en biologie et en biochimie.",
+   "en": "The Biosciences building (BSC) is at 30 Marie-Curie Private; it's one of the three buildings of the Biosciences Complex. It holds a marine reef aquarium, the Centre for Catalysis Research and Innovation and biology and biochemistry teaching labs."
+  },
+  "sources": [
+   {
+    "label": "Biosciences (BSC) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/biosciences-complex"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-diorio",
+  "category": "batiments",
+  "keywords": [
+   "dro",
+   "d'iorio",
+   "diorio",
+   "pavillon d'iorio",
+   "diorio hall",
+   "chimie",
+   "chemistry",
+   "biologie",
+   "biology",
+   "10 marie-curie",
+   "ou est dro",
+   "where is diorio"
+  ],
+  "question": {
+   "fr": "Où est le pavillon D'Iorio (DRO) ?",
+   "en": "Where is D'Iorio Hall (DRO)?"
+  },
+  "answer": {
+   "fr": "Le pavillon D'Iorio (DRO) est au 10, Marie-Curie. Il accueille les départements de chimie et de biologie, avec des laboratoires de recherche et des salles de classe.",
+   "en": "D'Iorio Hall (DRO) is at 10 Marie-Curie. It's home to the departments of Chemistry and Biology, with research labs and classrooms."
+  },
+  "sources": [
+   {
+    "label": "D'Iorio Hall (DRO) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/diorio-hall"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-pavillon-academique",
+  "category": "batiments",
+  "keywords": [
+   "smn",
+   "pavillon academique",
+   "academic hall",
+   "theatre",
+   "departement de theatre",
+   "theatre department",
+   "salle academique",
+   "133 seraphin-marion",
+   "ou est smn",
+   "where is academic hall"
+  ],
+  "question": {
+   "fr": "Où est le pavillon Académique (SMN) ?",
+   "en": "Where is Academic Hall (SMN)?"
+  },
+  "answer": {
+   "fr": "Le pavillon Académique (SMN) est au 133-135, Séraphin-Marion. Construit en 1901, il a pour cœur un théâtre au niveau 1, entouré des espaces du Département de théâtre.",
+   "en": "Academic Hall (SMN) is at 133-135 Séraphin-Marion. Built in 1901, its central feature is a theatre on Level 1, surrounded by the Theatre Department's spaces."
+  },
+  "sources": [
+   {
+    "label": "Academic Hall (SMN) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/academic-hall-smn"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-brooks",
+  "category": "batiments",
+  "keywords": [
+   "brs",
+   "brooks",
+   "complexe brooks",
+   "brooks complex",
+   "garage brooks",
+   "brooks garage",
+   "garderie",
+   "child care",
+   "100 thomas-more",
+   "ou est brooks",
+   "where is brooks"
+  ],
+  "question": {
+   "fr": "C'est quoi le complexe Brooks (BRS) ?",
+   "en": "What is the Brooks Complex (BRS)?"
+  },
+  "answer": {
+   "fr": "Le complexe Brooks (BRS) est au 100, privée Thomas-More. Ses unités de résidence sont fermées; il reste un bâtiment de trois étages avec des salles de classe, une garderie, un centre de dons et des bureaux de la Faculté de droit, section de common law, plus un grand garage de stationnement souterrain. Le garage sera touché par le nouveau projet de logement étudiant de l'Université.",
+   "en": "The Brooks Complex (BRS) is at 100 Thomas-More Private. Its residence units are closed; what remains is a three-storey building with classrooms, a child-care centre, a donation centre and Faculty of Law Common Law Section offices, plus a large underground parking garage. The garage will be affected by the University's new student housing project."
+  },
+  "sources": [
+   {
+    "label": "Brooks Complex (BRS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/brooks-residence"
+   },
+   {
+    "label": "Parking permit information — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/parking-permit-information"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-100-laurier",
+  "category": "batiments",
+  "keywords": [
+   "lrr",
+   "100 laurier",
+   "arts visuels",
+   "visual arts",
+   "departement des arts visuels",
+   "plus vieux pavillon",
+   "oldest building",
+   "ou est lrr",
+   "where is 100 laurier",
+   "histoire de l'art"
+  ],
+  "question": {
+   "fr": "Où est le Département des arts visuels ?",
+   "en": "Where is the Department of Visual Arts?"
+  },
+  "answer": {
+   "fr": "Le Département des arts visuels est au 100 Laurier (LRR), 100, avenue Laurier Est. Ce bâtiment en pierre calcaire construit en 1893-1894 est le plus ancien du campus. Il n'y a pas de service alimentaire sur place.",
+   "en": "The Department of Visual Arts is at 100 Laurier (LRR), 100 Laurier Avenue East. This limestone building, built in 1893–94, is the oldest on campus. There are no food services on site."
+  },
+  "sources": [
+   {
+    "label": "100 Laurier (LRR) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/100-laurier"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-roger-guindon",
+  "category": "batiments",
+  "keywords": [
+   "rgn",
+   "roger-guindon",
+   "roger guindon",
+   "pavillon roger-guindon",
+   "roger guindon hall",
+   "faculte de medecine",
+   "faculty of medicine",
+   "alta vista",
+   "451 smyth",
+   "bibliotheque des sciences de la sante",
+   "health sciences library",
+   "ou est rgn"
+  ],
+  "question": {
+   "fr": "Où est le pavillon Roger-Guindon (RGN) ?",
+   "en": "Where is Roger Guindon Hall (RGN)?"
+  },
+  "answer": {
+   "fr": "Le pavillon Roger-Guindon (RGN) est au 451, chemin Smyth, sur le campus Alta Vista, en dehors du campus principal. Il abrite la Faculté de médecine, des unités des sciences de la santé et la Bibliothèque des sciences de la santé, avec des amphithéâtres, des laboratoires et des espaces de recherche. On peut y manger chez Éléments.",
+   "en": "Roger Guindon Hall (RGN) is at 451 Smyth Road, on the Alta Vista campus, away from the main campus. It houses the Faculty of Medicine, health sciences units and the Health Sciences Library, with auditoriums, labs and research facilities. You can eat at Éléments there."
+  },
+  "sources": [
+   {
+    "label": "Roger Guindon Hall (RGN) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/roger-guindon-hall-rgn"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-salle-multiconfessionnelle-rgn",
+  "category": "batiments",
+  "keywords": [
+   "salle multiconfessionnelle",
+   "multi-faith room",
+   "priere",
+   "prayer room",
+   "meditation",
+   "rgn 2529",
+   "roger-guindon priere",
+   "salle de priere alta vista",
+   "spiritualite",
+   "rgn"
+  ],
+  "question": {
+   "fr": "Y a-t-il une salle de prière au pavillon Roger-Guindon ?",
+   "en": "Is there a prayer room at Roger Guindon Hall?"
+  },
+  "answer": {
+   "fr": "Oui : la salle multiconfessionnelle du pavillon Roger-Guindon est au 2e étage, local 2529, dans le Centre de recherche sur les maladies du rein. Elle est ouverte à tous pour la prière, la méditation et la réflexion, sans rendez-vous pendant les heures normales d'ouverture.",
+   "en": "Yes: the Roger Guindon Hall multi-faith room is on the 2nd floor, Room 2529, inside the Kidney Research Centre. It's open to everyone for prayer, meditation and reflection, on a walk-in basis during regular business hours."
+  },
+  "sources": [
+   {
+    "label": "Roger Guindon Hall (RGN) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/roger-guindon-hall-rgn"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-lees-fhs",
+  "category": "batiments",
+  "keywords": [
+   "fhs",
+   "200 lees",
+   "faculte des sciences de la sante",
+   "faculty of health sciences",
+   "sciences infirmieres",
+   "nursing",
+   "nutrition",
+   "readaptation",
+   "rehabilitation",
+   "bibliotheque lees",
+   "ou est la faculte des sciences de la sante"
+  ],
+  "question": {
+   "fr": "Où est la Faculté des sciences de la santé ?",
+   "en": "Where is the Faculty of Health Sciences?"
+  },
+  "answer": {
+   "fr": "La Faculté des sciences de la santé est au 200 Lees (FHS), 200, avenue Lees, sur le campus Lees. Ouvert en 2023, ce pavillon regroupe les écoles des sciences infirmières, des sciences de la nutrition et des sciences de la réadaptation. Tu y trouveras aussi un comptoir InfoService, la bibliothèque du campus Lees et le café Odelees.",
+   "en": "The Faculty of Health Sciences is at 200 Lees (FHS), 200 Lees Avenue, on the Lees campus. Opened in 2023, this building brings together the schools of Nursing, Nutrition Sciences and Rehabilitation Sciences. You'll also find an InfoService desk, the Lees Campus Library and the Odelees café there."
+  },
+  "sources": [
+   {
+    "label": "200 Lees (FHS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/200-lees-fhs"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-campus-lees",
+  "category": "batiments",
+  "keywords": [
+   "campus lees",
+   "lees campus",
+   "200 lees",
+   "terrain gee-gees",
+   "gee-gees field",
+   "football",
+   "bloc a",
+   "bloc e",
+   "block a",
+   "block e",
+   "c'est quoi le campus lees"
+  ],
+  "question": {
+   "fr": "C'est quoi le campus Lees ?",
+   "en": "What is the Lees campus?"
+  },
+  "answer": {
+   "fr": "Le campus Lees est au 200, avenue Lees, juste au sud de l'autoroute 417 et à côté de la rivière Rideau, à 10 minutes à pied ou une minute en train du campus principal. On y trouve le pavillon de la Faculté des sciences de la santé, les blocs A et E, et le terrain Gee-Gees, qui compte plus de 3 400 places. Le Centre de haute performance, la Coop vélo et un bureau du Service de la protection y sont aussi.",
+   "en": "The Lees campus is at 200 Lees Avenue, just south of Highway 417 and beside the Rideau River, a 10-minute walk or a 1-minute train ride from the main campus. It has the Faculty of Health Sciences building, Blocks A and E, and Gee-Gees Field, which seats more than 3,400. The High Performance Centre, the Bicycle Co-op and a Protection Services office are also there."
+  },
+  "sources": [
+   {
+    "label": "200 Lees (060) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/200-lees-block-a-e"
+   },
+   {
+    "label": "200 Lees (FHS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/200-lees-fhs"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-centrale-thermique",
+  "category": "batiments",
+  "keywords": [
+   "cte",
+   "centrale thermique",
+   "power plant",
+   "centrale",
+   "720 king edward",
+   "tunnels",
+   "batiment en verre",
+   "glass building",
+   "chauffage du campus",
+   "ou est cte"
+  ],
+  "question": {
+   "fr": "C'est quoi le bâtiment vitré sur King Edward ?",
+   "en": "What is the glass building on King Edward?"
+  },
+  "answer": {
+   "fr": "C'est la Centrale thermique (CTE), au 720, avenue King Edward. Elle contrôle les systèmes mécaniques et environnementaux de tout le campus, et sa façade côté King Edward est entièrement en verre teinté, ce qui laisse voir les tuyaux et la machinerie. Environ trois kilomètres de tunnels de services y convergent.",
+   "en": "That's the Power Plant (CTE), at 720 King Edward Avenue. It controls the mechanical and environmental systems for the whole campus, and its King Edward side is made entirely of tinted glass, showing off the pipes and machinery. About three kilometres of utility tunnels meet there."
+  },
+  "sources": [
+   {
+    "label": "Power Plant (CTE) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/power-plant"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-seraphin-marion",
+  "category": "batiments",
+  "keywords": [
+   "seraphin-marion",
+   "rue seraphin-marion",
+   "departement d'histoire",
+   "history department",
+   "histoire",
+   "history",
+   "etudes feministes",
+   "maisons seraphin-marion",
+   "147 seraphin-marion",
+   "where is the history department"
+  ],
+  "question": {
+   "fr": "Où est le Département d'histoire ?",
+   "en": "Where is the History Department?"
+  },
+  "answer": {
+   "fr": "Le Département d'histoire occupe les maisons patrimoniales de la rue Séraphin-Marion, notamment aux 145, 147 et 155-157. Ces maisons du 19e siècle font partie des pavillons Séraphin-Marion; le 143 abrite le programme d'études des femmes.",
+   "en": "The History Department is in the heritage houses on Séraphin-Marion Street, including numbers 145, 147 and 155-157. These 19th-century houses are part of the Séraphin-Marion Buildings; number 143 houses the Women's Studies program."
+  },
+  "sources": [
+   {
+    "label": "Séraphin-Marion Buildings — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/seraphin-marion-buildings"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-king-edward",
+  "category": "batiments",
+  "keywords": [
+   "king edward",
+   "avenue king edward",
+   "mathematiques et statistique",
+   "mathematics and statistics",
+   "math",
+   "585 king edward",
+   "the fulcrum",
+   "clinique d'information juridique",
+   "legal information clinic",
+   "where is the math department"
+  ],
+  "question": {
+   "fr": "Où est le Département de mathématiques et de statistique ?",
+   "en": "Where is the Department of Mathematics and Statistics?"
+  },
+  "answer": {
+   "fr": "Le Département de mathématiques et de statistique est dans les maisons de l'avenue King Edward, aux 575-577 et 585. Cette rangée de maisons converties appartient à l'Université : le journal The Fulcrum et le GRIPO sont au 631, et la Clinique d'information juridique est aussi sur l'avenue.",
+   "en": "The Department of Mathematics and Statistics is in the houses on King Edward Avenue, at 575-577 and 585. This row of converted houses belongs to the University: The Fulcrum newspaper and OPIRG are at 631, and the Legal Information Clinic is also on the avenue."
+  },
+  "sources": [
+   {
+    "label": "King Edward Buildings — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/king-edward-buildings"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-stem-services",
+  "category": "batiments",
+  "keywords": [
+   "stm",
+   "complexe stem",
+   "stem complex",
+   "makerspace",
+   "makerlab",
+   "richard l'abbe",
+   "centre d'aide en sciences",
+   "science help centre",
+   "brunsfield",
+   "150 louis-pasteur",
+   "atelier",
+   "ou faire du prototypage"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve dans le Complexe STEM ?",
+   "en": "What's inside the STEM Complex?"
+  },
+  "answer": {
+   "fr": "Le Complexe STEM (STM), au 150, privée Louis-Pasteur, est un pavillon de sept étages ouvert en 2018. Il abrite le Makerspace Richard-L'Abbé, les MakerLab 1 et 2, le Centre Brunsfield, le Centre d'aide en sciences, l'Association des étudiants en sciences, le Magasin des sciences et des ateliers d'usinage, de soudure et d'électronique. Il n'y a pas de service alimentaire dans ce pavillon.",
+   "en": "The STEM Complex (STM), at 150 Louis-Pasteur Private, is a seven-storey building that opened in 2018. It houses the Richard L'Abbé Makerspace, MakerLab 1 and 2, the Brunsfield Centre, the Science Help Centre, the Science Students' Association, the Science Store and machine, welding and electronics shops. There are no food services in this building."
+  },
+  "sources": [
+   {
+    "label": "STEM Complex (STM) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/stem-complex"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-codes-pavillons",
+  "category": "batiments",
+  "keywords": [
+   "code pavillon",
+   "building code",
+   "codes des pavillons",
+   "building abbreviations",
+   "que veut dire mrt",
+   "que veut dire smd",
+   "abreviation",
+   "sigle pavillon",
+   "ftx vnr mhn",
+   "liste des pavillons",
+   "list of buildings"
+  ],
+  "question": {
+   "fr": "Que veulent dire les codes de pavillon comme MRT ou SMD ?",
+   "en": "What do building codes like MRT or SMD mean?"
+  },
+  "answer": {
+   "fr": "Chaque pavillon a un code de trois lettres. Quelques exemples : FTX, c'est Fauteux; SMD, Simard; VNR, Vanier; MRT, Morisset; MHN, Hamelin; PRZ, Pérez; HGN, Hagen; DRO, D'Iorio; BSC, Biosciences; STE, SITE; STM, Complexe STEM; LRR, 100 Laurier; et RGN, Roger-Guindon. La liste complète est sur la page d'information sur les pavillons.",
+   "en": "Each building has a three-letter code. A few examples: FTX is Fauteux; SMD, Simard; VNR, Vanier; MRT, Morisset; MHN, Hamelin; PRZ, Pérez; HGN, Hagen; DRO, D'Iorio; BSC, Biosciences; STE, SITE; STM, STEM Complex; LRR, 100 Laurier; and RGN, Roger Guindon. The full list is on the building information page."
+  },
+  "sources": [
+   {
+    "label": "Building information — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building"
+   },
+   {
+    "label": "About the SITE building (STE) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/site"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-station-uottawa",
+  "category": "transport",
+  "keywords": [
+   "station uottawa",
+   "uottawa station",
+   "o-train",
+   "train leger",
+   "light rail",
+   "ligne de la confederation",
+   "confederation line",
+   "ligne 1",
+   "line 1",
+   "lrt",
+   "metro",
+   "train campus"
+  ],
+  "question": {
+   "fr": "Y a-t-il une station de train au campus ?",
+   "en": "Is there a train station on campus?"
+  },
+  "answer": {
+   "fr": "Oui : la station uOttawa de l'O-Train est directement sur le campus, sur la ligne est-ouest de la Confédération d'OC Transpo. En quelques minutes, tu peux te rendre au Centre Rideau ou au campus Lees de l'Université.",
+   "en": "Yes: the O-Train's uOttawa station is right on campus, on OC Transpo's east-west Confederation Line. In a few minutes, you can get to the Rideau Centre or to the University's Lees campus."
+  },
+  "sources": [
+   {
+    "label": "Ottawa living — uOttawa",
+    "url": "https://www.uottawa.ca/study/why-uottawa/ottawa"
+   },
+   {
+    "label": "Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/parking/faq"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-aller-lees",
+  "category": "transport",
+  "keywords": [
+   "aller au campus lees",
+   "get to lees",
+   "lees campus",
+   "station lees",
+   "lees station",
+   "200 lees",
+   "navette lees",
+   "how to get to lees",
+   "comment aller a lees",
+   "o-train lees"
+  ],
+  "question": {
+   "fr": "Comment aller au campus Lees ?",
+   "en": "How do I get to the Lees campus?"
+  },
+  "answer": {
+   "fr": "Le campus Lees, au 200, avenue Lees, est à environ 10 minutes à pied ou une minute en train du campus principal : il est près de la station Lees de l'O-Train. La navette de l'Université s'y arrête aussi entre le campus principal et le pavillon Roger-Guindon.",
+   "en": "The Lees campus, at 200 Lees Avenue, is about a 10-minute walk or a 1-minute train ride from the main campus: it's close to the O-Train's Lees Station. The University shuttle also stops there between the main campus and Roger Guindon Hall."
+  },
+  "sources": [
+   {
+    "label": "200 Lees (FHS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/200-lees-fhs"
+   },
+   {
+    "label": "Gee-Gees field — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/athletics-recreation/facilities/gee-gees-field"
+   },
+   {
+    "label": "200 Lees Avenue: A Landmark in Sustainability at uOttawa — uOttawa",
+    "url": "https://www.uottawa.ca/en/news-all/200-lees-avenue-landmark-sustainability-uottawa"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-aller-roger-guindon",
+  "category": "transport",
+  "keywords": [
+   "aller a roger-guindon",
+   "get to roger guindon",
+   "campus alta vista",
+   "alta vista campus",
+   "rgn",
+   "451 smyth",
+   "navette rgn",
+   "shuttle rgn",
+   "comment aller au campus roger-guindon",
+   "faculte de medecine transport"
+  ],
+  "question": {
+   "fr": "Comment aller au campus Roger-Guindon ?",
+   "en": "How do I get to the Roger Guindon campus?"
+  },
+  "answer": {
+   "fr": "Le pavillon Roger-Guindon est au 451, chemin Smyth, sur le campus Alta Vista. La navette de l'Université part du campus principal, devant le pavillon Fauteux, et s'arrête à Lees, à l'Université Saint-Paul et à Peter-Morand avant d'arriver à Roger-Guindon, en environ 25 à 30 minutes. Tu peux aussi prendre OC Transpo avec ton U-Pass; le planificateur de trajets d'OC Transpo t'indiquera le meilleur itinéraire.",
+   "en": "Roger Guindon Hall is at 451 Smyth Road, on the Alta Vista campus. The University shuttle leaves the main campus in front of Fauteux Hall and stops at Lees, Saint Paul University and Peter Morand before reaching Roger Guindon, in about 25 to 30 minutes. You can also take OC Transpo with your U-Pass; OC Transpo's Travel Planner will show you the best route."
+  },
+  "sources": [
+   {
+    "label": "Shuttle bus — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/shuttle-bus"
+   },
+   {
+    "label": "Roger Guindon Hall (RGN) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/roger-guindon-hall-rgn"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-navette-horaire",
+  "category": "transport",
+  "keywords": [
+   "horaire navette",
+   "shuttle schedule",
+   "navette",
+   "shuttle",
+   "premier depart navette",
+   "dernier depart navette",
+   "buswhere",
+   "navette soir",
+   "navette fin de semaine",
+   "shuttle weekend",
+   "shuttle hours"
+  ],
+  "question": {
+   "fr": "Quel est l'horaire de la navette ?",
+   "en": "What is the shuttle schedule?"
+  },
+  "answer": {
+   "fr": "La navette circule du lundi au vendredi; le premier départ du campus principal est à 7 h 20. Le soir, il y a des départs jusqu'à 20 h 45 du lundi au jeudi, mais pas le vendredi soir, et il n'y a aucun service la fin de semaine ni les jours fériés. L'horaire est en révision et peut changer : suis la navette en temps réel avec l'appli BusWhere for uOttawa, en t'inscrivant avec ton adresse @uottawa.ca.",
+   "en": "The shuttle runs Monday to Friday; the first departure from the main campus is at 7:20 a.m. In the evening, there are departures until 8:45 p.m. Monday to Thursday, but not on Friday evenings, and there is no service on weekends or holidays. The schedule is under review and may change: track the shuttle in real time with the BusWhere for uOttawa app, signing up with your @uottawa.ca address."
+  },
+  "sources": [
+   {
+    "label": "Shuttle bus — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/shuttle-bus"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-navette-arret",
+  "category": "transport",
+  "keywords": [
+   "arret navette",
+   "shuttle stop",
+   "ou prendre la navette",
+   "where to catch the shuttle",
+   "navette campus principal",
+   "main campus shuttle stop",
+   "arret fauteux",
+   "copernicus",
+   "navette pleine",
+   "shuttle full"
+  ],
+  "question": {
+   "fr": "Où est l'arrêt de la navette au campus principal ?",
+   "en": "Where is the shuttle stop on main campus?"
+  },
+  "answer": {
+   "fr": "L'arrêt de la navette du campus principal est maintenant devant le pavillon Fauteux, près de l'intersection avec la privée University; il a été déplacé d'environ 100 mètres vers le nord. L'embarquement se fait selon le principe du premier arrivé, premier servi, et en septembre la navette peut être pleine, surtout de 8 h à 9 h 30 et de midi à 14 h.",
+   "en": "The main campus shuttle stop is now in front of Fauteux Hall, near the intersection with University Private; it was moved about 100 metres north. Boarding is first come, first served, and in September the shuttle can fill up, especially from 8 to 9:30 a.m. and from noon to 2 p.m."
+  },
+  "sources": [
+   {
+    "label": "Shuttle bus — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/shuttle-bus"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-upass-utiliser",
+  "category": "transport",
+  "keywords": [
+   "u-pass",
+   "upass",
+   "laissez-passer",
+   "transit pass",
+   "carte etudiante bus",
+   "oc transpo",
+   "sto",
+   "autobus",
+   "bus pass",
+   "comment utiliser le u-pass",
+   "how to use u-pass",
+   "carte uottawa"
+  ],
+  "question": {
+   "fr": "Comment fonctionne le U-Pass ?",
+   "en": "How does the U-Pass work?"
+  },
+  "answer": {
+   "fr": "Ta carte étudiante uOttawa, c'est ton U-Pass : il te donne un accès illimité aux autobus et aux trains d'OC Transpo à Ottawa et de la STO à Gatineau. Tu n'as qu'à appuyer ta carte sur le lecteur en montant et à la maintenir quelques instants. Le U-Pass est obligatoire pour les étudiants inscrits à temps plein et ceux en stage coop; vérifie dans ton portail U-Pass que ta carte est prête.",
+   "en": "Your uOttawa student card is your U-Pass: it gives you unlimited access to OC Transpo buses and trains in Ottawa and STO in Gatineau. Just tap and hold your card on the reader when you board. The U-Pass is mandatory for full-time students and those on a co-op work term; check your U-Pass portal to see if your card is ready."
+  },
+  "sources": [
+   {
+    "label": "U-Pass — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/upass"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-upass-cout",
+  "category": "transport",
+  "keywords": [
+   "cout u-pass",
+   "u-pass cost",
+   "prix u-pass",
+   "u-pass price",
+   "combien coute le u-pass",
+   "how much is the u-pass",
+   "frais u-pass",
+   "u-pass fee",
+   "validite u-pass",
+   "u-pass validity"
+  ],
+  "question": {
+   "fr": "Combien coûte le U-Pass ?",
+   "en": "How much does the U-Pass cost?"
+  },
+  "answer": {
+   "fr": "Pour 2026-2027, le U-Pass coûte 240,67 $ par session : l'automne 2026 couvre du 1er septembre au 31 décembre, l'hiver 2027 du 1er janvier au 30 avril, et le printemps-été 2027 du 1er mai au 31 août. Ça représente environ 45 à 55 % de rabais sur un laissez-passer mensuel adulte ordinaire.",
+   "en": "For 2026-2027, the U-Pass costs $240.67 per term: Fall 2026 covers September 1 to December 31, Winter 2027 January 1 to April 30, and Spring-Summer 2027 May 1 to August 31. That's about 45 to 55% off a regular adult monthly pass."
+  },
+  "sources": [
+   {
+    "label": "Cost, validity and important dates — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/upass/cost-validity-important-dates"
+   },
+   {
+    "label": "U-Pass — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/upass"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-upass-exemption",
+  "category": "transport",
+  "keywords": [
+   "exemption u-pass",
+   "u-pass exemption",
+   "remboursement u-pass",
+   "u-pass refund",
+   "adhesion u-pass",
+   "opt-in u-pass",
+   "date limite u-pass",
+   "u-pass deadline",
+   "annuler u-pass",
+   "portail u-pass"
+  ],
+  "question": {
+   "fr": "Comment demander une exemption ou un remboursement du U-Pass ?",
+   "en": "How do I request a U-Pass exemption or refund?"
+  },
+  "answer": {
+   "fr": "Les demandes d'exemption ou d'adhésion se font dans ton portail U-Pass, à partir du 15 août pour l'automne, du 15 décembre pour l'hiver et du 15 avril pour le printemps-été. Pour un remboursement complet de l'hiver 2027, la date limite est le 29 janvier 2027; après, le remboursement est calculé au prorata. Aucune exemption n'est possible après la dernière date pour abandonner un cours, et les remboursements sont crédités à ton compte étudiant.",
+   "en": "Exemption and opt-in requests are made in your U-Pass portal, starting August 15 for fall, December 15 for winter and April 15 for spring-summer. For a full refund for Winter 2027, the deadline is January 29, 2027; after that, the refund is prorated. No exemptions can be submitted after the last day to withdraw from a course, and refunds are credited to your student account."
+  },
+  "sources": [
+   {
+    "label": "Cost, validity and important dates — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/upass/cost-validity-important-dates"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-upass-ete",
+  "category": "transport",
+  "keywords": [
+   "u-pass ete",
+   "u-pass summer",
+   "printemps-ete",
+   "spring-summer",
+   "equipass",
+   "programme echo",
+   "u-pass non valide",
+   "u-pass not valid",
+   "transport ete",
+   "summer transit"
+  ],
+  "question": {
+   "fr": "Mon U-Pass est-il valide l'été ?",
+   "en": "Is my U-Pass valid in the summer?"
+  },
+  "answer": {
+   "fr": "Pendant la session printemps-été, ton U-Pass est valide seulement si tu es inscrit à temps plein ou si tu fais un stage coop cette session-là; vérifie dans ton portail U-Pass. Sinon, tu pourrais être admissible à l'ÉquiPass, le tarif réduit d'OC Transpo, ou au programme Écho de la STO. La demande d'ÉquiPass peut prendre jusqu'à un mois, alors commence tôt.",
+   "en": "During the spring-summer term, your U-Pass is valid only if you're enrolled full time or doing a co-op placement that term; check your U-Pass portal. Otherwise, you might be eligible for the EquiPass, OC Transpo's reduced fare pass, or the STO's Echo program. The EquiPass application can take up to a month, so start early."
+  },
+  "sources": [
+   {
+    "label": "U-Pass — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/upass"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-service-carte",
+  "category": "transport",
+  "keywords": [
+   "service de la carte",
+   "card service",
+   "carte etudiante perdue",
+   "lost student card",
+   "probleme u-pass",
+   "u-pass problem",
+   "carte uottawa",
+   "uottawa card",
+   "90 university 145",
+   "ou faire ma carte etudiante"
+  ],
+  "question": {
+   "fr": "Où aller si ma carte étudiante ou mon U-Pass ne fonctionne pas ?",
+   "en": "Where do I go if my student card or U-Pass doesn't work?"
+  },
+  "answer": {
+   "fr": "Va au Service de la carte uOttawa et U-Pass, à la résidence 90U, 90, privée University, local 145. Tu peux réserver un rendez-vous en personne avec la file d'attente virtuelle, ou appeler le 613-562-5885 pour la carte étudiante et les plans de repas. Les heures d'ouverture sont affichées sur la page du U-Pass.",
+   "en": "Go to the uOttawa Card Service and U-Pass office, at the 90U residence, 90 University Private, Room 145. You can book an in-person appointment through the virtual line, or call 613-562-5885 about student cards and meal plans. Opening hours are listed on the U-Pass page."
+  },
+  "sources": [
+   {
+    "label": "U-Pass — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/upass"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-aeroport",
+  "category": "transport",
+  "keywords": [
+   "aeroport",
+   "airport",
+   "yow",
+   "aeroport d'ottawa",
+   "ottawa airport",
+   "ligne 4",
+   "line 4",
+   "south keys",
+   "taxi aeroport",
+   "comment venir de l'aeroport",
+   "from the airport"
+  ],
+  "question": {
+   "fr": "Comment venir de l'aéroport au campus ?",
+   "en": "How do I get from the airport to campus?"
+  },
+  "answer": {
+   "fr": "Depuis l'Aéroport international d'Ottawa, la ligne 4 de l'O-Train relie la station Aéroport à la station South Keys, où tu peux faire une correspondance avec le reste du réseau d'O-Train et d'autobus pour rejoindre le campus. Il y a aussi des autobus, des taxis et des services comme Uber à l'aéroport. Utilise le planificateur de trajets d'OC Transpo pour l'itinéraire et les tarifs à jour.",
+   "en": "From Ottawa International Airport, O-Train Line 4 connects Airport Station to South Keys Station, where you can transfer to the rest of the O-Train and bus network to reach campus. Buses, taxis and services like Uber are also available at the airport. Use the OC Transpo Travel Planner for the route and current fares."
+  },
+  "sources": [
+   {
+    "label": "Campus directions — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/campus-directions"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-tarifs-stationnement",
+  "category": "transport",
+  "keywords": [
+   "tarif stationnement",
+   "parking rates",
+   "prix stationnement",
+   "parking price",
+   "stationnement visiteur",
+   "visitor parking",
+   "combien coute le stationnement",
+   "garage mann",
+   "garage brooks",
+   "hotspot",
+   "daily parking"
+  ],
+  "question": {
+   "fr": "Combien coûte le stationnement à l'heure ?",
+   "en": "How much is hourly parking?"
+  },
+  "answer": {
+   "fr": "Le stationnement journalier coûte 5,50 $ l'heure. En semaine, le maximum est de 17,50 $ par jour aux garages Brooks et Mann, à la section G4 de Lees et aux stationnements Peter-Morand, mais il n'y a pas de maximum au garage Desmarais, au lot B ni sur les privées Louis-Pasteur et University. Après 15 h, la fin de semaine et les jours fériés, le maximum descend à 9 $ dans plusieurs lots. Tu paies avec l'appli HotSpot ou aux bornes par carte de crédit; l'argent comptant n'est pas accepté.",
+   "en": "Daily parking costs $5.50 an hour. On weekdays, the daily maximum is $17.50 at the Brooks and Mann garages, Lees Section G4 and the Peter Morand lots, but there's no maximum at Desmarais Garage, Lot B or on Louis-Pasteur and University privates. After 3 p.m., on weekends and holidays, the maximum drops to $9 in several lots. You pay with the HotSpot app or at pay stations by credit card; cash isn't accepted."
+  },
+  "sources": [
+   {
+    "label": "Daily parking rates — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/daily-parking-rates"
+   },
+   {
+    "label": "Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/parking/faq"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-vignette-stationnement",
+  "category": "transport",
+  "keywords": [
+   "vignette",
+   "permis de stationnement",
+   "parking permit",
+   "acheter une vignette",
+   "buy a parking permit",
+   "prix vignette",
+   "permit price",
+   "portail stationnement",
+   "parking portal",
+   "vignette etudiant",
+   "student parking"
+  ],
+  "question": {
+   "fr": "Comment obtenir une vignette de stationnement ?",
+   "en": "How do I get a parking permit?"
+  },
+  "answer": {
+   "fr": "Les vignettes s'achètent en ligne dans le portail de stationnement, pour une session ou une année universitaire, selon les places disponibles. Avant taxes, une vignette pour un lot extérieur coûte 1 071,19 $ pour l'année universitaire, et 1 420,92 $ pour un garage; les prix sont les mêmes pour les étudiants et les employés. Ta vignette est valide dans ton lot assigné, et dans tous les lots et garages après 16 h en semaine et toute la fin de semaine, sauf dans la rue et au 100 Marie-Curie.",
+   "en": "Permits are bought online through the Parking Portal, for a term or an academic year, based on availability. Before tax, an exterior lot permit costs $1,071.19 for the academic year, and a garage permit $1,420.92; prices are the same for students and employees. Your permit is valid in your assigned lot, and in any lot or garage after 4 p.m. on weekdays and all weekend, except on-street and at 100 Marie-Curie."
+  },
+  "sources": [
+   {
+    "label": "Parking permit information — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/parking-permit-information"
+   },
+   {
+    "label": "Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/parking/faq"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-vignette-soir",
+  "category": "transport",
+  "keywords": [
+   "vignette de soir",
+   "evening permit",
+   "stationnement le soir",
+   "evening parking",
+   "cours du soir",
+   "evening classes",
+   "apres 16 h",
+   "after 4 pm",
+   "permis soir"
+  ],
+  "question": {
+   "fr": "Existe-t-il une vignette de stationnement pour le soir ?",
+   "en": "Is there an evening parking permit?"
+  },
+  "answer": {
+   "fr": "Oui : la vignette de soir permet de te stationner dans n'importe quel lot extérieur ou garage de 16 h à 23 h. Avant taxes, elle coûte 277,16 $ pour une session ou 554,32 $ pour l'année universitaire. Elle n'est pas valide dans la rue ni au 100 Marie-Curie.",
+   "en": "Yes: the evening permit lets you park in any exterior lot or garage from 4 p.m. to 11 p.m. Before tax, it costs $277.16 for a term or $554.32 for the academic year. It isn't valid on-street or at 100 Marie-Curie."
+  },
+  "sources": [
+   {
+    "label": "Parking permit information — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/parking-permit-information"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-stationnement-rgn-lees",
+  "category": "transport",
+  "keywords": [
+   "stationnement roger-guindon",
+   "rgn parking",
+   "stationnement alta vista",
+   "alta vista parking",
+   "lot h",
+   "peter morand",
+   "stationnement lees",
+   "lees parking",
+   "g3",
+   "g4",
+   "lot r"
+  ],
+  "question": {
+   "fr": "Où se stationner au campus Roger-Guindon ou au campus Lees ?",
+   "en": "Where can I park at the Roger Guindon or Lees campus?"
+  },
+  "answer": {
+   "fr": "Au campus Alta Vista, le lot H du pavillon Roger-Guindon est fermé pendant la construction du Centre de recherche médicale avancée; le stationnement journalier est offert au 600, au 625 (R1) et au 850, Peter-Morand. Au campus Lees, le stationnement journalier se fait aux sections G3 et G4 du 200, avenue Lees. Le tarif est de 5,50 $ l'heure, payable avec HotSpot.",
+   "en": "On the Alta Vista campus, Lot H at Roger Guindon Hall is closed during construction of the Advanced Medical Research Centre; daily parking is available at 600, 625 (R1) and 850 Peter Morand. On the Lees campus, daily parking is in Sections G3 and G4 at 200 Lees Avenue. The rate is $5.50 an hour, payable with HotSpot."
+  },
+  "sources": [
+   {
+    "label": "Daily parking for non-permit holders — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/daily-parking-non-permit-holders"
+   },
+   {
+    "label": "Daily parking rates — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/daily-parking-rates"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-bureau-stationnement",
+  "category": "transport",
+  "keywords": [
+   "bureau du stationnement",
+   "parking office",
+   "stationnement et transport durable",
+   "parking and sustainable transportation",
+   "139 louis-pasteur",
+   "contact stationnement",
+   "parking contact",
+   "heures bureau stationnement",
+   "parking office hours"
+  ],
+  "question": {
+   "fr": "Où est le bureau du stationnement ?",
+   "en": "Where is the parking office?"
+  },
+  "answer": {
+   "fr": "Le Bureau du stationnement et du transport durable est au 139, Louis-Pasteur, local 133. Il est ouvert du lundi au vendredi, de 8 h à 16 h du 15 août au 14 mai, et de 8 h à 15 h l'été. Tu peux aussi appeler le 613-562-5785.",
+   "en": "The Parking and Sustainable Transportation Office is at 139 Louis-Pasteur, Room 133. It's open Monday to Friday, 8 a.m. to 4 p.m. from August 15 to May 14, and 8 a.m. to 3 p.m. in the summer. You can also call 613-562-5785."
+  },
+  "sources": [
+   {
+    "label": "Parking and Sustainable Transportation — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-contravention",
+  "category": "transport",
+  "keywords": [
+   "contravention",
+   "parking ticket",
+   "amende stationnement",
+   "parking fine",
+   "contester une contravention",
+   "appeal a ticket",
+   "avis de courtoisie",
+   "courtesy notice",
+   "ville d'ottawa",
+   "ticket"
+  ],
+  "question": {
+   "fr": "J'ai reçu une contravention de stationnement, que faire ?",
+   "en": "I got a parking ticket, what do I do?"
+  },
+  "answer": {
+   "fr": "Les contraventions émises sur le campus sont des avis de la Ville d'Ottawa : 100 $ pour un stationnement non autorisé ou un parcomètre expiré, 125 $ dans une voie réservée aux pompiers et 500 $ dans une place accessible sans permis. Le bureau du stationnement ne traite pas les contestations : tu dois faire ta demande de révision directement en ligne auprès de la Ville d'Ottawa.",
+   "en": "Tickets issued on campus are City of Ottawa infraction notices: $100 for unauthorized parking or an expired meter, $125 in a fire route and $500 in an accessible space without a permit. The parking office doesn't handle appeals: you must request a review directly online with the City of Ottawa."
+  },
+  "sources": [
+   {
+    "label": "Appeal a ticket — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/appeal-ticket"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-borne-recharge",
+  "category": "transport",
+  "keywords": [
+   "borne de recharge",
+   "ev charging",
+   "voiture electrique",
+   "electric vehicle",
+   "recharge",
+   "charging station",
+   "niveau 2",
+   "level 2",
+   "flo",
+   "garage desmarais recharge"
+  ],
+  "question": {
+   "fr": "Où recharger une voiture électrique sur le campus ?",
+   "en": "Where can I charge an electric car on campus?"
+  },
+  "answer": {
+   "fr": "L'Université compte 38 places de recharge. Les 20 bornes de niveau 2 sont au niveau P0 des garages Desmarais et Mann et au lot G3 du 200 Lees; elles coûtent 1,50 $ l'heure en plus du stationnement, payables seulement avec l'appli HotSpot. Les prises de niveau 1, sans frais supplémentaires, sont aux garages Brooks, Desmarais et Mann. C'est premier arrivé, premier servi, et ouvert aux visiteurs.",
+   "en": "The University has 38 charging spaces. The 20 Level 2 stations are on level P0 of the Desmarais and Mann garages and in Lot G3 at 200 Lees; they cost $1.50 an hour on top of parking, payable only through the HotSpot app. Level 1 outlets, at no extra charge, are in the Brooks, Desmarais and Mann garages. It's first come, first served, and open to visitors."
+  },
+  "sources": [
+   {
+    "label": "Electric vehicle charging at uOttawa — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/electric-vehicle-charging"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-velo-securise",
+  "category": "transport",
+  "keywords": [
+   "stationnement velo securise",
+   "secure bike parking",
+   "cage a velo",
+   "bike enclosure",
+   "supports a velo",
+   "bike racks",
+   "velo lamoureux",
+   "velo desmarais",
+   "ou mettre mon velo",
+   "where to park my bike"
+  ],
+  "question": {
+   "fr": "Où stationner mon vélo en sécurité ?",
+   "en": "Where can I park my bike securely?"
+  },
+  "answer": {
+   "fr": "Il y a environ 170 supports à vélo sur le campus, ouverts à tous. Pour plus de sécurité, des enclos à vélo sécurisés sont accessibles 24 heures sur 24 au pavillon Lamoureux, au garage Desmarais et au 200 Lees : le permis coûte 30 $ pour tous les enclos ou 20 $ pour Desmarais ou Lees seulement, valide jusqu'en avril. Fais ta demande en ligne et compte jusqu'à deux jours ouvrables pour l'activation; les enclos servent au stationnement de courte durée, maximum sept jours.",
+   "en": "There are about 170 bike racks on campus, open to everyone. For more security, secure bike enclosures are open 24/7 at Lamoureux Hall, Desmarais Garage and 200 Lees: the permit costs $30 for all enclosures or $20 for Desmarais or Lees only, valid until April. Apply online and allow up to two business days for activation; the enclosures are for short-term parking, seven days maximum."
+  },
+  "sources": [
+   {
+    "label": "Cycling — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/cycling"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-para-transpo",
+  "category": "transport",
+  "keywords": [
+   "para transpo",
+   "paratranspo",
+   "transport adapte",
+   "accessible transportation",
+   "point de ramassage",
+   "pickup point",
+   "fauteuil roulant",
+   "wheelchair",
+   "mobilite reduite",
+   "reduced mobility"
+  ],
+  "question": {
+   "fr": "Où sont les points d'arrêt de Para Transpo sur le campus ?",
+   "en": "Where are the Para Transpo pickup points on campus?"
+  },
+  "answer": {
+   "fr": "Le campus principal compte 12 points de ramassage Para Transpo, chacun marqué d'un panneau et d'un numéro. Par exemple, le point 9 est sur la privée Louis-Pasteur devant le pavillon Fauteux, et le point 10 est sur la privée University devant le Centre universitaire. Au campus Lees, le point 1 est près du coin nord-est du bloc E. Pour réserver, communique avec Para Transpo au 613-244-1289.",
+   "en": "The main campus has 12 Para Transpo pickup points, each marked with a sign and a number. For example, point 9 is on Louis-Pasteur Private in front of Fauteux Hall, and point 10 is on University Private in front of the University Centre. On the Lees campus, point 1 is near the northeast corner of Block E. To book, contact Para Transpo at 613-244-1289."
+  },
+  "sources": [
+   {
+    "label": "Alternative transportation — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/alternative-transportation"
+   },
+   {
+    "label": "Fauteux Hall (FTX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/fauteux-hall"
+   },
+   {
+    "label": "Morisset Hall (MRT) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/morisset-hall-mrt"
+   },
+   {
+    "label": "200 Lees (FHS) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/200-lees-fhs"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-taxi-accessible",
+  "category": "transport",
+  "keywords": [
+   "taxi accessible",
+   "accessible taxi",
+   "bons de taxi",
+   "taxi chits",
+   "handicap physique",
+   "physical disability",
+   "transport entre campus",
+   "accommodements scolaires",
+   "academic accommodations",
+   "taxi shuttle"
+  ],
+  "question": {
+   "fr": "Y a-t-il un transport accessible entre les campus ?",
+   "en": "Is there accessible transportation between campuses?"
+  },
+  "answer": {
+   "fr": "Oui : l'Université fournit des bons de taxi aux étudiants et employés ayant un handicap physique, pour se déplacer sur le campus et entre le campus principal, le 200 Lees, l'Université Saint-Paul et le pavillon Roger-Guindon. Tu dois d'abord être inscrit au Service d'accommodements scolaires, au 100 Marie-Curie, 4e étage, local 408.",
+   "en": "Yes: the University provides taxi chits to students and employees with a physical disability, for travel on campus and between the main campus, 200 Lees, Saint Paul University and Roger Guindon Hall. You must first be registered with Academic Accommodations, at 100 Marie-Curie, 4th floor, Room 408."
+  },
+  "sources": [
+   {
+    "label": "Shuttle bus — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/shuttle-bus"
+   },
+   {
+    "label": "Alternative transportation — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/alternative-transportation"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-stationnement-accessible",
+  "category": "transport",
+  "keywords": [
+   "stationnement accessible",
+   "accessible parking",
+   "place handicape",
+   "disabled parking",
+   "permis accessible",
+   "accessible permit",
+   "vignette accessible",
+   "places accessibles",
+   "parking handicap"
+  ],
+  "question": {
+   "fr": "Y a-t-il du stationnement accessible sur le campus ?",
+   "en": "Is there accessible parking on campus?"
+  },
+  "answer": {
+   "fr": "Oui. Si tu as un permis de stationnement accessible délivré par le ministère des Transports de l'Ontario, communique avec le Bureau du stationnement et du transport durable pour avoir accès aux places accessibles du campus. Par exemple, quatre places accessibles se trouvent sur la privée University, entre le pavillon Montpetit et le CRX, et quatre autres au garage Brooks.",
+   "en": "Yes. If you have an accessible parking permit issued by the Ontario Ministry of Transportation, contact the Parking and Sustainable Transportation Office to get access to accessible spaces on campus. For example, four accessible spaces are on University Private between Montpetit Hall and the CRX, and four more are in Brooks Garage."
+  },
+  "sources": [
+   {
+    "label": "Fauteux Hall (FTX) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/fauteux-hall"
+   },
+   {
+    "label": "Morisset Hall (MRT) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/morisset-hall-mrt"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-autopartage",
+  "category": "transport",
+  "keywords": [
+   "autopartage",
+   "car sharing",
+   "communauto",
+   "location auto",
+   "car rental",
+   "voiture partagee",
+   "shared car",
+   "lot m",
+   "lot j",
+   "voiture a l'heure"
+  ],
+  "question": {
+   "fr": "Y a-t-il de l'autopartage sur le campus ?",
+   "en": "Is there car sharing on campus?"
+  },
+  "answer": {
+   "fr": "Oui : l'Université s'est associée à Communauto. Deux véhicules sont stationnés sur le campus, au lot M, à l'angle de Mann et King Edward, et au lot J, à l'angle de King Edward et Osgoode, et d'autres stations se trouvent dans la Côte-de-Sable. Il faut avoir 21 ans et un permis de conduire valide depuis cinq ans; l'abonnement se fait directement avec Communauto.",
+   "en": "Yes: the University has partnered with Communauto. Two vehicles are parked on campus, in Lot M at Mann and King Edward, and Lot J at King Edward and Osgoode, with more stations in Sandy Hill. You must be 21 with a driver's licence held for five years; membership is directly with Communauto."
+  },
+  "sources": [
+   {
+    "label": "Alternative transportation — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/alternative-transportation"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-res-90u",
+  "category": "logement",
+  "keywords": [
+   "90u",
+   "90 university",
+   "residence 90u",
+   "90 university residence",
+   "suite",
+   "suite-style",
+   "plan de repas obligatoire",
+   "residence non mixte",
+   "90 privee university",
+   "ou est 90u"
+  ],
+  "question": {
+   "fr": "C'est comment, la résidence 90 University ?",
+   "en": "What is the 90 University residence like?"
+  },
+  "answer": {
+   "fr": "La résidence 90 University, ou 90U, est au cœur du campus, près de la bibliothèque Morisset, du Centre universitaire et de la salle à manger. Elle compte 652 lits en suites non mixtes de deux chambres, avec une cuisinette et une salle de bain partagée avec ton colocataire, et elle est climatisée. Le contrat dure 8 mois et le plan de repas de 5 jours est obligatoire.",
+   "en": "The 90 University residence, or 90U, is in the heart of campus, close to Morisset Library, the University Centre and the Dining Hall. It has 652 beds in two-bedroom non-coed suites, with a kitchenette and a bathroom shared with your roommate, and it's air-conditioned. The agreement is 8 months and the 5-day meal plan is mandatory."
+  },
+  "sources": [
+   {
+    "label": "90 University — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/90-university"
+   },
+   {
+    "label": "Student meal plans — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/meal-plans"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-res-stanton",
+  "category": "logement",
+  "keywords": [
+   "stanton",
+   "residence stanton",
+   "stanton residence",
+   "traditionnelle",
+   "traditional residence",
+   "100 university",
+   "complexe residentiel",
+   "chambre simple",
+   "chambre double",
+   "ou est stanton"
+  ],
+  "question": {
+   "fr": "C'est comment, la résidence Stanton ?",
+   "en": "What is Stanton residence like?"
+  },
+  "answer": {
+   "fr": "Stanton est une résidence de style traditionnel au cœur du campus, dans le complexe résidentiel principal, près de la bibliothèque Morisset, du Centre universitaire et de la salle à manger. Elle compte 357 lits : tu as ta chambre ou tu la partages avec un colocataire, et tu partages la salle de bain avec ton étage. Il y a une réception 24 heures sur 24, le contrat dure 8 mois et un plan de repas est obligatoire.",
+   "en": "Stanton is a traditional-style residence in the heart of campus, in the main residence complex, close to Morisset Library, the University Centre and the Dining Hall. It has 357 beds: you have your own room or share it with a roommate, and you share the bathroom with your floor. There's a 24/7 front desk, the agreement is 8 months and a meal plan is mandatory."
+  },
+  "sources": [
+   {
+    "label": "Stanton — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/stanton"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-res-marchand",
+  "category": "logement",
+  "keywords": [
+   "marchand",
+   "residence marchand",
+   "marchand residence",
+   "traditionnelle",
+   "traditional residence",
+   "canal rideau",
+   "110 university",
+   "complexe residentiel",
+   "ou est marchand",
+   "chambre double"
+  ],
+  "question": {
+   "fr": "C'est comment, la résidence Marchand ?",
+   "en": "What is Marchand residence like?"
+  },
+  "answer": {
+   "fr": "Marchand est une résidence de style traditionnel qui donne sur le canal Rideau, dans le complexe résidentiel principal au cœur du campus. Elle compte 349 lits : chambre simple ou partagée avec un colocataire, salle de bain partagée avec l'étage, espace commun aux étages pairs et cuisinette aux étages impairs. Il y a une réception 24 heures sur 24, le contrat dure 8 mois et un plan de repas est obligatoire.",
+   "en": "Marchand is a traditional-style residence overlooking the Rideau Canal, in the main residence complex in the heart of campus. It has 349 beds: a single room or one shared with a roommate, a bathroom shared with your floor, a common space on even floors and a kitchenette on odd floors. There's a 24/7 front desk, the agreement is 8 months and a meal plan is mandatory."
+  },
+  "sources": [
+   {
+    "label": "Marchand — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/marchand"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-res-thompson",
+  "category": "logement",
+  "keywords": [
+   "thompson",
+   "residence thompson",
+   "thompson residence",
+   "thn",
+   "traditionnelle",
+   "traditional residence",
+   "45 university",
+   "relie au centre universitaire",
+   "nidjinawendaganag",
+   "ou est thompson"
+  ],
+  "question": {
+   "fr": "C'est comment, la résidence Thompson ?",
+   "en": "What is Thompson residence like?"
+  },
+  "answer": {
+   "fr": "Thompson est une résidence de style traditionnel de 462 lits, au cœur du campus et reliée au Centre universitaire, à la bibliothèque Morisset et à la salle à manger. Tu as ta chambre ou tu la partages, avec une salle de bain partagée à l'étage, des espaces communs et une cuisinette à chaque étage. Le contrat dure 8 mois et un plan de repas est obligatoire; Thompson accueille aussi la communauté d'apprentissage autochtone Nidjìnawendàganag.",
+   "en": "Thompson is a 462-bed traditional-style residence in the heart of campus, connected to the University Centre, Morisset Library and the Dining Hall. You have your own room or share one, with a shared bathroom on the floor, common spaces and a kitchenette on every floor. The agreement is 8 months and a meal plan is mandatory; Thompson also hosts the Nidjìnawendàganag Indigenous Living Learning Community."
+  },
+  "sources": [
+   {
+    "label": "Thompson — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/thompson"
+   },
+   {
+    "label": "Living Learning and Themed communities — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/living-learning-themed-communities"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-res-leblanc",
+  "category": "logement",
+  "keywords": [
+   "leblanc",
+   "residence leblanc",
+   "leblanc residence",
+   "lbc",
+   "traditionnelle",
+   "traditional residence",
+   "45 louis-pasteur",
+   "cuisine commune",
+   "ou est leblanc",
+   "chambre simple"
+  ],
+  "question": {
+   "fr": "C'est comment, la résidence Leblanc ?",
+   "en": "What is Leblanc residence like?"
+  },
+  "answer": {
+   "fr": "Leblanc est une petite résidence de style traditionnel sur le campus principal, au 45, Louis-Pasteur. Tu as ta propre chambre ou tu la partages avec un colocataire, la salle de bain est partagée avec l'étage et la cuisine commune est au sous-sol. Le contrat dure 8 mois et le plan de repas est obligatoire; pour 2027-2028, une chambre simple avec le plan de 5 jours revient à 19 355 $.",
+   "en": "Leblanc is a small traditional-style residence on the main campus, at 45 Louis-Pasteur. You have your own room or share it with a roommate, the bathroom is shared with your floor and the common kitchen is in the basement. The agreement is 8 months and the meal plan is mandatory; for 2027-2028, a single room with the 5-day plan totals $19,355."
+  },
+  "sources": [
+   {
+    "label": "Leblanc — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/leblanc"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-res-henderson",
+  "category": "logement",
+  "keywords": [
+   "henderson",
+   "residence henderson",
+   "henderson residence",
+   "traditionnelle plus",
+   "traditional plus",
+   "202 henderson",
+   "genie",
+   "engineering community",
+   "salle de bain partagee",
+   "ou est henderson"
+  ],
+  "question": {
+   "fr": "C'est comment, la résidence Henderson ?",
+   "en": "What is Henderson residence like?"
+  },
+  "answer": {
+   "fr": "Henderson est une résidence de style traditionnel plus de 172 lits, à deux pas du complexe sportif Minto et de la plupart des salles et laboratoires de sciences et de génie. Tu as ta propre chambre, avec une salle de bain attenante partagée avec un autre étudiant, et une cuisine commune à chaque étage; l'immeuble est climatisé. Le contrat dure 8 mois, le plan de repas est obligatoire, et on y trouve les communautés d'apprentissage en génie et en informatique.",
+   "en": "Henderson is a 172-bed traditional plus residence, steps from the Minto Sports Complex and most science and engineering classrooms and labs. You have your own room, with a connected bathroom shared with one other student, and a community kitchen on each floor; the building is air-conditioned. The agreement is 8 months, the meal plan is mandatory, and it hosts the engineering and computer science living learning communities."
+  },
+  "sources": [
+   {
+    "label": "Henderson — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/henderson"
+   },
+   {
+    "label": "Living Learning and Themed communities — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/living-learning-themed-communities"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-res-rideau",
+  "category": "logement",
+  "keywords": [
+   "rideau",
+   "residence rideau",
+   "rideau residence",
+   "290 rideau",
+   "traditionnelle plus",
+   "traditional plus",
+   "marche by",
+   "byward market",
+   "centre rideau",
+   "ou est la residence rideau"
+  ],
+  "question": {
+   "fr": "C'est comment, la résidence Rideau ?",
+   "en": "What is Rideau residence like?"
+  },
+  "answer": {
+   "fr": "La résidence Rideau, au 290, rue Rideau, est à courte distance à pied du campus, près du Centre Rideau et du marché By. Elle compte 400 lits de style traditionnel plus : tu partages ta chambre et ta salle de bain avec un autre étudiant, et une grande cuisine commune est au rez-de-chaussée. Elle est climatisée, a une réception 24 heures sur 24, le contrat dure 8 mois et le plan de repas est facultatif.",
+   "en": "Rideau residence, at 290 Rideau Street, is a short walk from campus, near the Rideau Centre and the ByWard Market. It has 400 traditional plus beds: you share your room and bathroom with one other student, and a large common kitchen is on the ground floor. It's air-conditioned with a 24/7 front desk, the agreement is 8 months and the meal plan is optional."
+  },
+  "sources": [
+   {
+    "label": "Rideau — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/rideau"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-res-friel",
+  "category": "logement",
+  "keywords": [
+   "friel",
+   "residence friel",
+   "friel residence",
+   "240 friel",
+   "basse-ville",
+   "lowertown",
+   "studio",
+   "suite",
+   "cuisinette",
+   "ou est friel"
+  ],
+  "question": {
+   "fr": "C'est comment, la résidence Friel ?",
+   "en": "What is Friel residence like?"
+  },
+  "answer": {
+   "fr": "Friel, au 240, rue Friel dans la Basse-Ville, est à quelques minutes à pied du campus. Elle compte 380 lits en suites et studios simples, doubles ou quadruples, avec salle de bain dans l'unité et une cuisinette partout sauf au 3e étage, qui a une cuisine commune. Elle est climatisée, a une réception 24 heures sur 24, le contrat dure 8 mois et le plan de repas est facultatif.",
+   "en": "Friel, at 240 Friel Street in Lowertown, is a short walk from campus. It has 380 beds in single, double and quadruple suites and studios, with in-unit bathrooms and a kitchenette everywhere except the 3rd floor, which has a community kitchen. It's air-conditioned with a 24/7 front desk, the agreement is 8 months and the meal plan is optional."
+  },
+  "sources": [
+   {
+    "label": "Friel — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/friel"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-res-annex",
+  "category": "logement",
+  "keywords": [
+   "annex",
+   "residence annex",
+   "annex residence",
+   "appartement",
+   "apartment",
+   "265 laurier",
+   "cote-de-sable",
+   "sandy hill",
+   "studio",
+   "ou est l'annex"
+  ],
+  "question": {
+   "fr": "C'est comment, la résidence Annex ?",
+   "en": "What is the Annex residence like?"
+  },
+  "answer": {
+   "fr": "L'Annex, au 265, avenue Laurier Est dans la Côte-de-Sable, est à moins de cinq minutes à pied du campus. C'est une résidence de style appartement de 518 lits : tu as ta propre chambre et ta propre salle de bain dans une unité mixte avec cuisine, salle à manger et salon, laveuse-sécheuse et climatisation. Le contrat dure 12 mois et le plan de repas est facultatif; c'est idéal si tu veux plus d'autonomie.",
+   "en": "The Annex, at 265 Laurier Avenue East in Sandy Hill, is less than a five-minute walk from campus. It's a 518-bed apartment-style residence: you have your own bedroom and bathroom in a coed unit with a kitchen, dining room and living room, in-unit laundry and air conditioning. The agreement is 12 months and the meal plan is optional; it's great if you want more independence."
+  },
+  "sources": [
+   {
+    "label": "Annex — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/annex"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-res-hyman-soloway",
+  "category": "logement",
+  "keywords": [
+   "hyman soloway",
+   "residence hyman soloway",
+   "hyman soloway residence",
+   "appartement",
+   "apartment",
+   "157 laurier",
+   "12 mois",
+   "12 months",
+   "ou est hyman soloway"
+  ],
+  "question": {
+   "fr": "C'est comment, la résidence Hyman Soloway ?",
+   "en": "What is Hyman Soloway residence like?"
+  },
+  "answer": {
+   "fr": "Hyman Soloway, au 157, avenue Laurier Est, est située à l'extrémité nord du campus principal. C'est une résidence de style appartement de 239 lits : tu as ta propre chambre dans une unité mixte avec cuisine, salle à manger, salon et salle de bain, et elle est climatisée. Le contrat dure 12 mois et le plan de repas est facultatif.",
+   "en": "Hyman Soloway, at 157 Laurier Avenue East, is at the north end of the main campus. It's a 239-bed apartment-style residence: you have your own room in a coed unit with a kitchen, dining room, living room and bathroom, and it's air-conditioned. The agreement is 12 months and the meal plan is optional."
+  },
+  "sources": [
+   {
+    "label": "Hyman Soloway — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/hyman-soloway"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-res-45-mann",
+  "category": "logement",
+  "keywords": [
+   "45 mann",
+   "residence 45 mann",
+   "mann residence",
+   "appartement",
+   "apartment",
+   "minto",
+   "avenue mann",
+   "gym",
+   "12 mois",
+   "ou est 45 mann"
+  ],
+  "question": {
+   "fr": "C'est comment, la résidence 45 Mann ?",
+   "en": "What is the 45 Mann residence like?"
+  },
+  "answer": {
+   "fr": "La résidence 45 Mann est à l'extrémité sud du campus principal, juste à côté du complexe sportif Minto. C'est une résidence de style appartement de 385 lits en unités mixtes : tu as ta propre chambre, avec cuisine, salle à manger et salon partagés, laveuse-sécheuse dans l'unité, climatisation et salle d'entraînement. Le contrat dure 12 mois et le plan de repas est facultatif.",
+   "en": "The 45 Mann residence is at the south end of the main campus, right beside the Minto Sports Complex. It's a 385-bed apartment-style residence with coed units: you have your own room, with a shared kitchen, dining room and living room, in-unit laundry, air conditioning and a gym. The agreement is 12 months and the meal plan is optional."
+  },
+  "sources": [
+   {
+    "label": "45 Mann — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/45-mann"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-types-residences",
+  "category": "logement",
+  "keywords": [
+   "types de residence",
+   "residence types",
+   "traditionnelle",
+   "traditional",
+   "traditionnelle plus",
+   "traditional plus",
+   "suite",
+   "appartement",
+   "apartment",
+   "quelle residence choisir",
+   "which residence"
+  ],
+  "question": {
+   "fr": "Quels types de résidences y a-t-il ?",
+   "en": "What types of residences are there?"
+  },
+  "answer": {
+   "fr": "Il y a quatre styles. Traditionnel : Leblanc, Stanton, Marchand et Thompson, avec salle de bain partagée à l'étage. Traditionnel plus : Henderson et Rideau. Suites et studios : 90 University et Friel. Appartements, avec un contrat de 12 mois : Annex, Hyman Soloway et 45 Mann.",
+   "en": "There are four styles. Traditional: Leblanc, Stanton, Marchand and Thompson, with a bathroom shared on the floor. Traditional plus: Henderson and Rideau. Suites and studios: 90 University and Friel. Apartments, with a 12-month agreement: Annex, Hyman Soloway and 45 Mann."
+  },
+  "sources": [
+   {
+    "label": "Leblanc — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/leblanc"
+   },
+   {
+    "label": "Henderson — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/henderson"
+   },
+   {
+    "label": "90 University — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/90-university"
+   },
+   {
+    "label": "Annex — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/annex"
+   },
+   {
+    "label": "Housing and residence life — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-plans-repas",
+  "category": "logement",
+  "keywords": [
+   "plan de repas",
+   "meal plan",
+   "plan repas obligatoire",
+   "mandatory meal plan",
+   "salle a manger",
+   "dining hall",
+   "pay-as-you-go",
+   "plan bloc",
+   "block plan",
+   "dollars flex",
+   "flex dollars"
+  ],
+  "question": {
+   "fr": "Quels plans de repas sont offerts ?",
+   "en": "What meal plans are available?"
+  },
+  "answer": {
+   "fr": "Il y a quatre types de plans : le plan de 7 jours et le plan de 5 jours, qui donnent un accès illimité à la salle à manger, le plan Pay-as-you-go, un solde utilisable à tous les comptoirs du campus, et le plan bloc de 50, 75 ou 100 entrées à la salle à manger. Le plan de 5 jours est obligatoire à Leblanc, Marchand, Stanton, Thompson, Henderson et 90 University, et tu peux passer au plan de 7 jours. Tous les plans sont chargés sur ta carte étudiante uOttawa.",
+   "en": "There are four types of plans: the 7-day and 5-day plans, which give unlimited access to the Dining Hall, the Pay-as-you-go plan, a balance you can use at any food location on campus, and the block plan of 50, 75 or 100 Dining Hall entries. The 5-day plan is mandatory at Leblanc, Marchand, Stanton, Thompson, Henderson and 90 University, and you can upgrade to the 7-day plan. All plans are loaded onto your uOttawa student card."
+  },
+  "sources": [
+   {
+    "label": "Student meal plans — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/meal-plans"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-plans-repas-cout",
+  "category": "logement",
+  "keywords": [
+   "cout plan de repas",
+   "meal plan cost",
+   "prix plan de repas",
+   "meal plan price",
+   "plan 7 jours",
+   "7-day plan",
+   "plan 5 jours",
+   "5-day plan",
+   "combien coute le plan de repas",
+   "plan bloc prix"
+  ],
+  "question": {
+   "fr": "Combien coûte un plan de repas ?",
+   "en": "How much does a meal plan cost?"
+  },
+  "answer": {
+   "fr": "Pour 2026-2027, le plan de 7 jours coûte 7 850 $ et le plan de 5 jours 7 125 $; pour 2027-2028, ils passent à 8 175 $ et 7 400 $. Le plan bloc de 50 entrées coûte 1 041 $ en 2026-2027. Les plans de 5 et 7 jours sont offerts à tous les étudiants, même ceux qui n'habitent pas en résidence.",
+   "en": "For 2026-2027, the 7-day plan costs $7,850 and the 5-day plan $7,125; for 2027-2028, they go up to $8,175 and $7,400. The 50-entry block plan costs $1,041 in 2026-2027. The 5- and 7-day plans are available to all students, even those not living in residence."
+  },
+  "sources": [
+   {
+    "label": "Student meal plans — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/meal-plans"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-communautes-apprentissage",
+  "category": "logement",
+  "keywords": [
+   "communaute d'apprentissage",
+   "living learning community",
+   "communaute thematique",
+   "themed community",
+   "etage genie",
+   "engineering floor",
+   "communaute autochtone",
+   "indigenous community",
+   "llc",
+   "vivre avec mon programme"
+  ],
+  "question": {
+   "fr": "C'est quoi les communautés d'apprentissage en résidence ?",
+   "en": "What are residence living learning communities?"
+  },
+  "answer": {
+   "fr": "En résidence, tu peux choisir de vivre dans une communauté d'apprentissage ou une communauté thématique, avec des étudiants de ton programme ou qui partagent tes intérêts. Il y en a notamment en gestion, en sciences, en arts, en criminologie, en génie et en informatique, ces deux dernières à Henderson. La communauté Nidjìnawendàganag, à Thompson, est un milieu de vie dédié aux étudiants autochtones.",
+   "en": "In residence, you can choose to live in a living learning or themed community, with students from your program or who share your interests. There are communities in business, science, arts, criminology, engineering and computer science, the last two at Henderson. The Nidjìnawendàganag community, at Thompson, is a home dedicated to Indigenous students."
+  },
+  "sources": [
+   {
+    "label": "Living Learning and Themed communities — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/living-learning-themed-communities"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-equipe-vie-residence",
+  "category": "logement",
+  "keywords": [
+   "vie en residence",
+   "residence life",
+   "conseiller communautaire",
+   "community advisor",
+   "residence advisor",
+   "chef d'equipe",
+   "team lead",
+   "securite en residence",
+   "residence safety",
+   "aide en residence",
+   "support in residence"
+  ],
+  "question": {
+   "fr": "Qui peut m'aider quand j'habite en résidence ?",
+   "en": "Who can help me when I live in residence?"
+  },
+  "answer": {
+   "fr": "L'équipe de Vie en résidence est là pour toi : les conseillers communautaires, des étudiants plus avancés qui vivent à ton étage, les chefs d'équipe, les pairs aidants et les coordonnateurs de la vie en résidence. L'équipe de sécurité en résidence offre aussi un soutien confidentiel entre pairs; ses ambassadeurs font normalement des rondes tous les jours de 20 h à 6 h.",
+   "en": "The Residence Life team is there for you: community advisors, upper-year students who live on your floor, team leads, peer supports and residence life coordinators. The Residence Safety team also offers confidential peer support; its ambassadors normally walk through the residences every day from 8 p.m. to 6 a.m."
+  },
+  "sources": [
+   {
+    "label": "Residence teams — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/residence-teams"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-service-logement",
+  "category": "logement",
+  "keywords": [
+   "service du logement",
+   "housing services",
+   "bureau du logement",
+   "housing office",
+   "reception residence",
+   "residence front desk",
+   "90 university 143",
+   "contact logement",
+   "housing contact",
+   "heures logement"
+  ],
+  "question": {
+   "fr": "Où est le Service du logement ?",
+   "en": "Where is Housing Services?"
+  },
+  "answer": {
+   "fr": "Le Service du logement, pour les attributions et le logement hors campus, est au 90, privée University, local 145, ouvert de 9 h à 16 h 30 en semaine du 10 août 2026 au 7 mai 2027. La réception des résidences, ouverte 24 heures sur 24, est juste à côté, au local 143. Tu peux joindre les deux au 613-562-5885.",
+   "en": "Housing Services, for room assignments and off-campus housing, is at 90 University Private, Room 145, open 9 a.m. to 4:30 p.m. on weekdays from August 10, 2026 to May 7, 2027. The residence reception desk, open 24/7, is right next door in Room 143. You can reach both at 613-562-5885."
+  },
+  "sources": [
+   {
+    "label": "Housing and residence life — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-reparations-residence",
+  "category": "logement",
+  "keywords": [
+   "reparation residence",
+   "residence repair",
+   "entretien",
+   "maintenance",
+   "fuite",
+   "leak",
+   "bris",
+   "formulaire de reparation",
+   "repair request",
+   "internet residence"
+  ],
+  "question": {
+   "fr": "Comment demander une réparation dans ma résidence ?",
+   "en": "How do I request a repair in my residence?"
+  },
+  "answer": {
+   "fr": "Remplis le formulaire de réparations et d'entretien, ou communique avec les Services aux clients des résidences, au 90, privée University, local 143, ou au 613-562-5885. Pour une urgence qui ne met pas la vie en danger, comme une fuite ou une porte brisée, appelle la réception 24 heures sur 24 au même numéro. En cas de danger, comme un incendie, appelle le Service de la protection au 613-562-5422.",
+   "en": "Fill out the Repairs and Maintenance Form, or contact Residence Client Services at 90 University Private, Room 143, or 613-562-5885. For a non-life-threatening emergency like a leak or a broken door, call 24/7 Reception at the same number. In a dangerous situation such as a fire, call Protection Services at 613-562-5422."
+  },
+  "sources": [
+   {
+    "label": "Request repairs — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/request-repairs"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-cle-perdue",
+  "category": "logement",
+  "keywords": [
+   "cle perdue",
+   "lost key",
+   "carte d'acces",
+   "access card",
+   "verrouille dehors",
+   "locked out",
+   "barre dehors",
+   "cle residence",
+   "residence key",
+   "remplacer ma cle"
+  ],
+  "question": {
+   "fr": "J'ai perdu ma clé ou je suis barré dehors, que faire ?",
+   "en": "I lost my key or I'm locked out, what do I do?"
+  },
+  "answer": {
+   "fr": "Appelle les Services aux clients au 613-562-5885. Le service de déverrouillage est payant, et si tu le demandes plus de trois fois dans un même mois, on considère que tu as perdu tes clés. Pour une clé ou une carte d'accès perdue, le coût du remplacement dépend de ton type de logement.",
+   "en": "Call Client Services at 613-562-5885. The lock-out service has a fee, and if you request it more than three times in one month, you're considered to have lost your keys. For a lost key or access card, the replacement cost depends on your type of accommodation."
+  },
+  "sources": [
+   {
+    "label": "Keys and cards — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/access-card-keys"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-emmenagement",
+  "category": "logement",
+  "keywords": [
+   "emmenagement",
+   "move-in",
+   "arrivee en residence",
+   "moving into residence",
+   "jour d'arrivee",
+   "move-in day",
+   "passe d'arrivee",
+   "arrival pass",
+   "quoi apporter",
+   "what to bring"
+  ],
+  "question": {
+   "fr": "Comment se passe l'emménagement en résidence ?",
+   "en": "How does residence move-in work?"
+  },
+  "answer": {
+   "fr": "Avant d'arriver, connecte-toi au portail du logement pour choisir ta plage d'arrivée, premier arrivé, premier servi, et garde une copie de ta passe d'arrivée. Le jour venu, apporte ta passe d'arrivée, une pièce d'identité avec photo émise par le gouvernement et ton numéro d'étudiant. Les dates de la période officielle d'emménagement sont publiées chaque année sur la page d'emménagement.",
+   "en": "Before you arrive, log into the Housing Portal to choose your arrival time slot, first come, first served, and save a copy of your arrival pass. On the day, bring your arrival pass, government-issued photo ID and your student number. The official move-in dates are published each year on the moving-in page."
+  },
+  "sources": [
+   {
+    "label": "Moving into residence — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/moving-in"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-loyers-moyens",
+  "category": "logement",
+  "keywords": [
+   "loyer moyen",
+   "average rent",
+   "prix appartement ottawa",
+   "apartment price ottawa",
+   "loyer gatineau",
+   "rent gatineau",
+   "combien coute un appartement",
+   "how much is rent",
+   "cout de la vie",
+   "cost of living"
+  ],
+  "question": {
+   "fr": "Combien coûte un appartement près du campus ?",
+   "en": "How much does an apartment near campus cost?"
+  },
+  "answer": {
+   "fr": "Selon le Service du logement, en mai 2026, le loyer mensuel moyen était d'environ 1 600 $ pour un appartement d'une chambre à Ottawa et 1 980 $ pour deux chambres; à Gatineau, c'était 1 100 $ et 1 520 $. Ces montants n'incluent pas le téléphone, Internet, l'électricité, les repas ni le transport. Commence ta recherche tôt : n'attends pas juillet pour un logement en septembre.",
+   "en": "According to Housing Services, in May 2026 the average monthly rent was about $1,600 for a one-bedroom apartment in Ottawa and $1,980 for two bedrooms; in Gatineau, it was $1,100 and $1,520. These amounts don't include phone, internet, electricity, meals or transportation. Start your search early: don't wait until July for a September place."
+  },
+  "sources": [
+   {
+    "label": "Off-campus housing information and resources — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/off-campus-housing-information-resources"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "d-arnaques-logement",
+  "category": "logement",
+  "keywords": [
+   "arnaque logement",
+   "housing scam",
+   "fraude location",
+   "rental fraud",
+   "faux proprietaire",
+   "fake landlord",
+   "depot",
+   "deposit",
+   "kijiji",
+   "craigslist"
+  ],
+  "question": {
+   "fr": "Comment éviter une arnaque quand je cherche un logement ?",
+   "en": "How do I avoid a scam when looking for housing?"
+  },
+  "answer": {
+   "fr": "Méfie-toi d'un loyer bien en dessous du marché, d'un propriétaire à l'étranger qui demande un virement avant de t'envoyer la clé, ou de quelqu'un qui exige un dépôt sur-le-champ sans bail écrit. Ne donne jamais ton numéro de carte de crédit à un inconnu et cherche le courriel ou le numéro de téléphone du propriétaire en ligne. Si tu penses être victime, signale-le au Centre antifraude du Canada.",
+   "en": "Watch out for rent well below market rates, a landlord abroad who wants a wire transfer before sending the key, or someone demanding a deposit on the spot with no written lease. Never give your credit card number to a stranger, and look up the landlord's email or phone number online. If you think you've been scammed, report it to the Canadian Anti-Fraud Centre."
+  },
+  "sources": [
+   {
+    "label": "Housing scams — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/housing-scams"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ }
+]

@@ -1,8 +1,12 @@
 # HoloGuide — boîte Holotech d'INNOVA (uOttawa)
 
-Projet GNG1503, équipe AVENGERS (AF23). Version refaite de zéro. Site statique (HTML, CSS, JavaScript), sans serveur, sans compte et sans dépendance réseau, pensé pour la **boîte Holotech d'INNOVA** (Windows 11, écran tactile vertical, micro, haut-parleurs). Le fond est noir parce que la boîte rend le noir transparent.
+Projet GNG1503, équipe AVENGERS (AF23). Version refaite de zéro. Site statique (HTML, CSS, JavaScript), sans serveur, sans compte et sans dépendance réseau, pensé pour la **boîte Holotech d'INNOVA** (Windows 11, écran tactile vertical, micro, haut-parleurs). Le fond est blanc.
 
 **Mise en page** : Gee-Gee est debout dans la colonne de gauche, en pied, de la tête aux souliers, sur toute la hauteur de la boîte, comme s'il était vraiment dedans. L'interface occupe la colonne de droite et ne passe jamais devant lui. Sur un écran à l'horizontale, les colonnes s'ajustent ; sur un téléphone (tests), Gee-Gee passe au-dessus.
+
+## Travailler en équipe
+Chaque modification est publiée sur GitHub tout de suite (`git pull --rebase` avant, `git commit` puis `git push` après). Les règles sont dans `AGENTS.md`, que Freebuff lit automatiquement.
+Historique des modifications de l'équipe : https://github.com/louikagirard-creator/hologuide/commits/main
 
 ## Lancer
 - Sur un ordinateur : `python3 -m http.server 5179` dans ce dossier, puis ouvrir http://localhost:5179.
@@ -35,7 +39,14 @@ Projet GNG1503, équipe AVENGERS (AF23). Version refaite de zéro. Site statique
 | Indicateurs de succès | Tableau de bord : 5 touches sur « HoloGuide » ou Maj+A (sessions, questions, sans réponse, QR, avis, satisfaction, questions fréquentes) |
 
 ## Gee-Gee
-Cheval aux couleurs uOttawa (grenat et gris), en pied : maillot « GG », short gris à bande blanche, bas grenat rayés, souliers de mascotte et queue qui se balance. Il est construit entièrement en code avec three.js (`js/mascot.js`), donc rien à télécharger. Il parle syllabe par syllabe selon les voyelles, cligne des yeux, bouge les oreilles et les sourcils, tourne la tête vers l'endroit touché, salue, hausse les épaules quand il n'a pas de réponse, lève le sabot quand on le remercie, saute de joie quand il répond et s'anime tout seul au repos. Rendu : matières peluche et tissu (reflet satiné), ombres douces, lumière venant du plafond de la boîte et contre-jours qui détachent la silhouette du noir. Le haut du corps se balance pendant que les pieds restent au sol. Quelques particules lumineuses donnent un effet de projection.
+Cheval aux couleurs uOttawa (grenat et gris), en pied : maillot « GG », short gris à bande blanche, bas grenat rayés, souliers de mascotte et queue qui se balance. Il est construit entièrement en code avec three.js (`js/mascot.js`), donc rien à télécharger. Il parle syllabe par syllabe selon les voyelles, cligne des yeux, bouge les oreilles et les sourcils, tourne la tête vers l'endroit touché, salue, hausse les épaules quand il n'a pas de réponse, lève le sabot quand on le remercie, saute de joie quand il répond et s'anime tout seul au repos. Rendu : matières peluche et tissu (reflet satiné), ombres douces, lumière venant du plafond de la boîte et contre-jours qui détachent la silhouette du noir. Le haut du corps se balance pendant que les pieds restent au sol.
+### Remplacer Gee-Gee par un vrai modèle 3D
+1. Obtenir un fichier `.glb` de la mascotte, debout, de face (modélisé dans Blender, acheté, ou généré avec un outil d'IA 3D comme Meshy ou Tripo à partir d'une photo de Gee-Gee). Idéalement avec un squelette et des animations nommées `idle` (repos) et `wave` (salut).
+2. Le déposer dans `assets/`, par exemple `assets/geegee.glb`.
+3. Dans `js/mascot.js`, remplacer `const MODEL_URL = null;` par `const MODEL_URL = 'assets/geegee.glb';`.
+
+Le modèle est automatiquement mis à l'échelle de la boîte (de la tête aux pieds) et posé au sol. Il joue son animation de repos, salue avec l'animation `wave` et hoche la tête quand il parle. Si le fichier ne se charge pas, le Gee-Gee fait en code s'affiche à la place.
+
 Design original inspiré des Gee-Gees : pour utiliser le logo ou la mascotte officielle, il faut l'accord de l'Université.
 
 ## Fichiers

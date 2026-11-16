@@ -32,7 +32,7 @@ function lev(a, b) { // distance d'édition (tolérance d'une faute de frappe)
 const INDEX = KB.map((e) => {
   const kws = e.keywords.map(norm);
   const vocab = new Set([...kws.flatMap((k) => k.trim().split(' ')), ...words(e.question.fr), ...words(e.question.en)]);
-  return { e, kws, vocab: [...vocab].filter((w) => w.length > 2 && !STOP.has(w)) };
+  return { e, kws, idk: norm(e.id.replace(/^[a-z]-/, '')), vocab: [...vocab].filter((w) => w.length > 2 && !STOP.has(w)) };
 });
 const ALL_WORDS = new Set(INDEX.flatMap((it) => it.vocab)); // un mot connu n'est pas une faute de frappe
 // Rareté de chaque mot : « différés » ou « fauteux » départagent mieux les réponses que « examens » ou « pavillon ».
@@ -53,6 +53,7 @@ function score(item, n, qwords, cats) {
     else if (w.length >= 5 && !ALL_WORDS.has(w) && item.vocab.some((v) => v.length >= 5 && lev(w, v) <= 1)) s += 0.75;
   }
   if (cats.has(item.e.category)) s += 0.5;
+  if (/\d/.test(item.idk) && n.includes(item.idk)) s += 1; // départage : « gng1503 » → la fiche j-gng1503 plutôt que son équivalent anglais
   return s;
 }
 

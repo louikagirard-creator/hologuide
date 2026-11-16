@@ -1,0 +1,3085 @@
+[
+  {
+    "id": "j-gng1103",
+    "category": "genie",
+    "keywords": [
+      "gng1103",
+      "gng 1103",
+      "gng1503",
+      "gng 1503",
+      "introduction a la conception en genie",
+      "introduction to engineering design",
+      "engineering design",
+      "conception en genie",
+      "projet client",
+      "c est quoi gng1103",
+      "what is gng1103"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours GNG1103 ?",
+      "en": "What is GNG1103?"
+    },
+    "answer": {
+      "fr": "GNG1103, Introduction to Engineering Design, est un cours de 3 crédits donné en anglais. C'est une initiation pratique et en équipe à la conception en génie : tu travailles sur des projets ouverts pour un vrai client, avec du prototypage, des tests, des présentations orales et de la gestion d'équipe. La version en français est GNG1503.",
+      "en": "GNG1103, Introduction to Engineering Design, is a 3-unit course taught in English. It's a hands-on, team-based introduction to engineering design: you work on open-ended projects for a real client, using prototyping and testing tools, oral presentations and team management. The French version is GNG1503."
+    },
+    "sources": [
+      {
+        "label": "GNG1103 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/gng/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-gng1503",
+    "category": "genie",
+    "keywords": [
+      "gng1503",
+      "gng 1503",
+      "gng1103",
+      "gng 1103",
+      "introduction a la conception en genie",
+      "introduction to engineering design",
+      "conception en genie",
+      "engineering design",
+      "projet client",
+      "c est quoi gng1503",
+      "what is gng1503"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours GNG1503 ?",
+      "en": "What is GNG1503?"
+    },
+    "answer": {
+      "fr": "GNG1503 est le cours d'introduction à la conception en génie, offert en français et valant 3 crédits. C'est une initiation pratique et en équipe : tu résous des projets de conception ouverts pour un client, en pratiquant le prototypage, les tests, la présentation orale et la gestion des conflits d'équipe. La version anglaise est GNG1103.",
+      "en": "GNG1503 is the introduction to engineering design course, taught in French and worth 3 units. It's a hands-on, team-based introduction: you solve open-ended design projects for a client while practising prototyping, testing, oral presentations and team conflict resolution. The English version is GNG1103."
+    },
+    "sources": [
+      {
+        "label": "GNG1503 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/gng/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-gng1105",
+    "category": "genie",
+    "keywords": [
+      "gng1105",
+      "gng 1105",
+      "gng1505",
+      "gng 1505",
+      "mecanique pour ingenieurs",
+      "engineering mechanics",
+      "statique",
+      "statics",
+      "mecanique",
+      "mechanics",
+      "c est quoi gng1105",
+      "what is gng1105",
+      "prealables gng1105",
+      "prerequisites gng1105"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours GNG1105 ?",
+      "en": "What is GNG1105?"
+    },
+    "answer": {
+      "fr": "GNG1105, Engineering Mechanics, est un cours de 3 crédits en anglais sur les concepts de la mécanique : statique des particules et des corps rigides, diagrammes de corps libre, treillis, charpentes et machines, ainsi que les mouvements rectiligne et curviligne. Le préalable est la physique 4U, les fonctions avancées et le calcul 4U ou l'équivalent. La version en français est GNG1505.",
+      "en": "GNG1105, Engineering Mechanics, is a 3-unit course on the concepts of mechanics: statics of particles and rigid bodies, free body diagrams, trusses, frames and machines, plus rectilinear and curvilinear motion. The prerequisite is 4U Physics, Advanced Functions and Introductory Calculus 4U or equivalent. The French version is GNG1505."
+    },
+    "sources": [
+      {
+        "label": "GNG1105 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/gng/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-gng1505",
+    "category": "genie",
+    "keywords": [
+      "gng1505",
+      "gng 1505",
+      "gng1105",
+      "gng 1105",
+      "mecanique pour ingenieurs",
+      "engineering mechanics",
+      "statique",
+      "statics",
+      "mecanique",
+      "mechanics",
+      "c est quoi gng1505",
+      "what is gng1505",
+      "prealables gng1505",
+      "prerequisites gng1505"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours GNG1505 ?",
+      "en": "What is GNG1505?"
+    },
+    "answer": {
+      "fr": "GNG1505, Mécanique pour ingénieurs, est un cours de 3 crédits en français. On y voit la statique des points matériels et des corps rigides, le schéma du corps isolé, les treillis et les mécanismes, ainsi que les mouvements rectiligne et curviligne. Le préalable est la physique 4U, les fonctions avancées et le calcul 4U ou l'équivalent. La version anglaise est GNG1105.",
+      "en": "GNG1505, Mécanique pour ingénieurs, is a 3-unit course taught in French. It covers statics of particles and rigid bodies, free body diagrams, trusses and mechanisms, plus rectilinear and curvilinear motion. The prerequisite is 4U Physics, Advanced Functions and Introductory Calculus 4U or equivalent. The English version is GNG1105."
+    },
+    "sources": [
+      {
+        "label": "GNG1505 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/gng/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-gng1106",
+    "category": "genie",
+    "keywords": [
+      "gng1106",
+      "gng 1106",
+      "gng1506",
+      "gng 1506",
+      "notions fondamentales du traitement de l information en genie",
+      "fundamentals of engineering computation",
+      "programmation genie",
+      "engineering programming",
+      "python",
+      "langage c",
+      "c est quoi gng1106",
+      "what is gng1106"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours GNG1106 ?",
+      "en": "What is GNG1106?"
+    },
+    "answer": {
+      "fr": "GNG1106, Fundamentals of Engineering Computation, est un cours de 3 crédits en anglais. Il porte sur la conception d'algorithmes et leur programmation pour résoudre des problèmes de génie, avec des langages comme C et Python. Attention : GNG1106 et ITI1120 ne peuvent pas être combinés pour les crédits. La version en français est GNG1506.",
+      "en": "GNG1106, Fundamentals of Engineering Computation, is a 3-unit course. It focuses on designing algorithms and programming them to solve engineering problems, using languages such as C and Python. Note that GNG1106 and ITI1120 cannot be combined for units. The French version is GNG1506."
+    },
+    "sources": [
+      {
+        "label": "GNG1106 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/gng/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-gng1506",
+    "category": "genie",
+    "keywords": [
+      "gng1506",
+      "gng 1506",
+      "gng1106",
+      "gng 1106",
+      "notions fondamentales du traitement de l information en genie",
+      "fundamentals of engineering computation",
+      "programmation genie",
+      "engineering programming",
+      "python",
+      "langage c",
+      "c est quoi gng1506",
+      "what is gng1506"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours GNG1506 ?",
+      "en": "What is GNG1506?"
+    },
+    "answer": {
+      "fr": "GNG1506, Notions fondamentales du traitement de l'information en génie, est un cours de 3 crédits en français. L'accent est mis sur la conception d'algorithmes pour résoudre des problèmes de génie et leur programmation avec des langages comme C et Python. GNG1506 et ITI1520 ne peuvent pas être combinés pour les crédits. La version anglaise est GNG1106.",
+      "en": "GNG1506 is the French-language Fundamentals of Engineering Computation course, worth 3 units. It focuses on designing algorithms to solve engineering problems and programming them in languages such as C and Python. GNG1506 and ITI1520 cannot be combined for units. The English version is GNG1106."
+    },
+    "sources": [
+      {
+        "label": "GNG1506 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/gng/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-gng2101",
+    "category": "genie",
+    "keywords": [
+      "gng2101",
+      "gng 2101",
+      "gng2501",
+      "gng 2501",
+      "introduction au developpement de produits en genie et en informatique",
+      "introduction to product development for engineers and computer scientists",
+      "developpement de produits",
+      "product development",
+      "design for x",
+      "c est quoi gng2101",
+      "what is gng2101",
+      "prealables gng2101",
+      "prerequisites gng2101"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours GNG2101 ?",
+      "en": "What is GNG2101?"
+    },
+    "answer": {
+      "fr": "GNG2101 est un cours de 3 crédits en anglais d'introduction au développement de produits pour les ingénieurs et les informaticiens. En équipe, sur des projets pour un client, tu apprends à gérer des contraintes comme l'économie, la durabilité, la gestion de projet, le marketing, l'éthique et la propriété intellectuelle. Le préalable est GNG1103 pour la plupart des programmes de génie, mais il varie selon le programme. La version en français est GNG2501.",
+      "en": "GNG2101 is a 3-unit introduction to product development for engineers and computer scientists. Working in teams on client projects, you learn to handle constraints such as economics, sustainability, project management, marketing, ethics and intellectual property. The prerequisite is GNG1103 for most engineering programs, but it varies by program. The French version is GNG2501."
+    },
+    "sources": [
+      {
+        "label": "GNG2101 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/gng/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-gng2501",
+    "category": "genie",
+    "keywords": [
+      "gng2501",
+      "gng 2501",
+      "gng2101",
+      "gng 2101",
+      "introduction au developpement de produits en genie et en informatique",
+      "introduction to product development for engineers and computer scientists",
+      "developpement de produits",
+      "product development",
+      "conception pour x",
+      "c est quoi gng2501",
+      "what is gng2501",
+      "prealables gng2501",
+      "prerequisites gng2501"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours GNG2501 ?",
+      "en": "What is GNG2501?"
+    },
+    "answer": {
+      "fr": "GNG2501, Introduction au développement de produits en génie et en informatique, est un cours de 3 crédits en français. En équipe et pour un client, tu utilises une approche « conception pour X » en tenant compte de l'économie, de la durabilité, de la gestion de projet, de l'éthique et de la propriété intellectuelle. Le préalable est GNG1503 pour la plupart des programmes de génie, mais il varie selon le programme. La version anglaise est GNG2101.",
+      "en": "GNG2501 is the French-language introduction to product development for engineers and computer scientists, worth 3 units. In teams and for a client, you use a Design for X approach that accounts for economics, sustainability, project management, ethics and intellectual property. The prerequisite is GNG1503 for most engineering programs, but it varies by program. The English version is GNG2101."
+    },
+    "sources": [
+      {
+        "label": "GNG2501 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/gng/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-iti1120",
+    "category": "genie",
+    "keywords": [
+      "iti1120",
+      "iti 1120",
+      "iti1520",
+      "iti 1520",
+      "introduction a l informatique i",
+      "introduction to computing i",
+      "intro programmation",
+      "intro to programming",
+      "premier cours de programmation",
+      "c est quoi iti1120",
+      "what is iti1120"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ITI1120 ?",
+      "en": "What is ITI1120?"
+    },
+    "answer": {
+      "fr": "ITI1120, Introduction to Computing I, est un cours de 3 crédits en anglais. Tu y apprends la résolution de problèmes et la conception d'algorithmes, les variables, les conditions et les boucles, les modules, la récursivité, les tableaux, les chaînes et une introduction aux objets. Il n'y a pas de préalable inscrit au catalogue. La version en français est ITI1520.",
+      "en": "ITI1120, Introduction to Computing I, is a 3-unit course. You learn problem solving and algorithm design, variables, conditionals and loops, modules, recursion, arrays, strings and an introduction to objects. The catalogue lists no prerequisite. The French version is ITI1520."
+    },
+    "sources": [
+      {
+        "label": "ITI1120 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/iti/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-iti1520",
+    "category": "genie",
+    "keywords": [
+      "iti1520",
+      "iti 1520",
+      "iti1120",
+      "iti 1120",
+      "introduction a l informatique i",
+      "introduction to computing i",
+      "intro programmation",
+      "intro to programming",
+      "premier cours de programmation",
+      "c est quoi iti1520",
+      "what is iti1520"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ITI1520 ?",
+      "en": "What is ITI1520?"
+    },
+    "answer": {
+      "fr": "ITI1520, Introduction à l'informatique I, est un cours de 3 crédits en français. On y voit la résolution de problèmes et la conception d'algorithmes, les variables, les structures conditionnelles et itératives, la récursivité, les tableaux, les chaînes de caractères et une introduction aux objets. Le catalogue n'indique aucun préalable. La version anglaise est ITI1120.",
+      "en": "ITI1520 is the French-language Introduction to Computing I course, worth 3 units. It covers problem solving and algorithm design, variables, conditional and iterative control structures, recursion, arrays, strings and an introduction to objects. The catalogue lists no prerequisite. The English version is ITI1120."
+    },
+    "sources": [
+      {
+        "label": "ITI1520 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/iti/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-iti1121",
+    "category": "genie",
+    "keywords": [
+      "iti1121",
+      "iti 1121",
+      "iti1521",
+      "iti 1521",
+      "introduction a l informatique ii",
+      "introduction to computing ii",
+      "programmation orientee objet",
+      "object oriented programming",
+      "java",
+      "listes chainees",
+      "c est quoi iti1121",
+      "what is iti1121",
+      "prealables iti1121",
+      "prerequisites iti1121"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ITI1121 ?",
+      "en": "What is ITI1121?"
+    },
+    "answer": {
+      "fr": "ITI1121, Introduction to Computing II, est un cours de 3 crédits en anglais sur la programmation orientée objet, l'encapsulation, les listes chaînées, les piles, les files et les arbres binaires de recherche. Le préalable est ITI1120, ou GNG1106 pour les programmes de génie informatique, d'informatique et de technologie de l'informatique. La version en français est ITI1521.",
+      "en": "ITI1121, Introduction to Computing II, is a 3-unit course on object-oriented programming, encapsulation, linked lists, stacks, queues and binary search trees. The prerequisite is ITI1120, or GNG1106 for computer engineering, computer science and computing technology students. The French version is ITI1521."
+    },
+    "sources": [
+      {
+        "label": "ITI1121 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/iti/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-iti1521",
+    "category": "genie",
+    "keywords": [
+      "iti1521",
+      "iti 1521",
+      "iti1121",
+      "iti 1121",
+      "introduction a l informatique ii",
+      "introduction to computing ii",
+      "programmation orientee objet",
+      "object oriented programming",
+      "java",
+      "listes chainees",
+      "c est quoi iti1521",
+      "what is iti1521",
+      "prealables iti1521",
+      "prerequisites iti1521"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ITI1521 ?",
+      "en": "What is ITI1521?"
+    },
+    "answer": {
+      "fr": "ITI1521, Introduction à l'informatique II, est un cours de 3 crédits en français sur la programmation orientée objet, l'encapsulation, les listes chaînées, les piles, les files et les arbres binaires de recherche. Le préalable est ITI1520, ou GNG1506 pour les programmes de génie informatique, d'informatique et de technologie de l'informatique. La version anglaise est ITI1121.",
+      "en": "ITI1521 is the French-language Introduction to Computing II course, worth 3 units. It covers object-oriented programming, encapsulation, linked lists, stacks, queues and binary search trees. The prerequisite is ITI1520, or GNG1506 for computer engineering, computer science and computing technology students. The English version is ITI1121."
+    },
+    "sources": [
+      {
+        "label": "ITI1521 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/iti/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-iti1100",
+    "category": "genie",
+    "keywords": [
+      "iti1100",
+      "iti 1100",
+      "iti1500",
+      "iti 1500",
+      "systemes numeriques i",
+      "digital systems i",
+      "logique numerique",
+      "digital logic",
+      "algebre booleenne",
+      "boolean algebra",
+      "bascules",
+      "c est quoi iti1100",
+      "what is iti1100"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ITI1100 ?",
+      "en": "What is ITI1100?"
+    },
+    "answer": {
+      "fr": "ITI1100, Digital Systems I, est un cours de 3 crédits en anglais. Il couvre les systèmes de numération, l'arithmétique binaire, l'algèbre booléenne, la conception de circuits combinatoires et séquentiels, les bascules, les registres et les compteurs. Le catalogue n'indique aucun préalable. La version en français est ITI1500.",
+      "en": "ITI1100, Digital Systems I, is a 3-unit course. It covers number systems, binary arithmetic, Boolean algebra, the design of combinational and sequential circuits, flip-flops, registers and counters. The catalogue lists no prerequisite. The French version is ITI1500."
+    },
+    "sources": [
+      {
+        "label": "ITI1100 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/iti/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-csi2110",
+    "category": "genie",
+    "keywords": [
+      "csi2110",
+      "csi 2110",
+      "csi2510",
+      "csi 2510",
+      "structures de donnees et algorithmes",
+      "data structures and algorithms",
+      "data structures",
+      "structures de donnees",
+      "algorithmes",
+      "graphes",
+      "hachage",
+      "c est quoi csi2110",
+      "what is csi2110",
+      "prealables csi2110",
+      "prerequisites csi2110"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours CSI2110 ?",
+      "en": "What is CSI2110?"
+    },
+    "answer": {
+      "fr": "CSI2110, Data Structures and Algorithms, est un cours de 3 crédits en anglais. On y voit les types abstraits de données, l'analyse de complexité, les arbres équilibrés, le hachage, le tri et les algorithmes de graphes. Les préalables sont ITI1121 et MAT1348. La version en français est CSI2510.",
+      "en": "CSI2110, Data Structures and Algorithms, is a 3-unit course. It covers abstract data types, complexity analysis, balanced trees, hashing, sorting and graph algorithms. The prerequisites are ITI1121 and MAT1348. The French version is CSI2510."
+    },
+    "sources": [
+      {
+        "label": "CSI2110 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/csi/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-csi2510",
+    "category": "genie",
+    "keywords": [
+      "csi2510",
+      "csi 2510",
+      "csi2110",
+      "csi 2110",
+      "structures de donnees et algorithmes",
+      "data structures and algorithms",
+      "data structures",
+      "structures de donnees",
+      "algorithmes",
+      "graphes",
+      "hachage",
+      "c est quoi csi2510",
+      "what is csi2510",
+      "prealables csi2510",
+      "prerequisites csi2510"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours CSI2510 ?",
+      "en": "What is CSI2510?"
+    },
+    "answer": {
+      "fr": "CSI2510, Structures de données et algorithmes, est un cours de 3 crédits en français. Il couvre les types abstraits de données, l'analyse de complexité, les arbres, le hachage, les tris et les algorithmes de graphes comme l'arbre minimal recouvrant. Les préalables sont ITI1521 et MAT1748. La version anglaise est CSI2110.",
+      "en": "CSI2510 is the French-language Data Structures and Algorithms course, worth 3 units. It covers abstract data types, complexity analysis, trees, hashing, sorting and graph algorithms such as the minimum spanning tree. The prerequisites are ITI1521 and MAT1748. The English version is CSI2110."
+    },
+    "sources": [
+      {
+        "label": "CSI2510 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/csi/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-csi2120",
+    "category": "genie",
+    "keywords": [
+      "csi2120",
+      "csi 2120",
+      "csi2520",
+      "csi 2520",
+      "paradigmes de programmation",
+      "programming paradigms",
+      "programmation fonctionnelle",
+      "programmation logique",
+      "functional programming",
+      "c est quoi csi2120",
+      "what is csi2120",
+      "prealables csi2120",
+      "prerequisites csi2120"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours CSI2120 ?",
+      "en": "What is CSI2120?"
+    },
+    "answer": {
+      "fr": "CSI2120, Programming Paradigms, est un cours de 3 crédits en anglais qui présente les grands paradigmes de programmation : orienté objet, impératif, logique et fonctionnel, avec les langages associés. Le préalable est CSI2110. La version en français est CSI2520.",
+      "en": "CSI2120, Programming Paradigms, is a 3-unit course presenting the major programming paradigms: object-oriented, imperative, logic and functional, along with related languages. The prerequisite is CSI2110. The French version is CSI2520."
+    },
+    "sources": [
+      {
+        "label": "CSI2120 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/csi/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-seg2105",
+    "category": "genie",
+    "keywords": [
+      "seg2105",
+      "seg 2105",
+      "seg2505",
+      "seg 2505",
+      "introduction au genie logiciel",
+      "introduction to software engineering",
+      "software engineering",
+      "genie logiciel",
+      "uml",
+      "client serveur",
+      "c est quoi seg2105",
+      "what is seg2105",
+      "prealables seg2105",
+      "prerequisites seg2105"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours SEG2105 ?",
+      "en": "What is SEG2105?"
+    },
+    "answer": {
+      "fr": "SEG2105, Introduction to Software Engineering, est un cours de 3 crédits en anglais. On y voit les exigences, la conception et les tests, l'analyse orientée objet avec UML, les cadriciels et les API, et l'architecture client-serveur. Le préalable est ITI1121. La version en français est SEG2505.",
+      "en": "SEG2105, Introduction to Software Engineering, is a 3-unit course. It covers requirements, design and testing, object-oriented analysis with UML, frameworks and APIs, and client-server architecture. The prerequisite is ITI1121. The French version is SEG2505."
+    },
+    "sources": [
+      {
+        "label": "SEG2105 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/seg/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-elg2138",
+    "category": "genie",
+    "keywords": [
+      "elg2138",
+      "elg 2138",
+      "elg2538",
+      "elg 2538",
+      "theorie des circuits i",
+      "circuit theory i",
+      "circuits electriques",
+      "electric circuits",
+      "kirchhoff",
+      "thevenin",
+      "c est quoi elg2138",
+      "what is elg2138",
+      "prealables elg2138",
+      "prerequisites elg2138"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ELG2138 ?",
+      "en": "What is ELG2138?"
+    },
+    "answer": {
+      "fr": "ELG2138, Circuit Theory I, est un cours de 3 crédits en anglais sur l'analyse des circuits en courant continu et en régime sinusoïdal : résistances, condensateurs, inductances, lois de Kirchhoff, théorèmes de Thévenin et de Norton, phaseurs et puissance. Les préalables sont ITI1100, MAT1341 et MAT1322. La version en français est ELG2538.",
+      "en": "ELG2138, Circuit Theory I, is a 3-unit course on DC and sinusoidal steady-state circuit analysis: resistors, capacitors, inductors, Kirchhoff's laws, Thevenin and Norton theorems, phasors and power. The prerequisites are ITI1100, MAT1341 and MAT1322. The French version is ELG2538."
+    },
+    "sources": [
+      {
+        "label": "ELG2138 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/elg/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-mat1320",
+    "category": "cours",
+    "keywords": [
+      "mat1320",
+      "mat 1320",
+      "mat1720",
+      "mat 1720",
+      "calcul differentiel et integral i",
+      "calculus i",
+      "calcul 1",
+      "calculus 1",
+      "derivees",
+      "derivatives",
+      "limites",
+      "c est quoi mat1320",
+      "what is mat1320",
+      "prealables mat1320",
+      "prerequisites mat1320"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours MAT1320 ?",
+      "en": "What is MAT1320?"
+    },
+    "answer": {
+      "fr": "MAT1320, Calculus I, est un cours de 3 crédits en anglais : limites et continuité, dérivées, règle de L'Hospital, taux reliés, optimisation, méthode de Newton, puis l'intégrale définie et le théorème fondamental du calcul. Le préalable est MAT1339 ou le cours 4U Calcul et vecteurs (MCV4U) ou l'équivalent. La version en français est MAT1720.",
+      "en": "MAT1320, Calculus I, is a 3-unit course: limits and continuity, derivatives, L'Hospital's rule, related rates, optimization, Newton's method, then the definite integral and the fundamental theorem of calculus. The prerequisite is MAT1339 or Ontario 4U Calculus and Vectors (MCV4U) or equivalent. The French version is MAT1720."
+    },
+    "sources": [
+      {
+        "label": "MAT1320 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/mat/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-mat1720",
+    "category": "cours",
+    "keywords": [
+      "mat1720",
+      "mat 1720",
+      "mat1320",
+      "mat 1320",
+      "calcul differentiel et integral i",
+      "calculus i",
+      "calcul 1",
+      "calculus 1",
+      "derivees",
+      "derivatives",
+      "limites",
+      "c est quoi mat1720",
+      "what is mat1720",
+      "prealables mat1720",
+      "prerequisites mat1720"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours MAT1720 ?",
+      "en": "What is MAT1720?"
+    },
+    "answer": {
+      "fr": "MAT1720, Calcul différentiel et intégral I, est un cours de 3 crédits en français : limites et continuité, dérivées, règle de L'Hospital, taux reliés, optimisation et approximation linéaire. Le préalable est MAT1739 ou le cours 4U Calcul et vecteurs (MCV4U) ou l'équivalent. La version anglaise est MAT1320.",
+      "en": "MAT1720 is the French-language Calculus I course, worth 3 units: limits and continuity, derivatives, L'Hospital's rule, related rates, optimization and linear approximation. The prerequisite is MAT1739 or Ontario 4U Calculus and Vectors (MCV4U) or equivalent. The English version is MAT1320."
+    },
+    "sources": [
+      {
+        "label": "MAT1720 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/mat/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-mat1322",
+    "category": "cours",
+    "keywords": [
+      "mat1322",
+      "mat 1322",
+      "mat1722",
+      "mat 1722",
+      "calcul differentiel et integral ii",
+      "calculus ii",
+      "calcul 2",
+      "calculus 2",
+      "series",
+      "integrales impropres",
+      "c est quoi mat1322",
+      "what is mat1322",
+      "prealables mat1322",
+      "prerequisites mat1322"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours MAT1322 ?",
+      "en": "What is MAT1322?"
+    },
+    "answer": {
+      "fr": "MAT1322, Calculus II, est un cours de 3 crédits en anglais : intégrales impropres et applications de l'intégrale, équations différentielles séparables, suites et séries, séries de Taylor, puis fonctions de plusieurs variables et dérivées partielles. Le préalable est MAT1320 ou MAT1321. La version en français est MAT1722.",
+      "en": "MAT1322, Calculus II, is a 3-unit course: improper integrals and applications of the integral, separable differential equations, sequences and series, Taylor series, then functions of several variables and partial derivatives. The prerequisite is MAT1320 or MAT1321. The French version is MAT1722."
+    },
+    "sources": [
+      {
+        "label": "MAT1322 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/mat/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-mat1722",
+    "category": "cours",
+    "keywords": [
+      "mat1722",
+      "mat 1722",
+      "mat1322",
+      "mat 1322",
+      "calcul differentiel et integral ii",
+      "calculus ii",
+      "calcul 2",
+      "calculus 2",
+      "series",
+      "integrales impropres",
+      "c est quoi mat1722",
+      "what is mat1722",
+      "prealables mat1722",
+      "prerequisites mat1722"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours MAT1722 ?",
+      "en": "What is MAT1722?"
+    },
+    "answer": {
+      "fr": "MAT1722, Calcul différentiel et intégral II, est un cours de 3 crédits en français : intégrales impropres, applications de l'intégrale, équations différentielles séparables, suites et séries de Taylor, fonctions de plusieurs variables et dérivées partielles. Le préalable est MAT1720 ou MAT1721. La version anglaise est MAT1322.",
+      "en": "MAT1722 is the French-language Calculus II course, worth 3 units: improper integrals, applications of the integral, separable differential equations, sequences and Taylor series, functions of several variables and partial derivatives. The prerequisite is MAT1720 or MAT1721. The English version is MAT1322."
+    },
+    "sources": [
+      {
+        "label": "MAT1722 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/mat/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-mat1341",
+    "category": "cours",
+    "keywords": [
+      "mat1341",
+      "mat 1341",
+      "mat1741",
+      "mat 1741",
+      "introduction a l algebre lineaire",
+      "introduction to linear algebra",
+      "algebre lineaire",
+      "linear algebra",
+      "matrices",
+      "vecteurs propres",
+      "c est quoi mat1341",
+      "what is mat1341",
+      "prealables mat1341",
+      "prerequisites mat1341"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours MAT1341 ?",
+      "en": "What is MAT1341?"
+    },
+    "answer": {
+      "fr": "MAT1341, Introduction to Linear Algebra, est un cours de 3 crédits en anglais : nombres complexes, espaces vectoriels, systèmes d'équations linéaires, matrices, déterminants, valeurs et vecteurs propres, et transformations linéaires. Le préalable est MAT1339 ou le cours 4U Calcul et vecteurs (MCV4U) ou l'équivalent. La version en français est MAT1741.",
+      "en": "MAT1341, Introduction to Linear Algebra, is a 3-unit course: complex numbers, vector spaces, systems of linear equations, matrices, determinants, eigenvalues and eigenvectors, and linear transformations. The prerequisite is MAT1339 or Ontario 4U Calculus and Vectors (MCV4U) or equivalent. The French version is MAT1741."
+    },
+    "sources": [
+      {
+        "label": "MAT1341 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/mat/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-mat1741",
+    "category": "cours",
+    "keywords": [
+      "mat1741",
+      "mat 1741",
+      "mat1341",
+      "mat 1341",
+      "introduction a l algebre lineaire",
+      "introduction to linear algebra",
+      "algebre lineaire",
+      "linear algebra",
+      "matrices",
+      "vecteurs propres",
+      "c est quoi mat1741",
+      "what is mat1741",
+      "prealables mat1741",
+      "prerequisites mat1741"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours MAT1741 ?",
+      "en": "What is MAT1741?"
+    },
+    "answer": {
+      "fr": "MAT1741, Introduction à l'algèbre linéaire, est un cours de 3 crédits en français : nombres complexes, espaces vectoriels, systèmes d'équations linéaires, algèbre des matrices, déterminants, valeurs et vecteurs propres, et transformations linéaires. Le préalable est MAT1739 ou le cours 4U MCV4U ou l'équivalent. La version anglaise est MAT1341.",
+      "en": "MAT1741 is the French-language Introduction to Linear Algebra course, worth 3 units: complex numbers, vector spaces, systems of linear equations, matrix algebra, determinants, eigenvalues and eigenvectors, and linear transformations. The prerequisite is MAT1739 or Ontario 4U MCV4U or equivalent. The English version is MAT1341."
+    },
+    "sources": [
+      {
+        "label": "MAT1741 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/mat/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-mat1348",
+    "category": "cours",
+    "keywords": [
+      "mat1348",
+      "mat 1348",
+      "mat1748",
+      "mat 1748",
+      "mathematiques discretes pour l informatique",
+      "discrete mathematics for computing",
+      "maths discretes",
+      "discrete math",
+      "logique",
+      "theorie des graphes",
+      "c est quoi mat1348",
+      "what is mat1348",
+      "prealables mat1348",
+      "prerequisites mat1348"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours MAT1348 ?",
+      "en": "What is MAT1348?"
+    },
+    "answer": {
+      "fr": "MAT1348, Discrete Mathematics for Computing, est un cours de 3 crédits en anglais : logique propositionnelle, ensembles, fonctions et relations, dénombrement, techniques de preuve dont la récurrence, et théorie des graphes. Le préalable est MAT1318 ou le cours 4U Fonctions avancées (MHF4U) ou l'équivalent. La version en français est MAT1748.",
+      "en": "MAT1348, Discrete Mathematics for Computing, is a 3-unit course: propositional logic, sets, functions and relations, counting, proof techniques including induction, and graph theory. The prerequisite is MAT1318 or Ontario 4U Advanced Functions (MHF4U) or equivalent. The French version is MAT1748."
+    },
+    "sources": [
+      {
+        "label": "MAT1348 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/mat/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-mat1748",
+    "category": "cours",
+    "keywords": [
+      "mat1748",
+      "mat 1748",
+      "mat1348",
+      "mat 1348",
+      "mathematiques discretes pour l informatique",
+      "discrete mathematics for computing",
+      "maths discretes",
+      "discrete math",
+      "logique",
+      "theorie des graphes",
+      "c est quoi mat1748",
+      "what is mat1748",
+      "prealables mat1748",
+      "prerequisites mat1748"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours MAT1748 ?",
+      "en": "What is MAT1748?"
+    },
+    "answer": {
+      "fr": "MAT1748, Mathématiques discrètes pour l'informatique, est un cours de 3 crédits en français : logique des propositions, ensembles, fonctions et relations, dénombrement, structures de démonstration comme la récurrence, et théorie des graphes. Le préalable est MAT1718 ou le cours 4U Fonctions avancées (MHF4U) ou l'équivalent. La version anglaise est MAT1348.",
+      "en": "MAT1748 is the French-language Discrete Mathematics for Computing course, worth 3 units: propositional logic, sets, functions and relations, counting, proof structures such as induction, and graph theory. The prerequisite is MAT1718 or Ontario 4U Advanced Functions (MHF4U) or equivalent. The English version is MAT1348."
+    },
+    "sources": [
+      {
+        "label": "MAT1748 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/mat/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-mat1330",
+    "category": "cours",
+    "keywords": [
+      "mat1330",
+      "mat 1330",
+      "mat1730",
+      "mat 1730",
+      "calcul differentiel et integral pour les sciences de la vie i",
+      "calculus for the life sciences i",
+      "calcul sciences de la vie",
+      "life sciences calculus",
+      "calcul bio",
+      "c est quoi mat1330",
+      "what is mat1330",
+      "prealables mat1330",
+      "prerequisites mat1330"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours MAT1330 ?",
+      "en": "What is MAT1330?"
+    },
+    "answer": {
+      "fr": "MAT1330, Calculus for the Life Sciences I, est un cours de 3 crédits en anglais sur les dérivées, les systèmes dynamiques discrets et les intégrales, avec des applications aux sciences de la vie. Le préalable est MAT1339 ou le cours 4U Calcul et vecteurs (MCV4U) ou l'équivalent. La version en français est MAT1730.",
+      "en": "MAT1330, Calculus for the Life Sciences I, is a 3-unit course on derivatives, discrete dynamical systems and integrals, with applications to the life sciences. The prerequisite is MAT1339 or Ontario 4U Calculus and Vectors (MCV4U) or equivalent. The French version is MAT1730."
+    },
+    "sources": [
+      {
+        "label": "MAT1330 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/mat/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-mat1332",
+    "category": "cours",
+    "keywords": [
+      "mat1332",
+      "mat 1332",
+      "mat1732",
+      "mat 1732",
+      "calcul differentiel et integral pour les sciences de la vie ii",
+      "calculus for the life sciences ii",
+      "calcul sciences de la vie 2",
+      "life sciences calculus 2",
+      "equations differentielles",
+      "c est quoi mat1332",
+      "what is mat1332",
+      "prealables mat1332",
+      "prerequisites mat1332"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours MAT1332 ?",
+      "en": "What is MAT1332?"
+    },
+    "answer": {
+      "fr": "MAT1332, Calculus for the Life Sciences II, est un cours de 3 crédits en anglais : intégration numérique, équations différentielles et modèles en sciences de la vie, introduction à l'algèbre linéaire et fonctions de plusieurs variables. Le préalable est MAT1320, MAT1321, MAT1327 ou MAT1330. La version en français est MAT1732.",
+      "en": "MAT1332, Calculus for the Life Sciences II, is a 3-unit course: numerical integration, differential equations and life-science models, an introduction to linear algebra and functions of several variables. The prerequisite is MAT1320, MAT1321, MAT1327 or MAT1330. The French version is MAT1732."
+    },
+    "sources": [
+      {
+        "label": "MAT1332 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/mat/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-mat2371",
+    "category": "cours",
+    "keywords": [
+      "mat2371",
+      "mat 2371",
+      "mat2771",
+      "mat 2771",
+      "introduction aux probabilites",
+      "introduction to probability",
+      "probabilites",
+      "probability",
+      "loi des grands nombres",
+      "theoreme central limite",
+      "c est quoi mat2371",
+      "what is mat2371",
+      "prealables mat2371",
+      "prerequisites mat2371"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours MAT2371 ?",
+      "en": "What is MAT2371?"
+    },
+    "answer": {
+      "fr": "MAT2371, Introduction to Probability, est un cours de 3 crédits en anglais : axiomes des probabilités, probabilité conditionnelle, variables aléatoires et distributions, loi des grands nombres et théorème central limite. Le préalable est MAT1322, MAT1325 ou MAT1332. La version en français est MAT2771.",
+      "en": "MAT2371, Introduction to Probability, is a 3-unit course: probability axioms, conditional probability, random variables and distributions, the law of large numbers and the central limit theorem. The prerequisite is MAT1322, MAT1325 or MAT1332. The French version is MAT2771."
+    },
+    "sources": [
+      {
+        "label": "MAT2371 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/mat/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-sta2100",
+    "category": "cours",
+    "keywords": [
+      "sta2100",
+      "sta 2100",
+      "sta2500",
+      "sta 2500",
+      "introduction a la statistique",
+      "introduction to statistics",
+      "statistiques",
+      "statistics",
+      "tests d hypotheses",
+      "hypothesis testing",
+      "c est quoi sta2100",
+      "what is sta2100",
+      "prealables sta2100",
+      "prerequisites sta2100"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours STA2100 ?",
+      "en": "What is STA2100?"
+    },
+    "answer": {
+      "fr": "STA2100, Introduction to Statistics, est un cours de 3 crédits en anglais sur l'inférence statistique : estimation, maximum de vraisemblance, tests d'hypothèses, intervalles de confiance et introduction aux modèles linéaires, avec un logiciel statistique. Le préalable est MAT2371. La version en français est STA2500.",
+      "en": "STA2100, Introduction to Statistics, is a 3-unit course on statistical inference: estimation, maximum likelihood, hypothesis testing, confidence intervals and an introduction to linear models, using statistical software. The prerequisite is MAT2371. The French version is STA2500."
+    },
+    "sources": [
+      {
+        "label": "STA2100 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/sta/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-phy1121",
+    "category": "cours",
+    "keywords": [
+      "phy1121",
+      "phy 1121",
+      "phy1521",
+      "phy 1521",
+      "principes fondamentaux de physique i",
+      "fundamentals of physics i",
+      "physique 1",
+      "physics 1",
+      "mecanique",
+      "lois de newton",
+      "c est quoi phy1121",
+      "what is phy1121",
+      "prealables phy1121",
+      "prerequisites phy1121"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours PHY1121 ?",
+      "en": "What is PHY1121?"
+    },
+    "answer": {
+      "fr": "PHY1121, Fundamentals of Physics I, est un cours de 3 crédits en anglais destiné surtout aux sciences physiques et au génie : cinématique, lois de Newton, travail et énergie, quantité de mouvement, rotation et oscillations, avec un laboratoire de 3 heures aux deux semaines. Le préalable est la physique 4U, et MAT1320 ou un cours équivalent doit être suivi en même temps. La version en français est PHY1521.",
+      "en": "PHY1121, Fundamentals of Physics I, is a 3-unit course mainly for physical sciences and engineering: kinematics, Newton's laws, work and energy, momentum, rotation and oscillations, with a 3-hour lab every other week. The prerequisite is 4U Physics, and MAT1320 or an equivalent must be taken at the same time. The French version is PHY1521."
+    },
+    "sources": [
+      {
+        "label": "PHY1121 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/phy/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-phy1521",
+    "category": "cours",
+    "keywords": [
+      "phy1521",
+      "phy 1521",
+      "phy1121",
+      "phy 1121",
+      "principes fondamentaux de physique i",
+      "fundamentals of physics i",
+      "physique 1",
+      "physics 1",
+      "mecanique",
+      "lois de newton",
+      "c est quoi phy1521",
+      "what is phy1521",
+      "prealables phy1521",
+      "prerequisites phy1521"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours PHY1521 ?",
+      "en": "What is PHY1521?"
+    },
+    "answer": {
+      "fr": "PHY1521, Principes fondamentaux de physique I, est un cours de 3 crédits en français destiné aux sciences physiques et au génie : cinématique, lois de Newton, travail et énergie, quantité de mouvement, dynamique de rotation et oscillateur mécanique, avec un laboratoire aux deux semaines. Le préalable est la physique 4U, et MAT1720 ou un cours équivalent est concomitant. La version anglaise est PHY1121.",
+      "en": "PHY1521 is the French-language Fundamentals of Physics I course, worth 3 units, for physical sciences and engineering: kinematics, Newton's laws, work and energy, momentum, rotational dynamics and the mechanical oscillator, with a lab every other week. The prerequisite is 4U Physics, and MAT1720 or an equivalent is a corequisite. The English version is PHY1121."
+    },
+    "sources": [
+      {
+        "label": "PHY1521 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/phy/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-phy1122",
+    "category": "cours",
+    "keywords": [
+      "phy1122",
+      "phy 1122",
+      "phy1522",
+      "phy 1522",
+      "principes fondamentaux de physique ii",
+      "fundamentals of physics ii",
+      "physique 2",
+      "physics 2",
+      "thermodynamique",
+      "optique",
+      "electrostatique",
+      "c est quoi phy1122",
+      "what is phy1122",
+      "prealables phy1122",
+      "prerequisites phy1122"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours PHY1122 ?",
+      "en": "What is PHY1122?"
+    },
+    "answer": {
+      "fr": "PHY1122, Fundamentals of Physics II, est un cours de 3 crédits en anglais qui fait normalement suite à PHY1121 : chaleur et thermodynamique, fluides, optique, ondes, électrostatique et circuits à courant continu, avec un laboratoire aux deux semaines. Le préalable est la physique 4U, et MAT1320 ou un cours équivalent est concomitant. La version en français est PHY1522.",
+      "en": "PHY1122, Fundamentals of Physics II, is a 3-unit course that normally follows PHY1121: heat and thermodynamics, fluids, optics, waves, electrostatics and DC circuits, with a lab every other week. The prerequisite is 4U Physics, and MAT1320 or an equivalent is a corequisite. The French version is PHY1522."
+    },
+    "sources": [
+      {
+        "label": "PHY1122 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/phy/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-phy1321",
+    "category": "cours",
+    "keywords": [
+      "phy1321",
+      "phy 1321",
+      "phy1721",
+      "phy 1721",
+      "principes de physique i",
+      "principles of physics i",
+      "physique sciences de la vie",
+      "physics for life sciences",
+      "physique 1 bio",
+      "c est quoi phy1321",
+      "what is phy1321",
+      "prealables phy1321",
+      "prerequisites phy1321"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours PHY1321 ?",
+      "en": "What is PHY1321?"
+    },
+    "answer": {
+      "fr": "PHY1321, Principles of Physics I, est un cours de 3 crédits en anglais destiné surtout aux sciences de la vie : cinématique, énergie, quantité de mouvement, rotation, thermodynamique et mécanique des fluides, avec un laboratoire aux deux semaines. Le préalable est la physique 4U, et MAT1320, MAT1330 ou un cours équivalent est concomitant. Sans physique 4U, il faut s'inscrire à PHY1331. La version en français est PHY1721.",
+      "en": "PHY1321, Principles of Physics I, is a 3-unit course mainly for life sciences students: kinematics, energy, momentum, rotation, thermodynamics and fluid mechanics, with a lab every other week. The prerequisite is 4U Physics, and MAT1320, MAT1330 or an equivalent is a corequisite. Without 4U Physics, you must register in PHY1331. The French version is PHY1721."
+    },
+    "sources": [
+      {
+        "label": "PHY1321 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/phy/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-phy1322",
+    "category": "cours",
+    "keywords": [
+      "phy1322",
+      "phy 1322",
+      "phy1722",
+      "phy 1722",
+      "principes de physique ii",
+      "principles of physics ii",
+      "physique 2 sciences de la vie",
+      "physics 2 life sciences",
+      "electricite",
+      "optique",
+      "c est quoi phy1322",
+      "what is phy1322",
+      "prealables phy1322",
+      "prerequisites phy1322"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours PHY1322 ?",
+      "en": "What is PHY1322?"
+    },
+    "answer": {
+      "fr": "PHY1322, Principles of Physics II, est un cours de 3 crédits en anglais pour les sciences de la vie : champ électrique, circuits, ondes, optique et introduction à la physique moderne. Il fait normalement suite à PHY1321 ou PHY1331 ; l'un de ces cours ou la physique 4U sert de préalable, avec MAT1320, MAT1330 ou un équivalent en concomitant. La version en français est PHY1722.",
+      "en": "PHY1322, Principles of Physics II, is a 3-unit course for life sciences: electric fields, circuits, waves, optics and an introduction to modern physics. It normally follows PHY1321 or PHY1331; one of those courses or 4U Physics is the prerequisite, with MAT1320, MAT1330 or an equivalent as a corequisite. The French version is PHY1722."
+    },
+    "sources": [
+      {
+        "label": "PHY1322 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/phy/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-chm1311",
+    "category": "cours",
+    "keywords": [
+      "chm1311",
+      "chm 1311",
+      "chm1711",
+      "chm 1711",
+      "principes de chimie",
+      "principles of chemistry",
+      "chimie 1",
+      "chemistry 1",
+      "chimie generale",
+      "general chemistry",
+      "c est quoi chm1311",
+      "what is chm1311",
+      "prealables chm1311",
+      "prerequisites chm1311"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours CHM1311 ?",
+      "en": "What is CHM1311?"
+    },
+    "answer": {
+      "fr": "CHM1311, Principles of Chemistry, est un cours de 3 crédits en anglais : atomes et liaisons, stœchiométrie, solutions et oxydoréduction, gaz, thermochimie, cinétique, équilibres, acides et bases, avec un laboratoire aux deux semaines. Le préalable est la chimie 4U (SCH4U) ou l'équivalent ; sinon, il faut prendre CHM1301. La version en français est CHM1711.",
+      "en": "CHM1311, Principles of Chemistry, is a 3-unit course: atoms and bonding, stoichiometry, solutions and redox, gases, thermochemistry, kinetics, equilibrium, acids and bases, with a lab every other week. The prerequisite is 4U Chemistry (SCH4U) or equivalent; otherwise you must take CHM1301. The French version is CHM1711."
+    },
+    "sources": [
+      {
+        "label": "CHM1311 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/chm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-chm1711",
+    "category": "cours",
+    "keywords": [
+      "chm1711",
+      "chm 1711",
+      "chm1311",
+      "chm 1311",
+      "principes de chimie",
+      "principles of chemistry",
+      "chimie 1",
+      "chemistry 1",
+      "chimie generale",
+      "general chemistry",
+      "c est quoi chm1711",
+      "what is chm1711",
+      "prealables chm1711",
+      "prerequisites chm1711"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours CHM1711 ?",
+      "en": "What is CHM1711?"
+    },
+    "answer": {
+      "fr": "CHM1711, Principes de chimie, est un cours de 3 crédits en français : atomes et liaisons chimiques, stœchiométrie, oxydoréduction, lois des gaz, thermochimie, cinétique, équilibres, acides et bases, avec un laboratoire aux deux semaines. Le préalable est la chimie 4U (SCH4U) ou l'équivalent ; sinon, il faut s'inscrire à CHM1701. La version anglaise est CHM1311.",
+      "en": "CHM1711 is the French-language Principles of Chemistry course, worth 3 units: atoms and chemical bonding, stoichiometry, redox, gas laws, thermochemistry, kinetics, equilibrium, acids and bases, with a lab every other week. The prerequisite is 4U Chemistry (SCH4U) or equivalent; otherwise you must register in CHM1701. The English version is CHM1311."
+    },
+    "sources": [
+      {
+        "label": "CHM1711 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/chm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-chm1301",
+    "category": "cours",
+    "keywords": [
+      "chm1301",
+      "chm 1301",
+      "chm1701",
+      "chm 1701",
+      "fondements de la chimie",
+      "foundations of chemistry",
+      "chimie sans 4u",
+      "chemistry without 4u",
+      "chimie de base",
+      "c est quoi chm1301",
+      "what is chm1301"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours CHM1301 ?",
+      "en": "What is CHM1301?"
+    },
+    "answer": {
+      "fr": "CHM1301, Foundations of Chemistry, est un cours de 3 crédits en anglais conçu pour les personnes qui n'ont pas fait la chimie 4U (SCH4U). Il couvre la même matière que CHM1311, avec une heure et demie de cours de plus par semaine et un laboratoire aux deux semaines. CHM1301 et CHM1311 ne peuvent pas être combinés pour les crédits. La version en français est CHM1701.",
+      "en": "CHM1301, Foundations of Chemistry, is a 3-unit course designed for students who haven't completed 4U Chemistry (SCH4U). It covers the same material as CHM1311, with an extra 1.5-hour lecture per week and a lab every other week. CHM1301 and CHM1311 cannot be combined for units. The French version is CHM1701."
+    },
+    "sources": [
+      {
+        "label": "CHM1301 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/chm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-chm1321",
+    "category": "cours",
+    "keywords": [
+      "chm1321",
+      "chm 1321",
+      "chm1721",
+      "chm 1721",
+      "chimie organique i",
+      "organic chemistry i",
+      "chimie organique",
+      "organic chemistry",
+      "orgo",
+      "stereochimie",
+      "c est quoi chm1321",
+      "what is chm1321",
+      "prealables chm1321",
+      "prerequisites chm1321"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours CHM1321 ?",
+      "en": "What is CHM1321?"
+    },
+    "answer": {
+      "fr": "CHM1321, Organic Chemistry I, est un cours de 3 crédits en anglais : structure des composés organiques, liaisons, conformations, stéréochimie, mécanismes de réaction, synthèse et aromaticité, avec un laboratoire aux deux semaines. Le préalable est la chimie 4U (SCH4U) ou l'équivalent. La version en français est CHM1721.",
+      "en": "CHM1321, Organic Chemistry I, is a 3-unit course: structure of organic compounds, bonding, conformations, stereochemistry, reaction mechanisms, synthesis and aromaticity, with a lab every other week. The prerequisite is 4U Chemistry (SCH4U) or equivalent. The French version is CHM1721."
+    },
+    "sources": [
+      {
+        "label": "CHM1321 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/chm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-bio1131",
+    "category": "cours",
+    "keywords": [
+      "bio1131",
+      "bio 1131",
+      "bio1531",
+      "bio 1531",
+      "introduction a la biologie des organismes",
+      "introduction to organismal biology",
+      "bio1130",
+      "bio 1130",
+      "biologie des organismes",
+      "organismal biology",
+      "evolution",
+      "ecologie",
+      "c est quoi bio1131",
+      "what is bio1131",
+      "prealables bio1131"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours BIO1131 ?",
+      "en": "What is BIO1131?"
+    },
+    "answer": {
+      "fr": "BIO1131, Introduction to Organismal Biology, est un cours de 3 crédits en anglais sur l'évolution de la biodiversité : sélection naturelle, spéciation, extinctions, et interactions entre organismes, y compris l'effet des humains sur les écosystèmes. Le préalable est BIO1109 ou la biologie 4U. Il s'appelait autrefois BIO1130, et sa version en français est BIO1531.",
+      "en": "BIO1131, Introduction to Organismal Biology, is a 3-unit course on the evolution of biological diversity: natural selection, speciation, extinctions and interactions among organisms, including human impacts on ecosystems. The prerequisite is BIO1109 or 4U Biology. It was previously BIO1130, and the French version is BIO1531."
+    },
+    "sources": [
+      {
+        "label": "BIO1131 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/bio/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-bio1141",
+    "category": "cours",
+    "keywords": [
+      "bio1141",
+      "bio 1141",
+      "bio1541",
+      "bio 1541",
+      "introduction a la biologie cellulaire et moleculaire",
+      "introduction to cell and molecular biology",
+      "bio1140",
+      "bio 1140",
+      "biologie cellulaire",
+      "cell biology",
+      "biologie moleculaire",
+      "c est quoi bio1141",
+      "what is bio1141",
+      "prealables bio1141",
+      "prerequisites bio1141"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours BIO1141 ?",
+      "en": "What is BIO1141?"
+    },
+    "answer": {
+      "fr": "BIO1141, Introduction to Cell and Molecular Biology, est un cours de 3 crédits en anglais : origine de la vie, structure des cellules, cytosquelette, cycle cellulaire, réplication, transcription, traduction et transport membranaire. Le préalable est BIO1109 ou la biologie 4U. Il s'appelait autrefois BIO1140, et sa version en français est BIO1541.",
+      "en": "BIO1141, Introduction to Cell and Molecular Biology, is a 3-unit course: origin of life, cell structure, the cytoskeleton, the cell cycle, replication, transcription, translation and membrane transport. The prerequisite is BIO1109 or 4U Biology. It was previously BIO1140, and the French version is BIO1541."
+    },
+    "sources": [
+      {
+        "label": "BIO1141 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/bio/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-bio1531",
+    "category": "cours",
+    "keywords": [
+      "bio1531",
+      "bio 1531",
+      "bio1131",
+      "bio 1131",
+      "introduction a la biologie des organismes",
+      "introduction to organismal biology",
+      "bio1530",
+      "bio 1530",
+      "biologie des organismes",
+      "evolution",
+      "biodiversite",
+      "c est quoi bio1531",
+      "what is bio1531",
+      "prealables bio1531",
+      "prerequisites bio1531"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours BIO1531 ?",
+      "en": "What is BIO1531?"
+    },
+    "answer": {
+      "fr": "BIO1531, Introduction à la biologie des organismes, est un cours de 3 crédits en français sur l'évolution de la biodiversité : sélection naturelle, spéciation, extinctions, et interactions entre populations et communautés, dont l'effet des humains sur les écosystèmes. Le préalable est BIO1509 ou la biologie 4U. Il s'appelait autrefois BIO1530, et sa version anglaise est BIO1131.",
+      "en": "BIO1531 is the French-language Introduction to Organismal Biology course, worth 3 units, on the evolution of biodiversity: natural selection, speciation, extinctions, and interactions among populations and communities, including human impacts on ecosystems. The prerequisite is BIO1509 or 4U Biology. It was previously BIO1530, and the English version is BIO1131."
+    },
+    "sources": [
+      {
+        "label": "BIO1531 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/bio/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-bio1541",
+    "category": "cours",
+    "keywords": [
+      "bio1541",
+      "bio 1541",
+      "bio1141",
+      "bio 1141",
+      "introduction a la biologie cellulaire et moleculaire",
+      "introduction to cell and molecular biology",
+      "bio1540",
+      "bio 1540",
+      "biologie cellulaire",
+      "biologie moleculaire",
+      "c est quoi bio1541",
+      "what is bio1541",
+      "prealables bio1541",
+      "prerequisites bio1541"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours BIO1541 ?",
+      "en": "What is BIO1541?"
+    },
+    "answer": {
+      "fr": "BIO1541, Introduction à la biologie cellulaire et moléculaire, est un cours de 3 crédits en français : origine et chimie de la vie, structure des cellules et des organites, expression du matériel génétique, cycle cellulaire et communication entre cellules. Le préalable est BIO1509 ou la biologie 4U. Il s'appelait autrefois BIO1540, et sa version anglaise est BIO1141.",
+      "en": "BIO1541 is the French-language Introduction to Cell and Molecular Biology course, worth 3 units: origin and chemistry of life, structure of cells and organelles, expression of genetic material, the cell cycle and cell-to-cell communication. The prerequisite is BIO1509 or 4U Biology. It was previously BIO1540, and the English version is BIO1141."
+    },
+    "sources": [
+      {
+        "label": "BIO1541 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/bio/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-psy1101",
+    "category": "cours",
+    "keywords": [
+      "psy1101",
+      "psy 1101",
+      "psy1501",
+      "psy 1501",
+      "introduction a la psychologie fondements",
+      "introduction to psychology foundations",
+      "intro psycho",
+      "intro psych",
+      "psychologie 1",
+      "psychology 1",
+      "c est quoi psy1101",
+      "what is psy1101"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours PSY1101 ?",
+      "en": "What is PSY1101?"
+    },
+    "answer": {
+      "fr": "PSY1101, Introduction to Psychology: Foundations, est un cours de 3 crédits en anglais : objet et méthodes de la psychologie, histoire, système nerveux, conscience, perception, mémoire, langage, émotions, motivation et apprentissage. Le catalogue n'indique aucun préalable. La version en français est PSY1501.",
+      "en": "PSY1101, Introduction to Psychology: Foundations, is a 3-unit course: the subject and methods of psychology, its history, the nervous system, consciousness, perception, memory, language, emotions, motivation and learning. The catalogue lists no prerequisite. The French version is PSY1501."
+    },
+    "sources": [
+      {
+        "label": "PSY1101 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/psy/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-psy1501",
+    "category": "cours",
+    "keywords": [
+      "psy1501",
+      "psy 1501",
+      "psy1101",
+      "psy 1101",
+      "introduction a la psychologie fondements",
+      "introduction to psychology foundations",
+      "intro psycho",
+      "intro psych",
+      "psychologie 1",
+      "psychology 1",
+      "c est quoi psy1501",
+      "what is psy1501"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours PSY1501 ?",
+      "en": "What is PSY1501?"
+    },
+    "answer": {
+      "fr": "PSY1501, Introduction à la psychologie : fondements, est un cours de 3 crédits en français : objet et méthode de la psychologie, perspective historique, système nerveux, conscience, perception, mémoire, langage, émotions, motivation et apprentissage. Le catalogue n'indique aucun préalable. La version anglaise est PSY1101.",
+      "en": "PSY1501 is the French-language Introduction to Psychology: Foundations course, worth 3 units: the subject and method of psychology, historical perspective, the nervous system, consciousness, perception, memory, language, emotions, motivation and learning. The catalogue lists no prerequisite. The English version is PSY1101."
+    },
+    "sources": [
+      {
+        "label": "PSY1501 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/psy/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-psy1102",
+    "category": "cours",
+    "keywords": [
+      "psy1102",
+      "psy 1102",
+      "psy1502",
+      "psy 1502",
+      "introduction a la psychologie applications",
+      "introduction to psychology applications",
+      "intro psycho 2",
+      "intro psych 2",
+      "psychologie 2",
+      "psychology 2",
+      "c est quoi psy1102",
+      "what is psy1102"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours PSY1102 ?",
+      "en": "What is PSY1102?"
+    },
+    "answer": {
+      "fr": "PSY1102, Introduction to Psychology: Applications, est un cours de 3 crédits en anglais : hérédité, environnement et développement humain, intelligence, personnalité, santé mentale et approches thérapeutiques, et psychologie sociale. Le catalogue n'indique aucun préalable. La version en français est PSY1502.",
+      "en": "PSY1102, Introduction to Psychology: Applications, is a 3-unit course: heredity, environment and human development, intelligence, personality, mental health and therapeutic approaches, and social psychology. The catalogue lists no prerequisite. The French version is PSY1502."
+    },
+    "sources": [
+      {
+        "label": "PSY1102 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/psy/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-psy1502",
+    "category": "cours",
+    "keywords": [
+      "psy1502",
+      "psy 1502",
+      "psy1102",
+      "psy 1102",
+      "introduction a la psychologie applications",
+      "introduction to psychology applications",
+      "intro psycho 2",
+      "intro psych 2",
+      "psychologie 2",
+      "psychology 2",
+      "c est quoi psy1502",
+      "what is psy1502"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours PSY1502 ?",
+      "en": "What is PSY1502?"
+    },
+    "answer": {
+      "fr": "PSY1502, Introduction à la psychologie : applications, est un cours de 3 crédits en français : hérédité, environnement et développement humain, intelligence, personnalité, santé mentale, comportement anormal et approches thérapeutiques, et psychologie sociale. Le catalogue n'indique aucun préalable. La version anglaise est PSY1102.",
+      "en": "PSY1502 is the French-language Introduction to Psychology: Applications course, worth 3 units: heredity, environment and human development, intelligence, personality, mental health, abnormal behaviour and therapeutic approaches, and social psychology. The catalogue lists no prerequisite. The English version is PSY1102."
+    },
+    "sources": [
+      {
+        "label": "PSY1502 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/psy/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-psy2106",
+    "category": "cours",
+    "keywords": [
+      "psy2106",
+      "psy 2106",
+      "psy2506",
+      "psy 2506",
+      "methodes quantitatives en psychologie i",
+      "quantitative methods in psychology i",
+      "stats psycho",
+      "psych stats",
+      "statistiques psychologie",
+      "c est quoi psy2106",
+      "what is psy2106",
+      "prealables psy2106",
+      "prerequisites psy2106"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours PSY2106 ?",
+      "en": "What is PSY2106?"
+    },
+    "answer": {
+      "fr": "PSY2106, Quantitative Methods in Psychology I, est un cours de 3 crédits en anglais : statistiques descriptives, courbe normale, corrélation et régression, puis tests d'hypothèses, test t et khi carré appliqués à la psychologie. Les préalables sont PSY1101 et PSY1102, et le cours est réservé aux programmes de psychologie. La version en français est PSY2506.",
+      "en": "PSY2106, Quantitative Methods in Psychology I, is a 3-unit course: descriptive statistics, the normal curve, correlation and regression, then hypothesis testing, t-tests and chi-square applied to psychology. The prerequisites are PSY1101 and PSY1102, and the course is reserved for psychology programs. The French version is PSY2506."
+    },
+    "sources": [
+      {
+        "label": "PSY2106 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/psy/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-eco1102",
+    "category": "cours",
+    "keywords": [
+      "eco1102",
+      "eco 1102",
+      "eco1502",
+      "eco 1502",
+      "introduction a la macroeconomie",
+      "introduction to macroeconomics",
+      "macro",
+      "macroeconomie",
+      "macroeconomics",
+      "intro macro",
+      "c est quoi eco1102",
+      "what is eco1102"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ECO1102 ?",
+      "en": "What is ECO1102?"
+    },
+    "answer": {
+      "fr": "ECO1102, Introduction to Macroeconomics, est un cours de 3 crédits en anglais : comptabilité nationale, demande globale, revenu national et multiplicateur, cycles économiques, politique budgétaire et monétaire, système bancaire, chômage et inflation. Le catalogue n'indique aucun préalable. La version en français est ECO1502.",
+      "en": "ECO1102, Introduction to Macroeconomics, is a 3-unit course: national accounting, aggregate demand, national income and the multiplier, business cycles, fiscal and monetary policy, the banking system, unemployment and inflation. The catalogue lists no prerequisite. The French version is ECO1502."
+    },
+    "sources": [
+      {
+        "label": "ECO1102 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/eco/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-eco1502",
+    "category": "cours",
+    "keywords": [
+      "eco1502",
+      "eco 1502",
+      "eco1102",
+      "eco 1102",
+      "introduction a la macroeconomie",
+      "introduction to macroeconomics",
+      "macro",
+      "macroeconomie",
+      "macroeconomics",
+      "intro macro",
+      "c est quoi eco1502",
+      "what is eco1502"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ECO1502 ?",
+      "en": "What is ECO1502?"
+    },
+    "answer": {
+      "fr": "ECO1502, Introduction à la macroéconomie, est un cours de 3 crédits en français : comptes nationaux, demande globale, revenu national et multiplicateur, cycles économiques, politique budgétaire et monétaire, système bancaire, chômage et inflation. Le catalogue n'indique aucun préalable. La version anglaise est ECO1102.",
+      "en": "ECO1502 is the French-language Introduction to Macroeconomics course, worth 3 units: national accounts, aggregate demand, national income and the multiplier, business cycles, fiscal and monetary policy, the banking system, unemployment and inflation. The catalogue lists no prerequisite. The English version is ECO1102."
+    },
+    "sources": [
+      {
+        "label": "ECO1502 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/eco/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-eco1104",
+    "category": "cours",
+    "keywords": [
+      "eco1104",
+      "eco 1104",
+      "eco1504",
+      "eco 1504",
+      "introduction a la microeconomie",
+      "introduction to microeconomics",
+      "micro",
+      "microeconomie",
+      "microeconomics",
+      "intro micro",
+      "offre et demande",
+      "c est quoi eco1104",
+      "what is eco1104"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ECO1104 ?",
+      "en": "What is ECO1104?"
+    },
+    "answer": {
+      "fr": "ECO1104, Introduction to Microeconomics, est un cours de 3 crédits en anglais : rareté et choix, offre et demande, élasticité, comportement du consommateur, coûts de production, concurrence parfaite, monopole et réglementation. Le catalogue n'indique aucun préalable. La version en français est ECO1504.",
+      "en": "ECO1104, Introduction to Microeconomics, is a 3-unit course: scarcity and choice, supply and demand, elasticity, consumer behaviour, production costs, perfect competition, monopoly and regulation. The catalogue lists no prerequisite. The French version is ECO1504."
+    },
+    "sources": [
+      {
+        "label": "ECO1104 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/eco/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-eco1504",
+    "category": "cours",
+    "keywords": [
+      "eco1504",
+      "eco 1504",
+      "eco1104",
+      "eco 1104",
+      "introduction a la microeconomie",
+      "introduction to microeconomics",
+      "micro",
+      "microeconomie",
+      "microeconomics",
+      "intro micro",
+      "offre et demande",
+      "c est quoi eco1504",
+      "what is eco1504"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ECO1504 ?",
+      "en": "What is ECO1504?"
+    },
+    "answer": {
+      "fr": "ECO1504, Introduction à la microéconomie, est un cours de 3 crédits en français : rareté et choix, offre et demande, élasticité, comportement du consommateur, courbes de coûts, concurrence parfaite, monopole et réglementation. Le catalogue n'indique aucun préalable. La version anglaise est ECO1104.",
+      "en": "ECO1504 is the French-language Introduction to Microeconomics course, worth 3 units: scarcity and choice, supply and demand, elasticity, consumer behaviour, cost curves, perfect competition, monopoly and regulation. The catalogue lists no prerequisite. The English version is ECO1104."
+    },
+    "sources": [
+      {
+        "label": "ECO1504 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/eco/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-pol1101",
+    "category": "cours",
+    "keywords": [
+      "pol1101",
+      "pol 1101",
+      "pol1501",
+      "pol 1501",
+      "introduction a la science politique",
+      "introduction to political science",
+      "science po",
+      "poli sci",
+      "science politique",
+      "political science",
+      "c est quoi pol1101",
+      "what is pol1101"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours POL1101 ?",
+      "en": "What is POL1101?"
+    },
+    "answer": {
+      "fr": "POL1101, Introduction to Political Science, est un cours de 3 crédits en anglais. C'est une étude comparative des idées et des enjeux politiques, avec une réflexion sur le pouvoir, la citoyenneté et la participation politique, et une initiation à la recherche. Le catalogue n'indique aucun préalable. La version en français est POL1501.",
+      "en": "POL1101, Introduction to Political Science, is a 3-unit course. It's a comparative study of political ideas and issues, with reflection on power, citizenship and political participation, plus an introduction to research tasks. The catalogue lists no prerequisite. The French version is POL1501."
+    },
+    "sources": [
+      {
+        "label": "POL1101 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/pol/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-pol1501",
+    "category": "cours",
+    "keywords": [
+      "pol1501",
+      "pol 1501",
+      "pol1101",
+      "pol 1101",
+      "introduction a la science politique",
+      "introduction to political science",
+      "science po",
+      "poli sci",
+      "science politique",
+      "political science",
+      "c est quoi pol1501",
+      "what is pol1501"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours POL1501 ?",
+      "en": "What is POL1501?"
+    },
+    "answer": {
+      "fr": "POL1501, Introduction à la science politique, est un cours de 3 crédits en français. C'est une étude comparative des idées et des enjeux politiques, avec un questionnement sur le pouvoir, la citoyenneté et la participation politique, et une introduction au travail de recherche. Le catalogue n'indique aucun préalable. La version anglaise est POL1101.",
+      "en": "POL1501 is the French-language Introduction to Political Science course, worth 3 units. It's a comparative study of political ideas and issues, questioning power, citizenship and political participation, with an introduction to research work. The catalogue lists no prerequisite. The English version is POL1101."
+    },
+    "sources": [
+      {
+        "label": "POL1501 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/pol/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-pol1102",
+    "category": "cours",
+    "keywords": [
+      "pol1102",
+      "pol 1102",
+      "pol1502",
+      "pol 1502",
+      "politique et mondialisation",
+      "politics and globalization",
+      "mondialisation",
+      "globalization",
+      "politique internationale",
+      "c est quoi pol1102",
+      "what is pol1102"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours POL1102 ?",
+      "en": "What is POL1102?"
+    },
+    "answer": {
+      "fr": "POL1102, Politics and Globalization, est un cours de 3 crédits en anglais sur la mondialisation dans ses dimensions politiques, économiques, sociales et culturelles, et sur les nouveaux rôles de l'État, des organisations internationales et des mouvements sociaux. Le catalogue n'indique aucun préalable. La version en français est POL1502.",
+      "en": "POL1102, Politics and Globalization, is a 3-unit course on globalization in its political, economic, social and cultural dimensions, and on the new roles of the nation-state, international organizations and social movements. The catalogue lists no prerequisite. The French version is POL1502."
+    },
+    "sources": [
+      {
+        "label": "POL1102 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/pol/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-crm1300",
+    "category": "cours",
+    "keywords": [
+      "crm1300",
+      "crm 1300",
+      "crm1700",
+      "crm 1700",
+      "introduction a la criminologie",
+      "introduction to criminology",
+      "criminologie",
+      "criminology",
+      "intro crim",
+      "c est quoi crm1300",
+      "what is crm1300"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours CRM1300 ?",
+      "en": "What is CRM1300?"
+    },
+    "answer": {
+      "fr": "CRM1300, Introduction to Criminology, est un cours de 3 crédits en anglais : différentes conceptions de la criminologie, crime et déviance, problèmes sociaux et contrôle social, système de justice pénale, statistiques criminelles et rôle du criminologue. Le catalogue n'indique aucun préalable. La version en français est CRM1700.",
+      "en": "CRM1300, Introduction to Criminology, is a 3-unit course: different conceptions of criminology, crime and deviance, social problems and social control, the criminal justice system, crime statistics and the criminologist's role. The catalogue lists no prerequisite. The French version is CRM1700."
+    },
+    "sources": [
+      {
+        "label": "CRM1300 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/crm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-crm1700",
+    "category": "cours",
+    "keywords": [
+      "crm1700",
+      "crm 1700",
+      "crm1300",
+      "crm 1300",
+      "introduction a la criminologie",
+      "introduction to criminology",
+      "criminologie",
+      "criminology",
+      "intro crim",
+      "c est quoi crm1700",
+      "what is crm1700"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours CRM1700 ?",
+      "en": "What is CRM1700?"
+    },
+    "answer": {
+      "fr": "CRM1700, Introduction à la criminologie, est un cours de 3 crédits en français : conceptions de la criminologie, crime et déviance, problèmes sociaux et contrôle social, fonctionnement du système pénal, statistiques pénales et opinion publique, et rôle du criminologue. Le catalogue n'indique aucun préalable. La version anglaise est CRM1300.",
+      "en": "CRM1700 is the French-language Introduction to Criminology course, worth 3 units: conceptions of criminology, crime and deviance, social problems and social control, how the penal system works, crime statistics and public opinion, and the criminologist's role. The catalogue lists no prerequisite. The English version is CRM1300."
+    },
+    "sources": [
+      {
+        "label": "CRM1700 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/crm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-crm1301",
+    "category": "cours",
+    "keywords": [
+      "crm1301",
+      "crm 1301",
+      "crm1701",
+      "crm 1701",
+      "histoire du savoir criminologique",
+      "history of criminological thought",
+      "histoire criminologie",
+      "history of criminology",
+      "c est quoi crm1301",
+      "what is crm1301"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours CRM1301 ?",
+      "en": "What is CRM1301?"
+    },
+    "answer": {
+      "fr": "CRM1301, History of Criminological Thought, est un cours de 3 crédits en anglais sur les conceptions du crime et de la peine aux 18e, 19e et début du 20e siècles : période classique, réforme pénitentiaire, premières études scientifiques et école positiviste italienne. Le catalogue n'indique aucun préalable. La version en français est CRM1701.",
+      "en": "CRM1301, History of Criminological Thought, is a 3-unit course on conceptions of crime and punishment in the 18th, 19th and early 20th centuries: the classical period, penitentiary reform, the first scientific studies and the Italian positivist school. The catalogue lists no prerequisite. The French version is CRM1701."
+    },
+    "sources": [
+      {
+        "label": "CRM1301 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/crm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-soc1101",
+    "category": "cours",
+    "keywords": [
+      "soc1101",
+      "soc 1101",
+      "soc1501",
+      "soc 1501",
+      "elements de sociologie",
+      "principles of sociology",
+      "sociologie",
+      "sociology",
+      "intro socio",
+      "c est quoi soc1101",
+      "what is soc1101"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours SOC1101 ?",
+      "en": "What is SOC1101?"
+    },
+    "answer": {
+      "fr": "SOC1101, Principles of Sociology, est un cours de 3 crédits en anglais qui présente les principaux champs, concepts et méthodes de l'analyse sociologique, ainsi que la pensée critique. Il s'adresse surtout aux personnes qui ne sont pas inscrites en sociologie, et il ne peut pas être combiné avec SOC1104 pour les crédits. La version en français est SOC1501.",
+      "en": "SOC1101, Principles of Sociology, is a 3-unit course introducing the main fields, concepts and methods of sociological analysis, along with critical thinking. It's intended mainly for students not enrolled in sociology, and it cannot be combined with SOC1104 for units. The French version is SOC1501."
+    },
+    "sources": [
+      {
+        "label": "SOC1101 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/soc/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-ant1101",
+    "category": "cours",
+    "keywords": [
+      "ant1101",
+      "ant 1101",
+      "ant1501",
+      "ant 1501",
+      "anthropologie sociale et culturelle",
+      "social and cultural anthropology",
+      "anthropologie",
+      "anthropology",
+      "intro anthro",
+      "c est quoi ant1101",
+      "what is ant1101"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ANT1101 ?",
+      "en": "What is ANT1101?"
+    },
+    "answer": {
+      "fr": "ANT1101, Social and Cultural Anthropology, est un cours de 3 crédits en anglais sur l'étude des modes de vie humains : systèmes culturels et sociaux, parenté, politique, économie, religion et environnement, et histoire de la discipline. Le catalogue n'indique aucun préalable. La version en français est ANT1501.",
+      "en": "ANT1101, Social and Cultural Anthropology, is a 3-unit course on the study of human ways of life: cultural and social systems, kinship, politics, economics, religion and environment, and the history of the discipline. The catalogue lists no prerequisite. The French version is ANT1501."
+    },
+    "sources": [
+      {
+        "label": "ANT1101 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/ant/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-his2129",
+    "category": "cours",
+    "keywords": [
+      "his2129",
+      "his 2129",
+      "his2529",
+      "his 2529",
+      "technologies societe et environnement depuis 1850",
+      "technology society and environment since 1850",
+      "histoire technologie",
+      "history of technology",
+      "cours d histoire genie",
+      "c est quoi his2129",
+      "what is his2129"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours HIS2129 ?",
+      "en": "What is HIS2129?"
+    },
+    "answer": {
+      "fr": "HIS2129, Technology, Society and Environment Since 1850, est un cours de 3 crédits en anglais qui examine le rôle de la technologie dans les changements sociaux, économiques et environnementaux des sociétés industrielles et postindustrielles. Le catalogue n'indique aucun préalable. La version en français est HIS2529.",
+      "en": "HIS2129, Technology, Society and Environment Since 1850, is a 3-unit course examining the role of technology in social, economic and environmental change in industrial and post-industrial society. The catalogue lists no prerequisite. The French version is HIS2529."
+    },
+    "sources": [
+      {
+        "label": "HIS2129 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/his/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-phi1101",
+    "category": "cours",
+    "keywords": [
+      "phi1101",
+      "phi 1101",
+      "phi1501",
+      "phi 1501",
+      "raisonnement et pensee critique",
+      "reasoning and critical thinking",
+      "pensee critique",
+      "critical thinking",
+      "logique",
+      "sophismes",
+      "c est quoi phi1101",
+      "what is phi1101"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours PHI1101 ?",
+      "en": "What is PHI1101?"
+    },
+    "answer": {
+      "fr": "PHI1101, Reasoning and Critical Thinking, est un cours de 3 crédits en anglais pour développer tes compétences en raisonnement : types d'arguments, structures logiques, critères d'évaluation des arguments et sophismes. Il ne peut pas être combiné avec PHI1301 pour les crédits. La version en français est PHI1501.",
+      "en": "PHI1101, Reasoning and Critical Thinking, is a 3-unit course that builds your reasoning skills: argument types, logical structures, criteria for evaluating arguments and fallacies. It cannot be combined with PHI1301 for units. The French version is PHI1501."
+    },
+    "sources": [
+      {
+        "label": "PHI1101 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/phi/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-phi1501",
+    "category": "cours",
+    "keywords": [
+      "phi1501",
+      "phi 1501",
+      "phi1101",
+      "phi 1101",
+      "raisonnement et pensee critique",
+      "reasoning and critical thinking",
+      "pensee critique",
+      "critical thinking",
+      "logique",
+      "sophismes",
+      "c est quoi phi1501",
+      "what is phi1501"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours PHI1501 ?",
+      "en": "What is PHI1501?"
+    },
+    "answer": {
+      "fr": "PHI1501, Raisonnement et pensée critique, est un cours de 3 crédits en français pour acquérir des compétences en raisonnement et en analyse critique : types d'argumentation, structures logiques, critères d'évaluation des arguments et sophismes. Il ne peut pas être combiné avec PHI1701 pour les crédits. La version anglaise est PHI1101.",
+      "en": "PHI1501 is the French-language Reasoning and Critical Thinking course, worth 3 units, building skills in reasoning and critical analysis: argument types, logical structures, criteria for evaluating arguments and fallacies. It cannot be combined with PHI1701 for units. The English version is PHI1101."
+    },
+    "sources": [
+      {
+        "label": "PHI1501 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/phi/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-eng1100",
+    "category": "cours",
+    "keywords": [
+      "eng1100",
+      "eng 1100",
+      "atelier de redaction de dissertations",
+      "workshop in essay writing",
+      "essay writing",
+      "redaction anglais",
+      "cours d ecriture anglais",
+      "writing course",
+      "c est quoi eng1100",
+      "what is eng1100"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ENG1100 ?",
+      "en": "What is ENG1100?"
+    },
+    "answer": {
+      "fr": "ENG1100, Workshop in Essay Writing, est un cours de 3 crédits en anglais de pratique intensive de la dissertation universitaire : grammaire, argumentation, organisation du texte, travaux de recherche et citation des sources. Tu dois aussi utiliser les ressources du Centre d'aide à la rédaction en dehors des heures de cours. Le catalogue n'indique aucun préalable.",
+      "en": "ENG1100, Workshop in Essay Writing, is a 3-unit course of intensive practice in academic essay writing: grammar, reasoning, essay organization, research papers and proper acknowledgment of sources. You're also required to use Writing Centre resources outside class hours. The catalogue lists no prerequisite."
+    },
+    "sources": [
+      {
+        "label": "ENG1100 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/eng/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-eng1112",
+    "category": "cours",
+    "keywords": [
+      "eng1112",
+      "eng 1112",
+      "redaction de rapports techniques",
+      "technical report writing",
+      "technical writing",
+      "rapport technique",
+      "redaction technique anglais",
+      "ecriture genie anglais",
+      "c est quoi eng1112",
+      "what is eng1112"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ENG1112 ?",
+      "en": "What is ENG1112?"
+    },
+    "answer": {
+      "fr": "ENG1112, Technical Report Writing, est un cours de 3 crédits en anglais sur la rédaction de rapports techniques : exposition, argumentation, présentation de données techniques et communication efficace, avec de nombreux exercices écrits. Tu dois aussi utiliser les ressources du Centre d'aide à la rédaction en dehors des heures de cours. Le catalogue n'indique aucun préalable.",
+      "en": "ENG1112, Technical Report Writing, is a 3-unit course on writing technical reports: exposition, argumentation, presentation of technical data and effective communication, with frequent written exercises. You're also required to use Writing Centre resources outside class hours. The catalogue lists no prerequisite."
+    },
+    "sources": [
+      {
+        "label": "ENG1112 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/eng/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-eng1120",
+    "category": "cours",
+    "keywords": [
+      "eng1120",
+      "eng 1120",
+      "themes choisis en litterature et redaction",
+      "selected topics in literature and composition",
+      "literature and composition",
+      "litterature anglaise",
+      "cours anglais premiere annee",
+      "c est quoi eng1120",
+      "what is eng1120"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ENG1120 ?",
+      "en": "What is ENG1120?"
+    },
+    "answer": {
+      "fr": "ENG1120, Selected Topics in Literature and Composition, est un cours de 3 crédits en anglais pour développer la lecture critique et l'écriture cohérente, à partir de lectures thématiques de plusieurs genres. Il ne peut pas être repris pour des crédits et ne s'adresse pas aux personnes en majeure ou en spécialisation en anglais.",
+      "en": "ENG1120, Selected Topics in Literature and Composition, is a 3-unit course that develops critical reading and coherent writing through topic-based readings in multiple genres. It isn't repeatable for credit and isn't intended for English Majors or Honours students."
+    },
+    "sources": [
+      {
+        "label": "ENG1120 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/eng/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-fra1710",
+    "category": "cours",
+    "keywords": [
+      "fra1710",
+      "fra 1710",
+      "analyse ecriture et argumentation i",
+      "analysis writing and argumentation i",
+      "redaction francais",
+      "cours de francais ecrit",
+      "french writing course",
+      "ecriture universitaire",
+      "c est quoi fra1710",
+      "what is fra1710"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours FRA1710 ?",
+      "en": "What is FRA1710?"
+    },
+    "answer": {
+      "fr": "FRA1710, Analyse, écriture et argumentation I, est un cours de 3 crédits en français qui te prépare à rédiger des travaux universitaires : prise de notes, intégration des citations, références bibliographiques, compréhension de textes et correction des erreurs grammaticales courantes. Le catalogue n'indique aucun préalable, et il mène à FRA1720.",
+      "en": "FRA1710, Analyse, écriture et argumentation I, is a 3-unit course taught in French that prepares you to write university papers: note-taking, integrating quotations, bibliographic references, reading comprehension and fixing common grammar errors. The catalogue lists no prerequisite, and it leads to FRA1720."
+    },
+    "sources": [
+      {
+        "label": "FRA1710 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/fra/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-fra1720",
+    "category": "cours",
+    "keywords": [
+      "fra1720",
+      "fra 1720",
+      "analyse ecriture et argumentation ii",
+      "analysis writing and argumentation ii",
+      "redaction francais 2",
+      "french writing course 2",
+      "argumentation",
+      "c est quoi fra1720",
+      "what is fra1720",
+      "prealables fra1720",
+      "prerequisites fra1720"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours FRA1720 ?",
+      "en": "What is FRA1720?"
+    },
+    "answer": {
+      "fr": "FRA1720, Analyse, écriture et argumentation II, est un cours de 3 crédits en français qui approfondit la rédaction de textes universitaires, de la recherche des idées à la correction du style, avec de nombreux exercices d'analyse et d'argumentation. Le préalable est FRA1710.",
+      "en": "FRA1720, Analyse, écriture et argumentation II, is a 3-unit course taught in French that deepens university-level writing skills, from generating ideas to correcting style, with many analysis and argumentation exercises. The prerequisite is FRA1710."
+    },
+    "sources": [
+      {
+        "label": "FRA1720 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/fra/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-fra1528",
+    "category": "cours",
+    "keywords": [
+      "fra1528",
+      "fra 1528",
+      "la redaction technique et scientifique",
+      "technical and scientific writing",
+      "redaction technique",
+      "redaction scientifique",
+      "technical writing french",
+      "francais genie",
+      "c est quoi fra1528",
+      "what is fra1528"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours FRA1528 ?",
+      "en": "What is FRA1528?"
+    },
+    "answer": {
+      "fr": "FRA1528, La rédaction technique et scientifique, est un cours de 3 crédits en français qui t'initie à la rédaction propre aux domaines scientifiques et techniques, au vocabulaire spécialisé et à diverses stratégies de communication. Il est réservé aux étudiantes et étudiants des facultés de génie et de sciences.",
+      "en": "FRA1528, La rédaction technique et scientifique, is a 3-unit course taught in French that introduces writing practices specific to scientific and technical fields, specialized vocabulary and various communication strategies. It's reserved for students in the Faculties of Engineering and Science."
+    },
+    "sources": [
+      {
+        "label": "FRA1528 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/fra/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-cmn1160",
+    "category": "cours",
+    "keywords": [
+      "cmn1160",
+      "cmn 1160",
+      "cmn1560",
+      "cmn 1560",
+      "introduction a l etude des medias",
+      "introduction to media studies",
+      "etude des medias",
+      "media studies",
+      "communication medias",
+      "c est quoi cmn1160",
+      "what is cmn1160"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours CMN1160 ?",
+      "en": "What is CMN1160?"
+    },
+    "answer": {
+      "fr": "CMN1160, Introduction to Media Studies, est un cours de 3 crédits en anglais sur les concepts de base des études médiatiques et l'histoire sociale des grands médias et des nouvelles technologies de communication, ainsi que leurs effets sur les individus et la société. Le catalogue n'indique aucun préalable. La version en français est CMN1560.",
+      "en": "CMN1160, Introduction to Media Studies, is a 3-unit course on the basic concepts of media studies and the socio-historical study of major media and new communication technologies, and their effects on individuals and society. The catalogue lists no prerequisite. The French version is CMN1560."
+    },
+    "sources": [
+      {
+        "label": "CMN1160 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/cmn/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-cmn1148",
+    "category": "cours",
+    "keywords": [
+      "cmn1148",
+      "cmn 1148",
+      "cmn1548",
+      "cmn 1548",
+      "introduction a la communication organisationnelle",
+      "introduction to organizational communication",
+      "communication organisationnelle",
+      "organizational communication",
+      "c est quoi cmn1148",
+      "what is cmn1148"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours CMN1148 ?",
+      "en": "What is CMN1148?"
+    },
+    "answer": {
+      "fr": "CMN1148, Introduction to Organizational Communication, est un cours de 3 crédits en anglais sur les concepts de base de la communication interpersonnelle et organisationnelle, dans les dyades, les petits groupes et les organisations. Le catalogue n'indique aucun préalable. La version en français est CMN1548.",
+      "en": "CMN1148, Introduction to Organizational Communication, is a 3-unit course on the basic concepts of interpersonal and organizational communication, in dyads, small groups and organizations. The catalogue lists no prerequisite. The French version is CMN1548."
+    },
+    "sources": [
+      {
+        "label": "CMN1148 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/cmn/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-adm1300",
+    "category": "cours",
+    "keywords": [
+      "adm1300",
+      "adm 1300",
+      "adm1700",
+      "adm 1700",
+      "introduction a la gestion",
+      "introduction to business",
+      "intro business",
+      "intro gestion",
+      "telfer premiere annee",
+      "c est quoi adm1300",
+      "what is adm1300"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ADM1300 ?",
+      "en": "What is ADM1300?"
+    },
+    "answer": {
+      "fr": "ADM1300, Introduction to Business, est un cours de 3 crédits en anglais, très axé sur l'expérience, sur les fonctions de l'entreprise et le rôle du gestionnaire : planifier, organiser, diriger et contrôler, avec du travail d'équipe et de la résolution de problèmes. Il est réservé aux programmes de baccalauréat de l'École de gestion Telfer ; les autres doivent prendre ADM1100. La version en français est ADM1700.",
+      "en": "ADM1300, Introduction to Business, is a highly experiential 3-unit course on business functions and the manager's role: planning, organizing, leading and controlling, with teamwork and problem solving. It's reserved for Telfer School of Management bachelor's students; others should take ADM1100. The French version is ADM1700."
+    },
+    "sources": [
+      {
+        "label": "ADM1300 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/adm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-adm1700",
+    "category": "cours",
+    "keywords": [
+      "adm1700",
+      "adm 1700",
+      "adm1300",
+      "adm 1300",
+      "introduction a la gestion",
+      "introduction to business",
+      "intro gestion",
+      "intro business",
+      "telfer premiere annee",
+      "c est quoi adm1700",
+      "what is adm1700"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ADM1700 ?",
+      "en": "What is ADM1700?"
+    },
+    "answer": {
+      "fr": "ADM1700, Introduction à la gestion, est un cours de 3 crédits en français, hautement expérientiel, sur le rôle du gestionnaire : planification, organisation, direction et contrôle des ressources, avec communication, travail d'équipe et pensée critique. Il est réservé aux programmes de baccalauréat de l'École de gestion Telfer ; les autres doivent prendre ADM1500. La version anglaise est ADM1300.",
+      "en": "ADM1700 is the French-language Introduction to Business course, worth 3 units and highly experiential, on the manager's role: planning, organizing, leading and controlling resources, with communication, teamwork and critical thinking. It's reserved for Telfer School of Management bachelor's students; others must take ADM1500. The English version is ADM1300."
+    },
+    "sources": [
+      {
+        "label": "ADM1700 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/adm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-adm1100",
+    "category": "cours",
+    "keywords": [
+      "adm1100",
+      "adm 1100",
+      "adm1500",
+      "adm 1500",
+      "introduction a la gestion",
+      "introduction to business",
+      "intro business non telfer",
+      "gestion pour non telfer",
+      "mineure gestion",
+      "c est quoi adm1100",
+      "what is adm1100"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ADM1100 ?",
+      "en": "What is ADM1100?"
+    },
+    "answer": {
+      "fr": "ADM1100, Introduction to Business, est un cours de 3 crédits en anglais sur les fonctions de l'entreprise et le rôle du gestionnaire. Il est ouvert aux personnes inscrites dans d'autres facultés ou dans un certificat ou microprogramme de Telfer, mais pas aux étudiants du baccalauréat en commerce. Il ne peut pas être combiné avec ADM1300. La version en français est ADM1500.",
+      "en": "ADM1100, Introduction to Business, is a 3-unit course on business functions and the manager's role. It's open to students in other faculties or in a Telfer certificate or microprogram, but not to Bachelor of Commerce students. It cannot be combined with ADM1300. The French version is ADM1500."
+    },
+    "sources": [
+      {
+        "label": "ADM1100 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/adm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-adm1301",
+    "category": "cours",
+    "keywords": [
+      "adm1301",
+      "adm 1301",
+      "adm1701",
+      "adm 1701",
+      "gestion et societe",
+      "business and society",
+      "responsabilite sociale",
+      "c est quoi adm1301",
+      "what is adm1301"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ADM1301 ?",
+      "en": "What is ADM1301?"
+    },
+    "answer": {
+      "fr": "ADM1301, Business and Society, est un cours de 3 crédits en anglais sur l'entreprise dans son environnement socioéconomique, politique et technologique : éthique, responsabilité sociale, durabilité, diversité et inclusion, et gouvernance. Il est réservé aux programmes de baccalauréat de Telfer ; les autres doivent prendre ADM1101. La version en français est ADM1701.",
+      "en": "ADM1301, Business and Society, is a 3-unit course on business in its socio-economic, political and technological environment: ethics, corporate social responsibility, sustainability, diversity and inclusion, and governance. It's reserved for Telfer bachelor's students; others should take ADM1101. The French version is ADM1701."
+    },
+    "sources": [
+      {
+        "label": "ADM1301 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/adm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-adm1340",
+    "category": "cours",
+    "keywords": [
+      "adm1340",
+      "adm 1340",
+      "adm1740",
+      "adm 1740",
+      "comptabilite financiere",
+      "financial accounting",
+      "comptabilite",
+      "accounting",
+      "etats financiers",
+      "financial statements",
+      "c est quoi adm1340",
+      "what is adm1340",
+      "prealables adm1340",
+      "prerequisites adm1340"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ADM1340 ?",
+      "en": "What is ADM1340?"
+    },
+    "answer": {
+      "fr": "ADM1340, Financial Accounting, est un cours de 3 crédits en anglais qui t'initie aux états financiers d'une organisation et au système comptable qui les produit, ainsi qu'à l'effet des estimations et des choix de conventions comptables. Le préalable est ADM1100 ou ADM1300. La version en français est ADM1740.",
+      "en": "ADM1340, Financial Accounting, is a 3-unit course introducing an organization's financial statements and the accounting system that produces them, and how estimates and accounting policy choices affect the numbers. The prerequisite is ADM1100 or ADM1300. The French version is ADM1740."
+    },
+    "sources": [
+      {
+        "label": "ADM1340 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/adm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-adm2320",
+    "category": "cours",
+    "keywords": [
+      "adm2320",
+      "adm 2320",
+      "adm2720",
+      "adm 2720",
+      "marketing",
+      "gestion du marketing",
+      "intro marketing",
+      "c est quoi adm2320",
+      "what is adm2320",
+      "prealables adm2320",
+      "prerequisites adm2320"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ADM2320 ?",
+      "en": "What is ADM2320?"
+    },
+    "answer": {
+      "fr": "ADM2320, Marketing, est un cours de 3 crédits en anglais d'introduction à la gestion du marketing, du point de vue du gestionnaire qui élabore et met en œuvre les stratégies, avec des simulations et des études de cas. Le préalable est ADM1100 ou ADM1300. La version en français est ADM2720.",
+      "en": "ADM2320, Marketing, is a 3-unit introduction to marketing management, from the perspective of the manager who develops and implements strategies, using simulations and case studies. The prerequisite is ADM1100 or ADM1300. The French version is ADM2720."
+    },
+    "sources": [
+      {
+        "label": "ADM2320 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/adm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-adm2350",
+    "category": "cours",
+    "keywords": [
+      "adm2350",
+      "adm 2350",
+      "adm2750",
+      "adm 2750",
+      "gestion financiere",
+      "financial management",
+      "finance",
+      "cout du capital",
+      "c est quoi adm2350",
+      "what is adm2350",
+      "prealables adm2350",
+      "prerequisites adm2350"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ADM2350 ?",
+      "en": "What is ADM2350?"
+    },
+    "answer": {
+      "fr": "ADM2350, Financial Management, est un cours de 3 crédits en anglais : marchés financiers, évaluation, risque et rendement, coût du capital, choix d'investissements, financement à long et à court terme, et gestion du fonds de roulement. Les préalables sont ECO1102, ECO1104 et ADM1340 ou ADM2340, avec ADM2303 ou MAT2371 en concomitant. La version en français est ADM2750.",
+      "en": "ADM2350, Financial Management, is a 3-unit course: financial markets, valuation, risk and return, cost of capital, capital budgeting, long- and short-term financing, and working capital management. The prerequisites are ECO1102, ECO1104 and ADM1340 or ADM2340, with ADM2303 or MAT2371 as a corequisite. The French version is ADM2750."
+    },
+    "sources": [
+      {
+        "label": "ADM2350 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/adm/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-hss1100",
+    "category": "cours",
+    "keywords": [
+      "hss1100",
+      "hss 1100",
+      "hss1500",
+      "hss 1500",
+      "microbiologie et immunologie",
+      "microbiology and immunology",
+      "microbiologie",
+      "microbiology",
+      "immunologie",
+      "sciences de la sante",
+      "c est quoi hss1100",
+      "what is hss1100"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours HSS1100 ?",
+      "en": "What is HSS1100?"
+    },
+    "answer": {
+      "fr": "HSS1100, Microbiology and Immunology, est un cours de 3 crédits en anglais qui donne une base sur les maladies infectieuses, en présentant la microbiologie, la virologie et l'immunologie dans un contexte de santé interdisciplinaire. Le catalogue n'indique aucun préalable. La version en français est HSS1500.",
+      "en": "HSS1100, Microbiology and Immunology, is a 3-unit course that provides a foundation in infectious diseases, introducing microbiology, virology and immunology in an interdisciplinary health context. The catalogue lists no prerequisite. The French version is HSS1500."
+    },
+    "sources": [
+      {
+        "label": "HSS1100 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/hss/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-hss1101",
+    "category": "cours",
+    "keywords": [
+      "hss1101",
+      "hss 1101",
+      "hss1501",
+      "hss 1501",
+      "determinants de la sante",
+      "determinants of health",
+      "sciences de la sante",
+      "c est quoi hss1101",
+      "what is hss1101"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours HSS1101 ?",
+      "en": "What is HSS1101?"
+    },
+    "answer": {
+      "fr": "HSS1101, Determinants of Health, est un cours de 3 crédits en anglais d'introduction aux sciences de la santé : modèles de santé et de bien-être, maladie, et déterminants biologiques, psychocomportementaux, sociopolitiques et environnementaux de la santé. Le catalogue n'indique aucun préalable. La version en français est HSS1501.",
+      "en": "HSS1101, Determinants of Health, is a 3-unit introduction to health sciences: models of health and wellness, illness and disease, and the biological, psychobehavioural, socio-political and environmental determinants of health. The catalogue lists no prerequisite. The French version is HSS1501."
+    },
+    "sources": [
+      {
+        "label": "HSS1101 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/hss/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-hss1501",
+    "category": "cours",
+    "keywords": [
+      "hss1501",
+      "hss 1501",
+      "hss1101",
+      "hss 1101",
+      "determinants de la sante",
+      "determinants of health",
+      "sciences de la sante",
+      "c est quoi hss1501",
+      "what is hss1501"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours HSS1501 ?",
+      "en": "What is HSS1501?"
+    },
+    "answer": {
+      "fr": "HSS1501, Déterminants de la santé, est un cours de 3 crédits en français d'introduction aux sciences de la santé : modèles et concepts de santé et de bien-être, maladies, et déterminants biologiques, psychocomportementaux, sociopolitiques et environnementaux. Le catalogue n'indique aucun préalable. La version anglaise est HSS1101.",
+      "en": "HSS1501 is the French-language Determinants of Health course, worth 3 units, introducing health sciences: models and concepts of health and wellness, illness, and biological, psychobehavioural, socio-political and environmental determinants. The catalogue lists no prerequisite. The English version is HSS1101."
+    },
+    "sources": [
+      {
+        "label": "HSS1501 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/fr/cours/hss/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-hss2102",
+    "category": "cours",
+    "keywords": [
+      "hss2102",
+      "hss 2102",
+      "hss2502",
+      "hss 2502",
+      "communication et sante",
+      "communication and health",
+      "troubles de la communication",
+      "c est quoi hss2102",
+      "what is hss2102"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours HSS2102 ?",
+      "en": "What is HSS2102?"
+    },
+    "answer": {
+      "fr": "HSS2102, Communication and Health, est un cours de 3 crédits en anglais sur la communication verbale et non verbale en soins de santé et en santé publique, les troubles de la communication et leurs effets, et la communication en contexte interdisciplinaire. Le catalogue n'indique aucun préalable. La version en français est HSS2502.",
+      "en": "HSS2102, Communication and Health, is a 3-unit course on verbal and non-verbal communication in health care and public health, communication disorders and their impact, and communication in interdisciplinary settings. The catalogue lists no prerequisite. The French version is HSS2502."
+    },
+    "sources": [
+      {
+        "label": "HSS2102 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/hss/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-anp1105",
+    "category": "cours",
+    "keywords": [
+      "anp1105",
+      "anp 1105",
+      "anp1505",
+      "anp 1505",
+      "anatomie humaine et physiologie i",
+      "human anatomy and physiology i",
+      "anatomie",
+      "anatomy",
+      "physiologie",
+      "physiology",
+      "anp 1",
+      "c est quoi anp1105",
+      "what is anp1105"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ANP1105 ?",
+      "en": "What is ANP1105?"
+    },
+    "answer": {
+      "fr": "ANP1105, Human Anatomy and Physiology I, est un cours de 3 crédits en anglais : cellules et tissus, transport membranaire, systèmes cardiovasculaire, sanguin, lymphatique et respiratoire, et introduction à l'homéostasie et aux systèmes nerveux et endocrinien. Il ne peut pas être combiné avec ANP1111 ni ANP1115 pour les crédits. La version en français est ANP1505.",
+      "en": "ANP1105, Human Anatomy and Physiology I, is a 3-unit course: cells and tissues, membrane transport, the cardiovascular, blood, lymphatic and respiratory systems, and an introduction to homeostasis and the nervous and endocrine systems. It cannot be combined with ANP1111 or ANP1115 for units. The French version is ANP1505."
+    },
+    "sources": [
+      {
+        "label": "ANP1105 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/anp/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-anp1106",
+    "category": "cours",
+    "keywords": [
+      "anp1106",
+      "anp 1106",
+      "anp1506",
+      "anp 1506",
+      "anatomie humaine et physiologie ii",
+      "human anatomy and physiology ii",
+      "anatomie 2",
+      "anatomy 2",
+      "squelette",
+      "muscles",
+      "systeme nerveux",
+      "c est quoi anp1106",
+      "what is anp1106"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ANP1106 ?",
+      "en": "What is ANP1106?"
+    },
+    "answer": {
+      "fr": "ANP1106, Human Anatomy and Physiology II, est un cours de 3 crédits en anglais : anatomie du squelette, anatomie et physiologie des muscles du tronc et des membres, et du système nerveux, des récepteurs jusqu'aux fonctions supérieures. Il ne peut pas être combiné avec ANP1111 pour les crédits. La version en français est ANP1506.",
+      "en": "ANP1106, Human Anatomy and Physiology II, is a 3-unit course: anatomy of the skeleton, anatomy and physiology of the muscles of the trunk and limbs, and of the nervous system, from receptors to higher functions. It cannot be combined with ANP1111 for units. The French version is ANP1506."
+    },
+    "sources": [
+      {
+        "label": "ANP1106 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/anp/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-anp1107",
+    "category": "cours",
+    "keywords": [
+      "anp1107",
+      "anp 1107",
+      "anp1507",
+      "anp 1507",
+      "anatomie humaine et physiologie iii",
+      "human anatomy and physiology iii",
+      "anatomie 3",
+      "anatomy 3",
+      "systeme digestif",
+      "systeme endocrinien",
+      "c est quoi anp1107",
+      "what is anp1107"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours ANP1107 ?",
+      "en": "What is ANP1107?"
+    },
+    "answer": {
+      "fr": "ANP1107, Human Anatomy and Physiology III, est un cours de 3 crédits en anglais sur la régulation endocrinienne du métabolisme, les systèmes digestif, reproducteur et urinaire, et l'équilibre acido-basique et hydrique. Il ne peut pas être combiné avec ANP1115 pour les crédits. La version en français est ANP1507.",
+      "en": "ANP1107, Human Anatomy and Physiology III, is a 3-unit course on endocrine regulation of metabolism, the digestive, reproductive and urinary systems, and acid-base and water balance. It cannot be combined with ANP1115 for units. The French version is ANP1507."
+    },
+    "sources": [
+      {
+        "label": "ANP1107 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/anp/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-nsg1132",
+    "category": "cours",
+    "keywords": [
+      "nsg1132",
+      "nsg 1132",
+      "nsg1532",
+      "nsg 1532",
+      "introduction aux sciences infirmieres",
+      "introduction to nursing science",
+      "sciences infirmieres",
+      "nursing science",
+      "soins infirmiers",
+      "nursing",
+      "c est quoi nsg1132",
+      "what is nsg1132",
+      "prealables nsg1132",
+      "prerequisites nsg1132"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours NSG1132 ?",
+      "en": "What is NSG1132?"
+    },
+    "answer": {
+      "fr": "NSG1132, Introduction to Nursing Science, est un cours de 3 crédits en anglais qui présente la discipline et la profession infirmières dans le contexte canadien, ainsi que leurs fondements philosophiques et théoriques. Le laboratoire NSG1333 doit être suivi en même temps. La version en français est NSG1532.",
+      "en": "NSG1132, Introduction to Nursing Science, is a 3-unit course introducing the nursing discipline and profession in the Canadian healthcare context, along with its philosophical and theoretical foundations. The NSG1333 lab is a corequisite. The French version is NSG1532."
+    },
+    "sources": [
+      {
+        "label": "NSG1132 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/nsg/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "j-nsg1171",
+    "category": "cours",
+    "keywords": [
+      "nsg1171",
+      "nsg 1171",
+      "nsg1571",
+      "nsg 1571",
+      "evaluation de la sante",
+      "health assessment",
+      "soins infirmiers",
+      "nursing",
+      "c est quoi nsg1171",
+      "what is nsg1171",
+      "prealables nsg1171",
+      "prerequisites nsg1171"
+    ],
+    "question": {
+      "fr": "C'est quoi le cours NSG1171 ?",
+      "en": "What is NSG1171?"
+    },
+    "answer": {
+      "fr": "NSG1171, Health Assessment, est un cours de 3 crédits en anglais sur les principes et l'application de l'évaluation holistique de la santé à toutes les étapes de la vie. Le laboratoire NSG1373 doit être suivi en même temps. La version en français est NSG1571.",
+      "en": "NSG1171, Health Assessment, is a 3-unit course on the principles and application of holistic health assessment across the lifespan. The NSG1373 lab is a corequisite. The French version is NSG1571."
+    },
+    "sources": [
+      {
+        "label": "NSG1171 — Catalogue uOttawa",
+        "url": "https://catalogue.uottawa.ca/en/courses/nsg/"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  }
+]

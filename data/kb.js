@@ -20857,7 +20857,6 @@ export const KB = [
    "what's in crx",
    "ascenseur",
    "elevator",
-   "tim hortons",
    "tinkering lab",
    "studio balado",
    "podcast studio",
@@ -26234,7 +26233,10 @@ export const KB = [
    "beigne",
    "donut",
    "heures tim hortons",
-   "tim hortons hours"
+   "tim hortons hours",
+   "tim hortons",
+   "tim hortons au crx",
+   "tim hortons dans le crx"
   ],
   "question": {
    "fr": "Y a-t-il un Tim Hortons dans le CRX ?",

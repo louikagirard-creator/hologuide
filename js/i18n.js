@@ -2,7 +2,7 @@
 export const TEXT = {
   fr: {
     rate0: 'Bof', rate1: 'Correct', rate2: 'Super',
-    homeTitle: 'Comment je peux t\'aider ?', popular: 'Sujets populaires', allTopics: 'Tous les sujets', back: 'Retour',
+    homeTitle: 'Comment je peux t\'aider ?', tryAsk: 'Essaie : « Où est le pavillon Fauteux ? » ou « J\'ai perdu ma carte étudiante ».', popular: 'Sujets populaires', allTopics: 'Tous les sujets', back: 'Retour',
     history: 'Historique', historyEmpty: 'Tes questions apparaîtront ici.', youAsked: 'Ta question', relatedTitle: 'Questions liées',
     infoservice: 'Contacter InfoService', urgent: 'Urgence : 911', zoom: 'Agrandir le plan', listenAgain: 'Réécouter', touchStart: 'Touche pour commencer',
     attractTitle: 'Salut !\nJe suis Gee\u2011Gee.', attractSub: 'Touche l\'écran pour me poser une question.',
@@ -33,7 +33,7 @@ export const TEXT = {
   },
   en: {
     rate0: 'Meh', rate1: 'Okay', rate2: 'Great',
-    homeTitle: 'How can I help you?', popular: 'Popular topics', allTopics: 'All topics', back: 'Back',
+    homeTitle: 'How can I help you?', tryAsk: 'Try: “Where is Fauteux Hall?” or “I lost my student card.”', popular: 'Popular topics', allTopics: 'All topics', back: 'Back',
     history: 'History', historyEmpty: 'Your questions will appear here.', youAsked: 'Your question', relatedTitle: 'Related questions',
     infoservice: 'Contact InfoService', urgent: 'Emergency: 911', zoom: 'Enlarge the map', listenAgain: 'Listen again', touchStart: 'Touch to start',
     attractTitle: 'Hi!\nI\'m Gee\u2011Gee.', attractSub: 'Touch the screen to ask me a question.',
@@ -74,4 +74,14 @@ export const TOPIC_ORDER = {
   student: ['cours', 'examens', 'bibliotheques', 'batiments', 'services', 'finances', 'logement', 'associations', 'ti', 'transport', 'sante', 'calendrier', 'reglements', 'evenements', 'international', 'programmes', 'genie', 'admissions', 'borne'],
   staff: ['ti', 'batiments', 'transport', 'services', 'bibliotheques', 'evenements', 'calendrier', 'sante', 'reglements', 'cours', 'borne'],
   visitor: ['batiments', 'transport', 'evenements', 'admissions', 'programmes', 'international', 'services', 'bibliotheques', 'borne']
+};
+
+// Noms courts des sujets (puces de l'accueil).
+export const TOPIC_SHORT = {
+  admissions: { fr: 'Admission', en: 'Admissions' }, programmes: { fr: 'Programmes', en: 'Programs' }, cours: { fr: 'Cours', en: 'Courses' },
+  calendrier: { fr: 'Dates', en: 'Dates' }, examens: { fr: 'Examens', en: 'Exams' }, reglements: { fr: 'Règlements', en: 'Rules' },
+  services: { fr: 'Services', en: 'Services' }, batiments: { fr: 'Pavillons', en: 'Buildings' }, bibliotheques: { fr: 'Bibliothèques', en: 'Libraries' },
+  transport: { fr: 'Transport', en: 'Transport' }, logement: { fr: 'Logement', en: 'Housing' }, finances: { fr: 'Frais et bourses', en: 'Fees and awards' },
+  associations: { fr: 'Clubs', en: 'Clubs' }, evenements: { fr: 'Événements', en: 'Events' }, genie: { fr: 'Génie et sciences', en: 'Engineering' },
+  international: { fr: 'International', en: 'International' }, ti: { fr: 'Informatique', en: 'IT' }, sante: { fr: 'Santé', en: 'Health' }, borne: { fr: 'HoloGuide', en: 'HoloGuide' }
 };

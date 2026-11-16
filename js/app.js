@@ -1,10 +1,11 @@
 // HoloGuide : déroulement dans la boîte Holotech d'INNOVA (veille > accueil > conversation > fin).
 // Une seule réponse à l'écran à la fois : le texte s'illumine mot par mot pendant que Gee-Gee parle (il sert de sous-titre).
 // Les échanges précédents restent dans l'historique (transcription complète).
-import { TEXT, LINKS, TOPIC_ORDER } from './i18n.js';
+import { TEXT, LINKS, TOPIC_ORDER, TOPIC_SHORT } from './i18n.js';
 import { findAnswer, byId, inCategory, CATEGORIES } from './search.js';
 import { speak, stopSpeaking, listen, canListen } from './speech.js';
 import { GeeGee } from './mascot.js';
+import { VideoGeeGee, CLIPS } from './avatar-video.js';
 
 const $ = (s, root = document) => root.querySelector(s);
 const $$ = (s, root = document) => [...root.querySelectorAll(s)];
@@ -29,7 +30,8 @@ const icon = (id) => { const s = document.createElementNS('http://www.w3.org/200
 
 // ---------- Gee-Gee (sans WebGL : son nom s'affiche à la place) ----------
 let gg = null;
-try { gg = new GeeGee(); } catch (err) { console.warn('3D indisponible :', err); }
+// Vidéo du vrai costume si les clips sont configurés (js/avatar-video.js), sinon Gee-Gee en 3D.
+try { gg = CLIPS ? new VideoGeeGee(CLIPS) : new GeeGee(); } catch (err) { console.warn('Avatar indisponible :', err); }
 // Monté une seule fois dans la colonne de gauche : Gee-Gee reste à sa place d'un écran à l'autre.
 function placeMascot() {
   const stage = $('#stage');
@@ -145,9 +147,11 @@ const asked = (q) => (q ? h('p', { class: 'asked', text: q }) : null);
 
 function viewHome(greeting) {
   const p = spokenText(greeting);
+  // Accueil compact : quelques sujets en petites puces, plus un exemple de question
+  const chip = (id) => h('button', { class: 'chip', onclick: () => showTopic(id) }, L(TOPIC_SHORT[id]) || L(CATEGORIES.find((c) => c.id === id)));
   setView(p,
-    h('p', { class: 'section', text: t('popular') }), topicTiles(profileTopics().slice(0, 6)),
-    h('ul', { class: 'list more' }, h('li', {}, h('button', { onclick: showAllTopics }, h('span', { text: `${t('allTopics')} (${profileTopics().length})` }), icon('next')))));
+    h('div', { class: 'chips' }, profileTopics().slice(0, 5).map(chip), h('button', { class: 'chip all', onclick: showAllTopics }, `${t('allTopics')} →`)),
+    h('p', { class: 'hint', text: t('tryAsk') }));
   return p;
 }
 function showAllTopics() {

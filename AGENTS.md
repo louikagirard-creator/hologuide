@@ -31,6 +31,7 @@ On voit tout l'historique de l'équipe ici : https://github.com/louikagirard-cre
 - `js/app.js` : déroulement (veille, accueil, conversation, fin avec code QR, inactivité, indicateurs).
 - `js/search.js` : recherche locale (mots-clés, rareté des mots, fautes de frappe, pluriels).
 - `js/speech.js` : voix et micro (Web Speech). `js/mascot.js` : Gee-Gee en 3D (three.js, dans `vendor/`).
+- Gee-Gee en vidéo (vrai costume) : clips dans `assets/video/`, liste dans `CLIPS` (`js/avatar-video.js`) ; guide de tournage dans le README.
 - Vrai modèle 3D : déposer un `.glb` dans `assets/` et mettre son chemin dans `MODEL_URL` (`js/mascot.js`).
 
 ## Tester en local

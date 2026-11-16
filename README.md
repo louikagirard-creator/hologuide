@@ -40,6 +40,28 @@ Historique des modifications de l'équipe : https://github.com/louikagirard-crea
 
 ## Gee-Gee
 Cheval aux couleurs uOttawa (grenat et gris), en pied : maillot « GG », short gris à bande blanche, bas grenat rayés, souliers de mascotte et queue qui se balance. Il est construit entièrement en code avec three.js (`js/mascot.js`), donc rien à télécharger. Il parle syllabe par syllabe selon les voyelles, cligne des yeux, bouge les oreilles et les sourcils, tourne la tête vers l'endroit touché, salue, hausse les épaules quand il n'a pas de réponse, lève le sabot quand on le remercie, saute de joie quand il répond et s'anime tout seul au repos. Rendu : matières peluche et tissu (reflet satiné), ombres douces, lumière venant du plafond de la boîte et contre-jours qui détachent la silhouette du noir. Le haut du corps se balance pendant que les pieds restent au sol.
+### Gee-Gee en vidéo (le vrai costume) — option choisie par l'équipe
+Le plus réaliste : filmer quelqu'un dans le costume de Gee-Gee. Le site enchaîne les clips en fondu : repos en boucle, « parle » pendant la voix, salut, etc.
+
+**Tournage**
+- Téléphone **à la verticale**, sur trépied, qui ne bouge jamais d'un clip à l'autre. 1080×1920, 30 images/s.
+- **Mur blanc** derrière, bien éclairé de face, sans ombre sur le mur (deux lampes à 45°, pas de contre-jour). Le fond du site est blanc : le mur doit être le plus blanc possible.
+- Gee-Gee **en entier, des oreilles aux pieds**, avec un peu de marge en haut. Les pieds restent au même endroit dans tous les clips.
+- Chaque clip **commence et finit dans la même pose de repos** (bras le long du corps, de face), pour que les fondus ne se voient pas.
+- Gee-Gee est à gauche de l'écran : quand il montre quelque chose, il le montre **vers sa gauche à lui** (la droite de l'image), là où sont les réponses.
+
+**Clips à filmer** (sans son)
+| Fichier | Durée | Ce que fait Gee-Gee |
+|---|---|---|
+| `idle.mp4` (obligatoire) | 10–15 s | Au repos : respire, bouge un peu la tête, regarde autour. Doit boucler sans saut. |
+| `talk.mp4` | 10–15 s | Fait des gestes comme s'il expliquait quelque chose, hoche la tête. Boucle pendant qu'il parle. |
+| `wave.mp4` | 3 s | Salue de la main. |
+| `point.mp4` | 3 s | Montre l'écran à côté de lui (la réponse). |
+| `shrug.mp4` | 3 s | Hausse les épaules (« je ne sais pas »). |
+| `thumbs.mp4` | 2 s | Pouce en l'air (« merci »). |
+
+**Installation** : couper et exporter en MP4 (H.264), sans son, idéalement moins de 5 Mo par clip ; les mettre dans `assets/video/` ; dans `js/avatar-video.js`, remplacer `export const CLIPS = null;` par la liste des fichiers (l'exemple est juste en dessous dans le fichier). Seul `idle` est obligatoire.
+
 ### Remplacer Gee-Gee par un vrai modèle 3D
 1. Obtenir un fichier `.glb` de la mascotte, debout, de face (modélisé dans Blender, acheté, ou généré avec un outil d'IA 3D comme Meshy ou Tripo à partir d'une photo de Gee-Gee). Idéalement avec un squelette et des animations nommées `idle` (repos) et `wave` (salut).
 2. Le déposer dans `assets/`, par exemple `assets/geegee.glb`.

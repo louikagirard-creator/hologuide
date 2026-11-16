@@ -1,0 +1,2783 @@
+[
+  {
+    "id": "k-releve-non-officiel",
+    "category": "services",
+    "keywords": [
+      "relevé non officiel",
+      "relevé de notes gratuit",
+      "unofficial transcript",
+      "free transcript",
+      "télécharger mon relevé",
+      "download transcript",
+      "relevé pdf",
+      "transcript pdf",
+      "voir mes notes officielles",
+      "unofficial grades"
+    ],
+    "question": {
+      "fr": "Comment obtenir un relevé de notes non officiel ?",
+      "en": "How do I get an unofficial transcript?"
+    },
+    "answer": {
+      "fr": "C'est gratuit : dans uoZone, sous l'onglet Applications, choisis Relevé de notes non officiel et tu le télécharges en PDF. Il ne porte ni le sceau de l'Université ni la signature du registraire, donc pour une demande officielle, il te faudra plutôt le relevé officiel.",
+      "en": "It's free: in uoZone, under the Applications tab, select Unofficial transcript and download it as a PDF. It doesn't have the University seal or the registrar's signature, so for an official application you'll need the official transcript instead."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-releve-officiel-numerique",
+    "category": "services",
+    "keywords": [
+      "relevé officiel numérique",
+      "digital transcript",
+      "mescertif",
+      "mycreds",
+      "relevé électronique",
+      "electronic transcript",
+      "commander relevé officiel",
+      "order official transcript",
+      "envoyer relevé",
+      "send transcript",
+      "relevé rapide"
+    ],
+    "question": {
+      "fr": "Comment commander un relevé de notes officiel numérique ?",
+      "en": "How do I order an official digital transcript?"
+    },
+    "answer": {
+      "fr": "C'est la méthode la plus rapide : dans uoZone, sous Applications, choisis Commander des documents officiels, puis Documents électroniques. Tu ne paies rien dans uoZone ; tu reçois ensuite un courriel de MesCertif à ton adresse uOttawa pour activer ton compte et payer l'envoi, soit 24,49 $ plus taxes par partage. La demande est traitée le jour ouvrable même.",
+      "en": "It's the fastest method: in uoZone, under Applications, select Purchase Official Documents, then the Digital documents format. You don't pay anything in uoZone; MyCreds then emails your uOttawa address so you can activate your account and pay to send it, at $24.49 plus tax per share. Requests are processed within the same business day."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-releve-officiel-papier",
+    "category": "services",
+    "keywords": [
+      "relevé papier",
+      "paper transcript",
+      "relevé officiel papier",
+      "official paper transcript",
+      "venir chercher relevé",
+      "pick up transcript",
+      "coût relevé",
+      "transcript cost",
+      "relevé imprimé",
+      "printed transcript"
+    ],
+    "question": {
+      "fr": "Comment obtenir un relevé de notes officiel sur papier, et combien ça coûte ?",
+      "en": "How do I get an official paper transcript, and how much does it cost?"
+    },
+    "answer": {
+      "fr": "Commande-le dans uoZone, sous Applications, avec Commander des documents officiels ; la copie papier coûte 29,13 $. Si tu choisis de venir le chercher, il est prêt après 13 h le jour ouvrable suivant : va directement à la réception d'InfoService, sans prendre de billet ni attendre en file.",
+      "en": "Order it in uoZone, under Applications, with Purchase Official Documents; a paper copy costs $29.13. If you choose to pick it up, it's ready after 1 p.m. the next business day: go straight to the InfoService reception desk, no ticket and no waiting in line."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-releve-delais",
+    "category": "services",
+    "keywords": [
+      "délai relevé",
+      "transcript processing time",
+      "combien de temps relevé",
+      "how long transcript",
+      "relevé par la poste",
+      "transcript by mail",
+      "documents période de pointe",
+      "peak period documents",
+      "quand mon relevé sera prêt",
+      "when will my transcript be ready"
+    ],
+    "question": {
+      "fr": "Combien de temps faut-il pour recevoir un relevé ou une attestation officielle ?",
+      "en": "How long does it take to get an official transcript or enrolment verification?"
+    },
+    "answer": {
+      "fr": "Une demande numérique par MesCertif est traitée en un jour ouvrable au plus, une demande papier faite dans uoZone est prête le jour ouvrable suivant, et une demande par la poste prend de deux à sept jours ouvrables, plus le temps de livraison. Prévois plus de temps en mai et juin, en septembre et en janvier, qui sont des périodes de pointe.",
+      "en": "A digital request through MyCreds is processed within one business day, a paper request made in uoZone is ready the next business day, and a request by mail takes two to seven business days, plus delivery time. Allow extra time in May and June, September and January, which are peak periods."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-releve-paiement",
+    "category": "finances",
+    "keywords": [
+      "payer relevé",
+      "pay for transcript",
+      "mode de paiement documents",
+      "payment methods documents",
+      "carte de crédit relevé",
+      "credit card transcript",
+      "interac infoservice",
+      "payer en personne",
+      "pay in person",
+      "argent comptant documents"
+    ],
+    "question": {
+      "fr": "Comment payer un relevé ou un document officiel ?",
+      "en": "How can I pay for a transcript or official document?"
+    },
+    "answer": {
+      "fr": "Pour un document numérique, tu paies dans MesCertif avec Visa, Mastercard, Maestro ou American Express ; pour une copie papier commandée dans uoZone, c'est Mastercard ou Visa. En personne à InfoService, on accepte Mastercard, Visa, Interac, le chèque, le mandat à l'ordre de l'Université d'Ottawa et l'argent comptant. Les demandes par courriel ne sont pas acceptées, car on ne peut pas y transmettre de numéro de carte.",
+      "en": "For a digital document, you pay in MyCreds with Visa, Mastercard, Maestro or American Express; for a paper copy ordered in uoZone, it's Mastercard or Visa. In person at InfoService, Mastercard, Visa, Interac, cheque, money order payable to the University of Ottawa and cash are accepted. Email requests aren't accepted because card numbers can't be sent that way."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-releve-contenu",
+    "category": "reglements",
+    "keywords": [
+      "contenu relevé officiel",
+      "what is on my transcript",
+      "relevé partiel",
+      "partial transcript",
+      "traduction relevé",
+      "translate transcript",
+      "moyenne du groupe",
+      "class average transcript",
+      "sceau registraire",
+      "registrar signature"
+    ],
+    "question": {
+      "fr": "Qu'est-ce qui apparaît sur mon relevé de notes officiel ?",
+      "en": "What appears on my official transcript?"
+    },
+    "answer": {
+      "fr": "Le relevé officiel porte le sceau de l'Université et la signature du registraire ; il contient tous tes cours et résultats, tes grades, ton numéro étudiant, ton programme et ta faculté. La moyenne du groupe apparaît quand au moins six étudiants sont inscrits au cours. Les titres de cours sont dans la langue où le cours a été donné : l'Université ne traduit pas les relevés et n'émet pas de relevés partiels.",
+      "en": "The official transcript has the University seal and the registrar's signature; it lists all your courses and results, your degrees, your student number, your program and your faculty. The group average appears when at least six students are enrolled in a course. Course titles are in the language the course was taught in: the University doesn't translate transcripts or issue partial transcripts."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-releve-envoi-tiers",
+    "category": "services",
+    "keywords": [
+      "envoyer relevé université",
+      "send transcript to university",
+      "relevé employeur",
+      "transcript to employer",
+      "relevé à une autre université",
+      "transcript another school",
+      "enveloppe scellée",
+      "sealed envelope",
+      "relevé tierce partie",
+      "third party transcript"
+    ],
+    "question": {
+      "fr": "Comment envoyer mon relevé de notes à une autre université ou à un employeur ?",
+      "en": "How do I send my transcript to another university or an employer?"
+    },
+    "answer": {
+      "fr": "Le meilleur choix, c'est d'envoyer une copie numérique par MesCertif : tout document partagé ainsi est considéré comme venant directement de l'Université. Si tu demandes une copie papier, elle est imprimée sur papier de sûreté, scellée dans une enveloppe sécuritaire et postée directement au destinataire.",
+      "en": "Your best choice is to send a digital copy through MyCreds: any document shared that way is considered to come directly from the University. If you ask for a paper copy, it's printed on security paper, sealed in a secure envelope and mailed directly to the recipient."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-documents-anciens-diplomes",
+    "category": "services",
+    "keywords": [
+      "ancien diplômé relevé",
+      "alumni transcript",
+      "diplômé avant 1974",
+      "graduated before 1974",
+      "vieux relevé",
+      "old transcript",
+      "relevé après mes études",
+      "transcript after graduation",
+      "ancien étudiant documents",
+      "former student documents"
+    ],
+    "question": {
+      "fr": "Je suis diplômé depuis longtemps : est-ce que je peux encore commander mes documents ?",
+      "en": "I graduated a long time ago: can I still order my documents?"
+    },
+    "answer": {
+      "fr": "Oui, les diplômés peuvent commander un relevé officiel numérique dans uoZone, sauf ceux qui ont étudié à l'Université avant 1974, pour qui la version numérique n'est pas offerte. Pour un duplicata de diplôme, il faut avoir obtenu son diplôme après le 1er janvier 1975.",
+      "en": "Yes, alumni can order an official digital transcript in uoZone, except those who attended the University before 1974, for whom the digital version isn't available. To order a duplicate diploma, you must have graduated after January 1, 1975."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-attestation-etudes-officielle",
+    "category": "services",
+    "keywords": [
+      "attestation d'études",
+      "preuve d'inscription",
+      "proof of enrolment",
+      "enrolment verification",
+      "lettre d'inscription",
+      "enrolment letter",
+      "preuve que je suis étudiant",
+      "proof i am a student",
+      "attestation officielle",
+      "official enrolment letter",
+      "confirmation d'inscription"
+    ],
+    "question": {
+      "fr": "Comment obtenir une attestation d'études officielle, une preuve que je suis inscrit ?",
+      "en": "How do I get official proof of enrolment?"
+    },
+    "answer": {
+      "fr": "L'attestation d'études est un document officiel qui certifie ton inscription actuelle ou passée, et les grades que tu as reçus. Commande-la dans uoZone, sous Applications, avec Commander des documents officiels : la version numérique MesCertif coûte 24,49 $ plus taxes par partage, et la copie papier 29,13 $. Elle est offerte aux étudiants actuels comme aux diplômés.",
+      "en": "An enrolment verification is an official document certifying your current or past enrolment and any degrees you've received. Order it in uoZone, under Applications, with Purchase Official Documents: the MyCreds digital version costs $24.49 plus tax per share, and a paper copy is $29.13. It's available to both current students and alumni."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-attestation-non-officielle",
+    "category": "services",
+    "keywords": [
+      "attestation non officielle",
+      "unofficial enrolment verification",
+      "attestation d'inscription gratuite",
+      "free proof of enrolment",
+      "preuve inscription gratuite",
+      "attestation pdf",
+      "enrolment proof pdf",
+      "attestation uozone",
+      "enrollment verification unofficial",
+      "proof of enrolment free"
+    ],
+    "question": {
+      "fr": "Est-ce qu'il existe une preuve d'inscription gratuite ?",
+      "en": "Is there a free proof of enrolment?"
+    },
+    "answer": {
+      "fr": "Oui : l'attestation d'inscription non officielle se télécharge gratuitement en PDF dans uoZone, sous Applications, avec Attestation d'inscription (non officielle). Elle ne porte pas le sceau de l'Université ; si l'organisme exige un document officiel, commande plutôt l'attestation d'études officielle.",
+      "en": "Yes: the unofficial enrolment verification is a free PDF in uoZone, under Applications, called Enrollment Verification - Unofficial. It doesn't carry the University seal; if the organization requires an official document, order the official enrolment verification instead."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-attestation-commentaire-special",
+    "category": "services",
+    "keywords": [
+      "attestation avec commentaire",
+      "specialized comment letter",
+      "lettre pas inscrit",
+      "letter not enrolled",
+      "preuve abandon de cours",
+      "proof dropped courses",
+      "lettre détaillée",
+      "detailed letter",
+      "date de fin prévue",
+      "expected graduation date letter"
+    ],
+    "question": {
+      "fr": "J'ai besoin d'une lettre plus détaillée que l'attestation habituelle : comment faire ?",
+      "en": "I need a letter with more detail than the standard proof of enrolment. What do I do?"
+    },
+    "answer": {
+      "fr": "Demande une attestation d'études avec commentaire spécialisé en remplissant le formulaire de demande d'InfoService. Elle sert par exemple à montrer que tu n'es pas inscrit, que tu as abandonné tes cours ou à ajouter une autre précision, comme ta date prévue de fin d'études.",
+      "en": "Ask for an official enrolment verification with a specialized comment by filling out the InfoService request form. It can show, for example, that you're not enrolled, that you dropped your courses, or add other details such as your estimated graduation date."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      },
+      {
+        "label": "Immigration FAQ — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/faqs"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-formulaire-reee-bourse",
+    "category": "services",
+    "keywords": [
+      "formulaire reee",
+      "resp form",
+      "formulaire à signer registraire",
+      "form signed by registrar",
+      "bourse externe formulaire",
+      "external scholarship form",
+      "formulaire tiers",
+      "third party form",
+      "faire signer un formulaire",
+      "get form signed"
+    ],
+    "question": {
+      "fr": "J'ai un formulaire de REEE ou de bourse externe à faire remplir par l'Université : comment faire ?",
+      "en": "I have an RESP or external scholarship form the University needs to fill out. How does it work?"
+    },
+    "answer": {
+      "fr": "Soumets ta demande à InfoService avec le formulaire de demande en ligne : c'est le service de déclaration d'études sur formulaire d'un tiers, signé par le registraire. Tu dois déjà être inscrit à tes cours, et les formulaires de prêts étudiants sont exclus de ce service.",
+      "en": "Submit your request to InfoService using the online request form: this is the statement of studies on a third-party form signed by the Registrar. You must already be registered in your courses, and student loan forms are excluded from this service."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-lettre-fin-exigences",
+    "category": "services",
+    "keywords": [
+      "lettre de fin d'études",
+      "completion letter",
+      "attestation exigences complétées",
+      "degree requirements completed",
+      "preuve que j'ai fini",
+      "proof i finished my degree",
+      "en attente du diplôme",
+      "waiting for my degree",
+      "lettre pour employeur fin programme",
+      "letter program completed"
+    ],
+    "question": {
+      "fr": "J'ai fini mon programme, mais mon diplôme n'est pas encore conféré : comment le prouver ?",
+      "en": "I've finished my program but my degree hasn't been conferred yet. How can I prove it?"
+    },
+    "answer": {
+      "fr": "Demande l'attestation des exigences de grade complété à InfoService avec le formulaire de demande. Assure-toi d'abord que ta faculté a fait l'évaluation de ton dossier et y a ajouté un commentaire confirmant que tu as rempli les exigences : sans ce commentaire, la lettre ne peut pas être produite.",
+      "en": "Ask InfoService for the Statement of Degree Requirements Completed using the request form. First make sure your faculty has evaluated your file and added a comment confirming you've met the requirements: without that comment, the letter can't be produced."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-lettre-oqce",
+    "category": "services",
+    "keywords": [
+      "lettre oqce",
+      "qeco letter",
+      "conseil ontarien d'évaluation des qualifications",
+      "qualifications evaluation council",
+      "lettre pour enseignants",
+      "teacher salary letter",
+      "évaluation qualifications enseignant",
+      "qeco",
+      "oqce",
+      "lettre spécialisée"
+    ],
+    "question": {
+      "fr": "Comment obtenir une lettre pour le Conseil ontarien d'évaluation des qualifications (QECO) ?",
+      "en": "How do I get a letter for the Qualifications Evaluation Council of Ontario (QECO)?"
+    },
+    "answer": {
+      "fr": "Remplis le formulaire de demande d'InfoService et joins une copie ou une capture d'écran de la demande de QECO qui précise l'information exigée dans la lettre. Le même service existe pour un organisme équivalent d'une autre province.",
+      "en": "Fill out the InfoService request form and attach a copy or screenshot of the QECO request that lists the information they need in the letter. The same service is available for an equivalent organization in another province."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-auradata-verification",
+    "category": "services",
+    "keywords": [
+      "vérification diplôme employeur",
+      "employer degree verification",
+      "auradata",
+      "vérifier mes études",
+      "verify my education",
+      "employeur veut confirmer diplôme",
+      "employer confirm degree",
+      "vérification des antécédents scolaires",
+      "credential verification",
+      "confirmer grade"
+    ],
+    "question": {
+      "fr": "Un employeur veut vérifier mon diplôme : comment ça fonctionne ?",
+      "en": "An employer wants to verify my degree. How does that work?"
+    },
+    "answer": {
+      "fr": "Les employeurs et les établissements d'enseignement doivent s'abonner à AuraData, une entreprise canadienne de vérification en ligne. AuraData exige ton autorisation signée avant de divulguer quoi que ce soit, et l'Université ne lui fournit que ton numéro étudiant, ton nom complet, ta date de naissance, ta date de diplomation et le nom de tes grades. Ce service ne te coûte rien.",
+      "en": "Employers and educational institutions must subscribe to AuraData, a Canadian online verification company. AuraData requires your signed authorization before releasing anything, and the University only gives it your student number, full name, date of birth, graduation date and the names of your degrees. There's no cost to you."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-syllabus-ancien-cours",
+    "category": "services",
+    "keywords": [
+      "plan de cours ancien",
+      "old syllabus",
+      "description de cours officielle",
+      "course description request",
+      "syllabus pour équivalence",
+      "syllabus for equivalency",
+      "demande de syllabus",
+      "request syllabus",
+      "plan de cours",
+      "course outline"
+    ],
+    "question": {
+      "fr": "Comment obtenir le plan de cours ou la description officielle d'un cours que j'ai suivi ?",
+      "en": "How do I get the syllabus or official description of a course I took?"
+    },
+    "answer": {
+      "fr": "Pendant le cours, le plan de cours est dans Brightspace. Pour en demander un après coup, ou une description officielle, remplis le formulaire de demande d'InfoService ; les frais de recherche sont de 29,13 $ par cours ou par plan de cours.",
+      "en": "While you're taking the course, the syllabus is in Brightspace. To request one afterwards, or an official course description, fill out the InfoService request form; the research fee is $29.13 per course or per syllabus."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      },
+      {
+        "label": "Administrative fees — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/administrative-fees"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-duplicata-diplome",
+    "category": "services",
+    "keywords": [
+      "duplicata de diplôme",
+      "duplicate diploma",
+      "diplôme perdu",
+      "lost diploma",
+      "remplacer diplôme",
+      "replace diploma",
+      "copie de diplôme",
+      "copy of my diploma",
+      "grand format diplôme",
+      "large format diploma"
+    ],
+    "question": {
+      "fr": "J'ai perdu mon diplôme : comment en obtenir un autre ?",
+      "en": "I lost my diploma. How do I get a replacement?"
+    },
+    "answer": {
+      "fr": "Commande un duplicata dans uoZone, sous Applications, avec Commander des documents officiels, puis Diplôme (duplicata). Il coûte 104,68 $ et tu reçois à la fois une copie papier et une copie numérique ; la version papier peut être de format standard ou grand format. Tu peux seulement le commander une fois ton grade conféré.",
+      "en": "Order a duplicate in uoZone, under Applications, with Purchase Official Documents, then the Diploma duplicate format. It costs $104.68 and you get both a paper and a digital copy; the paper version can be standard or large format. You can only order it once your degree has been conferred."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-duplicata-delais",
+    "category": "calendrier",
+    "keywords": [
+      "délai duplicata",
+      "duplicate diploma processing time",
+      "date impression diplôme",
+      "diploma printing date",
+      "quand duplicata prêt",
+      "when duplicate ready",
+      "duplicata numérique délai",
+      "digital duplicate time",
+      "attente diplôme papier",
+      "paper diploma wait"
+    ],
+    "question": {
+      "fr": "Combien de temps faut-il pour recevoir un duplicata de diplôme ?",
+      "en": "How long does it take to get a duplicate diploma?"
+    },
+    "answer": {
+      "fr": "Le duplicata numérique est prêt en deux jours ouvrables au plus. Le duplicata papier prend de quatre à six semaines, selon la date d'impression ; la prochaine date d'impression annoncée est le 7 décembre 2026.",
+      "en": "The digital duplicate is ready within two business days. The paper duplicate takes four to six weeks, depending on the printing date; the next announced printing date is December 7, 2026."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-photocopie-certifiee-diplome",
+    "category": "services",
+    "keywords": [
+      "photocopie certifiée",
+      "certified copy diploma",
+      "copie avec sceau",
+      "copy with seal",
+      "photocopie officielle diplôme",
+      "official photocopy diploma",
+      "faire certifier diplôme",
+      "certify my diploma",
+      "copie conforme",
+      "true copy"
+    ],
+    "question": {
+      "fr": "Est-ce que l'Université peut faire une photocopie officielle de mon diplôme ?",
+      "en": "Can the University make an official photocopy of my diploma?"
+    },
+    "answer": {
+      "fr": "Oui : apporte ton diplôme original à InfoService pour obtenir une photocopie officielle avec sceau, au coût de 29,13 $. Tu peux payer en personne par Mastercard, Visa, Interac, chèque, mandat ou argent comptant.",
+      "en": "Yes: bring your original diploma to InfoService for an official photocopy with seal, which costs $29.13. You can pay in person by Mastercard, Visa, Interac, cheque, money order or cash."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-livraison-documents",
+    "category": "services",
+    "keywords": [
+      "livraison documents",
+      "document delivery",
+      "envoi express",
+      "express delivery",
+      "frais de poste relevé",
+      "shipping fee transcript",
+      "case postale",
+      "po box",
+      "modifier ma commande",
+      "change my order"
+    ],
+    "question": {
+      "fr": "Comment mes documents papier sont-ils livrés, et y a-t-il des frais ?",
+      "en": "How are paper documents delivered, and are there fees?"
+    },
+    "answer": {
+      "fr": "L'envoi par la poste ordinaire est gratuit ; la livraison express coûte 28,38 $ au Canada et 49,08 $ à l'étranger. Les diplômes ne sont pas livrés dans une case postale, et une fois ta commande soumise, aucun changement ni remboursement n'est possible.",
+      "en": "Regular mail is free; express delivery costs $28.38 within Canada and $49.08 abroad. Diplomas aren't delivered to post office boxes, and once your order is submitted, no changes or refunds are possible."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-mescertif-fonctionnement",
+    "category": "services",
+    "keywords": [
+      "mescertif",
+      "mycreds",
+      "c'est quoi mescertif",
+      "what is mycreds",
+      "crédit de partage",
+      "share credit",
+      "document numérique",
+      "digital document",
+      "remboursement mescertif",
+      "mycreds refund"
+    ],
+    "question": {
+      "fr": "C'est quoi MesCertif et comment je paie mes documents numériques ?",
+      "en": "What is MyCreds and how do I pay for digital documents?"
+    },
+    "answer": {
+      "fr": "MesCertif est la plateforme canadienne de documents numériques adoptée par l'Université. Tu ne paies pas le document lui-même, mais chaque envoi : il faut acheter un crédit de partage par destinataire, et simplement ouvrir ton document pour le consulter n'en utilise pas. Les crédits achetés ne sont pas remboursables, et avant de partager, commande une nouvelle copie dans uoZone pour envoyer la version la plus à jour.",
+      "en": "MyCreds is the Canadian digital credential platform the University uses. You don't pay for the document itself but for each share: you buy one share credit per recipient, and just opening your document to view it doesn't use one. Credits are non-refundable, and before sharing, order a new copy in uoZone so you send the most up-to-date version."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-badge-numerique",
+    "category": "services",
+    "keywords": [
+      "badge numérique",
+      "digital badge",
+      "badge microprogramme",
+      "microprogram badge",
+      "badge linkedin",
+      "linkedin badge",
+      "certificat de langue seconde",
+      "second language certificate",
+      "badge mescertif",
+      "mycreds badge"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux recevoir un badge numérique pour un microprogramme ou le Certificat de langue seconde ?",
+      "en": "Can I get a digital badge for a microprogram or the Second Language Certificate?"
+    },
+    "answer": {
+      "fr": "Oui, si tu as réussi un microprogramme à l'Université, ou reçu le Certificat de langue seconde depuis l'automne 2023. MesCertif t'envoie un courriel quand ton badge est prêt, habituellement dans les deux semaines suivant la publication des notes finales du trimestre, et tu peux le partager gratuitement, par exemple sur LinkedIn.",
+      "en": "Yes, if you completed a microprogram at the University, or received the Second Language Certificate since Fall 2023. MyCreds emails you when your badge is ready, usually within two weeks after official final grades for the term are posted, and you can share it for free, for example on LinkedIn."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-certificat-langue-seconde",
+    "category": "services",
+    "keywords": [
+      "certificat de langue seconde",
+      "second language certificate",
+      "commander certificat bilinguisme",
+      "order language certificate",
+      "fls 3500",
+      "esl 3100",
+      "certificat anglais français",
+      "english french certificate",
+      "ilob certificat",
+      "olbi certificate"
+    ],
+    "question": {
+      "fr": "Comment commander mon Certificat de langue seconde ?",
+      "en": "How do I order my Second Language Certificate?"
+    },
+    "answer": {
+      "fr": "Si tu as réussi ESL 3100 ou FLS 3500, commande-le dans uoZone, sous Applications, avec Commander des documents officiels, en format numérique. Le partage coûte 24,49 $ plus taxes et il est traité en un jour ouvrable ; il n'existe pas de version papier, mais tu peux l'imprimer à partir de MesCertif.",
+      "en": "If you passed ESL 3100 or FLS 3500, order it in uoZone, under Applications, with Purchase Official Documents, in digital format. Sharing costs $24.49 plus tax and it's processed within one business day; there's no paper version, but you can print it from MyCreds."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-autorisation-tierce-personne",
+    "category": "services",
+    "keywords": [
+      "autoriser quelqu'un",
+      "authorize someone",
+      "tierce personne",
+      "third party",
+      "quelqu'un peut chercher mon relevé",
+      "someone pick up my documents",
+      "formulaire d'autorisation",
+      "authorization form",
+      "procuration documents",
+      "release my information"
+    ],
+    "question": {
+      "fr": "Est-ce que quelqu'un d'autre peut demander ou venir chercher mes documents à ma place ?",
+      "en": "Can someone else request or pick up my documents for me?"
+    },
+    "answer": {
+      "fr": "Normalement, seul toi peux le faire, mais tu peux autoriser une autre personne avec le Formulaire d'autorisation pour la divulgation de renseignements à une tierce personne. Envoie-le à partir de ton adresse courriel uOttawa ou dépose-le en personne à InfoService, au pavillon Tabaret, local 129 ; un formulaire envoyé directement par la tierce personne n'est pas accepté.",
+      "en": "Normally only you can, but you can authorize someone else with the Third-Party Authorization Form to Release Student Information. Send it from your uOttawa email account or drop it off in person at InfoService, Tabaret Hall, Room 129; forms submitted directly by the third party aren't accepted."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-parents-acces-dossier",
+    "category": "reglements",
+    "keywords": [
+      "mes parents peuvent voir mes notes",
+      "can my parents see my grades",
+      "accès parents dossier",
+      "parent access",
+      "consentement parents",
+      "parental consent",
+      "confidentialité dossier étudiant",
+      "student record privacy",
+      "mon père veut des informations",
+      "my mother wants information"
+    ],
+    "question": {
+      "fr": "Est-ce que mes parents peuvent avoir accès à mon dossier ou à mes notes ?",
+      "en": "Can my parents access my file or my grades?"
+    },
+    "answer": {
+      "fr": "Pas sans ton accord : aux yeux de la loi canadienne, les étudiants sont généralement considérés comme des adultes, et l'Université doit protéger leurs renseignements personnels. Seul toi as accès à l'information de ton dossier, à moins d'avoir donné ton consentement exprès à une tierce personne, par exemple avec le formulaire d'autorisation prévu à cet effet.",
+      "en": "Not without your consent: under Canadian law, students are generally considered adults, and the University must protect their personal information. Only you can access the information in your file, unless you've given express consent to a third party, for example with the authorization form provided for that purpose."
+    },
+    "sources": [
+      {
+        "label": "For parents — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/parents"
+      },
+      {
+        "label": "Student accounts — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-vie-privee-droits",
+    "category": "reglements",
+    "keywords": [
+      "vie privée",
+      "privacy",
+      "renseignements personnels",
+      "personal information",
+      "accès à mes renseignements",
+      "access my personal information",
+      "plainte vie privée",
+      "privacy complaint",
+      "corriger mes renseignements",
+      "correct my information",
+      "lpvp ontario",
+      "fippa"
+    ],
+    "question": {
+      "fr": "Quels sont mes droits sur mes renseignements personnels à l'Université ?",
+      "en": "What are my rights regarding my personal information at the University?"
+    },
+    "answer": {
+      "fr": "L'Université recueille et utilise tes renseignements selon la Loi ontarienne sur l'accès à l'information et la protection de la vie privée : seulement pour des fins légitimes et précises. Dans la plupart des cas, tu as le droit de voir les renseignements qu'elle détient sur toi, avec le formulaire de demande d'accès, et d'en demander la correction s'ils sont inexacts. Pour une plainte, tu remplis le formulaire de plainte et l'envoies au chef de la protection de la vie privée.",
+      "en": "The University collects and uses your information under Ontario's Freedom of Information and Protection of Privacy Act, only for legitimate and specific purposes. In most cases, you have the right to see the information it holds about you through the Access Request Form, and to ask for a correction if it's inaccurate. To complain, fill out the Privacy Complaint Form and send it to the Chief Privacy Officer."
+    },
+    "sources": [
+      {
+        "label": "Your privacy rights — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/aipo/privacy-rights"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-changer-nom-officiel",
+    "category": "services",
+    "keywords": [
+      "changer mon nom",
+      "change my name",
+      "changement de nom légal",
+      "legal name change",
+      "nom principal",
+      "primary name",
+      "corriger mon nom",
+      "correct my name",
+      "nom mal écrit",
+      "name misspelled",
+      "mariage nom"
+    ],
+    "question": {
+      "fr": "Comment changer mon nom officiel dans mon dossier étudiant ?",
+      "en": "How do I change my legal name in my student record?"
+    },
+    "answer": {
+      "fr": "Remplis le formulaire de demande de changement de nom principal, avec ton numéro étudiant et ta signature, et joins une copie de ton passeport à ton nom exact ou, sinon, deux pièces d'identité gouvernementales. Les documents qui ne sont ni en français ni en anglais doivent être traduits par un traducteur agréé. Envoie le tout par courriel à InfoService ; le traitement prend de deux à cinq jours ouvrables, et tu reçois une confirmation par courriel.",
+      "en": "Fill out the Request for Primary Name Change form with your student number and signature, and attach a copy of your passport showing your correct name or, if you don't have it, two pieces of government-issued ID. Documents not in English or French must be translated by a certified translator. Email everything to InfoService; processing takes two to five business days, and you'll get a confirmation email."
+    },
+    "sources": [
+      {
+        "label": "Changing your name — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents/changing-your-name"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-nom-privilegie",
+    "category": "services",
+    "keywords": [
+      "nom privilégié",
+      "preferred name",
+      "nom choisi",
+      "chosen name",
+      "changer mon prénom uozone",
+      "change first name uozone",
+      "nom affiché brightspace",
+      "display name",
+      "liste de classe nom",
+      "class list name",
+      "transition nom"
+    ],
+    "question": {
+      "fr": "Comment utiliser un nom privilégié à l'Université ?",
+      "en": "How do I use a preferred name at the University?"
+    },
+    "answer": {
+      "fr": "Dans uoZone, sous Applications, choisis Données personnelles, puis l'onglet Noms ; clique sur Modifier, change ton nom et enregistre. Tu n'as pas à justifier ton choix, et les systèmes liés à uoZone sont mis à jour dans les cinq jours ouvrables. Fais-le avant le début du trimestre, car les listes de classe circulent au début et ne sont pas mises à jour ensuite.",
+      "en": "In uoZone, under Applications, select Personal Information, then the Names tab; click Edit, change your name and save. You don't need to explain your choice, and systems linked to uoZone are updated within five business days. Do it before the term starts, because class lists are circulated at the beginning and aren't updated afterwards."
+    },
+    "sources": [
+      {
+        "label": "Changing your name — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents/changing-your-name"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-nom-privilegie-ou-apparait",
+    "category": "reglements",
+    "keywords": [
+      "où apparaît mon nom privilégié",
+      "where preferred name appears",
+      "nom sur diplôme",
+      "name on diploma",
+      "nom sur carte étudiante",
+      "name on student card",
+      "nom légal documents",
+      "legal name documents",
+      "nom t2202",
+      "name on tax slip"
+    ],
+    "question": {
+      "fr": "Sur quels documents apparaît mon nom privilégié, et sur lesquels mon nom légal ?",
+      "en": "Which documents show my preferred name, and which show my legal name?"
+    },
+    "answer": {
+      "fr": "Ton nom privilégié est utilisé notamment dans ta boîte courriel uOttawa, les listes de classe, Brightspace et ta carte uOttawa. Ton nom principal, ou légal, reste sur les documents officiels : attestations, diplômes et certificats, thèses, documents fiscaux et financiers, et documents d'emploi. Pour une nouvelle carte à ton nom privilégié, rends-toi au Service de la carte uOttawa, au 90 Université, pour une photo ; des frais de remplacement s'appliquent.",
+      "en": "Your preferred name is used in places like your uOttawa inbox, class lists, Brightspace and your uOttawa card. Your primary, or legal, name stays on official documents: letters of attestation, diplomas and certificates, theses, tax and financial documents, and employment documents. For a new card showing your preferred name, go to the uOttawa Card Service at 90 University for a photo; replacement fees apply."
+    },
+    "sources": [
+      {
+        "label": "Changing your name — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents/changing-your-name"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-nom-avant-impression-diplome",
+    "category": "calendrier",
+    "keywords": [
+      "nom sur mon diplôme",
+      "name on my diploma",
+      "date limite changement de nom diplôme",
+      "name change deadline diploma",
+      "changer nom avant collation",
+      "change name before convocation",
+      "nom diplôme erreur",
+      "wrong name diploma",
+      "vérifier mon nom",
+      "check my name"
+    ],
+    "question": {
+      "fr": "Quelle est la date limite pour changer mon nom avant l'impression de mon diplôme ?",
+      "en": "What's the deadline to change my name before my diploma is printed?"
+    },
+    "answer": {
+      "fr": "Vérifie d'abord ton nom dans uoZone, sous Données personnelles : c'est ce nom principal qui sera imprimé. Pour qu'un changement soit fait à temps, envoie ta demande au plus tard le 2 mars pour un grade conféré en mars, le 20 mai pour mai, le 16 septembre pour octobre et le 1er décembre pour décembre ; un changement récent peut prendre jusqu'à deux semaines à apparaître.",
+      "en": "First check your name in uoZone under Personal Information: that primary name is what will be printed. For a change to be made in time, submit your request by March 2 for a degree conferred in March, May 20 for May, September 16 for October and December 1 for December; a recent change can take up to two weeks to show."
+    },
+    "sources": [
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-changer-adresse",
+    "category": "services",
+    "keywords": [
+      "changer mon adresse",
+      "change my address",
+      "nouvelle adresse",
+      "new address",
+      "adresse postale",
+      "mailing address",
+      "déménagement",
+      "moving",
+      "mettre à jour mes coordonnées",
+      "update contact information"
+    ],
+    "question": {
+      "fr": "Comment changer mon adresse dans mon dossier ?",
+      "en": "How do I change my address in my student record?"
+    },
+    "answer": {
+      "fr": "Tu peux modifier ton adresse toi-même dans uoZone, sous l'onglet Applications. Garde-la à jour, surtout avant une demande de remboursement ou une commande de documents papier envoyés par la poste. InfoService peut aussi t'aider pour un changement d'adresse.",
+      "en": "You can update your address yourself in uoZone, under the Applications tab. Keep it current, especially before a refund request or an order for paper documents sent by mail. InfoService can also help with a change of address."
+    },
+    "sources": [
+      {
+        "label": "Self-service (student accounts) — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/self-service"
+      },
+      {
+        "label": "Contact — uOttawa",
+        "url": "https://www.uottawa.ca/en/contact"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-numero-etudiant",
+    "category": "services",
+    "keywords": [
+      "numéro étudiant",
+      "student number",
+      "numéro d'étudiant oublié",
+      "forgot student number",
+      "où trouver mon numéro étudiant",
+      "where is my student number",
+      "student id number",
+      "matricule",
+      "numéro de compte paiement",
+      "account number payment"
+    ],
+    "question": {
+      "fr": "C'est quoi mon numéro étudiant et à quoi il sert ?",
+      "en": "What is my student number and what is it used for?"
+    },
+    "answer": {
+      "fr": "Tu as reçu ton numéro étudiant en même temps que ton identifiant uoAccess et ton mot de passe, quand tu as fait ta demande d'admission. Il sert partout : par exemple comme numéro de compte pour payer tes droits en ligne, et dans tes demandes à InfoService. Si tu ne le retrouves pas, adresse-toi à InfoService, et ne donne jamais ton mot de passe à personne.",
+      "en": "You received your student number together with your uoAccess ID and password when you applied for admission. It's used everywhere: for example as the account number to pay your fees online, and in your requests to InfoService. If you can't find it, contact InfoService, and never give your password to anyone."
+    },
+    "sources": [
+      {
+        "label": "Current students — uOttawa",
+        "url": "https://www.uottawa.ca/en/current-students"
+      },
+      {
+        "label": "Student accounts FAQ — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/faq"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "pointer"
+  },
+  {
+    "id": "k-courriel-officiel",
+    "category": "reglements",
+    "keywords": [
+      "courriel officiel",
+      "official email",
+      "adresse uottawa",
+      "uottawa email",
+      "l'université m'écrit où",
+      "how does the university contact me",
+      "lire mes courriels",
+      "check my email",
+      "communications officielles",
+      "official communications"
+    ],
+    "question": {
+      "fr": "Comment l'Université communique-t-elle avec moi ?",
+      "en": "How does the University communicate with me?"
+    },
+    "answer": {
+      "fr": "Uniquement par ton adresse courriel officielle @uOttawa.ca, que tu reçois une fois inscrit à tes cours. C'est ta responsabilité de la consulter régulièrement : c'est là que tu reçois, par exemple, l'avis d'ouverture de l'inscription au grade ou les courriels de MesCertif.",
+      "en": "Only through your official @uOttawa.ca email address, which you get once you've enrolled in courses. It's your responsibility to check it regularly: that's where you'll receive, for example, the notice that degree registration is open or emails from MyCreds."
+    },
+    "sources": [
+      {
+        "label": "Current students — uOttawa",
+        "url": "https://www.uottawa.ca/en/current-students"
+      },
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-uozone-dossier",
+    "category": "services",
+    "keywords": [
+      "uozone dossier",
+      "uozone tasks",
+      "quoi faire dans uozone",
+      "what can i do in uozone",
+      "applications uozone",
+      "uozone applications",
+      "centre étudiant",
+      "student center",
+      "commander documents officiels",
+      "purchase official documents"
+    ],
+    "question": {
+      "fr": "Quelles démarches de mon dossier puis-je faire moi-même dans uoZone ?",
+      "en": "Which student record tasks can I do myself in uoZone?"
+    },
+    "answer": {
+      "fr": "Sous l'onglet Applications, tu peux notamment commander des documents officiels, télécharger ton relevé de notes ou ton attestation d'inscription non officiels, modifier tes données personnelles et ton nom privilégié, faire ta demande de remise de diplôme et demander un remboursement. Le Centre étudiant te montre ton état de compte et l'état de ta demande de diplôme, et tes feuillets d'impôt sont sous l'onglet Finances et emplois.",
+      "en": "Under the Applications tab, you can purchase official documents, download your unofficial transcript or enrolment verification, update your personal information and preferred name, apply for graduation and request a refund. The Student Center shows your statement of account and your graduation status, and your tax slips are under the Finances and jobs tab."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      },
+      {
+        "label": "Changing your name — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents/changing-your-name"
+      },
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      },
+      {
+        "label": "Self-service (student accounts) — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/self-service"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-infoservice-services",
+    "category": "services",
+    "keywords": [
+      "infoservice services",
+      "what does infoservice do",
+      "à quoi sert infoservice",
+      "registraire",
+      "registrar",
+      "service du registraire",
+      "registrar office",
+      "statut légal",
+      "legal status",
+      "question dossier étudiant"
+    ],
+    "question": {
+      "fr": "Pour quelles démarches est-ce que je vais à InfoService ?",
+      "en": "What can InfoService help me with?"
+    },
+    "answer": {
+      "fr": "InfoService s'occupe des droits de scolarité, de la carte uOttawa, des relevés de notes, attestations d'études et copies de diplômes, et des questions de registraire comme l'obtention du grade, le changement de nom, le changement d'adresse et le statut légal. On y traite aussi l'inscription des étudiants libres, l'immigration et le RAMU pour les étudiants internationaux.",
+      "en": "InfoService handles tuition fees, the uOttawa card, transcripts, enrolment verifications and diploma copies, and registrar matters such as obtaining your degree, name changes, changes of address and legal status. It also handles non-degree student enrolment, immigration and UHIP for international students."
+    },
+    "sources": [
+      {
+        "label": "Contact — uOttawa",
+        "url": "https://www.uottawa.ca/en/contact"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-infoservice-heures-ete",
+    "category": "services",
+    "keywords": [
+      "heures infoservice été",
+      "infoservice summer hours",
+      "infoservice ouvert quand",
+      "infoservice hours",
+      "infoservice juin",
+      "infoservice july",
+      "heures d'ouverture registraire",
+      "registrar hours",
+      "infoservice adresse",
+      "infoservice address"
+    ],
+    "question": {
+      "fr": "Quelles sont les heures d'InfoService pendant l'année et l'été ?",
+      "en": "What are InfoService's hours during the year and in summer?"
+    },
+    "answer": {
+      "fr": "InfoService est au pavillon Tabaret, 550, rue Cumberland, local 129. Du 1er septembre au 31 mai, c'est ouvert du lundi au vendredi de 9 h à 16 h 30 ; du 1er juin au 31 août, du lundi au vendredi de 9 h à 15 h 30.",
+      "en": "InfoService is in Tabaret Hall, 550 Cumberland Street, Room 129. From September 1 to May 31, it's open Monday to Friday, 9 a.m. to 4:30 p.m.; from June 1 to August 31, Monday to Friday, 9 a.m. to 3:30 p.m."
+    },
+    "sources": [
+      {
+        "label": "Contact — uOttawa",
+        "url": "https://www.uottawa.ca/en/contact"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-file-attente-virtuelle",
+    "category": "services",
+    "keywords": [
+      "file d'attente virtuelle",
+      "virtual line",
+      "virtual queue",
+      "prendre un numéro",
+      "take a number",
+      "attendre infoservice",
+      "wait at infoservice",
+      "qless",
+      "temps d'attente",
+      "wait time",
+      "billet infoservice"
+    ],
+    "question": {
+      "fr": "Comment fonctionne la file d'attente virtuelle ?",
+      "en": "How does the virtual line work?"
+    },
+    "answer": {
+      "fr": "Pour les services en personne et par téléphone, tu dois rejoindre la file virtuelle : tu t'inscris à distance, tu attends où tu veux et tu reçois des avis sur ton téléphone quand ton tour approche. Si tu ne veux pas donner ton numéro de téléphone, tu peux entrer ton prénom et l'initiale de ton nom, mais tu dois alors rester sur place et suivre ta position sur l'écran. Le système, QLess, conserve ses données au Canada.",
+      "en": "For in-person and phone services, you must join the virtual line: you sign up remotely, wait wherever you like and get notifications on your phone as your turn approaches. If you don't want to give your phone number, you can enter your first name and last initial, but then you must stay on site and check your position on the screen. The system, QLess, stores its data in Canada."
+    },
+    "sources": [
+      {
+        "label": "Waiting lines and appointments — uOttawa",
+        "url": "https://www.uottawa.ca/en/contact/virtual-line"
+      },
+      {
+        "label": "Contact — uOttawa",
+        "url": "https://www.uottawa.ca/en/contact"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-rendez-vous-infoservice",
+    "category": "services",
+    "keywords": [
+      "rendez-vous infoservice",
+      "infoservice appointment",
+      "prendre rendez-vous",
+      "book an appointment",
+      "appeler infoservice",
+      "call infoservice",
+      "téléphone infoservice",
+      "infoservice phone",
+      "rendez-vous faculté",
+      "faculty appointment"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux prendre rendez-vous avec InfoService ou ma faculté ?",
+      "en": "Can I book an appointment with InfoService or my faculty?"
+    },
+    "answer": {
+      "fr": "Oui : à partir de la file virtuelle de l'Université, tu vois les temps d'attente et tu peux réserver un rendez-vous. InfoService offre le service en personne ou par téléphone, et la plupart des bureaux des études des facultés, en personne ou en virtuel sur Teams ; choisis le bureau voulu dans la liste des files virtuelles.",
+      "en": "Yes: from the University's virtual line, you can see wait times and book an appointment. InfoService offers in-person or phone service, and most faculty studies offices offer in-person or virtual service on Teams; pick the office you need from the list of virtual lines."
+    },
+    "sources": [
+      {
+        "label": "Waiting lines and appointments — uOttawa",
+        "url": "https://www.uottawa.ca/en/contact/virtual-line"
+      },
+      {
+        "label": "Contact — uOttawa",
+        "url": "https://www.uottawa.ca/en/contact"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-bureaux-etudes-superieures",
+    "category": "services",
+    "keywords": [
+      "bureau études supérieures",
+      "graduate studies office",
+      "bureau maîtrise doctorat",
+      "masters phd office",
+      "où est le bureau des cycles supérieurs",
+      "where is graduate office",
+      "études supérieures génie",
+      "engineering graduate office",
+      "études supérieures sciences",
+      "science graduate office"
+    ],
+    "question": {
+      "fr": "Où sont les bureaux des études supérieures des facultés ?",
+      "en": "Where are the faculties' graduate studies offices?"
+    },
+    "answer": {
+      "fr": "Quelques exemples : Arts au pavillon Simard, local 416 ; Génie au pavillon SITE, local STE 1024 ; Sciences au pavillon Gendron, local 181 ; Sciences de la santé au pavillon Montpetit, local 242 ; et Médecine au pavillon Roger-Guindon, local 2016, en virtuel. Tu peux rejoindre leur file virtuelle ou prendre rendez-vous à partir de la page des files d'attente.",
+      "en": "Some examples: Arts in Simard Hall, Room 416; Engineering in the SITE Building, STE 1024; Science in Gendron Hall, Room 181; Health Sciences in Montpetit Hall, Room 242; and Medicine in Roger Guindon Hall, Room 2016, virtually. You can join their virtual line or book an appointment from the waiting lines page."
+    },
+    "sources": [
+      {
+        "label": "Waiting lines and appointments — uOttawa",
+        "url": "https://www.uottawa.ca/en/contact/virtual-line"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-bureaux-droit",
+    "category": "services",
+    "keywords": [
+      "bureau droit civil",
+      "civil law office",
+      "bureau common law",
+      "common law office",
+      "faculté de droit bureau",
+      "law faculty office",
+      "fauteux 201",
+      "fauteux 237",
+      "secrétariat droit",
+      "law student office"
+    ],
+    "question": {
+      "fr": "Où est le bureau des études de la Faculté de droit ?",
+      "en": "Where is the Faculty of Law's student office?"
+    },
+    "answer": {
+      "fr": "La Section de droit civil est au pavillon Fauteux, local 201, avec un service en personne, par téléphone ou virtuel sur Teams. La Section de common law est au pavillon Fauteux, local 237, avec des rendez-vous en personne ou par téléphone. Les deux ont une file virtuelle.",
+      "en": "The Civil Law Section is in Fauteux Hall, Room 201, with in-person, phone or virtual service on Teams. The Common Law Section is in Fauteux Hall, Room 237, with in-person or phone appointments. Both have a virtual line."
+    },
+    "sources": [
+      {
+        "label": "Waiting lines and appointments — uOttawa",
+        "url": "https://www.uottawa.ca/en/contact/virtual-line"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-conseiller-scolaire",
+    "category": "services",
+    "keywords": [
+      "conseiller scolaire",
+      "academic advisor",
+      "conseiller pédagogique",
+      "academic advising",
+      "qui m'aide pour mon parcours",
+      "who helps with my program",
+      "bureau des études premier cycle",
+      "undergraduate office",
+      "aide choix de cours",
+      "help course selection"
+    ],
+    "question": {
+      "fr": "Qui est mon conseiller scolaire, et pour quoi peut-il m'aider ?",
+      "en": "Who is my academic advisor, and what can they help with?"
+    },
+    "answer": {
+      "fr": "Les conseillers sont au bureau des études de premier cycle de ta faculté. Ils t'aident pour le choix de cours et l'inscription, le changement de programme, les équivalences, les échanges, ton parcours, l'obtention de ton grade, ta situation scolaire et les reports d'examen. Pour une question sur un cours d'une autre faculté, comme un report d'examen, adresse-toi au bureau de la faculté qui offre ce cours.",
+      "en": "Advisors are in your faculty's Office of Undergraduate Studies. They help with course selection and registration, program changes, equivalencies, exchanges, your academic path, obtaining your degree, academic standing and exam deferrals. For a question about a course in another faculty, such as an exam deferral, contact the office of the faculty offering that course."
+    },
+    "sources": [
+      {
+        "label": "Support from your faculty — uOttawa",
+        "url": "https://www.uottawa.ca/study/academic-support-mentoring/faculty"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-statut-legal-preuve",
+    "category": "finances",
+    "keywords": [
+      "preuve de citoyenneté",
+      "proof of citizenship",
+      "statut légal",
+      "legal status",
+      "frais canadiens",
+      "canadian fees",
+      "résident permanent frais",
+      "permanent resident fees",
+      "passeport infoservice",
+      "passport infoservice",
+      "statut au canada"
+    ],
+    "question": {
+      "fr": "Je suis citoyen canadien ou résident permanent : comment prouver mon statut pour payer les frais canadiens ?",
+      "en": "I'm a Canadian citizen or permanent resident. How do I prove my status to pay Canadian fees?"
+    },
+    "answer": {
+      "fr": "Présente une preuve de ton statut à InfoService. Un passeport canadien valide suffit, et dans la plupart des cas, une pièce d'identité avec photo et un numéro d'assurance sociale qui ne commence pas par 9 suffisent aussi. Si tu as demandé la résidence permanente, il faut une lettre officielle d'IRCC, l'accusé de réception de ta demande ou une capture d'écran de ton portail indiquant « en cours » ; une lettre disant seulement que la demande a été soumise ne suffit pas.",
+      "en": "Show proof of your status to InfoService. A valid Canadian passport is enough, and in most cases, photo ID plus a social insurance number that doesn't start with 9 is also enough. If you've applied for permanent residence, you need an official IRCC letter, the confirmation email acknowledging your application, or a screenshot of your portal showing \"in process\"; a letter stating only that the application was submitted isn't enough."
+    },
+    "sources": [
+      {
+        "label": "Factors affecting tuition fees — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-statut-legal-date-limite",
+    "category": "calendrier",
+    "keywords": [
+      "date limite statut légal",
+      "legal status deadline",
+      "frais internationaux par erreur",
+      "charged international fees",
+      "changer mon statut de frais",
+      "change fee status",
+      "31 octobre statut",
+      "january 31 status",
+      "rétroactif statut",
+      "retroactive status"
+    ],
+    "question": {
+      "fr": "Quelle est la date limite pour faire reconnaître mon statut canadien et payer les frais canadiens ?",
+      "en": "What's the deadline to have my Canadian status recognized so I pay Canadian fees?"
+    },
+    "answer": {
+      "fr": "Tes documents doivent être soumis au plus tard le 31 octobre pour l'automne et le 31 janvier pour l'hiver. Pour l'été, c'est le 31 juillet pour les étudiants de premier cycle, et le 30 juin pour les étudiants des cycles supérieurs inscrits au printemps-été. Après la date limite, tu paies les frais internationaux, et ton statut ne peut pas être changé rétroactivement.",
+      "en": "Your documents must be submitted by October 31 for the fall term and January 31 for the winter term. For summer, it's July 31 for undergraduate students, and June 30 for graduate students enrolled in the spring-summer term. After the deadline, you pay international fees, and your status can't be changed retroactively."
+    },
+    "sources": [
+      {
+        "label": "Factors affecting tuition fees — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-residence-ontario-frais",
+    "category": "finances",
+    "keywords": [
+      "résident de l'ontario",
+      "ontario resident",
+      "frais ontario ou hors ontario",
+      "ontario or out of province fees",
+      "résidence 12 mois",
+      "12 months residency",
+      "étudiant d'une autre province",
+      "student from another province",
+      "statut de résidence frais",
+      "residency status fees"
+    ],
+    "question": {
+      "fr": "Comment l'Université détermine-t-elle si je suis résident de l'Ontario pour mes frais ?",
+      "en": "How does the University decide whether I'm an Ontario resident for fees?"
+    },
+    "answer": {
+      "fr": "L'Ontario doit être la dernière province où tu as habité 12 mois consécutifs avant ton premier jour d'études à l'Université, sans compter le temps passé aux études postsecondaires à temps plein. Pour un élève du secondaire, c'est la province de la dernière école fréquentée ; pour les autres, celle de l'adresse donnée au moment de la demande. Certaines situations, comme celle d'un étudiant à charge dont les parents habitent en Ontario depuis 12 mois, peuvent aussi donner droit au statut de résident.",
+      "en": "Ontario must be the most recent province where you lived for 12 consecutive months before your first day of study at the University, not counting time as a full-time postsecondary student. For high school students, it's the province of the last school attended; for others, the province of the home address given when applying. Some situations, such as a dependent student whose parents have lived in Ontario for 12 months, can also qualify you as a resident."
+    },
+    "sources": [
+      {
+        "label": "Factors affecting tuition fees — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-etudiant-a-charge-ontario",
+    "category": "finances",
+    "keywords": [
+      "étudiant à charge",
+      "dependent student",
+      "parents en ontario",
+      "parents live in ontario",
+      "résidence des parents",
+      "parents residency",
+      "statut ontario exception",
+      "ontario residency exception",
+      "jamais marié",
+      "never married"
+    ],
+    "question": {
+      "fr": "Mes parents habitent en Ontario, mais pas moi : est-ce que je peux quand même être considéré résident de l'Ontario ?",
+      "en": "My parents live in Ontario but I don't. Can I still be considered an Ontario resident?"
+    },
+    "answer": {
+      "fr": "Oui, si tu es un étudiant à charge et que l'Ontario est la dernière province où tes parents ou ton répondant ont habité au moins 12 mois consécutifs. Pour être à charge, tu ne dois jamais avoir été marié ni en union de fait, ni parent seul ayant la garde d'enfants ; tu dois commencer tes études dans les six ans suivant le secondaire, et ne pas avoir travaillé à temps plein 24 mois d'affilée.",
+      "en": "Yes, if you're a dependent student and Ontario is the most recent province where your parents or sponsor have lived for at least 12 consecutive months. To be dependent, you must never have been married or in a common-law relationship, or a single parent with custody of children; you must be starting postsecondary studies within six years of leaving high school, and not have worked full time for 24 months in a row."
+    },
+    "sources": [
+      {
+        "label": "Factors affecting tuition fees — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-frais-canadiens-autres-statuts",
+    "category": "finances",
+    "keywords": [
+      "permis de travail frais",
+      "work permit fees",
+      "réfugié frais",
+      "refugee fees",
+      "diplomate frais",
+      "diplomat fees",
+      "conjoint frais canadiens",
+      "spouse canadian fees",
+      "personne à charge",
+      "dependant",
+      "qui paie frais canadiens",
+      "who pays canadian fees"
+    ],
+    "question": {
+      "fr": "À part les citoyens et résidents permanents, qui peut payer les frais canadiens ?",
+      "en": "Besides citizens and permanent residents, who can pay Canadian fees?"
+    },
+    "answer": {
+      "fr": "Les membres du corps diplomatique, les réfugiés acceptés par le gouvernement du Canada, les personnes à charge des citoyens et résidents permanents, et les titulaires d'un permis de travail valide nommant un employeur situé en Ontario, ainsi que leurs personnes à charge. Ces personnes doivent présenter leurs pièces justificatives à InfoService. Certains permis sont exclus, par exemple le permis de travail postdiplôme ou un permis lié à un stage, ou le fait d'occuper un assistanat d'enseignement ou de recherche aux cycles supérieurs.",
+      "en": "Members of the diplomatic corps, refugees accepted by the Government of Canada, dependants of citizens and permanent residents, and holders of a valid work permit naming an employer located in Ontario, along with their dependants. These students must show their supporting documents to InfoService. Some permits are excluded, such as a post-graduation work permit or a permit tied to an internship, or holding a graduate teaching or research assistantship."
+    },
+    "sources": [
+      {
+        "label": "Factors affecting tuition fees — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-temps-plein-frais-statut",
+    "category": "reglements",
+    "keywords": [
+      "temps plein frais",
+      "full time fees",
+      "12 crédits",
+      "12 units",
+      "temps plein prêt étudiant",
+      "full time student loan",
+      "passer à temps partiel",
+      "switch to part time",
+      "statut temps plein cycles supérieurs",
+      "graduate full time status"
+    ],
+    "question": {
+      "fr": "Combien de crédits faut-il pour être à temps plein, et que se passe-t-il si je passe à temps partiel ?",
+      "en": "How many units do I need to be full time, and what happens if I go part time?"
+    },
+    "answer": {
+      "fr": "Au premier cycle, il faut au moins 12 crédits par trimestre pour être à temps plein, et les étudiants à temps plein paient des droits forfaitaires. Aux cycles supérieurs, les étudiants inscrits à six crédits ou plus sont généralement considérés à temps plein. Passer à temps partiel peut te rendre inadmissible à de l'aide financière ou au renouvellement de bourses, alors pèse bien les conséquences avant.",
+      "en": "At the undergraduate level, you need at least 12 units per term to be full time, and full-time students pay a flat tuition fee. At the graduate level, students enrolled in six or more units are generally considered full time. Going part time can make you ineligible for financial aid or scholarship renewals, so weigh the consequences carefully first."
+    },
+    "sources": [
+      {
+        "label": "Factors affecting tuition fees — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-numero-ein-itn",
+    "category": "finances",
+    "keywords": [
+      "numéro ein",
+      "ein number",
+      "étudiant américain impôt",
+      "american student tax",
+      "ftin uottawa",
+      "federal tax identification number",
+      "pas de numéro d'assurance sociale impôt",
+      "no sin tax",
+      "itn non-résident",
+      "individual tax number"
+    ],
+    "question": {
+      "fr": "Je suis étudiant américain ou international : quels numéros fiscaux me faut-il ?",
+      "en": "I'm an American or international student. Which tax numbers do I need?"
+    },
+    "answer": {
+      "fr": "Le numéro d'identification d'employeur de l'Université, demandé par les États-Unis, est le 98-0654654. Si tu es étudiant international sans numéro d'assurance sociale, il te faut un numéro d'impôt pour les non-résidents, que tu demandes à l'Agence du revenu du Canada. L'Université ne donne pas de conseils fiscaux.",
+      "en": "The University's Employer Identification Number, required by the United States, is 98-0654654. If you're an international student without a social insurance number, you need an Individual Tax Number for Non-Residents, which you request from the Canada Revenue Agency. The University doesn't provide tax advice."
+    },
+    "sources": [
+      {
+        "label": "Self-service (student accounts) — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/self-service"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-formulaires-pret-etudiant",
+    "category": "finances",
+    "keywords": [
+      "confirmer inscription prêt",
+      "confirm enrolment loan",
+      "preuve temps plein prêt",
+      "proof full time loan",
+      "formulaire prêt étudiant",
+      "student loan form",
+      "attestation pour banque",
+      "letter for bank",
+      "attestation pour rafeo",
+      "osap enrolment confirmation"
+    ],
+    "question": {
+      "fr": "Ma banque ou mon programme de prêt veut une preuve que je suis inscrit : quoi demander ?",
+      "en": "My bank or loan program wants proof that I'm enrolled. What should I ask for?"
+    },
+    "answer": {
+      "fr": "Le document officiel qui certifie ton inscription est l'attestation d'études, que tu commandes dans uoZone sous Commander des documents officiels. Attention : les formulaires de prêts étudiants sont exclus du service de formulaires de tiers signés par le registraire. Si l'organisme exige un formulaire particulier, vérifie avec InfoService la marche à suivre.",
+      "en": "The official document certifying your enrolment is the enrolment verification, which you order in uoZone under Purchase Official Documents. Note that student loan forms are excluded from the service for third-party forms signed by the Registrar. If the organization requires a specific form, check with InfoService on how to proceed."
+    },
+    "sources": [
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "pointer"
+  },
+  {
+    "id": "k-periodes-inscription-grade",
+    "category": "calendrier",
+    "keywords": [
+      "inscription au grade",
+      "degree registration",
+      "demande de remise de diplôme",
+      "apply for graduation",
+      "date limite diplôme",
+      "graduation deadline",
+      "quand demander mon diplôme",
+      "when to apply to graduate",
+      "graduation mars 2027",
+      "graduation application periods"
+    ],
+    "question": {
+      "fr": "Quelles sont les périodes pour demander mon diplôme en 2026-2027 ?",
+      "en": "What are the periods to apply for graduation in 2026-2027?"
+    },
+    "answer": {
+      "fr": "Du 13 novembre au 1er décembre 2026, pour un grade conféré le 9 décembre, seulement en sciences de la santé et en droit civil. Du 17 février au 2 mars 2027, pour un grade conféré le 17 mars, sauf en common law et à Telfer. Et du 17 février au 31 mars 2027, pour un grade conféré le 26 mai 2027. Tu reçois un courriel à ton adresse uOttawa quand ta période s'ouvre.",
+      "en": "From November 13 to December 1, 2026, for a degree conferred on December 9, for Health Sciences and Civil Law only. From February 17 to March 2, 2027, for a degree conferred on March 17, except Common Law and Telfer. And from February 17 to March 31, 2027, for a degree conferred on May 26, 2027. You'll get an email at your uOttawa address when your period opens."
+    },
+    "sources": [
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-comment-demander-diplome",
+    "category": "services",
+    "keywords": [
+      "comment demander mon diplôme",
+      "how to apply for graduation",
+      "demande de remise de diplôme uozone",
+      "apply for graduation uozone",
+      "suivre ma demande de diplôme",
+      "track graduation status",
+      "inscription grade en ligne",
+      "register for degree",
+      "je ne vais pas à la collation",
+      "not attending convocation"
+    ],
+    "question": {
+      "fr": "Comment faire ma demande pour recevoir mon diplôme ?",
+      "en": "How do I apply to receive my degree?"
+    },
+    "answer": {
+      "fr": "Pendant ta période d'inscription, va dans uoZone, sous Applications, choisis Demande de remise de diplôme et suis les instructions ; tu peux ensuite suivre l'état de ta demande dans le Centre étudiant. Tu dois t'inscrire même si tu n'assistes pas à la cérémonie. Ta faculté analyse ensuite ton dossier, puis ton nom est soumis au Sénat pour confirmation.",
+      "en": "During your registration period, go to uoZone, under Applications, select Apply for graduation and follow the instructions; you can then track your status in the Student Center. You must register even if you're not attending the ceremony. Your faculty then reviews your file, and your name is submitted to the Senate for confirmation."
+    },
+    "sources": [
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      },
+      {
+        "label": "Obtain your degree — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-grade-date-manquee",
+    "category": "services",
+    "keywords": [
+      "date limite diplôme passée",
+      "missed graduation deadline",
+      "oublié demande diplôme",
+      "forgot to apply for graduation",
+      "inscription grade fermée",
+      "registration closed",
+      "formulaire inscription au grade",
+      "degree registration form",
+      "diplôme autre programme",
+      "degree other program"
+    ],
+    "question": {
+      "fr": "J'ai manqué la période d'inscription au grade : qu'est-ce que je fais ?",
+      "en": "I missed the degree registration period. What do I do?"
+    },
+    "answer": {
+      "fr": "Si la période est fermée, remplis le formulaire Inscription au grade et demande de diplôme et soumets-le à ta faculté. C'est aussi ce formulaire qu'il faut si tu demandes un grade dans un autre programme que le tien après la période ; pendant la période, envoie plutôt un courriel à ta faculté.",
+      "en": "If the period is closed, fill out the Registration for Degree and Request for Diploma form and submit it to your faculty. You also use this form if you're requesting a degree in a program other than your own after the period ends; during the period, email your faculty instead."
+    },
+    "sources": [
+      {
+        "label": "Convocation FAQ — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+      },
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-grade-pas-de-courriel",
+    "category": "services",
+    "keywords": [
+      "pas reçu courriel diplôme",
+      "no graduation email",
+      "je finis mais pas de courriel",
+      "finishing but no email",
+      "pas d'invitation inscription grade",
+      "no degree registration email",
+      "diplôme pas accordé",
+      "degree not granted",
+      "échec exigences diplôme",
+      "did not meet degree requirements"
+    ],
+    "question": {
+      "fr": "Je pense finir ce trimestre, mais je n'ai pas reçu de courriel pour m'inscrire au grade : que faire ?",
+      "en": "I expect to finish this term but didn't get an email to register for my degree. What should I do?"
+    },
+    "answer": {
+      "fr": "Si tu n'as rien reçu après la première semaine de la période d'inscription qui te concerne, communique avec ta faculté dès que possible. Et si, après t'être inscrit, tu ne remplis finalement pas les exigences de ton programme, tu devras soumettre une nouvelle demande une fois les exigences remplies, pour la collation suivante.",
+      "en": "If you haven't received anything after the first week of the registration period that applies to you, contact your faculty as soon as possible. And if, after registering, you don't end up meeting your program requirements, you'll need to submit a new request once you've met them, for the next convocation."
+    },
+    "sources": [
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      },
+      {
+        "label": "Obtain your degree — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-prononciation-nom-collation",
+    "category": "services",
+    "keywords": [
+      "prononciation de mon nom",
+      "name pronunciation",
+      "comment on va dire mon nom",
+      "how will they say my name",
+      "nom phonétique",
+      "phonetic name",
+      "lecture du nom collation",
+      "name read at convocation",
+      "nom en anglais ou français",
+      "name english or french"
+    ],
+    "question": {
+      "fr": "Comment m'assurer que mon nom sera bien prononcé à la collation des grades ?",
+      "en": "How can I make sure my name is pronounced correctly at convocation?"
+    },
+    "answer": {
+      "fr": "Dans ta demande de diplôme, écris seulement la prononciation phonétique de ton nom complet, par exemple Ee-un Duh-lorm, avec une majuscule au début du prénom et du nom. Tu peux choisir une prononciation en français ou en anglais, ou mettre (FR) et (EN) devant chaque partie. Les liens audio, les explications écrites et les mots qui riment ne sont pas acceptés.",
+      "en": "In your graduation application, write only the phonetic pronunciation of your full name, for example Ee-un Duh-lorm, with a capital at the start of your first and last names. You can choose French or English pronunciation, or put (FR) and (EN) in front of each part. Audio links, written explanations and rhyming words aren't accepted."
+    },
+    "sources": [
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-diplome-remise-numerique",
+    "category": "services",
+    "keywords": [
+      "quand je reçois mon diplôme",
+      "when do i get my diploma",
+      "diplôme numérique gratuit",
+      "free digital diploma",
+      "diplôme pas réclamé",
+      "unclaimed diploma",
+      "diplôme par la poste",
+      "diploma by mail",
+      "diplôme mescertif",
+      "mycreds diploma"
+    ],
+    "question": {
+      "fr": "Comment est-ce que je reçois mon diplôme ?",
+      "en": "How do I receive my diploma?"
+    },
+    "answer": {
+      "fr": "Tu reçois gratuitement ton diplôme original, format standard, à ta cérémonie ; les diplômes non réclamés sont envoyés par la poste. Tu reçois aussi un diplôme numérique gratuit dans MesCertif peu après que le Sénat a conféré ton grade, avec un courriel de confirmation à ton adresse uOttawa.",
+      "en": "You receive your original standard-size diploma free of charge at your ceremony; unclaimed diplomas are mailed out. You also get a free digital diploma in MyCreds shortly after the Senate confers your degree, with a confirmation email to your uOttawa address."
+    },
+    "sources": [
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-mentions-distinction",
+    "category": "reglements",
+    "keywords": [
+      "summa cum laude",
+      "magna cum laude",
+      "cum laude",
+      "mention sur diplôme",
+      "honours on diploma",
+      "distinction diplôme",
+      "diploma distinction",
+      "avec grande distinction",
+      "with great honour",
+      "mention d'excellence"
+    ],
+    "question": {
+      "fr": "Qu'est-ce que les mentions summa cum laude, magna cum laude et cum laude ?",
+      "en": "What are the summa cum laude, magna cum laude and cum laude citations?"
+    },
+    "answer": {
+      "fr": "Selon ta moyenne pondérée, ton diplôme peut porter l'une de ces mentions : summa cum laude, avec très grande distinction ; magna cum laude, avec grande distinction ; ou cum laude, avec distinction. Elles apparaissent seulement sur les diplômes et les relevés du premier cycle.",
+      "en": "Depending on your grade point average, your diploma may carry one of these citations: summa cum laude, with highest honour; magna cum laude, with great honour; or cum laude, with honour. They appear only on undergraduate diplomas and transcripts."
+    },
+    "sources": [
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-deux-grades",
+    "category": "services",
+    "keywords": [
+      "deux diplômes",
+      "two degrees",
+      "deux grades même temps",
+      "two degrees same time",
+      "deux facultés collation",
+      "two faculties convocation",
+      "deux cérémonies",
+      "two ceremonies",
+      "double diplôme collation",
+      "double degree convocation"
+    ],
+    "question": {
+      "fr": "Je vais recevoir deux grades de deux facultés : comment ça se passe ?",
+      "en": "I'm receiving two degrees from two faculties. How does that work?"
+    },
+    "answer": {
+      "fr": "Tu dois faire une demande de diplôme pour chacun des grades. Tu peux ensuite assister aux deux cérémonies, ou demander de recevoir les deux grades à la même cérémonie en écrivant au bureau de la collation pour indiquer ton choix.",
+      "en": "You must submit a graduation request for each degree. You can then attend both ceremonies, or ask to receive both degrees at the same ceremony by emailing the convocation office with your preference."
+    },
+    "sources": [
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      },
+      {
+        "label": "Convocation FAQ — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-solde-du-collation",
+    "category": "finances",
+    "keywords": [
+      "solde dû collation",
+      "money owing convocation",
+      "dette université diplôme",
+      "owe the university diploma",
+      "compte impayé diplôme",
+      "unpaid account diploma",
+      "assister collation sans payer",
+      "attend convocation with balance",
+      "diplôme retenu",
+      "diploma withheld"
+    ],
+    "question": {
+      "fr": "Si je dois de l'argent à l'Université, est-ce que je peux quand même aller à ma collation ?",
+      "en": "If I owe the University money, can I still attend convocation?"
+    },
+    "answer": {
+      "fr": "Oui, tu n'as pas besoin de permission spéciale pour participer à la cérémonie. Par contre, tant que ton solde n'est pas réglé, tu ne recevras pas ton diplôme ni tes certificats, relevés de notes ou attestations d'études.",
+      "en": "Yes, you don't need special permission to attend the ceremony. However, until your balance is paid, you won't receive your diploma, certificates, transcripts or enrolment verification documents."
+    },
+    "sources": [
+      {
+        "label": "Obtain your degree — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree"
+      },
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-cours-ailleurs-avant-diplome",
+    "category": "calendrier",
+    "keywords": [
+      "cours dans une autre université diplôme",
+      "course at another university degree",
+      "relevé autre établissement",
+      "transcript from another institution",
+      "lettre de permission diplôme",
+      "letter of permission graduation",
+      "15 mai relevé",
+      "may 15 transcript",
+      "15 septembre relevé",
+      "september 15 transcript"
+    ],
+    "question": {
+      "fr": "J'ai suivi un cours ailleurs pour terminer mon diplôme : qu'est-ce que je dois faire ?",
+      "en": "I took a course elsewhere to finish my degree. What do I need to do?"
+    },
+    "answer": {
+      "fr": "Demande à cet établissement d'envoyer ton relevé officiel à ta faculté le plus tôt possible : au plus tard le 15 septembre pour recevoir ton grade à l'automne, ou le 15 mai pour le recevoir au printemps.",
+      "en": "Ask that institution to send your official transcript to your faculty as soon as possible: no later than September 15 to receive your degree in the fall, or May 15 to receive it in the spring."
+    },
+    "sources": [
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-toge-location",
+    "category": "finances",
+    "keywords": [
+      "location toge",
+      "gown rental",
+      "toge et épitoge",
+      "gown and hood",
+      "prix toge",
+      "gown price",
+      "réserver toge",
+      "reserve gown",
+      "gaspard",
+      "tenue collation",
+      "regalia"
+    ],
+    "question": {
+      "fr": "Comment louer ma toge pour la collation des grades, et combien ça coûte ?",
+      "en": "How do I rent my gown for convocation, and how much does it cost?"
+    },
+    "answer": {
+      "fr": "La toge et l'épitoge sont obligatoires, et la location se fait auprès de Gaspard. En ligne à l'avance, c'est 85 $ plus taxes ; sur place le jour de la collation, c'est 120 $ plus taxes. Si tu participes à la cérémonie, tu reçois un courriel au début mai avec les instructions, et la réservation ouvre en mai 2027.",
+      "en": "The gown and hood are mandatory, and you rent them from Gaspard. Online in advance, it's $85 plus tax; on site on convocation day, it's $120 plus tax. If you're attending, you'll get an email in early May with instructions, and reservations open in May 2027."
+    },
+    "sources": [
+      {
+        "label": "Rental of gowns and hoods — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/rental-gowns-hoods"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-tenue-autochtone-code",
+    "category": "reglements",
+    "keywords": [
+      "code vestimentaire collation",
+      "convocation dress code",
+      "tenue autochtone",
+      "indigenous attire",
+      "tenue traditionnelle",
+      "traditional regalia",
+      "quoi porter collation",
+      "what to wear convocation",
+      "toge obligatoire",
+      "gown mandatory"
+    ],
+    "question": {
+      "fr": "Y a-t-il un code vestimentaire pour la collation des grades ?",
+      "en": "Is there a dress code for convocation?"
+    },
+    "answer": {
+      "fr": "À part la toge et l'épitoge obligatoires, il n'y a pas de code vestimentaire. Les étudiants autochtones qui le souhaitent peuvent porter leur tenue cérémonielle traditionnelle à la place de la toge et de l'épitoge, sans demander la permission à leur faculté.",
+      "en": "Apart from the mandatory gown and hood, there's no dress code. Indigenous students who wish to can wear traditional ceremonial attire instead of the gown and hood, without needing permission from their faculty."
+    },
+    "sources": [
+      {
+        "label": "Convocation FAQ — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+      },
+      {
+        "label": "Rental of gowns and hoods — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/rental-gowns-hoods"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-toge-hors-collation",
+    "category": "finances",
+    "keywords": [
+      "louer toge infoservice",
+      "rent gown infoservice",
+      "toge photo finissant",
+      "gown for grad photos",
+      "toge en dehors collation",
+      "gown outside convocation",
+      "mortier location",
+      "mortarboard rental",
+      "costume universitaire",
+      "academic regalia rental"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux louer une toge en dehors de la période de collation, par exemple pour des photos ?",
+      "en": "Can I rent a gown outside convocation, for example for photos?"
+    },
+    "answer": {
+      "fr": "Oui : InfoService loue le costume universitaire, avec la toge, l'épitoge et le mortier, en dehors de la période de collation, au coût de 86,60 $ plus taxes.",
+      "en": "Yes: InfoService rents academic regalia, including the gown, hood and mortarboard, outside the convocation period, for $86.60 plus tax."
+    },
+    "sources": [
+      {
+        "label": "Administrative fees — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/administrative-fees"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-jour-collation-arrivee",
+    "category": "services",
+    "keywords": [
+      "jour de la collation",
+      "convocation day",
+      "à quelle heure arriver",
+      "what time to arrive",
+      "quoi apporter collation",
+      "what to bring convocation",
+      "salle canada 303",
+      "canada hall 303",
+      "carte étudiante collation",
+      "student id convocation"
+    ],
+    "question": {
+      "fr": "À quelle heure dois-je arriver le jour de ma collation, et quoi apporter ?",
+      "en": "When should I arrive on convocation day, and what should I bring?"
+    },
+    "answer": {
+      "fr": "Arrive au moins 90 minutes avant ta cérémonie au Centre Rogers Ottawa et rends-toi à la salle Canada 303, au troisième étage, où tu reçois ta carte d'identification, ta toge et ton épitoge. Apporte ta carte étudiante et laisse tes objets de valeur à tes invités, car il n'y a pas de vestiaire au troisième étage. Si tu arrives moins de 45 minutes avant, tu pourrais ne pas être assis avec ton groupe.",
+      "en": "Arrive at least 90 minutes before your ceremony at Rogers Centre Ottawa and go to Canada Hall 303 on the third floor, where you'll get your ID card, gown and hood. Bring your student ID and leave valuables with your guests, since there's no coat check on the third floor. If you arrive less than 45 minutes before, you may not be seated with your cohort."
+    },
+    "sources": [
+      {
+        "label": "The day of the ceremony — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-collation-lieu-acces",
+    "category": "services",
+    "keywords": [
+      "où a lieu la collation",
+      "where is convocation",
+      "centre rogers ottawa",
+      "rogers centre ottawa",
+      "aller à la collation",
+      "get to convocation",
+      "stationnement collation",
+      "convocation parking",
+      "train léger rideau",
+      "lrt rideau"
+    ],
+    "question": {
+      "fr": "Où a lieu la collation des grades et comment m'y rendre ?",
+      "en": "Where is convocation held and how do I get there?"
+    },
+    "answer": {
+      "fr": "Au Centre Rogers Ottawa, salle Canada, au 55, promenade Colonel By. Le plus simple, c'est le train léger jusqu'à la station Rideau. Pendant la collation, le stationnement est gratuit dans les garages Brooks, Desmarais et Mann de l'Université ; prévois alors de 10 à 15 minutes de marche.",
+      "en": "At Rogers Centre Ottawa, Canada Hall, 55 Colonel By Drive. The easiest way is the LRT to Rideau Station. During convocation, parking is free in the University's Brooks, Desmarais and Mann garages; allow 10 to 15 minutes to walk from there."
+    },
+    "sources": [
+      {
+        "label": "The day of the ceremony — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-collation-photos",
+    "category": "services",
+    "keywords": [
+      "photos collation",
+      "convocation photos",
+      "photographe collation",
+      "convocation photographer",
+      "photograd",
+      "garder la toge",
+      "keep the gown",
+      "photo de finissant",
+      "grad photo",
+      "acheter mes photos"
+    ],
+    "question": {
+      "fr": "Est-ce qu'il y a un photographe à la collation, et combien de temps je garde ma toge ?",
+      "en": "Is there a photographer at convocation, and how long can I keep my gown?"
+    },
+    "answer": {
+      "fr": "Oui, des photographes professionnels de PhotoGrad te photographient en coulisses et dans le hall, avec ta famille ; tu achètes ensuite tes photos sur leur site, accessibles seulement avec ton numéro étudiant. Tu peux garder ta toge environ 45 minutes après la cérémonie pour prendre des photos, puis tu la rapportes au comptoir du premier étage.",
+      "en": "Yes, professional PhotoGrad photographers take your picture backstage and in the lobby with your family; you then buy your photos on their website, accessible only with your student number. You can keep your gown for about 45 minutes after the ceremony for pictures, then return it at the booth on the first floor."
+    },
+    "sources": [
+      {
+        "label": "The day of the ceremony — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+      },
+      {
+        "label": "Convocation FAQ — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-collation-annuler",
+    "category": "services",
+    "keywords": [
+      "je ne peux plus aller à la collation",
+      "can't attend convocation",
+      "annuler billets collation",
+      "cancel guest tickets",
+      "annuler ma présence",
+      "cancel attendance",
+      "absent collation",
+      "miss convocation",
+      "rendre billets",
+      "return tickets"
+    ],
+    "question": {
+      "fr": "Je ne peux plus assister à ma collation : qu'est-ce que je fais ?",
+      "en": "I can no longer attend my convocation. What should I do?"
+    },
+    "answer": {
+      "fr": "Avise le bureau de la collation par courriel le plus tôt possible. Si tu avais commandé des billets d'invités que tu n'utiliseras pas, communique avec InfoService en laissant ton nom et ton numéro étudiant. Ton diplôme non réclamé te sera envoyé par la poste.",
+      "en": "Let the convocation office know by email as soon as possible. If you ordered guest tickets you won't use, contact InfoService with your name and student number. Your unclaimed diploma will be mailed to you."
+    },
+    "sources": [
+      {
+        "label": "Convocation FAQ — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+      },
+      {
+        "label": "Schedule and guest tickets — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/schedule-guest-tickets"
+      },
+      {
+        "label": "Students about to graduate — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-collation-besoins-particuliers",
+    "category": "services",
+    "keywords": [
+      "invité handicapé collation",
+      "guest with disability convocation",
+      "besoins particuliers collation",
+      "special needs convocation",
+      "accessibilité collation",
+      "convocation accessibility",
+      "fauteuil roulant collation",
+      "wheelchair convocation",
+      "aide spéciale cérémonie",
+      "special assistance ceremony"
+    ],
+    "question": {
+      "fr": "Un de mes invités a des besoins particuliers : comment préparer sa venue à la collation ?",
+      "en": "One of my guests has special needs. How do I prepare for convocation?"
+    },
+    "answer": {
+      "fr": "Si toi ou un invité avez besoin d'aide ou d'arrangements particuliers pour la cérémonie, écris au bureau de la collation au moins deux semaines avant la date de la cérémonie.",
+      "en": "If you or a guest need special assistance or arrangements for the ceremony, email the convocation office at least two weeks before the ceremony date."
+    },
+    "sources": [
+      {
+        "label": "Convocation FAQ — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-lettre-invitation-collation",
+    "category": "services",
+    "keywords": [
+      "lettre d'invitation collation",
+      "convocation invitation letter",
+      "famille visa collation",
+      "family visa convocation",
+      "inviter mes parents au canada",
+      "invite my parents to canada",
+      "visa temporaire famille",
+      "temporary visa family",
+      "étudiant international collation",
+      "international student convocation"
+    ],
+    "question": {
+      "fr": "Je suis étudiant international : comment inviter ma famille de l'étranger à ma collation ?",
+      "en": "I'm an international student. How do I invite my family from abroad to my convocation?"
+    },
+    "answer": {
+      "fr": "Demande une lettre d'invitation officielle avec le formulaire « Lettre d'invitation à la collation des grades », sur la page des relevés et documents scolaires ; ce service est réservé aux étudiants internationaux. La lettre est déposée dans MesCertif, où tu paies pour la consulter ou la partager. Pour le visa temporaire de ta famille, communique aussi avec InfoService pour obtenir les instructions.",
+      "en": "Request an official invitation letter with the \"Invitation letter for the convocation ceremony\" form on the transcripts and academic documents page; this service is for international students only. The letter is uploaded to MyCreds, where you pay to view or share it. For your family's temporary visa, also contact InfoService for instructions."
+    },
+    "sources": [
+      {
+        "label": "Convocation FAQ — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+      },
+      {
+        "label": "Transcripts and academic documents — uOttawa",
+        "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+      },
+      {
+        "label": "Schedule and guest tickets — uOttawa",
+        "url": "https://www.uottawa.ca/study/obtain-your-degree/schedule-guest-tickets"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-interruption-etudes",
+    "category": "reglements",
+    "keywords": [
+      "interruption des études",
+      "interruption of studies",
+      "prendre une pause",
+      "take a break from school",
+      "arrêter un trimestre",
+      "skip a term",
+      "revenir après une pause",
+      "come back after a break",
+      "retour aux études",
+      "returning student",
+      "année sabbatique"
+    ],
+    "question": {
+      "fr": "Si j'arrête mes études pendant un moment, est-ce que je dois refaire une demande d'admission pour revenir ?",
+      "en": "If I stop my studies for a while, do I have to reapply to come back?"
+    },
+    "answer": {
+      "fr": "Au premier cycle, si tu interromps volontairement tes études pendant six trimestres consécutifs ou moins, tu peux te réinscrire dans la même faculté sans refaire de demande d'admission. Si l'interruption dépasse six trimestres consécutifs, tu dois présenter une nouvelle demande d'admission.",
+      "en": "At the undergraduate level, if you voluntarily interrupt your studies for six or fewer consecutive terms, you can re-enrol in the same faculty without reapplying for admission. If the interruption lasts more than six consecutive terms, you must reapply for admission."
+    },
+    "sources": [
+      {
+        "label": "Academic Regulation B-6 — Academic standing — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-6-academic-standing-probation-mandatory-withdrawal-undergraduate-programs"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-conge-autorise-international",
+    "category": "reglements",
+    "keywords": [
+      "congé autorisé",
+      "authorized leave",
+      "congé international",
+      "leave of absence international",
+      "interrompre études permis d'études",
+      "pause study permit",
+      "congé premier cycle international",
+      "undergraduate leave international",
+      "formulaire congé",
+      "leave request form"
+    ],
+    "question": {
+      "fr": "Je suis étudiant international au premier cycle : comment prendre un congé de mes études ?",
+      "en": "I'm an international undergraduate student. How do I take a leave from my studies?"
+    },
+    "answer": {
+      "fr": "Parle d'abord à un conseiller en immigration par la file virtuelle d'InfoService, et consulte ta faculté. Remplis ensuite le formulaire de demande de congé pour étudiants internationaux de premier cycle, un trimestre à la fois, avant la date limite d'abandon avec crédit financier du trimestre visé. L'équipe de conseil en immigration te répond par courriel en environ cinq jours ouvrables.",
+      "en": "First talk to an immigration advisor through the InfoService virtual line, and check with your faculty. Then fill out the Leave of Absence Request Form for International Undergraduate Students, one term at a time, before the deadline to withdraw with a financial credit for that term. The Student Immigration Advising Team replies by email within about five working days."
+    },
+    "sources": [
+      {
+        "label": "Authorized leave for international students — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/authorized-leave-for-international-students"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-conge-international-conditions",
+    "category": "reglements",
+    "keywords": [
+      "travailler pendant un congé",
+      "work during leave",
+      "congé 150 jours",
+      "150 days leave",
+      "raisons congé autorisé",
+      "reasons authorized leave",
+      "voyage personnel congé",
+      "personal travel leave",
+      "congé médical international",
+      "medical leave international"
+    ],
+    "question": {
+      "fr": "Quelles raisons sont acceptées pour un congé autorisé, et est-ce que je peux travailler pendant ce congé ?",
+      "en": "Which reasons are accepted for an authorized leave, and can I work during it?"
+    },
+    "answer": {
+      "fr": "Les raisons acceptées incluent notamment des raisons médicales ou une grossesse, une urgence familiale, le décès ou la maladie grave d'un proche, le service militaire obligatoire et un congé parental ; un voyage personnel ne l'est pas. Pendant un congé autorisé, tu ne peux pas travailler, ni sur le campus ni à l'extérieur, même si ton permis le permet. IRCC peut considérer que tu poursuis activement tes études si le congé est autorisé par l'Université et ne dépasse pas 150 jours.",
+      "en": "Accepted reasons include medical reasons or pregnancy, a family emergency, the death or serious illness of a family member, mandatory military service and parental leave; personal travel isn't accepted. During an authorized leave, you can't work on or off campus, even if your permit allows it. IRCC may consider you to be actively pursuing your studies if the leave is authorized by the University and doesn't exceed 150 days."
+    },
+    "sources": [
+      {
+        "label": "Authorized leave for international students — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/authorized-leave-for-international-students"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-conge-cycles-superieurs",
+    "category": "reglements",
+    "keywords": [
+      "congé cycles supérieurs",
+      "graduate leave of absence",
+      "congé maîtrise",
+      "masters leave",
+      "congé doctorat",
+      "phd leave",
+      "congé parental études",
+      "parental leave studies",
+      "congé professionnel stage",
+      "professional leave"
+    ],
+    "question": {
+      "fr": "Aux cycles supérieurs, est-ce que je peux prendre un congé de mon programme ?",
+      "en": "As a graduate student, can I take a leave from my program?"
+    },
+    "answer": {
+      "fr": "Oui, mais seulement pour des motifs professionnels, médicaux, de compassion ou parentaux. La demande est approuvée par ton directeur de thèse, puis par ton programme et ta faculté ; un congé professionnel ne peut pas dépasser un an au total. Pendant le congé, tu gardes l'accès aux bibliothèques et aux services informatiques, et tu dois te réinscrire au trimestre qui suit la fin du congé, sinon ton dossier est fermé.",
+      "en": "Yes, but only on professional, medical, compassionate or parental grounds. The request is approved by your thesis supervisor, then your program and faculty; a professional leave can't exceed one year in total. During the leave, you keep access to library and computer services, and you must enrol in the term right after the leave ends, or your file will be closed."
+    },
+    "sources": [
+      {
+        "label": "Academic Regulation C-3 — Graduate Enrolment and Leaves of Absence — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-3-graduate-enrolment-leaves-absence"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-inscription-continue-cycles-superieurs",
+    "category": "reglements",
+    "keywords": [
+      "inscription continue",
+      "continuous enrolment",
+      "pas inscrit un trimestre maîtrise",
+      "missed a term graduate",
+      "dossier fermé",
+      "file closed",
+      "réadmission cycles supérieurs",
+      "graduate readmission",
+      "frais de réintégration",
+      "reinstatement fee"
+    ],
+    "question": {
+      "fr": "Aux cycles supérieurs, qu'arrive-t-il si je ne m'inscris pas à un trimestre ?",
+      "en": "As a graduate student, what happens if I don't enrol for a term?"
+    },
+    "answer": {
+      "fr": "Sauf exception prévue par ton programme, tu dois t'inscrire à chaque trimestre jusqu'à la fin. Sans inscription ni congé approuvé, tu es présumé t'être retiré et ton dossier est fermé sans préavis. Pour continuer, tu dois demander ta réadmission, qui coûte 125 $, et payer des frais de réintégration ainsi que les droits minimaux pour chaque trimestre manqué.",
+      "en": "Unless your program says otherwise, you must enrol in every term until you finish. Without enrolment or an approved leave, you're presumed to have withdrawn and your file is closed without notice. To continue, you must apply for readmission, which costs $125, and pay a reinstatement fee plus the minimum tuition for each term you missed."
+    },
+    "sources": [
+      {
+        "label": "Academic Regulation C-3 — Graduate Enrolment and Leaves of Absence — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-3-graduate-enrolment-leaves-absence"
+      },
+      {
+        "label": "Administrative fees — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/administrative-fees"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-readmission-apres-retrait",
+    "category": "admissions",
+    "keywords": [
+      "réadmission",
+      "readmission",
+      "retrait obligatoire faculté",
+      "required to withdraw",
+      "revenir après retrait",
+      "return after withdrawal",
+      "mise à niveau",
+      "academic upgrading",
+      "appel retrait",
+      "appeal withdrawal"
+    ],
+    "question": {
+      "fr": "On m'a retiré de ma faculté : comment est-ce que je peux revenir ?",
+      "en": "I was required to withdraw from my faculty. How can I come back?"
+    },
+    "answer": {
+      "fr": "Tu peux contester ce retrait par écrit auprès de ton unité scolaire dans les 10 jours ouvrables suivant l'avis. Sinon, pour revenir dans la faculté au baccalauréat, il faut avoir suivi 24 crédits après le retrait, présenter une demande d'admission, remplir les conditions de mise à niveau exigées par la faculté et satisfaire aux exigences d'admission en vigueur. Ta demande est évaluée selon la moyenne obtenue pendant ta mise à niveau.",
+      "en": "You can appeal the withdrawal in writing to your academic unit within 10 working days of the notice. Otherwise, to return to the faculty in a bachelor's program, you must take 24 units after the withdrawal, apply for admission, meet the faculty's academic upgrading conditions and meet current admission requirements. Your application is assessed on the average you earn during the upgrading period."
+    },
+    "sources": [
+      {
+        "label": "Academic Regulation B-6 — Academic standing — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-6-academic-standing-probation-mandatory-withdrawal-undergraduate-programs"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-changement-programme-frais-exceptions",
+    "category": "admissions",
+    "keywords": [
+      "frais changement de programme",
+      "program change fee",
+      "changer de faculté",
+      "change faculty",
+      "passer d'un programme professionnel",
+      "transfer from professional program",
+      "droit médecine éducation transfert",
+      "law medicine education transfer",
+      "changement de discipline principale",
+      "primary discipline change"
+    ],
+    "question": {
+      "fr": "Combien coûte un changement de programme, et est-ce que je peux changer de faculté ?",
+      "en": "How much does a program change cost, and can I change faculties?"
+    },
+    "answer": {
+      "fr": "La demande de changement de discipline principale coûte 52,35 $, et elle se fait en ligne pour passer d'un baccalauréat à un autre parmi les facultés à admission directe : Arts, Sciences, Sciences sociales, Génie, Sciences de la santé et Telfer. Si tu es en éducation, en droit ou en médecine et veux passer à l'une de ces facultés, ou l'inverse, il faut plutôt faire une demande d'admission.",
+      "en": "A request to change your primary discipline costs $52.35, and it's done online to move from one bachelor's program to another among the direct-entry faculties: Arts, Science, Social Sciences, Engineering, Health Sciences and Telfer. If you're in Education, Law or Medicine and want to switch to one of those faculties, or the reverse, you must apply for admission instead."
+    },
+    "sources": [
+      {
+        "label": "Make changes to your undergraduate program — uOttawa",
+        "url": "https://www.uottawa.ca/study/make-changes-undergraduate-program"
+      },
+      {
+        "label": "Administrative fees — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/administrative-fees"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-cours-universite-saint-paul",
+    "category": "reglements",
+    "keywords": [
+      "université saint-paul",
+      "saint paul university",
+      "cours à saint-paul",
+      "course at saint paul",
+      "transfert de crédits saint-paul",
+      "unit transfer saint paul",
+      "suivre un cours ailleurs ottawa",
+      "take course elsewhere ottawa",
+      "ustpaul",
+      "saint-paul crédits"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux suivre un cours à l'Université Saint-Paul ?",
+      "en": "Can I take a course at Saint Paul University?"
+    },
+    "answer": {
+      "fr": "Oui, sans payer de droits de scolarité supplémentaires, si tu es admis et inscrit à l'Université d'Ottawa ce trimestre-là et en bonne situation scolaire. Les cours qui répondent aux exigences de ton programme sont crédités, comptent dans l'exigence de résidence et sont inclus dans ta moyenne. Tu dois prouver que tu as les préalables et respecter le calendrier de chaque université.",
+      "en": "Yes, without paying extra tuition, if you're admitted and enrolled at the University of Ottawa that term and in good academic standing. Courses that meet your program requirements are credited, count toward the residence requirement and are included in your average. You must show you have the prerequisites and follow each university's sessional dates."
+    },
+    "sources": [
+      {
+        "label": "Academic Regulation A-10 — Unit Transfers — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-10-unit-transfers"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-international-temps-partiel",
+    "category": "reglements",
+    "keywords": [
+      "temps partiel international",
+      "part time international student",
+      "moins de 12 crédits permis",
+      "fewer than 12 units permit",
+      "travailler temps partiel international",
+      "work part time study permit",
+      "pgwp temps partiel",
+      "pgwp part time",
+      "statut immigration temps partiel",
+      "immigration status part time"
+    ],
+    "question": {
+      "fr": "Je suis étudiant international au premier cycle : que se passe-t-il si je suis moins de 12 crédits ?",
+      "en": "I'm an international undergraduate student. What happens if I take fewer than 12 units?"
+    },
+    "answer": {
+      "fr": "Avec moins de 12 crédits, tu es à temps partiel aux fins de l'immigration : tu peux rester au Canada tant que ton permis est valide, mais tu ne peux plus travailler sur le campus ni à l'extérieur. Exception : à ton dernier trimestre, si tu n'as pas besoin d'une charge complète pour finir, tu peux continuer à travailler. Tout autre trimestre à temps partiel peut compromettre ton admissibilité au permis de travail postdiplôme.",
+      "en": "With fewer than 12 units, you're part time for immigration purposes: you can stay in Canada while your permit is valid, but you can no longer work on or off campus. Exception: in your final term, if you don't need a full course load to graduate, you can keep working. Any other part-time term can jeopardize your eligibility for a Post-Graduation Work Permit."
+    },
+    "sources": [
+      {
+        "label": "Impact of changes to your studies on your immigration status — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/impact-of-changes-to-studies-on-immigration-status"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-international-quitter-universite",
+    "category": "reglements",
+    "keywords": [
+      "quitter l'université international",
+      "withdraw from university international",
+      "abandonner études permis",
+      "stop studying study permit",
+      "permis d'études invalide",
+      "study permit invalid",
+      "retrait programme international",
+      "program withdrawal international",
+      "étudiant libre international",
+      "non-degree international"
+    ],
+    "question": {
+      "fr": "Je suis étudiant international et je pense quitter l'Université : quelles sont les conséquences ?",
+      "en": "I'm an international student thinking of leaving the University. What are the consequences?"
+    },
+    "answer": {
+      "fr": "Ton permis d'études devient invalide dès que tu arrêtes d'étudier avant la fin de ton programme ; si tu ne passes pas à un autre programme au Canada, tu dois quitter le pays ou demander un changement de statut, comme une prolongation à titre de visiteur. Écris d'abord à l'équipe de conseil en immigration étudiante pour discuter de ta situation.",
+      "en": "Your study permit becomes invalid as soon as you stop studying before completing your program; if you're not moving to another program in Canada, you must leave the country or apply to change your status, for example by extending as a visitor. Email the Student Immigration Advising Team first to discuss your situation."
+    },
+    "sources": [
+      {
+        "label": "Impact of changes to your studies on your immigration status — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/impact-of-changes-to-studies-on-immigration-status"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-documents-prolongation-permis",
+    "category": "services",
+    "keywords": [
+      "prolonger permis d'études documents",
+      "study permit extension documents",
+      "lettre pour prolongation",
+      "letter for extension",
+      "date de fin prévue attestation",
+      "estimated graduation date",
+      "documents ircc université",
+      "ircc documents university",
+      "prolongation permis lettre",
+      "extension enrolment letter"
+    ],
+    "question": {
+      "fr": "Quels documents de l'Université me faut-il pour prolonger mon permis d'études ?",
+      "en": "Which University documents do I need to extend my study permit?"
+    },
+    "answer": {
+      "fr": "On recommande trois documents : une attestation d'études officielle avec le commentaire spécialisé « date prévue de fin d'études », un relevé de notes si tu as terminé au moins deux trimestres, et ton offre d'admission originale, qui se trouve dans ton dossier d'admission dans uoZone. Tu commandes l'attestation avec le formulaire de demande d'InfoService, dans la section des preuves d'études et lettres.",
+      "en": "Three documents are recommended: an official enrolment verification with the \"estimated graduation date\" specialized comment, a transcript if you've completed two or more terms, and your original offer of admission, which is in your admission file in uoZone. You order the verification through the InfoService request form, in the proof of studies and letters section."
+    },
+    "sources": [
+      {
+        "label": "Immigration FAQ — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/faqs"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-documents-pgwp",
+    "category": "services",
+    "keywords": [
+      "documents permis postdiplôme",
+      "pgwp documents",
+      "lettre fin de programme pgwp",
+      "completion letter pgwp",
+      "relevé pgwp",
+      "transcript pgwp",
+      "grade conféré pgwp",
+      "degree conferred pgwp",
+      "permis de travail après diplôme documents",
+      "post graduation work permit letter"
+    ],
+    "question": {
+      "fr": "Quels documents de l'Université me faut-il pour demander mon permis de travail postdiplôme ?",
+      "en": "Which University documents do I need to apply for my Post-Graduation Work Permit?"
+    },
+    "answer": {
+      "fr": "Avant que ton grade soit conféré : une lettre officielle d'InfoService confirmant que tu as terminé ton programme, après avoir demandé l'évaluation de ton dossier à ta faculté, et ton relevé officiel ou non officiel. Après : une attestation d'études officielle avec la mention du grade obtenu, en choisissant d'inclure tes grades, et ton relevé. Si tu as eu des trimestres à temps partiel ou des interruptions, il te faudra des documents de plus ; prends rendez-vous avec un conseiller en immigration.",
+      "en": "Before your degree is conferred: an official InfoService letter confirming you've completed your program, after requesting a file evaluation from your faculty, plus your official or unofficial transcript. After: an official enrolment verification showing the degree awarded, selecting the option to include your earned degrees, plus your transcript. If you had part-time terms or gaps, you'll need extra documents; book an appointment with an immigration advisor."
+    },
+    "sources": [
+      {
+        "label": "Immigration FAQ — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/faqs"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "k-documents-voyage-international",
+    "category": "services",
+    "keywords": [
+      "documents pour voyager",
+      "documents to travel",
+      "revenir au canada documents",
+      "return to canada documents",
+      "lettre d'inscription voyage",
+      "enrolment letter travel",
+      "confirmation de fréquentation",
+      "confirmation of attendance",
+      "frontière étudiant",
+      "border student"
+    ],
+    "question": {
+      "fr": "Je voyage et je reviens au Canada : quel document de l'Université dois-je avoir sur moi ?",
+      "en": "I'm travelling and coming back to Canada. Which University document should I carry?"
+    },
+    "answer": {
+      "fr": "En plus de ton visa ou autorisation de voyage et de ton permis d'études, garde ta lettre d'admission et une attestation d'études officielle, qui sert de confirmation de fréquentation. Commande-la dans uoZone ; si ton départ est imminent, choisis la version numérique, déposée dans MesCertif.",
+      "en": "Along with your visa or travel authorization and your study permit, carry your letter of admission and an official enrolment verification, which serves as confirmation of attendance. Order it in uoZone; if you're leaving soon, choose the digital version, uploaded to MyCreds."
+    },
+    "sources": [
+      {
+        "label": "Immigration FAQ — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/faqs"
+      }
+    ],
+    "related": [],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  }
+]

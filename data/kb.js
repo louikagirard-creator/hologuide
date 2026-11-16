@@ -11972,7 +11972,6 @@ export const KB = [
    "200 lees",
    "terrain gee-gees",
    "gee-gees field",
-   "football",
    "bloc a",
    "bloc e",
    "block a",
@@ -31201,6 +31200,6791 @@ export const KB = [
    "j-mat1320",
    "j-mat1720",
    "j-mat1322"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-releve-non-officiel",
+  "category": "services",
+  "keywords": [
+   "relevé non officiel",
+   "relevé de notes gratuit",
+   "unofficial transcript",
+   "free transcript",
+   "télécharger mon relevé",
+   "download transcript",
+   "relevé pdf",
+   "transcript pdf",
+   "voir mes notes officielles",
+   "unofficial grades"
+  ],
+  "question": {
+   "fr": "Comment obtenir un relevé de notes non officiel ?",
+   "en": "How do I get an unofficial transcript?"
+  },
+  "answer": {
+   "fr": "C'est gratuit : dans uoZone, sous l'onglet Applications, choisis Relevé de notes non officiel et tu le télécharges en PDF. Il ne porte ni le sceau de l'Université ni la signature du registraire, donc pour une demande officielle, il te faudra plutôt le relevé officiel.",
+   "en": "It's free: in uoZone, under the Applications tab, select Unofficial transcript and download it as a PDF. It doesn't have the University seal or the registrar's signature, so for an official application you'll need the official transcript instead."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier",
+   "k-releve-delais"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-releve-officiel-numerique",
+  "category": "services",
+  "keywords": [
+   "relevé officiel numérique",
+   "digital transcript",
+   "mescertif",
+   "mycreds",
+   "relevé électronique",
+   "electronic transcript",
+   "commander relevé officiel",
+   "order official transcript",
+   "envoyer relevé",
+   "send transcript",
+   "relevé rapide"
+  ],
+  "question": {
+   "fr": "Comment commander un relevé de notes officiel numérique ?",
+   "en": "How do I order an official digital transcript?"
+  },
+  "answer": {
+   "fr": "C'est la méthode la plus rapide : dans uoZone, sous Applications, choisis Commander des documents officiels, puis Documents électroniques. Tu ne paies rien dans uoZone ; tu reçois ensuite un courriel de MesCertif à ton adresse uOttawa pour activer ton compte et payer l'envoi, soit 24,49 $ plus taxes par partage. La demande est traitée le jour ouvrable même.",
+   "en": "It's the fastest method: in uoZone, under Applications, select Purchase Official Documents, then the Digital documents format. You don't pay anything in uoZone; MyCreds then emails your uOttawa address so you can activate your account and pay to send it, at $24.49 plus tax per share. Requests are processed within the same business day."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-papier",
+   "k-releve-delais"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-releve-officiel-papier",
+  "category": "services",
+  "keywords": [
+   "relevé papier",
+   "paper transcript",
+   "relevé officiel papier",
+   "official paper transcript",
+   "venir chercher relevé",
+   "pick up transcript",
+   "coût relevé",
+   "transcript cost",
+   "relevé imprimé",
+   "printed transcript"
+  ],
+  "question": {
+   "fr": "Comment obtenir un relevé de notes officiel sur papier, et combien ça coûte ?",
+   "en": "How do I get an official paper transcript, and how much does it cost?"
+  },
+  "answer": {
+   "fr": "Commande-le dans uoZone, sous Applications, avec Commander des documents officiels ; la copie papier coûte 29,13 $. Si tu choisis de venir le chercher, il est prêt après 13 h le jour ouvrable suivant : va directement à la réception d'InfoService, sans prendre de billet ni attendre en file.",
+   "en": "Order it in uoZone, under Applications, with Purchase Official Documents; a paper copy costs $29.13. If you choose to pick it up, it's ready after 1 p.m. the next business day: go straight to the InfoService reception desk, no ticket and no waiting in line."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-delais"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-releve-delais",
+  "category": "services",
+  "keywords": [
+   "délai relevé",
+   "transcript processing time",
+   "combien de temps relevé",
+   "how long transcript",
+   "relevé par la poste",
+   "transcript by mail",
+   "documents période de pointe",
+   "peak period documents",
+   "quand mon relevé sera prêt",
+   "when will my transcript be ready"
+  ],
+  "question": {
+   "fr": "Combien de temps faut-il pour recevoir un relevé ou une attestation officielle ?",
+   "en": "How long does it take to get an official transcript or enrolment verification?"
+  },
+  "answer": {
+   "fr": "Une demande numérique par MesCertif est traitée en un jour ouvrable au plus, une demande papier faite dans uoZone est prête le jour ouvrable suivant, et une demande par la poste prend de deux à sept jours ouvrables, plus le temps de livraison. Prévois plus de temps en mai et juin, en septembre et en janvier, qui sont des périodes de pointe.",
+   "en": "A digital request through MyCreds is processed within one business day, a paper request made in uoZone is ready the next business day, and a request by mail takes two to seven business days, plus delivery time. Allow extra time in May and June, September and January, which are peak periods."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-releve-paiement",
+  "category": "finances",
+  "keywords": [
+   "payer relevé",
+   "pay for transcript",
+   "mode de paiement documents",
+   "payment methods documents",
+   "carte de crédit relevé",
+   "credit card transcript",
+   "interac infoservice",
+   "payer en personne",
+   "pay in person",
+   "argent comptant documents"
+  ],
+  "question": {
+   "fr": "Comment payer un relevé ou un document officiel ?",
+   "en": "How can I pay for a transcript or official document?"
+  },
+  "answer": {
+   "fr": "Pour un document numérique, tu paies dans MesCertif avec Visa, Mastercard, Maestro ou American Express ; pour une copie papier commandée dans uoZone, c'est Mastercard ou Visa. En personne à InfoService, on accepte Mastercard, Visa, Interac, le chèque, le mandat à l'ordre de l'Université d'Ottawa et l'argent comptant. Les demandes par courriel ne sont pas acceptées, car on ne peut pas y transmettre de numéro de carte.",
+   "en": "For a digital document, you pay in MyCreds with Visa, Mastercard, Maestro or American Express; for a paper copy ordered in uoZone, it's Mastercard or Visa. In person at InfoService, Mastercard, Visa, Interac, cheque, money order payable to the University of Ottawa and cash are accepted. Email requests aren't accepted because card numbers can't be sent that way."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-statut-legal-preuve",
+   "k-residence-ontario-frais",
+   "k-etudiant-a-charge-ontario"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-releve-contenu",
+  "category": "reglements",
+  "keywords": [
+   "contenu relevé officiel",
+   "what is on my transcript",
+   "relevé partiel",
+   "partial transcript",
+   "traduction relevé",
+   "translate transcript",
+   "moyenne du groupe",
+   "class average transcript",
+   "sceau registraire",
+   "registrar signature"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qui apparaît sur mon relevé de notes officiel ?",
+   "en": "What appears on my official transcript?"
+  },
+  "answer": {
+   "fr": "Le relevé officiel porte le sceau de l'Université et la signature du registraire ; il contient tous tes cours et résultats, tes grades, ton numéro étudiant, ton programme et ta faculté. La moyenne du groupe apparaît quand au moins six étudiants sont inscrits au cours. Les titres de cours sont dans la langue où le cours a été donné : l'Université ne traduit pas les relevés et n'émet pas de relevés partiels.",
+   "en": "The official transcript has the University seal and the registrar's signature; it lists all your courses and results, your degrees, your student number, your program and your faculty. The group average appears when at least six students are enrolled in a course. Course titles are in the language the course was taught in: the University doesn't translate transcripts or issue partial transcripts."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits",
+   "k-nom-privilegie-ou-apparait"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-releve-envoi-tiers",
+  "category": "services",
+  "keywords": [
+   "envoyer relevé université",
+   "send transcript to university",
+   "relevé employeur",
+   "transcript to employer",
+   "relevé à une autre université",
+   "transcript another school",
+   "enveloppe scellée",
+   "sealed envelope",
+   "relevé tierce partie",
+   "third party transcript"
+  ],
+  "question": {
+   "fr": "Comment envoyer mon relevé de notes à une autre université ou à un employeur ?",
+   "en": "How do I send my transcript to another university or an employer?"
+  },
+  "answer": {
+   "fr": "Le meilleur choix, c'est d'envoyer une copie numérique par MesCertif : tout document partagé ainsi est considéré comme venant directement de l'Université. Si tu demandes une copie papier, elle est imprimée sur papier de sûreté, scellée dans une enveloppe sécuritaire et postée directement au destinataire.",
+   "en": "Your best choice is to send a digital copy through MyCreds: any document shared that way is considered to come directly from the University. If you ask for a paper copy, it's printed on security paper, sealed in a secure envelope and mailed directly to the recipient."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-documents-anciens-diplomes",
+  "category": "services",
+  "keywords": [
+   "ancien diplômé relevé",
+   "alumni transcript",
+   "diplômé avant 1974",
+   "graduated before 1974",
+   "vieux relevé",
+   "old transcript",
+   "relevé après mes études",
+   "transcript after graduation",
+   "ancien étudiant documents",
+   "former student documents"
+  ],
+  "question": {
+   "fr": "Je suis diplômé depuis longtemps : est-ce que je peux encore commander mes documents ?",
+   "en": "I graduated a long time ago: can I still order my documents?"
+  },
+  "answer": {
+   "fr": "Oui, les diplômés peuvent commander un relevé officiel numérique dans uoZone, sauf ceux qui ont étudié à l'Université avant 1974, pour qui la version numérique n'est pas offerte. Pour un duplicata de diplôme, il faut avoir obtenu son diplôme après le 1er janvier 1975.",
+   "en": "Yes, alumni can order an official digital transcript in uoZone, except those who attended the University before 1974, for whom the digital version isn't available. To order a duplicate diploma, you must have graduated after January 1, 1975."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-attestation-etudes-officielle",
+  "category": "services",
+  "keywords": [
+   "attestation d'études",
+   "preuve d'inscription",
+   "proof of enrolment",
+   "enrolment verification",
+   "lettre d'inscription",
+   "enrolment letter",
+   "preuve que je suis étudiant",
+   "proof i am a student",
+   "attestation officielle",
+   "official enrolment letter",
+   "confirmation d'inscription"
+  ],
+  "question": {
+   "fr": "Comment obtenir une attestation d'études officielle, une preuve que je suis inscrit ?",
+   "en": "How do I get official proof of enrolment?"
+  },
+  "answer": {
+   "fr": "L'attestation d'études est un document officiel qui certifie ton inscription actuelle ou passée, et les grades que tu as reçus. Commande-la dans uoZone, sous Applications, avec Commander des documents officiels : la version numérique MesCertif coûte 24,49 $ plus taxes par partage, et la copie papier 29,13 $. Elle est offerte aux étudiants actuels comme aux diplômés.",
+   "en": "An enrolment verification is an official document certifying your current or past enrolment and any degrees you've received. Order it in uoZone, under Applications, with Purchase Official Documents: the MyCreds digital version costs $24.49 plus tax per share, and a paper copy is $29.13. It's available to both current students and alumni."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-attestation-non-officielle",
+  "category": "services",
+  "keywords": [
+   "attestation non officielle",
+   "unofficial enrolment verification",
+   "attestation d'inscription gratuite",
+   "free proof of enrolment",
+   "preuve inscription gratuite",
+   "attestation pdf",
+   "enrolment proof pdf",
+   "attestation uozone",
+   "enrollment verification unofficial",
+   "proof of enrolment free"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il existe une preuve d'inscription gratuite ?",
+   "en": "Is there a free proof of enrolment?"
+  },
+  "answer": {
+   "fr": "Oui : l'attestation d'inscription non officielle se télécharge gratuitement en PDF dans uoZone, sous Applications, avec Attestation d'inscription (non officielle). Elle ne porte pas le sceau de l'Université ; si l'organisme exige un document officiel, commande plutôt l'attestation d'études officielle.",
+   "en": "Yes: the unofficial enrolment verification is a free PDF in uoZone, under Applications, called Enrollment Verification - Unofficial. It doesn't carry the University seal; if the organization requires an official document, order the official enrolment verification instead."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-attestation-commentaire-special",
+  "category": "services",
+  "keywords": [
+   "attestation avec commentaire",
+   "specialized comment letter",
+   "lettre pas inscrit",
+   "letter not enrolled",
+   "preuve abandon de cours",
+   "proof dropped courses",
+   "lettre détaillée",
+   "detailed letter",
+   "date de fin prévue",
+   "expected graduation date letter"
+  ],
+  "question": {
+   "fr": "J'ai besoin d'une lettre plus détaillée que l'attestation habituelle : comment faire ?",
+   "en": "I need a letter with more detail than the standard proof of enrolment. What do I do?"
+  },
+  "answer": {
+   "fr": "Demande une attestation d'études avec commentaire spécialisé en remplissant le formulaire de demande d'InfoService. Elle sert par exemple à montrer que tu n'es pas inscrit, que tu as abandonné tes cours ou à ajouter une autre précision, comme ta date prévue de fin d'études.",
+   "en": "Ask for an official enrolment verification with a specialized comment by filling out the InfoService request form. It can show, for example, that you're not enrolled, that you dropped your courses, or add other details such as your estimated graduation date."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   },
+   {
+    "label": "Immigration FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/faqs"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-formulaire-reee-bourse",
+  "category": "services",
+  "keywords": [
+   "formulaire reee",
+   "resp form",
+   "formulaire à signer registraire",
+   "form signed by registrar",
+   "bourse externe formulaire",
+   "external scholarship form",
+   "formulaire tiers",
+   "third party form",
+   "faire signer un formulaire",
+   "get form signed"
+  ],
+  "question": {
+   "fr": "J'ai un formulaire de REEE ou de bourse externe à faire remplir par l'Université : comment faire ?",
+   "en": "I have an RESP or external scholarship form the University needs to fill out. How does it work?"
+  },
+  "answer": {
+   "fr": "Soumets ta demande à InfoService avec le formulaire de demande en ligne : c'est le service de déclaration d'études sur formulaire d'un tiers, signé par le registraire. Tu dois déjà être inscrit à tes cours, et les formulaires de prêts étudiants sont exclus de ce service.",
+   "en": "Submit your request to InfoService using the online request form: this is the statement of studies on a third-party form signed by the Registrar. You must already be registered in your courses, and student loan forms are excluded from this service."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-lettre-fin-exigences",
+  "category": "services",
+  "keywords": [
+   "lettre de fin d'études",
+   "completion letter",
+   "attestation exigences complétées",
+   "degree requirements completed",
+   "preuve que j'ai fini",
+   "proof i finished my degree",
+   "en attente du diplôme",
+   "waiting for my degree",
+   "lettre pour employeur fin programme",
+   "letter program completed"
+  ],
+  "question": {
+   "fr": "J'ai fini mon programme, mais mon diplôme n'est pas encore conféré : comment le prouver ?",
+   "en": "I've finished my program but my degree hasn't been conferred yet. How can I prove it?"
+  },
+  "answer": {
+   "fr": "Demande l'attestation des exigences de grade complété à InfoService avec le formulaire de demande. Assure-toi d'abord que ta faculté a fait l'évaluation de ton dossier et y a ajouté un commentaire confirmant que tu as rempli les exigences : sans ce commentaire, la lettre ne peut pas être produite.",
+   "en": "Ask InfoService for the Statement of Degree Requirements Completed using the request form. First make sure your faculty has evaluated your file and added a comment confirming you've met the requirements: without that comment, the letter can't be produced."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-lettre-oqce",
+  "category": "services",
+  "keywords": [
+   "lettre oqce",
+   "qeco letter",
+   "conseil ontarien d'évaluation des qualifications",
+   "qualifications evaluation council",
+   "lettre pour enseignants",
+   "teacher salary letter",
+   "évaluation qualifications enseignant",
+   "qeco",
+   "oqce",
+   "lettre spécialisée"
+  ],
+  "question": {
+   "fr": "Comment obtenir une lettre pour le Conseil ontarien d'évaluation des qualifications (QECO) ?",
+   "en": "How do I get a letter for the Qualifications Evaluation Council of Ontario (QECO)?"
+  },
+  "answer": {
+   "fr": "Remplis le formulaire de demande d'InfoService et joins une copie ou une capture d'écran de la demande de QECO qui précise l'information exigée dans la lettre. Le même service existe pour un organisme équivalent d'une autre province.",
+   "en": "Fill out the InfoService request form and attach a copy or screenshot of the QECO request that lists the information they need in the letter. The same service is available for an equivalent organization in another province."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-auradata-verification",
+  "category": "services",
+  "keywords": [
+   "vérification diplôme employeur",
+   "employer degree verification",
+   "auradata",
+   "vérifier mes études",
+   "verify my education",
+   "employeur veut confirmer diplôme",
+   "employer confirm degree",
+   "vérification des antécédents scolaires",
+   "credential verification",
+   "confirmer grade"
+  ],
+  "question": {
+   "fr": "Un employeur veut vérifier mon diplôme : comment ça fonctionne ?",
+   "en": "An employer wants to verify my degree. How does that work?"
+  },
+  "answer": {
+   "fr": "Les employeurs et les établissements d'enseignement doivent s'abonner à AuraData, une entreprise canadienne de vérification en ligne. AuraData exige ton autorisation signée avant de divulguer quoi que ce soit, et l'Université ne lui fournit que ton numéro étudiant, ton nom complet, ta date de naissance, ta date de diplomation et le nom de tes grades. Ce service ne te coûte rien.",
+   "en": "Employers and educational institutions must subscribe to AuraData, a Canadian online verification company. AuraData requires your signed authorization before releasing anything, and the University only gives it your student number, full name, date of birth, graduation date and the names of your degrees. There's no cost to you."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-syllabus-ancien-cours",
+  "category": "services",
+  "keywords": [
+   "plan de cours ancien",
+   "old syllabus",
+   "description de cours officielle",
+   "course description request",
+   "syllabus pour équivalence",
+   "syllabus for equivalency",
+   "demande de syllabus",
+   "request syllabus",
+   "plan de cours",
+   "course outline"
+  ],
+  "question": {
+   "fr": "Comment obtenir le plan de cours ou la description officielle d'un cours que j'ai suivi ?",
+   "en": "How do I get the syllabus or official description of a course I took?"
+  },
+  "answer": {
+   "fr": "Pendant le cours, le plan de cours est dans Brightspace. Pour en demander un après coup, ou une description officielle, remplis le formulaire de demande d'InfoService ; les frais de recherche sont de 29,13 $ par cours ou par plan de cours.",
+   "en": "While you're taking the course, the syllabus is in Brightspace. To request one afterwards, or an official course description, fill out the InfoService request form; the research fee is $29.13 per course or per syllabus."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   },
+   {
+    "label": "Administrative fees — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/administrative-fees"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-duplicata-diplome",
+  "category": "services",
+  "keywords": [
+   "duplicata de diplôme",
+   "duplicate diploma",
+   "diplôme perdu",
+   "lost diploma",
+   "remplacer diplôme",
+   "replace diploma",
+   "copie de diplôme",
+   "copy of my diploma",
+   "grand format diplôme",
+   "large format diploma"
+  ],
+  "question": {
+   "fr": "J'ai perdu mon diplôme : comment en obtenir un autre ?",
+   "en": "I lost my diploma. How do I get a replacement?"
+  },
+  "answer": {
+   "fr": "Commande un duplicata dans uoZone, sous Applications, avec Commander des documents officiels, puis Diplôme (duplicata). Il coûte 104,68 $ et tu reçois à la fois une copie papier et une copie numérique ; la version papier peut être de format standard ou grand format. Tu peux seulement le commander une fois ton grade conféré.",
+   "en": "Order a duplicate in uoZone, under Applications, with Purchase Official Documents, then the Diploma duplicate format. It costs $104.68 and you get both a paper and a digital copy; the paper version can be standard or large format. You can only order it once your degree has been conferred."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-duplicata-delais",
+  "category": "calendrier",
+  "keywords": [
+   "délai duplicata",
+   "duplicate diploma processing time",
+   "date impression diplôme",
+   "diploma printing date",
+   "quand duplicata prêt",
+   "when duplicate ready",
+   "duplicata numérique délai",
+   "digital duplicate time",
+   "attente diplôme papier",
+   "paper diploma wait"
+  ],
+  "question": {
+   "fr": "Combien de temps faut-il pour recevoir un duplicata de diplôme ?",
+   "en": "How long does it take to get a duplicate diploma?"
+  },
+  "answer": {
+   "fr": "Le duplicata numérique est prêt en deux jours ouvrables au plus. Le duplicata papier prend de quatre à six semaines, selon la date d'impression ; la prochaine date d'impression annoncée est le 7 décembre 2026.",
+   "en": "The digital duplicate is ready within two business days. The paper duplicate takes four to six weeks, depending on the printing date; the next announced printing date is December 7, 2026."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-nom-avant-impression-diplome",
+   "k-statut-legal-date-limite",
+   "k-periodes-inscription-grade"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-photocopie-certifiee-diplome",
+  "category": "services",
+  "keywords": [
+   "photocopie certifiée",
+   "certified copy diploma",
+   "copie avec sceau",
+   "copy with seal",
+   "photocopie officielle diplôme",
+   "official photocopy diploma",
+   "faire certifier diplôme",
+   "certify my diploma",
+   "copie conforme",
+   "true copy"
+  ],
+  "question": {
+   "fr": "Est-ce que l'Université peut faire une photocopie officielle de mon diplôme ?",
+   "en": "Can the University make an official photocopy of my diploma?"
+  },
+  "answer": {
+   "fr": "Oui : apporte ton diplôme original à InfoService pour obtenir une photocopie officielle avec sceau, au coût de 29,13 $. Tu peux payer en personne par Mastercard, Visa, Interac, chèque, mandat ou argent comptant.",
+   "en": "Yes: bring your original diploma to InfoService for an official photocopy with seal, which costs $29.13. You can pay in person by Mastercard, Visa, Interac, cheque, money order or cash."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-livraison-documents",
+  "category": "services",
+  "keywords": [
+   "livraison documents",
+   "document delivery",
+   "envoi express",
+   "express delivery",
+   "frais de poste relevé",
+   "shipping fee transcript",
+   "case postale",
+   "po box",
+   "modifier ma commande",
+   "change my order"
+  ],
+  "question": {
+   "fr": "Comment mes documents papier sont-ils livrés, et y a-t-il des frais ?",
+   "en": "How are paper documents delivered, and are there fees?"
+  },
+  "answer": {
+   "fr": "L'envoi par la poste ordinaire est gratuit ; la livraison express coûte 28,38 $ au Canada et 49,08 $ à l'étranger. Les diplômes ne sont pas livrés dans une case postale, et une fois ta commande soumise, aucun changement ni remboursement n'est possible.",
+   "en": "Regular mail is free; express delivery costs $28.38 within Canada and $49.08 abroad. Diplomas aren't delivered to post office boxes, and once your order is submitted, no changes or refunds are possible."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-mescertif-fonctionnement",
+  "category": "services",
+  "keywords": [
+   "mescertif",
+   "mycreds",
+   "c'est quoi mescertif",
+   "what is mycreds",
+   "crédit de partage",
+   "share credit",
+   "document numérique",
+   "digital document",
+   "remboursement mescertif",
+   "mycreds refund"
+  ],
+  "question": {
+   "fr": "C'est quoi MesCertif et comment je paie mes documents numériques ?",
+   "en": "What is MyCreds and how do I pay for digital documents?"
+  },
+  "answer": {
+   "fr": "MesCertif est la plateforme canadienne de documents numériques adoptée par l'Université. Tu ne paies pas le document lui-même, mais chaque envoi : il faut acheter un crédit de partage par destinataire, et simplement ouvrir ton document pour le consulter n'en utilise pas. Les crédits achetés ne sont pas remboursables, et avant de partager, commande une nouvelle copie dans uoZone pour envoyer la version la plus à jour.",
+   "en": "MyCreds is the Canadian digital credential platform the University uses. You don't pay for the document itself but for each share: you buy one share credit per recipient, and just opening your document to view it doesn't use one. Credits are non-refundable, and before sharing, order a new copy in uoZone so you send the most up-to-date version."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-badge-numerique",
+  "category": "services",
+  "keywords": [
+   "badge numérique",
+   "digital badge",
+   "badge microprogramme",
+   "microprogram badge",
+   "badge linkedin",
+   "linkedin badge",
+   "certificat de langue seconde",
+   "second language certificate",
+   "badge mescertif",
+   "mycreds badge"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux recevoir un badge numérique pour un microprogramme ou le Certificat de langue seconde ?",
+   "en": "Can I get a digital badge for a microprogram or the Second Language Certificate?"
+  },
+  "answer": {
+   "fr": "Oui, si tu as réussi un microprogramme à l'Université, ou reçu le Certificat de langue seconde depuis l'automne 2023. MesCertif t'envoie un courriel quand ton badge est prêt, habituellement dans les deux semaines suivant la publication des notes finales du trimestre, et tu peux le partager gratuitement, par exemple sur LinkedIn.",
+   "en": "Yes, if you completed a microprogram at the University, or received the Second Language Certificate since Fall 2023. MyCreds emails you when your badge is ready, usually within two weeks after official final grades for the term are posted, and you can share it for free, for example on LinkedIn."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-certificat-langue-seconde",
+  "category": "services",
+  "keywords": [
+   "certificat de langue seconde",
+   "second language certificate",
+   "commander certificat bilinguisme",
+   "order language certificate",
+   "fls 3500",
+   "esl 3100",
+   "certificat anglais français",
+   "english french certificate",
+   "ilob certificat",
+   "olbi certificate"
+  ],
+  "question": {
+   "fr": "Comment commander mon Certificat de langue seconde ?",
+   "en": "How do I order my Second Language Certificate?"
+  },
+  "answer": {
+   "fr": "Si tu as réussi ESL 3100 ou FLS 3500, commande-le dans uoZone, sous Applications, avec Commander des documents officiels, en format numérique. Le partage coûte 24,49 $ plus taxes et il est traité en un jour ouvrable ; il n'existe pas de version papier, mais tu peux l'imprimer à partir de MesCertif.",
+   "en": "If you passed ESL 3100 or FLS 3500, order it in uoZone, under Applications, with Purchase Official Documents, in digital format. Sharing costs $24.49 plus tax and it's processed within one business day; there's no paper version, but you can print it from MyCreds."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-autorisation-tierce-personne",
+  "category": "services",
+  "keywords": [
+   "autoriser quelqu'un",
+   "authorize someone",
+   "tierce personne",
+   "third party",
+   "quelqu'un peut chercher mon relevé",
+   "someone pick up my documents",
+   "formulaire d'autorisation",
+   "authorization form",
+   "procuration documents",
+   "release my information"
+  ],
+  "question": {
+   "fr": "Est-ce que quelqu'un d'autre peut demander ou venir chercher mes documents à ma place ?",
+   "en": "Can someone else request or pick up my documents for me?"
+  },
+  "answer": {
+   "fr": "Normalement, seul toi peux le faire, mais tu peux autoriser une autre personne avec le Formulaire d'autorisation pour la divulgation de renseignements à une tierce personne. Envoie-le à partir de ton adresse courriel uOttawa ou dépose-le en personne à InfoService, au pavillon Tabaret, local 129 ; un formulaire envoyé directement par la tierce personne n'est pas accepté.",
+   "en": "Normally only you can, but you can authorize someone else with the Third-Party Authorization Form to Release Student Information. Send it from your uOttawa email account or drop it off in person at InfoService, Tabaret Hall, Room 129; forms submitted directly by the third party aren't accepted."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-parents-acces-dossier",
+  "category": "reglements",
+  "keywords": [
+   "mes parents peuvent voir mes notes",
+   "can my parents see my grades",
+   "accès parents dossier",
+   "parent access",
+   "consentement parents",
+   "parental consent",
+   "confidentialité dossier étudiant",
+   "student record privacy",
+   "mon père veut des informations",
+   "my mother wants information"
+  ],
+  "question": {
+   "fr": "Est-ce que mes parents peuvent avoir accès à mon dossier ou à mes notes ?",
+   "en": "Can my parents access my file or my grades?"
+  },
+  "answer": {
+   "fr": "Pas sans ton accord : aux yeux de la loi canadienne, les étudiants sont généralement considérés comme des adultes, et l'Université doit protéger leurs renseignements personnels. Seul toi as accès à l'information de ton dossier, à moins d'avoir donné ton consentement exprès à une tierce personne, par exemple avec le formulaire d'autorisation prévu à cet effet.",
+   "en": "Not without your consent: under Canadian law, students are generally considered adults, and the University must protect their personal information. Only you can access the information in your file, unless you've given express consent to a third party, for example with the authorization form provided for that purpose."
+  },
+  "sources": [
+   {
+    "label": "For parents — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/parents"
+   },
+   {
+    "label": "Student accounts — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-vie-privee-droits",
+   "k-nom-privilegie-ou-apparait"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-vie-privee-droits",
+  "category": "reglements",
+  "keywords": [
+   "vie privée",
+   "privacy",
+   "renseignements personnels",
+   "personal information",
+   "accès à mes renseignements",
+   "access my personal information",
+   "plainte vie privée",
+   "privacy complaint",
+   "corriger mes renseignements",
+   "correct my information",
+   "lpvp ontario",
+   "fippa"
+  ],
+  "question": {
+   "fr": "Quels sont mes droits sur mes renseignements personnels à l'Université ?",
+   "en": "What are my rights regarding my personal information at the University?"
+  },
+  "answer": {
+   "fr": "L'Université recueille et utilise tes renseignements selon la Loi ontarienne sur l'accès à l'information et la protection de la vie privée : seulement pour des fins légitimes et précises. Dans la plupart des cas, tu as le droit de voir les renseignements qu'elle détient sur toi, avec le formulaire de demande d'accès, et d'en demander la correction s'ils sont inexacts. Pour une plainte, tu remplis le formulaire de plainte et l'envoies au chef de la protection de la vie privée.",
+   "en": "The University collects and uses your information under Ontario's Freedom of Information and Protection of Privacy Act, only for legitimate and specific purposes. In most cases, you have the right to see the information it holds about you through the Access Request Form, and to ask for a correction if it's inaccurate. To complain, fill out the Privacy Complaint Form and send it to the Chief Privacy Officer."
+  },
+  "sources": [
+   {
+    "label": "Your privacy rights — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/aipo/privacy-rights"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-nom-privilegie-ou-apparait"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-changer-nom-officiel",
+  "category": "services",
+  "keywords": [
+   "changer mon nom",
+   "change my name",
+   "changement de nom légal",
+   "legal name change",
+   "nom principal",
+   "primary name",
+   "corriger mon nom",
+   "correct my name",
+   "nom mal écrit",
+   "name misspelled",
+   "mariage nom"
+  ],
+  "question": {
+   "fr": "Comment changer mon nom officiel dans mon dossier étudiant ?",
+   "en": "How do I change my legal name in my student record?"
+  },
+  "answer": {
+   "fr": "Remplis le formulaire de demande de changement de nom principal, avec ton numéro étudiant et ta signature, et joins une copie de ton passeport à ton nom exact ou, sinon, deux pièces d'identité gouvernementales. Les documents qui ne sont ni en français ni en anglais doivent être traduits par un traducteur agréé. Envoie le tout par courriel à InfoService ; le traitement prend de deux à cinq jours ouvrables, et tu reçois une confirmation par courriel.",
+   "en": "Fill out the Request for Primary Name Change form with your student number and signature, and attach a copy of your passport showing your correct name or, if you don't have it, two pieces of government-issued ID. Documents not in English or French must be translated by a certified translator. Email everything to InfoService; processing takes two to five business days, and you'll get a confirmation email."
+  },
+  "sources": [
+   {
+    "label": "Changing your name — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents/changing-your-name"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-nom-privilegie",
+  "category": "services",
+  "keywords": [
+   "nom privilégié",
+   "preferred name",
+   "nom choisi",
+   "chosen name",
+   "changer mon prénom uozone",
+   "change first name uozone",
+   "nom affiché brightspace",
+   "display name",
+   "liste de classe nom",
+   "class list name",
+   "transition nom"
+  ],
+  "question": {
+   "fr": "Comment utiliser un nom privilégié à l'Université ?",
+   "en": "How do I use a preferred name at the University?"
+  },
+  "answer": {
+   "fr": "Dans uoZone, sous Applications, choisis Données personnelles, puis l'onglet Noms ; clique sur Modifier, change ton nom et enregistre. Tu n'as pas à justifier ton choix, et les systèmes liés à uoZone sont mis à jour dans les cinq jours ouvrables. Fais-le avant le début du trimestre, car les listes de classe circulent au début et ne sont pas mises à jour ensuite.",
+   "en": "In uoZone, under Applications, select Personal Information, then the Names tab; click Edit, change your name and save. You don't need to explain your choice, and systems linked to uoZone are updated within five business days. Do it before the term starts, because class lists are circulated at the beginning and aren't updated afterwards."
+  },
+  "sources": [
+   {
+    "label": "Changing your name — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents/changing-your-name"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-nom-privilegie-ou-apparait",
+  "category": "reglements",
+  "keywords": [
+   "où apparaît mon nom privilégié",
+   "where preferred name appears",
+   "nom sur diplôme",
+   "name on diploma",
+   "nom sur carte étudiante",
+   "name on student card",
+   "nom légal documents",
+   "legal name documents",
+   "nom t2202",
+   "name on tax slip"
+  ],
+  "question": {
+   "fr": "Sur quels documents apparaît mon nom privilégié, et sur lesquels mon nom légal ?",
+   "en": "Which documents show my preferred name, and which show my legal name?"
+  },
+  "answer": {
+   "fr": "Ton nom privilégié est utilisé notamment dans ta boîte courriel uOttawa, les listes de classe, Brightspace et ta carte uOttawa. Ton nom principal, ou légal, reste sur les documents officiels : attestations, diplômes et certificats, thèses, documents fiscaux et financiers, et documents d'emploi. Pour une nouvelle carte à ton nom privilégié, rends-toi au Service de la carte uOttawa, au 90 Université, pour une photo ; des frais de remplacement s'appliquent.",
+   "en": "Your preferred name is used in places like your uOttawa inbox, class lists, Brightspace and your uOttawa card. Your primary, or legal, name stays on official documents: letters of attestation, diplomas and certificates, theses, tax and financial documents, and employment documents. For a new card showing your preferred name, go to the uOttawa Card Service at 90 University for a photo; replacement fees apply."
+  },
+  "sources": [
+   {
+    "label": "Changing your name — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents/changing-your-name"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-nom-avant-impression-diplome",
+  "category": "calendrier",
+  "keywords": [
+   "nom sur mon diplôme",
+   "name on my diploma",
+   "date limite changement de nom diplôme",
+   "name change deadline diploma",
+   "changer nom avant collation",
+   "change name before convocation",
+   "nom diplôme erreur",
+   "wrong name diploma",
+   "vérifier mon nom",
+   "check my name"
+  ],
+  "question": {
+   "fr": "Quelle est la date limite pour changer mon nom avant l'impression de mon diplôme ?",
+   "en": "What's the deadline to change my name before my diploma is printed?"
+  },
+  "answer": {
+   "fr": "Vérifie d'abord ton nom dans uoZone, sous Données personnelles : c'est ce nom principal qui sera imprimé. Pour qu'un changement soit fait à temps, envoie ta demande au plus tard le 2 mars pour un grade conféré en mars, le 20 mai pour mai, le 16 septembre pour octobre et le 1er décembre pour décembre ; un changement récent peut prendre jusqu'à deux semaines à apparaître.",
+   "en": "First check your name in uoZone under Personal Information: that primary name is what will be printed. For a change to be made in time, submit your request by March 2 for a degree conferred in March, May 20 for May, September 16 for October and December 1 for December; a recent change can take up to two weeks to show."
+  },
+  "sources": [
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   }
+  ],
+  "related": [
+   "k-duplicata-delais",
+   "k-statut-legal-date-limite",
+   "k-periodes-inscription-grade"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-changer-adresse",
+  "category": "services",
+  "keywords": [
+   "changer mon adresse",
+   "change my address",
+   "nouvelle adresse",
+   "new address",
+   "adresse postale",
+   "mailing address",
+   "déménagement",
+   "moving",
+   "mettre à jour mes coordonnées",
+   "update contact information"
+  ],
+  "question": {
+   "fr": "Comment changer mon adresse dans mon dossier ?",
+   "en": "How do I change my address in my student record?"
+  },
+  "answer": {
+   "fr": "Tu peux modifier ton adresse toi-même dans uoZone, sous l'onglet Applications. Garde-la à jour, surtout avant une demande de remboursement ou une commande de documents papier envoyés par la poste. InfoService peut aussi t'aider pour un changement d'adresse.",
+   "en": "You can update your address yourself in uoZone, under the Applications tab. Keep it current, especially before a refund request or an order for paper documents sent by mail. InfoService can also help with a change of address."
+  },
+  "sources": [
+   {
+    "label": "Self-service (student accounts) — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/self-service"
+   },
+   {
+    "label": "Contact — uOttawa",
+    "url": "https://www.uottawa.ca/en/contact"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-numero-etudiant",
+  "category": "services",
+  "keywords": [
+   "numéro étudiant",
+   "student number",
+   "numéro d'étudiant oublié",
+   "forgot student number",
+   "où trouver mon numéro étudiant",
+   "where is my student number",
+   "student id number",
+   "matricule",
+   "numéro de compte paiement",
+   "account number payment"
+  ],
+  "question": {
+   "fr": "C'est quoi mon numéro étudiant et à quoi il sert ?",
+   "en": "What is my student number and what is it used for?"
+  },
+  "answer": {
+   "fr": "Tu as reçu ton numéro étudiant en même temps que ton identifiant uoAccess et ton mot de passe, quand tu as fait ta demande d'admission. Il sert partout : par exemple comme numéro de compte pour payer tes droits en ligne, et dans tes demandes à InfoService. Si tu ne le retrouves pas, adresse-toi à InfoService, et ne donne jamais ton mot de passe à personne.",
+   "en": "You received your student number together with your uoAccess ID and password when you applied for admission. It's used everywhere: for example as the account number to pay your fees online, and in your requests to InfoService. If you can't find it, contact InfoService, and never give your password to anyone."
+  },
+  "sources": [
+   {
+    "label": "Current students — uOttawa",
+    "url": "https://www.uottawa.ca/en/current-students"
+   },
+   {
+    "label": "Student accounts FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/faq"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "k-courriel-officiel",
+  "category": "reglements",
+  "keywords": [
+   "courriel officiel",
+   "official email",
+   "adresse uottawa",
+   "uottawa email",
+   "l'université m'écrit où",
+   "how does the university contact me",
+   "lire mes courriels",
+   "check my email",
+   "communications officielles",
+   "official communications"
+  ],
+  "question": {
+   "fr": "Comment l'Université communique-t-elle avec moi ?",
+   "en": "How does the University communicate with me?"
+  },
+  "answer": {
+   "fr": "Uniquement par ton adresse courriel officielle @uOttawa.ca, que tu reçois une fois inscrit à tes cours. C'est ta responsabilité de la consulter régulièrement : c'est là que tu reçois, par exemple, l'avis d'ouverture de l'inscription au grade ou les courriels de MesCertif.",
+   "en": "Only through your official @uOttawa.ca email address, which you get once you've enrolled in courses. It's your responsibility to check it regularly: that's where you'll receive, for example, the notice that degree registration is open or emails from MyCreds."
+  },
+  "sources": [
+   {
+    "label": "Current students — uOttawa",
+    "url": "https://www.uottawa.ca/en/current-students"
+   },
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-uozone-dossier",
+  "category": "services",
+  "keywords": [
+   "uozone dossier",
+   "uozone tasks",
+   "quoi faire dans uozone",
+   "what can i do in uozone",
+   "applications uozone",
+   "uozone applications",
+   "centre étudiant",
+   "student center",
+   "commander documents officiels",
+   "purchase official documents"
+  ],
+  "question": {
+   "fr": "Quelles démarches de mon dossier puis-je faire moi-même dans uoZone ?",
+   "en": "Which student record tasks can I do myself in uoZone?"
+  },
+  "answer": {
+   "fr": "Sous l'onglet Applications, tu peux notamment commander des documents officiels, télécharger ton relevé de notes ou ton attestation d'inscription non officiels, modifier tes données personnelles et ton nom privilégié, faire ta demande de remise de diplôme et demander un remboursement. Le Centre étudiant te montre ton état de compte et l'état de ta demande de diplôme, et tes feuillets d'impôt sont sous l'onglet Finances et emplois.",
+   "en": "Under the Applications tab, you can purchase official documents, download your unofficial transcript or enrolment verification, update your personal information and preferred name, apply for graduation and request a refund. The Student Center shows your statement of account and your graduation status, and your tax slips are under the Finances and jobs tab."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   },
+   {
+    "label": "Changing your name — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents/changing-your-name"
+   },
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   },
+   {
+    "label": "Self-service (student accounts) — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/self-service"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-infoservice-services",
+  "category": "services",
+  "keywords": [
+   "infoservice services",
+   "what does infoservice do",
+   "à quoi sert infoservice",
+   "registraire",
+   "registrar",
+   "service du registraire",
+   "registrar office",
+   "statut légal",
+   "legal status",
+   "question dossier étudiant"
+  ],
+  "question": {
+   "fr": "Pour quelles démarches est-ce que je vais à InfoService ?",
+   "en": "What can InfoService help me with?"
+  },
+  "answer": {
+   "fr": "InfoService s'occupe des droits de scolarité, de la carte uOttawa, des relevés de notes, attestations d'études et copies de diplômes, et des questions de registraire comme l'obtention du grade, le changement de nom, le changement d'adresse et le statut légal. On y traite aussi l'inscription des étudiants libres, l'immigration et le RAMU pour les étudiants internationaux.",
+   "en": "InfoService handles tuition fees, the uOttawa card, transcripts, enrolment verifications and diploma copies, and registrar matters such as obtaining your degree, name changes, changes of address and legal status. It also handles non-degree student enrolment, immigration and UHIP for international students."
+  },
+  "sources": [
+   {
+    "label": "Contact — uOttawa",
+    "url": "https://www.uottawa.ca/en/contact"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-infoservice-heures-ete",
+  "category": "services",
+  "keywords": [
+   "heures infoservice été",
+   "infoservice summer hours",
+   "infoservice ouvert quand",
+   "infoservice hours",
+   "infoservice juin",
+   "infoservice july",
+   "heures d'ouverture registraire",
+   "registrar hours",
+   "infoservice adresse",
+   "infoservice address"
+  ],
+  "question": {
+   "fr": "Quelles sont les heures d'InfoService pendant l'année et l'été ?",
+   "en": "What are InfoService's hours during the year and in summer?"
+  },
+  "answer": {
+   "fr": "InfoService est au pavillon Tabaret, 550, rue Cumberland, local 129. Du 1er septembre au 31 mai, c'est ouvert du lundi au vendredi de 9 h à 16 h 30 ; du 1er juin au 31 août, du lundi au vendredi de 9 h à 15 h 30.",
+   "en": "InfoService is in Tabaret Hall, 550 Cumberland Street, Room 129. From September 1 to May 31, it's open Monday to Friday, 9 a.m. to 4:30 p.m.; from June 1 to August 31, Monday to Friday, 9 a.m. to 3:30 p.m."
+  },
+  "sources": [
+   {
+    "label": "Contact — uOttawa",
+    "url": "https://www.uottawa.ca/en/contact"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-file-attente-virtuelle",
+  "category": "services",
+  "keywords": [
+   "file d'attente virtuelle",
+   "virtual line",
+   "virtual queue",
+   "prendre un numéro",
+   "take a number",
+   "attendre infoservice",
+   "wait at infoservice",
+   "qless",
+   "temps d'attente",
+   "wait time",
+   "billet infoservice"
+  ],
+  "question": {
+   "fr": "Comment fonctionne la file d'attente virtuelle ?",
+   "en": "How does the virtual line work?"
+  },
+  "answer": {
+   "fr": "Pour les services en personne et par téléphone, tu dois rejoindre la file virtuelle : tu t'inscris à distance, tu attends où tu veux et tu reçois des avis sur ton téléphone quand ton tour approche. Si tu ne veux pas donner ton numéro de téléphone, tu peux entrer ton prénom et l'initiale de ton nom, mais tu dois alors rester sur place et suivre ta position sur l'écran. Le système, QLess, conserve ses données au Canada.",
+   "en": "For in-person and phone services, you must join the virtual line: you sign up remotely, wait wherever you like and get notifications on your phone as your turn approaches. If you don't want to give your phone number, you can enter your first name and last initial, but then you must stay on site and check your position on the screen. The system, QLess, stores its data in Canada."
+  },
+  "sources": [
+   {
+    "label": "Waiting lines and appointments — uOttawa",
+    "url": "https://www.uottawa.ca/en/contact/virtual-line"
+   },
+   {
+    "label": "Contact — uOttawa",
+    "url": "https://www.uottawa.ca/en/contact"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-rendez-vous-infoservice",
+  "category": "services",
+  "keywords": [
+   "rendez-vous infoservice",
+   "infoservice appointment",
+   "prendre rendez-vous",
+   "book an appointment",
+   "appeler infoservice",
+   "call infoservice",
+   "téléphone infoservice",
+   "infoservice phone",
+   "rendez-vous faculté",
+   "faculty appointment"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux prendre rendez-vous avec InfoService ou ma faculté ?",
+   "en": "Can I book an appointment with InfoService or my faculty?"
+  },
+  "answer": {
+   "fr": "Oui : à partir de la file virtuelle de l'Université, tu vois les temps d'attente et tu peux réserver un rendez-vous. InfoService offre le service en personne ou par téléphone, et la plupart des bureaux des études des facultés, en personne ou en virtuel sur Teams ; choisis le bureau voulu dans la liste des files virtuelles.",
+   "en": "Yes: from the University's virtual line, you can see wait times and book an appointment. InfoService offers in-person or phone service, and most faculty studies offices offer in-person or virtual service on Teams; pick the office you need from the list of virtual lines."
+  },
+  "sources": [
+   {
+    "label": "Waiting lines and appointments — uOttawa",
+    "url": "https://www.uottawa.ca/en/contact/virtual-line"
+   },
+   {
+    "label": "Contact — uOttawa",
+    "url": "https://www.uottawa.ca/en/contact"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-bureaux-etudes-superieures",
+  "category": "services",
+  "keywords": [
+   "bureau études supérieures",
+   "graduate studies office",
+   "bureau maîtrise doctorat",
+   "masters phd office",
+   "où est le bureau des cycles supérieurs",
+   "where is graduate office",
+   "études supérieures génie",
+   "engineering graduate office",
+   "études supérieures sciences",
+   "science graduate office"
+  ],
+  "question": {
+   "fr": "Où sont les bureaux des études supérieures des facultés ?",
+   "en": "Where are the faculties' graduate studies offices?"
+  },
+  "answer": {
+   "fr": "Quelques exemples : Arts au pavillon Simard, local 416 ; Génie au pavillon SITE, local STE 1024 ; Sciences au pavillon Gendron, local 181 ; Sciences de la santé au pavillon Montpetit, local 242 ; et Médecine au pavillon Roger-Guindon, local 2016, en virtuel. Tu peux rejoindre leur file virtuelle ou prendre rendez-vous à partir de la page des files d'attente.",
+   "en": "Some examples: Arts in Simard Hall, Room 416; Engineering in the SITE Building, STE 1024; Science in Gendron Hall, Room 181; Health Sciences in Montpetit Hall, Room 242; and Medicine in Roger Guindon Hall, Room 2016, virtually. You can join their virtual line or book an appointment from the waiting lines page."
+  },
+  "sources": [
+   {
+    "label": "Waiting lines and appointments — uOttawa",
+    "url": "https://www.uottawa.ca/en/contact/virtual-line"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-bureaux-droit",
+  "category": "services",
+  "keywords": [
+   "bureau droit civil",
+   "civil law office",
+   "bureau common law",
+   "common law office",
+   "faculté de droit bureau",
+   "law faculty office",
+   "fauteux 201",
+   "fauteux 237",
+   "secrétariat droit",
+   "law student office"
+  ],
+  "question": {
+   "fr": "Où est le bureau des études de la Faculté de droit ?",
+   "en": "Where is the Faculty of Law's student office?"
+  },
+  "answer": {
+   "fr": "La Section de droit civil est au pavillon Fauteux, local 201, avec un service en personne, par téléphone ou virtuel sur Teams. La Section de common law est au pavillon Fauteux, local 237, avec des rendez-vous en personne ou par téléphone. Les deux ont une file virtuelle.",
+   "en": "The Civil Law Section is in Fauteux Hall, Room 201, with in-person, phone or virtual service on Teams. The Common Law Section is in Fauteux Hall, Room 237, with in-person or phone appointments. Both have a virtual line."
+  },
+  "sources": [
+   {
+    "label": "Waiting lines and appointments — uOttawa",
+    "url": "https://www.uottawa.ca/en/contact/virtual-line"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-conseiller-scolaire",
+  "category": "services",
+  "keywords": [
+   "conseiller scolaire",
+   "academic advisor",
+   "conseiller pédagogique",
+   "academic advising",
+   "qui m'aide pour mon parcours",
+   "who helps with my program",
+   "bureau des études premier cycle",
+   "undergraduate office",
+   "aide choix de cours",
+   "help course selection"
+  ],
+  "question": {
+   "fr": "Qui est mon conseiller scolaire, et pour quoi peut-il m'aider ?",
+   "en": "Who is my academic advisor, and what can they help with?"
+  },
+  "answer": {
+   "fr": "Les conseillers sont au bureau des études de premier cycle de ta faculté. Ils t'aident pour le choix de cours et l'inscription, le changement de programme, les équivalences, les échanges, ton parcours, l'obtention de ton grade, ta situation scolaire et les reports d'examen. Pour une question sur un cours d'une autre faculté, comme un report d'examen, adresse-toi au bureau de la faculté qui offre ce cours.",
+   "en": "Advisors are in your faculty's Office of Undergraduate Studies. They help with course selection and registration, program changes, equivalencies, exchanges, your academic path, obtaining your degree, academic standing and exam deferrals. For a question about a course in another faculty, such as an exam deferral, contact the office of the faculty offering that course."
+  },
+  "sources": [
+   {
+    "label": "Support from your faculty — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/faculty"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-statut-legal-preuve",
+  "category": "finances",
+  "keywords": [
+   "preuve de citoyenneté",
+   "proof of citizenship",
+   "statut légal",
+   "legal status",
+   "frais canadiens",
+   "canadian fees",
+   "résident permanent frais",
+   "permanent resident fees",
+   "passeport infoservice",
+   "passport infoservice",
+   "statut au canada"
+  ],
+  "question": {
+   "fr": "Je suis citoyen canadien ou résident permanent : comment prouver mon statut pour payer les frais canadiens ?",
+   "en": "I'm a Canadian citizen or permanent resident. How do I prove my status to pay Canadian fees?"
+  },
+  "answer": {
+   "fr": "Présente une preuve de ton statut à InfoService. Un passeport canadien valide suffit, et dans la plupart des cas, une pièce d'identité avec photo et un numéro d'assurance sociale qui ne commence pas par 9 suffisent aussi. Si tu as demandé la résidence permanente, il faut une lettre officielle d'IRCC, l'accusé de réception de ta demande ou une capture d'écran de ton portail indiquant « en cours » ; une lettre disant seulement que la demande a été soumise ne suffit pas.",
+   "en": "Show proof of your status to InfoService. A valid Canadian passport is enough, and in most cases, photo ID plus a social insurance number that doesn't start with 9 is also enough. If you've applied for permanent residence, you need an official IRCC letter, the confirmation email acknowledging your application, or a screenshot of your portal showing \"in process\"; a letter stating only that the application was submitted isn't enough."
+  },
+  "sources": [
+   {
+    "label": "Factors affecting tuition fees — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees"
+   }
+  ],
+  "related": [
+   "k-releve-paiement",
+   "k-residence-ontario-frais",
+   "k-etudiant-a-charge-ontario"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-statut-legal-date-limite",
+  "category": "calendrier",
+  "keywords": [
+   "date limite statut légal",
+   "legal status deadline",
+   "frais internationaux par erreur",
+   "charged international fees",
+   "changer mon statut de frais",
+   "change fee status",
+   "31 octobre statut",
+   "january 31 status",
+   "rétroactif statut",
+   "retroactive status"
+  ],
+  "question": {
+   "fr": "Quelle est la date limite pour faire reconnaître mon statut canadien et payer les frais canadiens ?",
+   "en": "What's the deadline to have my Canadian status recognized so I pay Canadian fees?"
+  },
+  "answer": {
+   "fr": "Tes documents doivent être soumis au plus tard le 31 octobre pour l'automne et le 31 janvier pour l'hiver. Pour l'été, c'est le 31 juillet pour les étudiants de premier cycle, et le 30 juin pour les étudiants des cycles supérieurs inscrits au printemps-été. Après la date limite, tu paies les frais internationaux, et ton statut ne peut pas être changé rétroactivement.",
+   "en": "Your documents must be submitted by October 31 for the fall term and January 31 for the winter term. For summer, it's July 31 for undergraduate students, and June 30 for graduate students enrolled in the spring-summer term. After the deadline, you pay international fees, and your status can't be changed retroactively."
+  },
+  "sources": [
+   {
+    "label": "Factors affecting tuition fees — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees"
+   }
+  ],
+  "related": [
+   "k-duplicata-delais",
+   "k-nom-avant-impression-diplome",
+   "k-periodes-inscription-grade"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-residence-ontario-frais",
+  "category": "finances",
+  "keywords": [
+   "résident de l'ontario",
+   "ontario resident",
+   "frais ontario ou hors ontario",
+   "ontario or out of province fees",
+   "résidence 12 mois",
+   "12 months residency",
+   "étudiant d'une autre province",
+   "student from another province",
+   "statut de résidence frais",
+   "residency status fees"
+  ],
+  "question": {
+   "fr": "Comment l'Université détermine-t-elle si je suis résident de l'Ontario pour mes frais ?",
+   "en": "How does the University decide whether I'm an Ontario resident for fees?"
+  },
+  "answer": {
+   "fr": "L'Ontario doit être la dernière province où tu as habité 12 mois consécutifs avant ton premier jour d'études à l'Université, sans compter le temps passé aux études postsecondaires à temps plein. Pour un élève du secondaire, c'est la province de la dernière école fréquentée ; pour les autres, celle de l'adresse donnée au moment de la demande. Certaines situations, comme celle d'un étudiant à charge dont les parents habitent en Ontario depuis 12 mois, peuvent aussi donner droit au statut de résident.",
+   "en": "Ontario must be the most recent province where you lived for 12 consecutive months before your first day of study at the University, not counting time as a full-time postsecondary student. For high school students, it's the province of the last school attended; for others, the province of the home address given when applying. Some situations, such as a dependent student whose parents have lived in Ontario for 12 months, can also qualify you as a resident."
+  },
+  "sources": [
+   {
+    "label": "Factors affecting tuition fees — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees"
+   }
+  ],
+  "related": [
+   "k-releve-paiement",
+   "k-statut-legal-preuve",
+   "k-etudiant-a-charge-ontario"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-etudiant-a-charge-ontario",
+  "category": "finances",
+  "keywords": [
+   "étudiant à charge",
+   "dependent student",
+   "parents en ontario",
+   "parents live in ontario",
+   "résidence des parents",
+   "parents residency",
+   "statut ontario exception",
+   "ontario residency exception",
+   "jamais marié",
+   "never married"
+  ],
+  "question": {
+   "fr": "Mes parents habitent en Ontario, mais pas moi : est-ce que je peux quand même être considéré résident de l'Ontario ?",
+   "en": "My parents live in Ontario but I don't. Can I still be considered an Ontario resident?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es un étudiant à charge et que l'Ontario est la dernière province où tes parents ou ton répondant ont habité au moins 12 mois consécutifs. Pour être à charge, tu ne dois jamais avoir été marié ni en union de fait, ni parent seul ayant la garde d'enfants ; tu dois commencer tes études dans les six ans suivant le secondaire, et ne pas avoir travaillé à temps plein 24 mois d'affilée.",
+   "en": "Yes, if you're a dependent student and Ontario is the most recent province where your parents or sponsor have lived for at least 12 consecutive months. To be dependent, you must never have been married or in a common-law relationship, or a single parent with custody of children; you must be starting postsecondary studies within six years of leaving high school, and not have worked full time for 24 months in a row."
+  },
+  "sources": [
+   {
+    "label": "Factors affecting tuition fees — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees"
+   }
+  ],
+  "related": [
+   "k-releve-paiement",
+   "k-statut-legal-preuve",
+   "k-residence-ontario-frais"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-frais-canadiens-autres-statuts",
+  "category": "finances",
+  "keywords": [
+   "permis de travail frais",
+   "work permit fees",
+   "réfugié frais",
+   "refugee fees",
+   "diplomate frais",
+   "diplomat fees",
+   "conjoint frais canadiens",
+   "spouse canadian fees",
+   "personne à charge",
+   "dependant",
+   "qui paie frais canadiens",
+   "who pays canadian fees"
+  ],
+  "question": {
+   "fr": "À part les citoyens et résidents permanents, qui peut payer les frais canadiens ?",
+   "en": "Besides citizens and permanent residents, who can pay Canadian fees?"
+  },
+  "answer": {
+   "fr": "Les membres du corps diplomatique, les réfugiés acceptés par le gouvernement du Canada, les personnes à charge des citoyens et résidents permanents, et les titulaires d'un permis de travail valide nommant un employeur situé en Ontario, ainsi que leurs personnes à charge. Ces personnes doivent présenter leurs pièces justificatives à InfoService. Certains permis sont exclus, par exemple le permis de travail postdiplôme ou un permis lié à un stage, ou le fait d'occuper un assistanat d'enseignement ou de recherche aux cycles supérieurs.",
+   "en": "Members of the diplomatic corps, refugees accepted by the Government of Canada, dependants of citizens and permanent residents, and holders of a valid work permit naming an employer located in Ontario, along with their dependants. These students must show their supporting documents to InfoService. Some permits are excluded, such as a post-graduation work permit or a permit tied to an internship, or holding a graduate teaching or research assistantship."
+  },
+  "sources": [
+   {
+    "label": "Factors affecting tuition fees — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees"
+   }
+  ],
+  "related": [
+   "k-releve-paiement",
+   "k-statut-legal-preuve",
+   "k-residence-ontario-frais"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-temps-plein-frais-statut",
+  "category": "reglements",
+  "keywords": [
+   "temps plein frais",
+   "full time fees",
+   "12 crédits",
+   "12 units",
+   "temps plein prêt étudiant",
+   "full time student loan",
+   "passer à temps partiel",
+   "switch to part time",
+   "statut temps plein cycles supérieurs",
+   "graduate full time status"
+  ],
+  "question": {
+   "fr": "Combien de crédits faut-il pour être à temps plein, et que se passe-t-il si je passe à temps partiel ?",
+   "en": "How many units do I need to be full time, and what happens if I go part time?"
+  },
+  "answer": {
+   "fr": "Au premier cycle, il faut au moins 12 crédits par trimestre pour être à temps plein, et les étudiants à temps plein paient des droits forfaitaires. Aux cycles supérieurs, les étudiants inscrits à six crédits ou plus sont généralement considérés à temps plein. Passer à temps partiel peut te rendre inadmissible à de l'aide financière ou au renouvellement de bourses, alors pèse bien les conséquences avant.",
+   "en": "At the undergraduate level, you need at least 12 units per term to be full time, and full-time students pay a flat tuition fee. At the graduate level, students enrolled in six or more units are generally considered full time. Going part time can make you ineligible for financial aid or scholarship renewals, so weigh the consequences carefully first."
+  },
+  "sources": [
+   {
+    "label": "Factors affecting tuition fees — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/factors-affecting-university-fees"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-numero-ein-itn",
+  "category": "finances",
+  "keywords": [
+   "numéro ein",
+   "ein number",
+   "étudiant américain impôt",
+   "american student tax",
+   "ftin uottawa",
+   "federal tax identification number",
+   "pas de numéro d'assurance sociale impôt",
+   "no sin tax",
+   "itn non-résident",
+   "individual tax number"
+  ],
+  "question": {
+   "fr": "Je suis étudiant américain ou international : quels numéros fiscaux me faut-il ?",
+   "en": "I'm an American or international student. Which tax numbers do I need?"
+  },
+  "answer": {
+   "fr": "Le numéro d'identification d'employeur de l'Université, demandé par les États-Unis, est le 98-0654654. Si tu es étudiant international sans numéro d'assurance sociale, il te faut un numéro d'impôt pour les non-résidents, que tu demandes à l'Agence du revenu du Canada. L'Université ne donne pas de conseils fiscaux.",
+   "en": "The University's Employer Identification Number, required by the United States, is 98-0654654. If you're an international student without a social insurance number, you need an Individual Tax Number for Non-Residents, which you request from the Canada Revenue Agency. The University doesn't provide tax advice."
+  },
+  "sources": [
+   {
+    "label": "Self-service (student accounts) — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/self-service"
+   }
+  ],
+  "related": [
+   "k-releve-paiement",
+   "k-statut-legal-preuve",
+   "k-residence-ontario-frais"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-formulaires-pret-etudiant",
+  "category": "finances",
+  "keywords": [
+   "confirmer inscription prêt",
+   "confirm enrolment loan",
+   "preuve temps plein prêt",
+   "proof full time loan",
+   "formulaire prêt étudiant",
+   "student loan form",
+   "attestation pour banque",
+   "letter for bank",
+   "attestation pour rafeo",
+   "osap enrolment confirmation"
+  ],
+  "question": {
+   "fr": "Ma banque ou mon programme de prêt veut une preuve que je suis inscrit : quoi demander ?",
+   "en": "My bank or loan program wants proof that I'm enrolled. What should I ask for?"
+  },
+  "answer": {
+   "fr": "Le document officiel qui certifie ton inscription est l'attestation d'études, que tu commandes dans uoZone sous Commander des documents officiels. Attention : les formulaires de prêts étudiants sont exclus du service de formulaires de tiers signés par le registraire. Si l'organisme exige un formulaire particulier, vérifie avec InfoService la marche à suivre.",
+   "en": "The official document certifying your enrolment is the enrolment verification, which you order in uoZone under Purchase Official Documents. Note that student loan forms are excluded from the service for third-party forms signed by the Registrar. If the organization requires a specific form, check with InfoService on how to proceed."
+  },
+  "sources": [
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   }
+  ],
+  "related": [
+   "k-releve-paiement",
+   "k-statut-legal-preuve",
+   "k-residence-ontario-frais"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "k-periodes-inscription-grade",
+  "category": "calendrier",
+  "keywords": [
+   "inscription au grade",
+   "degree registration",
+   "demande de remise de diplôme",
+   "apply for graduation",
+   "date limite diplôme",
+   "graduation deadline",
+   "quand demander mon diplôme",
+   "when to apply to graduate",
+   "graduation mars 2027",
+   "graduation application periods"
+  ],
+  "question": {
+   "fr": "Quelles sont les périodes pour demander mon diplôme en 2026-2027 ?",
+   "en": "What are the periods to apply for graduation in 2026-2027?"
+  },
+  "answer": {
+   "fr": "Du 13 novembre au 1er décembre 2026, pour un grade conféré le 9 décembre, seulement en sciences de la santé et en droit civil. Du 17 février au 2 mars 2027, pour un grade conféré le 17 mars, sauf en common law et à Telfer. Et du 17 février au 31 mars 2027, pour un grade conféré le 26 mai 2027. Tu reçois un courriel à ton adresse uOttawa quand ta période s'ouvre.",
+   "en": "From November 13 to December 1, 2026, for a degree conferred on December 9, for Health Sciences and Civil Law only. From February 17 to March 2, 2027, for a degree conferred on March 17, except Common Law and Telfer. And from February 17 to March 31, 2027, for a degree conferred on May 26, 2027. You'll get an email at your uOttawa address when your period opens."
+  },
+  "sources": [
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   }
+  ],
+  "related": [
+   "k-duplicata-delais",
+   "k-nom-avant-impression-diplome",
+   "k-statut-legal-date-limite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-comment-demander-diplome",
+  "category": "services",
+  "keywords": [
+   "comment demander mon diplôme",
+   "how to apply for graduation",
+   "demande de remise de diplôme uozone",
+   "apply for graduation uozone",
+   "suivre ma demande de diplôme",
+   "track graduation status",
+   "inscription grade en ligne",
+   "register for degree",
+   "je ne vais pas à la collation",
+   "not attending convocation"
+  ],
+  "question": {
+   "fr": "Comment faire ma demande pour recevoir mon diplôme ?",
+   "en": "How do I apply to receive my degree?"
+  },
+  "answer": {
+   "fr": "Pendant ta période d'inscription, va dans uoZone, sous Applications, choisis Demande de remise de diplôme et suis les instructions ; tu peux ensuite suivre l'état de ta demande dans le Centre étudiant. Tu dois t'inscrire même si tu n'assistes pas à la cérémonie. Ta faculté analyse ensuite ton dossier, puis ton nom est soumis au Sénat pour confirmation.",
+   "en": "During your registration period, go to uoZone, under Applications, select Apply for graduation and follow the instructions; you can then track your status in the Student Center. You must register even if you're not attending the ceremony. Your faculty then reviews your file, and your name is submitted to the Senate for confirmation."
+  },
+  "sources": [
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   },
+   {
+    "label": "Obtain your degree — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-grade-date-manquee",
+  "category": "services",
+  "keywords": [
+   "date limite diplôme passée",
+   "missed graduation deadline",
+   "oublié demande diplôme",
+   "forgot to apply for graduation",
+   "inscription grade fermée",
+   "registration closed",
+   "formulaire inscription au grade",
+   "degree registration form",
+   "diplôme autre programme",
+   "degree other program"
+  ],
+  "question": {
+   "fr": "J'ai manqué la période d'inscription au grade : qu'est-ce que je fais ?",
+   "en": "I missed the degree registration period. What do I do?"
+  },
+  "answer": {
+   "fr": "Si la période est fermée, remplis le formulaire Inscription au grade et demande de diplôme et soumets-le à ta faculté. C'est aussi ce formulaire qu'il faut si tu demandes un grade dans un autre programme que le tien après la période ; pendant la période, envoie plutôt un courriel à ta faculté.",
+   "en": "If the period is closed, fill out the Registration for Degree and Request for Diploma form and submit it to your faculty. You also use this form if you're requesting a degree in a program other than your own after the period ends; during the period, email your faculty instead."
+  },
+  "sources": [
+   {
+    "label": "Convocation FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+   },
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-grade-pas-de-courriel",
+  "category": "services",
+  "keywords": [
+   "pas reçu courriel diplôme",
+   "no graduation email",
+   "je finis mais pas de courriel",
+   "finishing but no email",
+   "pas d'invitation inscription grade",
+   "no degree registration email",
+   "diplôme pas accordé",
+   "degree not granted",
+   "échec exigences diplôme",
+   "did not meet degree requirements"
+  ],
+  "question": {
+   "fr": "Je pense finir ce trimestre, mais je n'ai pas reçu de courriel pour m'inscrire au grade : que faire ?",
+   "en": "I expect to finish this term but didn't get an email to register for my degree. What should I do?"
+  },
+  "answer": {
+   "fr": "Si tu n'as rien reçu après la première semaine de la période d'inscription qui te concerne, communique avec ta faculté dès que possible. Et si, après t'être inscrit, tu ne remplis finalement pas les exigences de ton programme, tu devras soumettre une nouvelle demande une fois les exigences remplies, pour la collation suivante.",
+   "en": "If you haven't received anything after the first week of the registration period that applies to you, contact your faculty as soon as possible. And if, after registering, you don't end up meeting your program requirements, you'll need to submit a new request once you've met them, for the next convocation."
+  },
+  "sources": [
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   },
+   {
+    "label": "Obtain your degree — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-prononciation-nom-collation",
+  "category": "services",
+  "keywords": [
+   "prononciation de mon nom",
+   "name pronunciation",
+   "comment on va dire mon nom",
+   "how will they say my name",
+   "nom phonétique",
+   "phonetic name",
+   "lecture du nom collation",
+   "name read at convocation",
+   "nom en anglais ou français",
+   "name english or french"
+  ],
+  "question": {
+   "fr": "Comment m'assurer que mon nom sera bien prononcé à la collation des grades ?",
+   "en": "How can I make sure my name is pronounced correctly at convocation?"
+  },
+  "answer": {
+   "fr": "Dans ta demande de diplôme, écris seulement la prononciation phonétique de ton nom complet, par exemple Ee-un Duh-lorm, avec une majuscule au début du prénom et du nom. Tu peux choisir une prononciation en français ou en anglais, ou mettre (FR) et (EN) devant chaque partie. Les liens audio, les explications écrites et les mots qui riment ne sont pas acceptés.",
+   "en": "In your graduation application, write only the phonetic pronunciation of your full name, for example Ee-un Duh-lorm, with a capital at the start of your first and last names. You can choose French or English pronunciation, or put (FR) and (EN) in front of each part. Audio links, written explanations and rhyming words aren't accepted."
+  },
+  "sources": [
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-diplome-remise-numerique",
+  "category": "services",
+  "keywords": [
+   "quand je reçois mon diplôme",
+   "when do i get my diploma",
+   "diplôme numérique gratuit",
+   "free digital diploma",
+   "diplôme pas réclamé",
+   "unclaimed diploma",
+   "diplôme par la poste",
+   "diploma by mail",
+   "diplôme mescertif",
+   "mycreds diploma"
+  ],
+  "question": {
+   "fr": "Comment est-ce que je reçois mon diplôme ?",
+   "en": "How do I receive my diploma?"
+  },
+  "answer": {
+   "fr": "Tu reçois gratuitement ton diplôme original, format standard, à ta cérémonie ; les diplômes non réclamés sont envoyés par la poste. Tu reçois aussi un diplôme numérique gratuit dans MesCertif peu après que le Sénat a conféré ton grade, avec un courriel de confirmation à ton adresse uOttawa.",
+   "en": "You receive your original standard-size diploma free of charge at your ceremony; unclaimed diplomas are mailed out. You also get a free digital diploma in MyCreds shortly after the Senate confers your degree, with a confirmation email to your uOttawa address."
+  },
+  "sources": [
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-mentions-distinction",
+  "category": "reglements",
+  "keywords": [
+   "summa cum laude",
+   "magna cum laude",
+   "cum laude",
+   "mention sur diplôme",
+   "honours on diploma",
+   "distinction diplôme",
+   "diploma distinction",
+   "avec grande distinction",
+   "with great honour",
+   "mention d'excellence"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que les mentions summa cum laude, magna cum laude et cum laude ?",
+   "en": "What are the summa cum laude, magna cum laude and cum laude citations?"
+  },
+  "answer": {
+   "fr": "Selon ta moyenne pondérée, ton diplôme peut porter l'une de ces mentions : summa cum laude, avec très grande distinction ; magna cum laude, avec grande distinction ; ou cum laude, avec distinction. Elles apparaissent seulement sur les diplômes et les relevés du premier cycle.",
+   "en": "Depending on your grade point average, your diploma may carry one of these citations: summa cum laude, with highest honour; magna cum laude, with great honour; or cum laude, with honour. They appear only on undergraduate diplomas and transcripts."
+  },
+  "sources": [
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-deux-grades",
+  "category": "services",
+  "keywords": [
+   "deux diplômes",
+   "two degrees",
+   "deux grades même temps",
+   "two degrees same time",
+   "deux facultés collation",
+   "two faculties convocation",
+   "deux cérémonies",
+   "two ceremonies",
+   "double diplôme collation",
+   "double degree convocation"
+  ],
+  "question": {
+   "fr": "Je vais recevoir deux grades de deux facultés : comment ça se passe ?",
+   "en": "I'm receiving two degrees from two faculties. How does that work?"
+  },
+  "answer": {
+   "fr": "Tu dois faire une demande de diplôme pour chacun des grades. Tu peux ensuite assister aux deux cérémonies, ou demander de recevoir les deux grades à la même cérémonie en écrivant au bureau de la collation pour indiquer ton choix.",
+   "en": "You must submit a graduation request for each degree. You can then attend both ceremonies, or ask to receive both degrees at the same ceremony by emailing the convocation office with your preference."
+  },
+  "sources": [
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   },
+   {
+    "label": "Convocation FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-solde-du-collation",
+  "category": "finances",
+  "keywords": [
+   "solde dû collation",
+   "money owing convocation",
+   "dette université diplôme",
+   "owe the university diploma",
+   "compte impayé diplôme",
+   "unpaid account diploma",
+   "assister collation sans payer",
+   "attend convocation with balance",
+   "diplôme retenu",
+   "diploma withheld"
+  ],
+  "question": {
+   "fr": "Si je dois de l'argent à l'Université, est-ce que je peux quand même aller à ma collation ?",
+   "en": "If I owe the University money, can I still attend convocation?"
+  },
+  "answer": {
+   "fr": "Oui, tu n'as pas besoin de permission spéciale pour participer à la cérémonie. Par contre, tant que ton solde n'est pas réglé, tu ne recevras pas ton diplôme ni tes certificats, relevés de notes ou attestations d'études.",
+   "en": "Yes, you don't need special permission to attend the ceremony. However, until your balance is paid, you won't receive your diploma, certificates, transcripts or enrolment verification documents."
+  },
+  "sources": [
+   {
+    "label": "Obtain your degree — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree"
+   },
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   }
+  ],
+  "related": [
+   "k-releve-paiement",
+   "k-statut-legal-preuve",
+   "k-residence-ontario-frais"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-cours-ailleurs-avant-diplome",
+  "category": "calendrier",
+  "keywords": [
+   "cours dans une autre université diplôme",
+   "course at another university degree",
+   "relevé autre établissement",
+   "transcript from another institution",
+   "lettre de permission diplôme",
+   "letter of permission graduation",
+   "15 mai relevé",
+   "may 15 transcript",
+   "15 septembre relevé",
+   "september 15 transcript"
+  ],
+  "question": {
+   "fr": "J'ai suivi un cours ailleurs pour terminer mon diplôme : qu'est-ce que je dois faire ?",
+   "en": "I took a course elsewhere to finish my degree. What do I need to do?"
+  },
+  "answer": {
+   "fr": "Demande à cet établissement d'envoyer ton relevé officiel à ta faculté le plus tôt possible : au plus tard le 15 septembre pour recevoir ton grade à l'automne, ou le 15 mai pour le recevoir au printemps.",
+   "en": "Ask that institution to send your official transcript to your faculty as soon as possible: no later than September 15 to receive your degree in the fall, or May 15 to receive it in the spring."
+  },
+  "sources": [
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   }
+  ],
+  "related": [
+   "k-duplicata-delais",
+   "k-nom-avant-impression-diplome",
+   "k-statut-legal-date-limite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-toge-location",
+  "category": "finances",
+  "keywords": [
+   "location toge",
+   "gown rental",
+   "toge et épitoge",
+   "gown and hood",
+   "prix toge",
+   "gown price",
+   "réserver toge",
+   "reserve gown",
+   "gaspard",
+   "tenue collation",
+   "regalia",
+   "toge",
+   "gown",
+   "toge collation",
+   "toge de finissant",
+   "graduation gown"
+  ],
+  "question": {
+   "fr": "Comment louer ma toge pour la collation des grades, et combien ça coûte ?",
+   "en": "How do I rent my gown for convocation, and how much does it cost?"
+  },
+  "answer": {
+   "fr": "La toge et l'épitoge sont obligatoires, et la location se fait auprès de Gaspard. En ligne à l'avance, c'est 85 $ plus taxes ; sur place le jour de la collation, c'est 120 $ plus taxes. Si tu participes à la cérémonie, tu reçois un courriel au début mai avec les instructions, et la réservation ouvre en mai 2027.",
+   "en": "The gown and hood are mandatory, and you rent them from Gaspard. Online in advance, it's $85 plus tax; on site on convocation day, it's $120 plus tax. If you're attending, you'll get an email in early May with instructions, and reservations open in May 2027."
+  },
+  "sources": [
+   {
+    "label": "Rental of gowns and hoods — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/rental-gowns-hoods"
+   }
+  ],
+  "related": [
+   "k-releve-paiement",
+   "k-statut-legal-preuve",
+   "k-residence-ontario-frais"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-tenue-autochtone-code",
+  "category": "reglements",
+  "keywords": [
+   "code vestimentaire collation",
+   "convocation dress code",
+   "tenue autochtone",
+   "indigenous attire",
+   "tenue traditionnelle",
+   "traditional regalia",
+   "quoi porter collation",
+   "what to wear convocation",
+   "toge obligatoire",
+   "gown mandatory"
+  ],
+  "question": {
+   "fr": "Y a-t-il un code vestimentaire pour la collation des grades ?",
+   "en": "Is there a dress code for convocation?"
+  },
+  "answer": {
+   "fr": "À part la toge et l'épitoge obligatoires, il n'y a pas de code vestimentaire. Les étudiants autochtones qui le souhaitent peuvent porter leur tenue cérémonielle traditionnelle à la place de la toge et de l'épitoge, sans demander la permission à leur faculté.",
+   "en": "Apart from the mandatory gown and hood, there's no dress code. Indigenous students who wish to can wear traditional ceremonial attire instead of the gown and hood, without needing permission from their faculty."
+  },
+  "sources": [
+   {
+    "label": "Convocation FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+   },
+   {
+    "label": "Rental of gowns and hoods — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/rental-gowns-hoods"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-toge-hors-collation",
+  "category": "finances",
+  "keywords": [
+   "louer toge infoservice",
+   "rent gown infoservice",
+   "toge photo finissant",
+   "gown for grad photos",
+   "toge en dehors collation",
+   "gown outside convocation",
+   "mortier location",
+   "mortarboard rental",
+   "costume universitaire",
+   "academic regalia rental"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux louer une toge en dehors de la période de collation, par exemple pour des photos ?",
+   "en": "Can I rent a gown outside convocation, for example for photos?"
+  },
+  "answer": {
+   "fr": "Oui : InfoService loue le costume universitaire, avec la toge, l'épitoge et le mortier, en dehors de la période de collation, au coût de 86,60 $ plus taxes.",
+   "en": "Yes: InfoService rents academic regalia, including the gown, hood and mortarboard, outside the convocation period, for $86.60 plus tax."
+  },
+  "sources": [
+   {
+    "label": "Administrative fees — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/administrative-fees"
+   }
+  ],
+  "related": [
+   "k-releve-paiement",
+   "k-statut-legal-preuve",
+   "k-residence-ontario-frais"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-jour-collation-arrivee",
+  "category": "services",
+  "keywords": [
+   "jour de la collation",
+   "convocation day",
+   "à quelle heure arriver",
+   "what time to arrive",
+   "quoi apporter collation",
+   "what to bring convocation",
+   "salle canada 303",
+   "canada hall 303",
+   "carte étudiante collation",
+   "student id convocation"
+  ],
+  "question": {
+   "fr": "À quelle heure dois-je arriver le jour de ma collation, et quoi apporter ?",
+   "en": "When should I arrive on convocation day, and what should I bring?"
+  },
+  "answer": {
+   "fr": "Arrive au moins 90 minutes avant ta cérémonie au Centre Rogers Ottawa et rends-toi à la salle Canada 303, au troisième étage, où tu reçois ta carte d'identification, ta toge et ton épitoge. Apporte ta carte étudiante et laisse tes objets de valeur à tes invités, car il n'y a pas de vestiaire au troisième étage. Si tu arrives moins de 45 minutes avant, tu pourrais ne pas être assis avec ton groupe.",
+   "en": "Arrive at least 90 minutes before your ceremony at Rogers Centre Ottawa and go to Canada Hall 303 on the third floor, where you'll get your ID card, gown and hood. Bring your student ID and leave valuables with your guests, since there's no coat check on the third floor. If you arrive less than 45 minutes before, you may not be seated with your cohort."
+  },
+  "sources": [
+   {
+    "label": "The day of the ceremony — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-collation-lieu-acces",
+  "category": "services",
+  "keywords": [
+   "où a lieu la collation",
+   "where is convocation",
+   "centre rogers ottawa",
+   "rogers centre ottawa",
+   "aller à la collation",
+   "get to convocation",
+   "stationnement collation",
+   "convocation parking",
+   "train léger rideau",
+   "lrt rideau"
+  ],
+  "question": {
+   "fr": "Où a lieu la collation des grades et comment m'y rendre ?",
+   "en": "Where is convocation held and how do I get there?"
+  },
+  "answer": {
+   "fr": "Au Centre Rogers Ottawa, salle Canada, au 55, promenade Colonel By. Le plus simple, c'est le train léger jusqu'à la station Rideau. Pendant la collation, le stationnement est gratuit dans les garages Brooks, Desmarais et Mann de l'Université ; prévois alors de 10 à 15 minutes de marche.",
+   "en": "At Rogers Centre Ottawa, Canada Hall, 55 Colonel By Drive. The easiest way is the LRT to Rideau Station. During convocation, parking is free in the University's Brooks, Desmarais and Mann garages; allow 10 to 15 minutes to walk from there."
+  },
+  "sources": [
+   {
+    "label": "The day of the ceremony — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-collation-photos",
+  "category": "services",
+  "keywords": [
+   "photos collation",
+   "convocation photos",
+   "photographe collation",
+   "convocation photographer",
+   "photograd",
+   "garder la toge",
+   "keep the gown",
+   "photo de finissant",
+   "grad photo",
+   "acheter mes photos"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un photographe à la collation, et combien de temps je garde ma toge ?",
+   "en": "Is there a photographer at convocation, and how long can I keep my gown?"
+  },
+  "answer": {
+   "fr": "Oui, des photographes professionnels de PhotoGrad te photographient en coulisses et dans le hall, avec ta famille ; tu achètes ensuite tes photos sur leur site, accessibles seulement avec ton numéro étudiant. Tu peux garder ta toge environ 45 minutes après la cérémonie pour prendre des photos, puis tu la rapportes au comptoir du premier étage.",
+   "en": "Yes, professional PhotoGrad photographers take your picture backstage and in the lobby with your family; you then buy your photos on their website, accessible only with your student number. You can keep your gown for about 45 minutes after the ceremony for pictures, then return it at the booth on the first floor."
+  },
+  "sources": [
+   {
+    "label": "The day of the ceremony — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   },
+   {
+    "label": "Convocation FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-collation-annuler",
+  "category": "services",
+  "keywords": [
+   "je ne peux plus aller à la collation",
+   "can't attend convocation",
+   "annuler billets collation",
+   "cancel guest tickets",
+   "annuler ma présence",
+   "cancel attendance",
+   "absent collation",
+   "miss convocation",
+   "rendre billets",
+   "return tickets"
+  ],
+  "question": {
+   "fr": "Je ne peux plus assister à ma collation : qu'est-ce que je fais ?",
+   "en": "I can no longer attend my convocation. What should I do?"
+  },
+  "answer": {
+   "fr": "Avise le bureau de la collation par courriel le plus tôt possible. Si tu avais commandé des billets d'invités que tu n'utiliseras pas, communique avec InfoService en laissant ton nom et ton numéro étudiant. Ton diplôme non réclamé te sera envoyé par la poste.",
+   "en": "Let the convocation office know by email as soon as possible. If you ordered guest tickets you won't use, contact InfoService with your name and student number. Your unclaimed diploma will be mailed to you."
+  },
+  "sources": [
+   {
+    "label": "Convocation FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+   },
+   {
+    "label": "Schedule and guest tickets — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/schedule-guest-tickets"
+   },
+   {
+    "label": "Students about to graduate — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/students-about-to-graduate"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-collation-besoins-particuliers",
+  "category": "services",
+  "keywords": [
+   "invité handicapé collation",
+   "guest with disability convocation",
+   "besoins particuliers collation",
+   "special needs convocation",
+   "accessibilité collation",
+   "convocation accessibility",
+   "fauteuil roulant collation",
+   "wheelchair convocation",
+   "aide spéciale cérémonie",
+   "special assistance ceremony"
+  ],
+  "question": {
+   "fr": "Un de mes invités a des besoins particuliers : comment préparer sa venue à la collation ?",
+   "en": "One of my guests has special needs. How do I prepare for convocation?"
+  },
+  "answer": {
+   "fr": "Si toi ou un invité avez besoin d'aide ou d'arrangements particuliers pour la cérémonie, écris au bureau de la collation au moins deux semaines avant la date de la cérémonie.",
+   "en": "If you or a guest need special assistance or arrangements for the ceremony, email the convocation office at least two weeks before the ceremony date."
+  },
+  "sources": [
+   {
+    "label": "Convocation FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-lettre-invitation-collation",
+  "category": "services",
+  "keywords": [
+   "lettre d'invitation collation",
+   "convocation invitation letter",
+   "famille visa collation",
+   "family visa convocation",
+   "inviter mes parents au canada",
+   "invite my parents to canada",
+   "visa temporaire famille",
+   "temporary visa family",
+   "étudiant international collation",
+   "international student convocation"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international : comment inviter ma famille de l'étranger à ma collation ?",
+   "en": "I'm an international student. How do I invite my family from abroad to my convocation?"
+  },
+  "answer": {
+   "fr": "Demande une lettre d'invitation officielle avec le formulaire « Lettre d'invitation à la collation des grades », sur la page des relevés et documents scolaires ; ce service est réservé aux étudiants internationaux. La lettre est déposée dans MesCertif, où tu paies pour la consulter ou la partager. Pour le visa temporaire de ta famille, communique aussi avec InfoService pour obtenir les instructions.",
+   "en": "Request an official invitation letter with the \"Invitation letter for the convocation ceremony\" form on the transcripts and academic documents page; this service is for international students only. The letter is uploaded to MyCreds, where you pay to view or share it. For your family's temporary visa, also contact InfoService for instructions."
+  },
+  "sources": [
+   {
+    "label": "Convocation FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/frequently-asked-questions"
+   },
+   {
+    "label": "Transcripts and academic documents — uOttawa",
+    "url": "https://www.uottawa.ca/study/transcripts-academic-documents"
+   },
+   {
+    "label": "Schedule and guest tickets — uOttawa",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/schedule-guest-tickets"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-interruption-etudes",
+  "category": "reglements",
+  "keywords": [
+   "interruption des études",
+   "interruption of studies",
+   "prendre une pause",
+   "take a break from school",
+   "arrêter un trimestre",
+   "skip a term",
+   "revenir après une pause",
+   "come back after a break",
+   "retour aux études",
+   "returning student",
+   "année sabbatique"
+  ],
+  "question": {
+   "fr": "Si j'arrête mes études pendant un moment, est-ce que je dois refaire une demande d'admission pour revenir ?",
+   "en": "If I stop my studies for a while, do I have to reapply to come back?"
+  },
+  "answer": {
+   "fr": "Au premier cycle, si tu interromps volontairement tes études pendant six trimestres consécutifs ou moins, tu peux te réinscrire dans la même faculté sans refaire de demande d'admission. Si l'interruption dépasse six trimestres consécutifs, tu dois présenter une nouvelle demande d'admission.",
+   "en": "At the undergraduate level, if you voluntarily interrupt your studies for six or fewer consecutive terms, you can re-enrol in the same faculty without reapplying for admission. If the interruption lasts more than six consecutive terms, you must reapply for admission."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation B-6 — Academic standing — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-6-academic-standing-probation-mandatory-withdrawal-undergraduate-programs"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-conge-autorise-international",
+  "category": "reglements",
+  "keywords": [
+   "congé autorisé",
+   "authorized leave",
+   "congé international",
+   "leave of absence international",
+   "interrompre études permis d'études",
+   "pause study permit",
+   "congé premier cycle international",
+   "undergraduate leave international",
+   "formulaire congé",
+   "leave request form"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international au premier cycle : comment prendre un congé de mes études ?",
+   "en": "I'm an international undergraduate student. How do I take a leave from my studies?"
+  },
+  "answer": {
+   "fr": "Parle d'abord à un conseiller en immigration par la file virtuelle d'InfoService, et consulte ta faculté. Remplis ensuite le formulaire de demande de congé pour étudiants internationaux de premier cycle, un trimestre à la fois, avant la date limite d'abandon avec crédit financier du trimestre visé. L'équipe de conseil en immigration te répond par courriel en environ cinq jours ouvrables.",
+   "en": "First talk to an immigration advisor through the InfoService virtual line, and check with your faculty. Then fill out the Leave of Absence Request Form for International Undergraduate Students, one term at a time, before the deadline to withdraw with a financial credit for that term. The Student Immigration Advising Team replies by email within about five working days."
+  },
+  "sources": [
+   {
+    "label": "Authorized leave for international students — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/authorized-leave-for-international-students"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-conge-international-conditions",
+  "category": "reglements",
+  "keywords": [
+   "travailler pendant un congé",
+   "work during leave",
+   "congé 150 jours",
+   "150 days leave",
+   "raisons congé autorisé",
+   "reasons authorized leave",
+   "voyage personnel congé",
+   "personal travel leave",
+   "congé médical international",
+   "medical leave international"
+  ],
+  "question": {
+   "fr": "Quelles raisons sont acceptées pour un congé autorisé, et est-ce que je peux travailler pendant ce congé ?",
+   "en": "Which reasons are accepted for an authorized leave, and can I work during it?"
+  },
+  "answer": {
+   "fr": "Les raisons acceptées incluent notamment des raisons médicales ou une grossesse, une urgence familiale, le décès ou la maladie grave d'un proche, le service militaire obligatoire et un congé parental ; un voyage personnel ne l'est pas. Pendant un congé autorisé, tu ne peux pas travailler, ni sur le campus ni à l'extérieur, même si ton permis le permet. IRCC peut considérer que tu poursuis activement tes études si le congé est autorisé par l'Université et ne dépasse pas 150 jours.",
+   "en": "Accepted reasons include medical reasons or pregnancy, a family emergency, the death or serious illness of a family member, mandatory military service and parental leave; personal travel isn't accepted. During an authorized leave, you can't work on or off campus, even if your permit allows it. IRCC may consider you to be actively pursuing your studies if the leave is authorized by the University and doesn't exceed 150 days."
+  },
+  "sources": [
+   {
+    "label": "Authorized leave for international students — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/authorized-leave-for-international-students"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-conge-cycles-superieurs",
+  "category": "reglements",
+  "keywords": [
+   "congé cycles supérieurs",
+   "graduate leave of absence",
+   "congé maîtrise",
+   "masters leave",
+   "congé doctorat",
+   "phd leave",
+   "congé parental études",
+   "parental leave studies",
+   "congé professionnel stage",
+   "professional leave"
+  ],
+  "question": {
+   "fr": "Aux cycles supérieurs, est-ce que je peux prendre un congé de mon programme ?",
+   "en": "As a graduate student, can I take a leave from my program?"
+  },
+  "answer": {
+   "fr": "Oui, mais seulement pour des motifs professionnels, médicaux, de compassion ou parentaux. La demande est approuvée par ton directeur de thèse, puis par ton programme et ta faculté ; un congé professionnel ne peut pas dépasser un an au total. Pendant le congé, tu gardes l'accès aux bibliothèques et aux services informatiques, et tu dois te réinscrire au trimestre qui suit la fin du congé, sinon ton dossier est fermé.",
+   "en": "Yes, but only on professional, medical, compassionate or parental grounds. The request is approved by your thesis supervisor, then your program and faculty; a professional leave can't exceed one year in total. During the leave, you keep access to library and computer services, and you must enrol in the term right after the leave ends, or your file will be closed."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation C-3 — Graduate Enrolment and Leaves of Absence — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-3-graduate-enrolment-leaves-absence"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-inscription-continue-cycles-superieurs",
+  "category": "reglements",
+  "keywords": [
+   "inscription continue",
+   "continuous enrolment",
+   "pas inscrit un trimestre maîtrise",
+   "missed a term graduate",
+   "dossier fermé",
+   "file closed",
+   "réadmission cycles supérieurs",
+   "graduate readmission",
+   "frais de réintégration",
+   "reinstatement fee"
+  ],
+  "question": {
+   "fr": "Aux cycles supérieurs, qu'arrive-t-il si je ne m'inscris pas à un trimestre ?",
+   "en": "As a graduate student, what happens if I don't enrol for a term?"
+  },
+  "answer": {
+   "fr": "Sauf exception prévue par ton programme, tu dois t'inscrire à chaque trimestre jusqu'à la fin. Sans inscription ni congé approuvé, tu es présumé t'être retiré et ton dossier est fermé sans préavis. Pour continuer, tu dois demander ta réadmission, qui coûte 125 $, et payer des frais de réintégration ainsi que les droits minimaux pour chaque trimestre manqué.",
+   "en": "Unless your program says otherwise, you must enrol in every term until you finish. Without enrolment or an approved leave, you're presumed to have withdrawn and your file is closed without notice. To continue, you must apply for readmission, which costs $125, and pay a reinstatement fee plus the minimum tuition for each term you missed."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation C-3 — Graduate Enrolment and Leaves of Absence — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-3-graduate-enrolment-leaves-absence"
+   },
+   {
+    "label": "Administrative fees — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/administrative-fees"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-readmission-apres-retrait",
+  "category": "admissions",
+  "keywords": [
+   "réadmission",
+   "readmission",
+   "retrait obligatoire faculté",
+   "required to withdraw",
+   "revenir après retrait",
+   "return after withdrawal",
+   "mise à niveau",
+   "academic upgrading",
+   "appel retrait",
+   "appeal withdrawal"
+  ],
+  "question": {
+   "fr": "On m'a retiré de ma faculté : comment est-ce que je peux revenir ?",
+   "en": "I was required to withdraw from my faculty. How can I come back?"
+  },
+  "answer": {
+   "fr": "Tu peux contester ce retrait par écrit auprès de ton unité scolaire dans les 10 jours ouvrables suivant l'avis. Sinon, pour revenir dans la faculté au baccalauréat, il faut avoir suivi 24 crédits après le retrait, présenter une demande d'admission, remplir les conditions de mise à niveau exigées par la faculté et satisfaire aux exigences d'admission en vigueur. Ta demande est évaluée selon la moyenne obtenue pendant ta mise à niveau.",
+   "en": "You can appeal the withdrawal in writing to your academic unit within 10 working days of the notice. Otherwise, to return to the faculty in a bachelor's program, you must take 24 units after the withdrawal, apply for admission, meet the faculty's academic upgrading conditions and meet current admission requirements. Your application is assessed on the average you earn during the upgrading period."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation B-6 — Academic standing — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-6-academic-standing-probation-mandatory-withdrawal-undergraduate-programs"
+   }
+  ],
+  "related": [
+   "k-changement-programme-frais-exceptions"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-changement-programme-frais-exceptions",
+  "category": "admissions",
+  "keywords": [
+   "frais changement de programme",
+   "program change fee",
+   "changer de faculté",
+   "change faculty",
+   "passer d'un programme professionnel",
+   "transfer from professional program",
+   "droit médecine éducation transfert",
+   "law medicine education transfer",
+   "changement de discipline principale",
+   "primary discipline change"
+  ],
+  "question": {
+   "fr": "Combien coûte un changement de programme, et est-ce que je peux changer de faculté ?",
+   "en": "How much does a program change cost, and can I change faculties?"
+  },
+  "answer": {
+   "fr": "La demande de changement de discipline principale coûte 52,35 $, et elle se fait en ligne pour passer d'un baccalauréat à un autre parmi les facultés à admission directe : Arts, Sciences, Sciences sociales, Génie, Sciences de la santé et Telfer. Si tu es en éducation, en droit ou en médecine et veux passer à l'une de ces facultés, ou l'inverse, il faut plutôt faire une demande d'admission.",
+   "en": "A request to change your primary discipline costs $52.35, and it's done online to move from one bachelor's program to another among the direct-entry faculties: Arts, Science, Social Sciences, Engineering, Health Sciences and Telfer. If you're in Education, Law or Medicine and want to switch to one of those faculties, or the reverse, you must apply for admission instead."
+  },
+  "sources": [
+   {
+    "label": "Make changes to your undergraduate program — uOttawa",
+    "url": "https://www.uottawa.ca/study/make-changes-undergraduate-program"
+   },
+   {
+    "label": "Administrative fees — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/administrative-fees"
+   }
+  ],
+  "related": [
+   "k-readmission-apres-retrait"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-cours-universite-saint-paul",
+  "category": "reglements",
+  "keywords": [
+   "université saint-paul",
+   "saint paul university",
+   "cours à saint-paul",
+   "course at saint paul",
+   "transfert de crédits saint-paul",
+   "unit transfer saint paul",
+   "suivre un cours ailleurs ottawa",
+   "take course elsewhere ottawa",
+   "ustpaul",
+   "saint-paul crédits"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux suivre un cours à l'Université Saint-Paul ?",
+   "en": "Can I take a course at Saint Paul University?"
+  },
+  "answer": {
+   "fr": "Oui, sans payer de droits de scolarité supplémentaires, si tu es admis et inscrit à l'Université d'Ottawa ce trimestre-là et en bonne situation scolaire. Les cours qui répondent aux exigences de ton programme sont crédités, comptent dans l'exigence de résidence et sont inclus dans ta moyenne. Tu dois prouver que tu as les préalables et respecter le calendrier de chaque université.",
+   "en": "Yes, without paying extra tuition, if you're admitted and enrolled at the University of Ottawa that term and in good academic standing. Courses that meet your program requirements are credited, count toward the residence requirement and are included in your average. You must show you have the prerequisites and follow each university's sessional dates."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-10 — Unit Transfers — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-10-unit-transfers"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-international-temps-partiel",
+  "category": "reglements",
+  "keywords": [
+   "temps partiel international",
+   "part time international student",
+   "moins de 12 crédits permis",
+   "fewer than 12 units permit",
+   "travailler temps partiel international",
+   "work part time study permit",
+   "pgwp temps partiel",
+   "pgwp part time",
+   "statut immigration temps partiel",
+   "immigration status part time"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international au premier cycle : que se passe-t-il si je suis moins de 12 crédits ?",
+   "en": "I'm an international undergraduate student. What happens if I take fewer than 12 units?"
+  },
+  "answer": {
+   "fr": "Avec moins de 12 crédits, tu es à temps partiel aux fins de l'immigration : tu peux rester au Canada tant que ton permis est valide, mais tu ne peux plus travailler sur le campus ni à l'extérieur. Exception : à ton dernier trimestre, si tu n'as pas besoin d'une charge complète pour finir, tu peux continuer à travailler. Tout autre trimestre à temps partiel peut compromettre ton admissibilité au permis de travail postdiplôme.",
+   "en": "With fewer than 12 units, you're part time for immigration purposes: you can stay in Canada while your permit is valid, but you can no longer work on or off campus. Exception: in your final term, if you don't need a full course load to graduate, you can keep working. Any other part-time term can jeopardize your eligibility for a Post-Graduation Work Permit."
+  },
+  "sources": [
+   {
+    "label": "Impact of changes to your studies on your immigration status — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/impact-of-changes-to-studies-on-immigration-status"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-international-quitter-universite",
+  "category": "reglements",
+  "keywords": [
+   "quitter l'université international",
+   "withdraw from university international",
+   "abandonner études permis",
+   "stop studying study permit",
+   "permis d'études invalide",
+   "study permit invalid",
+   "retrait programme international",
+   "program withdrawal international",
+   "étudiant libre international",
+   "non-degree international"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international et je pense quitter l'Université : quelles sont les conséquences ?",
+   "en": "I'm an international student thinking of leaving the University. What are the consequences?"
+  },
+  "answer": {
+   "fr": "Ton permis d'études devient invalide dès que tu arrêtes d'étudier avant la fin de ton programme ; si tu ne passes pas à un autre programme au Canada, tu dois quitter le pays ou demander un changement de statut, comme une prolongation à titre de visiteur. Écris d'abord à l'équipe de conseil en immigration étudiante pour discuter de ta situation.",
+   "en": "Your study permit becomes invalid as soon as you stop studying before completing your program; if you're not moving to another program in Canada, you must leave the country or apply to change your status, for example by extending as a visitor. Email the Student Immigration Advising Team first to discuss your situation."
+  },
+  "sources": [
+   {
+    "label": "Impact of changes to your studies on your immigration status — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/impact-of-changes-to-studies-on-immigration-status"
+   }
+  ],
+  "related": [
+   "k-releve-contenu",
+   "k-parents-acces-dossier",
+   "k-vie-privee-droits"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-documents-prolongation-permis",
+  "category": "services",
+  "keywords": [
+   "prolonger permis d'études documents",
+   "study permit extension documents",
+   "lettre pour prolongation",
+   "letter for extension",
+   "date de fin prévue attestation",
+   "estimated graduation date",
+   "documents ircc université",
+   "ircc documents university",
+   "prolongation permis lettre",
+   "extension enrolment letter"
+  ],
+  "question": {
+   "fr": "Quels documents de l'Université me faut-il pour prolonger mon permis d'études ?",
+   "en": "Which University documents do I need to extend my study permit?"
+  },
+  "answer": {
+   "fr": "On recommande trois documents : une attestation d'études officielle avec le commentaire spécialisé « date prévue de fin d'études », un relevé de notes si tu as terminé au moins deux trimestres, et ton offre d'admission originale, qui se trouve dans ton dossier d'admission dans uoZone. Tu commandes l'attestation avec le formulaire de demande d'InfoService, dans la section des preuves d'études et lettres.",
+   "en": "Three documents are recommended: an official enrolment verification with the \"estimated graduation date\" specialized comment, a transcript if you've completed two or more terms, and your original offer of admission, which is in your admission file in uoZone. You order the verification through the InfoService request form, in the proof of studies and letters section."
+  },
+  "sources": [
+   {
+    "label": "Immigration FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/faqs"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-documents-pgwp",
+  "category": "services",
+  "keywords": [
+   "documents permis postdiplôme",
+   "pgwp documents",
+   "lettre fin de programme pgwp",
+   "completion letter pgwp",
+   "relevé pgwp",
+   "transcript pgwp",
+   "grade conféré pgwp",
+   "degree conferred pgwp",
+   "permis de travail après diplôme documents",
+   "post graduation work permit letter"
+  ],
+  "question": {
+   "fr": "Quels documents de l'Université me faut-il pour demander mon permis de travail postdiplôme ?",
+   "en": "Which University documents do I need to apply for my Post-Graduation Work Permit?"
+  },
+  "answer": {
+   "fr": "Avant que ton grade soit conféré : une lettre officielle d'InfoService confirmant que tu as terminé ton programme, après avoir demandé l'évaluation de ton dossier à ta faculté, et ton relevé officiel ou non officiel. Après : une attestation d'études officielle avec la mention du grade obtenu, en choisissant d'inclure tes grades, et ton relevé. Si tu as eu des trimestres à temps partiel ou des interruptions, il te faudra des documents de plus ; prends rendez-vous avec un conseiller en immigration.",
+   "en": "Before your degree is conferred: an official InfoService letter confirming you've completed your program, after requesting a file evaluation from your faculty, plus your official or unofficial transcript. After: an official enrolment verification showing the degree awarded, selecting the option to include your earned degrees, plus your transcript. If you had part-time terms or gaps, you'll need extra documents; book an appointment with an immigration advisor."
+  },
+  "sources": [
+   {
+    "label": "Immigration FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/faqs"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "k-documents-voyage-international",
+  "category": "services",
+  "keywords": [
+   "documents pour voyager",
+   "documents to travel",
+   "revenir au canada documents",
+   "return to canada documents",
+   "lettre d'inscription voyage",
+   "enrolment letter travel",
+   "confirmation de fréquentation",
+   "confirmation of attendance",
+   "frontière étudiant",
+   "border student"
+  ],
+  "question": {
+   "fr": "Je voyage et je reviens au Canada : quel document de l'Université dois-je avoir sur moi ?",
+   "en": "I'm travelling and coming back to Canada. Which University document should I carry?"
+  },
+  "answer": {
+   "fr": "En plus de ton visa ou autorisation de voyage et de ton permis d'études, garde ta lettre d'admission et une attestation d'études officielle, qui sert de confirmation de fréquentation. Commande-la dans uoZone ; si ton départ est imminent, choisis la version numérique, déposée dans MesCertif.",
+   "en": "Along with your visa or travel authorization and your study permit, carry your letter of admission and an official enrolment verification, which serves as confirmation of attendance. Order it in uoZone; if you're leaving soon, choose the digital version, uploaded to MyCreds."
+  },
+  "sources": [
+   {
+    "label": "Immigration FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/faqs"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-equipes-interuniversitaires",
+  "category": "associations",
+  "keywords": [
+   "equipes gee-gees",
+   "equipes interuniversitaires",
+   "varsity teams",
+   "gee-gees teams",
+   "sport universitaire",
+   "u sports",
+   "quelles equipes",
+   "which teams",
+   "sports gee-gees",
+   "varsity sports"
+  ],
+  "question": {
+   "fr": "Quelles sont les équipes interuniversitaires des Gee-Gees?",
+   "en": "What are the Gee-Gees varsity teams?"
+  },
+  "answer": {
+   "fr": "Les Gee-Gees comptent dix équipes interuniversitaires : basketball masculin et féminin, football, hockey masculin et féminin, rugby féminin, soccer féminin, natation masculine et féminine, et volleyball féminin. Il y a aussi plus d'une vingtaine de clubs interuniversitaires, comme l'athlétisme, le cross-country, l'aviron ou le rugby masculin. Les calendriers et les alignements sont sur le site des Gee-Gees.",
+   "en": "The Gee-Gees have ten varsity teams: men's and women's basketball, football, men's and women's hockey, women's rugby, women's soccer, men's and women's swimming, and women's volleyball. There are also more than twenty varsity clubs, such as track and field, cross-country, rowing and men's rugby. Schedules and rosters are on the Gee-Gees website."
+  },
+  "sources": [
+   {
+    "label": "Ottawa Gee-Gees (Varsity) — Gee-Gees",
+    "url": "https://teams.geegees.ca/landing/index"
+   }
+  ],
+  "related": [
+   "l-clubs-interuniversitaires",
+   "l-football",
+   "l-basketball"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-clubs-interuniversitaires",
+  "category": "associations",
+  "keywords": [
+   "clubs interuniversitaires",
+   "varsity clubs",
+   "club sportif competitif",
+   "competitive sports club",
+   "aviron",
+   "rowing",
+   "rugby masculin",
+   "men's rugby",
+   "ultimate",
+   "water polo",
+   "escrime",
+   "fencing",
+   "golf"
+  ],
+  "question": {
+   "fr": "Quels sports sont offerts comme clubs interuniversitaires?",
+   "en": "Which sports are offered as varsity clubs?"
+  },
+  "answer": {
+   "fr": "En plus des dix équipes, les Gee-Gees ont plus d'une vingtaine de clubs interuniversitaires : cross-country, golf, ski de fond, aviron, rugby masculin, athlétisme, ski alpin, nage artistique, badminton, baseball, cheerleading, danse, équitation, escrime, crosse masculine, ringuette, soccer masculin, softball, squash, tennis, ultimate, volleyball masculin et water-polo. Chaque club a sa page sur le site des Gee-Gees avec ses contacts.",
+   "en": "Besides the ten teams, the Gee-Gees have varsity clubs: cross-country, golf, Nordic skiing, rowing, men's rugby, track and field, alpine skiing, artistic swimming, badminton, baseball, cheerleading, dance, equestrian, fencing, men's lacrosse, ringette, men's soccer, softball, squash, tennis, ultimate, men's volleyball and water polo. Each club has its own page with contacts on the Gee-Gees website."
+  },
+  "sources": [
+   {
+    "label": "Ottawa Gee-Gees (Varsity) — Gee-Gees",
+    "url": "https://teams.geegees.ca/landing/index"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-football",
+   "l-basketball"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-football",
+  "category": "associations",
+  "keywords": [
+   "football",
+   "equipe de football",
+   "football team",
+   "oua",
+   "terrain gee-gees",
+   "gee-gees field",
+   "vanier",
+   "ou joue le football",
+   "where does football play",
+   "match de football"
+  ],
+  "question": {
+   "fr": "Où joue l'équipe de football des Gee-Gees?",
+   "en": "Where does the Gee-Gees football team play?"
+  },
+  "answer": {
+   "fr": "L'équipe de football joue dans les Sports universitaires de l'Ontario, l'OUA. Son domicile est le terrain Gee-Gees, au campus Lees, 200 avenue Lees, avec des gradins de 3 400 places, et elle s'entraîne aussi au terrain Matt Anthony. Le programme a gagné la Coupe Vanier en 2000 et le College Bowl en 1975.",
+   "en": "The football team plays in Ontario University Athletics, the OUA. Its home is Gee-Gees Field on the Lees campus, 200 Lees Avenue, with 3,400 seats, and it also practises on Matt Anthony Field. The program won the Vanier Cup in 2000 and the College Bowl in 1975."
+  },
+  "sources": [
+   {
+    "label": "Football — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/fball/index"
+   },
+   {
+    "label": "Gee-Gees field — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/gee-gees-field"
+   },
+   {
+    "label": "Matt Anthony field — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/matt-anthony-field"
+   },
+   {
+    "label": "Championship History — Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/championshiphistory"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-basketball"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-basketball",
+  "category": "associations",
+  "keywords": [
+   "basketball",
+   "basket",
+   "equipe de basketball",
+   "basketball team",
+   "oua",
+   "gymnase montpetit",
+   "montpetit gym",
+   "match de basket",
+   "basketball game",
+   "gee-gees basketball"
+  ],
+  "question": {
+   "fr": "Où jouent les équipes de basketball des Gee-Gees?",
+   "en": "Where do the Gee-Gees basketball teams play?"
+  },
+  "answer": {
+   "fr": "Les équipes de basketball masculine et féminine jouent leurs matchs locaux au gymnase du pavillon Montpetit, qui peut accueillir 828 personnes. Elles évoluent dans l'OUA, et en 2025, l'Université a remporté les deux championnats de basketball de l'OUA la même saison.",
+   "en": "The men's and women's basketball teams play their home games in the Montpetit Hall gymnasium, which seats 828. They compete in the OUA, and in 2025 the University won both OUA basketball championships in the same season."
+  },
+  "sources": [
+   {
+    "label": "Gymnasium - Montpetit — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/gymnasium-montpetit"
+   },
+   {
+    "label": "Championship History — Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/championshiphistory"
+   },
+   {
+    "label": "Men's Basketball — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/mbkb/index"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-hockey-masculin",
+  "category": "associations",
+  "keywords": [
+   "hockey masculin",
+   "men's hockey",
+   "hockey gee-gees",
+   "coupe universitaire",
+   "university cup",
+   "arena minto",
+   "minto rink",
+   "match de hockey",
+   "hockey game",
+   "oua hockey"
+  ],
+  "question": {
+   "fr": "Où joue l'équipe de hockey masculin des Gee-Gees?",
+   "en": "Where does the Gee-Gees men's hockey team play?"
+  },
+  "answer": {
+   "fr": "L'équipe de hockey masculin joue au Complexe sportif Minto, 801 avenue King Edward, sur la patinoire de 840 places. Elle évolue dans l'OUA et a remporté la Coupe universitaire David Johnston, le championnat national, en 2025.",
+   "en": "The men's hockey team plays at the Minto Sports Complex, 801 King Edward Avenue, on the 840-seat rink. It competes in the OUA and won the David Johnston University Cup, the national championship, in 2025."
+  },
+  "sources": [
+   {
+    "label": "Minto ice rinks — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/ice-rinks"
+   },
+   {
+    "label": "Championship History — Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/championshiphistory"
+   },
+   {
+    "label": "Men's Hockey — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/mice/index"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-hockey-feminin",
+  "category": "associations",
+  "keywords": [
+   "hockey feminin",
+   "women's hockey",
+   "hockey des femmes",
+   "minto",
+   "coupe alerts",
+   "alerts cup",
+   "match hockey feminin",
+   "women's hockey game",
+   "gee-gees hockey"
+  ],
+  "question": {
+   "fr": "Où joue l'équipe de hockey féminin des Gee-Gees?",
+   "en": "Where does the Gee-Gees women's hockey team play?"
+  },
+  "answer": {
+   "fr": "L'équipe de hockey féminin joue ses matchs locaux au Complexe sportif Minto, sur la patinoire de 840 places. Son grand rendez-vous annuel contre les Ravens de Carleton est la Coupe Alerts. Le calendrier complet est sur le site des Gee-Gees.",
+   "en": "The women's hockey team plays its home games at the Minto Sports Complex, on the 840-seat rink. Its big yearly rivalry game against the Carleton Ravens is the Alerts Cup. The full schedule is on the Gee-Gees website."
+  },
+  "sources": [
+   {
+    "label": "Minto ice rinks — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/ice-rinks"
+   },
+   {
+    "label": "The Alerts Cup — Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/alertscup"
+   },
+   {
+    "label": "Women's Hockey — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/wice/index"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-soccer-feminin",
+  "category": "associations",
+  "keywords": [
+   "soccer feminin",
+   "women's soccer",
+   "soccer gee-gees",
+   "terrain matt anthony",
+   "matt anthony field",
+   "oua",
+   "championnat national soccer",
+   "match de soccer",
+   "soccer game"
+  ],
+  "question": {
+   "fr": "Parle-moi de l'équipe de soccer féminin des Gee-Gees.",
+   "en": "Tell me about the Gee-Gees women's soccer team."
+  },
+  "answer": {
+   "fr": "L'équipe de soccer féminin joue au terrain Matt Anthony, à côté du Complexe sportif Minto, qui a 675 places. Elle a remporté la bannière de la conférence ontarienne un record de 13 fois, dont en 2026, et deux championnats nationaux, en 1996 et 2018. En 2026, elle s'est qualifiée pour le championnat national U SPORTS.",
+   "en": "The women's soccer team plays on Matt Anthony Field, next to the Minto Sports Complex, which seats 675. It has won the Ontario conference banner a record 13 times, including in 2026, and two national championships, in 1996 and 2018. In 2026, it qualified for the U SPORTS national championship."
+  },
+  "sources": [
+   {
+    "label": "Matt Anthony field — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/matt-anthony-field"
+   },
+   {
+    "label": "Championship History — Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/championshiphistory"
+   },
+   {
+    "label": "Women's Soccer — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/wsoc/index"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-rugby-feminin",
+  "category": "associations",
+  "keywords": [
+   "rugby feminin",
+   "women's rugby",
+   "rugby gee-gees",
+   "rseq",
+   "monilex",
+   "terrain matt anthony",
+   "match de rugby",
+   "rugby game",
+   "rugby universitaire"
+  ],
+  "question": {
+   "fr": "Dans quelle ligue joue l'équipe de rugby féminin?",
+   "en": "Which league does the women's rugby team play in?"
+  },
+  "answer": {
+   "fr": "L'équipe de rugby féminin joue dans le RSEQ, la conférence québécoise, et reçoit ses adversaires au terrain Matt Anthony. Elle a gagné six championnats du RSEQ de suite, de 2014 à 2019, puis en 2023, et la Coupe Monilex, le titre national, en 2017. En 2026, elle a participé au championnat national U SPORTS.",
+   "en": "The women's rugby team plays in the RSEQ, the Quebec conference, and hosts its opponents on Matt Anthony Field. It won six straight RSEQ championships from 2014 to 2019, again in 2023, and the Monilex Cup, the national title, in 2017. In 2026, it took part in the U SPORTS national championship."
+  },
+  "sources": [
+   {
+    "label": "Championship History — Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/championshiphistory"
+   },
+   {
+    "label": "Matt Anthony field — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/matt-anthony-field"
+   },
+   {
+    "label": "Women's Rugby — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/wrugby/index"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-volleyball-feminin",
+  "category": "associations",
+  "keywords": [
+   "volleyball feminin",
+   "women's volleyball",
+   "volley",
+   "volleyball gee-gees",
+   "oua",
+   "gymnase montpetit",
+   "match de volleyball",
+   "volleyball game"
+  ],
+  "question": {
+   "fr": "Où joue l'équipe de volleyball féminin?",
+   "en": "Where does the women's volleyball team play?"
+  },
+  "answer": {
+   "fr": "L'équipe de volleyball féminin joue ses matchs locaux au gymnase du pavillon Montpetit et évolue dans l'OUA. Chaque automne, elle organise aussi la Classique préparatoire Gee-Gees, le plus vieux tournoi de volleyball de U SPORTS.",
+   "en": "The women's volleyball team plays its home games in the Montpetit Hall gymnasium and competes in the OUA. Every fall, it also hosts the Gee-Gees Pre-Season Classic, the longest-running tournament in U SPORTS volleyball."
+  },
+  "sources": [
+   {
+    "label": "Gymnasium - Montpetit — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/gymnasium-montpetit"
+   },
+   {
+    "label": "Women's Volleyball — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/wvball/index"
+   },
+   {
+    "label": "Gee-Gees Pre-Season Classic — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/wvball/preseasonclassic"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-natation-gee-gees",
+  "category": "associations",
+  "keywords": [
+   "natation gee-gees",
+   "equipe de natation",
+   "swim team",
+   "swimming",
+   "rseq",
+   "competition de natation",
+   "swim meet",
+   "piscine olympique",
+   "gee-gees swimming"
+  ],
+  "question": {
+   "fr": "Est-ce que les Gee-Gees ont une équipe de natation?",
+   "en": "Do the Gee-Gees have a swim team?"
+  },
+  "answer": {
+   "fr": "Oui, les équipes de natation masculine et féminine font partie des équipes interuniversitaires. Elles s'entraînent et reçoivent des compétitions à la piscine olympique de 50 mètres du pavillon Montpetit, et participent aux Coupes et au championnat du RSEQ, puis au championnat U SPORTS. Le nageur Hugo Lemesle a remporté trois médailles d'or nationales en 2024.",
+   "en": "Yes, the men's and women's swim teams are varsity teams. They train and host meets in the 50-metre Olympic pool at Montpetit Hall, and compete in the RSEQ Cups and championship, then at the U SPORTS championship. Swimmer Hugo Lemesle won three national gold medals in 2024."
+  },
+  "sources": [
+   {
+    "label": "Swimming — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/swim/index"
+   },
+   {
+    "label": "Pool — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/pool"
+   },
+   {
+    "label": "Championship History — Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/championshiphistory"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-athletisme-cross-country",
+  "category": "associations",
+  "keywords": [
+   "athletisme",
+   "track and field",
+   "cross-country",
+   "cross country",
+   "course",
+   "running team",
+   "club d'athletisme",
+   "track club",
+   "u sports cross country"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a de l'athlétisme et du cross-country chez les Gee-Gees?",
+   "en": "Are there track and field and cross-country teams at uOttawa?"
+  },
+  "answer": {
+   "fr": "Oui, l'athlétisme et le cross-country, masculins et féminins, sont des clubs interuniversitaires des Gee-Gees. L'équipe masculine de cross-country a été championne nationale en 1986, 1987 et 1990, et Thomas Sénéchal-Becker a gagné l'or au saut en hauteur aux championnats U SPORTS en 2023. Pour te joindre à eux, consulte leurs pages sur le site des Gee-Gees.",
+   "en": "Yes, men's and women's track and field and cross-country are Gee-Gees varsity clubs. The men's cross-country team were national champions in 1986, 1987 and 1990, and Thomas Sénéchal-Becker won high jump gold at the U SPORTS championships in 2023. To join, check their pages on the Gee-Gees website."
+  },
+  "sources": [
+   {
+    "label": "Ottawa Gee-Gees (Varsity) — Gee-Gees",
+    "url": "https://teams.geegees.ca/landing/index"
+   },
+   {
+    "label": "Championship History — Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/championshiphistory"
+   },
+   {
+    "label": "Track and Field — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/track/index"
+   },
+   {
+    "label": "Cross Country — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/xc/index"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-championnats-nationaux",
+  "category": "associations",
+  "keywords": [
+   "championnats nationaux",
+   "national championships",
+   "titres",
+   "titles",
+   "palmares",
+   "gee-gees champions",
+   "coupe vanier",
+   "vanier cup",
+   "trophees"
+  ],
+  "question": {
+   "fr": "Combien de championnats nationaux les Gee-Gees ont-ils gagnés?",
+   "en": "How many national championships have the Gee-Gees won?"
+  },
+  "answer": {
+   "fr": "Depuis l'ère moderne du sport universitaire, l'Université a gagné neuf championnats nationaux d'équipe, le plus récent étant la Coupe universitaire en hockey masculin en 2025. Les Gee-Gees ont aussi eu 53 médailles d'or nationales en sports individuels et 82 championnats de conférence depuis 1953.",
+   "en": "In the modern era of university sport, the University has won nine national team championships, the most recent being the University Cup in men's hockey in 2025. The Gee-Gees have also earned 53 individual national gold medals and 82 conference championships since 1953."
+  },
+  "sources": [
+   {
+    "label": "Championship History — Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/championshiphistory"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-billets-prix",
+  "category": "evenements",
+  "keywords": [
+   "billets",
+   "tickets",
+   "prix des billets",
+   "ticket price",
+   "acheter billets",
+   "buy tickets",
+   "combien coute un match",
+   "how much is a game",
+   "billet etudiant",
+   "student ticket",
+   "billets football",
+   "football tickets",
+   "billets basketball",
+   "billets hockey",
+   "billets gee gees"
+  ],
+  "question": {
+   "fr": "Combien coûtent les billets pour un match des Gee-Gees?",
+   "en": "How much are tickets for a Gee-Gees game?"
+  },
+  "answer": {
+   "fr": "En ligne, un billet pour un match de saison régulière coûte 12 dollars pour un adulte et 7 dollars pour un étudiant ou un jeune de 4 à 17 ans, sauf au football : 22 dollars adulte et 10 dollars étudiant. À la porte, compte 3 dollars de plus. C'est gratuit pour les enfants de 3 ans et moins, et les achats sont finaux.",
+   "en": "Online, a regular-season ticket costs 12 dollars for adults and 7 dollars for students or youth aged 4 to 17, except for football: 22 dollars for adults and 10 dollars for students. At the door, add 3 dollars. Children 3 and under get in free, and all sales are final."
+  },
+  "sources": [
+   {
+    "label": "Ticketing Information — Gee-Gees",
+    "url": "https://teams.geegees.ca/fan-central/ticketing_info"
+   }
+  ],
+  "related": [
+   "l-billets-ou-acheter",
+   "l-abonnement-saison",
+   "l-arrivee-match"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-billets-ou-acheter",
+  "category": "evenements",
+  "keywords": [
+   "ou acheter billets",
+   "where to buy tickets",
+   "billetterie",
+   "box office",
+   "billets en ligne",
+   "tickets online",
+   "comptoir montpetit",
+   "billets match",
+   "game tickets"
+  ],
+  "question": {
+   "fr": "Où est-ce que j'achète mes billets pour un match?",
+   "en": "Where do I buy tickets for a game?"
+  },
+  "answer": {
+   "fr": "Les billets des matchs locaux de saison régulière se vendent en ligne et au comptoir du service à la clientèle du pavillon Montpetit. Pour les matchs hors concours, les séries et les grands événements comme le match Panda ou la Classique Capital Hoops, les billets sont mis en vente plus tard.",
+   "en": "Tickets for regular-season home games are sold online and at the Client Services desk in Montpetit Hall. For exhibition games, playoffs and big events like the Panda Game or the Capital Hoops Classic, tickets go on sale later."
+  },
+  "sources": [
+   {
+    "label": "Ticketing Information — Gee-Gees",
+    "url": "https://teams.geegees.ca/fan-central/ticketing_info"
+   }
+  ],
+  "related": [
+   "l-billets-prix",
+   "l-abonnement-saison",
+   "l-arrivee-match"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-abonnement-saison",
+  "category": "evenements",
+  "keywords": [
+   "abonnement de saison",
+   "season pass",
+   "passe saison",
+   "season ticket",
+   "billet saison",
+   "tous les matchs",
+   "all home games",
+   "rabais concessions",
+   "season pass price"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un abonnement de saison pour les matchs?",
+   "en": "Is there a season pass for games?"
+  },
+  "answer": {
+   "fr": "Oui, l'abonnement de saison donne l'entrée générale à tous les matchs locaux de saison régulière d'une équipe : 45 dollars au football, 75 au hockey, 90 au basketball, 70 au volleyball, 50 au soccer et 30 au rugby. Il donne aussi 20 % de rabais aux comptoirs alimentaires, 10 % sur la marchandise et un accès en prévente pour certains grands matchs.",
+   "en": "Yes, a season pass gives general admission to all regular-season home games of one team: 45 dollars for football, 75 for hockey, 90 for basketball, 70 for volleyball, 50 for soccer and 30 for rugby. It also gives 20% off concessions, 10% off merchandise and pre-sale access for some big games."
+  },
+  "sources": [
+   {
+    "label": "Ticketing Information — Gee-Gees",
+    "url": "https://teams.geegees.ca/fan-central/ticketing_info"
+   }
+  ],
+  "related": [
+   "l-billets-prix",
+   "l-billets-ou-acheter",
+   "l-arrivee-match"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-arrivee-match",
+  "category": "evenements",
+  "keywords": [
+   "ouverture des portes",
+   "doors open",
+   "a quelle heure arriver",
+   "when to arrive",
+   "jour de match",
+   "game day",
+   "file d'attente",
+   "lineup",
+   "match gee-gees"
+  ],
+  "question": {
+   "fr": "À quelle heure ouvrent les portes pour un match?",
+   "en": "When do doors open for a game?"
+  },
+  "answer": {
+   "fr": "Les portes ouvrent 60 minutes avant le début de l'événement, sauf pour le deuxième match d'un programme double de basketball, où elles ouvrent environ 20 minutes avant. Arrive au moins 30 minutes d'avance pour éviter les files.",
+   "en": "Doors open 60 minutes before the event starts, except for the second game of a basketball doubleheader, where they open about 20 minutes before tip-off. Arrive at least 30 minutes early to avoid lineups."
+  },
+  "sources": [
+   {
+    "label": "Ticketing Information — Gee-Gees",
+    "url": "https://teams.geegees.ca/fan-central/ticketing_info"
+   }
+  ],
+  "related": [
+   "l-billets-prix",
+   "l-billets-ou-acheter",
+   "l-abonnement-saison"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-groupes-matchs",
+  "category": "evenements",
+  "keywords": [
+   "groupe",
+   "group tickets",
+   "billets de groupe",
+   "fonds pour groupes etudiants",
+   "student group game fund",
+   "club au match",
+   "association au match",
+   "sortie de groupe",
+   "group outing"
+  ],
+  "question": {
+   "fr": "Mon club peut-il aller voir un match des Gee-Gees en groupe?",
+   "en": "Can my club attend a Gee-Gees game as a group?"
+  },
+  "answer": {
+   "fr": "Oui. Grâce au Fonds pour les groupes étudiants, une association ou un club de l'Université peut organiser gratuitement un événement à un match interuniversitaire, en remplissant le questionnaire au moins deux semaines d'avance. Les groupes de 10 personnes et plus peuvent aussi demander un tarif de groupe à la billetterie des Gee-Gees.",
+   "en": "Yes. With the Student Group Game Fund, a University association or club can host a free event at a varsity game by filling out the questionnaire at least two weeks ahead. Groups of 10 or more can also ask the Gee-Gees ticket office about group rates."
+  },
+  "sources": [
+   {
+    "label": "Group Experiences — Gee-Gees",
+    "url": "https://teams.geegees.ca/fan-central/group_experiences"
+   }
+  ],
+  "related": [
+   "l-billets-prix",
+   "l-billets-ou-acheter",
+   "l-abonnement-saison"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-capital-hoops",
+  "category": "evenements",
+  "keywords": [
+   "capital hoops",
+   "classique capital hoops",
+   "basketball carleton",
+   "ravens",
+   "td place",
+   "rivalite",
+   "rivalry",
+   "4 decembre",
+   "december 4"
+  ],
+  "question": {
+   "fr": "C'est quoi la Classique Capital Hoops?",
+   "en": "What is the Capital Hoops Classic?"
+  },
+  "answer": {
+   "fr": "C'est le duel annuel de basketball entre les Gee-Gees et les Ravens de Carleton, à la Place TD. En 2026, la 20e édition a lieu le vendredi 4 décembre : le match féminin commence à 18 h et le match masculin à 20 h. Les billets sont en vente sur le site des Gee-Gees.",
+   "en": "It's the yearly basketball showdown between the Gee-Gees and the Carleton Ravens at TD Place. In 2026, the 20th edition is on Friday, December 4: the women's game starts at 6 p.m. and the men's game at 8 p.m. Tickets are on sale on the Gee-Gees website."
+  },
+  "sources": [
+   {
+    "label": "Capital Hoops Classic — Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/capitalhoops"
+   },
+   {
+    "label": "Capital Hoops Classic — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/events-all/capital-hoops-classic"
+   }
+  ],
+  "related": [
+   "l-billets-prix",
+   "l-billets-ou-acheter",
+   "l-abonnement-saison"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-pack-the-stable",
+  "category": "evenements",
+  "keywords": [
+   "pack the stable",
+   "remplis l'ecurie",
+   "soiree thematique",
+   "theme night",
+   "gratuit etudiants",
+   "free for students",
+   "match gratuit",
+   "free game",
+   "country"
+  ],
+  "question": {
+   "fr": "C'est quoi les soirées Pack the Stable?",
+   "en": "What are Pack the Stable nights?"
+  },
+  "answer": {
+   "fr": "Ce sont des soirées thématiques country pour remplir les gradins, avec musique, taureau mécanique et jeux à l'entracte. Celle du hockey féminin, au Complexe Minto, était gratuite pour les étudiants. La prochaine est au basketball le 20 novembre 2026 au pavillon Montpetit, avec le match féminin à 18 h et le match masculin à 20 h.",
+   "en": "They're country-themed nights to pack the stands, with music, a mechanical bull and intermission games. The women's hockey one at the Minto Complex was free for students. The next one is for basketball on November 20, 2026, at Montpetit Hall, with the women's game at 6 p.m. and the men's game at 8 p.m."
+  },
+  "sources": [
+   {
+    "label": "Gee-Gees Women's Hockey: Pack the Stable Night — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/events-all/gee-gees-womens-hockey-pack-stable-night"
+   },
+   {
+    "label": "Gee-Gees Basketball: Pack the Stable Night — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/events-all/gee-gees-basketball-pack-stable-night"
+   }
+  ],
+  "related": [
+   "l-billets-prix",
+   "l-billets-ou-acheter",
+   "l-abonnement-saison"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-coupe-alerts",
+  "category": "evenements",
+  "keywords": [
+   "coupe alerts",
+   "alerts cup",
+   "hockey feminin carleton",
+   "rivalite hockey",
+   "women's hockey rivalry",
+   "ottawa alerts",
+   "histoire hockey feminin",
+   "ravens carleton",
+   "td place"
+  ],
+  "question": {
+   "fr": "C'est quoi la Coupe Alerts?",
+   "en": "What is the Alerts Cup?"
+  },
+  "answer": {
+   "fr": "C'est le match de rivalité de hockey féminin entre les Gee-Gees et les Ravens de Carleton. Il rend hommage aux Alerts d'Ottawa, une équipe pionnière formée en 1915 qui est devenue la première championne du monde féminine en 1917. Les Gee-Gees ont gagné l'édition du 30 novembre 2025, 4 à 1, à la Place TD.",
+   "en": "It's the women's hockey rivalry game between the Gee-Gees and the Carleton Ravens. It honours the Ottawa Alerts, a pioneering team formed in 1915 that became the first women's world champions in 1917. The Gee-Gees won the November 30, 2025 edition 4 to 1 at TD Place."
+  },
+  "sources": [
+   {
+    "label": "The Alerts Cup — Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/alertscup"
+   }
+  ],
+  "related": [
+   "l-billets-prix",
+   "l-billets-ou-acheter",
+   "l-abonnement-saison"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-boutique-gee-gees",
+  "category": "services",
+  "keywords": [
+   "boutique gee-gees",
+   "gee-gees shop",
+   "marchandise",
+   "merchandise",
+   "chandail gee-gees",
+   "jersey",
+   "vetements gee-gees",
+   "apparel",
+   "souvenirs"
+  ],
+  "question": {
+   "fr": "Où acheter de la marchandise des Gee-Gees?",
+   "en": "Where can I buy Gee-Gees merchandise?"
+  },
+  "answer": {
+   "fr": "La marchandise officielle des Gee-Gees est vendue au pavillon Montpetit, au 1er étage. De nouveaux articles arrivent tout au long de l'année. Avec un abonnement de saison, tu as 10 % de rabais sur la marchandise.",
+   "en": "Official Gee-Gees merchandise is sold at Montpetit Hall, on the 1st floor. New items arrive throughout the year. With a season pass, you get 10% off merchandise."
+  },
+  "sources": [
+   {
+    "label": "Official Gee-Gees Merchandise — Gee-Gees",
+    "url": "https://teams.geegees.ca/inside-athletics/ShopGeeGees"
+   },
+   {
+    "label": "Ticketing Information — Gee-Gees",
+    "url": "https://teams.geegees.ca/fan-central/ticketing_info"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-sport-securitaire",
+  "category": "services",
+  "keywords": [
+   "sport securitaire",
+   "safe sport",
+   "harcelement sport",
+   "harassment in sport",
+   "maltraitance",
+   "maltreatment",
+   "signaler",
+   "report",
+   "abus entraineur",
+   "coach abuse"
+  ],
+  "question": {
+   "fr": "Comment signaler de la maltraitance dans le sport à l'Université?",
+   "en": "How do I report maltreatment in sport at uOttawa?"
+  },
+  "answer": {
+   "fr": "En cas de danger immédiat, appelle le Service de la protection au 613-562-5411 sur le campus, ou le 911 ailleurs. Sinon, tu peux déposer une plainte formelle auprès du secteur Récréation et sports interuniversitaires ou d'un tiers indépendant, ITP Sport, que l'Université recommande. Le service SafeZone peut aussi t'expliquer tes options en toute confidentialité.",
+   "en": "If someone is in immediate danger, call Protection Services at 613-562-5411 on campus, or 911 elsewhere. Otherwise, you can file a formal complaint with Recreation and Varsity Sports or with an independent third party, ITP Sport, which the University recommends. SafeZone can also explain your options confidentially."
+  },
+  "sources": [
+   {
+    "label": "Safe Sport — Gee-Gees",
+    "url": "https://teams.geegees.ca/Safe_Sport"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-conseil-etudiants-athletes",
+  "category": "associations",
+  "keywords": [
+   "conseil etudiant athlete",
+   "student athlete council",
+   "uosac",
+   "cea",
+   "athletes etudiants",
+   "student-athletes",
+   "representation athletes",
+   "evenements athletes"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un conseil pour les étudiants-athlètes?",
+   "en": "Is there a council for student-athletes?"
+  },
+  "answer": {
+   "fr": "Oui, le Conseil étudiant athlète, uOSAC-CEA, veut créer un environnement sécuritaire et inclusif où les étudiants-athlètes se sentent soutenus et écoutés. Il organise des collectes de fonds et des activités sociales basées sur les principes du Sport pur. Ses coordonnées et son formulaire d'inscription sont sur le site des Gee-Gees.",
+   "en": "Yes, the Student Athlete Council, uOSAC-CEA, aims to create a safe and inclusive environment where student-athletes feel supported and heard. It organizes fundraisers and social events based on the True Sport Principles. Its contacts and sign-up form are on the Gee-Gees website."
+  },
+  "sources": [
+   {
+    "label": "uOttawa Student Athlete Council — Gee-Gees",
+    "url": "https://teams.geegees.ca/inside-athletics/uosac"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-gee-gees-care",
+  "category": "associations",
+  "keywords": [
+   "gee-gees care",
+   "benevolat athletes",
+   "athlete volunteering",
+   "engagement communautaire",
+   "community outreach",
+   "ambassadeurs",
+   "ambassadors",
+   "collecte de sang",
+   "food drive"
+  ],
+  "question": {
+   "fr": "C'est quoi Gee-Gees Care?",
+   "en": "What is Gee-Gees Care?"
+  },
+  "answer": {
+   "fr": "C'est le programme d'engagement communautaire des Gee-Gees dans la région d'Ottawa-Gatineau. Chaque année, plus de 100 étudiants-athlètes y donnent de leur temps, par exemple pour l'emménagement en résidence, une collecte alimentaire des Fêtes ou une collecte de sang.",
+   "en": "It's the Gee-Gees community outreach program in the Ottawa-Gatineau region. Every year, more than 100 student-athletes volunteer their time, for example at residence move-in, a holiday food drive or a blood drive."
+  },
+  "sources": [
+   {
+    "label": "Gee-Gees Care — Gee-Gees",
+    "url": "https://teams.geegees.ca/inside-athletics/Gee-Gees_Care"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-soigneur-etudiant",
+  "category": "services",
+  "keywords": [
+   "soigneur etudiant",
+   "student trainer",
+   "therapie sportive",
+   "athletic therapy",
+   "therapeute du sport",
+   "travailler avec une equipe",
+   "work with a team",
+   "sciences de l'activite physique",
+   "human kinetics"
+  ],
+  "question": {
+   "fr": "Comment devenir soigneur étudiant pour une équipe des Gee-Gees?",
+   "en": "How do I become a student trainer for a Gee-Gees team?"
+  },
+  "answer": {
+   "fr": "Il faut être inscrit dans un programme en santé, idéalement en sciences de l'activité physique ou en physiothérapie, et avoir ton secourisme et ta RCR. Tu postules avant le 1er octobre, puis tu suis un cours non crédité de janvier à avril, environ 40 à 50 dollars, et les meilleurs sont choisis pour la saison suivante. Le poste est payé par le programme travail-études.",
+   "en": "You need to be in a health program, ideally Human Kinetics or Physiotherapy, and have first aid and CPR. You apply by October 1, then take a non-credit course from January to April, about 40 to 50 dollars, and the best students are chosen for the next season. The position is paid through the Work-Study Program."
+  },
+  "sources": [
+   {
+    "label": "Athletic Therapy — Gee-Gees",
+    "url": "https://teams.geegees.ca/inside-athletics/therapy/all"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-tutorat-athletes",
+  "category": "services",
+  "keywords": [
+   "tutorat athletes",
+   "athlete tutoring",
+   "tuteur",
+   "tutor",
+   "etudiant-athlete etudes",
+   "student-athlete academics",
+   "aide scolaire athletes",
+   "academic support athletes"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a du tutorat pour les étudiants-athlètes?",
+   "en": "Is there tutoring for student-athletes?"
+  },
+  "answer": {
+   "fr": "Oui. Commence par les centres de mentorat de ta faculté, qui sont gratuits. Si ce n'est pas suffisant, les athlètes des équipes interuniversitaires peuvent demander du tutorat payé par les Gee-Gees en écrivant à leur mentor d'équipe et au coordonnateur aux études; la réponse arrive en 24 heures.",
+   "en": "Yes. Start with your faculty's mentoring centre, which is free. If that's not enough, varsity team athletes can request tutoring paid for by the Gee-Gees by emailing their team mentor and the academics coordinator; you'll get an answer within 24 hours."
+  },
+  "sources": [
+   {
+    "label": "Tutoring Services — Gee-Gees",
+    "url": "https://teams.geegees.ca/inside-athletics/tutoring_services"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-ultimate",
+  "category": "associations",
+  "keywords": [
+   "ultimate",
+   "ultimate frisbee",
+   "frisbee",
+   "club ultimate",
+   "champion national ultimate",
+   "cuuc",
+   "disc",
+   "ultimate team",
+   "equipe d'ultimate"
+  ],
+  "question": {
+   "fr": "Est-ce que les Gee-Gees ont une équipe d'ultimate frisbee?",
+   "en": "Do the Gee-Gees have an ultimate frisbee team?"
+  },
+  "answer": {
+   "fr": "Oui, il y a une équipe masculine et une équipe féminine et non binaire. Les deux ont gagné le championnat canadien universitaire d'ultimate de division 1 en 2024, et l'équipe féminine compte six titres nationaux. Pour du jeu récréatif, il y a aussi une ligue d'ultimate aux intramuros.",
+   "en": "Yes, there's a men's team and a women's and non-binary team. Both won the Division 1 Canadian University Ultimate Championship in 2024, and the women's team has six national titles. For recreational play, there's also an ultimate intramural league."
+  },
+  "sources": [
+   {
+    "label": "Men's Ultimate — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/multimate/home"
+   },
+   {
+    "label": "Women's Ultimate — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/wultimate/home"
+   },
+   {
+    "label": "Championship History — Gee-Gees",
+    "url": "https://teams.geegees.ca/tradition/championshiphistory"
+   },
+   {
+    "label": "Intramural sports — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/intramural-leagues/sports"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-baseball-softball",
+  "category": "associations",
+  "keywords": [
+   "baseball",
+   "softball",
+   "balle rapide",
+   "fastpitch",
+   "stade d'ottawa",
+   "ottawa stadium",
+   "carp",
+   "oua baseball",
+   "club de baseball"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a du baseball ou du softball chez les Gee-Gees?",
+   "en": "Are there baseball or softball teams at uOttawa?"
+  },
+  "answer": {
+   "fr": "Oui. L'équipe de baseball joue dans l'OUA de septembre à la mi-octobre, avec ses matchs locaux au Stade d'Ottawa. L'équipe féminine de softball rapide joue dans la ligue Ontario University Softball, en septembre et octobre, avec ses matchs locaux au terrain de la foire de Carp.",
+   "en": "Yes. The baseball team plays in the OUA from September to mid-October, with home games at Ottawa Stadium. The women's fastpitch softball team plays in the Ontario University Softball league in September and October, with home games at the Carp Fairgrounds."
+  },
+  "sources": [
+   {
+    "label": "Baseball — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/bsb/home"
+   },
+   {
+    "label": "Softball — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/sball/home"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-crosse",
+  "category": "associations",
+  "keywords": [
+   "crosse",
+   "lacrosse",
+   "cufla",
+   "baggataway",
+   "crosse au champ",
+   "field lacrosse",
+   "camp d'entrainement",
+   "tryouts"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une équipe de crosse?",
+   "en": "Is there a lacrosse team?"
+  },
+  "answer": {
+   "fr": "Oui, l'équipe masculine de crosse au champ, fondée en 2013, est membre de l'association canadienne CUFLA, division Est. Sa saison a lieu à l'automne, et le camp d'entraînement commence l'avant-dernière fin de semaine d'août. Les joueurs d'expérience intéressés peuvent contacter les entraîneurs par le site des Gee-Gees.",
+   "en": "Yes, the men's field lacrosse team, founded in 2013, is a member of the Canadian association CUFLA, East Division. Its season is in the fall, and training camp starts the second-to-last weekend of August. Experienced players can contact the coaches through the Gee-Gees website."
+  },
+  "sources": [
+   {
+    "label": "Men's Lacrosse — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/lax/home"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-equitation",
+  "category": "associations",
+  "keywords": [
+   "equitation",
+   "equestrian",
+   "cheval",
+   "horse riding",
+   "ihsa",
+   "ocea",
+   "club equestre",
+   "riding team"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une équipe d'équitation?",
+   "en": "Is there an equestrian team?"
+  },
+  "answer": {
+   "fr": "Oui, l'équipe d'équitation des Gee-Gees, fondée en 2003, est membre de l'IHSA et de l'association collégiale équestre de l'Ontario. Elle s'entraîne à Stratford-Fox Run Equestrian et accepte des cavaliers de tous les niveaux aux essais.",
+   "en": "Yes, the Gee-Gees equestrian team, founded in 2003, is a member of the IHSA and the Ontario Collegiate Equestrian Association. It trains at Stratford-Fox Run Equestrian and welcomes riders of any level to try out."
+  },
+  "sources": [
+   {
+    "label": "Equestrian — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/equest/home"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-nage-artistique",
+  "category": "associations",
+  "keywords": [
+   "nage artistique",
+   "artistic swimming",
+   "nage synchronisee",
+   "synchronized swimming",
+   "synchro",
+   "club de nage",
+   "novice",
+   "cuasl",
+   "swim club"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire de la nage artistique à l'Université?",
+   "en": "Can I do artistic swimming at uOttawa?"
+  },
+  "answer": {
+   "fr": "Oui, le club de nage artistique des Gee-Gees est membre de la ligue universitaire canadienne CUASL. La saison va de septembre à mars, et aucune expérience n'est requise grâce à son programme novice.",
+   "en": "Yes, the Gee-Gees artistic swimming club is a member of the Canadian University Artistic Swimming League. The season runs from September to March, and no experience is needed thanks to its novice program."
+  },
+  "sources": [
+   {
+    "label": "Artistic Swimming — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/synchro/home"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-ski-alpin-fond",
+  "category": "associations",
+  "keywords": [
+   "ski alpin",
+   "alpine skiing",
+   "ski de fond",
+   "nordic skiing",
+   "equipe de ski",
+   "ski team",
+   "camp fortune",
+   "ski universitaire"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une équipe de ski?",
+   "en": "Is there a ski team?"
+  },
+  "answer": {
+   "fr": "Oui, il y en a deux. L'équipe de ski alpin, la seule équipe universitaire de ski alpin en Ontario, s'entraîne surtout au club Camp Fortune et participe à des courses FIS et CJP en Ontario et au Québec. Il y a aussi un club interuniversitaire de ski de fond.",
+   "en": "Yes, there are two. The alpine ski team, the only university alpine team in Ontario, trains mainly at Camp Fortune Ski Club and races in FIS and CJP events in Ontario and Quebec. There's also a Nordic skiing varsity club."
+  },
+  "sources": [
+   {
+    "label": "Alpine Skiing — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/alpineski/home"
+   },
+   {
+    "label": "Nordic Skiing — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/nordicski/index"
+   },
+   {
+    "label": "Ottawa Gee-Gees (Varsity) — Gee-Gees",
+    "url": "https://teams.geegees.ca/landing/index"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-volleyball-masculin",
+  "category": "associations",
+  "keywords": [
+   "volleyball masculin",
+   "men's volleyball",
+   "volley hommes",
+   "club volleyball",
+   "volleyball club",
+   "tryouts volleyball",
+   "volleyball hommes",
+   "men's volleyball club",
+   "equipe volleyball"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une équipe de volleyball masculin?",
+   "en": "Is there a men's volleyball team?"
+  },
+  "answer": {
+   "fr": "Oui, c'est un club compétitif dont la saison va de septembre à avril, avec trois entraînements par semaine et des tournois en Ontario, au Québec et aux États-Unis. Le club cherche des joueurs qui ont déjà joué à un haut niveau, par exemple en club ou au cégep.",
+   "en": "Yes, it's a competitive club whose season runs from September to April, with three practices a week and tournaments in Ontario, Quebec and the United States. The club looks for players with high-level experience, such as club or CEGEP volleyball."
+  },
+  "sources": [
+   {
+    "label": "Men's Volleyball — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/mvball/home"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-cheerleading",
+  "category": "associations",
+  "keywords": [
+   "cheerleading",
+   "meneuses de claques",
+   "cheer",
+   "queen gees",
+   "acrobaties",
+   "stunting",
+   "equipe de cheer",
+   "cheer team",
+   "meneuses"
+  ],
+  "question": {
+   "fr": "Est-ce que les Gee-Gees ont une équipe de cheerleading?",
+   "en": "Do the Gee-Gees have a cheerleading team?"
+  },
+  "answer": {
+   "fr": "Oui, l'équipe de cheerleading combine acrobaties, culbutes, danse et sauts. Elle participe à plusieurs compétitions et encourage les équipes aux matchs locaux, dont le match Panda et la Classique Capital Hoops. Compte trois entraînements par semaine.",
+   "en": "Yes, the cheerleading team combines stunting, tumbling, dancing and jumping. It competes several times a year and cheers at home games, including the Panda Game and the Capital Hoops Classic. Expect three practices a week."
+  },
+  "sources": [
+   {
+    "label": "Cheerleading — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/cheer/home"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-badminton-golf-waterpolo",
+  "category": "associations",
+  "keywords": [
+   "badminton gee-gees",
+   "golf feminin",
+   "women's golf",
+   "water polo feminin",
+   "women's water polo",
+   "club golf",
+   "equipe badminton",
+   "badminton team"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a des équipes de badminton, de golf ou de water-polo?",
+   "en": "Are there badminton, golf or water polo teams?"
+  },
+  "answer": {
+   "fr": "Oui, ce sont des clubs interuniversitaires. L'équipe de badminton participe au championnat de l'OUA, l'équipe féminine de golf, dirigée par ses joueuses, vise aussi le championnat de l'OUA, et l'équipe féminine de water-polo affronte les meilleurs programmes de l'Ontario et du Canada. Leurs contacts sont sur le site des Gee-Gees.",
+   "en": "Yes, they're varsity clubs. The badminton team competes at the OUA championship, the player-led women's golf team also aims for the OUA championship, and the women's water polo team competes against the best programs in Ontario and Canada. Their contacts are on the Gee-Gees website."
+  },
+  "sources": [
+   {
+    "label": "Badminton — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/Badminton/home"
+   },
+   {
+    "label": "Women's Golf — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/wgolf/home"
+   },
+   {
+    "label": "Women's Water Polo — Gee-Gees",
+    "url": "https://teams.geegees.ca/sports/wwaterpolo/home"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-abonnement-etudiant-inclus",
+  "category": "services",
+  "keywords": [
+   "abonnement gym etudiant",
+   "student gym membership",
+   "est-ce que le gym est gratuit",
+   "is the gym free",
+   "frais accessoires",
+   "ancillary fees",
+   "acces gym",
+   "gym access",
+   "abonnement inclus",
+   "membership included"
+  ],
+  "question": {
+   "fr": "Est-ce que l'abonnement au gym est inclus pour les étudiants?",
+   "en": "Is the gym membership included for students?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es inscrit et que tu paies les frais accessoires avec tes droits de scolarité, ton abonnement est inclus pour l'automne et l'hiver. Il te donne accès à la piscine, aux sports libres en gymnase, au hockey, au soccer et au patinage libres, aux ligues intramuros, aux deux centres de conditionnement, aux cours de groupe, au sauna et aux courts de squash du Complexe Minto.",
+   "en": "Yes, if you're enrolled and pay ancillary fees with your tuition, your membership is included for fall and winter. It gives you the pool, drop-in court sports, drop-in hockey, soccer and skating, intramural leagues, both fitness centres, group fitness classes, the sauna and the Minto Sports Complex squash courts."
+  },
+  "sources": [
+   {
+    "label": "Sports and gym memberships — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/memberships"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-abonnement-sans-frais-accessoires",
+  "category": "services",
+  "keywords": [
+   "pas de frais accessoires",
+   "no ancillary fees",
+   "etudiant echange",
+   "exchange student gym",
+   "abonnement 124",
+   "membership 124",
+   "residents en medecine",
+   "medical residents",
+   "campus hors ottawa"
+  ],
+  "question": {
+   "fr": "Je ne paie pas de frais accessoires : comment avoir accès au gym?",
+   "en": "I don't pay ancillary fees: how do I get gym access?"
+  },
+  "answer": {
+   "fr": "Tu peux acheter un abonnement étudiant à prix réduit de 124 dollars, qui donne les mêmes accès que l'abonnement inclus. C'est le cas notamment des étudiants en échange international, des étudiants en droit en processus du Barreau, de certains étudiants en médecine en stage et de ceux qui étudient sur un campus hors d'Ottawa.",
+   "en": "You can buy a discounted student membership for 124 dollars, which gives the same access as the included membership. This applies, for example, to international exchange students, law students in the bar process, some medical students on placement and students at a campus outside Ottawa."
+  },
+  "sources": [
+   {
+    "label": "Sports and gym memberships — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/memberships"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-abonnement-communaute",
+  "category": "services",
+  "keywords": [
+   "abonnement communautaire",
+   "community membership",
+   "gym public",
+   "public gym",
+   "non etudiant",
+   "non-student",
+   "prix abonnement",
+   "membership price",
+   "gym ottawa",
+   "abonnement mensuel"
+  ],
+  "question": {
+   "fr": "Est-ce que quelqu'un qui n'étudie pas à l'Université peut s'abonner au gym?",
+   "en": "Can someone who isn't a student get a gym membership?"
+  },
+  "answer": {
+   "fr": "Oui, il y a des abonnements communautaires. Le forfait de base, avec piscine, sports en gymnase, hockey, soccer, patinage et intramuros, coûte 51 dollars pour un mois ou 162 dollars pour quatre mois. Le forfait tout compris, qui ajoute les deux centres de conditionnement et les cours de groupe, coûte 91 dollars pour un mois ou 284 dollars pour quatre mois.",
+   "en": "Yes, there are community memberships. The basic tier, with the pool, court sports, hockey, soccer, skating and intramurals, costs 51 dollars for one month or 162 dollars for four months. The all-inclusive tier, which adds both fitness centres and group fitness classes, costs 91 dollars for one month or 284 dollars for four months."
+  },
+  "sources": [
+   {
+    "label": "Sports and gym memberships — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/memberships"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-abonnement-diplomes-employes",
+  "category": "services",
+  "keywords": [
+   "abonnement diplomes",
+   "alumni membership",
+   "abonnement employes",
+   "employee gym",
+   "retraites",
+   "retirees",
+   "universite saint-paul",
+   "saint paul university",
+   "rabais gym",
+   "gym discount"
+  ],
+  "question": {
+   "fr": "Les diplômés et les employés ont-ils un rabais au gym?",
+   "en": "Do alumni and employees get a gym discount?"
+  },
+  "answer": {
+   "fr": "Oui. Les diplômés paient par exemple 120 dollars pour quatre mois au forfait de base et 212 dollars au forfait tout compris. Pour les employés et les retraités, le forfait de base est inclus dans les avantages sociaux, et d'autres forfaits sont offerts. Les étudiants et employés de l'Université Saint-Paul ont aussi des tarifs réduits.",
+   "en": "Yes. Alumni pay, for example, 120 dollars for four months on the basic tier and 212 dollars on the all-inclusive tier. For employees and retirees, the basic tier is included in their benefits, and other tiers are available. Saint Paul University students and employees also get discounted rates."
+  },
+  "sources": [
+   {
+    "label": "Sports and gym memberships — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/memberships"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-acheter-abonnement",
+  "category": "services",
+  "keywords": [
+   "acheter abonnement",
+   "buy membership",
+   "ou s'abonner",
+   "where to sign up gym",
+   "service a la clientele",
+   "client services",
+   "carte d'acces",
+   "access card",
+   "renouveler abonnement",
+   "renew membership"
+  ],
+  "question": {
+   "fr": "Où est-ce que j'achète un abonnement au gym?",
+   "en": "Where do I buy a gym membership?"
+  },
+  "answer": {
+   "fr": "Tu l'achètes au comptoir du service à la clientèle du Complexe sportif Minto, au 801 avenue King Edward, 1er étage, ou du pavillon Montpetit, au 125 privé Université. Les ventes sont finales, et les renouvellements peuvent se faire en ligne. Garde ta carte étudiante ou ta carte d'abonnement sur toi : c'est la seule pièce reconnue pour entrer.",
+   "en": "You buy it at the Client Services desk of the Minto Sports Complex, 801 King Edward Avenue, 1st floor, or Montpetit Hall, 125 University Private. All sales are final, and renewals can be done online. Keep your student or membership card with you: it's the only ID accepted to get in."
+  },
+  "sources": [
+   {
+    "label": "Sports and gym memberships — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/memberships"
+   },
+   {
+    "label": "How to register for recreation and fitness activities — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/news-all/a-new-way-to-register-for-recreation-and-fitness-activities"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-suspension-abonnement",
+  "category": "services",
+  "keywords": [
+   "suspendre abonnement",
+   "suspend membership",
+   "pause abonnement",
+   "pause membership",
+   "geler abonnement",
+   "freeze membership",
+   "voyage",
+   "blessure"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux suspendre mon abonnement au gym?",
+   "en": "Can I pause my gym membership?"
+  },
+  "answer": {
+   "fr": "Oui, si tu as un abonnement payant, tu peux demander une suspension temporaire par courriel au service à la clientèle, avec ton nom, le code-barres de ta carte et les dates voulues. Des frais de 10 dollars plus taxes s'appliquent, et la suspension ne peut pas dépasser la moitié de la durée de l'abonnement. Les étudiants de l'Université n'y sont pas admissibles.",
+   "en": "Yes, if you have a paid membership, you can request a temporary suspension by emailing Client Services with your name, your card's barcode and the dates you want. There's a 10 dollar fee plus tax, and the suspension can't exceed half the membership's length. University students aren't eligible."
+  },
+  "sources": [
+   {
+    "label": "Sports and gym memberships — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/memberships"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-gee-gee-reg",
+  "category": "services",
+  "keywords": [
+   "gee-gee reg",
+   "inscription activites",
+   "register activities",
+   "activenet",
+   "compte gee-gee reg",
+   "account",
+   "mot de passe",
+   "password",
+   "s'inscrire en ligne",
+   "online registration"
+  ],
+  "question": {
+   "fr": "Comment je m'inscris aux activités récréatives en ligne?",
+   "en": "How do I register for recreation activities online?"
+  },
+  "answer": {
+   "fr": "Tout passe par Gee-Gee Reg, la plateforme d'inscription aux intramuros, aux cours et aux programmes. Si tu es étudiant ou employé, tu as déjà un compte : clique sur Se connecter, puis Mot de passe oublié, et surtout ne crée pas de nouveau compte. Pour de l'aide, appelle le 613-562-5800, poste 4327.",
+   "en": "Everything goes through Gee-Gee Reg, the registration platform for intramurals, classes and programs. If you're a student or employee, you already have an account: click Sign In, then Forgot My Password, and don't create a new account. For help, call 613-562-5800 ext. 4327."
+  },
+  "sources": [
+   {
+    "label": "How to register for recreation and fitness activities — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/news-all/a-new-way-to-register-for-recreation-and-fitness-activities"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-casiers-montpetit",
+  "category": "services",
+  "keywords": [
+   "casier gym",
+   "gym locker",
+   "location casier",
+   "locker rental",
+   "casier montpetit",
+   "vestiaire",
+   "change room",
+   "cadenas",
+   "lock"
+  ],
+  "question": {
+   "fr": "Comment louer un casier au gym?",
+   "en": "How do I rent a gym locker?"
+  },
+  "answer": {
+   "fr": "Les casiers se louent seulement dans les vestiaires du pavillon Montpetit, en personne au centre d'accueil du 1er étage. Pour les étudiants, c'est 44,96 dollars plus taxes pour l'automne et l'hiver, ou 22,49 dollars plus taxes pour l'été. Un cadenas est fourni et les ventes sont finales.",
+   "en": "Lockers are rented only in the Montpetit Hall change rooms, in person at the Welcome Centre on the 1st floor. For students, it's 44.96 dollars plus tax for fall and winter, or 22.49 dollars plus tax for the summer. A lock is included and all sales are final."
+  },
+  "sources": [
+   {
+    "label": "Locker rentals — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/locker-rentals"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-pret-equipement",
+  "category": "services",
+  "keywords": [
+   "pret d'equipement",
+   "equipment loan",
+   "emprunter raquette",
+   "borrow racket",
+   "ballon",
+   "ball",
+   "location equipement",
+   "equipment rental",
+   "raquette badminton",
+   "planche de natation"
+  ],
+  "question": {
+   "fr": "Est-ce qu'on peut emprunter de l'équipement sportif?",
+   "en": "Can I borrow sports equipment?"
+  },
+  "answer": {
+   "fr": "Oui, pour les sports libres, tu peux emprunter des raquettes et des volants de badminton, des ballons de basketball et de volleyball au comptoir du service à la clientèle du pavillon Montpetit. À la piscine, on prête des planches et des gilets de sauvetage. Pour le squash, la location de raquettes est limitée, donc apporte la tienne si possible.",
+   "en": "Yes, for drop-in sports you can borrow badminton rackets and shuttles, basketballs and volleyballs at the Montpetit Hall Client Services desk. At the pool, kickboards and life jackets are available. For squash, racket rentals are limited, so bring your own if you can."
+  },
+  "sources": [
+   {
+    "label": "Badminton — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/drop-in-activities/badminton"
+   },
+   {
+    "label": "Basketball — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/drop-in-activities/basketball"
+   },
+   {
+    "label": "Volleyball — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/drop-in-activities/volleyball"
+   },
+   {
+    "label": "Pool — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/pool"
+   },
+   {
+    "label": "Squash courts — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/squash-courts"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-reserver-squash",
+  "category": "services",
+  "keywords": [
+   "squash",
+   "reserver squash",
+   "book squash",
+   "court de squash",
+   "squash court",
+   "minto squash",
+   "reservation terrain",
+   "squash reservation",
+   "squash booking"
+  ],
+  "question": {
+   "fr": "Comment réserver un court de squash?",
+   "en": "How do I book a squash court?"
+  },
+  "answer": {
+   "fr": "Il y a deux courts de squash au Complexe sportif Minto. Tu réserves des séances de 40 minutes jusqu'à 7 jours d'avance en appelant le 613-562-5800, poste 4327, avec ton numéro de carte étudiante ou d'abonnement. Pour deux séances de suite, il faut aussi le numéro de ton partenaire.",
+   "en": "There are two squash courts at the Minto Sports Complex. You book 40-minute sessions up to 7 days ahead by calling 613-562-5800 ext. 4327, with your student or membership card number. For two back-to-back sessions, you also need your partner's number."
+  },
+  "sources": [
+   {
+    "label": "Squash courts — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/squash-courts"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-cours-groupe",
+  "category": "services",
+  "keywords": [
+   "cours de groupe",
+   "group fitness",
+   "zumba",
+   "pilates",
+   "yoga gratuit",
+   "free fitness class",
+   "cours conditionnement",
+   "fitness class",
+   "carte cours de groupe",
+   "class card"
+  ],
+  "question": {
+   "fr": "Comment je participe aux cours de groupe gratuits?",
+   "en": "How do I join the free group fitness classes?"
+  },
+  "answer": {
+   "fr": "Les cours de groupe libres sont inclus dans ton abonnement étudiant. Présente-toi au comptoir du centre de conditionnement au plus tôt 30 minutes avant le cours pour obtenir une carte, car les places sont limitées et les cours populaires affichent complet. Vérifie l'horaire avant de venir, car les annulations y sont publiées.",
+   "en": "Drop-in group fitness classes are included in your student membership. Go to the fitness centre desk no earlier than 30 minutes before the class to get a card, since spots are limited and popular classes fill up. Check the schedule before coming, as cancellations are posted there."
+  },
+  "sources": [
+   {
+    "label": "Group fitness — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/drop-in-activities/group-fitness"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-entrainement-personnel",
+  "category": "services",
+  "keywords": [
+   "entraineur personnel",
+   "personal trainer",
+   "entrainement prive",
+   "personal training",
+   "prix entraineur",
+   "trainer price",
+   "semi-prive",
+   "semi-private",
+   "consultation"
+  ],
+  "question": {
+   "fr": "Combien coûte un entraîneur personnel au gym?",
+   "en": "How much does a personal trainer cost?"
+  },
+  "answer": {
+   "fr": "La consultation initiale, obligatoire, coûte 52 dollars, puis c'est 59 dollars la séance, 261 dollars pour 5 séances ou 477 dollars pour 10, taxes incluses. En semi-privé avec un ami, c'est 38 dollars la consultation et 44 dollars la séance par personne. Les séances ne sont pas remboursables et les entraîneurs externes ne sont pas permis.",
+   "en": "The mandatory initial consultation costs 52 dollars, then it's 59 dollars a session, 261 dollars for 5 sessions or 477 dollars for 10, tax included. Semi-private with a friend, it's 38 dollars for the consultation and 44 dollars a session per person. Sessions are non-refundable, and outside trainers aren't allowed."
+  },
+  "sources": [
+   {
+    "label": "Personal training — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/registered-activities/personal-training"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-cours-natation-adultes",
+  "category": "services",
+  "keywords": [
+   "cours de natation",
+   "swimming lessons",
+   "apprendre a nager",
+   "learn to swim",
+   "natation adulte",
+   "adult swim",
+   "cours prive natation",
+   "private swim lessons",
+   "learn to train"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a des cours de natation pour adultes?",
+   "en": "Are there swimming lessons for adults?"
+  },
+  "answer": {
+   "fr": "Oui, le programme Nageur adulte a trois niveaux, de débutant à avancé, et il y a aussi le programme Learn to Train conçu par les entraîneurs des Gee-Gees. Des cours privés sont offerts, y compris des cours adaptés pour les personnes handicapées. Les inscriptions se font sur Gee-Gee Reg.",
+   "en": "Yes, the Adult Swimmer program has three levels, from beginner to advanced, and there's also the Learn to Train program designed by the Gee-Gees coaches. Private lessons are available, including adapted lessons for people with disabilities. You register on Gee-Gee Reg."
+  },
+  "sources": [
+   {
+    "label": "Aquatics lessons — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/registered-activities/aquatics-lessons"
+   },
+   {
+    "label": "Accessibility — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/memberships/accessibility"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-certifications-sauveteur",
+  "category": "services",
+  "keywords": [
+   "sauveteur",
+   "lifeguard",
+   "sauveteur national",
+   "national lifeguard",
+   "premiers soins",
+   "first aid",
+   "rcr",
+   "cpr",
+   "certification",
+   "gestion des voies respiratoires"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux suivre une formation de sauveteur ou de premiers soins?",
+   "en": "Can I take a lifeguard or first aid course?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre aquatique offre le Sauveteur national, la Gestion des voies respiratoires et les Premiers soins intermédiaires avec RCR-C et DEA. D'ici la fin 2026, il reste une requalification de sauveteur le 21 novembre, des premiers soins les 5 et 6 décembre et une gestion des voies respiratoires le 16 décembre. Tu t'inscris sur Gee-Gee Reg.",
+   "en": "Yes, the Aquatic Centre offers National Lifeguard, Airway Management, and Intermediate First Aid with CPR-C and AED. Before the end of 2026, there's still a lifeguard recertification on November 21, first aid on December 5 and 6, and airway management on December 16. You register on Gee-Gee Reg."
+  },
+  "sources": [
+   {
+    "label": "Certifications — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/certifications"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-camps-ete",
+  "category": "services",
+  "keywords": [
+   "camps",
+   "camp d'ete",
+   "summer camp",
+   "camp de jour",
+   "day camp",
+   "camp gee-gees",
+   "camp pour enfants",
+   "kids camp",
+   "relache",
+   "march break"
+  ],
+  "question": {
+   "fr": "Est-ce que l'Université offre des camps pour enfants?",
+   "en": "Does the University offer camps for kids?"
+  },
+  "answer": {
+   "fr": "Oui, les camps Gee-Gees sont entièrement bilingues et offerts l'été, et des camps de la relâche de mars sont prévus en 2027. Les inscriptions et les places disponibles sont sur Gee-Gee Reg. Le programme Send a Kid to Camp aide aussi les familles d'Ottawa dans le besoin.",
+   "en": "Yes, Gee-Gees camps are fully bilingual and run in the summer, and March Break camps are planned for 2027. Registration and available spots are on Gee-Gee Reg. The Send a Kid to Camp program also helps Ottawa families in financial need."
+  },
+  "sources": [
+   {
+    "label": "Camps — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/camps"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-salles-conditionnement",
+  "category": "services",
+  "keywords": [
+   "salle de musculation",
+   "weight room",
+   "equipement gym",
+   "gym equipment",
+   "poids libres",
+   "free weights",
+   "cardio",
+   "machines",
+   "centre de conditionnement"
+  ],
+  "question": {
+   "fr": "Quel équipement y a-t-il dans les salles d'entraînement?",
+   "en": "What equipment is in the fitness centres?"
+  },
+  "answer": {
+   "fr": "Le centre du pavillon Montpetit a 3 000 pieds carrés, 24 appareils cardio, 16 appareils de musculation et 5 000 livres de poids libres. Celui du Complexe Minto est plus grand : 8 000 pieds carrés, 40 appareils cardio, 26 appareils de musculation et 7 500 livres de poids libres. Les deux offrent l'entraînement personnel.",
+   "en": "The Montpetit Hall centre has 3,000 square feet, 24 cardio machines, 16 weight machines and 5,000 pounds of free weights. The Minto Complex one is bigger: 8,000 square feet, 40 cardio machines, 26 weight machines and 7,500 pounds of free weights. Both offer personal training."
+  },
+  "sources": [
+   {
+    "label": "Montpetit Fitness Centre — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/montpetit-fitness-centre"
+   },
+   {
+    "label": "Health and Lifestyle Centre — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/health-lifestyle-centre"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-heures-femmes-gym",
+  "category": "services",
+  "keywords": [
+   "heures pour femmes",
+   "women only hours",
+   "gym femmes",
+   "women's gym",
+   "heures reservees",
+   "reserved hours",
+   "montpetit femmes",
+   "strong-her"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a des heures réservées aux femmes au gym?",
+   "en": "Are there women-only hours at the gym?"
+  },
+  "answer": {
+   "fr": "Oui, le centre de conditionnement du pavillon Montpetit a des heures réservées aux femmes le mardi et le vendredi, de 7 h 30 à 8 h 30. Il existe aussi un cours de musculation payant conçu par des femmes, pour les femmes, appelé Strong-HER.",
+   "en": "Yes, the Montpetit Hall fitness centre has women-only hours on Tuesdays and Fridays from 7:30 to 8:30 a.m. There's also a paid strength training class designed by women, for women, called Strong-HER."
+  },
+  "sources": [
+   {
+    "label": "Hours of operation — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/hours-operation"
+   },
+   {
+    "label": "Fitness and wellness — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/registered-activities/fitness-wellness"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-piscine-accessible",
+  "category": "services",
+  "keywords": [
+   "piscine accessible",
+   "accessible pool",
+   "levier",
+   "pool lift",
+   "fauteuil aquatique",
+   "water wheelchair",
+   "handicap natation",
+   "disability swimming",
+   "accompagnateur",
+   "support person"
+  ],
+  "question": {
+   "fr": "Est-ce que la piscine est accessible?",
+   "en": "Is the pool accessible?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre aquatique du pavillon Montpetit a un lève-personne motorisé, un fauteuil roulant aquatique, des portes automatiques, des vestiaires accessibles et une douche sans obstacle. Tu peux être accompagné de deux personnes de soutien sans frais. Appelle le 613-562-5800, poste 4327, avant ta visite pour qu'on t'aide.",
+   "en": "Yes, the Aquatic Centre in Montpetit Hall has a motorized lift, a water wheelchair, automatic doors, accessible change rooms and a barrier-free shower. You can bring up to two support persons free of charge. Call 613-562-5800 ext. 4327 before your visit so staff can help."
+  },
+  "sources": [
+   {
+    "label": "Accessibility — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/memberships/accessibility"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-patinage-casque",
+  "category": "services",
+  "keywords": [
+   "patinage",
+   "skating",
+   "apprendre a patiner",
+   "learn to skate",
+   "casque",
+   "helmet",
+   "patinoire",
+   "ice rink",
+   "patin libre"
+  ],
+  "question": {
+   "fr": "Est-ce que le casque est obligatoire pour patiner à Minto?",
+   "en": "Is a helmet mandatory for skating at Minto?"
+  },
+  "answer": {
+   "fr": "Oui, un casque de hockey certifié CSA est obligatoire pour toutes les activités sur glace au Complexe sportif Minto. Si tu débutes, le programme Learn to Skate t'apprend les bases, et il y a aussi des cours de patinage de puissance; apporte tes patins.",
+   "en": "Yes, a CSA-certified hockey helmet is mandatory for all on-ice activities at the Minto Sports Complex. If you're a beginner, the Learn to Skate program teaches the basics, and there are also power skating classes; bring your own skates."
+  },
+  "sources": [
+   {
+    "label": "Skating — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/registered-activities/skating"
+   },
+   {
+    "label": "Minto ice rinks — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/ice-rinks"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-reserver-installation",
+  "category": "services",
+  "keywords": [
+   "reserver un gymnase",
+   "book a gym",
+   "location terrain",
+   "field rental",
+   "louer la piscine",
+   "rent the pool",
+   "reservation installation sportive",
+   "facility booking",
+   "dome",
+   "studio de danse"
+  ],
+  "question": {
+   "fr": "Comment réserver une installation sportive de l'Université?",
+   "en": "How do I book a University sports facility?"
+  },
+  "answer": {
+   "fr": "Tu peux louer les gymnases, la piscine, les patinoires, le studio de danse, la salle d'arts martiaux ou les terrains en contactant l'agent des réservations au 613-562-5948. Le terrain Gee-Gees, au campus Lees, est couvert d'un dôme chauffé de novembre à mai et est ouvert sept jours sur sept.",
+   "en": "You can rent the gyms, pool, ice rinks, dance studio, martial arts room or fields by contacting the reservations officer at 613-562-5948. Gee-Gees Field, on the Lees campus, is covered by a heated dome from November to May and is open seven days a week."
+  },
+  "sources": [
+   {
+    "label": "Gee-Gees field — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/gee-gees-field"
+   },
+   {
+    "label": "Pool — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/pool"
+   },
+   {
+    "label": "Dance studio — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/dance-studio"
+   },
+   {
+    "label": "Martial arts room — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/facilities/martial-arts-room"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-regles-installations",
+  "category": "services",
+  "keywords": [
+   "regles gym",
+   "gym rules",
+   "enfants au gym",
+   "children at the gym",
+   "age minimum",
+   "minimum age",
+   "sauna",
+   "assurance accident",
+   "accident insurance"
+  ],
+  "question": {
+   "fr": "Quelles sont les règles importantes dans les installations sportives?",
+   "en": "What are the main rules in the sports facilities?"
+  },
+  "answer": {
+   "fr": "Les jeunes de 15 ans et moins doivent être accompagnés d'une personne de 16 ans ou plus, et le sauna est interdit aux moins de 16 ans. Utiliser la carte de quelqu'un d'autre fait perdre ton abonnement sans remboursement. Attention : les membres ne sont pas assurés en cas d'accident, donc prévois ta propre couverture.",
+   "en": "Children 15 and under must be accompanied by someone 16 or older, and the sauna is off-limits under 16. Using someone else's card means losing your membership without a refund. Note that members aren't insured in case of an accident, so arrange your own coverage."
+  },
+  "sources": [
+   {
+    "label": "Membership policies — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/memberships/policies"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-intramuros-hiver-2027",
+  "category": "services",
+  "keywords": [
+   "intramuros hiver",
+   "winter intramurals",
+   "inscription intramuros",
+   "intramural registration",
+   "8 novembre",
+   "november 8",
+   "heure inscription",
+   "registration time",
+   "premier arrive"
+  ],
+  "question": {
+   "fr": "Quand commencent les inscriptions aux intramuros d'hiver 2027?",
+   "en": "When does Winter 2027 intramural registration start?"
+  },
+  "answer": {
+   "fr": "Les inscriptions d'hiver ont commencé le dimanche 8 novembre 2026, selon le principe du premier arrivé, premier servi : volleyball et multisport à 11 h 30, basketball et flag-football à 12 h 30, soccer et ballon chasseur à 13 h 30, hockey et ultimate à 14 h 30. Tu t'inscris en ligne sur Gee-Gee Reg ou en personne aux comptoirs de Montpetit ou de Minto.",
+   "en": "Winter registration started on Sunday, November 8, 2026, first come, first served: volleyball and multisport at 11:30 a.m., basketball and flag football at 12:30 p.m., soccer and dodgeball at 1:30 p.m., hockey and ultimate at 2:30 p.m. You register online on Gee-Gee Reg or in person at the Montpetit or Minto desks."
+  },
+  "sources": [
+   {
+    "label": "Register to play intramurals — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/intramural-leagues/register"
+   },
+   {
+    "label": "The Gee — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/the-gee"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-intramuros-individuel",
+  "category": "services",
+  "keywords": [
+   "intramuros seul",
+   "intramurals alone",
+   "ligue individuelle",
+   "individual league",
+   "pas d'equipe",
+   "no team",
+   "jouer avec des amis",
+   "play with friends",
+   "nouveau a l'universite"
+  ],
+  "question": {
+   "fr": "Je n'ai pas d'équipe : est-ce que je peux quand même jouer aux intramuros?",
+   "en": "I don't have a team: can I still play intramurals?"
+  },
+  "answer": {
+   "fr": "Oui, les ligues individuelles sont faites pour ça : tu t'inscris seul et le personnel forme les équipes après la période d'inscription. Tu peux demander à jouer avec des amis lors de ton inscription, à condition qu'ils fassent la même demande. Tu reçois les détails de ton équipe par courriel la semaine avant le début.",
+   "en": "Yes, individual leagues are made for that: you sign up alone and staff build the teams after registration closes. You can ask to play with friends when you register, as long as they make the same request. You'll get your team details by email the week before the league starts."
+  },
+  "sources": [
+   {
+    "label": "Register to play intramurals — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/intramural-leagues/register"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-intramuros-capitaines",
+  "category": "services",
+  "keywords": [
+   "capitaine intramuros",
+   "intramural captain",
+   "reunion des capitaines",
+   "captains meeting",
+   "changement d'alignement",
+   "roster change",
+   "nombre de joueurs",
+   "roster size",
+   "equipe intramuros"
+  ],
+  "question": {
+   "fr": "Quelles sont les responsabilités d'un capitaine aux intramuros?",
+   "en": "What are an intramural captain's responsibilities?"
+  },
+  "answer": {
+   "fr": "Le capitaine inscrit l'équipe et paie le coût complet, puis doit assister à la réunion des capitaines, ou envoyer quelqu'un, sinon il y a des frais de 20 dollars. Une fois les alignements gelés, chaque changement coûte 20 dollars. Une équipe en gymnase ou sur terrain compte de 8 à 14 joueurs, et une équipe de hockey de 10 à 16.",
+   "en": "The captain registers the team and pays the full cost, then must attend the captains' meeting, or send someone, or there's a 20 dollar fee. Once rosters are locked, each change costs 20 dollars. A gym or field team has 8 to 14 players, and a hockey team 10 to 16."
+  },
+  "sources": [
+   {
+    "label": "Register to play intramurals — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/intramural-leagues/register"
+   },
+   {
+    "label": "Captains — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/intramural-leagues/captains"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-intramuros-forfait-esprit",
+  "category": "services",
+  "keywords": [
+   "forfait intramuros",
+   "intramural forfeit",
+   "frais de forfait",
+   "forfeit fee",
+   "esprit sportif",
+   "sportsmanship",
+   "series eliminatoires",
+   "playoffs",
+   "carte etudiante intramuros"
+  ],
+  "question": {
+   "fr": "Que se passe-t-il si mon équipe d'intramuros déclare forfait?",
+   "en": "What happens if my intramural team forfeits?"
+  },
+  "answer": {
+   "fr": "Préviens le superviseur de ligue au moins 24 heures avant le match, sinon l'équipe paie 50 dollars au hockey ou 20 dollars dans les autres sports. Pour aller en séries, ton équipe doit garder une note moyenne d'esprit sportif d'au moins 3, et chaque joueur doit avoir joué deux matchs. N'oublie pas ta carte étudiante, sinon tu ne pourras pas jouer.",
+   "en": "Let the league supervisor know at least 24 hours before the game, or the team pays 50 dollars for hockey or 20 dollars for other sports. To make the playoffs, your team must keep an average sportsmanship rating of at least 3, and each player must have played two games. Don't forget your student card, or you won't be able to play."
+  },
+  "sources": [
+   {
+    "label": "Intramural policies and procedures — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/intramural-leagues/policies-procedures"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-intramuros-tournois",
+  "category": "evenements",
+  "keywords": [
+   "tournoi intramuros",
+   "intramural tournament",
+   "match des etoiles",
+   "all-star game",
+   "ballon chasseur",
+   "dodgeball tournament",
+   "tournoi hockey",
+   "evenement intramuros"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a des tournois ou des matchs des étoiles aux intramuros?",
+   "en": "Are there intramural tournaments or all-star games?"
+  },
+  "answer": {
+   "fr": "Oui, en plus des ligues, il y a des tournois d'une journée, comme ceux de volleyball, de ballon chasseur et de hockey cet automne. À l'hiver 2027, les matchs des étoiles ont lieu le 7 mars pour le basketball, le ballon chasseur et le volleyball, le 14 mars pour le flag-football, l'ultimate et le soccer, et le 21 mars pour le hockey. Seuls les étudiants peuvent être sélectionnés.",
+   "en": "Yes, besides the leagues there are one-day tournaments, like the volleyball, dodgeball and hockey ones this fall. In Winter 2027, all-star games are on March 7 for basketball, dodgeball and volleyball, March 14 for flag football, ultimate and soccer, and March 21 for hockey. Only students can be selected."
+  },
+  "sources": [
+   {
+    "label": "Tournaments and special events — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/intramural-leagues/tournaments-special-events"
+   }
+  ],
+  "related": [
+   "l-billets-prix",
+   "l-billets-ou-acheter",
+   "l-abonnement-saison"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-intramuros-niveaux",
+  "category": "services",
+  "keywords": [
+   "niveau intramuros",
+   "intramural level",
+   "competitif ou recreatif",
+   "competitive or recreational",
+   "ligue mixte",
+   "mixed league",
+   "ligue ouverte",
+   "open league",
+   "femmes non binaires",
+   "wtnb"
+  ],
+  "question": {
+   "fr": "Quelle ligue d'intramuros choisir selon mon niveau?",
+   "en": "Which intramural league should I pick for my level?"
+  },
+  "answer": {
+   "fr": "Les ligues compétitives visent les joueurs avec plusieurs années d'expérience, et les ligues récréatives ceux qui veulent jouer pour le plaisir ou apprendre. Les ligues mixtes exigent au moins deux hommes et deux femmes sur le terrain, les ligues ouvertes n'ont pas de ratio, et les ligues WTNB sont réservées aux femmes et aux personnes non binaires.",
+   "en": "Competitive leagues are for players with several years of experience, and recreational leagues for those who want to play for fun or learn. Mixed leagues require at least two men and two women on the field, open leagues have no ratio, and WTNB leagues are reserved for women and non-binary people."
+  },
+  "sources": [
+   {
+    "label": "Intramural sports — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/intramural-leagues/sports"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-intramuros-remboursement",
+  "category": "services",
+  "keywords": [
+   "remboursement intramuros",
+   "intramural refund",
+   "annuler inscription",
+   "cancel registration",
+   "frais de retrait",
+   "withdrawal fee",
+   "blessure intramuros",
+   "injury refund"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux me faire rembourser mon inscription aux intramuros?",
+   "en": "Can I get a refund for intramural registration?"
+  },
+  "answer": {
+   "fr": "Pour une ligue individuelle, oui, avant la date limite de l'automne, le 27 septembre en 2026; après, seulement pour une maladie ou une blessure avec preuve. Des frais de retrait de 25 % s'appliquent. Pour une équipe, il n'y a pas de remboursement sauf si le personnel trouve une autre équipe pour la remplacer.",
+   "en": "For an individual league, yes, before the fall deadline, September 27 in 2026; after that, only for illness or injury with proof. A 25% withdrawal fee applies. For a team, there's no refund unless staff find another team to take its place."
+  },
+  "sources": [
+   {
+    "label": "Register to play intramurals — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/recreation/intramural-leagues/register"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-seuo-elections",
+  "category": "evenements",
+  "keywords": [
+   "elections seuo",
+   "uosu elections",
+   "elections etudiantes",
+   "student elections",
+   "voter",
+   "vote",
+   "se presenter",
+   "run for office",
+   "election partielle",
+   "by-election"
+  ],
+  "question": {
+   "fr": "Comment fonctionnent les élections du SÉUO?",
+   "en": "How do UOSU elections work?"
+  },
+  "answer": {
+   "fr": "Chaque année, les étudiants de premier cycle élisent le conseil d'administration du SÉUO, dont son comité exécutif, ainsi que leurs représentants au Bureau des gouverneurs et au Sénat. Il y a deux scrutins : les élections générales à l'hiver et les élections partielles à l'automne. Les résultats de l'élection partielle de l'automne 2026 ont été publiés le 17 octobre.",
+   "en": "Every year, undergraduate students elect UOSU's Board of Directors, including its Executive Committee, as well as their representatives on the Board of Governors and the Senate. There are two votes: General Elections in the winter and By-Elections in the fall. Results of the Fall 2026 by-election were published on October 17."
+  },
+  "sources": [
+   {
+    "label": "Elections — UOSU",
+    "url": "https://www.seuo-uosu.com/governance/elections"
+   }
+  ],
+  "related": [
+   "l-billets-prix",
+   "l-billets-ou-acheter",
+   "l-abonnement-saison"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-seuo-assemblee-generale",
+  "category": "evenements",
+  "keywords": [
+   "assemblee generale",
+   "general assembly",
+   "seuo ag",
+   "uosu ga",
+   "motion",
+   "vote etudiant",
+   "procuration",
+   "proxy",
+   "22 novembre",
+   "november 22"
+  ],
+  "question": {
+   "fr": "C'est quoi l'assemblée générale du SÉUO?",
+   "en": "What is the UOSU General Assembly?"
+  },
+  "answer": {
+   "fr": "C'est l'instance décisionnelle la plus haute du SÉUO : tous les étudiants de premier cycle peuvent y proposer des motions et voter. Il y en a deux par année. Celle de l'automne 2026 a lieu le dimanche 22 novembre à 10 h, à l'auditorium des anciens du Centre universitaire, et il faut s'inscrire ou nommer un mandataire avant le 20 novembre.",
+   "en": "It's UOSU's highest decision-making body: all undergraduate students can submit motions and vote. There are two each year. The Autumn 2026 one is on Sunday, November 22 at 10 a.m. in the University Centre's Alumni Auditorium, and you must register or name a proxy by November 20."
+  },
+  "sources": [
+   {
+    "label": "General Assembly — UOSU",
+    "url": "https://www.seuo-uosu.com/governance/general-assembly"
+   }
+  ],
+  "related": [
+   "l-billets-prix",
+   "l-billets-ou-acheter",
+   "l-abonnement-saison"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-seuo-executif",
+  "category": "associations",
+  "keywords": [
+   "executif seuo",
+   "uosu executive",
+   "president seuo",
+   "uosu president",
+   "conseil d'administration seuo",
+   "board of directors",
+   "commissaires",
+   "commissioners",
+   "qui dirige le seuo"
+  ],
+  "question": {
+   "fr": "Qui fait partie de l'exécutif du SÉUO?",
+   "en": "Who is on the UOSU executive?"
+  },
+  "answer": {
+   "fr": "Le comité exécutif compte cinq postes : la présidence et les commissaires aux affaires francophones, aux opérations, à la revendication et à la vie étudiante. En 2026-2027, la présidente est Elnaz Enayatpour. Le conseil d'administration, formé d'étudiants élus par faculté, vote les motions et surveille les finances du syndicat.",
+   "en": "The Executive Committee has five positions: the President and the Commissioners for Francophone Affairs, Operations, Advocacy and Student Life. In 2026-2027, the President is Elnaz Enayatpour. The Board of Directors, made up of students elected by faculty, votes on motions and oversees the union's finances."
+  },
+  "sources": [
+   {
+    "label": "Board of Directors — UOSU",
+    "url": "https://www.seuo-uosu.com/governance/board-of-directors"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-seuo-prelevements",
+  "category": "services",
+  "keywords": [
+   "prelevements",
+   "levies",
+   "frais seuo",
+   "uosu fees",
+   "retrait prelevement",
+   "opt out",
+   "frais etudiants",
+   "student fees",
+   "a quoi servent mes frais"
+  ],
+  "question": {
+   "fr": "À quoi servent les frais que je paie au SÉUO, et puis-je m'en retirer?",
+   "en": "What are my UOSU fees for, and can I opt out?"
+  },
+  "answer": {
+   "fr": "Tes frais financent notamment la vie étudiante, le soutien scolaire, l'aide financière, l'impression gratuite, les journaux La Rotonde et The Fulcrum, et le régime de santé et dentaire. Avec le formulaire en ligne du SÉUO, tu peux te retirer de trois prélèvements avant le 9 octobre : celui des clubs, celui du pub et celui de l'équipe bénévole d'intervention de crise. Le régime de santé et dentaire a son propre processus de retrait.",
+   "en": "Your fees fund student life, academic support, financial aid, free printing, the La Rotonde and The Fulcrum newspapers, and the health and dental plan, among other things. With UOSU's online form, you can opt out of three levies by October 9: the club levy, the pub levy and the volunteer crisis response team levy. The health and dental plan has its own opt-out process."
+  },
+  "sources": [
+   {
+    "label": "Levies — UOSU",
+    "url": "https://www.seuo-uosu.com/governance/levies"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-seuo-bourses",
+  "category": "services",
+  "keywords": [
+   "bourses seuo",
+   "uosu scholarships",
+   "bourse etudiante",
+   "student scholarship",
+   "1500",
+   "bourse engagement",
+   "bourse francophone",
+   "bourse sport"
+  ],
+  "question": {
+   "fr": "Est-ce que le SÉUO offre des bourses?",
+   "en": "Does UOSU offer scholarships?"
+  },
+  "answer": {
+   "fr": "Oui, cet automne, le SÉUO remet plus de 111 000 dollars en bourses de 1 500 dollars, par exemple pour l'engagement communautaire, les affaires francophones, l'apprentissage du français, le sport, la durabilité ou les étudiants internationaux. En 2026, les demandes étaient ouvertes du 10 octobre au 10 novembre; tu peux postuler à plusieurs, mais n'en recevoir qu'une.",
+   "en": "Yes, this fall UOSU is awarding more than 111,000 dollars in 1,500 dollar scholarships, for example for community engagement, francophone affairs, learning French, sports, sustainability or international students. In 2026, applications were open from October 10 to November 10; you can apply for several but receive only one."
+  },
+  "sources": [
+   {
+    "label": "Scholarships — UOSU",
+    "url": "https://www.seuo-uosu.com/programs/scholarships"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-seuo-fonds-urgence",
+  "category": "services",
+  "keywords": [
+   "fonds d'aide d'urgence",
+   "emergency hardship fund",
+   "urgence financiere",
+   "financial emergency",
+   "aide financiere seuo",
+   "uosu financial help",
+   "loyer",
+   "rent",
+   "facture medicale"
+  ],
+  "question": {
+   "fr": "Le SÉUO peut-il m'aider en cas d'urgence financière?",
+   "en": "Can UOSU help me in a financial emergency?"
+  },
+  "answer": {
+   "fr": "Oui, le Fonds d'aide d'urgence du SÉUO offre un soutien rapide et confidentiel aux étudiants de premier cycle qui font face à une dépense imprévue, comme des frais médicaux, un problème de logement ou l'insécurité alimentaire. Cette année, 150 000 dollars seront distribués. Écris au soutien étudiant du SÉUO pour poser tes questions.",
+   "en": "Yes, UOSU's Emergency Hardship Fund gives fast, confidential support to undergraduate students facing an unexpected expense, like medical bills, housing issues or food insecurity. This year, 150,000 dollars will be distributed. Email UOSU student support with your questions."
+  },
+  "sources": [
+   {
+    "label": "Emergency Hardship Fund — UOSU",
+    "url": "https://www.seuo-uosu.com/emergency-hardship-fund"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-centre-fierte",
+  "category": "services",
+  "keywords": [
+   "centre de la fierte",
+   "pride centre",
+   "lgbtq",
+   "2slgbtq+",
+   "queer",
+   "trans",
+   "non binaire",
+   "non-binary",
+   "bibliotheque queer",
+   "nom choisi carte etudiante"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un centre pour les étudiants 2SLGBTQ+?",
+   "en": "Is there a centre for 2SLGBTQ+ students?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre de la fierté du SÉUO est au local 215C du Centre universitaire, ouvert du lundi au vendredi. Tu y trouveras un salon ouvert à tous, une salle calme, une bibliothèque de plus de 600 livres et films 2SLGBTQ+, des produits gratuits et des casiers sécuritaires. Il peut même couvrir le coût pour mettre ton nom choisi sur ta carte étudiante.",
+   "en": "Yes, UOSU's Pride Centre is in room 215C of the University Centre, open Monday to Friday. You'll find a drop-in lounge open to everyone, a quiet room, a library of over 600 2SLGBTQ+ books and films, free products and safe storage lockers. It can even cover the cost of putting your chosen name on your student card."
+  },
+  "sources": [
+   {
+    "label": "Pride Centre — UOSU",
+    "url": "https://www.seuo-uosu.com/services/pride"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-centre-eera",
+  "category": "services",
+  "keywords": [
+   "centre eera",
+   "rise centre",
+   "etudiants racises",
+   "racialized students",
+   "etudiants autochtones",
+   "indigenous students",
+   "antiracisme",
+   "anti-racism",
+   "diversite"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre EÉRA du SÉUO?",
+   "en": "What is the UOSU RISE Centre?"
+  },
+  "answer": {
+   "fr": "Le Centre pour l'expérience des étudiants racisés et autochtones est un espace géré par des étudiants, au local 211E du Centre universitaire. On y propose du dialogue entre pairs, des événements, des campagnes et des ressources, dans un espace sans jugement où tu peux passer, rencontrer du monde et apprendre.",
+   "en": "The Racialized and Indigenous Student Experience Centre is a student-run space in room 211E of the University Centre. It offers peer dialogue, events, campaigns and resources, in a judgment-free space where you can drop in, meet people and learn."
+  },
+  "sources": [
+   {
+    "label": "RISE Centre — UOSU",
+    "url": "https://www.seuo-uosu.com/services/rise"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-maison-internationale",
+  "category": "services",
+  "keywords": [
+   "maison internationale",
+   "international house",
+   "ihouse",
+   "etudiants internationaux",
+   "international students",
+   "guide etudiant international",
+   "international student handbook",
+   "integration"
+  ],
+  "question": {
+   "fr": "Est-ce que le SÉUO a un service pour les étudiants internationaux?",
+   "en": "Does UOSU have a service for international students?"
+  },
+  "answer": {
+   "fr": "Oui, la Maison internationale, au local 215E du Centre universitaire, aide les étudiants internationaux à s'intégrer, avec des événements culturels, des foires et du réseautage. Son salon est ouvert à tous pour étudier et rencontrer du monde, et elle publie un guide pour les étudiants internationaux. Tu peux aussi y faire du bénévolat reconnu par le Centre Michaëlle-Jean.",
+   "en": "Yes, International House, in room 215E of the University Centre, helps international students settle in with cultural events, fairs and networking. Its lounge is open to everyone to study and meet people, and it publishes an International Student Handbook. You can also volunteer there, with hours recognized by the Michaëlle Jean Centre."
+  },
+  "sources": [
+   {
+    "label": "International House — UOSU",
+    "url": "https://www.seuo-uosu.com/services/ihouse"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-centre-ressources-feministes",
+  "category": "services",
+  "keywords": [
+   "centre de ressources feministes",
+   "feminist resource centre",
+   "produits menstruels gratuits",
+   "free menstrual products",
+   "test de grossesse",
+   "pregnancy test",
+   "condoms gratuits",
+   "free condoms",
+   "egalite des genres"
+  ],
+  "question": {
+   "fr": "Où trouver des produits menstruels ou des tests de grossesse gratuits?",
+   "en": "Where can I get free menstrual products or pregnancy tests?"
+  },
+  "answer": {
+   "fr": "Le Centre de ressources féministes du SÉUO, au local 220 du Centre universitaire, donne gratuitement des tests de grossesse, des condoms, des produits menstruels, des couches, du lait maternisé et des vitamines prénatales pendant ses heures d'ouverture. Il organise aussi des clubs de lecture, des ateliers d'autodéfense et peut t'orienter vers des ressources.",
+   "en": "UOSU's Feminist Resource Centre, in room 220 of the University Centre, gives out free pregnancy tests, condoms, menstrual products, diapers, baby formula and prenatal vitamins during its office hours. It also runs book clubs and self-defence workshops and can refer you to resources."
+  },
+  "sources": [
+   {
+    "label": "Feminist Resource Centre — UOSU",
+    "url": "https://www.seuo-uosu.com/services/frc"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-centre-etudiants-handicap",
+  "category": "services",
+  "keywords": [
+   "centre des etudiants ayant un handicap",
+   "centre for students with disabilities",
+   "ceh",
+   "csd",
+   "handicap",
+   "disability",
+   "accessibilite evenement",
+   "imprimante braille",
+   "braille printer"
+  ],
+  "question": {
+   "fr": "Est-ce que le SÉUO a un centre pour les étudiants ayant un handicap?",
+   "en": "Does UOSU have a centre for students with disabilities?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre des étudiant·e·s ayant un handicap, au local 030 du Centre universitaire, sert les étudiants de tous les cycles, sans qu'ils aient à déclarer un handicap. Il fait de la revendication, notamment pour les accommodements, offre une liste de vérification pour des événements accessibles et a accès à une imprimante braille en français et en anglais.",
+   "en": "Yes, the Centre for Students with Disabilities, in room 030 of the University Centre, serves students at all levels, with no need to disclose a disability. It does advocacy, including for accommodations, offers an accessible-event checklist and has access to a braille printer in French and English."
+  },
+  "sources": [
+   {
+    "label": "Centre for Students with Disabilities — UOSU",
+    "url": "https://www.seuo-uosu.com/services/csd"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-centre-developpement-durable",
+  "category": "services",
+  "keywords": [
+   "centre du developpement durable",
+   "sustainable development centre",
+   "deja-vu",
+   "subvention durabilite",
+   "sustainability grant",
+   "cuisine communautaire",
+   "community kitchen",
+   "environnement",
+   "ecolo"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre du développement durable du SÉUO?",
+   "en": "What is UOSU's Sustainable Development Centre?"
+  },
+  "answer": {
+   "fr": "Ce centre, au local 230C du Centre universitaire, aussi appelé Déjà-Vu, fait de l'éducation et de la revendication en environnement. Il prête des articles réutilisables pour les événements, conseille les clubs, offre une subvention pour des projets étudiants durables et gère la cuisine communautaire Déjà-Vu.",
+   "en": "This centre, in room 230C of the University Centre, also called Déjà-Vu, does environmental education and advocacy. It lends reusable items for events, advises clubs, offers a grant for sustainable student projects and runs the Déjà-Vu Community Kitchen."
+  },
+  "sources": [
+   {
+    "label": "Sustainable Development Centre — UOSU",
+    "url": "https://www.seuo-uosu.com/services/sdc"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-benevolat-seuo",
+  "category": "associations",
+  "keywords": [
+   "benevolat seuo",
+   "uosu volunteer",
+   "faire du benevolat",
+   "volunteer",
+   "marches securitaires benevole",
+   "safewalk volunteer",
+   "sur notre faim",
+   "fed up",
+   "s'impliquer"
+  ],
+  "question": {
+   "fr": "Comment faire du bénévolat avec le SÉUO?",
+   "en": "How can I volunteer with UOSU?"
+  },
+  "answer": {
+   "fr": "Le SÉUO recrute des bénévoles notamment pour Marches sécuritaires et pour Sur notre faim, son programme contre l'insécurité alimentaire. Plusieurs centres, comme la Maison internationale et le Centre de la fierté, ont aussi leurs propres programmes de bénévolat. Consulte la page Bénévolat du site du SÉUO pour t'inscrire.",
+   "en": "UOSU recruits volunteers for Safewalk and for Fed Up, its food insecurity program, among others. Several centres, like International House and the Pride Centre, also have their own volunteer programs. Check the Volunteer page on the UOSU website to sign up."
+  },
+  "sources": [
+   {
+    "label": "Volunteer — UOSU",
+    "url": "https://www.seuo-uosu.com/volunteer"
+   },
+   {
+    "label": "International House — UOSU",
+    "url": "https://www.seuo-uosu.com/services/ihouse"
+   },
+   {
+    "label": "Pride Centre — UOSU",
+    "url": "https://www.seuo-uosu.com/services/pride"
+   },
+   {
+    "label": "Fed Up — UOSU",
+    "url": "https://www.seuo-uosu.com/programs/fed-up"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-casiers-clubs",
+  "category": "services",
+  "keywords": [
+   "casier club",
+   "club locker",
+   "rangement club",
+   "club storage",
+   "aeg casiers",
+   "ess lockers",
+   "casier etudiant club",
+   "locker for club",
+   "casier association"
+  ],
+  "question": {
+   "fr": "Est-ce que mon club peut avoir un casier?",
+   "en": "Can my club get a locker?"
+  },
+  "answer": {
+   "fr": "Oui, le SÉUO et l'Association des étudiant·e·s en génie offrent plus de 300 casiers aux clubs étudiants. C'est 20 dollars pour un trimestre ou 30 dollars pour l'année, payés sur le site de l'association, et ton club doit fournir son cadenas. Les casiers non renouvelés au début du trimestre sont libérés.",
+   "en": "Yes, UOSU and the Engineering Students' Society offer more than 300 lockers to student clubs. It's 20 dollars for one term or 30 dollars for the year, paid on the society's website, and your club brings its own lock. Lockers not renewed at the start of the term are released."
+  },
+  "sources": [
+   {
+    "label": "Club Lockers — UOSU",
+    "url": "https://www.seuo-uosu.com/student-life/club-lockers"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-financement-clubs",
+  "category": "services",
+  "keywords": [
+   "financement club",
+   "club funding",
+   "argent pour mon club",
+   "club money",
+   "renouvellement club",
+   "club renewal",
+   "portail seuo",
+   "uosu portal",
+   "service d'administration des clubs"
+  ],
+  "question": {
+   "fr": "Comment mon club peut-il obtenir du financement du SÉUO?",
+   "en": "How can my club get UOSU funding?"
+  },
+  "answer": {
+   "fr": "Le Service d'administration des clubs gère le financement et les renouvellements par le portail du SÉUO. Les demandes de financement se font en juillet pour l'automne, en octobre pour l'hiver et en février pour l'été, et le renouvellement des clubs a lieu à des périodes fixes; ces dates peuvent changer un peu. Le service est au local 215D du Centre universitaire, au 613-783-1380, poste 600.",
+   "en": "The Club Administration Service handles funding and renewals through the UOSU Portal. Funding applications are in July for fall, October for winter and February for summer, and club renewals happen in set periods; these dates can shift slightly. The service is in room 215D of the University Centre, at 613-783-1380 ext. 600."
+  },
+  "sources": [
+   {
+    "label": "Club Administration Service — UOSU",
+    "url": "https://www.seuo-uosu.com/services/cas"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-aeg-genie",
+  "category": "associations",
+  "keywords": [
+   "association etudiants genie",
+   "engineering students society",
+   "aeg",
+   "ess",
+   "essaeg",
+   "genie etudiants",
+   "engineering association",
+   "association facultaire genie"
+  ],
+  "question": {
+   "fr": "Quelle est l'association étudiante en génie?",
+   "en": "What is the engineering student association?"
+  },
+  "answer": {
+   "fr": "C'est l'Association des étudiant·e·s en génie, l'AÉG ou ESS, qui représente tous les étudiants de la Faculté de génie, sauf ceux du Département d'informatique. Ces derniers ont leur propre association, l'Association des étudiant·e·s en informatique. Les deux sont des gouvernements étudiants reconnus par le SÉUO.",
+   "en": "It's the Engineering Students' Society, ESS or AÉG, which represents all Faculty of Engineering students except those in the Department of Computer Science. Those students have their own association, the Computer Science Student Association. Both are recognized student governments of UOSU."
+  },
+  "sources": [
+   {
+    "label": "Recognized Student Governments (RSGs) — UOSU",
+    "url": "https://www.seuo-uosu.com/student-life/rsg"
+   },
+   {
+    "label": "Gouvernements étudiants reconnus (GÉR) — SÉUO",
+    "url": "https://www.seuo-uosu.com/fr/vie-etudiante/ger"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-aes-sciences",
+  "category": "associations",
+  "keywords": [
+   "association etudiants sciences",
+   "science students association",
+   "aes",
+   "ssa",
+   "faculte des sciences association",
+   "biologie association",
+   "chimie association",
+   "physique association"
+  ],
+  "question": {
+   "fr": "Quelle est l'association étudiante en sciences?",
+   "en": "What is the science student association?"
+  },
+  "answer": {
+   "fr": "C'est l'Association des étudiant·e·s en sciences, l'AÉS ou SSA. Elle représente les étudiants de la Faculté des sciences en biologie, biochimie, sciences biomédicales, sciences biopharmaceutiques, biotechnologie, chimie, sciences environnementales, géologie, mathématiques et statistique, et physique.",
+   "en": "It's the Science Students' Association, SSA or AÉS. It represents Faculty of Science students in biology, biochemistry, biomedical sciences, biopharmaceutical sciences, biotechnology, chemistry, environmental sciences, geology, mathematics and statistics, and physics."
+  },
+  "sources": [
+   {
+    "label": "Recognized Student Governments (RSGs) — UOSU",
+    "url": "https://www.seuo-uosu.com/student-life/rsg"
+   },
+   {
+    "label": "Gouvernements étudiants reconnus (GÉR) — SÉUO",
+    "url": "https://www.seuo-uosu.com/fr/vie-etudiante/ger"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-association-arts",
+  "category": "associations",
+  "keywords": [
+   "association etudiante arts",
+   "arts students association",
+   "faculte des arts association",
+   "artsuottawa",
+   "communication association",
+   "csa",
+   "aeec",
+   "arts association",
+   "faculty of arts"
+  ],
+  "question": {
+   "fr": "Quelle est l'association étudiante de la Faculté des arts?",
+   "en": "What is the Faculty of Arts student association?"
+  },
+  "answer": {
+   "fr": "C'est l'Association étudiante de la Faculté des arts, pour presque tous les programmes de la faculté. Les étudiants en communication, en journalisme numérique, en relations publiques, en cinémas du monde et en sciences humaines numériques ont plutôt l'Association des étudiant·e·s en communication.",
+   "en": "It's the Students' Association of the Faculty of Arts, for almost all programs in the faculty. Students in communication, digital journalism, public relations, world cinemas and digital humanities have the Communication Students' Association instead."
+  },
+  "sources": [
+   {
+    "label": "Recognized Student Governments (RSGs) — UOSU",
+    "url": "https://www.seuo-uosu.com/student-life/rsg"
+   },
+   {
+    "label": "Gouvernements étudiants reconnus (GÉR) — SÉUO",
+    "url": "https://www.seuo-uosu.com/fr/vie-etudiante/ger"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-association-telfer",
+  "category": "associations",
+  "keywords": [
+   "association etudiante telfer",
+   "telfer students association",
+   "aetsa",
+   "ecole de gestion telfer",
+   "business association",
+   "gestion etudiants",
+   "commerce association",
+   "telfer association",
+   "gestion association"
+  ],
+  "question": {
+   "fr": "Quelle est l'association étudiante de Telfer?",
+   "en": "What is the Telfer student association?"
+  },
+  "answer": {
+   "fr": "C'est l'Association étudiante Telfer, l'AÉTSA, qui représente les étudiants de tous les programmes de l'École de gestion Telfer. Tu peux la suivre sur Instagram pour ne rien manquer de ses activités.",
+   "en": "It's the Telfer Students' Association, AÉTSA, which represents students in all Telfer School of Management programs. You can follow it on Instagram so you don't miss its activities."
+  },
+  "sources": [
+   {
+    "label": "Recognized Student Governments (RSGs) — UOSU",
+    "url": "https://www.seuo-uosu.com/student-life/rsg"
+   },
+   {
+    "label": "Gouvernements étudiants reconnus (GÉR) — SÉUO",
+    "url": "https://www.seuo-uosu.com/fr/vie-etudiante/ger"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-associations-sciences-sociales",
+  "category": "associations",
+  "keywords": [
+   "association sciences sociales",
+   "social sciences association",
+   "association psychologie",
+   "psychology association",
+   "criminologie",
+   "criminology",
+   "science politique association",
+   "economie association",
+   "developpement international"
+  ],
+  "question": {
+   "fr": "Quelle association étudiante représente mon programme en sciences sociales?",
+   "en": "Which student association represents my social sciences program?"
+  },
+  "answer": {
+   "fr": "En sciences sociales, il y a une association par programme ou département, par exemple en psychologie, en criminologie, en science économique, en études internationales, politiques et publiques, en développement international, en service social, en études des conflits et droits humains, en études féministes et de genre, et en sociologie et anthropologie. La liste complète est sur le site du SÉUO.",
+   "en": "In social sciences, there's one association per program or department, for example in psychology, criminology, economics, international, political and policy studies, international development, social work, conflict studies and human rights, feminist and gender studies, and sociology and anthropology. The full list is on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Recognized Student Governments (RSGs) — UOSU",
+    "url": "https://www.seuo-uosu.com/student-life/rsg"
+   },
+   {
+    "label": "Gouvernements étudiants reconnus (GÉR) — SÉUO",
+    "url": "https://www.seuo-uosu.com/fr/vie-etudiante/ger"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-associations-sante",
+  "category": "associations",
+  "keywords": [
+   "association sciences de la sante",
+   "health sciences association",
+   "association sciences infirmieres",
+   "nursing association",
+   "kinesiologie",
+   "human kinetics association",
+   "nutrition association",
+   "hksa"
+  ],
+  "question": {
+   "fr": "Quelles sont les associations étudiantes en sciences de la santé?",
+   "en": "What are the health sciences student associations?"
+  },
+  "answer": {
+   "fr": "La Faculté des sciences de la santé a quatre associations reconnues : celle des sciences de la santé, celle des sciences infirmières, qui inclut les collèges affiliés, celle des sciences de l'activité physique et celle de la nutrition. Chacune représente les étudiants de son programme.",
+   "en": "The Faculty of Health Sciences has four recognized associations: health sciences, nursing, which includes affiliated colleges, human kinetics, and nutrition. Each represents students in its program."
+  },
+  "sources": [
+   {
+    "label": "Recognized Student Governments (RSGs) — UOSU",
+    "url": "https://www.seuo-uosu.com/student-life/rsg"
+   },
+   {
+    "label": "Gouvernements étudiants reconnus (GÉR) — SÉUO",
+    "url": "https://www.seuo-uosu.com/fr/vie-etudiante/ger"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-associations-droit-medecine-education",
+  "category": "associations",
+  "keywords": [
+   "association droit",
+   "law student society",
+   "droit civil association",
+   "common law society",
+   "association medecine",
+   "aesculapian society",
+   "association pharmacie",
+   "association education",
+   "formation a l'enseignement"
+  ],
+  "question": {
+   "fr": "Quelles sont les associations étudiantes en droit, en médecine et en éducation?",
+   "en": "What are the student associations in law, medicine and education?"
+  },
+  "answer": {
+   "fr": "En droit, il y a l'association de droit civil, la Common Law Student Society, l'association du Programme de droit canadien et une gouvernance des étudiants autochtones en droit. En médecine, la Société d'Esculape représente le programme M.D. et une association représente le doctorat en pharmacie. En éducation, c'est l'Association des étudiantes et étudiants à la formation à l'enseignement.",
+   "en": "In law, there's the civil law association, the Common Law Student Society, the Programme de droit canadien association and an Indigenous Law Student Governance. In medicine, the Aesculapian Society represents the MD program and another association represents the PharmD program. In education, it's the Association des étudiantes et étudiants à la formation à l'enseignement."
+  },
+  "sources": [
+   {
+    "label": "Recognized Student Governments (RSGs) — UOSU",
+    "url": "https://www.seuo-uosu.com/student-life/rsg"
+   },
+   {
+    "label": "Gouvernements étudiants reconnus (GÉR) — SÉUO",
+    "url": "https://www.seuo-uosu.com/fr/vie-etudiante/ger"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-association-etudiants-autochtones",
+  "category": "associations",
+  "keywords": [
+   "association etudiants autochtones",
+   "indigenous students association",
+   "isa",
+   "etudiants autochtones",
+   "indigenous students",
+   "premieres nations",
+   "first nations",
+   "metis",
+   "inuit"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une association pour les étudiants autochtones?",
+   "en": "Is there an association for Indigenous students?"
+  },
+  "answer": {
+   "fr": "Oui, l'Association des étudiant·e·s autochtones est un gouvernement étudiant reconnu pour les étudiants autochtones de tous les programmes de premier cycle. Pour en devenir membre, va sur sa page Instagram. Une partie des frais du SÉUO, le prélèvement Vérité, réconciliation et décolonisation, lui est versée.",
+   "en": "Yes, the Indigenous Students' Association is a recognized student government for Indigenous students in any undergraduate program. To join, visit its Instagram page. Part of the UOSU fees, the Truth, Reconciliation and Decolonization levy, goes to it."
+  },
+  "sources": [
+   {
+    "label": "Recognized Student Governments (RSGs) — UOSU",
+    "url": "https://www.seuo-uosu.com/student-life/rsg"
+   },
+   {
+    "label": "Gouvernements étudiants reconnus (GÉR) — SÉUO",
+    "url": "https://www.seuo-uosu.com/fr/vie-etudiante/ger"
+   },
+   {
+    "label": "Levies — UOSU",
+    "url": "https://www.seuo-uosu.com/governance/levies"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-gsaed-financement-projets",
+  "category": "services",
+  "keywords": [
+   "financement conference",
+   "conference funding",
+   "gsaed fonds",
+   "academic project fund",
+   "cycles superieurs conference",
+   "graduate conference",
+   "occf",
+   "organiser une conference"
+  ],
+  "question": {
+   "fr": "La GSAÉD peut-elle financer ma participation à une conférence?",
+   "en": "Can GSAÉD fund my conference trip?"
+  },
+  "answer": {
+   "fr": "Oui, le Fonds pour projets académiques de la GSAÉD offre jusqu'à 400 dollars aux étudiants des cycles supérieurs qui assistent à une conférence à au moins 250 kilomètres d'Ottawa. Si tu organises une conférence sur le campus, le Fonds de conférences sur le campus offre jusqu'à 500 dollars. Les fonds dépendent du nombre de demandes.",
+   "en": "Yes, GSAÉD's Academic Project Fund offers up to 400 dollars to graduate students attending a conference at least 250 kilometres from Ottawa. If you're organizing a conference on campus, the On-Campus Conference Fund offers up to 500 dollars. Funding depends on the number of applications."
+  },
+  "sources": [
+   {
+    "label": "Services — GSAÉD",
+    "url": "https://gsaed.ca/services/"
+   },
+   {
+    "label": "Academic Project Funding — GSAÉD",
+    "url": "https://gsaed.ca/services/academic-project-funding/"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-gsaed-aide-urgence",
+  "category": "services",
+  "keywords": [
+   "aide d'urgence gsaed",
+   "gsaed emergency grant",
+   "bon alimentaire",
+   "food voucher",
+   "cycles superieurs difficulte financiere",
+   "graduate financial hardship",
+   "subvention d'urgence",
+   "graduate emergency",
+   "aide cycles superieurs"
+  ],
+  "question": {
+   "fr": "Quelle aide d'urgence la GSAÉD offre-t-elle?",
+   "en": "What emergency help does GSAÉD offer?"
+  },
+  "answer": {
+   "fr": "La GSAÉD offre des subventions d'urgence allant jusqu'à 250 dollars aux étudiants des cycles supérieurs en difficulté financière à cause d'imprévus. Elle offre aussi un bon alimentaire d'urgence de 50 dollars et une liste de banques alimentaires et de repas gratuits à Ottawa et Gatineau.",
+   "en": "GSAÉD offers emergency grants of up to 250 dollars to graduate students facing financial hardship due to unforeseen circumstances. It also offers a 50 dollar emergency food voucher and a list of food banks and free meals in Ottawa and Gatineau."
+  },
+  "sources": [
+   {
+    "label": "Services — GSAÉD",
+    "url": "https://gsaed.ca/services/"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-gsaed-carte-isic",
+  "category": "services",
+  "keywords": [
+   "carte isic",
+   "isic card",
+   "carte etudiante internationale",
+   "international student identity card",
+   "rabais voyage",
+   "travel discount",
+   "gradhouse",
+   "isic",
+   "carte isic gsaed"
+  ],
+  "question": {
+   "fr": "Où obtenir une carte d'étudiant internationale ISIC?",
+   "en": "Where can I get an ISIC international student card?"
+  },
+  "answer": {
+   "fr": "Tu peux obtenir ta carte ISIC à la Gradhouse de la GSAÉD, au 601 rue Cumberland. Elle donne des rabais sur les voyages, l'hébergement, les sorties et le magasinage dans plus de 130 pays.",
+   "en": "You can get your ISIC card at the GSAÉD Gradhouse, 601 Cumberland Street. It gives discounts on travel, accommodation, entertainment and shopping in over 130 countries."
+  },
+  "sources": [
+   {
+    "label": "International Student Identity Card — GSAÉD",
+    "url": "https://gsaed.ca/services/international-student-identity-card/"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-gsaed-associations-departementales",
+  "category": "associations",
+  "keywords": [
+   "association departementale",
+   "departmental association",
+   "dgsa",
+   "association cycles superieurs",
+   "graduate association department",
+   "financement association",
+   "gsaed",
+   "departmental graduate association",
+   "association de departement"
+  ],
+  "question": {
+   "fr": "C'est quoi une association départementale aux cycles supérieurs?",
+   "en": "What is a graduate departmental association?"
+  },
+  "answer": {
+   "fr": "La GSAÉD reconnaît des associations départementales qui représentent les étudiants des cycles supérieurs de chaque département et organisent des activités. Elles reçoivent un financement chaque trimestre, par exemple 100 dollars plus 5,50 dollars par étudiant à temps plein à l'automne, à condition de s'inscrire chaque année en mai.",
+   "en": "GSAÉD recognizes departmental associations that represent graduate students in each department and organize activities. They receive funding each term, for example 100 dollars plus 5.50 dollars per full-time student in the fall, provided they register every year in May."
+  },
+  "sources": [
+   {
+    "label": "Departmental Associations — GSAÉD",
+    "url": "https://gsaed.ca/departmental-associations/"
+   },
+   {
+    "label": "Structure — GSAÉD",
+    "url": "https://gsaed.ca/about-us/structure/"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-esports",
+  "category": "associations",
+  "keywords": [
+   "esports",
+   "e-sports",
+   "jeux video",
+   "video games",
+   "gaming",
+   "valorant",
+   "call of duty",
+   "pandamonium",
+   "gaming hub"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un club d'esports à l'Université?",
+   "en": "Is there an esports club at uOttawa?"
+  },
+  "answer": {
+   "fr": "Oui, uOttawa Esports réunit plus de 2 000 étudiants au Gaming Hub, au local MRT 144. Le club offre des soirées de jeu, des équipes compétitives dans des jeux comme Valorant ou Call of Duty, et Pandamonium, une compétition de trois jours contre Carleton.",
+   "en": "Yes, uOttawa Esports brings together more than 2,000 students at the Gaming Hub, room MRT 144. The club offers gaming nights, competitive teams in games like Valorant or Call of Duty, and Pandamonium, a three-day showdown against Carleton."
+  },
+  "sources": [
+   {
+    "label": "10 student clubs to discover — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/news-all/10-student-clubs-discover"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-clubs-populaires",
+  "category": "associations",
+  "keywords": [
+   "clubs populaires",
+   "popular clubs",
+   "club de theatre",
+   "theatre club",
+   "enactus",
+   "casco",
+   "club de crochet",
+   "crochet club",
+   "humour",
+   "exemples de clubs"
+  ],
+  "question": {
+   "fr": "Donne-moi des exemples de clubs étudiants.",
+   "en": "Give me some examples of student clubs."
+  },
+  "answer": {
+   "fr": "Il y a près de 300 clubs, par exemple le club de théâtre, qui monte des pièces en français et en anglais, CASCO, le plus grand club du campus, qui amasse des fonds pour le CHEO, Enactus pour l'entrepreneuriat social, un club de crochet et uOttawa Laughs pour l'humour. La Foire des clubs, au début de chaque trimestre, est le meilleur moment pour les découvrir.",
+   "en": "There are close to 300 clubs, for example the theatre club, which stages plays in French and English, CASCO, the largest club on campus, which raises funds for CHEO, Enactus for social entrepreneurship, a crochet club and uOttawa Laughs for comedy. The Club Fair at the start of each term is the best time to discover them."
+  },
+  "sources": [
+   {
+    "label": "10 student clubs to discover — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/news-all/10-student-clubs-discover"
+   },
+   {
+    "label": "Club Administration Service — UOSU",
+    "url": "https://www.seuo-uosu.com/services/cas"
+   }
+  ],
+  "related": [
+   "l-equipes-interuniversitaires",
+   "l-clubs-interuniversitaires",
+   "l-football"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-uodance",
+  "category": "evenements",
+  "keywords": [
+   "uodance",
+   "competition de danse",
+   "dance competition",
+   "equipe de danse",
+   "dance team",
+   "prix en argent",
+   "cash prizes",
+   "auditorium des anciens"
+  ],
+  "question": {
+   "fr": "C'est quoi uoDance?",
+   "en": "What is uoDance?"
+  },
+  "answer": {
+   "fr": "C'est une compétition de danse organisée par l'équipe des événements de l'Université et le SÉUO, avec 2 000 dollars en prix. La première édition a lieu le 19 novembre 2026, de 19 h à 22 h, à l'auditorium des anciens du Centre universitaire. C'est gratuit pour les spectateurs, avec du maïs soufflé offert.",
+   "en": "It's a dance competition organized by the University's events team and UOSU, with 2,000 dollars in prizes. The first edition is on November 19, 2026, from 7 to 10 p.m. in the University Centre's Alumni Auditorium. It's free for spectators, with free popcorn."
+  },
+  "sources": [
+   {
+    "label": "uoDance — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/events-all/uodance"
+   }
+  ],
+  "related": [
+   "l-billets-prix",
+   "l-billets-ou-acheter",
+   "l-abonnement-saison"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-carrefour-francophone",
+  "category": "services",
+  "keywords": [
+   "carrefour francophone",
+   "francophone",
+   "francophile",
+   "parler francais",
+   "speak french",
+   "vie en francais",
+   "centre culturel francais",
+   "french cultural centre"
+  ],
+  "question": {
+   "fr": "C'est quoi le Carrefour francophone?",
+   "en": "What is the Carrefour francophone?"
+  },
+  "answer": {
+   "fr": "C'est un centre de ressources et un lieu culturel où les étudiants francophones et francophiles peuvent socialiser en français. Il est au local 026 du Centre universitaire, ouvert du lundi au vendredi, de 8 h à 19 h. Tu peux y passer, participer aux activités ou louer l'espace et ses machines pour ton événement.",
+   "en": "It's a resource and cultural centre where Francophone and Francophile students can socialize in French. It's in room 026 of the University Centre, open Monday to Friday, 8 a.m. to 7 p.m. You can drop in, join activities or rent the space and its machines for your event."
+  },
+  "sources": [
+   {
+    "label": "Carrefour francophone — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/carrefour-francophone"
+   }
+  ],
+  "related": [
+   "k-releve-non-officiel",
+   "k-releve-officiel-numerique",
+   "k-releve-officiel-papier"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "l-retrouvailles-panda-billets",
+  "category": "evenements",
+  "keywords": [
+   "billets match panda",
+   "panda game tickets",
+   "fete pre-panda",
+   "pre-panda party",
+   "retrouvailles",
+   "homecoming",
+   "diplomes panda",
+   "alumni panda"
+  ],
+  "question": {
+   "fr": "Comment avoir des billets pour le match Panda pendant les Retrouvailles?",
+   "en": "How do I get Panda Game tickets during Homecoming?"
+  },
+  "answer": {
+   "fr": "Les billets du match Panda sont mis en vente plus tard que ceux de la saison régulière, et les abonnés de saison au football ont accès à la prévente. Pour les diplômés, un forfait Retrouvailles comprenait un billet dans la section des anciens et l'entrée à la fête d'avant-match, vendu par Ticketmaster. Surveille le site des Gee-Gees pour la prochaine édition.",
+   "en": "Panda Game tickets go on sale later than regular-season tickets, and football season pass holders get pre-sale access. For alumni, a Homecoming package included a ticket in the alumni section and entry to the pre-game party, sold through Ticketmaster. Watch the Gee-Gees website for the next edition."
+  },
+  "sources": [
+   {
+    "label": "Ticketing Information — Gee-Gees",
+    "url": "https://teams.geegees.ca/fan-central/ticketing_info"
+   },
+   {
+    "label": "uOttawa Alumni and Friends Pre-Panda Party 2026 — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/events-all/uottawa-alumni-friends-pre-panda-party-2026"
+   },
+   {
+    "label": "Homecoming 2026 — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/homecoming-2026"
+   }
+  ],
+  "related": [
+   "l-billets-prix",
+   "l-billets-ou-acheter",
+   "l-abonnement-saison"
   ],
   "verifiedOn": "2026-11-16",
   "status": "official"

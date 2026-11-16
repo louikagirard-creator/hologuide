@@ -1,0 +1,6855 @@
+{
+ "origin": {
+  "code": "CRX",
+  "at": [
+   -75.681761,
+   45.422077
+  ]
+ },
+ "routes": {
+  "CRX": {
+   "name": {
+    "fr": "Pavillon Learning Crossroads (CRX)",
+    "en": "Learning Crossroads (CRX)"
+   },
+   "kb": [
+    "crx"
+   ],
+   "at": [
+    -75.681761,
+    45.422077
+   ],
+   "distance_m": 0,
+   "minutes": 0,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Tu y es déjà : tu es dans le pavillon Learning Crossroads (CRX), où se trouve l'espace INNOVA.",
+     "Le pavillon CRX est relié au pavillon Lamoureux (LMX) par l'intérieur."
+    ],
+    "en": [
+     "You're already here: you are in the Learning Crossroads (CRX) building, home of the INNOVA space.",
+     "CRX is connected indoors to Lamoureux Hall (LMX)."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     0
+    ],
+    [
+     0,
+     0
+    ]
+   ]
+  },
+  "LMX": {
+   "name": {
+    "fr": "Pavillon Lamoureux (LMX)",
+    "en": "Lamoureux Hall (LMX)"
+   },
+   "kb": [
+    "ucu-mrn-lmx"
+   ],
+   "indoor": true,
+   "at": [
+    -75.682292,
+    45.421878
+   ],
+   "distance_m": 194,
+   "minutes": 3,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.682639,
+     45.422271
+    ],
+    [
+     -75.682649,
+     45.422256
+    ],
+    [
+     -75.682326,
+     45.421864
+    ],
+    [
+     -75.682292,
+     45.421878
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Le pavillon Lamoureux (LMX) est relié au pavillon CRX : tu peux t'y rendre par l'intérieur, sans sortir.",
+     "Par l'extérieur : sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 50 m.",
+     "À la hauteur du pavillon Montpetit, tourne à gauche sur la privée Université sur environ 70 m.",
+     "Tourne à gauche sur la privée Jean-Jacques-Lussier sur environ 50 m.",
+     "Le pavillon Lamoureux (LMX) est à ta gauche."
+    ],
+    "en": [
+     "Lamoureux Hall (LMX) is connected to CRX: you can walk there indoors without going outside.",
+     "Outdoors: leave CRX and take Louis-Pasteur Private heading northwest for about 50 m.",
+     "At Montpetit Hall, turn left onto Université Private for about 70 m.",
+     "Turn left onto Jean-Jacques-Lussier Private for about 50 m.",
+     "Lamoureux Hall (LMX) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     0
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "MRN": {
+   "name": {
+    "fr": "Pavillon Marion (MRN)",
+    "en": "Marion Hall (MRN)"
+   },
+   "kb": [
+    "ucu-mrn-lmx"
+   ],
+   "at": [
+    -75.680943,
+    45.420623
+   ],
+   "distance_m": 238,
+   "minutes": 4,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681095,
+     45.421676
+    ],
+    [
+     -75.681046,
+     45.421659
+    ],
+    [
+     -75.681016,
+     45.421623
+    ],
+    [
+     -75.680974,
+     45.421571
+    ],
+    [
+     -75.680809,
+     45.421378
+    ],
+    [
+     -75.680668,
+     45.421214
+    ],
+    [
+     -75.680412,
+     45.420914
+    ],
+    [
+     -75.680522,
+     45.420803
+    ],
+    [
+     -75.680748,
+     45.420696
+    ],
+    [
+     -75.680943,
+     45.420623
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 175 m.",
+     "Tourne à droite sur le sentier piétonnier sur environ 50 m.",
+     "L'entrée principale du pavillon Marion (MRN) est droit devant toi."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 175 m.",
+     "Turn right onto the footpath for about 50 m.",
+     "The main entrance of Marion Hall (MRN) is straight ahead."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     10
+    ],
+    [
+     10,
+     13
+    ],
+    [
+     12,
+     13
+    ]
+   ]
+  },
+  "UCU": {
+   "name": {
+    "fr": "Centre universitaire Jock-Turcot (UCU)",
+    "en": "Jock Turcot University Centre (UCU)"
+   },
+   "kb": [
+    "ucu-mrn-lmx"
+   ],
+   "at": [
+    -75.683641,
+    45.422779
+   ],
+   "distance_m": 268,
+   "minutes": 4,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.682639,
+     45.422271
+    ],
+    [
+     -75.682649,
+     45.422256
+    ],
+    [
+     -75.682693,
+     45.422312
+    ],
+    [
+     -75.682722,
+     45.422342
+    ],
+    [
+     -75.682793,
+     45.422428
+    ],
+    [
+     -75.682854,
+     45.422506
+    ],
+    [
+     -75.683214,
+     45.422345
+    ],
+    [
+     -75.683233,
+     45.42237
+    ],
+    [
+     -75.68334,
+     45.42249
+    ],
+    [
+     -75.683382,
+     45.422537
+    ],
+    [
+     -75.683419,
+     45.42252
+    ],
+    [
+     -75.683641,
+     45.422779
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 50 m.",
+     "À la hauteur du pavillon Montpetit, tourne à gauche sur la privée Université sur environ 70 m.",
+     "Tourne à droite pour rester sur la privée Université sur environ 70 m.",
+     "Tourne à droite sur le sentier piétonnier sur environ 60 m.",
+     "Le Centre universitaire Jock-Turcot (UCU) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 50 m.",
+     "At Montpetit Hall, turn left onto Université Private for about 70 m.",
+     "Turn right to stay on Université Private for about 70 m.",
+     "Turn right onto the footpath for about 60 m.",
+     "The Jock Turcot University Centre (UCU) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     4,
+     9
+    ],
+    [
+     9,
+     14
+    ],
+    [
+     13,
+     14
+    ]
+   ]
+  },
+  "SITE": {
+   "name": {
+    "fr": "Pavillon SITE (STE)",
+    "en": "SITE Building (STE)"
+   },
+   "kb": [
+    "site"
+   ],
+   "at": [
+    -75.678721,
+    45.419601
+   ],
+   "distance_m": 470,
+   "minutes": 7,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681095,
+     45.421676
+    ],
+    [
+     -75.681046,
+     45.421659
+    ],
+    [
+     -75.681016,
+     45.421623
+    ],
+    [
+     -75.680974,
+     45.421571
+    ],
+    [
+     -75.680809,
+     45.421378
+    ],
+    [
+     -75.680668,
+     45.421214
+    ],
+    [
+     -75.680412,
+     45.420914
+    ],
+    [
+     -75.680173,
+     45.420634
+    ],
+    [
+     -75.67982,
+     45.420221
+    ],
+    [
+     -75.679748,
+     45.420183
+    ],
+    [
+     -75.679598,
+     45.420234
+    ],
+    [
+     -75.679569,
+     45.420197
+    ],
+    [
+     -75.679385,
+     45.420273
+    ],
+    [
+     -75.679332,
+     45.420295
+    ],
+    [
+     -75.67898,
+     45.420445
+    ],
+    [
+     -75.678905,
+     45.420442
+    ],
+    [
+     -75.678515,
+     45.419971
+    ],
+    [
+     -75.678438,
+     45.419877
+    ],
+    [
+     -75.678547,
+     45.419792
+    ],
+    [
+     -75.678626,
+     45.419727
+    ],
+    [
+     -75.678686,
+     45.419668
+    ],
+    [
+     -75.678721,
+     45.419601
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 275 m.",
+     "À la hauteur du complexe STEM, tourne à gauche sur le sentier piétonnier sur environ 80 m.",
+     "Tourne à droite sur l'avenue King-Edward sur environ 70 m.",
+     "Tourne à droite sur l'allée sur environ 40 m.",
+     "L'entrée principale du pavillon SITE (STE) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 275 m.",
+     "At the STEM Complex, turn left onto the footpath for about 80 m.",
+     "Turn right onto King Edward Avenue for about 70 m.",
+     "Turn right onto the lane for about 40 m.",
+     "The main entrance of the SITE Building (STE) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     13
+    ],
+    [
+     13,
+     19
+    ],
+    [
+     19,
+     21
+    ],
+    [
+     21,
+     25
+    ],
+    [
+     24,
+     25
+    ]
+   ]
+  },
+  "STEM": {
+   "name": {
+    "fr": "Complexe STEM (STM)",
+    "en": "STEM Complex (STM)"
+   },
+   "kb": [
+    "site",
+    "d-stem-services"
+   ],
+   "at": [
+    -75.680569,
+    45.420503
+   ],
+   "distance_m": 233,
+   "minutes": 4,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681095,
+     45.421676
+    ],
+    [
+     -75.681046,
+     45.421659
+    ],
+    [
+     -75.681016,
+     45.421623
+    ],
+    [
+     -75.680974,
+     45.421571
+    ],
+    [
+     -75.680809,
+     45.421378
+    ],
+    [
+     -75.680668,
+     45.421214
+    ],
+    [
+     -75.680412,
+     45.420914
+    ],
+    [
+     -75.680522,
+     45.420803
+    ],
+    [
+     -75.680569,
+     45.420503
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 175 m.",
+     "Prends légèrement à droite sur le sentier piétonnier sur environ 50 m.",
+     "Le complexe STEM (STM) est droit devant toi."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 175 m.",
+     "Bear right onto the footpath for about 50 m.",
+     "The STEM Complex (STM) is straight ahead."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     10
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     11,
+     12
+    ]
+   ]
+  },
+  "CBY": {
+   "name": {
+    "fr": "Pavillon Colonel-By (CBY)",
+    "en": "Colonel By Hall (CBY)"
+   },
+   "kb": [
+    "cby"
+   ],
+   "at": [
+    -75.679857,
+    45.419651
+   ],
+   "distance_m": 395,
+   "minutes": 6,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681095,
+     45.421676
+    ],
+    [
+     -75.681046,
+     45.421659
+    ],
+    [
+     -75.681016,
+     45.421623
+    ],
+    [
+     -75.680974,
+     45.421571
+    ],
+    [
+     -75.680809,
+     45.421378
+    ],
+    [
+     -75.680668,
+     45.421214
+    ],
+    [
+     -75.680412,
+     45.420914
+    ],
+    [
+     -75.680173,
+     45.420634
+    ],
+    [
+     -75.67982,
+     45.420221
+    ],
+    [
+     -75.679854,
+     45.420195
+    ],
+    [
+     -75.68026,
+     45.420025
+    ],
+    [
+     -75.680211,
+     45.419968
+    ],
+    [
+     -75.680181,
+     45.41993
+    ],
+    [
+     -75.680227,
+     45.419819
+    ],
+    [
+     -75.680156,
+     45.419735
+    ],
+    [
+     -75.680061,
+     45.419621
+    ],
+    [
+     -75.680027,
+     45.419582
+    ],
+    [
+     -75.680011,
+     45.41957
+    ],
+    [
+     -75.67985,
+     45.419634
+    ],
+    [
+     -75.679829,
+     45.419612
+    ],
+    [
+     -75.679857,
+     45.419651
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 250 m.",
+     "À la hauteur du complexe STEM, tourne à droite pour rester sur la privée Louis-Pasteur sur environ 70 m.",
+     "Prends légèrement à gauche sur le sentier piétonnier sur environ 50 m.",
+     "Le pavillon Colonel-By (CBY) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 250 m.",
+     "At the STEM Complex, turn right to stay on Louis-Pasteur Private for about 70 m.",
+     "Bear left onto the footpath for about 50 m.",
+     "Colonel By Hall (CBY) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     12
+    ],
+    [
+     12,
+     17
+    ],
+    [
+     17,
+     23
+    ],
+    [
+     23,
+     24
+    ]
+   ]
+  },
+  "FSS": {
+   "name": {
+    "fr": "Pavillon des sciences sociales (FSS)",
+    "en": "Social Sciences Building (FSS)"
+   },
+   "kb": [
+    "fss"
+   ],
+   "at": [
+    -75.683928,
+    45.421525
+   ],
+   "distance_m": 336,
+   "minutes": 5,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681207,
+     45.42169
+    ],
+    [
+     -75.681414,
+     45.421601
+    ],
+    [
+     -75.681789,
+     45.421448
+    ],
+    [
+     -75.681881,
+     45.421429
+    ],
+    [
+     -75.681958,
+     45.421432
+    ],
+    [
+     -75.682026,
+     45.421405
+    ],
+    [
+     -75.682087,
+     45.421383
+    ],
+    [
+     -75.68221,
+     45.421345
+    ],
+    [
+     -75.682408,
+     45.421269
+    ],
+    [
+     -75.682663,
+     45.421162
+    ],
+    [
+     -75.682923,
+     45.421053
+    ],
+    [
+     -75.683034,
+     45.421006
+    ],
+    [
+     -75.683955,
+     45.421467
+    ],
+    [
+     -75.683945,
+     45.421497
+    ],
+    [
+     -75.683934,
+     45.421522
+    ],
+    [
+     -75.683928,
+     45.421525
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 60 m.",
+     "Tourne à droite sur le sentier piétonnier sur environ 250 m, en passant devant le pavillon Vanier.",
+     "Le pavillon des sciences sociales (FSS) est à ta droite."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 60 m.",
+     "Turn right onto the footpath for about 250 m, passing Vanier Hall.",
+     "The Social Sciences Building (FSS) is on your right."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     17
+    ],
+    [
+     17,
+     18
+    ]
+   ]
+  },
+  "DMS": {
+   "name": {
+    "fr": "Pavillon Desmarais (DMS)",
+    "en": "Desmarais Building (DMS)"
+   },
+   "kb": [
+    "desmarais"
+   ],
+   "at": [
+    -75.687592,
+    45.423956
+   ],
+   "distance_m": 728,
+   "minutes": 10,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681959,
+     45.422619
+    ],
+    [
+     -75.682022,
+     45.422682
+    ],
+    [
+     -75.682042,
+     45.422742
+    ],
+    [
+     -75.682468,
+     45.423214
+    ],
+    [
+     -75.682493,
+     45.423243
+    ],
+    [
+     -75.682619,
+     45.423388
+    ],
+    [
+     -75.682664,
+     45.423391
+    ],
+    [
+     -75.682754,
+     45.423427
+    ],
+    [
+     -75.68292,
+     45.423445
+    ],
+    [
+     -75.683034,
+     45.423464
+    ],
+    [
+     -75.683099,
+     45.42348
+    ],
+    [
+     -75.683239,
+     45.423498
+    ],
+    [
+     -75.683335,
+     45.4235
+    ],
+    [
+     -75.683435,
+     45.42359
+    ],
+    [
+     -75.683487,
+     45.423578
+    ],
+    [
+     -75.683608,
+     45.423528
+    ],
+    [
+     -75.683684,
+     45.423607
+    ],
+    [
+     -75.68373,
+     45.423588
+    ],
+    [
+     -75.683817,
+     45.423662
+    ],
+    [
+     -75.68389,
+     45.423639
+    ],
+    [
+     -75.683934,
+     45.423643
+    ],
+    [
+     -75.684036,
+     45.423599
+    ],
+    [
+     -75.6841,
+     45.423677
+    ],
+    [
+     -75.684156,
+     45.423727
+    ],
+    [
+     -75.684213,
+     45.423776
+    ],
+    [
+     -75.684243,
+     45.423737
+    ],
+    [
+     -75.684362,
+     45.423687
+    ],
+    [
+     -75.68474,
+     45.42353
+    ],
+    [
+     -75.684764,
+     45.423553
+    ],
+    [
+     -75.684943,
+     45.423575
+    ],
+    [
+     -75.685108,
+     45.423595
+    ],
+    [
+     -75.685162,
+     45.423581
+    ],
+    [
+     -75.68529,
+     45.423741
+    ],
+    [
+     -75.685317,
+     45.423774
+    ],
+    [
+     -75.68558,
+     45.424108
+    ],
+    [
+     -75.685628,
+     45.424176
+    ],
+    [
+     -75.685676,
+     45.424248
+    ],
+    [
+     -75.685892,
+     45.424158
+    ],
+    [
+     -75.686049,
+     45.424088
+    ],
+    [
+     -75.686221,
+     45.424011
+    ],
+    [
+     -75.686278,
+     45.42399
+    ],
+    [
+     -75.686332,
+     45.423973
+    ],
+    [
+     -75.686394,
+     45.423956
+    ],
+    [
+     -75.686442,
+     45.423942
+    ],
+    [
+     -75.686534,
+     45.423916
+    ],
+    [
+     -75.68658,
+     45.423901
+    ],
+    [
+     -75.686652,
+     45.423871
+    ],
+    [
+     -75.686679,
+     45.42386
+    ],
+    [
+     -75.686745,
+     45.423822
+    ],
+    [
+     -75.686749,
+     45.42381
+    ],
+    [
+     -75.686758,
+     45.423794
+    ],
+    [
+     -75.686778,
+     45.423777
+    ],
+    [
+     -75.686793,
+     45.423768
+    ],
+    [
+     -75.687146,
+     45.423593
+    ],
+    [
+     -75.687224,
+     45.423556
+    ],
+    [
+     -75.687306,
+     45.423526
+    ],
+    [
+     -75.687393,
+     45.423502
+    ],
+    [
+     -75.687435,
+     45.423492
+    ],
+    [
+     -75.687493,
+     45.423478
+    ],
+    [
+     -75.687529,
+     45.423525
+    ],
+    [
+     -75.687557,
+     45.423571
+    ],
+    [
+     -75.687573,
+     45.423608
+    ],
+    [
+     -75.687598,
+     45.423693
+    ],
+    [
+     -75.687619,
+     45.42381
+    ],
+    [
+     -75.687637,
+     45.423927
+    ],
+    [
+     -75.687636,
+     45.423954
+    ],
+    [
+     -75.687592,
+     45.423956
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Fauteux, prends légèrement à gauche sur le sentier piétonnier sur environ 150 m, en passant devant la résidence Thompson.",
+     "À la hauteur du pavillon Pérez, tourne à gauche sur la privée Université sur environ 175 m, en passant devant le pavillon Simard.",
+     "À la hauteur du pavillon Tabaret, tourne à gauche sur l'avenue Laurier Est sur environ 225 m.",
+     "Le pavillon Desmarais (DMS) est à ta droite."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Fauteux Hall, bear left onto the footpath for about 150 m, passing Thompson Residence.",
+     "At Pérez Hall, turn left onto Université Private for about 175 m, passing Simard Hall.",
+     "At Tabaret Hall, turn left onto Laurier Avenue East for about 225 m.",
+     "The Desmarais Building (DMS) is on your right."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     27
+    ],
+    [
+     27,
+     39
+    ],
+    [
+     39,
+     68
+    ],
+    [
+     68,
+     69
+    ]
+   ]
+  },
+  "TBT": {
+   "name": {
+    "fr": "Pavillon Tabaret (TBT)",
+    "en": "Tabaret Hall (TBT)"
+   },
+   "kb": [
+    "tabaret"
+   ],
+   "at": [
+    -75.68615,
+    45.424617
+   ],
+   "distance_m": 568,
+   "minutes": 8,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681959,
+     45.422619
+    ],
+    [
+     -75.682022,
+     45.422682
+    ],
+    [
+     -75.682042,
+     45.422742
+    ],
+    [
+     -75.682468,
+     45.423214
+    ],
+    [
+     -75.682493,
+     45.423243
+    ],
+    [
+     -75.682619,
+     45.423388
+    ],
+    [
+     -75.682664,
+     45.423391
+    ],
+    [
+     -75.682754,
+     45.423427
+    ],
+    [
+     -75.68292,
+     45.423445
+    ],
+    [
+     -75.683034,
+     45.423464
+    ],
+    [
+     -75.683099,
+     45.42348
+    ],
+    [
+     -75.683239,
+     45.423498
+    ],
+    [
+     -75.683335,
+     45.4235
+    ],
+    [
+     -75.683435,
+     45.42359
+    ],
+    [
+     -75.683487,
+     45.423578
+    ],
+    [
+     -75.683608,
+     45.423528
+    ],
+    [
+     -75.683684,
+     45.423607
+    ],
+    [
+     -75.68373,
+     45.423588
+    ],
+    [
+     -75.683817,
+     45.423662
+    ],
+    [
+     -75.68389,
+     45.423639
+    ],
+    [
+     -75.683934,
+     45.423643
+    ],
+    [
+     -75.684036,
+     45.423599
+    ],
+    [
+     -75.6841,
+     45.423677
+    ],
+    [
+     -75.684156,
+     45.423727
+    ],
+    [
+     -75.684213,
+     45.423776
+    ],
+    [
+     -75.684243,
+     45.423737
+    ],
+    [
+     -75.684362,
+     45.423687
+    ],
+    [
+     -75.68474,
+     45.42353
+    ],
+    [
+     -75.684764,
+     45.423553
+    ],
+    [
+     -75.684943,
+     45.423575
+    ],
+    [
+     -75.685108,
+     45.423595
+    ],
+    [
+     -75.685162,
+     45.423581
+    ],
+    [
+     -75.68529,
+     45.423741
+    ],
+    [
+     -75.685317,
+     45.423774
+    ],
+    [
+     -75.68558,
+     45.424108
+    ],
+    [
+     -75.685628,
+     45.424176
+    ],
+    [
+     -75.685676,
+     45.424248
+    ],
+    [
+     -75.685704,
+     45.424283
+    ],
+    [
+     -75.685893,
+     45.424516
+    ],
+    [
+     -75.686018,
+     45.42467
+    ],
+    [
+     -75.68615,
+     45.424617
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Fauteux, prends légèrement à gauche sur le sentier piétonnier sur environ 150 m, en passant devant la résidence Thompson.",
+     "À la hauteur du pavillon Pérez, tourne à gauche sur la privée Université sur environ 90 m, en passant devant le pavillon Morisset.",
+     "À la hauteur du pavillon Simard, tourne à droite pour rester sur la privée Université sur environ 150 m, en passant devant le 100 Laurier.",
+     "L'entrée principale du pavillon Tabaret (TBT) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Fauteux Hall, bear left onto the footpath for about 150 m, passing Thompson Residence.",
+     "At Pérez Hall, turn left onto Université Private for about 90 m, passing Morisset Hall.",
+     "At Simard Hall, turn right to stay on Université Private for about 150 m, passing 100 Laurier.",
+     "The main entrance of Tabaret Hall (TBT) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     27
+    ],
+    [
+     27,
+     34
+    ],
+    [
+     34,
+     43
+    ],
+    [
+     42,
+     43
+    ]
+   ]
+  },
+  "MNT": {
+   "name": {
+    "fr": "Pavillon Montpetit (MNT)",
+    "en": "Montpetit Hall (MNT)"
+   },
+   "kb": [
+    "montpetit"
+   ],
+   "at": [
+    -75.682835,
+    45.422514
+   ],
+   "distance_m": 175,
+   "minutes": 3,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.682639,
+     45.422271
+    ],
+    [
+     -75.682649,
+     45.422256
+    ],
+    [
+     -75.682693,
+     45.422312
+    ],
+    [
+     -75.682722,
+     45.422342
+    ],
+    [
+     -75.682793,
+     45.422428
+    ],
+    [
+     -75.682854,
+     45.422506
+    ],
+    [
+     -75.682835,
+     45.422514
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 50 m.",
+     "Tourne à gauche sur la privée Université sur environ 70 m.",
+     "Tourne à droite pour rester sur la privée Université sur environ 30 m.",
+     "Le pavillon Montpetit (MNT) est à ta droite."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 50 m.",
+     "Turn left onto Université Private for about 70 m.",
+     "Turn right to stay on Université Private for about 30 m.",
+     "Montpetit Hall (MNT) is on your right."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     4,
+     8
+    ],
+    [
+     8,
+     9
+    ]
+   ]
+  },
+  "MNO": {
+   "name": {
+    "fr": "Complexe sportif Minto (MNO)",
+    "en": "Minto Sports Complex (MNO)"
+   },
+   "kb": [
+    "minto"
+   ],
+   "at": [
+    -75.677394,
+    45.419518
+   ],
+   "distance_m": 547,
+   "minutes": 8,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681095,
+     45.421676
+    ],
+    [
+     -75.681046,
+     45.421659
+    ],
+    [
+     -75.681016,
+     45.421623
+    ],
+    [
+     -75.680974,
+     45.421571
+    ],
+    [
+     -75.680809,
+     45.421378
+    ],
+    [
+     -75.680668,
+     45.421214
+    ],
+    [
+     -75.680412,
+     45.420914
+    ],
+    [
+     -75.680173,
+     45.420634
+    ],
+    [
+     -75.67982,
+     45.420221
+    ],
+    [
+     -75.679748,
+     45.420183
+    ],
+    [
+     -75.679598,
+     45.420234
+    ],
+    [
+     -75.679569,
+     45.420197
+    ],
+    [
+     -75.679385,
+     45.420273
+    ],
+    [
+     -75.679332,
+     45.420295
+    ],
+    [
+     -75.67898,
+     45.420445
+    ],
+    [
+     -75.678905,
+     45.420442
+    ],
+    [
+     -75.678823,
+     45.420474
+    ],
+    [
+     -75.678735,
+     45.420513
+    ],
+    [
+     -75.67874,
+     45.420499
+    ],
+    [
+     -75.678732,
+     45.420478
+    ],
+    [
+     -75.678104,
+     45.419736
+    ],
+    [
+     -75.677979,
+     45.41959
+    ],
+    [
+     -75.677845,
+     45.419629
+    ],
+    [
+     -75.677726,
+     45.419552
+    ],
+    [
+     -75.677553,
+     45.419498
+    ],
+    [
+     -75.677392,
+     45.419498
+    ],
+    [
+     -75.677394,
+     45.419518
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 275 m.",
+     "À la hauteur du complexe STEM, tourne à gauche sur le sentier piétonnier sur environ 90 m, en passant devant la Centrale thermique.",
+     "Tourne à droite sur l'avenue King-Edward sur environ 125 m.",
+     "Prends légèrement à gauche sur l'allée sur environ 50 m.",
+     "L'entrée principale du complexe sportif Minto (MNO) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 275 m.",
+     "At the STEM Complex, turn left onto the footpath for about 90 m, passing the Central Heating Plant.",
+     "Turn right onto King Edward Avenue for about 125 m.",
+     "Bear left onto the lane for about 50 m.",
+     "The main entrance of the Minto Sports Complex (MNO) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     13
+    ],
+    [
+     13,
+     21
+    ],
+    [
+     21,
+     25
+    ],
+    [
+     25,
+     30
+    ],
+    [
+     29,
+     30
+    ]
+   ]
+  },
+  "FTX": {
+   "name": {
+    "fr": "Pavillon Fauteux (FTX)",
+    "en": "Fauteux Hall (FTX)"
+   },
+   "kb": [
+    "d-fauteux",
+    "d-bibliotheque-droit"
+   ],
+   "at": [
+    -75.682659,
+    45.423712
+   ],
+   "distance_m": 220,
+   "minutes": 3,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681868,
+     45.422621
+    ],
+    [
+     -75.681838,
+     45.422658
+    ],
+    [
+     -75.681855,
+     45.422701
+    ],
+    [
+     -75.681918,
+     45.422773
+    ],
+    [
+     -75.682133,
+     45.423018
+    ],
+    [
+     -75.682317,
+     45.423231
+    ],
+    [
+     -75.682323,
+     45.423254
+    ],
+    [
+     -75.682321,
+     45.423274
+    ],
+    [
+     -75.682373,
+     45.423337
+    ],
+    [
+     -75.682419,
+     45.423392
+    ],
+    [
+     -75.682467,
+     45.42345
+    ],
+    [
+     -75.68269,
+     45.423699
+    ],
+    [
+     -75.682659,
+     45.423712
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 200 m.",
+     "Le pavillon Fauteux (FTX) est à ta droite."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 200 m.",
+     "Fauteux Hall (FTX) is on your right."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     14
+    ],
+    [
+     14,
+     15
+    ]
+   ]
+  },
+  "SMD": {
+   "name": {
+    "fr": "Pavillon Simard (SMD)",
+    "en": "Simard Hall (SMD)"
+   },
+   "kb": [
+    "d-simard"
+   ],
+   "at": [
+    -75.686052,
+    45.423199
+   ],
+   "distance_m": 518,
+   "minutes": 7,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681959,
+     45.422619
+    ],
+    [
+     -75.682022,
+     45.422682
+    ],
+    [
+     -75.682042,
+     45.422742
+    ],
+    [
+     -75.682468,
+     45.423214
+    ],
+    [
+     -75.682493,
+     45.423243
+    ],
+    [
+     -75.682619,
+     45.423388
+    ],
+    [
+     -75.682664,
+     45.423391
+    ],
+    [
+     -75.682754,
+     45.423427
+    ],
+    [
+     -75.68292,
+     45.423445
+    ],
+    [
+     -75.683034,
+     45.423464
+    ],
+    [
+     -75.683099,
+     45.42348
+    ],
+    [
+     -75.683239,
+     45.423498
+    ],
+    [
+     -75.683335,
+     45.4235
+    ],
+    [
+     -75.683435,
+     45.42359
+    ],
+    [
+     -75.683487,
+     45.423578
+    ],
+    [
+     -75.683608,
+     45.423528
+    ],
+    [
+     -75.683684,
+     45.423607
+    ],
+    [
+     -75.68373,
+     45.423588
+    ],
+    [
+     -75.683817,
+     45.423662
+    ],
+    [
+     -75.68389,
+     45.423639
+    ],
+    [
+     -75.683934,
+     45.423643
+    ],
+    [
+     -75.684036,
+     45.423599
+    ],
+    [
+     -75.6841,
+     45.423677
+    ],
+    [
+     -75.684227,
+     45.423629
+    ],
+    [
+     -75.684282,
+     45.423606
+    ],
+    [
+     -75.684692,
+     45.423422
+    ],
+    [
+     -75.684878,
+     45.42335
+    ],
+    [
+     -75.684951,
+     45.423322
+    ],
+    [
+     -75.684995,
+     45.423374
+    ],
+    [
+     -75.685061,
+     45.423345
+    ],
+    [
+     -75.685142,
+     45.42331
+    ],
+    [
+     -75.685216,
+     45.423279
+    ],
+    [
+     -75.685492,
+     45.423194
+    ],
+    [
+     -75.68553,
+     45.423176
+    ],
+    [
+     -75.685765,
+     45.423062
+    ],
+    [
+     -75.685843,
+     45.423064
+    ],
+    [
+     -75.685958,
+     45.42309
+    ],
+    [
+     -75.686027,
+     45.423091
+    ],
+    [
+     -75.68609,
+     45.423077
+    ],
+    [
+     -75.686142,
+     45.423172
+    ],
+    [
+     -75.686052,
+     45.423199
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Fauteux, prends légèrement à gauche sur le sentier piétonnier sur environ 150 m, en passant devant la résidence Thompson.",
+     "À la hauteur du pavillon Morisset, prends légèrement à gauche sur la privée Université sur environ 80 m, en passant devant le pavillon Pérez.",
+     "Continue tout droit sur l'allée sur environ 125 m.",
+     "Le pavillon Simard (SMD) est droit devant toi."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Fauteux Hall, bear left onto the footpath for about 150 m, passing Thompson Residence.",
+     "At Morisset Hall, bear left onto Université Private for about 80 m, passing Pérez Hall.",
+     "Continue straight along the lane for about 125 m.",
+     "Simard Hall (SMD) is straight ahead."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     25
+    ],
+    [
+     25,
+     31
+    ],
+    [
+     31,
+     43
+    ],
+    [
+     42,
+     43
+    ]
+   ]
+  },
+  "VNR": {
+   "name": {
+    "fr": "Pavillon Vanier (VNR)",
+    "en": "Vanier Hall (VNR)"
+   },
+   "kb": [
+    "d-vanier"
+   ],
+   "at": [
+    -75.682731,
+    45.421433
+   ],
+   "distance_m": 269,
+   "minutes": 4,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.682639,
+     45.422271
+    ],
+    [
+     -75.682649,
+     45.422256
+    ],
+    [
+     -75.682756,
+     45.422211
+    ],
+    [
+     -75.682827,
+     45.422181
+    ],
+    [
+     -75.682854,
+     45.42217
+    ],
+    [
+     -75.682865,
+     45.422136
+    ],
+    [
+     -75.682916,
+     45.42197
+    ],
+    [
+     -75.682965,
+     45.421835
+    ],
+    [
+     -75.683086,
+     45.421702
+    ],
+    [
+     -75.683182,
+     45.421656
+    ],
+    [
+     -75.683139,
+     45.421636
+    ],
+    [
+     -75.683094,
+     45.421628
+    ],
+    [
+     -75.683044,
+     45.421606
+    ],
+    [
+     -75.682987,
+     45.421594
+    ],
+    [
+     -75.682886,
+     45.421572
+    ],
+    [
+     -75.682731,
+     45.421433
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 50 m.",
+     "À la hauteur du pavillon Montpetit, tourne à gauche sur la privée Université sur environ 90 m, en passant devant le pavillon Lamoureux.",
+     "Prends légèrement à gauche sur le sentier piétonnier sur environ 60 m.",
+     "À la hauteur du pavillon des sciences sociales, tourne à gauche sur la place University Square sur environ 30 m.",
+     "Le pavillon Vanier (VNR) est droit devant toi."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 50 m.",
+     "At Montpetit Hall, turn left onto Université Private for about 90 m, passing Lamoureux Hall.",
+     "Bear left onto the footpath for about 60 m.",
+     "At the Social Sciences Building, turn left onto University Square for about 30 m.",
+     "Vanier Hall (VNR) is straight ahead."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     7
+    ],
+    [
+     7,
+     12
+    ],
+    [
+     12,
+     17
+    ],
+    [
+     17,
+     18
+    ]
+   ]
+  },
+  "MHN": {
+   "name": {
+    "fr": "Pavillon Hamelin (MHN)",
+    "en": "Hamelin Hall (MHN)"
+   },
+   "kb": [
+    "d-hamelin"
+   ],
+   "at": [
+    -75.685876,
+    45.423704
+   ],
+   "distance_m": 498,
+   "minutes": 7,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681959,
+     45.422619
+    ],
+    [
+     -75.682022,
+     45.422682
+    ],
+    [
+     -75.682042,
+     45.422742
+    ],
+    [
+     -75.682468,
+     45.423214
+    ],
+    [
+     -75.682493,
+     45.423243
+    ],
+    [
+     -75.682619,
+     45.423388
+    ],
+    [
+     -75.682664,
+     45.423391
+    ],
+    [
+     -75.682754,
+     45.423427
+    ],
+    [
+     -75.68292,
+     45.423445
+    ],
+    [
+     -75.683034,
+     45.423464
+    ],
+    [
+     -75.683099,
+     45.42348
+    ],
+    [
+     -75.683239,
+     45.423498
+    ],
+    [
+     -75.683335,
+     45.4235
+    ],
+    [
+     -75.683435,
+     45.42359
+    ],
+    [
+     -75.683487,
+     45.423578
+    ],
+    [
+     -75.683608,
+     45.423528
+    ],
+    [
+     -75.683684,
+     45.423607
+    ],
+    [
+     -75.68373,
+     45.423588
+    ],
+    [
+     -75.683817,
+     45.423662
+    ],
+    [
+     -75.68389,
+     45.423639
+    ],
+    [
+     -75.683934,
+     45.423643
+    ],
+    [
+     -75.684036,
+     45.423599
+    ],
+    [
+     -75.6841,
+     45.423677
+    ],
+    [
+     -75.684156,
+     45.423727
+    ],
+    [
+     -75.684213,
+     45.423776
+    ],
+    [
+     -75.684243,
+     45.423737
+    ],
+    [
+     -75.684362,
+     45.423687
+    ],
+    [
+     -75.68474,
+     45.42353
+    ],
+    [
+     -75.684764,
+     45.423553
+    ],
+    [
+     -75.684943,
+     45.423575
+    ],
+    [
+     -75.685108,
+     45.423595
+    ],
+    [
+     -75.685162,
+     45.423581
+    ],
+    [
+     -75.68529,
+     45.423741
+    ],
+    [
+     -75.685317,
+     45.423774
+    ],
+    [
+     -75.685405,
+     45.423739
+    ],
+    [
+     -75.685495,
+     45.423704
+    ],
+    [
+     -75.685562,
+     45.423678
+    ],
+    [
+     -75.685699,
+     45.423625
+    ],
+    [
+     -75.685786,
+     45.423597
+    ],
+    [
+     -75.685854,
+     45.423679
+    ],
+    [
+     -75.685876,
+     45.423704
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Fauteux, prends légèrement à gauche sur le sentier piétonnier sur environ 200 m, en passant devant la résidence Thompson.",
+     "À la hauteur du pavillon Pérez, prends légèrement à droite sur le sentier piétonnier sur environ 60 m.",
+     "À la hauteur du pavillon Simard, tourne à gauche sur le sentier piétonnier sur environ 50 m.",
+     "Le pavillon Hamelin (MHN) est droit devant toi."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Fauteux Hall, bear left onto the footpath for about 200 m, passing Thompson Residence.",
+     "At Pérez Hall, bear right onto the footpath for about 60 m.",
+     "At Simard Hall, turn left onto the footpath for about 50 m.",
+     "Hamelin Hall (MHN) is straight ahead."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     30
+    ],
+    [
+     30,
+     36
+    ],
+    [
+     36,
+     42
+    ],
+    [
+     42,
+     43
+    ]
+   ]
+  },
+  "MRT": {
+   "name": {
+    "fr": "Pavillon Morisset (MRT)",
+    "en": "Morisset Hall (MRT)"
+   },
+   "kb": [
+    "d-morisset"
+   ],
+   "at": [
+    -75.683908,
+    45.423282
+   ],
+   "distance_m": 314,
+   "minutes": 5,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681959,
+     45.422619
+    ],
+    [
+     -75.682022,
+     45.422682
+    ],
+    [
+     -75.682042,
+     45.422742
+    ],
+    [
+     -75.682468,
+     45.423214
+    ],
+    [
+     -75.682493,
+     45.423243
+    ],
+    [
+     -75.682619,
+     45.423388
+    ],
+    [
+     -75.682664,
+     45.423391
+    ],
+    [
+     -75.682754,
+     45.423427
+    ],
+    [
+     -75.68292,
+     45.423445
+    ],
+    [
+     -75.683034,
+     45.423464
+    ],
+    [
+     -75.683099,
+     45.42348
+    ],
+    [
+     -75.683239,
+     45.423498
+    ],
+    [
+     -75.683335,
+     45.4235
+    ],
+    [
+     -75.683487,
+     45.423417
+    ],
+    [
+     -75.683635,
+     45.423344
+    ],
+    [
+     -75.683764,
+     45.42329
+    ],
+    [
+     -75.683879,
+     45.423411
+    ],
+    [
+     -75.683903,
+     45.423402
+    ],
+    [
+     -75.683874,
+     45.423362
+    ],
+    [
+     -75.683905,
+     45.423348
+    ],
+    [
+     -75.683863,
+     45.423299
+    ],
+    [
+     -75.683908,
+     45.423282
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Fauteux, prends légèrement à gauche sur le sentier piétonnier sur environ 125 m.",
+     "Le pavillon Morisset (MRT) est à ta droite."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Fauteux Hall, bear left onto the footpath for about 125 m.",
+     "Morisset Hall (MRT) is on your right."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     23
+    ],
+    [
+     23,
+     24
+    ]
+   ]
+  },
+  "PRZ": {
+   "name": {
+    "fr": "Pavillon Pérez (PRZ)",
+    "en": "Pérez Hall (PRZ)"
+   },
+   "kb": [
+    "d-perez"
+   ],
+   "at": [
+    -75.684509,
+    45.423852
+   ],
+   "distance_m": 367,
+   "minutes": 5,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681959,
+     45.422619
+    ],
+    [
+     -75.682022,
+     45.422682
+    ],
+    [
+     -75.682042,
+     45.422742
+    ],
+    [
+     -75.682468,
+     45.423214
+    ],
+    [
+     -75.682493,
+     45.423243
+    ],
+    [
+     -75.682619,
+     45.423388
+    ],
+    [
+     -75.682664,
+     45.423391
+    ],
+    [
+     -75.682754,
+     45.423427
+    ],
+    [
+     -75.68292,
+     45.423445
+    ],
+    [
+     -75.683034,
+     45.423464
+    ],
+    [
+     -75.683099,
+     45.42348
+    ],
+    [
+     -75.683239,
+     45.423498
+    ],
+    [
+     -75.683335,
+     45.4235
+    ],
+    [
+     -75.683435,
+     45.42359
+    ],
+    [
+     -75.683487,
+     45.423578
+    ],
+    [
+     -75.683608,
+     45.423528
+    ],
+    [
+     -75.683684,
+     45.423607
+    ],
+    [
+     -75.68373,
+     45.423588
+    ],
+    [
+     -75.683817,
+     45.423662
+    ],
+    [
+     -75.68389,
+     45.423639
+    ],
+    [
+     -75.683934,
+     45.423643
+    ],
+    [
+     -75.684036,
+     45.423599
+    ],
+    [
+     -75.6841,
+     45.423677
+    ],
+    [
+     -75.684156,
+     45.423727
+    ],
+    [
+     -75.684213,
+     45.423776
+    ],
+    [
+     -75.684255,
+     45.423799
+    ],
+    [
+     -75.684334,
+     45.423892
+    ],
+    [
+     -75.684461,
+     45.423834
+    ],
+    [
+     -75.684487,
+     45.423862
+    ],
+    [
+     -75.684509,
+     45.423852
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Fauteux, prends légèrement à gauche sur le sentier piétonnier sur environ 125 m, en passant devant la résidence Thompson.",
+     "À la hauteur du pavillon Morisset, tourne à droite sur la privée Université sur environ 60 m.",
+     "L'entrée principale du pavillon Pérez (PRZ) est droit devant toi."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Fauteux Hall, bear left onto the footpath for about 125 m, passing Thompson Residence.",
+     "At Morisset Hall, turn right onto Université Private for about 60 m.",
+     "The main entrance of Pérez Hall (PRZ) is straight ahead."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     24
+    ],
+    [
+     24,
+     31
+    ],
+    [
+     31,
+     32
+    ]
+   ]
+  },
+  "HGN": {
+   "name": {
+    "fr": "Pavillon Hagen (HGN)",
+    "en": "Hagen Hall (HGN)"
+   },
+   "kb": [
+    "d-hagen"
+   ],
+   "at": [
+    -75.686845,
+    45.425184
+   ],
+   "distance_m": 666,
+   "minutes": 9,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681959,
+     45.422619
+    ],
+    [
+     -75.682022,
+     45.422682
+    ],
+    [
+     -75.682042,
+     45.422742
+    ],
+    [
+     -75.682468,
+     45.423214
+    ],
+    [
+     -75.682493,
+     45.423243
+    ],
+    [
+     -75.682619,
+     45.423388
+    ],
+    [
+     -75.682664,
+     45.423391
+    ],
+    [
+     -75.682754,
+     45.423427
+    ],
+    [
+     -75.68292,
+     45.423445
+    ],
+    [
+     -75.683034,
+     45.423464
+    ],
+    [
+     -75.683099,
+     45.42348
+    ],
+    [
+     -75.683239,
+     45.423498
+    ],
+    [
+     -75.683335,
+     45.4235
+    ],
+    [
+     -75.683435,
+     45.42359
+    ],
+    [
+     -75.683487,
+     45.423578
+    ],
+    [
+     -75.683608,
+     45.423528
+    ],
+    [
+     -75.683684,
+     45.423607
+    ],
+    [
+     -75.68373,
+     45.423588
+    ],
+    [
+     -75.683817,
+     45.423662
+    ],
+    [
+     -75.68389,
+     45.423639
+    ],
+    [
+     -75.683934,
+     45.423643
+    ],
+    [
+     -75.684036,
+     45.423599
+    ],
+    [
+     -75.6841,
+     45.423677
+    ],
+    [
+     -75.684156,
+     45.423727
+    ],
+    [
+     -75.684213,
+     45.423776
+    ],
+    [
+     -75.684243,
+     45.423737
+    ],
+    [
+     -75.684362,
+     45.423687
+    ],
+    [
+     -75.68474,
+     45.42353
+    ],
+    [
+     -75.684764,
+     45.423553
+    ],
+    [
+     -75.684943,
+     45.423575
+    ],
+    [
+     -75.685108,
+     45.423595
+    ],
+    [
+     -75.685162,
+     45.423581
+    ],
+    [
+     -75.68529,
+     45.423741
+    ],
+    [
+     -75.685317,
+     45.423774
+    ],
+    [
+     -75.68558,
+     45.424108
+    ],
+    [
+     -75.685628,
+     45.424176
+    ],
+    [
+     -75.685676,
+     45.424248
+    ],
+    [
+     -75.685704,
+     45.424283
+    ],
+    [
+     -75.685893,
+     45.424516
+    ],
+    [
+     -75.686018,
+     45.42467
+    ],
+    [
+     -75.686149,
+     45.424831
+    ],
+    [
+     -75.686257,
+     45.424964
+    ],
+    [
+     -75.686352,
+     45.425082
+    ],
+    [
+     -75.686393,
+     45.42513
+    ],
+    [
+     -75.686435,
+     45.425111
+    ],
+    [
+     -75.686658,
+     45.42502
+    ],
+    [
+     -75.686736,
+     45.425121
+    ],
+    [
+     -75.6868,
+     45.425193
+    ],
+    [
+     -75.686845,
+     45.425184
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Fauteux, prends légèrement à gauche sur le sentier piétonnier sur environ 150 m, en passant devant la résidence Thompson.",
+     "À la hauteur du pavillon Pérez, tourne à gauche sur la privée Université sur environ 90 m, en passant devant le pavillon Morisset.",
+     "À la hauteur du pavillon Simard, tourne à droite pour rester sur la privée Université sur environ 250 m, en passant devant le pavillon Tabaret.",
+     "Le pavillon Hagen (HGN) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Fauteux Hall, bear left onto the footpath for about 150 m, passing Thompson Residence.",
+     "At Pérez Hall, turn left onto Université Private for about 90 m, passing Morisset Hall.",
+     "At Simard Hall, turn right to stay on Université Private for about 250 m, passing Tabaret Hall.",
+     "Hagen Hall (HGN) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     27
+    ],
+    [
+     27,
+     34
+    ],
+    [
+     34,
+     50
+    ],
+    [
+     50,
+     51
+    ]
+   ]
+  },
+  "ARC": {
+   "name": {
+    "fr": "Complexe de recherche avancée (ARC)",
+    "en": "Advanced Research Complex (ARC)"
+   },
+   "kb": [
+    "d-arc"
+   ],
+   "at": [
+    -75.678872,
+    45.421164
+   ],
+   "distance_m": 461,
+   "minutes": 7,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681095,
+     45.421676
+    ],
+    [
+     -75.681046,
+     45.421659
+    ],
+    [
+     -75.681016,
+     45.421623
+    ],
+    [
+     -75.680955,
+     45.421647
+    ],
+    [
+     -75.680917,
+     45.421662
+    ],
+    [
+     -75.680835,
+     45.421695
+    ],
+    [
+     -75.680704,
+     45.421751
+    ],
+    [
+     -75.68063,
+     45.421781
+    ],
+    [
+     -75.680466,
+     45.421848
+    ],
+    [
+     -75.680314,
+     45.42191
+    ],
+    [
+     -75.680301,
+     45.421938
+    ],
+    [
+     -75.680255,
+     45.421959
+    ],
+    [
+     -75.680224,
+     45.421964
+    ],
+    [
+     -75.680123,
+     45.422006
+    ],
+    [
+     -75.680028,
+     45.422044
+    ],
+    [
+     -75.68002,
+     45.422064
+    ],
+    [
+     -75.679859,
+     45.422139
+    ],
+    [
+     -75.679783,
+     45.422172
+    ],
+    [
+     -75.679303,
+     45.422365
+    ],
+    [
+     -75.679286,
+     45.422365
+    ],
+    [
+     -75.679266,
+     45.422356
+    ],
+    [
+     -75.679124,
+     45.422192
+    ],
+    [
+     -75.679018,
+     45.422066
+    ],
+    [
+     -75.678386,
+     45.421319
+    ],
+    [
+     -75.678297,
+     45.421213
+    ],
+    [
+     -75.678672,
+     45.421074
+    ],
+    [
+     -75.678729,
+     45.421065
+    ],
+    [
+     -75.678804,
+     45.421142
+    ],
+    [
+     -75.678816,
+     45.421187
+    ],
+    [
+     -75.678872,
+     45.421164
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 70 m.",
+     "À la hauteur du pavillon des Biosciences, tourne à gauche sur la privée Marie-Curie sur environ 150 m.",
+     "Tourne à droite sur l'avenue Henderson sur environ 150 m, en passant devant la résidence Henderson.",
+     "Tourne à droite sur le sentier piétonnier sur environ 50 m.",
+     "Le complexe de recherche avancée (ARC) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 70 m.",
+     "At the Biosciences Building, turn left onto Marie-Curie Private for about 150 m.",
+     "Turn right onto Henderson Avenue for about 150 m, passing Henderson Residence.",
+     "Turn right onto the footpath for about 50 m.",
+     "The Advanced Research Complex (ARC) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     23
+    ],
+    [
+     23,
+     28
+    ],
+    [
+     28,
+     32
+    ],
+    [
+     32,
+     33
+    ]
+   ]
+  },
+  "BSC": {
+   "name": {
+    "fr": "Pavillon des Biosciences (BSC)",
+    "en": "Biosciences Building (BSC)"
+   },
+   "kb": [
+    "d-biosciences"
+   ],
+   "at": [
+    -75.681274,
+    45.421489
+   ],
+   "distance_m": 120,
+   "minutes": 2,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681095,
+     45.421676
+    ],
+    [
+     -75.681046,
+     45.421659
+    ],
+    [
+     -75.681016,
+     45.421623
+    ],
+    [
+     -75.681288,
+     45.421506
+    ],
+    [
+     -75.681274,
+     45.421489
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 100 m.",
+     "Le pavillon des Biosciences (BSC) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 100 m.",
+     "The Biosciences Building (BSC) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "GNN": {
+   "name": {
+    "fr": "Pavillon Gendron (GNN)",
+    "en": "Gendron Hall (GNN)"
+   },
+   "kb": [
+    "d-biosciences"
+   ],
+   "at": [
+    -75.681633,
+    45.421257
+   ],
+   "distance_m": 161,
+   "minutes": 3,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681522,
+     45.421502
+    ],
+    [
+     -75.68163,
+     45.421464
+    ],
+    [
+     -75.68161,
+     45.421439
+    ],
+    [
+     -75.681567,
+     45.421386
+    ],
+    [
+     -75.681692,
+     45.421331
+    ],
+    [
+     -75.681652,
+     45.421281
+    ],
+    [
+     -75.681633,
+     45.421257
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 60 m.",
+     "À la hauteur du pavillon des Biosciences, tourne à droite sur la privée Marie-Curie sur environ 80 m.",
+     "Le pavillon Gendron (GNN) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 60 m.",
+     "At the Biosciences Building, turn right onto Marie-Curie Private for about 80 m.",
+     "Gendron Hall (GNN) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     9
+    ],
+    [
+     9,
+     10
+    ]
+   ]
+  },
+  "DRO": {
+   "name": {
+    "fr": "Pavillon D'Iorio (DRO)",
+    "en": "D'Iorio Hall (DRO)"
+   },
+   "kb": [
+    "d-diorio"
+   ],
+   "at": [
+    -75.681056,
+    45.420799
+   ],
+   "distance_m": 248,
+   "minutes": 4,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681095,
+     45.421676
+    ],
+    [
+     -75.681046,
+     45.421659
+    ],
+    [
+     -75.681016,
+     45.421623
+    ],
+    [
+     -75.680974,
+     45.421571
+    ],
+    [
+     -75.680809,
+     45.421378
+    ],
+    [
+     -75.680668,
+     45.421214
+    ],
+    [
+     -75.680412,
+     45.420914
+    ],
+    [
+     -75.680522,
+     45.420803
+    ],
+    [
+     -75.680748,
+     45.420696
+    ],
+    [
+     -75.680917,
+     45.420744
+    ],
+    [
+     -75.681045,
+     45.420784
+    ],
+    [
+     -75.681056,
+     45.420799
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 175 m.",
+     "Tourne à droite sur le sentier piétonnier sur environ 40 m.",
+     "À la hauteur du pavillon Marion, tourne à droite sur le sentier piétonnier sur environ 30 m.",
+     "Le pavillon D'Iorio (DRO) est droit devant toi."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 175 m.",
+     "Turn right onto the footpath for about 40 m.",
+     "At Marion Hall, turn right onto the footpath for about 30 m.",
+     "D'Iorio Hall (DRO) is straight ahead."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     10
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     12,
+     14
+    ],
+    [
+     14,
+     15
+    ]
+   ]
+  },
+  "SMN": {
+   "name": {
+    "fr": "Pavillon Académique (SMN)",
+    "en": "Academic Hall (SMN)"
+   },
+   "kb": [
+    "d-pavillon-academique"
+   ],
+   "at": [
+    -75.686451,
+    45.425352
+   ],
+   "distance_m": 637,
+   "minutes": 9,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681959,
+     45.422619
+    ],
+    [
+     -75.682022,
+     45.422682
+    ],
+    [
+     -75.682042,
+     45.422742
+    ],
+    [
+     -75.682468,
+     45.423214
+    ],
+    [
+     -75.682493,
+     45.423243
+    ],
+    [
+     -75.682619,
+     45.423388
+    ],
+    [
+     -75.682664,
+     45.423391
+    ],
+    [
+     -75.682754,
+     45.423427
+    ],
+    [
+     -75.68292,
+     45.423445
+    ],
+    [
+     -75.683034,
+     45.423464
+    ],
+    [
+     -75.683099,
+     45.42348
+    ],
+    [
+     -75.683239,
+     45.423498
+    ],
+    [
+     -75.683335,
+     45.4235
+    ],
+    [
+     -75.683435,
+     45.42359
+    ],
+    [
+     -75.683487,
+     45.423578
+    ],
+    [
+     -75.683608,
+     45.423528
+    ],
+    [
+     -75.683684,
+     45.423607
+    ],
+    [
+     -75.68373,
+     45.423588
+    ],
+    [
+     -75.683817,
+     45.423662
+    ],
+    [
+     -75.68386,
+     45.423699
+    ],
+    [
+     -75.683911,
+     45.423754
+    ],
+    [
+     -75.683953,
+     45.423809
+    ],
+    [
+     -75.683992,
+     45.423861
+    ],
+    [
+     -75.684038,
+     45.423887
+    ],
+    [
+     -75.684318,
+     45.4242
+    ],
+    [
+     -75.684471,
+     45.424391
+    ],
+    [
+     -75.684553,
+     45.424492
+    ],
+    [
+     -75.684585,
+     45.424527
+    ],
+    [
+     -75.684644,
+     45.424592
+    ],
+    [
+     -75.684701,
+     45.424658
+    ],
+    [
+     -75.684726,
+     45.424666
+    ],
+    [
+     -75.684738,
+     45.424677
+    ],
+    [
+     -75.684779,
+     45.424722
+    ],
+    [
+     -75.685023,
+     45.425022
+    ],
+    [
+     -75.685382,
+     45.425466
+    ],
+    [
+     -75.685389,
+     45.425481
+    ],
+    [
+     -75.685442,
+     45.425536
+    ],
+    [
+     -75.685482,
+     45.425578
+    ],
+    [
+     -75.685501,
+     45.425569
+    ],
+    [
+     -75.685552,
+     45.425546
+    ],
+    [
+     -75.685612,
+     45.425519
+    ],
+    [
+     -75.685623,
+     45.425506
+    ],
+    [
+     -75.686223,
+     45.425255
+    ],
+    [
+     -75.686284,
+     45.42523
+    ],
+    [
+     -75.686317,
+     45.425277
+    ],
+    [
+     -75.6864,
+     45.425374
+    ],
+    [
+     -75.686451,
+     45.425352
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Fauteux, prends légèrement à gauche sur le sentier piétonnier sur environ 60 m.",
+     "Continue tout droit sur la rue Cumberland sur environ 300 m.",
+     "Tourne à gauche sur la privée Séraphin-Marion sur environ 90 m.",
+     "Le pavillon Académique (SMN) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Fauteux Hall, bear left onto the footpath for about 60 m.",
+     "Continue straight along Cumberland Street for about 300 m.",
+     "Turn left onto Séraphin-Marion Private for about 90 m.",
+     "Academic Hall (SMN) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     15
+    ],
+    [
+     15,
+     40
+    ],
+    [
+     40,
+     48
+    ],
+    [
+     48,
+     49
+    ]
+   ]
+  },
+  "BRS": {
+   "name": {
+    "fr": "Complexe Brooks (BRS)",
+    "en": "Brooks Complex (BRS)"
+   },
+   "kb": [
+    "d-brooks"
+   ],
+   "at": [
+    -75.681748,
+    45.423235
+   ],
+   "distance_m": 184,
+   "minutes": 3,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681868,
+     45.422621
+    ],
+    [
+     -75.681838,
+     45.422658
+    ],
+    [
+     -75.681855,
+     45.422701
+    ],
+    [
+     -75.681918,
+     45.422773
+    ],
+    [
+     -75.682133,
+     45.423018
+    ],
+    [
+     -75.681896,
+     45.423114
+    ],
+    [
+     -75.681827,
+     45.423102
+    ],
+    [
+     -75.681636,
+     45.423175
+    ],
+    [
+     -75.681748,
+     45.423235
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 100 m.",
+     "À la hauteur du pavillon Montpetit, tourne à droite sur le sentier piétonnier sur environ 40 m.",
+     "Le complexe Brooks (BRS) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 100 m.",
+     "At Montpetit Hall, turn right onto the footpath for about 40 m.",
+     "The Brooks Complex (BRS) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     10,
+     11
+    ]
+   ]
+  },
+  "LRR": {
+   "name": {
+    "fr": "100 Laurier (LRR)",
+    "en": "100 Laurier (LRR)"
+   },
+   "kb": [
+    "d-100-laurier"
+   ],
+   "at": [
+    -75.685149,
+    45.424222
+   ],
+   "distance_m": 464,
+   "minutes": 7,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681959,
+     45.422619
+    ],
+    [
+     -75.682022,
+     45.422682
+    ],
+    [
+     -75.682042,
+     45.422742
+    ],
+    [
+     -75.682468,
+     45.423214
+    ],
+    [
+     -75.682493,
+     45.423243
+    ],
+    [
+     -75.682619,
+     45.423388
+    ],
+    [
+     -75.682664,
+     45.423391
+    ],
+    [
+     -75.682754,
+     45.423427
+    ],
+    [
+     -75.68292,
+     45.423445
+    ],
+    [
+     -75.683034,
+     45.423464
+    ],
+    [
+     -75.683099,
+     45.42348
+    ],
+    [
+     -75.683239,
+     45.423498
+    ],
+    [
+     -75.683335,
+     45.4235
+    ],
+    [
+     -75.683435,
+     45.42359
+    ],
+    [
+     -75.683487,
+     45.423578
+    ],
+    [
+     -75.683608,
+     45.423528
+    ],
+    [
+     -75.683684,
+     45.423607
+    ],
+    [
+     -75.68373,
+     45.423588
+    ],
+    [
+     -75.683817,
+     45.423662
+    ],
+    [
+     -75.68389,
+     45.423639
+    ],
+    [
+     -75.683934,
+     45.423643
+    ],
+    [
+     -75.684036,
+     45.423599
+    ],
+    [
+     -75.6841,
+     45.423677
+    ],
+    [
+     -75.684156,
+     45.423727
+    ],
+    [
+     -75.684213,
+     45.423776
+    ],
+    [
+     -75.684255,
+     45.423799
+    ],
+    [
+     -75.684334,
+     45.423892
+    ],
+    [
+     -75.684454,
+     45.424027
+    ],
+    [
+     -75.684491,
+     45.424072
+    ],
+    [
+     -75.684536,
+     45.424127
+    ],
+    [
+     -75.684769,
+     45.424412
+    ],
+    [
+     -75.684793,
+     45.424445
+    ],
+    [
+     -75.684826,
+     45.424434
+    ],
+    [
+     -75.685137,
+     45.424307
+    ],
+    [
+     -75.685196,
+     45.42428
+    ],
+    [
+     -75.685149,
+     45.424222
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Fauteux, prends légèrement à gauche sur le sentier piétonnier sur environ 125 m, en passant devant la résidence Thompson.",
+     "À la hauteur du pavillon Morisset, tourne à droite sur la rue Cumberland sur environ 100 m, en passant devant le pavillon Pérez.",
+     "Tourne à gauche sur l'avenue Laurier Est sur environ 40 m.",
+     "Le 100 Laurier (LRR) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Fauteux Hall, bear left onto the footpath for about 125 m, passing Thompson Residence.",
+     "At Morisset Hall, turn right onto Cumberland Street for about 100 m, passing Pérez Hall.",
+     "Turn left onto Laurier Avenue East for about 40 m.",
+     "100 Laurier (LRR) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     24
+    ],
+    [
+     24,
+     34
+    ],
+    [
+     34,
+     37
+    ],
+    [
+     37,
+     38
+    ]
+   ]
+  },
+  "CTE": {
+   "name": {
+    "fr": "Centrale thermique (CTE)",
+    "en": "Central Heating Plant (CTE)"
+   },
+   "kb": [
+    "d-centrale-thermique"
+   ],
+   "at": [
+    -75.679667,
+    45.420965
+   ],
+   "distance_m": 296,
+   "minutes": 4,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681095,
+     45.421676
+    ],
+    [
+     -75.681046,
+     45.421659
+    ],
+    [
+     -75.681016,
+     45.421623
+    ],
+    [
+     -75.680955,
+     45.421647
+    ],
+    [
+     -75.680917,
+     45.421662
+    ],
+    [
+     -75.680835,
+     45.421695
+    ],
+    [
+     -75.680704,
+     45.421751
+    ],
+    [
+     -75.68063,
+     45.421781
+    ],
+    [
+     -75.680466,
+     45.421848
+    ],
+    [
+     -75.680314,
+     45.42191
+    ],
+    [
+     -75.680301,
+     45.421938
+    ],
+    [
+     -75.680255,
+     45.421959
+    ],
+    [
+     -75.680224,
+     45.421964
+    ],
+    [
+     -75.680188,
+     45.421955
+    ],
+    [
+     -75.680167,
+     45.421939
+    ],
+    [
+     -75.680144,
+     45.421906
+    ],
+    [
+     -75.679752,
+     45.421448
+    ],
+    [
+     -75.679719,
+     45.421409
+    ],
+    [
+     -75.679588,
+     45.421255
+    ],
+    [
+     -75.679633,
+     45.421135
+    ],
+    [
+     -75.679656,
+     45.421076
+    ],
+    [
+     -75.679696,
+     45.42097
+    ],
+    [
+     -75.679667,
+     45.420965
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 70 m.",
+     "À la hauteur du pavillon des Biosciences, tourne à gauche sur la privée Marie-Curie sur environ 70 m.",
+     "Tourne à droite sur l'avenue King-Edward sur environ 90 m.",
+     "Prends légèrement à droite sur le sentier piétonnier sur environ 30 m.",
+     "La Centrale thermique (CTE) est droit devant toi."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 70 m.",
+     "At the Biosciences Building, turn left onto Marie-Curie Private for about 70 m.",
+     "Turn right onto King Edward Avenue for about 90 m.",
+     "Bear right onto the footpath for about 30 m.",
+     "The Central Heating Plant (CTE) is straight ahead."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     16
+    ],
+    [
+     16,
+     22
+    ],
+    [
+     22,
+     25
+    ],
+    [
+     25,
+     26
+    ]
+   ]
+  },
+  "MCE": {
+   "name": {
+    "fr": "100, privée Marie-Curie (MCE)",
+    "en": "100 Marie-Curie (MCE)"
+   },
+   "kb": [
+    "marie-curie"
+   ],
+   "at": [
+    -75.680526,
+    45.421793
+   ],
+   "distance_m": 140,
+   "minutes": 2,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681075,
+     45.421697
+    ],
+    [
+     -75.680978,
+     45.421734
+    ],
+    [
+     -75.680687,
+     45.421851
+    ],
+    [
+     -75.680603,
+     45.421886
+    ],
+    [
+     -75.680526,
+     45.421793
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 60 m.",
+     "À la hauteur du pavillon des Biosciences, tourne à gauche sur la privée Marie-Curie sur environ 50 m.",
+     "Le bâtiment du 100, privée Marie-Curie (MCE) est à ta droite."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 60 m.",
+     "At the Biosciences Building, turn left onto Marie-Curie Private for about 50 m.",
+     "100 Marie-Curie (MCE) is on your right."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "KED-585": {
+   "name": {
+    "fr": "585, avenue King-Edward (maisons King-Edward)",
+    "en": "585 King Edward Avenue (King Edward houses)"
+   },
+   "kb": [
+    "d-king-edward"
+   ],
+   "at": [
+    -75.681743,
+    45.424528
+   ],
+   "distance_m": 376,
+   "minutes": 6,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681868,
+     45.422621
+    ],
+    [
+     -75.681838,
+     45.422658
+    ],
+    [
+     -75.681855,
+     45.422701
+    ],
+    [
+     -75.681918,
+     45.422773
+    ],
+    [
+     -75.682133,
+     45.423018
+    ],
+    [
+     -75.682317,
+     45.423231
+    ],
+    [
+     -75.682323,
+     45.423254
+    ],
+    [
+     -75.682321,
+     45.423274
+    ],
+    [
+     -75.68231,
+     45.423292
+    ],
+    [
+     -75.682295,
+     45.423305
+    ],
+    [
+     -75.681884,
+     45.423471
+    ],
+    [
+     -75.681649,
+     45.423566
+    ],
+    [
+     -75.681595,
+     45.423586
+    ],
+    [
+     -75.681562,
+     45.423589
+    ],
+    [
+     -75.681471,
+     45.423632
+    ],
+    [
+     -75.681376,
+     45.423668
+    ],
+    [
+     -75.681425,
+     45.423725
+    ],
+    [
+     -75.681472,
+     45.423782
+    ],
+    [
+     -75.681516,
+     45.423796
+    ],
+    [
+     -75.681573,
+     45.423864
+    ],
+    [
+     -75.681635,
+     45.423938
+    ],
+    [
+     -75.681837,
+     45.424177
+    ],
+    [
+     -75.681554,
+     45.424303
+    ],
+    [
+     -75.681537,
+     45.424346
+    ],
+    [
+     -75.681706,
+     45.424543
+    ],
+    [
+     -75.681743,
+     45.424528
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Montpetit, tourne à droite sur la privée Thomas-More sur environ 90 m, en passant devant le complexe Brooks.",
+     "Tourne à gauche sur l'avenue King-Edward sur environ 70 m.",
+     "Tourne à droite sur l'allée sur environ 60 m.",
+     "Le bâtiment du 585, avenue King-Edward (maisons King-Edward) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Montpetit Hall, turn right onto Thomas More Private for about 90 m, passing the Brooks Complex.",
+     "Turn left onto King Edward Avenue for about 70 m.",
+     "Turn right onto the lane for about 60 m.",
+     "585 King Edward Avenue (King Edward houses) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     10
+    ],
+    [
+     10,
+     18
+    ],
+    [
+     18,
+     24
+    ],
+    [
+     24,
+     27
+    ],
+    [
+     27,
+     28
+    ]
+   ]
+  },
+  "SMR-145": {
+   "name": {
+    "fr": "145, privée Séraphin-Marion (maisons Séraphin-Marion)",
+    "en": "145 Séraphin-Marion Private (Séraphin-Marion houses)"
+   },
+   "kb": [
+    "d-seraphin-marion"
+   ],
+   "at": [
+    -75.686271,
+    45.425512
+   ],
+   "distance_m": 750,
+   "minutes": 11,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681959,
+     45.422619
+    ],
+    [
+     -75.682022,
+     45.422682
+    ],
+    [
+     -75.682042,
+     45.422742
+    ],
+    [
+     -75.682468,
+     45.423214
+    ],
+    [
+     -75.682493,
+     45.423243
+    ],
+    [
+     -75.682619,
+     45.423388
+    ],
+    [
+     -75.682664,
+     45.423391
+    ],
+    [
+     -75.682754,
+     45.423427
+    ],
+    [
+     -75.68292,
+     45.423445
+    ],
+    [
+     -75.683034,
+     45.423464
+    ],
+    [
+     -75.683099,
+     45.42348
+    ],
+    [
+     -75.683239,
+     45.423498
+    ],
+    [
+     -75.683335,
+     45.4235
+    ],
+    [
+     -75.683435,
+     45.42359
+    ],
+    [
+     -75.683487,
+     45.423578
+    ],
+    [
+     -75.683608,
+     45.423528
+    ],
+    [
+     -75.683684,
+     45.423607
+    ],
+    [
+     -75.68373,
+     45.423588
+    ],
+    [
+     -75.683817,
+     45.423662
+    ],
+    [
+     -75.68386,
+     45.423699
+    ],
+    [
+     -75.683911,
+     45.423754
+    ],
+    [
+     -75.683953,
+     45.423809
+    ],
+    [
+     -75.683992,
+     45.423861
+    ],
+    [
+     -75.684038,
+     45.423887
+    ],
+    [
+     -75.684318,
+     45.4242
+    ],
+    [
+     -75.684471,
+     45.424391
+    ],
+    [
+     -75.684553,
+     45.424492
+    ],
+    [
+     -75.684585,
+     45.424527
+    ],
+    [
+     -75.684644,
+     45.424592
+    ],
+    [
+     -75.684701,
+     45.424658
+    ],
+    [
+     -75.684726,
+     45.424666
+    ],
+    [
+     -75.684738,
+     45.424677
+    ],
+    [
+     -75.684779,
+     45.424722
+    ],
+    [
+     -75.685023,
+     45.425022
+    ],
+    [
+     -75.685382,
+     45.425466
+    ],
+    [
+     -75.685389,
+     45.425481
+    ],
+    [
+     -75.685442,
+     45.425536
+    ],
+    [
+     -75.685482,
+     45.425578
+    ],
+    [
+     -75.685504,
+     45.425586
+    ],
+    [
+     -75.68591,
+     45.426087
+    ],
+    [
+     -75.685915,
+     45.426102
+    ],
+    [
+     -75.685953,
+     45.426153
+    ],
+    [
+     -75.685981,
+     45.42619
+    ],
+    [
+     -75.68605,
+     45.426167
+    ],
+    [
+     -75.686119,
+     45.426137
+    ],
+    [
+     -75.686144,
+     45.426115
+    ],
+    [
+     -75.686176,
+     45.426103
+    ],
+    [
+     -75.686239,
+     45.426074
+    ],
+    [
+     -75.686808,
+     45.425836
+    ],
+    [
+     -75.686271,
+     45.425512
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Fauteux, prends légèrement à gauche sur le sentier piétonnier sur environ 60 m.",
+     "Continue tout droit sur la rue Cumberland sur environ 375 m.",
+     "Tourne à gauche sur la rue Stewart sur environ 80 m.",
+     "Le bâtiment du 145, privée Séraphin-Marion (maisons Séraphin-Marion) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Fauteux Hall, bear left onto the footpath for about 60 m.",
+     "Continue straight along Cumberland Street for about 375 m.",
+     "Turn left onto Stewart Street for about 80 m.",
+     "145 Séraphin-Marion Private (Séraphin-Marion houses) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     15
+    ],
+    [
+     15,
+     45
+    ],
+    [
+     45,
+     51
+    ],
+    [
+     51,
+     52
+    ]
+   ]
+  },
+  "90U": {
+   "name": {
+    "fr": "Résidence 90 University (90U)",
+    "en": "90 University Residence (90U)"
+   },
+   "kb": [
+    "d-res-90u",
+    "d-service-logement",
+    "d-reparations-residence"
+   ],
+   "at": [
+    -75.68529,
+    45.422425
+   ],
+   "distance_m": 444,
+   "minutes": 6,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.682639,
+     45.422271
+    ],
+    [
+     -75.682649,
+     45.422256
+    ],
+    [
+     -75.682756,
+     45.422211
+    ],
+    [
+     -75.682827,
+     45.422181
+    ],
+    [
+     -75.682854,
+     45.42217
+    ],
+    [
+     -75.682897,
+     45.42216
+    ],
+    [
+     -75.683294,
+     45.42201
+    ],
+    [
+     -75.683331,
+     45.422044
+    ],
+    [
+     -75.68337,
+     45.422079
+    ],
+    [
+     -75.683519,
+     45.422117
+    ],
+    [
+     -75.683766,
+     45.422164
+    ],
+    [
+     -75.683802,
+     45.422218
+    ],
+    [
+     -75.683978,
+     45.422178
+    ],
+    [
+     -75.684314,
+     45.422573
+    ],
+    [
+     -75.68434,
+     45.422604
+    ],
+    [
+     -75.684396,
+     45.422669
+    ],
+    [
+     -75.684673,
+     45.422552
+    ],
+    [
+     -75.684824,
+     45.422587
+    ],
+    [
+     -75.68486,
+     45.422627
+    ],
+    [
+     -75.684969,
+     45.422588
+    ],
+    [
+     -75.685042,
+     45.422588
+    ],
+    [
+     -75.685115,
+     45.422586
+    ],
+    [
+     -75.685186,
+     45.422605
+    ],
+    [
+     -75.685241,
+     45.42264
+    ],
+    [
+     -75.685293,
+     45.422688
+    ],
+    [
+     -75.685417,
+     45.422634
+    ],
+    [
+     -75.68529,
+     45.422425
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 50 m.",
+     "À la hauteur du pavillon Montpetit, tourne à gauche sur la privée Université sur environ 125 m, en passant devant le pavillon Lamoureux.",
+     "Tourne à droite pour rester sur la privée Université sur environ 125 m, en passant devant le Centre universitaire.",
+     "Tourne à gauche sur le sentier piétonnier sur environ 90 m.",
+     "La résidence 90 University (90U) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 50 m.",
+     "At Montpetit Hall, turn left onto Université Private for about 125 m, passing Lamoureux Hall.",
+     "Turn right to stay on Université Private for about 125 m, passing the Jock Turcot University Centre.",
+     "Turn left onto the footpath for about 90 m.",
+     "90 University Residence (90U) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     9
+    ],
+    [
+     9,
+     18
+    ],
+    [
+     18,
+     28
+    ],
+    [
+     28,
+     29
+    ]
+   ]
+  },
+  "STN": {
+   "name": {
+    "fr": "Résidence Stanton (STN)",
+    "en": "Stanton Residence (STN)"
+   },
+   "kb": [
+    "d-res-stanton"
+   ],
+   "at": [
+    -75.684925,
+    45.42215
+   ],
+   "distance_m": 409,
+   "minutes": 6,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.682639,
+     45.422271
+    ],
+    [
+     -75.682649,
+     45.422256
+    ],
+    [
+     -75.682756,
+     45.422211
+    ],
+    [
+     -75.682827,
+     45.422181
+    ],
+    [
+     -75.682854,
+     45.42217
+    ],
+    [
+     -75.682897,
+     45.42216
+    ],
+    [
+     -75.683294,
+     45.42201
+    ],
+    [
+     -75.683429,
+     45.421959
+    ],
+    [
+     -75.683522,
+     45.421964
+    ],
+    [
+     -75.683607,
+     45.421937
+    ],
+    [
+     -75.683696,
+     45.42192
+    ],
+    [
+     -75.6838,
+     45.421973
+    ],
+    [
+     -75.684129,
+     45.421842
+    ],
+    [
+     -75.684353,
+     45.421749
+    ],
+    [
+     -75.684418,
+     45.421709
+    ],
+    [
+     -75.684691,
+     45.421855
+    ],
+    [
+     -75.685211,
+     45.422146
+    ],
+    [
+     -75.685176,
+     45.422167
+    ],
+    [
+     -75.685026,
+     45.422181
+    ],
+    [
+     -75.684943,
+     45.422221
+    ],
+    [
+     -75.684925,
+     45.42215
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 50 m.",
+     "À la hauteur du pavillon Montpetit, tourne à gauche sur la privée Université sur environ 225 m.",
+     "À la hauteur de la résidence Marchand, tourne à droite sur le sentier piétonnier sur environ 100 m.",
+     "La résidence Stanton (STN) est à ta droite."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 50 m.",
+     "At Montpetit Hall, turn left onto Université Private for about 225 m.",
+     "At Marchand Residence, turn right onto the footpath for about 100 m.",
+     "Stanton Residence (STN) is on your right."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     17
+    ],
+    [
+     17,
+     22
+    ],
+    [
+     22,
+     23
+    ]
+   ]
+  },
+  "MRD": {
+   "name": {
+    "fr": "Résidence Marchand (MRD)",
+    "en": "Marchand Residence (MRD)"
+   },
+   "kb": [
+    "d-res-marchand"
+   ],
+   "at": [
+    -75.684603,
+    45.421897
+   ],
+   "distance_m": 347,
+   "minutes": 5,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.682639,
+     45.422271
+    ],
+    [
+     -75.682649,
+     45.422256
+    ],
+    [
+     -75.682756,
+     45.422211
+    ],
+    [
+     -75.682827,
+     45.422181
+    ],
+    [
+     -75.682854,
+     45.42217
+    ],
+    [
+     -75.682897,
+     45.42216
+    ],
+    [
+     -75.683294,
+     45.42201
+    ],
+    [
+     -75.683429,
+     45.421959
+    ],
+    [
+     -75.683522,
+     45.421964
+    ],
+    [
+     -75.683607,
+     45.421937
+    ],
+    [
+     -75.683696,
+     45.42192
+    ],
+    [
+     -75.6838,
+     45.421973
+    ],
+    [
+     -75.684129,
+     45.421842
+    ],
+    [
+     -75.684353,
+     45.421749
+    ],
+    [
+     -75.684418,
+     45.421709
+    ],
+    [
+     -75.684691,
+     45.421855
+    ],
+    [
+     -75.684769,
+     45.421899
+    ],
+    [
+     -75.684603,
+     45.421897
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 50 m.",
+     "À la hauteur du pavillon Montpetit, tourne à gauche sur la privée Université sur environ 225 m.",
+     "À la hauteur du pavillon des sciences sociales, tourne à droite sur le sentier piétonnier sur environ 30 m.",
+     "La résidence Marchand (MRD) est à ta droite."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 50 m.",
+     "At Montpetit Hall, turn left onto Université Private for about 225 m.",
+     "At the Social Sciences Building, turn right onto the footpath for about 30 m.",
+     "Marchand Residence (MRD) is on your right."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     17
+    ],
+    [
+     17,
+     19
+    ],
+    [
+     19,
+     20
+    ]
+   ]
+  },
+  "THN": {
+   "name": {
+    "fr": "Résidence Thompson (THN)",
+    "en": "Thompson Residence (THN)"
+   },
+   "kb": [
+    "d-res-thompson"
+   ],
+   "at": [
+    -75.683549,
+    45.423828
+   ],
+   "distance_m": 305,
+   "minutes": 5,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681959,
+     45.422619
+    ],
+    [
+     -75.682022,
+     45.422682
+    ],
+    [
+     -75.682042,
+     45.422742
+    ],
+    [
+     -75.682468,
+     45.423214
+    ],
+    [
+     -75.682493,
+     45.423243
+    ],
+    [
+     -75.682619,
+     45.423388
+    ],
+    [
+     -75.682966,
+     45.423805
+    ],
+    [
+     -75.68313,
+     45.424
+    ],
+    [
+     -75.683164,
+     45.424026
+    ],
+    [
+     -75.683236,
+     45.424034
+    ],
+    [
+     -75.683555,
+     45.423902
+    ],
+    [
+     -75.683529,
+     45.42387
+    ],
+    [
+     -75.683549,
+     45.423828
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la rue Copernicus vers le nord-ouest sur environ 250 m.",
+     "Tourne à gauche sur la privée Université sur environ 40 m.",
+     "La résidence Thompson (THN) est droit devant toi."
+    ],
+    "en": [
+     "Leave CRX and take Copernicus Street heading northwest for about 250 m.",
+     "Turn left onto Université Private for about 40 m.",
+     "Thompson Residence (THN) is straight ahead."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     11
+    ],
+    [
+     11,
+     14
+    ],
+    [
+     14,
+     15
+    ]
+   ]
+  },
+  "LBC": {
+   "name": {
+    "fr": "Résidence Leblanc (LBC)",
+    "en": "Leblanc Residence (LBC)"
+   },
+   "kb": [
+    "d-res-leblanc"
+   ],
+   "at": [
+    -75.68308,
+    45.424278
+   ],
+   "distance_m": 296,
+   "minutes": 4,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681868,
+     45.422621
+    ],
+    [
+     -75.681838,
+     45.422658
+    ],
+    [
+     -75.681855,
+     45.422701
+    ],
+    [
+     -75.681918,
+     45.422773
+    ],
+    [
+     -75.682133,
+     45.423018
+    ],
+    [
+     -75.682317,
+     45.423231
+    ],
+    [
+     -75.682323,
+     45.423254
+    ],
+    [
+     -75.682321,
+     45.423274
+    ],
+    [
+     -75.682373,
+     45.423337
+    ],
+    [
+     -75.682419,
+     45.423392
+    ],
+    [
+     -75.682467,
+     45.42345
+    ],
+    [
+     -75.682991,
+     45.424035
+    ],
+    [
+     -75.683035,
+     45.424085
+    ],
+    [
+     -75.683115,
+     45.424176
+    ],
+    [
+     -75.68317,
+     45.424241
+    ],
+    [
+     -75.68308,
+     45.424278
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 50 m.",
+     "À la hauteur du pavillon Montpetit, prends légèrement à droite sur la rue Copernicus sur environ 225 m, en passant devant le pavillon Fauteux.",
+     "La résidence Leblanc (LBC) est à ta droite."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 50 m.",
+     "At Montpetit Hall, bear right onto Copernicus Street for about 225 m, passing Fauteux Hall.",
+     "Leblanc Residence (LBC) is on your right."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     17
+    ],
+    [
+     17,
+     18
+    ]
+   ]
+  },
+  "HNN": {
+   "name": {
+    "fr": "Résidence Henderson (HNN)",
+    "en": "Henderson Residence (HNN)"
+   },
+   "kb": [
+    "d-res-henderson"
+   ],
+   "at": [
+    -75.67886,
+    45.421397
+   ],
+   "distance_m": 482,
+   "minutes": 7,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681095,
+     45.421676
+    ],
+    [
+     -75.681046,
+     45.421659
+    ],
+    [
+     -75.681016,
+     45.421623
+    ],
+    [
+     -75.680955,
+     45.421647
+    ],
+    [
+     -75.680917,
+     45.421662
+    ],
+    [
+     -75.680835,
+     45.421695
+    ],
+    [
+     -75.680704,
+     45.421751
+    ],
+    [
+     -75.68063,
+     45.421781
+    ],
+    [
+     -75.680466,
+     45.421848
+    ],
+    [
+     -75.680314,
+     45.42191
+    ],
+    [
+     -75.680301,
+     45.421938
+    ],
+    [
+     -75.680255,
+     45.421959
+    ],
+    [
+     -75.680224,
+     45.421964
+    ],
+    [
+     -75.680123,
+     45.422006
+    ],
+    [
+     -75.680028,
+     45.422044
+    ],
+    [
+     -75.68002,
+     45.422064
+    ],
+    [
+     -75.679859,
+     45.422139
+    ],
+    [
+     -75.679783,
+     45.422172
+    ],
+    [
+     -75.679303,
+     45.422365
+    ],
+    [
+     -75.679286,
+     45.422365
+    ],
+    [
+     -75.679266,
+     45.422356
+    ],
+    [
+     -75.679124,
+     45.422192
+    ],
+    [
+     -75.679018,
+     45.422066
+    ],
+    [
+     -75.678386,
+     45.421319
+    ],
+    [
+     -75.678297,
+     45.421213
+    ],
+    [
+     -75.678672,
+     45.421074
+    ],
+    [
+     -75.678729,
+     45.421065
+    ],
+    [
+     -75.678804,
+     45.421142
+    ],
+    [
+     -75.678854,
+     45.421333
+    ],
+    [
+     -75.678896,
+     45.421382
+    ],
+    [
+     -75.67886,
+     45.421397
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 70 m.",
+     "À la hauteur du pavillon des Biosciences, tourne à gauche sur la privée Marie-Curie sur environ 150 m.",
+     "Tourne à droite sur l'avenue Henderson sur environ 150 m.",
+     "À la hauteur du complexe de recherche avancée, tourne à droite sur le sentier piétonnier sur environ 80 m.",
+     "La résidence Henderson (HNN) est à ta droite."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 70 m.",
+     "At the Biosciences Building, turn left onto Marie-Curie Private for about 150 m.",
+     "Turn right onto Henderson Avenue for about 150 m.",
+     "At the Advanced Research Complex, turn right onto the footpath for about 80 m.",
+     "Henderson Residence (HNN) is on your right."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     23
+    ],
+    [
+     23,
+     28
+    ],
+    [
+     28,
+     33
+    ],
+    [
+     33,
+     34
+    ]
+   ]
+  },
+  "MNN": {
+   "name": {
+    "fr": "Résidence 45 Mann (MNN)",
+    "en": "45 Mann Residence (MNN)"
+   },
+   "kb": [
+    "d-res-45-mann"
+   ],
+   "at": [
+    -75.676014,
+    45.420078
+   ],
+   "distance_m": 778,
+   "minutes": 11,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681195,
+     45.421714
+    ],
+    [
+     -75.681108,
+     45.421681
+    ],
+    [
+     -75.681095,
+     45.421676
+    ],
+    [
+     -75.681046,
+     45.421659
+    ],
+    [
+     -75.681016,
+     45.421623
+    ],
+    [
+     -75.680974,
+     45.421571
+    ],
+    [
+     -75.680809,
+     45.421378
+    ],
+    [
+     -75.680668,
+     45.421214
+    ],
+    [
+     -75.680412,
+     45.420914
+    ],
+    [
+     -75.680173,
+     45.420634
+    ],
+    [
+     -75.67982,
+     45.420221
+    ],
+    [
+     -75.679748,
+     45.420183
+    ],
+    [
+     -75.679598,
+     45.420234
+    ],
+    [
+     -75.679569,
+     45.420197
+    ],
+    [
+     -75.679385,
+     45.420273
+    ],
+    [
+     -75.679332,
+     45.420295
+    ],
+    [
+     -75.67898,
+     45.420445
+    ],
+    [
+     -75.678905,
+     45.420442
+    ],
+    [
+     -75.678823,
+     45.420474
+    ],
+    [
+     -75.678735,
+     45.420513
+    ],
+    [
+     -75.67874,
+     45.420499
+    ],
+    [
+     -75.678732,
+     45.420478
+    ],
+    [
+     -75.678104,
+     45.419736
+    ],
+    [
+     -75.677979,
+     45.41959
+    ],
+    [
+     -75.677863,
+     45.419453
+    ],
+    [
+     -75.677812,
+     45.419397
+    ],
+    [
+     -75.677757,
+     45.41935
+    ],
+    [
+     -75.677624,
+     45.419258
+    ],
+    [
+     -75.677583,
+     45.419231
+    ],
+    [
+     -75.677541,
+     45.419206
+    ],
+    [
+     -75.677408,
+     45.419147
+    ],
+    [
+     -75.677311,
+     45.419125
+    ],
+    [
+     -75.677259,
+     45.419125
+    ],
+    [
+     -75.677193,
+     45.419135
+    ],
+    [
+     -75.67715,
+     45.419147
+    ],
+    [
+     -75.676477,
+     45.419395
+    ],
+    [
+     -75.676413,
+     45.419417
+    ],
+    [
+     -75.676229,
+     45.419495
+    ],
+    [
+     -75.67615,
+     45.419526
+    ],
+    [
+     -75.675593,
+     45.419755
+    ],
+    [
+     -75.675891,
+     45.420097
+    ],
+    [
+     -75.675912,
+     45.420122
+    ],
+    [
+     -75.676014,
+     45.420078
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le sud-est sur environ 275 m.",
+     "À la hauteur du complexe STEM, tourne à gauche sur le sentier piétonnier sur environ 90 m, en passant devant la Centrale thermique.",
+     "À la hauteur du complexe sportif Minto, tourne à droite sur l'avenue King-Edward sur environ 200 m.",
+     "Prends légèrement à gauche sur l'avenue Mann sur environ 200 m.",
+     "La résidence 45 Mann (MNN) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading southeast for about 275 m.",
+     "At the STEM Complex, turn left onto the footpath for about 90 m, passing the Central Heating Plant.",
+     "At the Minto Sports Complex, turn right onto King Edward Avenue for about 200 m.",
+     "Bear left onto Mann Avenue for about 200 m.",
+     "45 Mann Residence (MNN) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     13
+    ],
+    [
+     13,
+     21
+    ],
+    [
+     21,
+     34
+    ],
+    [
+     34,
+     43
+    ],
+    [
+     43,
+     44
+    ]
+   ]
+  },
+  "HYMAN-SOLOWAY": {
+   "name": {
+    "fr": "Résidence Hyman-Soloway",
+    "en": "Hyman Soloway Residence"
+   },
+   "kb": [
+    "d-res-hyman-soloway"
+   ],
+   "at": [
+    -75.684057,
+    45.425139
+   ],
+   "distance_m": 490,
+   "minutes": 7,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681959,
+     45.422619
+    ],
+    [
+     -75.682022,
+     45.422682
+    ],
+    [
+     -75.682042,
+     45.422742
+    ],
+    [
+     -75.682468,
+     45.423214
+    ],
+    [
+     -75.682493,
+     45.423243
+    ],
+    [
+     -75.682619,
+     45.423388
+    ],
+    [
+     -75.682966,
+     45.423805
+    ],
+    [
+     -75.68313,
+     45.424
+    ],
+    [
+     -75.683164,
+     45.424026
+    ],
+    [
+     -75.683226,
+     45.4241
+    ],
+    [
+     -75.683257,
+     45.424137
+    ],
+    [
+     -75.683246,
+     45.424154
+    ],
+    [
+     -75.683676,
+     45.424664
+    ],
+    [
+     -75.683722,
+     45.424647
+    ],
+    [
+     -75.683985,
+     45.42464
+    ],
+    [
+     -75.684009,
+     45.424668
+    ],
+    [
+     -75.684157,
+     45.424667
+    ],
+    [
+     -75.684211,
+     45.424688
+    ],
+    [
+     -75.684356,
+     45.424625
+    ],
+    [
+     -75.684408,
+     45.424692
+    ],
+    [
+     -75.684362,
+     45.424711
+    ],
+    [
+     -75.684414,
+     45.424776
+    ],
+    [
+     -75.68391,
+     45.424983
+    ],
+    [
+     -75.68398,
+     45.425065
+    ],
+    [
+     -75.684037,
+     45.42514
+    ],
+    [
+     -75.684057,
+     45.425139
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la rue Copernicus vers le nord-ouest sur environ 325 m.",
+     "Tourne à gauche sur l'avenue Laurier Est sur environ 80 m.",
+     "Tourne à droite pour rester sur l'avenue Laurier Est sur environ 70 m.",
+     "La résidence Hyman-Soloway est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Copernicus Street heading northwest for about 325 m.",
+     "Turn left onto Laurier Avenue East for about 80 m.",
+     "Turn right to stay on Laurier Avenue East for about 70 m.",
+     "Hyman Soloway Residence is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     15
+    ],
+    [
+     15,
+     24
+    ],
+    [
+     24,
+     27
+    ],
+    [
+     27,
+     28
+    ]
+   ]
+  },
+  "ANX": {
+   "name": {
+    "fr": "Résidence Annex (ANX)",
+    "en": "Annex Residence (ANX)"
+   },
+   "kb": [
+    "d-res-annex"
+   ],
+   "at": [
+    -75.680207,
+    45.426594
+   ],
+   "distance_m": 714,
+   "minutes": 10,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681868,
+     45.422621
+    ],
+    [
+     -75.681838,
+     45.422658
+    ],
+    [
+     -75.681855,
+     45.422701
+    ],
+    [
+     -75.681918,
+     45.422773
+    ],
+    [
+     -75.682133,
+     45.423018
+    ],
+    [
+     -75.682317,
+     45.423231
+    ],
+    [
+     -75.682323,
+     45.423254
+    ],
+    [
+     -75.682321,
+     45.423274
+    ],
+    [
+     -75.682373,
+     45.423337
+    ],
+    [
+     -75.682419,
+     45.423392
+    ],
+    [
+     -75.682369,
+     45.423389
+    ],
+    [
+     -75.68189,
+     45.423587
+    ],
+    [
+     -75.681909,
+     45.423616
+    ],
+    [
+     -75.68191,
+     45.423645
+    ],
+    [
+     -75.681858,
+     45.423735
+    ],
+    [
+     -75.681779,
+     45.423869
+    ],
+    [
+     -75.682035,
+     45.42418
+    ],
+    [
+     -75.682317,
+     45.424524
+    ],
+    [
+     -75.682504,
+     45.424752
+    ],
+    [
+     -75.682851,
+     45.425173
+    ],
+    [
+     -75.682881,
+     45.425188
+    ],
+    [
+     -75.682913,
+     45.425199
+    ],
+    [
+     -75.682834,
+     45.425239
+    ],
+    [
+     -75.682741,
+     45.425281
+    ],
+    [
+     -75.682729,
+     45.425313
+    ],
+    [
+     -75.682787,
+     45.425388
+    ],
+    [
+     -75.682826,
+     45.42544
+    ],
+    [
+     -75.682783,
+     45.425464
+    ],
+    [
+     -75.682026,
+     45.42578
+    ],
+    [
+     -75.681313,
+     45.426079
+    ],
+    [
+     -75.681268,
+     45.426092
+    ],
+    [
+     -75.681245,
+     45.426102
+    ],
+    [
+     -75.681198,
+     45.426125
+    ],
+    [
+     -75.68112,
+     45.426159
+    ],
+    [
+     -75.681066,
+     45.426177
+    ],
+    [
+     -75.680208,
+     45.426537
+    ],
+    [
+     -75.680173,
+     45.426552
+    ],
+    [
+     -75.680207,
+     45.426594
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Fauteux, tourne à droite sur la privée Thomas-More sur environ 50 m.",
+     "Prends légèrement à gauche sur l'avenue King-Edward sur environ 225 m.",
+     "Tourne à droite sur l'avenue Laurier Est sur environ 250 m.",
+     "La résidence Annex (ANX) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Fauteux Hall, turn right onto Thomas More Private for about 50 m.",
+     "Bear left onto King Edward Avenue for about 225 m.",
+     "Turn right onto Laurier Avenue East for about 250 m.",
+     "Annex Residence (ANX) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     12
+    ],
+    [
+     12,
+     16
+    ],
+    [
+     16,
+     29
+    ],
+    [
+     29,
+     39
+    ],
+    [
+     39,
+     40
+    ]
+   ]
+  },
+  "RIDEAU-RES": {
+   "name": {
+    "fr": "Résidence Rideau",
+    "en": "Rideau Residence"
+   },
+   "kb": [
+    "d-res-rideau"
+   ],
+   "at": [
+    -75.685895,
+    45.428359
+   ],
+   "distance_m": 877,
+   "minutes": 12,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681868,
+     45.422621
+    ],
+    [
+     -75.681838,
+     45.422658
+    ],
+    [
+     -75.681855,
+     45.422701
+    ],
+    [
+     -75.681918,
+     45.422773
+    ],
+    [
+     -75.682133,
+     45.423018
+    ],
+    [
+     -75.682317,
+     45.423231
+    ],
+    [
+     -75.682323,
+     45.423254
+    ],
+    [
+     -75.682321,
+     45.423274
+    ],
+    [
+     -75.682373,
+     45.423337
+    ],
+    [
+     -75.682419,
+     45.423392
+    ],
+    [
+     -75.682369,
+     45.423389
+    ],
+    [
+     -75.68189,
+     45.423587
+    ],
+    [
+     -75.681909,
+     45.423616
+    ],
+    [
+     -75.68191,
+     45.423645
+    ],
+    [
+     -75.681858,
+     45.423735
+    ],
+    [
+     -75.681779,
+     45.423869
+    ],
+    [
+     -75.682035,
+     45.42418
+    ],
+    [
+     -75.682317,
+     45.424524
+    ],
+    [
+     -75.682504,
+     45.424752
+    ],
+    [
+     -75.682851,
+     45.425173
+    ],
+    [
+     -75.682881,
+     45.425188
+    ],
+    [
+     -75.682913,
+     45.425199
+    ],
+    [
+     -75.682969,
+     45.425207
+    ],
+    [
+     -75.683036,
+     45.425279
+    ],
+    [
+     -75.683074,
+     45.425322
+    ],
+    [
+     -75.683061,
+     45.425345
+    ],
+    [
+     -75.683065,
+     45.42536
+    ],
+    [
+     -75.683482,
+     45.425864
+    ],
+    [
+     -75.683728,
+     45.426161
+    ],
+    [
+     -75.683752,
+     45.426174
+    ],
+    [
+     -75.683801,
+     45.426234
+    ],
+    [
+     -75.683839,
+     45.426274
+    ],
+    [
+     -75.68384,
+     45.426291
+    ],
+    [
+     -75.68426,
+     45.426781
+    ],
+    [
+     -75.684294,
+     45.426802
+    ],
+    [
+     -75.684337,
+     45.426849
+    ],
+    [
+     -75.684392,
+     45.426904
+    ],
+    [
+     -75.684793,
+     45.427376
+    ],
+    [
+     -75.684817,
+     45.427388
+    ],
+    [
+     -75.684866,
+     45.427447
+    ],
+    [
+     -75.684914,
+     45.427504
+    ],
+    [
+     -75.684915,
+     45.427527
+    ],
+    [
+     -75.685157,
+     45.427817
+    ],
+    [
+     -75.685277,
+     45.427964
+    ],
+    [
+     -75.685291,
+     45.427976
+    ],
+    [
+     -75.685313,
+     45.427993
+    ],
+    [
+     -75.685351,
+     45.42804
+    ],
+    [
+     -75.685399,
+     45.428105
+    ],
+    [
+     -75.685643,
+     45.428414
+    ],
+    [
+     -75.685697,
+     45.428392
+    ],
+    [
+     -75.68573,
+     45.428431
+    ],
+    [
+     -75.685895,
+     45.428358
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 150 m.",
+     "À la hauteur du pavillon Fauteux, tourne à droite sur la privée Thomas-More sur environ 50 m.",
+     "Prends légèrement à gauche sur l'avenue King-Edward sur environ 625 m.",
+     "Tourne à gauche sur le sentier piétonnier sur environ 30 m.",
+     "La résidence Rideau est à ta droite."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 150 m.",
+     "At Fauteux Hall, turn right onto Thomas More Private for about 50 m.",
+     "Bear left onto King Edward Avenue for about 625 m.",
+     "Turn left onto the footpath for about 30 m.",
+     "Rideau Residence is on your right."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     12
+    ],
+    [
+     12,
+     16
+    ],
+    [
+     16,
+     51
+    ],
+    [
+     51,
+     54
+    ],
+    [
+     53,
+     54
+    ]
+   ]
+  },
+  "FRL": {
+   "name": {
+    "fr": "Résidence Friel (FRL)",
+    "en": "Friel Residence (FRL)"
+   },
+   "kb": [
+    "d-res-friel"
+   ],
+   "at": [
+    -75.682766,
+    45.430396
+   ],
+   "distance_m": 1220,
+   "minutes": 17,
+   "line": [
+    [
+     -75.681761,
+     45.422077
+    ],
+    [
+     -75.681562,
+     45.422158
+    ],
+    [
+     -75.681912,
+     45.422582
+    ],
+    [
+     -75.681868,
+     45.422621
+    ],
+    [
+     -75.681838,
+     45.422658
+    ],
+    [
+     -75.681855,
+     45.422701
+    ],
+    [
+     -75.681918,
+     45.422773
+    ],
+    [
+     -75.682133,
+     45.423018
+    ],
+    [
+     -75.682317,
+     45.423231
+    ],
+    [
+     -75.682323,
+     45.423254
+    ],
+    [
+     -75.682321,
+     45.423274
+    ],
+    [
+     -75.682373,
+     45.423337
+    ],
+    [
+     -75.682419,
+     45.423392
+    ],
+    [
+     -75.682369,
+     45.423389
+    ],
+    [
+     -75.68189,
+     45.423587
+    ],
+    [
+     -75.681909,
+     45.423616
+    ],
+    [
+     -75.68191,
+     45.423645
+    ],
+    [
+     -75.681858,
+     45.423735
+    ],
+    [
+     -75.681779,
+     45.423869
+    ],
+    [
+     -75.682035,
+     45.42418
+    ],
+    [
+     -75.682317,
+     45.424524
+    ],
+    [
+     -75.682504,
+     45.424752
+    ],
+    [
+     -75.682851,
+     45.425173
+    ],
+    [
+     -75.682881,
+     45.425188
+    ],
+    [
+     -75.682913,
+     45.425199
+    ],
+    [
+     -75.682969,
+     45.425207
+    ],
+    [
+     -75.683036,
+     45.425279
+    ],
+    [
+     -75.683074,
+     45.425322
+    ],
+    [
+     -75.683061,
+     45.425345
+    ],
+    [
+     -75.683065,
+     45.42536
+    ],
+    [
+     -75.683482,
+     45.425864
+    ],
+    [
+     -75.683728,
+     45.426161
+    ],
+    [
+     -75.683752,
+     45.426174
+    ],
+    [
+     -75.683801,
+     45.426234
+    ],
+    [
+     -75.683839,
+     45.426274
+    ],
+    [
+     -75.68384,
+     45.426291
+    ],
+    [
+     -75.68426,
+     45.426781
+    ],
+    [
+     -75.684294,
+     45.426802
+    ],
+    [
+     -75.684337,
+     45.426849
+    ],
+    [
+     -75.684392,
+     45.426904
+    ],
+    [
+     -75.684793,
+     45.427376
+    ],
+    [
+     -75.684817,
+     45.427388
+    ],
+    [
+     -75.684866,
+     45.427447
+    ],
+    [
+     -75.684914,
+     45.427504
+    ],
+    [
+     -75.684915,
+     45.427527
+    ],
+    [
+     -75.685157,
+     45.427817
+    ],
+    [
+     -75.685277,
+     45.427964
+    ],
+    [
+     -75.685291,
+     45.427976
+    ],
+    [
+     -75.685313,
+     45.427993
+    ],
+    [
+     -75.685351,
+     45.42804
+    ],
+    [
+     -75.685399,
+     45.428105
+    ],
+    [
+     -75.685334,
+     45.42815
+    ],
+    [
+     -75.685284,
+     45.42818
+    ],
+    [
+     -75.685231,
+     45.42821
+    ],
+    [
+     -75.685308,
+     45.428318
+    ],
+    [
+     -75.685346,
+     45.428408
+    ],
+    [
+     -75.685376,
+     45.42848
+    ],
+    [
+     -75.68539,
+     45.428506
+    ],
+    [
+     -75.685412,
+     45.428547
+    ],
+    [
+     -75.685465,
+     45.428624
+    ],
+    [
+     -75.685475,
+     45.428639
+    ],
+    [
+     -75.6855,
+     45.428673
+    ],
+    [
+     -75.685511,
+     45.428718
+    ],
+    [
+     -75.68549,
+     45.428747
+    ],
+    [
+     -75.685464,
+     45.428758
+    ],
+    [
+     -75.685412,
+     45.428777
+    ],
+    [
+     -75.685362,
+     45.428799
+    ],
+    [
+     -75.684919,
+     45.428993
+    ],
+    [
+     -75.684462,
+     45.42918
+    ],
+    [
+     -75.684419,
+     45.429198
+    ],
+    [
+     -75.684034,
+     45.429356
+    ],
+    [
+     -75.68393,
+     45.429405
+    ],
+    [
+     -75.683866,
+     45.429436
+    ],
+    [
+     -75.683836,
+     45.429446
+    ],
+    [
+     -75.683793,
+     45.429463
+    ],
+    [
+     -75.683142,
+     45.429742
+    ],
+    [
+     -75.68253,
+     45.429997
+    ],
+    [
+     -75.682563,
+     45.430094
+    ],
+    [
+     -75.682585,
+     45.430173
+    ],
+    [
+     -75.682554,
+     45.430194
+    ],
+    [
+     -75.682557,
+     45.430203
+    ],
+    [
+     -75.682567,
+     45.430225
+    ],
+    [
+     -75.682577,
+     45.430241
+    ],
+    [
+     -75.682719,
+     45.430415
+    ],
+    [
+     -75.682766,
+     45.430396
+    ]
+   ],
+   "steps": {
+    "fr": [
+     "Sors du pavillon CRX et prends la privée Louis-Pasteur vers le nord-ouest sur environ 225 m.",
+     "À la hauteur du pavillon Fauteux, prends légèrement à gauche sur l'avenue King-Edward sur environ 600 m.",
+     "Tourne à gauche pour rester sur l'avenue King-Edward sur environ 60 m.",
+     "Tourne à droite sur la rue Rideau sur environ 325 m.",
+     "La résidence Friel (FRL) est à ta gauche."
+    ],
+    "en": [
+     "Leave CRX and take Louis-Pasteur Private heading northwest for about 225 m.",
+     "At Fauteux Hall, bear left onto King Edward Avenue for about 600 m.",
+     "Turn left to stay on King Edward Avenue for about 60 m.",
+     "Turn right onto Rideau Street for about 325 m.",
+     "Friel Residence (FRL) is on your left."
+    ]
+   },
+   "stepRanges": [
+    [
+     0,
+     16
+    ],
+    [
+     16,
+     53
+    ],
+    [
+     53,
+     63
+    ],
+    [
+     63,
+     83
+    ],
+    [
+     83,
+     84
+    ]
+   ]
+  }
+ }
+}

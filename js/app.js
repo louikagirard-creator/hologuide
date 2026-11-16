@@ -6,6 +6,7 @@ import { findAnswer, byId, inCategory, CATEGORIES } from './search.js';
 import { speak, stopSpeaking, listen, canListen } from './speech.js';
 import { GeeGee } from './mascot.js';
 import { VideoGeeGee, CLIPS } from './avatar-video.js';
+import { loadCampus, routeForEntry, drawRoute } from './campusmap.js';
 
 const $ = (s, root = document) => root.querySelector(s);
 const $$ = (s, root = document) => [...root.querySelectorAll(s)];
@@ -197,8 +198,11 @@ function ask(text, id) {
         box.dataset.done = '1'; bump((s) => { s[k]++; });
         box.replaceChildren(h('span', { class: 'spacer' }), h('span', { text: t('thanksFb') }));
       } }, t(lab))));
-    setView(asked(q), p,
-      e.image?.src && h('button', { class: 'plan', onclick: () => openPlan(e.image) }, h('img', { src: e.image.src, alt: L(e.image.alt) }), h('span', { text: t('zoom') })),
+    // Pavillon : vraie carte avec le trajet depuis la borne ; plan du campus : carte d'ensemble ; plan d'étage en plus si disponible
+    const route = routeCard(e, q);
+    const sitePlan = /site-plan/.test(e.image?.src || '');
+    setView(asked(q), p, route || (sitePlan && campusCard()),
+      e.image?.src && !sitePlan && h('button', { class: 'plan', onclick: () => openPlan(e.image) }, h('img', { src: e.image.src, alt: L(e.image.alt) }), h('span', { text: route ? t('floorPlan') : t('zoom') })),
       sourceLinks(e.sources), h('p', { class: 'meta', text: `${e.status === 'pointer' ? `${t('pointer')} · ` : ''}${fill(t('time'), { ms })}${e.verifiedOn ? ` · ${t('verified')} ${e.verifiedOn}` : ''}` }),
       fb, related.length && h('p', { class: 'section', text: t('relatedTitle') }), related.length && questionList(related));
     gg?.react('answer');
@@ -275,7 +279,32 @@ function openHistory() {
     : [h('li', { class: 'empty', text: t('historyEmpty') })]));
   $('#history').hidden = false;
 }
-function openPlan(img) { $('#lightboxImg').src = img.src; $('#lightboxImg').alt = L(img.alt); $('#lightbox').hidden = false; }
+function openPlan(img) { $('#lightboxMap').replaceChildren(); $('#lightboxImg').hidden = false; $('#lightboxImg').src = img.src; $('#lightboxImg').alt = L(img.alt); $('#lightbox').hidden = false; }
+function openMap(svg) { $('#lightboxImg').hidden = true; $('#lightboxMap').replaceChildren(svg); $('#lightbox').hidden = false; }
+
+// ---------- Itinéraire à pied (carte d'ensemble + une petite carte zoomée par étape) ----------
+function routeCard(e, asked) {
+  const r = routeForEntry(e, asked);
+  if (!r) return null;
+  const lang = state.lang, steps = r.steps[lang] || r.steps.fr;
+  const head = r.distance_m ? fill(t('walk'), { m: r.distance_m, min: r.minutes }) : t('hereAlready');
+  return h('section', { class: 'route' },
+    h('p', { class: 'route-head' }, h('strong', { text: t('directions') }), h('span', { text: head })),
+    h('button', { class: 'route-map', 'aria-label': t('enlargeMap'), onclick: () => openMap(drawRoute(r.code, { lang, aspect: 0.8, pad: 50 })) },
+      drawRoute(r.code, { lang, aspect: 1.3 }), h('span', { class: 'route-zoom', text: t('enlargeMap') })),
+    h('ol', { class: 'route-steps' }, steps.map((txt, i) => h('li', {},
+      r.stepRanges?.[i] && r.line.length > 1 ? h('span', { class: 'step-map', 'aria-hidden': 'true' }, drawRoute(r.code, { lang, focus: r.stepRanges[i], aspect: 1, pad: 30, min: 110, mini: true })) : null,
+      h('span', { class: 'step-num', text: i + 1 }), h('span', { class: 'step-text', text: txt })))));
+}
+function campusCard() {
+  try {
+    const lang = state.lang;
+    return h('section', { class: 'route' },
+      h('p', { class: 'route-head' }, h('strong', { text: t('campusMap') })),
+      h('button', { class: 'route-map', 'aria-label': t('enlargeMap'), onclick: () => openMap(drawRoute('CRX', { lang, aspect: 0.8, min: 1150, pad: 0 })) },
+        drawRoute('CRX', { lang, aspect: 1, min: 1000, pad: 0 }), h('span', { class: 'route-zoom', text: t('enlargeMap') })));
+  } catch { return null; } // données pas encore chargées
+}
 function closeOverlays() { $('#history').hidden = true; $('#lightbox').hidden = true; }
 function toast(text) {
   const el = h('div', { class: 'toast', role: 'status', text });
@@ -361,6 +390,7 @@ function bind() {
   $('#resetStats').addEventListener('click', () => { try { localStorage.removeItem(STATS_KEY); } catch { /* rien */ } openAdmin(); });
 }
 
+loadCampus();
 applyText();
 placeMascot();
 bind();

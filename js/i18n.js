@@ -27,7 +27,7 @@ export const TEXT = {
     endTitle: 'Merci d\'avoir parlé avec moi !', qrText: 'Scanne ce code pour garder tes questions et les liens officiels.', noQr: 'Aucune question posée cette fois-ci.',
     rate: 'Comment était ton expérience ?', done: 'Terminer', closing: 'Retour à l\'accueil dans {s} s',
     privacy: 'Aucune donnée personnelle n\'est demandée ni conservée. Tout est effacé à la fin de la session.',
-    qrHeader: 'HoloGuide uOttawa — tes questions', admin: 'Indicateurs de la borne',
+    qrHeader: 'HoloGuide · boîte Holotech d\'INNOVA — tes questions', admin: 'Indicateurs de la boîte Holotech',
     stats: { sessions: 'Sessions', questions: 'Questions', unanswered: 'Sans réponse', qr: 'Codes QR', up: 'Réponses utiles', down: 'Réponses pas utiles', ratings: 'Satisfaction (bof / correct / super)', top: 'Questions fréquentes', profiles: 'Profils', langs: 'Langues' },
     close: 'Fermer', reset: 'Remettre à zéro'
   },
@@ -58,7 +58,7 @@ export const TEXT = {
     endTitle: 'Thanks for talking with me!', qrText: 'Scan this code to keep your questions and the official links.', noQr: 'No questions asked this time.',
     rate: 'How was your experience?', done: 'Done', closing: 'Back to the start in {s} s',
     privacy: 'No personal data is requested or stored. Everything is erased when the session ends.',
-    qrHeader: 'HoloGuide uOttawa — your questions', admin: 'Kiosk indicators',
+    qrHeader: 'HoloGuide · INNOVA Holotech box — your questions', admin: 'Holotech box indicators',
     stats: { sessions: 'Sessions', questions: 'Questions', unanswered: 'Unanswered', qr: 'QR codes', up: 'Helpful answers', down: 'Unhelpful answers', ratings: 'Satisfaction (bof / correct / super)', top: 'Top questions', profiles: 'Profiles', langs: 'Languages' },
     close: 'Close', reset: 'Reset'
   }
@@ -74,11 +74,4 @@ export const TOPIC_ORDER = {
   student: ['cours', 'examens', 'bibliotheques', 'batiments', 'services', 'finances', 'logement', 'associations', 'ti', 'transport', 'sante', 'calendrier', 'reglements', 'evenements', 'international', 'programmes', 'genie', 'admissions', 'borne'],
   staff: ['ti', 'batiments', 'transport', 'services', 'bibliotheques', 'evenements', 'calendrier', 'sante', 'reglements', 'cours', 'borne'],
   visitor: ['batiments', 'transport', 'evenements', 'admissions', 'programmes', 'international', 'services', 'bibliotheques', 'borne']
-};
-
-// Icône de chaque sujet (tuiles tactiles).
-export const TOPIC_ICON = {
-  admissions: '📝', programmes: '🎓', cours: '📚', calendrier: '📅', examens: '✏️', reglements: '⚖️', services: '🤝', batiments: '🏛️',
-  bibliotheques: '📖', transport: '🚌', logement: '🏠', finances: '💳', associations: '🎉', evenements: '🎤', genie: '⚙️',
-  international: '🌍', ti: '💻', sante: '🩺', borne: '🤖'
 };

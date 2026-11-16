@@ -1,10 +1,12 @@
-# HoloGuide v2 — borne holographique uOttawa × INNOVA
+# HoloGuide — boîte Holotech d'INNOVA (uOttawa)
 
-Projet GNG1503, équipe AVENGERS (AF23). Version refaite de zéro. Site statique (HTML, CSS, JavaScript), sans serveur, sans compte et sans dépendance réseau, pensé pour la boîte holographique (Windows 11, écran tactile vertical, micro, haut-parleurs). Le fond est noir parce que la boîte rend le noir transparent : seul Gee-Gee « flotte ».
+Projet GNG1503, équipe AVENGERS (AF23). Version refaite de zéro. Site statique (HTML, CSS, JavaScript), sans serveur, sans compte et sans dépendance réseau, pensé pour la **boîte Holotech d'INNOVA** (Windows 11, écran tactile vertical, micro, haut-parleurs). Le fond est noir parce que la boîte rend le noir transparent.
+
+**Mise en page** : Gee-Gee est debout dans la colonne de gauche, en pied, de la tête aux souliers, sur toute la hauteur de la boîte, comme s'il était vraiment dedans. L'interface occupe la colonne de droite et ne passe jamais devant lui. Sur un écran à l'horizontale, les colonnes s'ajustent ; sur un téléphone (tests), Gee-Gee passe au-dessus.
 
 ## Lancer
 - Sur un ordinateur : `python3 -m http.server 5179` dans ce dossier, puis ouvrir http://localhost:5179.
-- Sur la borne : Edge en mode kiosque, par exemple `msedge --kiosk http://localhost:5179 --edge-kiosk-type=fullscreen`. Edge a les voix « Natural » les plus humaines et donne le minutage de chaque mot, ce qui synchronise le mieux la bouche de Gee-Gee.
+- Dans la boîte Holotech : Edge en mode kiosque, par exemple `msedge --kiosk http://localhost:5179 --edge-kiosk-type=fullscreen`. Edge a les voix « Natural » les plus humaines et donne le minutage de chaque mot, ce qui synchronise le mieux la bouche de Gee-Gee.
 - Le site doit être servi par un serveur (pas en double-cliquant `index.html`), sinon le navigateur bloque les modules JavaScript.
 - Tests de la recherche : ouvrir `tests.html`, ou `node tests/search.test.mjs`.
 
@@ -33,12 +35,12 @@ Projet GNG1503, équipe AVENGERS (AF23). Version refaite de zéro. Site statique
 | Indicateurs de succès | Tableau de bord : 5 touches sur « HoloGuide » ou Maj+A (sessions, questions, sans réponse, QR, avis, satisfaction, questions fréquentes) |
 
 ## Gee-Gee
-Cheval de dessin animé aux couleurs uOttawa (grenat et gris), maillot « GG », construit entièrement en code avec three.js (`js/mascot.js`), donc rien à télécharger. Il parle syllabe par syllabe selon les voyelles, cligne des yeux, bouge les oreilles et les sourcils, tourne la tête vers l'endroit touché, salue, hausse les épaules quand il n'a pas de réponse, lève le sabot quand on le remercie, saute de joie quand il répond et s'anime tout seul au repos. Des particules lumineuses donnent un effet de projection.
+Cheval aux couleurs uOttawa (grenat et gris), en pied : maillot « GG », short gris à bande blanche, bas grenat rayés, souliers de mascotte et queue qui se balance. Il est construit entièrement en code avec three.js (`js/mascot.js`), donc rien à télécharger. Il parle syllabe par syllabe selon les voyelles, cligne des yeux, bouge les oreilles et les sourcils, tourne la tête vers l'endroit touché, salue, hausse les épaules quand il n'a pas de réponse, lève le sabot quand on le remercie, saute de joie quand il répond et s'anime tout seul au repos. Rendu : matières peluche et tissu (reflet satiné), ombres douces, lumière venant du plafond de la boîte et contre-jours qui détachent la silhouette du noir. Le haut du corps se balance pendant que les pieds restent au sol. Quelques particules lumineuses donnent un effet de projection.
 Design original inspiré des Gee-Gees : pour utiliser le logo ou la mascotte officielle, il faut l'accord de l'Université.
 
 ## Fichiers
-- `index.html`, `css/style.css` : la page et son style.
-- `js/app.js` : le déroulement de la borne (écrans, conversation, QR, inactivité, indicateurs).
+- `index.html`, `css/style.css` : la page (deux colonnes : Gee-Gee à gauche, interface à droite) et son style sobre (titres à empattements, filets fins, accent grenat).
+- `js/app.js` : le déroulement dans la boîte (écrans, conversation, QR, inactivité, indicateurs).
 - `js/search.js` : la recherche de réponses (mots-clés, tolérance aux fautes, santé mentale, salutations).
 - `js/speech.js` : la voix et le micro (API Web Speech du navigateur).
 - `js/mascot.js` : Gee-Gee en 3D.

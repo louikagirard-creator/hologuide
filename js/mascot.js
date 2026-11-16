@@ -1,17 +1,22 @@
 // Gee-Gee : mascotte 3D (cheval de dessin animé, grenat et gris uOttawa), construite en code avec three.js.
-// Aucun modèle à télécharger. Fond transparent : sur le noir de la boîte holographique, seul Gee-Gee « flotte ».
+// Aucun modèle à télécharger. Gee-Gee est en pied (de la tête aux souliers), à l'échelle de la boîte Holotech d'INNOVA :
+// fond transparent (le noir disparaît dans la boîte), matières peluche et tissu, ombres douces, éclairage venant du plafond.
 // Design original inspiré des Gee-Gees ; la mascotte et le logo officiels demandent l'accord de l'Université.
 import * as THREE from 'three';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 
 const C = { garnet: 0x8f001a, garnetDark: 0x5c0010, grey: 0x6d6e71, coat: 0xece7df, muzzle: 0xf7f2eb, hoof: 0x37373a, pink: 0xeaa3b2 };
-const VIEWS = { bust: { pos: [0, 1.5, 3.2], look: [0, 1.4, 0] }, wide: { pos: [0, 1.2, 4.3], look: [0, 1.15, 0] } };
+const FLOOR = -1.33;   // dessous des souliers = plancher de la boîte
+const TOP = 2.02;      // bout des oreilles
+const FIT = 1.06;      // marge au-dessus des oreilles
 const smooth = (x) => (x <= 0 ? 0 : x >= 1 ? 1 : x * x * (3 - 2 * x));
 const mix = (a, b, k) => a + (b - a) * k;
 const now = () => performance.now() / 1000;
 
-const mat = (color, roughness = 0.65, more = {}) => new THREE.MeshStandardMaterial({ color, roughness, metalness: 0, ...more });
-function ball(r, material, sx = 1, sy = 1, sz = 1, seg = 32) {
+const mat = (color, roughness = 0.65, more = {}) => new THREE.MeshPhysicalMaterial({
+  color, roughness, metalness: 0, ...(roughness >= 0.55 ? { sheen: 0.6, sheenRoughness: 0.5, sheenColor: new THREE.Color(color).lerp(new THREE.Color(0xffffff), 0.35) } : { clearcoat: 0.4 }), ...more
+});
+function ball(r, material, sx = 1, sy = 1, sz = 1, seg = 40) {
   const m = new THREE.Mesh(new THREE.SphereGeometry(r, seg, Math.round(seg * 0.75)), typeof material === 'number' ? mat(material) : material);
   m.scale.set(sx, sy, sz);
   return m;
@@ -35,18 +40,22 @@ export class GeeGee {
     r.setPixelRatio(Math.min(2, window.devicePixelRatio || 1));
     r.setClearColor(0, 0);
     r.outputColorSpace = THREE.SRGBColorSpace;
-    r.toneMapping = THREE.ACESFilmicToneMapping; r.toneMappingExposure = 0.9;
+    r.toneMapping = THREE.ACESFilmicToneMapping; r.toneMappingExposure = 0.95;
+    r.shadowMap.enabled = true; r.shadowMap.type = THREE.PCFSoftShadowMap;
     this.el.appendChild(r.domElement);
 
     this.scene = new THREE.Scene();
     this.scene.environment = new THREE.PMREMGenerator(r).fromScene(new RoomEnvironment(), 0.04).texture;
     this.scene.environmentIntensity = 0.35;
-    this.scene.add(new THREE.HemisphereLight(0xffffff, 0x302028, 0.7));
-    at(new THREE.DirectionalLight(0xfff2e6, 1.8), 1.6, 2.6, 3, this.scene);   // lumière principale
-    at(new THREE.DirectionalLight(0x7fdcff, 3.2), -2, 2.2, -2.5, this.scene); // contre-jour cyan (effet hologramme)
-    at(new THREE.DirectionalLight(0xff8aa0, 1.2), 2.2, 1, -2, this.scene);    // contre-jour grenat
+    this.scene.add(new THREE.HemisphereLight(0xffffff, 0x2a2024, 0.55));
+    const key = at(new THREE.DirectionalLight(0xfff3e8, 2.2), 1.8, 4.5, 3.2, this.scene); // lumière du plafond de la boîte, de face
+    key.castShadow = true; key.shadow.mapSize.set(2048, 2048); key.shadow.radius = 6; key.shadow.bias = -0.0004; key.shadow.normalBias = 0.02;
+    Object.assign(key.shadow.camera, { left: -2, right: 2, top: 2.6, bottom: -1.6, near: 1, far: 12 });
+    at(new THREE.DirectionalLight(0xdfeeff, 2.4), -2.4, 2.4, -2.6, this.scene); // contre-jour : détache la silhouette du noir
+    at(new THREE.DirectionalLight(0xffc9d2, 1.0), 2.6, 0.6, -2.2, this.scene);  // contre-jour chaud, côté opposé
+    at(new THREE.DirectionalLight(0xffffff, 0.5), 0, -2, 3, this.scene);        // rebond du plancher
     this.camera = new THREE.PerspectiveCamera(30, 1, 0.1, 50);
-    this.setView('bust');
+    this.figure = 0.27; // position horizontale de Gee-Gee dans l'image (0 = bord gauche)
 
     this.build();
     this.state = {
@@ -60,21 +69,22 @@ export class GeeGee {
 
   build() {
     const root = this.root = new THREE.Group(); this.scene.add(root);
+    const upper = this.upper = new THREE.Group(); root.add(upper);
 
     // Torse : maillot grenat (forme tournée qui sort du bas de l'image), col gris, inscription « GG »
-    const torso = this.torso = new THREE.Group(); root.add(torso);
-    const shape = [[0, 1.07], [0.17, 1.06], [0.36, 1.0], [0.45, 0.88], [0.45, 0.62], [0.39, 0.32], [0.36, 0.05], [0.37, -0.5]].map(([x, y]) => new THREE.Vector2(x, y));
+    const torso = this.torso = new THREE.Group(); upper.add(torso);
+    const shape = [[0, 1.07], [0.17, 1.06], [0.36, 1.0], [0.45, 0.88], [0.45, 0.62], [0.39, 0.32], [0.36, 0.05], [0.36, -0.04]].reverse().map(([x, y]) => new THREE.Vector2(x, y)); // de bas en haut : normales vers l'extérieur
     const jersey = new THREE.Mesh(new THREE.LatheGeometry(shape, 48), mat(C.garnet, 0.8)); jersey.scale.z = 0.76; torso.add(jersey);
     const collar = at(new THREE.Mesh(new THREE.TorusGeometry(0.19, 0.04, 16, 48), mat(C.grey, 0.6)), 0, 1.04, 0, torso);
     collar.rotation.x = Math.PI / 2; collar.scale.y = 0.85;
     const label = new THREE.Mesh(new THREE.PlaneGeometry(0.46, 0.23), new THREE.MeshStandardMaterial({ map: jerseyLabel(), transparent: true, roughness: 0.7 }));
     at(label, 0, 0.66, 0.345, torso);
 
-    const neck = at(new THREE.Mesh(new THREE.CylinderGeometry(0.15, 0.21, 0.42, 32), mat(C.coat)), 0, 1.17, 0, root);
+    const neck = at(new THREE.Mesh(new THREE.CylinderGeometry(0.15, 0.21, 0.42, 32), mat(C.coat)), 0, 1.17, 0, upper);
     neck.rotation.x = 0.1;
 
     // Tête de cheval : crâne, joues, long museau, naseaux ; légèrement baissée pour qu'on voie le museau
-    this.neckPivot = at(new THREE.Group(), 0, 1.3, 0.02, root);
+    this.neckPivot = at(new THREE.Group(), 0, 1.3, 0.02, upper);
     const head = this.head = at(new THREE.Group(), 0, 0.24, 0, this.neckPivot);
     head.rotation.x = 0.28;
     head.add(ball(0.27, C.coat, 1, 1.12, 1.02));
@@ -123,7 +133,7 @@ export class GeeGee {
     this.forelock = at(new THREE.Group(), 0, 0.28, 0.06, head);
     for (const [x, rz] of [[-0.09, 0.4], [-0.03, 0.12], [0.03, -0.12], [0.09, -0.4]])
       at(new THREE.Mesh(new THREE.ConeGeometry(0.055, 0.22, 16), mane), x, 0, 0.06, this.forelock).rotation.set(1.9, 0, rz);
-    this.mane = new THREE.Group(); root.add(this.mane);
+    this.mane = new THREE.Group(); upper.add(this.mane);
     for (let i = 0; i < 8; i++) {
       const k = i / 7;
       at(ball(0.09 - k * 0.025, mane, 0.7, 1.15, 1), 0, 1.84 - k * 0.78, -0.12 - Math.sin(k * 1.9) * 0.24, this.mane).rotation.x = -0.5 - k * 0.6;
@@ -131,7 +141,7 @@ export class GeeGee {
 
     // Bras : épaule arrondie > manche > coude > avant-bras > sabot
     this.arms = [1, -1].map((s) => {
-      const shoulder = at(new THREE.Group(), 0.44 * s, 0.86, 0, root);
+      const shoulder = at(new THREE.Group(), 0.44 * s, 0.86, 0, upper);
       at(ball(0.13, mat(C.garnet, 0.8), 1, 0.9, 0.9), 0, -0.02, 0, shoulder);
       at(new THREE.Mesh(new THREE.CapsuleGeometry(0.095, 0.26, 6, 20), mat(C.garnet, 0.8)), 0, -0.17, 0, shoulder);
       at(new THREE.Mesh(new THREE.TorusGeometry(0.1, 0.02, 8, 24), mat(C.grey, 0.6)), 0, -0.34, 0, shoulder).rotation.x = Math.PI / 2;
@@ -141,17 +151,41 @@ export class GeeGee {
       return { s, shoulder, elbow };
     });
 
+    // Bas du corps : short gris à bande blanche, jambes, bas grenat rayés, gros souliers de mascotte
+    const shorts = new THREE.Mesh(new THREE.LatheGeometry([[0, -0.22], [0.39, -0.2], [0.4, -0.05], [0.37, 0.08], [0, 0.08]].map(([x, y]) => new THREE.Vector2(x, y)), 48), mat(C.grey, 0.8));
+    shorts.scale.z = 0.78; root.add(shorts);
+    for (const s of [1, -1]) {
+      const leg = at(new THREE.Group(), 0.18 * s, 0, 0, root);
+      at(new THREE.Mesh(new THREE.CylinderGeometry(0.17, 0.16, 0.34, 32), mat(C.grey, 0.8)), 0, -0.3, 0, leg);
+      at(new THREE.Mesh(new THREE.BoxGeometry(0.012, 0.42, 0.05), mat(0xffffff, 0.7)), 0.17 * s, -0.26, 0, leg);
+      at(new THREE.Mesh(new THREE.CapsuleGeometry(0.1, 0.42, 8, 24), mat(C.coat)), 0, -0.72, 0, leg);
+      at(new THREE.Mesh(new THREE.CylinderGeometry(0.118, 0.112, 0.26, 32), mat(C.garnet, 0.85)), 0, -1.03, 0, leg);
+      for (const y of [-0.93, -0.97]) at(new THREE.Mesh(new THREE.TorusGeometry(0.117, 0.012, 8, 32), mat(0xffffff, 0.7)), 0, y, 0, leg).rotation.x = Math.PI / 2;
+      const shoe = at(new THREE.Group(), 0, -1.22, 0.07, leg);
+      at(new THREE.Mesh(new THREE.CapsuleGeometry(0.13, 0.2, 8, 24), mat(0xf4f4f4, 0.6)), 0, 0, 0, shoe).rotation.x = Math.PI / 2;
+      at(new THREE.Mesh(new THREE.CapsuleGeometry(0.135, 0.22, 8, 24), mat(C.garnet, 0.7)), 0, -0.055, 0, shoe).rotation.x = Math.PI / 2;
+      shoe.children[1].scale.set(1, 1, 0.35);
+    }
+    // Queue grenat qui se balance
+    this.tail = at(new THREE.Group(), 0, 0.0, -0.33, root);
+    for (let i = 0; i < 6; i++) at(ball(0.075 - i * 0.008, mat(C.garnet, 0.55), 0.8, 1.3, 0.8), 0, -i * 0.11, -0.04 - Math.sin(i * 0.5) * 0.12, this.tail);
+    this.tail.rotation.x = 0.35;
+
     // Particules lumineuses qui montent : effet de projection holographique
     const N = 140, positions = new Float32Array(N * 3), colors = new Float32Array(N * 3);
     const cyan = new THREE.Color(0xffffff), red = new THREE.Color(0xd0103a); // blanc et grenat
     this.sparks = Array.from({ length: N }, (_, i) => {
       const c = Math.random() < 0.75 ? cyan : red; colors.set([c.r, c.g, c.b], i * 3);
-      return { a: Math.random() * Math.PI * 2, r: 0.55 + Math.random() * 0.55, y: Math.random() * 2.4 - 0.2, v: 0.08 + Math.random() * 0.18, w: (Math.random() - 0.5) * 0.4 };
+      return { a: Math.random() * Math.PI * 2, r: 0.3 + Math.random() * 0.45, y: FLOOR + Math.random() * 3.4, v: 0.08 + Math.random() * 0.18, w: (Math.random() - 0.5) * 0.4 };
     });
     this.sparkGeo = new THREE.BufferGeometry();
     this.sparkGeo.setAttribute('position', new THREE.BufferAttribute(positions, 3));
     this.sparkGeo.setAttribute('color', new THREE.BufferAttribute(colors, 3));
-    this.scene.add(new THREE.Points(this.sparkGeo, new THREE.PointsMaterial({ size: 0.03, vertexColors: true, transparent: true, opacity: 0.75, blending: THREE.AdditiveBlending, depthWrite: false })));
+    // Ombre de contact sur le plancher de la boîte (seule l'ombre est dessinée)
+    const floor = at(new THREE.Mesh(new THREE.CircleGeometry(1.6, 48), new THREE.ShadowMaterial({ opacity: 0.45 })), 0, FLOOR, 0, this.scene);
+    floor.rotation.x = -Math.PI / 2; floor.receiveShadow = true;
+    this.root.traverse((o) => { if (o.isMesh) { o.castShadow = true; o.receiveShadow = true; } });
+    this.scene.add(new THREE.Points(this.sparkGeo, new THREE.PointsMaterial({ size: 0.035, vertexColors: true, transparent: true, opacity: 0.75, blending: THREE.AdditiveBlending, depthWrite: false })));
   }
 
   // ---------- Affichage ----------
@@ -160,13 +194,20 @@ export class GeeGee {
     this.setView(view); this.resize();
     if (!this.running) { this.running = true; const loop = () => { this.frame(); requestAnimationFrame(loop); }; requestAnimationFrame(loop); }
   }
-  setView(name) {
-    const v = VIEWS[name] || VIEWS.bust;
-    this.camera.position.set(...v.pos); this.camera.lookAt(...v.look);
-  }
+  setView() { this.resize(); } // une seule vue : Gee-Gee en pied, cadré de la tête aux souliers
   resize() {
     const w = this.el.clientWidth || 1, h = this.el.clientHeight || 1;
-    this.renderer.setSize(w, h, false); this.camera.aspect = w / h; this.camera.updateProjectionMatrix();
+    this.renderer.setSize(w, h, false);
+    // Le canevas déborde sous l'interface (les bras qui saluent ne sont pas coupés),
+    // mais Gee-Gee reste centré dans la colonne de gauche.
+    const col = this.el.closest('.holo')?.clientWidth || w;
+    const cam = this.camera, aspect = col / h, half = Math.tan(THREE.MathUtils.degToRad(cam.fov / 2));
+    const H = (TOP - FLOOR) * FIT, W = 1.25;                  // hauteur et largeur à faire tenir (bras compris)
+    const d = Math.max(H / 2 / half, W / 2 / (half * aspect));
+    const cy = FLOOR + H / 2 - 0.02;
+    cam.aspect = aspect; cam.position.set(0, cy, d); cam.lookAt(0, cy, 0);
+    cam.setViewOffset(col, h, w > col ? col * 0.025 : 0, 0, w, h); // un peu à gauche du centre de la colonne
+    cam.updateProjectionMatrix();
   }
   snapshot() { this.frame(); return this.renderer.domElement.toDataURL('image/png'); }
 
@@ -276,7 +317,9 @@ export class GeeGee {
     for (const key of ['y', 'ry', 'rz', 'hx', 'hy', 'hz', 'brow']) P[key] = mix(P[key], T[key], k);
     P.arms.forEach((a, i) => { for (const key in a) a[key] = mix(a[key], T.arms[i][key], k); });
 
-    this.root.position.y = P.y; this.root.rotation.set(0, P.ry, P.rz);
+    this.root.position.y = P.y; this.root.rotation.set(0, P.ry, 0);
+    this.upper.rotation.z = P.rz; this.upper.rotation.x = Math.sin(t * 0.9) * 0.012; // le haut se balance, les pieds restent au sol
+    this.tail.rotation.z = Math.sin(t * 1.7) * 0.18; this.tail.rotation.x = 0.35 + Math.sin(t * 1.1) * 0.05;
     this.torso.scale.y = 1 + 0.012 * Math.sin(t * 1.4);
     this.neckPivot.rotation.set(P.hx, P.hy, P.hz);
     this.arms.forEach((a, i) => { const q = P.arms[i]; a.shoulder.position.y = 0.86 + q.lift; a.shoulder.rotation.set(q.sx, 0, q.sz); a.elbow.rotation.set(q.ex, 0, q.ez); });
@@ -315,7 +358,7 @@ export class GeeGee {
     const pos = this.sparkGeo.attributes.position;
     this.sparks.forEach((s, i) => {
       s.y += s.v * dt; s.a += s.w * dt;
-      if (s.y > 2.3) { s.y = -0.2; s.a = Math.random() * Math.PI * 2; }
+      if (s.y > TOP + 0.3) { s.y = FLOOR; s.a = Math.random() * Math.PI * 2; }
       pos.setXYZ(i, Math.cos(s.a) * s.r, s.y, Math.sin(s.a) * s.r * 0.6 - 0.1);
     });
     pos.needsUpdate = true;

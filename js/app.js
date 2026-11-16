@@ -1,4 +1,4 @@
-// HoloGuide : déroulement de la borne (veille > accueil > conversation > fin).
+// HoloGuide : déroulement dans la boîte Holotech d'INNOVA (veille > accueil > conversation > fin).
 // Une seule réponse à l'écran à la fois : le texte s'illumine mot par mot pendant que Gee-Gee parle (il sert de sous-titre).
 // Les échanges précédents restent dans l'historique (transcription complète).
 import { TEXT, LINKS, TOPIC_ORDER } from './i18n.js';
@@ -27,17 +27,17 @@ function h(tag, attrs = {}, ...kids) {
 }
 const icon = (id) => { const s = document.createElementNS('http://www.w3.org/2000/svg', 'svg'); s.innerHTML = `<use href="#i-${id}"/>`; return s; };
 
-// ---------- Gee-Gee (sans WebGL : emoji de secours) ----------
+// ---------- Gee-Gee (sans WebGL : son nom s'affiche à la place) ----------
 let gg = null;
 try { gg = new GeeGee(); } catch (err) { console.warn('3D indisponible :', err); }
-function placeMascot(screen) {
-  const stage = $('.stage', screen);
-  if (!stage) return;
-  if (gg) gg.mount(stage, stage.dataset.view);
-  else if (!stage.firstChild) stage.append(h('div', { class: 'fallback', 'aria-hidden': 'true', style: 'font-size:8rem;text-align:center', text: '🐴' }));
+// Monté une seule fois dans la colonne de gauche : Gee-Gee reste à sa place d'un écran à l'autre.
+function placeMascot() {
+  const stage = $('#stage');
+  if (gg) gg.mount(stage);
+  else stage.append(h('p', { class: 'fallback', text: 'Gee-Gee' }));
 }
 
-// ---------- Indicateurs de succès (sur la borne seulement, rien de personnel) ----------
+// ---------- Indicateurs de succès (dans la boîte seulement, rien de personnel) ----------
 const STATS_KEY = 'hologuide-v2-stats';
 const blank = () => ({ sessions: 0, questions: 0, unanswered: 0, qr: 0, up: 0, down: 0, ratings: [0, 0, 0], top: {}, profiles: {}, langs: {} });
 function stats() { try { return { ...blank(), ...JSON.parse(localStorage.getItem(STATS_KEY) || '{}') }; } catch { return blank(); } }
@@ -58,7 +58,6 @@ function applyText() {
 // ---------- Écrans ----------
 function show(id) {
   $$('.screen').forEach((s) => s.classList.toggle('active', s.id === id));
-  placeMascot($(`#${id}`));
   resetIdle();
 }
 let tipTimer = null;
@@ -124,7 +123,7 @@ function setView(...children) {
   v.replaceChildren(...children.flat().filter(Boolean));
   v.scrollTop = 0;
 }
-// Sujets : liste numérotée façon tableau d'affichage sportif (01, 02…).
+// Sujets : liste numérotée (01, 02…), le nombre de questions à droite.
 function topicTiles(ids) {
   return h('ol', { class: 'topics' }, ids.map((id, i) => {
     const c = CATEGORIES.find((x) => x.id === id);
@@ -148,7 +147,7 @@ function viewHome(greeting) {
   const p = spokenText(greeting);
   setView(p,
     h('p', { class: 'section', text: t('popular') }), topicTiles(profileTopics().slice(0, 6)),
-    h('ul', { class: 'list', style: 'margin-top:10px' }, h('li', {}, h('button', { onclick: showAllTopics }, h('span', { text: `${t('allTopics')} (${profileTopics().length})` }), icon('next')))));
+    h('ul', { class: 'list more' }, h('li', {}, h('button', { onclick: showAllTopics }, h('span', { text: `${t('allTopics')} (${profileTopics().length})` }), icon('next')))));
   return p;
 }
 function showAllTopics() {
@@ -160,7 +159,7 @@ function showTopic(id) {
   const intro = fill(t('topicIntro'), { cat: L(c) });
   const p = spokenText(intro);
   setView(h('button', { class: 'back', onclick: showAllTopics }, icon('back'), t('allTopics')),
-    h('h2', { class: 'view-title', text: L(c) }), p, h('div', { style: 'height:14px' }), questionList(inCategory(id)));
+    h('h2', { class: 'view-title', text: L(c) }), p, questionList(inCategory(id)));
   say(intro, p);
 }
 function logExchange(q, a, url) {
@@ -187,15 +186,15 @@ function ask(text, id) {
     const p = spokenText(answer);
     const related = [...new Set([...(e.related || []).map(byId).filter(Boolean), ...res.alts])].filter((r) => r.id !== e.id).slice(0, 3);
     const fb = h('div', { class: 'actions' },
-      h('button', { class: 'round', 'aria-label': t('listenAgain'), title: t('listenAgain'), onclick: () => say(answer, p) }, icon('replay')),
+      h('button', { class: 'tool', 'aria-label': t('listenAgain'), title: t('listenAgain'), onclick: () => say(answer, p) }, icon('replay')),
       h('span', { class: 'spacer' }), h('span', { text: t('helpful') }),
-      ...[['up', 'yes'], ['down', 'no']].map(([k, lab]) => h('button', { class: 'chipbtn', onclick: (ev) => {
+      ...[['up', 'yes'], ['down', 'no']].map(([k, lab]) => h('button', { class: 'pill', onclick: (ev) => {
         const box = ev.currentTarget.parentNode; if (box.dataset.done) return;
         box.dataset.done = '1'; bump((s) => { s[k]++; });
         box.replaceChildren(h('span', { class: 'spacer' }), h('span', { text: t('thanksFb') }));
       } }, t(lab))));
     setView(asked(q), p,
-      e.image && h('button', { class: 'plan', onclick: () => openPlan(e.image) }, h('img', { src: e.image.src, alt: L(e.image.alt) }), h('span', { text: t('zoom') })),
+      e.image?.src && h('button', { class: 'plan', onclick: () => openPlan(e.image) }, h('img', { src: e.image.src, alt: L(e.image.alt) }), h('span', { text: t('zoom') })),
       sourceLinks(e.sources), h('p', { class: 'meta', text: `${e.status === 'pointer' ? `${t('pointer')} · ` : ''}${fill(t('time'), { ms })}${e.verifiedOn ? ` · ${t('verified')} ${e.verifiedOn}` : ''}` }),
       fb, related.length && h('p', { class: 'section', text: t('relatedTitle') }), related.length && questionList(related));
     gg?.react('answer');
@@ -245,7 +244,7 @@ function endSession() {
   $('#qr').replaceChildren();
   if (log.length) { $('#qrText').textContent = t('qrText'); $('#qr').innerHTML = makeQR(log); bump((s) => { s.qr++; }); }
   else $('#qrText').textContent = t('noQr');
-  $$('#rating .tile').forEach((b) => b.setAttribute('aria-pressed', 'false'));
+  $$('#rating .choice').forEach((b) => b.setAttribute('aria-pressed', 'false'));
   state.session = null;
   show('end');
   let left = END_COUNTDOWN;
@@ -305,6 +304,7 @@ function openAdmin() {
 function bind() {
   ['pointerdown', 'keydown', 'input'].forEach((ev) => document.addEventListener(ev, () => { if ($('#idle').hidden) resetIdle(); }, true));
   $('#attract').addEventListener('click', openStart);
+  $('#holo').addEventListener('click', () => { if ($('#attract').classList.contains('active')) openStart(); });
   $('#attract').addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') openStart(); });
   $('#start').addEventListener('click', (e) => {
     const b = e.target.closest('button'); if (!b) return;
@@ -358,6 +358,7 @@ function bind() {
 }
 
 applyText();
+placeMascot();
 bind();
 attract();
 window.HoloGuide = { findAnswer, ask, gg, state, showTopic, endSession }; // accès pour les tests

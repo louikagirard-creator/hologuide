@@ -21,6 +21,7 @@
   <symbol id="i-next" viewBox="0 0 24 24"><path fill="currentColor" d="M8.6 16.6 10 18l6-6-6-6-1.4 1.4 4.6 4.6z"/></symbol>
   <symbol id="i-close" viewBox="0 0 24 24"><path fill="currentColor" d="M19 6.4 17.6 5 12 10.6 6.4 5 5 6.4l5.6 5.6L5 17.6 6.4 19l5.6-5.6 5.6 5.6 1.4-1.4-5.6-5.6z"/></symbol>
   <symbol id="i-replay" viewBox="0 0 24 24"><path fill="currentColor" d="M12 5V1L7 6l5 5V7a6 6 0 1 1-6 6H4a8 8 0 1 0 8-8Z"/></symbol>
+  <symbol id="i-settings" viewBox="0 0 24 24"><path fill="currentColor" d="M19.4 13a7.6 7.6 0 0 0 0-2l2.1-1.6-2-3.5-2.5 1a7.4 7.4 0 0 0-1.7-1L15 3.3h-4l-.4 2.6a7.4 7.4 0 0 0-1.7 1l-2.5-1-2 3.5L6.6 11a7.6 7.6 0 0 0 0 2l-2.1 1.6 2 3.5 2.5-1a7.4 7.4 0 0 0 1.7 1l.4 2.6h4l.4-2.6a7.4 7.4 0 0 0 1.7-1l2.5 1 2-3.5ZM13 15.5A3.5 3.5 0 1 1 13 8.5a3.5 3.5 0 0 1 0 7Z" transform="translate(-1 0)"/></symbol>
   <symbol id="i-link" viewBox="0 0 24 24"><path fill="currentColor" d="M14 3v2h3.6l-9.8 9.8 1.4 1.4L19 6.4V10h2V3h-7ZM19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7h-2v7Z"/></symbol>
 </svg>
 
@@ -71,9 +72,7 @@
 <section id="chat" class="screen">
   <nav class="toolbar">
     <button id="langBtn" class="tool txt"></button>
-    <button id="textBtn" class="tool txt" data-aria="textUp">Aa</button>
-    <button id="contrastBtn" class="tool" data-aria="contrast" aria-pressed="false"><svg><use href="#i-contrast"/></svg></button>
-    <button id="voiceBtn" class="tool" data-aria="voice" aria-pressed="true"><svg><use href="#i-sound"/></svg></button>
+    <button id="settingsBtn" class="tool wide" data-aria="settings"><svg><use href="#i-settings"/></svg><span data-t="settings"></span></button>
     <button id="historyBtn" class="tool" data-aria="history"><svg><use href="#i-history"/></svg><span class="count" id="histCount" hidden></span></button>
     <span class="grow"></span>
     <button id="endBtn" class="quiet" data-t="end"></button>
@@ -109,6 +108,15 @@
   <div class="drawer">
     <div class="drawer-head"><h2 id="historyTitle" data-t="history"></h2><button class="tool" id="closeHistory" data-aria="close"><svg><use href="#i-close"/></svg></button></div>
     <ol id="historyList" class="history"></ol>
+  </div>
+</div>
+
+<!-- Paramètres : langue, taille du texte, contraste, voix… (remis par défaut pour chaque nouvelle personne) -->
+<div id="settings" class="overlay" hidden role="dialog" aria-labelledby="settingsTitle">
+  <div class="card settings">
+    <div class="drawer-head"><h2 id="settingsTitle" data-t="settings"></h2><button class="tool" id="closeSettings" data-aria="close"><svg><use href="#i-close"/></svg></button></div>
+    <div id="settingsRows"></div>
+    <div class="row"><button class="quiet" id="resetSettings" data-t="resetSettings"></button><button class="primary" id="doneSettings" data-t="ok"></button></div>
   </div>
 </div>
 

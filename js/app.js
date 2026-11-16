@@ -13,7 +13,8 @@ const $ = (s, root = document) => root.querySelector(s);
 const $$ = (s, root = document) => [...root.querySelectorAll(s)];
 const IDLE_MS = 45000, IDLE_COUNTDOWN = 15, SESSION_NOTICE_MS = 180000, END_COUNTDOWN = 30;
 
-const state = { lang: 'fr', profile: 'student', voice: true, scale: 1, session: null, idleTimer: null, idleTick: null, endTick: null };
+const DEFAULTS = { voice: true, scale: 1, contrast: false, speed: 1, highlight: true, calm: false };
+const state = { lang: 'fr', profile: 'student', ...DEFAULTS, session: null, idleTimer: null, idleTick: null, endTick: null };
 const t = (key) => TEXT[state.lang][key];
 const L = (o) => (o && typeof o === 'object' ? o[state.lang] || o.fr : o);
 const fill = (s, vars) => s.replace(/\{(\w+)\}/g, (_, k) => vars[k]);
@@ -69,7 +70,7 @@ function attract() {
   stopSpeaking(); gg?.stopTalking();
   clearTimeout(state.session?.noticeTimer); state.session = null;
   clearInterval(state.endTick);
-  state.lang = 'fr'; applyText();
+  state.lang = 'fr'; Object.assign(state, DEFAULTS); applySettings(); applyText(); // réglages par défaut pour la personne suivante
   show('attract');
   let i = 0;
   const tick = () => {
@@ -108,8 +109,9 @@ function say(text, p) {
     karaoke = setInterval(() => { mark(k++); if (k > words.length) done(); }, step);
   };
   if (!state.voice) { gg?.sayText(text, Math.min(9000, 400 + text.length * 55)); return; }
-  p?.classList.add('reading');
+  if (state.highlight) p?.classList.add('reading');
   speak(text, state.lang, {
+    speed: state.speed,
     onStart: () => gg?.startTalking(),
     onWord: (w, rate, idx) => {
       gg?.sayWord(w, rate);
@@ -326,7 +328,40 @@ function campusCard() {
         drawRoute('CRX', { lang, aspect: 1, min: 1000, pad: 0 }), h('span', { class: 'route-zoom', text: t('enlargeMap') })));
   } catch { return null; } // données pas encore chargées
 }
-function closeOverlays() { $('#history').hidden = true; $('#lightbox').hidden = true; }
+function closeOverlays() { $('#history').hidden = true; $('#lightbox').hidden = true; $('#settings').hidden = true; }
+
+// ---------- Paramètres ----------
+// Chaque réglage : un libellé et des choix côte à côte (un seul actif). Tout revient par défaut pour la personne suivante.
+const SETTINGS = [
+  { key: 'lang', label: 'setLang', choices: [['fr', 'Français'], ['en', 'English']] },
+  { key: 'scale', label: 'setSize', choices: [[1, 'A'], [1.2, 'A+'], [1.4, 'A++']] },
+  { key: 'contrast', label: 'setContrast', choices: [[false, 'optNormal'], [true, 'optHigh']] },
+  { key: 'voice', label: 'setVoice', choices: [[true, 'optOn'], [false, 'optOff']] },
+  { key: 'speed', label: 'setSpeed', choices: [[0.85, 'optSlow'], [1, 'optNormal'], [1.2, 'optFast']] },
+  { key: 'highlight', label: 'setHighlight', choices: [[true, 'optYes'], [false, 'optNo']] },
+  { key: 'calm', label: 'setMotion', choices: [[false, 'optNormalF'], [true, 'optReduced']] }
+];
+function applySettings() {
+  document.documentElement.style.setProperty('--scale', state.scale);
+  document.body.classList.toggle('contrast', state.contrast);
+  document.body.classList.toggle('calm', state.calm);
+  if (!state.voice) { stopSpeaking(); gg?.stopTalking(); }
+  if (!state.highlight || !state.voice) $$('.spoken.reading').forEach((p) => p.classList.remove('reading'));
+}
+function renderSettings() {
+  $('#settingsRows').replaceChildren(...SETTINGS.map((st) => h('div', { class: 'set-row' },
+    h('p', { class: 'set-label', text: t(st.label) }),
+    h('div', { class: 'seg', role: 'group', 'aria-label': t(st.label) }, st.choices.map(([val, lab]) => h('button', {
+      class: 'seg-btn', 'aria-pressed': String(state[st.key] === val), text: TEXT[state.lang][lab] || lab,
+      onclick: () => {
+        const langChanged = st.key === 'lang' && state.lang !== val;
+        state[st.key] = val; applySettings();
+        if (langChanged) { applyText(); if (state.session) viewHome(t('homeTitle')); }
+        renderSettings();
+      }
+    }))))));
+}
+function openSettings() { renderSettings(); $('#settings').hidden = false; }
 function toast(text) {
   const el = h('div', { class: 'toast', role: 'status', text });
   document.body.append(el); setTimeout(() => el.remove(), 7000);
@@ -379,18 +414,11 @@ function bind() {
     if (taps.length >= 5) { taps = []; openAdmin(); } else if (state.session) viewHome(t('homeTitle'));
   });
   $('#langBtn').addEventListener('click', () => { state.lang = state.lang === 'fr' ? 'en' : 'fr'; applyText(); viewHome(t('homeTitle')); });
-  $('#textBtn').addEventListener('click', (e) => { // trois tailles de texte, en boucle
-    state.scale = state.scale >= 1.4 ? 1 : +(state.scale + 0.2).toFixed(1);
-    document.documentElement.style.setProperty('--scale', state.scale);
-    e.currentTarget.setAttribute('aria-pressed', String(state.scale > 1));
-  });
-  $('#contrastBtn').addEventListener('click', (e) => { const on = document.body.classList.toggle('contrast'); e.currentTarget.setAttribute('aria-pressed', String(on)); });
-  $('#voiceBtn').addEventListener('click', (e) => {
-    state.voice = !state.voice;
-    e.currentTarget.setAttribute('aria-pressed', String(state.voice));
-    $('use', e.currentTarget).setAttribute('href', state.voice ? '#i-sound' : '#i-mute');
-    if (!state.voice) { stopSpeaking(); gg?.stopTalking(); $$('.spoken.reading').forEach((p) => p.classList.remove('reading')); }
-  });
+  $('#settingsBtn').addEventListener('click', openSettings);
+  $('#closeSettings').addEventListener('click', closeOverlays);
+  $('#doneSettings').addEventListener('click', closeOverlays);
+  $('#resetSettings').addEventListener('click', () => { Object.assign(state, DEFAULTS); applySettings(); renderSettings(); });
+  $('#settings').addEventListener('click', (e) => { if (e.target.id === 'settings') closeOverlays(); });
   $('#historyBtn').addEventListener('click', openHistory);
   $('#closeHistory').addEventListener('click', closeOverlays);
   $('#closeLightbox').addEventListener('click', closeOverlays);

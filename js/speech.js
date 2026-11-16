@@ -24,8 +24,9 @@ if (canSpeak) speechSynthesis.onvoiceschanged = () => {}; // Chrome charge les v
 
 // Lit le texte et prévient l'avatar : onStart, onWord(mot) à chaque mot prononcé, onEnd.
 // Si la voix ne donne pas le minutage des mots, onNoWords(estimationMs) permet d'animer quand même la bouche.
-export function speak(text, lang, { onStart, onWord, onNoWords, onEnd } = {}) {
-  const rate = 1.05, estimate = Math.min(16000, 400 + text.length * 62 / rate);
+export function speak(text, lang, { onStart, onWord, onNoWords, onEnd, speed = 1 } = {}) {
+  const rate = 1.05 * speed, // vitesse choisie dans les Paramètres (0,85 lente · 1 normale · 1,2 rapide)
+    estimate = Math.min(16000, 400 + text.length * 62 / rate);
   if (!canSpeak) { onNoWords?.(estimate); setTimeout(() => onEnd?.(), estimate); return; }
   speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);

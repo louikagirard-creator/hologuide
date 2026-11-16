@@ -350,3 +350,18 @@ body.contrast .spoken.reading .w.now { text-decoration: underline 2px var(--acce
 .link-qr .title { margin: 0 0 0.4rem; }
 .link-qr .qr { margin: 1rem auto 0; }
 .link-qr .fine { word-break: break-all; margin: 0.8rem auto 0; }
+
+/* ---------- Paramètres ---------- */
+.tool.wide { width: auto; gap: 0.4rem; padding: 0 0.75rem; display: inline-flex; align-items: center; font-size: 0.85rem; font-weight: 600; color: var(--ink); }
+.card.settings { width: min(100%, 30rem); max-height: 92vh; overflow-y: auto; }
+.set-row { padding: 0.85rem 0; border-bottom: 1px solid var(--faint); }
+.set-label { font-size: 0.9rem; font-weight: 600; margin-bottom: 0.5rem; }
+.seg { display: flex; gap: 0.35rem; }
+.seg-btn {
+  flex: 1; min-height: 2.8rem; padding: 0 0.6rem; border: 1px solid var(--line); border-radius: var(--radius);
+  font-size: 0.95rem; font-weight: 600; color: var(--ink); background: #fff;
+}
+.seg-btn[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+.settings .row { justify-content: space-between; }
+/* Animations réduites (réglage) */
+body.calm *, body.calm *::before, body.calm *::after { animation: none !important; transition: none !important; }

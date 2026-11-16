@@ -4,11 +4,11 @@
 
 :root {
   --bg: #fff;
-  --ink: #1d1d1f;
-  --mute: rgba(29, 29, 31, 0.62);
-  --dim: rgba(29, 29, 31, 0.4);
-  --faint: rgba(29, 29, 31, 0.1);
-  --line: rgba(29, 29, 31, 0.2);
+  --ink: #111113;             /* texte principal : presque noir */
+  --mute: #3c3c41;            /* texte secondaire : gris foncé, bien lisible (contraste 10:1) */
+  --dim: #5e5e64;             /* indications : contraste 6:1 minimum */
+  --faint: rgba(17, 17, 19, 0.14);
+  --line: rgba(17, 17, 19, 0.3);
   --accent: #8f001a;          /* grenat uOttawa */
   --garnet: #8f001a;
   --sans: "Segoe UI Variable Text", "Segoe UI", -apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
@@ -153,9 +153,9 @@ svg { width: 1.15em; height: 1.15em; flex: none; }
 .asked { font-size: 0.9rem; color: var(--mute); margin-bottom: 0.6rem; }
 .asked::before { content: "« "; } .asked::after { content: " »"; }
 :lang(en) .asked::before { content: "“"; } :lang(en) .asked::after { content: "”"; }
-.spoken { font-size: clamp(1.05rem, 5.2cqi, 1.3rem); line-height: 1.5; color: var(--ink); }
+.spoken { font-size: clamp(1.1rem, 5.4cqi, 1.35rem); line-height: 1.5; font-weight: 500; color: var(--ink); }
 .spoken .w { transition: color 0.18s; }
-.spoken.reading .w { color: var(--dim); }
+.spoken.reading .w { color: #6e6e74; }
 .spoken.reading .w.said, .spoken.reading .w.now { color: var(--ink); }
 
 .view-title { font-size: clamp(1.3rem, 6.5cqi, 1.7rem); margin: 0.9rem 0 0.8rem; }

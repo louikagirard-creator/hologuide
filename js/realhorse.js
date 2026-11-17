@@ -144,6 +144,66 @@ function armWeights(geometry, bounds) {
   geometry.setAttribute('armW', new THREE.BufferAttribute(out, 1));
 }
 
+// La texture générée contient un éclairage « cuit » (un côté du corps plus sombre : ligne sur le torse).
+// Le corps étant symétrique, on compare la luminosité moyenne (lissée) de chaque point à celle de son symétrique
+// gauche-droite, et on éclaircit le côté le plus sombre. Résultat : attribut lumFix (multiplicateur, espace linéaire).
+function lightFix(geometry, bounds, map) {
+  const pos = geometry.attributes.position, uv = geometry.attributes.uv, n = pos.count;
+  const out = new Float32Array(n).fill(1);
+  const img = map && map.image;
+  if (!uv || !img || !img.width) { geometry.setAttribute('lumFix', new THREE.BufferAttribute(out, 1)); return; }
+  const cv = Object.assign(document.createElement('canvas'), { width: img.width, height: img.height });
+  const cx = cv.getContext('2d', { willReadFrequently: true });
+  cx.drawImage(img, 0, 0);
+  const px = cx.getImageData(0, 0, cv.width, cv.height).data;
+  const lin = (c) => (c <= 0.04045 ? c / 12.92 : Math.pow((c + 0.055) / 1.055, 2.4));
+  const idx = geometry.index ? geometry.index.array : null, H = bounds.max.y - bounds.min.y;
+  const key = (i) => `${pos.getX(i).toFixed(5)},${pos.getY(i).toFixed(5)},${pos.getZ(i).toFixed(5)}`;
+  const gm = new Map(), gid = new Int32Array(n);
+  for (let i = 0; i < n; i++) { const k = key(i); if (!gm.has(k)) gm.set(k, gm.size); gid[i] = gm.get(k); }
+  const G = gm.size, L = new Float32Array(G), cnt = new Float32Array(G), P = new Float32Array(G * 3);
+  for (let i = 0; i < n; i++) {
+    const x = Math.min(cv.width - 1, Math.max(0, Math.floor(uv.getX(i) * cv.width)));
+    const yv = map.flipY ? 1 - uv.getY(i) : uv.getY(i);
+    const y = Math.min(cv.height - 1, Math.max(0, Math.floor(yv * cv.height)));
+    const k = (y * cv.width + x) * 4, g = gid[i];
+    L[g] += 0.2126 * lin(px[k] / 255) + 0.7152 * lin(px[k + 1] / 255) + 0.0722 * lin(px[k + 2] / 255); cnt[g]++;
+    P[g * 3] = pos.getX(i) / H; P[g * 3 + 1] = pos.getY(i) / H; P[g * 3 + 2] = pos.getZ(i) / H;
+  }
+  for (let g = 0; g < G; g++) L[g] /= cnt[g];
+  const adj = Array.from({ length: G }, () => new Set());
+  const tri = idx ? idx.length / 3 : n / 3;
+  for (let t = 0; t < tri; t++) {
+    const v = [0, 1, 2].map((j) => gid[idx ? idx[t * 3 + j] : t * 3 + j]);
+    for (const a of v) for (const b of v) if (a !== b) adj[a].add(b);
+  }
+  // Lissage : on ne garde que les grandes variations (l'ombrage), pas le détail du pelage.
+  let S = L;
+  for (let it = 0; it < 2; it++) {
+    const N = new Float32Array(G);
+    for (let g = 0; g < G; g++) { let sum = S[g], c = 1; for (const u of adj[g]) { sum += S[u]; c++; } N[g] = sum / c; }
+    S = N;
+  }
+  // Symétrique le plus proche (grille de recherche).
+  const cell = 0.02, grid = new Map(), ck = (a, b, c) => `${Math.floor(a / cell)},${Math.floor(b / cell)},${Math.floor(c / cell)}`;
+  for (let g = 0; g < G; g++) { const k = ck(P[g * 3], P[g * 3 + 1], P[g * 3 + 2]); if (!grid.has(k)) grid.set(k, []); grid.get(k).push(g); }
+  const fix = new Float32Array(G).fill(1);
+  for (let g = 0; g < G; g++) {
+    const mx = -P[g * 3], my = P[g * 3 + 1], mz = P[g * 3 + 2];
+    let best = -1, bd = 0.012 * 0.012;
+    const ix = Math.floor(mx / cell), iy = Math.floor(my / cell), iz = Math.floor(mz / cell);
+    for (let a = -1; a <= 1; a++) for (let b = -1; b <= 1; b++) for (let c = -1; c <= 1; c++) {
+      for (const u of grid.get(`${ix + a},${iy + b},${iz + c}`) || []) {
+        const d = (P[u * 3] - mx) ** 2 + (P[u * 3 + 1] - my) ** 2 + (P[u * 3 + 2] - mz) ** 2;
+        if (d < bd) { bd = d; best = u; }
+      }
+    }
+    if (best >= 0 && S[g] > 1e-4) fix[g] = Math.min(1.8, Math.max(1, S[best] / S[g]));
+  }
+  for (let i = 0; i < n; i++) out[i] = fix[gid[i]];
+  geometry.setAttribute('lumFix', new THREE.BufferAttribute(out, 1));
+}
+
 function bodyUniforms(s, bounds) {
   s.uniforms.bodyMinY = { value: bounds.min.y };
   s.uniforms.bodyH = { value: bounds.max.y - bounds.min.y };
@@ -157,13 +217,14 @@ function vertexPatch(s, offsetExpr) {
       ${BODY_GLSL}
       ${RIG_GLSL}
       uniform float furLength, gravity, shellH, furOn; varying vec3 vBase;
+      attribute float lumFix; varying float vLumFix;
       vec3 rigQ; vec3 rigN;`)
     .replace('#include <beginnormal_vertex>', `#include <beginnormal_vertex>
       rigQ = vec3(position.x / bodyH, bodyT(position), position.z / bodyH); rigN = objectNormal;
       rig(rigQ, rigN);
       objectNormal = rigN;`)
     .replace('#include <begin_vertex>', `#include <begin_vertex>
-      vBase = position;
+      vBase = position; vLumFix = lumFix;
       transformed = vec3(rigQ.x * bodyH, rigQ.y * bodyH + bodyMinY, rigQ.z * bodyH);
       ${offsetExpr}`);
 }
@@ -180,13 +241,13 @@ function shellMaterial(base, h, bounds) {
       transformed.y -= gravity * hairL * shellH * (1.0 + maneMask(position));`);
     s.fragmentShader = s.fragmentShader
       .replace('#include <common>', `#include <common>
-        uniform float density, shellH, furOn; varying vec3 vBase;
+        uniform float density, shellH, furOn; varying vec3 vBase; varying float vLumFix;
         ${BODY_GLSL}
         float h31(vec3 p) { p = fract(p * vec3(.1031, .1030, .0973)); p += dot(p, p.yxz + 33.33); return fract((p.x + p.y) * p.z); }
         vec3 h33(vec3 p) { p = fract(p * vec3(.1031, .1030, .0973)); p += dot(p, p.yxz + 33.33); return fract((p.xxy + p.yxx) * p.zyx); }`)
       .replace('#include <map_fragment>', `#include <map_fragment>
         {
-          vec3 raw = diffuseColor.rgb;
+          vec3 raw = diffuseColor.rgb * vLumFix;
           vec3 col = recolor(raw);
           float orange = smoothstep(0.04, 0.16, raw.r - raw.b) * smoothstep(0.03, 0.12, max(raw.r, raw.g));
           // Mèches de la crinière et de la queue : zones foncées de la texture dans la région de la crinière.
@@ -293,7 +354,28 @@ function clothMaterial(bounds) {
 const _euler = new THREE.Euler(), _m4 = new THREE.Matrix4();
 
 export class RealHorse {
-  constructor(url) { this.url = url; this.group = new THREE.Group(); this.ready = null; }
+  constructor(url) {
+    this.url = url; this.group = new THREE.Group(); this.ready = null;
+    this.shells = []; this.quality = 2; this._perf = { last: 0, sum: 0, n: 0 };
+  }
+
+  // Qualité : 2 = toutes les couches de poils, 1 = une sur deux, 0 = une sur quatre (appareils lents).
+  setQuality(q) {
+    this.quality = Math.max(0, Math.min(2, q));
+    const step = [4, 2, 1][this.quality];
+    this.shells.forEach((m, i) => { m.visible = (i + 1) % step === 0; });
+  }
+
+  // Mesure la fluidité ; si l'appareil n'arrive pas à ~33 images/s, on allège la fourrure (jamais l'inverse,
+  // pour éviter que la qualité change sans arrêt).
+  watchPerf() {
+    const p = this._perf, t = performance.now(), d = t - p.last; p.last = t;
+    if (d > 0 && d < 250) { p.sum += d; p.n++; }
+    if (p.n >= 90) {
+      const avg = p.sum / p.n; p.sum = 0; p.n = 0;
+      if (avg > 30 && this.quality > 0) this.setQuality(this.quality - 1);
+    }
+  }
 
   // Charge le modèle, le met à l'échelle (hauteur donnée), pieds au sol, et crée les couches de poils et les vêtements.
   load(height, floorY, shells = 28) {
@@ -309,13 +391,14 @@ export class RealHorse {
         mesh.geometry.computeBoundingBox();
         const bounds = mesh.geometry.boundingBox, base = mesh.material;
         armWeights(mesh.geometry, bounds);
+        lightFix(mesh.geometry, bounds, base.map);
         mesh.material = shellMaterial(base, 0, bounds);
         mesh.frustumCulled = false; // la déformation sort parfois de la boîte englobante d'origine
         const cloth = new THREE.Mesh(mesh.geometry, clothMaterial(bounds));
         cloth.frustumCulled = false; mesh.add(cloth);
         for (let i = 1; i <= shells; i++) {
           const shell = new THREE.Mesh(mesh.geometry, shellMaterial(base, i / shells, bounds));
-          shell.renderOrder = i; shell.frustumCulled = false; mesh.add(shell);
+          shell.renderOrder = i; shell.frustumCulled = false; mesh.add(shell); this.shells.push(shell);
         }
       }
       const box = new THREE.Box3().setFromObject(m), size = box.getSize(new THREE.Vector3());
@@ -334,6 +417,7 @@ export class RealHorse {
 
   // Applique la pose calculée par mascot.js (tête, bras, mâchoire) au modèle réaliste.
   pose(P, mouth, t, arms) {
+    this.watchPerf();
     // Amplitudes réduites : sans vrai squelette, une grande rotation étirerait le cou.
     _euler.set(P.hx * 0.6, (P.hy + 0.12) * 0.5, P.hz * 0.6, 'YXZ');
     realSettings.headR.value.setFromMatrix4(_m4.makeRotationFromEuler(_euler));

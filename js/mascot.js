@@ -4,6 +4,7 @@
 // Design original inspiré des Gee-Gees ; la mascotte et le logo officiels demandent l'accord de l'Université.
 import * as THREE from 'three';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { RealHorse } from './realhorse.js';
 
 const C = { garnet: 0x8f001a, garnetDark: 0x5c0010, grey: 0x6d6e71, coat: 0xece7df, muzzle: 0xf7f2eb, hoof: 0x37373a, pink: 0xeaa3b2 };
 // Vrai modèle 3D de Gee-Gee : déposer le fichier dans assets/ puis écrire son chemin ici, ex. 'assets/geegee.glb'.
@@ -62,6 +63,7 @@ export class GeeGee {
 
     this.build();
     this.modelYaw = 0;
+    this.style = 'cartoon';
     if (MODEL_URL) this.loadModel(MODEL_URL);
     this.state = {
       mouth: 0, syllables: [], talking: false, gesture: null, calm: false, pose: null, attention: null,
@@ -246,6 +248,29 @@ export class GeeGee {
     }
   }
 
+  // ---------- Style de la mascotte ----------
+  // 'cartoon' : Gee-Gee fait en code ; 'geegee' : Gee-Gee réaliste (fourrure, maillot GG) ; 'horse' : cheval réaliste.
+  // Les deux versions réalistes utilisent le même modèle 3D (js/realhorse.js), chargé seulement quand on le choisit.
+  setStyle(style = 'cartoon') {
+    if (!['cartoon', 'geegee', 'horse'].includes(style)) style = 'cartoon';
+    this.style = style;
+    const real = style !== 'cartoon';
+    if (real && !this.real) {
+      this.real = new RealHorse('assets/cheval-realiste.glb');
+      this.scene.add(this.real.group);
+      this.real.load(TOP - FLOOR, FLOOR).catch((err) => {
+        console.warn('Modèle réaliste non chargé, Gee-Gee fait en code utilisé à la place :', err);
+        this.real = null; this.setStyle('cartoon');
+      });
+    }
+    if (this.real) { this.real.group.visible = real; if (real) this.real.setVariant(style); }
+    this.root.visible = !real && !this.model;
+    if (this.model) this.model.visible = !real;
+    // Les couleurs du modèle réaliste sont réglées pour un rendu neutre (l'ACES rougit le pelage).
+    this.renderer.toneMapping = real ? THREE.NeutralToneMapping : THREE.ACESFilmicToneMapping;
+    this.renderer.toneMappingExposure = real ? 1.0 : 0.95;
+  }
+
   // ---------- Vrai modèle 3D ----------
   // Si l'équipe dépose un fichier assets/geegee.glb (mascotte modélisée ou générée), il remplace le Gee-Gee fait en code.
   // Il est mis à l'échelle de la boîte (tête aux pieds), posé au sol, et ses animations (idle, wave…) sont utilisées.
@@ -384,6 +409,13 @@ export class GeeGee {
       this.mixer?.update(dt);
       this.model.position.y = P.y; this.model.rotation.y = P.ry - 0.22 + this.modelYaw;
       this.model.rotation.x = S.mouth * 0.035; this.model.rotation.z = P.rz;
+    }
+
+    // Modèle réaliste (Gee-Gee réaliste ou cheval) : même pose que le Gee-Gee fait en code
+    if (this.real && this.style !== 'cartoon') {
+      this.real.pose(P, S.mouth, t, this.arms);
+      const g = this.real.group;
+      g.position.y = P.y; g.rotation.set(Math.sin(t * 0.9) * 0.01, P.ry - 0.22, P.rz);
     }
 
     this.renderer.render(this.scene, this.camera);

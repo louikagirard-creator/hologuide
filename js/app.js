@@ -14,7 +14,7 @@ const $ = (s, root = document) => root.querySelector(s);
 const $$ = (s, root = document) => [...root.querySelectorAll(s)];
 const IDLE_MS = 45000, IDLE_COUNTDOWN = 15, SESSION_NOTICE_MS = 180000, END_COUNTDOWN = 30;
 
-const DEFAULTS = { useAI: Boolean(AI_ENDPOINT), voice: true, // IA en ligne activée dès que le relais est configuré ; IA du navigateur à activer à la main
+const DEFAULTS = { mascot: 'geegee', useAI: Boolean(AI_ENDPOINT), voice: true, // IA en ligne activée dès que le relais est configuré ; IA du navigateur à activer à la main
   scale: 1, contrast: false, speed: 1, volume: 1, highlight: true, calm: false, font: 'std', spacing: 'normal', patience: 1, qr: true };
 const state = { lang: 'fr', profile: 'student', ...DEFAULTS, session: null, idleTimer: null, idleTick: null, endTick: null };
 const t = (key) => TEXT[state.lang][key];
@@ -376,6 +376,7 @@ function closeOverlays() { $('#history').hidden = true; $('#lightbox').hidden = 
 // Chaque réglage : un libellé et des choix côte à côte (un seul actif). Tout revient par défaut pour la personne suivante.
 const SETTINGS = [
   { key: 'lang', label: 'setLang', choices: [['fr', 'Français'], ['en', 'English']] },
+  { key: 'mascot', label: 'setMascot', choices: [['geegee', 'optMascotReal'], ['horse', 'optMascotHorse'], ['cartoon', 'optMascotCartoon']] },
   { key: 'useAI', label: 'setAI', choices: [[true, 'optOn'], [false, 'optOff']] },
   { key: 'scale', label: 'setSize', choices: [[1, 'A'], [1.2, 'A+'], [1.4, 'A++']] },
   { key: 'contrast', label: 'setContrast', choices: [[false, 'optNormal'], [true, 'optHigh']] },
@@ -391,6 +392,7 @@ const SETTINGS = [
 ];
 function applySettings() {
   document.documentElement.style.setProperty('--scale', state.scale);
+  gg?.setStyle?.(state.mascot);
   document.body.classList.toggle('contrast', state.contrast);
   document.body.classList.toggle('calm', state.calm);
   document.body.classList.toggle('legible', state.font === 'legible');

@@ -37988,5 +37988,15550 @@ export const KB = [
   ],
   "verifiedOn": "2026-11-16",
   "status": "official"
+ },
+ {
+  "id": "q-clubs-liste",
+  "category": "associations",
+  "keywords": [
+   "liste des clubs",
+   "liste complète des clubs",
+   "tous les clubs",
+   "club list",
+   "clubs list",
+   "list of clubs",
+   "répertoire des clubs",
+   "club directory",
+   "quels clubs",
+   "what clubs",
+   "clubs étudiants",
+   "student clubs",
+   "clubs seuo",
+   "uosu clubs"
+  ],
+  "question": {
+   "fr": "Où trouver la liste complète des clubs étudiants ?",
+   "en": "Where can I find the full list of student clubs?"
+  },
+  "answer": {
+   "fr": "La liste complète des clubs reconnus par le SÉUO est sur le site du SÉUO, dans Vie étudiante, puis Liste des clubs. Elle compte plus de 380 clubs, chacun avec sa description, sa catégorie et ses liens, et tu peux y faire une recherche. Les clubs vont de la culture et la foi aux sports, aux arts, au droit, aux STIM et à la philanthropie.",
+   "en": "The full list of UOSU-recognized clubs is on the UOSU website, under Student Life, then Clubs List. It includes more than 380 clubs, each with its description, category and links, and you can search it. Clubs range from culture and faith to sports, the arts, law, STEM and philanthropy."
+  },
+  "sources": [
+   {
+    "label": "Liste des clubs — SÉUO",
+    "url": "https://www.seuo-uosu.com/fr/vie-etudiante/clubs"
+   },
+   {
+    "label": "Clubs List — UOSU",
+    "url": "https://www.seuo-uosu.com/student-life/clubs"
+   },
+   {
+    "label": "Clubs list (hub) — UOSU",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo",
+   "q-clubs-sportifs-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-clubs-contacter",
+  "category": "associations",
+  "keywords": [
+   "contacter un club",
+   "contact a club",
+   "joindre un club",
+   "reach a club",
+   "s inscrire à un club",
+   "sign up for a club",
+   "devenir membre d un club",
+   "become a club member",
+   "instagram du club",
+   "club social media",
+   "fiche du club",
+   "club profile"
+  ],
+  "question": {
+   "fr": "Comment contacter un club ou m'y inscrire ?",
+   "en": "How do I contact a club or sign up?"
+  },
+  "answer": {
+   "fr": "Cherche le club dans la liste des clubs du SÉUO : sa fiche donne sa description et ses liens officiels, comme son site Web ou ses réseaux sociaux, que tu peux utiliser pour le joindre et savoir comment devenir membre. Tu peux aussi rencontrer les clubs en personne à la Foire des clubs, au début de chaque session. Pour une question sur un club, le Service d'administration des clubs du SÉUO peut t'aider.",
+   "en": "Look up the club in the UOSU clubs list: its profile shows its description and official links, such as its website or social media, which you can use to reach it and find out how to become a member. You can also meet clubs in person at the Club Fair at the start of each semester. For questions about a club, the UOSU Club Administration Service can help."
+  },
+  "sources": [
+   {
+    "label": "Liste des clubs — SÉUO",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Clubs list — UOSU",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   },
+   {
+    "label": "Club Administration Service — UOSU",
+    "url": "https://www.seuo-uosu.com/services/cas"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-creer-seuo",
+   "q-clubs-sportifs-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-clubs-creer-seuo",
+  "category": "associations",
+  "keywords": [
+   "créer un club",
+   "fonder un club",
+   "start a club",
+   "starting a club",
+   "new club",
+   "nouveau club",
+   "enregistrer un club",
+   "register a club",
+   "portail du séuo",
+   "uosu portal",
+   "renouveler un club",
+   "club renewal",
+   "service d administration des clubs",
+   "club administration service"
+  ],
+  "question": {
+   "fr": "Comment créer un club reconnu par le SÉUO ?",
+   "en": "How do I start a UOSU-recognized club?"
+  },
+  "answer": {
+   "fr": "Les demandes d'enregistrement et de renouvellement des clubs se font sur le portail du SÉUO, pendant des périodes de demande affichées sur la page du Service d'administration des clubs; ces dates peuvent changer un peu. Le Service d'administration des clubs, au local 215D du Centre universitaire Jock-Turcot, accompagne les quelque 300 clubs du premier cycle et répond à tes questions au 613-783-1380, poste 600.",
+   "en": "Club registration and renewal requests are submitted through the UOSU Portal during application periods posted on the Club Administration Service page; these dates may change slightly. The Club Administration Service, in room 215D of the Jock Turcot University Centre, supports around 300 undergraduate clubs and can answer your questions at 613-783-1380, extension 600."
+  },
+  "sources": [
+   {
+    "label": "Service d'administration des clubs — SÉUO",
+    "url": "https://www.seuo-uosu.com/fr/services/sac"
+   },
+   {
+    "label": "Club Administration Service — UOSU",
+    "url": "https://www.seuo-uosu.com/services/cas"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-sportifs-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-clubs-sportifs-seuo",
+  "category": "associations",
+  "keywords": [
+   "clubs sportifs étudiants",
+   "student sports clubs",
+   "club de sport",
+   "sports club",
+   "clubs de sport seuo",
+   "uosu sports clubs",
+   "sport récréatif",
+   "recreational sport",
+   "club de plein air",
+   "outdoor club",
+   "faire du sport en club",
+   "join a sports club"
+  ],
+  "question": {
+   "fr": "Quels clubs sportifs étudiants y a-t-il au SÉUO ?",
+   "en": "What student sports clubs does the UOSU have?"
+  },
+  "answer": {
+   "fr": "La liste des clubs du SÉUO compte plusieurs clubs sportifs et de plein air, par exemple l'escalade, la boxe, le curling, le cyclisme, le vélo de montagne, la course à pied, le tennis, le padel, le triathlon, le patinage artistique, le hockey sur gazon, le quadball, la voile, le ski, la lutte, l'escrime et le bateau-dragon. Ces clubs étudiants sont différents des équipes et des clubs interuniversitaires Gee-Gees. Consulte la fiche de chaque club dans la liste des clubs du SÉUO pour le joindre.",
+   "en": "The UOSU clubs list includes many sports and outdoor clubs, for example climbing, boxing, curling, cycling, mountain biking, running, tennis, padel, triathlon, figure skating, field hockey, quadball, sailing, skiing, wrestling, fencing and dragon boat. These student clubs are separate from the Gee-Gees varsity teams and competitive clubs. Check each club's profile in the UOSU clubs list to reach it."
+  },
+  "sources": [
+   {
+    "label": "Liste des clubs — SÉUO",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Clubs list — UOSU",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-clubs-categories",
+  "category": "associations",
+  "keywords": [
+   "types de clubs",
+   "kinds of clubs",
+   "catégories de clubs",
+   "club categories",
+   "clubs culturels",
+   "cultural clubs",
+   "clubs religieux",
+   "faith clubs",
+   "clubs de droit",
+   "law clubs",
+   "clubs philanthropiques",
+   "charity clubs",
+   "clubs stim",
+   "stem clubs",
+   "fraternités et sororités"
+  ],
+  "question": {
+   "fr": "Quels types de clubs étudiants existe-t-il ?",
+   "en": "What kinds of student clubs are there?"
+  },
+  "answer": {
+   "fr": "La liste des clubs du SÉUO classe les clubs par catégories : philanthropie, culture, études et carrière, droit, loisirs, STIM, arts et création, foi et spiritualité, sports, Telfer, fraternités et sororités, compétitions académiques et politique. Les clubs philanthropiques et culturels sont les plus nombreux. Tu peux demander au guide un club précis, par exemple le club d'escalade ou le club d'échecs.",
+   "en": "The UOSU clubs list sorts clubs into categories: philanthropic, cultural, academic, law, recreational, STEM, creative, religious, sports, Telfer, fraternity and sorority, competitive academic and political. Philanthropic and cultural clubs are the most numerous. You can ask the guide about a specific club, such as the climbing club or the chess club."
+  },
+  "sources": [
+   {
+    "label": "Liste des clubs — SÉUO",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Clubs list — UOSU",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-ace",
+  "category": "associations",
+  "keywords": [
+   "ace",
+   "études de cas",
+   "case competition",
+   "compétition de cas",
+   "business conference",
+   "conférence d affaires",
+   "club de gestion",
+   "business club",
+   "club telfer",
+   "telfer club"
+  ],
+  "question": {
+   "fr": "C'est quoi ACE uOttawa ?",
+   "en": "What is ACE uOttawa?"
+  },
+  "answer": {
+   "fr": "ACE uOttawa est un club reconnu par le SÉUO, dans la catégorie Telfer (gestion). Le club participe aux conférences d'ACE Canada, où les étudiants en gestion résolvent des études de cas et des simulations d'affaires et réseautent avec des professionnels. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "ACE uOttawa is a club recognized by the UOSU, in the Telfer category. The club takes part in ACE Canada conferences, where business students tackle case studies and business simulations and network with professionals. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "ACE uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "ACE uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-aim",
+  "category": "associations",
+  "keywords": [
+   "aim",
+   "club chrétien",
+   "christian club",
+   "étude biblique",
+   "bible study",
+   "foi chrétienne",
+   "christian fellowship",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi AIM ?",
+   "en": "What is AIM?"
+  },
+  "answer": {
+   "fr": "AIM est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. C'est une communauté chrétienne axée sur la fraternité, la croissance spirituelle et les liens, avec des études bibliques, du mentorat et des activités sociales. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "AIM is a club recognized by the UOSU, in the religious category. It is a Christian community focused on fellowship, spiritual growth and connection, with Bible studies, mentorship and social events. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "AIM — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "AIM — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-acadian",
+  "category": "associations",
+  "keywords": [
+   "acadien",
+   "acadienne",
+   "acadian",
+   "acadie",
+   "club acadien",
+   "acadian club",
+   "culture acadienne",
+   "acadian student association",
+   "association étudiante acadienne",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association étudiante acadienne de l'Université d'Ottawa ?",
+   "en": "What is the Acadian Student Association of the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association étudiante acadienne de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club rassemble les étudiants acadiens pour préserver et célébrer leur culture, tout en faisant connaître le peuple acadien et son histoire. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Acadian Student Association of the University of Ottawa is a club recognized by the UOSU, in the cultural category. The club brings Acadian students together to preserve and celebrate their culture while introducing others to the Acadian people and their story. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association étudiante acadienne de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Acadian Student Association of the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-access-ability",
+  "category": "associations",
+  "keywords": [
+   "access ability",
+   "accès habilité",
+   "accessibilité",
+   "accessibility",
+   "handicap",
+   "disability",
+   "inclusion",
+   "déficience intellectuelle",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Accès-Habilité ?",
+   "en": "What is Access Ability?"
+  },
+  "answer": {
+   "fr": "Accès-Habilité est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club milite pour un campus pleinement accessible et inclusif et défend les étudiants ayant une déficience intellectuelle ou développementale. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Access Ability is a club recognized by the UOSU, in the philanthropic category. The club works for a fully accessible and inclusive campus and advocates for students with intellectual and developmental disabilities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Accès-Habilité — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Access Ability — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-afriqcan",
+  "category": "associations",
+  "keywords": [
+   "afriqcan",
+   "étudiants internationaux",
+   "international students",
+   "afrique",
+   "africa",
+   "club africain",
+   "african club",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi Afriqcan Uottawa ?",
+   "en": "What is Afriqcan Uottawa?"
+  },
+  "answer": {
+   "fr": "Afriqcan Uottawa est un club reconnu par le SÉUO, dans la catégorie culture. C'est un club bilingue fondé en 2017 qui aide les étudiants internationaux à réussir leurs études et à s'intégrer au Canada. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Afriqcan Uottawa is a club recognized by the UOSU, in the cultural category. It is a bilingual club founded in 2017 that helps international students succeed in their studies and integrate in Canada. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Afriqcan Uottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Afriqcan Uottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-ahlul-bayt",
+  "category": "associations",
+  "keywords": [
+   "ahlul bayt",
+   "absa",
+   "club musulman",
+   "muslim club",
+   "chiite",
+   "shia",
+   "islam",
+   "ahlul bayt students association",
+   "association des étudiants d ahlul bayt",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants d'Ahlul-Bayt ?",
+   "en": "What is the Ahlul-Bayt Students' Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants d'Ahlul-Bayt est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. C'est une association à but non lucratif centrée sur le Prophète Mohammed et sa famille, qui offre aux étudiants un soutien religieux, social et personnel. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Ahlul-Bayt Students' Association is a club recognized by the UOSU, in the religious category. It is a non-profit organization centred on the Prophet Muhammad and his family that provides students with religious, social and personal support. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants d'Ahlul-Bayt — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Ahlul-Bayt Students' Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-algerian",
+  "category": "associations",
+  "keywords": [
+   "algérien",
+   "algérienne",
+   "algerian",
+   "algérie",
+   "algeria",
+   "club algérien",
+   "algerian club",
+   "algerian students association",
+   "association des étudiants algériens",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiants Algériens ?",
+   "en": "What is the Algerian Students Association?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiants Algériens est un club reconnu par le SÉUO, dans la catégorie culture. Le club célèbre la culture et les traditions algériennes et accompagne les étudiants algériens dans leur vie universitaire. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Algerian Students Association is a club recognized by the UOSU, in the cultural category. The club celebrates Algerian culture and traditions and supports Algerian students in university life. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Étudiants Algériens — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Algerian Students Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-algorithmic-trading",
+  "category": "associations",
+  "keywords": [
+   "trading algorithmique",
+   "algorithmic trading",
+   "algo trading",
+   "finance quantitative",
+   "quant",
+   "club de trading",
+   "trading club",
+   "bourse",
+   "algorithmic trading society",
+   "société de trading algorithmique",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société de trading algorithmique de l'Université d'Ottawa ?",
+   "en": "What is the Algorithmic Trading Society?"
+  },
+  "answer": {
+   "fr": "La Société de trading algorithmique de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie STIM. Le club explore le lien entre mathématiques, statistiques, programmation et finance appliqué au trading algorithmique. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Algorithmic Trading Society is a club recognized by the UOSU, in the STEM category. The club explores the intersection of mathematics, statistics, programming and finance through algorithmic trading. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société de trading algorithmique de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Algorithmic Trading Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-alpha-phi",
+  "category": "associations",
+  "keywords": [
+   "alpha phi",
+   "sororité",
+   "sorority",
+   "fraternité féminine",
+   "women s fraternity",
+   "vie grecque",
+   "greek life",
+   "fraternité"
+  ],
+  "question": {
+   "fr": "C'est quoi Alpha Phi ?",
+   "en": "What is Alpha Phi?"
+  },
+  "answer": {
+   "fr": "Alpha Phi est un club reconnu par le SÉUO, dans la catégorie fraternités et sororités. C'est une fraternité féminine internationale qui bâtit une sororité solidaire et aide les femmes à devenir des leaders. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Alpha Phi is a club recognized by the UOSU, in the fraternity and sorority category. It is an international women's fraternity that builds a supportive sisterhood and helps women grow as leaders. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Alpha Phi — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Alpha Phi — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-alpha-pi-phi-sorority",
+  "category": "associations",
+  "keywords": [
+   "alpha pi phi",
+   "sororité",
+   "sorority",
+   "vie grecque",
+   "greek life",
+   "sisterhood",
+   "alpha pi phi sorority",
+   "sororité alpha pi phi",
+   "fraternité"
+  ],
+  "question": {
+   "fr": "C'est quoi la Sororité Alpha Pi Phi ?",
+   "en": "What is the Alpha Pi Phi Sorority?"
+  },
+  "answer": {
+   "fr": "La Sororité Alpha Pi Phi est un club reconnu par le SÉUO, dans la catégorie fraternités et sororités. C'est une sororité qui valorise le leadership, l'excellence académique, la philanthropie, la sororité ainsi que la diversité et l'inclusion. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Alpha Pi Phi Sorority is a club recognized by the UOSU, in the fraternity and sorority category. It is a sorority that values leadership, academic excellence, philanthropy, sisterhood, and diversity and inclusion. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Sororité Alpha Pi Phi — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Alpha Pi Phi Sorority — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-amnesty-international",
+  "category": "associations",
+  "keywords": [
+   "amnistie internationale",
+   "amnesty international",
+   "amnesty",
+   "droits de la personne",
+   "human rights",
+   "droits humains",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Amnistie Internationale uOttawa ?",
+   "en": "What is Amnesty International uOttawa?"
+  },
+  "answer": {
+   "fr": "Amnistie Internationale uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est une section étudiante d'Amnistie internationale qui sensibilise et agit pour les droits de la personne. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Amnesty International uOttawa is a club recognized by the UOSU, in the philanthropic category. It is a student chapter of Amnesty International that raises awareness and takes action for human rights. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Amnistie Internationale uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Amnesty International uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-anakbayan",
+  "category": "associations",
+  "keywords": [
+   "anakbayan",
+   "philippines",
+   "philippin",
+   "filipino",
+   "club philippin",
+   "militantisme",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi Anakbayan uOttawa ?",
+   "en": "What is Anakbayan uOttawa?"
+  },
+  "answer": {
+   "fr": "Anakbayan uOttawa est un club reconnu par le SÉUO, dans la catégorie culture. C'est une section d'Anakbayan, un mouvement international de jeunes engagés pour la démocratie nationale aux Philippines, qui promeut la culture et les enjeux philippins. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Anakbayan uOttawa is a club recognized by the UOSU, in the cultural category. It is a chapter of Anakbayan, an international youth movement for national democracy in the Philippines. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Anakbayan uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Anakbayan uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-asian-canadians",
+  "category": "associations",
+  "keywords": [
+   "acao",
+   "asiatique",
+   "asian",
+   "canadiens asiatiques",
+   "asian canadian",
+   "club asiatique",
+   "asian club",
+   "culture asiatique",
+   "asian canadians association of",
+   "association des canadien ne s asiatiques",
+   "ne",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Canadien(ne)s' Asiatiques d'uOttawa ?",
+   "en": "What is the Asian Canadians' Association of uOttawa?"
+  },
+  "answer": {
+   "fr": "L'Association des Canadien(ne)s' Asiatiques d'uOttawa est un club reconnu par le SÉUO, dans la catégorie culture. C'est la plus grande présence culturelle asiatique du campus et rassemble les étudiants autour de la culture asiatique canadienne. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Asian Canadians' Association of uOttawa is a club recognized by the UOSU, in the cultural category. It is the largest Asian cultural presence on campus and brings students together around Asian Canadian culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Canadien(ne)s' Asiatiques d'uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Asian Canadians' Association of uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-asian-civil-law",
+  "category": "associations",
+  "keywords": [
+   "aéaduo",
+   "droit civil",
+   "civil law",
+   "asiatique",
+   "asian",
+   "étudiants en droit",
+   "law students",
+   "asian civil law students association",
+   "association des étudiant e s asiatiques en droit civil",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiant.e.s asiatiques en droit civil de l'Université d'Ottawa ?",
+   "en": "What is the Asian Civil Law Students Association at the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiant.e.s asiatiques en droit civil de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie droit. Le club promeut la diversité asiatique et sensibilise la Section de droit civil à l'expérience asiatique au Canada et dans le milieu juridique. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Asian Civil Law Students Association at the University of Ottawa is a club recognized by the UOSU, in the law category. The club promotes Asian diversity and raises awareness in the Civil Law Section about the Asian experience in Canada and in law. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiant.e.s asiatiques en droit civil de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Asian Civil Law Students Association at the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-asian-law",
+  "category": "associations",
+  "keywords": [
+   "alss",
+   "droit",
+   "law",
+   "asiatique",
+   "asian",
+   "faculté de droit",
+   "law school",
+   "common law",
+   "asian law students society",
+   "société des étudiants asiatiques en droit",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société des Étudiants Asiatiques en Droit ?",
+   "en": "What is the Asian Law Students' Society?"
+  },
+  "answer": {
+   "fr": "La Société des Étudiants Asiatiques en Droit est un club reconnu par le SÉUO, dans la catégorie droit. Le club favorise la diversité dans la profession juridique et rassemble les étudiants asiatiques de la faculté de droit dans un club ouvert et détendu. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Asian Law Students' Society is a club recognized by the UOSU, in the law category. The club promotes diversity in the legal profession and brings together Asian students at the law school in an open, relaxed club. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "La Société des Étudiants Asiatiques en Droit — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Asian Law Students' Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-etudiants-en-droit-civil",
+  "category": "associations",
+  "keywords": [
+   "mena",
+   "moyen orient",
+   "afrique du nord",
+   "middle east",
+   "north africa",
+   "droit civil",
+   "civil law",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants en droit civil du Moyen-Orient et de l'Afrique du Nord ?",
+   "en": "What is the Association des étudiants en droit civil du Moyen-Orient et de l'Afrique du Nord?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants en droit civil du Moyen-Orient et de l'Afrique du Nord est un club reconnu par le SÉUO, dans la catégorie droit. Le club rassemble les étudiants du Moyen-Orient et de l'Afrique du Nord de la Section de droit civil. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Association des étudiants en droit civil du Moyen-Orient et de l'Afrique du Nord is a club recognized by the UOSU, in the law category. The club brings together Middle Eastern and North African students in the Civil Law Section. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants en droit civil du Moyen-Orient et de l'Afrique du Nord — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Association des étudiants en droit civil du Moyen-Orient et de l'Afrique du Nord — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-french",
+  "category": "associations",
+  "keywords": [
+   "français",
+   "france",
+   "french students",
+   "étudiants français",
+   "francophile",
+   "europe",
+   "club français",
+   "association of french students",
+   "association des étudiants français",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants français de l'Université d'Ottawa ?",
+   "en": "What is the Association of French students of the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants français de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club offre aux étudiants français et francophiles un espace pour célébrer la culture francophone, avec des événements sur la France et l'Europe. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Association of French students of the University of Ottawa is a club recognized by the UOSU, in the cultural category. The club gives French students and francophiles a space to celebrate francophone culture, with events about France and Europe. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants français de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Association of French students of the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-ivorian",
+  "category": "associations",
+  "keywords": [
+   "ivoirien",
+   "ivoirienne",
+   "ivorian",
+   "côte d ivoire",
+   "ivory coast",
+   "club ivoirien",
+   "association of ivorian students",
+   "association des étudiants ivoiriens",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants Ivoiriens de l'université d'ottawa ?",
+   "en": "What is the Association of Ivorian Students of the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants Ivoiriens de l'université d'ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club fait rayonner la culture ivoirienne, aide les étudiants à s'intégrer et crée un milieu accueillant. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Association of Ivorian Students of the University of Ottawa is a club recognized by the UOSU, in the cultural category. The club promotes Ivorian culture, supports student integration and creates a welcoming community. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants Ivoiriens de l'université d'ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Association of Ivorian Students of the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-law-for-access-to",
+  "category": "associations",
+  "keywords": [
+   "aédaj",
+   "accès à la justice",
+   "access to justice",
+   "droit civil",
+   "civil law",
+   "justice",
+   "association of law students for access to justice",
+   "association des étudiants dans l accès à la justice",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiants dans l'Accès à la Justice de l'Université d'Ottawa ?",
+   "en": "What is the Association of Law Students for Access to Justice at the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiants dans l'Accès à la Justice de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie droit. Le club promeut l'accès à la justice pour tous en sensibilisant les étudiants de la Section de droit civil. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Association of Law Students for Access to Justice at the University of Ottawa is a club recognized by the UOSU, in the law category. The club promotes access to justice for all by raising awareness among Civil Law Section students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Étudiants dans l'Accès à la Justice de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Association of Law Students for Access to Justice at the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-women-in-law",
+  "category": "associations",
+  "keywords": [
+   "femmes en droit",
+   "women in law",
+   "droit",
+   "law",
+   "leadership féminin",
+   "women lawyers",
+   "association of women in law",
+   "association des femmes en droit",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Femmes en Droit de l'Université d'Ottawa ?",
+   "en": "What is the Association of Women in Law at University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association des Femmes en Droit de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie droit. Le club encourage le bien-être et les intérêts des femmes dans le milieu juridique et favorise leur leadership. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Association of Women in Law at University of Ottawa is a club recognized by the UOSU, in the law category. The club promotes the well-being and interests of women in the legal field and fosters their leadership. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Femmes en Droit de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Association of Women in Law at University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-atlas-africa",
+  "category": "associations",
+  "keywords": [
+   "atlas afrique",
+   "atlas africa",
+   "santé en afrique",
+   "healthcare africa",
+   "afrique",
+   "africa",
+   "collecte de fonds",
+   "fundraising",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Atlas Afrique ?",
+   "en": "What is Atlas Africa?"
+  },
+  "answer": {
+   "fr": "Atlas Afrique est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est une plateforme étudiante multidisciplinaire qui finance des solutions de santé concrètes en Afrique. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Atlas Africa is a club recognized by the UOSU, in the philanthropic category. It is a multidisciplinary student platform that funds concrete healthcare solutions in Africa. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Atlas Afrique — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Atlas Africa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-autism-inclusion-motion-aim",
+  "category": "associations",
+  "keywords": [
+   "autisme",
+   "autism",
+   "neurodiversité",
+   "neurodiversity",
+   "inclusion",
+   "sport adapté",
+   "aim",
+   "autism inclusion et motion aim",
+   "autisme inclusion et mouvement aim",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Autisme Inclusion & Mouvement (AIM) ?",
+   "en": "What is Autism Inclusion & Motion (AIM)?"
+  },
+  "answer": {
+   "fr": "Autisme Inclusion & Mouvement (AIM) est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient la neurodiversité par la sensibilisation et le sport. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Autism Inclusion & Motion (AIM) is a club recognized by the UOSU, in the philanthropic category. The club supports neurodiversity through community education and sports. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Autisme Inclusion & Mouvement (AIM) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Autism Inclusion & Motion (AIM) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-azerbaijani-azsa",
+  "category": "associations",
+  "keywords": [
+   "azsa",
+   "azerbaïdjan",
+   "azerbaijan",
+   "azerbaïdjanais",
+   "azerbaijani",
+   "club azerbaïdjanais",
+   "azerbaijani students association azsa ottawa",
+   "association des étudiants azerbaïdjanais",
+   "azsa ottawa",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiants Azerbaïdjanais ?",
+   "en": "What is the Azerbaijani Students' Association (AzSA Ottawa)?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiants Azerbaïdjanais est un club reconnu par le SÉUO, dans la catégorie culture. C'est une section d'AzSA qui favorise l'unité et la diversité et fait connaître la culture azerbaïdjanaise. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Azerbaijani Students' Association (AzSA Ottawa) is a club recognized by the UOSU, in the cultural category. It is an Ottawa branch of AzSA that encourages unity and diversity and shares Azerbaijani culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Étudiants Azerbaïdjanais — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Azerbaijani Students' Association (AzSA Ottawa) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-bipoc-business",
+  "category": "associations",
+  "keywords": [
+   "pnaoc",
+   "bipoc",
+   "affaires",
+   "business",
+   "réseautage",
+   "networking",
+   "mentorat",
+   "telfer",
+   "bipoc business society",
+   "société d affaires pnaoc",
+   "club telfer",
+   "telfer club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société d'affaires PNAOC ?",
+   "en": "What is the BIPOC Business Society?"
+  },
+  "answer": {
+   "fr": "La Société d'affaires PNAOC est un club reconnu par le SÉUO, dans la catégorie Telfer (gestion). Le club aide les étudiants marginalisés à réussir en affaires grâce au réseautage, à des ressources et au mentorat. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The BIPOC Business Society is a club recognized by the UOSU, in the Telfer category. The club helps marginalized students thrive in business through networking, resources and mentorship. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société d'affaires PNAOC — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "BIPOC Business Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-bags-promise",
+  "category": "associations",
+  "keywords": [
+   "bags of promise",
+   "sacs de promesses",
+   "jeunes",
+   "youth",
+   "bénévolat",
+   "volunteering",
+   "philanthropie",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Sacs de Promesses ?",
+   "en": "What is Bags of Promise?"
+  },
+  "answer": {
+   "fr": "Sacs de Promesses est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est une section universitaire qui soutient les jeunes par la compassion, l'entraide et l'action communautaire. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Bags of Promise is a club recognized by the UOSU, in the philanthropic category. It is a university chapter that empowers youth through compassion, community and action. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Sacs de Promesses — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Bags of Promise — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-balkan",
+  "category": "associations",
+  "keywords": [
+   "balkans",
+   "balkanique",
+   "balkan",
+   "club balkanique",
+   "balkan club",
+   "europe de l est",
+   "balkan students association",
+   "association des étudiants balkaniques",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiants Balkaniques ?",
+   "en": "What is the Balkan Students' Association?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiants Balkaniques est un club reconnu par le SÉUO, dans la catégorie culture. Le club célèbre la beauté, la diversité et l'esprit des cultures des Balkans. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Balkan Students' Association is a club recognized by the UOSU, in the cultural category. The club celebrates the beauty, diversity and spirit of Balkan cultures. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Étudiants Balkaniques — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Balkan Students' Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-baqatuna-islamic-learning",
+  "category": "associations",
+  "keywords": [
+   "baqatuna",
+   "arabe",
+   "arabic",
+   "apprendre l arabe",
+   "learn arabic",
+   "islam",
+   "coran",
+   "quran",
+   "baqatuna islamic learning club",
+   "club d apprentissage islamique baqatuna",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club d'apprentissage islamique Baqatuna ?",
+   "en": "What is the Baqatuna Islamic Learning Club?"
+  },
+  "answer": {
+   "fr": "Le Club d'apprentissage islamique Baqatuna est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. Le club aide les étudiants à apprendre à lire l'arabe à partir des lettres, dans une démarche d'apprentissage islamique. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Baqatuna Islamic Learning Club is a club recognized by the UOSU, in the religious category. The club helps students learn to read Arabic from the letters up, as part of Islamic learning. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club d'apprentissage islamique Baqatuna — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Baqatuna Islamic Learning Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-benin",
+  "category": "associations",
+  "keywords": [
+   "béninois",
+   "bénin",
+   "benin",
+   "beninese",
+   "club béninois",
+   "afrique",
+   "benin student association",
+   "association des étudiants béninois",
+   "fraternité",
+   "sorority"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiants Béninois ?",
+   "en": "What is the Benin Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiants Béninois est un club reconnu par le SÉUO, dans la catégorie fraternités et sororités. C'est un foyer loin de chez soi pour les étudiants béninois. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Benin Student Association is a club recognized by the UOSU, in the fraternity and sorority category. It is a home away from home for Beninese students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Étudiants Béninois — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Benin Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-best-buddies",
+  "category": "associations",
+  "keywords": [
+   "best buddies",
+   "meilleurs amis",
+   "déficience intellectuelle",
+   "intellectual disability",
+   "amitié",
+   "friendship",
+   "inclusion",
+   "best buddies chapter",
+   "meilleurs amis chapitre",
+   "university of ottawa chapter",
+   "chapitre de l université d ottawa",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Meilleurs amis (chapitre de l'Université d'Ottawa) ?",
+   "en": "What is the Best Buddies (University of Ottawa Chapter)?"
+  },
+  "answer": {
+   "fr": "Meilleurs amis (chapitre de l'Université d'Ottawa) est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club crée des amitiés individuelles et développe le leadership auprès de personnes ayant une déficience intellectuelle ou développementale. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Best Buddies (University of Ottawa Chapter) is a club recognized by the UOSU, in the philanthropic category. The club creates one-to-one friendships and leadership opportunities for people with intellectual and developmental disabilities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Meilleurs amis (chapitre de l'Université d'Ottawa) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Best Buddies (University of Ottawa Chapter) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-beyond-smile",
+  "category": "associations",
+  "keywords": [
+   "santé buccodentaire",
+   "oral health",
+   "dents",
+   "teeth",
+   "dentisterie",
+   "dentistry",
+   "au delà du sourire",
+   "beyond the smile",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi Au-delà Du Sourire ?",
+   "en": "What is Beyond The Smile?"
+  },
+  "answer": {
+   "fr": "Au-delà Du Sourire est un club reconnu par le SÉUO, dans la catégorie STIM. Le club explore le lien entre la santé buccodentaire et la santé globale. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Beyond The Smile is a club recognized by the UOSU, in the STEM category. The club explores the link between oral health and overall well-being. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Au-delà Du Sourire — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Beyond The Smile — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-bioconnect",
+  "category": "associations",
+  "keywords": [
+   "bioconnect",
+   "biologie",
+   "biology",
+   "biosciences",
+   "réseautage",
+   "networking",
+   "stim",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi BioConnect ?",
+   "en": "What is BioConnect?"
+  },
+  "answer": {
+   "fr": "BioConnect est un club reconnu par le SÉUO, dans la catégorie STIM. Le club crée des liens sociaux et des occasions de réseautage entre étudiants passionnés par les bio-STIM. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "BioConnect is a club recognized by the UOSU, in the STEM category. The club builds social connections and networking opportunities for students passionate about bioSTEM. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "BioConnect — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "BioConnect — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-biomedical-mechanical-engineering",
+  "category": "associations",
+  "keywords": [
+   "bmes",
+   "génie biomédical",
+   "biomedical engineering",
+   "génie mécanique",
+   "mechanical engineering",
+   "ingénierie",
+   "biomedical mechanical engineering society",
+   "société d ingénérie méchanique biomédicale",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société d'ingénérie Méchanique Biomédicale ?",
+   "en": "What is the Biomedical Mechanical Engineering Society?"
+  },
+  "answer": {
+   "fr": "La Société d'ingénérie Méchanique Biomédicale est un club reconnu par le SÉUO, dans la catégorie STIM. Le club augmente la visibilité, les occasions et l'exposition à l'industrie en génie mécanique biomédical. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Biomedical Mechanical Engineering Society is a club recognized by the UOSU, in the STEM category. The club increases visibility, opportunity and industry exposure in biomedical mechanical engineering. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société d'ingénérie Méchanique Biomédicale — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Biomedical Mechanical Engineering Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-biopharmaceutical-network-bpsn",
+  "category": "associations",
+  "keywords": [
+   "bpsn",
+   "rebp",
+   "biopharmaceutique",
+   "biopharmaceutical",
+   "pharmacologie",
+   "sciences pharmaceutiques",
+   "biopharmaceutical student network bpsn",
+   "réseaux d étudiant e s biopharmaceutiques rebp",
+   "e",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Réseaux d'étudiant(e)s biopharmaceutiques (REBP) ?",
+   "en": "What is the Biopharmaceutical Student Network (BPSN)?"
+  },
+  "answer": {
+   "fr": "Le Réseaux d'étudiant(e)s biopharmaceutiques (REBP) est un club reconnu par le SÉUO, dans la catégorie STIM. Le club renforce la communauté étudiante du programme de sciences biopharmaceutiques par des activités sociales. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Biopharmaceutical Student Network (BPSN) is a club recognized by the UOSU, in the STEM category. The club builds a stronger student community in the biopharmaceutical science program through social events. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Réseaux d'étudiant(e)s biopharmaceutiques (REBP) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Biopharmaceutical Student Network (BPSN) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-black-law-aend",
+  "category": "associations",
+  "keywords": [
+   "aénd",
+   "droit civil",
+   "civil law",
+   "étudiants noirs",
+   "black law students",
+   "blsa",
+   "mentorat",
+   "black law student association aend",
+   "aend",
+   "section droit civil",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiant.e.s Noir.e.s en Droit de l'Université d'Ottawa (Section Droit civil) ?",
+   "en": "What is the Black Law Student association (AEND)?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiant.e.s Noir.e.s en Droit de l'Université d'Ottawa (Section Droit civil) est un club reconnu par le SÉUO, dans la catégorie droit. Le club favorise la réussite professionnelle de ses membres de la Section de droit civil par le réseautage et le mentorat. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Black Law Student association (AEND) is a club recognized by the UOSU, in the law category. The club supports its Civil Law members' professional success through networking and mentorship. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Étudiant.e.s Noir.e.s en Droit de l'Université d'Ottawa (Section Droit civil) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Black Law Student association (AEND) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-black-law-blsa",
+  "category": "associations",
+  "keywords": [
+   "blsa",
+   "aénd",
+   "étudiants noirs en droit",
+   "black law students",
+   "common law",
+   "droit",
+   "law",
+   "black law students association blsa",
+   "association des étudiant e s noir e s en droit aénd",
+   "blsa uottawa",
+   "e",
+   "aénd uottawa",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiant(e)s noir(e)s en droit (AÉND uOttawa) ?",
+   "en": "What is the Black Law Students' Association (BLSA uOttawa)?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiant(e)s noir(e)s en droit (AÉND uOttawa) est un club reconnu par le SÉUO, dans la catégorie droit. C'est une communauté dédiée à la croissance professionnelle et au bien-être des étudiants noirs en droit. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Black Law Students' Association (BLSA uOttawa) is a club recognized by the UOSU, in the law category. It is a community dedicated to the professional growth and well-being of Black law students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "l'Association des étudiant(e)s noir(e)s en droit (AÉND uOttawa) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Black Law Students' Association (BLSA uOttawa) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-black-stem",
+  "category": "associations",
+  "keywords": [
+   "bssa",
+   "stim",
+   "stem",
+   "étudiants noirs",
+   "black students",
+   "sciences",
+   "génie",
+   "engineering",
+   "black stem student association",
+   "association des étudiants noirs en stim",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants noirs en STIM ?",
+   "en": "What is the Black STEM Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants noirs en STIM est un club reconnu par le SÉUO, dans la catégorie culture. Le club crée un milieu solidaire pour les étudiants noirs en sciences, technologie, ingénierie et mathématiques. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Black STEM Student Association is a club recognized by the UOSU, in the cultural category. The club creates a supportive environment for Black students in science, technology, engineering and math. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants noirs en STIM — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Black STEM Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-black-leaders-bsla",
+  "category": "associations",
+  "keywords": [
+   "bsla",
+   "alén",
+   "leaders noirs",
+   "black leaders",
+   "leadership",
+   "étudiants noirs",
+   "black students",
+   "black student leaders association bsla",
+   "association des leaders étudiants noirs alén",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Leaders Étudiants Noirs (ALÉN) ?",
+   "en": "What is the Black Student Leaders Association (BSLA)?"
+  },
+  "answer": {
+   "fr": "L'Association des Leaders Étudiants Noirs (ALÉN) est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club soutient le parcours scolaire, social et philanthropique des étudiants noirs à l'Université d'Ottawa. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Black Student Leaders Association (BSLA) is a club recognized by the UOSU, in the academic category. The club supports the academic, social and philanthropic journey of Black students at the University of Ottawa. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Leaders Étudiants Noirs (ALÉN) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Black Student Leaders Association (BSLA) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-black-athlete-advocacy-council",
+  "category": "associations",
+  "keywords": [
+   "bsaac",
+   "étudiants athlètes noirs",
+   "black student athletes",
+   "athlètes",
+   "gee gees",
+   "sport",
+   "black student athlete advocacy council",
+   "conseil de défense des étudiant athlètes noirs",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Conseil de Défense des Étudiant Athlètes Noirs ?",
+   "en": "What is the Black Student-Athlete Advocacy Council?"
+  },
+  "answer": {
+   "fr": "Le Conseil de Défense des Étudiant Athlètes Noirs est un club reconnu par le SÉUO, dans la catégorie sports. C'est une initiative fondée par et pour les étudiants-athlètes noirs de l'Université d'Ottawa. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Black Student-Athlete Advocacy Council is a club recognized by the UOSU, in the sports category. It is an initiative founded by and for Black student-athletes at the University of Ottawa. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Conseil de Défense des Étudiant Athlètes Noirs — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Black Student-Athlete Advocacy Council — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-black-in-humanities",
+  "category": "associations",
+  "keywords": [
+   "bsha",
+   "sciences humaines",
+   "humanities",
+   "arts",
+   "étudiants noirs",
+   "black students",
+   "black students in humanities association",
+   "association des étudiant·e·s noirs en sciences humaines",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiant·e·s noirs en sciences humaines ?",
+   "en": "What is the Black Students in Humanities Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiant·e·s noirs en sciences humaines est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club répond au besoin de communauté, de représentation et de soutien des étudiants noirs en sciences humaines. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Black Students in Humanities Association is a club recognized by the UOSU, in the academic category. The club addresses the need for community, representation and support for Black students in the humanities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiant·e·s noirs en sciences humaines — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Black Students in Humanities Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-black-women-in-law",
+  "category": "associations",
+  "keywords": [
+   "bwil",
+   "femmes noires",
+   "black women",
+   "droit",
+   "law",
+   "carrière juridique",
+   "pre law",
+   "black women in law",
+   "femmes noires en droit",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi Femmes Noires en Droit ?",
+   "en": "What is Black Women in Law?"
+  },
+  "answer": {
+   "fr": "Femmes Noires en Droit est un club reconnu par le SÉUO, dans la catégorie droit. Le club bâtit une base solide pour les femmes noires au premier cycle qui visent une carrière en droit. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Black Women in Law is a club recognized by the UOSU, in the law category. The club builds a strong foundation for Black undergraduate women pursuing careers in law. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Femmes Noires en Droit — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Black Women in Law — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-body-decoded",
+  "category": "associations",
+  "keywords": [
+   "body decoded",
+   "corps décodé",
+   "sciences biomédicales",
+   "biomedical science",
+   "vulgarisation",
+   "science communication",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi Corps Décodé ?",
+   "en": "What is Body Decoded?"
+  },
+  "answer": {
+   "fr": "Corps Décodé est un club reconnu par le SÉUO, dans la catégorie STIM. Le club rend accessible la science du corps humain, de la santé, des maladies et de la médecine. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Body Decoded is a club recognized by the UOSU, in the STEM category. The club makes the science of the human body, health, disease and medicine accessible. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Corps Décodé — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Body Decoded — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-brazily-fitness",
+  "category": "associations",
+  "keywords": [
+   "brazily",
+   "fitness",
+   "mise en forme",
+   "entraînement",
+   "danse brésilienne",
+   "brazilian dance",
+   "brésil",
+   "brazily fitness",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi Brazily Fitness ?",
+   "en": "What is Brazily Fitness?"
+  },
+  "answer": {
+   "fr": "Brazily Fitness est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club propose des séances de mise en forme sur la musique, la danse et la culture brésiliennes. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Brazily Fitness is a club recognized by the UOSU, in the recreational category. The club offers fitness sessions powered by Brazilian music, dance and culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Brazily Fitness — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Brazily Fitness — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-broken-quill-writing",
+  "category": "associations",
+  "keywords": [
+   "broken quill",
+   "écriture",
+   "writing",
+   "club d écriture",
+   "writing club",
+   "écriture créative",
+   "creative writing",
+   "broken quill writing society",
+   "société d écriture broken quill",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi la société d'écriture Broken Quill ?",
+   "en": "What is the Broken Quill Writing Society?"
+  },
+  "answer": {
+   "fr": "La société d'écriture Broken Quill est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club rassemble les étudiants autour du plaisir d'écrire, avec des rencontres hebdomadaires et des défis d'écriture. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Broken Quill Writing Society is a club recognized by the UOSU, in the creative category. The club connects students through the joy of writing, with weekly meetings and writing prompts. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "La société d'écriture Broken Quill — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Broken Quill Writing Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-business-common-law",
+  "category": "associations",
+  "keywords": [
+   "bls",
+   "droit des affaires",
+   "business law",
+   "droit commercial",
+   "corporate law",
+   "common law",
+   "business common law society",
+   "société de droit des affaires",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société de Droit des Affaires ?",
+   "en": "What is the Business Common Law Society?"
+  },
+  "answer": {
+   "fr": "La Société de Droit des Affaires est un club reconnu par le SÉUO, dans la catégorie droit. Le club permet aux étudiants d'explorer le droit des affaires et le droit commercial. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Business Common Law Society is a club recognized by the UOSU, in the law category. The club lets students explore corporate and commercial law. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société de Droit des Affaires — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Business Common Law Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-business-healthcare",
+  "category": "associations",
+  "keywords": [
+   "affaires en santé",
+   "business healthcare",
+   "gestion de la santé",
+   "healthcare management",
+   "santé",
+   "business healthcare society",
+   "société des affaires en santé",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société des affaires en santé ?",
+   "en": "What is the Business Healthcare Society?"
+  },
+  "answer": {
+   "fr": "La Société des affaires en santé est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club aide à faire progresser le lien entre les affaires et la santé. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Business Healthcare Society is a club recognized by the UOSU, in the academic category. The club helps advance the connection between business and healthcare. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société des affaires en santé — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Business Healthcare Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-casco-charity-organization",
+  "category": "associations",
+  "keywords": [
+   "casco",
+   "cheo",
+   "charité",
+   "charity",
+   "collecte de fonds",
+   "fundraising",
+   "telfer",
+   "organisme de bienfaisance",
+   "casco charity organization",
+   "organisation caritative casco",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Organisation caritative CASCO ?",
+   "en": "What is the CASCO Charity Organization?"
+  },
+  "answer": {
+   "fr": "L'Organisation caritative CASCO est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est un organisme de bienfaisance étudiant, surtout composé d'étudiants de Telfer, qui amasse des fonds pour le CHEO depuis 1998. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The CASCO Charity Organization is a club recognized by the UOSU, in the philanthropic category. It is a student-run charity, mostly made up of Telfer students, founded in 1998 to raise funds for CHEO. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Organisation caritative CASCO — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "CASCO Charity Organization — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-cameroonian",
+  "category": "associations",
+  "keywords": [
+   "camerounais",
+   "cameroun",
+   "cameroon",
+   "cameroonian",
+   "club camerounais",
+   "afrique",
+   "cameroonian student association",
+   "association des etudiants camerounais",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association Des Etudiants Camerounais ?",
+   "en": "What is the Cameroonian Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association Des Etudiants Camerounais est un club reconnu par le SÉUO, dans la catégorie culture. Le club favorise l'intégration et le soutien des étudiants camerounais et africains. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Cameroonian Student Association is a club recognized by the UOSU, in the cultural category. The club supports the integration and empowerment of Cameroonian and African students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association Des Etudiants Camerounais — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Cameroonian Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-campus-rush",
+  "category": "associations",
+  "keywords": [
+   "campus rush",
+   "rush sur le campus",
+   "club chrétien",
+   "christian club",
+   "foi",
+   "faith",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi Rush Sur Le Campus ?",
+   "en": "What is Campus Rush?"
+  },
+  "answer": {
+   "fr": "Rush Sur Le Campus est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. C'est un club de foi qui offre une communauté pour briser l'isolement et nouer des amitiés durables. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Campus Rush is a club recognized by the UOSU, in the religious category. It is a faith-based club offering a community where students can overcome isolation and build lifelong friendships. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Rush Sur Le Campus — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Campus Rush — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-canadian-refugee-lawyers-carl",
+  "category": "associations",
+  "keywords": [
+   "carl",
+   "acaadr",
+   "droit des réfugiés",
+   "refugee law",
+   "réfugiés",
+   "refugees",
+   "immigration",
+   "canadian association of refugee lawyers carl",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association canadienne des avocats et avocates en droit des réfugiés (ACAADR) ?",
+   "en": "What is the Canadian Association of Refugee Lawyers (CARL) uOttawa?"
+  },
+  "answer": {
+   "fr": "L'Association canadienne des avocats et avocates en droit des réfugiés (ACAADR) est un club reconnu par le SÉUO, dans la catégorie droit. C'est une section étudiante de l'Association canadienne des avocats et avocates en droit des réfugiés, qui promeut les droits des réfugiés. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Canadian Association of Refugee Lawyers (CARL) uOttawa is a club recognized by the UOSU, in the law category. It is a student chapter of the Canadian Association of Refugee Lawyers, which promotes refugee rights. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "l'Association canadienne des avocats et avocates en droit des réfugiés (ACAADR) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Canadian Association of Refugee Lawyers (CARL) uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-cardiac-health",
+  "category": "associations",
+  "keywords": [
+   "chc",
+   "santé cardiaque",
+   "cardiac health",
+   "cœur",
+   "heart",
+   "cardiologie",
+   "cardiovasculaire",
+   "cardiac health club",
+   "club de santé cardiaque",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Santé Cardiaque ?",
+   "en": "What is the Cardiac Health Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Santé Cardiaque est un club reconnu par le SÉUO, dans la catégorie STIM. Le club promeut la santé cardiovasculaire par l'éducation et l'action communautaire. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Cardiac Health Club is a club recognized by the UOSU, in the STEM category. The club promotes cardiovascular health through education and community outreach. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Santé Cardiaque — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Cardiac Health Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-cardiorise-network",
+  "category": "associations",
+  "keywords": [
+   "cardiorise",
+   "cardiométabolique",
+   "cardiometabolic",
+   "diabète",
+   "cœur",
+   "santé",
+   "cardiorise network",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi CardioRise Network ?",
+   "en": "What is the CardioRise Network?"
+  },
+  "answer": {
+   "fr": "CardioRise Network est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club promeut la santé cardiométabolique grâce à une éducation accessible et fondée sur des données probantes. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The CardioRise Network is a club recognized by the UOSU, in the academic category. The club promotes cardiometabolic health through accessible, evidence-based education. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "CardioRise Network — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "CardioRise Network — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-cards-for-comfort",
+  "category": "associations",
+  "keywords": [
+   "cards for comfort",
+   "cartes pour le confort",
+   "cartes",
+   "cards",
+   "bénévolat",
+   "patients",
+   "hôpital",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Cartes Pour Le Confort ?",
+   "en": "What is Cards For Comfort?"
+  },
+  "answer": {
+   "fr": "Cartes Pour Le Confort est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club réconforte les patients à l'hôpital, en soins palliatifs ou à domicile avec des cartes faites à la main. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Cards For Comfort is a club recognized by the UOSU, in the philanthropic category. The club brings comfort to patients in hospital, hospice and home care through handmade cards. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Cartes Pour Le Confort — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Cards For Comfort — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-caregiver-community-initiative",
+  "category": "associations",
+  "keywords": [
+   "proches aidants",
+   "caregivers",
+   "aidant",
+   "caregiver",
+   "soins",
+   "entraide",
+   "caregiver community initiative",
+   "initiative communautaire pour les proches aidants",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Initiative communautaire pour les proches aidants ?",
+   "en": "What is the Caregiver Community Initiative?"
+  },
+  "answer": {
+   "fr": "L'Initiative communautaire pour les proches aidants est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient les proches aidants et favorise une culture de soins partagés. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Caregiver Community Initiative is a club recognized by the UOSU, in the philanthropic category. The club supports caregivers and promotes a culture of shared care. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Initiative communautaire pour les proches aidants — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Caregiver Community Initiative — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-caribbean",
+  "category": "associations",
+  "keywords": [
+   "caraïbes",
+   "caribéen",
+   "caribbean",
+   "antilles",
+   "club caribéen",
+   "caribbean club",
+   "caribbean student association",
+   "association étudiants des caraïbes",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association Étudiants des Caraïbes ?",
+   "en": "What is the Caribbean Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association Étudiants des Caraïbes est un club reconnu par le SÉUO, dans la catégorie culture. Le club offre des activités sociales, des fêtes, du réseautage et une communauté aux personnes passionnées par la culture caribéenne. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Caribbean Student Association is a club recognized by the UOSU, in the cultural category. The club offers social events, parties, networking and community for people passionate about Caribbean culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association Étudiants des Caraïbes — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Caribbean Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-catholic-christian-outreach-cco",
+  "category": "associations",
+  "keywords": [
+   "cco",
+   "catholique",
+   "catholic",
+   "club catholique",
+   "catholic club",
+   "foi",
+   "évangélisation",
+   "catholic christian outreach cco",
+   "cco mission campus",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi CCO Mission Campus ?",
+   "en": "What is the Catholic Christian Outreach (CCO)?"
+  },
+  "answer": {
+   "fr": "CCO Mission Campus est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. C'est un mouvement étudiant catholique dédié à l'évangélisation. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Catholic Christian Outreach (CCO) is a club recognized by the UOSU, in the religious category. It is a Catholic university student movement dedicated to evangelization. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "CCO Mission Campus — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Catholic Christian Outreach (CCO) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-central-asian",
+  "category": "associations",
+  "keywords": [
+   "casa",
+   "asie centrale",
+   "central asia",
+   "kazakhstan",
+   "ouzbékistan",
+   "kyrgyzstan",
+   "central asian student association",
+   "association des étudiants d asie centrale",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants d'Asie centrale ?",
+   "en": "What is the Central Asian Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants d'Asie centrale est un club reconnu par le SÉUO, dans la catégorie culture. Le club célèbre et fait connaître les cultures, l'histoire et les traditions de l'Asie centrale. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Central Asian Student Association is a club recognized by the UOSU, in the cultural category. The club celebrates and shares the cultures, histories and traditions of Central Asia. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants d'Asie centrale — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Central Asian Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-champions-change",
+  "category": "associations",
+  "keywords": [
+   "champions of change",
+   "plan international",
+   "égalité",
+   "equality",
+   "droits des filles",
+   "advocacy",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Champions of Change uOttawa ?",
+   "en": "What is Champions of Change uOttawa?"
+  },
+  "answer": {
+   "fr": "Champions of Change uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est un groupe affilié à Plan International Canada qui milite contre les obstacles sociaux et économiques. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Champions of Change uOttawa is a club recognized by the UOSU, in the philanthropic category. It is a campus group affiliated with Plan International Canada that advocates against social and economic barriers. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Champions of Change uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Champions of Change uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-charity4youth",
+  "category": "associations",
+  "keywords": [
+   "charity4youth",
+   "c4y",
+   "charité",
+   "charity",
+   "collecte de fonds",
+   "fundraising",
+   "jeunes",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Charity4Youth UOttawa ?",
+   "en": "What is Charity4Youth UOttawa?"
+  },
+  "answer": {
+   "fr": "Charity4Youth UOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est une section de Charity4Youth qui soutient des causes locales et mondiales par des collectes de fonds. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Charity4Youth UOttawa is a club recognized by the UOSU, in the philanthropic category. It is a chapter of Charity4Youth supporting local and global causes through fundraising. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Charity4Youth UOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Charity4Youth UOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-claude-builder",
+  "category": "associations",
+  "keywords": [
+   "claude",
+   "intelligence artificielle",
+   "artificial intelligence",
+   "ia",
+   "ai",
+   "club d ia",
+   "ai club",
+   "programmation",
+   "claude builder club",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi Claude Builder Club uOttawa ?",
+   "en": "What is the Claude Builder Club uOttawa?"
+  },
+  "answer": {
+   "fr": "Claude Builder Club uOttawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club aide tous les étudiants à apprendre à utiliser et à créer avec l'intelligence artificielle. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Claude Builder Club uOttawa is a club recognized by the UOSU, in the academic category. The club helps every student learn to use and build with artificial intelligence. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Claude Builder Club uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Claude Builder Club uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-coda",
+  "category": "associations",
+  "keywords": [
+   "coda",
+   "cancer",
+   "lutte contre le cancer",
+   "fight cancer",
+   "collecte de fonds",
+   "fundraising",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Coda uOttawa ?",
+   "en": "What is Coda uOttawa?"
+  },
+  "answer": {
+   "fr": "Coda uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est une initiative étudiante de la Fondation Coda qui rassemble des étudiants de toutes les disciplines dans la lutte contre le cancer. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Coda uOttawa is a club recognized by the UOSU, in the philanthropic category. It is a student initiative of the Coda Foundation uniting students from all disciplines in the fight against cancer. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Coda uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Coda uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-communication-s-games",
+  "category": "associations",
+  "keywords": [
+   "jeux de la communication",
+   "communication games",
+   "communication",
+   "compétition",
+   "competition",
+   "francophone",
+   "communication s games ottawa",
+   "jeux de la communication ottawa",
+   "club de compétition",
+   "competition club"
+  ],
+  "question": {
+   "fr": "C'est quoi Jeux de la communication Ottawa ?",
+   "en": "What is Communication's Games Ottawa?"
+  },
+  "answer": {
+   "fr": "Jeux de la communication Ottawa est un club reconnu par le SÉUO, dans la catégorie compétitions académiques. Le club prépare la délégation d'Ottawa aux Jeux de la communication, une compétition interuniversitaire francophone. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Communication's Games Ottawa is a club recognized by the UOSU, in the competitive academic category. The club prepares Ottawa's delegation for the Communication Games, a francophone interuniversity competition. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Jeux de la communication Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Communication's Games Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-congolese",
+  "category": "associations",
+  "keywords": [
+   "congolais",
+   "congo",
+   "congolese",
+   "rdc",
+   "club congolais",
+   "afrique",
+   "congolese students association",
+   "association des étudiants congolais",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants congolais de l'Université d'Ottawa ?",
+   "en": "What is the Congolese Students Association of the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants congolais de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club rassemble les étudiants congolais de l'Université d'Ottawa. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Congolese Students Association of the University of Ottawa is a club recognized by the UOSU, in the cultural category. The club brings Congolese students together at the University of Ottawa. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants congolais de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Congolese Students Association of the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-connecting-young-minds-cym",
+  "category": "associations",
+  "keywords": [
+   "cym",
+   "connecting young minds",
+   "conférence de recherche",
+   "research conference",
+   "recherche",
+   "undergraduate research",
+   "connecting young minds cym undergraduate research conference",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Conférence de recherche aux études de premier cycle Connecting Young Minds (CYM) ?",
+   "en": "What is the Connecting Young Minds (CYM) Undergraduate Research Conference?"
+  },
+  "answer": {
+   "fr": "La Conférence de recherche aux études de premier cycle Connecting Young Minds (CYM) est un club reconnu par le SÉUO, dans la catégorie STIM. Le club organise la seule conférence de l'Université consacrée à la recherche des étudiants de premier cycle. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Connecting Young Minds (CYM) Undergraduate Research Conference is a club recognized by the UOSU, in the STEM category. The club runs the only University of Ottawa conference dedicated to showcasing undergraduate research. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Conférence de recherche aux études de premier cycle Connecting Young Minds (CYM) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Connecting Young Minds (CYM) Undergraduate Research Conference — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-conservateurs-conservatives",
+  "category": "associations",
+  "keywords": [
+   "conservateurs",
+   "conservatives",
+   "parti conservateur",
+   "conservative party",
+   "politique",
+   "politics",
+   "club politique",
+   "conservateurs conservatives",
+   "political club"
+  ],
+  "question": {
+   "fr": "C'est quoi Conservateurs uOttawa Conservatives ?",
+   "en": "What is Conservateurs uOttawa Conservatives?"
+  },
+  "answer": {
+   "fr": "Conservateurs uOttawa Conservatives est un club reconnu par le SÉUO, dans la catégorie politique. C'est un club politique qui fait la promotion des partis conservateurs. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Conservateurs uOttawa Conservatives is a club recognized by the UOSU, in the political category. It is a political club that promotes the Progressive Conservative Party of Ontario and the Conservative Party of Canada. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Conservateurs uOttawa Conservatives — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Conservateurs uOttawa Conservatives — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-coral-cove",
+  "category": "associations",
+  "keywords": [
+   "coral cove",
+   "anse des coraux",
+   "océan",
+   "ocean",
+   "mer",
+   "sea",
+   "vie marine",
+   "marine life",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi Anse des Coraux ?",
+   "en": "What is Coral Cove?"
+  },
+  "answer": {
+   "fr": "Anse des Coraux est un club reconnu par le SÉUO, dans la catégorie arts et création. C'est un club accueillant pour les amoureux de l'océan, qui propose des activités sur le thème de la mer pour se détendre et socialiser. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Coral Cove is a club recognized by the UOSU, in the creative category. It is a welcoming club for ocean lovers, with ocean-themed activities to relax and socialize. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Anse des Coraux — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Coral Cove — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-criminal-law",
+  "category": "associations",
+  "keywords": [
+   "droit criminel",
+   "criminal law",
+   "droit pénal",
+   "criminologie",
+   "law students",
+   "criminal law student association",
+   "association des étudiants en droit criminel",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants en droit criminel ?",
+   "en": "What is the Criminal Law Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants en droit criminel est un club reconnu par le SÉUO, dans la catégorie droit. Le club suscite l'intérêt et la compréhension du droit criminel. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Criminal Law Student Association is a club recognized by the UOSU, in the law category. The club fosters interest in and understanding of criminal law. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Association des étudiants en droit criminel — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Criminal Law Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-criminal-prison-law",
+  "category": "associations",
+  "keywords": [
+   "droit carcéral",
+   "prison law",
+   "droit criminel",
+   "criminal law",
+   "prison",
+   "justice pénale",
+   "criminal and prison law association",
+   "association de droit criminel et carcéral",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association de droit criminel et carcéral de l'Université d'Ottawa ?",
+   "en": "What is the Criminal and Prison Law Association at the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association de droit criminel et carcéral de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie droit. Le club aide les étudiants à explorer des carrières en droit criminel et carcéral. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Criminal and Prison Law Association at the University of Ottawa is a club recognized by the UOSU, in the law category. The club encourages students to explore careers in criminal and prison law. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association de droit criminel et carcéral de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Criminal and Prison Law Association at the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-crochet",
+  "category": "associations",
+  "keywords": [
+   "crochet",
+   "tricot",
+   "knitting",
+   "club de crochet",
+   "crochet club",
+   "artisanat",
+   "crafts",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de crochet ?",
+   "en": "What is the Crochet Club?"
+  },
+  "answer": {
+   "fr": "Le Club de crochet est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club crée une communauté autour du crochet et initie les gens à ce passe-temps. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Crochet Club is a club recognized by the UOSU, in the recreational category. The club builds a community around crochet and introduces people to this hobby. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de crochet — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Crochet Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-cupibond",
+  "category": "associations",
+  "keywords": [
+   "cupibond",
+   "rencontres",
+   "dating",
+   "amour",
+   "love",
+   "jumelage",
+   "matchmaking",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi Cupibond ?",
+   "en": "What is Cupibond?"
+  },
+  "answer": {
+   "fr": "Cupibond est un club reconnu par le SÉUO, dans la catégorie loisirs. C'est un club de rencontres et de jumelage réservé aux étudiants de l'Université d'Ottawa. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Cupibond is a club recognized by the UOSU, in the recreational category. It is a dating and matchmaking club exclusively for University of Ottawa students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Cupibond — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Cupibond — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-dawah-canada-dcuo",
+  "category": "associations",
+  "keywords": [
+   "dawah",
+   "dcuo",
+   "islam",
+   "islamophobie",
+   "islamophobia",
+   "club musulman",
+   "muslim club",
+   "dawah canada dcuo",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi Dawah Canada à l'Université d'Ottawa (DCuO) ?",
+   "en": "What is Dawah Canada at the University of Ottawa (DCuO)?"
+  },
+  "answer": {
+   "fr": "Dawah Canada à l'Université d'Ottawa (DCuO) est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. Le club dissipe les idées fausses sur l'islam et lutte contre l'islamophobie. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Dawah Canada at the University of Ottawa (DCuO) is a club recognized by the UOSU, in the religious category. The club works to dispel misconceptions about Islam and combat Islamophobia. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Dawah Canada à l'Université d'Ottawa (DCuO) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Dawah Canada at the University of Ottawa (DCuO) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-delta-delta-delta-international",
+  "category": "associations",
+  "keywords": [
+   "tri delta",
+   "delta delta delta",
+   "sororité",
+   "sorority",
+   "vie grecque",
+   "greek life",
+   "delta delta delta international women s fraternity",
+   "fraternité internationale féminine delta delta delta",
+   "fraternité"
+  ],
+  "question": {
+   "fr": "C'est quoi la Fraternité internationale féminine Delta Delta Delta ?",
+   "en": "What is the Delta Delta Delta International Women's Fraternity?"
+  },
+  "answer": {
+   "fr": "La Fraternité internationale féminine Delta Delta Delta est un club reconnu par le SÉUO, dans la catégorie fraternités et sororités. C'est une fraternité féminine internationale qui bâtit des liens d'amitié durables entre ses membres. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Delta Delta Delta International Women's Fraternity is a club recognized by the UOSU, in the fraternity and sorority category. It is an international women's fraternity that builds lasting bonds of friendship among its members. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "la Fraternité internationale féminine Delta Delta Delta — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Delta Delta Delta International Women's Fraternity — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-dermacare",
+  "category": "associations",
+  "keywords": [
+   "dermacare",
+   "dermatologie",
+   "dermatology",
+   "soins de la peau",
+   "skincare",
+   "peau",
+   "skin",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi Dermacare ?",
+   "en": "What is Dermacare?"
+  },
+  "answer": {
+   "fr": "Dermacare est un club reconnu par le SÉUO, dans la catégorie STIM. Le club informe les étudiants sur la dermatologie, les soins de la peau et la beauté. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Dermacare is a club recognized by the UOSU, in the STEM category. The club educates students about dermatology, skincare and beauty. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Dermacare — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Dermacare — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-desi-dancers",
+  "category": "associations",
+  "keywords": [
+   "desi",
+   "danse sud asiatique",
+   "south asian dance",
+   "bollywood",
+   "danse",
+   "dance",
+   "club de danse",
+   "desi dancers",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi Desi Dancers ?",
+   "en": "What is Desi Dancers?"
+  },
+  "answer": {
+   "fr": "Desi Dancers est un club reconnu par le SÉUO, dans la catégorie culture. C'est le premier club de danse et d'événements sud-asiatiques de l'Université d'Ottawa. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Desi Dancers is a club recognized by the UOSU, in the cultural category. It is uOttawa's first South Asian dance and events club. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Desi Dancers — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Desi Dancers — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-digital-health-privacy",
+  "category": "associations",
+  "keywords": [
+   "dhps",
+   "vie privée",
+   "privacy",
+   "santé numérique",
+   "digital health",
+   "protection des données",
+   "digital health privacy society",
+   "société de la vie privée en santé numérique",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société de la Vie Privée en Santé Numérique ?",
+   "en": "What is the Digital Health Privacy Society?"
+  },
+  "answer": {
+   "fr": "La Société de la Vie Privée en Santé Numérique est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club fait mieux connaître les enjeux de vie privée en santé numérique. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Digital Health Privacy Society is a club recognized by the UOSU, in the academic category. The club advances awareness and understanding of digital health privacy. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société de la Vie Privée en Santé Numérique — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Digital Health Privacy Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-engineers-without-borders",
+  "category": "associations",
+  "keywords": [
+   "isf",
+   "ewb",
+   "ingénieurs sans frontières",
+   "engineers without borders",
+   "génie",
+   "engineering",
+   "développement international",
+   "engineers without borders chapter",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi ingénieurs sans frontières UOttawa ?",
+   "en": "What is the Engineers Without Borders UOttawa Chapter?"
+  },
+  "answer": {
+   "fr": "ingénieurs sans frontières UOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est une section d'Ingénieurs sans frontières Canada qui favorise la collaboration internationale en génie pour le développement. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Engineers Without Borders UOttawa Chapter is a club recognized by the UOSU, in the philanthropic category. It is a chapter of Engineers Without Borders Canada promoting international engineering collaboration for development. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "ingénieurs sans frontières UOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Engineers Without Borders UOttawa Chapter — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-english-debating",
+  "category": "associations",
+  "keywords": [
+   "eds",
+   "débat",
+   "debate",
+   "club de débat",
+   "debate club",
+   "art oratoire",
+   "public speaking",
+   "débat anglais",
+   "english debating society",
+   "société anglaise de débat",
+   "club de compétition",
+   "competition club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société Anglaise de Débat ?",
+   "en": "What is the English Debating Society?"
+  },
+  "answer": {
+   "fr": "La Société Anglaise de Débat est un club reconnu par le SÉUO, dans la catégorie compétitions académiques. C'est l'équipe de débat formelle de l'Université, qui enseigne et participe à des compétitions en formats parlementaires britannique et canadien. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The English Debating Society is a club recognized by the UOSU, in the competitive academic category. It is the University's formal debate team, teaching and competing in British and Canadian Parliamentary formats. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société Anglaise de Débat — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "English Debating Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-family-law",
+  "category": "associations",
+  "keywords": [
+   "flss",
+   "droit de la famille",
+   "family law",
+   "common law",
+   "droit",
+   "family law student society",
+   "société étudiante en droit de la famille",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société étudiante en droit de la famille ?",
+   "en": "What is the Family Law Student Society?"
+  },
+  "answer": {
+   "fr": "La Société étudiante en droit de la famille est un club reconnu par le SÉUO, dans la catégorie droit. Le club offre aux étudiants de la Faculté de droit diverses occasions d'explorer le droit de la famille. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Family Law Student Society is a club recognized by the UOSU, in the law category. The club offers law students opportunities to explore family law. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société étudiante en droit de la famille — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Family Law Student Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-family-law-2",
+  "category": "associations",
+  "keywords": [
+   "droit de la famille",
+   "family law",
+   "droit de la jeunesse",
+   "youth law",
+   "droit civil",
+   "family law student association",
+   "association étudiante du droit de la famille",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association étudiante du droit de la famille ?",
+   "en": "What is the Family law Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association étudiante du droit de la famille est un club reconnu par le SÉUO, dans la catégorie droit. Le club fait connaître le droit de la famille et le droit de la jeunesse et sensibilise les étudiants à ces domaines. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Family law Student Association is a club recognized by the UOSU, in the law category. The club promotes family law and youth law and raises student awareness of these fields. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association étudiante du droit de la famille — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Family law Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-filipino",
+  "category": "associations",
+  "keywords": [
+   "filsauo",
+   "philippin",
+   "philippine",
+   "filipino",
+   "philippines",
+   "club philippin",
+   "filipino students association",
+   "association des étudiants philippins",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiants Philippins de l'Université d'Ottawa ?",
+   "en": "What is the Filipino Students Association at the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiants Philippins de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club fait rayonner et célèbre la culture philippine sur le campus. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Filipino Students Association at the University of Ottawa is a club recognized by the UOSU, in the cultural category. The club promotes and celebrates Filipino culture on campus. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Association des Étudiants Philippins de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Filipino Students Association at the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-first-love",
+  "category": "associations",
+  "keywords": [
+   "first love",
+   "club chrétien",
+   "christian club",
+   "foi",
+   "faith",
+   "église",
+   "church",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi First Love ?",
+   "en": "What is First Love?"
+  },
+  "answer": {
+   "fr": "First Love est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. C'est un club chrétien de jeunes passionnés par leur foi en Dieu. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "First Love is a club recognized by the UOSU, in the religious category. It is a Christian club of young people passionate about their faith in God. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "First Love — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "First Love — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-flavourful-science",
+  "category": "associations",
+  "keywords": [
+   "science savoureuse",
+   "flavourful science",
+   "steam",
+   "vulgarisation scientifique",
+   "science outreach",
+   "sciences",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi Science Savoureuse uOttawa ?",
+   "en": "What is Flavourful Science?"
+  },
+  "answer": {
+   "fr": "Science Savoureuse uOttawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club rend les STIAM (sciences, technologie, génie, arts et mathématiques) attrayantes et accessibles. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Flavourful Science is a club recognized by the UOSU, in the academic category. The club makes STEAM (science, technology, engineering, arts and math) engaging and accessible. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Science Savoureuse uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Flavourful Science — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-for-children",
+  "category": "associations",
+  "keywords": [
+   "for the children",
+   "pour les enfants",
+   "elimu",
+   "kenya",
+   "enfants",
+   "children",
+   "éducation",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Pour Les Enfants ?",
+   "en": "What is For the Children?"
+  },
+  "answer": {
+   "fr": "Pour Les Enfants est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club fait connaître Elimu, un organisme canadien qui donne aux enfants kényans des compétences et des ressources essentielles. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "For the Children is a club recognized by the UOSU, in the philanthropic category. The club raises awareness about Elimu, a Canadian non-profit giving Kenyan children essential skills and resources. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Pour Les Enfants — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "For the Children — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-friends-medecins-sans-frontieres",
+  "category": "associations",
+  "keywords": [
+   "fomsf",
+   "msf",
+   "médecins sans frontières",
+   "doctors without borders",
+   "aide humanitaire",
+   "humanitarian",
+   "amis de médecins sans frontières msf fomsf",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Amis de Médecins Sans Frontières (MSF) uOttawa (FoMSF) ?",
+   "en": "What is Friends of Médecins Sans Frontières (Doctors Without Borders) uOttawa (FoMSF)?"
+  },
+  "answer": {
+   "fr": "Amis de Médecins Sans Frontières (MSF) uOttawa (FoMSF) est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient Médecins Sans Frontières. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Friends of Médecins Sans Frontières (Doctors Without Borders) uOttawa (FoMSF) is a club recognized by the UOSU, in the philanthropic category. The club supports Doctors Without Borders / Médecins Sans Frontières. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Amis de Médecins Sans Frontières (MSF) uOttawa (FoMSF) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Friends of Médecins Sans Frontières (Doctors Without Borders) uOttawa (FoMSF) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-friends-museum-classical-antiquities",
+  "category": "associations",
+  "keywords": [
+   "mca",
+   "musée",
+   "museum",
+   "antiquités",
+   "antiquities",
+   "archéologie",
+   "grèce antique",
+   "rome antique",
+   "friends of the museum of classical antiquities mca",
+   "ami e s du musée d antiquités gréco romaines le mca",
+   "le mca",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi Ami.e.s du Musée d'antiquités gréco-romaines de l'Université d'Ottawa (le MCA) ?",
+   "en": "What is Friends of the uOttawa Museum of Classical Antiquities (MCA)?"
+  },
+  "answer": {
+   "fr": "Ami.e.s du Musée d'antiquités gréco-romaines de l'Université d'Ottawa (le MCA) est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club fait connaître le Musée d'antiquités gréco-romaines de l'Université par des événements et des ateliers. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Friends of the uOttawa Museum of Classical Antiquities (MCA) is a club recognized by the UOSU, in the recreational category. The club promotes engagement with the uOttawa Museum of Classical Antiquities through events and workshops. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Ami.e.s du Musée d'antiquités gréco-romaines de l'Université d'Ottawa (le MCA) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Friends of the uOttawa Museum of Classical Antiquities (MCA) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-gabonese-gatineau",
+  "category": "associations",
+  "keywords": [
+   "gabonais",
+   "gabon",
+   "gabonese",
+   "club gabonais",
+   "afrique",
+   "gabonese students association of ottawa gatineau",
+   "association des étudiants gabonais d ottawa gatineau",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants gabonais d'Ottawa-Gatineau ?",
+   "en": "What is the Gabonese students association of Ottawa-Gatineau?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants gabonais d'Ottawa-Gatineau est un club reconnu par le SÉUO, dans la catégorie culture. Le club fait connaître la culture gabonaise sur le campus et soutient les étudiants gabonais à Ottawa. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Gabonese students association of Ottawa-Gatineau is a club recognized by the UOSU, in the cultural category. The club promotes Gabonese culture on campus and supports Gabonese students in Ottawa. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants gabonais d'Ottawa-Gatineau — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Gabonese students association of Ottawa-Gatineau — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-gee-gees-athlete-council",
+  "category": "associations",
+  "keywords": [
+   "uosac",
+   "conseil étudiant athlète",
+   "student athlete council",
+   "gee gees",
+   "athlètes",
+   "varsity",
+   "gee gees student athlete council",
+   "gee gees conseil etudiant athlete",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi Gee-Gees Conseil Etudiant-Athlete ?",
+   "en": "What is the Gee-Gees Student-Athlete Council?"
+  },
+  "answer": {
+   "fr": "Gee-Gees Conseil Etudiant-Athlete est un club reconnu par le SÉUO, dans la catégorie sports. Le club améliore l'expérience des athlètes interuniversitaires de tous les sports. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Gee-Gees Student-Athlete Council is a club recognized by the UOSU, in the sports category. The club enhances the varsity experience for athletes across all sports. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Gee-Gees Conseil Etudiant-Athlete — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Gee-Gees Student-Athlete Council — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-girlup",
+  "category": "associations",
+  "keywords": [
+   "girl up",
+   "girlup",
+   "égalité des genres",
+   "gender equality",
+   "filles",
+   "girls",
+   "féminisme",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi GirlUp uOttawa ?",
+   "en": "What is GirlUp uOttawa?"
+  },
+  "answer": {
+   "fr": "GirlUp uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est une section de Girl Up qui sensibilise aux enjeux des filles et milite pour l'équité. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "GirlUp uOttawa is a club recognized by the UOSU, in the philanthropic category. It is a chapter of Girl Up raising awareness of girl-centred issues and working for equity. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "GirlUp uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "GirlUp uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-glamourgals",
+  "category": "associations",
+  "keywords": [
+   "glamourgals",
+   "femmesglamour",
+   "personnes âgées",
+   "seniors",
+   "bénévolat",
+   "volunteering",
+   "manucure",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi FemmesGlamour ?",
+   "en": "What is GlamourGals?"
+  },
+  "answer": {
+   "fr": "FemmesGlamour est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club réduit l'isolement des personnes âgées en leur offrant des manucures et des séances beauté gratuites. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "GlamourGals is a club recognized by the UOSU, in the creative category. The club reduces social isolation among older adults by offering free manicures and makeovers. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "FemmesGlamour — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "GlamourGals — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-great-northern-concrete-toboggan",
+  "category": "associations",
+  "keywords": [
+   "gnctr",
+   "gcntb",
+   "toboggan en béton",
+   "concrete toboggan",
+   "génie civil",
+   "civil engineering",
+   "compétition de génie",
+   "great northern concrete toboggan race gnctr",
+   "grande course nordique des toboggans en béton gcntb",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi Grande Course Nordique des Toboggans en Béton (GCNTB) ?",
+   "en": "What is the Great Northern Concrete Toboggan Race (GNCTR)?"
+  },
+  "answer": {
+   "fr": "Grande Course Nordique des Toboggans en Béton (GCNTB) est un club reconnu par le SÉUO, dans la catégorie STIM. Le club représente l'Université à la Grande Course Nordique des Toboggans en Béton, la plus vieille compétition étudiante de génie au Canada. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Great Northern Concrete Toboggan Race (GNCTR) is a club recognized by the UOSU, in the STEM category. The club represents uOttawa at the Great Northern Concrete Toboggan Race, the largest and oldest student engineering competition in Canada. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Grande Course Nordique des Toboggans en Béton (GCNTB) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Great Northern Concrete Toboggan Race (GNCTR) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-herscience",
+  "category": "associations",
+  "keywords": [
+   "herscience",
+   "sascience",
+   "santé reproductive",
+   "reproductive health",
+   "santé des femmes",
+   "women s health",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi SAScience ?",
+   "en": "What is HERScience?"
+  },
+  "answer": {
+   "fr": "SAScience est un club reconnu par le SÉUO, dans la catégorie STIM. Le club fait avancer les connaissances et la sensibilisation en santé reproductive des femmes. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "HERScience is a club recognized by the UOSU, in the STEM category. The club advances knowledge and awareness of health, empowerment and reproductive science. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "SAScience — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "HERScience — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-haitian",
+  "category": "associations",
+  "keywords": [
+   "cehuo",
+   "haïtien",
+   "haïti",
+   "haitian",
+   "haiti",
+   "club haïtien",
+   "haitian student club",
+   "club des etudiants haitiens",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club des Etudiants Haitiens de l'Université d'Ottawa ?",
+   "en": "What is the Haitian Student Club of The University of Ottawa?"
+  },
+  "answer": {
+   "fr": "Le Club des Etudiants Haitiens de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club promeut la culture haïtienne par des activités socioculturelles, récréatives et éducatives. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Haitian Student Club of The University of Ottawa is a club recognized by the UOSU, in the cultural category. The club promotes Haitian culture through socio-cultural, recreational and educational activities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club des Etudiants Haitiens de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Haitian Student Club of The University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-happy-bellies",
+  "category": "associations",
+  "keywords": [
+   "happy bellies",
+   "bien être alimentaire",
+   "insécurité alimentaire",
+   "food insecurity",
+   "nutrition",
+   "alimentation",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Bien-être alimentaire uOttawa ?",
+   "en": "What is Happy Bellies uOttawa?"
+  },
+  "answer": {
+   "fr": "Bien-être alimentaire uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club lutte contre l'insécurité alimentaire et promeut une alimentation nutritive et abordable. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Happy Bellies uOttawa is a club recognized by the UOSU, in the philanthropic category. The club addresses food insecurity and promotes nutritious, budget-friendly eating. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Bien-être alimentaire uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Happy Bellies uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-health-law",
+  "category": "associations",
+  "keywords": [
+   "ads",
+   "droit de la santé",
+   "health law",
+   "droit civil",
+   "civil law",
+   "santé",
+   "health law association",
+   "association du droit de la santé ads",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association du droit de la santé de l'Université d'Ottawa (ADS) ?",
+   "en": "What is the Health Law Association of the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association du droit de la santé de l'Université d'Ottawa (ADS) est un club reconnu par le SÉUO, dans la catégorie droit. Le club fait connaître le droit de la santé auprès des étudiants de la Section de droit civil. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Health Law Association of the University of Ottawa is a club recognized by the UOSU, in the law category. The club promotes health law in the Civil Law student community. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association du droit de la santé de l'Université d'Ottawa (ADS) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Health Law Association of the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-heart-city-piano-program",
+  "category": "associations",
+  "keywords": [
+   "hcpp",
+   "piano",
+   "cours de piano",
+   "piano lessons",
+   "musique",
+   "music",
+   "enfants",
+   "heart of the city piano program ottawa branch",
+   "programme de piano coeur de la ville secteur ottawa",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Programme de Piano Coeur de la ville secteur Ottawa ?",
+   "en": "What is the Heart of the City Piano Program Ottawa Branch?"
+  },
+  "answer": {
+   "fr": "Le Programme de Piano Coeur de la ville secteur Ottawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club rend l'apprentissage du piano accessible aux enfants qui n'en ont pas les moyens. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Heart of the City Piano Program Ottawa Branch is a club recognized by the UOSU, in the philanthropic category. The club makes music, and piano lessons, accessible to every child. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Programme de Piano Coeur de la ville secteur Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Heart of the City Piano Program Ottawa Branch — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-hearts-against-trafficking",
+  "category": "associations",
+  "keywords": [
+   "hat",
+   "traite des personnes",
+   "human trafficking",
+   "trafic humain",
+   "collecte de fonds",
+   "fundraising",
+   "hearts against trafficking",
+   "les cœurs contres la traite",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi les Cœurs Contres la Traite ?",
+   "en": "What is Hearts Against Trafficking?"
+  },
+  "answer": {
+   "fr": "Les Cœurs Contres la Traite est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club amasse des fonds pour des organismes qui luttent contre la traite des personnes. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Hearts Against Trafficking is a club recognized by the UOSU, in the philanthropic category. The club raises funds for non-profits fighting human trafficking. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Les Cœurs Contres la Traite — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Hearts Against Trafficking — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-hearts-in-action",
+  "category": "associations",
+  "keywords": [
+   "hia",
+   "itinérance",
+   "homelessness",
+   "sans abri",
+   "insécurité alimentaire",
+   "bénévolat",
+   "hearts in action",
+   "cœurs en action",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Cœurs En Action ?",
+   "en": "What is Hearts In Action?"
+  },
+  "answer": {
+   "fr": "Cœurs En Action est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient les personnes vivant l'itinérance, l'insécurité alimentaire ou une dépendance. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Hearts In Action is a club recognized by the UOSU, in the philanthropic category. The club supports people experiencing homelessness, food insecurity and addiction. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Cœurs En Action — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Hearts In Action — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-hearts-for-kids",
+  "category": "associations",
+  "keywords": [
+   "hearts for kids",
+   "cœurs pour enfants",
+   "enfants malades",
+   "sick children",
+   "hôpital",
+   "cadeaux",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Cœurs pour enfants ?",
+   "en": "What is Hearts for Kids?"
+  },
+  "answer": {
+   "fr": "Cœurs pour enfants est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club apporte du réconfort aux enfants malades à l'hôpital en leur offrant des sacs-cadeaux. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Hearts for Kids is a club recognized by the UOSU, in the philanthropic category. The club brings hope to sick children in hospital by donating gift bags. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Cœurs pour enfants — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Hearts for Kids — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-hemoglobal",
+  "category": "associations",
+  "keywords": [
+   "hemoglobal",
+   "troubles sanguins",
+   "blood disorders",
+   "santé mondiale",
+   "global health",
+   "hématologie",
+   "hemoglobal chapter",
+   "section hemoglobal",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Section Hemoglobal de l'Université d'Ottawa ?",
+   "en": "What is the Hemoglobal University of Ottawa Chapter?"
+  },
+  "answer": {
+   "fr": "La Section Hemoglobal de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie STIM. C'est une section d'Hemoglobal, une initiative de santé mondiale qui améliore les soins aux enfants atteints de troubles sanguins dans les régions mal desservies. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Hemoglobal University of Ottawa Chapter is a club recognized by the UOSU, in the STEM category. It is a chapter of Hemoglobal, a global health initiative improving care for children with blood disorders in under-resourced regions. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Section Hemoglobal de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Hemoglobal University of Ottawa Chapter — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-herdefense",
+  "category": "associations",
+  "keywords": [
+   "herdefense",
+   "sadéfense",
+   "autodéfense",
+   "self defence",
+   "self defense",
+   "défense personnelle",
+   "club d autodéfense",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi SaDéfense uOttawa ?",
+   "en": "What is HerDefense uOttawa?"
+  },
+  "answer": {
+   "fr": "SaDéfense uOttawa est un club reconnu par le SÉUO, dans la catégorie sport et activité physique. Le club outille les femmes et les personnes marginalisées par des cours d'autodéfense et le renforcement de la confiance. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "HerDefense uOttawa is a club recognized by the UOSU, in the athletic category. The club empowers women and marginalized people through self-defence education and confidence-building. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "SaDéfense uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "HerDefense uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-herhealth",
+  "category": "associations",
+  "keywords": [
+   "herhealth",
+   "sa santé",
+   "santé des femmes",
+   "women s health",
+   "santé",
+   "health",
+   "herhealth@",
+   "sa sante",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi Sa Sante ?",
+   "en": "What is HerHealth@uOttawa?"
+  },
+  "answer": {
+   "fr": "Sa Sante est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club aide les étudiants, surtout les femmes et les personnes de diverses identités de genre, à mieux comprendre leur santé. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "HerHealth@uOttawa is a club recognized by the UOSU, in the academic category. The club empowers students, particularly women and gender-diverse people, to better understand their health. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Sa Sante — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "HerHealth@uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-heyya",
+  "category": "associations",
+  "keywords": [
+   "heyya",
+   "moyen orient",
+   "afrique du nord",
+   "mena",
+   "middle east",
+   "étudiantes",
+   "women",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi Heyya ?",
+   "en": "What is Heyya?"
+  },
+  "answer": {
+   "fr": "Heyya est un club reconnu par le SÉUO, dans la catégorie culture. Le club offre un espace accueillant aux étudiantes du Moyen-Orient et de l'Afrique du Nord pour se rencontrer et socialiser. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Heyya is a club recognized by the UOSU, in the cultural category. The club provides a welcoming space for Middle Eastern and North African female students to connect and socialize. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Heyya — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Heyya — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-hillel",
+  "category": "associations",
+  "keywords": [
+   "hillel",
+   "juif",
+   "juive",
+   "jewish",
+   "judaïsme",
+   "judaism",
+   "club juif",
+   "jewish club",
+   "hillel ottawa",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi Hillel Ottawa ?",
+   "en": "What is Hillel Ottawa?"
+  },
+  "answer": {
+   "fr": "Hillel Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club enrichit la vie culturelle, religieuse et sociale des étudiants juifs sur le campus. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Hillel Ottawa is a club recognized by the UOSU, in the cultural category. The club enriches the cultural, religious and social experiences of Jewish students on campus. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Hillel Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Hillel Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-human-concern-international",
+  "category": "associations",
+  "keywords": [
+   "hci",
+   "human concern international",
+   "aide humanitaire",
+   "humanitarian",
+   "charité",
+   "charity",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Human Concern International Université d'Ottawa ?",
+   "en": "What is Human Concern International uOttawa?"
+  },
+  "answer": {
+   "fr": "Human Concern International Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club cultive la compassion, le service et la conscience mondiale. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Human Concern International uOttawa is a club recognized by the UOSU, in the philanthropic category. The club fosters a culture of compassion, service and global awareness. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Human Concern International Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Human Concern International uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-hungarian",
+  "category": "associations",
+  "keywords": [
+   "uohsa",
+   "hongrois",
+   "hongroise",
+   "hungarian",
+   "hongrie",
+   "hungary",
+   "club hongrois",
+   "hungarian students association",
+   "association des étudiants hongrois",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants hongrois ?",
+   "en": "What is the Hungarian Students Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants hongrois est un club reconnu par le SÉUO, dans la catégorie culture. Le club bâtit une communauté pour les étudiants intéressés par le patrimoine, l'histoire et les traditions hongroises. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Hungarian Students Association is a club recognized by the UOSU, in the cultural category. The club builds a community for students interested in Hungarian heritage, history and traditions. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants hongrois — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Hungarian Students Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-i-t-i-s",
+  "category": "associations",
+  "keywords": [
+   "itis",
+   "chinois",
+   "chinese",
+   "entrepreneuriat",
+   "entrepreneurship",
+   "innovation",
+   "investissement",
+   "i t i s",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi I.T.I.S-uOttawa ?",
+   "en": "What is I.T.I.S-uOttawa?"
+  },
+  "answer": {
+   "fr": "I.T.I.S-uOttawa est un club reconnu par le SÉUO, dans la catégorie culture. C'est un club d'affaires pour les étudiants chinois intéressés par l'innovation, la technologie, l'investissement et la stratégie. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "I.T.I.S-uOttawa is a club recognized by the UOSU, in the cultural category. It is a business club for Chinese students interested in innovation, technology, investment and strategy. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "I.T.I.S-uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "I.T.I.S-uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-idrf",
+  "category": "associations",
+  "keywords": [
+   "idrf",
+   "aide humanitaire",
+   "humanitarian relief",
+   "développement international",
+   "international development",
+   "charité",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi IDRF uOttawa ?",
+   "en": "What is IDRF uOttawa?"
+  },
+  "answer": {
+   "fr": "IDRF uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est la section étudiante officielle de l'International Development and Relief Foundation, un organisme d'aide humanitaire et de développement. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "IDRF uOttawa is a club recognized by the UOSU, in the philanthropic category. It is the official student chapter of the International Development and Relief Foundation. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "IDRF uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "IDRF uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-insaf",
+  "category": "associations",
+  "keywords": [
+   "insaf",
+   "palestine",
+   "solidarité",
+   "solidarity",
+   "palestinien",
+   "palestinian",
+   "club politique",
+   "political club"
+  ],
+  "question": {
+   "fr": "C'est quoi Insaf ?",
+   "en": "What is Insaf?"
+  },
+  "answer": {
+   "fr": "Insaf est un club reconnu par le SÉUO, dans la catégorie politique. C'est un groupe étudiant de solidarité avec la Palestine. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Insaf is a club recognized by the UOSU, in the political category. It is a student-led Palestinian solidarity group. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Insaf — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Insaf — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-intervarsity",
+  "category": "associations",
+  "keywords": [
+   "intervarsity",
+   "club chrétien",
+   "christian club",
+   "foi",
+   "faith",
+   "jésus",
+   "jesus",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi InterVarsity ?",
+   "en": "What is InterVarsity?"
+  },
+  "answer": {
+   "fr": "InterVarsity est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. C'est un club chrétien qui réfléchit à ce que signifie suivre Jésus aujourd'hui. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "InterVarsity is a club recognized by the UOSU, in the religious category. It is a Christian club exploring what it means to follow Jesus today. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "InterVarsity — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "InterVarsity — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-international-commercial-trade-law",
+  "category": "associations",
+  "keywords": [
+   "ictlsa",
+   "droit commercial international",
+   "international trade law",
+   "commerce international",
+   "common law",
+   "international commercial and trade law students association",
+   "association des étudiants en droit commercial international",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants en droit commercial international ?",
+   "en": "What is the International Commercial and Trade Law Students' Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants en droit commercial international est un club reconnu par le SÉUO, dans la catégorie droit. Le club rassemble les étudiants en common law intéressés par le droit commercial et le commerce international. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The International Commercial and Trade Law Students' Association is a club recognized by the UOSU, in the law category. The club brings together common law students interested in international commercial and trade law. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants en droit commercial international — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "International Commercial and Trade Law Students' Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-international-friendship-program",
+  "category": "associations",
+  "keywords": [
+   "isfp",
+   "amitié internationale",
+   "international friendship",
+   "étudiants internationaux",
+   "international students",
+   "club chrétien",
+   "international student friendship program",
+   "club d amitié étudiante internationale",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club d'amitié étudiante internationale ?",
+   "en": "What is the International Student Friendship Program?"
+  },
+  "answer": {
+   "fr": "Le Club d'amitié étudiante internationale est un club reconnu par le SÉUO, dans la catégorie culture. Le club accueille chaleureusement les étudiants internationaux de toutes les nationalités, dans un esprit chrétien. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The International Student Friendship Program is a club recognized by the UOSU, in the cultural category. The club extends a warm, Christ-centred welcome to international students of all nationalities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club d'amitié étudiante internationale — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "International Student Friendship Program — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-islamic-relief",
+  "category": "associations",
+  "keywords": [
+   "islamic relief",
+   "secours islamique",
+   "aide humanitaire",
+   "humanitarian",
+   "collecte de fonds",
+   "fundraising",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Islamic Relief à l'Université d'Ottawa ?",
+   "en": "What is Islamic Relief at the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "Islamic Relief à l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club amasse des fonds et soutient les communautés pour renforcer leur résilience face aux catastrophes. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Islamic Relief at the University of Ottawa is a club recognized by the UOSU, in the philanthropic category. The club fundraises and works with communities to strengthen their resilience to disasters and provide emergency relief. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Islamic Relief à l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Islamic Relief at the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-japanese",
+  "category": "associations",
+  "keywords": [
+   "jsa",
+   "japonais",
+   "japonaise",
+   "japanese",
+   "japon",
+   "japan",
+   "club japonais",
+   "culture japonaise",
+   "japanese student association",
+   "association des étudiant e s japonais es",
+   "e",
+   "es",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiant(e)s japonais(es) ?",
+   "en": "What is the Japanese Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiant(e)s japonais(es) est un club reconnu par le SÉUO, dans la catégorie culture. Le club crée un milieu accueillant pour les étudiants japonais et toute personne intéressée par la culture japonaise. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Japanese Student Association is a club recognized by the UOSU, in the cultural category. The club creates a welcoming environment for Japanese students and anyone interested in Japanese culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiant(e)s japonais(es) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Japanese Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-jewish-law-assocation",
+  "category": "associations",
+  "keywords": [
+   "jlsa",
+   "juif",
+   "jewish",
+   "droit",
+   "law",
+   "étudiants en droit",
+   "jewish law student assocation",
+   "association des étudiant e s juif ve s en droit",
+   "e",
+   "ve",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiant(e)s juif(ve)s en droit ?",
+   "en": "What is Jewish Law Student Assocation?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiant(e)s juif(ve)s en droit est un club reconnu par le SÉUO, dans la catégorie droit. Le club crée un espace où les étudiants juifs en droit et leurs alliés peuvent se rencontrer et bâtir une communauté. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Jewish Law Student Assocation is a club recognized by the UOSU, in the law category. The club creates a welcoming space where Jewish law students and their allies can connect and build community. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiant(e)s juif(ve)s en droit — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Jewish Law Student Assocation — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-kappa-beta-gamma-international",
+  "category": "associations",
+  "keywords": [
+   "kappa beta gamma",
+   "kbg",
+   "sororité",
+   "sorority",
+   "vie grecque",
+   "greek life",
+   "kappa beta gamma international sorority",
+   "sororité internationale kappa beta gamma",
+   "fraternité"
+  ],
+  "question": {
+   "fr": "C'est quoi la Sororité Internationale Kappa Beta Gamma ?",
+   "en": "What is the Kappa Beta Gamma International Sorority?"
+  },
+  "answer": {
+   "fr": "La Sororité Internationale Kappa Beta Gamma est un club reconnu par le SÉUO, dans la catégorie fraternités et sororités. C'est une sororité non panhellénique qui aide les femmes à se développer socialement, moralement et intellectuellement. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Kappa Beta Gamma International Sorority is a club recognized by the UOSU, in the fraternity and sorority category. It is a non-Panhellenic sorority helping women develop socially, morally and intellectually. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Sororité Internationale Kappa Beta Gamma — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Kappa Beta Gamma International Sorority — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-kids-connect-africa",
+  "category": "associations",
+  "keywords": [
+   "kca",
+   "kids connect africa",
+   "afrique",
+   "africa",
+   "enfants",
+   "children",
+   "éducation",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Kids Connect Africa - uOttawa ?",
+   "en": "What is Kids Connect Africa - uOttawa?"
+  },
+  "answer": {
+   "fr": "Kids Connect Africa - uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est la section locale de l'organisme international Kids Connect Africa. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Kids Connect Africa - uOttawa is a club recognized by the UOSU, in the philanthropic category. It is the local branch of the international organization Kids Connect Africa. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Kids Connect Africa - uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Kids Connect Africa - uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-kindness-across-borders",
+  "category": "associations",
+  "keywords": [
+   "kindness across borders",
+   "orphelins",
+   "orphans",
+   "liban",
+   "lebanon",
+   "enfants",
+   "charité",
+   "gentillesse au delà des frontières",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi la gentillesse au-delà des frontières ?",
+   "en": "What is Kindness Across Borders?"
+  },
+  "answer": {
+   "fr": "La gentillesse au-delà des frontières est un club reconnu par le SÉUO, dans la catégorie culture. Le club soutient les enfants orphelins au Liban, au Moyen-Orient et ailleurs. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Kindness Across Borders is a club recognized by the UOSU, in the cultural category. The club supports orphaned children in Lebanon, the Middle East and beyond. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "La gentillesse au-delà des frontières — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Kindness Across Borders — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-leagler",
+  "category": "associations",
+  "keywords": [
+   "leagler",
+   "immigrants",
+   "nouveaux arrivants",
+   "newcomers",
+   "immigration",
+   "réseautage",
+   "networking",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi LEagler Uottawa ?",
+   "en": "What is LEagler Uottawa?"
+  },
+  "answer": {
+   "fr": "LEagler Uottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. C'est un club bilingue fondé par et pour les jeunes immigrants, pour aider les nouveaux arrivants à créer des liens. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "LEagler Uottawa is a club recognized by the UOSU, in the academic category. It is a bilingual club founded by and for young immigrants to help newcomers build connections. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "LEagler Uottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "LEagler Uottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-labour-employment-law",
+  "category": "associations",
+  "keywords": [
+   "droit du travail",
+   "labour law",
+   "droit de l emploi",
+   "employment law",
+   "common law",
+   "labour and employment law students association",
+   "association étudiante en droit du travail et de l emploi",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association Étudiante en Droit du Travail et de L'emploi ?",
+   "en": "What is the Labour and Employment Law Students Association?"
+  },
+  "answer": {
+   "fr": "L'Association Étudiante en Droit du Travail et de L'emploi est un club reconnu par le SÉUO, dans la catégorie droit. Le club fait connaître le droit du travail et de l'emploi et multiplie les occasions pour les étudiants. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Labour and Employment Law Students Association is a club recognized by the UOSU, in the law category. The club promotes labour and employment law on campus and increases student opportunities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association Étudiante en Droit du Travail et de L'emploi — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Labour and Employment Law Students Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-lambda-theta-sigma-chi",
+  "category": "associations",
+  "keywords": [
+   "sigma chi",
+   "fraternité",
+   "fraternity",
+   "vie grecque",
+   "greek life",
+   "lambda theta",
+   "sorority",
+   "fraternité sigma chi",
+   "sigma chi fraternity",
+   "club lambda"
+  ],
+  "question": {
+   "fr": "C'est quoi le Chapitre Lambda Theta de la Fraternité Internationale Sigma Chi ?",
+   "en": "What is the Lambda Theta Chapter of the Sigma Chi International Fraternity?"
+  },
+  "answer": {
+   "fr": "Le Chapitre Lambda Theta de la Fraternité Internationale Sigma Chi est un club reconnu par le SÉUO, dans la catégorie fraternités et sororités. C'est le chapitre Lambda Theta de la fraternité internationale Sigma Chi, fondé en 2010. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Lambda Theta Chapter of the Sigma Chi International Fraternity is a club recognized by the UOSU, in the fraternity and sorority category. It is the Lambda Theta chapter of the Sigma Chi international fraternity, founded in 2010. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Chapitre Lambda Theta de la Fraternité Internationale Sigma Chi — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Lambda Theta Chapter of the Sigma Chi International Fraternity — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-latin-american-heritage",
+  "category": "associations",
+  "keywords": [
+   "latino",
+   "latina",
+   "latin american",
+   "amérique latine",
+   "latin america",
+   "hispanique",
+   "club latino",
+   "latin american heritage",
+   "héritage latino américain",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi Héritage Latino Américain ?",
+   "en": "What is Latin American Heritage?"
+  },
+  "answer": {
+   "fr": "Héritage Latino Américain est un club reconnu par le SÉUO, dans la catégorie culture. Le club fait connaître les cultures, les langues, l'histoire et le patrimoine de l'Amérique latine. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Latin American Heritage is a club recognized by the UOSU, in the cultural category. The club promotes the cultures, languages, history and heritage of Latin America. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Héritage Latino Américain — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Latin American Heritage — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-law-technology-ltss",
+  "category": "associations",
+  "keywords": [
+   "ltss",
+   "aédt",
+   "droit et technologie",
+   "law and technology",
+   "propriété intellectuelle",
+   "intellectual property",
+   "ia",
+   "law et technology student society ltss",
+   "association étudiante en droit et technologie aédt",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association Étudiante en Droit et Technologie (AÉDT) ?",
+   "en": "What is the Law & Technology Student Society (LTSS)?"
+  },
+  "answer": {
+   "fr": "L'Association Étudiante en Droit et Technologie (AÉDT) est un club reconnu par le SÉUO, dans la catégorie droit. Le club rassemble les étudiants intéressés par les enjeux juridiques liés à la technologie, comme l'IA et la propriété intellectuelle. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Law & Technology Student Society (LTSS) is a club recognized by the UOSU, in the law category. The club brings together students interested in law and technology issues, such as AI and intellectual property. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association Étudiante en Droit et Technologie (AÉDT) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Law & Technology Student Society (LTSS) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-law-international-affairs-network",
+  "category": "associations",
+  "keywords": [
+   "jd ma",
+   "droit et affaires internationales",
+   "law and international affairs",
+   "npsia",
+   "droit international",
+   "law and international affairs network",
+   "reseau droit et affaires internationales",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Reseau Droit et Affaires Internationales ?",
+   "en": "What is the Law and International Affairs Network?"
+  },
+  "answer": {
+   "fr": "Le Reseau Droit et Affaires Internationales est un club reconnu par le SÉUO, dans la catégorie droit. Le club relie nouveaux étudiants, étudiants avancés et diplômés du programme conjoint JD/MA en droit et affaires internationales. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Law and International Affairs Network is a club recognized by the UOSU, in the law category. The club connects new students, upper years and alumni of the joint JD/MA program in law and international affairs. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Reseau Droit et Affaires Internationales — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Law and International Affairs Network — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-law-politics",
+  "category": "associations",
+  "keywords": [
+   "droit et politique",
+   "law and politics",
+   "politique",
+   "politics",
+   "gouvernement",
+   "law and politics association",
+   "association droit et politique",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association Droit et Politique ?",
+   "en": "What is the Law and Politics Association?"
+  },
+  "answer": {
+   "fr": "L'Association Droit et Politique est un club reconnu par le SÉUO, dans la catégorie droit. Le club explore les liens entre le droit, la politique et les institutions gouvernementales. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Law and Politics Association is a club recognized by the UOSU, in the law category. The club explores the relationship between law, politics and government institutions. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association Droit et Politique — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Law and Politics Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-coin-copines",
+  "category": "associations",
+  "keywords": [
+   "coin des copines",
+   "copines",
+   "amitié",
+   "friendship",
+   "étudiantes",
+   "women students",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Coin Des Copines ?",
+   "en": "What is Le Coin Des Copines?"
+  },
+  "answer": {
+   "fr": "Le Coin Des Copines est un club reconnu par le SÉUO, dans la catégorie loisirs. C'est un club amical pour les étudiantes qui veulent se rencontrer, échanger et nouer des amitiés. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Le Coin Des Copines is a club recognized by the UOSU, in the recreational category. It is a fun, supportive club for women students to connect, share and build friendships. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le Coin Des Copines — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Le Coin Des Copines — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-learning-for-charity",
+  "category": "associations",
+  "keywords": [
+   "lfc",
+   "learning for charity",
+   "bénévolat",
+   "volunteering",
+   "tutorat",
+   "charité",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Learning for Charity ?",
+   "en": "What is Learning for Charity?"
+  },
+  "answer": {
+   "fr": "Learning for Charity est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est un organisme sans but lucratif géré par des étudiants bénévoles. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Learning for Charity is a club recognized by the UOSU, in the philanthropic category. It is a non-profit organization run by student volunteers. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Learning for Charity — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Learning for Charity — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-lebanese-cultural-lcc",
+  "category": "associations",
+  "keywords": [
+   "lcc",
+   "ccl",
+   "libanais",
+   "lebanese",
+   "liban",
+   "lebanon",
+   "club libanais",
+   "lebanese cultural club lcc",
+   "club culturel libanais ccl",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club Culturel Libanais - CCL ?",
+   "en": "What is the Lebanese Cultural Club - LCC?"
+  },
+  "answer": {
+   "fr": "Le Club Culturel Libanais - CCL est un club reconnu par le SÉUO, dans la catégorie culture. Le club célèbre le patrimoine libanais par des événements, des rencontres sociales et des vitrines culturelles. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Lebanese Cultural Club - LCC is a club recognized by the UOSU, in the cultural category. The club celebrates Lebanese heritage through events, social gatherings and cultural showcases. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club Culturel Libanais - CCL — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Lebanese Cultural Club - LCC — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-lighthouse-acf",
+  "category": "associations",
+  "keywords": [
+   "acf",
+   "adventiste",
+   "adventist",
+   "club chrétien",
+   "christian club",
+   "lighthouse",
+   "lighthouse acf",
+   "aca lighthouse",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi ACA Lighthouse ?",
+   "en": "What is Lighthouse ACF?"
+  },
+  "answer": {
+   "fr": "ACA Lighthouse est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. C'est une association chrétienne étudiante soutenue par les églises adventistes locales. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Lighthouse ACF is a club recognized by the UOSU, in the religious category. It is a Christian student organization supported by local Adventist churches. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "ACA Lighthouse — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Lighthouse ACF — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-ligue-improvisation-etudiante-universitaire",
+  "category": "associations",
+  "keywords": [
+   "lieu",
+   "improvisation",
+   "improv",
+   "impro",
+   "ligue d impro",
+   "théâtre",
+   "francophone",
+   "ligue d improvisation étudiante universitaire",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Ligue d'improvisation étudiante universitaire ?",
+   "en": "What is Ligue d'improvisation étudiante universitaire?"
+  },
+  "answer": {
+   "fr": "La Ligue d'improvisation étudiante universitaire est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club présente des spectacles d'improvisation et fait rayonner la culture francophone sur le campus. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Ligue d'improvisation étudiante universitaire is a club recognized by the UOSU, in the creative category. The club presents improv shows and promotes francophone culture on campus. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Ligue d'improvisation étudiante universitaire — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Ligue d'improvisation étudiante universitaire — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-live-sounds",
+  "category": "associations",
+  "keywords": [
+   "live sounds",
+   "tounes en direct",
+   "musique live",
+   "live music",
+   "concert",
+   "spectacle",
+   "musiciens",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi Tounes en Direct ?",
+   "en": "What is Live Sounds?"
+  },
+  "answer": {
+   "fr": "Tounes en Direct est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club crée une communauté sur le campus grâce à des spectacles de musique en direct. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Live Sounds is a club recognized by the UOSU, in the creative category. The club brings community to campus through live music performances. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Tounes en Direct — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Live Sounds — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-lol-campus",
+  "category": "associations",
+  "keywords": [
+   "lol campus",
+   "uottawa laughs",
+   "humour",
+   "comedy",
+   "stand up",
+   "club d humour",
+   "comedy club",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi LoL Campus ?",
+   "en": "What is LoL Campus?"
+  },
+  "answer": {
+   "fr": "LoL Campus est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club, aussi appelé uOttawa Laughs, est un club d'humour bilingue fondé en 2024. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "LoL Campus is a club recognized by the UOSU, in the creative category. The club, also known as uOttawa Laughs, is a bilingual student comedy club founded in 2024. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "LoL Campus — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "LoL Campus — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-luxembourgish",
+  "category": "associations",
+  "keywords": [
+   "luxembourg",
+   "luxembourgeois",
+   "luxembourgish",
+   "club luxembourgeois",
+   "europe",
+   "luxembourgish student association",
+   "association des étudiants du luxembourg",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiants du Luxembourg ?",
+   "en": "What is the Luxembourgish Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiants du Luxembourg est un club reconnu par le SÉUO, dans la catégorie culture. Le club fait découvrir le vrai Luxembourg en partageant sa culture et ses traditions. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Luxembourgish Student Association is a club recognized by the UOSU, in the cultural category. The club introduces people to the real Luxembourg by sharing its culture and traditions. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Étudiants du Luxembourg — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Luxembourgish Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-mcf",
+  "category": "associations",
+  "keywords": [
+   "mcf",
+   "club chrétien",
+   "christian club",
+   "foi",
+   "faith",
+   "église",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi MCF uOttawa ?",
+   "en": "What is MCF uOttawa?"
+  },
+  "answer": {
+   "fr": "MCF uOttawa est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. Le club offre un foyer sur le campus aux membres de l'église My Father's House et à toute personne intéressée par la foi. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "MCF uOttawa is a club recognized by the UOSU, in the religious category. The club provides a campus home for members of My Father's House church and anyone interested in faith. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "MCF uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "MCF uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-medlife",
+  "category": "associations",
+  "keywords": [
+   "medlife",
+   "medvie",
+   "santé mondiale",
+   "global health",
+   "médecine",
+   "bénévolat",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi MEDVIE uOttawa ?",
+   "en": "What is MEDLIFE uOttawa?"
+  },
+  "answer": {
+   "fr": "MEDVIE uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club bâtit un mouvement pour soutenir les personnes défavorisées dans l'accès à la santé, à l'éducation et au développement. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "MEDLIFE uOttawa is a club recognized by the UOSU, in the philanthropic category. The club builds a movement empowering people facing financial and other barriers in health, education and development. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "MEDVIE uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "MEDLIFE uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-myax-muslim-youth-achieving",
+  "category": "associations",
+  "keywords": [
+   "myax",
+   "max",
+   "musulman",
+   "muslim",
+   "excellence",
+   "leadership",
+   "myax muslim youth achieving excellence",
+   "max musulmans en quête d excellence",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi MAX uOttawa — Musulmans en quête d'excellence ?",
+   "en": "What is MYAX uOttawa - Muslim Youth Achieving Excellence?"
+  },
+  "answer": {
+   "fr": "MAX uOttawa — Musulmans en quête d'excellence est un club reconnu par le SÉUO, dans la catégorie études et carrière. C'est la section universitaire de MAX (Muslims Achieving Excellence), un organisme canadien sans but lucratif. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "MYAX uOttawa - Muslim Youth Achieving Excellence is a club recognized by the UOSU, in the academic category. It is the University of Ottawa chapter of MYAX, the university division of MAX (Muslims Achieving Excellence). To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "MAX uOttawa — Musulmans en quête d'excellence — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "MYAX uOttawa - Muslim Youth Achieving Excellence — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-malagasy-malou",
+  "category": "associations",
+  "keywords": [
+   "malou",
+   "malgache",
+   "malagasy",
+   "madagascar",
+   "club malgache",
+   "malagasy at malou",
+   "malagasy à malou",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi Malagasy à uOttawa (MALOU) ?",
+   "en": "What is Malagasy at uOttawa (MALOU)?"
+  },
+  "answer": {
+   "fr": "Malagasy à uOttawa (MALOU) est un club reconnu par le SÉUO, dans la catégorie culture. Le club fait connaître la culture malgache et la beauté de Madagascar. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Malagasy at uOttawa (MALOU) is a club recognized by the UOSU, in the cultural category. The club promotes Malagasy culture and showcases the beauty of Madagascar. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Malagasy à uOttawa (MALOU) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Malagasy at uOttawa (MALOU) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-mandarin-christian-fellowship",
+  "category": "associations",
+  "keywords": [
+   "mandarin",
+   "chinois",
+   "chinese",
+   "club chrétien",
+   "christian club",
+   "foi",
+   "mandarin christian fellowship",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi Mandarin Christian Fellowship ?",
+   "en": "What is the Mandarin Christian Fellowship?"
+  },
+  "answer": {
+   "fr": "Mandarin Christian Fellowship est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. C'est un club chrétien géré par des étudiants depuis 1995 et affilié à l'Ottawa Mandarin Alliance Church. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Mandarin Christian Fellowship is a club recognized by the UOSU, in the religious category. It is a Christian club run by uOttawa students since 1995 and affiliated with the Ottawa Mandarin Alliance Church. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Mandarin Christian Fellowship — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Mandarin Christian Fellowship — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-mechanical-engineering",
+  "category": "associations",
+  "keywords": [
+   "mess",
+   "génie mécanique",
+   "mechanical engineering",
+   "génie biomédical",
+   "ingénierie",
+   "engineering",
+   "mechanical engineering student society",
+   "société des étudiants en génie mécanique",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société des Étudiants en Génie Mécanique ?",
+   "en": "What is the Mechanical Engineering Student Society?"
+  },
+  "answer": {
+   "fr": "La Société des Étudiants en Génie Mécanique est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club sert les étudiants de premier cycle en génie mécanique et biomédical par des activités sociales et académiques. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Mechanical Engineering Student Society is a club recognized by the UOSU, in the academic category. The club serves undergraduate mechanical and biomedical mechanical engineering students through social and academic events. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société des Étudiants en Génie Mécanique — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Mechanical Engineering Student Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-medical-equipment-redistribution-collaborative",
+  "category": "associations",
+  "keywords": [
+   "merci",
+   "équipement médical",
+   "medical equipment",
+   "dons",
+   "donations",
+   "redistribution",
+   "medical equipment redistribution collaborative initiative",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Initiative de collaboration pour la redistribution d'équipement médical (MERCI) ?",
+   "en": "What is the Medical Equipment Redistribution Collaborative Initiative?"
+  },
+  "answer": {
+   "fr": "L'Initiative de collaboration pour la redistribution d'équipement médical (MERCI) est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club recueille des dons d'équipement médical pour les redistribuer aux personnes qui en ont besoin. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Medical Equipment Redistribution Collaborative Initiative is a club recognized by the UOSU, in the philanthropic category. The club collects medical equipment donations and redistributes them to people in need. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Initiative de collaboration pour la redistribution d'équipement médical (MERCI) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Medical Equipment Redistribution Collaborative Initiative — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-medical-pathways",
+  "category": "associations",
+  "keywords": [
+   "medical pathways",
+   "parcours médical",
+   "médecine",
+   "medicine",
+   "pré médecine",
+   "pre med",
+   "mentorat",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Parcours Médical ?",
+   "en": "What is Medical Pathways?"
+  },
+  "answer": {
+   "fr": "Le Parcours Médical est un club reconnu par le SÉUO, dans la catégorie STIM. C'est une communauté de mentorat qui rend le parcours vers la médecine plus clair et accessible. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Medical Pathways is a club recognized by the UOSU, in the STEM category. It is a mentorship-based community that makes the path to medicine clearer and more accessible. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Parcours Médical — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Medical Pathways — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-middle-eastern-north-african",
+  "category": "associations",
+  "keywords": [
+   "mena",
+   "moyen orient",
+   "afrique du nord",
+   "middle east",
+   "north africa",
+   "droit",
+   "law",
+   "middle eastern and north african law students association",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants en droit du Moyen-Orient et de l'Afrique du Nord ?",
+   "en": "What is the Middle Eastern and North African Law Students' Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants en droit du Moyen-Orient et de l'Afrique du Nord est un club reconnu par le SÉUO, dans la catégorie culture. Le club crée un espace inclusif pour les étudiants en droit du Moyen-Orient et de l'Afrique du Nord et leurs alliés. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Middle Eastern and North African Law Students' Association is a club recognized by the UOSU, in the cultural category. The club creates an inclusive space for MENA law students and their allies. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants en droit du Moyen-Orient et de l'Afrique du Nord — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Middle Eastern and North African Law Students' Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-migraine-canada",
+  "category": "associations",
+  "keywords": [
+   "migraine",
+   "maux de tête",
+   "headache",
+   "céphalée",
+   "sensibilisation",
+   "awareness",
+   "migraine canada chapter",
+   "chapitre migraine canada",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Chapitre Migraine Canada uOttawa ?",
+   "en": "What is the Migraine Canada uOttawa Chapter?"
+  },
+  "answer": {
+   "fr": "Le Chapitre Migraine Canada uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club fait mieux comprendre la migraine et les autres céphalées. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Migraine Canada uOttawa Chapter is a club recognized by the UOSU, in the philanthropic category. The club increases understanding of migraine disease and other headache disorders. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Chapitre Migraine Canada uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Migraine Canada uOttawa Chapter — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-military-national-security-law",
+  "category": "associations",
+  "keywords": [
+   "milsa",
+   "droit militaire",
+   "military law",
+   "sécurité nationale",
+   "national security",
+   "défense",
+   "military et national security law students association",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association étudiante de droit militaire et de sécurité nationale ?",
+   "en": "What is the Military & National Security Law Students Association?"
+  },
+  "answer": {
+   "fr": "L'Association étudiante de droit militaire et de sécurité nationale est un club reconnu par le SÉUO, dans la catégorie droit. Le club rassemble les étudiants intéressés par le droit militaire, la sécurité nationale et le droit international. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Military & National Security Law Students Association is a club recognized by the UOSU, in the law category. It is the student hub for military, national security and international law. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association étudiante de droit militaire et de sécurité nationale — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Military & National Security Law Students Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-mind-over-matter",
+  "category": "associations",
+  "keywords": [
+   "uomom",
+   "mind over matter",
+   "bénévolat",
+   "volunteering",
+   "engagement communautaire",
+   "community engagement",
+   "force de l esprit",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Force de l'Esprit ?",
+   "en": "What is Mind over Matter?"
+  },
+  "answer": {
+   "fr": "La Force de l'Esprit est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club encourage l'engagement étudiant et réduit l'isolement grâce au bénévolat accessible et à l'implication sur le campus et dans la communauté. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Mind over Matter is a club recognized by the UOSU, in the recreational category. The club promotes student involvement and reduces isolation through accessible volunteering and campus and community engagement. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "La Force de l'Esprit — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Mind over Matter — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-misamigos-disabilities",
+  "category": "associations",
+  "keywords": [
+   "misamigos",
+   "handicap",
+   "disability",
+   "inclusion",
+   "accessibilité",
+   "misamigos disabilities club",
+   "misamigos handicap club",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi MisAmigos Handicap Club ?",
+   "en": "What is the MisAmigos Disabilities Club?"
+  },
+  "answer": {
+   "fr": "MisAmigos Handicap Club est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club crée une communauté solidaire pour les personnes vivant avec un handicap. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The MisAmigos Disabilities Club is a club recognized by the UOSU, in the philanthropic category. The club creates a supportive community for people with disabilities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "MisAmigos Handicap Club — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "MisAmigos Disabilities Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-model-african-union",
+  "category": "associations",
+  "keywords": [
+   "simulation union africaine",
+   "model african union",
+   "union africaine",
+   "african union",
+   "diplomatie",
+   "afrique",
+   "simulation de l union africaine",
+   "club de compétition",
+   "competition club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Simulation de l'Union Africaine uOttawa ?",
+   "en": "What is the Model African Union uOttawa?"
+  },
+  "answer": {
+   "fr": "La Simulation de l'Union Africaine uOttawa est un club reconnu par le SÉUO, dans la catégorie compétitions académiques. Le club fait connaître l'Union africaine et ses institutions grâce à des simulations. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Model African Union uOttawa is a club recognized by the UOSU, in the competitive academic category. The club promotes knowledge of the African Union and its institutions. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Simulation de l'Union Africaine uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Model African Union uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-musicbox-children-s-charity",
+  "category": "associations",
+  "keywords": [
+   "musicbox",
+   "éducation musicale",
+   "music education",
+   "musique",
+   "music",
+   "enfants",
+   "charité",
+   "musicbox children s charity",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi MusicBox Children's Charity ?",
+   "en": "What is MusicBox Children's Charity?"
+  },
+  "answer": {
+   "fr": "MusicBox Children's Charity est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club offre une éducation musicale de qualité aux enfants et aux familles en situation de marginalisation. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "MusicBox Children's Charity is a club recognized by the UOSU, in the philanthropic category. The club provides high-quality music education for children and families facing social or economic marginalization. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "MusicBox Children's Charity — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "MusicBox Children's Charity — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-muslim-law",
+  "category": "associations",
+  "keywords": [
+   "mlsa",
+   "musulman",
+   "muslim",
+   "droit",
+   "law",
+   "étudiants en droit",
+   "muslim law student association",
+   "association étudiante musulmane en droit",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association étudiante musulmane en droit ?",
+   "en": "What is the Muslim Law Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association étudiante musulmane en droit est un club reconnu par le SÉUO, dans la catégorie culture. Le club représente les étudiants musulmans de la faculté de droit et répond à leurs besoins. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Muslim Law Student Association is a club recognized by the UOSU, in the cultural category. The club represents Muslim law students and caters to their needs. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association étudiante musulmane en droit — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Muslim Law Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-muslim-medical",
+  "category": "associations",
+  "keywords": [
+   "mmao",
+   "musulman",
+   "muslim",
+   "médecine",
+   "medicine",
+   "étudiants en médecine",
+   "muslim medical association of ottawa",
+   "association médicale musulmane d ottawa",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association Médicale Musulmane d'Ottawa ?",
+   "en": "What is the Muslim Medical Association of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association Médicale Musulmane d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club aide les étudiants musulmans en médecine à se rencontrer dans un espace sûr. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Muslim Medical Association of Ottawa is a club recognized by the UOSU, in the cultural category. The club helps Muslim medical students connect in a safe space. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association Médicale Musulmane d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Muslim Medical Association of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-muslim-women-collective",
+  "category": "associations",
+  "keywords": [
+   "mwc",
+   "femmes musulmanes",
+   "muslim women",
+   "musulmane",
+   "collectif",
+   "réseautage",
+   "muslim women collective",
+   "collectif de femmes musulmanes",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Collectif de femmes musulmanes ?",
+   "en": "What is the Muslim Women Collective?"
+  },
+  "answer": {
+   "fr": "Le Collectif de femmes musulmanes est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. Le club crée une communauté professionnelle, réservée aux femmes et conforme à la foi musulmane. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Muslim Women Collective is a club recognized by the UOSU, in the religious category. The club creates a professional, faith-aligned, women-only community. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Collectif de femmes musulmanes — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Muslim Women Collective — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-new-media",
+  "category": "associations",
+  "keywords": [
+   "nouveaux médias",
+   "new media",
+   "médias numériques",
+   "digital media",
+   "littératie numérique",
+   "digital literacy",
+   "new media club",
+   "club des nouveaux médias",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club des Nouveaux Médias ?",
+   "en": "What is the New Media Club?"
+  },
+  "answer": {
+   "fr": "Le Club des Nouveaux Médias est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club améliore la littératie numérique des étudiants grâce aux nouveaux médias. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The New Media Club is a club recognized by the UOSU, in the recreational category. The club improves students' digital literacy through learning about and using new media. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club des Nouveaux Médias — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "New Media Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-newborn-hope",
+  "category": "associations",
+  "keywords": [
+   "newborn hope",
+   "espoir nouveau né",
+   "prématurés",
+   "premature babies",
+   "nouveau nés",
+   "newborns",
+   "néonatal",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'espoir Nouveau-Né uOttawa ?",
+   "en": "What is Newborn Hope UOttawa?"
+  },
+  "answer": {
+   "fr": "L'espoir Nouveau-Né uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient les nouveau-nés prématurés ou gravement malades et leurs familles. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Newborn Hope UOttawa is a club recognized by the UOSU, in the philanthropic category. The club supports premature and critically ill newborns and their families. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'espoir Nouveau-Né uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Newborn Hope UOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-nourish",
+  "category": "associations",
+  "keywords": [
+   "nourish",
+   "nourrir",
+   "insécurité alimentaire",
+   "food insecurity",
+   "nourriture",
+   "food",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Nourrir UO ?",
+   "en": "What is Nourish UO?"
+  },
+  "answer": {
+   "fr": "Nourrir UO est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club s'attaque à l'insécurité alimentaire étudiante en améliorant l'accès à la nourriture. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Nourish UO is a club recognized by the UOSU, in the philanthropic category. The club tackles student food insecurity by improving access to food. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Nourrir UO — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Nourish UO — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-nu-sigma-pi-sorority",
+  "category": "associations",
+  "keywords": [
+   "nu sigma pi",
+   "sororité",
+   "sorority",
+   "vie grecque",
+   "greek life",
+   "nu sigma pi sorority",
+   "nu sigma pi sororité",
+   "fraternité"
+  ],
+  "question": {
+   "fr": "C'est quoi Nu Sigma Pi Sororité ?",
+   "en": "What is the Nu Sigma Pi Sorority?"
+  },
+  "answer": {
+   "fr": "Nu Sigma Pi Sororité est un club reconnu par le SÉUO, dans la catégorie fraternités et sororités. C'est une sororité fondée sur six piliers : sororité, vie sociale, sport, philanthropie, collecte de fonds et réussite scolaire. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Nu Sigma Pi Sorority is a club recognized by the UOSU, in the fraternity and sorority category. It is a sorority built on six pillars: sisterhood, social, athletics, philanthropy, fundraising and academics. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Nu Sigma Pi Sororité — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Nu Sigma Pi Sorority — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-obiter",
+  "category": "associations",
+  "keywords": [
+   "obiter",
+   "société obiter",
+   "droit",
+   "law",
+   "étudiants en droit",
+   "vie sociale",
+   "obiter society",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société Obiter ?",
+   "en": "What is the Obiter Society?"
+  },
+  "answer": {
+   "fr": "La Société Obiter est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club propose aux étudiants en droit des activités qui sortent du cadre des études. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Obiter Society is a club recognized by the UOSU, in the recreational category. The club offers law students activities beyond their core studies. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "La Société Obiter — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Obiter Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-octave-clef",
+  "category": "associations",
+  "keywords": [
+   "octave clef",
+   "octave clé",
+   "groupe de musique",
+   "band",
+   "musique",
+   "music",
+   "rock",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi Octave Clé ?",
+   "en": "What is Octave Clef?"
+  },
+  "answer": {
+   "fr": "Octave Clé est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club permet de rencontrer des gens et de former des groupes de musique, avec un accent sur les esthétiques alternatives et la diversité des styles. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Octave Clef is a club recognized by the UOSU, in the creative category. It is a space to hang out and form bands, with an emphasis on alternative aesthetics and diverse musical styles. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Octave Clé — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Octave Clef — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-operation-come-home",
+  "category": "associations",
+  "keywords": [
+   "operation come home",
+   "opération rentrer au foyer",
+   "jeunes sans abri",
+   "homeless youth",
+   "itinérance",
+   "club caritatif",
+   "charity club",
+   "operation come home uottawa",
+   "opération rentrer au foyer uottawa"
+  ],
+  "question": {
+   "fr": "C'est quoi Opération Rentrer au Foyer uOttawa ?",
+   "en": "What is Operation Come Home uOttawa?"
+  },
+  "answer": {
+   "fr": "Opération Rentrer au Foyer uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est partenaire d'Opération Rentrer au Foyer, qui aide les jeunes sans abri de la région d'Ottawa. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Operation Come Home uOttawa is a club recognized by the UOSU, in the philanthropic category. It is partnered with Operation Come Home, which supports homeless youth in the Ottawa region. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Opération Rentrer au Foyer uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Operation Come Home uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-ai-safety-initiative",
+  "category": "associations",
+  "keywords": [
+   "sécurité de l ia",
+   "ai safety",
+   "intelligence artificielle",
+   "artificial intelligence",
+   "ia",
+   "ai",
+   "éthique",
+   "ottawa ai safety initiative",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Initiative d'Ottawa pour la sécurité de l'intelligence artificielle ?",
+   "en": "What is the Ottawa AI Safety initiative?"
+  },
+  "answer": {
+   "fr": "L'Initiative d'Ottawa pour la sécurité de l'intelligence artificielle est un club reconnu par le SÉUO, dans la catégorie STIM. Le club anime des discussions interdisciplinaires sur les impacts de l'intelligence artificielle et offre des ressources éducatives. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Ottawa AI Safety initiative is a club recognized by the UOSU, in the STEM category. The club facilitates interdisciplinary discussions on the impacts of artificial intelligence and provides educational resources. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Initiative d'Ottawa pour la sécurité de l'intelligence artificielle — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Ottawa AI Safety initiative — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-chadian",
+  "category": "associations",
+  "keywords": [
+   "ocsa",
+   "aeto",
+   "tchadien",
+   "tchad",
+   "chad",
+   "chadian",
+   "club tchadien",
+   "ottawa chadian students association",
+   "association des étudiants tchadiens d ottawa",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiants Tchadiens d'Ottawa ?",
+   "en": "What is the Ottawa Chadian Students Association?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiants Tchadiens d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club rassemble les étudiants d'origine tchadienne ou intéressés par la culture tchadienne. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Ottawa Chadian Students Association is a club recognized by the UOSU, in the cultural category. The club brings together students of Chadian origin or interested in Chadian culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Étudiants Tchadiens d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Ottawa Chadian Students Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-ismaili",
+  "category": "associations",
+  "keywords": [
+   "isa",
+   "ismaélien",
+   "ismaili",
+   "musulman",
+   "muslim",
+   "ottawa ismaili students association",
+   "association des étudiants ismaéliens d ottawa",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants ismaéliens d'Ottawa ?",
+   "en": "What is the Ottawa Ismaili Students Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants ismaéliens d'Ottawa est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. Le club bâtit une communauté inclusive pour les étudiants ismaéliens. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Ottawa Ismaili Students Association is a club recognized by the UOSU, in the religious category. The club builds a strong, inclusive community for Ismaili students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants ismaéliens d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Ottawa Ismaili Students Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-malian",
+  "category": "associations",
+  "keywords": [
+   "malien",
+   "mali",
+   "malian",
+   "club malien",
+   "afrique",
+   "ottawa malian student association",
+   "association des étudiants maliens d ottawa",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants Maliens d'Ottawa ?",
+   "en": "What is the Ottawa Malian Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants Maliens d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club améliore l'intégration des étudiants et des jeunes maliens au Canada. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Ottawa Malian Student Association is a club recognized by the UOSU, in the cultural category. The club works to improve the integration of Malian students and youth in Canada. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants Maliens d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Ottawa Malian Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-sailing",
+  "category": "associations",
+  "keywords": [
+   "voile",
+   "sailing",
+   "club de voile",
+   "sailing club",
+   "régate",
+   "regatta",
+   "bateau",
+   "voilier",
+   "ottawa sailing club",
+   "club de voile d ottawa",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de voile d'Ottawa ?",
+   "en": "What is the Ottawa Sailing Club?"
+  },
+  "answer": {
+   "fr": "Le Club de voile d'Ottawa est un club reconnu par le SÉUO, dans la catégorie sports. C'est un club de voile de compétition qui s'entraîne sur l'eau et participe à des régates locales, nationales et interuniversitaires. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Ottawa Sailing Club is a club recognized by the UOSU, in the sports category. It is a competitive race club that trains on the water and competes in local, national and intercollegiate regattas. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de voile d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Ottawa Sailing Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-socialist-literature-group",
+  "category": "associations",
+  "keywords": [
+   "socialiste",
+   "socialist",
+   "lecture",
+   "reading group",
+   "gauche",
+   "left wing",
+   "littérature",
+   "ottawa socialist literature group",
+   "groupe de littérature socialiste d ottawa",
+   "club politique",
+   "political club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Groupe de Littérature Socialiste d'Ottawa ?",
+   "en": "What is the Ottawa Socialist Literature Group?"
+  },
+  "answer": {
+   "fr": "Le Groupe de Littérature Socialiste d'Ottawa est un club reconnu par le SÉUO, dans la catégorie politique. C'est un groupe de lecture de gauche non sectaire qui fait découvrir la pensée et la littérature de gauche. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Ottawa Socialist Literature Group is a club recognized by the UOSU, in the political category. It is a non-sectarian left-wing reading group promoting left-wing thought and literature. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le Groupe de Littérature Socialiste d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Ottawa Socialist Literature Group — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-united",
+  "category": "associations",
+  "keywords": [
+   "ottawa unifié",
+   "ottawa united",
+   "enjeux sociaux",
+   "social issues",
+   "environnement",
+   "environment",
+   "club politique",
+   "political club"
+  ],
+  "question": {
+   "fr": "C'est quoi Ottawa Unifié ?",
+   "en": "What is Ottawa United?"
+  },
+  "answer": {
+   "fr": "Ottawa Unifié est un club reconnu par le SÉUO, dans la catégorie politique. Le club attire l'attention sur des enjeux sociaux et environnementaux souvent négligés. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Ottawa United is a club recognized by the UOSU, in the political category. The club brings attention to overlooked social and environmental issues. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Ottawa Unifié — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Ottawa United — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-pain-pals-initiative",
+  "category": "associations",
+  "keywords": [
+   "pain pals",
+   "douleur chronique",
+   "chronic pain",
+   "maladie chronique",
+   "chronic illness",
+   "adolescents",
+   "pain pals initiative",
+   "initiative pain pals",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Initiative Pain-Pals ?",
+   "en": "What is the Pain-Pals Initiative?"
+  },
+  "answer": {
+   "fr": "L'Initiative Pain-Pals est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient les adolescents de 13 à 18 ans qui vivent avec une maladie chronique ou une douleur persistante. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Pain-Pals Initiative is a club recognized by the UOSU, in the philanthropic category. The club supports teenagers aged 13 to 18 living with chronic illness and persistent pain. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Initiative Pain-Pals — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Pain-Pals Initiative — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-pakistani",
+  "category": "associations",
+  "keywords": [
+   "psa",
+   "pakistanais",
+   "pakistani",
+   "pakistan",
+   "club pakistanais",
+   "pakistani students association",
+   "association des étudiants pakistanais",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants pakistanais ?",
+   "en": "What is the Pakistani Students Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants pakistanais est un club reconnu par le SÉUO, dans la catégorie culture. Le club fait connaître la culture et le patrimoine du Pakistan. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Pakistani Students Association is a club recognized by the UOSU, in the cultural category. The club promotes the culture and heritage of Pakistan. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants pakistanais — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Pakistani Students Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-palestinian",
+  "category": "associations",
+  "keywords": [
+   "palestinien",
+   "palestinian",
+   "palestine",
+   "club palestinien",
+   "palestinian student association",
+   "association des étudiants palestiniens",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants palestiniens ?",
+   "en": "What is the Palestinian Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants palestiniens est un club reconnu par le SÉUO, dans la catégorie culture. C'est un club culturel et social qui représente et défend les étudiants palestiniens. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Palestinian Student Association is a club recognized by the UOSU, in the cultural category. It is a cultural and social club that represents and advocates for Palestinian students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants palestiniens — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Palestinian Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-people-s-republic-delicious",
+  "category": "associations",
+  "keywords": [
+   "prd",
+   "république populaire du délice",
+   "nourriture",
+   "food",
+   "cuisine",
+   "justice sociale",
+   "people s republic of delicious",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi République Populaire du Délice ?",
+   "en": "What is People's Republic of Delicious?"
+  },
+  "answer": {
+   "fr": "République Populaire du Délice est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club crée une communauté autour de la nourriture et de la lutte contre les injustices sociales. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "People's Republic of Delicious is a club recognized by the UOSU, in the philanthropic category. The club builds a community around food and fighting social injustice. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "République Populaire du Délice — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "People's Republic of Delicious — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-pipetting-hot-tea",
+  "category": "associations",
+  "keywords": [
+   "pipetting hot tea",
+   "balado",
+   "podcast",
+   "science",
+   "recherche",
+   "research",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi Pipetting Hot Tea ?",
+   "en": "What is Pipetting Hot Tea?"
+  },
+  "answer": {
+   "fr": "Pipetting Hot Tea est un club reconnu par le SÉUO, dans la catégorie arts et création. C'est un club de balado où les passionnés de sciences discutent de recherche et d'innovation. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Pipetting Hot Tea is a club recognized by the UOSU, in the creative category. It is a student-run podcast club where science enthusiasts discuss research and innovation. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Pipetting Hot Tea — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Pipetting Hot Tea — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-plastics-pathway",
+  "category": "associations",
+  "keywords": [
+   "plastics pathway",
+   "parcours plastique",
+   "chirurgie plastique",
+   "plastic surgery",
+   "médecine",
+   "pre med",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Parcours Plastique ?",
+   "en": "What is Plastics Pathway?"
+  },
+  "answer": {
+   "fr": "Le Parcours Plastique est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club fait découvrir la chirurgie plastique aux étudiants en prémédecine et en médecine. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Plastics Pathway is a club recognized by the UOSU, in the academic category. The club gives pre-medical and medical students early exposure to plastic surgery. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Parcours Plastique — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Plastics Pathway — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-power-to-change",
+  "category": "associations",
+  "keywords": [
+   "power to change",
+   "pouvoir de changer",
+   "club chrétien",
+   "christian club",
+   "foi",
+   "faith",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi Pouvoir de Changer ?",
+   "en": "What is Power to Change?"
+  },
+  "answer": {
+   "fr": "Pouvoir de Changer est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. C'est un ministère étudiant chrétien présent partout au Canada depuis 1967. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Power to Change is a club recognized by the UOSU, in the religious category. It is a Christian student ministry present across Canada, with roots going back to 1967. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Pouvoir de Changer — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Power to Change — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-project-smile",
+  "category": "associations",
+  "keywords": [
+   "project smile",
+   "projet sourire",
+   "santé buccodentaire",
+   "oral health",
+   "dents",
+   "dental",
+   "project smile ottawa",
+   "projet sourire ottawa",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Projet Sourire Ottawa ?",
+   "en": "What is Project Smile Ottawa?"
+  },
+  "answer": {
+   "fr": "Le Projet Sourire Ottawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club sensibilise à la santé buccodentaire et à la prévention dans les communautés mal desservies. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Project Smile Ottawa is a club recognized by the UOSU, in the philanthropic category. The club promotes oral-health awareness and preventive care in underserved communities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Projet Sourire Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Project Smile Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-punjabi-law",
+  "category": "associations",
+  "keywords": [
+   "plsa",
+   "pendjabi",
+   "punjabi",
+   "penjab",
+   "droit",
+   "law",
+   "punjabi law students association",
+   "association des étudiants en droit pendjabis",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants en droit pendjabis ?",
+   "en": "What is the Punjabi Law Students' Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants en droit pendjabis est un club reconnu par le SÉUO, dans la catégorie culture. Le club célèbre la culture pendjabie à l'Université et dans le milieu juridique. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Punjabi Law Students' Association is a club recognized by the UOSU, in the cultural category. The club celebrates Punjabi culture at the University and in the legal community. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Association des étudiants en droit pendjabis — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Punjabi Law Students' Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-rare-realities",
+  "category": "associations",
+  "keywords": [
+   "rare realities",
+   "réalités rares",
+   "maladies rares",
+   "rare diseases",
+   "enfants",
+   "children",
+   "réalités rare",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi Réalités Rare ?",
+   "en": "What is Rare Realities?"
+  },
+  "answer": {
+   "fr": "Réalités Rare est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club sensibilise et soutient les enfants atteints de maladies rares. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Rare Realities is a club recognized by the UOSU, in the recreational category. The club raises awareness and support for children living with rare diseases. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Réalités Rare — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Rare Realities — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-refugee-support",
+  "category": "associations",
+  "keywords": [
+   "rsa",
+   "asr",
+   "soutien aux réfugiés",
+   "refugee support",
+   "réfugiés",
+   "refugees",
+   "refugee support association",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Refugee Support Association ?",
+   "en": "What is the Refugee Support Association?"
+  },
+  "answer": {
+   "fr": "Refugee Support Association est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club facilite la transition des réfugiés à Ottawa en finançant les organismes d'établissement. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Refugee Support Association is a club recognized by the UOSU, in the philanthropic category. The club eases refugees' transition in Ottawa by funding refugee settlement organizations. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Refugee Support Association — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Refugee Support Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-relay-for-life",
+  "category": "associations",
+  "keywords": [
+   "relay for life",
+   "relais pour la vie",
+   "cancer",
+   "société canadienne du cancer",
+   "collecte de fonds",
+   "fundraising",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Relais pour la vie ?",
+   "en": "What is Relay for Life?"
+  },
+  "answer": {
+   "fr": "Relais pour la vie est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club organise un événement annuel de collecte de fonds au profit de la Société canadienne du cancer. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Relay for Life is a club recognized by the UOSU, in the philanthropic category. The club runs an annual fundraising event supporting the Canadian Cancer Society. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Relais pour la vie — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Relay for Life — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-revival-nations",
+  "category": "associations",
+  "keywords": [
+   "revival of the nations",
+   "réveil des nations",
+   "club chrétien",
+   "christian club",
+   "prière",
+   "prayer",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi Réveil des Nations ?",
+   "en": "What is Revival of the Nations?"
+  },
+  "answer": {
+   "fr": "Réveil des Nations est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. C'est un groupe de jeunes chrétiens qui se rassemblent pour la prière, la louange et l'évangélisation. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Revival of the Nations is a club recognized by the UOSU, in the religious category. It is a group of Christian youth who gather for prayer, worship and evangelism. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Réveil des Nations — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Revival of the Nations — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-rise-reform",
+  "category": "associations",
+  "keywords": [
+   "uorr",
+   "rise and reform",
+   "engagement",
+   "leadership",
+   "réforme",
+   "rise et reform",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi Rise & Reform ?",
+   "en": "What is Rise & Reform?"
+  },
+  "answer": {
+   "fr": "Rise & Reform est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club crée une communauté inclusive, stimulante et tournée vers l'action. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Rise & Reform is a club recognized by the UOSU, in the academic category. The club builds an inclusive, intellectually engaging and action-oriented community. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Rise & Reform — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Rise & Reform — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-romanian",
+  "category": "associations",
+  "keywords": [
+   "roumain",
+   "roumaine",
+   "romanian",
+   "roumanie",
+   "romania",
+   "club roumain",
+   "romanian students association",
+   "association des étudiants roumains",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiants Roumains uOttawa ?",
+   "en": "What is the Romanian Students Association uOttawa?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiants Roumains uOttawa est un club reconnu par le SÉUO, dans la catégorie culture. C'est une communauté culturelle, sociale et académique pour les étudiants roumains. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Romanian Students Association uOttawa is a club recognized by the UOSU, in the cultural category. It is a cultural, social and academic community for Romanian students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Étudiants Roumains uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Romanian Students Association uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-rwandan",
+  "category": "associations",
+  "keywords": [
+   "rwsa",
+   "rwandais",
+   "rwanda",
+   "rwandan",
+   "club rwandais",
+   "afrique",
+   "rwandan student association",
+   "association des étudiants rwandais",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiants Rwandais ?",
+   "en": "What is the Rwandan Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiants Rwandais est un club reconnu par le SÉUO, dans la catégorie culture. Le club rassemble les étudiants rwandais et célèbre leur culture. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Rwandan Student Association is a club recognized by the UOSU, in the cultural category. The club brings Rwandan students together and celebrates their culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Étudiants Rwandais — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Rwandan Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-s-w-a-m",
+  "category": "associations",
+  "keywords": [
+   "swam",
+   "natation",
+   "swimming",
+   "cours de natation",
+   "swim lessons",
+   "piscine",
+   "accessibilité",
+   "s w a m ottawa",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi S.W.A.M. Ottawa ?",
+   "en": "What is S.W.A.M. Ottawa?"
+  },
+  "answer": {
+   "fr": "S.W.A.M. Ottawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est une section de S.W.A.M. Canada qui offre des cours de natation individuels abordables et accessibles. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "S.W.A.M. Ottawa is a club recognized by the UOSU, in the philanthropic category. It is a chapter of S.W.A.M. Canada offering affordable, accessible one-on-one swimming lessons. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "S.W.A.M. Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "S.W.A.M. Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-saint-joseph-catholic",
+  "category": "associations",
+  "keywords": [
+   "saint joseph",
+   "catholique",
+   "catholic",
+   "club catholique",
+   "catholic club",
+   "oblats",
+   "saint joseph catholic students association",
+   "association des étudiants catholiques saint joseph",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants catholiques Saint-Joseph ?",
+   "en": "What is the Saint Joseph Catholic Students' Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants catholiques Saint-Joseph est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. Le club vit le charisme oblat d'amour du prochain et de soin des plus démunis. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Saint Joseph Catholic Students' Association is a club recognized by the UOSU, in the religious category. The club lives out the Oblate charism of love of neighbour and care for the disadvantaged. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants catholiques Saint-Joseph — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Saint Joseph Catholic Students' Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-securities-venture-capital-law",
+  "category": "associations",
+  "keywords": [
+   "valeurs mobilières",
+   "securities law",
+   "capital risque",
+   "venture capital",
+   "droit des affaires",
+   "corporate law",
+   "securities and venture capital law student association",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants en droit des valeurs mobilières et du capital-risque ?",
+   "en": "What is the Securities and Venture Capital Law Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants en droit des valeurs mobilières et du capital-risque est un club reconnu par le SÉUO, dans la catégorie droit. Le club explore le droit des sociétés, la réglementation des valeurs mobilières et le capital-risque. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Securities and Venture Capital Law Student Association is a club recognized by the UOSU, in the law category. The club explores corporate law, securities regulation and venture capital. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Association des étudiants en droit des valeurs mobilières et du capital-risque — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Securities and Venture Capital Law Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-serbian",
+  "category": "associations",
+  "keywords": [
+   "serbe",
+   "serbian",
+   "serbie",
+   "serbia",
+   "balkans",
+   "slave",
+   "club serbe",
+   "serbian students association",
+   "association des étudiants serbes",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants serbes ?",
+   "en": "What is the Serbian Students' Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants serbes est un club reconnu par le SÉUO, dans la catégorie culture. Le club fait connaître les valeurs serbes, balkaniques et slaves et favorise le dialogue interculturel. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Serbian Students' Association is a club recognized by the UOSU, in the cultural category. The club promotes Serbian, Balkan and Slavic values and intercultural dialogue. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants serbes — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Serbian Students' Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-sigma-alpha-mu-fraternity",
+  "category": "associations",
+  "keywords": [
+   "sigma alpha mu",
+   "fraternité",
+   "fraternity",
+   "vie grecque",
+   "greek life",
+   "sigma alpha mu fraternity delta pi chapter",
+   "fraternité sigma alpha mu chapitre delta pi",
+   "sorority"
+  ],
+  "question": {
+   "fr": "C'est quoi la Fraternité Sigma Alpha Mu - Chapitre Delta Pi ?",
+   "en": "What is the Sigma Alpha Mu Fraternity - Delta Pi Chapter?"
+  },
+  "answer": {
+   "fr": "La Fraternité Sigma Alpha Mu - Chapitre Delta Pi est un club reconnu par le SÉUO, dans la catégorie fraternités et sororités. C'est une fraternité qui favorise le développement des étudiants par des valeurs fraternelles et des occasions sociales et de service. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Sigma Alpha Mu Fraternity - Delta Pi Chapter is a club recognized by the UOSU, in the fraternity and sorority category. It is a fraternity fostering the development of collegiate men through fraternal values and social and service opportunities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Fraternité Sigma Alpha Mu - Chapitre Delta Pi — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Sigma Alpha Mu Fraternity - Delta Pi Chapter — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-sikh",
+  "category": "associations",
+  "keywords": [
+   "ssa",
+   "sikh",
+   "sikhisme",
+   "sikhism",
+   "club sikh",
+   "punjabi",
+   "sikh student association",
+   "association des étudiants sikhs",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants Sikhs de l'Université d'Ottawa ?",
+   "en": "What is the Sikh Student Association of the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants Sikhs de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. Le club fait connaître et célèbre la communauté sikhe d'Ottawa. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Sikh Student Association of the University of Ottawa is a club recognized by the UOSU, in the religious category. The club fosters awareness and celebrates the Ottawa Sikh community. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants Sikhs de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Sikh Student Association of the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-simuottawa",
+  "category": "associations",
+  "keywords": [
+   "simuo",
+   "simulation",
+   "moteur 3d",
+   "3d engine",
+   "programmation",
+   "programming",
+   "logiciel libre",
+   "simuottawa",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi SimuOttawa ?",
+   "en": "What is SimuOttawa?"
+  },
+  "answer": {
+   "fr": "SimuOttawa est un club reconnu par le SÉUO, dans la catégorie STIM. Le club développe SimuO, un moteur 3D libre qui reproduit fidèlement des simulations de la vie réelle. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "SimuOttawa is a club recognized by the UOSU, in the STEM category. The club develops SimuO, an open-source 3D engine that replicates real-life simulations. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "SimuOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "SimuOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-skin-health-innovation-network",
+  "category": "associations",
+  "keywords": [
+   "shine",
+   "santé de la peau",
+   "skin health",
+   "cancer de la peau",
+   "skin cancer",
+   "dermatologie",
+   "skin health innovation network shine ottawa",
+   "réseau d innovation en santé de la peau shine ottawa",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Réseau d'Innovation en Santé de la Peau (SHINe) Ottawa ?",
+   "en": "What is the Skin Health Innovation Network (SHINe) Ottawa?"
+  },
+  "answer": {
+   "fr": "Le Réseau d'Innovation en Santé de la Peau (SHINe) Ottawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club fait la promotion de la santé de la peau, en lien avec la Fondation Save Your Skin. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Skin Health Innovation Network (SHINe) Ottawa is a club recognized by the UOSU, in the philanthropic category. The club promotes skin health awareness and education under the Save Your Skin Foundation. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le Réseau d'Innovation en Santé de la Peau (SHINe) Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Skin Health Innovation Network (SHINe) Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-somali",
+  "category": "associations",
+  "keywords": [
+   "uossa",
+   "somalien",
+   "somali",
+   "somalie",
+   "somalia",
+   "club somalien",
+   "somali student association",
+   "association des étudiant e s somalien ne s",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiant.e.s somalien.ne.s ?",
+   "en": "What is the Somali Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiant.e.s somalien.ne.s est un club reconnu par le SÉUO, dans la catégorie culture. Le club rassemble les étudiants somaliens et célèbre leur culture. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Somali Student Association is a club recognized by the UOSU, in the cultural category. The club brings Somali students together and celebrates their culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiant.e.s somalien.ne.s — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Somali Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-sports-entertainment-law",
+  "category": "associations",
+  "keywords": [
+   "sels",
+   "droit du sport",
+   "sports law",
+   "droit du divertissement",
+   "entertainment law",
+   "common law",
+   "sports and entertainment law society",
+   "société de droit du sport et du divertissement",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société de droit du sport et du divertissement ?",
+   "en": "What is the Sports and Entertainment Law Society?"
+  },
+  "answer": {
+   "fr": "La Société de droit du sport et du divertissement est un club reconnu par le SÉUO, dans la catégorie droit. Le club permet aux étudiants d'explorer le droit du sport et du divertissement. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Sports and Entertainment Law Society is a club recognized by the UOSU, in the law category. The club gives students opportunities to explore sports and entertainment law. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société de droit du sport et du divertissement — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Sports and Entertainment Law Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-stem-cell-collective",
+  "category": "associations",
+  "keywords": [
+   "cellules souches",
+   "stem cells",
+   "don de cellules souches",
+   "stem cell donation",
+   "recherche",
+   "stem cell collective",
+   "club des cellules souches",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club des Cellules Souches (uOttawa) ?",
+   "en": "What is the Stem Cell Collective (uOttawa)?"
+  },
+  "answer": {
+   "fr": "Le Club des Cellules Souches (uOttawa) est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club sensibilise à l'importance des cellules souches en recherche et en clinique et aide à recruter des donneurs potentiels pour le registre de la Société canadienne du sang. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Stem Cell Collective (uOttawa) is a club recognized by the UOSU, in the philanthropic category. The club raises awareness of the importance of stem cells in research and clinical care and helps grow the pool of potential donors for Canadian Blood Services' registry. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club des Cellules Souches (uOttawa) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Stem Cell Collective (uOttawa) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-for-international-law",
+  "category": "associations",
+  "keywords": [
+   "sedi",
+   "droit international",
+   "international law",
+   "droit civil",
+   "civil law",
+   "student society for international law",
+   "société étudiante de droit internaitonal",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société Étudiante de Droit Internaitonal ?",
+   "en": "What is the Student Society for International Law?"
+  },
+  "answer": {
+   "fr": "La Société Étudiante de Droit Internaitonal est un club reconnu par le SÉUO, dans la catégorie droit. C'est un groupe reconnu de la Section de droit civil consacré au droit international. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Student Society for International Law is a club recognized by the UOSU, in the law category. It is a recognized Civil Law Section student group focused on international law. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société Étudiante de Droit Internaitonal — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Student Society for International Law — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-for-wishes",
+  "category": "associations",
+  "keywords": [
+   "students for wishes",
+   "make a wish",
+   "rêves d enfants",
+   "enfants malades",
+   "collecte de fonds",
+   "fundraising",
+   "student for wishes",
+   "étudiants pour des voeux",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Étudiants pour des voeux ?",
+   "en": "What is Student for Wishes?"
+  },
+  "answer": {
+   "fr": "Étudiants pour des voeux est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient la mission de la Fondation Rêves d'enfants (Make-A-Wish). Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Student for Wishes is a club recognized by the UOSU, in the philanthropic category. The club supports the mission of the Make-A-Wish Foundation. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Étudiants pour des voeux — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Student for Wishes — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-sudanese",
+  "category": "associations",
+  "keywords": [
+   "uosusa",
+   "soudanais",
+   "sudanese",
+   "soudan",
+   "sudan",
+   "club soudanais",
+   "sudanese student association",
+   "association des étudiants soudanais",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants soudanais ?",
+   "en": "What is the Sudanese Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants soudanais est un club reconnu par le SÉUO, dans la catégorie culture. C'est un club culturel et communautaire pour les étudiants soudanais. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Sudanese Student Association is a club recognized by the UOSU, in the cultural category. It is a cultural and community club for Sudanese students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants soudanais — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Sudanese Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-sustainable-business",
+  "category": "associations",
+  "keywords": [
+   "affaires durables",
+   "sustainable business",
+   "développement durable",
+   "sustainability",
+   "telfer",
+   "esg",
+   "sustainable business society",
+   "société d affaires durable",
+   "club telfer",
+   "telfer club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société D'affaires Durable ?",
+   "en": "What is the Sustainable Business Society?"
+  },
+  "answer": {
+   "fr": "La Société D'affaires Durable est un club reconnu par le SÉUO, dans la catégorie Telfer (gestion). Le club aide les étudiants à explorer le lien entre les affaires et le développement durable. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Sustainable Business Society is a club recognized by the UOSU, in the Telfer category. The club empowers students to explore the intersection of business and sustainability. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société D'affaires Durable — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Sustainable Business Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-swab-world",
+  "category": "associations",
+  "keywords": [
+   "swab the world",
+   "don de cellules souches",
+   "stem cell donor",
+   "leucémie",
+   "leukemia",
+   "registre de donneurs",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Swab The World uOttawa ?",
+   "en": "What is Swab The World uOttawa?"
+  },
+  "answer": {
+   "fr": "Swab The World uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est la section universitaire de la Fondation Swab The World, qui travaille à diversifier le registre des donneurs de cellules souches. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Swab The World uOttawa is a club recognized by the UOSU, in the philanthropic category. It is uOttawa's chapter of the Swab The World Foundation, which works to diversify the stem cell donor registry. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Swab The World uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Swab The World uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-swinguo",
+  "category": "associations",
+  "keywords": [
+   "swing",
+   "danse swing",
+   "swing dance",
+   "lindy hop",
+   "club de danse",
+   "dance club",
+   "danse",
+   "swinguo",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi SwingUO ?",
+   "en": "What is SwingUO?"
+  },
+  "answer": {
+   "fr": "SwingUO est un club reconnu par le SÉUO, dans la catégorie arts et création. C'est le club de danse swing de l'Université et bâtit une communauté de swing en offrant des cours et des soirées. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "SwingUO is a club recognized by the UOSU, in the creative category. It is the University of Ottawa swing dance club, building a swing dance community through lessons and dances. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "SwingUO — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "SwingUO — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-syrians-for-rights-unity",
+  "category": "associations",
+  "keywords": [
+   "syrien",
+   "syrian",
+   "syrie",
+   "syria",
+   "droits",
+   "rights",
+   "solidarité",
+   "syrians for rights and unity ottawa",
+   "syriens pour les droits et l unité ottawa",
+   "club politique",
+   "political club"
+  ],
+  "question": {
+   "fr": "C'est quoi Syriens pour les Droits et l'Unité Ottawa ?",
+   "en": "What is Syrians for Rights and Unity Ottawa?"
+  },
+  "answer": {
+   "fr": "Syriens pour les Droits et l'Unité Ottawa est un club reconnu par le SÉUO, dans la catégorie politique. Le club sensibilise à la révolution syrienne, à ses impacts et aux événements qui ont suivi. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Syrians for Rights and Unity Ottawa is a club recognized by the UOSU, in the political category. The club raises awareness of the Syrian revolution, its impact and the events that followed. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Syriens pour les Droits et l'Unité Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Syrians for Rights and Unity Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-tedxuottawa",
+  "category": "associations",
+  "keywords": [
+   "tedx",
+   "ted",
+   "conférences",
+   "talks",
+   "idées",
+   "conférenciers",
+   "speakers",
+   "tedxuottawa",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi TEDxuOttawa ?",
+   "en": "What is TEDxuOttawa?"
+  },
+  "answer": {
+   "fr": "TEDxuOttawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. C'est la section TEDx de l'Université, une plateforme pour partager des idées qui méritent d'être diffusées. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "TEDxuOttawa is a club recognized by the UOSU, in the academic category. It is the University's TEDx chapter, a platform for ideas worth spreading. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "TEDxuOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "TEDxuOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-tma-thaqalayn-muslim",
+  "category": "associations",
+  "keywords": [
+   "tma",
+   "amt",
+   "thaqalayn",
+   "musulman",
+   "muslim",
+   "chiite",
+   "shia",
+   "tma thaqalayn muslim association",
+   "amt association musulmane du thaqalayn",
+   "thaqalayn muslim association",
+   "association musulmane du thaqalayn",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi AMT uOttawa (Association Musulmane du Thaqalayn) ?",
+   "en": "What is the TMA uOttawa (Thaqalayn Muslim Association)?"
+  },
+  "answer": {
+   "fr": "AMT uOttawa (Association Musulmane du Thaqalayn) est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. Le club crée un milieu inclusif pour les étudiants musulmans, en particulier chiites. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The TMA uOttawa (Thaqalayn Muslim Association) is a club recognized by the UOSU, in the religious category. The club fosters an inclusive environment for Muslim students, with a focus on Shia students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "AMT uOttawa (Association Musulmane du Thaqalayn) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "TMA uOttawa (Thaqalayn Muslim Association) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-tsuo-togolese",
+  "category": "associations",
+  "keywords": [
+   "etuo",
+   "tsuo",
+   "ahoé",
+   "togolais",
+   "togo",
+   "togolese",
+   "club togolais",
+   "tsuo togolese students of",
+   "etuo etudiants togolais de",
+   "togolese students of uottawa",
+   "etudiants togolais de uottawa",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi ETUO (Etudiants Togolais de UOttawa) ?",
+   "en": "What is TSUO (Togolese Students of Uottawa)?"
+  },
+  "answer": {
+   "fr": "ETUO (Etudiants Togolais de UOttawa) est un club reconnu par le SÉUO, dans la catégorie culture. Le club rassemble les étudiants d'origine togolaise et ceux qui s'intéressent au Togo. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "TSUO (Togolese Students of Uottawa) is a club recognized by the UOSU, in the cultural category. The club brings together students of Togolese origin and others interested in Togo. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "ETUO (Etudiants Togolais de UOttawa) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "TSUO (Togolese Students of Uottawa) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-tamil-law",
+  "category": "associations",
+  "keywords": [
+   "tlsa",
+   "tamoul",
+   "tamil",
+   "droit",
+   "law",
+   "étudiants en droit",
+   "tamil law students association",
+   "association des étudiants en droit tamouls",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants en droit Tamouls ?",
+   "en": "What is the Tamil Law Students' Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants en droit Tamouls est un club reconnu par le SÉUO, dans la catégorie droit. Le club offre aux étudiants tamouls de la faculté de droit une communauté pour célébrer leur héritage. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Tamil Law Students' Association is a club recognized by the UOSU, in the law category. The club provides Tamil law students a community to connect with and celebrate their heritage. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants en droit Tamouls — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Tamil Law Students' Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-tax-law",
+  "category": "associations",
+  "keywords": [
+   "droit fiscal",
+   "tax law",
+   "fiscalité",
+   "taxation",
+   "impôt",
+   "droit",
+   "tax law association",
+   "association de droit fiscal",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association de droit fiscal de l'Université d'Ottawa ?",
+   "en": "What is the Tax Law Association of the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "L'Association de droit fiscal de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie droit. Le club fait la promotion du droit fiscal à la Faculté de droit. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Tax Law Association of the University of Ottawa is a club recognized by the UOSU, in the law category. The club promotes the field of taxation within the Faculty of Law. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association de droit fiscal de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Tax Law Association of the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-telfer-accounting",
+  "category": "associations",
+  "keywords": [
+   "comptabilité",
+   "accounting",
+   "club de comptabilité",
+   "accounting club",
+   "cpa",
+   "telfer",
+   "telfer accounting club",
+   "club de comptabilité telfer",
+   "club telfer",
+   "telfer club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de comptabilité Telfer ?",
+   "en": "What is the Telfer Accounting Club?"
+  },
+  "answer": {
+   "fr": "Le Club de comptabilité Telfer est un club reconnu par le SÉUO, dans la catégorie Telfer (gestion). C'est l'un des plus grands clubs étudiants de Telfer et soutient la vie sociale, académique et professionnelle des étudiants en comptabilité depuis plus de 30 ans. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Telfer Accounting Club is a club recognized by the UOSU, in the Telfer category. It is one of the largest student clubs at Telfer, supporting accounting students socially, academically and professionally for over 30 years. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de comptabilité Telfer — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Telfer Accounting Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-telfer-business-journal",
+  "category": "associations",
+  "keywords": [
+   "journal des affaires",
+   "business journal",
+   "tbj",
+   "publication",
+   "magazine",
+   "telfer",
+   "telfer business journal",
+   "journal des affaires telfer",
+   "club telfer",
+   "telfer club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Journal des affaires Telfer ?",
+   "en": "What is the Telfer Business Journal?"
+  },
+  "answer": {
+   "fr": "Le Journal des affaires Telfer est un club reconnu par le SÉUO, dans la catégorie Telfer (gestion). C'est une publication étudiante de l'École de gestion Telfer qui met en valeur les points de vue des étudiants sur le monde des affaires. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Telfer Business Journal is a club recognized by the UOSU, in the Telfer category. It is a student-run publication at the Telfer School of Management elevating student perspectives on business. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Journal des affaires Telfer — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Telfer Business Journal — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-telfer-business-technology",
+  "category": "associations",
+  "keywords": [
+   "tbta",
+   "technologie des affaires",
+   "business technology",
+   "systèmes d information",
+   "telfer",
+   "tech",
+   "telfer business technology association",
+   "association de technologie des affaires de telfer",
+   "club telfer",
+   "telfer club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association de Technologie des Affaires de Telfer ?",
+   "en": "What is the Telfer Business Technology Association?"
+  },
+  "answer": {
+   "fr": "L'Association de Technologie des Affaires de Telfer est un club reconnu par le SÉUO, dans la catégorie Telfer (gestion). Le club fait le pont entre les affaires et la technologie. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Telfer Business Technology Association is a club recognized by the UOSU, in the Telfer category. The club aims to bridge the gap between business and technology. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association de Technologie des Affaires de Telfer — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Telfer Business Technology Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-telfer-capital-consulting",
+  "category": "associations",
+  "keywords": [
+   "consultation",
+   "consulting",
+   "conseil",
+   "stratégie",
+   "strategy",
+   "telfer",
+   "telfer capital consulting",
+   "club telfer",
+   "telfer club"
+  ],
+  "question": {
+   "fr": "C'est quoi Telfer Capital Consulting ?",
+   "en": "What is Telfer Capital Consulting?"
+  },
+  "answer": {
+   "fr": "Telfer Capital Consulting est un club reconnu par le SÉUO, dans la catégorie Telfer (gestion). C'est un groupe de consultation bilingue qui relie les étudiants à des organisations pour réaliser des mandats de stratégie. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Telfer Capital Consulting is a club recognized by the UOSU, in the Telfer category. It is a bilingual student consulting organization connecting students with organizations to deliver strategy mandates. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Telfer Capital Consulting — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Telfer Capital Consulting — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-telfer-finance",
+  "category": "associations",
+  "keywords": [
+   "finance",
+   "société financière",
+   "finance society",
+   "investissement",
+   "investing",
+   "telfer",
+   "telfer finance society",
+   "société financière de telfer",
+   "club telfer",
+   "telfer club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société Financière de Telfer ?",
+   "en": "What is the Telfer Finance Society?"
+  },
+  "answer": {
+   "fr": "La Société Financière de Telfer est un club reconnu par le SÉUO, dans la catégorie Telfer (gestion). Le club favorise l'excellence en finance depuis 2004. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Telfer Finance Society is a club recognized by the UOSU, in the Telfer category. The club has been empowering students and fostering excellence in finance education since 2004. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société Financière de Telfer — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Telfer Finance Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-telfer-human-resources-management",
+  "category": "associations",
+  "keywords": [
+   "hrma",
+   "ressources humaines",
+   "human resources",
+   "rh",
+   "hr",
+   "management",
+   "telfer",
+   "telfer human resources et management association",
+   "association de management et des ressources humaines telfer",
+   "club telfer",
+   "telfer club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association de management et des ressources humaines Telfer ?",
+   "en": "What is the Telfer Human Resources & Management Association?"
+  },
+  "answer": {
+   "fr": "L'Association de management et des ressources humaines Telfer est un club reconnu par le SÉUO, dans la catégorie Telfer (gestion). C'est un organisme sans but lucratif fondé en 2008 pour les étudiants intéressés par les ressources humaines et le management. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Telfer Human Resources & Management Association is a club recognized by the UOSU, in the Telfer category. It is a not-for-profit organization founded in 2008 for students interested in human resources and management. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association de management et des ressources humaines Telfer — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Telfer Human Resources & Management Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-telfer-international",
+  "category": "associations",
+  "keywords": [
+   "telfer international",
+   "étudiants internationaux",
+   "international students",
+   "échange",
+   "exchange",
+   "club telfer",
+   "telfer club",
+   "telfer international uottawa",
+   "club telfer international"
+  ],
+  "question": {
+   "fr": "C'est quoi Telfer International ?",
+   "en": "What is Telfer International?"
+  },
+  "answer": {
+   "fr": "Telfer International est un club reconnu par le SÉUO, dans la catégorie Telfer (gestion). Le club enrichit l'expérience des étudiants internationaux et des programmes internationaux de Telfer. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Telfer International is a club recognized by the UOSU, in the Telfer category. The club adds value to the academic experience of international students and programs at Telfer. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Telfer International — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Telfer International — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-telfer-marketing",
+  "category": "associations",
+  "keywords": [
+   "marketing",
+   "tma",
+   "association de marketing",
+   "marketing association",
+   "publicité",
+   "telfer",
+   "telfer marketing association",
+   "association de marketing telfer",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association de Marketing Telfer ?",
+   "en": "What is the Telfer Marketing Association?"
+  },
+  "answer": {
+   "fr": "L'Association de Marketing Telfer est un club reconnu par le SÉUO, dans la catégorie études et carrière. C'est un organisme étudiant de l'École de gestion Telfer consacré au marketing. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Telfer Marketing Association is a club recognized by the UOSU, in the academic category. It is a student-run organization at the Telfer School of Management focused on marketing. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association de Marketing Telfer — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Telfer Marketing Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-canadian-courage-project",
+  "category": "associations",
+  "keywords": [
+   "canadian courage project",
+   "jeunes sans abri",
+   "homeless youth",
+   "animaux",
+   "pets",
+   "itinérance",
+   "project canadian courage",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Project Canadian Courage uOttawa ?",
+   "en": "What is The Canadian Courage Project uOttawa?"
+  },
+  "answer": {
+   "fr": "Le Project Canadian Courage uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient le Canadian Courage Project, qui aide les jeunes sans abri et leurs animaux. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Canadian Courage Project uOttawa is a club recognized by the UOSU, in the philanthropic category. The club supports the Canadian Courage Project, which helps youth facing homelessness and their animal companions. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le Project Canadian Courage uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Canadian Courage Project uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-citizens-foundation",
+  "category": "associations",
+  "keywords": [
+   "tcf",
+   "citizens foundation",
+   "pakistan",
+   "éducation",
+   "education",
+   "charité",
+   "citizens foundation chapter",
+   "fondation des citoyens chapitre",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Fondation des Citoyens Chapitre uOttawa ?",
+   "en": "What is The Citizens' Foundation uOttawa Chapter?"
+  },
+  "answer": {
+   "fr": "La Fondation des Citoyens Chapitre uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club lutte contre les inégalités en éducation au Pakistan. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Citizens' Foundation uOttawa Chapter is a club recognized by the UOSU, in the philanthropic category. The club addresses educational inequity in Pakistan by supporting access to quality education. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "La Fondation des Citoyens Chapitre uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Citizens' Foundation uOttawa Chapter — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-collective",
+  "category": "associations",
+  "keywords": [
+   "the collective",
+   "le collectif",
+   "vie étudiante",
+   "student life",
+   "événements sociaux",
+   "social events",
+   "collective",
+   "collectif",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Collectif uOttawa ?",
+   "en": "What is The Collective uOttawa?"
+  },
+  "answer": {
+   "fr": "Le Collectif uOttawa est un club reconnu par le SÉUO, dans la catégorie loisirs. C'est un organisme récréatif qui enrichit la vie étudiante en créant des occasions de se rencontrer et de s'impliquer. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Collective uOttawa is a club recognized by the UOSU, in the recreational category. It is a recreational organization enhancing student life by creating opportunities to connect and engage. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le Collectif uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Collective uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-debate-committee",
+  "category": "associations",
+  "keywords": [
+   "comité débat",
+   "debate committee",
+   "débat",
+   "debate",
+   "art oratoire",
+   "public speaking",
+   "droit civil",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Comité Débat ?",
+   "en": "What is The Debate Committee?"
+  },
+  "answer": {
+   "fr": "Le Comité Débat est un club reconnu par le SÉUO, dans la catégorie droit. Le club promeut l'art oratoire et le débat dans la communauté étudiante en droit civil. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Debate Committee is a club recognized by the UOSU, in the law category. The club promotes public speaking and debate within the civil law student community. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Comité Débat — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Debate Committee — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-dendrite",
+  "category": "associations",
+  "keywords": [
+   "dendrite",
+   "la dendrite",
+   "journal club",
+   "balado",
+   "podcast",
+   "recherche",
+   "neurosciences",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Dendrite ?",
+   "en": "What is The Dendrite?"
+  },
+  "answer": {
+   "fr": "La Dendrite est un club reconnu par le SÉUO, dans la catégorie études et carrière. C'est un club de lecture d'articles scientifiques et un balado qui rend la recherche accessible aux étudiants de premier cycle. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Dendrite is a club recognized by the UOSU, in the academic category. It is a student-led journal club and podcast making research accessible to undergraduates. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "La Dendrite — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Dendrite — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-economics-collective",
+  "category": "associations",
+  "keywords": [
+   "économie",
+   "economics",
+   "collectif d économie",
+   "economics club",
+   "club d économie",
+   "economics collective",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Collectif d'Économie ?",
+   "en": "What is The Economics Collective?"
+  },
+  "answer": {
+   "fr": "Le Collectif d'Économie est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club fait progresser la communauté des étudiants de premier cycle en économie. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Economics Collective is a club recognized by the UOSU, in the academic category. The club advances the undergraduate economics community. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le Collectif d'Économie — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Economics Collective — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-entrepreneurs-tecde",
+  "category": "associations",
+  "keywords": [
+   "tecde",
+   "entrepreneuriat",
+   "entrepreneurship",
+   "entrepreneurs",
+   "startup",
+   "club des entrepreneurs",
+   "entrepreneurs club tecde",
+   "club des entrepreneurs tecde",
+   "club telfer",
+   "telfer club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club des Entrepreneurs (TECDE) ?",
+   "en": "What is The Entrepreneurs' Club (TECDE)?"
+  },
+  "answer": {
+   "fr": "Le Club des Entrepreneurs (TECDE) est un club reconnu par le SÉUO, dans la catégorie Telfer (gestion). Le club favorise l'entrepreneuriat, l'innovation et le leadership à l'École de gestion Telfer. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Entrepreneurs' Club (TECDE) is a club recognized by the UOSU, in the Telfer category. The club fosters entrepreneurship, innovation and leadership at the Telfer School of Management. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le Club des Entrepreneurs (TECDE) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Entrepreneurs' Club (TECDE) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-gap-initiative-tgi",
+  "category": "associations",
+  "keywords": [
+   "tgi",
+   "ire",
+   "gap initiative",
+   "itinérance",
+   "homelessness",
+   "sans abri",
+   "logement",
+   "gap initiative tgi",
+   "initiative de réduction des écarts ire",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Initiative de Réduction des Écarts (IRE) ?",
+   "en": "What is The Gap Initiative (TGI)?"
+  },
+  "answer": {
+   "fr": "L'Initiative de Réduction des Écarts (IRE) est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club répond aux besoins non comblés des personnes sans abri ou mal logées à Ottawa. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Gap Initiative (TGI) is a club recognized by the UOSU, in the philanthropic category. The club responds to unmet needs within Ottawa's unhoused and precariously housed populations. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Initiative de Réduction des Écarts (IRE) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Gap Initiative (TGI) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-geegees-impact",
+  "category": "associations",
+  "keywords": [
+   "geegees impact",
+   "effet geegees",
+   "gee gees",
+   "communauté",
+   "bienveillance",
+   "philanthropie",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Effet Geegees ?",
+   "en": "What is The GeeGees Impact?"
+  },
+  "answer": {
+   "fr": "L'Effet Geegees est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club relie les étudiants à des organismes d'Ottawa-Gatineau qui aident les familles à faible revenu et les accompagne dans leur démarche de bénévolat. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The GeeGees Impact is a club recognized by the UOSU, in the philanthropic category. The club connects students with Ottawa-Gatineau organizations working with low-income families and supports them through the volunteer application process. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Effet Geegees — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The GeeGees Impact — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-gymbro",
+  "category": "associations",
+  "keywords": [
+   "gymbro",
+   "musculation",
+   "bodybuilding",
+   "gym",
+   "fitness",
+   "entraînement",
+   "club de musculation",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le GymBro ?",
+   "en": "What is The GymBro?"
+  },
+  "answer": {
+   "fr": "Le GymBro est un club reconnu par le SÉUO, dans la catégorie sport et activité physique. C'est un club de musculation qui aide les étudiants à atteindre leurs objectifs de forme physique. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The GymBro is a club recognized by the UOSU, in the athletic category. It is a bodybuilding club helping students reach their fitness goals. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le GymBro — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The GymBro — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-lightroom",
+  "category": "associations",
+  "keywords": [
+   "lightroom",
+   "salon lumière",
+   "étude",
+   "study",
+   "groupe d étude",
+   "study group",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Salon Lumière uOttawa ?",
+   "en": "What is The Lightroom uOttawa?"
+  },
+  "answer": {
+   "fr": "Le Salon Lumière uOttawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club crée un espace pour étudier ensemble et nouer de vraies amitiés. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Lightroom uOttawa is a club recognized by the UOSU, in the academic category. The club creates a space where students study together while building genuine friendships. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le Salon Lumière uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Lightroom uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-nine-lives-initiative",
+  "category": "associations",
+  "keywords": [
+   "nine lives",
+   "neuf vies",
+   "mode durable",
+   "sustainable fashion",
+   "friperie",
+   "thrift",
+   "vêtements",
+   "nine lives initiative",
+   "initiative des neuf vies",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Initiative des Neuf Vies ?",
+   "en": "What is The Nine Lives Initiative?"
+  },
+  "answer": {
+   "fr": "L'Initiative des Neuf Vies est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club allie mode durable et soutien communautaire. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Nine Lives Initiative is a club recognized by the UOSU, in the philanthropic category. The club unites sustainable fashion with community support. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Initiative des Neuf Vies — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Nine Lives Initiative — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-shoebox-project",
+  "category": "associations",
+  "keywords": [
+   "shoebox project",
+   "boîte à chaussures",
+   "femmes",
+   "women",
+   "dons",
+   "donations",
+   "itinérance",
+   "projet boîte à chaussures",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Projet Boîte à Chaussures uOttawa ?",
+   "en": "What is The Shoebox Project uOttawa?"
+  },
+  "answer": {
+   "fr": "Le Projet Boîte à Chaussures uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient les femmes de la communauté qui vivent de l'insécurité du logement ou des difficultés économiques. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Shoebox Project uOttawa is a club recognized by the UOSU, in the philanthropic category. The club supports women in the community facing housing insecurity, economic hardship or other challenges. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le Projet Boîte à Chaussures uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Shoebox Project uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-sports-entertainment-law-2",
+  "category": "associations",
+  "keywords": [
+   "adsd",
+   "droit du sport",
+   "sports law",
+   "droit du divertissement",
+   "entertainment law",
+   "droit civil",
+   "sports and entertainment law association",
+   "association du droit du sport et du divertissement",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association du droit du sport et du divertissement ?",
+   "en": "What is The Sports and Entertainment Law Association?"
+  },
+  "answer": {
+   "fr": "L'Association du droit du sport et du divertissement est un club reconnu par le SÉUO, dans la catégorie droit. Le club explore les cadres juridiques des industries créatives et sportives. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Sports and Entertainment Law Association is a club recognized by the UOSU, in the law category. The club explores the legal landscapes of the creative and athletic industries. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association du droit du sport et du divertissement — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Sports and Entertainment Law Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-undergraduate-mock-trial-moot",
+  "category": "associations",
+  "keywords": [
+   "ummsuo",
+   "procès simulé",
+   "mock trial",
+   "tribunal école",
+   "moot court",
+   "plaidoirie",
+   "pre law",
+   "undergraduate mock trial and moot court society",
+   "société des tribunaux fictifs et des procès simulés",
+   "club de compétition",
+   "competition club"
+  ],
+  "question": {
+   "fr": "C'est quoi le société des tribunaux fictifs et des procès simulés de l'université d'Ottawa ?",
+   "en": "What is The Undergraduate Mock Trial and Moot Court Society of the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "Le société des tribunaux fictifs et des procès simulés de l'université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie compétitions académiques. Le club permet aux futurs avocats de s'initier aux procès simulés et aux tribunaux-écoles. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Undergraduate Mock Trial and Moot Court Society of the University of Ottawa is a club recognized by the UOSU, in the competitive academic category. The club lets future lawyers try mock trials and moot court. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le société des tribunaux fictifs et des procès simulés de l'université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The Undergraduate Mock Trial and Moot Court Society of the University of Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-english-improv",
+  "category": "associations",
+  "keywords": [
+   "improvisation",
+   "improv",
+   "impro anglophone",
+   "english improv",
+   "théâtre",
+   "comédie",
+   "club d impro",
+   "english improv club",
+   "club d improvisation anglophone",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club d'Improvisation Anglophone de l'Université d'Ottawa ?",
+   "en": "What is The University of Ottawa English Improv Club?"
+  },
+  "answer": {
+   "fr": "Le Club d'Improvisation Anglophone de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club réunit des improvisateurs débutants et expérimentés dans une ambiance ouverte, avec des ateliers d'improvisation chaque semaine. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa English Improv Club is a club recognized by the UOSU, in the creative category. The club brings together new and experienced improvisers in an open, fun environment with weekly improv sessions. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le Club d'Improvisation Anglophone de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The University of Ottawa English Improv Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-glee-gees",
+  "category": "associations",
+  "keywords": [
+   "glee gees",
+   "a cappella",
+   "chant",
+   "singing",
+   "chorale",
+   "choir",
+   "club de chant",
+   "les glee gees",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi les Glee Gees de l'Université d'Ottawa ?",
+   "en": "What is The University of Ottawa Glee Gees?"
+  },
+  "answer": {
+   "fr": "Les Glee Gees de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club réunit des étudiants qui aiment chanter et explorer la musique a cappella. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Glee Gees is a club recognized by the UOSU, in the recreational category. It is a group of students who enjoy singing and exploring music through a cappella. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Les Glee Gees de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The University of Ottawa Glee Gees — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-international",
+  "category": "associations",
+  "keywords": [
+   "uo aéi",
+   "étudiants internationaux",
+   "international students",
+   "échange",
+   "exchange",
+   "nouveaux arrivants",
+   "international students association",
+   "association des étudiants internationaux aéi",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants internationaux de l'université d'Ottawa (UO-AÉI) ?",
+   "en": "What is The University of Ottawa international students association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants internationaux de l'université d'Ottawa (UO-AÉI) est un club reconnu par le SÉUO, dans la catégorie culture. Le club rassemble étudiants internationaux, nouveaux arrivants, étudiants en échange et toute personne curieuse des autres cultures. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa international students association is a club recognized by the UOSU, in the cultural category. The club brings together international students, newcomers, exchange students and anyone curious about other cultures. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Association des étudiants internationaux de l'université d'Ottawa (UO-AÉI) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The University of Ottawa international students association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-cinema",
+  "category": "associations",
+  "keywords": [
+   "cinéma",
+   "cinema",
+   "films",
+   "movies",
+   "club de cinéma",
+   "film club",
+   "ciné club",
+   "cinema club",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOttawa Cinema Club ?",
+   "en": "What is The uOttawa Cinema Club?"
+  },
+  "answer": {
+   "fr": "uOttawa Cinema Club est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club rassemble les étudiants qui partagent un intérêt pour le cinéma en dehors des cours. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Cinema Club is a club recognized by the UOSU, in the recreational category. The club brings together students who share an interest in cinema outside of class. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOttawa Cinema Club — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "The uOttawa Cinema Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-tooth-be-told",
+  "category": "associations",
+  "keywords": [
+   "tooth be told",
+   "toute dent vérité",
+   "santé dentaire",
+   "dental health",
+   "dents",
+   "teeth",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Toute Dent Vérité ?",
+   "en": "What is Tooth be Told?"
+  },
+  "answer": {
+   "fr": "Toute Dent Vérité est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club sensibilise à la santé dentaire et démystifie les idées reçues sur l'hygiène buccodentaire. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Tooth be Told is a club recognized by the UOSU, in the philanthropic category. The club promotes dental health awareness and debunks misconceptions about oral hygiene. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Toute Dent Vérité — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Tooth be Told — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-trek-for-teens",
+  "category": "associations",
+  "keywords": [
+   "trek for teens",
+   "animer les ados",
+   "jeunes sans abri",
+   "homeless youth",
+   "collecte de fonds",
+   "trek for teens ottawa",
+   "animer les ados région d ottawa",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Animer les Ados - Région d'Ottawa ?",
+   "en": "What is Trek for Teens Ottawa?"
+  },
+  "answer": {
+   "fr": "Animer les Ados - Région d'Ottawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est un organisme de bienfaisance géré par des jeunes qui amasse des fonds pour les jeunes sans abri au Canada. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Trek for Teens Ottawa is a club recognized by the UOSU, in the philanthropic category. It is a youth-run charity raising funds and awareness for homeless youth in Canada. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Animer les Ados - Région d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Trek for Teens Ottawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-tunisian",
+  "category": "associations",
+  "keywords": [
+   "tunisien",
+   "tunisienne",
+   "tunisian",
+   "tunisie",
+   "tunisia",
+   "club tunisien",
+   "tunisian students association",
+   "association des étudiants tunisiens",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiants Tunisiens ?",
+   "en": "What is the Tunisian Students Association?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiants Tunisiens est un club reconnu par le SÉUO, dans la catégorie culture. Le club rassemble les étudiants tunisiens et célèbre leur culture. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Tunisian Students Association is a club recognized by the UOSU, in the cultural category. The club brings Tunisian students together and celebrates their culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Étudiants Tunisiens — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Tunisian Students Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-turkish",
+  "category": "associations",
+  "keywords": [
+   "tsa",
+   "turc",
+   "turque",
+   "turkish",
+   "turquie",
+   "turkey",
+   "club turc",
+   "turkish students association",
+   "association des étudiant e s turcs",
+   "e",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiant(e)s turcs ?",
+   "en": "What is the Turkish Students' Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiant(e)s turcs est un club reconnu par le SÉUO, dans la catégorie culture. Le club fait partie du réseau TSA d'Ottawa et favorise la solidarité et l'inclusion. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Turkish Students' Association is a club recognized by the UOSU, in the cultural category. It is part of Ottawa's TSA network and promotes solidarity and inclusiveness. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiant(e)s turcs — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Turkish Students' Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-u-o-ski-snow",
+  "category": "associations",
+  "keywords": [
+   "ski",
+   "snowboard",
+   "planche à neige",
+   "club de ski",
+   "ski club",
+   "tremblant",
+   "sports d hiver",
+   "u of o ski and snow",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi U of O Ski and Snow ?",
+   "en": "What is U of O Ski and Snow?"
+  },
+  "answer": {
+   "fr": "U of O Ski and Snow est un club reconnu par le SÉUO, dans la catégorie loisirs. C'est un club récréatif qui organise des sorties hebdomadaires de ski au mont Tremblant l'hiver. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "U of O Ski and Snow is a club recognized by the UOSU, in the recreational category. It is a recreational club offering weekly winter trips to Mont Tremblant. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "U of O Ski and Snow — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "U of O Ski and Snow — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-unicef",
+  "category": "associations",
+  "keywords": [
+   "unicef",
+   "droits des enfants",
+   "children s rights",
+   "enfants",
+   "children",
+   "humanitaire",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi UNICEF uOttawa ?",
+   "en": "What is UNICEF uOttawa?"
+  },
+  "answer": {
+   "fr": "UNICEF uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient l'UNICEF, la principale organisation humanitaire et de développement consacrée aux enfants. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "UNICEF uOttawa is a club recognized by the UOSU, in the philanthropic category. The club supports UNICEF, the world's leading child-focused development and humanitarian organization. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "UNICEF uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "UNICEF uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-climate-crisis-coalition",
+  "category": "associations",
+  "keywords": [
+   "climat",
+   "climate",
+   "crise climatique",
+   "climate crisis",
+   "environnement",
+   "environment",
+   "biodiversité",
+   "climate crisis coalition",
+   "coalition de la crise climatique",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Coalition de la crise climatique UO ?",
+   "en": "What is the UO climate crisis coalition?"
+  },
+  "answer": {
+   "fr": "La Coalition de la crise climatique UO est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club sensibilise à la crise climatique, notamment à la pollution plastique et au déclin de la biodiversité. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The UO climate crisis coalition is a club recognized by the UOSU, in the philanthropic category. The club raises awareness of the climate crisis, including plastic pollution and biodiversity decline. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Coalition de la crise climatique UO — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "UO climate crisis coalition — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uobeauty",
+  "category": "associations",
+  "keywords": [
+   "uobeauty",
+   "beauté",
+   "beauty",
+   "maquillage",
+   "makeup",
+   "soins",
+   "skincare",
+   "uobeauté",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi UOBeauté ?",
+   "en": "What is UOBeauty?"
+  },
+  "answer": {
+   "fr": "UOBeauté est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club célèbre la créativité, l'expression de soi et la confiance à travers la beauté. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "UOBeauty is a club recognized by the UOSU, in the creative category. The club celebrates creativity, self-expression and confidence through all aspects of beauty. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "UOBeauté — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "UOBeauty — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uonotes",
+  "category": "associations",
+  "keywords": [
+   "uonotes",
+   "notes de cours",
+   "class notes",
+   "soutien scolaire",
+   "academic support",
+   "études",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi UONotes ?",
+   "en": "What is UONotes?"
+  },
+  "answer": {
+   "fr": "UONotes est un club reconnu par le SÉUO, dans la catégorie études et carrière. C'est un club bilingue de soutien scolaire qui facilite l'accès aux ressources académiques. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "UONotes is a club recognized by the UOSU, in the academic category. It is a bilingual academic support club transforming how students access academic resources. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "UONotes — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "UONotes — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uottawas-laugh",
+  "category": "associations",
+  "keywords": [
+   "uottawas laugh",
+   "rires",
+   "vie sociale",
+   "social",
+   "conversations",
+   "uottawas rires",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi UOTTAWAS RIRES ?",
+   "en": "What is UOTTAWAS LAUGH?"
+  },
+  "answer": {
+   "fr": "UOTTAWAS RIRES est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club rassemble les étudiants par des conversations authentiques et des expériences partagées. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "UOTTAWAS LAUGH is a club recognized by the UOSU, in the creative category. The club brings students together through authentic conversations, social connections and shared experiences. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "UOTTAWAS RIRES — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "UOTTAWAS LAUGH — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-asl",
+  "category": "associations",
+  "keywords": [
+   "asl",
+   "lsa",
+   "langue des signes",
+   "sign language",
+   "langue des signes américaine",
+   "american sign language",
+   "surdité",
+   "asl club",
+   "club de lsa",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de LSA uOttawa ?",
+   "en": "What is the UOttawa ASL Club?"
+  },
+  "answer": {
+   "fr": "Le Club de LSA uOttawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club permet aux étudiants d'apprendre et de pratiquer la langue des signes américaine (ASL). Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The UOttawa ASL Club is a club recognized by the UOSU, in the academic category. The club lets students learn and practise American Sign Language (ASL). To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de LSA uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "UOttawa ASL Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-quadball",
+  "category": "associations",
+  "keywords": [
+   "quadball",
+   "quidditch",
+   "club de quadball",
+   "quadball club",
+   "sport mixte",
+   "co ed sport",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Quadball UOttawa ?",
+   "en": "What is the UOttawa Quadball Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Quadball UOttawa est un club reconnu par le SÉUO, dans la catégorie sports. Le club participe à une ligue interuniversitaire mixte de quadball avec contact et a remporté plusieurs championnats régionaux et nationaux. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The UOttawa Quadball Club is a club recognized by the UOSU, in the sports category. The club plays in a co-ed, full-contact interuniversity quadball league and has won several regional and national championships. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Quadball UOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "UOttawa Quadball Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-escalade",
+  "category": "associations",
+  "keywords": [
+   "club d escalade",
+   "escalade",
+   "climbing club",
+   "rock climbing",
+   "bouldering",
+   "bloc",
+   "club de grimpe",
+   "grimpe",
+   "uottawa rock climbers",
+   "rock climbers",
+   "uottawa club d escalade",
+   "climbing",
+   "grimper",
+   "mur d escalade",
+   "club sportif"
+  ],
+  "question": {
+   "fr": "C'est quoi le club d'escalade ?",
+   "en": "What is the climbing club?"
+  },
+  "answer": {
+   "fr": "uOttawa Club D'Escalade est un club reconnu par le SÉUO, dans la catégorie sports. Le club fait découvrir l'escalade aux étudiants et soutient les grimpeurs de tous niveaux grâce à des soirées de club, des événements et la location d'équipement. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "UOttawa Rock Climbers is a club recognized by the UOSU, in the sports category. The club introduces students to climbing and supports climbers of all levels through club nights, events and gear rentals. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOttawa Club D'Escalade — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "UOttawa Rock Climbers — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-tango",
+  "category": "associations",
+  "keywords": [
+   "tango",
+   "tango argentin",
+   "argentine tango",
+   "danse",
+   "dance",
+   "club de danse",
+   "argentine",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi UOttawa Tango ?",
+   "en": "What is UOttawa Tango?"
+  },
+  "answer": {
+   "fr": "UOttawa Tango est un club reconnu par le SÉUO, dans la catégorie culture. Le club fait connaître le tango argentin, sa danse, sa musique et sa culture, reconnus par l'UNESCO. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "UOttawa Tango is a club recognized by the UOSU, in the cultural category. The club introduces and develops awareness of Argentine tango: dance, music, culture and traditions. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "UOttawa Tango — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "UOttawa Tango — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-trivia",
+  "category": "associations",
+  "keywords": [
+   "trivia",
+   "quiz",
+   "jeu questionnaire",
+   "culture générale",
+   "general knowledge",
+   "club de quiz",
+   "club de compétition",
+   "competition club"
+  ],
+  "question": {
+   "fr": "C'est quoi UOttawa Trivia ?",
+   "en": "What is UOttawa Trivia?"
+  },
+  "answer": {
+   "fr": "UOttawa Trivia est un club reconnu par le SÉUO, dans la catégorie compétitions académiques. Le club organise des jeux-questionnaires amicaux et compétitifs à l'Université et avec d'autres universités. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "UOttawa Trivia is a club recognized by the UOSU, in the competitive academic category. The club runs friendly and competitive trivia games at uOttawa and with other universities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "UOttawa Trivia — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "UOttawa Trivia — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-women-s-flag-football",
+  "category": "associations",
+  "keywords": [
+   "flag football",
+   "football féminin",
+   "women s football",
+   "flag",
+   "football",
+   "sport féminin",
+   "women s flag football club",
+   "club de flag football féminin",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le club de flag football féminin de l'Université d'Ottawa ?",
+   "en": "What is the UOttawa Women's Flag Football Club?"
+  },
+  "answer": {
+   "fr": "Le club de flag football féminin de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie sports. Le club offre une expérience compétitive de flag football aux athlètes s'identifiant comme femmes. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The UOttawa Women's Flag Football Club is a club recognized by the UOSU, in the sports category. The club provides a competitive flag football experience for female-identifying athletes. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le club de flag football féminin de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "UOttawa Women's Flag Football Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-undergraduate-research-initiative",
+  "category": "associations",
+  "keywords": [
+   "uri",
+   "recherche",
+   "research",
+   "recherche scientifique",
+   "scientific research",
+   "compétition de recherche",
+   "undergraduate research initiative",
+   "initiative de recherche de premier cycle",
+   "club de compétition",
+   "competition club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Initiative de recherche de premier cycle ?",
+   "en": "What is the Undergraduate Research Initiative?"
+  },
+  "answer": {
+   "fr": "L'Initiative de recherche de premier cycle est un club reconnu par le SÉUO, dans la catégorie compétitions académiques. Le club initie les étudiants de premier cycle à la recherche scientifique. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Undergraduate Research Initiative is a club recognized by the UOSU, in the competitive academic category. The club introduces undergraduate students to scientific research. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Initiative de recherche de premier cycle — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Undergraduate Research Initiative — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-unity-for-action",
+  "category": "associations",
+  "keywords": [
+   "unity for action",
+   "union pour action",
+   "changement social",
+   "social change",
+   "bénévolat",
+   "volunteering",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Union pour Action ?",
+   "en": "What is Unity for Action?"
+  },
+  "answer": {
+   "fr": "Union pour Action est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club inspire les gens à mettre leurs passions au service d'un changement social positif. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Unity for Action is a club recognized by the UOSU, in the philanthropic category. The club inspires people to use their passions to create positive change in society. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Union pour Action — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Unity for Action — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-bhangra",
+  "category": "associations",
+  "keywords": [
+   "bhangra",
+   "danse pendjabie",
+   "punjabi dance",
+   "danse",
+   "dance",
+   "club de danse",
+   "sud asiatique",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi Université d'Ottawa Bhangra ?",
+   "en": "What is University of Ottawa Bhangra?"
+  },
+  "answer": {
+   "fr": "Université d'Ottawa Bhangra est un club reconnu par le SÉUO, dans la catégorie culture. C'est un club de danse culturelle qui fait découvrir le bhangra. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "University of Ottawa Bhangra is a club recognized by the UOSU, in the cultural category. It is a cultural dance club promoting the art of Bhangra. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Université d'Ottawa Bhangra — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Bhangra — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-agnes-zabali-boys-girls",
+  "category": "associations",
+  "keywords": [
+   "azbgc",
+   "agnes zabali",
+   "kenya",
+   "enfants",
+   "children",
+   "éducation",
+   "agnes zabali boys and girls club",
+   "club agnes zabali pour garçons et filles",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club Agnes Zabali pour garçons et filles de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Agnes Zabali Boys and Girls Club?"
+  },
+  "answer": {
+   "fr": "Le Club Agnes Zabali pour garçons et filles de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient l'autonomisation et l'éducation des enfants et des jeunes au Kenya. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Agnes Zabali Boys and Girls Club is a club recognized by the UOSU, in the philanthropic category. The club supports youth empowerment and educational opportunities for children and youth in Kenya. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club Agnes Zabali pour garçons et filles de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Agnes Zabali Boys and Girls Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-animal-rights",
+  "category": "associations",
+  "keywords": [
+   "droits des animaux",
+   "animal rights",
+   "animaux",
+   "animals",
+   "véganisme",
+   "vegan",
+   "animal rights association",
+   "association pour les droits des animaux",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association pour les droits des animaux de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Animal Rights Association?"
+  },
+  "answer": {
+   "fr": "L'Association pour les droits des animaux de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club rassemble les étudiants qui aiment les animaux et défendent leurs droits. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Animal Rights Association is a club recognized by the UOSU, in the recreational category. The club unites students who love animals and promote animal rights. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association pour les droits des animaux de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Animal Rights Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-astronomy-space",
+  "category": "associations",
+  "keywords": [
+   "astronomie",
+   "astronomy",
+   "espace",
+   "space",
+   "étoiles",
+   "stars",
+   "club d astronomie",
+   "astronomy club",
+   "astronomy and space club",
+   "club d astronomie et d espace",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le club d'astronomie et d'espace de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Astronomy and Space Club?"
+  },
+  "answer": {
+   "fr": "Le club d'astronomie et d'espace de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club offre un espace accueillant aux passionnés d'astronomie et de l'univers. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Astronomy and Space Club is a club recognized by the UOSU, in the recreational category. The club provides a welcoming, fun space for astronomy enthusiasts and anyone curious about the universe. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le club d'astronomie et d'espace de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Astronomy and Space Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-avid-readers",
+  "category": "associations",
+  "keywords": [
+   "lecteurs avides",
+   "avid readers",
+   "club de lecture",
+   "book club",
+   "lecture",
+   "reading",
+   "livres",
+   "avid readers club",
+   "club des lecteurs avides",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club des lecteurs avides de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Avid Readers Club?"
+  },
+  "answer": {
+   "fr": "Le Club des lecteurs avides de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club rend la littérature plus accessible et offre un espace pour échanger sur la lecture. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Avid Readers Club is a club recognized by the UOSU, in the recreational category. The club makes literature more accessible and offers a space to share about reading. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club des lecteurs avides de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Avid Readers Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-bangladeshi",
+  "category": "associations",
+  "keywords": [
+   "bangladais",
+   "bangladeshi",
+   "bangladesh",
+   "club bangladais",
+   "sud asiatique",
+   "bangladeshi students association",
+   "association des étudiants bangladais",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants bangladais de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Bangladeshi Students Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants bangladais de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club relie les étudiants et diplômés d'origine bangladaise pour préserver et faire connaître leur culture. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Bangladeshi Students Association is a club recognized by the UOSU, in the cultural category. The club connects students and alumni of Bangladeshi descent to preserve and promote their culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants bangladais de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Bangladeshi Students Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-blood-team-uoblood-team",
+  "category": "associations",
+  "keywords": [
+   "uoblood",
+   "uosang",
+   "don de sang",
+   "blood donation",
+   "société canadienne du sang",
+   "canadian blood services",
+   "blood team uoblood team",
+   "équipe de sang l équipe uosang",
+   "uoblood team",
+   "l équipe uosang",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'équipe de sang de l'Université d'Ottawa (L'équipe uOSang) ?",
+   "en": "What is the University of Ottawa Blood Team (uOBlood Team)?"
+  },
+  "answer": {
+   "fr": "L'équipe de sang de l'Université d'Ottawa (L'équipe uOSang) est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club informe les étudiants sur les programmes de la Société canadienne du sang. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Blood Team (uOBlood Team) is a club recognized by the UOSU, in the philanthropic category. The club informs students about Canadian Blood Services programs. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'équipe de sang de l'Université d'Ottawa (L'équipe uOSang) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Blood Team (uOBlood Team) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-boxing-uobc",
+  "category": "associations",
+  "keywords": [
+   "boxe",
+   "boxing",
+   "club de boxe",
+   "boxing club",
+   "cbuo",
+   "uobc",
+   "sport de combat",
+   "boxing club uobc",
+   "club de boxe cbuo",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de boxe de l'Université d'Ottawa (CBUO) ?",
+   "en": "What is the University of Ottawa Boxing Club (UOBC)?"
+  },
+  "answer": {
+   "fr": "Le Club de boxe de l'Université d'Ottawa (CBUO) est un club reconnu par le SÉUO, dans la catégorie sports. Le club fait découvrir la boxe aux étudiants de tous niveaux, avec des entraînements techniques et de conditionnement. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Boxing Club (UOBC) is a club recognized by the UOSU, in the sports category. The club shares the discipline of boxing with students of every skill level, with conditioning and technical training. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de boxe de l'Université d'Ottawa (CBUO) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Boxing Club (UOBC) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-chemistry",
+  "category": "associations",
+  "keywords": [
+   "chimie",
+   "chemistry",
+   "club de chimie",
+   "chemistry club",
+   "sciences",
+   "club académique",
+   "academic club",
+   "university of ottawa chemistry club",
+   "le club de chimie de l université d ottawa"
+  ],
+  "question": {
+   "fr": "C'est quoi le club de chimie de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Chemistry Club?"
+  },
+  "answer": {
+   "fr": "Le club de chimie de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club suscite l'intérêt pour la chimie par des activités sociales et éducatives. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Chemistry Club is a club recognized by the UOSU, in the academic category. The club promotes interest in chemistry through social and educational activities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le club de chimie de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Chemistry Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-chess",
+  "category": "associations",
+  "keywords": [
+   "échecs",
+   "chess",
+   "club d échecs",
+   "chess club",
+   "jeu d échecs",
+   "tournoi",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club d'Échecs de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Chess Club?"
+  },
+  "answer": {
+   "fr": "Le Club d'Échecs de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club rassemble les joueurs d'échecs de tous niveaux lors de rencontres aux deux semaines. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Chess Club is a club recognized by the UOSU, in the recreational category. The club brings chess players of all strengths together at bi-weekly meetings. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club d'Échecs de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Chess Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-college-panhellenic",
+  "category": "associations",
+  "keywords": [
+   "panhellénique",
+   "panhellenic",
+   "sororité",
+   "sorority",
+   "vie grecque",
+   "greek life",
+   "college panhellenic association",
+   "collège panhellénique",
+   "fraternité"
+  ],
+  "question": {
+   "fr": "C'est quoi le Collège panhellénique de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa College Panhellenic Association?"
+  },
+  "answer": {
+   "fr": "Le Collège panhellénique de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie fraternités et sororités. Le club regroupe les sororités membres de la National Panhellenic Conference sur le campus. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa College Panhellenic Association is a club recognized by the UOSU, in the fraternity and sorority category. It is the campus association for member sororities of the National Panhellenic Conference. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Collège panhellénique de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa College Panhellenic Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-common-law-outdoors",
+  "category": "associations",
+  "keywords": [
+   "plein air",
+   "outdoors",
+   "randonnée",
+   "hiking",
+   "nature",
+   "droit",
+   "common law",
+   "common law outdoors club",
+   "club de plein air en common law",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de plein air en common law de l'université d'Ottawa ?",
+   "en": "What is the University of Ottawa Common law Outdoors Club?"
+  },
+  "answer": {
+   "fr": "Le Club de plein air en common law de l'université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie droit. Le club offre aux étudiants en droit des occasions régulières de se ressourcer en nature. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Common law Outdoors Club is a club recognized by the UOSU, in the law category. The club gives law students regular opportunities to relax and recharge in nature. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de plein air en common law de l'université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Common law Outdoors Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-computer-science",
+  "category": "associations",
+  "keywords": [
+   "informatique",
+   "computer science",
+   "programmation",
+   "programming",
+   "code",
+   "club d informatique",
+   "cs club",
+   "computer science club",
+   "club de science informatique",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi le club de science informatique de l'université d'Ottawa ?",
+   "en": "What is the University of Ottawa Computer Science Club?"
+  },
+  "answer": {
+   "fr": "Le club de science informatique de l'université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie STIM. Le club se consacre à des projets de programmation et d'administration de systèmes et favorise une communauté de codeurs. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Computer Science Club is a club recognized by the UOSU, in the STEM category. It is dedicated to extracurricular programming and system administration projects, fostering a coder community. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le club de science informatique de l'université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Computer Science Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-constitutional-law",
+  "category": "associations",
+  "keywords": [
+   "uocla",
+   "droit constitutionnel",
+   "constitutional law",
+   "charte",
+   "droit civil",
+   "constitution",
+   "constitutional law association",
+   "association de droit constitutionnel",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association de droit constitutionnel de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Constitutional Law Association?"
+  },
+  "answer": {
+   "fr": "L'Association de droit constitutionnel de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie droit. Le club fait la promotion du droit constitutionnel en français à la Section de droit civil. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Constitutional Law Association is a club recognized by the UOSU, in the law category. The club promotes the study and practice of constitutional law in French in the Civil Law Section. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association de droit constitutionnel de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Constitutional Law Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-consulting-uoca",
+  "category": "associations",
+  "keywords": [
+   "uoca",
+   "consultation",
+   "consulting",
+   "conseil",
+   "études de cas",
+   "case competition",
+   "consulting association uoca",
+   "association de consultation",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association de Consultation de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Consulting Association (UOCA)?"
+  },
+  "answer": {
+   "fr": "L'Association de Consultation de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club fait progresser les connaissances en consultation et le développement professionnel des étudiants. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Consulting Association (UOCA) is a club recognized by the UOSU, in the academic category. The club advances knowledge of consulting and fosters students' professional development. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association de Consultation de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Consulting Association (UOCA) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-curling",
+  "category": "associations",
+  "keywords": [
+   "curling",
+   "club de curling",
+   "curling club",
+   "sports d hiver",
+   "glace",
+   "club sportif",
+   "sports club",
+   "university of ottawa curling club",
+   "club de curling de l université d ottawa"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de curling de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Curling Club?"
+  },
+  "answer": {
+   "fr": "Le Club de curling de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie sports. Le club permet aux étudiants de tous niveaux de jouer au curling dans une ambiance amicale. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Curling Club is a club recognized by the UOSU, in the sports category. The club gives students of all skill levels the chance to curl with and against peers in a friendly setting. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de curling de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Curling Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-cycling",
+  "category": "associations",
+  "keywords": [
+   "vélo",
+   "cyclisme",
+   "cycling",
+   "club de vélo",
+   "cycling club",
+   "vélo de route",
+   "bike",
+   "club cycliste",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi Université d'Ottawa Club Cycliste ?",
+   "en": "What is the University of Ottawa Cycling Club?"
+  },
+  "answer": {
+   "fr": "Université d'Ottawa Club Cycliste est un club reconnu par le SÉUO, dans la catégorie sports. Le club organise des sorties de groupe à vélo et participe à des événements cyclistes. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Cycling Club is a club recognized by the UOSU, in the sports category. The club organizes group rides and takes part in cycling events. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Université d'Ottawa Club Cycliste — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Cycling Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-dragon-boat",
+  "category": "associations",
+  "keywords": [
+   "bateau dragon",
+   "dragon boat",
+   "pagaie",
+   "paddling",
+   "aviron",
+   "régate",
+   "club de bateau dragon",
+   "dragon boat club",
+   "bateaux dragons",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi Bateaux-dragons de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Dragon Boat Club?"
+  },
+  "answer": {
+   "fr": "Bateaux-dragons de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie sport et activité physique. Le club s'entraîne chaque semaine et participe à des régates de bateau-dragon l'été, sans expérience requise. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Dragon Boat Club is a club recognized by the UOSU, in the athletic category. The club does weekly workouts and competes in summer dragon boat regattas; no experience required. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Bateaux-dragons de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Dragon Boat Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-epilepsy",
+  "category": "associations",
+  "keywords": [
+   "épilepsie",
+   "epilepsy",
+   "crises",
+   "seizures",
+   "sensibilisation",
+   "awareness",
+   "epilepsy club",
+   "club d épilepsie",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club d'épilepsie de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Epilepsy Club?"
+  },
+  "answer": {
+   "fr": "Le Club d'épilepsie de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie STIM. Le club sensibilise à l'épilepsie et soutient les personnes qui en sont atteintes. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Epilepsy Club is a club recognized by the UOSU, in the STEM category. The club raises awareness about epilepsy and supports people living with seizures. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club d'épilepsie de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Epilepsy Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-field-hockey",
+  "category": "associations",
+  "keywords": [
+   "hockey sur gazon",
+   "field hockey",
+   "club de hockey sur gazon",
+   "hockey",
+   "sport d équipe",
+   "field hockey club",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Hockey sur Gazon de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Field Hockey Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Hockey sur Gazon de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie sports. Le club offre du hockey sur gazon pour le développement personnel, les liens sociaux et un mode de vie actif. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Field Hockey Club is a club recognized by the UOSU, in the sports category. The club offers field hockey for personal development, social connection and an active lifestyle. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Hockey sur Gazon de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Field Hockey Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-figure-skating",
+  "category": "associations",
+  "keywords": [
+   "patinage artistique",
+   "figure skating",
+   "patinage",
+   "skating",
+   "club de patinage",
+   "glace",
+   "figure skating club",
+   "club de patinage artistique",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Patinage Artistique de L'Universite d'Ottawa ?",
+   "en": "What is the University of Ottawa Figure Skating Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Patinage Artistique de L'Universite d'Ottawa est un club reconnu par le SÉUO, dans la catégorie sports. Le club rassemble les patineurs artistiques et organise du temps de glace réservé au patinage artistique. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Figure Skating Club is a club recognized by the UOSU, in the sports category. The club brings figure skaters together and organizes ice time dedicated to figure skating. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Patinage Artistique de L'Universite d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Figure Skating Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-ghanaian",
+  "category": "associations",
+  "keywords": [
+   "gsa",
+   "ghanéen",
+   "ghanaian",
+   "ghana",
+   "club ghanéen",
+   "afrique",
+   "ghanaian students association",
+   "association des étudiants ghanéens",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Étudiants Ghanéens de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Ghanaian Students' Association?"
+  },
+  "answer": {
+   "fr": "L'Association des Étudiants Ghanéens de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club fait la promotion de la culture ghanéenne et soutient la réussite scolaire et sociale de ses membres. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Ghanaian Students' Association is a club recognized by the UOSU, in the cultural category. The club promotes Ghanaian culture, fosters community and supports members' academic and social success. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Association des Étudiants Ghanéens de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Ghanaian Students' Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-global-medical-brigade",
+  "category": "associations",
+  "keywords": [
+   "global medical brigades",
+   "brigade médicale",
+   "santé mondiale",
+   "global health",
+   "médecine",
+   "global medical brigade",
+   "brigade médicale mondiale",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Brigade médicale mondiale de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Global Medical Brigade?"
+  },
+  "answer": {
+   "fr": "La Brigade médicale mondiale de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie STIM. C'est une section de Global Medical Brigades, un mouvement international d'étudiants et de professionnels de la santé qui travaille avec des communautés locales. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Global Medical Brigade is a club recognized by the UOSU, in the STEM category. It is a chapter of Global Medical Brigades, an international movement of students and medical professionals working with local communities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Brigade médicale mondiale de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Global Medical Brigade — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-global-public-health-brigade",
+  "category": "associations",
+  "keywords": [
+   "global public health brigades",
+   "santé publique",
+   "public health",
+   "santé mondiale",
+   "global health",
+   "global public health brigade",
+   "brigade de santé publique mondiale",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Brigade de Santé Publique Mondiale de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Global Public Health Brigade?"
+  },
+  "answer": {
+   "fr": "La Brigade de Santé Publique Mondiale de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club améliore la santé des communautés mal desservies. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Global Public Health Brigade is a club recognized by the UOSU, in the philanthropic category. The club works to improve health outcomes in underserved communities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Brigade de Santé Publique Mondiale de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Global Public Health Brigade — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-greek-council",
+  "category": "associations",
+  "keywords": [
+   "conseil grec",
+   "greek council",
+   "vie grecque",
+   "greek life",
+   "fraternités",
+   "sororités",
+   "fraternité",
+   "sorority"
+  ],
+  "question": {
+   "fr": "C'est quoi le Conseil Grec de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Greek Council?"
+  },
+  "answer": {
+   "fr": "Le Conseil Grec de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie fraternités et sororités. Le club renforce le sentiment de communauté au sein de la vie grecque sur le campus. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Greek Council is a club recognized by the UOSU, in the fraternity and sorority category. The club strengthens community and connection within Greek life on campus. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le Conseil Grec de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Greek Council — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-hosa",
+  "category": "associations",
+  "keywords": [
+   "hosa",
+   "santé",
+   "healthcare",
+   "compétition",
+   "leadership",
+   "professions de la santé",
+   "club de compétition",
+   "competition club"
+  ],
+  "question": {
+   "fr": "C'est quoi Université d'Ottawa HOSA ?",
+   "en": "What is University of Ottawa HOSA?"
+  },
+  "answer": {
+   "fr": "Université d'Ottawa HOSA est un club reconnu par le SÉUO, dans la catégorie compétitions académiques. Le club offre des ressources aux étudiants qui veulent devenir des leaders dans le domaine de la santé. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "University of Ottawa HOSA is a club recognized by the UOSU, in the competitive academic category. The club provides resources to help students become leaders in healthcare. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Université d'Ottawa HOSA — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa HOSA — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-healthcare-symposium",
+  "category": "associations",
+  "keywords": [
+   "uohs",
+   "symposium",
+   "conférence santé",
+   "health conference",
+   "santé",
+   "healthcare",
+   "healthcare symposium",
+   "conférence de santé",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Conférence de Santé de l'Université D'Ottawa ?",
+   "en": "What is the University of Ottawa Healthcare Symposium?"
+  },
+  "answer": {
+   "fr": "La Conférence de Santé de l'Université D'Ottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club organise une conférence d'une journée sur le domaine interdisciplinaire de la santé pour les étudiants de premier cycle. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Healthcare Symposium is a club recognized by the UOSU, in the academic category. The club runs a one-day undergraduate health conference on the interdisciplinary field of healthcare. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Conférence de Santé de l'Université D'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Healthcare Symposium — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-hellenic-law-uohlsa",
+  "category": "associations",
+  "keywords": [
+   "uohlsa",
+   "aéhdo",
+   "hellénique",
+   "hellenic",
+   "grec",
+   "greek",
+   "droit",
+   "hellenic law students association uohlsa",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association d'étudiant.e.s helléniques en droit d'Ottawa (AÉHDO) ?",
+   "en": "What is the University of Ottawa Hellenic Law Students Association (UOHLSA)?"
+  },
+  "answer": {
+   "fr": "L'Association d'étudiant.e.s helléniques en droit d'Ottawa (AÉHDO) est un club reconnu par le SÉUO, dans la catégorie droit. Le club fait connaître la culture et la langue grecques et l'apport de la Grèce au droit. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Hellenic Law Students Association (UOHLSA) is a club recognized by the UOSU, in the law category. The club promotes interest in Greek culture and language and Greece's contributions to law. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Association d'étudiant.e.s helléniques en droit d'Ottawa (AÉHDO) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Hellenic Law Students Association (UOHLSA) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-hong-kong-cultural",
+  "category": "associations",
+  "keywords": [
+   "uohkca",
+   "hong kong",
+   "hongkongais",
+   "cantonais",
+   "cantonese",
+   "club hong kong",
+   "hong kong cultural association",
+   "association culturelle hong kong",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association Culturelle Hong Kong de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Hong Kong Cultural Association?"
+  },
+  "answer": {
+   "fr": "L'Association Culturelle Hong Kong de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. C'est une plateforme qui fait connaître la culture de Hong Kong. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Hong Kong Cultural Association is a club recognized by the UOSU, in the cultural category. It is a non-profit platform promoting Hong Kong culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Association Culturelle Hong Kong de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Hong Kong Cultural Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-korean-uoksa",
+  "category": "associations",
+  "keywords": [
+   "uoksa",
+   "coréen",
+   "coréenne",
+   "korean",
+   "corée",
+   "korea",
+   "club coréen",
+   "k pop",
+   "korean student association uoksa",
+   "association d étudiants coréennes",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association d'Étudiants Coréennes de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Korean Student Association (UOKSA)?"
+  },
+  "answer": {
+   "fr": "L'Association d'Étudiants Coréennes de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. C'est un club culturel qui fait connaître la culture coréenne sur le campus. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Korean Student Association (UOKSA) is a club recognized by the UOSU, in the cultural category. It is a non-profit cultural club promoting Korean culture on campus. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Association d'Étudiants Coréennes de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Korean Student Association (UOKSA) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-lupus-organization",
+  "category": "associations",
+  "keywords": [
+   "lupus",
+   "uolo",
+   "maladies auto immunes",
+   "autoimmune diseases",
+   "sensibilisation",
+   "lupus organization",
+   "association lupus",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association Lupus De L'Universite D'Ottawa ?",
+   "en": "What is the University of Ottawa Lupus Organization?"
+  },
+  "answer": {
+   "fr": "L'Association Lupus De L'Universite D'Ottawa est un club reconnu par le SÉUO, dans la catégorie STIM. Le club sensibilise au lupus et aux autres maladies auto-immunes. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Lupus Organization is a club recognized by the UOSU, in the STEM category. The club raises awareness about lupus and other autoimmune diseases. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association Lupus De L'Universite D'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Lupus Organization — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-malayali-union",
+  "category": "associations",
+  "keywords": [
+   "malayali",
+   "kerala",
+   "malayalam",
+   "inde",
+   "india",
+   "club malayali",
+   "malayali student union",
+   "association des étudiants malayali",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants malayali de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Malayali Student Union?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants malayali de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club crée une communauté accueillante pour les étudiants qui s'identifient à la culture malayalie ou s'y intéressent. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Malayali Student Union is a club recognized by the UOSU, in the cultural category. The club creates a welcoming community for students who identify with or are interested in Malayali culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Association des étudiants malayali de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Malayali Student Union — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-mandarin-debate",
+  "category": "associations",
+  "keywords": [
+   "uomdc",
+   "débat mandarin",
+   "mandarin debate",
+   "mandarin",
+   "chinois",
+   "chinese",
+   "débat",
+   "mandarin debate club",
+   "club de débat mandarin",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de débat mandarin de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Mandarin Debate club?"
+  },
+  "answer": {
+   "fr": "Le Club de débat mandarin de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club perfectionne les habiletés de débat en mandarin de ses membres. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Mandarin Debate club is a club recognized by the UOSU, in the cultural category. The club helps members hone their debating skills in Mandarin. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de débat mandarin de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Mandarin Debate club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-model-united-nations",
+  "category": "associations",
+  "keywords": [
+   "uomuna",
+   "simulation des nations unies",
+   "model un",
+   "mun",
+   "nations unies",
+   "united nations",
+   "diplomatie",
+   "model united nations association",
+   "association pour la simulation des nations unies",
+   "club de compétition",
+   "competition club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association pour la Simulation des Nations Unies de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Model United Nations Association?"
+  },
+  "answer": {
+   "fr": "L'Association pour la Simulation des Nations Unies de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie compétitions académiques. Le club ouvre le monde diplomatique des Nations Unies à ses membres grâce aux simulations. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Model United Nations Association is a club recognized by the UOSU, in the competitive academic category. The club opens the diplomatic world of the United Nations to members through Model UN conferences. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association pour la Simulation des Nations Unies de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Model United Nations Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-moroccan",
+  "category": "associations",
+  "keywords": [
+   "uoma",
+   "marocain",
+   "moroccan",
+   "maroc",
+   "morocco",
+   "club marocain",
+   "moroccan association",
+   "association marocaine",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association Marocaine de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Moroccan Association?"
+  },
+  "answer": {
+   "fr": "L'Association Marocaine de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club fait la promotion de la culture, de la communauté et du patrimoine du Maroc. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Moroccan Association is a club recognized by the UOSU, in the cultural category. The club promotes the culture, community and heritage of Morocco. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Association Marocaine de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Moroccan Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-multiple-sclerosis-uomsc",
+  "category": "associations",
+  "keywords": [
+   "uomsc",
+   "cspuo",
+   "sclérose en plaques",
+   "multiple sclerosis",
+   "sep",
+   "ms",
+   "multiple sclerosis club uomsc",
+   "club de sclérose en plaques cspuo",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de sclérose en plaques de l'Université d'Ottawa (CSPUO) ?",
+   "en": "What is the University of Ottawa Multiple Sclerosis Club (UOMSC)?"
+  },
+  "answer": {
+   "fr": "Le Club de sclérose en plaques de l'Université d'Ottawa (CSPUO) est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club sensibilise à la sclérose en plaques, défend les personnes qui en sont atteintes et amasse des fonds pour la recherche locale. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Multiple Sclerosis Club (UOMSC) is a club recognized by the UOSU, in the philanthropic category. The club raises awareness of multiple sclerosis, advocates for people living with MS and raises funds for local researchers. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de sclérose en plaques de l'Université d'Ottawa (CSPUO) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Multiple Sclerosis Club (UOMSC) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-muslim",
+  "category": "associations",
+  "keywords": [
+   "msa",
+   "musulman",
+   "muslim",
+   "islam",
+   "club musulman",
+   "muslim club",
+   "prière",
+   "muslim students association",
+   "association des étudiant e s musulman e s",
+   "e",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiant(e)s musulman(e)s de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Muslim Students Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiant(e)s musulman(e)s de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. C'est un club confessionnel qui sert les étudiants musulmans, favorise l'unité et organise des activités et des prières en groupe. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Muslim Students Association is a club recognized by the UOSU, in the religious category. It is a faith-based club serving Muslim students, promoting unity and holding activities and congregational prayers. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "l'Association des étudiant(e)s musulman(e)s de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Muslim Students Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-neuroscience",
+  "category": "associations",
+  "keywords": [
+   "neurosciences",
+   "neuroscience",
+   "cerveau",
+   "brain",
+   "santé cognitive",
+   "club de neurosciences",
+   "neuroscience club",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de neurosciences de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Neuroscience Club?"
+  },
+  "answer": {
+   "fr": "Le Club de neurosciences de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie STIM. C'est une communauté pour toute personne passionnée par le cerveau, en neurosciences ou non. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Neuroscience Club is a club recognized by the UOSU, in the STEM category. It is a student community for anyone intrigued by the brain, whether or not they study neuroscience. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de neurosciences de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Neuroscience Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-new-democratic-party",
+  "category": "associations",
+  "keywords": [
+   "npd",
+   "ndp",
+   "nouveau parti démocratique",
+   "new democratic party",
+   "politique",
+   "politics",
+   "club politique",
+   "political club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Nouveau Parti Démocratique de l'Université d'Ottawa ?",
+   "en": "What is University of Ottawa New Democratic Party?"
+  },
+  "answer": {
+   "fr": "Le Nouveau Parti Démocratique de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie politique. Le club rassemble les jeunes progressistes pour promouvoir les valeurs du NPD. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "University of Ottawa New Democratic Party is a club recognized by the UOSU, in the political category. The club educates and organizes students into a progressive community promoting NDP values. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le Nouveau Parti Démocratique de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa New Democratic Party — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-notarial-law",
+  "category": "associations",
+  "keywords": [
+   "uonla",
+   "droit notarial",
+   "notarial law",
+   "notaire",
+   "notary",
+   "droit civil",
+   "notarial law association",
+   "association de droit notarial",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association de droit notarial de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Notarial Law Association?"
+  },
+  "answer": {
+   "fr": "L'Association de droit notarial de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie droit. Le club fait la promotion du droit notarial et de la profession de notaire auprès des étudiants en droit civil. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Notarial Law Association is a club recognized by the UOSU, in the law category. The club promotes notarial law and the notarial profession among civil law students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association de droit notarial de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Notarial Law Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-outdoors",
+  "category": "associations",
+  "keywords": [
+   "plein air",
+   "outdoors",
+   "randonnée",
+   "hiking",
+   "camping",
+   "canot",
+   "nature",
+   "club de plein air",
+   "outdoors club",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Plein Air de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Outdoors Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Plein Air de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club offre une communauté sûre aux amateurs de plein air pour partager leur amour de la nature. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Outdoors Club is a club recognized by the UOSU, in the recreational category. The club provides a safe community for outdoors people to share their love of nature. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Plein Air de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Outdoors Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-polish-uopsa",
+  "category": "associations",
+  "keywords": [
+   "uopsa",
+   "aepuo",
+   "polonais",
+   "polish",
+   "pologne",
+   "poland",
+   "club polonais",
+   "polish students association uopsa",
+   "association d étudiants polonais aepuo",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association d'Étudiants Polonais de l'Université d'Ottawa (AEPUO) ?",
+   "en": "What is the University of Ottawa Polish Students' Association (UOPSA)?"
+  },
+  "answer": {
+   "fr": "L'Association d'Étudiants Polonais de l'Université d'Ottawa (AEPUO) est un club reconnu par le SÉUO, dans la catégorie culture. Le club accueille tous les étudiants intéressés par la culture polonaise. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Polish Students' Association (UOPSA) is a club recognized by the UOSU, in the cultural category. The club welcomes all students interested in Polish culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association d'Étudiants Polonais de l'Université d'Ottawa (AEPUO) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Polish Students' Association (UOPSA) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-pre-law",
+  "category": "associations",
+  "keywords": [
+   "pré droit",
+   "pre law",
+   "faculté de droit",
+   "law school",
+   "lsat",
+   "carrière en droit",
+   "pre law society",
+   "société pré droit",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société Pré-Droit de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Pre-Law Society?"
+  },
+  "answer": {
+   "fr": "La Société Pré-Droit de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club aide les étudiants à en apprendre plus sur les demandes d'admission en droit et les carrières juridiques. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Pre-Law Society is a club recognized by the UOSU, in the academic category. The club helps students learn about the law school application process and law as a career. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société Pré-Droit de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Pre-Law Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-senegalese",
+  "category": "associations",
+  "keywords": [
+   "sénégalais",
+   "sénégal",
+   "senegal",
+   "senegalese",
+   "club sénégalais",
+   "afrique",
+   "senegalese student association",
+   "association des étudiants sénégalaise",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des étudiants sénégalaise de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Senegalese Student Association?"
+  },
+  "answer": {
+   "fr": "L'Association des étudiants sénégalaise de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club célèbre et fait connaître le riche patrimoine culturel du Sénégal. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Senegalese Student Association is a club recognized by the UOSU, in the cultural category. The club celebrates and promotes the rich cultural heritage of Senegal. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des étudiants sénégalaise de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Senegalese Student Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-sports-medicine",
+  "category": "associations",
+  "keywords": [
+   "uosportsmed",
+   "médecine sportive",
+   "sports medicine",
+   "blessures sportives",
+   "sports injuries",
+   "physiothérapie",
+   "sports medicine club",
+   "club de médecine sportive",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Médecine Sportive de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Sports Medicine Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Médecine Sportive de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club promeut un mode de vie sain et actif et sensibilise aux blessures liées au sport. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Sports Medicine Club is a club recognized by the UOSU, in the academic category. The club promotes a healthy, active lifestyle and raises awareness of sports-related injuries. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Médecine Sportive de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Sports Medicine Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-tennis",
+  "category": "associations",
+  "keywords": [
+   "tennis",
+   "club de tennis",
+   "tennis club",
+   "uotc",
+   "raquette",
+   "club sportif",
+   "sports club",
+   "university of ottawa tennis club",
+   "club de tennis de l université d ottawa"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Tennis de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Tennis Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Tennis de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie sports. C'est le club de tennis bilingue de l'Université, ouvert à tous les étudiants actuels. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Tennis Club is a club recognized by the UOSU, in the sports category. It is the University's bilingual tennis club, open to all current students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Tennis de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Tennis Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-theatre",
+  "category": "associations",
+  "keywords": [
+   "théâtre",
+   "theatre",
+   "theater",
+   "club de théâtre",
+   "theatre club",
+   "pièce",
+   "acting",
+   "comédie",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de théâtre de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Theatre Club?"
+  },
+  "answer": {
+   "fr": "Le Club de théâtre de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club enrichit l'expérience étudiante en offrant des occasions de faire du théâtre. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Theatre Club is a club recognized by the UOSU, in the creative category. The club enriches the student experience by offering theatre opportunities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de théâtre de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Theatre Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-triathlon",
+  "category": "associations",
+  "keywords": [
+   "triathlon",
+   "course",
+   "running",
+   "natation",
+   "swimming",
+   "vélo",
+   "club de triathlon",
+   "triathlon club",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Triathlon de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Triathlon Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Triathlon de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie sports. Le club fait la promotion du triathlon, avec des entraînements hebdomadaires en course, en natation et parfois en vélo. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Triathlon Club is a club recognized by the UOSU, in the sports category. The club promotes triathlon with weekly running, swimming and occasional cycling practices. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Triathlon de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Triathlon Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-women-s-heart-health",
+  "category": "associations",
+  "keywords": [
+   "uowhhc",
+   "santé cardiaque des femmes",
+   "women s heart health",
+   "cœur",
+   "heart",
+   "santé des femmes",
+   "women s heart health club",
+   "club de santé cardiaque des femmes",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi le club de santé cardiaque des femmes de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Women's Heart Health Club?"
+  },
+  "answer": {
+   "fr": "Le club de santé cardiaque des femmes de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club favorise le bien-être des femmes en partenariat avec l'Alliance canadienne pour la santé cardiaque des femmes. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Women's Heart Health Club is a club recognized by the UOSU, in the academic category. The club promotes women's wellbeing in partnership with the Canadian Women's Heart Health Alliance. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le club de santé cardiaque des femmes de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Women's Heart Health Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-women-s-reproductive-hormonal",
+  "category": "associations",
+  "keywords": [
+   "uowrhhc",
+   "santé reproductive",
+   "reproductive health",
+   "santé hormonale",
+   "hormonal health",
+   "santé des femmes",
+   "women s reproductive and hormonal health club",
+   "club de la santé reproductive et hormonale des femmes",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de la santé reproductive et hormonale des femmes de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa Women's Reproductive and Hormonal Health Club?"
+  },
+  "answer": {
+   "fr": "Le Club de la santé reproductive et hormonale des femmes de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie STIM. Le club sensibilise aux problèmes courants de santé reproductive et hormonale chez les femmes. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The University of Ottawa Women's Reproductive and Hormonal Health Club is a club recognized by the UOSU, in the STEM category. The club raises awareness of common reproductive and endocrine conditions affecting women. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de la santé reproductive et hormonale des femmes de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Women's Reproductive and Hormonal Health Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-young-liberals",
+  "category": "associations",
+  "keywords": [
+   "jeunes libéraux",
+   "young liberals",
+   "parti libéral",
+   "liberal party",
+   "politique",
+   "politics",
+   "les jeunes libéraux",
+   "club politique",
+   "political club"
+  ],
+  "question": {
+   "fr": "C'est quoi les Jeunes Libéraux d'uOttawa ?",
+   "en": "What is University of Ottawa Young Liberals?"
+  },
+  "answer": {
+   "fr": "Les Jeunes Libéraux d'uOttawa est un club reconnu par le SÉUO, dans la catégorie politique. Le club fait découvrir la politique et les idées libérales aux étudiants par des événements, des ateliers et des conférenciers. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "University of Ottawa Young Liberals is a club recognized by the UOSU, in the political category. The club introduces students to politics and liberal ideas through events, workshops and guest speakers. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Les Jeunes Libéraux d'uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa Young Liberals — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-for-campfire-circle",
+  "category": "associations",
+  "keywords": [
+   "campfire circle",
+   "autour du feu",
+   "cancer",
+   "enfants",
+   "children",
+   "camp",
+   "for campfire circle",
+   "pour autour du feu",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Université d'Ottawa pour Autour du Feu ?",
+   "en": "What is University of Ottawa for Campfire Circle?"
+  },
+  "answer": {
+   "fr": "Université d'Ottawa pour Autour du Feu est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient Autour du Feu (Campfire Circle), un organisme qui offre des expériences joyeuses aux enfants atteints de cancer. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "University of Ottawa for Campfire Circle is a club recognized by the UOSU, in the philanthropic category. The club supports Campfire Circle, a non-profit that delivers healing through happiness to children affected by cancer. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Université d'Ottawa pour Autour du Feu — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "University of Ottawa for Campfire Circle — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uobrews",
+  "category": "associations",
+  "keywords": [
+   "uobrews",
+   "café",
+   "coffee",
+   "thé",
+   "tea",
+   "boissons",
+   "beverages",
+   "uobrassage",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi UoBrassage ?",
+   "en": "What is UoBrews?"
+  },
+  "answer": {
+   "fr": "UoBrassage est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club rassemble les étudiants passionnés de café, de thé et de toutes sortes de boissons. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "UoBrews is a club recognized by the UOSU, in the recreational category. The club brings students together through a shared passion for coffee, tea and all kinds of beverages. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "UoBrassage — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "UoBrews — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-pre-optometry",
+  "category": "associations",
+  "keywords": [
+   "pré optométrie",
+   "pre optometry",
+   "optométrie",
+   "optometry",
+   "vision",
+   "yeux",
+   "pre optometry club",
+   "club de pré optométrie",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de pré-optométrie d'Uottawa ?",
+   "en": "What is the Uottawa Pre-Optometry Club?"
+  },
+  "answer": {
+   "fr": "Le Club de pré-optométrie d'Uottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club fait découvrir l'optométrie et les sciences de la vision. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Uottawa Pre-Optometry Club is a club recognized by the UOSU, in the academic category. The club helps students explore optometry and vision science. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de pré-optométrie d'Uottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Uottawa Pre-Optometry Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-vietnamese-aevsa",
+  "category": "associations",
+  "keywords": [
+   "aévsa",
+   "vietnamien",
+   "vietnamese",
+   "vietnam",
+   "club vietnamien",
+   "vietnamese student association aévsa",
+   "association d étudiant e s vietnamien ne s aévsa",
+   "e",
+   "ne",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'association d'étudiant(e)s vietnamien(ne)s (AéVSA) ?",
+   "en": "What is the Vietnamese Student Association (AéVSA)?"
+  },
+  "answer": {
+   "fr": "L'association d'étudiant(e)s vietnamien(ne)s (AéVSA) est un club reconnu par le SÉUO, dans la catégorie culture. Le club rassemble les étudiants vietnamiens canadiens pour partager et redécouvrir leur culture. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Vietnamese Student Association (AéVSA) is a club recognized by the UOSU, in the cultural category. The club brings Vietnamese Canadian students together to share and reconnect with their culture. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'association d'étudiant(e)s vietnamien(ne)s (AéVSA) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Vietnamese Student Association (AéVSA) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-volunteer-alliance-with-cheo",
+  "category": "associations",
+  "keywords": [
+   "vacf",
+   "cheo",
+   "fondation cheo",
+   "cheo foundation",
+   "bénévolat",
+   "volunteering",
+   "hôpital pour enfants",
+   "volunteer alliance with the cheo foundation",
+   "alliance de bénévoles avec la fondation cheo",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Alliance de bénévoles avec la Fondation CHEO ?",
+   "en": "What is the Volunteer Alliance with the CHEO Foundation?"
+  },
+  "answer": {
+   "fr": "L'Alliance de bénévoles avec la Fondation CHEO est un club reconnu par le SÉUO, dans la catégorie arts et création. C'est un club de bénévoles qui soutient la Fondation CHEO. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Volunteer Alliance with the CHEO Foundation is a club recognized by the UOSU, in the creative category. It is a student-led volunteer club supporting the CHEO Foundation. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Alliance de bénévoles avec la Fondation CHEO — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Volunteer Alliance with the CHEO Foundation — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-wiis",
+  "category": "associations",
+  "keywords": [
+   "wiis",
+   "women in international security",
+   "sécurité internationale",
+   "international security",
+   "femmes",
+   "politique",
+   "club politique",
+   "political club"
+  ],
+  "question": {
+   "fr": "C'est quoi WIIS uOttawa ?",
+   "en": "What is WIIS uOttawa?"
+  },
+  "answer": {
+   "fr": "WIIS uOttawa est un club reconnu par le SÉUO, dans la catégorie politique. C'est la section universitaire de WIIS Canada (Women in International Security), un organisme non partisan. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "WIIS uOttawa is a club recognized by the UOSU, in the political category. It is the uOttawa chapter of WIIS Canada (Women in International Security), a non-partisan non-profit. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "WIIS uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "WIIS uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-wargaming-roleplaying",
+  "category": "associations",
+  "keywords": [
+   "wars",
+   "jeux de rôle",
+   "roleplaying",
+   "donjons et dragons",
+   "dungeons and dragons",
+   "d d",
+   "wargaming",
+   "warhammer",
+   "wargaming and roleplaying society",
+   "société des jeux de rôle et de guerre",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi la société des jeux de rôle et de guerre ?",
+   "en": "What is the Wargaming and Roleplaying Society?"
+  },
+  "answer": {
+   "fr": "La société des jeux de rôle et de guerre est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club invite à jouer à des jeux de rôle sur table et à des jeux de guerre. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Wargaming and Roleplaying Society is a club recognized by the UOSU, in the recreational category. The club invites people to play tabletop roleplaying games and wargames. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "La société des jeux de rôle et de guerre — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Wargaming and Roleplaying Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-we-sport",
+  "category": "associations",
+  "keywords": [
+   "we sport",
+   "oui sport",
+   "sport féminin",
+   "women s sports",
+   "femmes",
+   "sport",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi Oui sport ?",
+   "en": "What is We sport?"
+  },
+  "answer": {
+   "fr": "Oui sport est un club reconnu par le SÉUO, dans la catégorie sports. C'est un club de sports réservé aux femmes qui offre une variété d'activités sportives avec encadrement. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "We sport is a club recognized by the UOSU, in the sports category. It is a women-only sports club offering a wide range of coached activities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Oui sport — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "We sport — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-women-in-management-network",
+  "category": "associations",
+  "keywords": [
+   "women in management",
+   "femmes en gestion",
+   "équité",
+   "gender equity",
+   "leadership",
+   "telfer",
+   "women in management network",
+   "réseau des femmes en gestion",
+   "club telfer",
+   "telfer club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Réseau des femmes en gestion ?",
+   "en": "What is the Women In Management Network?"
+  },
+  "answer": {
+   "fr": "Le Réseau des femmes en gestion est un club reconnu par le SÉUO, dans la catégorie Telfer (gestion). Le club milite pour l'équité entre les genres en gestion. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Women In Management Network is a club recognized by the UOSU, in the Telfer category. The club works toward gender equity through collaboration between community leaders and students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Réseau des femmes en gestion — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Women In Management Network — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-women-in-house",
+  "category": "associations",
+  "keywords": [
+   "women in house",
+   "femmes au parlement",
+   "politique",
+   "politics",
+   "parlement",
+   "parliament",
+   "club politique",
+   "political club"
+  ],
+  "question": {
+   "fr": "C'est quoi Femmes au Parlement ?",
+   "en": "What is Women in House?"
+  },
+  "answer": {
+   "fr": "Femmes au Parlement est un club reconnu par le SÉUO, dans la catégorie politique. Le club fait la promotion de la participation des femmes à la politique fédérale canadienne. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Women in House is a club recognized by the UOSU, in the political category. The club promotes the participation and representation of women in Canadian federal politics. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Femmes au Parlement — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Women in House — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-women-s-legal-education",
+  "category": "associations",
+  "keywords": [
+   "leaf",
+   "faej",
+   "égalité",
+   "equality",
+   "droits des femmes",
+   "women s rights",
+   "droit",
+   "women s legal education et action fund",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Fonds D'action et d'éducation d'action juridique pour les femmes ?",
+   "en": "What is the Women's Legal Education & Action Fund?"
+  },
+  "answer": {
+   "fr": "Le Fonds D'action et d'éducation d'action juridique pour les femmes est un club reconnu par le SÉUO, dans la catégorie droit. C'est la section d'Ottawa du FAEJ (LEAF), qui fait progresser l'égalité des femmes, des filles et des personnes trans et non binaires. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Women's Legal Education & Action Fund is a club recognized by the UOSU, in the law category. It is the Ottawa branch of LEAF, advancing the equality of women, girls, and trans and non-binary people. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Fonds D'action et d'éducation d'action juridique pour les femmes — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Women's Legal Education & Action Fund — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-women-s-self-care",
+  "category": "associations",
+  "keywords": [
+   "soins personnels",
+   "self care",
+   "bien être",
+   "wellness",
+   "femmes",
+   "women",
+   "women s self care club",
+   "club de bien être pour femmes",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de bien-être pour femmes ?",
+   "en": "What is the Women's Self Care Club?"
+  },
+  "answer": {
+   "fr": "Le Club de bien-être pour femmes est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club valorise les soins personnels pour aider les femmes à trouver bien-être et équilibre, avec des conférenciers et des ateliers. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Women's Self Care Club is a club recognized by the UOSU, in the creative category. The club promotes self-care to help women maintain well-being and balance, through guest speakers and workshops. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de bien-être pour femmes — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Women's Self Care Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-women-s-health-research",
+  "category": "associations",
+  "keywords": [
+   "whrc",
+   "santé des femmes",
+   "women s health",
+   "recherche",
+   "research",
+   "women s health research collective",
+   "collectif de recherche en santé des femmes",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Collectif de recherche en santé des femmes ?",
+   "en": "What is the Women's Health Research Collective?"
+  },
+  "answer": {
+   "fr": "Le Collectif de recherche en santé des femmes est un club reconnu par le SÉUO, dans la catégorie STIM. Le club fait le pont entre la recherche en santé des femmes et le public. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Women's Health Research Collective is a club recognized by the UOSU, in the STEM category. The club bridges the gap between women's health research and the public. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Collectif de recherche en santé des femmes — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Women's Health Research Collective — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-world-shakers",
+  "category": "associations",
+  "keywords": [
+   "world shakers",
+   "impact monde",
+   "club chrétien",
+   "christian club",
+   "foi",
+   "faith",
+   "club religieux",
+   "faith club"
+  ],
+  "question": {
+   "fr": "C'est quoi Impact Monde ?",
+   "en": "What is World Shakers?"
+  },
+  "answer": {
+   "fr": "Impact Monde est un club reconnu par le SÉUO, dans la catégorie foi et spiritualité. C'est un mouvement chrétien étudiant multiculturel et bilingue. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "World Shakers is a club recognized by the UOSU, in the religious category. It is a multicultural, bilingual Christian student movement. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Impact Monde — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "World Shakers — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-x-vision",
+  "category": "associations",
+  "keywords": [
+   "x vision",
+   "cinéma",
+   "film",
+   "vidéo",
+   "scénario",
+   "screenwriting",
+   "production",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi X.Vision ?",
+   "en": "What is X.Vision?"
+  },
+  "answer": {
+   "fr": "X.Vision est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club offre un espace pour créer sérieusement aux étudiants qui écrivent, filment et imaginent. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "X.Vision is a club recognized by the UOSU, in the creative category. The club gives students who write, film and imagine a space to create seriously. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "X.Vision — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "X.Vision — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-young-communist-league",
+  "category": "associations",
+  "keywords": [
+   "ycl",
+   "jeunesse communiste",
+   "young communist",
+   "communisme",
+   "communism",
+   "politique",
+   "young communist league",
+   "ligue de la jeune communiste",
+   "club politique",
+   "political club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Ligue de la Jeune Communiste uOttawa ?",
+   "en": "What is the Young Communist League uOttawa?"
+  },
+  "answer": {
+   "fr": "La Ligue de la Jeune Communiste uOttawa est un club reconnu par le SÉUO, dans la catégorie politique. C'est la section universitaire de la Ligue de la jeunesse communiste, une organisation politique fondée en 1922. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Young Communist League uOttawa is a club recognized by the UOSU, in the political category. It is the uOttawa chapter of the Young Communist League, a political organization founded in 1922. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Ligue de la Jeune Communiste uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Young Communist League uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-youth-health-literacy",
+  "category": "associations",
+  "keywords": [
+   "littératie en santé",
+   "health literacy",
+   "santé",
+   "jeunes",
+   "youth",
+   "enfants",
+   "youth health literacy",
+   "littératie en santé chez les jeunes",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi Littératie en Santé chez les Jeunes uOttawa ?",
+   "en": "What is Youth Health Literacy uOttawa?"
+  },
+  "answer": {
+   "fr": "Littératie en Santé chez les Jeunes uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club améliore la littératie en santé des enfants et des jeunes de la région d'Ottawa. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Youth Health Literacy uOttawa is a club recognized by the UOSU, in the philanthropic category. The club improves health literacy among children and youth in the Ottawa region. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Littératie en Santé chez les Jeunes uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Youth Health Literacy uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-youth-professionals-against-childhood",
+  "category": "associations",
+  "keywords": [
+   "ypacc",
+   "cancer infantile",
+   "childhood cancer",
+   "cancer",
+   "enfants",
+   "children",
+   "youth professionals against childhood cancer ypacc chapter",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Chapitre de Jeunes professionnels contre le cancer infantile (YPACC) à uOttawa ?",
+   "en": "What is the Youth Professionals Against Childhood Cancer (YPACC) uOttawa Chapter?"
+  },
+  "answer": {
+   "fr": "Le Chapitre de Jeunes professionnels contre le cancer infantile (YPACC) à uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. C'est une section de Jeunes professionnels contre le cancer infantile, une initiative de Cancer de l'enfance Canada. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Youth Professionals Against Childhood Cancer (YPACC) uOttawa Chapter is a club recognized by the UOSU, in the philanthropic category. It is a chapter of Youth Professionals Against Childhood Cancer, an initiative of Childhood Cancer Canada. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Chapitre de Jeunes professionnels contre le cancer infantile (YPACC) à uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Youth Professionals Against Childhood Cancer (YPACC) uOttawa Chapter — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-youth-public-health-collaborative",
+  "category": "associations",
+  "keywords": [
+   "yphc",
+   "santé publique",
+   "public health",
+   "jeunes",
+   "youth",
+   "santé",
+   "youth public health collaborative",
+   "collaboratif de santé publique des jeunes",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi Collaboratif de Santé Publique des Jeunes ?",
+   "en": "What is the Youth Public Health Collaborative?"
+  },
+  "answer": {
+   "fr": "Collaboratif de Santé Publique des Jeunes est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club sensibilise aux problèmes de santé méconnus et négligés. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The Youth Public Health Collaborative is a club recognized by the UOSU, in the academic category. The club raises awareness of underrepresented and neglected health conditions. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Collaboratif de Santé Publique des Jeunes — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Youth Public Health Collaborative — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-zeta-theta-xi",
+  "category": "associations",
+  "keywords": [
+   "zeta theta xi",
+   "sororité",
+   "sorority",
+   "vie grecque",
+   "greek life",
+   "fraternité",
+   "zeta theta xi uottawa",
+   "club zeta theta xi"
+  ],
+  "question": {
+   "fr": "C'est quoi Zeta Theta Xi ?",
+   "en": "What is Zeta Theta Xi?"
+  },
+  "answer": {
+   "fr": "Zeta Theta Xi est un club reconnu par le SÉUO, dans la catégorie fraternités et sororités. C'est une sororité locale fondée sur la sororité, la philanthropie, les études et le développement social. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "Zeta Theta Xi is a club recognized by the UOSU, in the fraternity and sorority category. It is a local sorority founded on sisterhood, philanthropy, academics and social development. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Zeta Theta Xi — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "Zeta Theta Xi — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-igem",
+  "category": "associations",
+  "keywords": [
+   "igem",
+   "biologie synthétique",
+   "synthetic biology",
+   "génie génétique",
+   "genetic engineering",
+   "compétition",
+   "club de compétition",
+   "competition club"
+  ],
+  "question": {
+   "fr": "C'est quoi iGem uOttawa ?",
+   "en": "What is iGem uOttawa?"
+  },
+  "answer": {
+   "fr": "iGem uOttawa est un club reconnu par le SÉUO, dans la catégorie compétitions académiques. Le club donne une expérience de recherche en biologie synthétique dans le cadre de la compétition internationale iGEM. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "iGem uOttawa is a club recognized by the UOSU, in the competitive academic category. The club provides research experience through iGEM, the International Genetically Engineered Machine competition. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "iGem uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "iGem uOttawa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-betterhope-uobh",
+  "category": "associations",
+  "keywords": [
+   "uobh",
+   "betterhope",
+   "meilleur espoir",
+   "pauvreté",
+   "poverty",
+   "itinérance",
+   "philanthropie",
+   "betterhope club uobh",
+   "club meilleurespoir uome",
+   "uome",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi uO Club MeilleurEspoir (uOME) ?",
+   "en": "What is the uO BetterHope Club (uOBH)?"
+  },
+  "answer": {
+   "fr": "uO Club MeilleurEspoir (uOME) est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club soutient les communautés vulnérables et s'attaque à des enjeux comme la pauvreté, l'itinérance et l'accès aux besoins de base. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uO BetterHope Club (uOBH) is a club recognized by the UOSU, in the philanthropic category. The club supports vulnerable communities and tackles issues such as poverty, homelessness and access to basic necessities. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uO Club MeilleurEspoir (uOME) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uO BetterHope Club (uOBH) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-health-for-all",
+  "category": "associations",
+  "keywords": [
+   "uo hfa",
+   "santé pour tous",
+   "health for all",
+   "santé",
+   "health",
+   "mieux être",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi uO Santé Pour Tous ?",
+   "en": "What is uO Health For All?"
+  },
+  "answer": {
+   "fr": "uO Santé Pour Tous est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club améliore la santé globale des étudiants de l'Université. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uO Health For All is a club recognized by the UOSU, in the philanthropic category. It is dedicated to improving students' holistic health. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uO Santé Pour Tous — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uO Health For All — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-plant",
+  "category": "associations",
+  "keywords": [
+   "uopc",
+   "plantes",
+   "plants",
+   "jardinage",
+   "gardening",
+   "botanique",
+   "club de plantes",
+   "plant club",
+   "club de plantes de l",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de plantes de l'UO ?",
+   "en": "What is the uO Plant Club?"
+  },
+  "answer": {
+   "fr": "Le Club de plantes de l'UO est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club rassemble les amateurs de plantes et le goût du plein air. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uO Plant Club is a club recognized by the UOSU, in the recreational category. It is a group of plant enthusiasts nurturing a passion for the outdoors. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de plantes de l'UO — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uO Plant Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uoglow",
+  "category": "associations",
+  "keywords": [
+   "uoglow",
+   "maquillage",
+   "makeup",
+   "soins de la peau",
+   "skincare",
+   "beauté",
+   "beauty",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOGlow ?",
+   "en": "What is uOGlow?"
+  },
+  "answer": {
+   "fr": "uOGlow est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club utilise le maquillage et les soins de la peau pour renforcer la confiance des femmes. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOGlow is a club recognized by the UOSU, in the philanthropic category. The club uses make-up and skincare to empower women and boost their confidence. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOGlow — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOGlow — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uophilanthropy",
+  "category": "associations",
+  "keywords": [
+   "uophilanthropie",
+   "uophilanthropy",
+   "philanthropie",
+   "philanthropy",
+   "développement personnel",
+   "entraide",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOPhilanthropie ?",
+   "en": "What is uOPhilanthropy?"
+  },
+  "answer": {
+   "fr": "uOPhilanthropie est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club fait la promotion du bien-être et de l'entraide par le développement personnel et la philanthropie. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOPhilanthropy is a club recognized by the UOSU, in the philanthropic category. The club promotes well-being and mutual support through self-development and philanthropy. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOPhilanthropie — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOPhilanthropy — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uopoetry",
+  "category": "associations",
+  "keywords": [
+   "poésie",
+   "poetry",
+   "club de poésie",
+   "poetry club",
+   "slam",
+   "écriture",
+   "uopoetry",
+   "uopoésie",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOPoésie ?",
+   "en": "What is uOPoetry?"
+  },
+  "answer": {
+   "fr": "uOPoésie est un club reconnu par le SÉUO, dans la catégorie arts et création. C'est le premier club de poésie de l'Université, pour les lecteurs et les auteurs de poésie. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOPoetry is a club recognized by the UOSU, in the creative category. It is uOttawa's first-ever poetry club, for readers and writers of poetry. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOPoésie — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOPoetry — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uopride",
+  "category": "associations",
+  "keywords": [
+   "uopride",
+   "uofierté",
+   "fierté",
+   "pride",
+   "lgbtq",
+   "2slgbtq",
+   "queer",
+   "alliance",
+   "uopride club",
+   "club uofierté",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le club uOFierté ?",
+   "en": "What is the uOPride Club?"
+  },
+  "answer": {
+   "fr": "Le club uOFierté est un club reconnu par le SÉUO, dans la catégorie loisirs. C'est l'alliance genre-sexualité de l'Université. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOPride Club is a club recognized by the UOSU, in the recreational category. It is uOttawa's own gender-sexuality alliance. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le club uOFierté — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOPride Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uorocketry",
+  "category": "associations",
+  "keywords": [
+   "fusée",
+   "rocket",
+   "rocketry",
+   "aérospatiale",
+   "aerospace",
+   "génie",
+   "engineering",
+   "club de fusées",
+   "uorocketry",
+   "club de compétition",
+   "competition club"
+  ],
+  "question": {
+   "fr": "C'est quoi uORocketry ?",
+   "en": "What is uORocketry?"
+  },
+  "answer": {
+   "fr": "uORocketry est un club reconnu par le SÉUO, dans la catégorie compétitions académiques. Le club conçoit, construit et lance des fusées et participe à des compétitions internationales. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uORocketry is a club recognized by the UOSU, in the competitive academic category. The club designs, builds and flies rockets and competes internationally, including at Spaceport America. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uORocketry — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uORocketry — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uourbanism",
+  "category": "associations",
+  "keywords": [
+   "urbanisme",
+   "urbanism",
+   "ville",
+   "city",
+   "transport",
+   "aménagement urbain",
+   "urban planning",
+   "uourbanism",
+   "urbanismeuo",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi UrbanismeuO ?",
+   "en": "What is uOUrbanism?"
+  },
+  "answer": {
+   "fr": "UrbanismeuO est un club reconnu par le SÉUO, dans la catégorie culture. Le club rassemble les personnes qui veulent améliorer la ville, le quartier et la région de la capitale nationale. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOUrbanism is a club recognized by the UOSU, in the cultural category. It is an urbanist club for anyone who wants to improve the city, the neighbourhood and the National Capital Region. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "UrbanismeuO — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOUrbanism — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uottarun",
+  "category": "associations",
+  "keywords": [
+   "course",
+   "course à pied",
+   "running",
+   "club de course",
+   "running club",
+   "jogging",
+   "uottacours",
+   "uottarun",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOttaCours ?",
+   "en": "What is uOttaRun?"
+  },
+  "answer": {
+   "fr": "uOttaCours est un club reconnu par le SÉUO, dans la catégorie sports. Le club rend la course à pied sociale, accueillante et inclusive pour tous. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttaRun is a club recognized by the UOSU, in the sports category. The club makes running social, welcoming and inclusive for all students. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOttaCours — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttaRun — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-african-fashion-design",
+  "category": "associations",
+  "keywords": [
+   "mode africaine",
+   "african fashion",
+   "design",
+   "mode",
+   "fashion",
+   "défilé",
+   "fashion show",
+   "african fashion et design club",
+   "club de mode et design",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de mode & design de l'université d'Ottawa ?",
+   "en": "What is the uOttawa African Fashion & Design Club?"
+  },
+  "answer": {
+   "fr": "Le Club de mode & design de l'université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club fait rayonner la culture et le design africains à travers la mode, avec des défilés et des ateliers créatifs. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa African Fashion & Design Club is a club recognized by the UOSU, in the creative category. The club promotes African culture and design through fashion, with fashion shows and creative workshops. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de mode & design de l'université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa African Fashion & Design Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-anime",
+  "category": "associations",
+  "keywords": [
+   "anime",
+   "animé",
+   "manga",
+   "club d anime",
+   "anime club",
+   "japon",
+   "uoanime",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOttawa Anime Club ?",
+   "en": "What is the uOttawa Anime Club?"
+  },
+  "answer": {
+   "fr": "uOttawa Anime Club est un club reconnu par le SÉUO, dans la catégorie loisirs. C'est le club d'anime de l'Université, avec des projections, des rencontres et des soirées de jeux. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Anime Club is a club recognized by the UOSU, in the recreational category. It is uOttawa's anime club, with screenings, meet-ups and game nights. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOttawa Anime Club — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Anime Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-bioethics",
+  "category": "associations",
+  "keywords": [
+   "bioéthique",
+   "bioethics",
+   "éthique",
+   "ethics",
+   "santé",
+   "healthcare",
+   "bioethics association",
+   "association de bioéthique",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association de bioéthique uOttawa ?",
+   "en": "What is the uOttawa Bioethics Association?"
+  },
+  "answer": {
+   "fr": "L'Association de bioéthique uOttawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club explore les défis éthiques en santé par la discussion et la recherche. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Bioethics Association is a club recognized by the UOSU, in the academic category. The club explores ethical challenges in healthcare through discussion and research. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association de bioéthique uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Bioethics Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-board-game",
+  "category": "associations",
+  "keywords": [
+   "jeux de société",
+   "board games",
+   "club de jeux de société",
+   "board game club",
+   "jeux",
+   "games",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de jeux de société d'uOttawa ?",
+   "en": "What is the uOttawa Board Game Club?"
+  },
+  "answer": {
+   "fr": "Le Club de jeux de société d'uOttawa est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club organise souvent des soirées de jeux de société ouvertes à tous. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Board Game Club is a club recognized by the UOSU, in the recreational category. The club hosts frequent board game nights open to everyone. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de jeux de société d'uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Board Game Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-concert-band",
+  "category": "associations",
+  "keywords": [
+   "harmonie",
+   "concert band",
+   "orchestre à vents",
+   "wind ensemble",
+   "musique",
+   "music",
+   "instruments",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Orchestre à Vents de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa Concert Band?"
+  },
+  "answer": {
+   "fr": "L'Orchestre à Vents de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club permet aux membres de pratiquer la musique, d'apprendre de nouveaux instruments et de jouer ensemble. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Concert Band is a club recognized by the UOSU, in the creative category. It is a space to practise music, learn new instruments and techniques and play pieces together. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "l'Orchestre à Vents de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Concert Band — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-cooking",
+  "category": "associations",
+  "keywords": [
+   "cuisine",
+   "cooking",
+   "club de cuisine",
+   "cooking club",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Cuisine d'uOttawa ?",
+   "en": "What is the uOttawa Cooking Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Cuisine d'uOttawa est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club rassemble les étudiants autour de la cuisine et de la découverte des cuisines du monde. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Cooking Club is a club recognized by the UOSU, in the recreational category. The club brings students together through cooking and discovering new cultural cuisines. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Cuisine d'uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Cooking Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-dance",
+  "category": "associations",
+  "keywords": [
+   "danse",
+   "dance",
+   "club de danse",
+   "dance club",
+   "chorégraphie",
+   "hip hop",
+   "club de danse de l",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Danse de l'uOttawa ?",
+   "en": "What is the uOttawa Dance Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Danse de l'uOttawa est un club reconnu par le SÉUO, dans la catégorie arts et création. Le club offre un exutoire créatif pour danser ensemble dans un cadre non compétitif. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Dance Club is a club recognized by the UOSU, in the creative category. The club provides a creative outlet for students to dance together in a non-competitive environment. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Danse de l'uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Dance Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-deep-work-study",
+  "category": "associations",
+  "keywords": [
+   "deep work",
+   "étude",
+   "study",
+   "travail concentré",
+   "productivité",
+   "productivity",
+   "groupe d étude",
+   "deep work and study club",
+   "club d étude et de travail appliqué",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club d'étude et de travail appliqué de l'université d'Ottawa ?",
+   "en": "What is the uOttawa Deep Work and Study Club?"
+  },
+  "answer": {
+   "fr": "Le Club d'étude et de travail appliqué de l'université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club aide les étudiants à mieux étudier pour maximiser leurs résultats. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Deep Work and Study Club is a club recognized by the UOSU, in the academic category. The club aims to give students the best possible study experience to maximize results. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club d'étude et de travail appliqué de l'université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Deep Work and Study Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-engiqueers",
+  "category": "associations",
+  "keywords": [
+   "engiqueers",
+   "lgbtq",
+   "2slgbtq",
+   "queer",
+   "génie",
+   "engineering",
+   "stim",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOttawa EngiQueers ?",
+   "en": "What is uOttawa EngiQueers?"
+  },
+  "answer": {
+   "fr": "uOttawa EngiQueers est un club reconnu par le SÉUO, dans la catégorie loisirs. C'est un groupe social et de défense des droits pour les personnes 2SLGBTQ+ en STIM, surtout en génie. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttawa EngiQueers is a club recognized by the UOSU, in the recreational category. It is a social and advocacy group for the 2SLGBTQ+ community in STEM, especially engineering. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOttawa EngiQueers — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa EngiQueers — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-esports",
+  "category": "associations",
+  "keywords": [
+   "esports",
+   "sports électroniques",
+   "jeux vidéo",
+   "video games",
+   "gaming",
+   "gamers",
+   "club de jeux vidéo",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOttawa Esports ?",
+   "en": "What is uOttawa Esports?"
+  },
+  "answer": {
+   "fr": "uOttawa Esports est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club offre un espace accueillant aux joueurs de jeux vidéo de tous niveaux et soutient des équipes compétitives. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttawa Esports is a club recognized by the UOSU, in the recreational category. The club offers gamers of all levels a welcoming space and supports competitive teams. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOttawa Esports — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Esports — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-foss",
+  "category": "associations",
+  "keywords": [
+   "foss",
+   "logiciel libre",
+   "open source",
+   "linux",
+   "programmation",
+   "cybersécurité",
+   "foss club",
+   "club de foss de l",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de FOSS de l'uOttawa ?",
+   "en": "What is the uOttawa FOSS Club?"
+  },
+  "answer": {
+   "fr": "Le Club de FOSS de l'uOttawa est un club reconnu par le SÉUO, dans la catégorie STIM. Le club se consacre aux logiciels libres et ouverts, à l'architecture des systèmes et à la sécurité. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa FOSS Club is a club recognized by the UOSU, in the STEM category. It is dedicated to free and open source software, systems architecture and security. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de FOSS de l'uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa FOSS Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-future-family-physicians",
+  "category": "associations",
+  "keywords": [
+   "ffp",
+   "médecine familiale",
+   "family medicine",
+   "médecin de famille",
+   "family physician",
+   "médecine",
+   "future family physicians",
+   "futurs médecins de famille",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi Futurs médecins de famille de l'Université d'Ottawa ?",
+   "en": "What is uOttawa Future Family Physicians?"
+  },
+  "answer": {
+   "fr": "Futurs médecins de famille de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie STIM. Le club fait la promotion de la médecine familiale. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttawa Future Family Physicians is a club recognized by the UOSU, in the STEM category. The club promotes family medicine and inspires future family physicians. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Futurs médecins de famille de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Future Family Physicians — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-geegees-fencing",
+  "category": "associations",
+  "keywords": [
+   "escrime",
+   "fencing",
+   "club d escrime",
+   "fencing club",
+   "épée",
+   "fleuret",
+   "sabre",
+   "gee gees",
+   "geegees fencing",
+   "geegees escrime",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOttawa GeeGees Escrime ?",
+   "en": "What is uOttawa GeeGees Fencing?"
+  },
+  "answer": {
+   "fr": "uOttawa GeeGees Escrime est un club reconnu par le SÉUO, dans la catégorie sport et activité physique. Le club fait la promotion du sport de l'escrime à l'Université et favorise sa croissance. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttawa GeeGees Fencing is a club recognized by the UOSU, in the athletic category. The club promotes, facilitates and grows the sport of fencing at the University of Ottawa. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOttawa GeeGees Escrime — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa GeeGees Fencing — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-german",
+  "category": "associations",
+  "keywords": [
+   "allemand",
+   "german",
+   "allemagne",
+   "germany",
+   "club allemand",
+   "german club",
+   "langue allemande",
+   "club allemand de",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club Allemand de uOttawa ?",
+   "en": "What is the uOttawa German Club?"
+  },
+  "answer": {
+   "fr": "Le Club Allemand de uOttawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club célèbre la culture, la langue et les médias allemands. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa German Club is a club recognized by the UOSU, in the cultural category. The club celebrates German culture, language and media. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club Allemand de uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa German Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-health-fitness",
+  "category": "associations",
+  "keywords": [
+   "santé et forme",
+   "health and fitness",
+   "fitness",
+   "mode de vie sain",
+   "healthy lifestyle",
+   "activité physique",
+   "health et fitness society",
+   "société de santé et athlétisme",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société de santé et Athlétisme de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa Health & Fitness Society?"
+  },
+  "answer": {
+   "fr": "La Société de santé et Athlétisme de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie sports. Le club sensibilise à l'importance d'un mode de vie sain et encourage l'activité physique. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Health & Fitness Society is a club recognized by the UOSU, in the sports category. The club raises awareness about healthy living and gives students a platform to stay active. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société de santé et Athlétisme de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Health & Fitness Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-healthtech-collective",
+  "category": "associations",
+  "keywords": [
+   "healthtech",
+   "santétech",
+   "technologie de la santé",
+   "health technology",
+   "génie biomédical",
+   "innovation",
+   "healthtech collective",
+   "collectif santétech",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Collectif SantéTech uOttawa ?",
+   "en": "What is the uOttawa HealthTech Collective?"
+  },
+  "answer": {
+   "fr": "Le Collectif SantéTech uOttawa est un club reconnu par le SÉUO, dans la catégorie STIM. Le club conçoit des solutions concrètes à des besoins non comblés en santé. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa HealthTech Collective is a club recognized by the UOSU, in the STEM category. The club engineers practical, scalable solutions for unaddressed healthcare needs. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Collectif SantéTech uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa HealthTech Collective — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-heart-2-heart",
+  "category": "associations",
+  "keywords": [
+   "heart 2 heart",
+   "santé mondiale",
+   "global health",
+   "tutorat",
+   "tutoring",
+   "club caritatif",
+   "charity club",
+   "uottawa heart 2 heart",
+   "heart 2 heart uottawa"
+  ],
+  "question": {
+   "fr": "C'est quoi Heart 2 Heart uOttawa ?",
+   "en": "What is uOttawa Heart 2 Heart?"
+  },
+  "answer": {
+   "fr": "Heart 2 Heart uOttawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club allie soutien scolaire et défense de la santé mondiale. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttawa Heart 2 Heart is a club recognized by the UOSU, in the philanthropic category. The club bridges academic support with global health advocacy. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Heart 2 Heart uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Heart 2 Heart — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-inflammatory-bowel-disease-uoibd",
+  "category": "associations",
+  "keywords": [
+   "uoibd",
+   "uomii",
+   "maladie de crohn",
+   "crohn s",
+   "colite",
+   "colitis",
+   "mii",
+   "ibd",
+   "inflammatory bowel disease club uoibd",
+   "club des maladies inflammatoires de l intestin uomii",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club des maladies inflammatoires de l'intestin de l'Université d'Ottawa UOMII ?",
+   "en": "What is the uOttawa Inflammatory Bowel Disease Club (UOIBD)?"
+  },
+  "answer": {
+   "fr": "Le Club des maladies inflammatoires de l'intestin de l'Université d'Ottawa UOMII est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club défend les personnes atteintes de maladies inflammatoires de l'intestin. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Inflammatory Bowel Disease Club (UOIBD) is a club recognized by the UOSU, in the philanthropic category. The club advocates for people living with inflammatory bowel disease. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club des maladies inflammatoires de l'intestin de l'Université d'Ottawa UOMII — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Inflammatory Bowel Disease Club (UOIBD) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-mature",
+  "category": "associations",
+  "keywords": [
+   "étudiants adultes",
+   "mature students",
+   "étudiants plus âgés",
+   "retour aux études",
+   "adult learners",
+   "mature students association",
+   "association des etudiant adultes",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association des Etudiant Adultes d'uOttawa ?",
+   "en": "What is the uOttawa Mature Students Association?"
+  },
+  "answer": {
+   "fr": "L'Association des Etudiant Adultes d'uOttawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club rassemble les étudiants adultes ou plus âgés que la moyenne. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Mature Students Association is a club recognized by the UOSU, in the cultural category. It is a club for mature students and anyone older than the typical student age. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association des Etudiant Adultes d'uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Mature Students Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-mountain-biking",
+  "category": "associations",
+  "keywords": [
+   "vélo de montagne",
+   "mountain biking",
+   "vtt",
+   "mtb",
+   "vélo",
+   "club de vélo",
+   "sentiers",
+   "mountain biking club",
+   "club de vélo montagne",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Vélo Montagne uOttawa ?",
+   "en": "What is the uOttawa Mountain Biking Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Vélo Montagne uOttawa est un club reconnu par le SÉUO, dans la catégorie sports. C'est un club de vélo de montagne actif toute l'année, surtout les fins de semaine dans la région d'Ottawa. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Mountain Biking Club is a club recognized by the UOSU, in the sports category. It is a year-round mountain biking club, most active on weekends in the Ottawa area. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Vélo Montagne uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Mountain Biking Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-muslimah-sports-uoms",
+  "category": "associations",
+  "keywords": [
+   "muslimah sports",
+   "sport féminin",
+   "women s sports",
+   "musulmane",
+   "muslim women",
+   "gym",
+   "muslimah sports uoms",
+   "muslimah sports msuo",
+   "uoms",
+   "msuo",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi Muslimah Sports de l'Université d'Ottawa (MSuO) ?",
+   "en": "What is uOttawa Muslimah Sports (uOMS)?"
+  },
+  "answer": {
+   "fr": "Muslimah Sports de l'Université d'Ottawa (MSuO) est un club reconnu par le SÉUO, dans la catégorie sports. Le club offre aux étudiantes musulmanes un espace confortable pour faire du sport, avec des réservations de gymnase privées. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttawa Muslimah Sports (uOMS) is a club recognized by the UOSU, in the sports category. The club offers Muslim women students a comfortable space to play sports, with private gym bookings. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Muslimah Sports de l'Université d'Ottawa (MSuO) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Muslimah Sports (uOMS) — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-nsbe-national-black-engineers",
+  "category": "associations",
+  "keywords": [
+   "nsbe",
+   "ingénieurs noirs",
+   "black engineers",
+   "génie",
+   "engineering",
+   "stim",
+   "nsbe national society of black engineers",
+   "nsbe société nationale des ingénieurs noirs",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOttawa NSBE - Société Nationale des Ingénieurs Noirs de l'université d'Ottawa ?",
+   "en": "What is the uOttawa NSBE-National Society of Black Engineers?"
+  },
+  "answer": {
+   "fr": "uOttawa NSBE - Société Nationale des Ingénieurs Noirs de l'université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie STIM. C'est la section universitaire de la National Society of Black Engineers. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa NSBE-National Society of Black Engineers is a club recognized by the UOSU, in the STEM category. It is the uOttawa chapter of the National Society of Black Engineers. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOttawa NSBE - Société Nationale des Ingénieurs Noirs de l'université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa NSBE-National Society of Black Engineers — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-outlaw",
+  "category": "associations",
+  "keywords": [
+   "outlaw",
+   "lgbtq",
+   "2slgbtq",
+   "queer",
+   "droit",
+   "law",
+   "club de droit",
+   "law club"
+  ],
+  "question": {
+   "fr": "C'est quoi OUTLaw uOttawa ?",
+   "en": "What is uOttawa OUTLaw?"
+  },
+  "answer": {
+   "fr": "OUTLaw uOttawa est un club reconnu par le SÉUO, dans la catégorie droit. Le club crée un espace sûr pour les étudiants 2SLGBTQ+ en droit et leurs alliés. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttawa OUTLaw is a club recognized by the UOSU, in the law category. The club creates a safe space for 2SLGBTQ+ law students and their allies. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "OUTLaw uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa OUTLaw — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-padel",
+  "category": "associations",
+  "keywords": [
+   "padel",
+   "club de padel",
+   "padel club",
+   "raquette",
+   "tennis",
+   "club sportif",
+   "sports club",
+   "uottawa padel club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Padel ?",
+   "en": "What is the uOttawa Padel Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Padel est un club reconnu par le SÉUO, dans la catégorie sports. Le club réunit les étudiants intéressés par le padel et leur permet d'y jouer ensemble. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Padel Club is a club recognized by the UOSU, in the sports category. The club unites students interested in padel and gives them the chance to play together. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Padel — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Padel Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-page-turners",
+  "category": "associations",
+  "keywords": [
+   "page turners",
+   "tourneurs de page",
+   "club de lecture",
+   "book club",
+   "lecture",
+   "reading",
+   "littérature",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOttawa Tourneurs de Page ?",
+   "en": "What is uOttawa Page Turners?"
+  },
+  "answer": {
+   "fr": "uOttawa Tourneurs de Page est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club offre un espace informel pour discuter de littérature en dehors des cours. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttawa Page Turners is a club recognized by the UOSU, in the recreational category. The club offers an informal space to discuss literary works outside class. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOttawa Tourneurs de Page — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Page Turners — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-poker",
+  "category": "associations",
+  "keywords": [
+   "poker",
+   "club de poker",
+   "poker club",
+   "cartes",
+   "cards",
+   "tournoi",
+   "club de poker de",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Poker de uOttawa ?",
+   "en": "What is the uOttawa Poker Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Poker de uOttawa est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club organise des tournois de poker récréatifs. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Poker Club is a club recognized by the UOSU, in the recreational category. The club organizes recreational poker tournaments. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Poker de uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Poker Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-pre-dental",
+  "category": "associations",
+  "keywords": [
+   "pré dentaire",
+   "pre dental",
+   "dentisterie",
+   "dentistry",
+   "dentiste",
+   "dentist",
+   "pre dental club",
+   "pre dental club club pré dentaire",
+   "club pré dentaire uottawa",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOttawa Pre-Dental Club (Club Pré-Dentaire uOttawa) ?",
+   "en": "What is the uOttawa Pre-Dental Club?"
+  },
+  "answer": {
+   "fr": "uOttawa Pre-Dental Club (Club Pré-Dentaire uOttawa) est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club informe les étudiants sur le domaine de la dentisterie. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Pre-Dental Club is a club recognized by the UOSU, in the academic category. The club provides students with information about the field of dentistry. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOttawa Pre-Dental Club (Club Pré-Dentaire uOttawa) — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Pre-Dental Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-pre-med",
+  "category": "associations",
+  "keywords": [
+   "pré médecine",
+   "pre med",
+   "faculté de médecine",
+   "medical school",
+   "mcat",
+   "médecine",
+   "pre med society",
+   "société pré médicale",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Société pré-médicale de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa Pre-Med Society?"
+  },
+  "answer": {
+   "fr": "La Société pré-médicale de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club soutient les futurs professionnels de la santé dans leur parcours vers la faculté de médecine. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Pre-Med Society is a club recognized by the UOSU, in the academic category. The club supports aspiring healthcare professionals on their journey to medical school. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Société pré-médicale de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Pre-Med Society — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-pre-pharmacy",
+  "category": "associations",
+  "keywords": [
+   "pré pharmacie",
+   "pre pharmacy",
+   "pharmacie",
+   "pharmacy",
+   "pharmacien",
+   "pharmacist",
+   "pre pharmacy club",
+   "club pré pharmacie",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club Pré Pharmacie uOttawa ?",
+   "en": "What is the uOttawa Pre-Pharmacy Club?"
+  },
+  "answer": {
+   "fr": "Le Club Pré Pharmacie uOttawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club rassemble les étudiants passionnés par le domaine pharmaceutique. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Pre-Pharmacy Club is a club recognized by the UOSU, in the academic category. It is a club for students interested in the pharmaceutical field. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club Pré Pharmacie uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Pre-Pharmacy Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-pre-veterinary",
+  "category": "associations",
+  "keywords": [
+   "pré vétérinaire",
+   "pre vet",
+   "médecine vétérinaire",
+   "veterinary medicine",
+   "vétérinaire",
+   "animaux",
+   "pre veterinary club",
+   "club pré vétérinaire",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club Pré-Vétérinaire de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa Pre-Veterinary Club?"
+  },
+  "answer": {
+   "fr": "Le Club Pré-Vétérinaire de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club soutient les étudiants qui visent une carrière en médecine vétérinaire. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Pre-Veterinary Club is a club recognized by the UOSU, in the academic category. The club supports students interested in a career in veterinary medicine. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club Pré-Vétérinaire de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Pre-Veterinary Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-quantum",
+  "category": "associations",
+  "keywords": [
+   "quantique",
+   "quantum",
+   "physique",
+   "physics",
+   "informatique quantique",
+   "quantum computing",
+   "quantum club",
+   "club quantique",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOttawa Club Quantique ?",
+   "en": "What is the uOttawa Quantum Club?"
+  },
+  "answer": {
+   "fr": "uOttawa Club Quantique est un club reconnu par le SÉUO, dans la catégorie STIM. Le club discute de tout ce qui touche au quantique : mécanique, informatique et optique quantiques. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Quantum Club is a club recognized by the UOSU, in the STEM category. The club discusses everything quantum, from quantum mechanics and computing to quantum optics and materials. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOttawa Club Quantique — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Quantum Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-real-estate",
+  "category": "associations",
+  "keywords": [
+   "immobilier",
+   "real estate",
+   "club immobilier",
+   "real estate club",
+   "investissement",
+   "propriété",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club immobilier de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa Real Estate Club?"
+  },
+  "answer": {
+   "fr": "Le Club immobilier de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club fait le pont entre les études et la réalité du secteur immobilier. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Real Estate Club is a club recognized by the UOSU, in the academic category. The club bridges academic learning and the realities of the real estate industry. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club immobilier de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Real Estate Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-reservation-sports",
+  "category": "associations",
+  "keywords": [
+   "sports récréatifs",
+   "recreational sports",
+   "réservation",
+   "booking",
+   "sport",
+   "terrain",
+   "reservation sports",
+   "réseau sports",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Réseau Sports uOttawa ?",
+   "en": "What is uOttawa Reservation Sports?"
+  },
+  "answer": {
+   "fr": "Le Réseau Sports uOttawa est un club reconnu par le SÉUO, dans la catégorie sport et activité physique. Le club rend le sport récréatif simple et accessible. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttawa Reservation Sports is a club recognized by the UOSU, in the athletic category. The club makes recreational sport simple and accessible. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Réseau Sports uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Reservation Sports — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-speaksmart",
+  "category": "associations",
+  "keywords": [
+   "speaksmart",
+   "art oratoire",
+   "public speaking",
+   "prise de parole",
+   "communication",
+   "éloquence",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi SpeakSmart uOttawa ?",
+   "en": "What is uOttawa SpeakSmart?"
+  },
+  "answer": {
+   "fr": "SpeakSmart uOttawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club aide les étudiants à faire entendre leur voix. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttawa SpeakSmart is a club recognized by the UOSU, in the academic category. The club empowers students' voices. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "SpeakSmart uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa SpeakSmart — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-talkmusic",
+  "category": "associations",
+  "keywords": [
+   "talkmusic",
+   "musique",
+   "music",
+   "écoute",
+   "listening",
+   "discussion",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi uOttawa TalkMusic ?",
+   "en": "What is uOttawa TalkMusic?"
+  },
+  "answer": {
+   "fr": "uOttawa TalkMusic est un club reconnu par le SÉUO, dans la catégorie loisirs. C'est une communauté pour discuter de musique, en partager et en écouter. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttawa TalkMusic is a club recognized by the UOSU, in the recreational category. It is a community for discussing, sharing and listening to music. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uOttawa TalkMusic — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa TalkMusic — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-tamil-alliance-networking",
+  "category": "associations",
+  "keywords": [
+   "tamoul",
+   "tamil",
+   "réseautage",
+   "networking",
+   "carrière",
+   "sud asiatique",
+   "tamil alliance of networking",
+   "alliance tamoule de réseautage",
+   "club académique",
+   "academic club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Alliance Tamoule de Réseautage de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa Tamil Alliance of Networking?"
+  },
+  "answer": {
+   "fr": "L'Alliance Tamoule de Réseautage de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie études et carrière. Le club crée une communauté pour les étudiants tamouls et leur permet de réseauter avec des professionnels. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Tamil Alliance of Networking is a club recognized by the UOSU, in the academic category. The club builds a supportive community for Tamil students and helps them network with professionals. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "L'Alliance Tamoule de Réseautage de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Tamil Alliance of Networking — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-team-diabetes",
+  "category": "associations",
+  "keywords": [
+   "diabète",
+   "diabetes",
+   "diabetes canada",
+   "santé",
+   "vie active",
+   "team diabetes",
+   "équipe diabète",
+   "club caritatif",
+   "charity club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Équipe Diabète de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa Team Diabetes?"
+  },
+  "answer": {
+   "fr": "L'Équipe Diabète de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie philanthropie. Le club sensibilise au diabète et fait la promotion d'une vie saine et active. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Team Diabetes is a club recognized by the UOSU, in the philanthropic category. The club raises awareness for diabetes and promotes healthy active living. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Équipe Diabète de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Team Diabetes — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-trading",
+  "category": "associations",
+  "keywords": [
+   "trading",
+   "club de trading",
+   "trading club",
+   "bourse",
+   "stock market",
+   "finance",
+   "marchés",
+   "club de compétition",
+   "competition club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de Trading de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa Trading Club?"
+  },
+  "answer": {
+   "fr": "Le Club de Trading de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie compétitions académiques. Le club prépare les étudiants aux carrières en vente et négociation grâce à des simulations de marché et des compétitions de trading. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Trading Club is a club recognized by the UOSU, in the competitive academic category. The club prepares students for careers in sales and trading through market simulations, workshops and trading competitions. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de Trading de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Trading Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-ukrainian",
+  "category": "associations",
+  "keywords": [
+   "ukrainien",
+   "ukrainienne",
+   "ukrainian",
+   "ukraine",
+   "club ukrainien",
+   "ukrainian students club",
+   "club des étudiants ukrainiens",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi le club des étudiants ukrainiens de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa Ukrainian Students' Club?"
+  },
+  "answer": {
+   "fr": "Le club des étudiants ukrainiens de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club sert la communauté universitaire depuis plus de 40 ans. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Ukrainian Students' Club is a club recognized by the UOSU, in the cultural category. The club has proudly served the University for over 40 years. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Le club des étudiants ukrainiens de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Ukrainian Students' Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-wrestling",
+  "category": "associations",
+  "keywords": [
+   "lutte",
+   "wrestling",
+   "club de lutte",
+   "wrestling club",
+   "lutte professionnelle",
+   "pro wrestling",
+   "sport de combat",
+   "club de lutte de l",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de lutte de l'uOttawa ?",
+   "en": "What is the uOttawa Wrestling Club?"
+  },
+  "answer": {
+   "fr": "Le Club de lutte de l'uOttawa est un club reconnu par le SÉUO, dans la catégorie sport et activité physique. Le club offre un entraînement de lutte professionnelle sur le campus. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa Wrestling Club is a club recognized by the UOSU, in the athletic category. The club offers professional wrestling training on campus. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de lutte de l'uOttawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa Wrestling Club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-fishing",
+  "category": "associations",
+  "keywords": [
+   "pêche",
+   "fishing",
+   "club de pêche",
+   "fishing club",
+   "plein air",
+   "outdoors",
+   "club sportif",
+   "sports club"
+  ],
+  "question": {
+   "fr": "C'est quoi le Club de pêche de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa fishing club?"
+  },
+  "answer": {
+   "fr": "Le Club de pêche de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie sports. Le club rassemble les passionnés de pêche et de plein air. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa fishing club is a club recognized by the UOSU, in the sports category. The club brings together people passionate about fishing and the outdoors. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Club de pêche de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa fishing club — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-s-south-asian",
+  "category": "associations",
+  "keywords": [
+   "sud asiatique",
+   "south asian",
+   "inde",
+   "india",
+   "pakistan",
+   "bangladesh",
+   "sri lanka",
+   "s south asian association",
+   "association sud asiatique",
+   "club culturel",
+   "cultural club"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Association Sud-Asiatique de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa's South Asian Association?"
+  },
+  "answer": {
+   "fr": "L'Association Sud-Asiatique de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie culture. Le club représente et célèbre toute la diversité de l'Asie du Sud. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa's South Asian Association is a club recognized by the UOSU, in the cultural category. The club represents and celebrates the full diversity of South Asia. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Association Sud-Asiatique de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa's South Asian Association — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uottawamosaic",
+  "category": "associations",
+  "keywords": [
+   "mosaïque",
+   "mosaic",
+   "événements culturels",
+   "cultural events",
+   "fêtes",
+   "multiculturel",
+   "uottawamosaic",
+   "ud ottawamosaïque",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi ud'OttawaMosaïque ?",
+   "en": "What is uOttawaMosaic?"
+  },
+  "answer": {
+   "fr": "ud'OttawaMosaïque est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club organise des événements culturels et saisonniers inspirés de coutumes du monde entier. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uOttawaMosaic is a club recognized by the UOSU, in the recreational category. The club curates cultural and seasonal events inspired by global customs. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "ud'OttawaMosaïque — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawaMosaic — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uottawastudent-press",
+  "category": "associations",
+  "keywords": [
+   "presse étudiante",
+   "student press",
+   "journalisme",
+   "journalism",
+   "journal",
+   "photographie",
+   "médias",
+   "uottawastudent press",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi la Presse étudiante uottawa ?",
+   "en": "What is the uOttawaStudent Press?"
+  },
+  "answer": {
+   "fr": "La Presse étudiante uottawa est un club reconnu par le SÉUO, dans la catégorie arts et création. C'est une communauté médiatique pour les futurs journalistes, rédacteurs, photographes et créateurs de contenu. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawaStudent Press is a club recognized by the UOSU, in the creative category. It is a student media community for aspiring journalists, writers, photographers and content creators. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Presse étudiante uottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawaStudent Press — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-s-girl-gains",
+  "category": "associations",
+  "keywords": [
+   "girl gains",
+   "filles fit",
+   "fitness",
+   "musculation",
+   "gym",
+   "femmes",
+   "entraînement",
+   "s chapter of girl gains",
+   "club de loisirs",
+   "recreational club"
+  ],
+  "question": {
+   "fr": "C'est quoi Filles Fit de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa's Chapter of Girl Gains?"
+  },
+  "answer": {
+   "fr": "Filles Fit de l'Université d'Ottawa est un club reconnu par le SÉUO, dans la catégorie loisirs. Le club crée une communauté sans jugement où les étudiantes s'entraident dans leur parcours de mise en forme. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "The uOttawa's Chapter of Girl Gains is a club recognized by the UOSU, in the recreational category. The club creates a judgment-free community where female students support each other in their fitness journey. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "Filles Fit de l'Université d'Ottawa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uOttawa's Chapter of Girl Gains — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uosalsa",
+  "category": "associations",
+  "keywords": [
+   "salsa",
+   "bachata",
+   "danse latine",
+   "latin dance",
+   "club de salsa",
+   "danse",
+   "dance",
+   "uosalsa",
+   "club artistique",
+   "arts club"
+  ],
+  "question": {
+   "fr": "C'est quoi uoSalsa ?",
+   "en": "What is uoSalsa?"
+  },
+  "answer": {
+   "fr": "uoSalsa est un club reconnu par le SÉUO, dans la catégorie arts et création. C'est le club de salsa et de bachata de l'Université. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uoSalsa is a club recognized by the UOSU, in the creative category. It is the University of Ottawa's salsa and bachata club. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uoSalsa — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uoSalsa — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "q-club-uowomeninmed",
+  "category": "associations",
+  "keywords": [
+   "femmes en médecine",
+   "women in medicine",
+   "médecine",
+   "medicine",
+   "pré médecine",
+   "pre med",
+   "uowomeninmed",
+   "uofemmesenmed",
+   "club de sciences",
+   "stem club"
+  ],
+  "question": {
+   "fr": "C'est quoi uoFemmesEnMed ?",
+   "en": "What is uoWomenInMed?"
+  },
+  "answer": {
+   "fr": "uoFemmesEnMed est un club reconnu par le SÉUO, dans la catégorie STIM. Le club crée un espace stimulant pour les femmes passionnées par la médecine. Pour t'inscrire ou le joindre, consulte sa fiche dans la liste des clubs du SÉUO, sur le site du SÉUO.",
+   "en": "uoWomenInMed is a club recognized by the UOSU, in the STEM category. The club creates an uplifting space for women passionate about medicine. To join or contact it, check its profile in the UOSU clubs list on the UOSU website."
+  },
+  "sources": [
+   {
+    "label": "uoFemmesEnMed — SÉUO, liste des clubs",
+    "url": "https://hub.seuo-uosu.com/fr/clubs-list"
+   },
+   {
+    "label": "uoWomenInMed — UOSU clubs list",
+    "url": "https://hub.seuo-uosu.com/en/clubs-list"
+   }
+  ],
+  "related": [
+   "q-clubs-liste",
+   "q-clubs-contacter",
+   "q-clubs-creer-seuo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
  }
 ];

@@ -26,8 +26,8 @@ Historique des modifications de l'équipe : https://github.com/louikagirard-crea
 | Bilinguisme (priorité 1) | Toute l'interface et toutes les réponses en FR et EN, bouton de langue |
 | Vitesse de réponse (priorité 1) | Recherche locale instantanée, temps affiché sous chaque réponse |
 | Parler avec un avatar animé | Gee-Gee, mascotte 3D : bouche synchronisée mot par mot, clignements, regard, oreilles, gestes |
-| Seulement de l'information officielle | 85 réponses tirées des pages uOttawa, source et date de vérification affichées |
-| Si pas de réponse : s'excuser et guider | Excuse, renvoi vers InfoService et suggestions proches |
+| Seulement de l'information officielle | 2 125 fiches tirées des pages officielles (uOttawa, catalogue, SÉUO, Gee-Gees), source et date de vérification affichées, plus un index de 36 032 pages officielles (`data/links.json`) quand aucune fiche ne répond |
+| Si pas de réponse : s'excuser et guider | Pages officielles les plus proches (avec code QR), renvoi vers InfoService et suggestions proches |
 | Santé mentale exclue | Redirection vers le Centre de santé et de bien-être, et le 911 en cas d'urgence |
 | Accessibilité | Texte surligné mot par mot (sous-titres), historique complet, réécoute, taille du texte (bouton Aa), contraste élevé, voix activable, navigation au clavier |
 | Écran tactile si trop bruyant | Sujets et questions en boutons tactiles |

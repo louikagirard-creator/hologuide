@@ -16719,8 +16719,8 @@ export const KB = [
    "en": "Can I study journalism or public relations at uOttawa?"
   },
   "answer": {
-   "fr": "Oui ! Le Département de communication offre un baccalauréat en journalisme numérique et un baccalauréat en relations publiques. Ces deux programmes sont offerts conjointement avec La Cité collégiale pour la section française et avec le Collège Algonquin pour la section anglaise.",
-   "en": "Yes! The Department of Communication offers a bachelor's degree in digital journalism and one in public relations. Both are offered jointly with La Cité collégiale for the French section and with Algonquin College for the English section."
+   "fr": "Le Département de communication offre un baccalauréat en relations publiques, conjointement avec La Cité collégiale pour la section française et avec le Collège Algonquin pour la section anglaise. Selon le catalogue, l'admission au baccalauréat en journalisme numérique (avec le Collège Algonquin) est suspendue jusqu'à nouvel ordre.",
+   "en": "The Department of Communication offers a bachelor's in public relations, jointly with La Cité collégiale for the French section and with Algonquin College for the English section. According to the catalogue, admission to the Bachelor of Digital Journalism (with Algonquin College) is suspended until further notice."
   },
   "sources": [
    {
@@ -16730,6 +16730,10 @@ export const KB = [
    {
     "label": "Undergraduate programs | Faculty of Arts — uOttawa",
     "url": "https://www.uottawa.ca/faculty-arts/programs/undergraduate"
+   },
+   {
+    "label": "Honours Bachelor of Digital Journalism — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/"
    }
   ],
   "related": [
@@ -16884,13 +16888,17 @@ export const KB = [
    "en": "Where can I study translation at uOttawa?"
   },
   "answer": {
-   "fr": "C'est à l'École de traduction et d'interprétation de la Faculté des arts, fondée en 1971 ; uOttawa a été le premier établissement canadien à offrir des cours de traduction professionnelle à l'université, en 1936. L'École offre des programmes de premier cycle, une maîtrise en interprétation de conférence et une nouvelle maîtrise en traduction, et certains programmes exigent un examen d'entrée. Elle est au pavillon Hamelin, 70, avenue Laurier Est, salle 401.",
-   "en": "It's at the School of Translation and Interpretation in the Faculty of Arts, founded in 1971; uOttawa was the first Canadian institution to offer professional translation courses at university, in 1936. The School offers undergraduate programs, a Master of Conference Interpreting and a new Master of Translation, and some programs require an entrance exam. It is in Hamelin Hall, 70 Laurier Avenue East, room 401."
+   "fr": "C'est à l'École de traduction et d'interprétation de la Faculté des arts, fondée en 1971 ; uOttawa a été le premier établissement canadien à offrir des cours de traduction professionnelle à l'université, en 1936. Attention : selon le catalogue, l'admission aux baccalauréats en traduction est suspendue jusqu'à nouvel ordre. L'École offre aussi une maîtrise en interprétation de conférence et une nouvelle maîtrise en traduction, et certains programmes exigent un examen d'entrée. Elle est au pavillon Hamelin, 70, avenue Laurier Est, salle 401.",
+   "en": "It's at the School of Translation and Interpretation in the Faculty of Arts, founded in 1971; uOttawa was the first Canadian institution to offer professional translation courses at university, in 1936. Note: according to the catalogue, admission to the undergraduate translation BAs is suspended until further notice. The School also offers a Master of Conference Interpreting and a new Master of Translation, and some programs require an entrance exam. It is in Hamelin Hall, 70 Laurier Avenue East, room 401."
   },
   "sources": [
    {
     "label": "School of Translation and Interpretation | Faculty of Arts — uOttawa",
     "url": "https://www.uottawa.ca/faculty-arts/translation-interpretation"
+   },
+   {
+    "label": "Honours BA in French-English Translation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation/"
    }
   ],
   "related": [
@@ -62887,6 +62895,5349 @@ export const KB = [
    "m-papu-c-quoi",
    "m-papu-temps-partiel",
    "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-anglais",
+  "category": "programmes",
+  "keywords": [
+   "anglais",
+   "english",
+   "baccalauréat en anglais",
+   "baccalaureat en anglais",
+   "programme d'anglais",
+   "bachelor of english",
+   "honours english",
+   "english program",
+   "étudier anglais",
+   "study english",
+   "littérature anglaise",
+   "english literature",
+   "honours ba english",
+   "b.a. anglais"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en anglais (littérature anglaise) ?",
+   "en": "What is the Honours BA in English?"
+  },
+  "answer": {
+   "fr": "Au Département d'anglais de la Faculté des arts, tu étudies toutes les grandes périodes et traditions de la littérature de langue anglaise, en plus de la création littéraire et de la théorie littéraire. Le diplôme prépare aux études supérieures et aussi à des programmes professionnels comme le droit, l'administration ou l'éducation. Le programme est offert en anglais seulement, avec la formation coop.",
+   "en": "In the Department of English in the Faculty of Arts, you study all major historical periods and national traditions of literature in English, along with creative writing and literary theory. The degree prepares you for graduate studies and for professional programs such as law, business and education. The program is offered in English only, with co-op."
+  },
+  "sources": [
+   {
+    "label": "Honours BA English — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-ba-english/"
+   },
+   {
+    "label": "Honours BA English — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/honours-ba-english/"
+   }
+  ],
+  "related": [
+   "o-ba-lettres-francaises",
+   "o-ba-geographie",
+   "o-ba-philosophie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-lettres-francaises",
+  "category": "programmes",
+  "keywords": [
+   "lettres françaises",
+   "french literature",
+   "baccalauréat en lettres françaises",
+   "baccalaureat en lettres francaises",
+   "programme de lettres françaises",
+   "bachelor of french literature",
+   "honours french literature",
+   "french literature program",
+   "étudier lettres françaises",
+   "study french literature",
+   "littérature française",
+   "français",
+   "b.a. lettres françaises",
+   "french studies"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en lettres françaises ?",
+   "en": "What is the Honours BA in Lettres françaises (French literature)?"
+  },
+  "answer": {
+   "fr": "Au Département de français, tu étudies les littératures de France, du Québec, de l'Ontario français et des autres communautés de la francophonie, et tu perfectionnes ta maîtrise du français écrit. Des cours pratiques t'initient aussi aux outils de rédaction et d'édition utilisés dans les écoles, les entreprises, la fonction publique et les médias. Le programme est offert en français seulement, avec la formation coop.",
+   "en": "In the Département de français, you study literature from France, Quebec, French-speaking Ontario and other francophone communities, and you master French composition. Practical courses also introduce you to the writing and publishing tools used in schools, businesses, the public service and the media. The program is offered in French only, with co-op."
+  },
+  "sources": [
+   {
+    "label": "B.A. spécialisé Lettres françaises — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/ba-specialise-lettres-francaises/"
+   },
+   {
+    "label": "B.A. spécialisé Lettres françaises — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-lettres-francaises/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-geographie",
+   "o-ba-philosophie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-geographie",
+  "category": "programmes",
+  "keywords": [
+   "géographie",
+   "geography",
+   "baccalauréat en géographie",
+   "baccalaureat en geographie",
+   "programme de géographie",
+   "bachelor of geography",
+   "honours geography",
+   "geography program",
+   "étudier géographie",
+   "study geography",
+   "sig",
+   "gis",
+   "cartographie",
+   "b.a. géographie",
+   "honours ba geography"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en géographie ?",
+   "en": "What is the Honours BA in Geography?"
+  },
+  "answer": {
+   "fr": "La géographie aborde des enjeux comme les changements climatiques, les ressources en eau, l'organisation des communautés et le développement du Nord. La cartographie numérique, la télédétection et les systèmes d'information géographique (SIG) font partie du cursus, avec des sorties sur le terrain dans le Nord canadien, le bassin des Grands Lacs et les Appalaches. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "Geography tackles issues such as climate change, water resources, community organization and northern development. Computer cartography, remote sensing and geographic information systems (GIS) are part of the curriculum, along with field experiences in Canada's North, the Great Lakes basin and the Appalachians. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BA Geography — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-ba-geography/"
+   },
+   {
+    "label": "B.A. spécialisé géographie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-geographie/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-philosophie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-philosophie",
+  "category": "programmes",
+  "keywords": [
+   "philosophie",
+   "philosophy",
+   "baccalauréat en philosophie",
+   "baccalaureat en philosophie",
+   "programme de philosophie",
+   "bachelor of philosophy",
+   "honours philosophy",
+   "philosophy program",
+   "étudier philosophie",
+   "study philosophy",
+   "b.a. philosophie",
+   "honours ba philosophy",
+   "logique",
+   "éthique"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en philosophie ?",
+   "en": "What is the Honours BA in Philosophy?"
+  },
+  "answer": {
+   "fr": "En lisant et en discutant les grands penseurs sur la vérité, la justice, la morale et l'existence, tu développes ta capacité à penser de façon claire, critique et autonome. Le programme combine une approche historique et analytique et couvre la philosophie politique et sociale, l'éthique, la philosophie des sciences, du langage et de l'esprit, et la logique. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "By reading and discussing the great thinkers on truth, justice, morality and existence, you sharpen your ability to think clearly, critically and independently. The program combines a historical and an analytical approach and covers political and social philosophy, ethics, philosophy of science, language and mind, and logic. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BA Philosophy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-ba-philosophy/"
+   },
+   {
+    "label": "B.A. spécialisé philosophie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-philosophie/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-ethique-philo-politique",
+  "category": "programmes",
+  "keywords": [
+   "éthique et philosophie politique",
+   "ethics and political philosophy",
+   "baccalauréat en éthique et philosophie politique",
+   "baccalaureat en ethique et philosophie politique",
+   "programme d'éthique et philosophie politique",
+   "bachelor of ethics and political philosophy",
+   "honours ethics and political philosophy",
+   "ethics and political philosophy program",
+   "étudier éthique et philosophie politique",
+   "study ethics and political philosophy",
+   "éthique",
+   "ethics",
+   "philosophie politique",
+   "political philosophy",
+   "éthique appliquée"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en éthique et philosophie politique ?",
+   "en": "What is the Honours BA in Ethics and Political Philosophy?"
+  },
+  "answer": {
+   "fr": "Ce programme multidisciplinaire du Département de philosophie, à la fois théorique et appliqué, te fait réfléchir aux grandes questions de philosophie morale et politique. Tu y analyses les enjeux éthiques en santé, en affaires, en droit, en communication, en criminologie, en service social et en affaires publiques. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "This multidisciplinary program from the Department of Philosophy is both theoretical and applied, and has you reflect on fundamental issues in moral and political philosophy. You analyze ethics issues in health care, business, law, communication, criminology, social work and public affairs. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BA Ethics and Political Philosophy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-ba-ethics-political-philosophy/"
+   },
+   {
+    "label": "B.A. spécialisé éthique et philosophie politique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-ethique-philosophie-politique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-theatre",
+  "category": "programmes",
+  "keywords": [
+   "théâtre",
+   "theatre",
+   "baccalauréat en théâtre",
+   "baccalaureat en theatre",
+   "programme de théâtre",
+   "bachelor of theatre",
+   "honours theatre",
+   "theatre program",
+   "étudier théâtre",
+   "study theatre",
+   "études théâtrales",
+   "theatre studies",
+   "b.a. théâtre",
+   "drama",
+   "art dramatique"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en théâtre ?",
+   "en": "What is the Honours BA in Theatre?"
+  },
+  "answer": {
+   "fr": "Le Département de théâtre explore tous les aspects de l'événement théâtral : jeu, mise en scène, écriture dramatique, administration des arts, dramaturgie, histoire du théâtre, production, technique et conception. Côté pratique, le département produit douze productions originales chaque saison. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "The Department of Theatre explores every aspect of theatrical events: acting, directing, playwriting, arts administration, dramaturgy, theatre history, production, technical theatre and design. On the practical side, the Department produces twelve original productions each season. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BA Theatre — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-ba-theatre/"
+   },
+   {
+    "label": "B.A. spécialisé théâtre — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-theatre/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bfa-jeu",
+  "category": "programmes",
+  "keywords": [
+   "jeu théâtral",
+   "acting",
+   "baccalauréat en jeu théâtral",
+   "baccalaureat en jeu theatral",
+   "bachelor of acting",
+   "honours acting",
+   "acting program",
+   "étudier jeu théâtral",
+   "study acting",
+   "bfa acting",
+   "bfa jeu",
+   "pratique théâtrale",
+   "devenir comédien",
+   "become an actor",
+   "théâtre jeu"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat en pratique théâtrale en jeu (BFA Acting) ?",
+   "en": "What is the Bachelor of Fine Arts in Acting?"
+  },
+  "answer": {
+   "fr": "C'est le programme du Département de théâtre pour te former comme comédienne ou comédien. Le département compte deux grandes compagnies de théâtre et trois compagnies étudiantes qui présentent jusqu'à trente productions originales par saison. Le programme est offert en français et en anglais.",
+   "en": "This is the Department of Theatre's program to train you as an actor. The Department has two major theatre companies and three student companies producing up to thirty original productions a season. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Bachelor of Fine Arts in Acting — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/bachelor-fine-arts-acting/"
+   },
+   {
+    "label": "Baccalauréat en pratique théâtrale en jeu — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-pratique-theatrale-jeu/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-etudes-environnement",
+  "category": "programmes",
+  "keywords": [
+   "études de l'environnement",
+   "environmental studies",
+   "baccalauréat en études de l'environnement",
+   "baccalaureat en etudes de l'environnement",
+   "programme d'études de l'environnement",
+   "bachelor of environmental studies",
+   "honours environmental studies",
+   "environmental studies program",
+   "étudier études de l'environnement",
+   "study environmental studies",
+   "environnement",
+   "environment",
+   "programme bilingue",
+   "bilingual program",
+   "changements climatiques"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en études de l'environnement ?",
+   "en": "What is the Honours BA in Environmental Studies?"
+  },
+  "answer": {
+   "fr": "Les études de l'environnement portent sur des enjeux majeurs comme les changements climatiques d'origine humaine, la pollution urbaine et les menaces pour la santé. Tu apprends des outils de recherche appliquée et des principes de gestion utiles, par exemple, pour les évaluations d'impact environnemental et la gestion des ressources. Il existe aussi une version bilingue du programme. La formation coop et le régime d'immersion en français sont offerts.",
+   "en": "Environmental studies delve into major issues such as anthropogenic climate change, urban pollution and threats to human health. You learn applied research tools and management principles used, for example, in environmental impact assessments and resource management. There is also a bilingual version of the program. Co-op and the French immersion stream are available."
+  },
+  "sources": [
+   {
+    "label": "Honours BA Environmental Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-environmental-studies/"
+   },
+   {
+    "label": "B.A. spécialisé études de l'environnement — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-etudes-lenvironnement/"
+   },
+   {
+    "label": "Honours BA Environmental Studies (Bilingual Program) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-ba-environmental-studies-bilingual-program/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-enseignement-langues-secondes",
+  "category": "programmes",
+  "keywords": [
+   "enseignement des langues secondes",
+   "second language teaching",
+   "baccalauréat en enseignement des langues secondes",
+   "baccalaureat en enseignement des langues secondes",
+   "bachelor of second language teaching",
+   "honours second language teaching",
+   "second language teaching program",
+   "étudier enseignement des langues secondes",
+   "study second language teaching",
+   "esl",
+   "fls",
+   "enseigner le français langue seconde",
+   "teach english as a second language",
+   "ilob",
+   "olbi"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en enseignement des langues secondes (ESL ou FLS) ?",
+   "en": "What is the Honours BA in Second Language Teaching (ESL or FLS)?"
+  },
+  "answer": {
+   "fr": "Offert conjointement par la Faculté d'éducation et la Faculté des arts, par l'entremise de l'Institut des langues officielles et du bilinguisme (ILOB), ce programme existe en enseignement de l'anglais langue seconde (ESL) ou du français langue seconde (FLS). Les cours portent sur l'acquisition, l'apprentissage et l'enseignement des langues secondes et les liens entre langue, culture et société. Après le diplôme, un nombre limité de places t'est réservé au baccalauréat en éducation si tu en remplis les conditions d'admission. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "Offered jointly by the Faculty of Education and the Faculty of Arts through the Official Languages and Bilingualism Institute (OLBI), this program comes in Teaching English as a Second Language (ESL) or Teaching French as a Second Language (FLS). Courses cover second language acquisition, learning and teaching, and the links between language, culture and society. After graduating, a limited number of places in the Teacher Education (BEd) program are reserved for you if you meet its admission requirements. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BA Second Language Teaching - Teaching English as a Second Language (ESL) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-ba-second-language-teaching-english-second-language/"
+   },
+   {
+    "label": "B.A. spécialisé enseignement des langues secondes - enseignement de l'anglais langue seconde (ESL) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-enseignement-langues-secondes-enseignement-langlais-langue-seconde/"
+   },
+   {
+    "label": "Honours BA Second Language Teaching - Teaching French as a Second Language (FLS) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-ba-second-language-teaching-french-second-language/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-musique",
+  "category": "programmes",
+  "keywords": [
+   "musique",
+   "music",
+   "baccalauréat en musique",
+   "baccalaureat en musique",
+   "programme de musique",
+   "bachelor of music",
+   "honours music",
+   "music program",
+   "étudier musique",
+   "study music",
+   "b.a. musique",
+   "honours ba music",
+   "musicologie",
+   "musicology",
+   "école de musique"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en musique (B.A.) ?",
+   "en": "What is the Honours BA in Music?"
+  },
+  "answer": {
+   "fr": "L'École de musique, l'une des principales écoles de musique au pays, entretient des liens étroits avec le Centre national des Arts et l'Orchestre symphonique d'Ottawa. Elle offre des programmes en interprétation, composition, éducation musicale, pédagogie du piano, théorie et musicologie. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "The School of Music, one of the country's leading music schools, maintains close ties with the National Arts Centre and the Ottawa Symphony Orchestra. It offers programs in performance, composition, music education, piano pedagogy, theory and musicology. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BA Music — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-ba-music/"
+   },
+   {
+    "label": "B.A. spécialisé musique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-musique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bmus-bsc",
+  "category": "programmes",
+  "keywords": [
+   "musique et sciences",
+   "music and science",
+   "étudier musique et sciences",
+   "study music and science",
+   "bmus bsc",
+   "double diplôme musique sciences",
+   "music science double degree",
+   "baccalauréat en musique et baccalauréat ès sciences",
+   "audition musique"
+  ],
+  "question": {
+   "fr": "Est-ce qu'on peut faire un baccalauréat en musique et un baccalauréat ès sciences en même temps ?",
+   "en": "Can I do a Bachelor of Music and a Bachelor of Science at the same time?"
+  },
+  "answer": {
+   "fr": "Oui : uOttawa est l'un des seuls établissements au pays à permettre de combiner le baccalauréat en musique (B.Mus.) en interprétation avec une majeure en sciences, pour obtenir deux diplômes. L'admission au B.Mus. exige une audition sur ton instrument principal, à un niveau intermédiaire ou avancé. Le programme est offert en français et en anglais.",
+   "en": "Yes: uOttawa is one of the only institutions in the country where you can combine the Bachelor of Music (BMus) in performance with a major in science and earn two degrees. Admission to the BMus requires an audition on your main instrument at an intermediate or advanced level. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Bachelor of Music and Honours Bachelor of Science with Major — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/bachelor-music-honours-bachelor-science-major/"
+   },
+   {
+    "label": "Baccalauréat en musique et baccalauréat ès sciences spécialisé avec majeure — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-musiquebaccalaureat-sciences-specialise-majeure/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-etudes-interdisciplinaires",
+  "category": "programmes",
+  "keywords": [
+   "études interdisciplinaires",
+   "interdisciplinary studies",
+   "baccalauréat en études interdisciplinaires",
+   "baccalaureat en etudes interdisciplinaires",
+   "programme d'études interdisciplinaires",
+   "bachelor of interdisciplinary studies",
+   "honours interdisciplinary studies",
+   "interdisciplinary studies program",
+   "étudier études interdisciplinaires",
+   "study interdisciplinary studies",
+   "b.a. général",
+   "general ba",
+   "indécis",
+   "undecided",
+   "baccalauréat ès arts"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat ès arts en études interdisciplinaires ?",
+   "en": "What is the Bachelor of Arts in Interdisciplinary Studies?"
+  },
+  "answer": {
+   "fr": "Ce programme souple est fait pour toi si tu es curieux ou encore indécis : il te donne une solide formation générale et te permet de suivre des cours dans plusieurs domaines des arts (beaux-arts, sciences humaines, langues et littératures) ou même d'autres facultés. Tu peux aussi ajouter une mineure, sans obligation. Le programme est offert en français et en anglais.",
+   "en": "This flexible program is for you if you're curious or still undecided: it gives you a solid general education and lets you take courses across Arts fields (fine arts, humanities, languages and literatures) or even other faculties. You can also add a minor, but it isn't required. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Bachelor of Arts Interdisciplinary Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies/"
+   },
+   {
+    "label": "Baccalauréat ès arts études interdisciplinaires — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-arts-etudes-interdisciplinaires/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-etudes-interdisciplinaires-en-ligne",
+  "category": "programmes",
+  "keywords": [
+   "études interdisciplinaires en ligne",
+   "online interdisciplinary studies",
+   "baccalauréat en études interdisciplinaires en ligne",
+   "baccalaureat en etudes interdisciplinaires en ligne",
+   "bachelor of online interdisciplinary studies",
+   "honours online interdisciplinary studies",
+   "online interdisciplinary studies program",
+   "étudier études interdisciplinaires en ligne",
+   "study online interdisciplinary studies",
+   "ba en ligne",
+   "online ba",
+   "online degree",
+   "diplôme en ligne",
+   "b.a. accéléré",
+   "accelerated ba"
+  ],
+  "question": {
+   "fr": "Y a-t-il un baccalauréat ès arts entièrement en ligne ?",
+   "en": "Is there a Bachelor of Arts fully online?"
+  },
+  "answer": {
+   "fr": "Oui : le B.A. accéléré en études interdisciplinaires (en ligne) s'adresse aux personnes expérimentées qui ont déjà des études ou une formation antérieures, et il est donné entièrement en ligne. Les cours portent notamment sur l'histoire mondiale, la culture canadienne, la littérature, l'architecture, l'environnement et la pensée autochtone. Le programme est offert en anglais seulement.",
+   "en": "Yes: the accelerated BA in Interdisciplinary Studies (online) is designed for experienced learners building on prior education or training, and it is delivered fully online. Courses include global history, Canadian culture, literature, architecture, environmental studies and Indigenous thought. The program is offered in English only."
+  },
+  "sources": [
+   {
+    "label": "Bachelor of Arts Interdisciplinary Studies (online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/"
+   },
+   {
+    "label": "Baccalauréat ès arts études interdisciplinaires (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-arts-etudes-interdisciplinaires-en-ligne/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-communication-lettres-francaises",
+  "category": "programmes",
+  "keywords": [
+   "communication et lettres françaises",
+   "communication and french literature",
+   "baccalauréat en communication et lettres françaises",
+   "baccalaureat en communication et lettres francaises",
+   "programme de communication et lettres françaises",
+   "bachelor of communication and french literature",
+   "honours communication and french literature",
+   "communication and french literature program",
+   "étudier communication et lettres françaises",
+   "study communication and french literature",
+   "communication",
+   "lettres françaises",
+   "bidisciplinaire",
+   "joint honours"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.A. spécialisé bidisciplinaire en communication et lettres françaises ?",
+   "en": "What is the joint honours BA in Communication and Lettres françaises?"
+  },
+  "answer": {
+   "fr": "Ce programme combine la communication, où tu analyses les médias, la communication organisationnelle et l'impact des technologies sur la société, et les lettres françaises, où tu étudies la littérature de la francophonie et perfectionnes ton écriture. Le programme est offert en français seulement, avec la formation coop.",
+   "en": "This program combines communication, where you analyze media, organizational communication and the impact of technology on society, with Lettres françaises, where you study francophone literature and refine your writing. The program is offered in French only, with co-op."
+  },
+  "sources": [
+   {
+    "label": "B.A. spécialisé bidisciplinaire en communication et lettres françaises — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/ba-specialise-bidisciplinaire-communication-lettres-francaises/"
+   },
+   {
+    "label": "B.A. spécialisé bidisciplinaire en communication et lettres françaises — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-bidisciplinaire-communication-lettres-francaises/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-communication-science-politique",
+  "category": "programmes",
+  "keywords": [
+   "communication et science politique",
+   "communication and political science",
+   "baccalauréat en communication et science politique",
+   "baccalaureat en communication et science politique",
+   "programme de communication et science politique",
+   "bachelor of communication and political science",
+   "honours communication and political science",
+   "communication and political science program",
+   "étudier communication et science politique",
+   "study communication and political science",
+   "communication",
+   "science politique",
+   "political science",
+   "bidisciplinaire",
+   "joint honours"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.A. spécialisé bidisciplinaire en communication et science politique ?",
+   "en": "What is the joint honours BA in Communication and Political Science?"
+  },
+  "answer": {
+   "fr": "Ce programme bidisciplinaire combine l'étude des médias et de la communication organisationnelle avec la science politique, qui analyse les principes et les rapports de pouvoir qui régissent la vie sociale. Il existe aussi en version B.Sc.Soc. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This joint program combines the study of media and organizational communication with political science, which analyzes the principles and power relations that govern social life. It also exists as a BSocSc. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BA in Communication and Political Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/"
+   },
+   {
+    "label": "B.A. spécialisé bidisciplinaire en communication et science politique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-bidisciplinaire-communication-science-politique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-communication-sociologie",
+  "category": "programmes",
+  "keywords": [
+   "communication et sociologie",
+   "communication and sociology",
+   "baccalauréat en communication et sociologie",
+   "baccalaureat en communication et sociologie",
+   "programme de communication et sociologie",
+   "bachelor of communication and sociology",
+   "honours communication and sociology",
+   "communication and sociology program",
+   "étudier communication et sociologie",
+   "study communication and sociology",
+   "communication",
+   "sociologie",
+   "sociology",
+   "bidisciplinaire",
+   "joint honours"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.A. spécialisé bidisciplinaire en communication et sociologie ?",
+   "en": "What is the joint honours BA in Communication and Sociology?"
+  },
+  "answer": {
+   "fr": "Ce programme bidisciplinaire combine l'étude des médias, des technologies et de la communication organisationnelle avec la sociologie, qui étudie les institutions, les cultures et les transformations des sociétés. Il existe aussi en version B.Sc.Soc. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This joint program combines the study of media, technology and organizational communication with sociology, which studies societies' institutions, cultures and transformations. It also exists as a BSocSc. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BA in Communication and Sociology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/"
+   },
+   {
+    "label": "B.A. spécialisé bidisciplinaire en communication et sociologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-bidisciplinaire-communication-sociologie/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-histoire-science-politique",
+  "category": "programmes",
+  "keywords": [
+   "histoire et science politique",
+   "history and political science",
+   "baccalauréat en histoire et science politique",
+   "baccalaureat en histoire et science politique",
+   "programme d'histoire et science politique",
+   "bachelor of history and political science",
+   "honours history and political science",
+   "history and political science program",
+   "étudier histoire et science politique",
+   "study history and political science",
+   "histoire",
+   "history",
+   "science politique",
+   "political science",
+   "bidisciplinaire"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.A. spécialisé bidisciplinaire en histoire et science politique ?",
+   "en": "What is the joint honours BA in History and Political Science?"
+  },
+  "answer": {
+   "fr": "Ce programme combine l'histoire, qui t'apprend à interpréter les traces de la pensée et des comportements humains à travers le temps, et la science politique, qui analyse les institutions, les idées et les rapports de pouvoir. Il existe aussi en version B.Sc.Soc. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This program combines history, which teaches you to interpret evidence of human thought and behaviour over time, with political science, which analyzes institutions, ideas and power relations. It also exists as a BSocSc. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BA in History and Political Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-history-political-science/"
+   },
+   {
+    "label": "B.A. spécialisé bidisciplinaire en histoire et science politique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-bidisciplinaire-histoire-science-politique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-philosophie-science-politique",
+  "category": "programmes",
+  "keywords": [
+   "philosophie et science politique",
+   "philosophy and political science",
+   "baccalauréat en philosophie et science politique",
+   "baccalaureat en philosophie et science politique",
+   "programme de philosophie et science politique",
+   "bachelor of philosophy and political science",
+   "honours philosophy and political science",
+   "philosophy and political science program",
+   "étudier philosophie et science politique",
+   "study philosophy and political science",
+   "philosophie",
+   "philosophy",
+   "science politique",
+   "political science",
+   "bidisciplinaire"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.A. spécialisé bidisciplinaire en philosophie et science politique ?",
+   "en": "What is the joint honours BA in Philosophy and Political Science?"
+  },
+  "answer": {
+   "fr": "Ce programme combine la philosophie, qui développe une pensée claire, critique et autonome sur la vérité, la justice et la morale, et la science politique, qui étudie les structures, les institutions et les idées de la vie politique. Il existe aussi en version B.Sc.Soc. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "This program combines philosophy, which builds clear, critical and independent thinking about truth, justice and morality, with political science, which studies the structures, institutions and ideas of political life. It also exists as a BSocSc. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BA in Philosophy and Political Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-philosophy-political-science/"
+   },
+   {
+    "label": "B.A. spécialisé bidisciplinaire en philosophie et science politique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-bidisciplinaire-philosophie-science-politique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-ba-psychologie-linguistique",
+  "category": "programmes",
+  "keywords": [
+   "psychologie et linguistique",
+   "psychology and linguistics",
+   "baccalauréat en psychologie et linguistique",
+   "baccalaureat en psychologie et linguistique",
+   "programme de psychologie et linguistique",
+   "bachelor of psychology and linguistics",
+   "honours psychology and linguistics",
+   "psychology and linguistics program",
+   "étudier psychologie et linguistique",
+   "study psychology and linguistics",
+   "psychologie",
+   "psychology",
+   "linguistique",
+   "linguistics",
+   "bidisciplinaire"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.A. spécialisé bidisciplinaire en psychologie et linguistique ?",
+   "en": "What is the joint honours BA in Psychology and Linguistics?"
+  },
+  "answer": {
+   "fr": "Ce programme combine la psychologie, la science du comportement humain et des processus mentaux, et la linguistique, qui étudie l'origine, le fonctionnement et la structure du langage. Le volet psychologie met l'accent sur la façon dont on apprend, communique et interagit. Le programme est offert en français et en anglais.",
+   "en": "This program combines psychology, the science of human behaviour and mental processes, with linguistics, which studies where language comes from, how it works and how it is structured. The psychology side focuses on how we learn, communicate and interact. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BA in Psychology and Linguistics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-psychology-linguistics/"
+   },
+   {
+    "label": "B.A. spécialisé bidisciplinaire en psychologie et linguistique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/ba-specialise-bidisciplinaire-psychologie-linguistique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-majeure-arts-visuels",
+  "category": "programmes",
+  "keywords": [
+   "arts visuels",
+   "visual arts",
+   "majeure en arts visuels",
+   "major in visual arts",
+   "visual arts major",
+   "étudier arts visuels",
+   "study visual arts",
+   "beaux-arts",
+   "fine arts",
+   "art",
+   "peinture"
+  ],
+  "question": {
+   "fr": "C'est quoi la majeure en arts visuels ?",
+   "en": "What is the Major in Visual Arts?"
+  },
+  "answer": {
+   "fr": "La majeure en arts visuels offre les mêmes types de cours que le baccalauréat en beaux-arts, pratiques et théoriques, mais avec plus de cours au choix, et tu peux la combiner avec une mineure ou une deuxième majeure. Elle prépare notamment à l'enseignement des arts, à la gestion de projets dans des organismes artistiques, à la conservation ou au commissariat. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "The Major in Visual Arts offers the same range of practical and theoretical courses as the BFA, but with more electives, and you can combine it with a minor or a second major. It prepares you for careers such as fine arts education, project officer in arts organizations, conservator or curator. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Major in Visual Arts — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/"
+   },
+   {
+    "label": "Majeure en arts visuels — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/majeure-arts-visuels/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-majeure-histoire-art",
+  "category": "programmes",
+  "keywords": [
+   "histoire de l'art",
+   "art history",
+   "majeure en histoire de l'art",
+   "major in art history",
+   "art history major",
+   "étudier histoire de l'art",
+   "study art history",
+   "muséologie",
+   "museum studies",
+   "commissariat",
+   "curating"
+  ],
+  "question": {
+   "fr": "C'est quoi la majeure en histoire de l'art ?",
+   "en": "What is the Major in Art History?"
+  },
+  "answer": {
+   "fr": "La majeure en histoire de l'art t'offre une solide base en art moderne et contemporain international, en études muséales et en commissariat. Tu participes à la vie artistique d'Ottawa grâce à des projets de commissariat, des visites de musées et de galeries et des stages. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "The Major in Art History gives you a strong foundation in international modern and contemporary art, curatorial and museum studies. You take part in Ottawa's art community through curatorial projects, gallery and museum visits, and internships. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Major in Art History — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/major-history-arts/"
+   },
+   {
+    "label": "Majeure en histoire de l'art — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/majeure-histoire-lart/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-majeure-langues-cultures-monde",
+  "category": "programmes",
+  "keywords": [
+   "langues et cultures du monde",
+   "world languages and cultures",
+   "majeure en langues et cultures du monde",
+   "major in world languages and cultures",
+   "world languages and cultures major",
+   "étudier langues et cultures du monde",
+   "study world languages and cultures",
+   "langues étrangères",
+   "foreign languages",
+   "espagnol",
+   "spanish",
+   "japonais",
+   "chinois",
+   "allemand"
+  ],
+  "question": {
+   "fr": "C'est quoi la majeure en langues et cultures du monde ?",
+   "en": "What is the Major in World Languages and Cultures?"
+  },
+  "answer": {
+   "fr": "Cette majeure te permet d'acquérir des compétences dans une ou plusieurs langues internationales et des connaissances sur les cultures et les réalités interculturelles. Le département enseigne entre autres l'arabe, le chinois, l'allemand, l'italien, le japonais, le portugais, le russe et l'espagnol, avec des possibilités d'études et de travail à l'étranger. Le programme est offert en français et en anglais.",
+   "en": "This major lets you gain competency in one or more international languages and knowledge of cultures and intercultural realities. The Department teaches languages including Arabic, Chinese, German, Italian, Japanese, Portuguese, Russian and Spanish, with opportunities to study and work abroad. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Major in World Languages and Cultures — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/"
+   },
+   {
+    "label": "Majeure en langues et cultures du monde — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/majeure-langue-culture-monde/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-majeure-etudes-langue-anglaise",
+  "category": "programmes",
+  "keywords": [
+   "études de la langue anglaise",
+   "english language studies",
+   "majeure en études de la langue anglaise",
+   "major in english language studies",
+   "english language studies major",
+   "étudier études de la langue anglaise",
+   "study english language studies",
+   "anglais langue seconde",
+   "english as a second language",
+   "apprendre l'anglais",
+   "ilob",
+   "olbi"
+  ],
+  "question": {
+   "fr": "C'est quoi la majeure en études de la langue anglaise (pour non-anglophones) ?",
+   "en": "What is the Major in English Language Studies?"
+  },
+  "answer": {
+   "fr": "Offerte par l'Institut des langues officielles et du bilinguisme (ILOB), cette majeure t'aide à améliorer ton anglais langue seconde : lecture, écriture, écoute et expression orale, ainsi que grammaire, vocabulaire, prononciation et culture. Elle est offerte en anglais seulement et uniquement aux étudiants non anglophones.",
+   "en": "Offered by the Official Languages and Bilingualism Institute (OLBI), this major helps you improve your English as a second language: reading, writing, listening and speaking, as well as grammar, vocabulary, pronunciation and culture. It is offered in English only and only to non-Anglophone students."
+  },
+  "sources": [
+   {
+    "label": "Major in English Language Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/major-english-language-studies/"
+   },
+   {
+    "label": "Majeure en études de la langue anglaise — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/majeure-etudes-langue-anglaise/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-majeure-francais-langue-seconde",
+  "category": "programmes",
+  "keywords": [
+   "français langue seconde",
+   "french as a second language",
+   "majeure en français langue seconde",
+   "major in french as a second language",
+   "french as a second language major",
+   "étudier français langue seconde",
+   "study french as a second language",
+   "fls",
+   "apprendre le français",
+   "learn french",
+   "ilob",
+   "olbi"
+  ],
+  "question": {
+   "fr": "C'est quoi la majeure en français langue seconde (FLS) ?",
+   "en": "What is the Major in French as a Second Language (FLS)?"
+  },
+  "answer": {
+   "fr": "Offerte par l'Institut des langues officielles et du bilinguisme (ILOB), cette majeure t'aide à perfectionner ton français langue seconde dans les quatre compétences (lecture, écriture, écoute, expression orale) et dans des volets plus pointus comme la grammaire, le vocabulaire, la prononciation et la culture. Elle est offerte en français, uniquement aux non-francophones.",
+   "en": "Offered by the Official Languages and Bilingualism Institute (OLBI), this major helps you improve your French as a second language in the four core skills (reading, writing, listening, speaking) and in specialized areas such as grammar, vocabulary, pronunciation and culture. It is offered in French, only to non-Francophones."
+  },
+  "sources": [
+   {
+    "label": "Major in French as a Second Language (FLS) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/major-french-second-language-fls/"
+   },
+   {
+    "label": "Majeure en français langue seconde (FLS) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/majeure-francais-langue-seconde-fls/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-majeure-geographie-physique-geomatique",
+  "category": "programmes",
+  "keywords": [
+   "géographie physique et géomatique",
+   "physical geography and geomatics",
+   "majeure en géographie physique et géomatique",
+   "major in physical geography and geomatics",
+   "physical geography and geomatics major",
+   "étudier géographie physique et géomatique",
+   "study physical geography and geomatics",
+   "géomatique",
+   "geomatics",
+   "géographie physique",
+   "physical geography",
+   "sig"
+  ],
+  "question": {
+   "fr": "C'est quoi la majeure en géographie physique et géomatique ?",
+   "en": "What is the Major in Physical Geography and Geomatics?"
+  },
+  "answer": {
+   "fr": "La géographie physique étudie scientifiquement les processus à la surface de la Terre (climat, eau, sols, végétation, faune) à l'aide de mesures sur le terrain et en laboratoire et de données spatiales. La géomatique, elle, porte sur la collecte, la gestion et l'analyse informatique de ces grandes quantités de données spatiales. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "Physical geography is the scientific study of processes at the Earth's surface (climate, water, land, plants and animals) using field and lab measurements and spatial data. Geomatics covers the collection, management and computer analysis of these large amounts of spatial data. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Major in Physical Geography and Geomatics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/major-physical-geography-geomatics/"
+   },
+   {
+    "label": "Majeure en géographie physique et géomatique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/majeure-geographie-physique-geomatique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-majeure-etudes-autochtones",
+  "category": "programmes",
+  "keywords": [
+   "études autochtones",
+   "indigenous studies",
+   "majeure en études autochtones",
+   "major in indigenous studies",
+   "indigenous studies major",
+   "étudier études autochtones",
+   "study indigenous studies",
+   "aboriginal studies",
+   "autochtone",
+   "indigenous",
+   "premières nations",
+   "first nations"
+  ],
+  "question": {
+   "fr": "C'est quoi la majeure en études autochtones ?",
+   "en": "What is the Major in Indigenous Studies?"
+  },
+  "answer": {
+   "fr": "Conçue pour les étudiants autochtones et non autochtones, cette majeure te fait découvrir l'histoire, la philosophie, les cultures, les arts et la vie actuelle des peuples autochtones au Canada et dans le monde. Le programme est offert en français et en anglais.",
+   "en": "Designed for both Indigenous and non-Indigenous students, this major introduces you to the history, philosophy, cultures, arts and current life of Indigenous peoples in Canada and around the world. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Major in Indigenous Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/major-aboriginal-studies/"
+   },
+   {
+    "label": "Majeure en études autochtones — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/majeure-etudes-autochtones/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-majeure-etudes-musique",
+  "category": "programmes",
+  "keywords": [
+   "études de la musique",
+   "music studies",
+   "majeure en études de la musique",
+   "major in music studies",
+   "music studies major",
+   "étudier études de la musique",
+   "study music studies",
+   "musique",
+   "music",
+   "majeure musique",
+   "music major"
+  ],
+  "question": {
+   "fr": "C'est quoi la majeure en études de la musique ?",
+   "en": "What is the Major in Music Studies?"
+  },
+  "answer": {
+   "fr": "La majeure en études de la musique te permet de combiner la musique avec une autre discipline au sein de l'École de musique, qui entretient des liens avec le Centre national des Arts et l'Orchestre symphonique d'Ottawa. L'École offre des programmes en interprétation, composition, éducation musicale, théorie et musicologie. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "The Major in Music Studies lets you combine music with another discipline at the School of Music, which has ties with the National Arts Centre and the Ottawa Symphony Orchestra. The School offers programs in performance, composition, music education, theory and musicology. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Major in Music Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/major-music-studies/"
+   },
+   {
+    "label": "Majeure en études de la musique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/majeure-etudes-musique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-majeure-antiquite-grecque-romaine",
+  "category": "programmes",
+  "keywords": [
+   "antiquité grecque et romaine",
+   "greek and roman studies",
+   "majeure en antiquité grecque et romaine",
+   "major in greek and roman studies",
+   "greek and roman studies major",
+   "étudier antiquité grecque et romaine",
+   "study greek and roman studies",
+   "études classiques",
+   "classics",
+   "histoire ancienne",
+   "ancient history",
+   "grec",
+   "latin"
+  ],
+  "question": {
+   "fr": "Peut-on étudier l'Antiquité grecque et romaine à uOttawa ?",
+   "en": "Can I study Greek and Roman Studies at uOttawa?"
+  },
+  "answer": {
+   "fr": "Oui, en majeure : tu découvres la civilisation grecque et romaine et les origines du monde occidental, dans de petites classes, avec la bibliothèque du département et même un musée sur le campus où tu peux faire du bénévolat auprès d'artefacts de l'Antiquité classique. Prends note que l'admission au baccalauréat spécialisé dans ce domaine est suspendue jusqu'à nouvel ordre. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "Yes, as a major: you explore Greek and Roman civilization and the origins of the Western world in small classes, with the department's library and even an on-campus museum where you can volunteer with artifacts from the Classical world. Note that admission to the honours BA in this field is suspended until further notice. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Major in Greek and Roman Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/"
+   },
+   {
+    "label": "Majeure en antiquité grecque et romaine — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/majeure-antiquite-grecque-romaine/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-majeure-sciences-religions",
+  "category": "programmes",
+  "keywords": [
+   "sciences des religions",
+   "religious studies",
+   "majeure en sciences des religions",
+   "major in religious studies",
+   "religious studies major",
+   "étudier sciences des religions",
+   "study religious studies",
+   "religion",
+   "études religieuses",
+   "spiritualité"
+  ],
+  "question": {
+   "fr": "Peut-on étudier les sciences des religions à uOttawa ?",
+   "en": "Can I study Religious Studies at uOttawa?"
+  },
+  "answer": {
+   "fr": "Oui, en majeure, à combiner avec une autre majeure ou une mineure pour compléter ton diplôme. Elle te donne les méthodes d'étude de la religion et des compétences critiques et culturelles utiles dans de nombreux milieux. Prends note que l'admission au baccalauréat spécialisé en sciences des religions est suspendue jusqu'à nouvel ordre. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "Yes, as a major, combined with another major or a minor to complete your degree. It gives you the methods used to study religion and cultural and critical skills useful in many settings. Note that admission to the honours BA in Religious Studies is suspended until further notice. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Major in Religious Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/major-religious-studies/"
+   },
+   {
+    "label": "Majeure en sciences des religions — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/majeure-sciences-religions/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-relations-publiques",
+  "category": "programmes",
+  "keywords": [
+   "relations publiques",
+   "public relations",
+   "baccalauréat en relations publiques",
+   "baccalaureat en relations publiques",
+   "programme de relations publiques",
+   "bachelor of public relations",
+   "honours public relations",
+   "public relations program",
+   "étudier relations publiques",
+   "study public relations",
+   "rp",
+   "pr",
+   "la cité",
+   "algonquin",
+   "communication"
+  ],
+  "question": {
+   "fr": "Comment fonctionne le baccalauréat spécialisé en relations publiques ?",
+   "en": "How does the Honours Bachelor in Public Relations work?"
+  },
+  "answer": {
+   "fr": "Ce programme du Département de communication est offert conjointement avec le Collège Algonquin (en anglais) et La Cité (en français). Tu peux commencer à uOttawa et, après 60 crédits, passer au collège pour le diplôme en relations publiques (au Collège Algonquin, ce cheminement est limité à 25 places et exige une moyenne d'au moins 70 %), ou faire d'abord deux ans au collège puis 60 crédits à uOttawa. Le programme est offert en français et en anglais.",
+   "en": "This program from the Department of Communication is offered jointly with Algonquin College (in English) and La Cité (in French). You can start at uOttawa and, after 60 units, transfer to the college for the public relations diploma (at Algonquin College this stream is limited to 25 students and requires an average of at least 70%), or complete two years at the college first and then 60 units at uOttawa. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Public Relations — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-public-relations/"
+   },
+   {
+    "label": "Baccalauréat spécialisé en relations publiques et communication — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-specialise-relations-publiques-communication/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-certificat-creation-litteraire",
+  "category": "programmes",
+  "keywords": [
+   "création littéraire",
+   "creative writing",
+   "certificat en création littéraire",
+   "certificate in creative writing",
+   "étudier création littéraire",
+   "study creative writing",
+   "écriture",
+   "writing",
+   "poésie",
+   "poetry",
+   "fiction"
+  ],
+  "question": {
+   "fr": "Y a-t-il un certificat en création littéraire (Creative Writing) ?",
+   "en": "Is there a Certificate in Creative Writing?"
+  },
+  "answer": {
+   "fr": "Oui, en anglais : le certificat en création littéraire s'adresse aux personnes qui ne sont pas inscrites à un programme universitaire à temps plein. Guidé par des experts, tu crées, révises et retravailles tes textes dans trois genres parmi la poésie, la fiction, la non-fiction créative et l'écriture pour la scène. Le programme est offert en anglais seulement.",
+   "en": "Yes, in English: the Certificate in Creative Writing is designed for people not currently enrolled in a full-time university program. Guided by accomplished experts, you create, edit and revise your writing in three genres among poetry, fiction, creative non-fiction and writing for the stage. The program is offered in English only."
+  },
+  "sources": [
+   {
+    "label": "Certificate Creative Writing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/"
+   },
+   {
+    "label": "Certificate Creative Writing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/certificate-creative-writing/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-certificat-redaction-professionnelle",
+  "category": "programmes",
+  "keywords": [
+   "rédaction professionnelle",
+   "professional writing",
+   "certificat en rédaction professionnelle",
+   "certificate in professional writing",
+   "étudier rédaction professionnelle",
+   "study professional writing",
+   "édition",
+   "editing",
+   "rédaction",
+   "technical writing",
+   "rédaction technique"
+  ],
+  "question": {
+   "fr": "Y a-t-il un certificat en rédaction professionnelle ?",
+   "en": "Is there a certificate in professional writing?"
+  },
+  "answer": {
+   "fr": "Oui, dans les deux langues : le certificat en rédaction professionnelle et édition du Département de français, offert en français, et le Professional Writing Certificate du Département d'anglais, offert en anglais. Tu y apprends les techniques de rédaction, de révision et d'édition recherchées au gouvernement, en entreprise et dans les organismes.",
+   "en": "Yes, in both languages: the certificat en rédaction professionnelle et édition from the Département de français, offered in French, and the Professional Writing Certificate from the Department of English, offered in English. You learn the writing, editing and publishing skills employers look for in government, business and organizations."
+  },
+  "sources": [
+   {
+    "label": "Certificate Professional Writing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/certificate-professional-writing/"
+   },
+   {
+    "label": "Certificate Professional Writing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/certificate-professional-writing/"
+   },
+   {
+    "label": "Certificat Rédaction professionnelle et édition — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/certificat-redaction-professionnelle-edition/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-certificat-etudes-francophonies",
+  "category": "programmes",
+  "keywords": [
+   "études des francophonies",
+   "francophone studies",
+   "certificat en études des francophonies",
+   "certificate in francophone studies",
+   "étudier études des francophonies",
+   "study francophone studies",
+   "francophonie",
+   "franco-ontarien",
+   "french-speaking communities"
+  ],
+  "question": {
+   "fr": "C'est quoi le certificat en études des francophonies ?",
+   "en": "What is the Certificate in Francophone Studies?"
+  },
+  "answer": {
+   "fr": "Ce programme multidisciplinaire, unique en Ontario, te fait découvrir les aspects culturels, juridiques, linguistiques, sociaux, éducatifs et politiques de la francophonie dans le monde. Le certificat s'adresse notamment aux diplômés récents du secondaire ou du collège, aux bénévoles, intervenants communautaires et fonctionnaires, et certains cours ont lieu en fin d'après-midi ou en soirée. Le programme est offert en français seulement.",
+   "en": "This multidisciplinary program, unique in Ontario, explores the cultural, legal, linguistic, social, educational and political aspects of the francophonie around the world. The certificate is aimed at people such as recent high school or college graduates, volunteers, community workers and civil servants, and some courses are held in the late afternoon or evening. The program is offered in French only."
+  },
+  "sources": [
+   {
+    "label": "Certificate Francophone Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/certificate-francophone-studies/"
+   },
+   {
+    "label": "Certificat études des francophonies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/certificat-etudes-francophonies/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-anthropologie",
+  "category": "programmes",
+  "keywords": [
+   "anthropologie",
+   "anthropology",
+   "baccalauréat en anthropologie",
+   "baccalaureat en anthropologie",
+   "programme d'anthropologie",
+   "bachelor of anthropology",
+   "honours anthropology",
+   "anthropology program",
+   "étudier anthropologie",
+   "study anthropology",
+   "b.sc.soc. anthropologie",
+   "bsocsc anthropology",
+   "anthropologie sociale",
+   "cultural anthropology"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en anthropologie ?",
+   "en": "What is the Honours BSocSc in Anthropology?"
+  },
+  "answer": {
+   "fr": "L'anthropologie étudie la diversité des sociétés humaines par l'analyse comparative et le travail de terrain qualitatif en profondeur. Les programmes en anthropologie sociale et culturelle t'aident à comprendre les changements culturels et les relations interculturelles dans le contexte de la mondialisation, du développement, des migrations et des nouvelles technologies. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "Anthropology studies the diversity of human societies through comparative analysis and in-depth qualitative fieldwork. The programs in social and cultural anthropology help you understand cultural change and intercultural relations in the context of globalization, development, migration and new technologies. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSocSc Anthropology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé anthropologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-anthropologie/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-sociologie",
+  "category": "programmes",
+  "keywords": [
+   "sociologie",
+   "sociology",
+   "baccalauréat en sociologie",
+   "baccalaureat en sociologie",
+   "programme de sociologie",
+   "bachelor of sociology",
+   "honours sociology",
+   "sociology program",
+   "étudier sociologie",
+   "study sociology",
+   "b.sc.soc. sociologie",
+   "bsocsc sociology",
+   "inégalités sociales",
+   "social sciences"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en sociologie ?",
+   "en": "What is the Honours BSocSc in Sociology?"
+  },
+  "answer": {
+   "fr": "La sociologie étudie les sociétés, leurs institutions, leurs cultures et leurs transformations, par exemple l'origine et les conséquences des inégalités sociales. Tu appliques des approches théoriques à des cas réels et tu apprends des outils de recherche comme l'entrevue, l'analyse de discours, les sondages et l'analyse statistique. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "Sociology studies societies, their institutions, cultures and transformations, such as the origins and consequences of social inequalities. You apply theory to real-world cases and learn research tools such as interviewing, discourse analysis, surveys and statistical analysis. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSocSc Sociology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-sociology/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé sociologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-sociologie/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-administration-publique",
+  "category": "programmes",
+  "keywords": [
+   "administration publique",
+   "public administration",
+   "baccalauréat en administration publique",
+   "baccalaureat en administration publique",
+   "programme d'administration publique",
+   "bachelor of public administration",
+   "honours public administration",
+   "public administration program",
+   "étudier administration publique",
+   "study public administration",
+   "fonction publique",
+   "public service",
+   "politiques publiques",
+   "public policy",
+   "gouvernement"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en administration publique ?",
+   "en": "What is the Honours BSocSc in Public Administration?"
+  },
+  "answer": {
+   "fr": "L'administration publique étudie le fonctionnement des gouvernements : gestion publique, gestion financière, ressources humaines, éthique, gouvernance et conception des politiques publiques. Le programme prépare à une carrière dans les secteurs public et parapublic, mais aussi dans le privé ou les organismes sans but lucratif. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "Public administration studies how governments work: public management, financial management, human resources, ethics, governance and public policy design. The program prepares you for a career in the public or para-public sectors, as well as in the private or non-profit sectors. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSocSc Public Administration — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-public-administration/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé administration publique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-administration-publique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-etudes-internationales-langues",
+  "category": "programmes",
+  "keywords": [
+   "études internationales",
+   "international studies",
+   "baccalauréat en études internationales",
+   "baccalaureat en etudes internationales",
+   "programme d'études internationales",
+   "bachelor of international studies",
+   "honours international studies",
+   "international studies program",
+   "étudier études internationales",
+   "study international studies",
+   "langues modernes",
+   "modern languages",
+   "relations internationales",
+   "international relations",
+   "model un"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en études internationales et langues modernes ?",
+   "en": "What is the Honours BSocSc in International Studies and Modern Languages?"
+  },
+  "answer": {
+   "fr": "Ce programme multidisciplinaire, ancré en science politique, étudie les enjeux internationaux et les relations interculturelles, avec des apports de l'économie, de la géographie, de l'histoire et des religions. Tu deviens compétent dans les deux langues officielles et dans au moins une autre langue moderne (par exemple arabe, chinois, allemand, italien, japonais, portugais ou russe), avec des possibilités d'études à l'étranger, de cours de terrain et de stages internationaux. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This multidisciplinary program, grounded in political science, studies international issues and intercultural relations, drawing on economics, geography, history and world religions. You become proficient in both official languages and at least one other modern language (such as Arabic, Chinese, German, Italian, Japanese, Portuguese or Russian), with study abroad, international field courses and internships. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSocSc International Studies and Modern Languages — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-international-studies-modern-languages/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé études internationales et langues modernes — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-etudes-internationales-langues-modernes/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-economie-internationale-developpement",
+  "category": "programmes",
+  "keywords": [
+   "économie internationale et développement",
+   "international economics and development",
+   "baccalauréat en économie internationale et développement",
+   "baccalaureat en economie internationale et developpement",
+   "programme d'économie internationale et développement",
+   "bachelor of international economics and development",
+   "honours international economics and development",
+   "international economics and development program",
+   "étudier économie internationale et développement",
+   "study international economics and development",
+   "économie internationale",
+   "international economics",
+   "mondialisation",
+   "globalization",
+   "développement économique"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en économie internationale et développement ?",
+   "en": "What is the Honours BSocSc in International Economics and Development?"
+  },
+  "answer": {
+   "fr": "Ce programme repose sur des cours d'économie qui montrent comment la mondialisation touche les individus, les industries, le secteur public et les pays. Tu y étudies les facteurs de la croissance et du développement économiques, dans les économies émergentes comme industrialisées. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This program is built on economics courses showing how globalization affects individuals, industry, the public sector and entire nations. You study the factors that shape economic growth and development in both emerging and industrialized economies. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSocSc International Economics and Development — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-international-economics-development/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé économie internationale et développement — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-economie-internationale-developpement/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-economie-politiques-publiques",
+  "category": "programmes",
+  "keywords": [
+   "économie et politiques publiques",
+   "economics and public policy",
+   "baccalauréat en économie et politiques publiques",
+   "baccalaureat en economie et politiques publiques",
+   "programme d'économie et politiques publiques",
+   "bachelor of economics and public policy",
+   "honours economics and public policy",
+   "economics and public policy program",
+   "étudier économie et politiques publiques",
+   "study economics and public policy",
+   "politiques publiques",
+   "public policy",
+   "économie publique",
+   "fiscalité",
+   "taxation"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en économie et politiques publiques ?",
+   "en": "What is the Honours BSocSc in Economics and Public Policy?"
+  },
+  "answer": {
+   "fr": "Ce programme interdisciplinaire utilise les outils de l'analyse économique pour comprendre les défis de l'économie du secteur public, au fédéral, au provincial et au municipal. Il touche notamment le marché du travail, la santé, l'éducation, l'environnement et la fiscalité. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This interdisciplinary program uses the tools of economic analysis to understand the challenges of public-sector economics at the federal, provincial and municipal levels. Areas include the labour market, health care, education, the environment and taxation. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSocSc Economics and Public Policy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé économie et politiques publiques — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-economie-politiques-publiques/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-economie-environnement",
+  "category": "programmes",
+  "keywords": [
+   "économie de l'environnement",
+   "environmental economics",
+   "baccalauréat en économie de l'environnement",
+   "baccalaureat en economie de l'environnement",
+   "programme d'économie de l'environnement",
+   "bachelor of environmental economics",
+   "honours environmental economics",
+   "environmental economics program",
+   "étudier économie de l'environnement",
+   "study environmental economics",
+   "politiques environnementales",
+   "environmental policy",
+   "développement durable",
+   "sustainability",
+   "changements climatiques"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en économie et politiques publiques de l'environnement ?",
+   "en": "What is the Honours BSocSc in Environmental Economics and Public Policy?"
+  },
+  "answer": {
+   "fr": "Ce programme te donne une compréhension multidisciplinaire de l'environnement, de l'économie et de leurs interactions : peut-on faire croître l'économie tout en protégeant l'environnement ? Il comprend une option coop, un stage de recherche possible en 4e année et un projet de recherche sur les politiques publiques en fin de parcours. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "This program gives you a multidisciplinary understanding of the environment, the economy and how they interact: can we grow the economy and protect the environment at the same time? It includes a co-op option, a possible fourth-year research internship and a capstone policy research project. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSocSc Environmental Economics and Public Policy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-environmental-economics-public-policy/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé économie et politiques publiques de l'environnement — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-economie-politiques-publiques-lenvironnement/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-conflits-droits-humains-maitrise-securite",
+  "category": "programmes",
+  "keywords": [
+   "études des conflits et droits humains",
+   "conflict studies and human rights",
+   "étudier études des conflits et droits humains",
+   "study conflict studies and human rights",
+   "sécurité et défense",
+   "security and defence",
+   "maîtrise accélérée",
+   "accelerated master",
+   "droits humains",
+   "human rights"
+  ],
+  "question": {
+   "fr": "Peut-on faire un baccalauréat en études des conflits et droits humains et une maîtrise en sécurité et défense plus rapidement ?",
+   "en": "Can I do a bachelor's in Conflict Studies and Human Rights and a master's in Security and Defence faster?"
+  },
+  "answer": {
+   "fr": "Oui : ce cheminement intégré baccalauréat-maîtrise te permet de terminer le B.Sc.Soc. spécialisé en études des conflits et droits humains et la maîtrise ès arts en études de sécurité et défense en moins de temps que par les voies séparées. La maîtrise (option cours) est déjà conçue pour se faire en un an. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "Yes: this integrated bachelor's–master's pathway lets you complete the Honours BSocSc in Conflict Studies and Human Rights and the MA in Security and Defence Studies in less time than the standard, separate pathways. The master's (course option) is already designed to be completed in one year. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSocSc Conflict Studies and Human Rights and Master of Arts in Security and Defence Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-conflict-studies-human-rights-master-arts-security-defence-studies/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé études des conflits et droits humains et Maîtrise ès arts en études de sécurité et défense — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-etudes-conflits-droits-humains-maitrise-arts-etudes-securite-defense/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-science-politique-juris-doctor",
+  "category": "programmes",
+  "keywords": [
+   "science politique et droit",
+   "political science and law",
+   "étudier science politique et droit",
+   "study political science and law",
+   "science politique jd",
+   "political science jd",
+   "double diplôme droit",
+   "common law",
+   "devenir avocat"
+  ],
+  "question": {
+   "fr": "Peut-on combiner un baccalauréat en science politique et un diplôme en droit (J.D.) ?",
+   "en": "Can I combine a bachelor's in Political Science with a law degree (JD)?"
+  },
+  "answer": {
+   "fr": "Oui : ce double diplôme, offert en français seulement, te permet de terminer les deux programmes en six ans et d'obtenir deux diplômes distincts, un B.Sc.Soc. spécialisé en science politique et un Juris Doctor (J.D.) en common law.",
+   "en": "Yes: this dual degree, offered in French only, lets you complete both programs in six years and earn two separate degrees, an Honours BSocSc in Political Science and a Juris Doctor (JD) in common law."
+  },
+  "sources": [
+   {
+    "label": "Honours BSocSc Political Science and Juris Doctor (JD) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-political-science-juris-doctor-jd/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé science politique et Juris Doctor (J.D.) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-science-politique-juris-doctor-jd/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-administration-publique-maitrise",
+  "category": "programmes",
+  "keywords": [
+   "administration publique",
+   "public administration",
+   "étudier administration publique",
+   "study public administration",
+   "maîtrise administration publique",
+   "master public administration",
+   "voie rapide",
+   "fast-track",
+   "analyste des politiques"
+  ],
+  "question": {
+   "fr": "Peut-on faire un baccalauréat et une maîtrise en administration publique en voie rapide ?",
+   "en": "Is there a fast-track bachelor's and master's in Public Administration?"
+  },
+  "answer": {
+   "fr": "Oui : ce cheminement combine le B.Sc.Soc. spécialisé en administration publique et une maîtrise d'un an où tu te spécialises en politiques publiques ou en gestion publique. Il s'adresse à celles et ceux qui veulent acquérir rapidement les compétences de gestionnaire public ou d'analyste des politiques. Le programme est offert en français et en anglais.",
+   "en": "Yes: this pathway combines the Honours BSocSc in Public Administration with a one-year master's where you specialize in public policy or public management. It's designed for people who want to quickly gain the skills to work as public managers and policy analysts. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Honours BSocSc Public Administration and Master of Arts Public Administration — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-public-administration-master-arts-public-administration/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé administration publique et Maîtrise ès arts administration publique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-administration-publique-maitrise-arts-administration-publique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-anthropologie-sociologie",
+  "category": "programmes",
+  "keywords": [
+   "anthropologie et sociologie",
+   "anthropology and sociology",
+   "baccalauréat en anthropologie et sociologie",
+   "baccalaureat en anthropologie et sociologie",
+   "programme d'anthropologie et sociologie",
+   "bachelor of anthropology and sociology",
+   "honours anthropology and sociology",
+   "anthropology and sociology program",
+   "étudier anthropologie et sociologie",
+   "study anthropology and sociology",
+   "anthropologie",
+   "anthropology",
+   "sociologie",
+   "sociology",
+   "bidisciplinaire"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc.Soc. spécialisé bidisciplinaire en anthropologie et sociologie ?",
+   "en": "What is the joint honours BSocSc in Anthropology and Sociology?"
+  },
+  "answer": {
+   "fr": "Ce programme combine l'anthropologie, qui étudie la diversité des sociétés humaines par l'analyse comparative et le terrain qualitatif, et la sociologie, qui étudie les institutions, les cultures et les transformations des sociétés. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This program combines anthropology, which studies the diversity of human societies through comparative analysis and qualitative fieldwork, with sociology, which studies societies' institutions, cultures and transformations. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BSocSc in Anthropology and Sociology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-anthropology-sociology/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé bidisciplinaire en anthropologie et sociologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-bidisciplinaire-anthropologie-sociologie/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-criminologie-etudes-feministes",
+  "category": "programmes",
+  "keywords": [
+   "criminologie et études féministes",
+   "criminology and gender studies",
+   "baccalauréat en criminologie et études féministes",
+   "baccalaureat en criminologie et etudes feministes",
+   "programme de criminologie et études féministes",
+   "bachelor of criminology and gender studies",
+   "honours criminology and gender studies",
+   "criminology and gender studies program",
+   "étudier criminologie et études féministes",
+   "study criminology and gender studies",
+   "criminologie",
+   "criminology",
+   "études féministes et de genre",
+   "feminist and gender studies",
+   "bidisciplinaire"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc.Soc. spécialisé bidisciplinaire en criminologie et études féministes et de genre ?",
+   "en": "What is the joint honours BSocSc in Criminology and Feminist and Gender Studies?"
+  },
+  "answer": {
+   "fr": "Ce programme combine la criminologie, l'analyse scientifique du crime, de la criminalisation et du contrôle social, et les études féministes et de genre, qui explorent les femmes, le genre et les féminismes en lien avec des enjeux comme les sexualités, le colonialisme et le racisme. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "This program combines criminology, the scientific analysis of crime, criminalization and social control, with feminist and gender studies, which explore women, gender and feminisms in relation to issues such as sexualities, colonialism and racism. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BSocSc in Criminology and in Feminist and Gender Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-criminology-feminist-gender-studies/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé bidisciplinaire en criminologie et en études féministes et de genre — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-bidisciplinaire-criminologie-etudes-feministes-genre/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-economie-science-politique",
+  "category": "programmes",
+  "keywords": [
+   "économie et science politique",
+   "economics and political science",
+   "baccalauréat en économie et science politique",
+   "baccalaureat en economie et science politique",
+   "programme d'économie et science politique",
+   "bachelor of economics and political science",
+   "honours economics and political science",
+   "economics and political science program",
+   "étudier économie et science politique",
+   "study economics and political science",
+   "économie",
+   "economics",
+   "science politique",
+   "political science",
+   "bidisciplinaire"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc.Soc. spécialisé bidisciplinaire en science économique et science politique ?",
+   "en": "What is the joint honours BSocSc in Economics and Political Science?"
+  },
+  "answer": {
+   "fr": "Ce programme combine la science économique, qui étudie comment les individus et la société font des choix dans un monde aux ressources limitées, et la science politique, qui analyse les institutions, les idéologies et les rapports de pouvoir. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This program combines economics, which examines how individuals and society make choices in a world of limited resources, with political science, which analyzes institutions, ideologies and power relations. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BSocSc in Economics and Political Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-economics-political-science/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé bidisciplinaire en science économique et science politique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-bidisciplinaire-science-economique-science-politique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-etudes-feministes-science-politique",
+  "category": "programmes",
+  "keywords": [
+   "études féministes et science politique",
+   "gender studies and political science",
+   "baccalauréat en études féministes et science politique",
+   "baccalaureat en etudes feministes et science politique",
+   "programme d'études féministes et science politique",
+   "bachelor of gender studies and political science",
+   "honours gender studies and political science",
+   "gender studies and political science program",
+   "étudier études féministes et science politique",
+   "study gender studies and political science",
+   "études féministes et de genre",
+   "feminist and gender studies",
+   "science politique",
+   "political science",
+   "bidisciplinaire"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc.Soc. spécialisé bidisciplinaire en études féministes et de genre et en science politique ?",
+   "en": "What is the joint honours BSocSc in Feminist and Gender Studies and Political Science?"
+  },
+  "answer": {
+   "fr": "Ce programme combine les études féministes et de genre de l'Institut d'études féministes et de genre, qui abordent la mondialisation, les sexualités, le colonialisme et le racisme, avec la science politique, qui étudie les institutions et les rapports de pouvoir. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This program combines feminist and gender studies from the Institute of Feminist and Gender Studies, which tackle globalization, sexualities, colonialism and racism, with political science, which studies institutions and power relations. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BSocSc in Feminist and Gender Studies and in Political Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-feminist-gender-studies-political-science/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé bidisciplinaire en études féministes et de genre et en science politique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-bidisciplinaire-etudes-feministes-genre-science-politique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-etudes-feministes-sociologie",
+  "category": "programmes",
+  "keywords": [
+   "études féministes et sociologie",
+   "gender studies and sociology",
+   "baccalauréat en études féministes et sociologie",
+   "baccalaureat en etudes feministes et sociologie",
+   "programme d'études féministes et sociologie",
+   "bachelor of gender studies and sociology",
+   "honours gender studies and sociology",
+   "gender studies and sociology program",
+   "étudier études féministes et sociologie",
+   "study gender studies and sociology",
+   "études féministes et de genre",
+   "feminist and gender studies",
+   "sociologie",
+   "sociology",
+   "bidisciplinaire"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc.Soc. spécialisé bidisciplinaire en études féministes et de genre et en sociologie ?",
+   "en": "What is the joint honours BSocSc in Feminist and Gender Studies and Sociology?"
+  },
+  "answer": {
+   "fr": "Ce programme combine les études féministes et de genre, qui explorent les femmes, le genre et les féminismes, avec la sociologie, qui étudie les institutions, les cultures et les inégalités sociales. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This program combines feminist and gender studies, which explore women, gender and feminisms, with sociology, which studies institutions, cultures and social inequalities. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BSocSc in Feminist and Gender Studies and in Sociology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-feminist-gender-studies-sociology/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé bidisciplinaire en études féministes et de genre et en sociologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-bidisciplinaire-etudes-feministes-genre-sociologie/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-mathematiques-economie",
+  "category": "programmes",
+  "keywords": [
+   "mathématiques et économie",
+   "mathematics and economics",
+   "baccalauréat en mathématiques et économie",
+   "baccalaureat en mathematiques et economie",
+   "programme de mathématiques et économie",
+   "bachelor of mathematics and economics",
+   "honours mathematics and economics",
+   "mathematics and economics program",
+   "étudier mathématiques et économie",
+   "study mathematics and economics",
+   "maths économie",
+   "math economics",
+   "mathématiques",
+   "économie",
+   "bidisciplinaire"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme bidisciplinaire en mathématiques et science économique ?",
+   "en": "What is the joint honours program in Mathematics and Economics?"
+  },
+  "answer": {
+   "fr": "Ce programme combine les mathématiques, des outils puissants pour modéliser le monde, et la science économique. Il est offert en B.Sc. spécialisé bidisciplinaire et en B.Sc.Soc. spécialisé bidisciplinaire. Le programme est offert en français et en anglais, avec la formation coop.",
+   "en": "This program combines mathematics, powerful tools for modelling the world, with economics. It is offered as a joint honours BSc and as a joint honours BSocSc. The program is offered in English and French, with co-op."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BSocSc in Mathematics and Economics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé bidisciplinaire en mathématiques et science économique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-bidisciplinaire-mathematiques-science-economique/"
+   },
+   {
+    "label": "Joint Honours BSc in Mathematics and Economics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsc-mathematics-economics/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bscsoc-administration-publique-science-politique",
+  "category": "programmes",
+  "keywords": [
+   "administration publique et science politique",
+   "public administration and political science",
+   "baccalauréat en administration publique et science politique",
+   "baccalaureat en administration publique et science politique",
+   "programme d'administration publique et science politique",
+   "bachelor of public administration and political science",
+   "honours public administration and political science",
+   "public administration and political science program",
+   "étudier administration publique et science politique",
+   "study public administration and political science",
+   "administration publique",
+   "public administration",
+   "science politique",
+   "political science",
+   "bidisciplinaire"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc.Soc. spécialisé bidisciplinaire en administration publique et science politique ?",
+   "en": "What is the joint honours BSocSc in Public Administration and Political Science?"
+  },
+  "answer": {
+   "fr": "Ce programme combine l'administration publique, qui étudie le fonctionnement des gouvernements, la gestion publique et la conception des politiques, et la science politique, qui analyse les institutions, les idées et les rapports de pouvoir. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This program combines public administration, which studies how governments work, public management and policy design, with political science, which analyzes institutions, ideas and power relations. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BSocSc in Public Administration and Political Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-public-administration-political-science/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé bidisciplinaire en administration publique et science politique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-bidisciplinaire-administration-publique-science-politique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-baccalaureat-sciences-sociales",
+  "category": "programmes",
+  "keywords": [
+   "sciences sociales",
+   "social sciences",
+   "baccalauréat en sciences sociales",
+   "baccalaureat en sciences sociales",
+   "programme de sciences sociales",
+   "bachelor of social sciences",
+   "honours social sciences",
+   "social sciences program",
+   "étudier sciences sociales",
+   "study social sciences",
+   "b.sc.soc. général",
+   "general bsocsc",
+   "études interdisciplinaires",
+   "interdisciplinary studies",
+   "préparation droit"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat en sciences sociales en études interdisciplinaires ?",
+   "en": "What is the Bachelor of Social Sciences in Interdisciplinary Studies?"
+  },
+  "answer": {
+   "fr": "Ce baccalauréat te permet de couvrir les bases des sciences sociales et constitue un excellent tremplin vers des études en droit ou en éducation. Le programme est offert en français et en anglais.",
+   "en": "This bachelor's lets you cover the fundamentals of the social sciences and is an excellent springboard to studies in law or education. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Bachelor of Social Sciences in Interdisciplinary Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/bachelor-social-sciences/"
+   },
+   {
+    "label": "Baccalauréat en sciences sociales en études interdisciplinaires — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-sociales/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-regime-apprentissage-experientiel",
+  "category": "programmes",
+  "keywords": [
+   "apprentissage expérientiel",
+   "experiential learning",
+   "étudier apprentissage expérientiel",
+   "study experiential learning",
+   "raea",
+   "iels",
+   "in-depth experiential learning stream",
+   "régime d'apprentissage expérientiel approfondi",
+   "stage sciences sociales"
+  ],
+  "question": {
+   "fr": "C'est quoi le régime d'apprentissage expérientiel approfondi (RAEA) en sciences sociales ?",
+   "en": "What is the In-depth Experiential Learning Stream (IELS) in Social Sciences?"
+  },
+  "answer": {
+   "fr": "Certains B.Sc.Soc. spécialisés, comme l'anthropologie, le développement international et mondialisation ou le travail social, existent en version RAEA. En anthropologie, par exemple, tu dois réussir au moins 30 crédits de cours désignés RAEA, dont FSS 1300, pour obtenir la mention « régime d'apprentissage expérientiel approfondi » sur ton diplôme.",
+   "en": "Some honours BSocSc programs, such as anthropology, international development and globalization, or social work, come in an IELS version. In anthropology, for example, you must complete at least 30 units of IELS-labelled courses, including FSS 1300, to get the In-depth Experiential Learning Stream designation on your diploma."
+  },
+  "sources": [
+   {
+    "label": "Honours BSocSc Anthropology - In-depth Experiential Learning Stream (IELS) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/"
+   },
+   {
+    "label": "B.Sc.Soc. spécialisé anthropologie - régime d’apprentissage expérientiel approfondi (RAEA) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bscsoc-specialise-anthropologie-raea/"
+   },
+   {
+    "label": "Honours BSocSc International Development and Globalization - In-depth Experiential Learning Stream (IELS) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-international-development-globalization-iels/"
+   },
+   {
+    "label": "Honours BSocSc Social Work - In-depth Experiential Learning Stream (IELS) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-social-work-iels/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-comptabilite",
+  "category": "programmes",
+  "keywords": [
+   "comptabilité",
+   "accounting",
+   "baccalauréat en comptabilité",
+   "baccalaureat en comptabilite",
+   "bachelor of accounting",
+   "honours accounting",
+   "accounting program",
+   "étudier comptabilité",
+   "study accounting",
+   "cpa",
+   "comptable",
+   "accountant",
+   "b.com. comptabilité",
+   "bcom accounting",
+   "telfer"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat en commerce spécialisé en comptabilité ?",
+   "en": "What is the Honours Bachelor of Commerce in Accounting?"
+  },
+  "answer": {
+   "fr": "Ce programme de l'École de gestion Telfer te donne une base solide en comptabilité financière et de gestion, en audit et en fiscalité. Tu peux suivre tous les cours requis pour demander le titre de comptable professionnel agréé (CPA) de l'Ontario, ou choisir un cheminement plus général en comptabilité. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This Telfer School of Management program gives you a solid foundation in financial and managerial accounting, auditing and taxation. You can take all the courses required to apply for Ontario's Chartered Professional Accountant (CPA) designation, or choose a more general accounting stream. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce in Accounting — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-accounting/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé en comptabilité — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-comptabilite/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-analytique-gestion",
+  "category": "programmes",
+  "keywords": [
+   "analytique de gestion",
+   "business analytics",
+   "baccalauréat en analytique de gestion",
+   "baccalaureat en analytique de gestion",
+   "programme d'analytique de gestion",
+   "bachelor of business analytics",
+   "honours business analytics",
+   "business analytics program",
+   "étudier analytique de gestion",
+   "study business analytics",
+   "analytique d'affaires",
+   "données",
+   "data analytics",
+   "telfer",
+   "commerce"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option analytique de gestion du baccalauréat en commerce ?",
+   "en": "What is the Business Analytics option of the Bachelor of Commerce?"
+  },
+  "answer": {
+   "fr": "Cette option de Telfer t'apprend à transformer les données en actions fondées sur des preuves : bases du codage et de la programmation en contexte de gestion, visualisations interactives et méthodes avancées d'analytique prédictive. Tu acquiers une expérience pratique avec des simulations et de la modélisation décisionnelle. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This Telfer option teaches you to turn data into evidence-based action: coding and programming basics in a management setting, interactive visualizations and advanced predictive analytics methods. You gain hands-on experience with simulations and decision modelling. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce (Option in Business Analytics) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-analytics/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé (option analytique de gestion) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-option-analytique-gestion/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-gestion-technologies-affaires",
+  "category": "programmes",
+  "keywords": [
+   "gestion des technologies d'affaires",
+   "business technology management",
+   "baccalauréat en gestion des technologies d'affaires",
+   "baccalaureat en gestion des technologies d'affaires",
+   "bachelor of business technology management",
+   "honours business technology management",
+   "business technology management program",
+   "étudier gestion des technologies d'affaires",
+   "study business technology management",
+   "gta",
+   "btm",
+   "systèmes d'information",
+   "information systems",
+   "telfer",
+   "commerce"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option gestion des technologies d'affaires (GTA) du baccalauréat en commerce ?",
+   "en": "What is the Business Technology Management (BTM) option of the Bachelor of Commerce?"
+  },
+  "answer": {
+   "fr": "Cette option de Telfer développe tes compétences en systèmes d'information de gestion et en analytique, en combinant les principes de gestion et la connaissance des technologies de l'information appliquées aux affaires. Elle prépare à devenir professionnel reconnu des systèmes d'information. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This Telfer option builds your skills in management information systems and analytics, combining management principles with knowledge of information technology applied to business. It prepares you to become a recognized information systems professional. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce (Option in Business Technology Management) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé (option en gestion des technologies d'affaires) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-option-gestion-technologies-daffaires/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-entrepreneuriat",
+  "category": "programmes",
+  "keywords": [
+   "entrepreneuriat",
+   "entrepreneurship",
+   "baccalauréat en entrepreneuriat",
+   "baccalaureat en entrepreneuriat",
+   "programme d'entrepreneuriat",
+   "bachelor of entrepreneurship",
+   "honours entrepreneurship",
+   "entrepreneurship program",
+   "étudier entrepreneuriat",
+   "study entrepreneurship",
+   "démarrer une entreprise",
+   "start a business",
+   "startup",
+   "telfer",
+   "commerce"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option entrepreneuriat du baccalauréat en commerce ?",
+   "en": "What is the Entrepreneurship option of the Bachelor of Commerce?"
+  },
+  "answer": {
+   "fr": "Cette option de Telfer te prépare à créer et gérer de nouvelles entreprises, à contribuer à des entreprises en forte croissance ou à innover dans des organisations établies. Tu étudies le processus d'innovation, la propriété intellectuelle, le financement, l'évaluation des risques, le plan d'affaires et le développement de produits et services. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This Telfer option prepares you to create and manage new ventures, contribute to high-growth enterprises or innovate within established organizations. You study the innovation process, intellectual property, innovation financing, risk assessment, business planning, and product and service development. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce (Option in Entrepreneurship) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-entrepreneurship/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé (option en entrepreneuriat) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-option-entrepreneuriat/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-analytique-soins-sante",
+  "category": "programmes",
+  "keywords": [
+   "analytique en soins de santé",
+   "healthcare analytics",
+   "baccalauréat en analytique en soins de santé",
+   "baccalaureat en analytique en soins de sante",
+   "programme d'analytique en soins de santé",
+   "bachelor of healthcare analytics",
+   "honours healthcare analytics",
+   "healthcare analytics program",
+   "étudier analytique en soins de santé",
+   "study healthcare analytics",
+   "gestion de la santé",
+   "health management",
+   "données de santé",
+   "telfer",
+   "commerce"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option analytique en soins de santé du baccalauréat en commerce ?",
+   "en": "What is the Healthcare Analytics option of the Bachelor of Commerce?"
+  },
+  "answer": {
+   "fr": "Cette option de Telfer porte sur le rôle des données, de l'ingénierie des systèmes, de la gestion et de l'innovation organisationnelle pour améliorer la qualité et la rapidité des services dans le système de santé, en pleine transformation numérique. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This Telfer option focuses on the role of data, systems engineering, management and organizational innovation in improving the quality and timeliness of service delivery in a healthcare system undergoing digital transformation. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce (Option in Healthcare Analytics) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé (option analytique en soins de santé) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-option-analytique-soins-sante/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-ressources-humaines",
+  "category": "programmes",
+  "keywords": [
+   "ressources humaines",
+   "human resource management",
+   "baccalauréat en ressources humaines",
+   "baccalaureat en ressources humaines",
+   "bachelor of human resource management",
+   "honours human resource management",
+   "human resource management program",
+   "étudier ressources humaines",
+   "study human resource management",
+   "grh",
+   "hrm",
+   "rh",
+   "hr",
+   "telfer",
+   "commerce"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option gestion des ressources humaines du baccalauréat en commerce ?",
+   "en": "What is the Human Resource Management option of the Bachelor of Commerce?"
+  },
+  "answer": {
+   "fr": "Cette option de Telfer approfondit les trois fonctions clés de la gestion des ressources humaines : la gestion du personnel, les relations industrielles et le comportement organisationnel. Elle développe des compétences pratiques et conceptuelles pour travailler en RH dans les secteurs privé, public et sans but lucratif. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This Telfer option provides in-depth knowledge of the three key HRM functions: personnel management, industrial relations and organizational behaviour. It builds practical and conceptual skills to work in all areas of HR in the private, public and not-for-profit sectors. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce (Option in Human Resource Management) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-human-resource-management/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé (option en gestion des ressources humaines) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-option-gestion-ressources-humaines/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-gestion-internationale",
+  "category": "programmes",
+  "keywords": [
+   "gestion internationale",
+   "international management",
+   "baccalauréat en gestion internationale",
+   "baccalaureat en gestion internationale",
+   "programme de gestion internationale",
+   "bachelor of international management",
+   "honours international management",
+   "international management program",
+   "étudier gestion internationale",
+   "study international management",
+   "affaires internationales",
+   "international business",
+   "commerce international",
+   "telfer",
+   "commerce"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option gestion internationale du baccalauréat en commerce ?",
+   "en": "What is the International Management option of the Bachelor of Commerce?"
+  },
+  "answer": {
+   "fr": "Cette option de Telfer t'aide à comprendre les problèmes propres aux affaires internationales et à développer tes compétences en décision stratégique. Les cours obligatoires portent sur l'environnement mondial des affaires et son cadre institutionnel international. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This Telfer option helps you understand the distinctive problems of international business and develop strategic decision-making skills. Compulsory courses study the global business environment and its international institutional framework. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce (Option International Management) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-international-management/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé (option en gestion internationale) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-option-gestion-internationale/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-management",
+  "category": "programmes",
+  "keywords": [
+   "management",
+   "baccalauréat en management",
+   "baccalaureat en management",
+   "programme de management",
+   "bachelor of management",
+   "honours management",
+   "management program",
+   "étudier management",
+   "study management",
+   "gestion",
+   "gestion générale",
+   "general management",
+   "telfer",
+   "commerce"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option management du baccalauréat en commerce ?",
+   "en": "What is the Management option of the Bachelor of Commerce?"
+  },
+  "answer": {
+   "fr": "Cette option de Telfer te donne des compétences générales en gestion, en équilibrant les aspects pratiques et analytiques de la prise de décision. Elle met l'accent sur la créativité, l'innovation et la capacité de proposer, d'évaluer et de réaliser des projets. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This Telfer option gives you general management skills, balancing practical and analytical concerns in decision-making. It emphasizes creativity, innovation and the ability to generate, evaluate and carry out project ideas. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce (Option in Management) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-management/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé (option en management) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-option-management/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-marketing",
+  "category": "programmes",
+  "keywords": [
+   "marketing",
+   "baccalauréat en marketing",
+   "baccalaureat en marketing",
+   "programme de marketing",
+   "bachelor of marketing",
+   "honours marketing",
+   "marketing program",
+   "étudier marketing",
+   "study marketing",
+   "mise en marché",
+   "publicité",
+   "advertising",
+   "telfer",
+   "commerce"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option marketing du baccalauréat en commerce ?",
+   "en": "What is the Marketing option of the Bachelor of Commerce?"
+  },
+  "answer": {
+   "fr": "Cette option de Telfer t'apprend comment et pourquoi les personnes et les organisations achètent et consomment des biens et des services. Tu étudies la planification, le développement, la fixation des prix, la promotion et la distribution des produits et services. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This Telfer option teaches you how and why people and organizations purchase and consume goods and services. You study how products and services are planned, developed, priced, promoted and distributed. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce (Option in Marketing) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-marketing/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé (option en marketing) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-option-marketing/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-double-diplome-international",
+  "category": "programmes",
+  "keywords": [
+   "double diplôme international",
+   "international dual degree",
+   "baccalauréat en double diplôme international",
+   "baccalaureat en double diplome international",
+   "bachelor of international dual degree",
+   "honours international dual degree",
+   "international dual degree program",
+   "étudier double diplôme international",
+   "study international dual degree",
+   "études en france",
+   "study in france",
+   "edhec",
+   "kedge",
+   "toulouse business school",
+   "telfer"
+  ],
+  "question": {
+   "fr": "C'est quoi le double diplôme international du baccalauréat en commerce ?",
+   "en": "What is the international dual degree in Commerce?"
+  },
+  "answer": {
+   "fr": "Ce programme à admission directe t'admet à la fois à uOttawa et dans une école partenaire en France : tu fais trois ans à l'École de gestion Telfer et un an à Toulouse Business School, à l'EDHEC Business School ou à KEDGE Business School, et tu obtiens deux diplômes. Les droits de scolarité sont payés à l'Université d'Ottawa. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "This direct-entry program gives you simultaneous admission to uOttawa and a partner school in France: you spend three years at the Telfer School of Management and one year at Toulouse Business School, EDHEC Business School or KEDGE Business School, and earn two degrees. Tuition fees are paid to the University of Ottawa. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce – International Dual Degree — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-international-dual-degree/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé – double diplôme international — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-double-diplome-international/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-juris-doctor",
+  "category": "programmes",
+  "keywords": [
+   "commerce et droit",
+   "commerce and law",
+   "étudier commerce et droit",
+   "study commerce and law",
+   "b.com. j.d.",
+   "bcom jd",
+   "common law",
+   "double diplôme droit commerce",
+   "devenir avocat"
+  ],
+  "question": {
+   "fr": "Peut-on combiner le baccalauréat en commerce et un diplôme en common law (J.D.) ?",
+   "en": "Can I combine the Bachelor of Commerce with a common law degree (JD)?"
+  },
+  "answer": {
+   "fr": "Oui : ce programme offert en français combine le commerce et la common law et te permet de terminer les deux programmes en six ans, avec deux diplômes distincts : un baccalauréat en commerce (avec mention possible « immersion en français » pour les non-francophones) et un Juris Doctor.",
+   "en": "Yes: this program, offered in French, combines commerce and common law and lets you complete both programs in six years, earning two separate degrees: a Bachelor of Commerce (with a possible French Immersion mention for non-Francophones) and a Juris Doctor."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce and Juris Doctor — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-juris-doctor/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé et Juris Doctor — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-juris-doctor/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-licence-droit",
+  "category": "programmes",
+  "keywords": [
+   "commerce et droit civil",
+   "commerce and civil law",
+   "étudier commerce et droit civil",
+   "study commerce and civil law",
+   "b.com. ll.l.",
+   "bcom lll",
+   "droit civil",
+   "civil law",
+   "double diplôme"
+  ],
+  "question": {
+   "fr": "Peut-on combiner le baccalauréat en commerce et la licence en droit civil (LL.L.) ?",
+   "en": "Can I combine the Bachelor of Commerce with a civil law degree (LLL)?"
+  },
+  "answer": {
+   "fr": "Oui : ce programme, offert en français et en anglais avec immersion en français, combine le commerce et le droit civil et te permet de terminer les deux programmes en cinq ans, avec deux diplômes distincts : un baccalauréat spécialisé en commerce et une licence en droit (LL.L.).",
+   "en": "Yes: this program, offered in French and in English with French immersion, combines commerce and civil law and lets you complete both programs in five years, earning two separate degrees: an Honours Bachelor of Commerce and a Licentiate in Law (LLL)."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce and Licentiate in Law (LLL) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-licentiate-law-lll/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé et Licence en droit (LL.L.) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-licence-droit-lll/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-analytique-gestion-sports",
+  "category": "programmes",
+  "keywords": [
+   "analytique sportive",
+   "sports analytics",
+   "microprogramme en analytique sportive",
+   "microprogram in sports analytics",
+   "étudier analytique sportive",
+   "study sports analytics",
+   "analytique de gestion et sports",
+   "business and sports analytics",
+   "gestion du sport",
+   "sport management"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en analytique de gestion et sports ?",
+   "en": "What is the Microprogram in Business and Sports Analytics?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme approfondit tes connaissances en sport, en loisir, en marketing et en analytique, avec des compétences avancées en statistique, en visualisation de données et en gestion du sport pour faire carrière en analytique dans le milieu sportif. Le programme est offert en français et en anglais.",
+   "en": "This microprogram deepens your knowledge of sports, recreation, marketing and analytics, with advanced skills in statistics, data visualization and sports management for a career in sports analytics. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Business and Sports Analytics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-business-sports-analytics/"
+   },
+   {
+    "label": "Microprogramme analytique de gestion et sports — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-analytique-gestion-sports/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-gestion-immobiliere",
+  "category": "programmes",
+  "keywords": [
+   "gestion immobilière",
+   "real estate management",
+   "microprogramme en gestion immobilière",
+   "microprogram in real estate management",
+   "étudier gestion immobilière",
+   "study real estate management",
+   "immobilier",
+   "real estate",
+   "investissement immobilier",
+   "property management"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en gestion immobilière ?",
+   "en": "What is the Microprogram in Real Estate Management?"
+  },
+  "answer": {
+   "fr": "En six cours, ce microprogramme te donne une compréhension complète et intégrée du secteur immobilier, avec une perspective mondiale et durable et un regard sur ses dimensions juridiques et sociales. Il prépare à la gestion, au développement ou à l'investissement immobilier. Le programme est offert en français et en anglais.",
+   "en": "Through six courses, this microprogram gives you a comprehensive and integrated understanding of the real estate sector, with a global and sustainability-oriented perspective and a look at its legal and societal dimensions. It prepares you for real estate management, development or investment. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Real Estate Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-real-estate-management/"
+   },
+   {
+    "label": "Microprogramme gestion immobilière — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-gestion-immobilieres/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-marches-financiers",
+  "category": "programmes",
+  "keywords": [
+   "marchés financiers",
+   "capital markets",
+   "microprogramme en marchés financiers",
+   "microprogram in capital markets",
+   "étudier marchés financiers",
+   "study capital markets",
+   "gestion de portefeuille",
+   "portfolio management",
+   "finance",
+   "investissement",
+   "telfer"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en marchés financiers de Telfer ?",
+   "en": "What is Telfer's Microprogram in Capital Markets?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme de l'École de gestion Telfer fait partie du programme Capital Markets de deux ans : tu gères de vrais fonds sous la supervision d'un conseil consultatif et d'un comité de placement formés de professionnels de l'industrie. Il combine des cours, de l'apprentissage par l'expérience et du mentorat avec des professionnels de la finance.",
+   "en": "This Telfer School of Management microprogram is part of the two-year Capital Markets program: you manage real dollars and are accountable to a Board of Advisors and an Investment Committee of industry professionals. It combines courses, experiential learning and mentorship with finance professionals."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Capital Markets — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-capital-markets/"
+   },
+   {
+    "label": "Microprogramme marchés financiers — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-marches-financiers/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-durabilite-gestion",
+  "category": "programmes",
+  "keywords": [
+   "durabilité en gestion",
+   "business sustainability",
+   "microprogramme en durabilité en gestion",
+   "microprogram in business sustainability",
+   "étudier durabilité en gestion",
+   "study business sustainability",
+   "développement durable",
+   "sustainability",
+   "gestion durable",
+   "telfer",
+   "commerce"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en durabilité en gestion ?",
+   "en": "What is the Microprogram in Business Sustainability?"
+  },
+  "answer": {
+   "fr": "Destiné aux étudiants du baccalauréat spécialisé en commerce, ce microprogramme approfondit tes connaissances en durabilité grâce à des cours interdisciplinaires sur les personnes, la planète et le profit. Le programme est offert en français et en anglais.",
+   "en": "Designed for students in the Honours Bachelor of Commerce, this microprogram deepens your knowledge of sustainability through interdisciplinary courses about people, planet and profit. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Business Sustainability — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-business-sustainability/"
+   },
+   {
+    "label": "Microprogramme durabilité en gestion — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-durabilite-gestion/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-conseil-gestion",
+  "category": "programmes",
+  "keywords": [
+   "conseil en gestion",
+   "management consulting",
+   "microprogramme en conseil en gestion",
+   "microprogram in management consulting",
+   "étudier conseil en gestion",
+   "study management consulting",
+   "consultant",
+   "consulting",
+   "cmc-canada",
+   "telfer"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en conseil en gestion ?",
+   "en": "What is the Microprogram in Management Consulting?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme est réservé aux participants du programme Profession de conseil en gestion du Centre de carrière Telfer. Il te permet d'obtenir des crédits en suivant des cours et des activités d'apprentissage par l'expérience : études de cas, ateliers, visites de cabinets-conseils et mentorat avec un professionnel certifié CMC-Canada.",
+   "en": "This microprogram is reserved for students in the Telfer Career Centre's Profession of Management Consulting Program. You earn academic credits through courses and experiential learning activities: business case studies, workshops, consulting firm visits and mentorship with a CMC-Canada certified professional."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Management Consulting — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-management-consulting/"
+   },
+   {
+    "label": "Microprogramme conseil en gestion — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-conseil-gestion/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsss-biosciences-sante-integrees",
+  "category": "programmes",
+  "keywords": [
+   "biosciences de santé intégrées",
+   "integrative health biosciences",
+   "baccalauréat en biosciences de santé intégrées",
+   "baccalaureat en biosciences de sante integrees",
+   "programme de biosciences de santé intégrées",
+   "bachelor of integrative health biosciences",
+   "honours integrative health biosciences",
+   "integrative health biosciences program",
+   "étudier biosciences de santé intégrées",
+   "study integrative health biosciences",
+   "sciences de la santé",
+   "health sciences",
+   "bhsc",
+   "prémédecine",
+   "pre-med"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option biosciences de santé intégrées du baccalauréat en sciences de la santé ?",
+   "en": "What is the Integrative Health Biosciences option of the Bachelor of Health Sciences?"
+  },
+  "answer": {
+   "fr": "Cette option te donne des connaissances avancées et des approches de recherche pour étudier les processus cellulaires et moléculaires tout au long de la vie, en intégrant des concepts moléculaires et physiopathologiques. Elle te prépare à poursuivre des études en médecine, en réadaptation, en médecine dentaire ou en pharmacie. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This option gives you advanced knowledge and research approaches to investigate the cellular and molecular processes across the life trajectory, integrating molecular and (patho)physiological concepts. It prepares you for further studies in medicine, rehabilitation, dentistry or pharmacy. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Health Sciences - Option Integrative Health Biosciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences-integrative-health-biosciences-option/"
+   },
+   {
+    "label": "Baccalauréat spécialisé en sciences de la santé - option en biosciences de santé intégrées — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-specialise-sciences-sante-option-en-biosciences-sante-integrees/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsss-sante-publique-populations",
+  "category": "programmes",
+  "keywords": [
+   "santé publique",
+   "public health",
+   "baccalauréat en santé publique",
+   "baccalaureat en sante publique",
+   "programme de santé publique",
+   "bachelor of public health",
+   "honours public health",
+   "public health program",
+   "étudier santé publique",
+   "study public health",
+   "santé des populations",
+   "population health",
+   "sciences de la santé",
+   "health sciences",
+   "épidémiologie"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option santé publique et santé des populations du baccalauréat en sciences de la santé ?",
+   "en": "What is the Population and Public Health option of the Bachelor of Health Sciences?"
+  },
+  "answer": {
+   "fr": "Cette option approfondit ta formation en santé des populations et en santé publique, bases du système de santé canadien. Tu analyses des situations de santé locales et mondiales, conçois des interventions et des stratégies de promotion de la santé, et étudies les causes structurelles des inégalités de santé. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This option deepens your training in population health and public health, the foundation of Canada's healthcare system. You appraise local and global health scenarios, develop interventions and health promotion strategies, and study the structural causes of health disparities. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Health Sciences - Population and Public Health Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences-population-and-public-health-option/"
+   },
+   {
+    "label": "Baccalauréat spécialisé en sciences de la santé - option en santé publique et santé des populations — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-specialise-sciences-sante-option-en-sante-publique-et-sante-des-populations/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsss-technologies-innovation-sante",
+  "category": "programmes",
+  "keywords": [
+   "technologies de la santé",
+   "health technologies",
+   "baccalauréat en technologies de la santé",
+   "baccalaureat en technologies de la sante",
+   "programme de technologies de la santé",
+   "bachelor of health technologies",
+   "honours health technologies",
+   "health technologies program",
+   "étudier technologies de la santé",
+   "study health technologies",
+   "innovation en santé",
+   "healthcare innovation",
+   "santé numérique",
+   "digital health",
+   "sciences de la santé"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option technologies et innovation en soins de santé du baccalauréat en sciences de la santé ?",
+   "en": "What is the Technologies and Innovation in Healthcare option of the Bachelor of Health Sciences?"
+  },
+  "answer": {
+   "fr": "Cette option te donne des connaissances théoriques et des compétences appliquées pour examiner les usages et les limites des technologies de la santé. Tu apprends à évaluer leur utilité en recherche clinique et en prestation de services, les méthodes d'évaluation des technologies de la santé et leurs enjeux sociaux et éthiques. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This option gives you theoretical knowledge and applied skills to examine the applications and limitations of health technologies. You learn to evaluate their usefulness in clinical research and service delivery, health technology assessment methods, and their social and ethical implications. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Health Sciences - Technologies and Innovation in Healthcare Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences-technologies-and-innovation-in-healthcare-option/"
+   },
+   {
+    "label": "Baccalauréat spécialisé en sciences de la santé - option en technologies et innovation en soins de santé — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-specialise-sciences-sante-option-en-technologies-et-innovation-en-soins-de-sante/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bac-maitrise-sante-francophone",
+  "category": "programmes",
+  "keywords": [
+   "physiothérapie",
+   "physiotherapy",
+   "étudier physiothérapie",
+   "study physiotherapy",
+   "double diplôme santé",
+   "francophone minoritaire",
+   "francophone minority",
+   "maîtrise physiothérapie",
+   "devenir physiothérapeute"
+  ],
+  "question": {
+   "fr": "C'est quoi les doubles diplômes baccalauréat-maîtrise en sciences de la santé pour francophones hors Québec ?",
+   "en": "What are the bachelor's–master's dual degrees in health sciences for francophones outside Quebec?"
+  },
+  "answer": {
+   "fr": "Ces doubles diplômes ont été conçus pour les élèves bilingues des écoles secondaires francophones en milieu minoritaire au Canada, hors Québec. Le baccalauréat est offert en français : par exemple le baccalauréat en sciences de la santé ou en sciences de l'activité physique, suivi d'une maîtrise ès sciences de la santé en physiothérapie.",
+   "en": "These dual degrees were designed for bilingual students from Francophone minority high schools across Canada, outside Quebec. The bachelor's is offered in French: for example, the Bachelor of Health Sciences or of Human Kinetics, followed by a Master of Health Sciences in Physiotherapy."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Health Sciences and Master of Health Sciences Physiotherapy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences-master-health-sciences-physiotherapy/"
+   },
+   {
+    "label": "Baccalauréat spécialisé en sciences de la santé et Maîtrise ès sciences de la santé physiothérapie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-specialise-sciences-sante-maitrise-sciences-sante-physiotherapie/"
+   },
+   {
+    "label": "Honours Bachelor of Human Kinetics and Master of Health Sciences Physiotherapy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics-master-health-sciences-physiotherapy/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsc-sciences-activite-physique",
+  "category": "programmes",
+  "keywords": [
+   "sciences de l'activité physique",
+   "human kinetics",
+   "baccalauréat en sciences de l'activité physique",
+   "baccalaureat en sciences de l'activite physique",
+   "programme de sciences de l'activité physique",
+   "bachelor of human kinetics",
+   "honours human kinetics",
+   "human kinetics program",
+   "étudier sciences de l'activité physique",
+   "study human kinetics",
+   "b.sc. sciences de l'activité physique",
+   "bsc human kinetics",
+   "biomécanique",
+   "biomechanics",
+   "physiologie de l'exercice"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé en sciences de l'activité physique ?",
+   "en": "What is the Honours BSc in Human Kinetics?"
+  },
+  "answer": {
+   "fr": "Ce B.Sc. met l'accent sur les sciences biophysiques du mouvement : le rôle des systèmes biologiques, anatomiques, musculosquelettiques et neuromoteurs dans la performance motrice, et l'effet du sport et de l'activité physique sur le corps. Il prépare à concevoir des approches fondées sur les données probantes pour améliorer le mouvement humain et la santé. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This BSc emphasizes the biophysical sciences of human kinetics: the role of biological, anatomical, musculoskeletal and neuro-motor systems in motor performance, and the impact of sport and physical activity on the body. It prepares you to develop evidence-based approaches that improve human movement and health. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Science in Human Kinetics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/"
+   },
+   {
+    "label": "Baccalauréat ès sciences spécialisé sciences de l'activité physique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-sciences-lactivite-physique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-kinesiologie",
+  "category": "programmes",
+  "keywords": [
+   "kinésiologie",
+   "kinesiology",
+   "baccalauréat en kinésiologie",
+   "baccalaureat en kinesiologie",
+   "programme de kinésiologie",
+   "bachelor of kinesiology",
+   "honours kinesiology",
+   "kinesiology program",
+   "étudier kinésiologie",
+   "study kinesiology",
+   "kinésiologue",
+   "kinesiologist",
+   "r kin",
+   "kinésiologue autorisé",
+   "registered kinesiologist"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en kinésiologie ?",
+   "en": "Is there a kinesiology program?"
+  },
+  "answer": {
+   "fr": "Oui : le B.Sc. spécialisé en sciences de l'activité physique offre une option en études appliquées en kinésiologie. Les cours visent les compétences exigées par l'Ordre des kinésiologues de l'Ontario pour devenir kinésiologue autorisé (R. Kin.), avec une formation en prescription d'exercice, en prévention et gestion des blessures et des maladies chroniques, et en ergonomie. La formation coop et le régime d'immersion en français sont offerts.",
+   "en": "Yes: the Honours BSc in Human Kinetics offers an applied kinesiology option. Courses target the core competencies required by the College of Kinesiologists of Ontario to become a Registered Kinesiologist (R Kin), with training in exercise prescription, injury and chronic disease prevention and management, and ergonomics. Co-op and the French immersion stream are available."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Science in Human Kinetics - Applied Studies in Kinesiology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics-kinesiology-option/"
+   },
+   {
+    "label": "Baccalauréat ès sciences spécialisé sciences de l'activité physique - études appliquées kinésiologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-sciences-lactivite-physique-option-kinesiologie/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsap-education-coaching",
+  "category": "programmes",
+  "keywords": [
+   "éducation et coaching",
+   "physical activity education and coaching",
+   "baccalauréat en éducation et coaching",
+   "baccalaureat en education et coaching",
+   "programme d'éducation et coaching",
+   "bachelor of physical activity education and coaching",
+   "honours physical activity education and coaching",
+   "physical activity education and coaching program",
+   "étudier éducation et coaching",
+   "study physical activity education and coaching",
+   "coaching",
+   "entraîneur",
+   "coach",
+   "éducation physique",
+   "physical education"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option éducation et coaching du baccalauréat en sciences de l'activité physique ?",
+   "en": "What is the Physical Activity, Education and Coaching option of the Bachelor of Human Kinetics?"
+  },
+  "answer": {
+   "fr": "Tu apprends pourquoi et comment encourager les gens à être plus actifs et à améliorer leur expérience de l'activité physique, de l'éducation et du coaching. Tu examines comment les rôles d'intervention, surtout l'enseignement et l'entraînement, contribuent à la santé et au bien-être. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "You learn why and how to encourage people to become more active and to improve their experiences in physical activity, education and coaching. You examine how intervening roles, especially teaching and coaching, lead to improved health and well-being. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Human Kinetics - Education and Coaching — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics-physical-activity-education-coaching-option/"
+   },
+   {
+    "label": "Baccalauréat spécialisé en sciences de l'activité physique - éducation et coaching — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-specialise-sciences-lactivite-physique-option-activite-physique-education-coaching/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsap-gestion-sport-loisirs",
+  "category": "programmes",
+  "keywords": [
+   "gestion du sport",
+   "sport management",
+   "baccalauréat en gestion du sport",
+   "baccalaureat en gestion du sport",
+   "programme de gestion du sport",
+   "bachelor of sport management",
+   "honours sport management",
+   "sport management program",
+   "étudier gestion du sport",
+   "study sport management",
+   "gestion des loisirs",
+   "recreation management",
+   "événements sportifs",
+   "sport events",
+   "administration du sport"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option gestion du sport et des loisirs du baccalauréat en sciences de l'activité physique ?",
+   "en": "What is the Recreation and Sport Management option of the Bachelor of Human Kinetics?"
+  },
+  "answer": {
+   "fr": "Tu apprends les principes de gouvernance et de gestion appliqués aux organisations de sport, de loisir et d'activité physique : planification, politiques, marketing, entrepreneuriat et communications. Tu examines aussi l'impact des organisations, des événements sportifs et des festivals. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "You learn governance and management principles applied to sport, leisure and physical activity organizations: planning, policy making, marketing, entrepreneurship and communications. You also examine the impact of organizations, sport events and festivals. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Human Kinetics - Recreation and Sport Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics-recreation-sport-management/"
+   },
+   {
+    "label": "Baccalauréat spécialisé en sciences de l'activité physique - gestion du sport et des loisirs — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-specialise-sciences-lactivite-physique-option-gestion-sport-loisirs/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsap-enjeux-sociaux-sport",
+  "category": "programmes",
+  "keywords": [
+   "enjeux sociaux du sport",
+   "social issues in sport",
+   "baccalauréat en enjeux sociaux du sport",
+   "baccalaureat en enjeux sociaux du sport",
+   "programme d'enjeux sociaux du sport",
+   "bachelor of social issues in sport",
+   "honours social issues in sport",
+   "social issues in sport program",
+   "étudier enjeux sociaux du sport",
+   "study social issues in sport",
+   "sociologie du sport",
+   "sport and society",
+   "loisir",
+   "leisure",
+   "promotion de la santé"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option enjeux sociaux du sport, de l'activité physique et du loisir ?",
+   "en": "What is the Social Issues in Sport, Physical Activity and Leisure option?"
+  },
+  "answer": {
+   "fr": "Cette option du baccalauréat en sciences de l'activité physique met l'accent sur les aspects sociaux de l'activité physique, du sport, du loisir actif et de la santé. Tu peux faire un stage en milieu communautaire ou un projet de recherche supervisé. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "This option of the Bachelor of Human Kinetics emphasizes the social sciences aspects of physical activity, sport, active leisure and health. You can do a community internship or a supervised research project. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Human Kinetics - Studies of Social Issues in Sport, Physical Activity and Leisure Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics-studies-social-issues-sports-physical-activity-leisure-option/"
+   },
+   {
+    "label": "Baccalauréat spécialisé en sciences de l'activité physique - option en études des enjeux sociaux du sport, de l'activité physique et du loisir — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-specialise-sciences-lactivite-physique-option-enjeux-sociaux-sport-activite-physique-loisir/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsc-sciences-aliments",
+  "category": "programmes",
+  "keywords": [
+   "sciences des aliments",
+   "food sciences",
+   "baccalauréat en sciences des aliments",
+   "baccalaureat en sciences des aliments",
+   "programme de sciences des aliments",
+   "bachelor of food sciences",
+   "honours food sciences",
+   "food sciences program",
+   "étudier sciences des aliments",
+   "study food sciences",
+   "food science",
+   "technologie des aliments",
+   "food technology",
+   "nutrition",
+   "salubrité alimentaire"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé en sciences des aliments ?",
+   "en": "What is the Honours BSc in Food Sciences?"
+  },
+  "answer": {
+   "fr": "Ce programme porte sur les sciences de la production, de la consommation et du métabolisme des aliments et sur leurs effets sur la santé : propriétés physico-chimiques et sensorielles, microbiologie et salubrité. Seule formation en sciences des aliments offerte dans une faculté des sciences de la santé au Canada, il propose une option nutrition et une option technologie des aliments. Le programme est offert en français et en anglais, avec la formation coop.",
+   "en": "This program covers the science of food production, consumption and metabolism and their effects on health: physico-chemical and sensory properties, microbiology and food safety. The only food science training offered within a faculty of health sciences in Canada, it has a nutrition option and a food technology option. The program is offered in English and French, with co-op."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Science in Food Sciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/"
+   },
+   {
+    "label": "Baccalauréat ès sciences spécialisé en sciences des aliments — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-sciences-aliments/"
+   },
+   {
+    "label": "Honours Bachelor of Science in Food Sciences - Nutrition Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences-nutrition-option/"
+   },
+   {
+    "label": "Honours Bachelor of Science in Food Sciences - Food Technology Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences-food-technology-option/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-sciences-aliments-maitrise",
+  "category": "programmes",
+  "keywords": [
+   "nutrition et biosciences alimentaires",
+   "nutrition and food biosciences",
+   "étudier nutrition et biosciences alimentaires",
+   "study nutrition and food biosciences",
+   "maîtrise nutrition",
+   "msc nutrition",
+   "sciences des aliments",
+   "food sciences",
+   "baccalauréat-maîtrise"
+  ],
+  "question": {
+   "fr": "Peut-on enchaîner le B.Sc. en sciences des aliments et une maîtrise en nutrition et biosciences alimentaires ?",
+   "en": "Can I combine the BSc in Food Sciences with a master's in Nutrition and Food Biosciences?"
+  },
+  "answer": {
+   "fr": "Oui : ce cheminement combine le B.Sc. spécialisé en sciences des aliments et la maîtrise ès sciences en nutrition et biosciences alimentaires, axée sur des compétences de recherche avancées. La maîtrise se donne en anglais.",
+   "en": "Yes: this pathway combines the Honours BSc in Food Sciences with the MSc in Nutrition and Food Biosciences, which focuses on advanced research skills. The master's is taught in English."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Science in Food Sciences and Master of Science Nutrition and Food Biosciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences-master-science-nutrition-food-biosciences/"
+   },
+   {
+    "label": "Baccalauréat ès sciences spécialisé en sciences des aliments et Maîtrise ès sciences nutrition et biosciences alimentaires — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-sciences-aliments-maitrise-sciences-nutrition-biosciences-alimentaires/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-etudes-vieillissement",
+  "category": "programmes",
+  "keywords": [
+   "vieillissement",
+   "aging studies",
+   "microprogramme en vieillissement",
+   "microprogram in aging studies",
+   "étudier vieillissement",
+   "study aging studies",
+   "gérontologie",
+   "gerontology",
+   "aînés",
+   "older adults",
+   "études sur le vieillissement"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en études sur le vieillissement ?",
+   "en": "What is the Microprogram in Aging Studies?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme de 9 crédits te donne des connaissances en services sociaux et de santé liés au vieillissement, avec un cours sur l'engagement communautaire auprès des aînés. Il s'adresse autant aux étudiants de uOttawa qu'aux intervenants, bénévoles ou fonctionnaires, et certains cours ont lieu en soirée ou en ligne.",
+   "en": "This 9-unit microprogram gives you knowledge of health and social services related to aging, including a course on community involvement in services for older adults. It's open to uOttawa students as well as community workers, volunteers or civil servants, and some courses are offered in the evening or online."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Aging Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-aging-studies/"
+   },
+   {
+    "label": "Microprogramme études sur le vieillissement — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-etudes-vieillissement/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-fin-de-vie",
+  "category": "programmes",
+  "keywords": [
+   "fin de vie",
+   "end-of-life studies",
+   "microprogramme en fin de vie",
+   "microprogram in end-of-life studies",
+   "étudier fin de vie",
+   "study end-of-life studies",
+   "deuil",
+   "grief",
+   "soins palliatifs",
+   "doula",
+   "palliathérapeute"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en études sur la fin de vie ?",
+   "en": "What is the Microprogram in End-of-Life Studies?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme aborde le deuil, la mort et le mourir sous des angles psychosociaux, culturels, religieux et historiques. Il accepte des étudiants de toutes les facultés et des professionnels des services funéraires ou de fin de vie, et il peut mener à des études de palliathérapeute (accompagnant de fin de vie).",
+   "en": "This microprogram explores grief, death and dying from psycho-social, cultural, religious and historical perspectives. It accepts students from all faculties and professionals working in funeral or end-of-life services, and can lead to studies as a palliatherapist (end-of-life doula)."
+  },
+  "sources": [
+   {
+    "label": "Microprogram End-of-Life Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-end-of-life-studies/"
+   },
+   {
+    "label": "Microprogramme études sur la fin de vie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-etudes-fin-de-vie/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsc-biochimie",
+  "category": "programmes",
+  "keywords": [
+   "biochimie",
+   "biochemistry",
+   "baccalauréat en biochimie",
+   "baccalaureat en biochimie",
+   "bachelor of biochemistry",
+   "honours biochemistry",
+   "biochemistry program",
+   "étudier biochimie",
+   "study biochemistry",
+   "microbiologie",
+   "microbiology",
+   "immunologie",
+   "immunology",
+   "biologie synthétique",
+   "biologie chimique"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé en biochimie ?",
+   "en": "What is the Honours BSc in Biochemistry?"
+  },
+  "answer": {
+   "fr": "La biochimie, c'est la chimie du vivant : elle explique les processus biologiques et les bases moléculaires des maladies. Le programme prépare à la recherche médicale, aux études supérieures et à la médecine, avec un projet de recherche d'un an possible, et il existe des options en microbiologie et immunologie, en biologie synthétique et en biologie chimique. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "Biochemistry is the chemistry of life: it explains biological processes and the molecular basis of disease. The program prepares you for medical research, graduate studies and medicine, with a possible full-year research project, and there are options in microbiology and immunology, synthetic biology and chemical biology. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Biochemistry — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biochemistry/"
+   },
+   {
+    "label": "B.Sc. spécialisé biochimie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-biochimie/"
+   },
+   {
+    "label": "Honours BSc Biochemistry - Microbiology and Immunology Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biochemistry-option-microbiology-immunology/"
+   },
+   {
+    "label": "Honours BSc Biochemistry - Synthetic Biology Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biochemistry-option-synthetic-biology/"
+   },
+   {
+    "label": "Honours BSc Biochemistry - Chemical Biology Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biochemistry-option-chemical-biology/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsc-sciences-biopharmaceutiques",
+  "category": "programmes",
+  "keywords": [
+   "sciences biopharmaceutiques",
+   "biopharmaceutical science",
+   "baccalauréat en sciences biopharmaceutiques",
+   "baccalaureat en sciences biopharmaceutiques",
+   "bachelor of biopharmaceutical science",
+   "honours biopharmaceutical science",
+   "biopharmaceutical science program",
+   "étudier sciences biopharmaceutiques",
+   "study biopharmaceutical science",
+   "pharmacologie",
+   "pharmacology",
+   "génomique",
+   "genomics",
+   "chimie médicinale",
+   "medicinal chemistry"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé en sciences biopharmaceutiques ?",
+   "en": "What is the Honours BSc in Biopharmaceutical Science?"
+  },
+  "answer": {
+   "fr": "Ce programme interdisciplinaire combine la biologie moléculaire, la biochimie, la pharmacologie et la chimie organique. Deux options sont offertes : la génomique, axée sur la fonction des gènes et des protéines dans les maladies, et la chimie médicinale, axée sur la production de nouveaux médicaments. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This interdisciplinary program combines molecular biology, biochemistry, pharmacology and organic chemistry. Two options are offered: genomics, focused on the function of genes and proteins in disease, and medicinal chemistry, focused on producing new and better pharmaceuticals. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Biopharmaceutical Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biopharmaceutical-science/"
+   },
+   {
+    "label": "B.Sc. spécialisé sciences biopharmaceutiques — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-sciences-biopharmaceutiques/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsc-chimie",
+  "category": "programmes",
+  "keywords": [
+   "chimie",
+   "chemistry",
+   "baccalauréat en chimie",
+   "baccalaureat en chimie",
+   "programme de chimie",
+   "bachelor of chemistry",
+   "honours chemistry",
+   "chemistry program",
+   "étudier chimie",
+   "study chemistry",
+   "matériaux de pointe",
+   "advanced materials",
+   "écochimie",
+   "ecochemistry",
+   "chimiste"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé en chimie ?",
+   "en": "What is the Honours BSc in Chemistry?"
+  },
+  "answer": {
+   "fr": "La chimie étudie les substances qui composent notre monde et leurs transformations ; les chimistes contribuent aux médicaments, aux matériaux électroniques, aux nanotechnologies et aux technologies vertes. Le programme offre une formation pratique en laboratoire et des options en matériaux de pointe et en écochimie. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "Chemistry investigates the substances that make up our world and how they change; chemists contribute to new drugs, electronic materials, nanotechnology and green technologies. The program offers hands-on lab training and options in advanced materials and ecochemistry. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Chemistry — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/"
+   },
+   {
+    "label": "B.Sc. spécialisé chimie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-chimie/"
+   },
+   {
+    "label": "Honours BSc Chemistry - Option Advanced Materials — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistryoption-advanced-materials/"
+   },
+   {
+    "label": "Honours BSc Chemistry - EcoChemistry Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistryoption-ecochemistry/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsc-sciences-environnementales",
+  "category": "programmes",
+  "keywords": [
+   "sciences environnementales",
+   "environmental science",
+   "baccalauréat en sciences environnementales",
+   "baccalaureat en sciences environnementales",
+   "programme de sciences environnementales",
+   "bachelor of environmental science",
+   "honours environmental science",
+   "environmental science program",
+   "étudier sciences environnementales",
+   "study environmental science",
+   "environnement",
+   "environment",
+   "biodiversité",
+   "écotoxicologie",
+   "changements climatiques"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé en sciences environnementales ?",
+   "en": "What is the Honours BSc in Environmental Science?"
+  },
+  "answer": {
+   "fr": "Ce programme intègre la biologie, les sciences de la Terre, la chimie et la physique pour étudier l'environnement naturel et l'impact des activités humaines. Tu choisis une spécialisation en conservation et biodiversité, en changements planétaires, ou en géochimie environnementale et écotoxicologie, et la dernière année comprend un projet de recherche ou des cours avancés. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This program integrates biology, earth sciences, chemistry and physics to study the natural environment and the impact of human activities. You choose a specialization in conservation and biodiversity, global change, or environmental geochemistry and ecotoxicology, and the final year includes a research project or advanced courses. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Environmental Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/"
+   },
+   {
+    "label": "B.Sc. spécialisé sciences environnementales — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-sciences-environnementales/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsc-geosciences-environnementales",
+  "category": "programmes",
+  "keywords": [
+   "géosciences environnementales",
+   "environmental geoscience",
+   "baccalauréat en géosciences environnementales",
+   "baccalaureat en geosciences environnementales",
+   "programme de géosciences environnementales",
+   "bachelor of environmental geoscience",
+   "honours environmental geoscience",
+   "environmental geoscience program",
+   "étudier géosciences environnementales",
+   "study environmental geoscience",
+   "géologie environnementale",
+   "environmental geology",
+   "hydrologie",
+   "hydrology",
+   "géoscientifique"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé en géosciences environnementales ?",
+   "en": "What is the Honours BSc in Environmental Geoscience?"
+  },
+  "answer": {
+   "fr": "Ce programme combine les sciences environnementales et la géologie pour étudier les interactions entre la géologie, la biologie et l'hydrologie, comme le fait un géoscientifique de l'environnement. Il équilibre les cours de biologie et de chimie avec des cours sur la Terre solide. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This program combines environmental science and geology to study the interactions between geology, biology and hydrology, as a professional environmental geoscientist does. It balances biology and chemistry courses with solid Earth courses. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Environmental Geoscience — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmentalgeology/"
+   },
+   {
+    "label": "B.Sc.spécialisé géosciences environnementales — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-geosciences-environnementales/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsc-geologie",
+  "category": "programmes",
+  "keywords": [
+   "géologie",
+   "geology",
+   "baccalauréat en géologie",
+   "baccalaureat en geologie",
+   "programme de géologie",
+   "bachelor of geology",
+   "honours geology",
+   "geology program",
+   "étudier géologie",
+   "study geology",
+   "géologie-physique",
+   "geology-physics",
+   "sciences de la terre",
+   "earth sciences",
+   "géologue"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé en géologie ?",
+   "en": "What is the Honours BSc in Geology?"
+  },
+  "answer": {
+   "fr": "La géologie étudie la composition et l'évolution de la Terre ; la région d'Ottawa sert de laboratoire naturel pour étudier les ressources, les risques naturels et les environnements géologiques. Le baccalauréat spécialisé répond aux exigences d'agrément professionnel de l'Association des géoscientifiques professionnels de l'Ontario et de l'Ordre des géologues du Québec, et il existe aussi un programme en géologie-physique. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "Geology studies the composition and evolution of the Earth; the Ottawa region is a natural laboratory for studying resources, natural hazards and geological environments. The honours program meets the professional accreditation requirements of the Association of Professional Geoscientists of Ontario and the Ordre des géologues du Québec, and there is also a geology-physics program. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Geology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geology/"
+   },
+   {
+    "label": "B.Sc. spécialisé géologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-geologie/"
+   },
+   {
+    "label": "Honours BSc Geology-Physics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsc-mathematiques",
+  "category": "programmes",
+  "keywords": [
+   "mathématiques",
+   "mathematics",
+   "baccalauréat en mathématiques",
+   "baccalaureat en mathematiques",
+   "programme de mathématiques",
+   "bachelor of mathematics",
+   "honours mathematics",
+   "mathematics program",
+   "étudier mathématiques",
+   "study mathematics",
+   "maths",
+   "math",
+   "b.sc. mathématiques",
+   "bsc mathematics",
+   "mathématicien"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé en mathématiques ?",
+   "en": "What is the Honours BSc in Mathematics?"
+  },
+  "answer": {
+   "fr": "Les mathématiques révèlent et modélisent des régularités pour expliquer le monde, des influx nerveux aux marchés boursiers, et elles sont derrière des innovations comme l'IRM, la compression numérique et les communications sécurisées. Tous les programmes spécialisés du Département de mathématiques et de statistique incluent l'option coop. Le programme est offert en français et en anglais, avec le régime d'immersion en français.",
+   "en": "Mathematics reveals and models patterns that explain our world, from nerve impulses to stock-market prices, and it lies behind innovations such as MRI scanners, digital compression and secure communications. All honours programs in the Department of Mathematics and Statistics include the co-op option. The program is offered in English and French, with the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Mathematics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-mathematics/"
+   },
+   {
+    "label": "B.Sc. spécialisé mathématiques — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-mathematiques/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsc-statistique",
+  "category": "programmes",
+  "keywords": [
+   "statistique",
+   "statistics",
+   "baccalauréat en statistique",
+   "baccalaureat en statistique",
+   "programme de statistique",
+   "bachelor of statistics",
+   "honours statistics",
+   "statistics program",
+   "étudier statistique",
+   "study statistics",
+   "statisticien",
+   "statistician",
+   "a.stat",
+   "science des données",
+   "data"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé en statistique ?",
+   "en": "What is the Honours BSc in Statistics?"
+  },
+  "answer": {
+   "fr": "Le programme spécialisé en statistique est agréé par la Société statistique du Canada, ce qui permet aux diplômés d'obtenir le titre professionnel A.Stat. Il est offert par le Département de mathématiques et de statistique. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "The honours program in statistics is accredited by the Statistical Society of Canada, allowing graduates to earn the A.Stat. professional designation. It is offered by the Department of Mathematics and Statistics. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Statistics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-statistics/"
+   },
+   {
+    "label": "B.Sc. spécialisé statistique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-statistique/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsc-mathematiques-financieres",
+  "category": "programmes",
+  "keywords": [
+   "mathématiques financières",
+   "financial mathematics",
+   "baccalauréat en mathématiques financières",
+   "baccalaureat en mathematiques financieres",
+   "programme de mathématiques financières",
+   "bachelor of financial mathematics",
+   "honours financial mathematics",
+   "financial mathematics program",
+   "étudier mathématiques financières",
+   "study financial mathematics",
+   "finance",
+   "actuariat",
+   "mathématiques financières et économie",
+   "financial mathematics and economics",
+   "économie"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé en mathématiques financières et économie ?",
+   "en": "What is the Honours BSc in Financial Mathematics and Economics?"
+  },
+  "answer": {
+   "fr": "C'est un programme multidisciplinaire du Département de mathématiques et de statistique qui combine les mathématiques, la statistique et l'économie, des outils derrière des innovations comme l'évaluation des contrats à terme. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "It's a multidisciplinary program from the Department of Mathematics and Statistics combining mathematics, statistics and economics, tools behind innovations such as futures pricing. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Financial Mathematics and Economics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/"
+   },
+   {
+    "label": "B.Sc. spécialisé mathématiques financières et économie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-mathematiques-financieres-economie/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bsc-physique",
+  "category": "programmes",
+  "keywords": [
+   "physique",
+   "physics",
+   "baccalauréat en physique",
+   "baccalaureat en physique",
+   "bachelor of physics",
+   "honours physics",
+   "physics program",
+   "étudier physique",
+   "study physics",
+   "photonique",
+   "photonics",
+   "physique biologique",
+   "biological physics",
+   "physique-mathématiques",
+   "physicien"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé en physique ?",
+   "en": "What is the Honours BSc in Physics?"
+  },
+  "answer": {
+   "fr": "La physique étudie les lois fondamentales de la nature, des particules subatomiques aux galaxies, et forme à résoudre des problèmes complexes utiles en recherche, en haute technologie, en finance ou en médecine. En plus du B.Sc. spécialisé en physique, tu peux choisir la physique-mathématiques, l'option photonique ou l'option physique biologique. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "Physics studies the fundamental laws of nature, from sub-atomic particles to galaxies, and trains you to solve complex problems valued in research, high tech, finance or medicine. Besides the Honours BSc in Physics, you can choose physics-mathematics, the photonics option or the biological physics option. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Physics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physics/"
+   },
+   {
+    "label": "B.Sc. spécialisé physique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-physique/"
+   },
+   {
+    "label": "Honours BSc Physics - Photonics Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physics-option-photonics/"
+   },
+   {
+    "label": "Honours BSc Physics - Biological Physics Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physics-option-biological-physics/"
+   },
+   {
+    "label": "Honours BSc Physics-Mathematics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-baccalaureat-sciences-general",
+  "category": "programmes",
+  "keywords": [
+   "sciences",
+   "science",
+   "baccalauréat en sciences",
+   "baccalaureat en sciences",
+   "programme de sciences",
+   "bachelor of science",
+   "honours science",
+   "science program",
+   "étudier sciences",
+   "study science",
+   "b.sc. général",
+   "general bsc",
+   "indécis en sciences",
+   "undecided science",
+   "baccalauréat ès sciences"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat ès sciences (général) ?",
+   "en": "What is the general Bachelor of Science?"
+  },
+  "answer": {
+   "fr": "Ce programme te permet d'explorer différentes disciplines scientifiques et d'acquérir une formation générale en sciences. Si tu développes un intérêt pour un domaine en particulier, tu peux être transféré au programme correspondant. Le programme est offert en français et en anglais.",
+   "en": "This program lets you explore different scientific disciplines and gain a broad background in the sciences. If you develop an interest in a particular field along the way, you can transfer to that program. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Bachelor of Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/bachelor-science/"
+   },
+   {
+    "label": "Baccalauréat ès sciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-majeure-sciences-vie",
+  "category": "programmes",
+  "keywords": [
+   "sciences de la vie",
+   "life sciences",
+   "majeure en sciences de la vie",
+   "major in life sciences",
+   "life sciences major",
+   "étudier sciences de la vie",
+   "study life sciences",
+   "prémédecine",
+   "pre-med",
+   "préalables médecine",
+   "biologie",
+   "life science"
+  ],
+  "question": {
+   "fr": "C'est quoi la majeure en sciences de la vie ?",
+   "en": "What is the Major in Life Sciences?"
+  },
+  "answer": {
+   "fr": "La majeure en sciences de la vie te donne une base solide en biologie cellulaire et moléculaire, en chimie organique et en biochimie. Elle vise à fournir les préalables pour postuler en médecine, en médecine dentaire, en pharmacie ou aux études supérieures biomoléculaires, mais vérifie bien les exigences des écoles visées. Le programme est offert en français et en anglais.",
+   "en": "The Major in Life Sciences gives you a strong foundation in cellular and molecular biology, organic chemistry and biochemistry. It aims to provide the prerequisites to apply to medicine, dentistry or pharmacy, or to biomolecular graduate programs, but check the requirements of the schools you're considering. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Major in Life Sciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/major-life-sciences/"
+   },
+   {
+    "label": "Majeure en sciences de la vie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/majeure-sciences-de-la-vie/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-neurosciences",
+  "category": "programmes",
+  "keywords": [
+   "neurosciences",
+   "neuroscience",
+   "baccalauréat en neurosciences",
+   "baccalaureat en neurosciences",
+   "bachelor of neuroscience",
+   "honours neuroscience",
+   "neuroscience program",
+   "étudier neurosciences",
+   "study neuroscience",
+   "sciences biomédicales",
+   "biomedical science",
+   "médecine cellulaire et moléculaire",
+   "biostatistique",
+   "biostatistics",
+   "cerveau"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en neurosciences ?",
+   "en": "Is there a neuroscience program?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme d'option du B.Sc. spécialisé en sciences biomédicales : à la fin de la 2e année, tu peux choisir une option comme neurosciences, médecine cellulaire et moléculaire, ou biostatistique. Les deux premières années couvrent l'anatomie humaine, la psychologie et les sciences de base, et l'admission est contingentée avec des moyennes plus élevées. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "Yes, as an option of the Honours BSc in Biomedical Science: at the end of second year, you can choose an option such as neuroscience, cellular and molecular medicine, or biostatistics. The first two years cover human anatomy, psychology and basic sciences, and admission is competitive with higher averages required. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Biomedical Science - Neuroscience Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biomedical-scienceoption-neuroscience/"
+   },
+   {
+    "label": "B.Sc. spécialisé sciences biomédicales - option neurosciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-sciences-biomedicales-option-neurosciences/"
+   },
+   {
+    "label": "Honours BSc Biomedical Science - Cellular and Molecular Medicine Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biomedical-scienceoption-cellular-molecular-medicine/"
+   },
+   {
+    "label": "Honours BSc Biomedical Science - Biostatistics Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biomedical-scienceoption-biostatistics/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-genie-technologie-informatique",
+  "category": "genie",
+  "keywords": [
+   "technologie de l'informatique",
+   "computing technology",
+   "étudier technologie de l'informatique",
+   "study computing technology",
+   "double diplôme génie",
+   "engineering double degree",
+   "génie et informatique",
+   "b.sc.a. b.sc.",
+   "génie électrique",
+   "génie mécanique"
+  ],
+  "question": {
+   "fr": "C'est quoi le double diplôme B.Sc.A. en génie et B.Sc. en technologie de l'informatique ?",
+   "en": "What is the BASc in engineering and BSc in Computing Technology double degree?"
+  },
+  "answer": {
+   "fr": "En génie électrique, mécanique, civil, chimique ou mécanique biomédical, tu peux obtenir en plus un B.Sc. en technologie de l'informatique comme deuxième diplôme en complétant 33 crédits supplémentaires, en parallèle avec ton programme de génie. Ce B.Sc. ne peut pas être obtenu sans le diplôme de génie correspondant. Le programme est offert en français et en anglais, avec la formation coop.",
+   "en": "In electrical, mechanical, civil, chemical or biomedical mechanical engineering, you can also earn a BSc in Computing Technology as a second degree by completing 33 extra units in parallel with your engineering program. This BSc cannot be obtained without the corresponding engineering degree. The program is offered in English and French, with co-op."
+  },
+  "sources": [
+   {
+    "label": "BASc Electrical Engineering and BSc Computing Technology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/basc-electrical-engineering-bsc-computing-technology/"
+   },
+   {
+    "label": "B.Sc.A. génie électrique et B.Sc. technologie de l'informatique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsca-genie-electrique-bsc-technologie-linformatique/"
+   },
+   {
+    "label": "BASc Mechanical Engineering and BSc Computing Technology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering-bsc-computing-technology/"
+   },
+   {
+    "label": "BASc Civil Engineering and BSc Computing Technology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering-bsc-computing-technology/"
+   },
+   {
+    "label": "BASc Chemical Engineering and BSc Computing Technology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/basc-chemical-engineering-bsc-computing-technology/"
+   },
+   {
+    "label": "BASc Biomedical Mechanical Engineering and BSc Computing Technology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering-bsc-computing-technology/"
+   }
+  ],
+  "related": [
+   "o-genie-gestion-entrepreneuriat",
+   "o-informatique-mathematiques-double",
+   "o-informatique-mathematiques-bidisciplinaire"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-genie-gestion-entrepreneuriat",
+  "category": "genie",
+  "keywords": [
+   "gestion et entrepreneuriat en ingénierie",
+   "engineering management and entrepreneurship",
+   "étudier gestion et entrepreneuriat en ingénierie",
+   "study engineering management and entrepreneurship",
+   "option gestion génie",
+   "engineering management",
+   "entrepreneuriat génie",
+   "startup technologique",
+   "eme"
+  ],
+  "question": {
+   "fr": "C'est quoi l'option gestion et entrepreneuriat en ingénierie ?",
+   "en": "What is the Engineering Management and Entrepreneurship option?"
+  },
+  "answer": {
+   "fr": "Cette option, offerte dans les baccalauréats en génie électrique, logiciel, informatique, mécanique, civil et chimique, te donne les compétences nécessaires pour mener des activités entrepreneuriales et lancer ta propre entreprise technologique. Le programme est offert en français et en anglais, avec la formation coop.",
+   "en": "This option, offered in the electrical, software, computer, mechanical, civil and chemical engineering programs, gives you the skills to pursue entrepreneurial activities and start your own technology-related business. The program is offered in English and French, with co-op."
+  },
+  "sources": [
+   {
+    "label": "BASc Electrical Engineering, Engineering Management and Entrepreneurship Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/basc-electrical-engineering-engineering-management-entrepreneurship-option/"
+   },
+   {
+    "label": "B.Sc.A. génie électrique - option gestion et entrepreneuriat en ingénierie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsca-genie-electrique-option-gestion-entrepreneuriat-ingenierie/"
+   },
+   {
+    "label": "BASc Software Engineering, Engineering Management and Entrepreneurship Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering-engineering-management-entrepreneurship-option/"
+   },
+   {
+    "label": "BASc Computer Engineering, Engineering Management and Entrepreneurship Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering-engineering-management-entrepreneurship-option/"
+   },
+   {
+    "label": "BASc Mechanical Engineering, Engineering Management and Entrepreneurship Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering-engineering-management-entrepreneurship-option/"
+   },
+   {
+    "label": "BASc Civil Engineering, Engineering Management and Entrepreneurship Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering-engineering-management-entrepreneurship-option/"
+   },
+   {
+    "label": "BASc Chemical Engineering, Engineering Management and Entrepreneurship Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/basc-chemical-engineering-engineering-management-entrepreneurship-option/"
+   }
+  ],
+  "related": [
+   "o-genie-technologie-informatique",
+   "o-informatique-mathematiques-double",
+   "o-informatique-mathematiques-bidisciplinaire"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-informatique-mathematiques-double",
+  "category": "genie",
+  "keywords": [
+   "informatique et mathématiques",
+   "computer science and mathematics",
+   "étudier informatique et mathématiques",
+   "study computer science and mathematics",
+   "science des données",
+   "data science",
+   "double diplôme informatique",
+   "computer science double degree",
+   "maths"
+  ],
+  "question": {
+   "fr": "Peut-on obtenir un B.Sc. en informatique et un B.Sc. en mathématiques (science des données) ?",
+   "en": "Can I earn a BSc in Computer Science and a BSc in Mathematics (data science)?"
+  },
+  "answer": {
+   "fr": "Oui : ce programme de 150 crédits mène à deux diplômes, un B.Sc. spécialisé en informatique et un B.Sc. en mathématiques axé sur la science des données. Il combine l'informatique, qui forme à bâtir des systèmes logiciels fiables et sécuritaires, et les mathématiques et la statistique. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "Yes: this 150-unit program leads to two degrees, an Honours BSc in Computer Science and a BSc in Mathematics focused on data science. It combines computer science, which trains you to build reliable and secure software systems, with mathematics and statistics. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Computer Science and BSc Mathematics (Data Science) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-computer-science-bsc-mathematics/"
+   },
+   {
+    "label": "B.Sc. spécialisé informatique et B.Sc. mathématiques (science des données) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-informatique-bsc-mathematiques/"
+   }
+  ],
+  "related": [
+   "o-genie-technologie-informatique",
+   "o-genie-gestion-entrepreneuriat",
+   "o-informatique-mathematiques-bidisciplinaire"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-informatique-mathematiques-bidisciplinaire",
+  "category": "genie",
+  "keywords": [
+   "informatique et mathématiques",
+   "computer science and mathematics",
+   "baccalauréat en informatique et mathématiques",
+   "baccalaureat en informatique et mathematiques",
+   "programme d'informatique et mathématiques",
+   "bachelor of computer science and mathematics",
+   "honours computer science and mathematics",
+   "computer science and mathematics program",
+   "étudier informatique et mathématiques",
+   "study computer science and mathematics",
+   "informatique",
+   "computer science",
+   "mathématiques",
+   "mathematics",
+   "bidisciplinaire"
+  ],
+  "question": {
+   "fr": "C'est quoi le B.Sc. spécialisé bidisciplinaire en informatique et mathématiques ?",
+   "en": "What is the joint honours BSc in Computer Science and Mathematics?"
+  },
+  "answer": {
+   "fr": "Ce programme combine l'informatique, offerte par l'École de science informatique et de génie électrique, qui forme à bâtir des systèmes logiciels rapides, fiables et sécuritaires, et les mathématiques, qui modélisent les régularités du monde. Il mène à un seul diplôme spécialisé bidisciplinaire. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This program combines computer science, offered by the School of Electrical Engineering and Computer Science, which trains you to build fast, reliable and secure software systems, with mathematics, which models patterns in the world. It leads to a single joint honours degree. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Joint Honours BSc in Computer Science and Mathematics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsc-computer-science-mathematics/"
+   },
+   {
+    "label": "B.Sc. spécialisé bidisciplinaire en informatique et mathématiques — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-bidisciplinaire-informatique-mathematiques/"
+   }
+  ],
+  "related": [
+   "o-genie-technologie-informatique",
+   "o-genie-gestion-entrepreneuriat",
+   "o-informatique-mathematiques-double"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-physique-genie-electrique",
+  "category": "genie",
+  "keywords": [
+   "physique et génie électrique",
+   "physics and electrical engineering",
+   "étudier physique et génie électrique",
+   "study physics and electrical engineering",
+   "double diplôme physique génie",
+   "physics engineering double degree",
+   "génie électrique",
+   "electrical engineering",
+   "physique"
+  ],
+  "question": {
+   "fr": "Peut-on obtenir un B.Sc. en physique et un B.Sc.A. en génie électrique ?",
+   "en": "Can I earn a BSc in Physics and a BASc in Electrical Engineering?"
+  },
+  "answer": {
+   "fr": "Oui : ce programme intégré de cinq ans, offert avec l'École de science informatique et de génie électrique, combine la physique, qui étudie les lois fondamentales de la nature, et le génie électrique, au cœur des avancées technologiques actuelles. Certains cours avancés sont offerts seulement en anglais. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "Yes: this five-year integrated program, offered with the School of Electrical Engineering and Computer Science, combines physics, which studies the fundamental laws of nature, with electrical engineering, at the heart of today's technological advances. Some advanced courses are only offered in English. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Physics and BASc Electrical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsbasc-electrical-engineering/"
+   },
+   {
+    "label": "B.Sc. spécialisé physique et B.Sc.A. génie électrique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-physique-bsca-genie-electrique/"
+   }
+  ],
+  "related": [
+   "o-genie-technologie-informatique",
+   "o-genie-gestion-entrepreneuriat",
+   "o-informatique-mathematiques-double"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-biochimie-genie-chimique",
+  "category": "genie",
+  "keywords": [
+   "biotechnologie",
+   "biotechnology",
+   "étudier biotechnologie",
+   "study biotechnology",
+   "biochimie",
+   "biochemistry",
+   "génie chimique",
+   "chemical engineering",
+   "double diplôme"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme intégré en biotechnologie (biochimie et génie chimique) ?",
+   "en": "What is the integrated biotechnology program (biochemistry and chemical engineering)?"
+  },
+  "answer": {
+   "fr": "Ce programme intégré te permet de combiner la biochimie et le génie chimique et d'obtenir en cinq ans un B.Sc. en biochimie et un B.Sc.A. en génie chimique, avec une orientation en biotechnologie. Le programme est offert en français et en anglais, avec la formation coop et le régime d'immersion en français.",
+   "en": "This integrated program lets you combine biochemistry and chemical engineering and earn both a BSc in Biochemistry and a BASc in Chemical Engineering in five years, with a biotechnology focus. The program is offered in English and French, with co-op and the French immersion stream."
+  },
+  "sources": [
+   {
+    "label": "Honours BSc Biochemistry and BASc Chemical Engineering (Biotechnology) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biochemistry-biotechnology-basc-chemical-engineering-biotechnology/"
+   },
+   {
+    "label": "B.Sc. spécialisé biochimie et B.Sc.A. génie chimique (biotechnologie) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/bsc-specialise-biochimie-biotechnologie-bsca-genie-chimique-biotechnologie/"
+   }
+  ],
+  "related": [
+   "o-genie-technologie-informatique",
+   "o-genie-gestion-entrepreneuriat",
+   "o-informatique-mathematiques-double"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-conception-multidisciplinaire-experientiel",
+  "category": "genie",
+  "keywords": [
+   "conception multidisciplinaire",
+   "multidisciplinary design",
+   "baccalauréat en conception multidisciplinaire",
+   "baccalaureat en conception multidisciplinaire",
+   "programme de conception multidisciplinaire",
+   "bachelor of multidisciplinary design",
+   "honours multidisciplinary design",
+   "multidisciplinary design program",
+   "étudier conception multidisciplinaire",
+   "study multidisciplinary design",
+   "design multidisciplinaire",
+   "apprentissage expérientiel",
+   "experiential learning",
+   "stages génie",
+   "internship"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat spécialisé en conception multidisciplinaire – apprentissage expérientiel ?",
+   "en": "What is the Honours Bachelor of Multidisciplinary Design (Internship)?"
+  },
+  "answer": {
+   "fr": "Ce programme de 4 ans de la Faculté de génie mise sur le choix étudiant, l'apprentissage multidisciplinaire, la maîtrise du numérique et des données et les compétences professionnelles, pour combiner des compétences techniques avec d'autres domaines. L'apprentissage en classe est renforcé par des stages, et les objectifs de développement durable de l'ONU sont intégrés aux cours et aux projets.",
+   "en": "This 4-year program in the Faculty of Engineering emphasizes student choice, multidisciplinary learning, digital and data fluency and professional skills, combining engineering and technical skills with other fields. Classroom learning is reinforced through internships, and the UN Sustainable Development Goals are integrated into courses and projects."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Multidisciplinary Design – Experiential Learning — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-multidisciplinary-design-experiential-learning/"
+   },
+   {
+    "label": "Baccalauréat spécialisé en conception multidisciplinaire – apprentissage expérientiel — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-specialise-conception-multidisciplinaire-apprentissage-experientiel/"
+   }
+  ],
+  "related": [
+   "o-genie-technologie-informatique",
+   "o-genie-gestion-entrepreneuriat",
+   "o-informatique-mathematiques-double"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-programme-md",
+  "category": "programmes",
+  "keywords": [
+   "médecine",
+   "medicine",
+   "étudier médecine",
+   "study medicine",
+   "md",
+   "doctorat en médecine",
+   "doctor of medicine",
+   "devenir médecin",
+   "become a doctor",
+   "faculté de médecine"
+  ],
+  "question": {
+   "fr": "Comment est structuré le programme de doctorat en médecine (M.D.) ?",
+   "en": "How is the Doctor of Medicine (MD) program structured?"
+  },
+  "answer": {
+   "fr": "Le programme menant au doctorat en médecine compte 147 semaines d'enseignement, dont 72 de travail clinique, réparties sur quatre ans. Le préexternat est consacré aux sciences biomédicales et l'externat, au travail clinique. Le programme est offert en français et en anglais.",
+   "en": "The program leading to the Doctor of Medicine degree includes 147 weeks of instruction, 72 of which are clinical work, over four calendar years. Preclerkship is devoted to the biomedical sciences and clerkship to clinical work. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Undergraduate Medical Education (MD Program) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/undergraduate-medical-education-md-program/"
+   },
+   {
+    "label": "Études médicales de premier cycle (programme M.D.) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/etudes-medicales-premier-cycle-programme-md/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-jd-mba",
+  "category": "programmes",
+  "keywords": [
+   "droit et mba",
+   "law and mba",
+   "étudier droit et mba",
+   "study law and mba",
+   "jd mba",
+   "j.d. m.b.a.",
+   "common law",
+   "droit des affaires",
+   "business law"
+  ],
+  "question": {
+   "fr": "Peut-on combiner le J.D. en common law et un MBA ?",
+   "en": "Can I combine the common law JD with an MBA?"
+  },
+  "answer": {
+   "fr": "Oui : la Section de common law offre un programme combiné Juris Doctor (J.D.) et maîtrise en administration des affaires (MBA). La Section, agréée par la Fédération des ordres professionnels de juristes du Canada, offre des cours en droit public et privé, litige, droit autochtone, droit international, droit des technologies et droit de l'environnement. Le programme est offert en français et en anglais.",
+   "en": "Yes: the Common Law Section offers a combined Juris Doctor (JD) and Master of Business Administration (MBA). The Section, accredited by the Federation of Law Societies of Canada, offers courses in public and private law, litigation, Indigenous law, international law, technology law and environmental law. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Juris Doctor (JD) / Master of Business Administration (MBA) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/juris-doctor-jd-master-business-administration/"
+   },
+   {
+    "label": "Juris Doctor (J.D.) / Maîtrise en administration des affaires (M.B.A.) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/juris-doctor-jd-maitrise-administration-affaires/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-jd-maitrise-affaires-internationales",
+  "category": "programmes",
+  "keywords": [
+   "droit et affaires internationales",
+   "law and international affairs",
+   "étudier droit et affaires internationales",
+   "study law and international affairs",
+   "jd ma",
+   "carleton",
+   "norman paterson",
+   "droit international",
+   "international law"
+  ],
+  "question": {
+   "fr": "Peut-on combiner le J.D. avec une maîtrise en affaires internationales à Carleton ?",
+   "en": "Can I combine the JD with a master's in International Affairs at Carleton?"
+  },
+  "answer": {
+   "fr": "Oui : la Section de common law offre un programme combiné Juris Doctor (J.D.) et maîtrise ès arts en affaires internationales avec l'Université Carleton. Le programme est offert en français et en anglais.",
+   "en": "Yes: the Common Law Section offers a combined Juris Doctor (JD) and Master of Arts in International Affairs with Carleton University. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Juris Doctor (JD) / Master of Arts (International Affairs) - Carleton University — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/juris-doctor-jd-master-arts-international-affairs-carleton-university/"
+   },
+   {
+    "label": "Juris Doctor (J.D.) / Maîtrise ès arts (affaires internationales) - Carleton University — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/juris-doctor-jd-maitrise-arts-affaires-internationales-carleton-university/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-jd-universites-americaines",
+  "category": "programmes",
+  "keywords": [
+   "droit américain",
+   "american law",
+   "étudier droit américain",
+   "study american law",
+   "jd conjoint",
+   "joint jd",
+   "american university",
+   "michigan state",
+   "droit aux états-unis",
+   "us law degree"
+  ],
+  "question": {
+   "fr": "Peut-on obtenir un diplôme de droit canadien et américain ?",
+   "en": "Can I earn both a Canadian and an American law degree?"
+  },
+  "answer": {
+   "fr": "Oui : le programme J.D. conjoint permet aux étudiants de la Section de common law de faire une partie de leurs études à l'American University (Washington College of Law) ou à la Michigan State University (College of Law). Le programme reconnaît 60 crédits suivis dans l'université américaine en transfert vers le J.D. Le programme est offert en français et en anglais.",
+   "en": "Yes: the joint JD program lets Common Law Section students complete part of their studies at American University (Washington College of Law) or Michigan State University (College of Law). The program recognizes 60 units taken at the American school for transfer to the JD. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Juris Doctor (JD) / American University, Washington College of Law or Michigan State University, College of Law) - Outgoing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/juris-doctor-jd-american-university-washington-college-law-michigan-state-university-college-law-outgoing/"
+   },
+   {
+    "label": "Juris Doctor (J.D.) / American University, Washington College of Law ou Michigan State University, College of Law) - Sortant — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/juris-doctor-jd-american-university-washington-college-law-michigan-state-university-college-law-sortant/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-programme-droit-canadien",
+  "category": "programmes",
+  "keywords": [
+   "droit canadien",
+   "canadian law",
+   "étudier droit canadien",
+   "study canadian law",
+   "jd lll",
+   "j.d. ll.l.",
+   "common law et droit civil",
+   "bijuridisme",
+   "bijural",
+   "programme de droit canadien"
+  ],
+  "question": {
+   "fr": "C'est quoi le Programme de droit canadien (J.D. et LL.L.) ?",
+   "en": "What is the Canadian Law Program (JD and LLL)?"
+  },
+  "answer": {
+   "fr": "Ce programme de la Faculté de droit combine la common law et le droit civil pour te permettre d'obtenir un Juris Doctor (J.D.) et une licence en droit (LL.L.). Il est offert en français seulement, mais la connaissance de l'anglais est exigée.",
+   "en": "This Faculty of Law program combines common law and civil law so you can earn both a Juris Doctor (JD) and a Licentiate in Law (LLL). It is offered in French only, although knowledge of English is required."
+  },
+  "sources": [
+   {
+    "label": "Programme de droit canadien – Juris Doctor (J.D.) et Licence en droit (LL.L.) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/programme-droit-canadien-juris-doctor-jd-licence-droit-lll/"
+   },
+   {
+    "label": "Programme de droit canadien – Juris Doctor (J.D.) et licence en droit (LL.L.) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/programme-droit-canadien-juris-doctor-jd-licence-droit-lll/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-licence-droit-developpement-international",
+  "category": "programmes",
+  "keywords": [
+   "droit et développement international",
+   "law and international development",
+   "étudier droit et développement international",
+   "study law and international development",
+   "ll.l. développement international",
+   "lll international development",
+   "droit civil",
+   "civil law",
+   "mondialisation"
+  ],
+  "question": {
+   "fr": "Peut-on combiner la licence en droit civil et un baccalauréat en développement international ?",
+   "en": "Can I combine the civil law degree with a bachelor's in International Development?"
+  },
+  "answer": {
+   "fr": "Oui : la Section de droit civil offre, en français seulement, la licence en droit (LL.L.) combinée au B.Sc.Soc. spécialisé en développement international et mondialisation. Le volet développement international allie théorie et pratique, avec des stages de travail et d'études au Canada et à l'étranger. La formation coop est offerte.",
+   "en": "Yes: the Civil Law Section offers, in French only, the Licentiate in Law (LLL) combined with the Honours BSocSc in International Development and Globalization. The international development side combines theory and practice, with work and study terms in Canada and abroad. Co-op is available."
+  },
+  "sources": [
+   {
+    "label": "Licentiate in Law (LLL) and Honours BSocSc in International Development and Globalization — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll-honours-bsocsc-international-development-globalization/"
+   },
+   {
+    "label": "Licence en droit (LL.L.) et B.Sc.Soc. spécialisé développement international et mondialisation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/licence-droit-lll-bscsoc-specialise-developpement-international-mondialisation/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-certificat-droit-autochtone",
+  "category": "programmes",
+  "keywords": [
+   "droit autochtone",
+   "indigenous law",
+   "certificat en droit autochtone",
+   "certificate in indigenous law",
+   "étudier droit autochtone",
+   "study indigenous law",
+   "droits autochtones",
+   "indigenous laws",
+   "droit civil",
+   "autochtone"
+  ],
+  "question": {
+   "fr": "Y a-t-il un certificat en droit autochtone ?",
+   "en": "Is there a certificate in Indigenous law?"
+  },
+  "answer": {
+   "fr": "Oui : la Section de droit civil de la Faculté de droit offre un certificat en droit autochtone, en français seulement.",
+   "en": "Yes: the Civil Law Section of the Faculty of Law offers a Certificate in Indigenous Law, in French only."
+  },
+  "sources": [
+   {
+    "label": "Certificate Indigenous Laws — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/certificate-indigenous-laws/"
+   },
+   {
+    "label": "Certificat droit autochtone — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/certificat-droit-autochtone/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-administration-arts",
+  "category": "programmes",
+  "keywords": [
+   "administration des arts",
+   "arts administration",
+   "microprogramme en administration des arts",
+   "microprogram in arts administration",
+   "étudier administration des arts",
+   "study arts administration",
+   "gestion culturelle",
+   "cultural management",
+   "musées",
+   "museums",
+   "patrimoine"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en administration des arts ?",
+   "en": "What is the Microprogram in Arts Administration?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme approfondit tes connaissances en administration des arts, en commissariat, en patrimoine et en gestion culturelle. Il est ouvert aux étudiants de toutes les facultés et aux professionnels du milieu des arts, des musées et des galeries.",
+   "en": "This microprogram deepens your knowledge of arts administration, curating, heritage and cultural management. It is open to students from any faculty and to professionals working in arts administration, museums and galleries."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Arts Administration — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-arts-administration/"
+   },
+   {
+    "label": "Microprogramme administration des arts — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-administration-arts/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-cultures-numeriques",
+  "category": "programmes",
+  "keywords": [
+   "cultures numériques",
+   "digital cultures",
+   "microprogramme en cultures numériques",
+   "microprogram in digital cultures",
+   "étudier cultures numériques",
+   "study digital cultures",
+   "humanités numériques",
+   "digital humanities",
+   "numérique",
+   "digital"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en cultures numériques ?",
+   "en": "What is the Microprogram in Digital Cultures?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme en humanités numériques t'apprend à utiliser des outils numériques de façon créative et critique pour recueillir, explorer, organiser, visualiser et diffuser de l'information sur la culture humaine, par exemple des données de recensement historiques ou des vidéoclips. Le programme est offert en français et en anglais.",
+   "en": "This digital humanities microprogram teaches you to use digital tools creatively and critically to gather, mine, organize, visualize and disseminate information about human culture, such as historical census data or music videos. The program is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Digital Cultures — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-digital-cultures/"
+   },
+   {
+    "label": "Microprogramme cultures numériques — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-cultures-numeriques/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-pleine-conscience",
+  "category": "programmes",
+  "keywords": [
+   "pleine conscience",
+   "mindfulness",
+   "microprogramme en pleine conscience",
+   "microprogram in mindfulness",
+   "étudier pleine conscience",
+   "study mindfulness",
+   "méditation",
+   "meditation",
+   "science contemplative",
+   "contemplative science",
+   "bien-être"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en pleine conscience et science contemplative ?",
+   "en": "What is the Microprogram in Mindfulness and Contemplative Science?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme interdisciplinaire réunit les sciences humaines, les sciences sociales et les sciences de la santé pour étudier l'expérience contemplative. Tu pratiques la méditation et la pleine conscience, étudies la psychologie des états mentaux positifs et découvres les traditions contemplatives de l'Occident et de l'Asie.",
+   "en": "This interdisciplinary microprogram brings together the humanities, social sciences and health sciences to study contemplative experience. You practise meditation and mindfulness, study the psychology of positive mental states and explore contemplative traditions of the West and Asia."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Mindfulness and Contemplative Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-mindfulness-contemplative-science/"
+   },
+   {
+    "label": "Microprogramme pleine conscience et science contemplative — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-pleine-conscience-science-contemplative/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-etudes-urbaines",
+  "category": "programmes",
+  "keywords": [
+   "études urbaines",
+   "urban studies",
+   "microprogramme en études urbaines",
+   "microprogram in urban studies",
+   "étudier études urbaines",
+   "study urban studies",
+   "urbanisme",
+   "urban planning",
+   "villes",
+   "cities",
+   "logement"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en études urbaines ?",
+   "en": "What is the Microprogram in Urban Studies?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme de 9 crédits te fait explorer le paysage urbain : logement, transport, développement communautaire et rôle des villes dans nos vies. Tu acquiers des outils pour analyser les villes de façon critique.",
+   "en": "This 9-unit microprogram explores the urban landscape: housing, transportation, community development and the role cities play in our lives. You gain tools to analyze cities critically."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Urban Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-urban-studies/"
+   },
+   {
+    "label": "Microprogramme études urbaines — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-etudes-urbaines/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-entrepreneuriat-creativite",
+  "category": "programmes",
+  "keywords": [
+   "entrepreneuriat et innovation sociale",
+   "entrepreneurship and social innovation",
+   "microprogramme en entrepreneuriat et innovation sociale",
+   "microprogram in entrepreneurship and social innovation",
+   "étudier entrepreneuriat et innovation sociale",
+   "study entrepreneurship and social innovation",
+   "innovation sociale",
+   "social innovation",
+   "créativité",
+   "creativity",
+   "entrepreneuriat arts"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en entrepreneuriat, créativité et innovation sociale ?",
+   "en": "What is the Microprogram in Entrepreneurship, Creativity and Social Innovation?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme de 18 crédits, pour les esprits créatifs et entrepreneurs, équilibre théorie et pratique pour transformer tes idées en projets concrets. Il peut s'intégrer à la plupart des B.A. et B.Sc. de la Faculté des arts.",
+   "en": "This 18-unit microprogram, for creative and entrepreneurial minds, balances theory and practice to turn your ideas into real projects. It can be integrated into most BA and BSc programs in the Faculty of Arts."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Entrepreneurship, Creativity, and Social Innovation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-entrepreneurship-creativity-social-innovation/"
+   },
+   {
+    "label": "Microprogramme entrepreneuriat, créativité et innovation sociale — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-entreprenariat-creativite-innovation-sociale/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-etudes-animales",
+  "category": "programmes",
+  "keywords": [
+   "études animales",
+   "animal studies",
+   "microprogramme en études animales",
+   "microprogram in animal studies",
+   "étudier études animales",
+   "study animal studies",
+   "animaux",
+   "animals",
+   "éthique animale",
+   "animal ethics",
+   "relation humain-animal"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme en études animales ?",
+   "en": "What is the Microprogram in Animal Studies?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme interdisciplinaire de 15 crédits explore les aspects éthiques, religieux, philosophiques, politiques et socioculturels des relations entre humains et animaux, ainsi que nos responsabilités morales envers les autres espèces.",
+   "en": "This 15-unit cross-disciplinary microprogram explores the ethical, religious, philosophical, political and sociocultural aspects of human-animal relationships, and our moral responsibilities toward other species."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Animal Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-animal-studies/"
+   },
+   {
+    "label": "Microprogramme études animales — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-etudes-animales/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-anthropocene",
+  "category": "programmes",
+  "keywords": [
+   "anthropocène",
+   "anthropocene",
+   "microprogramme en anthropocène",
+   "microprogram in anthropocene",
+   "étudier anthropocène",
+   "study anthropocene",
+   "changements climatiques",
+   "climate change",
+   "environnement",
+   "biodiversité",
+   "impact humain"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme Anthropocène ?",
+   "en": "What is the Anthropocene microprogram?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme présente les données scientifiques et les débats autour de l'Anthropocène, l'époque géologique proposée marquée par l'impact humain sur la Terre. Il combine les sciences naturelles avec l'éthique, l'histoire et les politiques publiques.",
+   "en": "This microprogram introduces the scientific evidence and debates around the Anthropocene, the proposed geological epoch marked by human impact on the Earth. It combines the natural sciences with ethics, history and policy."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Anthropocene (Undergraduate studies) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-anthropocene/"
+   },
+   {
+    "label": "Microprogramme anthropocène (études de premier cycle) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-anthropocene/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-sciences-integrees-aliments-cordon-bleu",
+  "category": "programmes",
+  "keywords": [
+   "sciences intégrées des aliments",
+   "integrated food sciences",
+   "baccalauréat en sciences intégrées des aliments",
+   "baccalaureat en sciences integrees des aliments",
+   "programme de sciences intégrées des aliments",
+   "bachelor of integrated food sciences",
+   "honours integrated food sciences",
+   "integrated food sciences program",
+   "étudier sciences intégrées des aliments",
+   "study integrated food sciences",
+   "cordon bleu",
+   "le cordon bleu",
+   "cuisine",
+   "culinary",
+   "culinaire"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme avec Le Cordon Bleu (sciences intégrées des aliments) ?",
+   "en": "Is there a program with Le Cordon Bleu (Integrated Food Sciences)?"
+  },
+  "answer": {
+   "fr": "Le baccalauréat spécialisé en sciences intégrées des aliments, offert en partenariat avec Le Cordon Bleu, combine l'expertise culinaire, les sciences des aliments et de la nutrition et le service à la clientèle. Prends note que le programme n'accepte pas de demandes d'admission pour le moment. Le programme est offert en anglais seulement.",
+   "en": "The Honours Bachelor of Integrated Food Sciences, offered in partnership with Le Cordon Bleu, combines culinary expertise, food and nutrition sciences and client service. Note that the program is not accepting applications at this time. The program is offered in English only."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Integrated Food Sciences in partnership with Le Cordon Bleu — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/"
+   },
+   {
+    "label": "Baccalauréat spécialisé sciences intégrées des aliments en partenariat avec le Cordon Bleu — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-specialise-sciences-integrees-aliments/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-micro-aliments-nutrition-sante",
+  "category": "programmes",
+  "keywords": [
+   "aliments, nutrition et santé",
+   "food, nutrition and health",
+   "microprogramme en aliments, nutrition et santé",
+   "microprogram in food, nutrition and health",
+   "étudier aliments, nutrition et santé",
+   "study food, nutrition and health",
+   "nutrition",
+   "alimentation",
+   "métabolisme",
+   "metabolism",
+   "sciences des aliments"
+  ],
+  "question": {
+   "fr": "C'est quoi le microprogramme aliments, nutrition et santé ?",
+   "en": "What is the Microprogram in Food, Nutrition and Health?"
+  },
+  "answer": {
+   "fr": "Ce microprogramme de 12 crédits fait suite au microprogramme d'introduction à la nutrition humaine et s'adresse à ceux qui ont déjà une base en nutrition et en sciences des aliments. Il porte sur les besoins nutritionnels aux différentes étapes de la vie, le métabolisme et la biochimie des nutriments.",
+   "en": "This 12-unit microprogram builds on the Microprogram in Introduction to Human Nutrition and is designed for students who already have a foundation in nutrition and food science. It covers nutritional needs at different stages of life, metabolism and the biochemistry of nutrients."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Food, Nutrition, and Health — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/microprogram-food-nutrition-health/"
+   },
+   {
+    "label": "Microprogramme aliments, nutrition et santé — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/microprogramme-aliments-nutrition-sante/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "o-bcom-gestion-mondiale-edhec",
+  "category": "programmes",
+  "keywords": [
+   "gestion mondiale",
+   "global management",
+   "étudier gestion mondiale",
+   "study global management",
+   "edhec",
+   "double diplôme",
+   "bba",
+   "commerce international",
+   "telfer"
+  ],
+  "question": {
+   "fr": "C'est quoi le baccalauréat en commerce spécialisé (gestion mondiale) ?",
+   "en": "What is the Honours Bachelor of Commerce (Global Management)?"
+  },
+  "answer": {
+   "fr": "Ce double diplôme est réservé aux étudiants sélectionnés de l'EDHEC Business School : ils obtiennent le BBA international de l'EDHEC et le baccalauréat spécialisé en commerce de l'Université d'Ottawa, avec des cours dans les deux établissements et un stage obligatoire. Si tu n'es pas à l'EDHEC, regarde plutôt le double diplôme international de Telfer.",
+   "en": "This double degree is reserved for selected EDHEC Business School students: they earn EDHEC's International BBA and the University of Ottawa's Honours Bachelor of Commerce, with coursework at both institutions and a mandatory internship. If you're not at EDHEC, look at Telfer's international dual degree instead."
+  },
+  "sources": [
+   {
+    "label": "Honours Bachelor of Commerce (Global Management) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-global-management/"
+   },
+   {
+    "label": "Baccalauréat en sciences commerciales spécialisé (gestion mondiale) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/premier-cycle/baccalaureat-sciences-commerciales-specialise-gestion-mondiale/"
+   }
+  ],
+  "related": [
+   "o-ba-anglais",
+   "o-ba-lettres-francaises",
+   "o-ba-geographie"
   ],
   "verifiedOn": "2026-11-16",
   "status": "official"

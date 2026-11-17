@@ -82266,5 +82266,4324 @@ export const KB = [
   ],
   "verifiedOn": "2026-11-16",
   "status": "official"
+ },
+ {
+  "id": "s-liste-centres-instituts",
+  "category": "programmes",
+  "keywords": [
+   "centres de recherche",
+   "instituts de recherche",
+   "liste des centres",
+   "research centres",
+   "research institutes",
+   "list of research centres",
+   "centres et instituts",
+   "uottawa research",
+   "recherche uottawa",
+   "où trouver un centre de recherche"
+  ],
+  "question": {
+   "fr": "Où trouver la liste des centres et instituts de recherche de l'Université ?",
+   "en": "Where can I find the list of uOttawa's research centres and institutes?"
+  },
+  "answer": {
+   "fr": "La page « Centres et instituts de recherche » du Cabinet du vice-recteur à la recherche et à l'innovation les classe de A à Z : instituts de recherche, centres de recherche, centres de collaboration internationale, instituts de recherche hospitaliers affiliés et groupes de réflexion. Ces centres servent de plateformes de collaboration entre chercheurs, au sein d'une même discipline ou entre disciplines.",
+   "en": "The \"Research centres and institutes\" page of the Office of the Vice-President, Research and Innovation lists them alphabetically: research institutes, research centres, international collaboration centres, affiliated hospital research institutes and think-tanks. These centres are platforms for collaboration among researchers, within and across disciplines."
+  },
+  "sources": [
+   {
+    "label": "Research centres and institutes — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche",
+   "s-recherche-premier-cycle-sciences"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-recherche-facultes",
+  "category": "programmes",
+  "keywords": [
+   "recherche dans les facultés",
+   "research in the faculties",
+   "vice-doyen recherche",
+   "vice-dean research",
+   "projets de recherche",
+   "research projects",
+   "10 facultés",
+   "10 faculties",
+   "bureau de recherche",
+   "research office"
+  ],
+  "question": {
+   "fr": "Combien de projets de recherche y a-t-il dans les facultés ?",
+   "en": "How many research projects are there across the faculties?"
+  },
+  "answer": {
+   "fr": "L'Université compte plus de 5 000 projets de recherche subventionnés en cours, répartis entre 10 facultés. Chaque faculté a son bureau du vice-doyen ou de la vice-doyenne à la recherche, que tu peux contacter pour en savoir plus.",
+   "en": "The University has more than 5,000 funded active research projects across 10 faculties. Each faculty has an Office of the Vice-Dean, Research that you can contact to learn more."
+  },
+  "sources": [
+   {
+    "label": "Research in the faculties — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/research-faculties"
+   },
+   {
+    "label": "La recherche au sein des facultés — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/recherche-facultes"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-axes-strategiques-recherche",
+   "s-recherche-premier-cycle-sciences"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-axes-strategiques-recherche",
+  "category": "programmes",
+  "keywords": [
+   "axes stratégiques de recherche",
+   "strategic areas of research",
+   "priorités de recherche",
+   "research priorities",
+   "environnement durable",
+   "sustainable environment",
+   "sociétés justes",
+   "just societies",
+   "monde numérique",
+   "digital world",
+   "santé et bien-être",
+   "lifelong health"
+  ],
+  "question": {
+   "fr": "Quels sont les grands axes de recherche de l'Université ?",
+   "en": "What are uOttawa's strategic areas of research?"
+  },
+  "answer": {
+   "fr": "L'Université a défini quatre axes stratégiques : créer un environnement durable, faire progresser des sociétés justes, façonner le monde numérique et favoriser la santé et le bien-être tout au long de la vie. Des thèmes transversaux s'appliquent à tous : interdisciplinarité, mobilisation des connaissances, collaboration internationale, francophonie et bilinguisme, et savoirs autochtones.",
+   "en": "The University has defined four strategic areas: creating a sustainable environment, advancing just societies, shaping the digital world and enabling lifelong health and wellness. Cross-cutting themes apply to all of them: interdisciplinarity, knowledge mobilization, international collaboration, La Francophonie and bilingualism, and Indigenous knowledge."
+  },
+  "sources": [
+   {
+    "label": "Strategic Areas of Research — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/strategic-areas-research"
+   },
+   {
+    "label": "Axes stratégiques de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/axes-strategiques-recherche"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-recherche-premier-cycle-sciences"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-recherche-premier-cycle-sciences",
+  "category": "programmes",
+  "keywords": [
+   "recherche premier cycle",
+   "undergraduate research",
+   "usro",
+   "bourses de recherche de premier cycle",
+   "undergraduate research scholarships",
+   "projet de spécialisation",
+   "honours project",
+   "faculté des sciences",
+   "faculty of science",
+   "expérience en recherche",
+   "research experience"
+  ],
+  "question": {
+   "fr": "Comment faire de la recherche au premier cycle à la Faculté des sciences ?",
+   "en": "How can I do research as an undergraduate in the Faculty of Science?"
+  },
+  "answer": {
+   "fr": "La Faculté des sciences propose notamment le projet de spécialisation en 4e année (avec un chercheur principal), le programme USRO pour les étudiants à temps plein de 2e, 3e et 4e année, et 16 bourses de recherche de premier cycle de 11 500 $ chacune. Le programme USRO remplace cette année le programme UROP, qui est suspendu.",
+   "en": "The Faculty of Science offers, among others, the fourth-year Honours research project (with a principal investigator), the USRO program for full-time second-, third- and fourth-year students, and 16 Undergraduate Research Scholarships of $11,500 each. This year USRO replaces the UROP program, which is suspended."
+  },
+  "sources": [
+   {
+    "label": "Research opportunities for students — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/research/students-research-opportunities"
+   },
+   {
+    "label": "Opportunités de recherche pour la communauté étudiante — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences/recherche/opportunites-recherche-communaute-etudiante"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-participer-etude-recherche",
+  "category": "sante",
+  "keywords": [
+   "participer à une étude",
+   "participate in a research study",
+   "participant de recherche",
+   "research participant",
+   "étude en cours",
+   "recruiting participants",
+   "sciences de la santé",
+   "health sciences",
+   "comité d'éthique",
+   "research ethics board"
+  ],
+  "question": {
+   "fr": "Comment participer à une étude de recherche comme participant ?",
+   "en": "How can I take part in a research study as a participant?"
+  },
+  "answer": {
+   "fr": "La Faculté des sciences de la santé publie une liste d'études qui recrutent activement des participants; chacune a été approuvée par le Comité d'éthique de la recherche de l'Université. Chaque fiche explique ce que la participation implique et les critères d'admissibilité.",
+   "en": "The Faculty of Health Sciences posts a list of studies actively recruiting participants; each one has been approved by the University's Research Ethics Board. Each listing explains what participation involves and who is eligible."
+  },
+  "sources": [
+   {
+    "label": "Participate in a research study — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/research/participate-research-study"
+   },
+   {
+    "label": "Participez à un projet de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/recherche/participez-etude-recherche"
+   }
+  ],
+  "related": [
+   "s-institut-cerveau-ircuo",
+   "s-institut-life",
+   "s-institut-musique-sante"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-plateformes-technologiques",
+  "category": "services",
+  "keywords": [
+   "plateformes technologiques",
+   "core facilities",
+   "équipement de recherche partagé",
+   "shared research equipment",
+   "26 plateformes",
+   "26 core facilities",
+   "cvrri",
+   "ovpri",
+   "laboratoires partagés",
+   "shared labs",
+   "installations de recherche"
+  ],
+  "question": {
+   "fr": "C'est quoi les plateformes technologiques de l'Université ?",
+   "en": "What are uOttawa's core facilities?"
+  },
+  "answer": {
+   "fr": "Les plateformes technologiques donnent accès à des services, des technologies et une expertise trop coûteux ou spécialisés pour un seul chercheur. L'Université en compte 26, qui appuient plus de 200 laboratoires; elles sont ouvertes à tous les chercheurs de l'Université moyennant des frais de service, sans exigence de coauteur.",
+   "en": "Core facilities provide access to services, technology and expertise that are too expensive or specialized for a single researcher. The University has 26 of them, supporting more than 200 research labs; they are open to all uOttawa researchers on a service basis, with no co-authorship requirement."
+  },
+  "sources": [
+   {
+    "label": "Core facilities — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/core-facilities"
+   },
+   {
+    "label": "Plateformes technologiques — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/plateformes-technologiques"
+   }
+  ],
+  "related": [
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal",
+   "s-plateforme-biologie-cellulaire-images"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-institut-cerveau-ircuo",
+  "category": "sante",
+  "keywords": [
+   "institut de recherche sur le cerveau",
+   "brain and mind research institute",
+   "ircuo",
+   "uobmri",
+   "cerveau",
+   "brain",
+   "neurosciences",
+   "neuroscience",
+   "santé du cerveau",
+   "brain health",
+   "parkinson"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Institut de recherche sur le cerveau (IRCuO) ?",
+   "en": "What is the Brain and Mind Research Institute (uOBMRI)?"
+  },
+  "answer": {
+   "fr": "Créé en 2012, l'Institut de recherche sur le cerveau de l'Université d'Ottawa fait progresser la recherche interdisciplinaire sur le cerveau. C'est le plus grand institut de l'Université, avec plus de 250 membres, et il fonctionne selon un modèle virtuel qui relie plusieurs facultés, six instituts de recherche hospitaliers affiliés et l'Université Carleton.",
+   "en": "Founded in 2012, the University of Ottawa Brain and Mind Research Institute advances interdisciplinary research on the brain and mind. It's the University's largest institute, with over 250 members, and uses a virtual model linking several faculties, six affiliated hospital research institutes and Carleton University."
+  },
+  "sources": [
+   {
+    "label": "Brain and Mind Research Institute — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/brain"
+   },
+   {
+    "label": "L'Institut de recherche sur le cerveau — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/cerveau"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-life",
+   "s-institut-musique-sante"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-institut-litteratie-donnees",
+  "category": "programmes",
+  "keywords": [
+   "institut de recherche en littératie des données",
+   "data literacy research institute",
+   "irld",
+   "dlri",
+   "littératie des données",
+   "data literacy",
+   "désinformation",
+   "misinformation",
+   "données",
+   "data"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Institut de recherche en littératie des données ?",
+   "en": "What is the Data Literacy Research Institute?"
+  },
+  "answer": {
+   "fr": "L'Institut de recherche en littératie des données (IRLD) est un pôle interdisciplinaire et bilingue qui réunit des chercheurs de plusieurs facultés pour étudier et promouvoir la capacité à lire, comprendre, créer et communiquer des données. Il se trouve au pavillon Simard, salle 327.",
+   "en": "The Data Literacy Research Institute (DLRI) is an interdisciplinary, bilingual hub that brings together scholars from several faculties to study and promote the ability to read, understand, create and communicate data. It's located in Simard Hall, room 327."
+  },
+  "sources": [
+   {
+    "label": "Data Literacy Research Institute — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/data-literacy"
+   },
+   {
+    "label": "Institut de recherche en littératie des données — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/litteratie-donnees"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-institut-environnement",
+  "category": "programmes",
+  "keywords": [
+   "institut de l'environnement",
+   "institute of the environment",
+   "durabilité",
+   "sustainability",
+   "politiques environnementales",
+   "environmental policy",
+   "institut pour l'intelliprospérité",
+   "smart prosperity institute",
+   "maîtrise en durabilité de l'environnement",
+   "environmental sustainability"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Institut de l'environnement ?",
+   "en": "What is the Institute of the Environment?"
+  },
+  "answer": {
+   "fr": "L'Institut de l'environnement est un carrefour de recherche sur la durabilité, axé sur les politiques publiques, l'innovation propre et la protection écologique, notamment par l'Institut pour l'IntelliProspérité. Il offre aussi la maîtrise ès sciences et le doctorat en durabilité de l'environnement.",
+   "en": "The Institute of the Environment is a hub for policy-relevant sustainability research at the intersection of public policy, clean innovation and ecological protection, including through the Smart Prosperity Institute. It also offers the MSc and PhD in Environmental Sustainability."
+  },
+  "sources": [
+   {
+    "label": "Institute of the Environment — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/environment"
+   },
+   {
+    "label": "Institut de l'environnement — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/environnement"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-institut-etudes-autochtones",
+  "category": "programmes",
+  "keywords": [
+   "institut de recherche et d'études autochtones",
+   "institute of indigenous research and studies",
+   "iréa",
+   "iirs",
+   "études autochtones",
+   "indigenous studies",
+   "recherche autochtone",
+   "indigenous research",
+   "faculté des arts",
+   "faculty of arts"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Institut de recherche et d'études autochtones ?",
+   "en": "What is the Institute of Indigenous Research and Studies?"
+  },
+  "answer": {
+   "fr": "L'Institut de recherche et d'études autochtones (IRÉA), rattaché à la Faculté des arts, mise sur l'interdisciplinarité pour ses programmes et sa recherche sur les peuples autochtones. Ses bureaux sont au pavillon Simard, salle 128.",
+   "en": "The Institute of Indigenous Research and Studies (IIRS), part of the Faculty of Arts, builds its programs and research on Indigenous Peoples around interdisciplinarity. Its office is in Simard Hall, room 128."
+  },
+  "sources": [
+   {
+    "label": "Institute of Indigenous Research and Studies — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/institute-indigenous-research-studies"
+   },
+   {
+    "label": "Institut de recherche et d’études autochtones — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-arts/institut-recherche-etudes-autochtones"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-institut-life",
+  "category": "sante",
+  "keywords": [
+   "institut de recherche life",
+   "life research institute",
+   "lri",
+   "vieillissement",
+   "aging",
+   "bien-être",
+   "well-being",
+   "durée de vie",
+   "lifespan",
+   "sciences de la santé",
+   "health sciences"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Institut de recherche LIFE ?",
+   "en": "What is the LIFE Research Institute?"
+  },
+  "answer": {
+   "fr": "L'Institut de recherche LIFE étudie les dimensions biologique, psychosociale et environnementale de la vie pour mieux comprendre le vieillissement et favoriser le bien-être tout au long de la vie. Il est associé à la Faculté des sciences de la santé et se trouve au pavillon Montpetit, salle 422B.",
+   "en": "The LIFE Research Institute studies the biological, psychosocial and environmental dimensions of life to better understand aging and foster well-being across the lifespan. It's linked to the Faculty of Health Sciences and is located in Montpetit Hall, room 422B."
+  },
+  "sources": [
+   {
+    "label": "LIFE Research Institute — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/life"
+   },
+   {
+    "label": "Institut de recherche LIFE — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/life"
+   },
+   {
+    "label": "Centres and Institutes — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/research/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/recherche/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-musique-sante"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-institut-musique-sante",
+  "category": "sante",
+  "keywords": [
+   "institut de recherche en musique et santé",
+   "music and health research institute",
+   "mhri",
+   "irms",
+   "musique",
+   "music",
+   "santé",
+   "health",
+   "musicothérapie",
+   "pavillon perez"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Institut de recherche en musique et santé ?",
+   "en": "What is the Music and Health Research Institute?"
+  },
+  "answer": {
+   "fr": "L'Institut de recherche en musique et santé travaille à l'intersection de la musique, des sciences de la santé, des sciences sociales, du génie et de la médecine. Il se trouve au pavillon Perez, salle 204, et organise un colloque annuel ainsi que des activités pour les étudiants.",
+   "en": "The Music and Health Research Institute works at the intersection of music, health sciences, social sciences, engineering and medicine. It's located in Perez Hall, room 204, and holds an annual conference as well as student events."
+  },
+  "sources": [
+   {
+    "label": "Music and Health Research Institute — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/music-health"
+   },
+   {
+    "label": "Institut de recherche en musique et santé — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/musique-sante"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-institut-nexus-quantique",
+  "category": "genie",
+  "keywords": [
+   "institut nexus de technologies quantiques",
+   "nexus for quantum technologies",
+   "nexqt",
+   "quantique",
+   "quantum",
+   "photonique",
+   "photonics",
+   "communication quantique",
+   "quantum communication",
+   "complexe de recherche avancée",
+   "advanced research complex"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Institut Nexus de technologies quantiques (NEXQT) ?",
+   "en": "What is the Nexus for Quantum Technologies Institute (NEXQT)?"
+  },
+  "answer": {
+   "fr": "L'Institut Nexus de technologies quantiques fait de la recherche en détection et imagerie quantiques, matériaux quantiques, communications quantiques, nanofabrication et dispositifs, ainsi qu'en éthique et droit. Il se trouve au Complexe de recherche avancée, 25, rue Templeton.",
+   "en": "The Nexus for Quantum Technologies Institute does research in quantum sensing and imaging, quantum materials, quantum communication, nanofabrication and devices, as well as ethics and law. It's located in the Advanced Research Complex, 25 Templeton Street."
+  },
+  "sources": [
+   {
+    "label": "Nexus for Quantum Technologies Institute — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/quantum-institute"
+   },
+   {
+    "label": "Institut Nexus de technologies quantiques — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/institut-quantique"
+   }
+  ],
+  "related": [
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck",
+   "s-recherche-genie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-institut-science-societe-politique",
+  "category": "programmes",
+  "keywords": [
+   "institut de recherche sur la science, la société et la politique publique",
+   "institute for science, society and policy",
+   "issp",
+   "politique scientifique",
+   "science policy",
+   "politiques publiques",
+   "public policy",
+   "énergie",
+   "energy",
+   "conférence bromley"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Institut de recherche sur la science, la société et la politique publique (ISSP) ?",
+   "en": "What is the Institute for Science, Society and Policy (ISSP)?"
+  },
+  "answer": {
+   "fr": "L'ISSP est un institut interfacultaire, créé en 2010, qui explore les liens entre la science, la société et les politiques publiques par la recherche, l'enseignement et le rayonnement. Il est dirigé par Monica Gattinger (École d'études politiques) et se trouve au pavillon des Sciences sociales.",
+   "en": "The ISSP is a cross-faculty institute, founded in 2010, that explores the links between science, society and policy through research, education and outreach. It's directed by Monica Gattinger (School of Political Studies) and located in the Social Sciences Building."
+  },
+  "sources": [
+   {
+    "label": "Institute for Science, Society and Policy — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/issp"
+   },
+   {
+    "label": "Institut de recherche sur la science, la société et la politique publique — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/issp"
+   },
+   {
+    "label": "Centres and Institutes — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/research/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/recherche/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-institut-biologie-systemes",
+  "category": "sante",
+  "keywords": [
+   "institut de biologie des systèmes d'ottawa",
+   "ottawa institute of systems biology",
+   "ibso",
+   "oisb",
+   "biologie des systèmes",
+   "systems biology",
+   "maladies humaines",
+   "human diseases",
+   "faculté de médecine",
+   "faculty of medicine"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Institut de biologie des systèmes d'Ottawa ?",
+   "en": "What is the Ottawa Institute of Systems Biology?"
+  },
+  "answer": {
+   "fr": "L'Institut de biologie des systèmes d'Ottawa (IBSO), situé à la Faculté de médecine, développe et applique la biologie des systèmes à l'étude des maladies humaines en intégrant technologies, biologie et calcul. Ses bureaux sont au 451, chemin Smyth, salle 4510.",
+   "en": "The Ottawa Institute of Systems Biology (OISB), located in the Faculty of Medicine, develops and applies systems biology to the study of human diseases by integrating technology, biology and computation. Its office is at 451 Smyth Road, room 4510."
+  },
+  "sources": [
+   {
+    "label": "Ottawa Institute of Systems Biology — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ottawa-institute-systems-biology"
+   },
+   {
+    "label": "L’Institut de biologie des systèmes d’Ottawa (IBSO) — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/linstitut-biologie-systemes-dottawa-ibso"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-institut-etudes-feministes",
+  "category": "programmes",
+  "keywords": [
+   "institut d'études féministes et de genre",
+   "institute of feminist and gender studies",
+   "études féministes",
+   "feminist studies",
+   "études de genre",
+   "gender studies",
+   "fem",
+   "sciences sociales",
+   "social sciences",
+   "majeure",
+   "major"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Institut d'études féministes et de genre ?",
+   "en": "What is the Institute of Feminist and Gender Studies?"
+  },
+  "answer": {
+   "fr": "L'Institut d'études féministes et de genre, à la Faculté des sciences sociales, fait de l'enseignement et de la recherche féministes interdisciplinaires dans un milieu bilingue. Tu peux y faire une majeure ou une mineure en français ou en anglais, et il offre un programme collaboratif aux cycles supérieurs.",
+   "en": "The Institute of Feminist and Gender Studies, in the Faculty of Social Sciences, promotes interdisciplinary feminist education and research in a bilingual setting. You can do a major or minor in English or French, and it offers a collaborative graduate program."
+  },
+  "sources": [
+   {
+    "label": "Institute of Feminist and Gender Studies — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/feminist-gender-studies"
+   },
+   {
+    "label": "Institut d'études féministes et de genre — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/etudes-feministes-genre"
+   },
+   {
+    "label": "Centres and Institutes — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/research/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/recherche/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-institut-heritage-entreprises-familiales",
+  "category": "programmes",
+  "keywords": [
+   "institut de l'héritage des entreprises familiales",
+   "family enterprise legacy institute",
+   "entreprise familiale",
+   "family business",
+   "relève",
+   "next generation",
+   "succession",
+   "peter jaskiewicz",
+   "entrepreneuriat",
+   "entrepreneurship"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Institut de l'héritage des entreprises familiales ?",
+   "en": "What is the Family Enterprise Legacy Institute?"
+  },
+  "answer": {
+   "fr": "Cet institut fait de la recherche et de la formation sur les entreprises familiales en mettant l'accent sur la nouvelle génération, alors que le Canada vit une grande transmission de patrimoine et de leadership. Il est dirigé par Peter Jaskiewicz.",
+   "en": "This institute advances research and training on family enterprise with a focus on the next generation, as Canada undergoes a major transfer of wealth and leadership. It's directed by Peter Jaskiewicz."
+  },
+  "sources": [
+   {
+    "label": "Family Enterprise Legacy Institute — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/family-enterprise-legacy-institute"
+   },
+   {
+    "label": "Institut de l’héritage des entreprises familiales — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/institut-heritage-entreprises-familiales"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-sante-noirs",
+  "category": "sante",
+  "keywords": [
+   "centre interdisciplinaire pour la santé des noir.e.s",
+   "interdisciplinary centre for black health",
+   "cisn",
+   "icbh",
+   "santé des noirs",
+   "black health",
+   "disparités en santé",
+   "health disparities",
+   "communautés noires",
+   "black communities"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre interdisciplinaire pour la santé des Noir.e.s ?",
+   "en": "What is the Interdisciplinary Centre for Black Health?"
+  },
+  "answer": {
+   "fr": "C'est le premier centre de recherche universitaire au Canada entièrement consacré aux déterminants biologiques, sociaux et culturels de la santé des communautés noires. Il réunit des experts en médecine, sciences infirmières, nutrition, psychologie, sociologie, droit et santé publique; il est dirigé par Jude Mary Cénat (École de psychologie) et se trouve au pavillon des Sciences sociales.",
+   "en": "It's Canada's first academic research centre entirely dedicated to the biological, social and cultural determinants of health of Black communities. It brings together experts in medicine, nursing, nutrition, psychology, sociology, law and public health; it's directed by Jude Mary Cénat (School of Psychology) and located in the Social Sciences Building."
+  },
+  "sources": [
+   {
+    "label": "Interdisciplinary Centre for Black Health — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/interdisciplinary-centre-black-health"
+   },
+   {
+    "label": "Centre Interdisciplinaire pour la santé des Noir.e.s — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/centre-interdisciplinaire-sante-noirs"
+   },
+   {
+    "label": "Centres and Institutes — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/research/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/recherche/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-catalyse-ccri",
+  "category": "genie",
+  "keywords": [
+   "centre de recherche et d'innovation en catalyse",
+   "centre for catalysis research and innovation",
+   "ccri",
+   "catalyse",
+   "catalysis",
+   "chimie",
+   "chemistry",
+   "complexe des biosciences",
+   "biosciences complex"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de recherche et d'innovation en catalyse ?",
+   "en": "What is the Centre for Catalysis Research and Innovation?"
+  },
+  "answer": {
+   "fr": "Créé en 2001, c'est le plus grand centre de recherche multidisciplinaire en catalyse regroupé en un seul lieu au Canada, à l'interface de la chimie, du génie et de la biologie. Il occupe une installation de 18 000 pi² construite en 2005 au campus principal, dans le Complexe des biosciences.",
+   "en": "Founded in 2001, it's Canada's largest co-located, multidisciplinary catalysis research centre, at the interface of chemistry, engineering and biology. It occupies an 18,000 sq. ft. facility built in 2005 on the downtown campus, in the Biosciences Complex."
+  },
+  "sources": [
+   {
+    "label": "Centre for Catalysis Research and Innovation — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/catalysis-research-innovation"
+   },
+   {
+    "label": "Centre de recherche et d’innovation en catalyse — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/recherche-innovation-catalyse"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-max-planck",
+   "s-recherche-genie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-circem",
+  "category": "programmes",
+  "keywords": [
+   "circem",
+   "centre interdisciplinaire de recherche sur la citoyenneté et les minorités",
+   "centre for interdisciplinary research on citizenship and minorities",
+   "citoyenneté",
+   "citizenship",
+   "minorités",
+   "minorities",
+   "francophonie",
+   "sciences sociales",
+   "social sciences"
+  ],
+  "question": {
+   "fr": "C'est quoi le CIRCEM ?",
+   "en": "What is CIRCEM?"
+  },
+  "answer": {
+   "fr": "Le Centre interdisciplinaire de recherche sur la citoyenneté et les minorités (CIRCEM) est un grand centre de la Faculté des sciences sociales qui réunit les chercheurs qui s'intéressent à la citoyenneté et aux minorités, dans un espace intellectuel francophone. Il se trouve au pavillon des Sciences sociales, salle 5046.",
+   "en": "The Centre for Interdisciplinary Research on Citizenship and Minorities (CIRCEM) is a major Faculty of Social Sciences centre bringing together researchers working on citizenship and minority issues, within a francophone intellectual space. It's in the Social Sciences Building, room 5046."
+  },
+  "sources": [
+   {
+    "label": "Centre for Interdisciplinary Research on Citizenship and Minorities — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/circem"
+   },
+   {
+    "label": "Centre interdisciplinaire de recherche sur la citoyenneté et les minorités — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/circem"
+   },
+   {
+    "label": "Centres and Institutes — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/research/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/recherche/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-crsec",
+  "category": "programmes",
+  "keywords": [
+   "centre de recherche sur les services éducatifs et communautaires",
+   "centre for research on educational and community services",
+   "crsec",
+   "crecs",
+   "évaluation de programmes",
+   "program evaluation",
+   "inclusion sociale",
+   "social inclusion",
+   "éducation",
+   "education"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de recherche sur les services éducatifs et communautaires (CRSEC) ?",
+   "en": "What is the Centre for Research on Educational and Community Services (CRECS)?"
+  },
+  "answer": {
+   "fr": "Le CRSEC travaille avec des organismes de l'éducation, des services sociaux et de la santé pour développer et partager de la recherche qui renforce les politiques et programmes destinés aux communautés vulnérables. Il est coparrainé par la Faculté des sciences sociales et la Faculté d'éducation et se trouve au pavillon Vanier, salle 5002.",
+   "en": "CRECS partners with organizations in education, social services and health to develop and share research that strengthens policies and programs for vulnerable communities. It's co-sponsored by the Faculty of Social Sciences and the Faculty of Education and located in Vanier Hall, room 5002."
+  },
+  "sources": [
+   {
+    "label": "Centre for Research on Educational and Community Services (CRECS) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/crecs"
+   },
+   {
+    "label": "Centre de recherche sur les services éducatifs et communautaires (CRSEC) — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/crsec"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-droit-environnement",
+  "category": "programmes",
+  "keywords": [
+   "centre du droit de l'environnement et de la durabilité mondiale",
+   "centre for environmental law and global sustainability",
+   "celgs",
+   "droit de l'environnement",
+   "environmental law",
+   "durabilité",
+   "sustainability",
+   "droit de l'eau",
+   "water law",
+   "faculté de droit"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre du droit de l'environnement et de la durabilité mondiale ?",
+   "en": "What is the Centre for Environmental Law and Global Sustainability?"
+  },
+  "answer": {
+   "fr": "C'est le lieu de référence de l'Université pour la recherche, l'enseignement et la sensibilisation en droit de l'environnement, à la Section de common law de la Faculté de droit. Il regroupe l'une des plus grandes concentrations de professeurs en droit de l'environnement au Canada et se trouve au pavillon Fauteux, 57, rue Louis-Pasteur.",
+   "en": "It's the University's forum for research, teaching and advocacy in environmental law, in the Faculty of Law's Common Law Section. It has one of the largest concentrations of environmental law professors in Canada and is located in Fauteux Hall, 57 Louis Pasteur Street."
+  },
+  "sources": [
+   {
+    "label": "Environmental Law — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/centre-environmental-law-global-sustainability"
+   },
+   {
+    "label": "Droit de l'environnement — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/common-law/centre-droit-environnement-durabilite-mondiale"
+   },
+   {
+    "label": "Research Centres, Networks and Labs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/research/centres-research-excellence"
+   },
+   {
+    "label": "Centres, réseaux et laboratoires de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/common-law/recherche/centre-excellence-recherche"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-crccf",
+  "category": "programmes",
+  "keywords": [
+   "crccf",
+   "centre de recherche sur les francophonies canadiennes",
+   "centre for research on french canadian culture",
+   "francophonie",
+   "archives",
+   "franco-ontarien",
+   "french canadian",
+   "pavillon morisset",
+   "histoire",
+   "history"
+  ],
+  "question": {
+   "fr": "C'est quoi le CRCCF ?",
+   "en": "What is the CRCCF?"
+  },
+  "answer": {
+   "fr": "Le Centre de recherche sur les francophonies canadiennes (CRCCF), fondé en 1958, étudie la société et la culture des communautés francophones d'Amérique du Nord et conserve l'un des plus importants centres d'archives francophones au Canada. Il réunit archives, recherche et publications, et se trouve au pavillon Morisset; son site est en français seulement.",
+   "en": "The CRCCF (Centre de recherche sur les francophonies canadiennes), founded in 1958, studies the society and culture of North America's francophone communities and holds one of Canada's largest francophone archives. It combines archives, research and publications, is located in Morisset Hall, and its website is in French only."
+  },
+  "sources": [
+   {
+    "label": "Centre de recherche sur les francophonies canadiennes — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/crccf"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-futur-villes",
+  "category": "programmes",
+  "keywords": [
+   "centre de recherche sur le futur des villes",
+   "research centre on the future of cities",
+   "villes",
+   "cities",
+   "urbanisation",
+   "urbanization",
+   "anthropocène",
+   "anthropocene",
+   "crise climatique",
+   "climate crisis"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de recherche sur le futur des villes ?",
+   "en": "What is the Research Centre on the Future of Cities?"
+  },
+  "answer": {
+   "fr": "Ce centre offre un milieu de recherche interdisciplinaire sur les liens entre la transformation des villes, la crise climatique et sociale, et l'anthropocène. Il est rattaché à la Faculté des sciences sociales et dirigé par Vincent Mirza (École d'études sociologiques et anthropologiques).",
+   "en": "This centre offers an interdisciplinary research environment on the relationship between the transformation of cities, the climate and social crisis, and the Anthropocene. It's part of the Faculty of Social Sciences and directed by Vincent Mirza (School of Sociological and Anthropological Studies)."
+  },
+  "sources": [
+   {
+    "label": "Research Centre on the Future of Cities — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/future-cities"
+   },
+   {
+    "label": "Centre de recherche sur le futur des villes — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/futur-villes"
+   },
+   {
+    "label": "Centres and Institutes — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/research/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/recherche/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-etudes-gouvernance",
+  "category": "programmes",
+  "keywords": [
+   "centre d'études en gouvernance",
+   "centre on governance",
+   "ceg",
+   "cog",
+   "gouvernance",
+   "governance",
+   "administration publique",
+   "public administration",
+   "politiques culturelles",
+   "sciences sociales"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre d'études en gouvernance ?",
+   "en": "What is the Centre on Governance?"
+  },
+  "answer": {
+   "fr": "Le Centre d'études en gouvernance travaille avec des organisations pour mieux comprendre les mécanismes de gouvernance, analyser les problèmes de mise en œuvre et offrir de meilleurs services. Il relève de la Faculté des sciences sociales et se trouve au pavillon des Sciences sociales, salle 5043.",
+   "en": "The Centre on Governance works with organizations to better understand governance mechanisms, analyze implementation problems and provide better services. It's part of the Faculty of Social Sciences and located in the Social Sciences Building, room 5043."
+  },
+  "sources": [
+   {
+    "label": "Centre on Governance — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/centre-governance"
+   },
+   {
+    "label": "Centre d’études en gouvernance — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/centre-etudes-gouvernance"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-droits-personne",
+  "category": "programmes",
+  "keywords": [
+   "centre de recherche et d'enseignement sur les droits de la personne",
+   "human rights research and education centre",
+   "credp",
+   "hrrec",
+   "droits de la personne",
+   "human rights",
+   "justice sociale",
+   "social justice",
+   "faculté de droit",
+   "pavillon fauteux"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de recherche et d'enseignement sur les droits de la personne ?",
+   "en": "What is the Human Rights Research and Education Centre?"
+  },
+  "answer": {
+   "fr": "Créé en 1981, c'est l'un des plus anciens centres du genre en Amérique du Nord; il réunit éducateurs, chercheurs et étudiants de toutes disciplines pour aborder les droits de la personne de façon interdisciplinaire. Il se trouve au pavillon Fauteux, salle 550.",
+   "en": "Created in 1981, it's one of the oldest such centres in North America; it brings together educators, researchers and students from all disciplines to address human rights from an interdisciplinary perspective. It's located in Fauteux Hall, room 550."
+  },
+  "sources": [
+   {
+    "label": "Human Rights Research and Education Centre — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/hrrec"
+   },
+   {
+    "label": "Centre de recherche et d'enseignement sur les droits de la personne — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/credp"
+   },
+   {
+    "label": "Research Centres, Networks and Labs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/research/centres-research-excellence"
+   },
+   {
+    "label": "Centres, réseaux et laboratoires de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/common-law/recherche/centre-excellence-recherche"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-ci3",
+  "category": "sante",
+  "keywords": [
+   "centre de l'infection, de l'immunité et de l'inflammation",
+   "centre for infection, immunity and inflammation",
+   "ci3",
+   "immunologie",
+   "immunology",
+   "microbiologie",
+   "microbiology",
+   "inflammation",
+   "maladies infectieuses",
+   "infectious diseases"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de l'infection, de l'immunité et de l'inflammation (CI3) ?",
+   "en": "What is the Centre for Infection, Immunity and Inflammation (CI3)?"
+  },
+  "answer": {
+   "fr": "Le CI3, à la Faculté de médecine, rassemble des chercheurs fondamentaux et cliniques aux expertises complémentaires pour s'attaquer aux questions complexes liées aux maladies infectieuses et inflammatoires. On y trouve notamment des spécialistes en immunologie, microbiologie, biochimie, biologie, chimie et pathologie.",
+   "en": "CI3, in the Faculty of Medicine, brings together basic and clinical scientists with complementary expertise to tackle complex research questions on infectious and inflammatory conditions. It includes scientists in immunology, microbiology, biochemistry, biology, chemistry and pathology."
+  },
+  "sources": [
+   {
+    "label": "Centre for Infection, Immunity and Inflammation - CI3 — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/center-infection-immunity-inflammation"
+   },
+   {
+    "label": "Centre de l’infection, de l’immunité et de l’inflammation - CI3 — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-medecine/centre-infection-immunite-inflammation"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-droit-technologie-societe",
+  "category": "programmes",
+  "keywords": [
+   "centre de recherche en droit, technologie et société",
+   "centre for law, technology and society",
+   "clts",
+   "droit des technologies",
+   "technology law",
+   "vie privée",
+   "privacy",
+   "éthique de l'ia",
+   "ai ethics",
+   "pavillon brooks"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de recherche en droit, technologie et société ?",
+   "en": "What is the Centre for Law, Technology and Society?"
+  },
+  "answer": {
+   "fr": "C'est le principal groupe de recherche canadien en droit, éthique et politiques des technologies, dans un cadre interdisciplinaire. Il est rattaché à la Faculté de droit, dirigé par Florian Martin-Bariteau et situé au pavillon Brooks, 4e étage.",
+   "en": "It's Canada's premier research hub on technology law, ethics and policy, in an interdisciplinary setting. It's linked to the Faculty of Law, directed by Florian Martin-Bariteau and located in the Brooks Building, 4th floor."
+  },
+  "sources": [
+   {
+    "label": "Centre for Law, Technology and Society — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/centre-law-technology-society"
+   },
+   {
+    "label": "Centre de recherche en droit, technologie et société — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/centre-droit-technologie-societe"
+   },
+   {
+    "label": "Research Centres, Networks and Labs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/research/centres-research-excellence"
+   },
+   {
+    "label": "Centres, réseaux et laboratoires de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/common-law/recherche/centre-excellence-recherche"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-max-planck",
+  "category": "genie",
+  "keywords": [
+   "centre max-planck",
+   "max planck centre",
+   "photonique extrême",
+   "extreme photonics",
+   "photonique quantique",
+   "quantum photonics",
+   "lasers",
+   "optique",
+   "optics",
+   "école d'été",
+   "summer school"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre Max-Planck–Université d'Ottawa pour la photonique extrême et quantique ?",
+   "en": "What is the Max Planck – uOttawa Centre for Extreme and Quantum Photonics?"
+  },
+  "answer": {
+   "fr": "Créé en 2015, ce centre favorise la collaboration scientifique entre l'Université et la Société Max-Planck en optique et photonique : lasers de très haute intensité, méthodes optiques pour l'information quantique et fabrication de dispositifs photoniques. Il soutient la mobilité des jeunes chercheurs par des bourses, un atelier annuel et une école d'été.",
+   "en": "Founded in 2015, this centre fosters scientific collaboration between uOttawa and the Max Planck Society in optics and photonics: very high intensity lasers, optical methods for quantum information and photonic device fabrication. It supports young researcher mobility through fellowships, an annual workshop and a summer school."
+  },
+  "sources": [
+   {
+    "label": "Max Planck – uOttawa Centre for extreme and Quantum Photonics — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/max-planck-centre"
+   },
+   {
+    "label": "Centre Max-Planck-Université d'Ottawa pour la photonique extrême et quantique — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/centre-max-planck"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-recherche-genie"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-gestion-politiques-publiques",
+  "category": "programmes",
+  "keywords": [
+   "centre en gestion et politiques publiques",
+   "centre on public management and policy",
+   "fonction publique",
+   "public service",
+   "leadership",
+   "gestion publique",
+   "public management",
+   "perfectionnement professionnel",
+   "professional development",
+   "cadres"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre en gestion et politiques publiques ?",
+   "en": "What is the Centre on Public Management and Policy?"
+  },
+  "answer": {
+   "fr": "Ce centre de la Faculté des sciences sociales fait de la recherche appliquée et offre de la formation professionnelle aux cadres de la fonction publique, surtout sur des enjeux qui touchent le gouvernement fédéral. Il se trouve au 180, rue Waller.",
+   "en": "This Faculty of Social Sciences centre does applied research and offers executive and professional training in public sector management, especially on issues of concern to the federal government. It's located at 180 Waller Street."
+  },
+  "sources": [
+   {
+    "label": "Centre on Public Management and Policy — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/centre-public-management-policy"
+   },
+   {
+    "label": "Centre en gestion et politiques publiques — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/centre-gestion-politiques-publiques"
+   },
+   {
+    "label": "Centres and Institutes — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/research/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/recherche/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-droit-sante",
+  "category": "sante",
+  "keywords": [
+   "centre de droit, politique et éthique de la santé",
+   "centre for health law, policy and ethics",
+   "cdpes",
+   "chlpe",
+   "droit de la santé",
+   "health law",
+   "éthique",
+   "ethics",
+   "politique de la santé",
+   "health policy"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de droit, politique et éthique de la santé ?",
+   "en": "What is the Centre for Health Law, Policy and Ethics?"
+  },
+  "answer": {
+   "fr": "Ce centre interdisciplinaire de la Faculté de droit génère et diffuse de la recherche sur les défis juridiques, réglementaires et éthiques que soulèvent les progrès en santé et les systèmes de soins. Il est dirigé par Vanessa Gruben.",
+   "en": "This interdisciplinary Faculty of Law centre generates and shares research on the legal, regulatory and ethical challenges raised by advances in health and health systems. It's directed by Vanessa Gruben."
+  },
+  "sources": [
+   {
+    "label": "Research Centres, Networks and Labs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/research/centres-research-excellence"
+   },
+   {
+    "label": "Centres, réseaux et laboratoires de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/common-law/recherche/centre-excellence-recherche"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-droit-public",
+  "category": "programmes",
+  "keywords": [
+   "centre de droit public",
+   "public law centre",
+   "cdp",
+   "plc",
+   "droit constitutionnel",
+   "constitutional law",
+   "droit administratif",
+   "administrative law",
+   "faculté de droit",
+   "faculty of law"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de droit public ?",
+   "en": "What is the Public Law Centre?"
+  },
+  "answer": {
+   "fr": "Le Centre de droit public est un chef de file canadien de la recherche et du débat en droit public : droit constitutionnel, administratif, de l'immigration, criminel, droits de la personne et traditions juridiques autochtones. Bilingue et multijuridique, il réunit des experts des sections de droit civil et de common law; il est codirigé par Vanessa MacDonnell et Sarah Berger Richardson.",
+   "en": "The Public Law Centre is Canada's leading centre for public law research and debate: constitutional, administrative, immigration and criminal law, human rights and Indigenous legal traditions. Bilingual and multijural, it brings together experts from the Civil Law and Common Law sections; it's co-directed by Vanessa MacDonnell and Sarah Berger Richardson."
+  },
+  "sources": [
+   {
+    "label": "Research Centres, Networks and Labs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/research/centres-research-excellence"
+   },
+   {
+    "label": "Centres, réseaux et laboratoires de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/common-law/recherche/centre-excellence-recherche"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-fiscalite-cga",
+  "category": "programmes",
+  "keywords": [
+   "centre de recherche en fiscalité des cga",
+   "cga tax research centre",
+   "fiscalité",
+   "taxation",
+   "droit fiscal",
+   "tax law",
+   "fiscalité internationale",
+   "international tax",
+   "faculté de droit",
+   "vern krishna"
+  ],
+  "question": {
+   "fr": "Y a-t-il un centre de recherche en fiscalité ?",
+   "en": "Is there a research centre on taxation?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre de recherche en fiscalité des CGA, à la Faculté de droit, encourage la recherche sur la fiscalité canadienne fédérale et provinciale et sur le droit fiscal international. Il finance des publications, organise des conférences et contribue à l'élaboration des politiques fiscales; il est dirigé par Vern Krishna.",
+   "en": "Yes, the CGA Ontario Tax & International Business Research Centre, in the Faculty of Law, promotes research on Canadian federal and provincial taxation and international tax law. It sponsors publications, hosts conferences and contributes to tax policy; it's directed by Vern Krishna."
+  },
+  "sources": [
+   {
+    "label": "Research Centres, Networks and Labs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/research/centres-research-excellence"
+   },
+   {
+    "label": "Centres, réseaux et laboratoires de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/common-law/recherche/centre-excellence-recherche"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-sante-sciences-infirmieres",
+  "category": "sante",
+  "keywords": [
+   "centre de recherche en santé et sciences infirmières",
+   "centre for research on health and nursing",
+   "crssi",
+   "crhn",
+   "sciences infirmières",
+   "nursing",
+   "iniquités en santé",
+   "health inequities",
+   "association des infirmières et infirmiers du canada",
+   "canadian nurses association"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de recherche en santé et sciences infirmières (CRSSI) ?",
+   "en": "What is the Centre for Research on Health and Nursing (CRHN)?"
+  },
+  "answer": {
+   "fr": "Le CRSSI rassemble des chercheurs, des stagiaires et des utilisateurs de connaissances pour développer et diffuser de la recherche qui s'attaque aux iniquités en santé pour les patients, les soignants et les systèmes de santé. C'est un partenariat entre l'Université et l'Association des infirmières et infirmiers du Canada.",
+   "en": "CRHN brings together researchers, trainees and knowledge users to develop and share research addressing health inequities for patients, providers and health systems. It's a partnership between the University and the Canadian Nurses Association."
+  },
+  "sources": [
+   {
+    "label": "Centres and Institutes — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/research/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/recherche/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-politiques-internationales",
+  "category": "programmes",
+  "keywords": [
+   "centre d'études en politiques internationales",
+   "centre for international policy studies",
+   "cépi",
+   "cips",
+   "sécurité internationale",
+   "international security",
+   "gouvernance mondiale",
+   "global governance",
+   "affaires publiques et internationales",
+   "public and international affairs"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre d'études en politiques internationales (CÉPI) ?",
+   "en": "What is the Centre for International Policy Studies (CIPS)?"
+  },
+  "answer": {
+   "fr": "Le CÉPI soutient la recherche de pointe sur la sécurité internationale et la gouvernance mondiale et stimule le débat public sur les politiques internationales. Il relève de la Faculté des sciences sociales et est dirigé par Alexandra Gheciu (École supérieure d'affaires publiques et internationales).",
+   "en": "CIPS supports cutting-edge scholarship on international security and global governance and fosters public discussion of international policy. It's part of the Faculty of Social Sciences and directed by Alexandra Gheciu (Graduate School of Public and International Affairs)."
+  },
+  "sources": [
+   {
+    "label": "Centres and Institutes — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/research/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/recherche/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-pharmacologie-shanghai",
+  "category": "sante",
+  "keywords": [
+   "centre conjoint de recherche sur les systèmes et la pharmacologie personnalisée",
+   "joint research center on systems and personalized pharmacology",
+   "ccrspp",
+   "jrcspp",
+   "pharmacologie",
+   "pharmacology",
+   "shanghai",
+   "materia medica",
+   "collaboration internationale",
+   "international collaboration"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre conjoint de recherche sur les systèmes et la pharmacologie personnalisée ?",
+   "en": "What is the Joint Research Center on Systems and Personalized Pharmacology?"
+  },
+  "answer": {
+   "fr": "C'est une plateforme de recherche et de collaboration scientifique établie entre l'Université d'Ottawa et l'Institut Materia Medica de Shanghai. Il fait partie des centres de recherche en collaboration internationale de l'Université.",
+   "en": "It's a research and scientific collaboration platform established between uOttawa and the Shanghai Institute of Materia Medica. It's one of the University's international collaboration research centres."
+  },
+  "sources": [
+   {
+    "label": "Research centres and institutes — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-instituts-hospitaliers-affilies",
+  "category": "sante",
+  "keywords": [
+   "instituts de recherche hospitaliers",
+   "hospital research institutes",
+   "institut de cardiologie",
+   "heart institute",
+   "institut de recherche de l'hôpital d'ottawa",
+   "ottawa hospital research institute",
+   "cheo",
+   "bruyère",
+   "montfort",
+   "royal"
+  ],
+  "question": {
+   "fr": "Quels instituts de recherche hospitaliers sont affiliés à l'Université ?",
+   "en": "Which hospital research institutes are affiliated with uOttawa?"
+  },
+  "answer": {
+   "fr": "L'Université a des liens étroits avec l'Institut de recherche Bruyère, l'Institut de recherche du CHEO, l'Institut du Savoir Montfort, l'Institut de recherche de l'Hôpital d'Ottawa, l'Institut de recherche en santé mentale du Royal et l'Institut de cardiologie de l'Université d'Ottawa. Ensemble, ils forment le Réseau universitaire de santé d'Ottawa.",
+   "en": "The University has close ties with the Bruyère Research Institute, the CHEO Research Institute, the Institut du Savoir Montfort, the Ottawa Hospital Research Institute, The Royal's Institute of Mental Health Research and the University of Ottawa Heart Institute. Together, they form the Ottawa Academic Health Network."
+  },
+  "sources": [
+   {
+    "label": "Research centres and institutes — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-groupes-reflexion-affilies",
+  "category": "programmes",
+  "keywords": [
+   "groupes de réflexion",
+   "think-tanks",
+   "think tank",
+   "institut pour l'intelliprospérité",
+   "smart prosperity institute",
+   "institut des finances publiques et de la démocratie",
+   "institute of fiscal studies and democracy",
+   "ifpd",
+   "ifsd",
+   "politiques publiques"
+  ],
+  "question": {
+   "fr": "L'Université accueille-t-elle des groupes de réflexion (think tanks) ?",
+   "en": "Does uOttawa host any think-tanks?"
+  },
+  "answer": {
+   "fr": "Oui, l'Université accueille des groupes de réflexion liés au gouvernement, aux entreprises et aux groupes communautaires, dont l'Institut pour l'IntelliProspérité et l'Institut des finances publiques et de la démocratie (IFPD).",
+   "en": "Yes, the University hosts think-tanks with ties to government, business and community groups, including the Smart Prosperity Institute and the Institute of Fiscal Studies and Democracy (IFSD)."
+  },
+  "sources": [
+   {
+    "label": "Research centres and institutes — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-reseaux-centres-excellence",
+  "category": "programmes",
+  "keywords": [
+   "réseaux de centres d'excellence",
+   "networks of centres of excellence",
+   "rce",
+   "nce",
+   "age-well",
+   "mitacs",
+   "glyconet",
+   "biocanrx",
+   "kids brain health network",
+   "partenariats"
+  ],
+  "question": {
+   "fr": "De quels réseaux de centres d'excellence l'Université fait-elle partie ?",
+   "en": "Which Networks of Centres of Excellence is uOttawa part of?"
+  },
+  "answer": {
+   "fr": "Le programme des Réseaux de centres d'excellence favorise les partenariats entre universités, gouvernement et industrie. L'Université est membre de nombreux réseaux, dont AGE-WELL, BioCanRx, GlycoNet, le Réseau canadien de l'eau, Kids Brain Health Network et Mitacs, et elle a déjà accueilli le Réseau canadien contre les accidents cérébrovasculaires et le Réseau de cellules souches.",
+   "en": "The Networks of Centres of Excellence program fosters partnerships between universities, government and industry. The University is a member of many networks, including AGE-WELL, BioCanRx, GlycoNet, the Canadian Water Network, Kids Brain Health Network and Mitacs, and has hosted the Canadian Stroke Network and the Stem Cell Network."
+  },
+  "sources": [
+   {
+    "label": "Research centres and institutes — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/centres-institutes"
+   },
+   {
+    "label": "Centres et instituts de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/centres-instituts"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-recherche-genie",
+  "category": "genie",
+  "keywords": [
+   "recherche en génie",
+   "engineering research",
+   "faculté de génie",
+   "faculty of engineering",
+   "axes de recherche",
+   "research areas",
+   "photonique",
+   "photonics",
+   "infrastructures durables",
+   "sustainable infrastructure",
+   "technologies de la santé"
+  ],
+  "question": {
+   "fr": "Sur quoi porte la recherche à la Faculté de génie ?",
+   "en": "What research is done in the Faculty of Engineering?"
+  },
+  "answer": {
+   "fr": "La Faculté de génie compte 17 chaires de recherche et des membres de six centres et instituts. Sa recherche s'articule autour de cinq axes : technologies pour la santé, transformation numérique de la société, infrastructures durables et résilientes, matériaux et procédés émergents, et photonique pour les dispositifs, les réseaux et l'énergie.",
+   "en": "The Faculty of Engineering has 17 research chairs and members in six research centres and institutes. Its research spans five areas: enabling technologies for health care, technology for the digital transformation of society, sustainable and resilient infrastructure, emerging materials and processes, and photonics for devices, networks and energy."
+  },
+  "sources": [
+   {
+    "label": "Research — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/research"
+   },
+   {
+    "label": "Recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-genie/recherche"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-ia-appliquee",
+  "category": "genie",
+  "keywords": [
+   "centre d'intelligence artificielle appliquée",
+   "centre for applied artificial intelligence",
+   "caai",
+   "intelligence artificielle",
+   "artificial intelligence",
+   "ia",
+   "ai",
+   "partenaires industriels",
+   "industry partners",
+   "faculté de génie"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre d'intelligence artificielle appliquée ?",
+   "en": "What is the Centre for Applied Artificial Intelligence?"
+  },
+  "answer": {
+   "fr": "C'est un carrefour de collaboration de la Faculté de génie qui relie les chercheurs en IA de l'Université à des partenaires de l'industrie, du gouvernement et du milieu universitaire qui veulent appliquer l'IA dans leurs activités. Il met l'accent sur une IA fiable, éthique et durable, dans des secteurs comme les télécommunications, la santé, la robotique, la finance et la sécurité nationale.",
+   "en": "It's a Faculty of Engineering collaboration hub connecting uOttawa's AI researchers with industry, government and academic partners who want to apply AI in their operations. It focuses on trustworthy, ethical and sustainable AI in sectors such as telecommunications, health care, robotics, finance and national security."
+  },
+  "sources": [
+   {
+    "label": "Centre for Applied Artificial Intelligence — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/research/centre-applied-artificial-intelligence"
+   },
+   {
+    "label": "Centre d’intelligence artificielle appliquée — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-genie/recherche/centre-intelligence-artificielle-appliquee"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-realite-etendue",
+  "category": "genie",
+  "keywords": [
+   "centre de réalité étendue",
+   "centre for extended reality",
+   "réalité étendue",
+   "extended reality",
+   "xr",
+   "jumeaux numériques",
+   "digital twins",
+   "haptique",
+   "haptics",
+   "centre innova"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de réalité étendue ?",
+   "en": "What is the Centre for Extended Reality?"
+  },
+  "answer": {
+   "fr": "Le Centre de réalité étendue, basé à la Faculté de génie, est le carrefour de l'Université pour la réalité étendue, les jumeaux numériques, l'haptique, l'informatique spatiale et l'IA. Il réunit chercheurs, étudiants et partenaires et donne accès aux technologies immersives du Centre INNOVA.",
+   "en": "The Centre for Extended Reality, based in the Faculty of Engineering, is the University's hub for extended reality, digital twins, haptics, spatial computing and AI. It brings together researchers, students and partners and provides access to the INNOVA Centre's immersive technologies."
+  },
+  "sources": [
+   {
+    "label": "Centre for Extended Reality — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/research/centre-extended-reality"
+   },
+   {
+    "label": "Centre de réalité étendue — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-genie/recherche/centre-realite-etendue"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-infrastructure-autochtone",
+  "category": "genie",
+  "keywords": [
+   "centre en infrastructure pour les communautés autochtones",
+   "centre for indigenous community infrastructure",
+   "infrastructure",
+   "communautés autochtones",
+   "indigenous communities",
+   "génie civil",
+   "civil engineering",
+   "pergélisol",
+   "permafrost",
+   "faculté de génie"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre en infrastructure pour les communautés autochtones ?",
+   "en": "What is the Centre for Indigenous Community Infrastructure?"
+  },
+  "answer": {
+   "fr": "Ce centre de la Faculté de génie applique l'expertise en ingénierie pour trouver des solutions durables aux défis d'infrastructure des communautés autochtones. Il mise sur les partenariats avec les communautés, la formation de la main-d'œuvre, l'innovation et la recherche.",
+   "en": "This Faculty of Engineering centre applies engineering expertise to provide sustainable solutions to the infrastructure challenges Indigenous communities face. It focuses on partnerships with communities, workforce training, innovation and research."
+  },
+  "sources": [
+   {
+    "label": "Centre for Indigenous Community Infrastructure — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/research/centre-indigenous-community-infrastructure"
+   },
+   {
+    "label": "Centre en infrastructure pour les communautés autochtones — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-genie/recherche/centre-infrastructure-pour-communautes-autochtones"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-cyber-range-ibm",
+  "category": "genie",
+  "keywords": [
+   "cyber range",
+   "uottawa-ibm cyber range",
+   "cybersécurité",
+   "cybersecurity",
+   "gestion de crise",
+   "crisis management",
+   "ibm",
+   "cyber carrefour",
+   "cyber hub",
+   "microprogramme"
+  ],
+  "question": {
+   "fr": "C'est quoi le Laboratoire uOttawa-IBM Cyber Range ?",
+   "en": "What is the uOttawa-IBM Cyber Range?"
+  },
+  "answer": {
+   "fr": "C'est une installation de formation et de recherche où étudiants, entreprises et gouvernements s'exercent à gérer des crises de cybersécurité dans un environnement réaliste et immersif. Situé dans le Cyber carrefour de l'Université, il fonctionne en partenariat avec l'équipe X-Force Cyber Range d'IBM.",
+   "en": "It's a training and research facility where students, businesses and governments practise cybersecurity crisis management in a realistic, immersive environment. Located in the University's Cyber Hub, it operates in partnership with IBM's X-Force Cyber Range team."
+  },
+  "sources": [
+   {
+    "label": "uOttawa-IBM Cyber Range — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/research/cyber-range"
+   },
+   {
+    "label": "Laboratoire uOttawa-IBM Cyber Range — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-genie/recherche/cyber-range"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-vehicules-connectes",
+  "category": "genie",
+  "keywords": [
+   "centre d'innovation pour véhicules intelligents et connectés",
+   "smart connected vehicles innovation centre",
+   "scvic",
+   "véhicules autonomes",
+   "autonomous vehicles",
+   "drones",
+   "kanata-nord",
+   "kanata north",
+   "véhicules connectés",
+   "connected vehicles"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre d'innovation pour véhicules intelligents et connectés ?",
+   "en": "What is the Smart Connected Vehicles Innovation Centre?"
+  },
+  "answer": {
+   "fr": "Ouvert en octobre 2021 au campus Kanata-Nord, ce centre de la Faculté de génie fait de la recherche sur la connectivité, la sécurité physique et cybernétique, la prise de décision et la durabilité des véhicules. En libre accès, il offre des prototypes de voitures autonomes, des drones et des robots terrestres pour des essais rapides et peu coûteux.",
+   "en": "Opened in October 2021 at the Kanata North campus, this Faculty of Engineering centre researches vehicle connectivity, physical and cyber security, decision-making and sustainability. It's open-access and offers self-driving car prototypes, drones and ground robots for rapid, low-cost testing."
+  },
+  "sources": [
+   {
+    "label": "Smart Connected Vehicles Innovation Centre — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/research/smart-connected-vehicles-innovation-centre"
+   },
+   {
+    "label": "Centre d’innovation pour véhicules intelligents et connectés — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-genie/recherche/centre-innovation-vehicules-intelligents-connectes"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-labo-ablation-laser",
+  "category": "genie",
+  "keywords": [
+   "laboratoire d'ablation laser",
+   "laser ablation laboratory",
+   "la-icp-ms",
+   "icp-ms",
+   "géochimie",
+   "geochemistry",
+   "datation u-pb",
+   "u-pb dating",
+   "zircon",
+   "complexe de recherche avancée"
+  ],
+  "question": {
+   "fr": "C'est quoi le Laboratoire d'ablation laser ?",
+   "en": "What is the Laser Ablation Laboratory?"
+  },
+  "answer": {
+   "fr": "Ce laboratoire LA-ICP-MS de la Faculté des sciences fait partie du Laboratoire de géochimie; il combine un laser excimère de 193 nm et un ICP-MS Agilent 7700x. Il se trouve au 25, rue Templeton, salle 435.",
+   "en": "This Faculty of Science LA-ICP-MS lab is part of the Geochemistry Laboratory; it pairs a 193 nm excimer laser with an Agilent 7700x ICP-MS. It's located at 25 Templeton Street, room 435."
+  },
+  "sources": [
+   {
+    "label": "Laser Ablation Laboratory — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/research-publications/centres-institutes-core-facilities-laboratories/laser-ablation"
+   },
+   {
+    "label": "Laboratoire d'ablation laser — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences/recherche-publications/centres-instituts-installations-laboratoires/ablation-laser"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-laboratoire-vivant-aquarium",
+  "category": "batiments",
+  "keywords": [
+   "laboratoire vivant",
+   "living laboratory",
+   "aquarium",
+   "récif corallien",
+   "coral reef",
+   "complexe des biosciences",
+   "biosciences building",
+   "faculté des sciences",
+   "faculty of science",
+   "biologie marine"
+  ],
+  "question": {
+   "fr": "Il y a un aquarium sur le campus ?",
+   "en": "Is there an aquarium on campus?"
+  },
+  "answer": {
+   "fr": "Oui, la Faculté des sciences a installé un aquarium de récif corallien dans le hall du Complexe des biosciences. Ce « laboratoire vivant » permet aux étudiants et aux chercheurs d'observer les interactions entre poissons, coraux et invertébrés, et tu peux aussi le regarder en direct sur le site web de la Faculté.",
+   "en": "Yes, the Faculty of Science installed a marine coral reef aquarium in the lobby of the Biosciences Building. This \"living laboratory\" lets students and researchers observe interactions among fish, corals and invertebrates, and you can also watch it live on the Faculty's website."
+  },
+  "sources": [
+   {
+    "label": "Living Laboratory Aquarium — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/research/centres-institutes-core-facilities-laboratories/living-laboratory-aquarium"
+   },
+   {
+    "label": "Laboratoire vivant — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences/recherche/centres-instituts-installations-laboratoires/laboratoire-vivant"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-laboratoire-geochimie",
+  "category": "genie",
+  "keywords": [
+   "laboratoire de géochimie",
+   "geochemistry laboratory",
+   "icp-ms",
+   "analyse élémentaire",
+   "elemental analysis",
+   "chromatographie ionique",
+   "ion chromatography",
+   "sciences de la terre",
+   "earth sciences",
+   "salle blanche"
+  ],
+  "question": {
+   "fr": "C'est quoi le Laboratoire de géochimie ?",
+   "en": "What is the Geochemistry Laboratory?"
+  },
+  "answer": {
+   "fr": "C'est une plateforme de la Faculté des sciences qui offre des services d'analyse et des conseils aux chercheurs de l'Université et à des utilisateurs externes, selon le principe du recouvrement des coûts. Il dispose notamment d'ICP-MS, d'ICP-ES, d'ablation laser, de chromatographie ionique et de salles blanches.",
+   "en": "It's a Faculty of Science core facility providing analytical services and advice to University researchers and external users on a cost-recovery basis. Its equipment includes ICP-MS, ICP-ES, laser ablation ICP-MS, ion chromatography and clean rooms."
+  },
+  "sources": [
+   {
+    "label": "Geochemistry laboratory — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/research/centres-institutes-core-facilities-laboratories/geochemistry"
+   },
+   {
+    "label": "Laboratoire de géochimie — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences/recherche/centres-instituts-installations-laboratoires/geochimie"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-photonique-extreme-cnrc",
+  "category": "genie",
+  "keywords": [
+   "centre conjoint de photonique extrême",
+   "joint centre for extreme photonics",
+   "jcep",
+   "cnrc",
+   "nrc",
+   "conseil national de recherches",
+   "national research council",
+   "photonique",
+   "photonics",
+   "science quantique"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre conjoint de photonique extrême ?",
+   "en": "What is the Joint Centre for Extreme Photonics?"
+  },
+  "answer": {
+   "fr": "Lancé en 2019, le Centre conjoint de photonique extrême est une initiative du Conseil national de recherches du Canada (CNRC) et de l'Université d'Ottawa pour promouvoir la recherche en photonique, en science quantique et en technologies. Il réunit douze chercheurs, six de chaque institution.",
+   "en": "Launched in 2019, the Joint Centre for Extreme Photonics is a collaboration between the National Research Council Canada (NRC) and uOttawa to promote research in photonics, quantum science and technologies. It brings together twelve researchers, six from each institution."
+  },
+  "sources": [
+   {
+    "label": "Joint Centre for Extreme Photonics strengthens uOttawa - NRC collaborations — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/joint-centre-extreme-photonics-strengthens-uottawa-nrc-collaborations"
+   },
+   {
+    "label": "Le Centre conjoint de photonique extrême renforce la collaboration entre l’Université d’Ottawa et le Conseil national de recherches du Canada — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences/centre-conjoint-photonique-extreme-renforce-collaboration"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-installation-ams-lalonde",
+  "category": "services",
+  "keywords": [
+   "installation nationale andré e. lalonde",
+   "andré e. lalonde ams",
+   "spectrométrie de masse par accélérateur",
+   "accelerator mass spectrometry",
+   "sma",
+   "ams",
+   "radiocarbone",
+   "radiocarbon",
+   "isotopes radioactifs",
+   "complexe de recherche avancée"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Installation nationale André E. Lalonde en spectrométrie de masse par accélérateur ?",
+   "en": "What is the André E. Lalonde Accelerator Mass Spectrometry facility?"
+  },
+  "answer": {
+   "fr": "C'est le centre canadien d'analyse et de recherche sur les isotopes radioactifs dans l'environnement, financé par la Fondation canadienne pour l'innovation; c'est l'une des 17 installations nationales de recherche appuyées par son Fonds des initiatives scientifiques majeures. Elle se trouve au Complexe de recherche avancée et mesure notamment le radiocarbone dans des artefacts, des fossiles et des échantillons environnementaux.",
+   "en": "It's Canada's centre for environmental radioactive isotope analysis and research, funded by the Canada Foundation for Innovation; it's one of 17 national research facilities supported by its Major Science Initiatives Fund. It's housed in the Advanced Research Complex and measures, among other things, radiocarbon in artifacts, fossils and environmental samples."
+  },
+  "sources": [
+   {
+    "label": "André E. Lalonde National Facility for Accelerator Mass Spectrometry (AMS) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/national-ael-ams-facility"
+   },
+   {
+    "label": "Installation nationale André E. Lalonde en spectrométrie de masse par accélérateur (SMA) — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/installation-nationale-ael-sma"
+   },
+   {
+    "label": "Core facilities — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/core-facilities"
+   },
+   {
+    "label": "Plateformes technologiques — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/plateformes-technologiques"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-plateforme-comportement-animal",
+   "s-plateforme-biologie-cellulaire-images"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-plateforme-comportement-animal",
+  "category": "services",
+  "keywords": [
+   "étude du comportement et physiologie animal",
+   "animal behaviour and physiology core",
+   "comportement animal",
+   "animal behaviour",
+   "souris",
+   "mice",
+   "rats",
+   "mémoire",
+   "memory",
+   "pavillon roger-guindon"
+  ],
+  "question": {
+   "fr": "C'est quoi la plateforme d'étude du comportement et de physiologie animale ?",
+   "en": "What is the Animal Behaviour and Physiology Core?"
+  },
+  "answer": {
+   "fr": "Fondée en 2009, cette plateforme offre des analyses comportementales chez la souris et le rat : apprentissage et mémoire, comportement social, fonction motrice, anxiété et dépression. Elle se trouve dans le vivarium du pavillon Roger-Guindon, salle 1022, 451, chemin Smyth.",
+   "en": "Established in 2009, this facility offers mouse and rat behavioural analyses: learning and memory, social behaviour, motor function, anxiety and depression. It's located in the Roger Guindon Hall vivarium, room 1022, 451 Smyth Road."
+  },
+  "sources": [
+   {
+    "label": "Animal Behaviour and Physiology Core — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/animal-behaviour-core"
+   },
+   {
+    "label": "Étude du comportement et physiologie animal — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/comportement-animal"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-biologie-cellulaire-images"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-plateforme-biologie-cellulaire-images",
+  "category": "services",
+  "keywords": [
+   "biologie cellulaire et acquisition d'images",
+   "cell biology and image acquisition",
+   "cbia",
+   "microscopie",
+   "microscopy",
+   "microscope confocal",
+   "confocal microscope",
+   "analyse d'images",
+   "image analysis",
+   "pavillon roger-guindon"
+  ],
+  "question": {
+   "fr": "C'est quoi la plateforme de biologie cellulaire et d'acquisition d'images ?",
+   "en": "What is the Cell Biology and Image Acquisition core facility?"
+  },
+  "answer": {
+   "fr": "Cette plateforme offre des microscopes de pointe, des outils d'analyse d'images et du soutien technique pour la recherche en microscopie, de la biologie cellulaire au génie. Elle se trouve au 451, chemin Smyth, et la réservation se fait sur la plateforme InfinityX.",
+   "en": "This facility provides advanced microscopes, image analysis tools and technical support for microscopy research, from cell biology to engineering. It's located at 451 Smyth Road, and equipment is booked through the InfinityX platform."
+  },
+  "sources": [
+   {
+    "label": "Cell Biology and Image Acquisition — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/cell-biology-image-acquisition"
+   },
+   {
+    "label": "Biologie cellulaire et d'acquisition d'images — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/biologie-cellulaire-acquisition-images"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-donnees-colocation",
+  "category": "services",
+  "keywords": [
+   "centre de données de recherche",
+   "research data centre",
+   "colocation",
+   "collocation data centre",
+   "hébergement de serveurs",
+   "server hosting",
+   "serveurs",
+   "servers",
+   "fss",
+   "technologies de l'information"
+  ],
+  "question": {
+   "fr": "Où un chercheur peut-il héberger ses serveurs à l'Université ?",
+   "en": "Where can a researcher host servers at uOttawa?"
+  },
+  "answer": {
+   "fr": "L'Université offre un centre de données de colocation, situé au pavillon FSS, pour héberger des serveurs de façon sécuritaire, moyennant des frais selon le recouvrement des coûts. L'accès est contrôlé par clé électronique et réservé au personnel des TI; les chercheurs peuvent accéder à leurs serveurs pendant les heures de bureau, accompagnés.",
+   "en": "The University offers a colocation data centre, located in FSS, to securely host servers for a cost-recovery fee. Access is controlled by electronic key and limited to IT staff; researchers can access their servers during business hours under escort."
+  },
+  "sources": [
+   {
+    "label": "Research Data Centre — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computing/research-data-center"
+   },
+   {
+    "label": "Centre de données de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/calcul-informatique/centre-donnees-recherche"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-labo-biologie-moleculaire-genomique",
+  "category": "services",
+  "keywords": [
+   "laboratoire de biologie moléculaire et de génomique",
+   "core molecular biology and genomics laboratory",
+   "cmbgl",
+   "pcr",
+   "qpcr",
+   "ddpcr",
+   "génomique",
+   "genomics",
+   "biologie moléculaire",
+   "molecular biology"
+  ],
+  "question": {
+   "fr": "C'est quoi le Laboratoire de biologie moléculaire et de génomique ?",
+   "en": "What is the Core Molecular Biology and Genomics Laboratory?"
+  },
+  "answer": {
+   "fr": "C'est une plateforme de partage d'équipement située au campus principal, avec des appareils spécialisés pour la biologie cellulaire et moléculaire et la génomique, comme la PCR numérique en gouttelettes et la qPCR. Le laboratoire entretient l'équipement et offre une formation individuelle.",
+   "en": "It's an equipment-sharing core facility on the main campus with specialized equipment for cellular and molecular biology and genomics, such as droplet digital PCR and qPCR. The lab maintains all equipment and provides one-on-one training."
+  },
+  "sources": [
+   {
+    "label": "Core Molecular Biology and Genomics Laboratory — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/core-molecular-biology-genomics-laboratory"
+   },
+   {
+    "label": "Laboratoire de biologie moléculaire et de génomique — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/laboratoire-biologie-moleculaire-genomique"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-rmn",
+  "category": "services",
+  "keywords": [
+   "centre de spectroscopie rmn",
+   "nmr spectroscopy core facility",
+   "rmn",
+   "nmr",
+   "résonance magnétique nucléaire",
+   "nuclear magnetic resonance",
+   "chimie",
+   "chemistry",
+   "rpe",
+   "epr"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de spectroscopie RMN ?",
+   "en": "What is the NMR Spectroscopy Core Facility?"
+  },
+  "answer": {
+   "fr": "C'est l'un des centres de résonance magnétique nucléaire les mieux équipés au Canada, avec de la RMN en solution et à l'état solide de 200 à 600 MHz. Les chercheurs formés peuvent utiliser les appareils eux-mêmes, et l'équipe offre aussi un service d'analyse par des experts.",
+   "en": "It's one of Canada's most comprehensively equipped nuclear magnetic resonance centres, with solution and solid-state NMR from 200 to 600 MHz. Trained researchers can run their own work, and staff also offer expert-run analysis."
+  },
+  "sources": [
+   {
+    "label": "NMR Spectroscopy Core Facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/nuclear-magnetic-resonance"
+   },
+   {
+    "label": "Centre de spectroscopie RMN — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/laboratoire-rmn"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-plateforme-cytometrie-virometrie",
+  "category": "services",
+  "keywords": [
+   "cytométrie et virométrie",
+   "flow cytometry and virometry",
+   "cytométrie en flux",
+   "flow cytometry",
+   "tri cellulaire",
+   "cell sorting",
+   "fcv",
+   "cvf",
+   "pavillon roger-guindon",
+   "salle 4206"
+  ],
+  "question": {
+   "fr": "C'est quoi la plateforme de cytométrie et de virométrie en flux ?",
+   "en": "What is the Flow Cytometry and Virometry core facility?"
+  },
+  "answer": {
+   "fr": "Cette plateforme offre du tri cellulaire à haut débit, de la séparation cellulaire magnétique, de l'analyse par cytométrie en flux, de la formation et du soutien. Elle se trouve au 4e étage du pavillon Roger-Guindon, salle 4206, et appuie plus de 50 laboratoires.",
+   "en": "This facility offers high-speed cell sorting, magnetic cell separation, benchtop flow cytometry analysis, training and support. It's on the 4th floor of Roger Guindon Hall, room 4206, and supports over 50 research labs."
+  },
+  "sources": [
+   {
+    "label": "Flow Cytometry and Virometry — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/flow-cytometry-virometry"
+   },
+   {
+    "label": "Plateforme technologique de cytométrie et de virométrie — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/plateforme-cytometrie-virometrie"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-plateforme-edition-genomique",
+  "category": "services",
+  "keywords": [
+   "biologie moléculaire et édition génomique",
+   "genome editing and molecular biology",
+   "gem",
+   "bmeg",
+   "crispr",
+   "édition génétique",
+   "gene editing",
+   "clonage",
+   "cloning",
+   "pavillon roger-guindon"
+  ],
+  "question": {
+   "fr": "C'est quoi la plateforme de biologie moléculaire et d'édition génomique (BMEG) ?",
+   "en": "What is the Genome Editing and Molecular Biology (GEM) facility?"
+  },
+  "answer": {
+   "fr": "Soutenue par la Fondation canadienne pour l'innovation, cette plateforme donne accès à des techniques d'édition génétique de pointe, comme les lignées cellulaires CRISPR, et au clonage d'ADNc. Elle se trouve au pavillon Roger-Guindon, salle 3111.",
+   "en": "Supported by the Canada Foundation for Innovation, this facility provides access to cutting-edge gene editing, such as CRISPR knock-out cell lines, and cDNA cloning. It's located in Roger Guindon Hall, room 3111."
+  },
+  "sources": [
+   {
+    "label": "Genome Editing and Molecular biology (GEM) Facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/genome-editing-molecular-biology-gem-facility"
+   },
+   {
+    "label": "Plateforme de biologie moléculaire et édition génomique (BMEG) — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/plateforme-biologie-moleculaire-edition-genomique-bmeg"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-laboratoire-inspire",
+  "category": "services",
+  "keywords": [
+   "laboratoire inspire",
+   "inspire laboratory",
+   "comportement humain",
+   "human behaviour",
+   "psychophysiologie",
+   "psychophysiology",
+   "école de psychologie",
+   "school of psychology",
+   "participants",
+   "pavillon vanier"
+  ],
+  "question": {
+   "fr": "C'est quoi le Laboratoire INSPIRE ?",
+   "en": "What is the INSPIRE Laboratory?"
+  },
+  "answer": {
+   "fr": "INSPIRE est un laboratoire de recherche multidisciplinaire partagé, à l'École de psychologie, pour étudier le comportement humain : interactions sociales, tâches cognitives, sondages et liens entre pensées, comportements et réactions physiologiques. Il se trouve au pavillon Vanier, salle 5074.",
+   "en": "INSPIRE is a shared multidisciplinary research facility in the School of Psychology for studying human behaviour: social interactions, cognitive tasks, surveys and links between thoughts, behaviours and physiological reactions. It's located in Vanier Hall, room 5074."
+  },
+  "sources": [
+   {
+    "label": "Inspire — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/inspire"
+   },
+   {
+    "label": "Inspire — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/inspire"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-labo-isotopes-stables",
+  "category": "services",
+  "keywords": [
+   "laboratoire d'isotopes stables ján veizer",
+   "ján veizer stable isotope laboratory",
+   "isotopes stables",
+   "stable isotopes",
+   "carbone",
+   "oxygène",
+   "azote",
+   "complexe de recherche avancée",
+   "advanced research complex",
+   "templeton"
+  ],
+  "question": {
+   "fr": "C'est quoi le Laboratoire d'isotopes stables Ján Veizer ?",
+   "en": "What is the Ján Veizer Stable Isotope Laboratory?"
+  },
+  "answer": {
+   "fr": "Ce laboratoire de renommée internationale analyse les isotopes stables de l'hydrogène, du carbone, de l'azote, de l'oxygène et du soufre pour l'Université et pour d'autres universités, gouvernements et entreprises, selon le recouvrement des coûts. Il se trouve au Complexe de recherche avancée, 25, rue Templeton, salle 426.",
+   "en": "This internationally renowned lab analyzes hydrogen, carbon, nitrogen, oxygen and sulphur stable isotopes for the University and for other universities, governments and companies, on a cost-recovery basis. It's located in the Advanced Research Complex, 25 Templeton Street, room 426."
+  },
+  "sources": [
+   {
+    "label": "Ján Veizer Stable Isotope Laboratory — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/isotope"
+   },
+   {
+    "label": "Laboratoire d'isotopes stables Ján Veizer — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/isotope"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-labo-spectrometrie-masse-holmes",
+  "category": "services",
+  "keywords": [
+   "laboratoire john l. holmes de spectrométrie de masse",
+   "john l. holmes mass spectrometry facility",
+   "spectrométrie de masse",
+   "mass spectrometry",
+   "protéomique",
+   "proteomics",
+   "métabolomique",
+   "metabolomics",
+   "chimie analytique",
+   "analytical chemistry"
+  ],
+  "question": {
+   "fr": "C'est quoi le Laboratoire John L. Holmes de spectrométrie de masse ?",
+   "en": "What is the John L. Holmes Mass Spectrometry Facility?"
+  },
+  "answer": {
+   "fr": "Ce laboratoire possède des instruments de pointe pour analyser des échantillons chimiques et biologiques : chimie analytique, protéomique, métabolomique et vérification de composés. Il sert les professeurs, les étudiants, l'industrie et forme la relève; on le trouve au pavillon D'Iorio (salle 124) et au pavillon Marion (salle 002).",
+   "en": "This facility has state-of-the-art instruments to analyze chemical and biological samples: analytical chemistry, proteomics, metabolomics and compound verification. It serves professors, students and industry and trains new mass spectrometrists; it's in D'Iorio Hall (room 124) and Marion Hall (room 002)."
+  },
+  "sources": [
+   {
+    "label": "John L. HolmesMass Spectrometry Facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/jlholmes-mass-spectrometry-facility"
+   },
+   {
+    "label": "Laboratoire John L. Holmes de spectrometrie de masse — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/laboratoire-jlholmes-spectrometrie-masse"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-plateforme-histologie",
+  "category": "services",
+  "keywords": [
+   "plateforme technologique d'histologie louise pelletier",
+   "louise pelletier histology core facility",
+   "histologie",
+   "histology",
+   "coloration",
+   "staining",
+   "tissus",
+   "tissue",
+   "pathologie",
+   "pavillon roger-guindon"
+  ],
+  "question": {
+   "fr": "C'est quoi la plateforme d'histologie Louise Pelletier ?",
+   "en": "What is the Louise Pelletier Histology Core Facility?"
+  },
+  "answer": {
+   "fr": "C'est un laboratoire d'histologie complet, au Département de pathologie et de médecine de laboratoire, qui offre des services histologiques efficaces et abordables pour les tissus animaux et humains. Il sert les professeurs, chercheurs, cliniciens et étudiants, au pavillon Roger-Guindon, salle 4145.",
+   "en": "It's a full-service histology lab in the Department of Pathology and Laboratory Medicine offering efficient, cost-effective histology services for animal and human tissue. It serves faculty, researchers, clinicians and students, in Roger Guindon Hall, room 4145."
+  },
+  "sources": [
+   {
+    "label": "Louise Pelletier Histology Core Facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/histology"
+   },
+   {
+    "label": "Plateforme technologique d’histologie de Louise Pelletier — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/histologie"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-plateforme-caracterisation-materiaux",
+  "category": "services",
+  "keywords": [
+   "unité centrale de caractérisation des matériaux",
+   "material characterization core facility",
+   "matchar",
+   "caractérisation des matériaux",
+   "materials characterization",
+   "microscopie électronique",
+   "electron microscopy",
+   "matériaux",
+   "materials",
+   "nanotechnologie"
+  ],
+  "question": {
+   "fr": "C'est quoi MatChar, la plateforme de caractérisation des matériaux ?",
+   "en": "What is MatChar, the Material Characterization Core Facility?"
+  },
+  "answer": {
+   "fr": "MatChar est le centre de référence de l'Université en caractérisation des matériaux : il donne aux chercheurs, aux étudiants et aux partenaires externes accès à des instruments de pointe, à l'expertise et à de la formation. Ses laboratoires sont répartis dans plusieurs pavillons, dont le Complexe de recherche avancée (ARC) et le Complexe des biosciences (BSC).",
+   "en": "MatChar is the University's hub for materials characterization, giving researchers, students and external partners access to advanced instruments, expertise and training. Its labs are spread across several buildings, including the Advanced Research Complex (ARC) and the Biosciences Complex (BSC)."
+  },
+  "sources": [
+   {
+    "label": "Material Characterization Core Facility (MatChar) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/materials-characterization"
+   },
+   {
+    "label": "Unité centrale de caractérisation des matériaux (MatChar) — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/caracterisation-materiaux"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-plateforme-metabolomique",
+  "category": "services",
+  "keywords": [
+   "plateforme de métabolomique",
+   "metabolomics core facility",
+   "métabolomique",
+   "metabolomics",
+   "mirgov",
+   "traçage isotopique",
+   "isotope tracing",
+   "cancer",
+   "terry fox",
+   "pavillon roger-guindon"
+  ],
+  "question": {
+   "fr": "C'est quoi la plateforme de métabolomique ?",
+   "en": "What is the Metabolomics Core Facility?"
+  },
+  "answer": {
+   "fr": "Cette plateforme fait partie de MIRGOV, une ressource en métabolomique partagée avec le Centre de recherche sur le cancer Goodman et l'Institut Van Andel. Elle offre de la métabolomique ciblée et non ciblée et du traçage d'isotopes stables, au pavillon Roger-Guindon, salles 1129-1130.",
+   "en": "This facility is part of MIRGOV, a metabolomics resource shared with the Goodman Cancer Research Centre and the Van Andel Research Institute. It offers targeted and untargeted metabolomics and stable isotope tracing, in Roger Guindon Hall, rooms 1129-1130."
+  },
+  "sources": [
+   {
+    "label": "Metabolomics Core Facility – part of MIRGOV — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/metabolomics"
+   },
+   {
+    "label": "Plateforme de métabolomique – rattaché au MIRGOV — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/metabolomique"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-nanofab",
+  "category": "genie",
+  "keywords": [
+   "nanofab",
+   "nanofabrication",
+   "salle blanche",
+   "clean room",
+   "lithographie",
+   "lithography",
+   "prototypes",
+   "complexe de recherche avancée",
+   "advanced research complex",
+   "caractérisation"
+  ],
+  "question": {
+   "fr": "C'est quoi le NanoFab ?",
+   "en": "What is the NanoFab?"
+  },
+  "answer": {
+   "fr": "Le NanoFab offre un libre accès à des outils de pointe en nanofabrication et en caractérisation, aux chercheurs universitaires comme industriels, ce qui en fait un lieu idéal pour développer des prototypes. Il se trouve au Complexe de recherche avancée, salle 350; des rénovations et de nouveaux outils étaient prévus en 2026.",
+   "en": "The NanoFab provides open access to cutting-edge nanofabrication and characterization tools for academic and industrial researchers, making it ideal for prototype development. It's in the Advanced Research Complex, room 350; renovations and new tools were planned in 2026."
+  },
+  "sources": [
+   {
+    "label": "NanoFab — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/nanofab"
+   },
+   {
+    "label": "NanoFab — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/nanofab"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-donnees-ottawa-outaouais",
+  "category": "services",
+  "keywords": [
+   "centre de données de recherche ottawa-outaouais",
+   "ottawa-outaouais research data centre",
+   "cdro",
+   "ordc",
+   "statistique canada",
+   "statistics canada",
+   "microdonnées",
+   "microdata",
+   "données confidentielles",
+   "rdc"
+  ],
+  "question": {
+   "fr": "Où accéder aux microdonnées de Statistique Canada pour un projet de recherche ?",
+   "en": "Where can I access Statistics Canada microdata for research?"
+  },
+  "answer": {
+   "fr": "Le Centre de données de recherche Ottawa-Outaouais (CDRO) donne aux chercheurs un accès sécurisé aux microdonnées de Statistique Canada. Il se trouve au 65, rue Université, salle MRT 322; avec la nouvelle plateforme virtuelle, contacte le personnel au moins une semaine avant ta visite pour préparer ton accès.",
+   "en": "The Ottawa-Outaouais Research Data Centre (ORDC) gives researchers secure access to Statistics Canada microdata. It's at 65 University Street, room MRT 322; with the new virtual platform, contact staff at least one week before your visit so your access can be set up."
+  },
+  "sources": [
+   {
+    "label": "Ottawa-Outaouais Research Data Centre (ORDC) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ottawa-outaouais-research-data-centre"
+   },
+   {
+    "label": "Centre de données de recherche Ottawa-Outaouais (CDRO) — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/centre-donnees-recherche-ottawa-outaouais"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-imagerie-preclinique",
+  "category": "services",
+  "keywords": [
+   "centre d'imagerie préclinique",
+   "preclinical imaging core",
+   "cipc",
+   "pcic",
+   "imagerie in vivo",
+   "in vivo imaging",
+   "imagerie",
+   "imaging",
+   "faculté de médecine",
+   "pavillon roger-guindon"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre d'imagerie préclinique ?",
+   "en": "What is the Preclinical Imaging Core?"
+  },
+  "answer": {
+   "fr": "C'est une installation d'imagerie de pointe à la Faculté de médecine, dans l'espace des services vétérinaires et de soins aux animaux du pavillon Roger-Guindon (salles 1327 à 1340). Les utilisateurs ayant un protocole animal peuvent réserver du temps sur Infinity.",
+   "en": "It's a state-of-the-art imaging facility in the Faculty of Medicine, in the Animal Care and Veterinary Services area of Roger Guindon Hall (rooms 1327 to 1340). Users with an animal protocol can book time through Infinity."
+  },
+  "sources": [
+   {
+    "label": "Preclinical Imaging Core (PCIC) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/preclinical-imaging-core"
+   },
+   {
+    "label": "Centre d’imagerie préclinique (CIPC) — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/imagerie-preclinique"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-plateforme-microscopie-electronique",
+  "category": "services",
+  "keywords": [
+   "plateforme de microscopie électronique",
+   "electron microscopy core facility",
+   "microscopie électronique à transmission",
+   "transmission electron microscopy",
+   "tem",
+   "met",
+   "cheo",
+   "pavillon roger-guindon",
+   "salle 2533",
+   "imagerie biologique"
+  ],
+  "question": {
+   "fr": "C'est quoi la plateforme de microscopie électronique ?",
+   "en": "What is the Electron Microscopy Core Facility?"
+  },
+  "answer": {
+   "fr": "Cette plateforme offre de l'imagerie et de la préparation d'échantillons en microscopie électronique à transmission, en collaboration avec le laboratoire du CHEO, ainsi que de la formation. Elle abrite le seul microscope électronique à transmission de la région d'Ottawa optimisé pour la recherche biologique, au pavillon Roger-Guindon, salle 2533.",
+   "en": "This facility offers transmission electron microscopy imaging and sample processing, in collaboration with CHEO's lab, plus hands-on training. It houses the Ottawa region's only TEM optimized for biological research, in Roger Guindon Hall, room 2533."
+  },
+  "sources": [
+   {
+    "label": "Electron Microscopy Core Facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/transmission-electron-microscopy"
+   },
+   {
+    "label": "Plateforme Centrale de Microscopie Électronique — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/microscopie-electronique-transmission"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-plateforme-rayons-x",
+  "category": "services",
+  "keywords": [
+   "plateformes technologiques à rayons-x",
+   "x-ray core facility",
+   "rayons x",
+   "x-ray",
+   "diffraction",
+   "fluorescence x",
+   "xrf",
+   "cristallographie",
+   "crystallography",
+   "complexe stim"
+  ],
+  "question": {
+   "fr": "C'est quoi la plateforme à rayons X ?",
+   "en": "What is the X-Ray Core Facility?"
+  },
+  "answer": {
+   "fr": "La plateforme à rayons X, située à la salle 028A du complexe STIM, analyse des échantillons par diffraction des rayons X sur monocristal et sur poudre, et par fluorescence X. Ces techniques servent aux chimistes, physiciens, géologues, biochimistes et ingénieurs.",
+   "en": "The X-Ray Core Facility, in room 028A of the STEM Complex, analyzes samples by single-crystal and powder X-ray diffraction and X-ray fluorescence. These techniques are used by chemists, physicists, geologists, biochemists and engineers."
+  },
+  "sources": [
+   {
+    "label": "X-ray core facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/x-ray"
+   },
+   {
+    "label": "Plateformes technologiques à Rayons-X — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/rayons-x"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-proteomique",
+  "category": "services",
+  "keywords": [
+   "centre de ressources en protéomique",
+   "proteomics resource center",
+   "protéomique",
+   "proteomics",
+   "spectromètres de masse",
+   "mass spectrometers",
+   "protéines",
+   "proteins",
+   "faculté de médecine",
+   "pavillon roger-guindon"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de ressources en protéomique ?",
+   "en": "What is the Proteomics Resource Center?"
+  },
+  "answer": {
+   "fr": "Cette plateforme de la Faculté de médecine utilise des spectromètres de masse de pointe pour identifier des protéines et leurs modifications et faire de la protéomique quantitative à grande échelle. Le délai habituel est de deux semaines, et les échantillons se déposent à la salle 4137 du pavillon Roger-Guindon.",
+   "en": "This Faculty of Medicine facility uses state-of-the-art mass spectrometers for protein and post-translational modification identification and large-scale quantitative proteomics. Turnaround is usually two weeks, and samples are dropped off at room 4137 in Roger Guindon Hall."
+  },
+  "sources": [
+   {
+    "label": "Proteomics Resource Center - Proteomics — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/research-and-innovation/core-facilities/proteomics"
+   },
+   {
+    "label": "Centre de ressources en protéomique - Proteomics — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-medecine/recherche-et-innovation/plateaux-techniques/proteomique"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-plateforme-biophysique-proteines",
+  "category": "services",
+  "keywords": [
+   "caractérisation biophysique des protéines",
+   "protein biophysics core facility",
+   "pbcf",
+   "biophysique",
+   "biophysics",
+   "cristallisation",
+   "crystallization",
+   "protéines recombinantes",
+   "recombinant proteins",
+   "biochimie"
+  ],
+  "question": {
+   "fr": "C'est quoi la plateforme de caractérisation biophysique des protéines ?",
+   "en": "What is the Protein Biophysics Core Facility?"
+  },
+  "answer": {
+   "fr": "Située au 4e étage du pavillon Roger-Guindon (Département de biochimie, microbiologie et immunologie), elle offre l'expertise, la formation et l'accès aux instruments pour caractériser les protéines. On y produit et purifie des protéines recombinantes, on fait de la cristallisation et des études de liaison.",
+   "en": "Located on the 4th floor of Roger Guindon Hall (Department of Biochemistry, Microbiology and Immunology), it provides expertise, training and instrument access for protein characterization. It handles recombinant protein production and purification, crystallization and binding studies."
+  },
+  "sources": [
+   {
+    "label": "Protein Biophysics Core Facility - PBCF — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/research-and-innovation/core-facilities/protein-biophysics-core-facility"
+   },
+   {
+    "label": "Caractérisation biophysique des protéines - CBDP — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-medecine/recherche-et-innovation/plateaux-techniques/caracterisation-biophysique-proteines"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-equipements-communs-cets",
+  "category": "services",
+  "keywords": [
+   "équipements communs et services techniques",
+   "common equipment and technical services",
+   "cets",
+   "autoclave",
+   "équipement partagé",
+   "shared equipment",
+   "nanodrop",
+   "pavillon roger-guindon",
+   "faculté de médecine",
+   "services techniques"
+  ],
+  "question": {
+   "fr": "C'est quoi le service des équipements communs et services techniques (CETS) ?",
+   "en": "What are the Common Equipment and Technical Services (CETS)?"
+  },
+  "answer": {
+   "fr": "Le CETS donne aux professeurs et au personnel de recherche du pavillon Roger-Guindon accès à de l'équipement partagé et à des services techniques spécialisés. Il gère aussi le service d'autoclave.",
+   "en": "CETS gives faculty and research staff at Roger Guindon Hall access to shared equipment and specialized technical services. It also manages the Autoclave Facility."
+  },
+  "sources": [
+   {
+    "label": "Common Equipment and Technical Services (CETS) - CF — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/research-and-innovation/core-facilities/common-equipment-and-technical-services"
+   },
+   {
+    "label": "Équipements communs et services techniques (CETS) - PT — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-medecine/recherche-et-innovation/plateformes-technologiques/equipements-communs-services-techniques"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-soin-utilisation-animaux",
+  "category": "services",
+  "keywords": [
+   "soin et utilisation des animaux",
+   "animal care and use",
+   "animaux de recherche",
+   "research animals",
+   "comité de protection des animaux",
+   "animal care committee",
+   "éthique animale",
+   "animal ethics",
+   "topaz",
+   "svsa"
+  ],
+  "question": {
+   "fr": "Comment l'Université encadre-t-elle l'utilisation des animaux en recherche ?",
+   "en": "How does uOttawa oversee the use of animals in research?"
+  },
+  "answer": {
+   "fr": "Le programme de soin et d'utilisation des animaux s'applique à toutes les personnes qui travaillent avec des animaux en recherche et en enseignement à l'Université et dans ses instituts affiliés, selon des normes éthiques rigoureuses. Les protocoles sont soumis au Comité de protection des animaux par le système Topaz.",
+   "en": "The Animal Care and Use Program covers everyone who works with animals in research and teaching at uOttawa and its affiliated institutes, under rigorous ethical standards. Protocols are submitted to the Animal Care Committee through the Topaz system."
+  },
+  "sources": [
+   {
+    "label": "Animal care and use — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/animal-care"
+   },
+   {
+    "label": "Soin et utilisation d'animaux — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/soin-animalier"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centres-ressources-medecine",
+  "category": "sante",
+  "keywords": [
+   "centres et ressources partagées",
+   "centres and shared resources",
+   "faculté de médecine",
+   "faculty of medicine",
+   "boreal biomanufacturing",
+   "centre des méthodes d'ottawa",
+   "ottawa methods centre",
+   "criblage à haut débit",
+   "high throughput screening",
+   "biobanque"
+  ],
+  "question": {
+   "fr": "Quels centres et ressources partagées la Faculté de médecine offre-t-elle ?",
+   "en": "What centres and shared resources does the Faculty of Medicine offer?"
+  },
+  "answer": {
+   "fr": "La Faculté de médecine donne accès à des ressources partagées comme Boreal Biomanufacturing, le criblage à haut débit, le Centre des méthodes d'Ottawa, la biobanque de l'IRHO et l'Unité d'investigation clinique. Elle regroupe aussi des centres comme le CI3, l'IBSO, l'Institut de recherche sur le cerveau et le Centre de recherche et d'éducation en santé autochtone.",
+   "en": "The Faculty of Medicine provides shared resources such as Boreal Biomanufacturing, high throughput screening, the Ottawa Methods Centre, the OHRI Biorepository and the Clinical Investigative Unit. It also hosts centres such as CI3, OISB, the Brain and Mind Research Institute and the Centre for Indigenous Health Research and Education."
+  },
+  "sources": [
+   {
+    "label": "Centres and Shared Resources - RO — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/research-and-innovation/centres-shared-resources"
+   },
+   {
+    "label": "Centres et ressources partagées - RO — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-medecine/recherche-et-innovation/centres-ressources-partagees"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-chaires-recherche-apercu",
+  "category": "programmes",
+  "keywords": [
+   "chaires de recherche",
+   "research chairs",
+   "types de chaires",
+   "chairholders",
+   "titulaires de chaires",
+   "chaires de l'université",
+   "university chairs",
+   "postes de chaire",
+   "chair openings",
+   "programmes de chaires"
+  ],
+  "question": {
+   "fr": "Quels types de chaires de recherche y a-t-il à l'Université ?",
+   "en": "What kinds of research chairs does uOttawa have?"
+  },
+  "answer": {
+   "fr": "L'Université accueille des chaires nationales (Chaires de recherche du Canada, Chaires d'excellence en recherche du Canada, Chaires Eddie Goldenberg, Chaires Canada 150) et ses propres chaires : Chaires de recherche de l'Université, chaires sur le monde francophone, Chaires de recherche éminentes, chaires de fondation et commanditées, Chaire en diplomatie scientifique et Chaires Mobilité francophone, entre autres. Les postes ouverts sont affichés régulièrement.",
+   "en": "The University hosts national chairs (Canada Research Chairs, Canada Excellence Research Chairs, Eddie Goldenberg Chairs, Canada 150 Chairs) and its own chairs: University Research Chairs, chairs on the Francophone world, Distinguished Research Chairs, endowed and sponsored chairs, the Research Chair in Science Diplomacy and Francophone Mobility Chairs, among others. Openings are posted regularly."
+  },
+  "sources": [
+   {
+    "label": "Research chairs — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/chairs"
+   },
+   {
+    "label": "Chaires de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/chaires"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-chaires-recherche-canada",
+  "category": "programmes",
+  "keywords": [
+   "chaires de recherche du canada",
+   "canada research chairs",
+   "crc",
+   "niveau 1",
+   "tier 1",
+   "niveau 2",
+   "tier 2",
+   "titulaires",
+   "chairholders",
+   "programme national"
+  ],
+  "question": {
+   "fr": "C'est quoi les Chaires de recherche du Canada ?",
+   "en": "What are Canada Research Chairs?"
+  },
+  "answer": {
+   "fr": "C'est un programme national qui investit environ 295 millions de dollars par année pour attirer et retenir des chercheurs de calibre mondial dans les universités canadiennes. Les chaires de niveau 1 (200 000 $ par année pendant sept ans) visent des leaders mondiaux, et celles de niveau 2 (100 000 $ par année pendant cinq ans) des chercheurs émergents exceptionnels.",
+   "en": "It's a national program investing about $295 million per year to attract and retain world-class researchers at Canadian universities. Tier 1 Chairs ($200,000 a year for seven years) are for world leaders, and Tier 2 Chairs ($100,000 a year for five years) are for exceptional emerging researchers."
+  },
+  "sources": [
+   {
+    "label": "Canada Research Chairs — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/chairs/canada-research-chairs"
+   },
+   {
+    "label": "Chaires de recherche du Canada — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/chaires/chaires-recherche-canada"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-chaires-excellence-recherche-canada",
+  "category": "programmes",
+  "keywords": [
+   "chaires d'excellence en recherche du canada",
+   "canada excellence research chairs",
+   "cerc",
+   "8 millions",
+   "$8 million",
+   "chercheurs de renommée mondiale",
+   "world-renowned researchers",
+   "trois organismes",
+   "tri-agency"
+  ],
+  "question": {
+   "fr": "C'est quoi les Chaires d'excellence en recherche du Canada ?",
+   "en": "What are Canada Excellence Research Chairs?"
+  },
+  "answer": {
+   "fr": "Lancé en 2008, ce programme soutient des chercheurs de renommée mondiale et leurs équipes qui mettent sur pied des programmes de recherche ambitieux dans les universités canadiennes. Les subventions atteignent 8 millions ou 4 millions de dollars sur huit ans, parmi les plus prestigieuses au monde.",
+   "en": "Launched in 2008, this program supports world-renowned researchers and their teams in establishing ambitious research programs at Canadian universities. Awards are worth $8 million or $4 million over eight years, among the most prestigious in the world."
+  },
+  "sources": [
+   {
+    "label": "Canada Excellence Research Chairs — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/chairs/canada-excellence-research-chairs"
+   },
+   {
+    "label": "Chaires d’excellence en recherche du Canada — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/chaires/chaires-excellence-recherche-canada"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-chaires-eddie-goldenberg",
+  "category": "programmes",
+  "keywords": [
+   "chaires de recherche du canada eddie goldenberg",
+   "eddie goldenberg research chairs",
+   "impact+",
+   "canada impact+ research chairs",
+   "chaires impact+",
+   "recrutement international",
+   "international recruitment",
+   "innovation en santé",
+   "technologies propres",
+   "résilience arctique"
+  ],
+  "question": {
+   "fr": "C'est quoi les Chaires de recherche du Canada Eddie Goldenberg ?",
+   "en": "What are the Eddie Goldenberg Research Chairs of Canada?"
+  },
+  "answer": {
+   "fr": "Anciennement appelées Chaires de recherche Impact+ Canada, c'est un programme ponctuel et prestigieux qui aide les universités à recruter des chercheurs pour relever des défis mondiaux et nationaux. À l'Université, ces chaires renforcent notamment l'innovation en santé, les technologies propres, la résilience de l'Arctique et le bien-être des communautés.",
+   "en": "Formerly the Canada Impact+ Research Chairs, it's a prestigious one-time program helping universities recruit researchers to address global and domestic challenges. At uOttawa, these chairs strengthen areas such as health innovation, clean technology, Arctic resilience and community well-being."
+  },
+  "sources": [
+   {
+    "label": "Eddie Goldenberg Research Chairs of Canada — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/chairs/eddie-goldenberg-research-chairs-canada"
+   },
+   {
+    "label": "Chaires de recherche du Canada Eddie Goldenberg — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/chaires/chaires-recherche-canada-eddie-goldenberg"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-chaires-recherche-universite",
+  "category": "programmes",
+  "keywords": [
+   "chaires de recherche de l'université",
+   "university research chairs",
+   "cru",
+   "urc",
+   "axes stratégiques",
+   "strategic areas",
+   "excellence en recherche",
+   "research excellence",
+   "inclusion",
+   "diversité"
+  ],
+  "question": {
+   "fr": "C'est quoi les Chaires de recherche de l'Université ?",
+   "en": "What are University Research Chairs?"
+  },
+  "answer": {
+   "fr": "Les Chaires de recherche de l'Université soulignent des réalisations exceptionnelles et soutenues en recherche, ou des débuts prometteurs, en lien avec les axes stratégiques de l'Université. Le programme, repensé en 2021, finance le programme de recherche du titulaire et favorise l'inclusion, la diversité et l'équité.",
+   "en": "University Research Chairs recognize outstanding and sustained research accomplishments, or promising early achievements, aligned with the University's strategic areas. Redesigned in 2021, the program funds the chairholder's research and fosters inclusion, diversity and equity."
+  },
+  "sources": [
+   {
+    "label": "University Research Chairs — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/chairs/university-research-chairs"
+   },
+   {
+    "label": "Chaires de recherche de l'Université — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/chaires/chaires-recherche-universite"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-chaires-recherche-eminentes",
+  "category": "programmes",
+  "keywords": [
+   "chaires de recherche éminentes",
+   "distinguished research chairs",
+   "cré",
+   "drc",
+   "chaires de niveau 1",
+   "tier 1 chairs",
+   "allocation de recherche",
+   "research stipend",
+   "35 000 $",
+   "$35,000"
+  ],
+  "question": {
+   "fr": "C'est quoi les Chaires de recherche éminentes ?",
+   "en": "What are Distinguished Research Chairs?"
+  },
+  "answer": {
+   "fr": "Ce programme reconnaît les titulaires d'une Chaire de recherche du Canada de niveau 1 à l'Université qui ont terminé deux mandats consécutifs et qui continuent d'exceller en recherche et en formation. Le mandat est de cinq ans, non renouvelable, avec une allocation de recherche de 35 000 $ par année.",
+   "en": "This program recognizes uOttawa Tier 1 Canada Research Chairs who have completed two consecutive terms and continue to excel in research and student training. The term is five years, non-renewable, with a $35,000 annual research stipend."
+  },
+  "sources": [
+   {
+    "label": "Distinguished Research Chairs — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/chairs/distinguished-research-chairs"
+   },
+   {
+    "label": "Chaires de recherche éminentes — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/chaires/chaires-recherche-eminentes"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-chaires-fondation-commandite",
+  "category": "programmes",
+  "keywords": [
+   "chaires de fondation",
+   "endowed chairs",
+   "chaires commanditées",
+   "sponsored chairs",
+   "dons",
+   "donations",
+   "chaire d'études ukrainiennes",
+   "chair of ukrainian studies",
+   "philanthropie",
+   "philanthropy"
+  ],
+  "question": {
+   "fr": "C'est quoi les chaires de recherche de fondation et commanditées ?",
+   "en": "What are endowed and sponsored research chairs?"
+  },
+  "answer": {
+   "fr": "Ces chaires sont presque toujours créées grâce à un engagement financier important d'une personne, d'un groupe, d'une entreprise ou d'un gouvernement. Plusieurs facultés en accueillent, comme la Chaire Hyman Soloway en droit des affaires et du commerce ou la Chaire d'études ukrainiennes.",
+   "en": "These chairs are almost always created thanks to a major financial commitment from an individual, a group, a company or a government. Many faculties host them, such as the Hyman Soloway Chair in Business and Trade Law and the Chair of Ukrainian Studies."
+  },
+  "sources": [
+   {
+    "label": "Endowed and Sponsored Research Chairs — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/chairs/endowed-sponsored-research-chairs"
+   },
+   {
+    "label": "Fondation et commandite de chaires de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/chaires/fondation-commandite-chaires-recherche"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-chaire-diplomatie-scientifique",
+  "category": "programmes",
+  "keywords": [
+   "chaire de recherche en diplomatie scientifique",
+   "research chair in science diplomacy",
+   "diplomatie scientifique",
+   "science diplomacy",
+   "ambassade de france",
+   "embassy of france",
+   "france",
+   "coopération scientifique",
+   "scientific cooperation",
+   "politique étrangère"
+  ],
+  "question": {
+   "fr": "C'est quoi la Chaire de recherche en diplomatie scientifique ?",
+   "en": "What is the Research Chair in Science Diplomacy?"
+  },
+  "answer": {
+   "fr": "Créée par l'Université et l'Ambassade de France au Canada (entente en vigueur depuis le 24 avril 2023), cette chaire vise à renforcer les collaborations scientifiques entre la France et le Canada. Elle s'adresse à des chercheurs de diverses disciplines qui examinent les liens entre diplomatie et science.",
+   "en": "Created by the University and the Embassy of France in Canada (agreement in effect since April 24, 2023), this chair aims to strengthen scientific collaboration between France and Canada. It's intended for researchers from various disciplines who study the interactions between diplomacy and science."
+  },
+  "sources": [
+   {
+    "label": "Research Chair in Science Diplomacy — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/chairs/research-chair-science-diplomacy"
+   },
+   {
+    "label": "Chaire de recherche en diplomatie scientifique — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/chaires/chaire-recherche-diplomatie-scientifique"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-chaires-canada-150",
+  "category": "programmes",
+  "keywords": [
+   "chaires de recherche canada 150",
+   "canada 150 research chairs",
+   "150e anniversaire",
+   "150th anniversary",
+   "2017",
+   "chercheurs internationaux",
+   "international researchers",
+   "sept ans",
+   "seven years",
+   "trois organismes"
+  ],
+  "question": {
+   "fr": "C'est quoi les Chaires de recherche Canada 150 ?",
+   "en": "What are the Canada 150 Research Chairs?"
+  },
+  "answer": {
+   "fr": "Créé en 2017 pour le 150e anniversaire du Canada, ce programme ponctuel a permis aux établissements d'attirer des chercheurs de premier plan basés à l'étranger. Les chaires, non renouvelables, durent sept ans et valent 350 000 $ ou 1 million de dollars par année.",
+   "en": "Created in 2017 for Canada's 150th anniversary, this one-time program helped institutions attract top-tier, internationally based researchers. The non-renewable chairs last seven years and are worth $350,000 or $1 million per year."
+  },
+  "sources": [
+   {
+    "label": "Canada 150 Research Chairs — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/chairs/canada-150-research-chairs"
+   },
+   {
+    "label": "Chaires de recherche Canada 150 — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/chaires/chaires-recherche-canada-150"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-college-chaires-monde-francophone",
+  "category": "programmes",
+  "keywords": [
+   "collège des chaires de recherche sur le monde francophone",
+   "ccrmf",
+   "chaires sur le monde francophone",
+   "francophonie",
+   "francophone world",
+   "chaire senghor",
+   "senghor chair",
+   "communautés francophones",
+   "francophone communities",
+   "recherche en français"
+  ],
+  "question": {
+   "fr": "C'est quoi le Collège des chaires de recherche sur le monde francophone ?",
+   "en": "What is the Collège des chaires de recherche sur le monde francophone (CCRMF)?"
+  },
+  "answer": {
+   "fr": "Créé en 2019 par le Cabinet du vice-recteur à la recherche et à l'innovation, le CCRMF réunit 12 chaires qui étudient des enjeux du monde francophone : santé, droit, éducation, culture, patrimoine, immigration et relations internationales. Il compte aussi la première chaire Senghor de l'Université et favorise des projets avec les communautés francophones en milieu minoritaire.",
+   "en": "Created in 2019 by the Office of the Vice-President, Research and Innovation, the CCRMF brings together 12 chairs studying issues in the Francophone world: health, law, education, culture, heritage, immigration and international relations. It also includes the University's first Senghor chair and supports projects with Francophone minority communities."
+  },
+  "sources": [
+   {
+    "label": "The Collège des Chaires de recherche sur le monde francophone (CCRMF) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/college-chaires-recherche-monde-francophone-ccrmf"
+   },
+   {
+    "label": "Collège des chaires de recherche sur le monde francophone (CCRMF) — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/college-chaires-recherche-monde-francophone-ccrmf"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-chaires-mobilite-francophone",
+  "category": "programmes",
+  "keywords": [
+   "chaires mobilité francophone",
+   "francophone mobility chairs",
+   "cmf",
+   "fmc",
+   "chercheurs internationaux",
+   "international researchers",
+   "séjour de recherche",
+   "research stay",
+   "francophonie",
+   "chercheurs invités"
+  ],
+  "question": {
+   "fr": "C'est quoi les Chaires Mobilité francophone ?",
+   "en": "What are the Francophone Mobility Chairs?"
+  },
+  "answer": {
+   "fr": "L'Université a créé ce programme pour accueillir des chercheurs internationaux qui veulent faire un séjour de recherche sur le campus. Il vise à renforcer la recherche sur la francophonie en Ontario, au Canada et dans le monde, et à intégrer la relève à tous les niveaux.",
+   "en": "The University created this program to welcome international researchers who want to spend a research stay on campus. It aims to strengthen research on the Francophonie in Ontario, Canada and around the world, and to involve new researchers at every level."
+  },
+  "sources": [
+   {
+    "label": "Francophone Mobility Chairs — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/college-chaires-recherche-monde-francophone-ccrmf/francophone-mobility-chairs"
+   },
+   {
+    "label": "Chaires Mobilité francophone — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/college-chaires-recherche-monde-francophone-ccrmf/chaires-mobilite-francophone"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-recherche-intelligence-artificielle",
+  "category": "genie",
+  "keywords": [
+   "intelligence artificielle",
+   "artificial intelligence",
+   "ia",
+   "ai",
+   "ia responsable",
+   "responsible ai",
+   "recherche en ia",
+   "ai research",
+   "chaires en ia",
+   "santé numérique"
+  ],
+  "question": {
+   "fr": "Fait-on de la recherche en intelligence artificielle à l'Université ?",
+   "en": "Does uOttawa do research in artificial intelligence?"
+  },
+  "answer": {
+   "fr": "Oui, l'Université est un chef de file en recherche, formation et innovation en IA responsable, avec des chercheurs dont 18 titulaires de chaires de recherche. Les travaux couvrent le droit et l'éthique de l'IA, des systèmes d'IA sûrs et fiables, les algorithmes et modèles fondamentaux, et l'IA en santé.",
+   "en": "Yes, the University is a leader in responsible AI research, training and innovation, with researchers including 18 research chairs. Work covers AI law and ethics, secure and dependable AI systems, core algorithms and models, and AI in health care."
+  },
+  "sources": [
+   {
+    "label": "Artificial intelligence — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/artificial-intelligence"
+   },
+   {
+    "label": "Intelligence artificielle — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/intelligence-artificielle"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-initiative-ia-societe",
+  "category": "programmes",
+  "keywords": [
+   "initiative ia + société",
+   "ai + society initiative",
+   "éthique de l'ia",
+   "ai ethics",
+   "injustices numériques",
+   "digital injustice",
+   "droit",
+   "law",
+   "transdisciplinaire",
+   "halo"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Initiative IA + Société ?",
+   "en": "What is the AI + Society Initiative?"
+  },
+  "answer": {
+   "fr": "Cette initiative du Centre de recherche en droit, technologie et société étudie les implications éthiques, juridiques et sociétales de l'IA avec une approche transdisciplinaire. Elle veut surtout éviter que l'IA amplifie les injustices numériques envers les communautés touchées; elle se trouve au pavillon Brooks, 4e étage.",
+   "en": "This initiative of the Centre for Law, Technology and Society studies the ethical, legal and societal implications of AI using a transdisciplinary approach. It focuses on avoiding the amplification of digital injustices through AI for affected communities; it's located in the Brooks Building, 4th floor."
+  },
+  "sources": [
+   {
+    "label": "AI + Society Initiative — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/centre-law-technology-society/aisociety"
+   },
+   {
+    "label": "Initiative IA + Société — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/centre-droit-technologie-societe/iasociete"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-pole-recherche-arctique",
+  "category": "programmes",
+  "keywords": [
+   "pôle de recherche sur l'arctique",
+   "arctic research hub",
+   "arctique",
+   "arctic",
+   "nord",
+   "north",
+   "savoirs autochtones",
+   "indigenous knowledge",
+   "changements climatiques",
+   "projet pilote"
+  ],
+  "question": {
+   "fr": "C'est quoi le Pôle de recherche sur l'Arctique ?",
+   "en": "What is the Arctic Research Hub?"
+  },
+  "answer": {
+   "fr": "Lancé comme projet pilote de trois ans, le Pôle de recherche sur l'Arctique relie et amplifie la recherche arctique de l'Université et suscite de nouvelles collaborations entre facultés, communautés et pays. Il fait le pont entre science, politiques publiques et savoirs autochtones pour des solutions durables pour les communautés et les écosystèmes arctiques.",
+   "en": "Launched as a three-year pilot project, the Arctic Research Hub connects and amplifies the University's Arctic research and sparks new collaborations across faculties, communities and borders. It bridges science, policy and Indigenous knowledge to support sustainable solutions for Arctic communities and ecosystems."
+  },
+  "sources": [
+   {
+    "label": "University of Ottawa Arctic Research Hub — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/university-ottawa-arctic-research-hub"
+   },
+   {
+    "label": "Pôle de recherche sur l’Arctique de l’Université d’Ottawa — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/pole-recherche-arctique"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-cyber-carrefour",
+  "category": "genie",
+  "keywords": [
+   "cyber carrefour",
+   "cyber hub",
+   "cybersécurité",
+   "cybersecurity",
+   "cyberprudence",
+   "cybersafety",
+   "complexe stim",
+   "stem complex",
+   "cyber range",
+   "ibm"
+  ],
+  "question": {
+   "fr": "C'est quoi le Cyber carrefour ?",
+   "en": "What is the Cyber Hub?"
+  },
+  "answer": {
+   "fr": "Le Cyber carrefour de l'Université réunit chercheurs, spécialistes et leaders en cybersécurité et cyberprudence pour la formation expérientielle et la recherche interdisciplinaire. Il est situé au complexe STIM (150, privé Louis-Pasteur, 5e étage) et abrite le Cyber Range créé en partenariat avec IBM.",
+   "en": "The University's Cyber Hub brings together researchers, experts and leaders in cybersecurity and cybersafety for experiential training and interdisciplinary research. It's located in the STEM Complex (150 Louis-Pasteur Private, 5th floor) and houses the Cyber Range established in partnership with IBM."
+  },
+  "sources": [
+   {
+    "label": "Cyber Hub — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/impact-discoveries/cyber-hub"
+   },
+   {
+    "label": "Cyber carrefour — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/decouvertes-retombees/cyber-carrefour"
+   }
+  ],
+  "related": [
+   "s-institut-nexus-quantique",
+   "s-centre-catalyse-ccri",
+   "s-centre-max-planck"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-interconnectome-coeur-cerveau",
+  "category": "sante",
+  "keywords": [
+   "interconnectome cœur-cerveau",
+   "brain-heart interconnectome",
+   "icc",
+   "bhi",
+   "cœur",
+   "heart",
+   "cerveau",
+   "brain",
+   "institut de cardiologie",
+   "fonds d'excellence en recherche apogée canada"
+  ],
+  "question": {
+   "fr": "C'est quoi l'Interconnectome cœur-cerveau ?",
+   "en": "What is the Brain-Heart Interconnectome?"
+  },
+  "answer": {
+   "fr": "C'est un programme de recherche interdisciplinaire qui vise à accélérer la prévention, la détection, le traitement et les soins des troubles liés au cœur et au cerveau, appuyé par une subvention de 109 millions de dollars. Il réunit l'Université, l'Institut de recherche sur le cerveau, l'Institut de cardiologie, McGill, l'Université de la Saskatchewan et plus de 45 autres partenaires.",
+   "en": "It's an interdisciplinary research program aiming to accelerate prevention, detection, treatment and care of brain-heart disorders, supported by a $109 million grant. It brings together uOttawa, the Brain and Mind Research Institute, the Heart Institute, McGill, the University of Saskatchewan and more than 45 other partners."
+  },
+  "sources": [
+   {
+    "label": "Brain-Heart Interconnectome — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/bhi"
+   },
+   {
+    "label": "Interconnectome cœur-cerveau — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/icc"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-pole-preparation-pandemie",
+  "category": "sante",
+  "keywords": [
+   "pôle canadien de préparation à la pandémie",
+   "canadian pandemic preparedness hub",
+   "pcp2",
+   "cp2h",
+   "pandémie",
+   "pandemic",
+   "vaccins",
+   "vaccines",
+   "biofabrication",
+   "biomanufacturing"
+  ],
+  "question": {
+   "fr": "C'est quoi le Pôle canadien de préparation à la pandémie ?",
+   "en": "What is the Canadian Pandemic Preparedness Hub?"
+  },
+  "answer": {
+   "fr": "Créé après la pandémie de COVID-19, ce pôle codirigé par l'Université (avec L'Hôpital d'Ottawa) et l'Université McMaster vise à transformer plus rapidement les découvertes canadiennes en médicaments. Il relie universités, industrie et gouvernement pour développer vaccins, antiviraux, anticorps et capacités de fabrication.",
+   "en": "Created after the COVID-19 pandemic, this hub co-led by uOttawa (with The Ottawa Hospital) and McMaster University aims to turn Canadian discoveries into medicines faster. It links universities, industry and government to develop vaccines, antivirals, antibodies and manufacturing capacity."
+  },
+  "sources": [
+   {
+    "label": "Canadian Pandemic Preparedness Hub (CP2H) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/canadian-pandemic-preparedness-hub"
+   },
+   {
+    "label": "Le Pôle canadien de préparation à la pandémie (PCP2) — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/pole-canadien-preparation-pandemie"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-reseau-universitaire-sante-ottawa",
+  "category": "sante",
+  "keywords": [
+   "réseau universitaire de santé d'ottawa",
+   "ottawa academic health network",
+   "ruso",
+   "oahn",
+   "hôpitaux d'enseignement",
+   "teaching hospitals",
+   "recherche en santé",
+   "health research",
+   "soins de santé",
+   "health care"
+  ],
+  "question": {
+   "fr": "C'est quoi le Réseau universitaire de santé d'Ottawa ?",
+   "en": "What is the Ottawa Academic Health Network?"
+  },
+  "answer": {
+   "fr": "Le Réseau universitaire de santé d'Ottawa (RUSO) réunit l'Université et ses hôpitaux d'enseignement et de recherche affiliés pour favoriser la recherche collaborative et la formation. Il vise à transformer plus vite les avancées de la recherche en meilleurs soins pour les patients.",
+   "en": "The Ottawa Academic Health Network (OAHN) brings together the University and its affiliated teaching and research hospitals to foster collaborative research and training. It aims to turn research advances into better patient care more quickly."
+  },
+  "sources": [
+   {
+    "label": "Ottawa Academic Health Network — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ottawa-academic-health-network"
+   },
+   {
+    "label": "Le Réseau universitaire de la santé d’Ottawa — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/reseau-universitaire-sante-ottawa"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-bureau-politiques-publiques",
+  "category": "programmes",
+  "keywords": [
+   "bureau de la recherche et de liaison en matière de politiques publiques",
+   "office of public policy research and outreach",
+   "brlpp",
+   "oppro",
+   "politiques publiques",
+   "public policy",
+   "gouvernement",
+   "government",
+   "données probantes",
+   "evidence-based policy"
+  ],
+  "question": {
+   "fr": "C'est quoi le Bureau de la recherche et de liaison en matière de politiques publiques ?",
+   "en": "What is the Office of Public Policy Research and Outreach?"
+  },
+  "answer": {
+   "fr": "Ce bureau aide l'Université à proposer des solutions à des enjeux de politiques publiques complexes. Il soutient les chercheurs, centres et instituts dans leurs relations avec tous les ordres de gouvernement et développe de la recherche et de la formation pour des politiques fondées sur des données probantes.",
+   "en": "This office helps the University develop solutions to complex public policy challenges. It supports researchers, centres and institutes in their relationships with all levels of government and develops research and training for evidence-based policy."
+  },
+  "sources": [
+   {
+    "label": "Office of Public Policy Research and Outreach — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/office-public-policy-research-outreach"
+   },
+   {
+    "label": "Bureau de la recherche et de liaison en matière de politiques publiques — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/bureau-recherche-liaison-matiere-politiques-publiques"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-forum-dialogue-trebek",
+  "category": "programmes",
+  "keywords": [
+   "forum pour le dialogue alex trebek",
+   "alex trebek forum for dialogue",
+   "alex trebek",
+   "forum pour le dialogue",
+   "politiques publiques",
+   "public policy",
+   "don de 5 millions",
+   "$5 million gift",
+   "pôles interdisciplinaires",
+   "interdisciplinary hubs"
+  ],
+  "question": {
+   "fr": "C'est quoi le Forum pour le dialogue Alex Trebek ?",
+   "en": "What is the Alex Trebek Forum for Dialogue?"
+  },
+  "answer": {
+   "fr": "Créé grâce à un don de 5 millions de dollars du diplômé Alex Trebek, le Forum appuie les chercheurs et instituts de l'Université qui cherchent des solutions aux défis complexes de politiques publiques au Canada et dans le monde.",
+   "en": "Endowed by a $5 million gift from alumnus Alex Trebek, the Forum supports uOttawa researchers and institutes working on solutions to complex public policy challenges in Canada and around the world."
+  },
+  "sources": [
+   {
+    "label": "Alex Trebek Forum for Dialogue — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/forum-for-dialogue"
+   },
+   {
+    "label": "Forum pour le dialogue — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/forum-dialogue"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-energie-positive",
+  "category": "programmes",
+  "keywords": [
+   "énergie positive",
+   "positive energy",
+   "énergie",
+   "energy",
+   "confiance du public",
+   "public confidence",
+   "décisions énergétiques",
+   "energy decision-making",
+   "monica gattinger",
+   "électricité"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme Énergie positive ?",
+   "en": "What is the Positive Energy program?"
+  },
+  "answer": {
+   "fr": "Énergie positive réunit des chercheurs et des décideurs de l'industrie, des gouvernements, des communautés autochtones et locales et des organismes environnementaux pour renforcer la confiance du public dans les décisions énergétiques. Il est présidé par Monica Gattinger, directrice de l'ISSP.",
+   "en": "Positive Energy brings together researchers and decision-makers from industry, government, Indigenous and local communities and environmental organizations to strengthen public confidence in energy decision-making. It's chaired by Monica Gattinger, Director of the ISSP."
+  },
+  "sources": [
+   {
+    "label": "Positive Energy — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/positive-energy"
+   },
+   {
+    "label": "Énergie positive — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/energie-positive"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-forum-droit-eau",
+  "category": "programmes",
+  "keywords": [
+   "forum sur le droit et la gouvernance de l'eau",
+   "forum on water law and governance",
+   "eau",
+   "water",
+   "droit de l'eau",
+   "water law",
+   "gouvernance de l'eau",
+   "water governance",
+   "eau douce",
+   "freshwater"
+  ],
+  "question": {
+   "fr": "C'est quoi le Forum sur le droit et la gouvernance de l'eau ?",
+   "en": "What is the Forum on Water Law and Governance?"
+  },
+  "answer": {
+   "fr": "C'est un carrefour national ancré à l'Université qui réunit gouvernements, communautés et experts pour relever les défis de l'eau au Canada. Il combine droit, sciences de l'environnement et gouvernance pour produire et diffuser des connaissances sur la gestion durable et inclusive de l'eau.",
+   "en": "It's a national hub anchored at the University that brings together governments, communities and experts to tackle Canada's water challenges. It combines law, environmental science and governance to produce and share knowledge on sustainable, inclusive water management."
+  },
+  "sources": [
+   {
+    "label": "Forum on Water Law and Governance — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/forum-water-law-governance"
+   },
+   {
+    "label": "Forum sur le droit et la gouvernance de l’eau — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/forum-droit-gouvernance-leau"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-reseau-gouvernance-autochtone",
+  "category": "programmes",
+  "keywords": [
+   "réseau de recherche sur la gouvernance autochtone",
+   "indigenous governance research network",
+   "gouvernance autochtone",
+   "indigenous governance",
+   "réconciliation",
+   "reconciliation",
+   "relations couronne-autochtones",
+   "crown-indigenous relations",
+   "revendications territoriales",
+   "comprehensive claims"
+  ],
+  "question": {
+   "fr": "C'est quoi le Réseau de recherche sur la gouvernance autochtone ?",
+   "en": "What is the Indigenous Governance Research Network?"
+  },
+  "answer": {
+   "fr": "Ce réseau étudie la place des peuples, nations et gouvernements autochtones dans l'ordre constitutionnel canadien, notamment les relations entre la Couronne et les Autochtones. Il mène, entre autres, un projet financé par le CRSH sur les peuples autochtones, le territoire et le processus de revendications globales.",
+   "en": "This network studies the evolving place of Indigenous peoples, nations and governments within Canada's constitutional order, including Crown-Indigenous relations. Among other work, it runs a SSHRC-funded project on Indigenous peoples, territory and the comprehensive claims process."
+  },
+  "sources": [
+   {
+    "label": "Indigenous Governance Research Network — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/indigenous-governance-research-network"
+   },
+   {
+    "label": "Le Réseau de recherche sur la gouvernance autochtone — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/reseau-recherche-gouvernance-autochtone"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-pole-innovation-sante",
+  "category": "sante",
+  "keywords": [
+   "pôle d'innovation en santé d'ottawa",
+   "ottawa health innovation hub",
+   "ohih",
+   "innovation en santé",
+   "health innovation",
+   "jeunes entreprises",
+   "startups",
+   "commercialisation",
+   "commercialization",
+   "centre de recherche médicale avancée"
+  ],
+  "question": {
+   "fr": "C'est quoi le Pôle d'innovation en santé d'Ottawa ?",
+   "en": "What is the Ottawa Health Innovation Hub?"
+  },
+  "answer": {
+   "fr": "Le Pôle d'innovation en santé d'Ottawa accélère la recherche en santé, la commercialisation et la croissance des jeunes entreprises en réunissant chercheurs, cliniciens, industrie et secteur public. Il offre notamment 17 000 pi² de laboratoires humides d'incubation dans le Centre de recherche médicale avancée.",
+   "en": "The Ottawa Health Innovation Hub accelerates health research, commercialization and startup growth by bringing together researchers, clinicians, industry and the public sector. It offers, among other things, 17,000 sq. ft. of wet-lab incubation space in the Advanced Medical Research Centre."
+  },
+  "sources": [
+   {
+    "label": "Ottawa Health Innovation Hub — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ottawa-health-innovation-hub"
+   },
+   {
+    "label": "Pôle d’innovation en santé d’Ottawa — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/pole-innovation-sante-ottawa"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-gestion-donnees-recherche",
+  "category": "services",
+  "keywords": [
+   "centre de gestion des données de recherche",
+   "research data management hub",
+   "gdr",
+   "rdm",
+   "plan de gestion des données",
+   "data management plan",
+   "données ouvertes",
+   "open data",
+   "stockage de données",
+   "data storage"
+  ],
+  "question": {
+   "fr": "Où trouver de l'aide pour gérer mes données de recherche ?",
+   "en": "Where can I get help managing my research data?"
+  },
+  "answer": {
+   "fr": "Le Centre de gestion des données de recherche offre des outils centralisés pour organiser, stocker et partager tes données de recherche en toute sécurité et en conformité avec les normes. Tu y trouveras aussi de l'information pour préparer un plan de gestion des données.",
+   "en": "The Research Data Management Hub offers centralized tools to organize, store and share your research data securely and in line with standards. You'll also find guidance on preparing a data management plan."
+  },
+  "sources": [
+   {
+    "label": "Research Data Management (RDM) Hub — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/research-data-management-hub"
+   },
+   {
+    "label": "Centre de gestion des données de recherche (GDR) — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/centre-gestion-donnees-recherche"
+   }
+  ],
+  "related": [
+   "s-plateformes-technologiques",
+   "s-installation-ams-lalonde",
+   "s-plateforme-comportement-animal"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-neurodynamique-ia",
+  "category": "sante",
+  "keywords": [
+   "centre de neurodynamique et d'intelligence artificielle",
+   "center for neural dynamics and artificial intelligence",
+   "cnd-ai",
+   "neurodynamique",
+   "neural dynamics",
+   "neurosciences",
+   "neuroscience",
+   "modélisation mathématique",
+   "mathematical modeling",
+   "imagerie"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de neurodynamique et d'intelligence artificielle ?",
+   "en": "What is the Center for Neural Dynamics and Artificial Intelligence?"
+  },
+  "answer": {
+   "fr": "Créé en 2005, ce centre réunit des chercheurs des facultés de médecine, des sciences et des sciences de la santé qui s'intéressent aux neurosciences moléculaires, cellulaires et des systèmes, à la modélisation mathématique et à l'imagerie. Il combine méthodes computationnelles et IA pour mieux comprendre le cerveau et ses troubles.",
+   "en": "Created in 2005, this centre brings together researchers from the Faculties of Medicine, Science and Health Sciences interested in molecular, cellular and systems neuroscience, mathematical modelling and imaging. It combines computational methods and AI to better understand the brain and its disorders."
+  },
+  "sources": [
+   {
+    "label": "Neural dynamics and AI — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/brain/research/neural-dynamics"
+   },
+   {
+    "label": "Neurodynamique et IA — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/cerveau/recherche/dynamique-neuronale"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-centre-sante-autochtone-cresa",
+  "category": "sante",
+  "keywords": [
+   "centre de recherche et d'éducation en santé autochtone",
+   "centre for indigenous health research and education",
+   "cresa",
+   "cihre",
+   "santé autochtone",
+   "indigenous health",
+   "premières nations",
+   "first nations",
+   "inuits",
+   "métis"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de recherche et d'éducation en santé autochtone (CRESA) ?",
+   "en": "What is the Centre for Indigenous Health Research and Education (CIHRE)?"
+  },
+  "answer": {
+   "fr": "Créé en 2022 à la Faculté de médecine, le CRESA veut améliorer l'éducation, la recherche et le développement des capacités en santé autochtone pour mieux servir les communautés des Premières Nations, inuites et métisses. Il se trouve au pavillon Roger-Guindon, 451, chemin Smyth, salle 2034.",
+   "en": "Established in 2022 in the Faculty of Medicine, CIHRE aims to improve Indigenous health education, research and capacity development to better serve First Nations, Inuit and Métis communities. It's located in Roger Guindon Hall, 451 Smyth Road, room 2034."
+  },
+  "sources": [
+   {
+    "label": "Centre for Indigenous Health Research and Education — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/cihre"
+   },
+   {
+    "label": "Centre de recherche et d’éducation en santé autochtone — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-medecine/cresa"
+   }
+  ],
+  "related": [
+   "s-participer-etude-recherche",
+   "s-institut-cerveau-ircuo",
+   "s-institut-life"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-laboratoire-recherche-metis",
+  "category": "programmes",
+  "keywords": [
+   "laboratoire de recherche métis",
+   "metis research lab",
+   "métis",
+   "metis",
+   "nation métisse",
+   "metis nation",
+   "archives numériques",
+   "digital archive",
+   "iréa",
+   "études autochtones"
+  ],
+  "question": {
+   "fr": "C'est quoi le Laboratoire de recherche Métis ?",
+   "en": "What is the Metis Research Lab?"
+  },
+  "answer": {
+   "fr": "Rattaché à l'Institut de recherche et d'études autochtones, ce laboratoire étudie les relations entre le peuple métis, sa terre natale et son sentiment de nation. Ses travaux ont mené à une archive numérique en ligne accessible au public, construite à partir de documents historiques.",
+   "en": "Part of the Institute of Indigenous Research and Studies, this lab investigates the relationships between the Metis people, their homelands and their sense of nationhood. Its work led to a publicly accessible online digital archive built from historical records."
+  },
+  "sources": [
+   {
+    "label": "Metis Research Lab — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/institute-indigenous-research-studies/metis-research-lab"
+   },
+   {
+    "label": "Laboratoire de recherche Métis — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-arts/institut-recherche-etudes-autochtones/laboratoire-recherche-metis"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-unites-recherche-education",
+  "category": "programmes",
+  "keywords": [
+   "unités de recherche éducationnelle",
+   "educational research units",
+   "faculté d'éducation",
+   "faculty of education",
+   "educlang",
+   "didactique des mathématiques",
+   "mathematics education",
+   "érudid",
+   "urecs",
+   "enseignement du français langue seconde"
+  ],
+  "question": {
+   "fr": "Quelles unités de recherche y a-t-il à la Faculté d'éducation ?",
+   "en": "What research units does the Faculty of Education have?"
+  },
+  "answer": {
+   "fr": "La Faculté d'éducation compte des unités de recherche éducationnelle (URE) comme EDUCLANG (langues et enseignement du français langue seconde), l'Unité de recherche éducationnelle en mathématiques (UREM), l'Érudid (didactiques), IE-CLASSE (éducation internationale) et l'URECS (culture scientifique). Elle a aussi des laboratoires, réseaux et centres, comme le Laboratoire d'étude du cerveau et du comportement et le co-laboratoire CHENINE.",
+   "en": "The Faculty of Education has Educational Research Units (ERU) such as EDUCLANG (language and French as a second language teaching), the Mathematics Education Research Unit, Érudid (didactics), IE-CLASSE (international education) and URECS (scientific culture). It also has labs, networks and centres, such as the Brain and Behaviour Laboratory and the CHENINE centre."
+  },
+  "sources": [
+   {
+    "label": "Educational research units — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/research/educational-research-units"
+   },
+   {
+    "label": "Unités de recherche éducationnelle — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-education/recherche/unites-recherche-educationelle"
+   },
+   {
+    "label": "Research laboratories, networks and centres — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/research/laboratories"
+   },
+   {
+    "label": "Laboratoires, réseaux, et centres de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-education/recherche/laboratoires"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "s-labos-groupes-sciences-sociales",
+  "category": "programmes",
+  "keywords": [
+   "laboratoires de recherche",
+   "research laboratories",
+   "groupes de recherche",
+   "research groups",
+   "faculté des sciences sociales",
+   "faculty of social sciences",
+   "laboratoire d'études et de recherches sur la politique canadienne",
+   "canadian politics laboratory",
+   "lerpc",
+   "étudiants chercheurs"
+  ],
+  "question": {
+   "fr": "La Faculté des sciences sociales a-t-elle des laboratoires de recherche ?",
+   "en": "Does the Faculty of Social Sciences have research labs?"
+  },
+  "answer": {
+   "fr": "Oui, ses laboratoires et groupes de recherche développent des domaines émergents avec des équipes de chercheurs et d'étudiants, par exemple le Laboratoire d'études et de recherches sur la politique canadienne (LERPC). Ils attirent les étudiants intéressés par ces domaines grâce à des séminaires, des chercheurs invités et des échanges.",
+   "en": "Yes, its laboratories and research groups develop emerging fields through teams of researchers and students, such as the Canadian Politics Laboratory (LERPC). They attract interested students through seminars, visiting researchers and exchanges."
+  },
+  "sources": [
+   {
+    "label": "Laboratories and Research Groups — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/research/laboratories-research-groups"
+   },
+   {
+    "label": "Recherche - Financement - Laboratoires et groupes de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/recherche/laboratoires-groupes-recherche"
+   }
+  ],
+  "related": [
+   "s-liste-centres-instituts",
+   "s-recherche-facultes",
+   "s-axes-strategiques-recherche"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
  }
 ];

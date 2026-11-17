@@ -5,6 +5,7 @@
 //   en 3D découpe les poils. Les zones non orangées de la texture (sabots, yeux, naseaux) restent sans poils.
 //   La crinière et la queue ont des crins plus longs, en mèches étirées vers le bas.
 //   Duvet court (velours) sur le museau et dans les oreilles ; les yeux sont dessinés dans le shader (iris, reflet).
+//   Sabots en corne striée, avec une frange de poils plus longs qui retombe dessus.
 // - Variante « geegee » : pelage crème, maillot grenat GG / GEE-GEES 48 et short gris, dessinés dans le shader,
 //   avec plis souples et mailles du tissu en relief (bump procédural).
 // - Animation sans squelette : la tête, la mâchoire et les bras tournent autour de pivots mesurés sur le modèle,
@@ -40,6 +41,8 @@ const BODY_GLSL = `
     float tail = smoothstep(-0.095, -0.115, q.z) * smoothstep(0.08, 0.12, t) * (1.0 - smoothstep(0.5, 0.56, t));
     return max(mane, tail);
   }
+  // Bas des jambes, juste au-dessus du sabot : poils un peu plus longs qui retombent sur le sabot (fanons).
+  float fringe(vec3 p) { float t = bodyT(p); return smoothstep(0.035, 0.05, t) * (1.0 - smoothstep(0.06, 0.09, t)); }
   // Yeux : dessinés ici, car la texture générée n'en a pas de net. Vecteur normalisé : longueur 1 = bord de l'œil.
   vec3 eyeV(vec3 p) {
     vec3 d = (vec3(abs(p.x) / bodyH, bodyT(p), p.z / bodyH) - eyeC.xyz) / eyeC.w;
@@ -246,9 +249,9 @@ function shellMaterial(base, h, bounds) {
     for (const k of ['furLength', 'density', 'gravity', 'furOn']) s.uniforms[k] = realSettings[k];
     s.uniforms.shellH = { value: h };
     bodyUniforms(s, bounds);
-    vertexPatch(s, `float hairL = furLength * bodyH * shellH * furOn * (1.0 + 2.2 * maneMask(position));
+    vertexPatch(s, `float hairL = furLength * bodyH * shellH * furOn * (1.0 + 2.2 * maneMask(position) + 1.2 * fringe(position));
       transformed += objectNormal * hairL;
-      transformed.y -= gravity * hairL * shellH * (1.0 + maneMask(position));`);
+      transformed.y -= gravity * hairL * shellH * (1.0 + maneMask(position) + 2.0 * fringe(position));`);
     s.fragmentShader = s.fragmentShader
       .replace('#include <common>', `#include <common>
         uniform float density, shellH, furOn; varying vec3 vBase; varying float vLumFix;
@@ -256,9 +259,10 @@ function shellMaterial(base, h, bounds) {
         float h31(vec3 p) { p = fract(p * vec3(.1031, .1030, .0973)); p += dot(p, p.yxz + 33.33); return fract((p.x + p.y) * p.z); }
         vec3 h33(vec3 p) { p = fract(p * vec3(.1031, .1030, .0973)); p += dot(p, p.yxz + 33.33); return fract((p.xxy + p.yxx) * p.zyx); }`)
       .replace('#include <roughnessmap_fragment>', `#include <roughnessmap_fragment>
-        roughnessFactor = mix(roughnessFactor, 0.3, eyeF); // œil humide et brillant`)
+        roughnessFactor = mix(roughnessFactor, 0.3, eyeF); // œil humide et brillant
+        roughnessFactor = mix(roughnessFactor, 0.7, hoofF); // corne à peine lustrée (plus brillant, les facettes du maillage se verraient)`)
       .replace('#include <map_fragment>', `#include <map_fragment>
-        float eyeF = 0.0;
+        float eyeF = 0.0, hoofF = 0.0;
         {
           vec3 raw = diffuseColor.rgb * vLumFix;
           vec3 col = recolor(raw);
@@ -308,6 +312,17 @@ function shellMaterial(base, h, bounds) {
             float lid = smoothstep(1.0, 1.3, ed);
             col = mix(eye, mix(vec3(0.035, 0.03, 0.03), col, smoothstep(1.12, 1.3, ed)), lid);
             eyeF = 1.0 - lid;
+          }
+          // Sabots : corne striée de haut en bas, bande plus foncée sous les poils, bord usé plus clair.
+          float hoof = (1.0 - smoothstep(0.05, 0.065, tb)) * (1.0 - smoothstep(0.25, 0.55, orange)) * (1.0 - isHair);
+          if (hoof > 0.0 && shellH == 0.0) {
+            vec3 q = bodyN(vBase); float sd = sign(q.x);
+            float a = atan(q.z - 0.04, abs(q.x) - 0.09) * 9.0, ia = floor(a), fa = smoothstep(0.0, 1.0, fract(a));
+            float st = mix(h31(vec3(ia, sd, 3.0)), h31(vec3(ia + 1.0, sd, 3.0)), fa);
+            float st2 = mix(h31(vec3(floor(a * 4.0), sd, 7.0)), h31(vec3(floor(a * 4.0) + 1.0, sd, 7.0)), smoothstep(0.0, 1.0, fract(a * 4.0)));
+            vec3 horn = geegee > 0.5 ? vec3(0.03, 0.03, 0.034) : vec3(0.045, 0.034, 0.026); // Gee-Gee : ardoise ; cheval : corne brun foncé
+            horn *= (0.75 + 0.35 * st + 0.2 * st2) * mix(0.55, 1.0, smoothstep(0.052, 0.035, tb)) * mix(1.25, 1.0, smoothstep(0.0, 0.008, tb));
+            col = mix(col, horn, hoof); hoofF = hoof;
           }
           float ao = mix(0.55, 1.08, shellH) * mix(1.0, 0.9 + 0.2 * strand, step(0.001, shellH));
           diffuseColor.rgb = col * mix(1.0, ao, max(max(orange, isHair), velvet) * (1.0 - step(0.5, cloth)));

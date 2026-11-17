@@ -11,5 +11,8 @@ export const CASES = [
   ['where can I get coffee', 'c-cafe'], ['permis de travail post-diplôme', 'a-permis-travail-postdiplome'], ['comment aller à Roger-Guindon', 'd-roger-guindon'],
   ['c\'est quoi ITI1120', 'j-iti1120'], ['GNG1503', 'j-gng1503'], ['Tim Hortons au CRX', 'i-crx-tim-hortons'], ['alarme incendie', 'g-alarme-incendie'],
   ['c\'est quoi le club d\'escalade', 'q-club-escalade'], ['is there a chess club', 'q-club-chess'],
-  ['labo informatique', 'r-labo-info-sciences-mnt'], ['formation SIMDUT', 'r-simdut-obligatoire']
+  ['labo informatique', 'r-labo-info-sciences-mnt'], ['formation SIMDUT', 'r-simdut-obligatoire'],
+  ['combien coute le depot de residence', 'm-residence-acompte'], ['upass exemption', 'w-upass-exemption-autres'],
+  ['révision de note', 'v-revision-note-etapes'], ['ligne de crise texto', 'x-texto-crise'],
+  ['bourse schulich leader', 'z-bourse-schulich-leader'], ['échange étudiant à l étranger', 'a-echange-etudiant-sortant']
 ];

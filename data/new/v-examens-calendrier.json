@@ -1,0 +1,3756 @@
+[
+ {
+  "id": "v-examens-soir-fin-de-semaine",
+  "category": "calendrier",
+  "keywords": [
+   "examen fin de semaine",
+   "examen le samedi",
+   "examen le soir",
+   "exam on weekend",
+   "evening exam",
+   "exam saturday sunday",
+   "periode d'examens automne 2026",
+   "fall 2026 exam period",
+   "examens decembre 2026",
+   "december exams",
+   "exam schedule weekend",
+   "horaire examens soir"
+  ],
+  "question": {
+   "fr": "Est-ce que les examens finaux peuvent avoir lieu le soir ou la fin de semaine ?",
+   "en": "Can final exams be scheduled in the evening or on weekends?"
+  },
+  "answer": {
+   "fr": "Oui. Pendant la période d'examens, qui va du 10 au 22 décembre 2026 pour l'automne, les examens sont prévus en semaine et la fin de semaine, de jour comme de soir. Vérifie ton horaire personnel dans uoZone.",
+   "en": "Yes. During the exam period, which runs from December 10 to 22, 2026 for the Fall term, exams are scheduled on weekdays and weekends, both during the day and in the evening. Check your personal schedule in uoZone."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Fall 2026 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/fall-2026"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-pause-etude-hiver-2027",
+  "category": "calendrier",
+  "keywords": [
+   "pause d'etude",
+   "study break",
+   "journee d'etude avant examens",
+   "15 avril 2027",
+   "study day april",
+   "pas de cours avant examens",
+   "break before finals",
+   "journee sans cours avril",
+   "study break winter 2027",
+   "conge avant les examens"
+  ],
+  "question": {
+   "fr": "Y a-t-il une journée d'étude avant les examens finaux de l'hiver 2027 ?",
+   "en": "Is there a study break before the Winter 2027 final exams?"
+  },
+  "answer": {
+   "fr": "Oui, le 15 avril 2027 est une journée de pause d'étude, sauf pour le programme de MD. Les cours finissent le 14 avril et les examens commencent le 16 avril.",
+   "en": "Yes, April 15, 2027 is a study break, except for the MD program. Classes end on April 14 and exams start on April 16."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Winter 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-immersion-sns-hiver-2027",
+  "category": "calendrier",
+  "keywords": [
+   "immersion francaise",
+   "french immersion",
+   "satisfaisant non satisfaisant",
+   "satisfactory not satisfactory",
+   "s/ns",
+   "sns immersion",
+   "note s ns",
+   "immersion date limite",
+   "immersion deadline winter 2027",
+   "cours immersion moyenne"
+  ],
+  "question": {
+   "fr": "En immersion, quelle est la date limite pour choisir les cours notés Satisfaisant ou Non satisfaisant à l'hiver 2027 ?",
+   "en": "In French immersion, what is the deadline to choose courses graded Satisfactory/Not satisfactory in Winter 2027?"
+  },
+  "answer": {
+   "fr": "Pour l'hiver 2027, les étudiants admissibles en immersion ont jusqu'au 2 avril 2027 pour indiquer les cours qui seront évalués avec la mention Satisfaisant ou Non satisfaisant. C'est aussi le dernier jour pour abandonner un cours sans crédit financier.",
+   "en": "For Winter 2027, eligible French immersion students have until April 2, 2027 to identify the courses to be graded Satisfactory/Not satisfactory. It's also the last day to withdraw from a course without a financial credit."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Winter 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-statut-auditeur-hiver-2027",
+  "category": "calendrier",
+  "keywords": [
+   "auditeur",
+   "auditor",
+   "auditer un cours",
+   "audit a course",
+   "changer statut regulier auditeur",
+   "change student status",
+   "statut auditeur date limite",
+   "regular to auditor",
+   "auditeur hiver 2027",
+   "aud"
+  ],
+  "question": {
+   "fr": "Jusqu'à quand puis-je passer du statut régulier à auditeur dans un cours à l'hiver 2027 ?",
+   "en": "Until when can I switch between regular and auditor status in a course in Winter 2027?"
+  },
+  "answer": {
+   "fr": "Pour l'hiver 2027, la date limite pour changer ton statut d'étudiant régulier à auditeur, ou l'inverse, est le 22 janvier 2027. C'est la même date que la limite pour t'inscrire ou modifier tes cours.",
+   "en": "For Winter 2027, the deadline to change your status between regular and auditor is January 22, 2027. It's the same date as the deadline to enrol or change your courses."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Winter 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-inscription-non-diplome-hiver-2027",
+  "category": "calendrier",
+  "keywords": [
+   "etudiant libre",
+   "non-degree student",
+   "etudiant non diplome",
+   "inscription etudiant libre hiver",
+   "non degree enrolment",
+   "special student",
+   "echange carleton",
+   "uottawa carleton exchange",
+   "transfert de credits",
+   "8 decembre 2026",
+   "non degree winter 2027"
+  ],
+  "question": {
+   "fr": "Quand les étudiants non candidats à un grade peuvent-ils s'inscrire aux cours de l'hiver 2027 ?",
+   "en": "When can non-degree students enrol in Winter 2027 courses?"
+  },
+  "answer": {
+   "fr": "Les étudiants non candidats à un grade peuvent s'inscrire à partir du 8 décembre 2026, une minute après minuit. Ceux qui transfèrent des crédits et les étudiants d'échange uOttawa-Carleton peuvent le faire dès le 1er décembre 2026 à 9 h. Aux cycles supérieurs, vérifie la procédure avec ton unité scolaire.",
+   "en": "Non-degree students can enrol starting December 8, 2026, one minute past midnight. Non-degree students transferring credits and uOttawa-Carleton exchange students can enrol from December 1, 2026 at 9 a.m. Graduate students should check the procedure with their academic unit."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Winter 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-changement-programme-2027",
+  "category": "calendrier",
+  "keywords": [
+   "changer de programme",
+   "change program",
+   "changement de programme",
+   "program change deadline",
+   "modifier mon programme",
+   "switch program",
+   "changer de majeure",
+   "period to change program",
+   "changement programme automne 2027",
+   "changement programme ete 2027"
+  ],
+  "question": {
+   "fr": "Quand puis-je demander un changement de programme pour le printemps-été ou l'automne 2027 ?",
+   "en": "When can I request a program change for Spring-Summer or Fall 2027?"
+  },
+  "answer": {
+   "fr": "Au premier cycle, la période pour changer de programme pour le trimestre printemps-été 2027 va du 1er au 31 mars 2027. Pour l'automne 2027, elle va du 1er mars au 31 juillet 2027.",
+   "en": "For undergraduate students, the period to change programs for the Spring-Summer 2027 term runs from March 1 to 31, 2027. For Fall 2027, it runs from March 1 to July 31, 2027."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Winter 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2027"
+   },
+   {
+    "label": "Important academic dates and deadlines - Spring-summer 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/spring-summer-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-these-depot-automne-2026",
+  "category": "calendrier",
+  "keywords": [
+   "depot de these",
+   "thesis submission",
+   "date limite these",
+   "thesis deadline",
+   "memoire de recherche",
+   "major research paper",
+   "rapport d'ingenierie",
+   "engineering report",
+   "these automne 2026",
+   "eviter inscription hiver"
+  ],
+  "question": {
+   "fr": "Quelle est la date limite pour déposer ma thèse à l'automne 2026 sans m'inscrire à l'hiver ?",
+   "en": "What is the deadline to submit my thesis in Fall 2026 without enrolling in Winter?"
+  },
+  "answer": {
+   "fr": "Le dernier jour pour déposer ta thèse pour évaluation écrite sans devoir t'inscrire à l'hiver 2027 est le 22 décembre 2026. C'est aussi la date limite pour le rapport d'ingénierie et le mémoire de recherche, mais certains programmes ont une date plus tôt, alors confirme avec ton unité.",
+   "en": "The last day to submit your thesis for written evaluation without having to enrol in Winter 2027 is December 22, 2026. It's also the deadline for the engineering report and major research paper, but some programs have an earlier date, so confirm with your unit."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Fall 2026 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/fall-2026"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-these-depot-hiver-2027",
+  "category": "calendrier",
+  "keywords": [
+   "these hiver 2027",
+   "thesis winter 2027",
+   "credit financier these",
+   "thesis financial credit",
+   "depot these avril",
+   "thesis submission april",
+   "these 100 %",
+   "remboursement these",
+   "thesis refund",
+   "evaluation ecrite these"
+  ],
+  "question": {
+   "fr": "Quelles sont les dates de dépôt de thèse pour l'hiver 2027 ?",
+   "en": "What are the thesis submission dates for Winter 2027?"
+  },
+  "answer": {
+   "fr": "Si tu es inscrit seulement à la thèse et l'étais aussi au trimestre précédent, dépose-la au plus tard le 29 janvier 2027 pour un crédit financier de 100 %, ou le 5 mars pour 50 %. Pour éviter de t'inscrire au printemps-été, la date limite est le 30 avril 2027.",
+   "en": "If you're enrolled only in your thesis and were also enrolled in it the previous term, submit it by January 29, 2027 for a 100% financial credit, or by March 5 for 50%. To avoid enrolling in Spring-Summer, the deadline is April 30, 2027."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Winter 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-examens-horaire-ete-2027",
+  "category": "calendrier",
+  "keywords": [
+   "horaire examens ete",
+   "summer exam schedule",
+   "horaire examens printemps ete 2027",
+   "spring summer exam schedule posted",
+   "session a examens",
+   "session c examens",
+   "quand horaire examens ete",
+   "exam timetable summer",
+   "2 juin",
+   "14 juillet"
+  ],
+  "question": {
+   "fr": "Quand l'horaire des examens du printemps-été 2027 sera-t-il publié ?",
+   "en": "When will the Spring-Summer 2027 exam schedule be posted?"
+  },
+  "answer": {
+   "fr": "L'horaire des examens sera publié dans uoZone le 2 juin 2027 pour les sessions A et B, et le 14 juillet 2027 pour la session C.",
+   "en": "The exam schedule will be posted in uoZone on June 2, 2027 for sessions A and B, and on July 14, 2027 for session C."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Spring-summer 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/spring-summer-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-notes-ete-2027",
+  "category": "calendrier",
+  "keywords": [
+   "notes ete 2027",
+   "summer grades",
+   "notes officielles printemps ete",
+   "spring summer grades posted",
+   "statut scolaire ete",
+   "academic standing summer",
+   "quand notes ete",
+   "when summer grades",
+   "17 septembre",
+   "resultats ete"
+  ],
+  "question": {
+   "fr": "Quand les notes du printemps-été 2027 seront-elles officielles ?",
+   "en": "When will Spring-Summer 2027 grades become official?"
+  },
+  "answer": {
+   "fr": "Les notes finales du printemps-été 2027 seront officiellement publiées le 17 septembre 2027, et les statuts scolaires le 24 septembre. La date limite pour demander la révision d'une note d'examen final est le 1er octobre 2027.",
+   "en": "Final grades for Spring-Summer 2027 will be officially posted on September 17, 2027, and academic standings on September 24. The deadline to request a review of a final exam grade is October 1, 2027."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Spring-summer 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/spring-summer-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-dates-limites-ete-session-a",
+  "category": "calendrier",
+  "keywords": [
+   "session a ete",
+   "summer session a",
+   "abandon cours ete",
+   "drop summer course",
+   "date limite ete 2027",
+   "summer deadline",
+   "inscription session a",
+   "add drop summer",
+   "retrait cours ete",
+   "summer withdrawal"
+  ],
+  "question": {
+   "fr": "Quelles sont les dates limites d'inscription et d'abandon pour la session A du printemps-été 2027 ?",
+   "en": "What are the enrolment and withdrawal deadlines for Spring-Summer 2027 session A?"
+  },
+  "answer": {
+   "fr": "Pour la session A, du 3 mai au 23 juillet 2027, tu as jusqu'au 14 mai pour t'inscrire ou modifier tes cours. Tu peux abandonner avec crédit financier, s'il y a lieu, jusqu'au 21 mai, et sans crédit financier jusqu'au 9 juillet.",
+   "en": "For session A, from May 3 to July 23, 2027, you have until May 14 to enrol or change courses. You can withdraw with a financial credit, if applicable, until May 21, and without a financial credit until July 9."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Spring-summer 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/spring-summer-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-dates-limites-ete-sessions-b-c",
+  "category": "calendrier",
+  "keywords": [
+   "session b",
+   "session c",
+   "summer session b",
+   "summer session c",
+   "abandon session b",
+   "drop session c",
+   "cours intensif ete",
+   "date limite session c",
+   "ete 2027 date limite",
+   "summer deadlines b c"
+  ],
+  "question": {
+   "fr": "Quelles sont les dates limites pour les sessions B et C du printemps-été 2027 ?",
+   "en": "What are the deadlines for Spring-Summer 2027 sessions B and C?"
+  },
+  "answer": {
+   "fr": "Pour la session B, inscris-toi avant le 7 mai; l'abandon avec crédit financier est possible jusqu'au 12 mai et sans crédit jusqu'au 3 juin. Pour la session C, c'est le 25 juin pour l'inscription, le 30 juin pour l'abandon avec crédit et le 22 juillet sans crédit.",
+   "en": "For session B, enrol by May 7; you can withdraw with a financial credit until May 12 and without credit until June 3. For session C, it's June 25 to enrol, June 30 to withdraw with credit, and July 22 without credit."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Spring-summer 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/spring-summer-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-paiement-ete-2027",
+  "category": "calendrier",
+  "keywords": [
+   "payer droits ete",
+   "summer tuition deadline",
+   "frais de retard ete",
+   "late fees summer",
+   "paiement printemps ete 2027",
+   "pay summer fees",
+   "date limite paiement ete",
+   "tuition spring summer",
+   "21 mai",
+   "session c paiement"
+  ],
+  "question": {
+   "fr": "Quelle est la date limite pour payer mes droits du printemps-été 2027 sans frais de retard ?",
+   "en": "What is the deadline to pay Spring-Summer 2027 tuition without late fees?"
+  },
+  "answer": {
+   "fr": "Ça dépend de ta session : le 21 mai 2027 pour la session A et les autres sessions, le 12 mai pour la session B et le 30 juin pour la session C.",
+   "en": "It depends on your session: May 21, 2027 for session A and other sessions, May 12 for session B, and June 30 for session C."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Spring-summer 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/spring-summer-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-debut-automne-2027",
+  "category": "calendrier",
+  "keywords": [
+   "rentree 2027",
+   "fall 2027 start",
+   "debut cours automne 2027",
+   "first day of classes 2027",
+   "point de depart 2027",
+   "starting point 2027",
+   "septembre 2027",
+   "fin des cours automne 2027",
+   "last day of classes fall 2027",
+   "fall 2027 term dates"
+  ],
+  "question": {
+   "fr": "Quand commence et finit la session d'automne 2027 ?",
+   "en": "When does the Fall 2027 term start and end?"
+  },
+  "answer": {
+   "fr": "La journée Point de départ a lieu le 7 septembre 2027, sans cours. Les cours se donnent du 8 septembre au 8 décembre 2027, et le 8 décembre suit l'horaire du lundi pour remplacer l'Action de grâce.",
+   "en": "Starting Point is on September 7, 2027, with no classes. Classes run from September 8 to December 8, 2027, and December 8 follows the Monday schedule to make up for Thanksgiving."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Fall 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/fall-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-semaine-lecture-automne-2027",
+  "category": "calendrier",
+  "keywords": [
+   "semaine de lecture 2027",
+   "reading week fall 2027",
+   "conge octobre 2027",
+   "fall break 2027",
+   "relache automne 2027",
+   "semaine relache",
+   "action de grace 2027",
+   "thanksgiving 2027",
+   "fete du travail 2027",
+   "labour day 2027"
+  ],
+  "question": {
+   "fr": "C'est quand la semaine de lecture et les congés de l'automne 2027 ?",
+   "en": "When are reading week and the holidays in Fall 2027?"
+  },
+  "answer": {
+   "fr": "La semaine de lecture de l'automne 2027 va du 24 au 30 octobre, et aucun examen ni travail n'est dû pendant cette semaine. Les jours fériés sont la fête du Travail le 6 septembre et l'Action de grâce le 11 octobre.",
+   "en": "Fall 2027 reading week runs from October 24 to 30, and no exams or assignments are due that week. The statutory holidays are Labour Day on September 6 and Thanksgiving on October 11."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Fall 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/fall-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-dates-limites-automne-2027",
+  "category": "calendrier",
+  "keywords": [
+   "abandon automne 2027",
+   "drop deadline fall 2027",
+   "date limite inscription automne 2027",
+   "add drop fall 2027",
+   "retrait cours 2027",
+   "withdraw fall 2027",
+   "credit financier automne 2027",
+   "modifier cours automne 2027",
+   "19 novembre 2027",
+   "21 septembre 2027"
+  ],
+  "question": {
+   "fr": "Quelles sont les dates limites pour ajouter ou abandonner un cours à l'automne 2027 ?",
+   "en": "What are the deadlines to add or drop a course in Fall 2027?"
+  },
+  "answer": {
+   "fr": "Pour l'automne 2027, tu as jusqu'au 21 septembre pour t'inscrire ou changer tes cours. L'abandon avec crédit financier, s'il y a lieu, est possible jusqu'au 1er octobre, et sans crédit financier jusqu'au 19 novembre 2027.",
+   "en": "For Fall 2027, you have until September 21 to enrol or change your courses. You can withdraw with a financial credit, if applicable, until October 1, and without a financial credit until November 19, 2027."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Fall 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/fall-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-inscription-cours-automne-2027",
+  "category": "calendrier",
+  "keywords": [
+   "inscription cours 2027-2028",
+   "course registration 2027",
+   "quand m'inscrire automne 2027",
+   "when can i enrol fall 2027",
+   "horaire des cours 2027",
+   "course schedule posted",
+   "premiere annee inscription",
+   "enrolment dates by year",
+   "inscription deuxieme annee",
+   "inscription cycles superieurs 2027"
+  ],
+  "question": {
+   "fr": "Quand pourrai-je m'inscrire à mes cours pour l'année 2027-2028 ?",
+   "en": "When can I enrol in my courses for 2027-2028?"
+  },
+  "answer": {
+   "fr": "L'horaire des cours sera publié dans uoZone le 3 mai 2027. Au premier cycle, l'inscription ouvre à 8 h 30 le 26 mai pour la première année, le 1er juin pour la quatrième, le 8 juin pour la troisième et le 15 juin pour la deuxième année; aux cycles supérieurs, c'est le 22 juin.",
+   "en": "The course schedule will be posted in uoZone on May 3, 2027. For undergraduates, enrolment opens at 8:30 a.m. on May 26 for first year, June 1 for fourth year, June 8 for third year and June 15 for second year; graduate students start June 22."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Fall 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/fall-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-examens-automne-2027",
+  "category": "calendrier",
+  "keywords": [
+   "examens automne 2027",
+   "fall 2027 exams",
+   "periode examens decembre 2027",
+   "exam period december 2027",
+   "horaire examens automne 2027",
+   "notes automne 2027",
+   "fall 2027 grades",
+   "examens differes fevrier 2028",
+   "deferred exams february 2028",
+   "revision note automne 2027"
+  ],
+  "question": {
+   "fr": "Quelles sont les dates des examens et des notes pour l'automne 2027 ?",
+   "en": "What are the exam and grade dates for Fall 2027?"
+  },
+  "answer": {
+   "fr": "L'horaire sera publié le 18 octobre 2027 et les examens auront lieu du 9 au 22 décembre. Les notes officielles sortent le 18 janvier 2028, la révision de note se demande avant le 1er février, et les examens différés ont lieu du 20 au 26 février 2028.",
+   "en": "The schedule will be posted on October 18, 2027 and exams will take place from December 9 to 22. Official grades come out on January 18, 2028, grade reviews must be requested by February 1, and deferred exams take place from February 20 to 26, 2028."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Fall 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/fall-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-conge-fetes-2027",
+  "category": "calendrier",
+  "keywords": [
+   "conge des fetes 2027",
+   "holiday break 2027",
+   "fermeture noel 2027",
+   "university closed christmas 2027",
+   "vacances de noel",
+   "winter break 2027",
+   "fermeture universite decembre",
+   "retour janvier 2028",
+   "christmas closure",
+   "noel universite fermee"
+  ],
+  "question": {
+   "fr": "Quand l'Université sera-t-elle fermée pour les Fêtes en 2027 ?",
+   "en": "When will the University be closed for the 2027 holidays?"
+  },
+  "answer": {
+   "fr": "L'Université sera fermée de 17 h le 22 décembre 2027 jusqu'à 8 h 45 le 3 janvier 2028. Les cours d'hiver reprennent ensuite le 10 janvier 2028.",
+   "en": "The University will be closed from 5 p.m. on December 22, 2027 until 8:45 a.m. on January 3, 2028. Winter classes then start on January 10, 2028."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Fall 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/fall-2027"
+   },
+   {
+    "label": "Important academic dates and deadlines - Winter 2028 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2028"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-hiver-2028",
+  "category": "calendrier",
+  "keywords": [
+   "hiver 2028",
+   "winter 2028",
+   "debut cours janvier 2028",
+   "semaine de lecture 2028",
+   "reading week 2028",
+   "jour de la famille 2028",
+   "family day 2028",
+   "paques 2028",
+   "easter 2028",
+   "fin des cours avril 2028"
+  ],
+  "question": {
+   "fr": "Quelles sont les dates principales de la session d'hiver 2028 ?",
+   "en": "What are the main dates of the Winter 2028 term?"
+  },
+  "answer": {
+   "fr": "Les cours d'hiver 2028 vont du 10 janvier au 8 avril. La semaine de lecture a lieu du 20 au 26 février, le jour de la Famille est le 21 février et le congé de Pâques va du 14 au 17 avril.",
+   "en": "Winter 2028 classes run from January 10 to April 8. Reading week is February 20 to 26, Family Day is February 21, and the Easter break is April 14 to 17."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Winter 2028 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2028"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-examens-hiver-2028",
+  "category": "calendrier",
+  "keywords": [
+   "examens hiver 2028",
+   "winter 2028 exams",
+   "examens avril 2028",
+   "april 2028 exams",
+   "notes hiver 2028",
+   "winter 2028 grades",
+   "horaire examens fevrier 2028",
+   "examens differes juillet 2028",
+   "deferred exams july 2028",
+   "abandon hiver 2028"
+  ],
+  "question": {
+   "fr": "Quelles sont les dates d'examens et les dates limites de l'hiver 2028 ?",
+   "en": "What are the exam dates and deadlines for Winter 2028?"
+  },
+  "answer": {
+   "fr": "L'horaire sera publié le 14 février 2028 et les examens auront lieu du 11 au 28 avril. Les notes officielles sortent le 16 mai, et les examens différés ont lieu du 9 au 15 juillet 2028. Pour abandonner un cours sans crédit financier, la limite est le 24 mars 2028.",
+   "en": "The schedule will be posted on February 14, 2028 and exams will run from April 11 to 28. Official grades come out on May 16, and deferred exams take place from July 9 to 15, 2028. The deadline to withdraw from a course without a financial credit is March 24, 2028."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Winter 2028 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2028"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-differes-anatomie-anp",
+  "category": "calendrier",
+  "keywords": [
+   "anp",
+   "anatomie",
+   "anatomy exam",
+   "examen differe anatomie",
+   "supplemental anatomy",
+   "anp 1000",
+   "examen de reprise anp",
+   "anatomy deferred",
+   "note e anatomie",
+   "physiologie anp"
+  ],
+  "question": {
+   "fr": "Quand ont lieu les examens différés et supplémentaires des cours d'anatomie ANP ?",
+   "en": "When are deferred and supplemental exams for ANP anatomy courses held?"
+  },
+  "answer": {
+   "fr": "Pour les cours ANP de niveau 1000, la période d'examens différés et supplémentaires de l'automne 2026 va du 14 au 20 février 2027, et celle de l'hiver 2027 du 1er au 10 juin 2027. Communique avec ta faculté pour la date exacte.",
+   "en": "For 1000-level ANP courses, the deferred and supplemental exam period for Fall 2026 is February 14 to 20, 2027, and for Winter 2027 it's June 1 to 10, 2027. Contact your faculty for the exact date."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines - Fall 2026 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/fall-2026"
+   },
+   {
+    "label": "Important academic dates and deadlines - Winter 2027 — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-fetes-religieuses-hiver-2027",
+  "category": "calendrier",
+  "keywords": [
+   "fete religieuse hiver 2027",
+   "religious holidays 2027",
+   "aid al fitr 2027",
+   "eid 2027",
+   "nouvel an lunaire 2027",
+   "lunar new year 2027",
+   "nouvel an chinois",
+   "chinese new year",
+   "noel orthodoxe",
+   "orthodox christmas",
+   "pourim",
+   "holi 2027"
+  ],
+  "question": {
+   "fr": "Quand tombent certaines fêtes religieuses pendant l'hiver 2027 ?",
+   "en": "When do some religious holidays fall during Winter 2027?"
+  },
+  "answer": {
+   "fr": "Selon la liste de l'Université, le Noël orthodoxe est les 6 et 7 janvier, le Nouvel An lunaire le 6 février, l'Aïd al-Fitr le 10 mars et le Vendredi saint le 26 mars 2027. Les dates de l'Aïd sont confirmées à la dernière minute selon la lune, et un accommodement se demande selon le règlement A-5.",
+   "en": "According to the University's list, Orthodox Christmas is January 6 to 7, Lunar New Year is February 6, Eid al-Fitr is March 10 and Good Friday is March 26, 2027. Eid dates are confirmed at the last minute based on the moon, and accommodations are requested under Regulation A-5."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-hanoucca-2026",
+  "category": "calendrier",
+  "keywords": [
+   "hanoucca",
+   "hanukkah",
+   "chanukah",
+   "fete juive decembre",
+   "jewish holiday december",
+   "hanoukka 2026",
+   "fete religieuse examen decembre",
+   "religious holiday exam",
+   "accommodement hanoucca",
+   "noel 2026"
+  ],
+  "question": {
+   "fr": "Quand est Hanoucca en 2026, pendant les examens ?",
+   "en": "When is Hanukkah in 2026, during exams?"
+  },
+  "answer": {
+   "fr": "Selon la liste des fêtes religieuses de l'Université, Hanoucca a lieu du 4 au 12 décembre 2026 et commence au coucher du soleil la veille. Si ça entre en conflit avec un examen final, tu dois demander un accommodement religieux dans les cinq jours ouvrables suivant la publication de l'horaire.",
+   "en": "According to the University's list of religious holidays, Hanukkah is December 4 to 12, 2026, starting at sundown the evening before. If it conflicts with a final exam, you must request a religious accommodation within five working days of the exam schedule being posted."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines — uOttawa",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines"
+   },
+   {
+    "label": "Exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-horaire-examen-change",
+  "category": "examens",
+  "keywords": [
+   "horaire examen change",
+   "exam time changed",
+   "local examen change",
+   "exam room changed",
+   "verifier horaire examen",
+   "check exam schedule",
+   "my exam schedule",
+   "ou est mon examen",
+   "where is my exam",
+   "salle d'examen",
+   "section de cours examen"
+  ],
+  "question": {
+   "fr": "L'heure ou le local de mon examen peut-il changer après la publication de l'horaire ?",
+   "en": "Can my exam time or room change after the schedule is posted?"
+  },
+  "answer": {
+   "fr": "Oui, les heures et les locaux peuvent changer après la première publication. Vérifie régulièrement ton horaire dans uoZone, sous Applications, Mon horaire d'examens, en regardant bien la section de ton cours.",
+   "en": "Yes, exam times and locations can change after the initial posting. Check your schedule regularly in uoZone, under Applications, My Exam Schedule, and make sure you look at your specific course section."
+  },
+  "sources": [
+   {
+    "label": "Exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-examen-absent-horaire",
+  "category": "examens",
+  "keywords": [
+   "examen pas dans horaire",
+   "exam not in schedule",
+   "examen introuvable uozone",
+   "exam missing uozone",
+   "cours cycles superieurs examen",
+   "graduate course exam",
+   "programme professionnel examen",
+   "professional program exam",
+   "horaire examen faculte",
+   "exam not listed"
+  ],
+  "question": {
+   "fr": "Mon examen n'apparaît pas dans mon horaire d'examens : est-ce normal ?",
+   "en": "My exam doesn't appear in my exam schedule: is that normal?"
+  },
+  "answer": {
+   "fr": "Ça peut arriver : certains cours des cycles supérieurs et des programmes professionnels n'apparaissent pas dans l'horaire central, et certains programmes ont leur propre horaire. Dans ce cas, communique avec ta faculté ou ton école, ou consulte son site.",
+   "en": "It can happen: some graduate and professional courses don't appear in the central schedule, and some programs have their own exam schedule. In that case, contact your faculty or school, or check its website."
+  },
+  "sources": [
+   {
+    "label": "Exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-probleme-technique-examen-ligne",
+  "category": "examens",
+  "keywords": [
+   "probleme technique examen",
+   "technical problem exam",
+   "examen en ligne bug",
+   "online exam not working",
+   "brightspace panne",
+   "brightspace down",
+   "service desk ti",
+   "it help exam",
+   "internet coupe examen",
+   "connexion examen en ligne",
+   "aide technique examen"
+  ],
+  "question": {
+   "fr": "J'ai un problème technique pendant un examen en ligne : que faire ?",
+   "en": "I have a technical problem during an online exam: what should I do?"
+  },
+  "answer": {
+   "fr": "Contacte d'abord ton professeur immédiatement. Si le problème persiste, joins le Centre de services TI au 613-562-5800, poste 5000, ou par clavardage; pour Brightspace, de l'aide est offerte en tout temps au 1-866-811-3201.",
+   "en": "Contact your professor right away first. If the problem persists, reach the IT Service Desk at 613-562-5800, ext. 5000, or by chat; for Brightspace, help is available at any time at 1-866-811-3201."
+  },
+  "sources": [
+   {
+    "label": "Exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-heures-service-ti-examens",
+  "category": "examens",
+  "keywords": [
+   "heures service ti",
+   "it service desk hours",
+   "soutien ti fin de semaine",
+   "it support weekend",
+   "aide informatique examen",
+   "computer help exam",
+   "heures centre services ti",
+   "tech support hours",
+   "ti samedi",
+   "it help sunday"
+  ],
+  "question": {
+   "fr": "Quelles sont les heures du soutien informatique pendant les examens ?",
+   "en": "What are the IT support hours during exams?"
+  },
+  "answer": {
+   "fr": "Le Centre de services TI répond du lundi au vendredi de 8 h 15 à 20 h, et le samedi et le dimanche de 11 h à 16 h. Pour Brightspace, tu peux obtenir de l'aide en tout temps par clavardage ou au 1-866-811-3201.",
+   "en": "The IT Service Desk is available Monday to Friday from 8:15 a.m. to 8 p.m., and Saturday and Sunday from 11 a.m. to 4 p.m. For Brightspace, you can get help at any time by chat or at 1-866-811-3201."
+  },
+  "sources": [
+   {
+    "label": "Exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-preparer-examen-ligne",
+  "category": "examens",
+  "keywords": [
+   "preparer examen en ligne",
+   "prepare online exam",
+   "tester plateforme examen",
+   "test exam platform",
+   "examen en ligne conseils",
+   "online exam tips",
+   "verifier connexion internet",
+   "check internet before exam",
+   "plateforme examen",
+   "login examen"
+  ],
+  "question": {
+   "fr": "Comment me préparer à un examen en ligne ?",
+   "en": "How do I prepare for an online exam?"
+  },
+  "answer": {
+   "fr": "Demande à ton professeur à quoi t'attendre et familiarise-toi avec la plateforme utilisée, qui n'est pas toujours la même pour tous tes examens. Fais quelques tests avant le jour J pour vérifier ta connexion, ton compte et ton accès Internet.",
+   "en": "Ask your professor what to expect and get familiar with the platform being used, which may not be the same for all your exams. Do a few tests before exam day to check your login, account and Internet connection."
+  },
+  "sources": [
+   {
+    "label": "Exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-alerte-incendie-examen",
+  "category": "examens",
+  "keywords": [
+   "alarme incendie examen",
+   "fire alarm exam",
+   "alerte a la bombe",
+   "bomb threat exam",
+   "evacuation examen",
+   "exam evacuation",
+   "examen interrompu",
+   "exam interrupted",
+   "examen suspendu",
+   "exam suspended"
+  ],
+  "question": {
+   "fr": "Que se passe-t-il s'il y a une alarme d'incendie ou une alerte à la bombe pendant un examen ?",
+   "en": "What happens if there's a fire alarm or bomb threat during an exam?"
+  },
+  "answer": {
+   "fr": "C'est le Service de la protection qui décide d'évacuer les salles et de permettre le retour. L'examen peut reprendre dès que tout le monde revient, ou être suspendu; dans ce cas, la faculté décide quand il sera repris.",
+   "en": "Protection Services decides when to evacuate exam rooms and when people can go back in. The exam may resume as soon as everyone re-enters, or be suspended; in that case, the faculty decides when it will be rescheduled."
+  },
+  "sources": [
+   {
+    "label": "Exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-surveillant-absent",
+  "category": "examens",
+  "keywords": [
+   "surveillant absent",
+   "proctor absent",
+   "surveillant pas arrive",
+   "chief proctor missing",
+   "examen sans surveillant",
+   "no invigilator",
+   "examen annule surveillant",
+   "invigilator late",
+   "responsable examen absent",
+   "copies d'examen"
+  ],
+  "question": {
+   "fr": "Que se passe-t-il si le surveillant en chef ne peut pas se rendre à l'examen ?",
+   "en": "What happens if the chief proctor can't make it to the exam?"
+  },
+  "answer": {
+   "fr": "L'examen a lieu quand même : des copies sont toujours disponibles au secrétariat de la faculté, avec les instructions pour le faire passer.",
+   "en": "The exam still goes ahead: copies are always available at the faculty secretariat, with instructions on how to administer it."
+  },
+  "sources": [
+   {
+    "label": "Exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-evenement-hors-controle-examen",
+  "category": "examens",
+  "keywords": [
+   "evenement hors de mon controle",
+   "event beyond control exam",
+   "pont ferme examen",
+   "bridge closed exam",
+   "manque examen tempete",
+   "missed exam storm",
+   "examen special",
+   "special exam",
+   "transport bloque examen",
+   "retard tempete examen"
+  ],
+  "question": {
+   "fr": "J'ai manqué un examen à cause d'un événement hors de mon contrôle reconnu par l'Université : que se passe-t-il ?",
+   "en": "I missed an exam because of an event recognized by the University as beyond my control: what happens?"
+  },
+  "answer": {
+   "fr": "Si le provost reconnaît l'événement comme hors du contrôle des étudiants, la faculté, avec le professeur, organise un examen spécial et t'en informe le plus tôt possible. Ceux qui sont présents peuvent écrire l'examen, et le surveillant doit être tolérant envers les retards.",
+   "en": "If the Provost recognizes the event as beyond students' control, the faculty, with the professor, arranges a special exam and informs you as soon as possible. Students who are present may write the exam, and the proctor should be tolerant of late arrivals."
+  },
+  "sources": [
+   {
+    "label": "Exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-accommodement-religieux-pendant-examen",
+  "category": "examens",
+  "keywords": [
+   "priere pendant examen",
+   "prayer during exam",
+   "accommodement religieux pendant examen",
+   "religious accommodation during exam",
+   "pause priere examen",
+   "prayer break exam",
+   "jeune examen",
+   "fasting exam",
+   "ramadan examen",
+   "religion examen en cours"
+  ],
+  "question": {
+   "fr": "Puis-je obtenir un accommodement religieux pendant que j'écris un examen ?",
+   "en": "Can I get a religious accommodation while I'm writing an exam?"
+  },
+  "answer": {
+   "fr": "Non, aucun accommodement religieux n'est accordé pendant l'examen lui-même. Tu dois faire ta demande à l'avance selon le règlement A-5, soit dans les cinq jours ouvrables suivant la publication de l'horaire pour un examen final.",
+   "en": "No, religious accommodations can't be given during the exam itself. You must make your request in advance under Regulation A-5, which means within five working days of the exam schedule being posted for a final exam."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   },
+   {
+    "label": "Academic Regulation A-5 Religious Accommodations — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-5-religious-accommodations"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-accommodement-religieux-desaccord",
+  "category": "examens",
+  "keywords": [
+   "accommodement religieux refuse",
+   "religious accommodation refused",
+   "prof refuse accommodement",
+   "professor refuses accommodation",
+   "vice-doyen accommodement",
+   "vice-dean religious",
+   "desaccord accommodement",
+   "appeal religious accommodation",
+   "decision accommodement religieux",
+   "fete religieuse conflit"
+  ],
+  "question": {
+   "fr": "Mon professeur et moi ne nous entendons pas sur un accommodement religieux : que faire ?",
+   "en": "My professor and I can't agree on a religious accommodation: what should I do?"
+  },
+  "answer": {
+   "fr": "Si vous ne trouvez pas de solution dans un délai raisonnable, envoie tout de suite une demande écrite au vice-doyen aux études de premier cycle ou supérieures, ou à la personne désignée par ta faculté. Cette personne rend une décision finale, habituellement par écrit dans les deux semaines.",
+   "en": "If you can't reach a solution within a reasonable time, immediately send a written request to the vice-dean of undergraduate or graduate studies, or the person designated by your faculty. They make a final decision, usually in writing within two weeks."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-5 Religious Accommodations — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-5-religious-accommodations"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-malaise-pendant-examen",
+  "category": "examens",
+  "keywords": [
+   "malade pendant examen",
+   "sick during exam",
+   "malaise examen",
+   "felt ill during exam",
+   "quitter examen malade",
+   "leave exam sick",
+   "urgence medicale examen",
+   "medical emergency exam",
+   "arreter examen",
+   "stop writing exam"
+  ],
+  "question": {
+   "fr": "Je me sens très mal pendant un examen : est-ce que je peux arrêter ?",
+   "en": "I feel very sick during an exam: can I stop?"
+  },
+  "answer": {
+   "fr": "Si ton état se détériore au point d'avoir besoin de soins immédiats ou d'urgence, avise le surveillant; la faculté organisera l'évaluation. Tu dois ensuite remplir la déclaration d'absence dans les trois jours ouvrables avec un document médical.",
+   "en": "If your health deteriorates to the point of needing immediate or emergency medical attention, tell the proctor; the faculty will arrange the evaluation. You must then fill out the declaration of absence within three business days, with medical documentation."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-ecrire-examen-malade",
+  "category": "examens",
+  "keywords": [
+   "ecrire examen malade",
+   "write exam while sick",
+   "examen avec certificat medical",
+   "exam with medical note",
+   "contester note maladie",
+   "appeal grade illness",
+   "j'ai ecrit malade",
+   "wrote exam sick",
+   "faire examen quand meme malade",
+   "sick but wrote exam"
+  ],
+  "question": {
+   "fr": "J'ai écrit mon examen même si j'étais malade : puis-je contester ma note pour ça ?",
+   "en": "I wrote my exam even though I was sick: can I appeal my grade because of it?"
+  },
+  "answer": {
+   "fr": "Non. Si tu écris un examen pendant la période de maladie indiquée sur ton certificat ou ton formulaire, tu ne pourras pas invoquer ta santé pour faire appel de ton résultat ou demander un examen différé. Évalue ton état avant de commencer.",
+   "en": "No. If you write an exam during the period of illness indicated on your certificate or form, you can't use your health to appeal your result or request a deferred exam. Assess your condition before you start."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   },
+   {
+    "label": "Final and deferred exams - Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/student-hub/final-deferred-exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-remboursement-frais-absence",
+  "category": "examens",
+  "keywords": [
+   "remboursement 60 $",
+   "refund declaration fee",
+   "frais declaration absence rembourse",
+   "declaration of absence refund",
+   "frais administratifs absence",
+   "administrative fee exam",
+   "frais 60 dollars",
+   "fee waived disability",
+   "remboursement frais examen",
+   "rembourser declaration"
+  ],
+  "question": {
+   "fr": "Les frais de 60 $ de la déclaration d'absence peuvent-ils être remboursés ?",
+   "en": "Can the $60 declaration of absence fee be refunded?"
+  },
+  "answer": {
+   "fr": "Seulement dans des situations très exceptionnelles. Certains remboursements sont automatiques, par exemple quand l'absence est liée à un handicap reconnu par le Service d'accommodements scolaires ou dans des cas graves déterminés par les unités. Les frais apparaissent sur ton relevé de compte environ 24 heures après l'envoi.",
+   "en": "Only in highly exceptional situations. Some refunds are automatic, for example when the absence is related to a disability recognized by the Academic Accommodations Service or in serious cases determined by the units. The fee shows up on your statement of account about 24 hours after you submit."
+  },
+  "sources": [
+   {
+    "label": "Declaration of absence from an examination — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams/declaration-absence-examination"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-absence-quiz-labo",
+  "category": "examens",
+  "keywords": [
+   "absence quiz",
+   "missed quiz",
+   "absence labo",
+   "missed lab",
+   "travail en retard",
+   "late assignment",
+   "absence cours",
+   "missed class",
+   "declaration absence quiz",
+   "remise tardive"
+  ],
+  "question": {
+   "fr": "J'ai manqué un quiz ou un labo, ou je remets un travail en retard : dois-je remplir la déclaration d'absence ?",
+   "en": "I missed a quiz or lab, or I'm handing in an assignment late: do I fill out the declaration of absence?"
+  },
+  "answer": {
+   "fr": "Non, la déclaration d'absence sert seulement aux examens de mi-session et finaux. Pour un cours, un labo, un quiz ou un travail en retard, communique avec ton professeur et suis les règles du plan de cours.",
+   "en": "No, the declaration of absence is only for midterm and final exams. For a missed class, lab, quiz or late assignment, contact your instructor and follow the rules in the course syllabus."
+  },
+  "sources": [
+   {
+    "label": "Declaration of absence from an examination — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams/declaration-absence-examination"
+   },
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-qui-contacte-apres-declaration",
+  "category": "examens",
+  "keywords": [
+   "apres declaration absence",
+   "after declaration of absence",
+   "qui me contacte examen differe",
+   "who contacts me deferred exam",
+   "bureau des etudes contacte",
+   "academic office will contact",
+   "suivi declaration",
+   "follow up deferral",
+   "contacter professeur differe",
+   "differe mi-session"
+  ],
+  "question": {
+   "fr": "Après avoir rempli la déclaration d'absence, qui va me contacter ?",
+   "en": "After filling out the declaration of absence, who will contact me?"
+  },
+  "answer": {
+   "fr": "Ça dépend de la faculté qui offre le cours. Par exemple, en arts, en génie et en sciences, pour une mi-session tu contactes ton professeur, et pour un examen final c'est le bureau des études qui te contacte. En éducation et en sciences de la santé, contacte le professeur.",
+   "en": "It depends on the faculty offering the course. For example, in Arts, Engineering and Science, for a midterm you contact your professor, and for a final exam the academic office contacts you. In Education and Health Sciences, contact the professor."
+  },
+  "sources": [
+   {
+    "label": "Declaration of absence from an examination — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams/declaration-absence-examination"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-delai-examen-differe",
+  "category": "examens",
+  "keywords": [
+   "delai examen differe",
+   "deferred exam deadline",
+   "combien de temps pour examen differe",
+   "how long deferred exam",
+   "six mois differe",
+   "6 months deferred",
+   "trois mois cycles superieurs",
+   "differe cycles superieurs",
+   "when must deferred exam be written",
+   "differe au plus tard"
+  ],
+  "question": {
+   "fr": "Dans quel délai dois-je écrire un examen final différé ?",
+   "en": "How soon do I have to write a deferred final exam?"
+  },
+  "answer": {
+   "fr": "L'évaluation différée doit avoir lieu le plus tôt possible, mais au plus tard six mois après la fin du trimestre au premier cycle, et trois mois aux cycles supérieurs.",
+   "en": "The deferred evaluation must take place as soon as possible, but no later than six months after the end of the term for undergraduates, and three months for graduate students."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-absences-frequentes-examens",
+  "category": "examens",
+  "keywords": [
+   "plusieurs declarations absence",
+   "many declarations of absence",
+   "absences frequentes examens",
+   "frequently absent exams",
+   "rencontre suivi faculte",
+   "follow-up meeting faculty",
+   "deuxieme declaration",
+   "second declaration",
+   "trop d'absences",
+   "too many absences"
+  ],
+  "question": {
+   "fr": "Que se passe-t-il si je remplis souvent des déclarations d'absence ?",
+   "en": "What happens if I often submit declarations of absence?"
+  },
+  "answer": {
+   "fr": "Si tu fais plus d'une déclaration dans un trimestre ou si tu t'absentes souvent aux examens, ta faculté peut te convoquer à une rencontre de suivi pour t'aider à réussir. Une deuxième absence dans le même cours peut aussi mener à autre chose qu'un examen différé, comme un retrait rétroactif.",
+   "en": "If you submit more than one declaration in a term or are often absent from exams, your faculty may call you to a follow-up meeting to support your success. A second absence in the same course may also lead to an outcome other than a deferred exam, such as a retroactive withdrawal."
+  },
+  "sources": [
+   {
+    "label": "Declaration of absence from an examination — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams/declaration-absence-examination"
+   },
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-maladie-chronique-examen",
+  "category": "examens",
+  "keywords": [
+   "maladie chronique examen",
+   "chronic illness exam",
+   "accommodement retroactif",
+   "retroactive accommodation",
+   "sante mentale examen",
+   "mental health exam",
+   "maladie mineure examen differe",
+   "minor illness deferral",
+   "crise maladie chronique",
+   "flare-up exam"
+  ],
+  "question": {
+   "fr": "J'ai une maladie chronique : est-ce une raison acceptée pour différer un examen ?",
+   "en": "I have a chronic illness: is that an accepted reason to defer an exam?"
+  },
+  "answer": {
+   "fr": "Les maladies mineures et les maladies chroniques suivies médicalement ne sont normalement pas des motifs pour différer un examen. Par contre, un épisode imprévisible lié à une maladie chronique connue peut mener à un accommodement rétroactif, examiné avec un certificat médical; idéalement, inscris-toi au Service d'accommodements scolaires.",
+   "en": "Minor illnesses and chronic illnesses under medical management are normally not grounds for deferring an exam. However, an unforeseeable episode related to a known chronic illness can lead to a retroactive accommodation, reviewed with a medical certificate; ideally, register with the Academic Accommodations Service."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-certificat-medical-contenu",
+  "category": "examens",
+  "keywords": [
+   "contenu certificat medical",
+   "medical certificate content",
+   "billet du medecin",
+   "doctor's note",
+   "diagnostic certificat",
+   "diagnosis medical note",
+   "lettre service counselling",
+   "counselling letter",
+   "certificat valide",
+   "medical note requirements"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que mon certificat médical doit contenir pour un examen manqué ?",
+   "en": "What must my medical certificate include for a missed exam?"
+  },
+  "answer": {
+   "fr": "Il doit indiquer ton nom, la période d'absence, la date de retour aux études, la date de la consultation et la signature du professionnel de la santé. Le diagnostic n'a pas à y figurer, et une lettre du Service de counselling de l'Université est aussi acceptée.",
+   "en": "It must show your name, the period of absence, your return date, the date of the medical appointment and the health-care professional's signature. The diagnosis doesn't need to be included, and a letter from uOttawa's Counselling Services is also accepted."
+  },
+  "sources": [
+   {
+    "label": "Declaration of absence from an examination — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams/declaration-absence-examination"
+   },
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-raisons-acceptees-differe",
+  "category": "examens",
+  "keywords": [
+   "deces famille examen",
+   "death in family exam",
+   "certificat de deces",
+   "death certificate",
+   "avis de deces",
+   "obituary",
+   "raison valable examen differe",
+   "valid reason deferral",
+   "funerailles examen",
+   "funeral exam"
+  ],
+  "question": {
+   "fr": "Un décès dans ma famille est-il une raison acceptée pour différer un examen final ?",
+   "en": "Is a death in my family an accepted reason to defer a final exam?"
+  },
+  "answer": {
+   "fr": "Oui. En sciences et en génie, le décès d'un membre de la famille immédiate est accepté, justifié par un certificat de décès ou un avis de décès. Déclare ton absence avec le formulaire dans les délais prévus.",
+   "en": "Yes. In Science and Engineering, the death of an immediate family member is accepted, justified by a death certificate or an obituary notice. Report your absence with the form within the required time."
+  },
+  "sources": [
+   {
+    "label": "Final and deferred exams - Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/student-hub/final-deferred-exams"
+   },
+   {
+    "label": "Deferring a final exam - Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/student-hub/exam-schedule/deferring-final-exam"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-differe-diplome-juin",
+  "category": "examens",
+  "keywords": [
+   "differe diplome juin",
+   "defer exam graduating",
+   "finissant examen differe",
+   "graduating student deferred",
+   "collation juin examen differe",
+   "june convocation deferred",
+   "diplome automne differe",
+   "graduate in fall deferral",
+   "differe juillet",
+   "july deferred exam"
+  ],
+  "question": {
+   "fr": "Je termine en avril : si je diffère un examen final, pourrai-je recevoir mon diplôme en juin ?",
+   "en": "I finish in April: if I defer a final exam, can I graduate in June?"
+  },
+  "answer": {
+   "fr": "En sciences et en génie, non : la période d'examens différés de l'hiver a lieu en juillet, alors tu ne pourras plus recevoir ton diplôme en juin. Ton grade pourra être conféré à l'automne.",
+   "en": "In Science and Engineering, no: the winter deferred exam period is in July, so you won't be able to graduate in June. Your degree can be conferred in the fall."
+  },
+  "sources": [
+   {
+    "label": "Final and deferred exams - Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/student-hub/final-deferred-exams"
+   },
+   {
+    "label": "Deferring a final exam - Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/student-hub/exam-schedule/deferring-final-exam"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-calculatrices-sciences",
+  "category": "examens",
+  "keywords": [
+   "calculatrice permise",
+   "allowed calculator",
+   "calculatrice examen sciences",
+   "science exam calculator",
+   "ti-30",
+   "ti-34",
+   "casio fx-260",
+   "casio fx-300",
+   "calculator rules",
+   "calculatrice approuvee"
+  ],
+  "question": {
+   "fr": "Quelles calculatrices sont permises aux examens finaux de la Faculté des sciences ?",
+   "en": "Which calculators are allowed in Faculty of Science final exams?"
+  },
+  "answer": {
+   "fr": "Seulement les Texas Instruments TI-30 et TI-34, et les Casio fx-260 et fx-300. Pour les autres cours, c'est ta responsabilité de vérifier ce qui est permis pour chaque examen.",
+   "en": "Only the Texas Instruments TI-30 and TI-34, and the Casio fx-260 and fx-300. For other courses, it's your responsibility to check what's allowed for each exam."
+  },
+  "sources": [
+   {
+    "label": "Final and deferred exams - Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/student-hub/final-deferred-exams"
+   },
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-conflit-examens-delai",
+  "category": "examens",
+  "keywords": [
+   "conflit d'examens delai",
+   "exam conflict notice",
+   "signaler conflit examen",
+   "report exam conflict",
+   "trois examens",
+   "three exams in a row",
+   "quatre blocs consecutifs",
+   "four consecutive blocks",
+   "24 heures trois examens",
+   "sept jours ouvrables"
+  ],
+  "question": {
+   "fr": "Combien de temps à l'avance dois-je signaler un conflit d'examens finaux ?",
+   "en": "How far in advance must I report a final exam conflict?"
+  },
+  "answer": {
+   "fr": "Avise ta faculté au moins sept jours ouvrables avant le premier examen en conflit; elle décidera quel examen sera différé. En sciences et en génie, trois examens dans quatre blocs consécutifs comptent comme conflit, et en arts, trois examens en 24 heures; les examens maison et projets finaux ne comptent pas.",
+   "en": "Notify your faculty at least seven business days before the first exam in conflict; it will decide which exam is deferred. In Science and Engineering, three exams within four consecutive blocks count as a conflict, and in Arts, three exams within 24 hours; take-home exams and final projects don't count."
+  },
+  "sources": [
+   {
+    "label": "Final and deferred exams - Faculty of Science — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/student-hub/final-deferred-exams"
+   },
+   {
+    "label": "Deferring a final exam - Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/student-hub/exam-schedule/deferring-final-exam"
+   },
+   {
+    "label": "Deferred exams schedule - Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/student-life-services/deferred-exams-schedule"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-genie-un-differe-par-cours",
+  "category": "examens",
+  "keywords": [
+   "genie examen differe",
+   "engineering deferred exam",
+   "combien d'examens differes",
+   "how many deferred exams",
+   "un differe par cours",
+   "one deferral per course",
+   "bureau des etudes genie",
+   "engineering academic office",
+   "differe gng",
+   "differe csi"
+  ],
+  "question": {
+   "fr": "En génie, combien d'évaluations différées puis-je demander par cours ?",
+   "en": "In Engineering, how many deferred evaluations can I request per course?"
+  },
+  "answer": {
+   "fr": "Tu peux demander au maximum une évaluation différée par cours, à écrire le plus tôt possible et dans les six mois suivant la fin du trimestre. Les examens différés de génie ont lieu pendant la période d'examens différés du calendrier.",
+   "en": "You can request a maximum of one deferred evaluation per course, to be written as soon as possible and within six months after the end of the term. Engineering deferred exams take place during the deferred exam period in the calendar."
+  },
+  "sources": [
+   {
+    "label": "Deferring a final exam - Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/student-hub/exam-schedule/deferring-final-exam"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-genie-horaire-differes",
+  "category": "examens",
+  "keywords": [
+   "horaire examens genie",
+   "engineering exam schedule",
+   "horaire examens differes genie",
+   "engineering deferred exam schedule",
+   "differes octobre fevrier juillet",
+   "deferred october february july",
+   "examen differe decembre",
+   "deferred exam december",
+   "genie horaire change",
+   "engineering schedule changes"
+  ],
+  "question": {
+   "fr": "Où voir l'horaire des examens finaux et différés de la Faculté de génie ?",
+   "en": "Where can I see the Faculty of Engineering's final and deferred exam schedule?"
+  },
+  "answer": {
+   "fr": "Les horaires sont affichés sur le site de la Faculté de génie et peuvent changer sans préavis jusqu'à 48 heures avant l'examen, alors vérifie-les souvent. L'horaire des différés couvre ceux d'octobre, de février et de juillet; pour les différés de décembre et d'avril, consulte l'horaire des examens finaux.",
+   "en": "Schedules are posted on the Faculty of Engineering website and can change without notice up to 48 hours before the exam, so check them often. The deferred schedule covers October, February and July; for deferred exams in December and April, check the final exam schedule."
+  },
+  "sources": [
+   {
+    "label": "Exam schedule - Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/student-hub/exam-schedule"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-arts-examen-maison-differe",
+  "category": "examens",
+  "keywords": [
+   "examen maison differe",
+   "take-home exam deferred",
+   "arts examen maison",
+   "arts take home",
+   "5 jours ouvrables",
+   "five business days",
+   "differe arts",
+   "arts deferral",
+   "faculte des arts examen",
+   "travail final differe"
+  ],
+  "question": {
+   "fr": "En arts, comment fonctionne le report d'un examen maison final ?",
+   "en": "In Arts, how does deferring a take-home final exam work?"
+  },
+  "answer": {
+   "fr": "Pour un examen maison final dans un cours de premier cycle des arts, on t'accorde cinq jours ouvrables de plus à partir de la date d'évaluation de ta demande. Le Bureau des études de premier cycle te contactera pour le suivi.",
+   "en": "For a take-home final exam in an undergraduate Arts course, you get five more business days from the date your request is evaluated. The Undergraduate Studies Office will contact you to follow up."
+  },
+  "sources": [
+   {
+    "label": "Deferred exams schedule - Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/student-life-services/deferred-exams-schedule"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-arts-re-differe",
+  "category": "examens",
+  "keywords": [
+   "re-differe",
+   "re-deferral",
+   "manquer examen differe",
+   "missed deferred exam",
+   "malade examen differe",
+   "sick deferred exam",
+   "nouvelle declaration differe",
+   "new declaration deferred",
+   "differe une deuxieme fois",
+   "defer again"
+  ],
+  "question": {
+   "fr": "J'ai manqué mon examen différé : est-ce que je peux le reporter encore ?",
+   "en": "I missed my deferred exam: can I defer it again?"
+  },
+  "answer": {
+   "fr": "Pour un cours de premier cycle offert par la Faculté des arts, tu dois remplir une nouvelle déclaration d'absence dans les trois jours ouvrables suivant la date de l'examen différé, avec des pièces justificatives. Le Bureau des études te contactera; dans les autres facultés, vérifie auprès de la faculté du cours.",
+   "en": "For an undergraduate course offered by the Faculty of Arts, you must submit a new declaration of absence within three business days of the deferred exam date, with supporting documents. The Undergraduate Studies Office will contact you; in other faculties, check with the faculty offering the course."
+  },
+  "sources": [
+   {
+    "label": "Deferred exams schedule - Faculty of Arts — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/student-life-services/deferred-exams-schedule"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-examens-cours-ete-en-ligne",
+  "category": "examens",
+  "keywords": [
+   "cours en ligne examen en personne",
+   "online course in-person exam",
+   "cours d'ete en ligne",
+   "online summer course",
+   "examen sur campus cours en ligne",
+   "exam on campus online course",
+   "examen a distance",
+   "remote exam",
+   "je ne suis pas a ottawa examen",
+   "not in ottawa exam"
+  ],
+  "question": {
+   "fr": "Je suis un cours d'été en ligne : dois-je venir sur le campus pour les examens ?",
+   "en": "I'm taking an online summer course: do I have to come to campus for exams?"
+  },
+  "answer": {
+   "fr": "Certains cours d'été en ligne exigent que la mi-session et l'examen final soient écrits en personne. En génie, en sciences et en sciences sociales, tu peux écrire sur le campus, dans un centre d'examen approuvé au Canada sur demande, ou pendant la période d'examens différés d'octobre.",
+   "en": "Some online summer courses require the midterm and final exam to be written in person. In Engineering, Science and Social Sciences, you can write on campus, at an approved exam centre in Canada on request, or during the October deferred exam period."
+  },
+  "sources": [
+   {
+    "label": "Exam centres for online courses — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams/exam-centres-online-courses"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-centre-examen-canada",
+  "category": "examens",
+  "keywords": [
+   "centre d'examen",
+   "exam centre",
+   "ecrire examen ailleurs",
+   "write exam elsewhere",
+   "centre examen approuve",
+   "approved exam centre",
+   "examen dans ma ville",
+   "exam in my city",
+   "frais centre examen",
+   "exam centre fees",
+   "demande centre examen"
+  ],
+  "question": {
+   "fr": "Comment écrire mon examen dans un centre d'examen approuvé ailleurs au Canada ?",
+   "en": "How do I write my exam at an approved exam centre elsewhere in Canada?"
+  },
+  "answer": {
+   "fr": "Prends d'abord des arrangements avec le centre, puis remplis le formulaire de la faculté qui offre le cours, au moins deux semaines avant l'examen. Assure-toi que le centre peut offrir tes accommodements; il facture ses propres frais, et la faculté t'informera de sa décision.",
+   "en": "First make arrangements with the centre, then fill out the form of the faculty offering the course, at least two weeks before the exam. Make sure the centre can provide your accommodations; it charges its own fees, and the faculty will tell you its decision."
+  },
+  "sources": [
+   {
+    "label": "Exam centres for online courses — uOttawa",
+    "url": "https://www.uottawa.ca/study/exams/exam-centres-online-courses"
+   },
+   {
+    "label": "Exam centres for online summer courses - Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/student-hub/undergraduate/exam-centres-online-summer-courses"
+   },
+   {
+    "label": "Exam schedule - Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/student-hub/exam-schedule"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-centre-examen-differe-non",
+  "category": "examens",
+  "keywords": [
+   "centre examen examen differe",
+   "exam centre deferred exam",
+   "differe hors ottawa",
+   "deferred exam outside ottawa",
+   "sciences sociales centre examen",
+   "social sciences exam centre",
+   "differe a distance",
+   "deferred exam remotely",
+   "centre examen seulement ete",
+   "exam centre summer only"
+  ],
+  "question": {
+   "fr": "Puis-je écrire un examen différé dans un centre d'examen à l'extérieur d'Ottawa ?",
+   "en": "Can I write a deferred exam at an exam centre outside Ottawa?"
+  },
+  "answer": {
+   "fr": "En sciences sociales, non : l'option du centre d'examen approuvé est offerte seulement pour les examens finaux des cours d'été, pas pour un examen différé d'un trimestre précédent. Pour les autres facultés, vérifie auprès de la faculté qui offre le cours.",
+   "en": "In Social Sciences, no: the approved exam centre option is only for final exams in summer courses, not for a deferred exam from a previous term. For other faculties, check with the faculty offering the course."
+  },
+  "sources": [
+   {
+    "label": "Exam centres for online summer courses - Faculty of Social Sciences — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/student-hub/undergraduate/exam-centres-online-summer-courses"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-places-assignees-examen",
+  "category": "examens",
+  "keywords": [
+   "place assignee examen",
+   "assigned seat exam",
+   "liste des places",
+   "seating list",
+   "ou m'asseoir examen",
+   "where to sit exam",
+   "plan de salle examen",
+   "seating plan",
+   "examen gymnase",
+   "exam in gym",
+   "examen arena"
+  ],
+  "question": {
+   "fr": "Est-ce que j'ai une place assignée à l'examen ?",
+   "en": "Do I have an assigned seat at the exam?"
+  },
+  "answer": {
+   "fr": "C'est possible pour les examens en personne. Une liste par cours, en ordre alphabétique, indiquant la place de chacun est alors affichée dans la salle d'examen, que ce soit une classe, un gymnase ou un aréna.",
+   "en": "It's possible for in-person exams. A list by course, in alphabetical order, showing each person's assigned seat is then posted in the exam room, whether it's a classroom, gym or arena."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-regles-conduite-examen",
+  "category": "examens",
+  "keywords": [
+   "regles examen",
+   "exam rules",
+   "silence examen",
+   "silence during exam",
+   "carte etudiante examen",
+   "student card exam",
+   "emporter questions examen",
+   "take exam questions",
+   "effets personnels examen",
+   "personal belongings exam",
+   "conduite pendant examen"
+  ],
+  "question": {
+   "fr": "Quelles sont les règles de conduite pendant un examen ?",
+   "en": "What are the rules of conduct during an exam?"
+  },
+  "answer": {
+   "fr": "Le silence est obligatoire, et tu dois montrer ta carte étudiante si le surveillant la demande. Tu ne peux ni apporter ni emporter les questions d'examen, et on peut te demander de laisser tes effets personnels à l'avant de la salle; ne pas respecter ces règles peut mener à une allégation d'inconduite.",
+   "en": "Silence is compulsory, and you must show your student card if the proctor asks. You can't bring in or take away exam questions, and you may be asked to leave your belongings at the front of the room; breaking these rules can lead to a misconduct allegation."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-documents-permis-examen",
+  "category": "examens",
+  "keywords": [
+   "notes permises examen",
+   "notes allowed exam",
+   "dictionnaire examen",
+   "dictionary exam",
+   "livre ouvert",
+   "open book",
+   "examen a livre ferme",
+   "closed book",
+   "aide-memoire",
+   "cheat sheet allowed",
+   "materiel autorise"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux apporter mes notes ou un dictionnaire à un examen ?",
+   "en": "Can I bring my notes or a dictionary to an exam?"
+  },
+  "answer": {
+   "fr": "Seulement si c'est indiqué par écrit : sinon, livres, notes, tables mathématiques et dictionnaires sont interdits. À livre ouvert, ça peut vouloir dire juste le manuel, le manuel et tes notes, ou toute ressource, alors demande à ton professeur à l'avance.",
+   "en": "Only if it's stated in writing: otherwise, books, notes, math tables and dictionaries aren't allowed. Open book can mean just the textbook, the textbook and your notes, or any resource, so ask your professor beforehand."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   },
+   {
+    "label": "Academic integrity for students — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-integrity"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-surveillant-changer-place",
+  "category": "examens",
+  "keywords": [
+   "surveillant me change de place",
+   "proctor moved my seat",
+   "changer de place examen",
+   "asked to move seat",
+   "ajuster camera examen",
+   "adjust camera online exam",
+   "comportement suspect examen",
+   "suspicious behaviour exam",
+   "surveillant soupcon",
+   "proctor suspicion"
+  ],
+  "question": {
+   "fr": "Le surveillant m'a demandé de changer de place : est-ce que ça veut dire que je suis accusé de fraude ?",
+   "en": "The proctor asked me to change seats: does that mean I'm accused of cheating?"
+  },
+  "answer": {
+   "fr": "Pas nécessairement. Un surveillant qui observe un comportement suspect peut te demander de changer de place ou d'ajuster ta caméra, sans explication et sans forcément déposer d'allégation d'inconduite.",
+   "en": "Not necessarily. A proctor who observes suspicious behaviour can ask you to move seats or adjust your camera, without explanation and without necessarily filing a misconduct allegation."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-panne-technique-examen-final",
+  "category": "examens",
+  "keywords": [
+   "panne pendant examen",
+   "technical failure exam",
+   "ordinateur plante examen",
+   "computer crashed exam",
+   "examen pas termine panne",
+   "couldn't finish exam technical",
+   "panne documentee",
+   "documented failure",
+   "examen perdu",
+   "exam lost"
+  ],
+  "question": {
+   "fr": "Une panne technique m'a empêché de terminer mon examen : que faire ?",
+   "en": "A technical failure prevented me from finishing my exam: what should I do?"
+  },
+  "answer": {
+   "fr": "Si la panne est documentée et t'a empêché de terminer l'examen, communique avec ton professeur. Garde des preuves, comme des captures d'écran ou des messages d'erreur, pour documenter la situation.",
+   "en": "If the failure is documented and prevented you from finishing the exam, contact your professor. Keep proof, such as screenshots or error messages, to document the situation."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-note-avant-abandon",
+  "category": "examens",
+  "keywords": [
+   "note avant date abandon",
+   "grade before drop deadline",
+   "retroaction 25 %",
+   "feedback 25 percent",
+   "savoir ma note avant abandonner",
+   "know my grade before withdrawing",
+   "evaluation avant abandon",
+   "mark before withdrawal",
+   "prof doit remettre",
+   "feedback before withdrawal"
+  ],
+  "question": {
+   "fr": "Est-ce que j'aurai des notes avant la date limite d'abandon d'un cours ?",
+   "en": "Will I get grades before the course withdrawal deadline?"
+  },
+  "answer": {
+   "fr": "Oui, normalement. Les professeurs doivent remettre des travaux corrigés valant au moins 25 % de la note finale au plus tard une semaine avant la date limite d'abandon sans crédit financier. Si ce n'est pas possible à cause de la nature du cours, ça doit être indiqué dans le plan de cours.",
+   "en": "Yes, normally. Professors must return graded work worth at least 25% of the final mark no later than one week before the last day to withdraw without a financial credit. If that's not possible because of the nature of the course, it must be stated in the syllabus."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-courbe-notes",
+  "category": "examens",
+  "keywords": [
+   "courbe",
+   "curve",
+   "normalisation des notes",
+   "grade normalization",
+   "notes ajustees",
+   "bell curve",
+   "prof baisse notes",
+   "grades scaled down",
+   "distribution des notes",
+   "grade distribution"
+  ],
+  "question": {
+   "fr": "Est-ce que les notes peuvent être ajustées selon une courbe ?",
+   "en": "Can grades be adjusted to a curve?"
+  },
+  "answer": {
+   "fr": "Utiliser une distribution prédéterminée, statistique ou autre, pour attribuer les notes est contraire aux principes du Sénat. Une faculté peut corriger des notes qui ne respectent pas le système officiel, mais jamais en donnant une note plus basse que celle déjà communiquée.",
+   "en": "Using a predetermined distribution, statistical or otherwise, to assign marks is contrary to Senate principles. A faculty can correct marks that don't follow the official grading system, but never by giving a mark lower than one already communicated."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-format-examen-final",
+  "category": "examens",
+  "keywords": [
+   "format examen final",
+   "final exam format",
+   "examen maison final",
+   "take-home final",
+   "examen oral",
+   "oral exam",
+   "travail final au lieu d'examen",
+   "final essay instead of exam",
+   "pas d'examen final",
+   "no final exam"
+  ],
+  "question": {
+   "fr": "Est-ce que l'examen final peut être un examen oral, un examen maison ou un travail ?",
+   "en": "Can the final exam be an oral exam, a take-home exam or an essay?"
+  },
+  "answer": {
+   "fr": "Oui. Le professeur, avec l'approbation du département ou de la faculté, choisit le format : examen écrit, oral, travail final, examen maison ou autre. Il doit t'en informer en présentant le système de notation, et l'examen final doit être remis pendant la période d'examens.",
+   "en": "Yes. The professor, with the department's or faculty's approval, chooses the format: written, oral, final essay, take-home or another form. They must tell you when explaining the grading system, and the final exam must be submitted during the exam period."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-examen-final-hors-periode",
+  "category": "examens",
+  "keywords": [
+   "examen final avant periode",
+   "final exam before exam period",
+   "examen final pendant cours",
+   "final exam during classes",
+   "examen final derniere semaine",
+   "final in last week",
+   "examen labo pratique",
+   "lab practical exam",
+   "presentation projet",
+   "project presentation"
+  ],
+  "question": {
+   "fr": "Mon professeur peut-il donner l'examen final avant la période officielle d'examens ?",
+   "en": "Can my professor give the final exam before the official exam period?"
+  },
+  "answer": {
+   "fr": "Non, sauf pour les examens pratiques de laboratoire, les examens de synthèse et les présentations de projet. Cette règle ne s'applique pas à la Faculté d'éducation, au doctorat de premier cycle en pharmacie ni au programme de MD.",
+   "en": "No, except for practical lab exams, comprehensive exams and project presentations. This rule doesn't apply to the Faculty of Education, the undergraduate Doctor of Pharmacy program or the MD program."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-supplementaire-genie",
+  "category": "examens",
+  "keywords": [
+   "examen supplementaire genie",
+   "engineering supplemental exam",
+   "reprise examen genie",
+   "engineering retake",
+   "echec derniere annee",
+   "failed final year course",
+   "un seul echec",
+   "only one failure",
+   "sup genie",
+   "supplemental engineering"
+  ],
+  "question": {
+   "fr": "En génie, puis-je écrire un examen supplémentaire après un échec ?",
+   "en": "In Engineering, can I write a supplemental exam after failing?"
+  },
+  "answer": {
+   "fr": "Seulement si tu es en dernière année, que tu as échoué un seul cours pendant cette année et que ce cours est offert par la Faculté de génie.",
+   "en": "Only if you are in your final year, have failed only one course during that year, and the failed course is offered by the Faculty of Engineering."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-supplementaire-common-law",
+  "category": "examens",
+  "keywords": [
+   "supplementaire common law",
+   "common law supplemental",
+   "droit examen reprise",
+   "law supplemental exam",
+   "moyenne 3,5 droit",
+   "gpa 3.5 law",
+   "echec annee droit",
+   "fail year law",
+   "common law echec",
+   "examen sup droit"
+  ],
+  "question": {
+   "fr": "En common law, qui peut écrire un examen supplémentaire ?",
+   "en": "In Common Law, who can write a supplemental exam?"
+  },
+  "answer": {
+   "fr": "Il faut une moyenne d'au moins 3,5 dans les cours de la dernière année universitaire pour écrire un examen supplémentaire dans un cours échoué cette année-là. Sous 3,5, l'année est échouée et aucun examen supplémentaire n'est permis; le secrétariat de la Section de common law donne les formats et horaires.",
+   "en": "You need a grade point average of at least 3.5 in courses from the last academic year to write a supplemental exam in a course failed that year. Below 3.5, you fail the year and can't write any supplemental exams; the Common Law Section secretariat has the formats and schedules."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-supplementaire-education",
+  "category": "examens",
+  "keywords": [
+   "supplementaire education",
+   "education supplemental exam",
+   "faculte education reprise",
+   "education retake",
+   "60 % supplementaire",
+   "60 percent supplemental",
+   "echec cours education",
+   "failed education course",
+   "formation enseignement echec",
+   "teacher education fail"
+  ],
+  "question": {
+   "fr": "À la Faculté d'éducation, comment fonctionne l'examen supplémentaire ?",
+   "en": "At the Faculty of Education, how does the supplemental exam work?"
+  },
+  "answer": {
+   "fr": "Si tu échoues un cours, tu as droit à un examen supplémentaire, qui peut être un examen écrit ou des travaux additionnels, et tu dois obtenir 60 % ou la mention S. La note obtenue remplace la note finale, avec une mention au relevé.",
+   "en": "If you fail a course, you're entitled to one supplemental exam, which can be a written exam or additional assignments, and you must get 60% or an S. That grade replaces the final course grade, with a note on your transcript."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-supplementaire-delai-lieu",
+  "category": "examens",
+  "keywords": [
+   "supplementaire en ligne",
+   "supplemental online",
+   "supplementaire hors canada",
+   "supplemental outside canada",
+   "delai examen supplementaire",
+   "supplemental deadline",
+   "12 mois",
+   "12 months",
+   "fuseau horaire examen",
+   "time zone exam"
+  ],
+  "question": {
+   "fr": "Puis-je écrire un examen supplémentaire en ligne de l'étranger, et dans quel délai ?",
+   "en": "Can I write a supplemental exam online from abroad, and how soon?"
+  },
+  "answer": {
+   "fr": "Oui, un examen supplémentaire peut se faire en ligne, au Canada ou ailleurs, mais en personne il doit avoir lieu au Canada. Tous les étudiants l'écrivent en même temps, peu importe le fuseau horaire, et tu as au plus 12 mois après la fin du trimestre pour terminer les exigences du cours.",
+   "en": "Yes, a supplemental exam can be written online, in Canada or elsewhere, but in person it must take place in Canada. All students write it at the same time, regardless of time zone, and you have at most 12 months after the end of the term to complete the course requirements."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-supplementaire-anp",
+  "category": "examens",
+  "keywords": [
+   "note e anp",
+   "grade e anatomy",
+   "supplementaire anatomie",
+   "anatomy supplemental",
+   "anp reprise",
+   "anp retake",
+   "note remplacee releve",
+   "grade replaced transcript",
+   "echec anp",
+   "failed anp"
+  ],
+  "question": {
+   "fr": "J'ai obtenu E dans un cours ANP de niveau 1000 : qu'est-ce que ça veut dire ?",
+   "en": "I got an E in a 1000-level ANP course: what does that mean?"
+  },
+  "answer": {
+   "fr": "Ça veut dire que tu peux écrire un examen supplémentaire. La note obtenue remplace celle de l'examen final, et seule la note après l'examen supplémentaire apparaît au relevé et compte dans la moyenne, avec une mention qui l'indique.",
+   "en": "It means you can write a supplemental exam. Its grade replaces your final exam grade, and only the grade after the supplemental appears on your transcript and counts in your average, with a note indicating it."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-common-law-examplify",
+  "category": "examens",
+  "keywords": [
+   "examplify",
+   "examsoft",
+   "examen ordinateur droit",
+   "computer exam law",
+   "common law ordinateur",
+   "laptop law exam",
+   "licence examplify",
+   "examplify license",
+   "chromebook examplify",
+   "portable pret droit",
+   "loaner laptop law"
+  ],
+  "question": {
+   "fr": "En common law, est-ce que je peux écrire mes examens à l'ordinateur ?",
+   "en": "In Common Law, can I write my exams on a computer?"
+  },
+  "answer": {
+   "fr": "Oui, dans certains cours, mais seulement avec le logiciel Examplify, sinon tu écris à la main. Tu dois acheter ta licence annuelle directement d'ExamSoft; les Chromebooks, tablettes et processeurs ARM ne sont pas compatibles, et la Faculté prête quelques portables gratuitement, selon la disponibilité.",
+   "en": "Yes, in some courses, but only with the Examplify software; otherwise you write by hand. You must buy your annual licence directly from ExamSoft; Chromebooks, tablets and ARM processors aren't supported, and the Faculty lends a limited number of laptops free of charge."
+  },
+  "sources": [
+   {
+    "label": "Exams - Common Law Section — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-common-law-carte-perdue",
+  "category": "examens",
+  "keywords": [
+   "carte etudiante perdue examen",
+   "lost student card exam",
+   "pas de carte examen droit",
+   "no id exam law",
+   "ftx 237",
+   "centre etudiant common law",
+   "common law student centre",
+   "piece d'identite examen",
+   "photo id exam",
+   "oublie carte etudiante"
+  ],
+  "question": {
+   "fr": "En common law, que faire si je n'ai pas ma carte étudiante le jour de l'examen ?",
+   "en": "In Common Law, what if I don't have my student card on exam day?"
+  },
+  "answer": {
+   "fr": "Avant le début de l'examen, va au Centre étudiant de common law, au local FTX 237, avec une autre pièce d'identité avec photo; on te remettra un billet à présenter au surveillant. Si tu as perdu ta carte, demande-en une nouvelle à InfoService avant la période d'examens.",
+   "en": "Before your exam starts, go to the Common Law Student Centre, room FTX 237, with another photo ID; you'll get a slip to show the invigilator. If you've lost your card, get a new one from InfoService before the exam period."
+  },
+  "sources": [
+   {
+    "label": "Exams - Common Law Section — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-common-law-absence-examen",
+  "category": "examens",
+  "keywords": [
+   "absence examen common law",
+   "common law missed exam",
+   "differe common law",
+   "common law deferred",
+   "declaration absence droit",
+   "law declaration of absence",
+   "examen differe mai 2027",
+   "differe juin 2027",
+   "cinq jours avant examen",
+   "deferral law"
+  ],
+  "question": {
+   "fr": "En common law, comment déclarer une absence à un examen ?",
+   "en": "In Common Law, how do I report an absence from an exam?"
+  },
+  "answer": {
+   "fr": "Remplis la déclaration d'absence en ligne et envoie ta demande de report par courriel à la Section de common law. Tu peux déclarer l'absence jusqu'à cinq jours ouvrables avant l'examen ou trois jours ouvrables après; pour les cours d'hiver 2027, les différés ont lieu en mai pour les finissants et en juin pour les autres, dates à confirmer.",
+   "en": "Fill out the online declaration of absence and email your deferral request to the Common Law Section. You can declare the absence up to five working days before the exam or three working days after; for Winter 2027 courses, deferred exams are in May for graduating students and June for others, dates to be confirmed."
+  },
+  "sources": [
+   {
+    "label": "Exams - Common Law Section — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-common-law-quoi-apporter",
+  "category": "examens",
+  "keywords": [
+   "quoi apporter examen droit",
+   "what to bring law exam",
+   "bouchons d'oreilles examen",
+   "earplugs exam",
+   "papier brouillon examen",
+   "scrap paper exam",
+   "eduroam examen",
+   "common law exam materials",
+   "ecouteurs interdits",
+   "headphones not allowed"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que je dois apporter à un examen de common law ?",
+   "en": "What should I bring to a Common Law exam?"
+  },
+  "answer": {
+   "fr": "Apporte ta carte étudiante, des stylos, crayons et gommes, une ou deux feuilles blanches pour tes notes et, à livre ouvert, la version papier du matériel permis. Les bouchons d'oreilles non électroniques sont permis, mais pas les écouteurs, tablettes ou cellulaires; pour un examen à l'ordinateur, apporte ton portable avec Examplify et ton accès eduroam.",
+   "en": "Bring your student card, pens, pencils and erasers, one or two blank sheets for notes and, for open-book exams, paper copies of allowed materials. Non-electronic earplugs are allowed, but not headphones, tablets or phones; for a computer exam, bring your laptop with Examplify and your eduroam login."
+  },
+  "sources": [
+   {
+    "label": "Exams - Common Law Section — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-examen-adapte-ete",
+  "category": "examens",
+  "keywords": [
+   "examen adapte ete",
+   "adapted exam summer",
+   "accommodement printemps ete",
+   "accommodation spring summer",
+   "ventus ete",
+   "ventus summer",
+   "examen final ete adapte",
+   "summer final accommodation",
+   "sept jours ete",
+   "confirmer ete"
+  ],
+  "question": {
+   "fr": "Comment confirmer mes accommodements pour un examen final d'été ?",
+   "en": "How do I confirm my accommodations for a summer final exam?"
+  },
+  "answer": {
+   "fr": "Au printemps-été, ton horaire est finalisé dans Ventus par ton professeur ou ta faculté. Tu dois confirmer tes accommodements dans Ventus au moins sept jours civils avant la date de l'examen.",
+   "en": "In Spring-Summer, your schedule is finalized in Ventus by your professor or faculty. You must confirm your accommodations in Ventus at least seven calendar days before the exam date."
+  },
+  "sources": [
+   {
+    "label": "Adapted exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/adapted-exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-centre-examens-adaptes-lieu",
+  "category": "examens",
+  "keywords": [
+   "centre d'examens adaptes",
+   "adapted exam centre",
+   "ou ecrire examen adapte",
+   "where adapted exam",
+   "dms 3172",
+   "pavillon desmarais examen",
+   "desmarais building exam",
+   "telephone examens adaptes",
+   "adapted exam phone",
+   "sass examen local"
+  ],
+  "question": {
+   "fr": "Où se trouve le Centre d'examens adaptés ?",
+   "en": "Where is the Adapted Exam Centre?"
+  },
+  "answer": {
+   "fr": "Le Centre d'examens adaptés est au pavillon Desmarais, 55, avenue Laurier Est, au 3e étage, local 3172. Tu peux le joindre au 613-562-5777.",
+   "en": "The Adapted Exam Centre is in the Desmarais Building, 55 Laurier Avenue East, 3rd floor, room 3172. You can reach it at 613-562-5777."
+  },
+  "sources": [
+   {
+    "label": "Adapted exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/adapted-exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-jour-examen-adapte",
+  "category": "examens",
+  "keywords": [
+   "jour examen adapte",
+   "adapted exam day",
+   "arriver examen adapte",
+   "arrive adapted exam",
+   "nourriture examen adapte",
+   "food adapted exam",
+   "sans parfum",
+   "scent-free",
+   "bouchons oreilles",
+   "earplugs",
+   "bouteille d'eau examen"
+  ],
+  "question": {
+   "fr": "Comment se passe le jour d'un examen au Centre d'examens adaptés ?",
+   "en": "What happens on exam day at the Adapted Exam Centre?"
+  },
+  "answer": {
+   "fr": "Arrive au moins 15 minutes d'avance et montre aux surveillants tout ce que tu apportes; tu dois rester au moins une heure. La nourriture est interdite sauf une bouteille d'eau, le centre est sans parfum, et des bouchons d'oreilles sont offerts.",
+   "en": "Arrive at least 15 minutes early and show the proctors everything you bring; you must stay at least one hour. Food is not allowed except a water bottle, the centre is scent-free, and earplugs are available."
+  },
+  "sources": [
+   {
+    "label": "Adapted exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/adapted-exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-probleme-examen-adapte",
+  "category": "examens",
+  "keywords": [
+   "probleme examen adapte",
+   "problem adapted exam",
+   "accommodement pas respecte",
+   "accommodation not provided",
+   "pages manquantes examen",
+   "missing pages exam",
+   "question pendant examen adapte",
+   "question during adapted exam",
+   "specialiste apprentissage examen",
+   "learning specialist exam"
+  ],
+  "question": {
+   "fr": "Que faire si mes accommodements ne sont pas en place pendant un examen adapté ?",
+   "en": "What if my accommodations aren't in place during an adapted exam?"
+  },
+  "answer": {
+   "fr": "Avise immédiatement un surveillant si l'environnement ne correspond pas aux mesures convenues, s'il manque des pages ou si tu as une question. Les surveillants ne répondent pas aux questions sur le contenu, mais essaient de joindre ton professeur; tu ne peux pas contacter ta spécialiste pendant l'examen.",
+   "en": "Tell a proctor right away if the setting doesn't match your agreed measures, if pages are missing or if you have a question. Proctors can't answer content questions, but they try to reach your professor; you can't contact your learning specialist during the exam."
+  },
+  "sources": [
+   {
+    "label": "Adapted exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/adapted-exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-examen-adapte-en-ligne",
+  "category": "examens",
+  "keywords": [
+   "examen adapte en ligne",
+   "online adapted exam",
+   "zoom examen adapte",
+   "zoom proctoring",
+   "surveillance zoom",
+   "examen adapte brightspace",
+   "retard examen en ligne adapte",
+   "late online adapted exam",
+   "minutes supplementaires",
+   "extra time online"
+  ],
+  "question": {
+   "fr": "Comment fonctionne un examen adapté en ligne ?",
+   "en": "How does an online adapted exam work?"
+  },
+  "answer": {
+   "fr": "Le Centre d'examens adaptés surveille par Zoom : suis les instructions reçues par courriel et joins la séance au moins 15 minutes d'avance. Tu accèdes à l'examen dans Brightspace, et tu n'auras pas de minutes de plus si tu commences en retard.",
+   "en": "The Adapted Exam Centre proctors by Zoom: follow the emailed instructions and join the session at least 15 minutes early. You access the exam in Brightspace, and you won't get extra minutes if you start late."
+  },
+  "sources": [
+   {
+    "label": "Adapted exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/adapted-exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-retirer-examen-adapte",
+  "category": "examens",
+  "keywords": [
+   "annuler examen adapte",
+   "cancel adapted exam",
+   "retirer examen adapte",
+   "withdraw adapted exam",
+   "ventus withdraw",
+   "ne plus ecrire au centre",
+   "not writing at centre",
+   "ventus annuler",
+   "drop adapted exam",
+   "desinscrire examen adapte"
+  ],
+  "question": {
+   "fr": "Comment annuler ma participation à un examen au Centre d'examens adaptés ?",
+   "en": "How do I cancel my spot at an Adapted Exam Centre exam?"
+  },
+  "answer": {
+   "fr": "Connecte-toi à Ventus et annule ta participation en choisissant Retirer, ou écris au centre pour de l'aide. Si tu manques l'examen, tu dois quand même justifier ton absence auprès de ton professeur ou de ta faculté, sinon tu seras pénalisé.",
+   "en": "Log into Ventus and cancel by selecting Withdraw, or email the centre for help. If you miss the exam, you still have to justify your absence to your professor or faculty, otherwise you'll be penalized."
+  },
+  "sources": [
+   {
+    "label": "Adapted exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/adapted-exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-casiers-examen-adapte",
+  "category": "examens",
+  "keywords": [
+   "casier examen",
+   "locker exam",
+   "ou laisser mon sac",
+   "where to leave bag",
+   "effets personnels examen adapte",
+   "belongings adapted exam",
+   "casiers dms",
+   "dms lockers",
+   "objets perdus examen",
+   "valuables exam"
+  ],
+  "question": {
+   "fr": "Où laisser mes affaires quand j'écris au Centre d'examens adaptés ?",
+   "en": "Where can I leave my things when writing at the Adapted Exam Centre?"
+  },
+  "answer": {
+   "fr": "Le centre n'est pas responsable des objets perdus ou volés, alors laisse tes objets de valeur à la maison. Tu peux louer un casier auprès de ta faculté ou utiliser les casiers à côté du local DMS 3172, en nombre limité.",
+   "en": "The centre isn't responsible for lost or stolen items, so leave valuables at home. You can rent a locker from your faculty or use the lockers beside DMS 3172, which are limited."
+  },
+  "sources": [
+   {
+    "label": "Adapted exams — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/adapted-exams"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-documentation-tdah-apprentissage",
+  "category": "examens",
+  "keywords": [
+   "documentation tdah",
+   "adhd documentation",
+   "trouble d'apprentissage",
+   "learning disability",
+   "evaluation psychoeducative",
+   "psychoeducational assessment",
+   "evaluation perimee",
+   "outdated assessment",
+   "documents accommodements",
+   "accommodation documents",
+   "autisme documentation"
+  ],
+  "question": {
+   "fr": "Quels documents faut-il pour obtenir des accommodements pour un TDAH ou un trouble d'apprentissage ?",
+   "en": "What documents do I need for accommodations for ADHD or a learning disorder?"
+  },
+  "answer": {
+   "fr": "Il faut une évaluation psychoéducative ou neuropsychologique faite dans les cinq dernières années ou à l’âge de 18 ans; pour le TDAH, le formulaire de documentation du service est aussi accepté. Si ton évaluation est périmée, tu peux obtenir des accommodements provisoires pour un trimestre.",
+   "en": "You need a psychoeducational or neuropsychological assessment done within the last five years or at age 18; for ADHD, the service's documentation form is also accepted. If your assessment is outdated, you may get interim accommodations for one term."
+  },
+  "sources": [
+   {
+    "label": "Registering for accommodations — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/registering-accommodations"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-handicap-releve-confidentiel",
+  "category": "examens",
+  "keywords": [
+   "handicap releve de notes",
+   "disability on transcript",
+   "confidentialite accommodements",
+   "accommodation confidentiality",
+   "prof sait mon handicap",
+   "professor knows disability",
+   "diplome mention handicap",
+   "disability on diploma",
+   "renseignements handicap",
+   "disability information private"
+  ],
+  "question": {
+   "fr": "Est-ce que mes accommodements ou mon handicap apparaîtront sur mon relevé de notes ?",
+   "en": "Will my accommodations or disability appear on my transcript?"
+  },
+  "answer": {
+   "fr": "Non. Les renseignements liés à ton handicap n'apparaissent pas sur ton dossier officiel, tes résultats, ton relevé ni tes documents de diplôme, sauf avec ton consentement ou si la loi l'exige. Et les accommodements que tu ne choisis pas pour un cours ne sont pas visibles pour ton professeur.",
+   "en": "No. Disability-related information doesn't appear on your official record, test results, transcript or graduation documents, unless you consent or the law requires it. And accommodations you don't select for a course aren't visible to your instructor."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-6 Academic Accommodations — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-6-academic-accommodations"
+   },
+   {
+    "label": "Registering for accommodations — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/registering-accommodations"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-heures-service-accommodements",
+  "category": "examens",
+  "keywords": [
+   "heures service accommodements",
+   "accommodations service hours",
+   "sass heures",
+   "sass hours",
+   "100 marie-curie",
+   "service accommodements adresse",
+   "accommodations office location",
+   "local 408",
+   "heures sass ete",
+   "sass contact"
+  ],
+  "question": {
+   "fr": "Quelles sont les heures d'ouverture du Service d'accommodements scolaires ?",
+   "en": "What are the Academic Accommodations Service's opening hours?"
+  },
+  "answer": {
+   "fr": "Du 1er août 2026 au 15 mai 2027, le service est ouvert du lundi au vendredi de 9 h à 16 h 30, et fermé la fin de semaine. L'été précédent, du 15 mai au 31 juillet, il fermait à 15 h 30; il est au 100, rue Marie-Curie, local 408.",
+   "en": "From August 1, 2026 to May 15, 2027, the service is open Monday to Friday from 9 a.m. to 4:30 p.m., and closed on weekends. Last summer, from May 15 to July 31, it closed at 3:30 p.m.; it's at 100 Marie-Curie, room 408."
+  },
+  "sources": [
+   {
+    "label": "Accommodations overview, services and hours — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/accommodation-services-available"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-interpretation-examens",
+  "category": "examens",
+  "keywords": [
+   "interpretation langue des signes",
+   "sign language interpretation",
+   "asl examen",
+   "lsq examen",
+   "interprete examen",
+   "interpreter exam",
+   "sourd examen",
+   "deaf student exam",
+   "interpretation informatisee",
+   "service d'interpretation"
+  ],
+  "question": {
+   "fr": "Le Service d'interprétation peut-il m'accompagner pendant mes examens ?",
+   "en": "Can the Interpretation Service support me during exams?"
+  },
+  "answer": {
+   "fr": "Oui. Le Service d'interprétation offre l'interprétation en langue des signes et l'interprétation informatisée pour les cours, y compris les quiz, tests, mi-sessions et examens finaux, ainsi que les rencontres avec les profs et les travaux d'équipe. Écris au service par courriel pour en faire la demande.",
+   "en": "Yes. The Interpretation Service provides sign language and computerized interpretation for course activities, including quizzes, tests, midterms and final exams, as well as meetings with professors and group work. Email the service to request it."
+  },
+  "sources": [
+   {
+    "label": "Accommodations overview, services and hours — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/accommodation-services-available"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-transcription-materiel-adapte",
+  "category": "examens",
+  "keywords": [
+   "service de transcription",
+   "transcription service",
+   "braille",
+   "livre format accessible",
+   "accessible format book",
+   "pdf accessible",
+   "audio livre",
+   "alternative format",
+   "conversion manuel",
+   "textbook conversion"
+  ],
+  "question": {
+   "fr": "Comment obtenir mes manuels en format accessible, comme en braille ou en PDF ?",
+   "en": "How can I get my textbooks in an accessible format, like braille or PDF?"
+  },
+  "answer": {
+   "fr": "Le Service de transcription convertit le matériel de cours en PDF, Word, braille ou audio pour les étudiants inscrits. Apporte tes livres le plus tôt possible avec ta preuve d'achat; pour un PDF, compte environ 48 heures.",
+   "en": "The Transcription Service converts course materials to PDF, Word, braille or audio for registered students. Bring your books as early as possible with proof of purchase; for a PDF, expect about 48 hours."
+  },
+  "sources": [
+   {
+    "label": "Accommodations overview, services and hours — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-support-mentoring/accommodation-services-available"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-revision-note-etapes",
+  "category": "examens",
+  "keywords": [
+   "revision de note",
+   "grade review",
+   "contester une note",
+   "contest a grade",
+   "demande de revision",
+   "request grade review",
+   "directeur departement note",
+   "chair grade review",
+   "pas d'accord avec ma note",
+   "disagree with grade",
+   "appel de note"
+  ],
+  "question": {
+   "fr": "Comment demander la révision d'une note ?",
+   "en": "How do I request a grade review?"
+  },
+  "answer": {
+   "fr": "Parle d'abord à ton professeur pour comprendre la note. Si tu n'es toujours pas d'accord, envoie une demande écrite au directeur de l'unité qui offre le cours, avec le titre du cours, le plan de cours, la note, le nom du prof, tes motifs détaillés et la copie corrigée.",
+   "en": "First talk to your professor to understand the grade. If you still disagree, send a written request to the chair of the unit offering the course, with the course title, syllabus, grade, professor's name, your detailed grounds and the graded work."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-9 Revision of Grades and Appeal — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-9-revision-grades-appeal"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-revision-note-travail-session",
+  "category": "examens",
+  "keywords": [
+   "revision note mi-session",
+   "midterm grade review",
+   "revision travail session",
+   "assignment grade review",
+   "10 jours ouvrables",
+   "ten business days",
+   "delai revision note",
+   "grade review deadline",
+   "contester note travail",
+   "contest assignment mark"
+  ],
+  "question": {
+   "fr": "Quel est le délai pour demander la révision d'une note reçue pendant la session ?",
+   "en": "What's the deadline to request a review of a grade received during the term?"
+  },
+  "answer": {
+   "fr": "Pour une note reçue au plus tard le dernier jour de cours, tu as dix jours ouvrables après l'avoir reçue. Pour une note reçue après, c'est dix jours ouvrables après que la note est devenue officielle; la demande doit arriver avant 23 h 59, heure d'Ottawa.",
+   "en": "For a grade received on or before the last day of classes, you have ten business days after receiving it. For a grade received later, it's ten business days after the grade becomes official; the request must arrive by 11:59 p.m. Ottawa time."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-9 Revision of Grades and Appeal — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-9-revision-grades-appeal"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-revision-note-baisser",
+  "category": "examens",
+  "keywords": [
+   "revision note baisser",
+   "grade review lower",
+   "risque revision note",
+   "risk of grade review",
+   "annuler revision",
+   "cancel grade review",
+   "note peut baisser",
+   "grade can go down",
+   "revision une seule fois",
+   "only one review"
+  ],
+  "question": {
+   "fr": "Ma note peut-elle baisser si je demande une révision ?",
+   "en": "Can my grade go down if I request a review?"
+  },
+  "answer": {
+   "fr": "Oui, la note révisée peut être plus haute, plus basse ou identique. Une fois ta demande complète envoyée, tu ne peux plus l'annuler, et tu ne peux demander la révision d'une même note qu'une seule fois.",
+   "en": "Yes, the revised grade can be higher, lower or the same. Once your complete request is submitted, you can't cancel it, and you can only request a review of the same grade once."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-9 Revision of Grades and Appeal — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-9-revision-grades-appeal"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-revision-note-motifs",
+  "category": "examens",
+  "keywords": [
+   "motifs revision note",
+   "grounds for grade review",
+   "revision acceptee",
+   "review admissible",
+   "criteres de correction",
+   "grading criteria error",
+   "erreur de calcul note",
+   "calculation error grade",
+   "erreur de transcription",
+   "transcription error"
+  ],
+  "question": {
+   "fr": "Quels motifs sont acceptés pour une révision de note ?",
+   "en": "What grounds are accepted for a grade review?"
+  },
+  "answer": {
+   "fr": "Le seul motif accepté est une erreur dans l'application des critères de correction. Les erreurs techniques, comme un calcul ou une transcription erronée, ne passent pas par ce processus : ton professeur les corrige directement.",
+   "en": "The only accepted ground is an error in applying the grading criteria. Technical errors, like a wrong calculation or transcription, don't go through this process: your professor corrects them directly."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-9 Revision of Grades and Appeal — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-9-revision-grades-appeal"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-revision-note-groupe",
+  "category": "examens",
+  "keywords": [
+   "travail d'equipe note",
+   "group work grade",
+   "revision note groupe",
+   "group grade review",
+   "contester note equipe",
+   "contest team grade",
+   "revision collective",
+   "collective review",
+   "note de groupe",
+   "team project grade"
+  ],
+  "question": {
+   "fr": "Peut-on demander la révision d'une note pour un travail d'équipe ?",
+   "en": "Can we request a review of a grade for group work?"
+  },
+  "answer": {
+   "fr": "Oui, les membres peuvent faire la demande ensemble, selon la même procédure qu'un travail individuel. Si une seule personne fait la demande, la note révisée ne s'applique qu'à elle.",
+   "en": "Yes, members can request it collectively, using the same procedure as for individual work. If only one person requests it, the revised grade applies only to that student."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-9 Revision of Grades and Appeal — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-9-revision-grades-appeal"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-revision-note-deroulement",
+  "category": "examens",
+  "keywords": [
+   "comment se passe revision note",
+   "how grade review works",
+   "deuxieme correcteur",
+   "second marker",
+   "professeur reviseur",
+   "reviewing professor",
+   "delai reponse revision",
+   "grade review timeline",
+   "anonymat reviseur",
+   "reviewer anonymous"
+  ],
+  "question": {
+   "fr": "Comment se déroule une révision de note une fois ma demande envoyée ?",
+   "en": "How does a grade review work once I've submitted my request?"
+  },
+  "answer": {
+   "fr": "Si ta demande est recevable, ton professeur envoie ses commentaires et critères, puis au moins un autre professeur, dont l'identité reste anonyme, révise ta copie. Chaque étape prend de cinq à dix jours ouvrables, puis le directeur de l'unité fixe la note et t'informe.",
+   "en": "If your request is admissible, your professor sends comments and criteria, then at least one other professor, whose identity stays anonymous, reviews your work. Each step takes five to ten business days, then the unit chair sets the grade and informs you."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-9 Revision of Grades and Appeal — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-9-revision-grades-appeal"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-revision-note-droit",
+  "category": "examens",
+  "keywords": [
+   "revision note droit",
+   "law grade review",
+   "common law revision note",
+   "civil law grade review",
+   "droit civil revision",
+   "doyen section droit",
+   "dean law section",
+   "comite revision droit",
+   "partialite correction",
+   "impartiality grading"
+  ],
+  "question": {
+   "fr": "En droit, comment demander la révision d'une note ?",
+   "en": "In Law, how do I request a grade review?"
+  },
+  "answer": {
+   "fr": "Au premier cycle en droit civil ou en common law, envoie ta demande écrite au doyen de ta section dans les dix jours ouvrables suivant la date où la note finale devient officielle. Un comité de révision l'étudie, et les motifs acceptés incluent aussi la partialité ou un traitement inégal lors de la correction.",
+   "en": "For undergraduate Civil Law or Common Law, send your written request to the dean of your section within ten business days after the final grade becomes official. A review panel studies it, and accepted grounds also include lack of impartiality or unequal treatment in grading."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-9 Revision of Grades and Appeal — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-9-revision-grades-appeal"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-revision-note-stage",
+  "category": "examens",
+  "keywords": [
+   "echec stage",
+   "failed work term",
+   "revision note stage coop",
+   "co-op grade appeal",
+   "stage clinique note",
+   "clinical placement grade",
+   "appel note stage",
+   "internship grade appeal",
+   "directeur coop",
+   "co-op director"
+  ],
+  "question": {
+   "fr": "J'ai échoué mon stage coop ou clinique : puis-je contester la note ?",
+   "en": "I failed my co-op or clinical placement: can I contest the grade?"
+  },
+  "answer": {
+   "fr": "Oui. Après en avoir parlé avec la personne qui a attribué la note, envoie une demande écrite au directeur de l'unité ou du programme coop dans les dix jours ouvrables suivant la note, avec les rapports d'évaluation. Ça ne s'applique pas à la Faculté d'éducation ni au premier cycle en droit.",
+   "en": "Yes. After discussing it with the person who assigned the grade, send a written request to the unit chair or the co-op director within ten business days of the grade, with the evaluation reports. This doesn't apply to the Faculty of Education or undergraduate Law."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-9 Revision of Grades and Appeal — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-9-revision-grades-appeal"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-appel-senat-comment",
+  "category": "examens",
+  "keywords": [
+   "comite d'appel du senat",
+   "senate appeals committee",
+   "appel au senat",
+   "appeal to senate",
+   "contester decision faculte",
+   "appeal faculty decision",
+   "formulaire appel senat",
+   "senate appeal form",
+   "secretaire generale appel",
+   "secretary-general appeal"
+  ],
+  "question": {
+   "fr": "Comment faire appel au Comité d'appel du Sénat ?",
+   "en": "How do I appeal to the Senate Appeals Committee?"
+  },
+  "answer": {
+   "fr": "Tu dois d'abord avoir reçu une décision finale de ton unité, puis déposer ton appel dans les dix jours ouvrables. Envoie par courriel au Bureau de la Secrétaire générale le formulaire de soumission, une lettre qui explique tes motifs et ce que tu demandes, et toutes tes pièces justificatives.",
+   "en": "You must first have received a final decision from your unit, then file your appeal within ten working days. Email the Office of the Secretary-General the submission form, a cover letter explaining your grounds and what you're asking for, and all your supporting documents."
+  },
+  "sources": [
+   {
+    "label": "Procedure for an Appeal to the Senate Appeals Committee — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/senate/committees/senate-appeals-committee/procedure-appeal-senate-appeals-committe"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-appel-senat-note",
+  "category": "examens",
+  "keywords": [
+   "senat changer note",
+   "senate change grade",
+   "comite appel note",
+   "appeals committee grade",
+   "senat contenu examen",
+   "senate exam content",
+   "pouvoir comite appel",
+   "appeals committee powers",
+   "senat modifier note",
+   "appeal mark senate"
+  ],
+  "question": {
+   "fr": "Le Comité d'appel du Sénat peut-il changer ma note ?",
+   "en": "Can the Senate Appeals Committee change my grade?"
+  },
+  "answer": {
+   "fr": "Non. Le Comité ne peut pas modifier la note d'un cours, d'un examen ou d'un travail, ni se prononcer sur leur contenu. Il rend des décisions finales sur l'application des règlements, par exemple d'admission, de promotion ou de diplôme, et sur les sanctions disciplinaires.",
+   "en": "No. The Committee can't change your mark in a course, exam or assignment, or comment on their content. It makes final decisions on how regulations are applied, such as admission, promotion or degree requirements, and on disciplinary sanctions."
+  },
+  "sources": [
+   {
+    "label": "Procedure for an Appeal to the Senate Appeals Committee — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/senate/committees/senate-appeals-committee/procedure-appeal-senate-appeals-committe"
+   },
+   {
+    "label": "Senate Appeals Committee — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/senate/committees/senate-appeals-committee"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-appel-senat-audience",
+  "category": "examens",
+  "keywords": [
+   "audience comite appel",
+   "appeal hearing",
+   "comite appel vendredi",
+   "appeals committee friday",
+   "accompagne audience",
+   "accompanied hearing",
+   "decision comite appel",
+   "appeal decision",
+   "appel final senat",
+   "senate decision final"
+  ],
+  "question": {
+   "fr": "Comment se passe l'audience devant le Comité d'appel du Sénat ?",
+   "en": "How does the Senate Appeals Committee hearing work?"
+  },
+  "answer": {
+   "fr": "Le Comité se réunit normalement un vendredi matin sur deux; tu peux présenter ton cas en personne, accompagné de la personne de ton choix, comme le Centre des droits étudiants ou un avocat. La décision est rendue le jour même ou dans les deux ou trois jours ouvrables, par courriel, et elle est finale.",
+   "en": "The Committee normally meets every other Friday morning; you can present your case in person, accompanied by someone of your choice, such as the Student Rights Centre or a lawyer. The decision comes the same day or within two or three business days, by email, and it is final."
+  },
+  "sources": [
+   {
+    "label": "Procedure for an Appeal to the Senate Appeals Committee — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/senate/committees/senate-appeals-committee/procedure-appeal-senate-appeals-committe"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-appel-senat-retard",
+  "category": "examens",
+  "keywords": [
+   "appel en retard",
+   "late appeal",
+   "delai appel depasse",
+   "missed appeal deadline",
+   "appel senat apres 10 jours",
+   "appeal after 10 days",
+   "lettre justification retard",
+   "justification letter delay",
+   "prolongation appel",
+   "appeal extension"
+  ],
+  "question": {
+   "fr": "J'ai dépassé le délai de dix jours pour faire appel au Sénat : est-ce trop tard ?",
+   "en": "I missed the ten-day deadline to appeal to the Senate: is it too late?"
+  },
+  "answer": {
+   "fr": "Pas forcément. Envoie ton dossier complet avec une lettre qui explique pourquoi tu n'as pas pu respecter le délai. Le Comité décide à sa discrétion, seulement sur la base des documents écrits, s'il entend ton appel.",
+   "en": "Not necessarily. Send your complete file with a letter explaining why you couldn't meet the deadline. The Committee decides at its discretion, based only on the written evidence, whether to hear your appeal."
+  },
+  "sources": [
+   {
+    "label": "Procedure for an Appeal to the Senate Appeals Committee — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/senate/committees/senate-appeals-committee/procedure-appeal-senate-appeals-committe"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-comite-appel-membres",
+  "category": "examens",
+  "keywords": [
+   "membres comite appel senat",
+   "senate appeals committee members",
+   "etudiants comite appel",
+   "students on appeals committee",
+   "composition comite appel",
+   "committee composition",
+   "qui siege comite appel",
+   "who sits appeals committee",
+   "professeurs comite appel",
+   "quorum comite"
+  ],
+  "question": {
+   "fr": "Qui fait partie du Comité d'appel du Sénat ?",
+   "en": "Who sits on the Senate Appeals Committee?"
+  },
+  "answer": {
+   "fr": "Le Comité compte dix membres nommés par le Comité exécutif du Sénat : sept professeurs réguliers à temps plein, deux étudiants de premier cycle et un étudiant aux cycles supérieurs, pour des mandats de trois ans.",
+   "en": "The Committee has ten members appointed by the Senate Executive Committee: seven full-time regular professors, two undergraduate students and one graduate student, for three-year terms."
+  },
+  "sources": [
+   {
+    "label": "Senate Appeals Committee — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/senate/committees/senate-appeals-committee"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-erreur-releve-notes",
+  "category": "examens",
+  "keywords": [
+   "erreur releve de notes",
+   "error grade report",
+   "note manquante",
+   "missing grade",
+   "rapport de notes erreur",
+   "grade report mistake",
+   "90 jours",
+   "90 days",
+   "corriger releve",
+   "fix grade report",
+   "nnr"
+  ],
+  "question": {
+   "fr": "Il y a une erreur ou une note manquante sur mon rapport de notes : que faire ?",
+   "en": "There's an error or missing grade on my grade report: what should I do?"
+  },
+  "answer": {
+   "fr": "Avise ta faculté d'attache dans les 90 jours suivant la date où les notes sont devenues officielles, sinon le rapport reste inchangé. Le symbole NNR veut simplement dire que la note finale n'a pas encore été transmise au Bureau du registraire.",
+   "en": "Notify your home faculty within 90 days of the date grades became official, otherwise the report stays unchanged. The NNR symbol simply means the final mark hasn't been submitted to the Office of the Registrar yet."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-3 Grading System — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-3-grading-system"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-arrondi-note-finale",
+  "category": "examens",
+  "keywords": [
+   "arrondi note",
+   "grade rounding",
+   "note arrondie",
+   "rounded grade",
+   "84,5 %",
+   "79.5 percent",
+   "arrondir moyenne",
+   "round average",
+   "decimale note",
+   "decimal grade"
+  ],
+  "question": {
+   "fr": "Comment ma note finale est-elle arrondie ?",
+   "en": "How is my final grade rounded?"
+  },
+  "answer": {
+   "fr": "La note finale d'un cours est arrondie vers le haut si la première décimale est 5 ou plus, et vers le bas si elle est 4 ou moins. La moyenne cumulative, elle, est arrondie à deux décimales selon la troisième décimale.",
+   "en": "A final course grade is rounded up if the first decimal is 5 or higher, and down if it's 4 or lower. The cumulative average is rounded to two decimals based on the third decimal."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-3 Grading System — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-3-grading-system"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-calcul-moyenne",
+  "category": "examens",
+  "keywords": [
+   "calcul moyenne",
+   "calculate gpa",
+   "moyenne ponderee cumulative",
+   "cgpa",
+   "mpc",
+   "moyenne de session",
+   "term gpa",
+   "points de note",
+   "grade points",
+   "comment calculer ma moyenne",
+   "how to calculate average"
+  ],
+  "question": {
+   "fr": "Comment ma moyenne est-elle calculée ?",
+   "en": "How is my grade point average calculated?"
+  },
+  "answer": {
+   "fr": "Pour chaque cours, on multiplie le nombre de crédits par la valeur numérique de la lettre, par exemple 9 pour un A. La moyenne cumulative divise la somme de ces points par tous les crédits tentés, réussis ou non; seuls les cours suivis à l'Université d'Ottawa, à Saint-Paul, au Collège universitaire dominicain et à Carleton comptent.",
+   "en": "For each course, the number of units is multiplied by the letter grade's numeric value, for example 9 for an A. The cumulative average divides the sum of those points by all units attempted, passed or not; only courses taken at uOttawa, Saint Paul, Dominican University College and Carleton count."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-3 Grading System — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-3-grading-system"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-echelle-notes",
+  "category": "examens",
+  "keywords": [
+   "echelle de notes",
+   "grading scale",
+   "a+ pourcentage",
+   "a+ percentage",
+   "lettre en pourcentage",
+   "letter grade percent",
+   "combien vaut un b",
+   "what is a b",
+   "valeur numerique note",
+   "grade point value",
+   "note sur 10"
+  ],
+  "question": {
+   "fr": "Combien vaut chaque lettre en pourcentage à l'Université d'Ottawa ?",
+   "en": "What percentage does each letter grade represent at uOttawa?"
+  },
+  "answer": {
+   "fr": "A+ c'est 90 à 100 %, A 85 à 89, A- 80 à 84, B+ 75 à 79, B 70 à 74, C+ 65 à 69, C 60 à 64, D+ 55 à 59 et D 50 à 54. E correspond à 40 à 49 et F à 0 à 39; sur l'échelle numérique, A+ vaut 10 et F vaut 0.",
+   "en": "A+ is 90 to 100%, A 85 to 89, A- 80 to 84, B+ 75 to 79, B 70 to 74, C+ 65 to 69, C 60 to 64, D+ 55 to 59 and D 50 to 54. E is 40 to 49 and F is 0 to 39; on the numeric scale, A+ is worth 10 and F is 0."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-3 Grading System — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-3-grading-system"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-symboles-ctn-aud-cr",
+  "category": "examens",
+  "keywords": [
+   "ctn",
+   "aud",
+   "cr",
+   "q equivalence",
+   "symbole releve",
+   "transcript symbol",
+   "cours continu",
+   "continuing course",
+   "auditeur releve",
+   "credited course",
+   "p s ns"
+  ],
+  "question": {
+   "fr": "Que veulent dire CTN, AUD, CR ou Q sur mon relevé ?",
+   "en": "What do CTN, AUD, CR or Q mean on my transcript?"
+  },
+  "answer": {
+   "fr": "CTN signifie un cours qui continue au trimestre suivant, AUD que tu étais auditeur, CR un cours réussi ailleurs et crédité avec autorisation, et Q une équivalence reconnue dans ton programme. Ces symboles, comme P, S et NS, ne comptent pas dans ta moyenne.",
+   "en": "CTN means a course carrying over into the next term, AUD that you were an auditor, CR a course passed elsewhere and credited with approval, and Q advanced standing recognized in your program. These symbols, like P, S and NS, don't count in your average."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-3 Grading System — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-3-grading-system"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-voir-documents-note",
+  "category": "examens",
+  "keywords": [
+   "voir copie corrigee",
+   "see marked work",
+   "grille de correction",
+   "marking key",
+   "consulter examen final",
+   "consult final exam",
+   "garder copie examen",
+   "keep exam booklet",
+   "documents revision note",
+   "documents used for grade"
+  ],
+  "question": {
+   "fr": "Puis-je garder ma copie d'examen ou voir la grille de correction ?",
+   "en": "Can I keep my exam booklet or see the marking key?"
+  },
+  "answer": {
+   "fr": "Tu peux consulter ton examen corrigé, sous surveillance, mais tu ne peux pas garder l'original ni le cahier. Après une révision de note, tu peux obtenir copie des documents utilisés, sauf les questions et la grille de correction confidentielle, que tu peux tout de même consulter.",
+   "en": "You can look at your marked exam, under supervision, but you can't keep the original or the booklet. After a grade review, you can get copies of the documents used, except the exam questions and confidential marking key, which you can still consult."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-8 Evaluation of Student Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-8-evaluation-student-learning"
+   },
+   {
+    "label": "Academic Regulation A-9 Revision of Grades and Appeal — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-9-revision-grades-appeal"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-fraude-definition",
+  "category": "reglements",
+  "keywords": [
+   "fraude scolaire",
+   "academic fraud",
+   "inconduite academique",
+   "academic misconduct",
+   "c'est quoi la fraude",
+   "what is cheating",
+   "tricherie",
+   "cheating",
+   "plagiat definition",
+   "plagiarism definition",
+   "usurpation identite examen"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qui est considéré comme de l'inconduite académique ?",
+   "en": "What counts as academic misconduct?"
+  },
+  "answer": {
+   "fr": "Ça inclut le plagiat, la tricherie, ne pas citer ses sources ou un contenu généré par l'IA, faire faire son travail par quelqu'un d'autre, inventer des données ou des sources, et la collaboration non autorisée. Se faire passer pour quelqu'un à un examen, ou utiliser un faux document justificatif, en fait aussi partie.",
+   "en": "It includes plagiarism, cheating, failing to cite sources or AI-generated content, having someone else do your work, fabricating data or sources, and unauthorized collaboration. Impersonating someone at an exam or using a forged supporting document also counts."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-4 Academic Integrity and Academic Misconduct — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-4-academic-integrity-academic-misconduct"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-autoplagiat",
+  "category": "reglements",
+  "keywords": [
+   "autoplagiat",
+   "self-plagiarism",
+   "remettre meme travail deux cours",
+   "submit same work twice",
+   "reutiliser mon travail",
+   "reuse my assignment",
+   "travail traduit",
+   "translated work",
+   "double remise",
+   "duplicate submission"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux remettre le même travail dans deux cours ?",
+   "en": "Can I submit the same assignment in two courses?"
+  },
+  "answer": {
+   "fr": "Non, pas sans l'approbation préalable des professeurs concernés. Remettre le même travail, une partie importante ou sa traduction dans plus d'un cours est une forme d'inconduite académique.",
+   "en": "No, not without prior approval from the professors involved. Submitting the same work, a significant part of it, or its translation in more than one course is a form of academic misconduct."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-4 Academic Integrity and Academic Misconduct — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-4-academic-integrity-academic-misconduct"
+   },
+   {
+    "label": "Academic integrity for students — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-integrity"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-sanctions-fraude",
+  "category": "reglements",
+  "keywords": [
+   "sanction fraude",
+   "misconduct sanction",
+   "punition plagiat",
+   "plagiarism penalty",
+   "zero plagiat",
+   "zero for cheating",
+   "f pour fraude",
+   "f for cheating",
+   "credits supplementaires sanction",
+   "extra units penalty",
+   "suspension expulsion"
+  ],
+  "question": {
+   "fr": "Quelles sont les sanctions possibles pour de l'inconduite académique ?",
+   "en": "What are the possible sanctions for academic misconduct?"
+  },
+  "answer": {
+   "fr": "Ça va d'un avertissement écrit à un zéro pour le travail, ou un F pour le cours, jusqu'à l'ajout de 3 à 30 crédits à ton programme ou la perte de bourses. Les plus graves, imposées par le Comité d'appel du Sénat, sont la suspension jusqu'à deux ans, une mention permanente au relevé, l'expulsion ou la révocation d'un diplôme.",
+   "en": "Sanctions range from a written warning to a zero on the work, or an F for the course, up to adding 3 to 30 units to your program or losing scholarships. The most serious, imposed by the Senate Appeals Committee, are suspension of up to two years, a permanent transcript notation, expulsion or revocation of a degree."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-4 Academic Integrity and Academic Misconduct — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-4-academic-integrity-academic-misconduct"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-fraude-approche-pedagogique",
+  "category": "reglements",
+  "keywords": [
+   "premiere fraude",
+   "first offence",
+   "approche pedagogique",
+   "pedagogical approach",
+   "fraude mineure",
+   "minor misconduct",
+   "atelier integrite",
+   "integrity workshop",
+   "refaire le travail",
+   "redo assignment",
+   "avertissement ecrit"
+  ],
+  "question": {
+   "fr": "C'est ma première faute et elle est mineure : qu'est-ce qui peut arriver ?",
+   "en": "It's my first offence and it's minor: what can happen?"
+  },
+  "answer": {
+   "fr": "Au premier cycle, ton professeur peut choisir une approche pédagogique : avertissement écrit, atelier sur l'intégrité, refaire le travail ou baisser la note d'au plus 10 % de la note finale. Il te communique sa décision dans les cinq jours ouvrables, et tu peux faire appel au vice-doyen dans les cinq jours ouvrables.",
+   "en": "For undergraduates, your professor can choose a pedagogical approach: a written warning, an integrity workshop, redoing the work or lowering the grade by up to 10% of the final mark. They give you their decision within five working days, and you can appeal to the vice-dean within five working days."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-4 Academic Integrity and Academic Misconduct — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-4-academic-integrity-academic-misconduct"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-fraude-allegation-reponse",
+  "category": "reglements",
+  "keywords": [
+   "accuse de fraude",
+   "accused of cheating",
+   "allegation inconduite",
+   "misconduct allegation",
+   "repondre allegation",
+   "respond to allegation",
+   "lettre du doyen fraude",
+   "dean letter misconduct",
+   "delai reponse fraude",
+   "cinq jours fraude"
+  ],
+  "question": {
+   "fr": "J'ai reçu une allégation d'inconduite académique : combien de temps ai-je pour répondre ?",
+   "en": "I received an academic misconduct allegation: how long do I have to respond?"
+  },
+  "answer": {
+   "fr": "Tu as cinq jours ouvrables pour répondre et choisir le processus accéléré, si tu y es admissible, ou le processus régulier. Sans réponse, le processus régulier commence automatiquement le sixième jour; si ça touche un examen, tu as le droit de le consulter à la faculté.",
+   "en": "You have five working days to respond and choose the accelerated process, if eligible, or the regular process. Without a response, the regular process starts automatically on the sixth day; if it involves an exam, you have the right to consult it at the faculty."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-4 Academic Integrity and Academic Misconduct — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-4-academic-integrity-academic-misconduct"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-fraude-processus-accelere",
+  "category": "reglements",
+  "keywords": [
+   "processus accelere",
+   "accelerated process",
+   "reconnaitre fraude",
+   "admit misconduct",
+   "entente fraude",
+   "misconduct agreement",
+   "rencontre fraude",
+   "misconduct meeting",
+   "accompagnateur rencontre",
+   "support person meeting"
+  ],
+  "question": {
+   "fr": "Comment fonctionne le processus accéléré pour une allégation de fraude ?",
+   "en": "How does the accelerated process work for a misconduct allegation?"
+  },
+  "answer": {
+   "fr": "En l'acceptant, tu reconnais l'infraction : une rencontre a lieu dans les cinq jours ouvrables, où tu peux être accompagné, pour fixer la sanction et signer une entente. Le processus devrait finir dans les 20 jours ouvrables, et tu peux l'arrêter par écrit avant de signer.",
+   "en": "By accepting it, you acknowledge the offence: a meeting is held within five working days, where you can be accompanied, to set the sanction and sign an agreement. The process should finish within 20 working days, and you can stop it in writing before signing."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-4 Academic Integrity and Academic Misconduct — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-4-academic-integrity-academic-misconduct"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-fraude-processus-regulier",
+  "category": "reglements",
+  "keywords": [
+   "processus regulier fraude",
+   "regular process misconduct",
+   "comite d'enquete",
+   "inquiry committee",
+   "comparaitre comite",
+   "appear before committee",
+   "documents fraude dix jours",
+   "submit documents misconduct",
+   "fraude non fondee",
+   "allegation not founded"
+  ],
+  "question": {
+   "fr": "Comment se passe le processus régulier pour une allégation de fraude ?",
+   "en": "How does the regular process work for a misconduct allegation?"
+  },
+  "answer": {
+   "fr": "Un comité d'enquête d'au moins trois personnes te demande tes documents par écrit dans les dix jours ouvrables et t'invite à comparaître, accompagné si tu veux. S'il juge l'allégation fondée, le comité exécutif de la faculté décide de la sanction ou la recommande au Comité d'appel du Sénat.",
+   "en": "An inquiry committee of at least three people asks for your documents in writing within ten working days and invites you to appear, accompanied if you wish. If it finds the allegation founded, the faculty's executive committee decides the sanction or recommends it to the Senate Appeals Committee."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-4 Academic Integrity and Academic Misconduct — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-4-academic-integrity-academic-misconduct"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-fraude-appel",
+  "category": "reglements",
+  "keywords": [
+   "appel sanction fraude",
+   "appeal misconduct sanction",
+   "contester sanction",
+   "contest sanction",
+   "appel fraude senat",
+   "misconduct appeal senate",
+   "erreur de procedure",
+   "procedural error",
+   "delai appel fraude",
+   "misconduct appeal deadline"
+  ],
+  "question": {
+   "fr": "Puis-je faire appel d'une sanction pour inconduite académique ?",
+   "en": "Can I appeal an academic misconduct sanction?"
+  },
+  "answer": {
+   "fr": "Oui, au Comité d'appel du Sénat, dans les dix jours ouvrables suivant la décision ou la signature de l'entente. Après un processus accéléré, l'appel n'est possible que pour une erreur de procédure; la sanction s'applique tout de suite malgré l'appel, et la décision du Comité est finale.",
+   "en": "Yes, to the Senate Appeals Committee, within ten working days of the decision or of signing the agreement. After an accelerated process, you can only appeal for a procedural error; the sanction applies immediately despite the appeal, and the Committee's decision is final."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-4 Academic Integrity and Academic Misconduct — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-4-academic-integrity-academic-misconduct"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-fraude-abandon-cours",
+  "category": "reglements",
+  "keywords": [
+   "abandonner cours fraude",
+   "drop course misconduct",
+   "eviter sanction abandon",
+   "avoid sanction withdraw",
+   "retrait cours allegation",
+   "withdraw during allegation",
+   "reinscription cours fraude",
+   "re-enrol course",
+   "abandon apres plagiat",
+   "drop after cheating"
+  ],
+  "question": {
+   "fr": "Si j'abandonne le cours, est-ce que l'allégation de fraude disparaît ?",
+   "en": "If I drop the course, does the misconduct allegation go away?"
+  },
+  "answer": {
+   "fr": "Non. Si tu abandonnes un cours visé par une allégation d'inconduite, l'Université peut te réinscrire dans ce cours, et le processus continue.",
+   "en": "No. If you withdraw from a course connected to a misconduct allegation, the University may re-enrol you in that course, and the process continues."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-4 Academic Integrity and Academic Misconduct — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-4-academic-integrity-academic-misconduct"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-fraude-expulsion-mention",
+  "category": "reglements",
+  "keywords": [
+   "expulsion universite",
+   "expelled university",
+   "mention releve fraude",
+   "misconduct transcript notation",
+   "effacer mention",
+   "remove notation",
+   "revenir apres expulsion",
+   "return after expulsion",
+   "suspension deux ans",
+   "two year suspension"
+  ],
+  "question": {
+   "fr": "Après une expulsion pour fraude, est-ce que la mention reste à vie sur mon relevé ?",
+   "en": "After an expulsion for misconduct, does the notation stay on my transcript forever?"
+  },
+  "answer": {
+   "fr": "La mention est permanente, mais trois ans après l'expulsion, tu peux demander au Comité d'appel du Sénat d'annuler l'expulsion et, s'il y a lieu, de retirer la mention. Si tu présentes une nouvelle demande d'admission, le processus habituel s'applique.",
+   "en": "The notation is permanent, but three years after the expulsion, you can ask the Senate Appeals Committee to set aside the expulsion and, where applicable, remove the notation. If you reapply to the University, the regular admission process applies."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-4 Academic Integrity and Academic Misconduct — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-4-academic-integrity-academic-misconduct"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "v-travail-equipe-integrite",
+  "category": "reglements",
+  "keywords": [
+   "travail d'equipe integrite",
+   "group work integrity",
+   "plagiat travail equipe",
+   "plagiarism group project",
+   "coequipier plagiat",
+   "teammate plagiarized",
+   "responsabilite groupe",
+   "group responsibility",
+   "verifier sources equipe",
+   "check team sources"
+  ],
+  "question": {
+   "fr": "Dans un travail d'équipe, suis-je responsable si un coéquipier plagie ?",
+   "en": "In group work, am I responsible if a teammate plagiarizes?"
+  },
+  "answer": {
+   "fr": "Chaque membre est responsable de l'intégrité du produit final. Lis la version finale, garde-en une copie et vérifie les références dans toutes les sections; les contributions de chacun devraient être reconnues et le travail réparti équitablement.",
+   "en": "Each member is responsible for the integrity of the final product. Read the final version, keep a copy and check the referencing in all sections; everyone's contribution should be acknowledged and the workload shared fairly."
+  },
+  "sources": [
+   {
+    "label": "Academic integrity for students — uOttawa",
+    "url": "https://www.uottawa.ca/study/academic-integrity"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ }
+]

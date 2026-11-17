@@ -2,13 +2,33 @@
   {
     "id": "a-dates-limites-automne",
     "category": "admissions",
-    "keywords": ["date limite admission", "date limite automne", "application deadline", "fall deadline", "quand faire ma demande", "deadline to apply", "admission septembre", "date limite premier cycle", "when to apply", "programmes contingentés", "competitive programs"],
-    "question": { "fr": "Quelle est la date limite pour faire une demande d'admission pour l'automne ?", "en": "What is the application deadline for the fall term?" },
+    "keywords": [
+      "date limite admission",
+      "date limite automne",
+      "application deadline",
+      "fall deadline",
+      "quand faire ma demande",
+      "deadline to apply",
+      "admission septembre",
+      "date limite premier cycle",
+      "when to apply",
+      "programmes contingentés",
+      "competitive programs"
+    ],
+    "question": {
+      "fr": "Quelle est la date limite pour faire une demande d'admission pour l'automne ?",
+      "en": "What is the application deadline for the fall term?"
+    },
     "answer": {
       "fr": "Pour l'automne 2027, les demandes sont acceptées depuis le 17 septembre 2026, et l'Université recommande de soumettre ta demande avant le 15 janvier 2027. Tes documents et résultats de tests doivent être envoyés au plus tard le 15 février 2027 ou 30 jours après ta demande. Fais vite : plusieurs programmes, comme la plupart de ceux en génie et en sciences de la santé, se remplissent rapidement et peuvent fermer dès qu'ils sont complets.",
       "en": "For fall 2027, applications have been accepted since September 17, 2026, and the University recommends applying before January 15, 2027. Your documents and test results must be submitted by February 15, 2027, or 30 days after you apply. Don't wait: many programs, including most in Engineering and Health Sciences, fill up quickly and can close as soon as they reach capacity."
     },
-    "sources": [{ "label": "Application deadlines for undergraduate studies — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/application-deadlines" }],
+    "sources": [
+      {
+        "label": "Application deadlines for undergraduate studies — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/application-deadlines"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -16,13 +36,31 @@
   {
     "id": "a-admission-hiver",
     "category": "admissions",
-    "keywords": ["admission hiver", "winter admission", "commencer en janvier", "start in january", "date limite hiver", "winter deadline", "session d'hiver", "winter term", "admission janvier"],
-    "question": { "fr": "Est-ce que je peux commencer mes études en janvier ?", "en": "Can I start my studies in January?" },
+    "keywords": [
+      "admission hiver",
+      "winter admission",
+      "commencer en janvier",
+      "start in january",
+      "date limite hiver",
+      "winter deadline",
+      "session d'hiver",
+      "winter term",
+      "admission janvier"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux commencer mes études en janvier ?",
+      "en": "Can I start my studies in January?"
+    },
     "answer": {
       "fr": "Oui, mais seulement dans certains programmes : la plupart des programmes des facultés des arts, des sciences sociales et de l'École de gestion Telfer acceptent des admissions à l'hiver. Pour l'hiver 2027, les dates limites des candidats canadiens étaient le 17 octobre 2026 pour les Arts, les Sciences sociales et les Sciences, et le 6 novembre 2026 pour Telfer. Le génie et les sciences de la santé n'offrent aucun programme à l'hiver.",
       "en": "Yes, but only in some programs: most programs in the Faculties of Arts and Social Sciences and the Telfer School of Management accept winter admissions. For winter 2027, deadlines for Canadian applicants were October 17, 2026, for Arts, Social Sciences and Science, and November 6, 2026, for Telfer. Engineering and Health Sciences offer no programs in the winter term."
     },
-    "sources": [{ "label": "Application deadlines for undergraduate studies — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/application-deadlines" }],
+    "sources": [
+      {
+        "label": "Application deadlines for undergraduate studies — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/application-deadlines"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -30,13 +68,31 @@
   {
     "id": "a-admission-printemps-ete",
     "category": "admissions",
-    "keywords": ["admission été", "admission printemps", "spring summer admission", "commencer en mai", "start in may", "summer intake", "session printemps-été", "date limite été", "summer deadline"],
-    "question": { "fr": "Peut-on être admis pour la session de printemps-été ?", "en": "Can I be admitted for the spring-summer term?" },
+    "keywords": [
+      "admission été",
+      "admission printemps",
+      "spring summer admission",
+      "commencer en mai",
+      "start in may",
+      "summer intake",
+      "session printemps-été",
+      "date limite été",
+      "summer deadline"
+    ],
+    "question": {
+      "fr": "Peut-on être admis pour la session de printemps-été ?",
+      "en": "Can I be admitted for the spring-summer term?"
+    },
     "answer": {
       "fr": "Oui, pour plusieurs programmes des facultés des arts et des sciences sociales, mais seulement pour les étudiants canadiens : les étudiants internationaux ne sont pas admissibles à cette session. Pour mai et juillet 2027, les demandes ouvrent le 1er avril 2027 et la date limite est le 30 avril 2027. Le génie, les sciences, les sciences de la santé et Telfer n'offrent pas d'admission au printemps-été.",
       "en": "Yes, for many programs in the Faculties of Arts and Social Sciences, but only for Canadian students: international students are not admissible for this term. For May and July 2027, applications open April 1, 2027, and the deadline is April 30, 2027. Engineering, Science, Health Sciences and Telfer offer no spring-summer admission."
     },
-    "sources": [{ "label": "Application deadlines for undergraduate studies — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/application-deadlines" }],
+    "sources": [
+      {
+        "label": "Application deadlines for undergraduate studies — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/application-deadlines"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -44,13 +100,35 @@
   {
     "id": "a-exigences-linguistiques",
     "category": "admissions",
-    "keywords": ["exigences linguistiques", "language requirements", "test de langue", "language test", "ielts", "toefl", "delf", "tcf", "test d'anglais", "test de français", "english test", "exemption test de langue", "duolingo"],
-    "question": { "fr": "Est-ce que je dois passer un test de langue pour être admis ?", "en": "Do I need to take a language test to be admitted?" },
+    "keywords": [
+      "exigences linguistiques",
+      "language requirements",
+      "test de langue",
+      "language test",
+      "ielts",
+      "toefl",
+      "delf",
+      "tcf",
+      "test d'anglais",
+      "test de français",
+      "english test",
+      "exemption test de langue",
+      "duolingo"
+    ],
+    "question": {
+      "fr": "Est-ce que je dois passer un test de langue pour être admis ?",
+      "en": "Do I need to take a language test to be admitted?"
+    },
     "answer": {
       "fr": "Les cours sont offerts en anglais, en français ou dans les deux langues, et tu dois maîtriser la langue de ton programme. Tu es exempté du test si tu as fait au moins trois ans d'études à temps plein dans un pays où cette langue est officielle, dans un établissement où elle est la seule langue d'enseignement. Sinon, il faut par exemple un IELTS Academic de 6,5 au total et 6,5 en rédaction pour un programme en anglais, ou un DELF B2 pour un programme en français.",
       "en": "Courses are offered in English, French or both, and you must master the language of your program. You're exempt from a test if you completed at least three years of full-time study in a country where that language is official, at an institution where it is the only language of instruction. Otherwise you need, for example, an IELTS Academic score of 6.5 overall and 6.5 in writing for an English program, or a DELF B2 for a French program."
     },
-    "sources": [{ "label": "Language requirements — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements" }],
+    "sources": [
+      {
+        "label": "Language requirements — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -58,13 +136,32 @@
   {
     "id": "a-programme-intensif-anglais",
     "category": "admissions",
-    "keywords": ["programme intensif d'anglais", "english intensive program", "eip", "esl", "cours d'anglais langue seconde", "admission conditionnelle anglais", "conditional admission english", "ielts trop bas", "low ielts score", "esl 0140"],
-    "question": { "fr": "Mon score d'anglais est trop bas : est-ce que je peux quand même être admis ?", "en": "My English score is too low: can I still be admitted?" },
+    "keywords": [
+      "programme intensif d'anglais",
+      "english intensive program",
+      "eip",
+      "esl",
+      "cours d'anglais langue seconde",
+      "admission conditionnelle anglais",
+      "conditional admission english",
+      "ielts trop bas",
+      "low ielts score",
+      "esl 0140"
+    ],
+    "question": {
+      "fr": "Mon score d'anglais est trop bas : est-ce que je peux quand même être admis ?",
+      "en": "My English score is too low: can I still be admitted?"
+    },
     "answer": {
       "fr": "Peut-être : selon ton résultat, tu peux recevoir une admission conditionnelle avec un ou deux cours d'anglais langue seconde en première année, ou avec le Programme intensif d'anglais à terminer avant de commencer ton programme. Ce programme dure de 8 à 42 semaines selon ton niveau. Si tu réussis le cours le plus avancé, ESL 0140, avec au moins B, tu n'as plus besoin de test de langue.",
       "en": "Possibly: depending on your score, you may get a conditional offer with one or two English as a second language courses in first year, or with the English Intensive Program to complete before starting your program. The program lasts 8 to 42 weeks depending on your level. If you pass the most advanced course, ESL 0140, with a B or higher, you no longer need a language test."
     },
-    "sources": [{ "label": "Language requirements — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements" }],
+    "sources": [
+      {
+        "label": "Language requirements — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -72,13 +169,32 @@
   {
     "id": "a-report-admission",
     "category": "admissions",
-    "keywords": ["reporter mon admission", "report d'admission", "deferral", "defer my offer", "defer admission", "commencer plus tard", "start later", "repousser mon offre", "année sabbatique", "gap year"],
-    "question": { "fr": "Est-ce que je peux reporter mon offre d'admission à plus tard ?", "en": "Can I defer my offer of admission?" },
+    "keywords": [
+      "reporter mon admission",
+      "report d'admission",
+      "deferral",
+      "defer my offer",
+      "defer admission",
+      "commencer plus tard",
+      "start later",
+      "repousser mon offre",
+      "année sabbatique",
+      "gap year"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux reporter mon offre d'admission à plus tard ?",
+      "en": "Can I defer my offer of admission?"
+    },
     "answer": {
       "fr": "En général non, car une offre est valide seulement pour le programme, l'année et la session indiqués ; sinon, il faut refaire une demande. Un report peut toutefois être accordé dans des circonstances exceptionnelles, comme une maladie, un service militaire obligatoire ou un permis d'études reçu trop tard, pour au plus 12 mois. Tu dois avoir accepté ton offre, puis remplir le formulaire de demande de report avant la dernière date pour abandonner un cours avec crédit financier.",
       "en": "Usually not, because an offer is only valid for the program, year and term specified; otherwise you must reapply. A deferral may be granted in exceptional circumstances, such as illness, mandatory military service or a study permit received too late, for up to 12 months. You must have accepted your offer, then fill out the deferral request form before the last day to withdraw from a course with a financial credit."
     },
-    "sources": [{ "label": "Deferrals — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/deferrals" }],
+    "sources": [
+      {
+        "label": "Deferrals — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/deferrals"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -86,13 +202,31 @@
   {
     "id": "a-appel-decision-admission",
     "category": "admissions",
-    "keywords": ["appel décision admission", "admission appeal", "refusé admission", "admission refused", "contester refus", "appeal admission decision", "j'ai été refusé", "i was rejected", "revoir ma demande"],
-    "question": { "fr": "J'ai été refusé : est-ce que je peux faire appel de la décision ?", "en": "I was refused admission: can I appeal the decision?" },
+    "keywords": [
+      "appel décision admission",
+      "admission appeal",
+      "refusé admission",
+      "admission refused",
+      "contester refus",
+      "appeal admission decision",
+      "j'ai été refusé",
+      "i was rejected",
+      "revoir ma demande"
+    ],
+    "question": {
+      "fr": "J'ai été refusé : est-ce que je peux faire appel de la décision ?",
+      "en": "I was refused admission: can I appeal the decision?"
+    },
     "answer": {
       "fr": "Les décisions sont habituellement finales, mais tu peux faire appel si tes notes se sont améliorées, si tu as de nouveaux résultats de cours, si tu as ajouté un document manquant ou si tu crois qu'il y a eu une erreur. L'appel se fait par écrit au Bureau des admissions, avec ton numéro d'étudiant, ton programme, la raison et les pièces justificatives. Tu reçois la décision du comité par écrit dans un délai de 10 jours ouvrables ; il n'y a pas d'appel possible à la Faculté d'éducation.",
       "en": "Decisions are usually final, but you can appeal if your grades have improved, you have new course results, you've added a missing document or you believe there was an error. Appeals are made in writing to the Admissions Office, with your student number, your program, the reason and supporting documents. You'll get the committee's decision in writing within 10 business days; there is no appeal process for the Faculty of Education."
     },
-    "sources": [{ "label": "Appeals of admissions decisions — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/appeals" }],
+    "sources": [
+      {
+        "label": "Appeals of admissions decisions — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/appeals"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -100,13 +234,31 @@
   {
     "id": "a-candidat-adulte",
     "category": "admissions",
-    "keywords": ["candidat adulte", "mature applicant", "mature student", "retour aux études", "back to school", "étudiant adulte", "pas de diplôme secondaire", "adult learner", "admission adulte"],
-    "question": { "fr": "Je n'ai pas étudié depuis longtemps : est-ce que je peux être admis comme candidat adulte ?", "en": "I haven't studied in years: can I apply as a mature applicant?" },
+    "keywords": [
+      "candidat adulte",
+      "mature applicant",
+      "mature student",
+      "retour aux études",
+      "back to school",
+      "étudiant adulte",
+      "pas de diplôme secondaire",
+      "adult learner",
+      "admission adulte"
+    ],
+    "question": {
+      "fr": "Je n'ai pas étudié depuis longtemps : est-ce que je peux être admis comme candidat adulte ?",
+      "en": "I haven't studied in years: can I apply as a mature applicant?"
+    },
     "answer": {
       "fr": "Oui, si tu es citoyen canadien ou résident permanent et que tu n'as pas fréquenté l'école secondaire à temps plein au cours des trois dernières années. Tu dois satisfaire aux préalables de ton programme et fournir un curriculum vitae et une lettre d'intention ; ton dossier est évalué au cas par cas, et l'âge n'est pas un critère. Par contre, si tu as déjà fréquenté un collège ou une université, tu ne peux pas postuler comme candidat adulte.",
       "en": "Yes, if you're a Canadian citizen or permanent resident and haven't attended secondary school full time in the past three years. You must meet your program's prerequisites and submit a resumé and a letter of intent; your file is assessed case by case, and age is not a factor. However, if you've already attended a college or university, you can't apply as a mature applicant."
     },
-    "sources": [{ "label": "Mature applicants — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/mature-applicants" }],
+    "sources": [
+      {
+        "label": "Mature applicants — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/mature-applicants"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -114,13 +266,33 @@
   {
     "id": "a-offre-admission-etapes",
     "category": "admissions",
-    "keywords": ["j'ai été admis", "i've been admitted", "accepter mon offre", "accept my offer", "offre d'admission", "offer of admission", "prochaines étapes admission", "next steps admitted", "relevé final", "final transcript", "conditions d'admission"],
-    "question": { "fr": "J'ai reçu une offre d'admission : qu'est-ce que je dois faire maintenant ?", "en": "I received an offer of admission: what do I do now?" },
+    "keywords": [
+      "j'ai été admis",
+      "i've been admitted",
+      "accepter mon offre",
+      "accept my offer",
+      "offre d'admission",
+      "offer of admission",
+      "prochaines étapes admission",
+      "next steps admitted",
+      "relevé final",
+      "final transcript",
+      "conditions d'admission"
+    ],
+    "question": {
+      "fr": "J'ai reçu une offre d'admission : qu'est-ce que je dois faire maintenant ?",
+      "en": "I received an offer of admission: what do I do now?"
+    },
     "answer": {
       "fr": "Félicitations ! Lis bien ton offre dans ton dossier d'admission sur uoZone, puis accepte-la avant la date limite indiquée. Paie ton dépôt d'admission s'il est exigé ; les étudiants internationaux reçoivent ensuite leur lettre d'attestation provinciale. Enfin, téléverse ton relevé de notes final dans uoDoc : la vérification des conditions se fait de mai à la fin août.",
       "en": "Congratulations! Read your offer carefully in your admission file in uoZone, then accept it before the deadline shown. Pay your admission deposit if one is required; international students then receive their provincial attestation letter. Finally, upload your final transcript to uoDoc: conditions are verified from May until late August."
     },
-    "sources": [{ "label": "I've been admitted — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted" }],
+    "sources": [
+      {
+        "label": "I've been admitted — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -128,13 +300,31 @@
   {
     "id": "a-depot-admission",
     "category": "admissions",
-    "keywords": ["dépôt d'admission", "admission deposit", "dépôt international", "deposit international student", "combien coûte le dépôt", "deposit refund", "remboursement dépôt", "2000 dollars", "dépôt non remboursable"],
-    "question": { "fr": "C'est quoi le dépôt d'admission et combien ça coûte ?", "en": "What is the admission deposit and how much is it?" },
+    "keywords": [
+      "dépôt d'admission",
+      "admission deposit",
+      "dépôt international",
+      "deposit international student",
+      "combien coûte le dépôt",
+      "deposit refund",
+      "remboursement dépôt",
+      "2000 dollars",
+      "dépôt non remboursable"
+    ],
+    "question": {
+      "fr": "C'est quoi le dépôt d'admission et combien ça coûte ?",
+      "en": "What is the admission deposit and how much is it?"
+    },
     "answer": {
       "fr": "Le dépôt confirme ta place dans le programme et il est ensuite appliqué à tes droits de scolarité. Pour un étudiant international admis au premier cycle, le montant standard est de 2 000 $, et de 1 000 $ pour un certificat ou un diplôme d'études supérieures ; ton offre indique le montant exact. Il n'est pas remboursable, sauf si IRCC refuse ta demande de permis d'études et que tu en fournis la preuve.",
       "en": "The deposit confirms your place in the program and is later applied to your tuition fees. For an international student admitted to an undergraduate program, the standard amount is $2,000, and $1,000 for a graduate certificate or diploma; your offer shows the exact amount. It's non-refundable unless IRCC refuses your study permit application and you provide proof."
     },
-    "sources": [{ "label": "Admission deposit — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/admission-deposit" }],
+    "sources": [
+      {
+        "label": "Admission deposit — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/admission-deposit"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -142,13 +332,33 @@
   {
     "id": "a-credits-transfert-admission",
     "category": "admissions",
-    "keywords": ["crédits de transfert", "transfer credits", "reconnaissance des acquis", "transfert collège", "college transfer", "transfert université", "university transfer", "cégep crédits", "cegep credits", "plan de cours", "course outlines"],
-    "question": { "fr": "Je viens d'un autre collège ou université : quand vais-je savoir quels crédits sont reconnus ?", "en": "I'm coming from another college or university: when will I know which credits are recognized?" },
+    "keywords": [
+      "crédits de transfert",
+      "transfer credits",
+      "reconnaissance des acquis",
+      "transfert collège",
+      "college transfer",
+      "transfert université",
+      "university transfer",
+      "cégep crédits",
+      "cegep credits",
+      "plan de cours",
+      "course outlines"
+    ],
+    "question": {
+      "fr": "Je viens d'un autre collège ou université : quand vais-je savoir quels crédits sont reconnus ?",
+      "en": "I'm coming from another college or university: when will I know which credits are recognized?"
+    },
     "answer": {
       "fr": "Les crédits de transfert sont évalués seulement après que tu as accepté ton offre et payé ton dépôt, s'il y en a un ; il n'y a pas d'évaluation avant l'admission. Dans les trois semaines suivantes, tu reçois une offre révisée avec tes crédits ou une demande de plans de cours, que tu as deux semaines pour envoyer. À noter : tu dois suivre au moins la moitié de tes cours à l'Université d'Ottawa.",
       "en": "Transfer credits are assessed only after you accept your offer and pay your deposit, if one applies; there are no pre-admission evaluations. Within three weeks, you'll receive either a revised offer showing your credits or a request for course outlines, which you have two weeks to send. Note that you must complete at least half of your courses at the University of Ottawa."
     },
-    "sources": [{ "label": "Transfer credits — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits" }],
+    "sources": [
+      {
+        "label": "Transfer credits — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -156,13 +366,33 @@
   {
     "id": "a-visite-campus",
     "category": "admissions",
-    "keywords": ["visite du campus", "campus tour", "visite guidée", "guided tour", "visiter l'université", "visit campus", "tour virtuel", "virtual tour", "ambassadeurs étudiants", "group tour", "visite de groupe"],
-    "question": { "fr": "Comment est-ce que je peux visiter le campus ?", "en": "How can I tour the campus?" },
+    "keywords": [
+      "visite du campus",
+      "campus tour",
+      "visite guidée",
+      "guided tour",
+      "visiter l'université",
+      "visit campus",
+      "tour virtuel",
+      "virtual tour",
+      "ambassadeurs étudiants",
+      "group tour",
+      "visite de groupe"
+    ],
+    "question": {
+      "fr": "Comment est-ce que je peux visiter le campus ?",
+      "en": "How can I tour the campus?"
+    },
     "answer": {
       "fr": "Tu peux t'inscrire en ligne à une visite guidée d'environ 90 minutes, animée par des ambassadeurs étudiants, qui part du hall du pavillon Desmarais, au 55, avenue Laurier Est. Arrive 10 à 15 minutes d'avance et habille-toi selon la météo, car une bonne partie se fait à l'extérieur. Pour un groupe de 10 personnes ou plus, il faut réserver au moins deux semaines d'avance, et une visite virtuelle est aussi offerte en tout temps.",
       "en": "You can register online for a guided tour of about 90 minutes, led by student ambassadors, starting in the lobby of Desmarais Hall at 55 Laurier Avenue East. Arrive 10 to 15 minutes early and dress for the weather, since much of it is outdoors. Groups of 10 or more must book at least two weeks ahead, and a self-guided virtual tour is also available anytime."
     },
-    "sources": [{ "label": "Campus tours — uOttawa", "url": "https://www.uottawa.ca/study/campus-tours-admissions-events/campus-tours" }],
+    "sources": [
+      {
+        "label": "Campus tours — uOttawa",
+        "url": "https://www.uottawa.ca/study/campus-tours-admissions-events/campus-tours"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -170,13 +400,32 @@
   {
     "id": "a-infoadmission",
     "category": "admissions",
-    "keywords": ["infoadmission", "bureau des admissions", "admissions office", "où est le bureau des admissions", "where is admissions", "question admission", "admission help", "bureau de liaison", "liaison office", "téléphone admission"],
-    "question": { "fr": "Où est le bureau des admissions ?", "en": "Where is the admissions office?" },
+    "keywords": [
+      "infoadmission",
+      "bureau des admissions",
+      "admissions office",
+      "où est le bureau des admissions",
+      "where is admissions",
+      "question admission",
+      "admission help",
+      "bureau de liaison",
+      "liaison office",
+      "téléphone admission"
+    ],
+    "question": {
+      "fr": "Où est le bureau des admissions ?",
+      "en": "Where is the admissions office?"
+    },
     "answer": {
       "fr": "InfoAdmission, qui répond aux questions sur les demandes et les documents, se trouve au pavillon Tabaret, 75, avenue Laurier Est, salle 129. Tu peux aussi prendre une place dans la file virtuelle ou envoyer une demande en ligne. Pour de l'information générale aux futurs étudiants, le Bureau de liaison répond au 613-562-5800, poste 1000.",
       "en": "InfoAdmission, which answers questions about applications and documents, is in Tabaret Hall, 75 Laurier Avenue East, room 129. You can also join the virtual line or send a request online. For general information for future students, the Liaison Office can be reached at 613-562-5800, extension 1000."
     },
-    "sources": [{ "label": "Undergraduate studies — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies" }],
+    "sources": [
+      {
+        "label": "Undergraduate studies — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -184,15 +433,37 @@
   {
     "id": "a-programmes-professionnels",
     "category": "admissions",
-    "keywords": ["programmes professionnels", "professional programs", "devenir avocat", "become a lawyer", "devenir enseignant", "become a teacher", "devenir médecin", "become a doctor", "pharmacie", "pharmd", "formation à l'enseignement", "teacher education"],
-    "question": { "fr": "Comment est-ce qu'on entre en droit, en enseignement ou en médecine ?", "en": "How do I get into law, teaching or medicine?" },
+    "keywords": [
+      "programmes professionnels",
+      "professional programs",
+      "devenir avocat",
+      "become a lawyer",
+      "devenir enseignant",
+      "become a teacher",
+      "devenir médecin",
+      "become a doctor",
+      "pharmacie",
+      "pharmd",
+      "formation à l'enseignement",
+      "teacher education"
+    ],
+    "question": {
+      "fr": "Comment est-ce qu'on entre en droit, en enseignement ou en médecine ?",
+      "en": "How do I get into law, teaching or medicine?"
+    },
     "answer": {
       "fr": "Ce sont des programmes professionnels, avec leurs propres conditions et dates limites, et certains exigent des études postsecondaires préalables. Par exemple, pour la formation à l'enseignement, la période de demande ferme le 2 novembre 2026, et pour le droit civil, le 1er mars 2027. Pour la common law et pour les programmes de médecine, comme le doctorat en médecine ou en pharmacie, consulte directement la page de la faculté.",
       "en": "These are professional programs with their own requirements and deadlines, and some require prior postsecondary studies. For example, the application period for Teacher Education closes November 2, 2026, and for Civil Law, March 1, 2027. For Common Law and Medicine programs, such as the MD or PharmD, check the faculty's own page."
     },
     "sources": [
-      { "label": "Professional programs — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/professional-programs" },
-      { "label": "Application deadlines for undergraduate studies — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/application-deadlines" }
+      {
+        "label": "Professional programs — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/professional-programs"
+      },
+      {
+        "label": "Application deadlines for undergraduate studies — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/application-deadlines"
+      }
     ],
     "related": [],
     "verifiedOn": "2026-11-16",
@@ -201,15 +472,34 @@
   {
     "id": "a-etudiant-libre",
     "category": "admissions",
-    "keywords": ["étudiant libre", "étudiant spécial", "non-degree student", "special student", "suivre un cours sans être admis", "take a course without a degree", "cours pour intérêt personnel", "personal interest course", "auditeur"],
-    "question": { "fr": "Est-ce que je peux suivre des cours sans être inscrit à un programme ?", "en": "Can I take courses without being in a degree program?" },
+    "keywords": [
+      "étudiant libre",
+      "étudiant spécial",
+      "non-degree student",
+      "special student",
+      "suivre un cours sans être admis",
+      "take a course without a degree",
+      "cours pour intérêt personnel",
+      "personal interest course",
+      "auditeur"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux suivre des cours sans être inscrit à un programme ?",
+      "en": "Can I take courses without being in a degree program?"
+    },
     "answer": {
       "fr": "Oui, comme étudiant libre : tu obtiens des crédits sans viser de diplôme, et tu n'as pas besoin de faire une demande d'admission. Dans la catégorie intérêt personnel, tu peux suivre au plus six unités, soit deux cours, par session, jusqu'à un total de 30 unités. Attention, les cours de premier cycle en génie et en informatique sont réservés aux étudiants de la faculté.",
       "en": "Yes, as a non-degree student: you earn university units without pursuing a degree, and you don't need to apply for admission. In the personal interest category, you can take up to six units, or two courses, per term, up to a total of 30 units. Note that undergraduate engineering and computer science courses are reserved for the faculty's own students."
     },
     "sources": [
-      { "label": "Course enrolment - Non-degree students — uOttawa", "url": "https://www.uottawa.ca/study/course-enrolment/non-degree-students" },
-      { "label": "Academic Office, Faculty of Engineering — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/student-hub/academic-office" }
+      {
+        "label": "Course enrolment - Non-degree students — uOttawa",
+        "url": "https://www.uottawa.ca/study/course-enrolment/non-degree-students"
+      },
+      {
+        "label": "Academic Office, Faculty of Engineering — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/student-hub/academic-office"
+      }
     ],
     "related": [],
     "verifiedOn": "2026-11-16",
@@ -218,13 +508,32 @@
   {
     "id": "a-prealables-programme",
     "category": "admissions",
-    "keywords": ["préalables programme", "program prerequisites", "moyenne d'admission", "admission average", "cours requis", "required courses", "quelle moyenne", "what average do i need", "cours 4u", "4u courses"],
-    "question": { "fr": "Comment savoir quels cours et quelle moyenne il faut pour mon programme ?", "en": "How do I find out which courses and average I need for my program?" },
+    "keywords": [
+      "préalables programme",
+      "program prerequisites",
+      "moyenne d'admission",
+      "admission average",
+      "cours requis",
+      "required courses",
+      "quelle moyenne",
+      "what average do i need",
+      "cours 4u",
+      "4u courses"
+    ],
+    "question": {
+      "fr": "Comment savoir quels cours et quelle moyenne il faut pour mon programme ?",
+      "en": "How do I find out which courses and average I need for my program?"
+    },
     "answer": {
       "fr": "La page des préalables a un outil de recherche : tu choisis ton niveau d'études, ton système scolaire et le programme, et il affiche les cours exigés et la moyenne minimale. Sauf indication contraire, les préalables doivent être faits en dernière année du secondaire ou au postsecondaire. Ces moyennes sont des minimums : les atteindre ne garantit pas l'admission dans les programmes plus contingentés.",
       "en": "The prerequisites page has a search tool: you pick your level of education, your school system and the program, and it shows the required courses and the minimum average. Unless stated otherwise, prerequisites must be completed in your final year of high school or at the postsecondary level. These averages are minimums: meeting them doesn't guarantee admission to more competitive programs."
     },
-    "sources": [{ "label": "Program prerequisites for undergraduate admission — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/program-prerequisites" }],
+    "sources": [
+      {
+        "label": "Program prerequisites for undergraduate admission — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/program-prerequisites"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -232,13 +541,32 @@
   {
     "id": "a-admission-coop",
     "category": "admissions",
-    "keywords": ["admission coop", "apply to co-op", "postuler coop", "moyenne coop", "co-op average", "coop requirements", "coop dès l'admission", "co-op at admission", "stages rémunérés", "paid internships"],
-    "question": { "fr": "Comment est-ce que je m'inscris au programme coop ?", "en": "How do I apply to the co-op program?" },
+    "keywords": [
+      "admission coop",
+      "apply to co-op",
+      "postuler coop",
+      "moyenne coop",
+      "co-op average",
+      "coop requirements",
+      "coop dès l'admission",
+      "co-op at admission",
+      "stages rémunérés",
+      "paid internships"
+    ],
+    "question": {
+      "fr": "Comment est-ce que je m'inscris au programme coop ?",
+      "en": "How do I apply to the co-op program?"
+    },
     "answer": {
       "fr": "Tu peux postuler au coop en même temps que ta demande d'admission, avec une moyenne minimale de 80 % si tu arrives du secondaire, ou de 75 % après au moins deux ans de cégep. Tu peux aussi postuler une fois tes études commencées, par uoZone, avant la date limite de ton programme. Certains programmes, comme les sciences biomédicales, les sciences de la santé, la kinésiologie et la traduction, ne permettent pas l'inscription au coop dès l'admission.",
       "en": "You can apply to co-op at the same time as your admission application, with a minimum average of 80% coming from high school, or 75% after at least two years of CEGEP. You can also apply once your studies have started, through uoZone, before your program's deadline. Some programs, such as Biomedical Science, Health Sciences, Human Kinetics and Translation, don't allow co-op applications at admission."
     },
-    "sources": [{ "label": "Applying to co-op — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/admission" }],
+    "sources": [
+      {
+        "label": "Applying to co-op — uOttawa",
+        "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/admission"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -246,13 +574,33 @@
   {
     "id": "a-trouver-programme",
     "category": "programmes",
-    "keywords": ["trouver un programme", "find a program", "liste des programmes", "program list", "programmes de premier cycle", "undergraduate programs", "baccalauréat spécialisé", "honours bachelor", "majeure mineure", "major minor", "combien de programmes"],
-    "question": { "fr": "Comment trouver le bon programme pour moi ?", "en": "How do I find the right program for me?" },
+    "keywords": [
+      "trouver un programme",
+      "find a program",
+      "liste des programmes",
+      "program list",
+      "programmes de premier cycle",
+      "undergraduate programs",
+      "baccalauréat spécialisé",
+      "honours bachelor",
+      "majeure mineure",
+      "major minor",
+      "combien de programmes"
+    ],
+    "question": {
+      "fr": "Comment trouver le bon programme pour moi ?",
+      "en": "How do I find the right program for me?"
+    },
     "answer": {
       "fr": "L'Université offre plus de 350 programmes de premier cycle, en français et en anglais, et une liste complète est disponible en ligne. En première année, tu choisis d'abord ta discipline principale, puis tu peux ajouter une mineure ou une deuxième discipline plus tard. Un baccalauréat spécialisé compte habituellement 120 unités, soit environ 40 cours sur quatre ans.",
       "en": "The University offers more than 350 undergraduate programs in English and French, and a full listing is available online. In first year, you first choose your main discipline, then you can add a minor or a second discipline later. An honours bachelor's degree usually requires 120 units, or about 40 courses over four years."
     },
-    "sources": [{ "label": "Undergraduate programs — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/undergraduate-programs" }],
+    "sources": [
+      {
+        "label": "Undergraduate programs — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/undergraduate-programs"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -260,13 +608,32 @@
   {
     "id": "a-doubles-diplomes-acceleres",
     "category": "programmes",
-    "keywords": ["double diplôme accéléré", "dual fast-track degree", "deux diplômes", "two degrees", "double baccalauréat", "bcom jd", "biotechnologie", "science des données", "data science", "programme intégré"],
-    "question": { "fr": "C'est quoi un double diplôme accéléré ?", "en": "What is a dual fast-track degree?" },
+    "keywords": [
+      "double diplôme accéléré",
+      "dual fast-track degree",
+      "deux diplômes",
+      "two degrees",
+      "double baccalauréat",
+      "bcom jd",
+      "biotechnologie",
+      "science des données",
+      "data science",
+      "programme intégré"
+    ],
+    "question": {
+      "fr": "C'est quoi un double diplôme accéléré ?",
+      "en": "What is a dual fast-track degree?"
+    },
     "answer": {
       "fr": "C'est un parcours intégré qui mène à deux diplômes avec une seule demande d'admission, en économisant une ou deux sessions grâce aux cours qui se recoupent. Par exemple, la biotechnologie combine biochimie et génie chimique en cinq ans au lieu de six, et le baccalauréat en commerce peut se jumeler au Juris Doctor en six ans au lieu de sept. Ces programmes sont prestigieux et contingentés.",
       "en": "It's an integrated path leading to two degrees with a single application, saving one or two terms because overlapping courses are removed. For example, Biotechnology combines Biochemistry and Chemical Engineering in five years instead of six, and the Bachelor of Commerce can be paired with a Juris Doctor in six years instead of seven. These programs are prestigious and competitive."
     },
-    "sources": [{ "label": "Dual fast-track degrees — uOttawa", "url": "https://www.uottawa.ca/study/dual-fast-track-degrees" }],
+    "sources": [
+      {
+        "label": "Dual fast-track degrees — uOttawa",
+        "url": "https://www.uottawa.ca/study/dual-fast-track-degrees"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -274,13 +641,35 @@
   {
     "id": "a-faculte-arts",
     "category": "programmes",
-    "keywords": ["faculté des arts", "faculty of arts", "où est la faculté des arts", "where is arts", "pavillon simard", "simard hall", "lettres", "humanities", "beaux-arts", "musique", "théâtre", "traduction", "langues"],
-    "question": { "fr": "Qu'est-ce qu'on étudie à la Faculté des arts et où se trouve-t-elle ?", "en": "What can I study in the Faculty of Arts and where is it?" },
+    "keywords": [
+      "faculté des arts",
+      "faculty of arts",
+      "où est la faculté des arts",
+      "where is arts",
+      "pavillon simard",
+      "simard hall",
+      "lettres",
+      "humanities",
+      "beaux-arts",
+      "musique",
+      "théâtre",
+      "traduction",
+      "langues"
+    ],
+    "question": {
+      "fr": "Qu'est-ce qu'on étudie à la Faculté des arts et où se trouve-t-elle ?",
+      "en": "What can I study in the Faculty of Arts and where is it?"
+    },
     "answer": {
       "fr": "La Faculté des arts regroupe les sciences humaines, les langues et littératures, les arts visuels et de la scène, ainsi qu'un baccalauréat en études interdisciplinaires ; on y trouve entre autres la musique, le théâtre, la traduction, l'histoire et la philosophie. Ses bureaux scolaires sont au pavillon Simard, 60, rue Université, ouverts du lundi au vendredi de 9 h à 16 h 30. L'été, du 1er juin au 31 août, ils ferment à 15 h 30.",
       "en": "The Faculty of Arts covers the humanities, languages and literatures, fine and performing arts, and a BA in Interdisciplinary Studies; it includes music, theatre, translation, history and philosophy, among others. Its academic offices are in Simard Hall, 60 University, open Monday to Friday from 9 a.m. to 4:30 p.m. In summer, from June 1 to August 31, they close at 3:30 p.m."
     },
-    "sources": [{ "label": "Faculty of Arts — uOttawa", "url": "https://www.uottawa.ca/faculty-arts/" }],
+    "sources": [
+      {
+        "label": "Faculty of Arts — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-arts/"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -288,13 +677,33 @@
   {
     "id": "a-faculte-sciences-sociales",
     "category": "programmes",
-    "keywords": ["faculté des sciences sociales", "faculty of social sciences", "fss", "pavillon des sciences sociales", "social sciences building", "120 université", "psychologie", "criminologie", "science politique", "économie", "service social"],
-    "question": { "fr": "Où est la Faculté des sciences sociales et qu'est-ce qu'on y étudie ?", "en": "Where is the Faculty of Social Sciences and what can I study there?" },
+    "keywords": [
+      "faculté des sciences sociales",
+      "faculty of social sciences",
+      "fss",
+      "pavillon des sciences sociales",
+      "social sciences building",
+      "120 université",
+      "psychologie",
+      "criminologie",
+      "science politique",
+      "économie",
+      "service social"
+    ],
+    "question": {
+      "fr": "Où est la Faculté des sciences sociales et qu'est-ce qu'on y étudie ?",
+      "en": "Where is the Faculty of Social Sciences and what can I study there?"
+    },
     "answer": {
       "fr": "La Faculté des sciences sociales est au pavillon des sciences sociales, 120, privé Université ; le bureau des études de premier cycle est à la salle 3010. Elle compte environ 10 000 étudiants et neuf unités scolaires, dont la psychologie, la criminologie, l'économie, les études politiques et le service social. Les pavillons FSS et Vanier sont ouverts sept jours sur sept, de 7 h à 22 h.",
       "en": "The Faculty of Social Sciences is in the Social Sciences Building, 120 University Private; the undergraduate studies office is in room 3010. It has about 10,000 students and nine academic units, including psychology, criminology, economics, political studies and social work. The FSS and Vanier buildings are open seven days a week, 7 a.m. to 10 p.m."
     },
-    "sources": [{ "label": "Faculty of Social Sciences — uOttawa", "url": "https://www.uottawa.ca/faculty-social-sciences/" }],
+    "sources": [
+      {
+        "label": "Faculty of Social Sciences — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-social-sciences/"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -302,13 +711,33 @@
   {
     "id": "a-faculte-sciences-sante",
     "category": "programmes",
-    "keywords": ["faculté des sciences de la santé", "faculty of health sciences", "sciences infirmières", "nursing", "kinésiologie", "human kinetics", "nutrition", "réadaptation", "physiothérapie", "pavillon montpetit", "200 lees"],
-    "question": { "fr": "Qu'est-ce qu'il y a à la Faculté des sciences de la santé ?", "en": "What does the Faculty of Health Sciences offer?" },
+    "keywords": [
+      "faculté des sciences de la santé",
+      "faculty of health sciences",
+      "sciences infirmières",
+      "nursing",
+      "kinésiologie",
+      "human kinetics",
+      "nutrition",
+      "réadaptation",
+      "physiothérapie",
+      "pavillon montpetit",
+      "200 lees"
+    ],
+    "question": {
+      "fr": "Qu'est-ce qu'il y a à la Faculté des sciences de la santé ?",
+      "en": "What does the Faculty of Health Sciences offer?"
+    },
     "answer": {
       "fr": "La Faculté regroupe cinq écoles : l'École interdisciplinaire des sciences de la santé, l'École des sciences de l'activité physique, l'École des sciences infirmières, l'École des sciences de la nutrition et l'École des sciences de la réadaptation. Son Bureau des études est au pavillon Montpetit, 125, privé Université, salle 232. Le bureau du doyen est au 200, avenue Lees.",
       "en": "The Faculty has five schools: the Interdisciplinary School of Health Sciences, the School of Human Kinetics, the School of Nursing, the School of Nutrition Sciences and the School of Rehabilitation Sciences. Its Academic Office is in Montpetit Hall, 125 University Private, room 232. The Dean's Office is at 200 Lees Avenue."
     },
-    "sources": [{ "label": "Faculty of Health Sciences — uOttawa", "url": "https://www.uottawa.ca/faculty-health-sciences/" }],
+    "sources": [
+      {
+        "label": "Faculty of Health Sciences — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-health-sciences/"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -316,13 +745,33 @@
   {
     "id": "a-faculte-medecine",
     "category": "programmes",
-    "keywords": ["faculté de médecine", "faculty of medicine", "où est médecine", "where is medicine", "pavillon roger-guindon", "roger guindon hall", "smyth", "études médicales", "md program", "pharmd", "451 smyth"],
-    "question": { "fr": "Où se trouve la Faculté de médecine ?", "en": "Where is the Faculty of Medicine?" },
+    "keywords": [
+      "faculté de médecine",
+      "faculty of medicine",
+      "où est médecine",
+      "where is medicine",
+      "pavillon roger-guindon",
+      "roger guindon hall",
+      "smyth",
+      "études médicales",
+      "md program",
+      "pharmd",
+      "451 smyth"
+    ],
+    "question": {
+      "fr": "Où se trouve la Faculté de médecine ?",
+      "en": "Where is the Faculty of Medicine?"
+    },
     "answer": {
       "fr": "La Faculté de médecine est au pavillon Roger-Guindon, au 451, chemin Smyth, à Ottawa. Elle offre entre autres le programme de doctorat en médecine, le doctorat en pharmacie, la médecine translationnelle et moléculaire, la technologie médicale en ophtalmologie et des études supérieures. Le bureau du doyen répond au 613-562-5800, poste 8117.",
       "en": "The Faculty of Medicine is in Roger Guindon Hall, 451 Smyth Road, Ottawa. It offers the MD program, the Doctor of Pharmacy, Translational and Molecular Medicine, Ophthalmic Medical Technology and graduate studies, among others. The Office of the Dean can be reached at 613-562-5800, extension 8117."
     },
-    "sources": [{ "label": "Faculty of Medicine — uOttawa", "url": "https://www.uottawa.ca/faculty-medicine/" }],
+    "sources": [
+      {
+        "label": "Faculty of Medicine — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-medicine/"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -330,13 +779,33 @@
   {
     "id": "a-faculte-droit",
     "category": "programmes",
-    "keywords": ["faculté de droit", "faculty of law", "law school", "common law", "droit civil", "civil law", "juris doctor", "jd", "licence en droit", "étudier le droit", "study law"],
-    "question": { "fr": "Qu'est-ce qu'on peut étudier à la Faculté de droit ?", "en": "What can I study at the Faculty of Law?" },
+    "keywords": [
+      "faculté de droit",
+      "faculty of law",
+      "law school",
+      "common law",
+      "droit civil",
+      "civil law",
+      "juris doctor",
+      "jd",
+      "licence en droit",
+      "étudier le droit",
+      "study law"
+    ],
+    "question": {
+      "fr": "Qu'est-ce qu'on peut étudier à la Faculté de droit ?",
+      "en": "What can I study at the Faculty of Law?"
+    },
     "answer": {
       "fr": "La Faculté de droit est au centre-ville, à distance de marche de la Colline du Parlement et de la Cour suprême, et c'est la plus grande faculté de droit au Canada. Tu peux y étudier la common law, en anglais ou en français, le droit civil, offert en français seulement, ainsi que les traditions juridiques autochtones. Elle offre aussi des maîtrises et des doctorats communs aux deux sections.",
       "en": "The Faculty of Law is downtown, within walking distance of Parliament Hill and the Supreme Court, and it's Canada's largest law school. You can study Common Law in English or French, Civil Law, offered in French only, and Indigenous legal traditions. It also offers master's and doctoral programs run jointly by both sections."
     },
-    "sources": [{ "label": "Faculty of Law — uOttawa", "url": "https://www.uottawa.ca/faculty-law/" }],
+    "sources": [
+      {
+        "label": "Faculty of Law — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-law/"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -344,13 +813,33 @@
   {
     "id": "a-faculte-education",
     "category": "programmes",
-    "keywords": ["faculté d'éducation", "faculty of education", "devenir enseignant", "become a teacher", "formation à l'enseignement", "teacher education", "pavillon lamoureux", "lamoureux hall", "med", "qualifications additionnelles", "additional qualifications"],
-    "question": { "fr": "Où est la Faculté d'éducation et qu'est-ce qu'elle offre ?", "en": "Where is the Faculty of Education and what does it offer?" },
+    "keywords": [
+      "faculté d'éducation",
+      "faculty of education",
+      "devenir enseignant",
+      "become a teacher",
+      "formation à l'enseignement",
+      "teacher education",
+      "pavillon lamoureux",
+      "lamoureux hall",
+      "med",
+      "qualifications additionnelles",
+      "additional qualifications"
+    ],
+    "question": {
+      "fr": "Où est la Faculté d'éducation et qu'est-ce qu'elle offre ?",
+      "en": "Where is the Faculty of Education and what does it offer?"
+    },
     "answer": {
       "fr": "La Faculté d'éducation est au pavillon Lamoureux, 145, privé Jean-Jacques-Lussier, salle 143. Elle offre la formation à l'enseignement, des microprogrammes, des diplômes, des maîtrises et des doctorats en éducation. Les enseignants en poste peuvent aussi y suivre des cours de qualifications additionnelles reconnus par l'Ordre des enseignantes et des enseignants de l'Ontario.",
       "en": "The Faculty of Education is in Lamoureux Hall, 145 Jean-Jacques-Lussier Private, room 143. It offers Teacher Education, microprograms, diplomas, master's and doctoral programs in education. Practising teachers can also take Additional Qualification courses recognized by the Ontario College of Teachers."
     },
-    "sources": [{ "label": "Faculty of Education — uOttawa", "url": "https://www.uottawa.ca/faculty-education/" }],
+    "sources": [
+      {
+        "label": "Faculty of Education — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-education/"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -358,13 +847,33 @@
   {
     "id": "a-ecole-gestion-telfer",
     "category": "programmes",
-    "keywords": ["telfer", "école de gestion telfer", "telfer school of management", "business school", "commerce", "bcom", "mba", "administration des affaires", "où est telfer", "pavillon desmarais", "gestion"],
-    "question": { "fr": "Où est l'École de gestion Telfer et quels programmes offre-t-elle ?", "en": "Where is the Telfer School of Management and what does it offer?" },
+    "keywords": [
+      "telfer",
+      "école de gestion telfer",
+      "telfer school of management",
+      "business school",
+      "commerce",
+      "bcom",
+      "mba",
+      "administration des affaires",
+      "où est telfer",
+      "pavillon desmarais",
+      "gestion"
+    ],
+    "question": {
+      "fr": "Où est l'École de gestion Telfer et quels programmes offre-t-elle ?",
+      "en": "Where is the Telfer School of Management and what does it offer?"
+    },
     "answer": {
       "fr": "L'École de gestion Telfer est au pavillon Desmarais, 55, avenue Laurier Est. Elle offre le baccalauréat en commerce, le MBA, le MBA pour cadres, la maîtrise en gestion des services de santé, la maîtrise ès sciences en gestion et le doctorat en gestion. Ses étudiants peuvent aussi faire un échange dans l'un de ses 60 établissements partenaires dans 27 pays.",
       "en": "The Telfer School of Management is in the Desmarais Building, 55 Laurier Avenue East. It offers the Bachelor of Commerce, the MBA, the Executive MBA, the Master of Health Administration, the MSc in Management and the PhD in Management. Its students can also go on exchange at one of 60 partner institutions in 27 countries."
     },
-    "sources": [{ "label": "Telfer School of Management — uOttawa", "url": "https://telfer.uottawa.ca/en/" }],
+    "sources": [
+      {
+        "label": "Telfer School of Management — uOttawa",
+        "url": "https://telfer.uottawa.ca/en/"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -372,15 +881,36 @@
   {
     "id": "a-etudes-superieures",
     "category": "programmes",
-    "keywords": ["études supérieures", "graduate studies", "maîtrise", "master's", "doctorat", "phd", "diplôme d'études supérieures", "graduate diploma", "grad school", "cycles supérieurs", "maîtrise courte durée"],
-    "question": { "fr": "Quels programmes d'études supérieures sont offerts ?", "en": "What graduate programs are offered?" },
+    "keywords": [
+      "études supérieures",
+      "graduate studies",
+      "maîtrise",
+      "master's",
+      "doctorat",
+      "phd",
+      "diplôme d'études supérieures",
+      "graduate diploma",
+      "grad school",
+      "cycles supérieurs",
+      "maîtrise courte durée"
+    ],
+    "question": {
+      "fr": "Quels programmes d'études supérieures sont offerts ?",
+      "en": "What graduate programs are offered?"
+    },
     "answer": {
       "fr": "L'Université offre des diplômes d'études supérieures de quatre à huit mois, des maîtrises de courte durée de 8 à 20 mois, plus de 180 options de maîtrise et des programmes de doctorat. Plusieurs cours et programmes sont aussi offerts en ligne. Pour une demande d'admission, communique avec l'unité scolaire de la faculté qui offre le programme qui t'intéresse.",
       "en": "The University offers graduate diplomas of four to eight months, short-duration master's programs of 8 to 20 months, more than 180 master's options and PhD programs. Many courses and programs are also available online. To apply, contact the academic unit of the faculty offering the program you're interested in."
     },
     "sources": [
-      { "label": "Graduate studies — uOttawa", "url": "https://www.uottawa.ca/study/graduate-studies" },
-      { "label": "Undergraduate studies — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies" }
+      {
+        "label": "Graduate studies — uOttawa",
+        "url": "https://www.uottawa.ca/study/graduate-studies"
+      },
+      {
+        "label": "Undergraduate studies — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies"
+      }
     ],
     "related": [],
     "verifiedOn": "2026-11-16",
@@ -389,13 +919,32 @@
   {
     "id": "a-immersion-francaise",
     "category": "programmes",
-    "keywords": ["immersion française", "french immersion", "régime d'immersion", "french immersion stream", "étudier en français", "study in french", "devenir bilingue", "become bilingual", "pavillon hamelin", "hamelin hall"],
-    "question": { "fr": "C'est quoi le Régime d'immersion en français ?", "en": "What is the French Immersion Stream?" },
+    "keywords": [
+      "immersion française",
+      "french immersion",
+      "régime d'immersion",
+      "french immersion stream",
+      "étudier en français",
+      "study in french",
+      "devenir bilingue",
+      "become bilingual",
+      "pavillon hamelin",
+      "hamelin hall"
+    ],
+    "question": {
+      "fr": "C'est quoi le Régime d'immersion en français ?",
+      "en": "What is the French Immersion Stream?"
+    },
     "answer": {
       "fr": "Le Régime d'immersion permet aux étudiants anglophones et allophones qui ont suivi du français langue seconde au secondaire de faire une partie de leurs études en français. Il est offert dans plus de 80 programmes de premier cycle des six facultés à entrée directe, et tu suis environ le tiers de tes cours en français. Le bureau est au pavillon Hamelin, salle 130, au 70, avenue Laurier Est, et répond au 613-562-5747.",
       "en": "The French Immersion Stream lets Anglophone and Allophone students who took French as a second language in high school complete part of their studies in French. It's offered in more than 80 undergraduate programs across the six direct-entry faculties, and you take about one third of your courses in French. The office is in Hamelin Hall, room 130, 70 Laurier Avenue East, and can be reached at 613-562-5747."
     },
-    "sources": [{ "label": "French Immersion Stream — uOttawa", "url": "https://www.uottawa.ca/study/immersion/french" }],
+    "sources": [
+      {
+        "label": "French Immersion Stream — uOttawa",
+        "url": "https://www.uottawa.ca/study/immersion/french"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -403,13 +952,33 @@
   {
     "id": "a-coop-general",
     "category": "programmes",
-    "keywords": ["programme coop", "co-op program", "coop", "stage rémunéré", "paid work term", "alternance travail études", "work study", "expérience de travail", "coop arts", "coop sciences sociales", "employeurs coop"],
-    "question": { "fr": "Comment fonctionne le programme coop à l'Université ?", "en": "How does the co-op program work at the University?" },
+    "keywords": [
+      "programme coop",
+      "co-op program",
+      "coop",
+      "stage rémunéré",
+      "paid work term",
+      "alternance travail études",
+      "work study",
+      "expérience de travail",
+      "coop arts",
+      "coop sciences sociales",
+      "employeurs coop"
+    ],
+    "question": {
+      "fr": "Comment fonctionne le programme coop à l'Université ?",
+      "en": "How does the co-op program work at the University?"
+    },
     "answer": {
       "fr": "Le coop te permet d'alterner sessions d'études et stages rémunérés dans ton domaine, pour environ 16 mois d'expérience à la fin de ton baccalauréat. Il est offert dans plus de 90 programmes, avec plus de 4 000 employeurs. En général, ton premier stage a lieu l'été après ta deuxième année, puis stages et études alternent jusqu'à la fin du programme.",
       "en": "Co-op lets you alternate study terms with paid work terms in your field, for about 16 months of experience by the end of your bachelor's degree. It's offered in more than 90 programs, with more than 4,000 employers. Usually, your first work term is the summer after second year, then work and study terms alternate until the end of the program."
     },
-    "sources": [{ "label": "Co-op — uOttawa", "url": "https://www.uottawa.ca/study/career-experiential-learning/coop" }],
+    "sources": [
+      {
+        "label": "Co-op — uOttawa",
+        "url": "https://www.uottawa.ca/study/career-experiential-learning/coop"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -417,13 +986,31 @@
   {
     "id": "a-echange-carleton",
     "category": "programmes",
-    "keywords": ["cours à carleton", "carleton course", "échange carleton", "carleton exchange", "université carleton", "carleton university", "suivre un cours ailleurs", "take a course at carleton", "entente carleton"],
-    "question": { "fr": "Est-ce que je peux suivre un cours à l'Université Carleton ?", "en": "Can I take a course at Carleton University?" },
+    "keywords": [
+      "cours à carleton",
+      "carleton course",
+      "échange carleton",
+      "carleton exchange",
+      "université carleton",
+      "carleton university",
+      "suivre un cours ailleurs",
+      "take a course at carleton",
+      "entente carleton"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux suivre un cours à l'Université Carleton ?",
+      "en": "Can I take a course at Carleton University?"
+    },
     "answer": {
       "fr": "Oui, grâce au programme d'échange entre l'Université d'Ottawa et l'Université Carleton, qui permet de suivre des cours là-bas pour des crédits. Tu dois être inscrit pour la session, avoir une bonne situation scolaire et l'approbation de ta faculté. Le cours doit être exigé dans ton programme et ne pas être offert ou disponible ici pendant la même année.",
       "en": "Yes, through the University of Ottawa–Carleton University exchange program, which lets you take courses there for credit. You must be enrolled for the term, be in good academic standing and have your faculty's approval. The course must be required for your program and not be offered or available here during the same year."
     },
-    "sources": [{ "label": "University of Ottawa-Carleton University exchange program — uOttawa", "url": "https://www.uottawa.ca/study/course-enrolment/carleton-enrolment" }],
+    "sources": [
+      {
+        "label": "University of Ottawa-Carleton University exchange program — uOttawa",
+        "url": "https://www.uottawa.ca/study/course-enrolment/carleton-enrolment"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -431,15 +1018,35 @@
   {
     "id": "a-faculte-genie",
     "category": "genie",
-    "keywords": ["faculté de génie", "faculty of engineering", "génie uottawa", "uottawa engineering", "départements de génie", "engineering departments", "génie civil", "génie mécanique", "génie chimique", "combien d'étudiants en génie"],
-    "question": { "fr": "Comment est organisée la Faculté de génie ?", "en": "How is the Faculty of Engineering organized?" },
+    "keywords": [
+      "faculté de génie",
+      "faculty of engineering",
+      "génie uottawa",
+      "uottawa engineering",
+      "départements de génie",
+      "engineering departments",
+      "génie civil",
+      "génie mécanique",
+      "génie chimique",
+      "combien d'étudiants en génie"
+    ],
+    "question": {
+      "fr": "Comment est organisée la Faculté de génie ?",
+      "en": "How is the Faculty of Engineering organized?"
+    },
     "answer": {
       "fr": "La Faculté de génie compte trois départements, génie chimique et biologique, génie civil et génie mécanique, et deux écoles : l'École de science informatique et de génie électrique et l'École de design et d'innovation pédagogique en génie. Elle accueille environ 7 000 étudiants et 140 professeurs, et tous ses programmes de génie et d'informatique de premier cycle sont agréés.",
       "en": "The Faculty of Engineering has three departments, Chemical and Biological Engineering, Civil Engineering and Mechanical Engineering, and two schools: the School of Electrical Engineering and Computer Science and the School of Engineering Design and Teaching Innovation. It has about 7,000 students and 140 professors, and all its undergraduate engineering and computer science programs are accredited."
     },
     "sources": [
-      { "label": "About the Faculty of Engineering — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/about" },
-      { "label": "Undergraduate programs, Faculty of Engineering — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs" }
+      {
+        "label": "About the Faculty of Engineering — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/about"
+      },
+      {
+        "label": "Undergraduate programs, Faculty of Engineering — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs"
+      }
     ],
     "related": [],
     "verifiedOn": "2026-11-16",
@@ -448,13 +1055,32 @@
   {
     "id": "a-genie-bureau-etudes",
     "category": "genie",
-    "keywords": ["bureau des études génie", "engineering academic office", "bureau scolaire génie", "pavillon site", "site building", "ste 1020", "aide inscription génie", "engineering advisor", "conseiller génie", "800 king edward"],
-    "question": { "fr": "Où est le bureau des études de la Faculté de génie ?", "en": "Where is the Faculty of Engineering's Academic Office?" },
+    "keywords": [
+      "bureau des études génie",
+      "engineering academic office",
+      "bureau scolaire génie",
+      "pavillon site",
+      "site building",
+      "ste 1020",
+      "aide inscription génie",
+      "engineering advisor",
+      "conseiller génie",
+      "800 king edward"
+    ],
+    "question": {
+      "fr": "Où est le bureau des études de la Faculté de génie ?",
+      "en": "Where is the Faculty of Engineering's Academic Office?"
+    },
     "answer": {
       "fr": "Le Bureau des études de génie est au pavillon SITE, salle 1020, au 800, avenue King-Edward. Il est ouvert du lundi au vendredi, de 9 h à 16 h 30 de septembre à mai, et de 9 h à 15 h 30 de juin à août, mais il ferme de midi à 13 h. Tu peux y rencontrer un agent sur place ou par la file virtuelle, ou prendre rendez-vous avec un spécialiste.",
       "en": "The Engineering Academic Office is in the SITE building, room 1020, at 800 King Edward Avenue. It's open Monday to Friday, 9 a.m. to 4:30 p.m. from September to May, and 9 a.m. to 3:30 p.m. from June to August, but closes from noon to 1 p.m. You can meet an officer in person or through the virtual line, or book an appointment with a specialist."
     },
-    "sources": [{ "label": "Academic Office, Faculty of Engineering — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/student-hub/academic-office" }],
+    "sources": [
+      {
+        "label": "Academic Office, Faculty of Engineering — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/student-hub/academic-office"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -462,13 +1088,33 @@
   {
     "id": "a-eecs",
     "category": "genie",
-    "keywords": ["école de science informatique et de génie électrique", "school of electrical engineering and computer science", "eecs", "informatique", "computer science", "génie électrique", "electrical engineering", "génie logiciel", "software engineering", "génie informatique", "computer engineering"],
-    "question": { "fr": "Où étudie-t-on l'informatique et le génie électrique ?", "en": "Where do I study computer science and electrical engineering?" },
+    "keywords": [
+      "école de science informatique et de génie électrique",
+      "school of electrical engineering and computer science",
+      "eecs",
+      "informatique",
+      "computer science",
+      "génie électrique",
+      "electrical engineering",
+      "génie logiciel",
+      "software engineering",
+      "génie informatique",
+      "computer engineering"
+    ],
+    "question": {
+      "fr": "Où étudie-t-on l'informatique et le génie électrique ?",
+      "en": "Where do I study computer science and electrical engineering?"
+    },
     "answer": {
       "fr": "C'est à l'École de science informatique et de génie électrique, au sein de la Faculté de génie. Elle offre des programmes de premier cycle et des cycles supérieurs en génie électrique, génie informatique, génie logiciel et informatique. Elle compte plus de 2 700 étudiants au premier cycle et plus de 800 aux cycles supérieurs, avec de la recherche en intelligence artificielle, cybersécurité, photonique et robotique.",
       "en": "That's the School of Electrical Engineering and Computer Science, part of the Faculty of Engineering. It offers undergraduate and graduate programs in electrical engineering, computer engineering, software engineering and computer science. It has more than 2,700 undergraduate and more than 800 graduate students, with research in artificial intelligence, cybersecurity, photonics and robotics."
     },
-    "sources": [{ "label": "School of Electrical Engineering and Computer Science — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science" }],
+    "sources": [
+      {
+        "label": "School of Electrical Engineering and Computer Science — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -476,13 +1122,33 @@
   {
     "id": "a-genie-options-diplome",
     "category": "genie",
-    "keywords": ["option gestion génie", "engineering management option", "option entrepreneuriat", "entrepreneurship option", "agrément génie", "engineering accreditation", "ceab", "maîtrise accélérée", "accelerated master's", "technologie informatique", "computing technology"],
-    "question": { "fr": "Est-ce que je peux personnaliser mon baccalauréat en génie ?", "en": "Can I customize my engineering degree?" },
+    "keywords": [
+      "option gestion génie",
+      "engineering management option",
+      "option entrepreneuriat",
+      "entrepreneurship option",
+      "agrément génie",
+      "engineering accreditation",
+      "ceab",
+      "maîtrise accélérée",
+      "accelerated master's",
+      "technologie informatique",
+      "computing technology"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux personnaliser mon baccalauréat en génie ?",
+      "en": "Can I customize my engineering degree?"
+    },
     "answer": {
       "fr": "Oui : tu peux ajouter l'option gestion et entrepreneuriat à la plupart des programmes, ou choisir une option propre à ton diplôme, comme l'option environnement et ressources hydriques en génie civil. Tu peux aussi transformer ton baccalauréat en double diplôme accéléré avec la technologie informatique, ou commencer des cours de maîtrise grâce au cheminement accéléré. Les programmes sont agréés par le Bureau canadien d'agrément des programmes de génie.",
       "en": "Yes: you can add the Management and Entrepreneurship option to most programs, or choose a degree-specific option, such as the Environmental and Water Resources option in Civil Engineering. You can also turn your bachelor's into a dual fast-track degree with Computing Technology, or start graduate courses through the accelerated master's stream. Programs are accredited by the Canadian Engineering Accreditation Board."
     },
-    "sources": [{ "label": "Undergraduate programs, Faculty of Engineering — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs" }],
+    "sources": [
+      {
+        "label": "Undergraduate programs, Faculty of Engineering — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -490,15 +1156,35 @@
   {
     "id": "a-ceed",
     "category": "genie",
-    "keywords": ["ceed", "centre d'entrepreneuriat et de design en génie", "centre for entrepreneurship and engineering design", "prototypage", "prototyping", "complexe stem", "stem complex", "membre ceed", "ceed membership", "design en génie"],
-    "question": { "fr": "C'est quoi le CEED ?", "en": "What is CEED?" },
+    "keywords": [
+      "ceed",
+      "centre d'entrepreneuriat et de design en génie",
+      "centre for entrepreneurship and engineering design",
+      "prototypage",
+      "prototyping",
+      "complexe stem",
+      "stem complex",
+      "membre ceed",
+      "ceed membership",
+      "design en génie"
+    ],
+    "question": {
+      "fr": "C'est quoi le CEED ?",
+      "en": "What is CEED?"
+    },
     "answer": {
       "fr": "Le Centre d'entrepreneuriat et de design en génie, ou CEED, est un carrefour de programmes, de ressources et d'espaces de prototypage géré par des étudiants et de jeunes diplômés. Ses huit espaces de prototypage et de fabrication sont au premier étage du Complexe STEM. Les étudiants en génie sont membres automatiquement, et ceux des autres facultés peuvent acheter un abonnement d'un jour ou d'une session.",
       "en": "The Centre for Entrepreneurship and Engineering Design, or CEED, is a hub of programs, resources and prototyping spaces run by students and recent alumni. Its eight prototyping and manufacturing spaces are on the first floor of the STEM Complex. Engineering students are members automatically, and students from other faculties can buy a one-day or one-term membership."
     },
     "sources": [
-      { "label": "Centre for Entrepreneurship and Engineering Design — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design" },
-      { "label": "CEED facilities — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities" }
+      {
+        "label": "Centre for Entrepreneurship and Engineering Design — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design"
+      },
+      {
+        "label": "CEED facilities — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities"
+      }
     ],
     "related": [],
     "verifiedOn": "2026-11-16",
@@ -507,13 +1193,33 @@
   {
     "id": "a-makerspace-richard-labbe",
     "category": "genie",
-    "keywords": ["makerspace", "makerspace richard l'abbé", "richard labbe makerspace", "imprimante 3d", "3d printer", "découpe laser", "laser cutter", "stm 107", "heures makerspace", "makerspace hours", "fablab"],
-    "question": { "fr": "Où est le Makerspace et quelles sont ses heures ?", "en": "Where is the Makerspace and what are its hours?" },
+    "keywords": [
+      "makerspace",
+      "makerspace richard l'abbé",
+      "richard labbe makerspace",
+      "imprimante 3d",
+      "3d printer",
+      "découpe laser",
+      "laser cutter",
+      "stm 107",
+      "heures makerspace",
+      "makerspace hours",
+      "fablab"
+    ],
+    "question": {
+      "fr": "Où est le Makerspace et quelles sont ses heures ?",
+      "en": "Where is the Makerspace and what are its hours?"
+    },
     "answer": {
       "fr": "Le Makerspace Richard-L'Abbé est au Complexe STEM, salle STM 107, au 150, privé Louis-Pasteur ; il est ouvert le dimanche de 11 h à 17 h, du lundi au vendredi de 10 h à 18 h, et fermé le samedi. On y trouve des imprimantes 3D, des découpeuses laser, des postes de soudure, de la réalité virtuelle et de l'équipement textile. Les heures peuvent changer pendant les congés et les examens, et tu peux appeler au 613-562-5800, poste 1559.",
       "en": "The Richard L'Abbé Makerspace is in the STEM Complex, room STM 107, 150 Louis-Pasteur Private; it's open Sunday 11 a.m. to 5 p.m., Monday to Friday 10 a.m. to 6 p.m., and closed Saturday. It has 3D printers, laser cutters, soldering stations, virtual reality and textile equipment. Hours may change during holidays and exams, and you can call 613-562-5800, extension 1559."
     },
-    "sources": [{ "label": "uOttawa Richard L'Abbé Makerspace — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace" }],
+    "sources": [
+      {
+        "label": "uOttawa Richard L'Abbé Makerspace — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -521,13 +1227,32 @@
   {
     "id": "a-makerspace-tarifs",
     "category": "genie",
-    "keywords": ["prix makerspace", "makerspace fees", "coût makerspace", "makerspace cost", "passe journalière", "day pass", "impression 3d gratuite", "free 3d printing", "pla gratuit", "accès makerspace"],
-    "question": { "fr": "Combien ça coûte d'utiliser le Makerspace ?", "en": "How much does it cost to use the Makerspace?" },
+    "keywords": [
+      "prix makerspace",
+      "makerspace fees",
+      "coût makerspace",
+      "makerspace cost",
+      "passe journalière",
+      "day pass",
+      "impression 3d gratuite",
+      "free 3d printing",
+      "pla gratuit",
+      "accès makerspace"
+    ],
+    "question": {
+      "fr": "Combien ça coûte d'utiliser le Makerspace ?",
+      "en": "How much does it cost to use the Makerspace?"
+    },
     "answer": {
       "fr": "Il faut être membre du CEED ; pour les étudiants en génie, l'accès libre-service ne coûte rien de plus, et le dimanche est gratuit pour tous les membres. Pour le reste de la communauté universitaire, c'est 5 $ la journée ou 25 $ la session en semaine. L'impression 3D en PLA est gratuite, et les autres matériaux sont facturés au gramme.",
       "en": "You need a CEED membership; for engineering students, self-serve access costs nothing extra, and Sundays are free for all members. For the rest of the University community, it's $5 a day or $25 a term on weekdays. 3D printing with PLA is free, and other materials are charged by the gram."
     },
-    "sources": [{ "label": "uOttawa Richard L'Abbé Makerspace — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace" }],
+    "sources": [
+      {
+        "label": "uOttawa Richard L'Abbé Makerspace — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -535,15 +1260,35 @@
   {
     "id": "a-makerlab-formation",
     "category": "genie",
-    "keywords": ["makerlab", "formation équipement", "equipment training", "atelier gratuit", "free workshop", "centre de formation en fabrication", "manufacturing training centre", "tour et fraiseuse", "lathe milling", "formation découpe laser"],
-    "question": { "fr": "Où est-ce que je peux apprendre à utiliser une découpeuse laser ou un tour ?", "en": "Where can I learn to use a laser cutter or a lathe?" },
+    "keywords": [
+      "makerlab",
+      "formation équipement",
+      "equipment training",
+      "atelier gratuit",
+      "free workshop",
+      "centre de formation en fabrication",
+      "manufacturing training centre",
+      "tour et fraiseuse",
+      "lathe milling",
+      "formation découpe laser"
+    ],
+    "question": {
+      "fr": "Où est-ce que je peux apprendre à utiliser une découpeuse laser ou un tour ?",
+      "en": "Where can I learn to use a laser cutter or a lathe?"
+    },
     "answer": {
       "fr": "Le CEED offre des ateliers hebdomadaires gratuits de septembre à avril. Le MakerLab t'initie aux technologies numériques comme l'impression 3D, la découpe laser et la broderie, et le Centre de formation en fabrication t'apprend à utiliser les tours, les fraiseuses et les scies. Une formation est obligatoire pour certains appareils du Makerspace, comme la découpeuse laser et la fraiseuse de circuits imprimés.",
       "en": "CEED offers free weekly workshops from September to April. The MakerLab introduces you to digital tools like 3D printing, laser cutting and embroidery, and the Manufacturing Training Centre teaches you to use lathes, milling machines and saws. Training is required for some Makerspace equipment, such as the laser cutter and the PCB mill."
     },
     "sources": [
-      { "label": "CEED facilities — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities" },
-      { "label": "uOttawa Richard L'Abbé Makerspace — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace" }
+      {
+        "label": "CEED facilities — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities"
+      },
+      {
+        "label": "uOttawa Richard L'Abbé Makerspace — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace"
+      }
     ],
     "related": [],
     "verifiedOn": "2026-11-16",
@@ -552,13 +1297,31 @@
   {
     "id": "a-centre-brunsfield",
     "category": "genie",
-    "keywords": ["centre brunsfield", "brunsfield centre", "atelier d'usinage", "machine shop", "atelier de fabrication", "usinage", "machining", "fabrication prototype", "espaces ceed"],
-    "question": { "fr": "Y a-t-il un atelier d'usinage pour les étudiants ?", "en": "Is there a machine shop for students?" },
+    "keywords": [
+      "centre brunsfield",
+      "brunsfield centre",
+      "atelier d'usinage",
+      "machine shop",
+      "atelier de fabrication",
+      "usinage",
+      "machining",
+      "fabrication prototype",
+      "espaces ceed"
+    ],
+    "question": {
+      "fr": "Y a-t-il un atelier d'usinage pour les étudiants ?",
+      "en": "Is there a machine shop for students?"
+    },
     "answer": {
       "fr": "Oui, le Centre Brunsfield, un des espaces du CEED, est un atelier d'usinage géré par des étudiants où tu peux concevoir, fabriquer et tester des prototypes complexes avec de l'équipement de fabrication traditionnel. Pendant les heures d'ouverture, l'équipement est gratuit, selon le principe du premier arrivé, premier servi, et un membre du personnel peut te guider. Chaque espace a ses propres règles et son horaire.",
       "en": "Yes, the Brunsfield Centre, one of CEED's spaces, is a student-led machine shop where you can design, build and test complex prototypes with traditional manufacturing equipment. During opening hours, equipment is free on a first-come, first-served basis, and a staff member can guide you. Each space has its own rules and schedule."
     },
-    "sources": [{ "label": "CEED facilities — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities" }],
+    "sources": [
+      {
+        "label": "CEED facilities — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -566,13 +1329,34 @@
   {
     "id": "a-equipes-competitives",
     "category": "genie",
-    "keywords": ["équipes compétitives", "competitive teams", "uorocketry", "formula sae", "baja", "uorover", "supermileage", "toboggan de béton", "concrete toboggan", "club de robotique", "robotics team", "joindre une équipe"],
-    "question": { "fr": "Comment est-ce que je peux joindre une équipe comme uORocketry ou Formula SAE ?", "en": "How can I join a team like uORocketry or Formula SAE?" },
+    "keywords": [
+      "équipes compétitives",
+      "competitive teams",
+      "uorocketry",
+      "formula sae",
+      "baja",
+      "uorover",
+      "supermileage",
+      "toboggan de béton",
+      "concrete toboggan",
+      "club de robotique",
+      "robotics team",
+      "joindre une équipe"
+    ],
+    "question": {
+      "fr": "Comment est-ce que je peux joindre une équipe comme uORocketry ou Formula SAE ?",
+      "en": "How can I join a team like uORocketry or Formula SAE?"
+    },
     "answer": {
       "fr": "Les équipes compétitives de génie, comme uORocketry, Formula SAE, Baja, uOSupermileage, uORover, uOBionics ou le toboggan de béton, recrutent surtout au début de l'année scolaire, chacune avec son propre formulaire. La plupart des membres sont en génie, mais les étudiants de toutes les facultés sont les bienvenus. Compte environ trois à dix heures par semaine ; les compétitions ont lieu surtout entre janvier et août.",
       "en": "Engineering competitive teams, such as uORocketry, Formula SAE, Baja, uOSupermileage, uORover, uOBionics or the concrete toboggan team, mostly recruit at the start of the academic year, each with its own form. Most members are engineering students, but students from all faculties are welcome. Expect about three to ten hours a week; competitions mostly take place between January and August."
     },
-    "sources": [{ "label": "Competitive teams — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/student-hub/competitive-teams" }],
+    "sources": [
+      {
+        "label": "Competitive teams — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/student-hub/competitive-teams"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -580,13 +1364,31 @@
   {
     "id": "a-journee-design",
     "category": "genie",
-    "keywords": ["journée design", "design day", "projets étudiants génie", "engineering student projects", "exposition projets", "project showcase", "ceed design day", "projets clients", "client projects"],
-    "question": { "fr": "C'est quoi la Journée design en génie ?", "en": "What is Design Day in engineering?" },
+    "keywords": [
+      "journée design",
+      "design day",
+      "projets étudiants génie",
+      "engineering student projects",
+      "exposition projets",
+      "project showcase",
+      "ceed design day",
+      "projets clients",
+      "client projects"
+    ],
+    "question": {
+      "fr": "C'est quoi la Journée design en génie ?",
+      "en": "What is Design Day in engineering?"
+    },
     "answer": {
       "fr": "La Journée design est un événement public et gratuit où les étudiants de la Faculté de génie présentent leurs projets de design, souvent réalisés pour de vrais clients : prototypes, applications ou plans. Elle a lieu deux fois par année, à l'automne et à l'hiver. La prochaine édition se tient les 2 et 3 décembre 2026.",
       "en": "Design Day is a free public event where Faculty of Engineering students showcase their design projects, often built for real clients: prototypes, apps or design plans. It takes place twice a year, in the fall and in the winter. The next edition is December 2 and 3, 2026."
     },
-    "sources": [{ "label": "Design Day - CEED — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/design-day" }],
+    "sources": [
+      {
+        "label": "Design Day - CEED — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/design-day"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -594,13 +1396,31 @@
   {
     "id": "a-makerlaunch",
     "category": "genie",
-    "keywords": ["makerlaunch", "accélérateur de startups", "startup accelerator", "lancer une entreprise", "start a business", "entrepreneuriat génie", "engineering entrepreneurship", "startup étudiante", "student startup"],
-    "question": { "fr": "J'ai une idée d'entreprise en technologie : y a-t-il un accélérateur ?", "en": "I have a tech startup idea: is there an accelerator?" },
+    "keywords": [
+      "makerlaunch",
+      "accélérateur de startups",
+      "startup accelerator",
+      "lancer une entreprise",
+      "start a business",
+      "entrepreneuriat génie",
+      "engineering entrepreneurship",
+      "startup étudiante",
+      "student startup"
+    ],
+    "question": {
+      "fr": "J'ai une idée d'entreprise en technologie : y a-t-il un accélérateur ?",
+      "en": "I have a tech startup idea: is there an accelerator?"
+    },
     "answer": {
       "fr": "Oui, MakerLaunch est l'accélérateur de startups de la Faculté de génie, un programme de neuf mois avec mentors, conseillers et accès aux espaces de prototypage du CEED. Il s'adresse aux étudiants et aux jeunes diplômés de la Faculté de génie qui ont fondé une startup. L'entreprise doit être constituée et avoir un client payant, ou bientôt payant grâce à des essais, des précommandes ou des contrats.",
       "en": "Yes, MakerLaunch is the Faculty of Engineering's startup accelerator, a nine-month program with mentors, advisers and access to CEED's prototyping spaces. It's for Faculty of Engineering students and recent graduates who have founded a startup. The company must be incorporated and have a paying customer, or a soon-to-be paying one through trials, pre-orders or contracts."
     },
-    "sources": [{ "label": "MakerLaunch — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/makerlaunch" }],
+    "sources": [
+      {
+        "label": "MakerLaunch — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/makerlaunch"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -608,13 +1428,31 @@
   {
     "id": "a-ecole-ete-entrepreneuriat",
     "category": "genie",
-    "keywords": ["école d'été en entrepreneuriat", "summer entrepreneurship school", "simon nehme", "gng 3100", "gng 5300", "camp entrepreneuriat", "entrepreneurship bootcamp", "cours entrepreneuriat", "entrepreneurship course"],
-    "question": { "fr": "C'est quoi l'École d'été en entrepreneuriat Simon-Nehme ?", "en": "What is the Simon Nehme Summer Entrepreneurship School?" },
+    "keywords": [
+      "école d'été en entrepreneuriat",
+      "summer entrepreneurship school",
+      "simon nehme",
+      "gng 3100",
+      "gng 5300",
+      "camp entrepreneuriat",
+      "entrepreneurship bootcamp",
+      "cours entrepreneuriat",
+      "entrepreneurship course"
+    ],
+    "question": {
+      "fr": "C'est quoi l'École d'été en entrepreneuriat Simon-Nehme ?",
+      "en": "What is the Simon Nehme Summer Entrepreneurship School?"
+    },
     "answer": {
       "fr": "C'est un camp intensif de deux semaines sur l'entrepreneuriat, avec des ateliers, du mentorat et des panels de fondateurs de startups, qui se termine par une compétition de présentation en équipe. Il est offert comme cours de trois crédits, GNG 3100 au premier cycle et GNG 5300 aux cycles supérieurs. L'inscription exige l'approbation du professeur, et les droits de scolarité d'été habituels s'appliquent ; consulte la page pour les prochaines dates.",
       "en": "It's an intensive two-week entrepreneurship bootcamp with workshops, mentorship and startup founder panels, ending with a team pitch competition. It's offered as a three-credit course, GNG 3100 for undergraduates and GNG 5300 for graduate students. Registration requires professor approval and regular summer tuition applies; check the page for upcoming dates."
     },
-    "sources": [{ "label": "Simon Nehme Summer Entrepreneurship School — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/simon-nehme-summer-entrepreneurship-school" }],
+    "sources": [
+      {
+        "label": "Simon Nehme Summer Entrepreneurship School — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/simon-nehme-summer-entrepreneurship-school"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -622,13 +1460,31 @@
   {
     "id": "a-genie-mentorat",
     "category": "genie",
-    "keywords": ["centre de mentorat génie", "engineering mentoring centre", "mentor génie", "groupe d'étude génie", "study group engineering", "aide cours génie", "help with engineering course", "mentorat informatique", "computer science mentoring"],
-    "question": { "fr": "Où trouver de l'aide pour mes cours de génie ?", "en": "Where can I get help with my engineering courses?" },
+    "keywords": [
+      "centre de mentorat génie",
+      "engineering mentoring centre",
+      "mentor génie",
+      "groupe d'étude génie",
+      "study group engineering",
+      "aide cours génie",
+      "help with engineering course",
+      "mentorat informatique",
+      "computer science mentoring"
+    ],
+    "question": {
+      "fr": "Où trouver de l'aide pour mes cours de génie ?",
+      "en": "Where can I get help with my engineering courses?"
+    },
     "answer": {
       "fr": "Le Centre de mentorat en génie et en informatique offre l'aide de mentors de troisième et quatrième année, en personne ou en ligne. Tu peux réserver une consultation individuelle de 30 minutes ou te joindre aux groupes d'étude et aux séances de révision d'examen. Les mentors ne sont pas des tuteurs : ils t'expliquent avec des exemples semblables plutôt que de résoudre tes problèmes.",
       "en": "The Engineering and Computer Science Mentoring Centre offers help from third- and fourth-year mentors, in person or online. You can book a 30-minute individual consultation or join study groups and exam review sessions. Mentors aren't tutors: they explain using similar examples rather than solving your problems for you."
     },
-    "sources": [{ "label": "Mentoring Centre, Faculty of Engineering — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/student-hub/mentoring" }],
+    "sources": [
+      {
+        "label": "Mentoring Centre, Faculty of Engineering — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/student-hub/mentoring"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -636,13 +1492,33 @@
   {
     "id": "a-genie-jeunes",
     "category": "genie",
-    "keywords": ["camp de génie", "engineering camp", "camp d'été enfants", "summer camp kids", "club science enfants", "kids science club", "programmes jeunesse génie", "engineering outreach", "maker mobile", "activités pour ados", "teen programs"],
-    "question": { "fr": "Y a-t-il des camps ou des activités de génie pour les enfants et les ados ?", "en": "Are there engineering camps or activities for kids and teens?" },
+    "keywords": [
+      "camp de génie",
+      "engineering camp",
+      "camp d'été enfants",
+      "summer camp kids",
+      "club science enfants",
+      "kids science club",
+      "programmes jeunesse génie",
+      "engineering outreach",
+      "maker mobile",
+      "activités pour ados",
+      "teen programs"
+    ],
+    "question": {
+      "fr": "Y a-t-il des camps ou des activités de génie pour les enfants et les ados ?",
+      "en": "Are there engineering camps or activities for kids and teens?"
+    },
     "answer": {
       "fr": "Oui, le service de rayonnement de la Faculté de génie offre des clubs, des camps de relâche et des camps d'été pour les jeunes de la 2e à la 6e année, et des clubs, programmes d'enrichissement et camps pour les ados. L'atelier mobile Maker Mobile se déplace aussi dans les écoles et les bibliothèques. Le bureau est au pavillon CBY, salle B111, au 161, privé Louis-Pasteur, ouvert du lundi au vendredi de 8 h à 16 h, au 613-562-5491.",
       "en": "Yes, the Faculty of Engineering's Outreach team offers clubs, spring break camps and summer camps for kids in grades 2 to 6, plus clubs, enrichment programs and camps for teens. The Maker Mobile workshop also travels to schools and libraries. The office is in the CBY building, room B111, 161 Louis-Pasteur Private, open Monday to Friday 8 a.m. to 4 p.m., at 613-562-5491."
     },
-    "sources": [{ "label": "Engineering Outreach — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/outreach" }],
+    "sources": [
+      {
+        "label": "Engineering Outreach — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/outreach"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -650,13 +1526,32 @@
   {
     "id": "a-ecole-secondaire-genie",
     "category": "genie",
-    "keywords": ["école secondaire de la faculté de génie", "faculty of engineering secondary school", "crédit secondaire", "high school credit", "cours secondaire à l'université", "tej2o", "tdj2o", "design technologique", "technological design", "cours pour élèves du secondaire"],
-    "question": { "fr": "Est-ce que les élèves du secondaire peuvent suivre des cours à la Faculté de génie ?", "en": "Can high school students take courses at the Faculty of Engineering?" },
+    "keywords": [
+      "école secondaire de la faculté de génie",
+      "faculty of engineering secondary school",
+      "crédit secondaire",
+      "high school credit",
+      "cours secondaire à l'université",
+      "tej2o",
+      "tdj2o",
+      "design technologique",
+      "technological design",
+      "cours pour élèves du secondaire"
+    ],
+    "question": {
+      "fr": "Est-ce que les élèves du secondaire peuvent suivre des cours à la Faculté de génie ?",
+      "en": "Can high school students take courses at the Faculty of Engineering?"
+    },
     "answer": {
       "fr": "Oui, l'École secondaire de la Faculté de génie offre des cours de design technologique et d'informatique qui donnent des crédits pour le diplôme d'études secondaires de l'Ontario. Ils sont ouverts aux élèves de la 8e à la 12e année et sont donnés en anglais seulement. Un élève de 8e année doit avoir une recommandation écrite de sa direction d'école.",
       "en": "Yes, the Faculty of Engineering Secondary School offers technological design and computer science courses that earn credits toward the Ontario Secondary School Diploma. They're open to students in grades 8 to 12 and are taught in English only. Grade 8 students need a written recommendation from their principal."
     },
-    "sources": [{ "label": "Faculty of Engineering Secondary School — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/outreach/faculty-engineering-secondary-school" }],
+    "sources": [
+      {
+        "label": "Faculty of Engineering Secondary School — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/outreach/faculty-engineering-secondary-school"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -664,13 +1559,31 @@
   {
     "id": "a-ecole-vente-genie",
     "category": "genie",
-    "keywords": ["école de vente en génie", "engineering sales school", "uoess", "ingénieur commercial", "sales engineer", "certified sales engineer", "compétences en affaires ingénieurs", "business skills engineers", "formation continue génie"],
-    "question": { "fr": "C'est quoi l'École de vente en génie ?", "en": "What is the Engineering Sales School?" },
+    "keywords": [
+      "école de vente en génie",
+      "engineering sales school",
+      "uoess",
+      "ingénieur commercial",
+      "sales engineer",
+      "certified sales engineer",
+      "compétences en affaires ingénieurs",
+      "business skills engineers",
+      "formation continue génie"
+    ],
+    "question": {
+      "fr": "C'est quoi l'École de vente en génie ?",
+      "en": "What is the Engineering Sales School?"
+    },
     "answer": {
       "fr": "L'École de vente en génie de l'Université d'Ottawa offre des cours en ligne, en anglais, pour donner aux étudiants et aux ingénieurs les compétences en communication, en influence et en vente utiles dans le monde des affaires. Elle propose trois volets, dont le programme Certified Sales Engineer. Grâce à un partenariat avec l'Institut de perfectionnement professionnel, les ingénieurs en exercice et les entreprises y ont aussi accès.",
       "en": "The University of Ottawa Engineering Sales School offers online courses in English that give students and engineers the communication, influence and sales skills they need in the business world. It has three learning streams, including the Certified Sales Engineer program. Through a partnership with the Professional Development Institute, practising engineers and companies can also enrol."
     },
-    "sources": [{ "label": "Engineering Sales School — uOttawa", "url": "https://www.uottawa.ca/faculty-engineering/graduate-studies/programs/sales-school" }],
+    "sources": [
+      {
+        "label": "Engineering Sales School — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-engineering/graduate-studies/programs/sales-school"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -678,13 +1591,34 @@
   {
     "id": "a-faculte-sciences",
     "category": "genie",
-    "keywords": ["faculté des sciences", "faculty of science", "où est la faculté des sciences", "where is science", "pavillon gendron", "gendron hall", "départements de sciences", "science departments", "biologie", "chimie", "physique", "mathématiques"],
-    "question": { "fr": "Où se trouve la Faculté des sciences et quels sont ses départements ?", "en": "Where is the Faculty of Science and what are its departments?" },
+    "keywords": [
+      "faculté des sciences",
+      "faculty of science",
+      "où est la faculté des sciences",
+      "where is science",
+      "pavillon gendron",
+      "gendron hall",
+      "départements de sciences",
+      "science departments",
+      "biologie",
+      "chimie",
+      "physique",
+      "mathématiques"
+    ],
+    "question": {
+      "fr": "Où se trouve la Faculté des sciences et quels sont ses départements ?",
+      "en": "Where is the Faculty of Science and what are its departments?"
+    },
     "answer": {
       "fr": "La Faculté des sciences compte cinq départements : biologie, chimie et sciences biomoléculaires, sciences de la Terre et de l'environnement, mathématiques et statistique, et physique, pour plus de 5 700 étudiants. Le Bureau des programmes de premier cycle est au pavillon Gendron, 30, privé Marie-Curie, salle 172. Tu peux aussi y prendre rendez-vous en ligne ou passer par la file virtuelle.",
       "en": "The Faculty of Science has five departments: Biology, Chemistry and Biomolecular Sciences, Earth and Environmental Sciences, Mathematics and Statistics, and Physics, with more than 5,700 students. The Office of Undergraduate Programs is in Gendron Hall, 30 Marie Curie Private, room 172. You can also book an appointment online or use the virtual line."
     },
-    "sources": [{ "label": "Faculty of Science — uOttawa", "url": "https://www.uottawa.ca/faculty-science/" }],
+    "sources": [
+      {
+        "label": "Faculty of Science — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-science/"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -692,13 +1626,32 @@
   {
     "id": "a-sciences-cours-recommandes",
     "category": "genie",
-    "keywords": ["cours recommandés sciences", "recommended courses science", "préalables sciences", "science prerequisites", "cours d'appoint", "make-up course", "biologie 4u", "chimie 4u", "physique 4u", "admission en sciences"],
-    "question": { "fr": "Quels cours du secondaire sont recommandés pour entrer en sciences ?", "en": "Which high school courses are recommended for Science programs?" },
+    "keywords": [
+      "cours recommandés sciences",
+      "recommended courses science",
+      "préalables sciences",
+      "science prerequisites",
+      "cours d'appoint",
+      "make-up course",
+      "biologie 4u",
+      "chimie 4u",
+      "physique 4u",
+      "admission en sciences"
+    ],
+    "question": {
+      "fr": "Quels cours du secondaire sont recommandés pour entrer en sciences ?",
+      "en": "Which high school courses are recommended for Science programs?"
+    },
     "answer": {
       "fr": "Ça dépend du programme : par exemple, en biologie, biochimie ou sciences biomédicales, on recommande Biologie 4U et Chimie 4U, et en physique, Physique 4U avec Chimie ou Biologie 4U. Si tu es admis sans un cours recommandé, tu devras suivre un cours d'appoint. La Faculté note aussi que les étudiants qui ont fait le plus de cours de sciences au secondaire réussissent mieux.",
       "en": "It depends on the program: for example, for Biology, Biochemistry or Biomedical Science, Biology 4U and Chemistry 4U are recommended, and for Physics, Physics 4U with Chemistry or Biology 4U. If you're admitted without a recommended course, you'll have to take a make-up course. The Faculty also notes that students who took the most science courses in high school have higher success rates."
     },
-    "sources": [{ "label": "Undergraduate programs, Faculty of Science — uOttawa", "url": "https://www.uottawa.ca/faculty-science/undergraduate-studies/programs" }],
+    "sources": [
+      {
+        "label": "Undergraduate programs, Faculty of Science — uOttawa",
+        "url": "https://www.uottawa.ca/faculty-science/undergraduate-studies/programs"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -706,13 +1659,32 @@
   {
     "id": "a-lettre-attestation-provinciale",
     "category": "international",
-    "keywords": ["lettre d'attestation provinciale", "provincial attestation letter", "pal", "lap", "attestation provinciale", "permis d'études pal", "study permit pal", "comment obtenir pal", "how to get pal", "exemption pal"],
-    "question": { "fr": "C'est quoi la lettre d'attestation provinciale et comment l'obtenir ?", "en": "What is the provincial attestation letter and how do I get it?" },
+    "keywords": [
+      "lettre d'attestation provinciale",
+      "provincial attestation letter",
+      "pal",
+      "lap",
+      "attestation provinciale",
+      "permis d'études pal",
+      "study permit pal",
+      "comment obtenir pal",
+      "how to get pal",
+      "exemption pal"
+    ],
+    "question": {
+      "fr": "C'est quoi la lettre d'attestation provinciale et comment l'obtenir ?",
+      "en": "What is the provincial attestation letter and how do I get it?"
+    },
     "answer": {
       "fr": "La lettre d'attestation provinciale confirme qu'une place d'études en Ontario t'est attribuée, et la plupart des étudiants internationaux au premier cycle en ont besoin pour demander leur permis d'études. Pour la recevoir, accepte ton offre et paie ton dépôt d'admission : le Bureau des admissions te l'envoie par courriel en environ trois jours ouvrables. Depuis le 1er janvier 2026, les demandes de permis pour une maîtrise ou un doctorat n'en ont plus besoin.",
       "en": "The provincial attestation letter confirms you've been given one of Ontario's study spots, and most international undergraduate students need one to apply for their study permit. To get it, accept your offer and pay your admission deposit: the Admissions Office emails it to you within about three business days. Since January 1, 2026, study permit applications for master's or PhD programs no longer need one."
     },
-    "sources": [{ "label": "Provincial attestation letter (PAL) — uOttawa", "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/provincial-attestation-letter" }],
+    "sources": [
+      {
+        "label": "Provincial attestation letter (PAL) — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/provincial-attestation-letter"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -720,13 +1692,33 @@
   {
     "id": "a-permis-etudes-demande",
     "category": "international",
-    "keywords": ["permis d'études", "study permit", "demander permis d'études", "apply for study permit", "ircc", "visa étudiant", "student visa", "preuve de fonds", "proof of funds", "plan d'études", "study plan"],
-    "question": { "fr": "Quand et comment demander mon permis d'études ?", "en": "When and how do I apply for my study permit?" },
+    "keywords": [
+      "permis d'études",
+      "study permit",
+      "demander permis d'études",
+      "apply for study permit",
+      "ircc",
+      "visa étudiant",
+      "student visa",
+      "preuve de fonds",
+      "proof of funds",
+      "plan d'études",
+      "study plan"
+    ],
+    "question": {
+      "fr": "Quand et comment demander mon permis d'études ?",
+      "en": "When and how do I apply for my study permit?"
+    },
     "answer": {
       "fr": "Tu dois demander ton permis d'études auprès d'IRCC avant d'arriver au Canada, dès que tu as ta lettre d'admission et ta lettre d'attestation provinciale, si elle est exigée. Il faudra prouver que tu as assez de fonds pour ta première année, et l'Université recommande d'ajouter un plan d'études. L'équipe d'immigration de l'Université a préparé un guide étape par étape pour remplir la demande.",
       "en": "You must apply to IRCC for your study permit before coming to Canada, as soon as you have your letter of admission and your provincial attestation letter, if required. You'll need to prove you have enough funds for your first year, and the University recommends including a study plan. The University's immigration team has prepared a step-by-step guide to the application."
     },
-    "sources": [{ "label": "Apply for your study permit from outside Canada — uOttawa", "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada" }],
+    "sources": [
+      {
+        "label": "Apply for your study permit from outside Canada — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -734,13 +1726,33 @@
   {
     "id": "a-conseillers-immigration",
     "category": "international",
-    "keywords": ["conseiller en immigration", "immigration advisor", "équipe d'immigration", "immigration advising team", "question permis d'études", "study permit question", "let's talk immigration", "parlons immigration", "prolonger permis", "extend study permit", "visa"],
-    "question": { "fr": "Qui peut répondre à mes questions sur mon permis d'études ou mon visa ?", "en": "Who can answer my questions about my study permit or visa?" },
+    "keywords": [
+      "conseiller en immigration",
+      "immigration advisor",
+      "équipe d'immigration",
+      "immigration advising team",
+      "question permis d'études",
+      "study permit question",
+      "let's talk immigration",
+      "parlons immigration",
+      "prolonger permis",
+      "extend study permit",
+      "visa"
+    ],
+    "question": {
+      "fr": "Qui peut répondre à mes questions sur mon permis d'études ou mon visa ?",
+      "en": "Who can answer my questions about my study permit or visa?"
+    },
     "answer": {
       "fr": "L'équipe de conseil en immigration étudiante, formée de conseillers certifiés, peut t'aider pour les permis d'études et leur prolongation, le permis de travail postdiplôme et les visas. Tu peux la joindre par la file virtuelle, par courriel, ou aux séances mensuelles en ligne Parlons immigration sur Zoom. Ses services sont offerts dès ton offre d'admission et jusqu'à 180 jours après la fin de ton programme, mais elle ne peut pas te représenter auprès d'IRCC.",
       "en": "The Student Immigration Advising Team, made up of certified advisers, can help with study permits and extensions, post-graduation work permits and visas. You can reach them through the virtual line, by email, or at the monthly online Let's Talk Immigration sessions on Zoom. Services are available from your offer of admission until 180 days after you finish your program, but they can't represent you with IRCC."
     },
-    "sources": [{ "label": "Student Immigration Advising Team — uOttawa", "url": "https://www.uottawa.ca/study/international-students/immigration/student-immigration-advising-team" }],
+    "sources": [
+      {
+        "label": "Student Immigration Advising Team — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/student-immigration-advising-team"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -748,13 +1760,33 @@
   {
     "id": "a-travail-pendant-etudes",
     "category": "international",
-    "keywords": ["travailler pendant mes études", "work while studying", "travail sur le campus", "on-campus work", "travail hors campus", "off-campus work", "24 heures par semaine", "24 hours per week", "nas", "sin", "emploi étudiant international"],
-    "question": { "fr": "Combien d'heures est-ce que je peux travailler comme étudiant international ?", "en": "How many hours can I work as an international student?" },
+    "keywords": [
+      "travailler pendant mes études",
+      "work while studying",
+      "travail sur le campus",
+      "on-campus work",
+      "travail hors campus",
+      "off-campus work",
+      "24 heures par semaine",
+      "24 hours per week",
+      "nas",
+      "sin",
+      "emploi étudiant international"
+    ],
+    "question": {
+      "fr": "Combien d'heures est-ce que je peux travailler comme étudiant international ?",
+      "en": "How many hours can I work as an international student?"
+    },
     "answer": {
       "fr": "Si ton permis d'études le permet et que tu es inscrit à temps plein, tu peux travailler sur le campus sans limite d'heures, et hors campus jusqu'à 24 heures par semaine pendant les sessions. Pendant les congés prévus, comme l'été, il n'y a pas de limite si tu es à temps plein avant et après le congé. Il te faut un numéro d'assurance sociale, et tu ne peux pas commencer à travailler avant le premier jour de ta session.",
       "en": "If your study permit allows it and you're enrolled full time, you can work on campus with no hour limit, and off campus up to 24 hours a week during terms. During scheduled breaks, like summer, there's no limit if you're full time before and after the break. You need a Social Insurance Number, and you can't start working before the first day of your term."
     },
-    "sources": [{ "label": "Working on and off campus — uOttawa", "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/working-on-and-off-campus" }],
+    "sources": [
+      {
+        "label": "Working on and off campus — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/working-on-and-off-campus"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -762,15 +1794,33 @@
   {
     "id": "a-permis-travail-coop",
     "category": "international",
-    "keywords": ["permis de travail coop", "co-op work permit", "stage obligatoire international", "mandatory work placement", "coop étudiant international", "international co-op", "internship work permit", "stage permis de travail"],
-    "question": { "fr": "Est-ce que j'ai besoin d'un permis de travail coop pour mon stage ?", "en": "Do I need a co-op work permit for my placement?" },
+    "keywords": [
+      "permis de travail coop",
+      "co-op work permit",
+      "stage obligatoire international",
+      "mandatory work placement",
+      "coop étudiant international",
+      "international co-op",
+      "internship work permit",
+      "stage permis de travail"
+    ],
+    "question": {
+      "fr": "Est-ce que j'ai besoin d'un permis de travail coop pour mon stage ?",
+      "en": "Do I need a co-op work permit for my placement?"
+    },
     "answer": {
       "fr": "Non, plus maintenant : depuis le 1er avril 2026, les étudiants internationaux n'ont plus besoin de permis de travail coop pour faire un stage obligatoire, comme un coop ou un stage. Tu peux le faire avec ton permis d'études valide, s'il te permet de travailler sur le campus. Le stage doit être obligatoire dans ton programme et représenter au plus la moitié du programme.",
       "en": "Not anymore: since April 1, 2026, international students no longer need a co-op work permit to complete a mandatory work placement, such as a co-op or internship. You can do it with your valid study permit, as long as it allows you to work on campus. The placement must be a required part of your program and make up no more than half of it."
     },
     "sources": [
-      { "label": "Immigration — uOttawa", "url": "https://www.uottawa.ca/study/international-students/immigration" },
-      { "label": "Working on and off campus — uOttawa", "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/working-on-and-off-campus" }
+      {
+        "label": "Immigration — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration"
+      },
+      {
+        "label": "Working on and off campus — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/working-on-and-off-campus"
+      }
     ],
     "related": [],
     "verifiedOn": "2026-11-16",
@@ -779,13 +1829,31 @@
   {
     "id": "a-permis-travail-postdiplome",
     "category": "international",
-    "keywords": ["permis de travail postdiplôme", "post-graduation work permit", "pgwp", "pttpd", "travailler après mes études", "work after graduation", "rester au canada après", "stay in canada after studies", "permis de travail après diplôme"],
-    "question": { "fr": "Est-ce que je peux travailler au Canada après mes études ?", "en": "Can I work in Canada after I graduate?" },
+    "keywords": [
+      "permis de travail postdiplôme",
+      "post-graduation work permit",
+      "pgwp",
+      "pttpd",
+      "travailler après mes études",
+      "work after graduation",
+      "rester au canada après",
+      "stay in canada after studies",
+      "permis de travail après diplôme"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux travailler au Canada après mes études ?",
+      "en": "Can I work in Canada after I graduate?"
+    },
     "answer": {
       "fr": "Oui, avec un permis de travail postdiplôme, qui te permet de travailler à temps plein, pour n'importe quel employeur, sans offre d'emploi. Sa durée dépend de ton programme, de huit mois à trois ans, et une maîtrise d'au moins huit mois peut donner droit à trois ans. Tu dois faire ta demande dans les 180 jours suivant la date où ta confirmation de fin d'études est disponible.",
       "en": "Yes, with a post-graduation work permit, which lets you work full time for any employer, without a job offer. Its length depends on your program, from eight months to three years, and a master's degree of at least eight months can qualify for three years. You must apply within 180 days of the date your program completion confirmation becomes available."
     },
-    "sources": [{ "label": "Apply for a post-graduation work permit (PGWP) — uOttawa", "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/apply-for-post-graduation-work-permit" }],
+    "sources": [
+      {
+        "label": "Apply for a post-graduation work permit (PGWP) — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/apply-for-post-graduation-work-permit"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -793,13 +1861,31 @@
   {
     "id": "a-programme-pilote-francophone",
     "category": "international",
-    "keywords": ["programme pilote francophone", "francophone minority communities student pilot", "fmcsp", "ppecfm", "étudiant francophone international", "francophone international student", "résidence permanente", "permanent residence", "programme en français international"],
-    "question": { "fr": "C'est quoi le Programme pilote pour étudiants dans les communautés francophones en situation minoritaire ?", "en": "What is the Francophone Minority Communities Student Pilot?" },
+    "keywords": [
+      "programme pilote francophone",
+      "francophone minority communities student pilot",
+      "fmcsp",
+      "ppecfm",
+      "étudiant francophone international",
+      "francophone international student",
+      "résidence permanente",
+      "permanent residence",
+      "programme en français international"
+    ],
+    "question": {
+      "fr": "C'est quoi le Programme pilote pour étudiants dans les communautés francophones en situation minoritaire ?",
+      "en": "What is the Francophone Minority Communities Student Pilot?"
+    },
     "answer": {
       "fr": "C'est un programme d'IRCC qui permet aux étudiants admissibles de demander un permis d'études avec une voie plus rapide vers la résidence permanente. Il faut être citoyen d'un pays admissible et avoir une offre d'admission à un programme en français pour l'automne 2027, puis payer à l'avance les droits de scolarité de ta première année. Les participants n'ont pas besoin de lettre d'attestation provinciale, et l'Université recommande de soumettre ta demande avant le 15 janvier 2027.",
       "en": "It's an IRCC program that lets eligible students apply for a study permit with a faster path to permanent residence. You must be a citizen of an eligible country and have an offer to a French-language program for fall 2027, then pay your first-year tuition in advance. Participants don't need a provincial attestation letter, and the University recommends applying by January 15, 2027."
     },
-    "sources": [{ "label": "Francophone Minority Communities Student Pilot (FMCSP) — uOttawa", "url": "https://www.uottawa.ca/study/francophone-minority-student-pilot-fmcsp" }],
+    "sources": [
+      {
+        "label": "Francophone Minority Communities Student Pilot (FMCSP) — uOttawa",
+        "url": "https://www.uottawa.ca/study/francophone-minority-student-pilot-fmcsp"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -807,13 +1893,35 @@
   {
     "id": "a-echange-etudiant-sortant",
     "category": "international",
-    "keywords": ["échange étudiant", "student exchange", "étudier à l'étranger", "study abroad", "programme d'échange", "exchange program", "partir en échange", "go on exchange", "session à l'étranger", "date limite échange"],
-    "question": { "fr": "Comment est-ce que je peux faire un échange à l'étranger ?", "en": "How can I go on an exchange abroad?" },
+    "keywords": [
+      "échange étudiant",
+      "student exchange",
+      "étudier à l'étranger",
+      "study abroad",
+      "programme d'échange",
+      "exchange program",
+      "partir en échange",
+      "go on exchange",
+      "session à l'étranger",
+      "date limite échange",
+      "échange étudiant à l'étranger",
+      "etudier a l etranger",
+      "echange etranger"
+    ],
+    "question": {
+      "fr": "Comment est-ce que je peux faire un échange à l'étranger ?",
+      "en": "How can I go on an exchange abroad?"
+    },
     "answer": {
       "fr": "Tu peux étudier une ou deux sessions dans une université partenaire, parmi plus de 100 ententes partout dans le monde, sans payer de droits de scolarité internationaux. Il faut avoir complété 24 unités et une moyenne pondérée cumulative d'au moins 5,0. Pour 2027-2028, tu dois terminer l'atelier d'information obligatoire et soumettre ton formulaire d'admissibilité avant le 25 novembre 2026, puis ta demande complète avant le 17 janvier 2027.",
       "en": "You can study for one or two terms at a partner university, through more than 100 agreements around the world, without paying international tuition fees. You need to have completed 24 units and have a cumulative GPA of at least 5.0. For 2027-2028, you must complete the mandatory information workshop and submit your eligibility form by November 25, 2026, then your full application by January 17, 2027."
     },
-    "sources": [{ "label": "Outgoing exchanges — uOttawa", "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges" }],
+    "sources": [
+      {
+        "label": "Outgoing exchanges — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -821,13 +1929,32 @@
   {
     "id": "a-bourses-echange",
     "category": "international",
-    "keywords": ["bourse d'échange", "exchange scholarship", "financer mon échange", "fund my exchange", "bourse mobilité", "mobility scholarship", "coût échange", "exchange cost", "erasmus", "bourse études à l'étranger"],
-    "question": { "fr": "Est-ce qu'il y a des bourses pour faire un échange ?", "en": "Are there scholarships for going on exchange?" },
+    "keywords": [
+      "bourse d'échange",
+      "exchange scholarship",
+      "financer mon échange",
+      "fund my exchange",
+      "bourse mobilité",
+      "mobility scholarship",
+      "coût échange",
+      "exchange cost",
+      "erasmus",
+      "bourse études à l'étranger"
+    ],
+    "question": {
+      "fr": "Est-ce qu'il y a des bourses pour faire un échange ?",
+      "en": "Are there scholarships for going on exchange?"
+    },
     "answer": {
       "fr": "Oui : par exemple, la Bourse de mobilité étudiante Expérience internationale donne 1 000 $ par session d'échange, et tu y es admissible automatiquement si ton échange est accepté. D'autres bourses existent selon la destination, comme pour le Ghana, la Chine ou l'Europe. Bonne nouvelle : partir en échange n'augmente pas tes droits de scolarité et n'affecte pas les bourses que tu reçois déjà.",
       "en": "Yes: for example, the International Experience Student Mobility Scholarship gives $1,000 per exchange term, and you're considered automatically once your exchange is accepted. Other scholarships exist depending on the destination, such as Ghana, China or Europe. Good news: going on exchange doesn't increase your tuition or affect the scholarships you already receive."
     },
-    "sources": [{ "label": "Exchange program scholarships — uOttawa", "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/exchange-program-scholarships" }],
+    "sources": [
+      {
+        "label": "Exchange program scholarships — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/exchange-program-scholarships"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -835,13 +1962,31 @@
   {
     "id": "a-echange-entrant",
     "category": "international",
-    "keywords": ["étudiant en échange à uottawa", "incoming exchange", "exchange student", "venir en échange", "come on exchange", "étudiant d'échange", "date limite échange entrant", "université partenaire", "partner university"],
-    "question": { "fr": "Je suis étudiant dans une autre université : comment venir en échange ici ?", "en": "I study at another university: how can I come here on exchange?" },
+    "keywords": [
+      "étudiant en échange à uottawa",
+      "incoming exchange",
+      "exchange student",
+      "venir en échange",
+      "come on exchange",
+      "étudiant d'échange",
+      "date limite échange entrant",
+      "université partenaire",
+      "partner university"
+    ],
+    "question": {
+      "fr": "Je suis étudiant dans une autre université : comment venir en échange ici ?",
+      "en": "I study at another university: how can I come here on exchange?"
+    },
     "answer": {
       "fr": "Ton université doit avoir une entente d'échange active avec l'Université d'Ottawa et te proposer comme candidat. Tu peux venir une session, à l'automne ou à l'hiver, ou toute l'année, et la date limite de demande est le 31 mars chaque année. Il faut avoir terminé au moins une année d'université, avec une moyenne minimale de 2,7 sur 4,0 ou 12 sur 20.",
       "en": "Your university must have an active exchange agreement with the University of Ottawa and nominate you. You can come for one term, fall or winter, or the full year, and the application deadline is March 31 each year. You must have completed at least one year of university, with a minimum GPA of 2.7 out of 4.0 or 12 out of 20."
     },
-    "sources": [{ "label": "Incoming exchanges — uOttawa", "url": "https://www.uottawa.ca/study/international-experience/incoming-exchanges" }],
+    "sources": [
+      {
+        "label": "Incoming exchanges — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-experience/incoming-exchanges"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -849,16 +1994,39 @@
   {
     "id": "a-recrutement-international",
     "category": "international",
-    "keywords": ["recrutement international", "international recruitment", "représentant international", "international representative", "contact pour mon pays", "contact for my country", "agent de recrutement", "recruitment agent", "admission par pays", "country-specific admission"],
-    "question": { "fr": "Y a-t-il quelqu'un qui peut me conseiller selon mon pays d'origine ?", "en": "Is there someone who can advise me based on my home country?" },
+    "keywords": [
+      "recrutement international",
+      "international recruitment",
+      "représentant international",
+      "international representative",
+      "contact pour mon pays",
+      "contact for my country",
+      "agent de recrutement",
+      "recruitment agent",
+      "admission par pays",
+      "country-specific admission"
+    ],
+    "question": {
+      "fr": "Y a-t-il quelqu'un qui peut me conseiller selon mon pays d'origine ?",
+      "en": "Is there someone who can advise me based on my home country?"
+    },
     "answer": {
       "fr": "Oui, l'équipe de développement des marchés internationaux a des responsables par région : Europe, Asie de l'Est et du Sud-Est, Amérique latine, Moyen-Orient, Asie du Sud, Afrique et États-Unis, ainsi que des représentants dans certains pays comme la Chine. La page des candidats internationaux te permet aussi de trouver l'information propre à ton pays, avec les exigences et les bourses. Des étudiants de plus de 145 pays choisissent l'Université d'Ottawa.",
       "en": "Yes, the International Market Development team has contacts by region: Europe, East and Southeast Asia, Latin America, the Middle East, South Asia, Africa and the United States, plus in-country representatives in places like China. The international applicants page also lets you find information for your country, with requirements and scholarships. Students from more than 145 countries choose the University of Ottawa."
     },
     "sources": [
-      { "label": "International market development team — uOttawa", "url": "https://www.uottawa.ca/study/applying-uottawa/international-student-recruitment-team" },
-      { "label": "International applicants — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants" },
-      { "label": "Services for international students — uOttawa", "url": "https://www.uottawa.ca/study/international-students" }
+      {
+        "label": "International market development team — uOttawa",
+        "url": "https://www.uottawa.ca/study/applying-uottawa/international-student-recruitment-team"
+      },
+      {
+        "label": "International applicants — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants"
+      },
+      {
+        "label": "Services for international students — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students"
+      }
     ],
     "related": [],
     "verifiedOn": "2026-11-16",
@@ -867,13 +2035,32 @@
   {
     "id": "a-mentorat-regional",
     "category": "international",
-    "keywords": ["centre de mentorat régional", "regional mentoring centre", "mentor international", "international mentor", "nouvel étudiant international", "new international student", "s'adapter au canada", "adjust to canada", "mentor de mon pays", "mentor from my country"],
-    "question": { "fr": "Je suis nouveau au Canada : y a-t-il des étudiants qui peuvent m'aider à m'adapter ?", "en": "I'm new to Canada: are there students who can help me settle in?" },
+    "keywords": [
+      "centre de mentorat régional",
+      "regional mentoring centre",
+      "mentor international",
+      "international mentor",
+      "nouvel étudiant international",
+      "new international student",
+      "s'adapter au canada",
+      "adjust to canada",
+      "mentor de mon pays",
+      "mentor from my country"
+    ],
+    "question": {
+      "fr": "Je suis nouveau au Canada : y a-t-il des étudiants qui peuvent m'aider à m'adapter ?",
+      "en": "I'm new to Canada: are there students who can help me settle in?"
+    },
     "answer": {
       "fr": "Oui, le Centre de mentorat régional réunit 19 mentors étudiants venant de différentes régions du monde. Ils aident surtout les nouveaux étudiants à trouver des ressources, à s'adapter au milieu universitaire canadien et à découvrir Ottawa. Tu peux même prendre rendez-vous en ligne avec un mentor de ton pays ou de ta région.",
       "en": "Yes, the Regional Mentoring Centre brings together 19 student mentors from different regions around the world. They mainly help new students find resources, adjust to the Canadian university environment and get to know Ottawa. You can even book an online appointment with a mentor from your home country or region."
     },
-    "sources": [{ "label": "Regional Mentoring Centre — uOttawa", "url": "https://www.uottawa.ca/study/academic-support-mentoring/regional-mentoring-centre" }],
+    "sources": [
+      {
+        "label": "Regional Mentoring Centre — uOttawa",
+        "url": "https://www.uottawa.ca/study/academic-support-mentoring/regional-mentoring-centre"
+      }
+    ],
     "related": [],
     "verifiedOn": "2026-11-16",
     "status": "official"
@@ -881,16 +2068,39 @@
   {
     "id": "a-report-permis-etudes",
     "category": "international",
-    "keywords": ["permis d'études en retard", "study permit delay", "permis pas reçu", "permit not received", "reporter admission international", "defer international", "permis refusé", "study permit refused", "nouvelle pal", "new pal"],
-    "question": { "fr": "Mon permis d'études n'arrive pas à temps ou a été refusé : qu'est-ce que je fais ?", "en": "My study permit isn't arriving in time or was refused: what do I do?" },
+    "keywords": [
+      "permis d'études en retard",
+      "study permit delay",
+      "permis pas reçu",
+      "permit not received",
+      "reporter admission international",
+      "defer international",
+      "permis refusé",
+      "study permit refused",
+      "nouvelle pal",
+      "new pal"
+    ],
+    "question": {
+      "fr": "Mon permis d'études n'arrive pas à temps ou a été refusé : qu'est-ce que je fais ?",
+      "en": "My study permit isn't arriving in time or was refused: what do I do?"
+    },
     "answer": {
       "fr": "Si ton permis tarde, attends une décision favorable d'IRCC, puis envoie ta demande de report avec la lettre d'approbation ; un permis reçu trop tard est une raison acceptée. S'il est refusé, aucun report n'est possible, mais si tu veux soumettre une nouvelle demande de permis, tu peux obtenir une nouvelle lettre d'attestation provinciale en envoyant ta lettre de refus à l'équipe d'immigration. Ton dépôt peut aussi être remboursé sur preuve du refus, si tu en fais la demande dans les 30 jours.",
       "en": "If your permit is delayed, wait for a positive decision from IRCC, then send your deferral request with the approval letter; a permit received too late is an accepted reason. If it's refused, no deferral is possible, but if you plan to reapply for a permit, you can get a new provincial attestation letter by sending your refusal letter to the immigration team. Your deposit can also be refunded with proof of refusal, if you request it within 30 days."
     },
     "sources": [
-      { "label": "Deferrals — uOttawa", "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/deferrals" },
-      { "label": "Provincial attestation letter (PAL) — uOttawa", "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/provincial-attestation-letter" },
-      { "label": "Admission deposit — uOttawa", "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/admission-deposit" }
+      {
+        "label": "Deferrals — uOttawa",
+        "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/deferrals"
+      },
+      {
+        "label": "Provincial attestation letter (PAL) — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/provincial-attestation-letter"
+      },
+      {
+        "label": "Admission deposit — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/admission-deposit"
+      }
     ],
     "related": [],
     "verifiedOn": "2026-11-16",

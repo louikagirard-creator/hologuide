@@ -1,0 +1,3959 @@
+[
+  {
+    "id": "w-res-cout-90u",
+    "category": "logement",
+    "keywords": [
+      "prix 90u",
+      "cout 90 university",
+      "combien coute 90u",
+      "90u price",
+      "90 university fees",
+      "frais residence 90u",
+      "suite 90u prix",
+      "90u cost per year",
+      "loyer 90u",
+      "90u 2027"
+    ],
+    "question": {
+      "fr": "Combien coûte une chambre à la résidence 90 University ?",
+      "en": "How much does a room at 90 University cost?"
+    },
+    "answer": {
+      "fr": "Pour 2027-2028, une suite avec deux chambres simples à 90 University coûte 22 853 $ par personne pour l'année, plan de repas obligatoire de 5 jours inclus. Une chambre double au 20e étage revient à 20 996 $, aussi avec le plan de repas.",
+      "en": "For 2027-2028, a suite with two single bedrooms at 90 University costs $22,853 per person for the year, including the mandatory 5-day meal plan. A double room on the 20th floor is $20,996, also with the meal plan."
+    },
+    "sources": [
+      {
+        "label": "90 University — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/90-university"
+      },
+      {
+        "label": "Residence fees and payment information — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/fees-payment-information"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-cout-traditionnelles",
+    "category": "logement",
+    "keywords": [
+      "prix stanton",
+      "prix marchand",
+      "prix thompson",
+      "prix leblanc",
+      "cout residence traditionnelle",
+      "traditional residence price",
+      "chambre simple prix",
+      "chambre double prix",
+      "how much stanton",
+      "combien coute thompson",
+      "single room cost"
+    ],
+    "question": {
+      "fr": "Combien coûtent Stanton, Marchand, Thompson et Leblanc ?",
+      "en": "How much do Stanton, Marchand, Thompson and Leblanc cost?"
+    },
+    "answer": {
+      "fr": "Ces quatre résidences traditionnelles ont le même tarif. Pour 2027-2028, une chambre double coûte 16 863 $ et une chambre simple 19 355 $ par personne pour 8 mois, plan de repas obligatoire de 5 jours inclus.",
+      "en": "These four traditional residences have the same rates. For 2027-2028, a double room costs $16,863 and a single room $19,355 per person for 8 months, including the mandatory 5-day meal plan."
+    },
+    "sources": [
+      {
+        "label": "Residence fees and payment information — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/fees-payment-information"
+      },
+      {
+        "label": "Compare residences — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/compare-residences"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-cout-henderson",
+    "category": "logement",
+    "keywords": [
+      "prix henderson",
+      "cout henderson",
+      "henderson price",
+      "henderson fees",
+      "combien coute henderson",
+      "chambre connectee",
+      "connected single",
+      "henderson 2027",
+      "loyer henderson"
+    ],
+    "question": {
+      "fr": "Combien coûte une chambre à Henderson ?",
+      "en": "How much does a room at Henderson cost?"
+    },
+    "answer": {
+      "fr": "À Henderson, il y a un seul type de chambre : la chambre simple connectée, avec une salle de bain partagée avec un autre étudiant. Pour 2027-2028, elle coûte 22 402 $ par personne pour 8 mois, plan de repas obligatoire de 5 jours inclus.",
+      "en": "Henderson has one room type: the connected single, with a bathroom shared with one other student. For 2027-2028, it costs $22,402 per person for 8 months, including the mandatory 5-day meal plan."
+    },
+    "sources": [
+      {
+        "label": "Henderson — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/henderson"
+      },
+      {
+        "label": "Residence fees and payment information — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/fees-payment-information"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-cout-rideau",
+    "category": "logement",
+    "keywords": [
+      "prix rideau",
+      "cout residence rideau",
+      "rideau price",
+      "rideau fees",
+      "combien coute rideau",
+      "rideau double",
+      "rideau single",
+      "loyer rideau",
+      "290 rideau prix"
+    ],
+    "question": {
+      "fr": "Combien coûte une chambre à la résidence Rideau ?",
+      "en": "How much does a room at Rideau residence cost?"
+    },
+    "answer": {
+      "fr": "Pour 2027-2028, à Rideau, une chambre double coûte 10 940 $ et une chambre simple 14 207 $ par personne pour 8 mois. Le plan de repas y est facultatif, donc il n'est pas inclus dans ce prix.",
+      "en": "For 2027-2028 at Rideau, a double room costs $10,940 and a single room $14,207 per person for 8 months. The meal plan is optional there, so it's not included in that price."
+    },
+    "sources": [
+      {
+        "label": "Rideau — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/rideau"
+      },
+      {
+        "label": "Residence fees and payment information — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/fees-payment-information"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-cout-friel",
+    "category": "logement",
+    "keywords": [
+      "prix friel",
+      "cout friel",
+      "friel price",
+      "friel fees",
+      "studio friel prix",
+      "suite friel",
+      "combien coute friel",
+      "residence pas chere",
+      "cheapest residence",
+      "loyer friel"
+    ],
+    "question": {
+      "fr": "Combien coûte une chambre à Friel ?",
+      "en": "How much does a room at Friel cost?"
+    },
+    "answer": {
+      "fr": "Pour 2027-2028, Friel coûte de 10 146 $ à 14 492 $ par personne pour 8 mois, selon le type d'unité : la suite avec deux chambres doubles est la moins chère, et la suite avec une chambre simple la plus chère. Le plan de repas est facultatif et n'est pas inclus.",
+      "en": "For 2027-2028, Friel costs $10,146 to $14,492 per person for 8 months, depending on the unit: the suite with two double bedrooms is the cheapest and the suite with one single bedroom the most expensive. The meal plan is optional and not included."
+    },
+    "sources": [
+      {
+        "label": "Friel — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/friel"
+      },
+      {
+        "label": "Residence fees and payment information — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/fees-payment-information"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-cout-annex",
+    "category": "logement",
+    "keywords": [
+      "prix annex",
+      "cout annex",
+      "annex price",
+      "annex fees",
+      "studio annex",
+      "premium studio",
+      "combien coute annex",
+      "appartement annex prix",
+      "loyer annex",
+      "265 laurier"
+    ],
+    "question": {
+      "fr": "Combien coûte une chambre à l'Annex ?",
+      "en": "How much does a room at the Annex cost?"
+    },
+    "answer": {
+      "fr": "Pour 2027-2028, avec un contrat de 12 mois, l'Annex coûte de 16 099 $ pour une chambre dans un appartement de cinq chambres à 27 571 $ pour un studio premium, par personne. Un studio ordinaire coûte 27 127 $. Le plan de repas est facultatif.",
+      "en": "For 2027-2028, on a 12-month agreement, the Annex costs from $16,099 for a room in a five-bedroom apartment to $27,571 for a premium studio, per person. A regular studio is $27,127. The meal plan is optional."
+    },
+    "sources": [
+      {
+        "label": "Annex — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/annex"
+      },
+      {
+        "label": "Residence fees and payment information — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/fees-payment-information"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-cout-hyman-soloway",
+    "category": "logement",
+    "keywords": [
+      "prix hyman soloway",
+      "cout hyso",
+      "hyso price",
+      "hyman soloway fees",
+      "combien coute hyso",
+      "appartement hyso",
+      "loyer hyman soloway",
+      "157 laurier prix"
+    ],
+    "question": {
+      "fr": "Combien coûte une chambre à Hyman Soloway ?",
+      "en": "How much does a room at Hyman Soloway cost?"
+    },
+    "answer": {
+      "fr": "Pour 2027-2028, avec un contrat de 12 mois, une chambre à Hyman Soloway coûte 15 764 $ dans un appartement de quatre chambres, 16 676 $ dans un trois chambres et 18 944 $ dans un deux chambres, par personne. Le plan de repas est facultatif.",
+      "en": "For 2027-2028, on a 12-month agreement, a room at Hyman Soloway costs $15,764 in a four-bedroom apartment, $16,676 in a three-bedroom and $18,944 in a two-bedroom, per person. The meal plan is optional."
+    },
+    "sources": [
+      {
+        "label": "Hyman Soloway — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/hyman-soloway"
+      },
+      {
+        "label": "Residence fees and payment information — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/fees-payment-information"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-cout-45-mann",
+    "category": "logement",
+    "keywords": [
+      "prix 45 mann",
+      "cout mann",
+      "mann price",
+      "45 mann fees",
+      "combien coute 45 mann",
+      "appartement une chambre",
+      "one bedroom apartment residence",
+      "loyer mann"
+    ],
+    "question": {
+      "fr": "Combien coûte une chambre à 45 Mann ?",
+      "en": "How much does a room at 45 Mann cost?"
+    },
+    "answer": {
+      "fr": "Pour 2027-2028, avec un contrat de 12 mois, 45 Mann coûte 16 771 $ pour une chambre dans un appartement de quatre chambres, 17 695 $ dans un trois chambres, 19 999 $ dans un deux chambres et 26 575 $ pour un appartement d'une chambre, par personne.",
+      "en": "For 2027-2028, on a 12-month agreement, 45 Mann costs $16,771 for a room in a four-bedroom apartment, $17,695 in a three-bedroom, $19,999 in a two-bedroom and $26,575 for a one-bedroom apartment, per person."
+    },
+    "sources": [
+      {
+        "label": "45 Mann — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/45-mann"
+      },
+      {
+        "label": "Residence fees and payment information — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/fees-payment-information"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-cout-2026-2027",
+    "category": "logement",
+    "keywords": [
+      "prix residence cette annee",
+      "frais residence 2026-2027",
+      "residence fees this year",
+      "cout residence actuel",
+      "combien je paie en residence",
+      "current residence rates",
+      "tarifs 2026",
+      "residence price 2026"
+    ],
+    "question": {
+      "fr": "Combien coûtent les résidences pour l'année 2026-2027 ?",
+      "en": "How much do residences cost for 2026-2027?"
+    },
+    "answer": {
+      "fr": "Pour 2026-2027, les résidences traditionnelles coûtent 16 403 $ en chambre double et 18 733 $ en chambre simple, plan de repas inclus; 90 University de 20 715 $ à 22 573 $ et Henderson 22 121 $, aussi avec le plan. Friel va de 10 043 $ à 14 345 $ et Rideau de 10 934 $ à 14 203 $, sans plan de repas. Les appartements de 12 mois vont de 15 601 $ à 27 304 $.",
+      "en": "For 2026-2027, traditional residences cost $16,403 for a double and $18,733 for a single, meal plan included; 90 University ranges from $20,715 to $22,573 and Henderson is $22,121, also with the meal plan. Friel ranges from $10,043 to $14,345 and Rideau from $10,934 to $14,203, without a meal plan. The 12-month apartments range from $15,601 to $27,304."
+    },
+    "sources": [
+      {
+        "label": "Residence fees and payment information — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/fees-payment-information"
+      },
+      {
+        "label": "Compare residences — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/compare-residences"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-90u-20e-etage",
+    "category": "logement",
+    "keywords": [
+      "90u 20e etage",
+      "20th floor 90u",
+      "chambre double 90u",
+      "90u double room",
+      "traditionnel plus 90u",
+      "90u shared bedroom",
+      "90u vingtieme",
+      "20e etage"
+    ],
+    "question": {
+      "fr": "C'est quoi les chambres du 20e étage de 90 University ?",
+      "en": "What are the 20th-floor rooms at 90 University?"
+    },
+    "answer": {
+      "fr": "Au 20e étage de 90U, 12 chambres sont de style traditionnel plus : tu partages ta chambre avec un colocataire et le lit est simple. Il n'y a pas de cuisinette ni de table dans l'unité, mais il y a un mini-frigo et un micro-ondes, et pas de salle commune à cet étage.",
+      "en": "On the 20th floor of 90U, 12 rooms are traditional plus style: you share the bedroom with a roommate and the bed is a single. There's no kitchenette or table in the unit, but there is a mini-fridge and microwave, and no common room on that floor."
+    },
+    "sources": [
+      {
+        "label": "90 University — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/90-university"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-mixite",
+    "category": "logement",
+    "keywords": [
+      "residence mixte",
+      "coed residence",
+      "etage mixte",
+      "non mixte",
+      "gender mix residence",
+      "coed floors",
+      "same gender roommate",
+      "salle de bain non mixte",
+      "residence filles garcons",
+      "single gender floor"
+    ],
+    "question": {
+      "fr": "Les résidences sont-elles mixtes ?",
+      "en": "Are the residences coed?"
+    },
+    "answer": {
+      "fr": "Ça dépend. À 90 University, les suites, chambres et salles de bain ne sont pas mixtes. À Leblanc, Stanton, Marchand et Thompson, les étages sont mixtes mais pas les unités, et Marchand, Leblanc et Thompson ont aussi quelques étages non mixtes. Henderson, Rideau et Friel ont des étages mixtes avec des unités ou salles de bain non mixtes, tandis que les appartements de l'Annex, Hyman Soloway et 45 Mann sont mixtes.",
+      "en": "It depends. At 90 University, suites, rooms and bathrooms are not coed. At Leblanc, Stanton, Marchand and Thompson, floors are coed but units aren't, and Marchand, Leblanc and Thompson also have some single-gender floors. Henderson, Rideau and Friel have coed floors with single-gender units or bathrooms, while the Annex, Hyman Soloway and 45 Mann apartments are coed."
+    },
+    "sources": [
+      {
+        "label": "Compare residences — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/compare-residences"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-climatisation",
+    "category": "logement",
+    "keywords": [
+      "climatisation residence",
+      "air conditioning residence",
+      "residence clim",
+      "ac in residence",
+      "fait chaud residence",
+      "residence sans clim",
+      "ventilateur residence",
+      "which residences have ac",
+      "air climatise"
+    ],
+    "question": {
+      "fr": "Quelles résidences ont l'air climatisé ?",
+      "en": "Which residences have air conditioning?"
+    },
+    "answer": {
+      "fr": "90 University, Friel, Henderson, Rideau, l'Annex, Hyman Soloway et 45 Mann ont l'air climatisé. Leblanc, Marchand, Stanton et Thompson n'en ont pas : l'Université suggère d'apporter un ventilateur, car il peut faire chaud en septembre.",
+      "en": "90 University, Friel, Henderson, Rideau, the Annex, Hyman Soloway and 45 Mann have air conditioning. Leblanc, Marchand, Stanton and Thompson don't, so the University suggests bringing a fan, since it can get warm in September."
+    },
+    "sources": [
+      {
+        "label": "Compare residences — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/compare-residences"
+      },
+      {
+        "label": "What to bring to residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/what-bring"
+      },
+      {
+        "label": "Stanton — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/stanton"
+      },
+      {
+        "label": "Annex — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/annex"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-taille-lit",
+    "category": "logement",
+    "keywords": [
+      "taille du lit residence",
+      "bed size residence",
+      "lit simple ou double",
+      "single or double bed",
+      "draps residence",
+      "literie fournie",
+      "bedding included",
+      "quelle grandeur de draps",
+      "sheets size dorm",
+      "lit double residence"
+    ],
+    "question": {
+      "fr": "Quelle est la taille du lit en résidence, et la literie est-elle fournie ?",
+      "en": "What size is the bed in residence, and is bedding provided?"
+    },
+    "answer": {
+      "fr": "La literie n'est pas fournie, apporte la tienne. Le lit est simple, 96,5 sur 189 centimètres, à Leblanc, Marchand, Stanton, Thompson, Friel et au 20e étage de 90U. Il est double, 134,5 sur 189 centimètres, à 45 Mann, 90U, l'Annex, Henderson, Rideau et Hyman Soloway.",
+      "en": "Bedding isn't provided, so bring your own. The bed is a single, 38 by 74.5 inches, at Leblanc, Marchand, Stanton, Thompson, Friel and the 20th floor of 90U. It's a double, 53 by 74.5 inches, at 45 Mann, 90U, the Annex, Henderson, Rideau and Hyman Soloway."
+    },
+    "sources": [
+      {
+        "label": "What to bring to residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/what-bring"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-quoi-apporter",
+    "category": "logement",
+    "keywords": [
+      "quoi apporter en residence",
+      "what to bring to residence",
+      "liste residence",
+      "packing list dorm",
+      "choses a apporter",
+      "residence checklist",
+      "que mettre dans ma valise residence",
+      "essentials residence"
+    ],
+    "question": {
+      "fr": "Qu'est-ce que je dois apporter en résidence ?",
+      "en": "What should I bring to residence?"
+    },
+    "answer": {
+      "fr": "L'essentiel : ta literie et tes oreillers, des cintres, des serviettes, tes articles d'hygiène, un panier et du détergent à lessive, une trousse de premiers soins, de la vaisselle et des ustensiles de cuisine, tes médicaments et tous tes chargeurs. Pense aussi à garder de l'eau et de la nourriture non périssable en cas de confinement. Avant d'acheter, passe à la Gratuiterie de l'Université, où tout est gratuit.",
+      "en": "The essentials: your bedding and pillows, hangers, towels, toiletries, a laundry hamper and detergent, a first aid kit, dishes and kitchenware, your medication and all your chargers. Also keep some water and non-perishable food in case of a lockdown. Before buying, check the University's Free Store, where everything is free."
+    },
+    "sources": [
+      {
+        "label": "What to bring to residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/what-bring"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-objets-interdits",
+    "category": "logement",
+    "keywords": [
+      "interdit en residence",
+      "not allowed in residence",
+      "what not to bring residence",
+      "chandelle residence",
+      "grille-pain residence",
+      "toaster residence",
+      "micro-ondes residence",
+      "bbq residence",
+      "routeur sans fil",
+      "prohibited items dorm"
+    ],
+    "question": {
+      "fr": "Qu'est-ce qui est interdit d'apporter en résidence ?",
+      "en": "What am I not allowed to bring to residence?"
+    },
+    "answer": {
+      "fr": "N'apporte pas d'animal de compagnie, de chandelles, d'armes, même fausses, de meubles, de micro-ondes, de cinéma maison, de barbecue ni de routeur sans fil. Les grille-pain et fours grille-pain sont interdits dans les résidences traditionnelles. Les appareils à flamme nue, comme les réchauds de camping ou les fondues, sont interdits partout en résidence.",
+      "en": "Don't bring a pet, candles, weapons, even fake ones, furniture, a microwave, a home theatre, a barbecue or a wireless router. Toasters and toaster ovens aren't allowed in traditional residences. Open-flame appliances, like camping stoves or fondue sets, are banned everywhere in residence."
+    },
+    "sources": [
+      {
+        "label": "What to bring to residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/what-bring"
+      },
+      {
+        "label": "Kitchen and housekeeping — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/kitchen-housekeeping"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-appareils-cuisine",
+    "category": "logement",
+    "keywords": [
+      "bouilloire residence",
+      "kettle residence",
+      "cafetiere chambre",
+      "coffee maker dorm",
+      "cuisiner dans ma chambre",
+      "cooking in bedroom",
+      "mini frigo residence",
+      "mini fridge rental",
+      "coldex",
+      "louer frigo"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux avoir une bouilloire, une cafetière ou un mini-frigo dans ma chambre ?",
+      "en": "Can I have a kettle, coffee maker or mini-fridge in my room?"
+    },
+    "answer": {
+      "fr": "Oui, la bouilloire et la cafetière sont permises dans ta chambre si elles ont un arrêt automatique, et tu peux avoir un mini-frigo ou un congélateur; on peut en louer un chez Coldex. Par contre, il est interdit de cuisiner dans les chambres : les autres appareils de cuisson s'utilisent seulement dans les cuisines désignées.",
+      "en": "Yes, a kettle and coffee maker are allowed in your room if they have an automatic shut-off, and you can have a mini-fridge or freezer; you can rent one from Coldex. However, cooking isn't allowed in bedrooms: other cooking appliances can only be used in the designated kitchens."
+    },
+    "sources": [
+      {
+        "label": "Kitchen and housekeeping — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/kitchen-housekeeping"
+      },
+      {
+        "label": "What to bring to residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/what-bring"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-buanderie",
+    "category": "logement",
+    "keywords": [
+      "laverie residence",
+      "laundry residence",
+      "laveuse secheuse residence",
+      "laundry free",
+      "lessive gratuite",
+      "where do i do laundry",
+      "buanderie gratuite",
+      "washing machine dorm",
+      "faire mon lavage"
+    ],
+    "question": {
+      "fr": "Où faire ma lessive en résidence, et est-ce payant ?",
+      "en": "Where do I do laundry in residence, and does it cost anything?"
+    },
+    "answer": {
+      "fr": "La lessive est gratuite dans toutes les résidences. À l'Annex et à 45 Mann, il y a une laveuse et une sécheuse dans chaque unité; ailleurs, la buanderie est au rez-de-chaussée, au sous-sol ou à chaque étage selon l'immeuble. Apporte ton détergent, tes feuilles d'assouplissant et, dans plusieurs résidences, ta carte uOttawa.",
+      "en": "Laundry is free in all residences. At the Annex and 45 Mann, there's a washer and dryer in each unit; elsewhere, the laundry room is on the ground floor, in the basement or on every floor depending on the building. Bring detergent, dryer sheets and, in several residences, your uOttawa card."
+    },
+    "sources": [
+      {
+        "label": "Annex — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/annex"
+      },
+      {
+        "label": "45 Mann — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/45-mann"
+      },
+      {
+        "label": "90 University — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/90-university"
+      },
+      {
+        "label": "Thompson — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/thompson"
+      },
+      {
+        "label": "Marchand — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/marchand"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-entreposage-velo",
+    "category": "logement",
+    "keywords": [
+      "entreposage residence",
+      "storage unit residence",
+      "casier entreposage",
+      "bike rack residence",
+      "stationnement velo residence",
+      "ranger mon velo residence",
+      "rangement equipement hockey",
+      "residence storage fee",
+      "indoor bike parking"
+    ],
+    "question": {
+      "fr": "Est-ce qu'il y a de l'entreposage et un endroit pour mon vélo en résidence ?",
+      "en": "Is there storage and a place for my bike in residence?"
+    },
+    "answer": {
+      "fr": "Oui : des espaces d'entreposage et des supports à vélo intérieurs sont offerts sur demande à Henderson, l'Annex, 45 Mann, 90U et Friel, même si tu habites une autre résidence. En 2026-2027, ça coûte 126 $ par session pour un vélo ou un espace d'entreposage, cadenas non fourni. L'entreposage d'équipement de sport est obligatoire pour les joueurs de hockey.",
+      "en": "Yes: storage units and indoor bike racks are available on request at Henderson, the Annex, 45 Mann, 90U and Friel, even if you live in another residence. In 2026-2027, it costs $126 per term for a bike spot or a storage unit, padlock not included. Sports equipment storage is mandatory for hockey players."
+    },
+    "sources": [
+      {
+        "label": "Incidental service fees and administrative charges — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/incidental-administrative-fees"
+      },
+      {
+        "label": "Hyman Soloway — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/hyman-soloway"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-adresse-postale",
+    "category": "logement",
+    "keywords": [
+      "adresse postale residence",
+      "mailing address residence",
+      "comment recevoir du courrier",
+      "residence address",
+      "adresse stanton",
+      "adresse marchand",
+      "adresse thompson",
+      "adresse 90u",
+      "envoyer une lettre en residence"
+    ],
+    "question": {
+      "fr": "Quelle est mon adresse postale en résidence ?",
+      "en": "What's my mailing address in residence?"
+    },
+    "answer": {
+      "fr": "Écris ton nom complet, le nom de ta résidence et ton numéro de chambre, puis Université d'Ottawa et l'adresse de l'immeuble. Par exemple, 90U est au 90, privée University, Stanton au 100, privée University, Marchand au 110, privée University et Thompson au 45, privée University, à Ottawa. N'écris pas ton numéro de boîte aux lettres sur le courrier.",
+      "en": "Write your full name, your residence name and room number, then University of Ottawa and the building address. For example, 90U is at 90 University Private, Stanton at 100 University Private, Marchand at 110 University Private and Thompson at 45 University Private, in Ottawa. Don't put your mailbox number on mail."
+    },
+    "sources": [
+      {
+        "label": "90 University — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/90-university"
+      },
+      {
+        "label": "Stanton — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/stanton"
+      },
+      {
+        "label": "Marchand — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/marchand"
+      },
+      {
+        "label": "Thompson — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/thompson"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-colis",
+    "category": "logement",
+    "keywords": [
+      "colis residence",
+      "package residence",
+      "recevoir un colis",
+      "ou chercher mon colis",
+      "amazon residence",
+      "parcel dorm",
+      "courrier residence",
+      "mail room",
+      "salle du courrier",
+      "720 king edward"
+    ],
+    "question": {
+      "fr": "Où vont mes colis quand j'habite en résidence ?",
+      "en": "Where do my packages go when I live in residence?"
+    },
+    "answer": {
+      "fr": "Les lettres sont déposées dans ta boîte aux lettres du lundi au vendredi; tu dois demander ta clé de boîte aux lettres. Les colis vont au Service postal de l'Université, qui t'envoie un courriel quand tu peux le récupérer : va le chercher dans les jours suivants, car il est gardé peu de temps. À Friel, les gros envois sont gardés à la réception, et à Leblanc, le courrier est gardé à la réception de 90U.",
+      "en": "Letters go in your mailbox Monday to Friday; you need to request your mailbox key. Packages go to University Postal Services, which emails you when you can pick them up: go within a couple of days, since they're only kept a short time. At Friel, large items are kept at reception, and at Leblanc, mail is held at the 90U reception."
+    },
+    "sources": [
+      {
+        "label": "90 University — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/90-university"
+      },
+      {
+        "label": "Friel — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/friel"
+      },
+      {
+        "label": "Leblanc — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/leblanc"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-internet",
+    "category": "logement",
+    "keywords": [
+      "internet residence",
+      "wifi residence",
+      "wi-fi dorm",
+      "modem residence",
+      "rogers residence",
+      "internet ne marche pas residence",
+      "connexion residence",
+      "residence wifi password",
+      "support technique internet"
+    ],
+    "question": {
+      "fr": "Comment fonctionne Internet en résidence ?",
+      "en": "How does Internet work in residence?"
+    },
+    "answer": {
+      "fr": "Internet est inclus. Chaque unité a un modem Rogers : scanne le code QR dessus et suis le guide de configuration, et ne change pas l'identifiant ni le mot de passe, car les autres occupants en ont besoin. Tes amis doivent utiliser le Wi-Fi de l'immeuble. En cas de problème, ouvre un billet de soutien technique ou appelle le 1-888-862-4750.",
+      "en": "Internet is included. Each unit has a Rogers modem: scan its QR code and follow the setup guide, and don't change the login or password, since the other occupants need them. Your friends must use the building Wi-Fi. If you have trouble, open a tech support ticket or call 1-888-862-4750."
+    },
+    "sources": [
+      {
+        "label": "90 University — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/90-university"
+      },
+      {
+        "label": "Stanton — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/stanton"
+      },
+      {
+        "label": "FAQ - Applying to residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/apply-residence/FAQ"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-revalidation",
+    "category": "logement",
+    "keywords": [
+      "revalidation carte residence",
+      "revalidation station",
+      "ma carte ne marche plus residence",
+      "card not working room",
+      "carte etudiante porte chambre",
+      "tap card 24 hours",
+      "barre dehors carte",
+      "revalider ma carte"
+    ],
+    "question": {
+      "fr": "C'est quoi les stations de revalidation en résidence ?",
+      "en": "What are the residence revalidation stations?"
+    },
+    "answer": {
+      "fr": "Si ta carte étudiante ouvre ta chambre, tu dois la valider au moins une fois toutes les 24 heures. Tiens-la à la verticale contre une station pendant au moins cinq secondes, jusqu'à ce que la lumière devienne verte. Il y a des stations à l'entrée de ta résidence et à la salle à manger du Centre universitaire.",
+      "en": "If your student card opens your room, you must validate it at least once every 24 hours. Hold it vertically against a station for at least five seconds, until the light turns green. There are stations at your residence entrance and in the Dining Hall at the University Centre."
+    },
+    "sources": [
+      {
+        "label": "Student Residence Revalidation Stations — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/access-card-keys/student-residence-revalidation-stations"
+      },
+      {
+        "label": "Keys and cards — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/access-card-keys"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-frais-deverrouillage",
+    "category": "logement",
+    "keywords": [
+      "frais deverrouillage porte",
+      "lockout fee",
+      "combien coute debarrer",
+      "unlock fee residence",
+      "cle perdue prix",
+      "lost key cost",
+      "changement de serrure",
+      "boite aux lettres cle perdue"
+    ],
+    "question": {
+      "fr": "Combien coûte un déverrouillage de porte ou une clé perdue en résidence ?",
+      "en": "How much does a lockout or lost key cost in residence?"
+    },
+    "answer": {
+      "fr": "En 2026-2027, le déverrouillage coûte 52 $ la première fois dans une session, 76 $ la deuxième et 106 $ à partir de la troisième. Une clé de chambre ou une carte d'accès de remplacement coûte 52 $, une clé de boîte aux lettres 26 $ et un changement de serrure 126 $.",
+      "en": "In 2026-2027, a lockout costs $52 the first time in a term, $76 the second and $106 from the third time on. A replacement room key or access card costs $52, a mailbox key $26 and a lock change $126."
+    },
+    "sources": [
+      {
+        "label": "Incidental service fees and administrative charges — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/incidental-administrative-fees"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-changement-chambre",
+    "category": "logement",
+    "keywords": [
+      "changer de chambre",
+      "room change",
+      "changement de chambre residence",
+      "switch rooms",
+      "demenager dans une autre chambre",
+      "swap room",
+      "frais changement chambre",
+      "room change fee"
+    ],
+    "question": {
+      "fr": "Comment changer de chambre en résidence ?",
+      "en": "How do I change rooms in residence?"
+    },
+    "answer": {
+      "fr": "Fais ta demande dans le Portail du logement; l'équipe de Vie en résidence l'évalue selon les places libres et l'urgence. Les demandes ne sont pas traitées pendant les trois premières semaines de l'année, le traitement peut prendre jusqu'à trois semaines et un changement approuvé coûte 157 $ en 2026-2027. Si c'est un conflit avec ton colocataire, commence par en parler à ton conseiller communautaire.",
+      "en": "Apply in the Housing Portal; the Residence Life team assesses it based on availability and urgency. Requests aren't processed in the first three weeks of the year, processing can take up to three weeks and an approved change costs $157 in 2026-2027. If it's a roommate conflict, start by talking to your community adviser."
+    },
+    "sources": [
+      {
+        "label": "Room assignment and shared living — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/room-assignment-shared-living"
+      },
+      {
+        "label": "Incidental service fees and administrative charges — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/incidental-administrative-fees"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-conflit-colocataire",
+    "category": "logement",
+    "keywords": [
+      "conflit colocataire",
+      "roommate conflict",
+      "probleme avec mon coloc",
+      "chicane coloc",
+      "mediation colocataire",
+      "roommate mediation",
+      "mon coloc est bruyant",
+      "bad roommate",
+      "coloc irrespectueux"
+    ],
+    "question": {
+      "fr": "J'ai un conflit avec mon colocataire : que faire ?",
+      "en": "I have a conflict with my roommate: what should I do?"
+    },
+    "answer": {
+      "fr": "Parle d'abord à ton colocataire face à face, pas par texto, et relisez votre entente de colocataires. Si ça ne règle rien, va voir ton conseiller communautaire ou le soutien par les pairs : ils peuvent vous guider et animer une médiation, à laquelle tous les colocataires doivent participer. Vous devez ensuite essayer l'arrangement convenu pendant au moins deux semaines.",
+      "en": "First talk to your roommate face to face, not by text, and review your Roommate Agreement. If that doesn't work, see your community adviser or peer support: they can guide you and lead a mediation, which all roommates must attend. You then have to try the agreed arrangement for at least two weeks."
+    },
+    "sources": [
+      {
+        "label": "Room assignment and shared living — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/room-assignment-shared-living"
+      },
+      {
+        "label": "Guide to living in residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/guide-living-residence"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-entente-colocataires",
+    "category": "logement",
+    "keywords": [
+      "entente de colocataires",
+      "roommate agreement",
+      "contrat colocataire",
+      "roommate contract",
+      "obligatoire entente coloc",
+      "entente coloc date limite",
+      "regles entre colocs",
+      "roommate form"
+    ],
+    "question": {
+      "fr": "C'est quoi l'entente de colocataires en résidence ?",
+      "en": "What is the residence Roommate Agreement?"
+    },
+    "answer": {
+      "fr": "C'est un document obligatoire que tu remplis avec tous les occupants de ton unité pour fixer vos règles sur le bruit, le ménage, les invités et la communication. Selon le guide de vie en résidence, il doit être rempli dans les 30 jours suivant l'emménagement, au plus tard le 6 octobre 2026. Vous pouvez le revoir pendant l'année, et il sert de référence en cas de conflit.",
+      "en": "It's a mandatory document you fill out with everyone in your unit to set your rules on noise, cleaning, guests and communication. According to the residence living guide, it must be completed within 30 days of move-in, no later than October 6, 2026. You can update it during the year, and it's used as a reference if conflicts arise."
+    },
+    "sources": [
+      {
+        "label": "Guide to living in residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/guide-living-residence"
+      },
+      {
+        "label": "Policies and documents — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/policies-documents"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-heures-silence",
+    "category": "logement",
+    "keywords": [
+      "heures de silence residence",
+      "quiet hours",
+      "bruit residence",
+      "noise residence",
+      "couvre-feu bruit",
+      "silence examens",
+      "quiet hours exams",
+      "trop de bruit",
+      "noise complaint residence"
+    ],
+    "question": {
+      "fr": "Quelles sont les heures de silence en résidence ?",
+      "en": "What are the quiet hours in residence?"
+    },
+    "answer": {
+      "fr": "Les heures de silence vont de 23 h à 7 h du lundi au vendredi, jusqu'à 9 h le samedi matin et jusqu'à midi le dimanche. Pendant les examens finaux, en décembre et en avril, elles s'appliquent 24 heures sur 24. Si les agents de protection doivent intervenir pour du bruit, l'intervention est facturée 84 $ l'heure en 2026-2027.",
+      "en": "Quiet hours run from 11 p.m. to 7 a.m. Monday to Friday, until 9 a.m. on Saturday morning and until noon on Sunday. During final exams, in December and April, they apply 24 hours a day. If Protection Services has to respond to a noise complaint, it's billed at $84 an hour in 2026-2027."
+    },
+    "sources": [
+      {
+        "label": "Policies and documents — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/policies-documents"
+      },
+      {
+        "label": "Guide to living in residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/guide-living-residence"
+      },
+      {
+        "label": "Incidental service fees and administrative charges — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/incidental-administrative-fees"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-invites",
+    "category": "logement",
+    "keywords": [
+      "invite residence",
+      "guest residence",
+      "visiteur residence",
+      "ami dormir residence",
+      "overnight guest",
+      "registre des invites",
+      "guest registry",
+      "combien d'invites",
+      "chum blonde residence",
+      "sleepover dorm"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux recevoir des invités en résidence ?",
+      "en": "Can I have guests in residence?"
+    },
+    "answer": {
+      "fr": "Oui, jusqu'à deux invités à la fois, et chacun doit être inscrit au registre des invités; tu es responsable de leurs actes. Pendant les trois premières semaines de la session, aucun invité ne peut dormir en résidence et ils doivent partir avant minuit. Un invité qui dort plus de trois nuits de suite, ou plus de six nuits dans un mois, est considéré comme cohabitant, ce qui est interdit.",
+      "en": "Yes, up to two guests at a time, and each one must be signed in on the Guest Registry; you're responsible for their actions. During the first three weeks of the term, no overnight guests are allowed and they must leave by midnight. A guest who stays more than three nights in a row, or more than six nights in a month, is considered to be cohabiting, which isn't allowed."
+    },
+    "sources": [
+      {
+        "label": "Guide to living in residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/guide-living-residence"
+      },
+      {
+        "label": "Policies and documents — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/policies-documents"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-alcool",
+    "category": "logement",
+    "keywords": [
+      "alcool residence",
+      "alcohol residence",
+      "boire en residence",
+      "drinking age residence",
+      "biere residence",
+      "age legal alcool",
+      "verre residence",
+      "party residence",
+      "drinking dorm"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux boire de l'alcool en résidence ?",
+      "en": "Can I drink alcohol in residence?"
+    },
+    "answer": {
+      "fr": "Seulement si tu as 19 ans, l'âge légal en Ontario. Dans les aires communes désignées, utilise des contenants en plastique ou en métal : le verre n'est pas permis. L'Université recommande d'éviter les jeux qui poussent à boire vite, comme le beer pong, et de prendre environ un verre à l'heure.",
+      "en": "Only if you're 19, the legal age in Ontario. In designated common areas, use plastic or metal containers: glass isn't allowed. The University recommends avoiding games that push fast drinking, like beer pong, and having about one drink per hour."
+    },
+    "sources": [
+      {
+        "label": "Guide to living in residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/guide-living-residence"
+      },
+      {
+        "label": "Policies and documents — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/policies-documents"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-cannabis-fumer",
+    "category": "logement",
+    "keywords": [
+      "cannabis residence",
+      "fumer residence",
+      "vapoter residence",
+      "smoking residence",
+      "vape dorm",
+      "weed residence",
+      "pot residence",
+      "cigarette residence",
+      "ou fumer campus",
+      "encens residence"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux fumer, vapoter ou consommer du cannabis en résidence ?",
+      "en": "Can I smoke, vape or use cannabis in residence?"
+    },
+    "answer": {
+      "fr": "Non : il est interdit de fumer ou de brûler quoi que ce soit à l'intérieur, y compris le tabac, le cannabis, l'encens et les vapoteuses. Tu dois fumer dehors, à au moins neuf mètres des portes, fenêtres et prises d'air. Tu peux garder jusqu'à 30 grammes de cannabis dans ton unité, mais tu ne peux ni en cultiver ni cuisiner avec.",
+      "en": "No: smoking or burning anything indoors is banned, including tobacco, cannabis, incense and vapes. You must smoke outside, at least nine metres from doors, windows and air intakes. You can keep up to 30 grams of cannabis in your unit, but you can't grow it or cook with it."
+    },
+    "sources": [
+      {
+        "label": "Guide to living in residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/guide-living-residence"
+      },
+      {
+        "label": "Policies and documents — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/policies-documents"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-animaux",
+    "category": "logement",
+    "keywords": [
+      "animal residence",
+      "pets residence",
+      "chat residence",
+      "chien residence",
+      "poisson residence",
+      "can i bring my cat",
+      "animal de compagnie dorm",
+      "plantes residence",
+      "pet policy residence"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux avoir un animal en résidence ?",
+      "en": "Can I have a pet in residence?"
+    },
+    "answer": {
+      "fr": "Non, les animaux de compagnie, même les poissons, ne sont pas permis en résidence. Les seules exceptions sont les animaux d'assistance et les animaux de soutien émotionnel approuvés par le Service du logement avant ton emménagement. Les plantes, elles, sont les bienvenues.",
+      "en": "No, pets, even fish, aren't allowed in residence. The only exceptions are service animals and emotional support animals approved by Housing Services before you move in. Plants, on the other hand, are welcome."
+    },
+    "sources": [
+      {
+        "label": "Moving into residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/moving-in"
+      },
+      {
+        "label": "Policies and documents — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/policies-documents"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-animal-soutien",
+    "category": "logement",
+    "keywords": [
+      "animal de soutien emotionnel",
+      "emotional support animal",
+      "animal d'assistance residence",
+      "service animal residence",
+      "chien guide residence",
+      "esa dorm",
+      "approbation animal",
+      "support animal housing"
+    ],
+    "question": {
+      "fr": "Comment faire approuver un animal d'assistance ou de soutien en résidence ?",
+      "en": "How do I get a service or support animal approved for residence?"
+    },
+    "answer": {
+      "fr": "Dans le Portail du logement, à la page À propos de toi, choisis Animal de soutien et donne des détails, puis envoie au Service du logement une documentation signée par un professionnel de la santé réglementé. Tu dois aussi fournir un certificat de santé du vétérinaire, enregistrer l'animal auprès de la Ville d'Ottawa, aviser tes colocataires et signer une entente sur l'animal.",
+      "en": "In the Housing Portal, on the About You page, select Support animal and add details, then send Housing Services documentation signed by a regulated health professional. You also need a health check from your vet, to register the animal with the City of Ottawa, to notify your roommates and to sign an animal agreement."
+    },
+    "sources": [
+      {
+        "label": "Requests for support and adaptive measures — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/requests-support-adaptive-measures"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-decorations",
+    "category": "logement",
+    "keywords": [
+      "decorer ma chambre",
+      "decorate residence room",
+      "affiches residence",
+      "posters dorm",
+      "clous mur residence",
+      "poster putty",
+      "gommette",
+      "deplacer meubles residence",
+      "rearrange furniture dorm"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux décorer ma chambre et déplacer les meubles ?",
+      "en": "Can I decorate my room and move the furniture?"
+    },
+    "answer": {
+      "fr": "Oui, avec de la gommette ou des adhésifs amovibles seulement : pas de clous, de vis ni de punaises, et ne couvre jamais les détecteurs de fumée ou les gicleurs. Tu peux réorganiser les meubles dans ta chambre ou ton unité, mais ils doivent y rester et retourner à leur place avant ton départ. Parles-en d'abord avec tes colocataires.",
+      "en": "Yes, with sticky tack or removable adhesive only: no nails, screws or thumbtacks, and never cover smoke detectors or sprinklers. You can rearrange furniture within your room or unit, but it must stay there and go back to its original place before you move out. Talk to your roommates first."
+    },
+    "sources": [
+      {
+        "label": "Moving into residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/moving-in"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-assurance",
+    "category": "logement",
+    "keywords": [
+      "assurance residence",
+      "resident insurance",
+      "marsh",
+      "assurance obligatoire residence",
+      "insurance residence fee",
+      "assurance biens residence",
+      "opt out insurance residence",
+      "couverture assurance",
+      "tenant insurance dorm"
+    ],
+    "question": {
+      "fr": "C'est quoi l'assurance obligatoire des résidents ?",
+      "en": "What is the mandatory resident insurance?"
+    },
+    "answer": {
+      "fr": "Tous les résidents sont inscrits automatiquement au Programme d'assurance des résidents avec Marsh Canada, et depuis l'automne 2026, on ne peut plus s'en retirer. Il coûte 161 $ en 2026-2027 et 171 $ en 2027-2028. Il couvre tes biens jusqu'à 10 000 $ avec une franchise de 500 $, ta responsabilité civile jusqu'à 1 million $ et jusqu'à 2 500 $ de frais de subsistance si ta chambre devient inhabitable.",
+      "en": "All residents are automatically enrolled in the Student Resident Insurance Program with Marsh Canada, and since fall 2026 you can no longer opt out. It costs $161 in 2026-2027 and $171 in 2027-2028. It covers your belongings up to $10,000 with a $500 deductible, personal liability up to $1 million and up to $2,500 in living expenses if your room becomes unlivable."
+    },
+    "sources": [
+      {
+        "label": "uOttawa Student Resident Insurance Program — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/uOttawa-Student-Resident-Insurance-Program"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-assurance-reclamation",
+    "category": "logement",
+    "keywords": [
+      "reclamation assurance residence",
+      "insurance claim residence",
+      "vol dans ma chambre",
+      "stolen in residence",
+      "degats d'eau chambre",
+      "marsh claim",
+      "faire une reclamation",
+      "objet vole residence"
+    ],
+    "question": {
+      "fr": "Comment faire une réclamation à l'assurance des résidents ?",
+      "en": "How do I make a resident insurance claim?"
+    },
+    "answer": {
+      "fr": "Appelle Marsh Canada au 1-800-665-0765 pour déclarer un sinistre. La police couvre tes biens au coût de remplacement, sous réserve d'exclusions et d'une franchise de 500 $. Pour d'autres questions, écris au Bureau de la dirigeante principale de la gestion des risques.",
+      "en": "Call Marsh Canada at 1-800-665-0765 to report a claim. The policy covers your belongings at replacement cost, subject to exclusions and a $500 deductible. For other questions, contact the Office of the Chief Risk Officer."
+    },
+    "sources": [
+      {
+        "label": "uOttawa Student Resident Insurance Program — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/uOttawa-Student-Resident-Insurance-Program"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-partir-conge",
+    "category": "logement",
+    "keywords": [
+      "partir semaine de lecture",
+      "leaving residence for break",
+      "quitter residence vacances",
+      "reading week residence",
+      "conge des fetes residence",
+      "avant de partir residence",
+      "thermostat residence",
+      "leaving for holidays dorm"
+    ],
+    "question": {
+      "fr": "Je pars pour la semaine de lecture ou les Fêtes : que dois-je faire dans ma chambre ?",
+      "en": "I'm leaving for reading week or the holidays: what should I do in my room?"
+    },
+    "answer": {
+      "fr": "Ferme et verrouille portes et fenêtres, éteins les lumières, vide tes poubelles et les aliments périssables, mais laisse le frigo branché. Règle le thermostat à au moins 15 degrés, dégage les bouches de chauffage et débranche les appareils inutiles. Et apporte tes clés, pour éviter des frais de déverrouillage au retour.",
+      "en": "Close and lock doors and windows, turn off the lights, empty your garbage and perishable food, but leave the fridge plugged in. Set the thermostat to at least 15 degrees, keep heating vents clear and unplug unnecessary appliances. And take your keys with you to avoid unlocking fees when you return."
+    },
+    "sources": [
+      {
+        "label": "Holidays and reading week — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/holidays-reading-week"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-rester-fetes",
+    "category": "logement",
+    "keywords": [
+      "rester en residence pendant les fetes",
+      "staying in residence holidays",
+      "residence ouverte noel",
+      "residence open christmas break",
+      "temps des fetes residence",
+      "holiday break dorm",
+      "salle a manger fetes",
+      "residence pendant les vacances",
+      "winter break residence"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux rester en résidence pendant le congé des Fêtes ?",
+      "en": "Can I stay in residence over the holiday break?"
+    },
+    "answer": {
+      "fr": "Oui, les résidences restent ouvertes pendant le congé des Fêtes, mais les portes d'accès sont verrouillées en tout temps : garde ta carte d'accès sur toi. La réception de 90U reste ouverte et la salle à manger aussi, alors tu peux utiliser ton plan de repas ou payer à la porte. Pour une urgence, comme un dégât d'eau ou une panne de chauffage, appelle le Service de la protection au 613-562-5411.",
+      "en": "Yes, residences stay open over the holiday break, but access doors are locked at all times: keep your access card with you. The 90U reception stays open, as does the Dining Hall, so you can use your meal plan or pay at the door. For an emergency, like water damage or a heating outage, call Protection Services at 613-562-5411."
+    },
+    "sources": [
+      {
+        "label": "Holidays and reading week — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/holidays-reading-week"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-date-demenagement",
+    "category": "logement",
+    "keywords": [
+      "date demenagement residence",
+      "move out date residence",
+      "quand quitter residence",
+      "fin du contrat residence",
+      "move-out deadline",
+      "quitter ma chambre mai",
+      "demenager fin annee",
+      "last day residence"
+    ],
+    "question": {
+      "fr": "Quand dois-je quitter ma résidence à la fin de l'année ?",
+      "en": "When do I have to move out of residence at the end of the year?"
+    },
+    "answer": {
+      "fr": "Pour les contrats de 8 mois, à Leblanc, Marchand, Stanton, Thompson, 90U, Henderson, Rideau et Friel, le départ est le 3 mai 2027 à 9 h. À 45 Mann, à l'Annex et à Hyman Soloway, avec un contrat de 12 mois, c'est le 30 août 2027 à 9 h.",
+      "en": "For 8-month agreements, at Leblanc, Marchand, Stanton, Thompson, 90U, Henderson, Rideau and Friel, move-out is May 3, 2027 at 9 a.m. At 45 Mann, the Annex and Hyman Soloway, on a 12-month agreement, it's August 30, 2027 at 9 a.m."
+    },
+    "sources": [
+      {
+        "label": "Important residence dates and deadlines — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/dates-deadlines"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-depart-formulaire",
+    "category": "logement",
+    "keywords": [
+      "formulaire de depart residence",
+      "check-out form residence",
+      "comment quitter residence",
+      "rendre mes cles residence",
+      "return keys residence",
+      "frais depart",
+      "improper move out fee",
+      "move out checklist"
+    ],
+    "question": {
+      "fr": "Qu'est-ce que je dois faire le jour où je quitte la résidence ?",
+      "en": "What do I need to do on move-out day?"
+    },
+    "answer": {
+      "fr": "Remplis le formulaire de départ de la résidence; sinon, des frais de 105 $ sont ajoutés à ton compte. Nettoie bien ton espace, laisse le routeur Wi-Fi dans l'unité et le frigo branché, puis dépose tes clés physiques dans la boîte de dépôt du hall, dans une enveloppe avec ton nom, ton numéro d'étudiant, ton immeuble et ta chambre. Garde ta carte étudiante.",
+      "en": "Fill out the residence check-out form; otherwise, a $105 fee is added to your account. Clean your space well, leave the Wi-Fi router in the unit and the fridge plugged in, then drop your physical keys in the lobby drop box, in an envelope with your name, student number, building and room. Keep your student card."
+    },
+    "sources": [
+      {
+        "label": "Moving out — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/moving-out"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-boites-chariots",
+    "category": "logement",
+    "keywords": [
+      "boites demenagement",
+      "moving boxes residence",
+      "ou acheter des boites",
+      "chariot demenagement",
+      "moving cart residence",
+      "boite 3 dollars",
+      "cartons residence",
+      "acheter boites 90u",
+      "demenagement residence"
+    ],
+    "question": {
+      "fr": "Où trouver des boîtes et des chariots pour déménager de la résidence ?",
+      "en": "Where can I get boxes and carts to move out of residence?"
+    },
+    "answer": {
+      "fr": "Tu peux acheter des boîtes à la réception de 90U pour 3 $ chacune. Quelques chariots sont prêtés en résidence le jour du départ, en laissant une pièce d'identité en dépôt, mais ils sont en nombre limité, alors planifie en conséquence.",
+      "en": "You can buy boxes at the 90U front desk for $3 each. A few carts are lent out in residence on move-out day, with ID left as a deposit, but there are only a limited number, so plan ahead."
+    },
+    "sources": [
+      {
+        "label": "Moving out — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/moving-out"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-stationnement-demenagement",
+    "category": "logement",
+    "keywords": [
+      "stationnement demenagement residence",
+      "parking move out",
+      "ou me stationner pour demenager",
+      "parking move in residence",
+      "amende demenagement",
+      "stationner devant residence",
+      "move out parking",
+      "street parking move out",
+      "stationnement rue friel"
+    ],
+    "question": {
+      "fr": "Où me stationner pour déménager de la résidence ?",
+      "en": "Where can I park to move out of residence?"
+    },
+    "answer": {
+      "fr": "En semaine, l'Université conseille de déménager le soir, après 17 h. Tu peux payer le stationnement au lot K, aux garages Brooks et Desmarais, au lot M le soir et la fin de semaine, ou au stationnement voisin de la résidence Rideau. Il y a aussi des places dans la rue, par exemple rue Friel jusqu'à la résidence ou avenue Mann devant 45 Mann; une auto mal garée sans paiement peut recevoir une amende de 85 $ à 100 $.",
+      "en": "On weekdays, the University suggests moving out in the evening, after 5 p.m. You can pay to park at Lot K, the Brooks and Desmarais garages, Lot M evenings and weekends, or the lot next to Rideau residence. There's also street parking, for example on Friel Street up to the residence or Mann Avenue in front of 45 Mann; a car parked outside these zones without paying can get an $85 to $100 fine."
+    },
+    "sources": [
+      {
+        "label": "Moving out — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/moving-out"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-dump-and-run",
+    "category": "logement",
+    "keywords": [
+      "dump and run",
+      "donner mes affaires residence",
+      "donate items move out",
+      "boite de dons residence",
+      "depose degage",
+      "ou donner vetements residence",
+      "donation bin residence",
+      "jeter meubles residence"
+    ],
+    "question": {
+      "fr": "Qu'est-ce que je fais des objets dont je ne veux plus en quittant la résidence ?",
+      "en": "What do I do with things I don't want when I move out of residence?"
+    },
+    "answer": {
+      "fr": "Donne-les au programme Dump and Run : à la fin de chaque session, des bacs de dons temporaires sont installés dans chaque résidence, par exemple près de la salle 140 à 90U ou dans le hall de Henderson et de Friel. Les objets vont à des organismes locaux ou à la Gratuiterie. Tu peux aussi utiliser en tout temps le bac rouge sous l'escalier principal du Carrefour des apprentissages.",
+      "en": "Give them to the Dump and Run: at the end of each term, temporary donation bins are set up in every residence, for example beside room 140 at 90U or in the Henderson and Friel lobbies. Items go to local charities or the Free Store. You can also use the red donation bin under the main staircase of the Learning Crossroads at any time."
+    },
+    "sources": [
+      {
+        "label": "The Dump and Run — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/campus-sustainability/activities-initiatives/dump-and-run"
+      },
+      {
+        "label": "Moving out — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/moving-out"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-emmenagement-tot",
+    "category": "logement",
+    "keywords": [
+      "emmenager tot residence",
+      "early move-in",
+      "arriver en aout residence",
+      "early arrival residence",
+      "avant le 3 septembre",
+      "move in august",
+      "emmenagement hatif",
+      "arriver 19 aout",
+      "move in before september"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux emménager en résidence avant la période officielle ?",
+      "en": "Can I move into residence before the official move-in period?"
+    },
+    "answer": {
+      "fr": "Oui, si tu as un contrat de 8 mois à 90U, Friel, Henderson, Leblanc, Marchand, Rideau, Stanton ou Thompson, tu peux arriver dès le 19 août. Pour l'automne 2026, la période officielle allait du 3 au 5 septembre. Avant, les services ne sont pas tous ouverts : la salle à manger offre un menu limité, de 8 h à 20 h.",
+      "en": "Yes, if you have an 8-month agreement at 90U, Friel, Henderson, Leblanc, Marchand, Rideau, Stanton or Thompson, you can arrive as early as August 19. For fall 2026, the official period ran from September 3 to 5. Before then, not all services are open: the Dining Hall has a limited menu, from 8 a.m. to 8 p.m."
+    },
+    "sources": [
+      {
+        "label": "Moving into residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/moving-in"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-dechargement",
+    "category": "logement",
+    "keywords": [
+      "ou decharger auto residence",
+      "drop-off zone residence",
+      "unloading move in",
+      "stationnement emmenagement",
+      "lot k emmenagement",
+      "ou me garer pour emmenager",
+      "move-in parking",
+      "zone de debarquement",
+      "decharger mes affaires"
+    ],
+    "question": {
+      "fr": "Où décharger ma voiture le jour de l'emménagement ?",
+      "en": "Where do I unload my car on move-in day?"
+    },
+    "answer": {
+      "fr": "Utilise la zone de débarquement désignée pendant au plus 20 minutes, puis déplace ton véhicule vers un stationnement de plus longue durée. Pour le lot K, entre par la rue Cumberland vers le sud, tourne à droite sur la privée University, et sors par la rue Waller Sud. L'entrée de Friel est au bout nord de la rue Friel.",
+      "en": "Use the designated drop-off zone for up to 20 minutes, then move your vehicle to a longer-term lot. For Lot K, enter from Cumberland Street heading south, turn right onto University Private, and exit via Waller Street South. The Friel entrance is at the north end of Friel Street."
+    },
+    "sources": [
+      {
+        "label": "Moving into residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/moving-in"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-arrivee-tardive",
+    "category": "logement",
+    "keywords": [
+      "arriver en retard residence",
+      "late arrival residence",
+      "arriver apres le 6 septembre",
+      "late move in",
+      "ou chercher mes cles",
+      "cles residence arrivee tardive",
+      "arriving late dorm",
+      "apres la periode d'emmenagement",
+      "check in late residence"
+    ],
+    "question": {
+      "fr": "J'arrive en résidence après la période d'emménagement : où vais-je chercher mes clés ?",
+      "en": "I'm arriving after move-in: where do I get my keys?"
+    },
+    "answer": {
+      "fr": "Si tu arrives le 6 septembre ou plus tard, présente-toi à la réception de Rideau si tu vas à Rideau, à celle de Friel si tu vas à Friel, et à la réception de 90U pour toutes les autres résidences. Seul toi peux récupérer ta carte et tes clés : apporte une pièce d'identité avec photo émise par le gouvernement, ton numéro d'étudiant et ta passe d'arrivée.",
+      "en": "If you arrive on September 6 or later, go to the Rideau reception for Rideau, the Friel reception for Friel, and the 90U reception for all other residences. Only you can pick up your card and keys: bring government-issued photo ID, your student number and your arrival pass."
+    },
+    "sources": [
+      {
+        "label": "Moving into residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/moving-in"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-menage",
+    "category": "logement",
+    "keywords": [
+      "menage residence",
+      "cleaning residence",
+      "qui nettoie residence",
+      "housekeeping residence",
+      "inspection chambre",
+      "cleaning charges",
+      "nettoyage cuisine commune",
+      "room inspection dorm"
+    ],
+    "question": {
+      "fr": "Qui fait le ménage en résidence ?",
+      "en": "Who does the cleaning in residence?"
+    },
+    "answer": {
+      "fr": "Tu es responsable de ta chambre ou de ton unité, et il y a des inspections; des frais s'appliquent si un nettoyage est nécessaire. Le personnel d'entretien nettoie tous les jours les aires communes, comme les salles de bain communes, les cuisines, les salons et les corridors. Dans les cuisines communes, rapporte ta vaisselle et ta nourriture après chaque repas : une cuisine trop sale peut être fermée.",
+      "en": "You're responsible for your room or unit, and there are inspections; charges apply if cleaning is needed. Housekeeping cleans common areas daily, like shared bathrooms, kitchens, lounges and hallways. In shared kitchens, take your dishes and food back after every meal: a kitchen that's too messy can be locked."
+    },
+    "sources": [
+      {
+        "label": "Kitchen and housekeeping — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/kitchen-housekeeping"
+      },
+      {
+        "label": "Guide to living in residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/guide-living-residence"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-dommages-etage",
+    "category": "logement",
+    "keywords": [
+      "dommages etage residence",
+      "damage charges residence",
+      "facture partagee etage",
+      "floor billing",
+      "vandalisme residence",
+      "qui paie les dommages",
+      "damage split residence",
+      "degats etage",
+      "frais dommages partages"
+    ],
+    "question": {
+      "fr": "Qui paie quand il y a des dommages sur mon étage ?",
+      "en": "Who pays for damage on my floor?"
+    },
+    "answer": {
+      "fr": "Quand personne ne se dénonce, un avis est affiché avec le coût, et si le responsable ne se manifeste pas dans les 10 jours, la facture est partagée entre tous les résidents de l'étage ou du groupe. Si tu sais qui l'a fait, parle à ton conseiller communautaire avant la date limite. Si tu pars longtemps, avise-le d'avance pour être exempté pendant ton absence.",
+      "en": "When no one comes forward, a notice is posted with the cost, and if the person responsible doesn't come forward within 10 days, the charges are split among everyone on the floor or cluster. If you know who did it, talk to your community adviser before the deadline. If you'll be away a long time, tell them in advance to be exempt during your absence."
+    },
+    "sources": [
+      {
+        "label": "Kitchen and housekeeping — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/kitchen-housekeeping"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-recyclage",
+    "category": "logement",
+    "keywords": [
+      "recyclage residence",
+      "recycling residence",
+      "compost residence",
+      "poubelle residence",
+      "ou jeter carton",
+      "garbage chute",
+      "tri dechets",
+      "verre recyclage",
+      "gobelet cafe compost"
+    ],
+    "question": {
+      "fr": "Comment trier mes déchets en résidence ?",
+      "en": "How do I sort my waste in residence?"
+    },
+    "answer": {
+      "fr": "Au recyclage : contenants de plastique 1, 2 et 5, canettes, cartons de lait et bouteilles de verre, ainsi que papier et boîtes de carton propres. Au compost : toute la nourriture, les gobelets de café jetables et le papier souillé. Aux déchets : sacs et emballages de plastique, ustensiles en plastique et couvercles de gobelets. Aplatis le carton et dépose-le près des bacs, jamais dans la chute à déchets.",
+      "en": "Recycling: plastic containers 1, 2 and 5, cans, milk cartons and glass bottles, plus clean paper and boxboard. Compost: all food, disposable coffee cups and food-soiled paper. Garbage: plastic bags and wrapping, plastic cutlery and coffee cup lids. Flatten cardboard and leave it beside the bins, never down the garbage chute."
+    },
+    "sources": [
+      {
+        "label": "Garbage, recycling and compost — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/garbage-recycling-compost"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-salon-bien-etre",
+    "category": "logement",
+    "keywords": [
+      "salon bien-etre 90u",
+      "wellness lounge",
+      "salon mieux-etre residence",
+      "jeux video residence",
+      "luminotherapie",
+      "light therapy",
+      "activites residence",
+      "endroit pour relaxer residence"
+    ],
+    "question": {
+      "fr": "C'est quoi le salon bien-être de 90U ?",
+      "en": "What is the 90U Wellness Lounge?"
+    },
+    "answer": {
+      "fr": "C'est un espace pour les résidents à 90U, où tu peux regarder des films, jouer à des jeux vidéo ou de société, ou étudier dans un coin de luminothérapie. Montre ta carte étudiante à la réception et dis de quelle résidence tu viens. Des activités y sont offertes tous les jours pendant l'année universitaire.",
+      "en": "It's a space for residents at 90U where you can watch movies, play video or board games, or study in a light therapy corner. Show your student card at reception and say which residence you're from. Activities are offered daily during the academic year."
+    },
+    "sources": [
+      {
+        "label": "Residence services and support — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/support-residence"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-garantie-canadiens",
+    "category": "logement",
+    "keywords": [
+      "garantie residence",
+      "housing guarantee",
+      "residence garantie premiere annee",
+      "guaranteed residence canadian",
+      "garantie logement cegep",
+      "residence guarantee criteria",
+      "suis-je garanti residence",
+      "first year guarantee"
+    ],
+    "question": {
+      "fr": "Est-ce que j'ai une place garantie en résidence ?",
+      "en": "Am I guaranteed a spot in residence?"
+    },
+    "answer": {
+      "fr": "Si tu es citoyen canadien ou résident permanent, la résidence est garantie en première année si tu es admis à temps plein au premier cycle pour l'automne, que tu n'as pas fait plus de cinq cours universitaires et que tu paies le dépôt à temps; les étudiants du cégep ou du collège admis en deuxième année y ont aussi droit. La garantie ne s'applique pas aux programmes professionnels ni aux contrats de quatre mois, et les offres garanties expirent le 1er juin 2027.",
+      "en": "If you're a Canadian citizen or permanent resident, residence is guaranteed in first year if you're admitted full time to an undergraduate program for the fall, haven't taken more than five university courses and pay the deposit on time; CEGEP or college students admitted into second year also qualify. The guarantee doesn't apply to professional programs or four-month agreements, and guaranteed offers expire June 1, 2027."
+    },
+    "sources": [
+      {
+        "label": "Apply for residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/apply-residence"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-garantie-internationaux",
+    "category": "logement",
+    "keywords": [
+      "garantie residence international",
+      "international student residence guarantee",
+      "etudiant etranger residence",
+      "residence garantie permis d'etudes",
+      "lettre d'attestation provinciale",
+      "international housing guarantee",
+      "international guarantee residence",
+      "residence etudiant international",
+      "guaranteed housing international"
+    ],
+    "question": {
+      "fr": "La résidence est-elle garantie pour les étudiants internationaux ?",
+      "en": "Is residence guaranteed for international students?"
+    },
+    "answer": {
+      "fr": "Oui, si tu es admis à temps plein au premier cycle ou à un diplôme d'études supérieures pour l'automne 2027, que tu reçois une lettre d'attestation provinciale pour ton permis d'études, que tu acceptes ton offre d'admission et paies le dépôt d'admission à temps, et que tu fais ta demande de résidence avec le dépôt avant l'échéance. La garantie ne vaut pas pour un contrat de quatre mois.",
+      "en": "Yes, if you're admitted full time to an undergraduate program or graduate diploma for fall 2027, receive a provincial attestation letter for your study permit, accept your offer of admission and pay the admission deposit on time, and apply for residence with the deposit by the deadline. The guarantee doesn't cover four-month agreements."
+    },
+    "sources": [
+      {
+        "label": "Apply for residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/apply-residence"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-etudiant-actuel",
+    "category": "logement",
+    "keywords": [
+      "residence etudiant actuel",
+      "current student residence",
+      "deuxieme annee residence",
+      "residence sans garantie",
+      "apply residence second year",
+      "pas en residence presentement",
+      "upper year residence",
+      "vivre en residence deuxieme annee",
+      "non guaranteed residence"
+    ],
+    "question": {
+      "fr": "Je suis déjà étudiant mais pas en résidence : puis-je y habiter ?",
+      "en": "I'm a current student not living in residence: can I live there?"
+    },
+    "answer": {
+      "fr": "Oui, tu peux faire une demande dans le Portail du logement pour un contrat de 8 ou 12 mois, mais ta place n'est pas garantie. Une fois les étudiants garantis logés, les offres se font selon le principe du premier arrivé, premier servi, en général à partir de la fin juin. Si tu n'as rien reçu à la mi-juillet, l'Université te conseille de chercher un logement hors campus.",
+      "en": "Yes, you can apply in the Housing Portal for an 8- or 12-month agreement, but your spot isn't guaranteed. Once guaranteed students are housed, offers are made first come, first served, usually starting at the end of June. If you haven't received anything by mid-July, the University advises looking for off-campus housing."
+    },
+    "sources": [
+      {
+        "label": "Apply for residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/apply-residence"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-retour-12-mois",
+    "category": "logement",
+    "keywords": [
+      "revenir en residence",
+      "return to residence",
+      "reapply residence",
+      "residence annee prochaine",
+      "12 month return guarantee",
+      "garder ma chambre",
+      "renouveler residence",
+      "returning student residence"
+    ],
+    "question": {
+      "fr": "Comment revenir en résidence l'an prochain ?",
+      "en": "How do I return to residence next year?"
+    },
+    "answer": {
+      "fr": "Si tu as un contrat complet de 12 mois à l'Annex, Hyman Soloway ou 45 Mann, ton retour est garanti si tu fais ta demande à temps pour un autre contrat de 12 mois; les demandes ouvrent le 12 janvier 2027 à 9 h et la page de demande indique que la garantie se termine le 11 février 2027. Avec un contrat de 8 mois, tu peux aussi faire une demande, mais seulement pour un contrat de 12 mois, et sans garantie.",
+      "en": "If you have a full 12-month agreement at the Annex, Hyman Soloway or 45 Mann, your return is guaranteed if you apply on time for another 12-month agreement; applications open January 12, 2027 at 9 a.m. and the application page says the guarantee ends February 11, 2027. With an 8-month agreement, you can also apply, but only for a 12-month agreement, and without a guarantee."
+    },
+    "sources": [
+      {
+        "label": "Apply for residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/apply-residence"
+      },
+      {
+        "label": "Important residence dates and deadlines — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/dates-deadlines"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-modifier-preferences",
+    "category": "logement",
+    "keywords": [
+      "modifier preferences residence",
+      "change residence preferences",
+      "changer mes choix residence",
+      "edit housing application",
+      "book now residence",
+      "retirer demande residence",
+      "modifier ma demande residence",
+      "changer preferences portail",
+      "housing portal edit"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux modifier mes préférences de résidence après ma demande ?",
+      "en": "Can I change my residence preferences after applying?"
+    },
+    "answer": {
+      "fr": "Oui, tant que ta chambre n'est pas attribuée : connecte-toi au Portail du logement, choisis Modifier et enregistre tes changements. Ne retire pas ta demande pour le faire. Par contre, si tu as choisi ta chambre avec l'option Réserver maintenant ou si ta chambre est déjà attribuée, tu ne peux plus changer tes préférences.",
+      "en": "Yes, as long as your room hasn't been assigned: log into the Housing Portal, select Edit and save your changes. Don't withdraw your application to do it. However, if you picked your room with Book Now or your room is already assigned, you can no longer change your preferences."
+    },
+    "sources": [
+      {
+        "label": "Apply for residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/apply-residence"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-depot-paiement",
+    "category": "logement",
+    "keywords": [
+      "payer depot residence",
+      "residence deposit payment",
+      "carte de credit depot residence",
+      "depot 950",
+      "comment payer depot logement",
+      "alternative payment residence",
+      "deposit credit card housing",
+      "payer acompte residence",
+      "pay housing deposit"
+    ],
+    "question": {
+      "fr": "Comment payer le dépôt de résidence ?",
+      "en": "How do I pay the residence deposit?"
+    },
+    "answer": {
+      "fr": "Le dépôt de 950 $ se paie dans le Portail du logement avec une carte de crédit émise par une institution située au Canada ou aux États-Unis. Tu peux aussi utiliser un autre mode, comme un virement bancaire, CIBC Student Solution ou Convera, mais le traitement prend plusieurs jours; les chèques personnels ne sont pas acceptés. Le dépôt est ensuite déduit de tes frais de résidence.",
+      "en": "The $950 deposit is paid in the Housing Portal with a credit card issued by an institution located in Canada or the U.S. You can also use another method, like a bank transfer, CIBC Student Solution or Convera, but processing takes several days; personal cheques aren't accepted. The deposit is then deducted from your residence fees."
+    },
+    "sources": [
+      {
+        "label": "Residence fees and payment information — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/fees-payment-information"
+      },
+      {
+        "label": "Apply for residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/apply-residence"
+      },
+      {
+        "label": "Important residence dates and deadlines — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/dates-deadlines"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-remboursement-depot",
+    "category": "logement",
+    "keywords": [
+      "remboursement depot residence",
+      "deposit refund residence",
+      "annuler residence remboursement",
+      "date limite annulation residence",
+      "cancel residence refund",
+      "15 juin residence",
+      "residence cancellation deadline",
+      "annuler mon offre residence",
+      "deposit refund deadline"
+    ],
+    "question": {
+      "fr": "Jusqu'à quand puis-je annuler ma résidence et récupérer mon dépôt ?",
+      "en": "Until when can I cancel residence and get my deposit back?"
+    },
+    "answer": {
+      "fr": "Pour une réservation d'automne 2027, le dépôt est remboursé à 100 % jusqu'au 15 juin 2027 et à 50 % jusqu'au 30 juin, moins 107 $ de frais administratifs; après, il n'y a plus de remboursement. Pour une réservation d'hiver 2028, c'est 100 % jusqu'au 30 novembre 2027. Le montant est crédité à ton compte étudiant : pour le recevoir sur ton mode de paiement, fais une demande de remboursement dans uoZone.",
+      "en": "For a fall 2027 booking, the deposit is 100% refundable until June 15, 2027 and 50% until June 30, minus a $107 administrative fee; after that, there's no refund. For a winter 2028 booking, it's 100% until November 30, 2027. The amount is credited to your student account: to get it back on your payment method, submit a refund request in uoZone."
+    },
+    "sources": [
+      {
+        "label": "Important residence dates and deadlines — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/dates-deadlines"
+      },
+      {
+        "label": "Cancellation — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/cancellation"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-remplacement-obligatoire",
+    "category": "logement",
+    "keywords": [
+      "remplacant residence",
+      "replacement residence",
+      "annuler apres date limite",
+      "mandatory replacement",
+      "trouver quelqu'un pour ma chambre",
+      "briser contrat residence",
+      "break residence contract",
+      "leave residence early"
+    ],
+    "question": {
+      "fr": "Que se passe-t-il si j'annule ma résidence après la date limite ?",
+      "en": "What happens if I cancel residence after the deadline?"
+    },
+    "answer": {
+      "fr": "Après la date limite, tu dois être remplacé par un étudiant admissible pour obtenir l'annulation, et tes frais de résidence continuent d'être facturés jusqu'à ce qu'on te trouve un remplaçant. Le remplaçant doit étudier à temps plein à uOttawa et, dans une chambre double, une suite, un studio ou un étage non mixte, être du même genre que toi. Fais ta demande dans le Portail du logement et publie une annonce sur le Babillard du logement étudiant.",
+      "en": "After the deadline, you must be replaced by an eligible student to get the cancellation, and residence fees keep being charged until a replacement is found. The replacement must be a full-time uOttawa student and, for a double room, suite, studio or single-gender floor, be the same gender as you. Submit your request in the Housing Portal and post an ad on the Student Housing Billboard."
+    },
+    "sources": [
+      {
+        "label": "Cancellation — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/cancellation"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-paiement-frais",
+    "category": "logement",
+    "keywords": [
+      "payer frais residence",
+      "pay residence fees",
+      "versement residence",
+      "residence instalment",
+      "date paiement residence",
+      "carte de credit frais residence",
+      "residence fees due date",
+      "releve de compte residence"
+    ],
+    "question": {
+      "fr": "Comment et quand payer mes frais de résidence ?",
+      "en": "How and when do I pay my residence fees?"
+    },
+    "answer": {
+      "fr": "Tes frais de résidence sont ajoutés à ton relevé de compte dans uoZone et se paient comme tes droits de scolarité, idéalement en ligne par ton institution financière; ni l'argent comptant ni la carte de crédit ne sont acceptés. Il y a deux versements pour les contrats de 8 mois et trois pour ceux de 12 mois. En 2026-2027, les versements sont dus le 2 octobre 2026 pour l'automne et le 29 janvier 2027 pour l'hiver.",
+      "en": "Residence fees are added to your statement of account in uoZone and are paid like tuition, ideally online through your bank; cash and credit cards aren't accepted. There are two instalments for 8-month agreements and three for 12-month ones. In 2026-2027, instalments are due October 2, 2026 for fall and January 29, 2027 for winter."
+    },
+    "sources": [
+      {
+        "label": "Residence fees and payment information — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/fees-payment-information"
+      },
+      {
+        "label": "Important residence dates and deadlines — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/dates-deadlines"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-resiliation-annee",
+    "category": "logement",
+    "keywords": [
+      "resilier contrat residence",
+      "terminate residence agreement",
+      "quitter residence en cours d'annee",
+      "preavis 30 jours residence",
+      "quitter residence janvier",
+      "leave residence mid year",
+      "termination residence",
+      "partir de la residence",
+      "end residence contract early"
+    ],
+    "question": {
+      "fr": "Comment quitter la résidence en cours d'année ?",
+      "en": "How do I leave residence during the year?"
+    },
+    "answer": {
+      "fr": "Fais une demande de résiliation dans le Portail du logement, même si tu n'as pas encore de remplaçant, avec un préavis de 30 jours. Tu dois être remplacé par un étudiant admissible, et tu paies tes frais jusqu'à ce remplacement. Pour qu'un contrat de 12 mois se termine le 30 avril, la demande doit être faite au plus tard le 31 mars; les frais de résiliation avec remplacement sont de 105 $ en 2026-2027.",
+      "en": "Submit a termination request in the Housing Portal, even if you don't have a replacement yet, with 30 days' notice. You must be replaced by an eligible student, and you pay your fees until then. For a 12-month agreement to end on April 30, the request must be made by March 31; the termination-with-replacement fee is $105 in 2026-2027."
+    },
+    "sources": [
+      {
+        "label": "Cancellation — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/cancellation"
+      },
+      {
+        "label": "Take-over and sublet — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/take-over-sublet"
+      },
+      {
+        "label": "Incidental service fees and administrative charges — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/incidental-administrative-fees"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-reprise-contrat",
+    "category": "logement",
+    "keywords": [
+      "reprise de contrat residence",
+      "takeover residence",
+      "reprendre une chambre",
+      "take over room",
+      "babillard logement",
+      "student housing billboard",
+      "chambre residence en cours d'annee",
+      "remplacer un resident",
+      "prendre la chambre de quelqu'un"
+    ],
+    "question": {
+      "fr": "Comment reprendre la chambre d'un autre étudiant en résidence ?",
+      "en": "How do I take over another student's residence room?"
+    },
+    "answer": {
+      "fr": "Trouve une chambre offerte sur le Babillard du logement étudiant; le résident actuel doit remplir sa demande de résiliation et t'identifier dans le Portail du logement. Tu fais ensuite une demande pour l'année en cours, et une fois la reprise approuvée, tu acceptes l'offre reçue par courriel avant d'aller chercher tes clés. Les reprises sont possibles du 15 août jusqu'au 30 avril.",
+      "en": "Find a room on the Student Housing Billboard; the current resident must submit their termination request and identify you in the Housing Portal. You then apply for the current year, and once the takeover is approved, you accept the offer sent by email before picking up your keys. Takeovers are possible from August 15 to April 30."
+    },
+    "sources": [
+      {
+        "label": "Take-over and sublet — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/take-over-sublet"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-sous-location",
+    "category": "logement",
+    "keywords": [
+      "sous-location residence",
+      "sublet residence",
+      "sous-louer ma chambre ete",
+      "summer sublet",
+      "louer ma chambre l'ete",
+      "sublet annex",
+      "sublet hyman soloway",
+      "sublet 45 mann"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux sous-louer ma chambre de résidence l'été ?",
+      "en": "Can I sublet my residence room for the summer?"
+    },
+    "answer": {
+      "fr": "Oui, seulement si tu as un contrat de 12 mois à l'Annex, Hyman Soloway ou 45 Mann. Ton sous-locataire doit être un étudiant d'un établissement postsecondaire, pour une durée fixe, généralement quatre mois, non renouvelable. Tu dois l'identifier dans le Portail du logement, téléverser le formulaire d'entente de sous-location signé et attendre l'approbation du Service du logement.",
+      "en": "Yes, only if you have a 12-month agreement at the Annex, Hyman Soloway or 45 Mann. Your subletter must be a post-secondary student, for a fixed term, usually four months, that can't be renewed. You must identify them in the Housing Portal, upload the signed sublet agreement form and wait for Housing Services' approval."
+    },
+    "sources": [
+      {
+        "label": "Take-over and sublet — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/take-over-sublet"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-resiliation-medicale",
+    "category": "logement",
+    "keywords": [
+      "quitter residence raisons medicales",
+      "medical termination residence",
+      "billet medical residence",
+      "sante quitter residence",
+      "appel decision residence",
+      "medical note housing",
+      "terminate residence health",
+      "resiliation medicale residence",
+      "health reasons leave dorm"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux quitter la résidence pour des raisons médicales ?",
+      "en": "Can I leave residence for medical reasons?"
+    },
+    "answer": {
+      "fr": "Tu peux en faire la demande dans le Portail du logement, avec un certificat médical montrant que l'Université ne peut pas répondre à tes besoins en résidence; une note qui dit seulement que tu dois partir ne suffit pas, et l'approbation n'est pas garantie. Le Service du logement te conseille aussi d'utiliser les ressources du campus et de chercher quelqu'un pour reprendre ton contrat. En cas de refus, tu as droit à un seul appel, dans les 30 jours.",
+      "en": "You can request it in the Housing Portal with a medical certificate showing that the University can't meet your needs in residence; a note that only says you need to leave isn't enough, and approval isn't guaranteed. Housing also advises using campus resources and looking for someone to take over your agreement. If you're refused, you get one appeal, within 30 days."
+    },
+    "sources": [
+      {
+        "label": "Cancellation — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/cancellation"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-annuler-plan-repas",
+    "category": "logement",
+    "keywords": [
+      "annuler plan de repas",
+      "cancel meal plan",
+      "remboursement plan repas",
+      "meal plan refund",
+      "quitter residence plan repas",
+      "arreter mon plan de repas",
+      "changer plan de repas",
+      "meal plan change fee"
+    ],
+    "question": {
+      "fr": "Si je quitte la résidence, mon plan de repas est-il annulé ?",
+      "en": "If I leave residence, is my meal plan cancelled?"
+    },
+    "answer": {
+      "fr": "Non, quitter la résidence ou l'Université n'annule pas ton plan de repas automatiquement. Communique avec le Service de la carte uOttawa et fournis les documents demandés pour l'annuler et être remboursé. Un simple changement de plan coûte 26 $ en 2026-2027.",
+      "en": "No, leaving residence or the University doesn't automatically cancel your meal plan. Contact the uOttawa Card Service and provide the required documents to cancel it and get reimbursed. A simple meal plan change costs $26 in 2026-2027."
+    },
+    "sources": [
+      {
+        "label": "Cancellation — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/cancellation"
+      },
+      {
+        "label": "Incidental service fees and administrative charges — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/incidental-administrative-fees"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-mesures-adaptation",
+    "category": "logement",
+    "keywords": [
+      "mesures d'adaptation residence",
+      "accommodation residence",
+      "handicap residence",
+      "disability housing",
+      "chambre simple raison medicale",
+      "adaptive measures housing",
+      "besoin special residence",
+      "medical needs residence"
+    ],
+    "question": {
+      "fr": "J'ai un handicap ou un problème de santé : comment demander des mesures d'adaptation en résidence ?",
+      "en": "I have a disability or health condition: how do I request accommodations in residence?"
+    },
+    "answer": {
+      "fr": "Remplis la section sur les conditions médicales de ta demande de résidence et envoie ta documentation, signée par le spécialiste ou le professionnel de la santé qui te suit, avant ou pendant la demande. Ça aide à t'attribuer une chambre adaptée, mais ça ne garantit pas une chambre simple ou une résidence précise, car la demande dépasse souvent les places.",
+      "en": "Fill out the medical condition section of your residence application and send your documentation, signed by the specialist or health-care provider treating you, before or during the application. It helps assign you a suitable room, but it doesn't guarantee a single room or a specific residence, since demand often exceeds availability."
+    },
+    "sources": [
+      {
+        "label": "Requests for support and adaptive measures — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/requests-support-adaptive-measures"
+      },
+      {
+        "label": "Room assignment and shared living — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/room-assignment-shared-living"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-autorisation-parents",
+    "category": "logement",
+    "keywords": [
+      "parents residence information",
+      "autorisation tiers residence",
+      "third party authorization housing",
+      "mes parents peuvent appeler",
+      "parent call residence",
+      "release information parents",
+      "confidentialite residence parents",
+      "parents acces dossier logement",
+      "formulaire tiers logement"
+    ],
+    "question": {
+      "fr": "Est-ce que mes parents peuvent obtenir de l'information sur mon dossier de résidence ?",
+      "en": "Can my parents get information about my residence file?"
+    },
+    "answer": {
+      "fr": "Seulement si tu signes le formulaire d'autorisation de communiquer des renseignements à un tiers du Service du logement. Sans ce formulaire, l'Université ne peut partager aucune information personnelle ou financière sur toi. Attention, ce n'est pas le même formulaire que celui pour ton dossier scolaire.",
+      "en": "Only if you sign Housing's authorization to release information to a third party form. Without it, the University can't share any personal or financial information about you. Note that it isn't the same form as the one for your academic record."
+    },
+    "sources": [
+      {
+        "label": "Parents and guardians — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/parents-guardians"
+      },
+      {
+        "label": "Requests for support and adaptive measures — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/requests-support-adaptive-measures"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-pas-offre",
+    "category": "logement",
+    "keywords": [
+      "pas recu offre residence",
+      "no residence offer",
+      "offre residence pas recue",
+      "j'attends mon offre",
+      "housing offer not received",
+      "offre pas mon choix",
+      "offer i didn't want residence",
+      "offre residence en retard",
+      "residence offer late"
+    ],
+    "question": {
+      "fr": "Je n'ai pas reçu d'offre de résidence, ou elle ne correspond pas à mes choix : que faire ?",
+      "en": "I haven't received a residence offer, or it's not what I chose: what should I do?"
+    },
+    "answer": {
+      "fr": "Si tu as une garantie et que tu n'as pas d'offre 30 jours après ta demande, communique avec le Service du logement au 613-562-5885 pour qu'on vérifie ton dossier. Si ton offre ne fait pas partie de tes premiers choix, c'est que ceux-ci n'étaient plus disponibles : les places sont limitées et les préférences ne sont pas garanties.",
+      "en": "If you have a guarantee and no offer 30 days after applying, contact Housing Services at 613-562-5885 so they can check your file. If your offer isn't one of your top choices, it's because those were no longer available: spaces are limited and preferences aren't guaranteed."
+    },
+    "sources": [
+      {
+        "label": "Important residence dates and deadlines — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/dates-deadlines"
+      },
+      {
+        "label": "FAQ - Applying to residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/apply-residence/FAQ"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-chambre-simple",
+    "category": "logement",
+    "keywords": [
+      "chambre simple residence",
+      "single room residence",
+      "avoir ma propre chambre",
+      "private room dorm",
+      "chambre seule",
+      "single occupancy",
+      "own room residence",
+      "chambre individuelle residence",
+      "single unit residence"
+    ],
+    "question": {
+      "fr": "Comment avoir une chambre simple en résidence ?",
+      "en": "How do I get a single room in residence?"
+    },
+    "answer": {
+      "fr": "Indique-le dans tes préférences et fais ta demande tôt pour augmenter tes chances : il y a très peu d'unités simples et elles ne sont pas garanties. Même avec ta propre chambre, tu partageras probablement les aires communes de l'unité ou de l'étage.",
+      "en": "Indicate it in your preferences and apply early to improve your chances: there are very few single units and they aren't guaranteed. Even with your own room, you'll most likely share the common areas of the unit or floor."
+    },
+    "sources": [
+      {
+        "label": "Room assignment and shared living — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/room-assignment-shared-living"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-res-jumelage-colocataire",
+    "category": "logement",
+    "keywords": [
+      "jumelage colocataire",
+      "roommate matching",
+      "comment choisir coloc",
+      "how are roommates chosen",
+      "questionnaire residence",
+      "style de vie coloc",
+      "roommate questionnaire",
+      "choix du colocataire",
+      "how roommates are matched"
+    ],
+    "question": {
+      "fr": "Comment l'Université choisit-elle mon colocataire ?",
+      "en": "How does the University choose my roommate?"
+    },
+    "answer": {
+      "fr": "Le jumelage se fait selon tes réponses dans la demande de logement : l'équipe essaie de jumeler des gens aux habitudes semblables, comme l'horaire de sommeil, l'étude, la propreté, la tolérance au bruit et la vie sociale. En juillet ou en août, tu reçois le nom et les coordonnées de ton colocataire, sauf s'il a refusé de les partager.",
+      "en": "Matching is based on your answers in the housing application: the team tries to pair people with similar habits, like sleep schedule, study environment, tidiness, noise tolerance and social style. In July or August, you receive your roommate's name and contact information, unless they declined to share it."
+    },
+    "sources": [
+      {
+        "label": "Room assignment and shared living — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/room-assignment-shared-living"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-hc-quartiers-ottawa",
+    "category": "logement",
+    "keywords": [
+      "quartier ou habiter ottawa",
+      "best neighbourhood students ottawa",
+      "sandy hill",
+      "cote-de-sable",
+      "centretown",
+      "centre-ville logement",
+      "basse-ville",
+      "marche by",
+      "vieil ottawa est",
+      "where to live near campus"
+    ],
+    "question": {
+      "fr": "Dans quel quartier d'Ottawa habiter près du campus ?",
+      "en": "Which Ottawa neighbourhood should I live in near campus?"
+    },
+    "answer": {
+      "fr": "La Côte-de-Sable est le quartier le plus proche : beaucoup d'étudiants y vivent, presque tout est à distance de marche et les autobus passent souvent. Le centre-ville, à l'ouest, est à 10 à 20 minutes en autobus ou à vélo, et la Basse-Ville et le marché By, au nord, sont accessibles à pied, mais certaines rues sont moins calmes. Au sud, le Vieil Ottawa Est et le Vieil Ottawa Sud sont plus résidentiels, à 10 à 25 minutes.",
+      "en": "Sandy Hill is the closest neighbourhood: many students live there, almost everything is walkable and buses run often. Centretown, to the west, is 10 to 20 minutes by bus or bike, and Lowertown and the ByWard Market, to the north, are walkable, though some streets are less quiet. To the south, Old Ottawa East and Old Ottawa South are more residential, 10 to 25 minutes away."
+    },
+    "sources": [
+      {
+        "label": "Off-campus housing information and resources — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/off-campus-housing-information-resources"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-hc-quartiers-gatineau",
+    "category": "logement",
+    "keywords": [
+      "habiter gatineau",
+      "live in gatineau",
+      "hull logement",
+      "wrightville",
+      "val-tetreau",
+      "gatineau etudiant",
+      "sto campus",
+      "logement gatineau moins cher",
+      "gatineau neighbourhoods"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux habiter à Gatineau en étudiant à uOttawa ?",
+      "en": "Can I live in Gatineau while studying at uOttawa?"
+    },
+    "answer": {
+      "fr": "Oui, et ton U-Pass est valide sur la STO. Hull, au centre-ville de Gatineau, est le secteur le plus populaire, avec des autobus directs vers le campus en 15 à 30 minutes. Wrightville prend de 20 à 35 minutes, et Val-Tétreau, plus calme, de 30 à 45 minutes avec parfois une correspondance.",
+      "en": "Yes, and your U-Pass works on the STO. Hull, in downtown Gatineau, is the most popular area, with direct buses to campus in 15 to 30 minutes. Wrightville takes 20 to 35 minutes, and the quieter Val-Tétreau area 30 to 45 minutes, sometimes with a transfer."
+    },
+    "sources": [
+      {
+        "label": "Off-campus housing information and resources — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/off-campus-housing-information-resources"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-hc-visiter-logement",
+    "category": "logement",
+    "keywords": [
+      "visiter appartement",
+      "quoi verifier logement",
+      "apartment viewing checklist",
+      "inspecter logement",
+      "moisissure appartement",
+      "apartment inspection tips",
+      "avant de signer bail",
+      "things to check apartment"
+    ],
+    "question": {
+      "fr": "Quoi vérifier quand je visite un logement ?",
+      "en": "What should I check when visiting an apartment?"
+    },
+    "answer": {
+      "fr": "Vérifie les serrures, les sorties et l'éclairage des corridors, fais couler l'eau, actionne les toilettes, teste le chauffage, la climatisation, les électroménagers et les détecteurs de fumée. Cherche des traces de moisissure, de dégâts d'eau ou d'insectes. Note tous les défauts sur une liste signée par le propriétaire, prends des photos à l'emménagement, et visite à différents moments pour juger du bruit et du stationnement.",
+      "en": "Check the locks, exits and hallway lighting, run the water, flush the toilets, and test the heating, air conditioning, appliances and smoke detectors. Look for signs of mould, water damage or pests. Write all defects on a list signed by the landlord, take photos when you move in, and visit at different times to judge noise and parking."
+    },
+    "sources": [
+      {
+        "label": "Off-campus housing information and resources — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/off-campus-housing-information-resources"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-hc-bail",
+    "category": "logement",
+    "keywords": [
+      "bail appartement",
+      "lease ontario",
+      "signer un bail",
+      "responsabilite solidaire",
+      "joint and several",
+      "lease tips",
+      "colocation bail",
+      "comprendre mon bail",
+      "roommates lease"
+    ],
+    "question": {
+      "fr": "Qu'est-ce que je dois savoir avant de signer un bail ?",
+      "en": "What should I know before signing a lease?"
+    },
+    "answer": {
+      "fr": "Lis le bail et assure-toi de le comprendre. Dans presque tous les baux, la responsabilité est conjointe et solidaire : sois prêt à payer le loyer complet si tes colocataires ne paient pas leur part. Fais écrire toutes les réparations promises dans le bail, signé par le propriétaire, et demande une entente écrite avant de payer un dépôt, en vérifiant s'il est remboursable.",
+      "en": "Read the lease and make sure you understand it. Almost all leases include joint and several liability: be prepared to pay the full rent if your roommates don't pay their share. Have all promised repairs written into the lease and signed by the landlord, and ask for a written agreement before paying a deposit, checking whether it's refundable."
+    },
+    "sources": [
+      {
+        "label": "Off-campus housing information and resources — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/off-campus-housing-information-resources"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-hc-aide-logement",
+    "category": "logement",
+    "keywords": [
+      "aide logement hors campus",
+      "off-campus housing help",
+      "bureau du logement conseils",
+      "housing office advice",
+      "trouver appartement aide",
+      "chercher logement uottawa",
+      "housing resource centre",
+      "service du logement hors campus",
+      "aide recherche appartement"
+    ],
+    "question": {
+      "fr": "Est-ce que l'Université peut m'aider à trouver un logement hors campus ?",
+      "en": "Can the University help me find off-campus housing?"
+    },
+    "answer": {
+      "fr": "Oui : le Service du logement offre gratuitement de l'orientation, des conseils et de l'aide pour bâtir ta stratégie de recherche, au 90, privée University, local 145, ou au 613-562-5885. Il publie aussi le Babillard du logement étudiant. Par contre, si tu loues hors campus, toutes les démarches sont ta responsabilité, alors commence plusieurs mois avant ton arrivée.",
+      "en": "Yes: Housing Services offers free orientation, advice and help building your search strategy, at 90 University Private, room 145, or at 613-562-5885. It also runs the Student Housing Billboard. However, if you rent off campus, all arrangements are your responsibility, so start several months before you arrive."
+    },
+    "sources": [
+      {
+        "label": "Off-campus housing information and resources — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/off-campus-housing-information-resources"
+      },
+      {
+        "label": "90 University — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/90-university"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-hc-droits-locataire",
+    "category": "logement",
+    "keywords": [
+      "droits locataire",
+      "tenant rights ontario",
+      "probleme proprietaire",
+      "landlord problem",
+      "tribunal logement",
+      "landlord and tenant board",
+      "tribunal administratif du logement",
+      "clinique juridique logement",
+      "bail standard ontario"
+    ],
+    "question": {
+      "fr": "J'ai un problème avec mon propriétaire : vers qui me tourner ?",
+      "en": "I have a problem with my landlord: where can I turn?"
+    },
+    "answer": {
+      "fr": "La page de logement hors campus de l'Université renvoie vers la Clinique juridique communautaire, la Commission de la location immobilière de l'Ontario, le bail standard de l'Ontario et l'information sur tes droits de locataire. Si tu habites au Québec, c'est le Tribunal administratif du logement qui tranche les litiges. Le Service du logement peut aussi t'orienter.",
+      "en": "The University's off-campus housing page points to the Community Legal Clinic, the Ontario Landlord and Tenant Board, the Ontario Standard Lease and information on your rights as a tenant. If you live in Quebec, the Tribunal administratif du logement settles disputes. Housing Services can also point you in the right direction."
+    },
+    "sources": [
+      {
+        "label": "Off-campus housing information and resources — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/off-campus-housing-information-resources"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "pointer"
+  },
+  {
+    "id": "w-hc-logement-famille",
+    "category": "logement",
+    "keywords": [
+      "logement famille",
+      "family housing uottawa",
+      "residence couple",
+      "residence avec enfants",
+      "housing with family",
+      "logement etudiant marie",
+      "family residence",
+      "logement pour famille",
+      "couple housing"
+    ],
+    "question": {
+      "fr": "Y a-t-il des résidences pour les étudiants avec une famille ?",
+      "en": "Is there residence housing for students with a family?"
+    },
+    "answer": {
+      "fr": "Les résidences de l'Université accueillent des étudiants individuels en chambre simple ou double. Si tu veux vivre avec ta famille, l'Université te dirige vers ses ressources de logement hors campus, et le Service du logement peut t'orienter au 613-562-5885.",
+      "en": "University residences house individual students in single or double rooms. If you want to live with your family, the University points you to its off-campus housing resources, and Housing Services can guide you at 613-562-5885."
+    },
+    "sources": [
+      {
+        "label": "Compare residences — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/compare-residences"
+      },
+      {
+        "label": "Apply for residence — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/housing/apply-residence"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-periode-grace",
+    "category": "transport",
+    "keywords": [
+      "periode de grace upass",
+      "upass grace period",
+      "carte etudiante ne marche pas autobus septembre",
+      "montrer carte chauffeur",
+      "upass not working september",
+      "card not tapping bus",
+      "upass rentree",
+      "grace period bus",
+      "upass ne marche pas"
+    ],
+    "question": {
+      "fr": "Ma carte ne fonctionne pas encore dans l'autobus en septembre : est-ce que je peux monter ?",
+      "en": "My card isn't working on the bus yet in September: can I still board?"
+    },
+    "answer": {
+      "fr": "Oui, pendant la période de grâce de l'automne 2026, tu pouvais montrer ta carte étudiante au chauffeur : du 1er au 20 septembre à la STO et du 1er au 28 septembre chez OC Transpo. À une station de train, utilise le bouton d'appel de la guérite. Signale vite tout problème au Service de la carte uOttawa pour le faire régler.",
+      "en": "Yes, during the fall 2026 grace period, you could show your student card to the driver: September 1 to 20 on the STO and September 1 to 28 on OC Transpo. At a train station, use the call button at the booth. Report any problem quickly to the uOttawa Card Service to get it fixed."
+    },
+    "sources": [
+      {
+        "label": "U-Pass — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-cours-en-ligne",
+    "category": "transport",
+    "keywords": [
+      "upass cours en ligne",
+      "online courses upass",
+      "upass tous mes cours virtuels",
+      "distance student upass",
+      "charged upass online",
+      "upass a distance",
+      "virtual courses transit pass",
+      "etudes a distance upass",
+      "frais upass cours virtuels"
+    ],
+    "question": {
+      "fr": "Tous mes cours sont en ligne : est-ce que je paie le U-Pass ?",
+      "en": "All my courses are online: do I pay for the U-Pass?"
+    },
+    "answer": {
+      "fr": "Non : si ta faculté a inscrit tous tes cours comme virtuels, les frais du U-Pass ne te sont pas facturés automatiquement; vérifie quand même ton relevé de compte. Si tu habites dans la région et que tu le veux quand même, tu peux demander à y adhérer dans ton portail U-Pass. Attention, les étudiants en stage coop sont toujours facturés.",
+      "en": "No: if your faculty listed all your courses as virtual, you won't be automatically charged the U-Pass fee; still check your statement of account. If you live in the area and want it anyway, you can opt in through your U-Pass portal. Note that co-op work-term students are always charged."
+    },
+    "sources": [
+      {
+        "label": "U-Pass FAQs — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/upass-faq"
+      },
+      {
+        "label": "Eligibility — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/eligibility"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-temps-partiel",
+    "category": "transport",
+    "keywords": [
+      "upass temps partiel",
+      "part-time student upass",
+      "etudiant temps partiel autobus",
+      "part time transit pass",
+      "upass part time",
+      "temps partiel carte autobus",
+      "upass part-time student",
+      "carte autobus temps partiel",
+      "equipass"
+    ],
+    "question": {
+      "fr": "Je suis étudiant à temps partiel : est-ce que j'ai le U-Pass ?",
+      "en": "I'm a part-time student: do I get the U-Pass?"
+    },
+    "answer": {
+      "fr": "Non, le U-Pass est réservé aux étudiants à temps plein. Les exceptions : si tu es inscrit au Service d'accommodements scolaires avec une charge réduite, ou si tu étudies à temps partiel à uOttawa et à temps partiel à Carleton, Algonquin ou l'Université Saint-Paul, tu peux demander à y adhérer. Sinon, tu pourrais être admissible à l'ÉquiPass d'OC Transpo.",
+      "en": "No, the U-Pass is only for full-time students. The exceptions: if you're registered with Academic Accommodations with a reduced course load, or you study part time at uOttawa and part time at Carleton, Algonquin or Saint Paul University, you can opt in. Otherwise, you might qualify for OC Transpo's EquiPass."
+    },
+    "sources": [
+      {
+        "label": "U-Pass FAQs — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/upass-faq"
+      },
+      {
+        "label": "Opt-in and eligibility — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/opt-in-eligibility"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-adhesion",
+    "category": "transport",
+    "keywords": [
+      "adherer upass",
+      "opt in upass",
+      "upass pas facture",
+      "not charged upass",
+      "demande adhesion upass",
+      "upass opt-in request",
+      "je veux le upass",
+      "comment avoir le upass"
+    ],
+    "question": {
+      "fr": "Je n'ai pas été facturé pour le U-Pass : comment y adhérer ?",
+      "en": "I wasn't charged for the U-Pass: how do I opt in?"
+    },
+    "answer": {
+      "fr": "Connecte-toi à ton portail U-Pass, va à l'onglet de demande d'adhésion, choisis ta raison, téléverse les documents demandés et soumets; aucune demande n'est acceptée en personne. Les demandes ouvrent le 15 août pour l'automne, le 15 décembre pour l'hiver et le 15 avril pour le printemps-été. Une fois approuvé, tu ne peux plus être exempté cette session-là, et le U-Pass s'ajoute à ta carte dans les 24 heures suivant l'ajout des frais.",
+      "en": "Log into your U-Pass portal, go to the opt-in request tab, pick your reason, upload the required documents and submit; no in-person requests are accepted. Requests open August 15 for fall, December 15 for winter and April 15 for spring-summer. Once approved, you can't be exempted that term, and the U-Pass is added to your card within 24 hours of the fee being posted."
+    },
+    "sources": [
+      {
+        "label": "Opt-in and eligibility — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/opt-in-eligibility"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-exemption-hors-zone",
+    "category": "transport",
+    "keywords": [
+      "exemption upass hors zone",
+      "live outside oc transpo area",
+      "upass exemption rural",
+      "j'habite loin upass",
+      "geoottawa",
+      "exemption sto zone",
+      "outside service area upass",
+      "upass exemption address"
+    ],
+    "question": {
+      "fr": "J'habite en dehors de la zone d'OC Transpo ou de la STO : puis-je être exempté du U-Pass ?",
+      "en": "I live outside the OC Transpo or STO service area: can I be exempted from the U-Pass?"
+    },
+    "answer": {
+      "fr": "Oui. Vérifie ton adresse avec la carte GeoOttawa de la Ville d'Ottawa, ou l'Atlas de la Ville de Gatineau pour la STO, puis fais la demande dans ton portail U-Pass. Fournis une pièce d'identité gouvernementale avec ton adresse et une facture de services de moins de deux mois ou un bail officiel; les factures de cellulaire, relevés bancaires et lettres manuscrites ne sont pas acceptés.",
+      "en": "Yes. Check your address with the City of Ottawa's GeoOttawa map, or the City of Gatineau's Atlas for the STO, then apply in your U-Pass portal. Provide government ID showing your address and a utility bill less than two months old or an official lease; cell phone bills, bank statements and handwritten letters aren't accepted."
+    },
+    "sources": [
+      {
+        "label": "Exemptions — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/exemptions"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-exemption-absence",
+    "category": "transport",
+    "keywords": [
+      "exemption upass stage",
+      "upass exemption internship",
+      "absent 60 jours",
+      "away from ottawa upass",
+      "recherche hors ottawa upass",
+      "coop hors region upass",
+      "exemption research travel",
+      "exemption upass 60 days",
+      "stage a l'exterieur upass"
+    ],
+    "question": {
+      "fr": "Je serai hors d'Ottawa-Gatineau une partie de la session : puis-je être exempté du U-Pass ?",
+      "en": "I'll be away from Ottawa-Gatineau for part of the term: can I be exempted from the U-Pass?"
+    },
+    "answer": {
+      "fr": "Oui, si tu es hors de la région au moins 60 jours dans la session pour un projet de recherche, avec une lettre de ton superviseur indiquant le lieu et les dates, ou pour un stage, avec une lettre officielle de ton département. En coop, tu peux aussi être exempté si ton stage est hors de la zone de service ou entièrement en ligne, avec ton contrat signé ou une lettre de l'employeur.",
+      "en": "Yes, if you're outside the region for at least 60 days in the term for research, with a letter from your supervisor stating the location and dates, or for an internship, with an official letter from your department. In co-op, you can also be exempted if your work term is outside the service area or fully online, with your signed contract or a letter from your employer."
+    },
+    "sources": [
+      {
+        "label": "Exemptions — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/exemptions"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-exemption-autres",
+    "category": "transport",
+    "keywords": [
+      "exemption upass inca",
+      "cnib upass",
+      "para transpo upass exemption",
+      "upass deux etablissements",
+      "charged twice upass",
+      "accommodements scolaires upass",
+      "upass disability exemption",
+      "raisons exemption upass",
+      "upass exemption criteria",
+      "upass exemption",
+      "exemption upass",
+      "u-pass exemption",
+      "exempt from upass"
+    ],
+    "question": {
+      "fr": "Quelles sont les autres raisons d'exemption du U-Pass ?",
+      "en": "What are the other reasons for a U-Pass exemption?"
+    },
+    "answer": {
+      "fr": "Tu peux aussi être exempté si tu paies déjà le U-Pass dans un autre établissement d'Ottawa, si tu es membre de l'INCA, si tu es inscrit à Para Transpo et habites la zone rurale A, ou si tu ne peux pas utiliser le transport en commun à cause d'un handicap; dans ce dernier cas, passe par ta spécialiste au Service d'accommodements scolaires, et c'est OC Transpo qui décide. Aucune autre raison n'est acceptée.",
+      "en": "You can also be exempted if you already pay the U-Pass at another Ottawa institution, if you're a CNIB member, if you're registered with Para Transpo and live in Rural Area A, or if you can't use transit because of a disability; in that case, go through your learning specialist at Academic Accommodations, and OC Transpo makes the final decision. No other reasons are accepted."
+    },
+    "sources": [
+      {
+        "label": "Exemptions — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/exemptions"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-pas-exemption",
+    "category": "transport",
+    "keywords": [
+      "upass trop cher",
+      "upass too expensive",
+      "je ne prends pas l'autobus",
+      "i walk to campus upass",
+      "je conduis upass",
+      "refuser upass",
+      "opt out upass bike",
+      "upass obligatoire pourquoi"
+    ],
+    "question": {
+      "fr": "Je marche ou je conduis jusqu'au campus : est-ce que je peux refuser le U-Pass ?",
+      "en": "I walk or drive to campus: can I opt out of the U-Pass?"
+    },
+    "answer": {
+      "fr": "Non. Le U-Pass est obligatoire pour les étudiants à temps plein et en coop depuis qu'il a été adopté par référendum étudiant, et marcher, rouler à vélo, conduire ou habiter près du campus ne donne pas droit à une exemption. La seule façon de changer ça serait un nouveau référendum étudiant.",
+      "en": "No. The U-Pass is mandatory for full-time and co-op students since it was adopted by student referendum, and walking, cycling, driving or living close to campus doesn't qualify you for an exemption. The only way to change that would be a new student referendum."
+    },
+    "sources": [
+      {
+        "label": "U-Pass FAQs — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/upass-faq"
+      },
+      {
+        "label": "Exemptions — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/exemptions"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-appel",
+    "category": "transport",
+    "keywords": [
+      "appel upass",
+      "upass appeal",
+      "exemption refusee upass",
+      "denied exemption upass",
+      "contester upass",
+      "comite d'appel upass",
+      "appeal committee transit pass",
+      "refus exemption upass",
+      "appeal upass denial"
+    ],
+    "question": {
+      "fr": "Mon exemption du U-Pass a été refusée : est-ce que je peux faire appel ?",
+      "en": "My U-Pass exemption was denied: can I appeal?"
+    },
+    "answer": {
+      "fr": "Oui : écris au Service de la carte uOttawa avec l'objet U-Pass Appeal Request, une lettre qui explique ta situation et la solution demandée, tes pièces justificatives et tes coordonnées. Le comité, formé de membres du Service de la carte, du SÉUO et de la GSAÉD, a un mois pour décider, et sa décision est finale. Si on te demande d'autres documents, tu as sept jours pour les envoyer.",
+      "en": "Yes: email the uOttawa Card Service with the subject U-Pass Appeal Request, a letter explaining your situation and the outcome you want, your supporting documents and your contact information. The committee, made up of members from the Card Service, UOSU and GSAED, has one month to decide, and its decision is final. If more documents are requested, you have seven days to send them."
+    },
+    "sources": [
+      {
+        "label": "U-Pass appeal process — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/exemptions/appeal-process"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-delai-exemption",
+    "category": "transport",
+    "keywords": [
+      "delai exemption upass",
+      "combien de temps exemption upass",
+      "upass exemption processing time",
+      "chaque session exemption",
+      "upass arrete de fonctionner",
+      "exemption each term",
+      "traitement exemption upass",
+      "exemption upass approuvee",
+      "delai upass"
+    ],
+    "question": {
+      "fr": "Combien de temps prend une demande d'exemption du U-Pass ?",
+      "en": "How long does a U-Pass exemption request take?"
+    },
+    "answer": {
+      "fr": "En période achalandée, compte au moins 15 jours ouvrables, et suis l'avancement dans l'onglet Mon tableau de bord de ton portail U-Pass. Fais une seule demande, complète, et refais-la chaque session au besoin. Une fois ton exemption approuvée, ton U-Pass peut cesser de fonctionner tout de suite, et tu ne peux plus y adhérer cette session-là.",
+      "en": "In busy periods, allow at least 15 working days, and track progress in the My Dashboard tab of your U-Pass portal. Submit only one complete request, and redo it each term if needed. Once your exemption is approved, your U-Pass may stop working right away, and you can't opt back in that term."
+    },
+    "sources": [
+      {
+        "label": "Exemptions — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/exemptions"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-abandon-cours",
+    "category": "transport",
+    "keywords": [
+      "abandon cours upass",
+      "dropped courses upass",
+      "upass abandonner tous mes cours",
+      "withdraw upass refund",
+      "upass si je lache mes cours",
+      "desinscription upass",
+      "abandon upass remboursement",
+      "drop all classes upass",
+      "retrait cours upass"
+    ],
+    "question": {
+      "fr": "J'ai abandonné tous mes cours : qu'arrive-t-il à mon U-Pass ?",
+      "en": "I dropped all my courses: what happens to my U-Pass?"
+    },
+    "answer": {
+      "fr": "Si tu as tout abandonné avant la date limite d'abandon avec crédit financier, les frais du U-Pass sont retirés et tu n'y as plus accès. Si tu abandonnes après cette date, les frais restent à ton compte et tu peux continuer d'utiliser ton U-Pass.",
+      "en": "If you dropped everything before the deadline to withdraw with a financial credit, the U-Pass fee is removed and you lose access. If you withdraw after that date, the fee stays on your account and you can keep using your U-Pass."
+    },
+    "sources": [
+      {
+        "label": "U-Pass FAQs — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/upass-faq"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-inscription-tardive",
+    "category": "transport",
+    "keywords": [
+      "inscription tardive upass",
+      "late registration upass",
+      "upass inscrit en retard",
+      "upass pas encore actif",
+      "when does upass start working",
+      "upass activation",
+      "activer upass",
+      "upass inscription en retard",
+      "late registration transit pass"
+    ],
+    "question": {
+      "fr": "Je me suis inscrit tard à mes cours : quand mon U-Pass fonctionnera-t-il ?",
+      "en": "I registered late for my courses: when will my U-Pass work?"
+    },
+    "answer": {
+      "fr": "Dès que tu deviens admissible, le plein montant du U-Pass est facturé à ton compte; ensuite, ta carte étudiante devient ton U-Pass. Vérifie l'onglet Mon tableau de bord de ton portail U-Pass pour savoir si ta carte est prête. Si tu demandes une adhésion après une inscription tardive, attends au moins 24 heures et vérifie ton relevé de compte avant.",
+      "en": "As soon as you become eligible, the full U-Pass fee is charged to your account; then your student card becomes your U-Pass. Check the My Dashboard tab of your U-Pass portal to see if your card is ready. If you request an opt-in after registering late, wait at least 24 hours and check your statement of account first."
+    },
+    "sources": [
+      {
+        "label": "U-Pass FAQs — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/upass-faq"
+      },
+      {
+        "label": "Opt-in and eligibility — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/opt-in-eligibility"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-conditions",
+    "category": "transport",
+    "keywords": [
+      "conditions upass",
+      "upass rules",
+      "preter ma carte upass",
+      "lend upass",
+      "upass para transpo",
+      "upass controleur",
+      "fare inspector upass",
+      "upass non transferable",
+      "amende autobus"
+    ],
+    "question": {
+      "fr": "Quelles sont les règles d'utilisation du U-Pass ?",
+      "en": "What are the U-Pass rules?"
+    },
+    "answer": {
+      "fr": "Ton U-Pass est strictement personnel : tu ne peux pas le prêter. Tu dois le montrer sur demande aux employés en uniforme d'OC Transpo et de la STO, aux agents d'application et aux policiers, et le trafiquer peut le faire annuler et confisquer. Il vaut comme plein tarif sur tous les services d'OC Transpo, de la STO et de Para Transpo, sauf les zones tarifaires rurales de Para Transpo.",
+      "en": "Your U-Pass is strictly personal: you can't lend it. You must show it on request to uniformed OC Transpo and STO staff, enforcement officers and police, and tampering with it can get it cancelled and confiscated. It's accepted as full fare on all OC Transpo, STO and Para Transpo services, except Para Transpo rural fare zones."
+    },
+    "sources": [
+      {
+        "label": "Conditions of use — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/conditions-use"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-carte-bleue",
+    "category": "transport",
+    "keywords": [
+      "carte bleue upass",
+      "blue upass card",
+      "ancienne carte upass",
+      "nouvelle carte upass",
+      "returning student upass card",
+      "besoin nouvelle carte upass",
+      "old upass",
+      "carte upass bleue",
+      "do i need upass card"
+    ],
+    "question": {
+      "fr": "J'ai encore mon ancienne carte U-Pass bleue : est-ce que j'en ai besoin ?",
+      "en": "I still have my old blue U-Pass card: do I need it?"
+    },
+    "answer": {
+      "fr": "Non : depuis l'automne 2024, la carte U-Pass bleue n'est plus utilisée. C'est maintenant ta carte étudiante uOttawa qui sert de U-Pass : tu l'appuies sur le lecteur en montant dans l'autobus ou à l'entrée du train.",
+      "en": "No: since fall 2024, the blue U-Pass card is no longer used. Your uOttawa student card now serves as your U-Pass: you tap it on the reader when boarding the bus or entering the train."
+    },
+    "sources": [
+      {
+        "label": "U-Pass FAQs — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass/upass-faq"
+      },
+      {
+        "label": "U-Pass — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-upass-telephone",
+    "category": "transport",
+    "keywords": [
+      "telephone upass",
+      "upass phone number",
+      "contacter upass",
+      "upass info",
+      "appeler pour upass",
+      "upass question",
+      "numero upass",
+      "telephone carte etudiante",
+      "upass contact number"
+    ],
+    "question": {
+      "fr": "À quel numéro appeler pour une question sur le U-Pass ?",
+      "en": "What number do I call with a U-Pass question?"
+    },
+    "answer": {
+      "fr": "Pour le U-Pass, appelle le 613-562-5700. Pour la carte étudiante et les plans de repas, c'est le 613-562-5885. Le Service de la carte uOttawa et U-Pass est à la résidence 90U, au 90, privée University, local 145, et tu peux réserver un rendez-vous en personne avec la file d'attente virtuelle.",
+      "en": "For the U-Pass, call 613-562-5700. For the student card and meal plans, it's 613-562-5885. The uOttawa Card Service and U-Pass office is at 90U residence, 90 University Private, room 145, and you can book an in-person appointment through the virtual line."
+    },
+    "sources": [
+      {
+        "label": "U-Pass — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/upass"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-permis-etudiant-epuises",
+    "category": "transport",
+    "keywords": [
+      "permis stationnement etudiant epuise",
+      "student parking permit sold out",
+      "plus de permis etudiant",
+      "liste d'attente stationnement",
+      "parking waitlist full",
+      "acheter permis etudiant",
+      "student parking 2026",
+      "permis stationnement complet",
+      "plus de place stationnement etudiant"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux encore acheter un permis de stationnement étudiant ?",
+      "en": "Can I still buy a student parking permit?"
+    },
+    "answer": {
+      "fr": "Pas pour l'instant : en raison d'une demande sans précédent, tous les permis étudiants ont été attribués, et les listes d'attente sont pleines et fermées. Les nouvelles demandes reçues après midi le 7 août 2026 sont annulées automatiquement. Comme solution de rechange, tu peux utiliser ton U-Pass ou le stationnement journalier, qui se remplit tôt.",
+      "en": "Not right now: due to unprecedented demand, all student permits have been allocated, and the waitlists are full and closed. New requests received after noon on August 7, 2026 are automatically cancelled. As an alternative, you can use your U-Pass or daily parking, which fills up early."
+    },
+    "sources": [
+      {
+        "label": "Purchasing a student parking permit — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/purchase-permit/students"
+      },
+      {
+        "label": "Parking permit information — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/parking-permit-information"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-liste-attente",
+    "category": "transport",
+    "keywords": [
+      "liste d'attente stationnement",
+      "parking waitlist how it works",
+      "refuser place stationnement",
+      "waitlist parking lot choice",
+      "attente permis",
+      "parking wait list",
+      "waitlist parking uottawa",
+      "liste attente permis etudiant",
+      "attendre un permis"
+    ],
+    "question": {
+      "fr": "Comment fonctionne la liste d'attente pour les permis de stationnement étudiants ?",
+      "en": "How does the student parking permit waitlist work?"
+    },
+    "answer": {
+      "fr": "Quand les permis sont épuisés et qu'une liste est ouverte, tu peux t'y inscrire, mais tu ne choisis pas ton stationnement et rien n'est garanti. Si une place se libère, on te contacte selon ton rang et on t'offre le premier endroit disponible; si tu le refuses, ton nom est retiré de la liste.",
+      "en": "When permits are sold out and a list is open, you can join it, but you can't pick your lot and nothing is guaranteed. If a spot opens up, you're contacted based on your position and offered the first available location; if you decline it, your name is removed from the list."
+    },
+    "sources": [
+      {
+        "label": "Purchasing a student parking permit — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/purchase-permit/students"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-types-permis",
+    "category": "transport",
+    "keywords": [
+      "types de permis stationnement",
+      "parking permit types",
+      "permis standard",
+      "permis session",
+      "permis annee",
+      "full year permit",
+      "academic year permit",
+      "heures permis stationnement",
+      "garage 24h"
+    ],
+    "question": {
+      "fr": "Quels types de permis de stationnement existe-t-il, et quand sont-ils valides ?",
+      "en": "What types of parking permits are there, and when are they valid?"
+    },
+    "answer": {
+      "fr": "Les permis étudiants sont offerts pour une session, pour l'année universitaire de septembre à avril, ou pour l'année complète de mai à avril. Un permis standard est valide dès 7 h; dans les lots extérieurs, de 7 h à 23 h de la mi-novembre à la mi-avril, et 24 heures sur 24 le reste de l'année, tandis que les garages sont accessibles en tout temps. Il vaut seulement pour ton stationnement assigné, sauf après 16 h en semaine et toute la fin de semaine.",
+      "en": "Student permits come per term, for the academic year from September to April, or for the full year from May to April. A standard permit is valid from 7 a.m.; in outdoor lots, from 7 a.m. to 11 p.m. from mid-November to mid-April, and 24 hours a day the rest of the year, while garages are open at all times. It's only valid in your assigned lot, except after 4 p.m. on weekdays and all weekend."
+    },
+    "sources": [
+      {
+        "label": "Parking permit information — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/parking-permit-information"
+      },
+      {
+        "label": "Purchasing a student parking permit — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/purchase-permit/students"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-tarifs-lees-alta-vista",
+    "category": "transport",
+    "keywords": [
+      "permis stationnement lees prix",
+      "200 lees parking permit cost",
+      "alta vista parking permit",
+      "permis roger guindon prix",
+      "stationnement lees session",
+      "parking permit lees price",
+      "prix permis lees",
+      "parking roger guindon cost",
+      "prix stationnement alta vista"
+    ],
+    "question": {
+      "fr": "Combien coûte un permis de stationnement au campus Lees ou à Alta Vista ?",
+      "en": "How much is a parking permit at Lees campus or Alta Vista?"
+    },
+    "answer": {
+      "fr": "Avant taxes, un permis au 200 Lees coûte 412,18 $ pour une session et 824,36 $ pour l'année universitaire. À Alta Vista, c'est 307,84 $ pour une session et 615,67 $ pour l'année universitaire. Les prix sont les mêmes pour les étudiants et les employés.",
+      "en": "Before tax, a permit at 200 Lees costs $412.18 per term and $824.36 for the academic year. At Alta Vista, it's $307.84 per term and $615.67 for the academic year. Prices are the same for students and employees."
+    },
+    "sources": [
+      {
+        "label": "Parking permit information — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/parking-permit-information"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-remboursement-permis",
+    "category": "transport",
+    "keywords": [
+      "remboursement permis stationnement",
+      "parking permit refund",
+      "annuler permis stationnement",
+      "cancel parking permit",
+      "date limite remboursement stationnement",
+      "refund deadline parking",
+      "daily parking refund",
+      "rembourser permis",
+      "refund parking pass"
+    ],
+    "question": {
+      "fr": "Jusqu'à quand puis-je annuler mon permis de stationnement et être remboursé ?",
+      "en": "Until when can I cancel my parking permit and get a refund?"
+    },
+    "answer": {
+      "fr": "Les dates limites sont le 15 octobre pour un permis d'automne, le 15 février pour l'hiver, le 15 juin pour le printemps-été, et le 1er février pour un permis d'année universitaire ou d'année complète. Un permis à qui il reste moins de trois mois n'est pas remboursable, ni le stationnement journalier, même acheté par erreur. Le remboursement se fait par ton mode de paiement d'origine.",
+      "en": "The deadlines are October 15 for a fall permit, February 15 for winter, June 15 for spring-summer, and February 1 for an academic-year or full-year permit. A permit with less than three months left isn't refundable, and neither is daily parking, even if bought by mistake. Refunds go back to your original payment method."
+    },
+    "sources": [
+      {
+        "label": "Permit cancellation and refund — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/permit-cancellation-refund"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-annuler-permis-etudiant",
+    "category": "transport",
+    "keywords": [
+      "comment annuler permis stationnement etudiant",
+      "cancel student parking permit",
+      "rendre permis stationnement",
+      "return parking permit",
+      "racheter permis apres annulation",
+      "annuler permis etudiant",
+      "annulation stationnement",
+      "remboursement permis etudiant",
+      "cancel parking pass"
+    ],
+    "question": {
+      "fr": "Comment annuler mon permis de stationnement étudiant ?",
+      "en": "How do I cancel my student parking permit?"
+    },
+    "answer": {
+      "fr": "Si la période de validité n'a pas commencé, écris simplement au Bureau du stationnement pour annuler et demander le remboursement. Si elle a commencé, va en personne au 139, Louis-Pasteur, local 133, avec ton permis et ta carte d'accès s'il y a lieu. Ensuite, tu dois attendre la prochaine période de vente pour en racheter un, sans garantie d'avoir le même stationnement.",
+      "en": "If the validity period hasn't started, just email the Parking Office to cancel and request a refund. If it has started, go in person to 139 Louis-Pasteur, room 133, with your permit and access card if you have one. Afterward, you have to wait until the next sale period to buy another one, with no guarantee of the same lot."
+    },
+    "sources": [
+      {
+        "label": "Permit cancellation and refund — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/permit-cancellation-refund"
+      },
+      {
+        "label": "Parking and Sustainable Transportation — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-moto",
+    "category": "transport",
+    "keywords": [
+      "stationnement moto",
+      "motorcycle parking",
+      "permis moto uottawa",
+      "scooter parking campus",
+      "ou garer ma moto",
+      "motorcycle permit",
+      "moto journalier",
+      "moto campus",
+      "motorcycle uottawa"
+    ],
+    "question": {
+      "fr": "Où stationner une moto sur le campus ?",
+      "en": "Where can I park a motorcycle on campus?"
+    },
+    "answer": {
+      "fr": "Des places réservées aux détenteurs d'un permis de moto se trouvent dans des lots extérieurs du campus principal, notamment les lots K et P. Sans permis, tu peux stationner ta moto à la journée au garage Mann, au lot G3 du campus Lees et au lot R d'Alta Vista, aux tarifs journaliers.",
+      "en": "Spots reserved for motorcycle permit holders are in outdoor lots on the main campus, including Lots K and P. Without a permit, you can park your motorcycle by the day at Mann Garage, Lot G3 at Lees campus and Lot R at Alta Vista, at daily rates."
+    },
+    "sources": [
+      {
+        "label": "Parking permit information — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/parking-permit-information"
+      },
+      {
+        "label": "Regulations — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/regulations"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-deneigement",
+    "category": "transport",
+    "keywords": [
+      "deneigement stationnement",
+      "snow removal parking",
+      "stationner la nuit hiver",
+      "overnight parking winter",
+      "lot exterieur nuit",
+      "interdiction stationnement nuit",
+      "winter parking rules",
+      "stationner la nuit",
+      "snow parking rules"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux laisser mon auto la nuit dans un stationnement extérieur l'hiver ?",
+      "en": "Can I leave my car overnight in an outdoor lot in winter?"
+    },
+    "answer": {
+      "fr": "Non : du 15 novembre au 15 avril, les règles de déneigement interdisent de stationner dans les lots extérieurs entre 23 h et 6 h 30. Les garages, eux, sont accessibles en tout temps aux détenteurs de permis.",
+      "en": "No: from November 15 to April 15, snow removal rules ban parking in outdoor lots between 11 p.m. and 6:30 a.m. Garages, however, are accessible at all times to permit holders."
+    },
+    "sources": [
+      {
+        "label": "Regulations — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/regulations"
+      },
+      {
+        "label": "Parking permit information — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/parking-permit-information"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-afficher-permis",
+    "category": "transport",
+    "keywords": [
+      "afficher permis stationnement",
+      "display parking permit",
+      "ou mettre mon permis",
+      "hang permit mirror",
+      "permis perdu stationnement",
+      "lost parking permit",
+      "permis vole",
+      "stolen permit"
+    ],
+    "question": {
+      "fr": "Comment afficher mon permis de stationnement, et si je le perds ?",
+      "en": "How do I display my parking permit, and what if I lose it?"
+    },
+    "answer": {
+      "fr": "Accroche ton permis face vers l'avant au rétroviseur, ou pose-le face vers le haut du côté conducteur du tableau de bord : le numéro doit être visible de l'extérieur. Si tu déclares ton permis perdu ou volé, tu dois payer des frais de remplacement. Modifier ou utiliser un permis de façon frauduleuse peut entraîner une amende et la perte du droit de stationner.",
+      "en": "Hang your permit facing forward from the rear-view mirror, or place it face up on the driver's side of the dashboard: the number must be visible from outside. If you report your permit lost or stolen, you must pay a replacement fee. Altering or fraudulently using a permit can lead to a fine and loss of parking privileges."
+    },
+    "sources": [
+      {
+        "label": "Regulations — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/regulations"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-hotspot",
+    "category": "transport",
+    "keywords": [
+      "hotspot app",
+      "application hotspot",
+      "payer stationnement telephone",
+      "pay parking app",
+      "hotspot frais",
+      "hotspot premiere demi-heure gratuite",
+      "hotspot support",
+      "e-wallet hotspot"
+    ],
+    "question": {
+      "fr": "Comment fonctionne l'application HotSpot pour le stationnement ?",
+      "en": "How does the HotSpot parking app work?"
+    },
+    "answer": {
+      "fr": "HotSpot te permet de payer et de prolonger ton stationnement à distance, avec un rappel avant l'expiration, et de récupérer le temps non utilisé. Les nouveaux utilisateurs ont leur première demi-heure gratuite; l'appli accepte Visa, Visa Débit, Mastercard, American Express et Discover, et des frais de service minimes s'appliquent. Ton compte fonctionne aussi à Carleton, et le soutien est offert 24 heures sur 24 au 1-855-712-5888.",
+      "en": "HotSpot lets you pay for and extend your parking remotely, with a reminder before it expires, and reclaim unused time. New users get their first half hour free; the app accepts Visa, Visa Debit, Mastercard, American Express and Discover, and a small convenience fee applies. Your account also works at Carleton, and support is available 24/7 at 1-855-712-5888."
+    },
+    "sources": [
+      {
+        "label": "HotSpot at uOttawa — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/hotspot"
+      },
+      {
+        "label": "Parking and Sustainable Transportation — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-numeros-hotspot",
+    "category": "transport",
+    "keywords": [
+      "numero zone hotspot",
+      "hotspot zone number",
+      "code hotspot garage brooks",
+      "hotspot mann",
+      "hotspot desmarais",
+      "numero stationnement hotspot",
+      "parking zone code",
+      "zone hotspot",
+      "numero hotspot"
+    ],
+    "question": {
+      "fr": "Quel numéro de zone HotSpot entrer pour stationner ?",
+      "en": "Which HotSpot zone number do I enter to park?"
+    },
+    "answer": {
+      "fr": "Quelques exemples : 4001 pour le garage Brooks, 4000 pour le garage Mann, 4002 pour le garage Desmarais, 4200 pour la section G4 du 200 Lees et 4600 pour le 600 Peter-Morand. Le numéro est aussi affiché sur place; vérifie toujours la signalisation du stationnement.",
+      "en": "A few examples: 4001 for Brooks Garage, 4000 for Mann Garage, 4002 for Desmarais Garage, 4200 for section G4 at 200 Lees and 4600 for 600 Peter Morand. The number is also posted on site; always check the lot signage."
+    },
+    "sources": [
+      {
+        "label": "Daily parking rates — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/daily-parking-rates"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-soir-fin-semaine",
+    "category": "transport",
+    "keywords": [
+      "stationnement soir campus",
+      "evening parking campus",
+      "parking weekend uottawa",
+      "stationnement fin de semaine",
+      "lot k soir",
+      "lot c",
+      "lot m weekend",
+      "parking after 3 pm"
+    ],
+    "question": {
+      "fr": "Où me stationner le soir ou la fin de semaine sur le campus ?",
+      "en": "Where can I park on campus in the evening or on weekends?"
+    },
+    "answer": {
+      "fr": "En semaine après 15 h, et toute la fin de semaine et les jours fériés, c'est 5,50 $ l'heure avec un maximum de 9 $. En plus des garages Brooks, Mann et Desmarais, tu peux alors utiliser le lot C au 30, rue Stewart, le lot K au 60, privée University et le lot M au 40, avenue Mann, ainsi que les sections G3 et G4 du 200 Lees et les stationnements Peter-Morand.",
+      "en": "On weekdays after 3 p.m., and all weekend and on holidays, it's $5.50 an hour with a $9 maximum. Besides the Brooks, Mann and Desmarais garages, you can then use Lot C at 30 Stewart Street, Lot K at 60 University Private and Lot M at 40 Mann Avenue, as well as sections G3 and G4 at 200 Lees and the Peter Morand lots."
+    },
+    "sources": [
+      {
+        "label": "Daily parking rates — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/daily-parking-rates"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-occupation",
+    "category": "transport",
+    "keywords": [
+      "places libres stationnement",
+      "parking availability live",
+      "stationnement plein",
+      "parking occupancy",
+      "garage plein",
+      "is parking full",
+      "capteurs stationnement",
+      "places disponibles stationnement",
+      "parking full"
+    ],
+    "question": {
+      "fr": "Comment savoir s'il reste des places de stationnement ?",
+      "en": "How can I tell if there are parking spots left?"
+    },
+    "answer": {
+      "fr": "La page des cartes de stationnement affiche l'occupation en temps réel de certains stationnements équipés de capteurs, comme les garages Brooks, Mann et Desmarais, la section G3 du 200 Lees et le lot R d'Alta Vista. Ça ne couvre pas toutes les places. Et rappelle-toi que payer d'avance dans HotSpot ne garantit pas une place : vérifie avant de payer.",
+      "en": "The parking maps page shows real-time occupancy for some lots with sensors, like the Brooks, Mann and Desmarais garages, section G3 at 200 Lees and Lot R at Alta Vista. It doesn't cover every spot. And remember that prepaying in HotSpot doesn't guarantee a spot: check before you pay."
+    },
+    "sources": [
+      {
+        "label": "Parking maps — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/maps"
+      },
+      {
+        "label": "Parking permit information — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/parking-permit-information"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-temporaire-mobilite",
+    "category": "transport",
+    "keywords": [
+      "permis stationnement temporaire",
+      "temporary parking permit injury",
+      "bequilles stationnement",
+      "blessure stationnement",
+      "mobilite reduite temporaire",
+      "close parking medical note",
+      "temporary accessible parking",
+      "permis temporaire mobilite",
+      "injury parking permit"
+    ],
+    "question": {
+      "fr": "Je suis blessé temporairement : est-ce que je peux me stationner plus près ?",
+      "en": "I have a temporary injury: can I park closer?"
+    },
+    "answer": {
+      "fr": "Oui : si tu as des besoins de mobilité temporaires, tu peux demander un permis à court terme, valide jusqu'à trois mois. Envoie un billet médical au Soutien scolaire si tu es étudiant, ou aux Ressources humaines si tu es employé. Ce n'est pas un permis accessible : il donne accès à des places rapprochées dans certains stationnements; au-delà de trois mois, il te faut un permis du ministère des Transports.",
+      "en": "Yes: if you have temporary mobility needs, you can request a short-term permit valid for up to three months. Send a medical note to Academic Support if you're a student, or Human Resources if you're an employee. It isn't an accessible permit: it gives access to close-proximity spots in certain lots; beyond three months, you need a Ministry of Transportation permit."
+    },
+    "sources": [
+      {
+        "label": "Accessible parking — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/accessible-parking"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-programmes-conjoints",
+    "category": "transport",
+    "keywords": [
+      "stationnement programme conjoint",
+      "joint program parking",
+      "algonquin parking uottawa",
+      "carleton parking uottawa",
+      "etudiant algonquin stationnement",
+      "lot m algonquin",
+      "joint program permit",
+      "carleton stationnement uottawa",
+      "algonquin joint program permit"
+    ],
+    "question": {
+      "fr": "Je suis étudiant d'Algonquin ou de Carleton en programme conjoint : puis-je me stationner à uOttawa ?",
+      "en": "I'm an Algonquin or Carleton joint-program student: can I park at uOttawa?"
+    },
+    "answer": {
+      "fr": "Peut-être, si tu as un permis de stationnement d'Algonquin ou de Carleton, des cours sur deux campus et plus de cours là-bas qu'à uOttawa. Fournis ton horaire, une lettre de ton département et une copie de ton permis; la réponse vient dans les 10 jours ouvrables. Si c'est approuvé, tu peux te garer aux lots M, G4 ou R, du lundi au vendredi de 7 h à 23 h.",
+      "en": "Possibly, if you have an Algonquin or Carleton parking pass, classes on two campuses and more classes there than at uOttawa. Provide your schedule, a letter from your department and a copy of your pass; you'll get an answer within 10 business days. If approved, you can park in Lots M, G4 or R, Monday to Friday from 7 a.m. to 11 p.m."
+    },
+    "sources": [
+      {
+        "label": "Joint programs - Algonquin College and Carleton University — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/joint-programs-algonquin-carleton"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-stat-garage-brooks",
+    "category": "transport",
+    "keywords": [
+      "garage brooks fermeture",
+      "brooks garage closing",
+      "demolition brooks",
+      "brooks parking construction",
+      "nouveau projet residence brooks",
+      "brooks garage housing project",
+      "brooks ferme",
+      "garage brooks demolition",
+      "brooks garage demolition"
+    ],
+    "question": {
+      "fr": "Est-ce que le garage Brooks va fermer ?",
+      "en": "Is Brooks Garage closing?"
+    },
+    "answer": {
+      "fr": "Oui, le garage Brooks sera touché par le nouveau projet de logement étudiant de l'Université. La démolition devait commencer au début de 2026, mais elle est retardée en attendant les approbations et permis finaux. Les listes de transfert sont fermées pour l'instant, et le Bureau du stationnement communiquera les dates aux détenteurs de permis touchés.",
+      "en": "Yes, Brooks Garage will be affected by the University's new student housing project. Demolition was expected to start in early 2026, but it's delayed pending final approvals and permits. Transfer lists are closed for now, and the Parking Office will share the timeline with affected permit holders."
+    },
+    "sources": [
+      {
+        "label": "Parking permit information — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/parking-permit-information"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-covoit-jumelage",
+    "category": "transport",
+    "keywords": [
+      "covoiturage uottawa",
+      "carpool uottawa",
+      "trouver covoiturage",
+      "ride sharing campus",
+      "jumelage covoiturage",
+      "carpool matching",
+      "partager auto campus",
+      "rideshare students"
+    ],
+    "question": {
+      "fr": "Comment trouver quelqu'un pour faire du covoiturage jusqu'au campus ?",
+      "en": "How do I find someone to carpool to campus with?"
+    },
+    "answer": {
+      "fr": "L'Université a un service de jumelage de covoiturage en ligne qui t'aide à trouver des gens de la communauté uOttawa qui viennent du même secteur que toi. Il faut une adresse courriel uOttawa pour s'inscrire. Pour plus d'information, communique avec le Bureau du transport durable au 613-562-5800, poste 6523.",
+      "en": "The University has an online carpool matching service that helps you find people in the uOttawa community coming from the same area as you. You need a uOttawa email address to sign up. For more information, contact the Sustainable Transportation Office at 613-562-5800, extension 6523."
+    },
+    "sources": [
+      {
+        "label": "Carpooling — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/carpooling"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-covoit-avantages",
+    "category": "transport",
+    "keywords": [
+      "avantages covoiturage",
+      "carpool perks",
+      "retour d'urgence",
+      "emergency ride home",
+      "place reservee covoiturage",
+      "carpool rebate",
+      "groupe de covoiturage employes",
+      "carpool permit"
+    ],
+    "question": {
+      "fr": "Quels sont les avantages du programme de covoiturage de l'Université ?",
+      "en": "What are the perks of the University's carpool program?"
+    },
+    "answer": {
+      "fr": "Le programme Carpool Perks vise les groupes d'au moins trois employés ou professeurs, d'au moins deux adresses, qui font le trajet ensemble au moins quatre jours par semaine et habitent à plus de 5 km. Les groupes inscrits ont une place réservée de 7 h à 15 h en semaine, le remboursement d'un mois de permis par année et la priorité pour les transferts. Le retour d'urgence rembourse jusqu'à 50 $ de taxi ou d'Uber, quatre fois par année.",
+      "en": "The Carpool Perks program is for groups of at least three staff or faculty, from at least two addresses, who commute together at least four days a week and live more than 5 km away. Registered groups get a reserved spot from 7 a.m. to 3 p.m. on weekdays, one month of permit fees refunded each year and transfer priority. The Emergency Ride Home reimburses up to $50 of taxi or Uber, four times a year."
+    },
+    "sources": [
+      {
+        "label": "Carpooling — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/carpooling"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-taxi-arnaque",
+    "category": "transport",
+    "keywords": [
+      "arnaque taxi",
+      "taxi scam ottawa",
+      "fraude taxi carte",
+      "taxi carte echangee",
+      "taxi pin scam",
+      "chauffeur taxi carte debit",
+      "taxi fraud",
+      "arnaque taxi ottawa",
+      "taxi card swap"
+    ],
+    "question": {
+      "fr": "C'est quoi l'arnaque au taxi dont l'Université parle ?",
+      "en": "What is the taxi scam the University warns about?"
+    },
+    "answer": {
+      "fr": "Un inconnu prétend que le chauffeur n'accepte pas l'argent comptant et te fait payer par carte; le chauffeur observe ton NIP et échange ta carte contre une fausse, qui sert ensuite à vider ton compte. Utilise des taxis autorisés, avec une plaque bleue et un numéro sur le côté, ne laisse personne manipuler ta carte et cache ton NIP. Si ça t'arrive, appelle ta banque tout de suite et l'Unité des fraudes de la police d'Ottawa au 613-236-1222, poste 7300.",
+      "en": "A stranger claims the driver won't take cash and gets you to pay by card; the driver watches your PIN and swaps your card for a fake one, which is then used to drain your account. Use licensed taxis, with a blue plate and a number on the side, never let anyone handle your card and shield your PIN. If it happens, call your bank right away and the Ottawa Police Fraud Unit at 613-236-1222, extension 7300."
+    },
+    "sources": [
+      {
+        "label": "Alternative transportation — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/alternative-transportation"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-taxi-autorise",
+    "category": "transport",
+    "keywords": [
+      "taxi autorise ottawa",
+      "licensed taxi ottawa",
+      "taxi pirate",
+      "bandit taxi",
+      "reconnaitre un vrai taxi",
+      "taxi securitaire",
+      "safe taxi ottawa",
+      "vrai taxi",
+      "licensed cab ottawa"
+    ],
+    "question": {
+      "fr": "Comment reconnaître un taxi autorisé à Ottawa ?",
+      "en": "How do I recognize a licensed taxi in Ottawa?"
+    },
+    "answer": {
+      "fr": "Un taxi autorisé a un lanternon allumé sur le toit, une plaque de la Ville d'Ottawa au pare-chocs arrière, un numéro d'identification à l'intérieur et à l'extérieur, une carte des tarifs et la photo du chauffeur avec le logo de la Ville. Évite les taxis non autorisés : il n'y a aucun recours en cas de problème, ni de garantie d'assurance.",
+      "en": "A licensed taxi has a lit roof sign, a City of Ottawa plate on the rear bumper, an ID number inside and outside, a fare card and the driver's photo ID with the City logo. Avoid unlicensed bandit taxis: there's no recourse if something goes wrong, and no guarantee of insurance."
+    },
+    "sources": [
+      {
+        "label": "Alternative transportation — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/alternative-transportation"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-taxi-accessible-compagnies",
+    "category": "transport",
+    "keywords": [
+      "taxi accessible ottawa",
+      "wheelchair taxi",
+      "taxi fauteuil roulant",
+      "blue line accessible",
+      "capital taxi accessible",
+      "compte taxi etudiant",
+      "taxi account students",
+      "taxi adapte",
+      "accessible cab ottawa"
+    ],
+    "question": {
+      "fr": "Quelles compagnies offrent des taxis accessibles ?",
+      "en": "Which companies offer accessible taxis?"
+    },
+    "answer": {
+      "fr": "Blue Line et Capital Taxi ont des taxis accessibles, avec des chauffeurs formés pour aider les personnes à mobilité réduite; précise-le en appelant, et ces taxis ont la priorité de répartition. Les étudiants ou leur famille peuvent aussi ouvrir un compte de taxi chez ces deux compagnies, avec un relevé mensuel unique.",
+      "en": "Blue Line and Capital Taxi have accessible taxis, with drivers trained to help people with mobility needs; say so when you call, and these cabs get dispatch priority. Students or their families can also open a taxi account with either company, with a single monthly statement."
+    },
+    "sources": [
+      {
+        "label": "Alternative transportation — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/alternative-transportation"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-autobus-rural",
+    "category": "transport",
+    "keywords": [
+      "autobus rural",
+      "rural bus ottawa",
+      "transport hors ottawa",
+      "autobus kemptville",
+      "autobus rockland",
+      "autobus embrun",
+      "commuter bus campus",
+      "navette regionale"
+    ],
+    "question": {
+      "fr": "J'habite en région : y a-t-il des autobus pour venir au campus ?",
+      "en": "I live outside the city: are there buses to get to campus?"
+    },
+    "answer": {
+      "fr": "La page Transport alternatif de l'Université liste des transporteurs ruraux, par exemple Leduc Bus Lines pour Hawkesbury, Clarence-Rockland et Bourget, Trillium Coach Lines pour Embrun, Russell et Limoges, ou Kemptville Transportation Services. L'Université ne les recommande pas officiellement : communique directement avec eux pour les prix et les horaires.",
+      "en": "The University's Alternative transportation page lists rural carriers, for example Leduc Bus Lines for Hawkesbury, Clarence-Rockland and Bourget, Trillium Coach Lines for Embrun, Russell and Limoges, or Kemptville Transportation Services. The University doesn't endorse them: contact them directly for prices and schedules."
+    },
+    "sources": [
+      {
+        "label": "Alternative transportation — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/alternative-transportation"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "pointer"
+  },
+  {
+    "id": "w-velo-politique",
+    "category": "transport",
+    "keywords": [
+      "velo enleve campus",
+      "bike removed campus",
+      "ou attacher velo",
+      "bike parking rules",
+      "velo abandonne",
+      "abandoned bike",
+      "recuperer mon velo",
+      "bicycle policy"
+    ],
+    "question": {
+      "fr": "Où ai-je le droit d'attacher mon vélo, et que se passe-t-il s'il est enlevé ?",
+      "en": "Where am I allowed to lock my bike, and what if it's removed?"
+    },
+    "answer": {
+      "fr": "Seulement aux supports à vélo et dans les enclos sécurisés : un vélo attaché ailleurs, dans un pavillon, ou laissé au même endroit plus de sept jours peut être enlevé. Pour le récupérer, appelle d'abord le Service de la protection au 613-562-5499, avec une pièce d'identité avec photo et une preuve de propriété. S'il a déjà été envoyé à la police d'Ottawa, c'est sur rendez-vous au 613-236-1222, poste 5238.",
+      "en": "Only at bike racks and secure enclosures: a bike locked elsewhere, inside a building, or left in the same spot more than seven days can be removed. To get it back, first call Protection Services at 613-562-5499, with photo ID and proof of ownership. If it's already been sent to Ottawa Police, it's by appointment at 613-236-1222, extension 5238."
+    },
+    "sources": [
+      {
+        "label": "Bicycle parking policy — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/cycling/policy"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-velo-antivol",
+    "category": "transport",
+    "keywords": [
+      "vol de velo",
+      "bike theft",
+      "proteger mon velo",
+      "cadenas en u",
+      "u-lock",
+      "bike lock tips",
+      "velo vole campus",
+      "stolen bike campus",
+      "signaler vol velo"
+    ],
+    "question": {
+      "fr": "Comment éviter de me faire voler mon vélo, et que faire s'il est volé ?",
+      "en": "How do I avoid getting my bike stolen, and what if it is?"
+    },
+    "answer": {
+      "fr": "Utilise deux bons cadenas : un cadenas en U pour attacher le cadre au support, et un câble passé dans les roues. Plus de 92 % des vélos volés sur le campus étaient attachés seulement avec un câble ou une chaîne. Garde ta facture, le numéro de série et une photo, et signale tout vol au Service de la protection, au 141, Louis-Pasteur, ou au 613-562-5499.",
+      "en": "Use two good locks: a U-lock to attach the frame to the rack, and a cable through the wheels. More than 92% of bikes stolen on campus were locked with only a cable or chain. Keep your receipt, serial number and a photo, and report any theft to Protection Services at 141 Louis-Pasteur or 613-562-5499."
+    },
+    "sources": [
+      {
+        "label": "Bike theft prevention — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/theft-prevention/bike-theft-prevention"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-velo-stations-reparation",
+    "category": "transport",
+    "keywords": [
+      "station reparation velo",
+      "bike repair station",
+      "pompe a velo campus",
+      "bike pump campus",
+      "crevaison campus",
+      "flat tire bike campus",
+      "velo hiver supports deneiges",
+      "winter cycling"
+    ],
+    "question": {
+      "fr": "Y a-t-il des stations de réparation de vélo sur le campus ?",
+      "en": "Are there bike repair stations on campus?"
+    },
+    "answer": {
+      "fr": "Oui, il y a plusieurs stations publiques de réparation de vélo sur le campus principal et une au campus Roger-Guindon. Pour encourager le vélo d'hiver, l'Université déneige aussi autour de certains supports à vélo, indiqués sur la carte des supports.",
+      "en": "Yes, there are several public bike repair stations on the main campus and one at the Roger Guindon campus. To encourage winter cycling, the University also clears snow around certain bike racks, shown on the bike rack map."
+    },
+    "sources": [
+      {
+        "label": "Sustainable transportation — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/campus-sustainability/transportation"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-velo-enclos-regles",
+    "category": "transport",
+    "keywords": [
+      "enclos velo regles",
+      "secure bike enclosure rules",
+      "enclos velo comment utiliser",
+      "bike cage campus",
+      "laisser velo longtemps",
+      "enclos velo carte acces",
+      "utiliser enclos velo",
+      "bike enclosure how to",
+      "enclos velo 7 jours"
+    ],
+    "question": {
+      "fr": "Comment utiliser les enclos à vélo sécurisés ?",
+      "en": "How do I use the secure bike enclosures?"
+    },
+    "answer": {
+      "fr": "Une fois ton permis activé, glisse ta carte d'accès à la porte pour entrer, attache ton vélo à un support, et glisse-la de nouveau pour sortir. Les enclos sont pour du stationnement à court terme : un vélo laissé plus de sept jours peut être enlevé. Il est interdit d'y réparer des vélos, de bloquer la porte ouverte ou de faire entrer quelqu'un d'autre.",
+      "en": "Once your permit is active, swipe your access card at the gate to enter, lock your bike to a rack, and swipe again to exit. Enclosures are for short-term parking: a bike left more than seven days can be removed. You can't repair bikes inside, prop the gate open or let anyone else in."
+    },
+    "sources": [
+      {
+        "label": "Cycling — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/cycling"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-navette-gratuite",
+    "category": "transport",
+    "keywords": [
+      "navette gratuite",
+      "shuttle free",
+      "prix navette",
+      "shuttle cost",
+      "navette uottawa qui peut prendre",
+      "shuttle bus who can ride",
+      "navette carte etudiante",
+      "navette payante",
+      "free shuttle uottawa"
+    ],
+    "question": {
+      "fr": "Est-ce que la navette de l'Université est gratuite ?",
+      "en": "Is the University shuttle free?"
+    },
+    "answer": {
+      "fr": "Oui, la navette est gratuite pour les membres de la communauté universitaire. Elle relie le campus principal, le 200 Lees et le campus Roger-Guindon, avec des arrêts à l'Université Saint-Paul et à Peter-Morand. L'embarquement se fait selon le principe du premier arrivé, premier servi.",
+      "en": "Yes, the shuttle is free for members of the University community. It links the main campus, 200 Lees and the Roger Guindon campus, with stops at Saint Paul University and Peter Morand. Boarding is first come, first served."
+    },
+    "sources": [
+      {
+        "label": "Sustainable transportation — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/campus-sustainability/transportation"
+      },
+      {
+        "label": "Shuttle bus — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/shuttle-bus"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-navette-jours-sans-service",
+    "category": "transport",
+    "keywords": [
+      "navette jours feries",
+      "shuttle holidays",
+      "pas de navette",
+      "no shuttle service days",
+      "navette noel",
+      "navette action de grace",
+      "shuttle closed dates",
+      "navette fin de semaine",
+      "shuttle weekend"
+    ],
+    "question": {
+      "fr": "Quels jours la navette ne circule-t-elle pas ?",
+      "en": "Which days does the shuttle not run?"
+    },
+    "answer": {
+      "fr": "En 2026-2027, il n'y a pas de navette la fin de semaine, à l'Action de grâce le 12 octobre 2026, du 23 décembre 2026 au 2 janvier 2027, le jour de la Famille le 15 février 2027, le Vendredi saint le 26 mars et le lundi de Pâques le 29 mars 2027.",
+      "en": "In 2026-2027, there's no shuttle on weekends, on Thanksgiving, October 12, 2026, from December 23, 2026 to January 2, 2027, on Family Day, February 15, 2027, on Good Friday, March 26, and on Easter Monday, March 29, 2027."
+    },
+    "sources": [
+      {
+        "label": "Shuttle bus — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/shuttle-bus"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-navette-objets-perdus",
+    "category": "transport",
+    "keywords": [
+      "objet perdu navette",
+      "lost item shuttle",
+      "oublie dans la navette",
+      "left something shuttle",
+      "lost and found shuttle",
+      "objets perdus navette",
+      "chauffeur navette objet",
+      "perdu dans l'autobus navette",
+      "shuttle driver lost item"
+    ],
+    "question": {
+      "fr": "J'ai oublié quelque chose dans la navette : comment le récupérer ?",
+      "en": "I left something on the shuttle: how do I get it back?"
+    },
+    "answer": {
+      "fr": "Le chauffeur garde les objets oubliés à l'avant de l'autobus. Attends la navette à un arrêt et parle directement au chauffeur : les objets ne sont pas rapportés au Bureau du stationnement, donc c'est la façon la plus rapide de savoir s'il a été trouvé.",
+      "en": "The driver keeps forgotten items at the front of the bus. Wait for the shuttle at a stop and speak directly to the driver: items aren't brought back to the Parking Office, so that's the quickest way to find out if it was found."
+    },
+    "sources": [
+      {
+        "label": "Shuttle bus — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/shuttle-bus"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "w-gare-via-rail",
+    "category": "transport",
+    "keywords": [
+      "gare via rail campus",
+      "train station to campus",
+      "venir de la gare",
+      "via rail ottawa uottawa",
+      "arriver en train",
+      "from train station",
+      "train montreal toronto",
+      "gare d'ottawa",
+      "train station ottawa"
+    ],
+    "question": {
+      "fr": "Comment venir au campus depuis la gare VIA Rail d'Ottawa ?",
+      "en": "How do I get to campus from Ottawa's VIA Rail station?"
+    },
+    "answer": {
+      "fr": "La gare VIA Rail d'Ottawa est directement reliée au réseau d'OC Transpo : tu peux prendre l'O-Train ou l'autobus jusqu'à l'Université, en vérifiant le meilleur trajet avec le planificateur d'OC Transpo. Des taxis, Uber et autres services de covoiturage sont aussi offerts à la gare.",
+      "en": "Ottawa's VIA Rail station is directly connected to the OC Transpo network: you can take the O-Train or a bus to the University, checking the best route with the OC Transpo Travel Planner. Taxis, Uber and other rideshare services are also available at the station."
+    },
+    "sources": [
+      {
+        "label": "Campus directions — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/campus-directions"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  }
+]

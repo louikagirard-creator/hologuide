@@ -1,0 +1,4015 @@
+[
+  {
+    "id": "x-besoin-parler-maintenant",
+    "category": "sante",
+    "keywords": [
+      "je vais mal",
+      "besoin de parler",
+      "ligne d'écoute",
+      "crisis line",
+      "i need to talk to someone",
+      "good2talk",
+      "détresse",
+      "distress",
+      "idées noires",
+      "anxiety attack",
+      "crise d'angoisse",
+      "help now",
+      "aide immédiate"
+    ],
+    "question": {
+      "fr": "Je ne vais pas bien et j'ai besoin de parler à quelqu'un tout de suite. Qui appeler ?",
+      "en": "I'm not okay and I need to talk to someone right now. Who can I call?"
+    },
+    "answer": {
+      "fr": "Tu n'es pas seul. Good2Talk, la ligne d'aide des étudiants postsecondaires, répond jour et nuit en français et en anglais au 1-866-925-5454. Le Centre de détresse d'Ottawa est aussi ouvert 24 heures sur 24 au 613-238-3311. Si ta sécurité est en danger sur le campus, appelle le Service de la protection au 613-562-5411, ou le 911 hors campus.",
+      "en": "You're not alone. Good2Talk, the post-secondary student helpline, answers day and night in English and French at 1-866-925-5454. The Ottawa Distress Centre is also open 24/7 at 613-238-3311. If your safety is at risk on campus, call Protection Services at 613-562-5411, or 911 off campus."
+    },
+    "sources": [
+      {
+        "label": "Immediate support — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/immediate-support"
+      },
+      {
+        "label": "Soutien immédiat — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/soutien-immediat"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-ligne-988",
+    "category": "sante",
+    "keywords": [
+      "988",
+      "suicide",
+      "ligne prévention suicide",
+      "suicide hotline",
+      "pensées suicidaires",
+      "suicidal thoughts",
+      "envie de mourir",
+      "want to die",
+      "crisis helpline",
+      "ligne de crise suicide"
+    ],
+    "question": {
+      "fr": "Y a-t-il une ligne d'aide si j'ai des pensées suicidaires ?",
+      "en": "Is there a helpline if I'm having suicidal thoughts?"
+    },
+    "answer": {
+      "fr": "Oui. Tu peux appeler ou texter le 988, la ligne d'aide en cas de crise suicidaire, ouverte 24 heures sur 24 en français et en anglais. Si tu es en danger immédiat sur le campus, appelle le Service de la protection au 613-562-5411; hors campus, compose le 911.",
+      "en": "Yes. You can call or text 988, the Suicide Crisis Helpline, open 24/7 in English and French. If you're in immediate danger on campus, call Protection Services at 613-562-5411; off campus, dial 911."
+    },
+    "sources": [
+      {
+        "label": "Immediate support — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/immediate-support"
+      },
+      {
+        "label": "Soutien immédiat — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/soutien-immediat"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-texto-crise",
+    "category": "sante",
+    "keywords": [
+      "texto crise",
+      "text line",
+      "crisis text",
+      "texter quelqu'un",
+      "686868",
+      "parler par texto",
+      "text for help",
+      "je peux pas appeler",
+      "can't call",
+      "clavardage aide",
+      "ligne de crise texto",
+      "crisis text line",
+      "texter crise"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux texter quelqu'un si je suis en crise, au lieu d'appeler ?",
+      "en": "Can I text someone if I'm in crisis instead of calling?"
+    },
+    "answer": {
+      "fr": "Oui. Texte PARLER au 686868 pour joindre la Crisis Text Line en français, partout au Canada, 24 heures sur 24, sans forfait de données; en anglais, texte CONNECT. Tu peux aussi texter ALLOJECOUTEON au même numéro pour joindre Good2Talk en français. En cas de danger immédiat sur le campus, appelle le 613-562-5411.",
+      "en": "Yes. Text CONNECT to 686868 for the Crisis Text Line, anywhere in Canada, 24/7, no data plan needed; for French, text PARLER. You can also text GOOD2TALKON to the same number to reach Good2Talk. If you're in immediate danger on campus, call 613-562-5411."
+    },
+    "sources": [
+      {
+        "label": "Immediate support — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/immediate-support"
+      },
+      {
+        "label": "Soutien immédiat — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/soutien-immediat"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-ligne-crise-gatineau",
+    "category": "sante",
+    "keywords": [
+      "gatineau",
+      "québec",
+      "outaouais",
+      "tel-aide",
+      "ligne crise québec",
+      "quebec crisis line",
+      "j'habite à gatineau",
+      "live in gatineau",
+      "prévention suicide québec",
+      "1-866-appelle"
+    ],
+    "question": {
+      "fr": "J'habite à Gatineau : quelles lignes d'aide 24 heures sur 24 puis-je appeler ?",
+      "en": "I live in Gatineau: which 24/7 helplines can I call?"
+    },
+    "answer": {
+      "fr": "Au Québec, l'Association québécoise de prévention du suicide répond 24 heures sur 24 au 1-866-APPELLE, qui te dirige vers ta région. Tel-Aide Outaouais offre de l'écoute en français au 819-775-3223. Le Centre de détresse d'Ottawa répond aussi aux gens de Gatineau au 1-866-676-1080.",
+      "en": "In Quebec, the Association québécoise de prévention du suicide answers 24/7 at 1-866-APPELLE, which connects you to your region. Tel-Aide Outaouais offers French-language listening at 819-775-3223. The Ottawa Distress Centre also serves Gatineau at 1-866-676-1080."
+    },
+    "sources": [
+      {
+        "label": "Immediate support — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/immediate-support"
+      },
+      {
+        "label": "Soutien immédiat — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/soutien-immediat"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-pae-premier-cycle",
+    "category": "sante",
+    "keywords": [
+      "programme d'aide aux étudiants",
+      "student assistance program",
+      "empower me",
+      "dialogue",
+      "conseiller 24/7",
+      "counsellor 24/7",
+      "seuo santé mentale",
+      "uosu counselling",
+      "thérapie gratuite",
+      "free therapy undergrad",
+      "psy premier cycle"
+    ],
+    "question": {
+      "fr": "Je suis au premier cycle : puis-je parler à un conseiller à toute heure ?",
+      "en": "I'm an undergrad: can I talk to a counsellor at any time?"
+    },
+    "answer": {
+      "fr": "Oui. Grâce à ton adhésion au SÉUO, le Programme d'aide aux étudiants te permet de parler à un conseiller 24 heures sur 24, 365 jours par année. Pour obtenir du soutien ou un rendez-vous de psychothérapie, en personne, par téléphone, par vidéo ou en ligne, crée un compte sur le site ou dans l'application Dialogue.",
+      "en": "Yes. Through your UOSU membership, the Student Assistance Program lets you talk to a counsellor 24/7, 365 days a year. To get support or book psychotherapy, in person, by phone, by video or online, create an account on the website or in the Dialogue app."
+    },
+    "sources": [
+      {
+        "label": "Immediate support — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/immediate-support"
+      },
+      {
+        "label": "Soutien immédiat — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/soutien-immediat"
+      },
+      {
+        "label": "In crisis (Students) — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/getting-help-students/student-in-crisis"
+      },
+      {
+        "label": "Étudiant en détresse — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/recevoir-aide-pour-etudiant/etudiant-en-detresse"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-ssp-cycles-sup",
+    "category": "sante",
+    "keywords": [
+      "cycles supérieurs santé mentale",
+      "graduate counselling",
+      "guardme",
+      "my ssp",
+      "student support program",
+      "gsaed counselling",
+      "gsaéd psy",
+      "maîtrise stress",
+      "phd stress",
+      "conseiller étudiant diplômé"
+    ],
+    "question": {
+      "fr": "Je suis aux cycles supérieurs : quel soutien en santé mentale ai-je 24 heures sur 24 ?",
+      "en": "I'm a graduate student: what 24/7 mental health support do I have?"
+    },
+    "answer": {
+      "fr": "Par la GSAÉD, tu as accès gratuitement au Programme de soutien aux étudiants, avec des conseillers multilingues 24 heures sur 24. Appelle le 1-855-649-8641 pour du soutien immédiat ou pour prendre rendez-vous en personne, par téléphone, par vidéo ou en ligne. L'application Student Support offre aussi des ressources d'autoassistance.",
+      "en": "Through GSAÉD, you have free access to the Student Support Program, with multilingual counsellors available 24/7. Call 1-855-649-8641 for immediate support or to book an appointment in person, by phone, by video or online. The Student Support app also offers self-help resources."
+    },
+    "sources": [
+      {
+        "label": "In crisis (Students) — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/getting-help-students/student-in-crisis"
+      },
+      {
+        "label": "Étudiant en détresse — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/recevoir-aide-pour-etudiant/etudiant-en-detresse"
+      },
+      {
+        "label": "Immediate support — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/immediate-support"
+      },
+      {
+        "label": "Soutien immédiat — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/soutien-immediat"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-soutien-hors-canada",
+    "category": "sante",
+    "keywords": [
+      "à l'étranger",
+      "abroad",
+      "échange",
+      "exchange",
+      "international sos",
+      "hors du canada",
+      "outside canada",
+      "stage à l'étranger",
+      "santé mentale étranger",
+      "counselling abroad",
+      "fieldwork"
+    ],
+    "question": {
+      "fr": "Je suis à l'étranger pour un échange : puis-je avoir du soutien psychologique ?",
+      "en": "I'm abroad on exchange: can I get mental health support?"
+    },
+    "answer": {
+      "fr": "Oui. Si tu es citoyen canadien inscrit à uOttawa et temporairement hors du pays, International SOS t'offre un soutien 24 heures sur 24 dans plus de 60 langues, au 1-215-942-8226 ou dans son application. Les étudiants de premier cycle ont aussi accès au programme du SÉUO depuis 22 pays, et ceux des cycles supérieurs au programme de la GSAÉD.",
+      "en": "Yes. If you're a Canadian citizen registered at uOttawa and temporarily outside the country, International SOS offers 24/7 support in over 60 languages at 1-215-942-8226 or through its app. Undergrads can also use the UOSU program from 22 countries, and grad students the GSAÉD program."
+    },
+    "sources": [
+      {
+        "label": "Immediate support — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/immediate-support"
+      },
+      {
+        "label": "Soutien immédiat — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/soutien-immediat"
+      },
+      {
+        "label": "In crisis (Students) — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/getting-help-students/student-in-crisis"
+      },
+      {
+        "label": "Étudiant en détresse — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/recevoir-aide-pour-etudiant/etudiant-en-detresse"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-psychotherapie-gratuite",
+    "category": "sante",
+    "keywords": [
+      "psychothérapie",
+      "psychotherapy",
+      "thérapeute",
+      "therapist",
+      "psy gratuit",
+      "free counselling",
+      "voir un psy",
+      "see a therapist",
+      "counselling uottawa",
+      "rendez-vous santé mentale",
+      "mental health appointment",
+      "intake"
+    ],
+    "question": {
+      "fr": "Comment voir un psychothérapeute à l'Université ?",
+      "en": "How do I see a psychotherapist at the University?"
+    },
+    "answer": {
+      "fr": "La psychothérapie est gratuite pour tous les étudiants de uOttawa et offerte dans les deux langues. Commence par un rendez-vous d'accueil en santé mentale, en ligne, par l'application CHR Connect, au 613-562-5777 ou en personne au Complexe sportif Minto, local N203. Ces rendez-vous se réservent jusqu'à quatre jours à l'avance.",
+      "en": "Psychotherapy is free for all uOttawa students and offered in both languages. Start with a mental health intake appointment, online, through the CHR Connect app, at 613-562-5777 or in person at the Minto Sports Complex, room N203. These appointments can be booked up to four days in advance."
+    },
+    "sources": [
+      {
+        "label": "Psychotherapy — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/counselling-therapy"
+      },
+      {
+        "label": "Counseling et thérapie — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/counseling-therapie"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-sante-mentale-pas-urgence",
+    "category": "sante",
+    "keywords": [
+      "urgence santé mentale",
+      "mental health emergency",
+      "ligne santé mentale",
+      "mental health helpline",
+      "1-866-531-2600",
+      "psychiatric crisis",
+      "crise psychiatrique",
+      "urgence psychiatrique",
+      "trop mal pour attendre",
+      "can't wait"
+    ],
+    "question": {
+      "fr": "Les services de santé mentale du campus prennent-ils les urgences ?",
+      "en": "Do campus mental health services handle emergencies?"
+    },
+    "answer": {
+      "fr": "Non, les services de santé mentale étudiants n'offrent pas de service d'urgence. Si toi ou quelqu'un est en danger immédiat ou trop mal pour attendre, va à l'urgence d'un hôpital ou appelle la Ligne d'aide sur la santé mentale au 1-866-531-2600. Sur le campus, le Service de la protection répond au 613-562-5411.",
+      "en": "No, student mental health services don't provide emergency care. If you or someone else is in immediate danger or too unwell to wait, go to a hospital emergency room or call the Mental Health Helpline at 1-866-531-2600. On campus, Protection Services answers at 613-562-5411."
+    },
+    "sources": [
+      {
+        "label": "Psychotherapy — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/counselling-therapy"
+      },
+      {
+        "label": "Counseling et thérapie — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/counseling-therapie"
+      },
+      {
+        "label": "Immediate support — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/immediate-support"
+      },
+      {
+        "label": "Soutien immédiat — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/soutien-immediat"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-references-specialisees-sante-mentale",
+    "category": "sante",
+    "keywords": [
+      "référence spécialisée",
+      "specialized referral",
+      "thérapie cognitivo-comportementale",
+      "tcc",
+      "cbt",
+      "psychose",
+      "psychosis",
+      "on track",
+      "toc",
+      "ocd",
+      "tspt",
+      "ptsd",
+      "dépendances",
+      "addictions"
+    ],
+    "question": {
+      "fr": "Le campus peut-il me référer à des services spécialisés en santé mentale ?",
+      "en": "Can the campus refer me to specialized mental health services?"
+    },
+    "answer": {
+      "fr": "Oui. Les services de santé mentale étudiants font des références vers des services communautaires, comme la psychothérapie structurée de l'Ontario, une thérapie cognitivo-comportementale gratuite pour la dépression, l'anxiété, le TOC ou le stress post-traumatique. Il y a aussi On Track pour les premiers épisodes de psychose, chez les 16 à 35 ans, et des services en dépendances. Parles-en lors de ton rendez-vous d'accueil.",
+      "en": "Yes. Student mental health services refer to community programs, like Ontario Structured Psychotherapy, free cognitive behavioural therapy for depression, anxiety, OCD or PTSD. There's also On Track for first-episode psychosis, ages 16 to 35, and addiction services. Ask about it at your intake appointment."
+    },
+    "sources": [
+      {
+        "label": "Psychotherapy — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/counselling-therapy"
+      },
+      {
+        "label": "Counseling et thérapie — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/counseling-therapie"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-soutien-pairs",
+    "category": "sante",
+    "keywords": [
+      "soutien par les pairs",
+      "peer support",
+      "parler à un étudiant",
+      "talk to a student",
+      "écoute",
+      "listening ear",
+      "pair aidant",
+      "peer helper",
+      "211f",
+      "sans rendez-vous",
+      "drop-in support"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux parler à un autre étudiant de ce qui me stresse ?",
+      "en": "Can I talk to another student about what's stressing me?"
+    },
+    "answer": {
+      "fr": "Oui, le soutien par les pairs est gratuit et confidentiel. Passe sans rendez-vous ou réserve une séance de 45 minutes au Centre universitaire Jock-Turcot, local 211F, du lundi au vendredi de 9 h à 16 h; la dernière arrivée sans rendez-vous est à 15 h 30. Apporte ta carte étudiante. Les pairs aidants écoutent, mais ne sont pas des professionnels de la santé mentale.",
+      "en": "Yes, peer support is free and confidential. Drop in or book a 45-minute session at the Jock Turcot University Centre, room 211F, Monday to Friday, 9 a.m. to 4 p.m.; last drop-in is at 3:30 p.m. Bring your student card. Peer support assistants listen, but they aren't mental health professionals."
+    },
+    "sources": [
+      {
+        "label": "Peer Support — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/peer-support"
+      },
+      {
+        "label": "Soutien par les pairs — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/soutien-pairs"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-coaching-ergotherapie",
+    "category": "sante",
+    "keywords": [
+      "coaching rendement occupationnel",
+      "occupational performance coaching",
+      "ergothérapie",
+      "occupational therapy",
+      "motivation",
+      "routine",
+      "organisation",
+      "procrastination",
+      "manque d'énergie",
+      "isolement",
+      "opc"
+    ],
+    "question": {
+      "fr": "J'ai du mal à garder une routine et ma motivation : y a-t-il du coaching ?",
+      "en": "I'm struggling with routine and motivation: is there coaching available?"
+    },
+    "answer": {
+      "fr": "Oui, le coaching en rendement occupationnel est offert par des étudiants à la maîtrise en ergothérapie, supervisés par une ergothérapeute. Tu les rencontres en virtuel environ une fois par semaine pendant 6 à 8 semaines, pour des séances de 45 à 60 minutes. Tu peux réserver ta première séance en tout temps.",
+      "en": "Yes, occupational performance coaching is offered by master's occupational therapy students, supervised by a registered occupational therapist. You meet virtually about once a week for 6 to 8 weeks, in 45- to 60-minute sessions. You can book your first session at any time."
+    },
+    "sources": [
+      {
+        "label": "Occupational performance coaching — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/peer-support/occupational-therapy-coaching"
+      },
+      {
+        "label": "Coaching en rendement occupationnel — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/soutien-pairs/coaching-rendement-occupationnel"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-groupes-soutien",
+    "category": "sante",
+    "keywords": [
+      "groupe de soutien",
+      "support group",
+      "groupe thérapeutique",
+      "therapeutic group",
+      "thérapie de groupe",
+      "group therapy",
+      "rencontrer d'autres étudiants",
+      "s'inscrire groupe",
+      "groupe anxiété",
+      "anxiety group"
+    ],
+    "question": {
+      "fr": "Y a-t-il des groupes de soutien pour les étudiants ?",
+      "en": "Are there support groups for students?"
+    },
+    "answer": {
+      "fr": "Oui, l'équipe du mieux-être étudiant offre chaque session des groupes animés par des psychothérapeutes, par exemple sur les relations, la régulation des émotions, l'anxiété ou le deuil. Pour t'inscrire, va dans le portail de réservation du Centre de santé et choisis l'inscription à un groupe de soutien; une agente d'accueil confirmera si le groupe te convient. La plupart des groupes sont fermés et demandent d'assister à 80 % des séances.",
+      "en": "Yes, the Student Wellness team runs groups led by psychotherapists every term, for example on relationships, emotion regulation, anxiety or grief. To sign up, go to the Health and Wellness Centre booking portal and choose support and therapeutic group registration; an intake officer will confirm whether the group fits you. Most groups are closed and require attending 80% of sessions."
+    },
+    "sources": [
+      {
+        "label": "Student support and therapeutic groups — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/support-groups"
+      },
+      {
+        "label": "Groupes de soutien — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/groupes-soutien"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-groupe-tdah",
+    "category": "sante",
+    "keywords": [
+      "tdah",
+      "adhd",
+      "trouble déficit attention",
+      "attention deficit",
+      "groupe tdah",
+      "adhd group",
+      "concentration",
+      "soupçon tdah",
+      "suspected adhd",
+      "diagnostic tdah"
+    ],
+    "question": {
+      "fr": "Y a-t-il un groupe pour les étudiants qui ont un TDAH ?",
+      "en": "Is there a group for students with ADHD?"
+    },
+    "answer": {
+      "fr": "Oui, le groupe thérapeutique TDAH aide à mieux comprendre la condition et à développer des stratégies au quotidien et à l'université. Il est ouvert aux étudiants avec un TDAH diagnostiqué ou soupçonné; aucun diagnostic n'est exigé. Cet automne, il est offert en anglais et en personne; inscris-toi par le portail de réservation du Centre de santé et mieux-être.",
+      "en": "Yes, the ADHD Therapeutic Group helps you understand the condition and build strategies for daily life and university. It's open to students with diagnosed or suspected ADHD; no formal diagnosis is required. This fall it's offered in English and in person; register through the Student Health and Wellness Centre booking portal."
+    },
+    "sources": [
+      {
+        "label": "Student support and therapeutic groups — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/support-groups"
+      },
+      {
+        "label": "Groupes de soutien — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/groupes-soutien"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-groupe-autisme",
+    "category": "sante",
+    "keywords": [
+      "autisme",
+      "autism",
+      "spectre de l'autisme",
+      "autism spectrum",
+      "tsa",
+      "asd",
+      "groupe autisme",
+      "surcharge sensorielle",
+      "sensory overload",
+      "masking",
+      "neurodivergent"
+    ],
+    "question": {
+      "fr": "Y a-t-il un groupe de soutien pour les étudiants autistes ?",
+      "en": "Is there a support group for autistic students?"
+    },
+    "answer": {
+      "fr": "Oui, un groupe de soutien bilingue en personne s'adresse aux étudiants qui se reconnaissent dans les traits du spectre de l'autisme, sans diagnostic obligatoire. Pendant 11 semaines, on y parle de surcharge sensorielle et sociale, de masquage, d'épuisement et de communication. Cet automne, il a lieu le mardi de 10 h à 11 h 30 au 100 Marie-Curie, 3e étage; inscription par le portail du Centre de santé.",
+      "en": "Yes, a bilingual in-person support group is for students who identify with autism spectrum traits, no formal diagnosis required. Over 11 weeks, it covers sensory and social overload, masking, burnout and communication. This fall it runs Tuesdays, 10 to 11:30 a.m., at 100 Marie Curie, 3rd floor; register through the Health Centre portal."
+    },
+    "sources": [
+      {
+        "label": "Student support and therapeutic groups — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/support-groups"
+      },
+      {
+        "label": "Groupes de soutien — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/groupes-soutien"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-groupe-deuil",
+    "category": "sante",
+    "keywords": [
+      "deuil",
+      "grief",
+      "perte d'un proche",
+      "lost someone",
+      "décès",
+      "death of a loved one",
+      "groupe deuil",
+      "bereavement",
+      "mourning",
+      "j'ai perdu quelqu'un"
+    ],
+    "question": {
+      "fr": "J'ai perdu un proche : y a-t-il un groupe de soutien pour le deuil ?",
+      "en": "I lost a loved one: is there a grief support group?"
+    },
+    "answer": {
+      "fr": "Oui, le groupe thérapeutique Vivre avec le deuil accueille les étudiants qui ont perdu un proche au cours des cinq dernières années. Sur 10 semaines, en personne, on y explore les émotions du deuil et la façon de prendre soin de soi. Cet automne, il est offert en anglais le jeudi matin; inscris-toi par le portail du Centre de santé et mieux-être.",
+      "en": "Yes, the Living with Grief Therapeutic Group welcomes students who've lost a loved one in the past five years. Over 10 weeks, in person, it explores the emotions of grief and how to care for yourself. This fall it's offered in English on Thursday mornings; register through the Student Health and Wellness Centre portal."
+    },
+    "sources": [
+      {
+        "label": "Student support and therapeutic groups — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/support-groups"
+      },
+      {
+        "label": "Groupes de soutien — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/groupes-soutien"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-groupe-2slgbtqia",
+    "category": "sante",
+    "keywords": [
+      "2slgbtqia+",
+      "lgbtq",
+      "queer",
+      "trans",
+      "gai",
+      "gay",
+      "lesbienne",
+      "groupe lgbtq",
+      "coming out",
+      "sortie du placard",
+      "identité de genre",
+      "pride group"
+    ],
+    "question": {
+      "fr": "Y a-t-il un groupe de soutien pour les étudiants 2SLGBTQIA+ ?",
+      "en": "Is there a support group for 2SLGBTQIA+ students?"
+    },
+    "answer": {
+      "fr": "Oui, un groupe thérapeutique hebdomadaire en personne offre un espace sécuritaire et affirmatif aux étudiants 2SLGBTQIA+. On y aborde l'identité, la fierté, la stigmatisation, les relations et la sortie du placard. Cet automne, il a lieu en anglais le vendredi de 13 h à 14 h 30; inscris-toi par le portail du Centre de santé et mieux-être.",
+      "en": "Yes, a weekly in-person therapeutic group offers a safe, affirming space for 2SLGBTQIA+ students. It covers identity, pride, stigma, relationships and coming out. This fall it runs in English on Fridays, 1 to 2:30 p.m.; register through the Student Health and Wellness Centre portal."
+    },
+    "sources": [
+      {
+        "label": "Student support and therapeutic groups — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/support-groups"
+      },
+      {
+        "label": "Groupes de soutien — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/groupes-soutien"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-salon-mieux-etre",
+    "category": "sante",
+    "keywords": [
+      "salon du mieux-être",
+      "wellness lounge",
+      "ucu 203",
+      "se détendre",
+      "relax",
+      "jeux",
+      "games",
+      "pair aidant",
+      "peer helper",
+      "endroit calme",
+      "chill spot",
+      "90u lounge"
+    ],
+    "question": {
+      "fr": "C'est quoi le Salon du mieux-être et quand est-il ouvert ?",
+      "en": "What is the Wellness Lounge and when is it open?"
+    },
+    "answer": {
+      "fr": "C'est un espace sans jugement au Centre universitaire, local 203, où tu peux te détendre, jouer, étudier ou parler à un pair aidant. Il est ouvert du lundi au vendredi de 9 h à 16 h, avec des heures réduites pendant les semaines de lecture et les examens. Un deuxième salon, à la résidence 90U, ouvre en soirée en semaine de 17 h à 22 h.",
+      "en": "It's a judgment-free space in the University Centre, room 203, where you can relax, play games, study or talk to a peer helper. It's open Monday to Friday, 9 a.m. to 4 p.m., with reduced hours during reading weeks and exams. A second lounge at the 90U residence opens weekday evenings, 5 to 10 p.m."
+    },
+    "sources": [
+      {
+        "label": "Wellness Lounge — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+      },
+      {
+        "label": "Salon du mieux-être — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/salon-mieux-etre"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-salle-luminotherapie",
+    "category": "sante",
+    "keywords": [
+      "luminothérapie",
+      "light therapy",
+      "salle de lumière",
+      "blues de l'hiver",
+      "winter blues",
+      "déprime saisonnière",
+      "seasonal depression",
+      "salle des plantes",
+      "plant room",
+      "salle d'étude mieux-être"
+    ],
+    "question": {
+      "fr": "Y a-t-il une salle de luminothérapie pour étudier ?",
+      "en": "Is there a light therapy room to study in?"
+    },
+    "answer": {
+      "fr": "Oui, le Salon du mieux-être a des salles d'étude réservables, dont une salle de luminothérapie pour combattre le blues de l'hiver et une salle des plantes. Elles sont réservées aux étudiants actuels, et il te faut ta carte uOttawa pour y entrer. Tu peux les réserver en ligne à partir de la page du Salon du mieux-être.",
+      "en": "Yes, the Wellness Lounge has bookable study rooms, including a light therapy room to fight the winter blues and a plant room. They're reserved for current students, and you need your uOttawa card to get in. You can book them online from the Wellness Lounge page."
+    },
+    "sources": [
+      {
+        "label": "Wellness Lounge — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+      },
+      {
+        "label": "Salon du mieux-être — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/salon-mieux-etre"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-zootherapie",
+    "category": "sante",
+    "keywords": [
+      "zoothérapie",
+      "therapy dogs",
+      "chiens",
+      "dogs",
+      "pet therapy",
+      "chiens de thérapie",
+      "flatter un chien",
+      "stress examens",
+      "puppy",
+      "animaux"
+    ],
+    "question": {
+      "fr": "Est-ce qu'il y a des chiens de zoothérapie sur le campus ?",
+      "en": "Are there therapy dogs on campus?"
+    },
+    "answer": {
+      "fr": "Oui ! Des chiens de thérapie visitent le Salon du mieux-être du Centre universitaire de septembre à avril, généralement le jeudi de 13 h à 14 h. L'inscription est obligatoire et ouvre deux semaines avant la séance. Au salon de la résidence 90U, certaines séances se font sans inscription, en avant-midi.",
+      "en": "Yes! Therapy dogs visit the University Centre Wellness Lounge from September to April, usually Thursdays from 1 to 2 p.m. Registration is required and opens two weeks before the session. At the 90U residence lounge, some morning sessions are drop-in."
+    },
+    "sources": [
+      {
+        "label": "Therapy dog program — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/pet-therapy"
+      },
+      {
+        "label": "Zoothérapie — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/zootherapie"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-realite-virtuelle-mieux-etre",
+    "category": "sante",
+    "keywords": [
+      "réalité virtuelle",
+      "virtual reality",
+      "vr",
+      "casque vr",
+      "jeux vidéo mieux-être",
+      "wellness gaming",
+      "déstresser",
+      "destress",
+      "stress relief",
+      "gaming"
+    ],
+    "question": {
+      "fr": "Puis-je essayer la réalité virtuelle pour déstresser ?",
+      "en": "Can I try virtual reality to destress?"
+    },
+    "answer": {
+      "fr": "Oui, la réalité virtuelle et les jeux axés sur le mieux-être sont offerts au Salon du mieux-être du Centre universitaire pendant ses heures d'ouverture. Passe seul ou avec des amis, sans rendez-vous.",
+      "en": "Yes, virtual reality and wellness gaming are available at the University Centre Wellness Lounge during its opening hours. Drop by alone or with friends, no appointment needed."
+    },
+    "sources": [
+      {
+        "label": "Wellness Lounge — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+      },
+      {
+        "label": "Salon du mieux-être — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/salon-mieux-etre"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-gestion-de-cas",
+    "category": "sante",
+    "keywords": [
+      "gestion de cas",
+      "case management",
+      "besoins complexes",
+      "complex needs",
+      "coordination services",
+      "plusieurs problèmes",
+      "tout va mal",
+      "soutien étudiant",
+      "student support",
+      "référer un étudiant"
+    ],
+    "question": {
+      "fr": "J'ai plusieurs problèmes en même temps, études, santé, argent : qui peut m'aider à tout coordonner ?",
+      "en": "I have several problems at once, school, health, money: who can help me coordinate everything?"
+    },
+    "answer": {
+      "fr": "L'équipe de gestion de cas aide les étudiants aux besoins complexes à coordonner les ressources de l'Université et de la communauté, et à bâtir un plan d'action personnalisé. Tout étudiant y a droit, même en congé d'études; tu peux te référer toi-même avec le formulaire en ligne. La démarche est volontaire. En cas d'urgence, appelle le Service de la protection au 613-562-5411.",
+      "en": "The Case Management team helps students with complex needs coordinate University and community resources and build a personalized action plan. All students are eligible, even on leave; you can refer yourself with the online form. Participation is voluntary. In an emergency, call Protection Services at 613-562-5411."
+    },
+    "sources": [
+      {
+        "label": "Case management — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/case-management"
+      },
+      {
+        "label": "Gestion de cas — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/gestion-cas"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-aider-ami-detresse",
+    "category": "sante",
+    "keywords": [
+      "aider un ami",
+      "help a friend",
+      "ami en détresse",
+      "friend in distress",
+      "inquiet pour quelqu'un",
+      "worried about someone",
+      "colocataire",
+      "roommate",
+      "comment réagir",
+      "what to say",
+      "signes de détresse"
+    ],
+    "question": {
+      "fr": "Je suis inquiet pour un ami qui ne va pas bien. Comment l'aider ?",
+      "en": "I'm worried about a friend who isn't doing well. How can I help?"
+    },
+    "answer": {
+      "fr": "Remarque les changements, réponds avec empathie et sans jugement, par exemple en disant que tu as remarqué quelque chose et que tu t'inquiètes, puis oriente-le vers les ressources, comme le soutien par les pairs ou le Centre de santé et mieux-être au 613-562-5777. Si la personne parle de se faire du mal ou est en danger, c'est une urgence : appelle le 613-562-5411 sur le campus ou le 911. Pense aussi à prendre soin de toi.",
+      "en": "Notice the changes, respond with empathy and without judgment, for example saying you've noticed something and you're concerned, then point them to resources like peer support or the Student Health and Wellness Centre at 613-562-5777. If the person talks about harming themselves or is in danger, it's an emergency: call 613-562-5411 on campus or 911. Remember to take care of yourself too."
+    },
+    "sources": [
+      {
+        "label": "Helping someone — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/helping-someone"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-produits-menstruels-gratuits",
+    "category": "sante",
+    "keywords": [
+      "produits menstruels",
+      "menstrual products",
+      "serviettes",
+      "tampons",
+      "pads",
+      "règles",
+      "period",
+      "projet c'est réglé",
+      "period project",
+      "gratuit",
+      "free"
+    ],
+    "question": {
+      "fr": "Où trouver des produits menstruels gratuits sur le campus ?",
+      "en": "Where can I find free menstrual products on campus?"
+    },
+    "answer": {
+      "fr": "Le Projet C'est réglé offre des produits menstruels gratuits dans certaines toilettes du campus et des résidences, par exemple au 1er étage du CRX et de la bibliothèque Morisset. Tu en trouves aussi au Centre de ressources féministes et au Centre de la fierté du Centre universitaire, au Salon du mieux-être, local 203, et au Centre de santé et mieux-être du Complexe Minto.",
+      "en": "The Period Project provides free menstrual products in select campus and residence washrooms, for example on the first floor of CRX and Morisset Library. You can also get them at the Feminist Resource Centre and the Pride Centre in the University Centre, at the Wellness Lounge, room 203, and at the Student Health and Wellness Centre in the Minto Complex."
+    },
+    "sources": [
+      {
+        "label": "Period Project — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/period-project"
+      },
+      {
+        "label": "Projet C'est réglé — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/projet-cest-regle"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-plan-b-gratuit",
+    "category": "sante",
+    "keywords": [
+      "plan b",
+      "pilule du lendemain",
+      "morning after pill",
+      "contraception d'urgence",
+      "emergency contraception",
+      "condom brisé",
+      "condom broke",
+      "relation non protégée",
+      "unprotected sex",
+      "gratuit"
+    ],
+    "question": {
+      "fr": "Où obtenir la pilule du lendemain gratuitement ?",
+      "en": "Where can I get the morning-after pill for free?"
+    },
+    "answer": {
+      "fr": "La pilule Plan B est gratuite pour les étudiants au Centre de santé et mieux-être, Complexe sportif Minto, local N203, du lundi au vendredi de 8 h à 15 h. Après l'accueil, tu rencontres une infirmière en privé; la consultation est facultative. Elle doit être prise dans les 72 heures, et plus tôt c'est pris, mieux ça fonctionne.",
+      "en": "Plan B is free for students at the Student Health and Wellness Centre, Minto Sports Complex, room N203, Monday to Friday, 8 a.m. to 3 p.m. After check-in, you meet privately with a nurse; the consultation is optional. It must be taken within 72 hours, and the sooner, the better it works."
+    },
+    "sources": [
+      {
+        "label": "Emergency contraception available to students — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/emergency-contraception-available-students"
+      },
+      {
+        "label": "Contraception d'urgence — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/contraception-urgence-disponible-etudiants"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-condoms-gratuits",
+    "category": "sante",
+    "keywords": [
+      "condoms gratuits",
+      "free condoms",
+      "préservatifs",
+      "protection sexuelle",
+      "safer sex",
+      "digue dentaire",
+      "dental dam",
+      "condom interne",
+      "internal condom",
+      "sans latex"
+    ],
+    "question": {
+      "fr": "Où trouver des condoms gratuits sur le campus ?",
+      "en": "Where can I get free condoms on campus?"
+    },
+    "answer": {
+      "fr": "Tu peux obtenir gratuitement des produits pour des relations sexuelles plus sécuritaires au Salon du mieux-être, au Centre universitaire, et au Centre de santé et mieux-être. On y offre des condoms externes, y compris sans latex, des condoms internes et des digues dentaires.",
+      "en": "You can get free safer sex products at the Wellness Lounge in the University Centre and at the Student Health and Wellness Centre. They offer external condoms, including latex-free, internal condoms and dental dams."
+    },
+    "sources": [
+      {
+        "label": "Sexual health — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/health-promotion/sexual-health"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-test-grossesse-gratuit",
+    "category": "sante",
+    "keywords": [
+      "test de grossesse",
+      "pregnancy test",
+      "enceinte",
+      "pregnant",
+      "retard de règles",
+      "late period",
+      "grossesse",
+      "gratuit",
+      "free test",
+      "planned parenthood"
+    ],
+    "question": {
+      "fr": "Où trouver un test de grossesse gratuit ?",
+      "en": "Where can I get a free pregnancy test?"
+    },
+    "answer": {
+      "fr": "Des tests de grossesse gratuits, offerts avec Planned Parenthood Ottawa, sont disponibles au Salon du mieux-être, Centre universitaire local 203, et au Centre de santé et mieux-être pendant les heures d'ouverture. Pour en parler avec une professionnelle, tu peux prendre rendez-vous au Centre de santé au 613-562-5777.",
+      "en": "Free pregnancy tests, offered with Planned Parenthood Ottawa, are available at the Wellness Lounge, University Centre room 203, and at the Student Health and Wellness Centre during opening hours. To talk to a professional, you can book at the Health Centre at 613-562-5777."
+    },
+    "sources": [
+      {
+        "label": "Sexual health — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/health-promotion/sexual-health"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-depistage-its-vih",
+    "category": "sante",
+    "keywords": [
+      "dépistage",
+      "testing",
+      "its",
+      "itss",
+      "sti",
+      "std",
+      "vih",
+      "hiv",
+      "test vih",
+      "getakit",
+      "dépistage anonyme",
+      "sexual health test"
+    ],
+    "question": {
+      "fr": "Où me faire dépister pour les ITS ou le VIH ?",
+      "en": "Where can I get tested for STIs or HIV?"
+    },
+    "answer": {
+      "fr": "Pour un dépistage général des ITS, prends rendez-vous au Centre de santé et mieux-être. Un programme de dépistage du VIH a aussi lieu au Salon du mieux-être, le mercredi de 12 h à 15 h, à plusieurs dates de la session. Tu peux aussi commander gratuitement un autotest du VIH avec GetaKit, livré chez toi.",
+      "en": "For general STI testing, book at the Student Health and Wellness Centre. An HIV testing program also runs at the Wellness Lounge on Wednesdays from noon to 3 p.m. on several dates each term. You can also order a free HIV self-test kit from GetaKit, delivered to your home."
+    },
+    "sources": [
+      {
+        "label": "Sexual health — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/health-promotion/sexual-health"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-naloxone-surdose",
+    "category": "sante",
+    "keywords": [
+      "naloxone",
+      "surdose",
+      "overdose",
+      "opioïdes",
+      "opioids",
+      "fentanyl",
+      "bon samaritain",
+      "good samaritan",
+      "nors",
+      "consommer seul",
+      "using alone"
+    ],
+    "question": {
+      "fr": "Que faire si quelqu'un fait une surdose ?",
+      "en": "What should I do if someone is overdosing?"
+    },
+    "answer": {
+      "fr": "Appelle le 911 tout de suite, ou le Service de la protection si tu es sur le campus, et donne de la naloxone si tu en as et que tu es formé. La loi du Bon Samaritain protège les gens qui demandent de l'aide lors d'une surdose. La naloxone est gratuite dans la plupart des pharmacies, et si tu consommes seul, le service NORS au 1-888-688-6677 peut appeler les secours pour toi.",
+      "en": "Call 911 right away, or Protection Services if you're on campus, and give naloxone if you have it and are trained. The Good Samaritan Drug Overdose Act protects people who call for help during an overdose. Naloxone is free at most pharmacies, and if you use alone, the NORS line at 1-888-688-6677 can call for help for you."
+    },
+    "sources": [
+      {
+        "label": "Harm reduction — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/health-promotion/harm-reduction"
+      },
+      {
+        "label": "Réduction des méfaits — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/promotion-sante/reduction-mefaits"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-intoxication-alcool",
+    "category": "sante",
+    "keywords": [
+      "intoxication alcool",
+      "alcohol poisoning",
+      "trop bu",
+      "drank too much",
+      "coma éthylique",
+      "ami saoul",
+      "drunk friend",
+      "position latérale",
+      "recovery position",
+      "party safe",
+      "fête sécuritaire"
+    ],
+    "question": {
+      "fr": "Mon ami a trop bu et ne va pas bien : que faire ?",
+      "en": "My friend drank too much and isn't okay: what should I do?"
+    },
+    "answer": {
+      "fr": "Si la personne respire lentement ou irrégulièrement, a la peau froide ou pâle ou perd conscience, appelle le 911 immédiatement, ou le Service de la protection sur le campus au 613-562-5411. Ne la laisse jamais seule. Si elle est inconsciente mais respire, couche-la sur le côté en position latérale de sécurité.",
+      "en": "If the person has slow or irregular breathing, cold or pale skin, or loses consciousness, call 911 immediately, or Protection Services on campus at 613-562-5411. Never leave them alone. If they're unconscious but breathing, roll them onto their side into the recovery position."
+    },
+    "sources": [
+      {
+        "label": "Harm reduction — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/health-promotion/harm-reduction"
+      },
+      {
+        "label": "Réduction des méfaits — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/promotion-sante/reduction-mefaits"
+      },
+      {
+        "label": "Emergency — uOttawa",
+        "url": "https://www.uottawa.ca/en/emergency"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-salles-priere",
+    "category": "services",
+    "keywords": [
+      "salle de prière",
+      "prayer room",
+      "prier",
+      "pray",
+      "méditation",
+      "meditation",
+      "salle multiconfessionnelle",
+      "multifaith room",
+      "musalla",
+      "salat",
+      "namaz",
+      "où prier"
+    ],
+    "question": {
+      "fr": "Où puis-je prier ou méditer sur le campus ?",
+      "en": "Where can I pray or meditate on campus?"
+    },
+    "answer": {
+      "fr": "Il y a des salles multiconfessionnelles de prière et de méditation ouvertes à tous : au Centre universitaire, local 107, près de la cafétéria; au pavillon Colonel-By, local B506; au pavillon Roger-Guindon, local 2529; et au 200 Lees, local LEE 309. Elles ne se réservent pas et sont accessibles pendant les heures d'ouverture des pavillons.",
+      "en": "There are multifaith prayer and meditation rooms open to everyone: University Centre room 107, near the cafeteria; Colonel By Hall room B506; Roger Guindon Hall room 2529; and 200 Lees, room LEE 309. They can't be booked and are open during building hours."
+    },
+    "sources": [
+      {
+        "label": "Multifaith chaplaincy services — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/multi-faith-chaplaincy-services"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-frigo-communautaire",
+    "category": "services",
+    "keywords": [
+      "frigo communautaire",
+      "community fridge",
+      "nourriture gratuite",
+      "free food",
+      "repas gratuit",
+      "free meal",
+      "faim",
+      "hungry",
+      "pas d'argent pour manger",
+      "can't afford food"
+    ],
+    "question": {
+      "fr": "Y a-t-il un frigo communautaire sur le campus ?",
+      "en": "Is there a community fridge on campus?"
+    },
+    "answer": {
+      "fr": "Oui, le Salon du mieux-être du Centre universitaire a un frigo communautaire avec des aliments emballés gratuits, proches ou juste passés leur date meilleur avant mais encore sécuritaires. Demande à un bénévole du salon de regarder dans le frigo; le contenu varie beaucoup.",
+      "en": "Yes, the Wellness Lounge in the University Centre has a community fridge with free prepackaged food that's near or just past its best-before date but still safe. Ask a Wellness Lounge volunteer to check the fridge; contents vary a lot."
+    },
+    "sources": [
+      {
+        "label": "Food Support Hub — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-banques-alimentaires-quartier",
+    "category": "services",
+    "keywords": [
+      "banque alimentaire quartier",
+      "food bank near me",
+      "côte-de-sable",
+      "sandy hill",
+      "st. joe's",
+      "partage vanier",
+      "211",
+      "banque alimentaire ottawa",
+      "ottawa food bank",
+      "moisson outaouais",
+      "aide alimentaire"
+    ],
+    "question": {
+      "fr": "Y a-t-il des banques alimentaires près du campus, en dehors de l'Université ?",
+      "en": "Are there food banks near campus, outside the University?"
+    },
+    "answer": {
+      "fr": "Oui. Pour trouver une aide alimentaire à Ottawa, va sur la page Obtenir de l'aide de la Banque d'alimentation d'Ottawa et entre ton code postal, ou compose le 211; à Gatineau, consulte Moisson Outaouais au 819-669-2000. Près du campus, la banque alimentaire St. Joe's sert les résidents de la Côte-de-Sable, sur rendez-vous au 613-233-4095, poste 252, avec une pièce d'identité et une preuve d'adresse.",
+      "en": "Yes. To find food help in Ottawa, use the Ottawa Food Bank's Get Help page with your postal code, or dial 211; in Gatineau, check Moisson Outaouais at 819-669-2000. Near campus, St. Joe's Foodbank serves Sandy Hill residents, by appointment at 613-233-4095 ext. 252, with ID and proof of address."
+    },
+    "sources": [
+      {
+        "label": "Food Support Hub — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-rabais-epicerie-etudiants",
+    "category": "services",
+    "keywords": [
+      "rabais étudiant épicerie",
+      "student grocery discount",
+      "metro rideau",
+      "loblaws",
+      "pc optimum",
+      "bulk barn",
+      "épicerie pas chère",
+      "cheap groceries",
+      "too good to go",
+      "économiser nourriture"
+    ],
+    "question": {
+      "fr": "Y a-t-il des rabais étudiants à l'épicerie près du campus ?",
+      "en": "Are there student grocery discounts near campus?"
+    },
+    "answer": {
+      "fr": "Oui. Le Metro de la rue Rideau donne 10 % de rabais sur présentation d'une carte étudiante valide, et le Loblaws de la rue Rideau te remet 10 % de tes achats en points PC Optimum. Bulk Barn offre 15 % aux étudiants le mercredi. L'application Too Good To Go permet aussi d'acheter des surplus de restaurants à prix réduit.",
+      "en": "Yes. Metro on Rideau Street gives 10% off with a valid student card, and Loblaws on Rideau gives 10% of your purchase back in PC Optimum points. Bulk Barn offers 15% to students on Wednesdays. The Too Good To Go app also sells restaurant surplus at a discount."
+    },
+    "sources": [
+      {
+        "label": "Food Support Hub — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-soupe-bannique",
+    "category": "services",
+    "keywords": [
+      "soupe et bannique",
+      "soup and bannock",
+      "mashkawazìwogamig",
+      "centre autochtone repas",
+      "indigenous centre food",
+      "repas autochtone",
+      "dîner gratuit jeudi",
+      "free lunch thursday",
+      "repas communautaire",
+      "community meal"
+    ],
+    "question": {
+      "fr": "Le Centre de ressources autochtones offre-t-il des repas ?",
+      "en": "Does the Indigenous Resource Centre offer meals?"
+    },
+    "answer": {
+      "fr": "Oui, le Centre de ressources autochtones Mashkawazìwogamig, au 145 Séraphin-Marion, sert un dîner soupe et bannique le jeudi, de septembre à avril, ouvert à tous les étudiants. Il offre aussi, un mardi sur deux, un brunch ou un bar à pizza pour les étudiants autochtones, avec une cuisine et un garde-manger bien garnis.",
+      "en": "Yes, the Mashkawazìwogamig Indigenous Resource Centre, at 145 Séraphin Marion, serves a soup and bannock lunch on Thursdays, September to April, open to all students. Every other Tuesday it also offers a brunch or pizza bar for Indigenous students, with a fully stocked kitchen and pantry."
+    },
+    "sources": [
+      {
+        "label": "Food Support Hub — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-jardins-communautaires",
+    "category": "services",
+    "keywords": [
+      "jardin communautaire",
+      "community garden",
+      "jardinage",
+      "gardening",
+      "parcelle",
+      "garden plot",
+      "cultiver légumes",
+      "grow vegetables",
+      "paysage comestible",
+      "edible landscape"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux avoir un jardin sur le campus ?",
+      "en": "Can I get a garden plot on campus?"
+    },
+    "answer": {
+      "fr": "Oui, des parcelles de jardins communautaires sont offertes à la communauté uOttawa, de la fin mai à octobre, sur l'avenue King-Edward et ailleurs sur le campus. Remplis le formulaire de liste d'attente; les personnes retenues sont contactées à la mi-mars. Il y a aussi des arbustes et arbres fruitiers en libre cueillette près du pavillon Lamoureux et de la bibliothèque Morisset.",
+      "en": "Yes, community garden plots are available to the uOttawa community, late May to October, on King Edward Avenue and elsewhere on campus. Fill out the waitlist form; successful applicants are contacted in mid-March. There are also fruit bushes and trees to pick freely near Lamoureux Hall and Morisset Library."
+    },
+    "sources": [
+      {
+        "label": "Food Support Hub — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-free-food-alert",
+    "category": "services",
+    "keywords": [
+      "free food alert",
+      "restes d'événements",
+      "leftover food",
+      "application nourriture gratuite",
+      "free food app",
+      "surplus nourriture",
+      "bouffe gratuite",
+      "free pizza",
+      "alerte nourriture"
+    ],
+    "question": {
+      "fr": "Y a-t-il une appli pour savoir quand il reste de la nourriture gratuite après un événement ?",
+      "en": "Is there an app that tells me when free food is left over after an event?"
+    },
+    "answer": {
+      "fr": "Oui, avec l'application Free Food Alert, les organisateurs d'événements sur le campus avisent les abonnés quand il reste de la nourriture à ramasser. Il n'y a pas d'horaire fixe : les alertes arrivent selon les événements, à divers endroits du campus.",
+      "en": "Yes, with the Free Food Alert app, campus event hosts notify subscribers when leftover food is available for pickup. There's no set schedule: alerts come as events happen, at various campus locations."
+    },
+    "sources": [
+      {
+        "label": "Food Support Hub — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-frais-inscription-centre-sante",
+    "category": "sante",
+    "keywords": [
+      "frais d'inscription centre de santé",
+      "enrolment fee",
+      "31,50",
+      "pas payé frais santé",
+      "frais accessoires santé",
+      "health fee not paid",
+      "session d'été clinique",
+      "summer clinic access",
+      "accès centre santé",
+      "csme frais"
+    ],
+    "question": {
+      "fr": "Je n'ai pas payé les frais de santé ce trimestre : puis-je quand même aller au Centre de santé ?",
+      "en": "I didn't pay the health fee this term: can I still use the Health Centre?"
+    },
+    "answer": {
+      "fr": "Oui, si tu étais inscrit au trimestre précédent ou si tu es inscrit au prochain, tu peux payer directement au Centre des frais d'inscription de 31,50 $ par trimestre. Le fait d'être à temps plein ou à temps partiel ne change rien à ton admissibilité. Apporte ta carte étudiante et ta carte santé ou ton numéro RAMU.",
+      "en": "Yes, if you were enrolled last term or are enrolled for the next one, you can pay the Centre's enrolment fee of $31.50 per term directly. Full-time or part-time status doesn't affect eligibility. Bring your student card and your health card or UHIP number."
+    },
+    "sources": [
+      {
+        "label": "Student eligibility for services — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/student-eligibility-services"
+      },
+      {
+        "label": "List of fees not covered — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/fees-not-covered"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-rdv-manque-frais",
+    "category": "sante",
+    "keywords": [
+      "rendez-vous manqué",
+      "missed appointment",
+      "annuler rendez-vous",
+      "cancel appointment",
+      "frais d'annulation",
+      "cancellation fee",
+      "24 heures",
+      "no show",
+      "oublié mon rendez-vous",
+      "forgot appointment"
+    ],
+    "question": {
+      "fr": "Que se passe-t-il si je manque mon rendez-vous au Centre de santé ?",
+      "en": "What happens if I miss my appointment at the Health Centre?"
+    },
+    "answer": {
+      "fr": "Un rendez-vous manqué ou annulé moins de 24 heures à l'avance est facturé : 30 $ par tranche de 15 minutes pour un rendez-vous médical, et 30 $ pour la psychothérapie, la psychologie ou la gestion de cas. Si tu ne peux pas y aller, appelle tout de suite au 613-562-5777 pour libérer la place pour un autre étudiant.",
+      "en": "A missed appointment, or one cancelled less than 24 hours ahead, is charged: $30 per 15 minutes for a medical appointment, and $30 for psychotherapy, psychology or case management. If you can't make it, call 613-562-5777 right away to free the slot for another student."
+    },
+    "sources": [
+      {
+        "label": "Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+      },
+      {
+        "label": "Centre de santé et mieux-être étudiant — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/centre-sante-mieux-etre-etudiant"
+      },
+      {
+        "label": "List of fees not covered — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/fees-not-covered"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-sante-mentale-facturation-assurance",
+    "category": "sante",
+    "keywords": [
+      "facturation assurance santé mentale",
+      "mental health billing",
+      "assurance privée psychothérapie",
+      "private insurance therapy",
+      "payer psy",
+      "pay for therapy",
+      "plafond assurance",
+      "coverage limit",
+      "telus collaborative health record",
+      "consentement assurance"
+    ],
+    "question": {
+      "fr": "Est-ce que je dois payer mes rendez-vous de santé mentale au Centre de santé ?",
+      "en": "Do I have to pay for mental health appointments at the Health Centre?"
+    },
+    "answer": {
+      "fr": "Non, tu ne paies rien de ta poche. Le premier rendez-vous d'accueil est couvert par le Centre; pour les suivis, le Centre facture directement ton assurance privée après ton consentement dans un questionnaire en ligne, et il absorbe la différence si ton assurance ne couvre pas tout, même si tu as atteint ton plafond annuel.",
+      "en": "No, you pay nothing out of pocket. The first intake appointment is covered by the Centre; for follow-ups, the Centre bills your private insurance directly after you consent in an online questionnaire, and it absorbs the difference if your insurance doesn't cover everything, even if you've hit your annual limit."
+    },
+    "sources": [
+      {
+        "label": "Billing at the Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/billing-private-insurance-companies-mental-health-services"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-sante-mentale-sans-partager-assurance",
+    "category": "sante",
+    "keywords": [
+      "refuser partager assurance",
+      "opt out insurance sharing",
+      "tarif psychothérapie",
+      "psychotherapy fee",
+      "180 $",
+      "225 $",
+      "coût psychologue",
+      "psychologist cost",
+      "sans assurance",
+      "no insurance"
+    ],
+    "question": {
+      "fr": "Que se passe-t-il si je refuse de partager mon assurance pour la santé mentale ?",
+      "en": "What if I don't want to share my insurance for mental health services?"
+    },
+    "answer": {
+      "fr": "Tu peux choisir de ne pas partager tes renseignements d'assurance, mais les services de suivi te sont alors facturés : 180 $ pour une séance de psychothérapie ou de gestion de cas de 50 minutes, et 225 $ pour une séance avec une psychologue. Le premier rendez-vous d'accueil reste couvert par le Centre.",
+      "en": "You can choose not to share your insurance information, but follow-up services are then charged to you: $180 for a 50-minute psychotherapy or case management session, and $225 for a session with a psychologist. The first intake appointment is still covered by the Centre."
+    },
+    "sources": [
+      {
+        "label": "Billing at the Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/billing-private-insurance-companies-mental-health-services"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-services-medicaux-csme",
+    "category": "sante",
+    "keywords": [
+      "services médicaux",
+      "medical services",
+      "prise de sang",
+      "bloodwork",
+      "test tuberculose",
+      "tb test",
+      "stérilet",
+      "iud",
+      "dépistage cancer col",
+      "pap test",
+      "renouvellement ordonnance",
+      "prescription renewal"
+    ],
+    "question": {
+      "fr": "Quels soins médicaux puis-je recevoir au Centre de santé et mieux-être ?",
+      "en": "What medical care can I get at the Student Health and Wellness Centre?"
+    },
+    "answer": {
+      "fr": "Les médecins et infirmières offrent sur rendez-vous des injections, des prises de sang, le renouvellement d'ordonnances, le dépistage des maladies transmissibles, le test VPH pour le dépistage du cancer du col, et la consultation et la pose de stérilet. Le test de dépistage de la tuberculose est gratuit. Garde ta carte santé, ou ton numéro RAMU, et ta carte étudiante.",
+      "en": "Doctors and nurses offer, by appointment, injections, bloodwork, prescription renewals, communicable disease screening, HPV testing for cervical cancer screening, and IUD consultation and insertion. Tuberculosis testing is free. Have your health card, or UHIP number, and your student card handy."
+    },
+    "sources": [
+      {
+        "label": "Medical health care, Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/physical-health"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-medecin-famille-ailleurs",
+    "category": "sante",
+    "keywords": [
+      "médecin de famille",
+      "family doctor",
+      "déjà un médecin",
+      "already have a doctor",
+      "médecin chez moi",
+      "doctor back home",
+      "équipe de santé familiale",
+      "family health team",
+      "utiliser centre santé",
+      "can i use the clinic"
+    ],
+    "question": {
+      "fr": "J'ai déjà un médecin de famille ailleurs : puis-je quand même utiliser le Centre de santé ?",
+      "en": "I already have a family doctor elsewhere: can I still use the Health Centre?"
+    },
+    "answer": {
+      "fr": "Oui. Si tu es inscrit à l'Université d'Ottawa ou à l'Université Saint-Paul, tu as accès au Centre même si tu as un médecin de famille ou une équipe de santé familiale ailleurs. Par contre, les membres de ta famille et les diplômés ne peuvent pas utiliser le Centre.",
+      "en": "Yes. If you're enrolled at the University of Ottawa or Saint Paul University, you can use the Centre even if you have a family doctor or family health team elsewhere. However, your family members and alumni can't use the Centre."
+    },
+    "sources": [
+      {
+        "label": "FAQ, Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-psychiatre-psychologue-campus",
+    "category": "sante",
+    "keywords": [
+      "psychiatre",
+      "psychiatrist",
+      "psychologue",
+      "psychologist",
+      "diagnostic",
+      "diagnosis",
+      "médicaments santé mentale",
+      "medication",
+      "évaluation tdah",
+      "temps d'attente psychologue",
+      "référence psychologue"
+    ],
+    "question": {
+      "fr": "Peut-on voir un psychiatre ou un psychologue au Centre de santé ?",
+      "en": "Can I see a psychiatrist or psychologist at the Health Centre?"
+    },
+    "answer": {
+      "fr": "Oui, l'équipe élargie compte une psychologue et des psychiatres pour le diagnostic et le suivi, et le psychiatre peut prescrire des médicaments. Les rendez-vous avec la psychologue se font seulement sur référence d'un professionnel de la santé, et l'attente est actuellement de 8 mois ou plus. Commence par un rendez-vous d'accueil en santé mentale.",
+      "en": "Yes, the extended team includes a psychologist and psychiatrists for diagnosis and follow-up, and the psychiatrist can prescribe medication. Psychologist appointments are by referral from a health professional only, and the wait is currently 8 months or more. Start with a mental health intake appointment."
+    },
+    "sources": [
+      {
+        "label": "FAQ, Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+      },
+      {
+        "label": "Understanding wait times — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/understanding-wait-times"
+      },
+      {
+        "label": "Comprendre les temps d'attente — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/comprendre-temps-attente"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-saint-paul-sante-mentale",
+    "category": "sante",
+    "keywords": [
+      "université saint-paul",
+      "saint paul university",
+      "usp",
+      "étudiant saint-paul",
+      "counselling saint-paul",
+      "santé mentale saint-paul",
+      "spu student",
+      "centre de counselling saint-paul"
+    ],
+    "question": {
+      "fr": "Je suis étudiant à l'Université Saint-Paul : ai-je accès à tous les services du Centre de santé ?",
+      "en": "I'm a Saint Paul University student: can I use all Health Centre services?"
+    },
+    "answer": {
+      "fr": "Tu as accès aux services médicaux du Centre de santé et mieux-être, mais pas à ses services de santé mentale. Pour la santé mentale, adresse-toi au Centre de counselling et de psychothérapie de l'Université Saint-Paul.",
+      "en": "You can use the Student Health and Wellness Centre's medical services, but not its mental health services. For mental health, go to the Saint Paul University Counselling and Psychotherapy Centre."
+    },
+    "sources": [
+      {
+        "label": "Student eligibility for services — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/student-eligibility-services"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-rdv-virtuel-hors-ontario",
+    "category": "sante",
+    "keywords": [
+      "rendez-vous virtuel",
+      "virtual appointment",
+      "télésanté",
+      "telehealth",
+      "hors ontario",
+      "outside ontario",
+      "chez mes parents",
+      "at home with parents",
+      "vacances",
+      "consultation à distance"
+    ],
+    "question": {
+      "fr": "Puis-je avoir un rendez-vous virtuel au Centre de santé si je ne suis pas à Ottawa ?",
+      "en": "Can I have a virtual Health Centre appointment if I'm not in Ottawa?"
+    },
+    "answer": {
+      "fr": "Ça dépend où tu te trouves. Pour un rendez-vous médical virtuel, tu dois être au Canada, à la discrétion du professionnel. Pour un rendez-vous virtuel en santé mentale, tu dois être en Ontario ou dans la région de la capitale nationale.",
+      "en": "It depends where you are. For a virtual medical appointment, you must be in Canada, at the provider's discretion. For a virtual mental health appointment, you must be in Ontario or the National Capital Region."
+    },
+    "sources": [
+      {
+        "label": "Student eligibility for services — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/student-eligibility-services"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-dossier-medical-copie",
+    "category": "sante",
+    "keywords": [
+      "dossier médical",
+      "medical record",
+      "copie dossier",
+      "copy of my file",
+      "résultats",
+      "transfert dossier",
+      "record transfer",
+      "renseignements de santé",
+      "health information",
+      "verrouiller dossier"
+    ],
+    "question": {
+      "fr": "Comment obtenir une copie de mon dossier médical du Centre de santé ?",
+      "en": "How do I get a copy of my medical record from the Health Centre?"
+    },
+    "answer": {
+      "fr": "Pour demander une copie de ton dossier médical, pour toi ou pour un autre professionnel de la santé, ou pour le faire verrouiller ou modifier, écris au Centre de santé et mieux-être par courriel ou appelle au 613-562-5777. Des frais de 30 $ peuvent s'appliquer pour la transmission d'un dossier.",
+      "en": "To request a copy of your medical record, for yourself or another health practitioner, or to have it locked or changed, email the Student Health and Wellness Centre or call 613-562-5777. A $30 chart release fee may apply."
+    },
+    "sources": [
+      {
+        "label": "Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+      },
+      {
+        "label": "Centre de santé et mieux-être étudiant — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/centre-sante-mieux-etre-etudiant"
+      },
+      {
+        "label": "List of fees not covered — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/fees-not-covered"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-tao-autoassistance",
+    "category": "sante",
+    "keywords": [
+      "tao",
+      "autoassistance",
+      "self-help",
+      "modules en ligne",
+      "online modules",
+      "anxiété en ligne",
+      "pleine conscience",
+      "mindfulness",
+      "gérer stress",
+      "manage stress",
+      "application gratuite"
+    ],
+    "question": {
+      "fr": "Y a-t-il des outils en ligne gratuits pour gérer mon anxiété ou mon humeur ?",
+      "en": "Are there free online tools to manage anxiety or mood?"
+    },
+    "answer": {
+      "fr": "Oui, TAO Autoassistance est gratuit pour tous les étudiants et employés, sans rendez-vous. Inscris-toi sur la page TAO avec ton courriel uOttawa et laisse vide le champ de clé d'inscription. Tu y trouves des parcours sur l'inquiétude, la résilience, les relations et l'humeur, ainsi qu'une bibliothèque de pleine conscience.",
+      "en": "Yes, TAO Self-Help is free for all students and employees, no appointment needed. Sign up on the TAO page with your uOttawa email and leave the enrollment key field blank. It offers pathways on worry, resilience, relationships and mood, plus a mindfulness library."
+    },
+    "sources": [
+      {
+        "label": "Online support — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/mental-health-counselling/online-support"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-appli-uowellness",
+    "category": "sante",
+    "keywords": [
+      "uowellness",
+      "appli mieux-être",
+      "wellness app",
+      "application santé",
+      "points",
+      "prix",
+      "prizes",
+      "bourse 1000",
+      "pair aidant appli",
+      "événements mieux-être"
+    ],
+    "question": {
+      "fr": "C'est quoi l'application uoWellness ?",
+      "en": "What is the uoWellness app?"
+    },
+    "answer": {
+      "fr": "C'est une application de mieux-être conçue par des étudiants, offerte sur iOS et Android. Elle propose des conseils, des outils d'autoassistance en santé mentale, un lien avec un pair aidant et le calendrier des événements. En jouant chaque jour, tu accumules des points; à partir de 100 points, tu participes aux tirages, dont une bourse de 1 000 $.",
+      "en": "It's a wellness app designed by students, available on iOS and Android. It offers tips, mental health self-help tools, a link to a peer wellness helper and the events calendar. Daily games earn points; with at least 100 points you enter the draws, including a $1,000 scholarship."
+    },
+    "sources": [
+      {
+        "label": "uoWellness — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/uowellness"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-vaccin-vph-clinique",
+    "category": "sante",
+    "keywords": [
+      "vph",
+      "hpv",
+      "gardasil",
+      "vaccin vph",
+      "hpv vaccine",
+      "clinique de vaccination",
+      "vaccination clinic",
+      "verrues génitales",
+      "cancer col",
+      "assurance vaccin"
+    ],
+    "question": {
+      "fr": "Comment me faire vacciner contre le VPH sur le campus ?",
+      "en": "How can I get the HPV vaccine on campus?"
+    },
+    "answer": {
+      "fr": "Le Centre de santé organise des cliniques de vaccination contre le VPH au Salon du mieux-être, local UCU 203. Réserve par le portail Web ou l'application TELUS Santé Connect en choisissant la clinique de vaccination, et arrive 15 minutes d'avance. Si le vaccin n'est pas couvert par la province, tu le paies, mais beaucoup d'assurances complémentaires remboursent environ 80 % sur présentation du reçu.",
+      "en": "The Health Centre runs HPV vaccination clinics at the Wellness Lounge, room UCU 203. Book through the web portal or the TELUS Health Connect app by choosing the vaccination clinic, and arrive 15 minutes early. If the vaccine isn't provincially covered you pay for it, but many supplementary plans reimburse about 80% with your receipt."
+    },
+    "sources": [
+      {
+        "label": "HPV — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/human-papillomavirus"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-ou-aller-811",
+    "category": "sante",
+    "keywords": [
+      "811",
+      "santé ontario",
+      "health connect ontario",
+      "parler à une infirmière",
+      "talk to a nurse",
+      "où aller",
+      "where to go",
+      "clinique sans rendez-vous",
+      "walk-in clinic",
+      "urgence ou clinique"
+    ],
+    "question": {
+      "fr": "Je suis malade et je ne sais pas où aller. Qui peut me conseiller ?",
+      "en": "I'm sick and don't know where to go. Who can advise me?"
+    },
+    "answer": {
+      "fr": "Appelle Health Connect Ontario au 8-1-1 pour parler à une infirmière qui t'orientera vers le bon service. Si tu as de la difficulté à respirer, une douleur à la poitrine qui ne passe pas, de la confusion ou la peau ou les lèvres bleutées, appelle le 911, ou le Service de la protection au 613-562-5411 sur le campus.",
+      "en": "Call Health Connect Ontario at 8-1-1 to speak with a nurse who will direct you to the right service. If you have trouble breathing, ongoing chest pain, confusion, or bluish skin or lips, call 911, or Protection Services at 613-562-5411 on campus."
+    },
+    "sources": [
+      {
+        "label": "Health care — Where and When — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-when-and-where"
+      },
+      {
+        "label": "Soins de santé, où et quand — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/soins-de-sante-ou-et-quand"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-urgence-ou-clinique",
+    "category": "sante",
+    "keywords": [
+      "urgence hôpital",
+      "emergency room",
+      "quand aller à l'urgence",
+      "when to go to er",
+      "fièvre",
+      "fever",
+      "douleur poitrine",
+      "chest pain",
+      "points de suture",
+      "stitches",
+      "clinique sans rendez-vous"
+    ],
+    "question": {
+      "fr": "Comment savoir si je dois aller à l'urgence ou dans une clinique sans rendez-vous ?",
+      "en": "How do I know whether to go to the ER or a walk-in clinic?"
+    },
+    "answer": {
+      "fr": "Va à l'urgence ou appelle le 911 pour une douleur à la poitrine, une fièvre de 39 degrés ou plus, une forte difficulté à respirer, des vomissements de sang ou un mal de tête soudain et intense. Pour une petite coupure qui saigne encore après 10 à 15 minutes de pression, va dans une clinique dans les 12 heures. Pour une infection urinaire légère, une clinique ou une clinique de santé sexuelle dans les 24 à 48 heures suffit.",
+      "en": "Go to the ER or call 911 for chest pain, a fever of 39 degrees or more, severe trouble breathing, vomiting blood or a sudden, severe headache. For a small cut still bleeding after 10 to 15 minutes of pressure, go to a clinic within 12 hours. For a mild urinary tract infection, a walk-in or sexual health clinic within 24 to 48 hours is fine."
+    },
+    "sources": [
+      {
+        "label": "Health care — Where and When — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-when-and-where"
+      },
+      {
+        "label": "Soins de santé, où et quand — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/soins-de-sante-ou-et-quand"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-attente-urgence-hopital",
+    "category": "sante",
+    "keywords": [
+      "attente urgence",
+      "er wait time",
+      "temps d'attente hôpital",
+      "hospital wait",
+      "irm",
+      "mri",
+      "scan",
+      "spécialiste attente",
+      "specialist wait",
+      "liste d'attente"
+    ],
+    "question": {
+      "fr": "Combien de temps attend-on à l'urgence ou pour voir un spécialiste à Ottawa ?",
+      "en": "How long are waits at the ER or to see a specialist in Ottawa?"
+    },
+    "answer": {
+      "fr": "Selon la page de l'Université, tu peux attendre 5 heures ou plus avant d'être évalué à l'urgence, de 4 jours à 4 mois pour une IRM, et jusqu'à 5 mois ou plus pour un spécialiste ou une chirurgie. Pour réduire l'attente, demande s'il y a une liste d'annulation ou des rendez-vous de soir et de fin de semaine.",
+      "en": "According to the University's page, you may wait 5 hours or more to be assessed in the ER, 4 days to 4 months for an MRI, and up to 5 months or more for a specialist or surgery. To shorten waits, ask about a cancellation list or evening and weekend appointments."
+    },
+    "sources": [
+      {
+        "label": "Understanding wait times — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/understanding-wait-times"
+      },
+      {
+        "label": "Comprendre les temps d'attente — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/comprendre-temps-attente"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-rdv-psy-site-satellite",
+    "category": "sante",
+    "keywords": [
+      "site satellite",
+      "satellite location",
+      "où est mon rendez-vous",
+      "where is my appointment",
+      "ucu 312",
+      "fss 3033",
+      "desmarais 1100",
+      "fauteux 237",
+      "rendez-vous psychothérapie lieu",
+      "therapy appointment location"
+    ],
+    "question": {
+      "fr": "Mon rendez-vous de psychothérapie n'est pas au Complexe Minto : où dois-je aller ?",
+      "en": "My psychotherapy appointment isn't at the Minto Complex: where do I go?"
+    },
+    "answer": {
+      "fr": "Certains rendez-vous en personne ont lieu dans un site satellite; vérifie l'endroit dans ton courriel de confirmation. Les sites sont le Centre universitaire, local 312 au 3e étage, le pavillon des Sciences sociales, local 3033 par la porte 3001, le pavillon Fauteux à la réception du local 237, et le pavillon Desmarais, au Centre de services aux étudiants, local 1100.",
+      "en": "Some in-person appointments are at a satellite location; check your confirmation email. The sites are the University Centre, room 312 on the 3rd floor, the Social Sciences Building, room 3033 through door 3001, Fauteux Hall at the room 237 reception, and Desmarais Hall at the Student Service Centre, room 1100."
+    },
+    "sources": [
+      {
+        "label": "Psychotherapy and Mental Health Services Satellite Locations — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/psychotherapy-mental-health-services-satellite-locations"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-psychotherapie-gratuite-communaute",
+    "category": "sante",
+    "keywords": [
+      "psychothérapie sans rendez-vous",
+      "walk-in therapy",
+      "psychotherapy connect",
+      "thérapie même jour",
+      "same-day therapy",
+      "clinique sans rendez-vous psy",
+      "gratuit ottawa",
+      "free therapy ottawa",
+      "pas de liste d'attente",
+      "no waitlist"
+    ],
+    "question": {
+      "fr": "Y a-t-il de la psychothérapie gratuite et rapide à Ottawa, en dehors du campus ?",
+      "en": "Is there free, fast psychotherapy in Ottawa off campus?"
+    },
+    "answer": {
+      "fr": "Oui. Psychotherapy Connect offre gratuitement une séance par téléphone ou vidéo le jour même ou le lendemain, sans liste d'attente. La clinique de psychothérapie sans rendez-vous offre aussi des séances gratuites le jour même, en plusieurs langues et à distance.",
+      "en": "Yes. Psychotherapy Connect offers a free same-day or next-day phone or video session, with no waitlist. The Walk-in Psychotherapy Clinic also offers free same-day sessions, in several languages and remotely."
+    },
+    "sources": [
+      {
+        "label": "Community resources (off-campus) — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/community-resources"
+      },
+      {
+        "label": "Ressources dans la communauté — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/ressources-communaute"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-trouver-psychologue-prive",
+    "category": "sante",
+    "keywords": [
+      "psychologue privé",
+      "private psychologist",
+      "psychothérapeute privé",
+      "private therapist",
+      "assurance psy",
+      "therapy coverage",
+      "remboursement psychologue",
+      "reimbursement",
+      "ordre des psychologues",
+      "college of psychologists"
+    ],
+    "question": {
+      "fr": "Comment trouver un psychologue ou un psychothérapeute au privé ?",
+      "en": "How do I find a private psychologist or psychotherapist?"
+    },
+    "answer": {
+      "fr": "D'abord, vérifie ta couverture : les régimes de santé du SÉUO et de la GSAÉD remboursent une partie des honoraires de psychologue, jusqu'à un maximum annuel. Ensuite, cherche un professionnel inscrit auprès de l'ordre professionnel, par exemple l'ordre des psychologues et analystes du comportement de l'Ontario, l'ordre des psychothérapeutes autorisés de l'Ontario ou, au Québec, l'Ordre des psychologues du Québec.",
+      "en": "First, check your coverage: the UOSU and GSAÉD health plans reimburse part of psychologist fees, up to an annual maximum. Then look for a registered professional through the regulatory college, for example the College of Psychologists of Ontario, the College of Registered Psychotherapists of Ontario or, in Quebec, the Ordre des psychologues du Québec."
+    },
+    "sources": [
+      {
+        "label": "Community resources (off-campus) — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/community-resources"
+      },
+      {
+        "label": "Ressources dans la communauté — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/ressources-communaute"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-trouver-medecin-famille",
+    "category": "sante",
+    "keywords": [
+      "trouver médecin de famille",
+      "find a family doctor",
+      "accès soins",
+      "health care connect",
+      "nouveau patient",
+      "new patient",
+      "infirmière praticienne",
+      "nurse practitioner",
+      "pas de médecin",
+      "no doctor"
+    ],
+    "question": {
+      "fr": "Comment trouver un médecin de famille à Ottawa ?",
+      "en": "How do I find a family doctor in Ottawa?"
+    },
+    "answer": {
+      "fr": "Inscris-toi tôt au programme Health Care Connect pour qu'une infirmière te trouve un médecin ou une infirmière praticienne qui accepte de nouveaux patients, car les listes sont longues. Tu peux aussi chercher avec l'outil de l'Ordre des médecins et chirurgiens de l'Ontario. En attendant, le Centre de santé et mieux-être du campus est là pour toi.",
+      "en": "Register early with Health Care Connect so a nurse can find you a doctor or nurse practitioner accepting new patients, since waitlists are long. You can also search with the College of Physicians and Surgeons of Ontario tool. In the meantime, the campus Student Health and Wellness Centre is there for you."
+    },
+    "sources": [
+      {
+        "label": "Health care providers 101 — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-providers"
+      },
+      {
+        "label": "Prestataires de soins de santé — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/prestataires-soins-sante"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-ligne-dependances",
+    "category": "sante",
+    "keywords": [
+      "dépendance",
+      "addiction",
+      "drogue",
+      "drugs",
+      "alcool",
+      "alcohol",
+      "jeu",
+      "gambling",
+      "connexontario",
+      "consommation",
+      "substance use",
+      "aide dépendance"
+    ],
+    "question": {
+      "fr": "Où trouver de l'aide pour une dépendance à l'alcool, aux drogues ou au jeu ?",
+      "en": "Where can I get help for an alcohol, drug or gambling addiction?"
+    },
+    "answer": {
+      "fr": "ConnexOntario, la ligne d'aide sur les drogues, l'alcool et le jeu, répond en français et en anglais au 1-866-531-2600. Le programme de toxicomanie et troubles concomitants du Royal répond au 613-722-6521, poste 6224. Tu peux aussi en parler au Centre de santé et mieux-être du campus au 613-562-5777.",
+      "en": "ConnexOntario, the drug, alcohol and gambling helpline, answers in English and French at 1-866-531-2600. The Royal's Substance Use and Concurrent Disorders Program is at 613-722-6521 ext. 6224. You can also talk to the campus Student Health and Wellness Centre at 613-562-5777."
+    },
+    "sources": [
+      {
+        "label": "Community resources (off-campus) — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/community-resources"
+      },
+      {
+        "label": "Ressources dans la communauté — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/ressources-communaute"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-frais-sante-accessoires",
+    "category": "sante",
+    "keywords": [
+      "frais accessoires santé",
+      "health ancillary fee",
+      "frais de santé",
+      "health fee",
+      "référendum santé",
+      "referendum",
+      "combien je paie santé",
+      "30,88",
+      "frais par trimestre",
+      "ancillary fees"
+    ],
+    "question": {
+      "fr": "Combien est-ce que je paie en frais de santé à l'Université ?",
+      "en": "How much do I pay in health fees at the University?"
+    },
+    "answer": {
+      "fr": "Les frais accessoires de santé par trimestre sont d'environ 30,88 $ pour un étudiant de premier cycle à temps plein et 21,59 $ aux cycles supérieurs à temps plein, les plus bas en Ontario. Un référendum pour les augmenter a eu lieu en mars 2026, mais il n'a pas passé : les frais restent les mêmes, ajustés chaque année selon l'indice des prix.",
+      "en": "Health ancillary fees per term are about $30.88 for a full-time undergrad and $21.59 for a full-time grad student, the lowest in Ontario. A referendum to raise them was held in March 2026 but didn't pass: fees stay the same, adjusted yearly for inflation."
+    },
+    "sources": [
+      {
+        "label": "Health ancillary fees — uOttawa",
+        "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/health-ancillary-fees"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-sante-mentale-droit-medecine-athletes",
+    "category": "sante",
+    "keywords": [
+      "common law santé mentale",
+      "law student counsellor",
+      "faculté de médecine mieux-être",
+      "medical student wellness",
+      "athlète santé mentale",
+      "varsity athlete mental health",
+      "sciences sociales cycles supérieurs",
+      "programme d'aide membres",
+      "map",
+      "conseiller dédié"
+    ],
+    "question": {
+      "fr": "Y a-t-il un soutien en santé mentale propre à ma faculté ou pour les athlètes ?",
+      "en": "Is there mental health support specific to my faculty or for athletes?"
+    },
+    "answer": {
+      "fr": "Oui. Les étudiants en common law et ceux à la maîtrise ou au doctorat en sciences sociales ont un conseiller dédié, accessible par un rendez-vous d'accueil. La Faculté de médecine a son propre programme de mieux-être, et les athlètes universitaires peuvent rencontrer la coordonnatrice en santé mentale des Gee-Gees, une psychothérapeute autorisée.",
+      "en": "Yes. Common Law students and master's or PhD students in Social Sciences have a dedicated counsellor, reached through an intake appointment. The Faculty of Medicine has its own wellness program, and varsity athletes can meet the Gee-Gees varsity mental health coordinator, a registered psychotherapist."
+    },
+    "sources": [
+      {
+        "label": "Mental health care, Student Health and Wellness Centre — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/mental-health"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-boutons-panique",
+    "category": "services",
+    "keywords": [
+      "bouton panique",
+      "panic button",
+      "toilettes sécurité",
+      "washroom safety",
+      "alarme toilettes",
+      "danger toilettes",
+      "menacée",
+      "feel threatened",
+      "bouton d'urgence",
+      "emergency button"
+    ],
+    "question": {
+      "fr": "Y a-t-il des boutons de panique sur le campus ?",
+      "en": "Are there panic buttons on campus?"
+    },
+    "answer": {
+      "fr": "Oui, il y a plus de 20 boutons de panique sur le campus, notamment dans certaines toilettes pour femmes du Centre universitaire et du pavillon Roger-Guindon. Si tu te sens menacée ou que tu vois une urgence, appuie sur le bouton : une alarme sonne et le Service de la protection est alerté en même temps.",
+      "en": "Yes, there are more than 20 panic buttons on campus, including in some women's washrooms in the University Centre and Roger Guindon Hall. If you feel threatened or see an emergency, push the button: an alarm sounds and Protection Services is alerted at the same time."
+    },
+    "sources": [
+      {
+        "label": "How to reach us, Protection Services — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/reach-us"
+      },
+      {
+        "label": "Nous contacter, Service de la protection — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/protection/nous-contacter"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-protection-bureaux",
+    "category": "services",
+    "keywords": [
+      "bureau protection",
+      "protection office",
+      "sécurité roger-guindon",
+      "security office",
+      "141 louis-pasteur",
+      "agent de sécurité",
+      "security guard",
+      "signaler en personne",
+      "report in person",
+      "protection 24/7"
+    ],
+    "question": {
+      "fr": "Où sont les bureaux du Service de la protection ?",
+      "en": "Where are the Protection Services offices?"
+    },
+    "answer": {
+      "fr": "Le bureau principal est au 141, privé Louis-Pasteur, sur le campus principal, ouvert 24 heures sur 24. Au pavillon Roger-Guindon, le bureau est près de l'entrée principale, au local 2013, aussi ouvert en tout temps, et il y a un bureau au 200 Lees. Pour une urgence, compose le 613-562-5411; sinon, le 613-562-5499.",
+      "en": "The main office is at 141 Louis-Pasteur Private on the main campus, open 24/7. At Roger Guindon Hall, the office is near the main entrance in room 2013, also always open, and there's an office at 200 Lees. For emergencies, dial 613-562-5411; otherwise, 613-562-5499."
+    },
+    "sources": [
+      {
+        "label": "Protection Services — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+      },
+      {
+        "label": "Service de la protection — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/protection"
+      },
+      {
+        "label": "Emergency — uOttawa",
+        "url": "https://www.uottawa.ca/en/emergency"
+      },
+      {
+        "label": "Urgence — uOttawa",
+        "url": "https://www.uottawa.ca/fr/urgence"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-telephones-publics-protection",
+    "category": "services",
+    "keywords": [
+      "téléphone public",
+      "pay phone",
+      "téléphone bell",
+      "sans cellulaire",
+      "no phone",
+      "pas de batterie",
+      "dead battery",
+      "appeler sécurité gratuit",
+      "free call security"
+    ],
+    "question": {
+      "fr": "Mon cellulaire est mort : comment joindre la sécurité du campus ?",
+      "en": "My phone is dead: how can I reach campus security?"
+    },
+    "answer": {
+      "fr": "Plusieurs téléphones publics Bell du campus permettent d'appeler gratuitement le Service de la protection : compose le 613-562-5411 ou appuie sur le bouton préprogrammé sous le clavier. Tu peux aussi utiliser l'un des plus de 140 téléphones d'urgence ou alerter un agent de sécurité à proximité.",
+      "en": "Many Bell pay phones on campus can call Protection Services for free: dial 613-562-5411 or press the pre-programmed button under the keypad. You can also use one of the 140-plus emergency phones or alert a nearby security guard."
+    },
+    "sources": [
+      {
+        "label": "How to reach us, Protection Services — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/reach-us"
+      },
+      {
+        "label": "Nous contacter, Service de la protection — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/protection/nous-contacter"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-plainte-agent-securite",
+    "category": "services",
+    "keywords": [
+      "plainte agent",
+      "complaint security guard",
+      "compliment sécurité",
+      "plainte protection",
+      "complain about security",
+      "agent irrespectueux",
+      "rude guard",
+      "procédure 60",
+      "discrimination agent"
+    ],
+    "question": {
+      "fr": "Comment porter plainte contre un agent de sécurité, ou lui faire un compliment ?",
+      "en": "How do I file a complaint about a security guard, or send a compliment?"
+    },
+    "answer": {
+      "fr": "Remplis le formulaire de plainte ou de compliment du Service de la protection; les plaintes contre le personnel en uniforme suivent la procédure no 60. Si tu crois avoir vécu de la discrimination ou du harcèlement, tu peux aussi joindre en toute confidentialité le Bureau des droits de la personne au 613-562-5222.",
+      "en": "Fill out the Protection Services complaint or compliment form; complaints about uniformed staff follow Procedure No. 60. If you believe you experienced discrimination or harassment, you can also confidentially contact the Human Rights Office at 613-562-5222."
+    },
+    "sources": [
+      {
+        "label": "How to reach us, Protection Services — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/reach-us"
+      },
+      {
+        "label": "Nous contacter, Service de la protection — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/protection/nous-contacter"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-arnaque-taxi",
+    "category": "services",
+    "keywords": [
+      "arnaque taxi",
+      "taxi scam",
+      "fraude carte",
+      "card fraud",
+      "nip",
+      "pin",
+      "carte échangée",
+      "card swapped",
+      "police fraude",
+      "fraud unit"
+    ],
+    "question": {
+      "fr": "J'ai entendu parler d'une arnaque de taxi à Ottawa : comment me protéger ?",
+      "en": "I heard about a taxi scam in Ottawa: how do I protect myself?"
+    },
+    "answer": {
+      "fr": "Dans cette arnaque, un inconnu dit que le chauffeur n'accepte pas l'argent comptant, puis ta carte est échangée et ton NIP est volé. Prends un taxi autorisé avec une plaque bleue, ne laisse personne manipuler ta carte, cache ton NIP et paie sans contact ou en argent comptant. Si ça t'arrive, appelle ta banque tout de suite et la section des fraudes de la police d'Ottawa au 613-236-1222, poste 7300.",
+      "en": "In this scam, a stranger says the driver won't take cash, then your card gets swapped and your PIN stolen. Use a licensed taxi with a blue plate, never let anyone handle your card, shield your PIN, and pay contactless or in cash. If it happens, call your bank right away and the Ottawa Police Fraud Unit at 613-236-1222 ext. 7300."
+    },
+    "sources": [
+      {
+        "label": "Protection Services — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+      },
+      {
+        "label": "Service de la protection — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/protection"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-prevention-vol",
+    "category": "services",
+    "keywords": [
+      "vol",
+      "theft",
+      "volé",
+      "stolen",
+      "cadenas",
+      "lock",
+      "casier",
+      "locker",
+      "protéger mes affaires",
+      "protect my stuff",
+      "ordinateur volé"
+    ],
+    "question": {
+      "fr": "Comment éviter de me faire voler mes affaires sur le campus ?",
+      "en": "How do I avoid getting my things stolen on campus?"
+    },
+    "answer": {
+      "fr": "Le vol est le crime le plus courant sur le campus, mais aussi le plus facile à prévenir. Ne laisse jamais tes affaires sans surveillance, utilise un bon cadenas, vendu au Pivik ou à la librairie, verrouille ta porte de résidence même pour quelques secondes, et ne laisse rien de visible dans ton auto. Pour signaler un vol, appelle le Service de la protection au 613-562-5499.",
+      "en": "Theft is the most common crime on campus, but also the most preventable. Never leave your things unattended, use a good-quality lock, sold at Pivik or the bookstore, lock your residence door even for a few seconds, and keep valuables out of sight in your car. To report a theft, call Protection Services at 613-562-5499."
+    },
+    "sources": [
+      {
+        "label": "Theft prevention — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/theft-prevention"
+      },
+      {
+        "label": "Prévention du vol — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/protection/prevention-vol"
+      },
+      {
+        "label": "Protection Services — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+      },
+      {
+        "label": "Service de la protection — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/protection"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-ebic-benevole",
+    "category": "services",
+    "keywords": [
+      "équipe bénévole crise",
+      "vcrt",
+      "premiers répondants",
+      "first responder",
+      "bénévolat premiers soins",
+      "volunteer first aid",
+      "croix-rouge",
+      "red cross",
+      "ebic",
+      "paramedic volunteer"
+    ],
+    "question": {
+      "fr": "Puis-je devenir premier répondant bénévole sur le campus ?",
+      "en": "Can I volunteer as a first responder on campus?"
+    },
+    "answer": {
+      "fr": "Oui, l'Équipe bénévole d'intervention en cas de crise, sous le Service de la protection, offre une réponse médicale d'urgence 24 heures sur 24 sur le campus principal. Les membres reçoivent la formation de premier répondant de la Croix-Rouge canadienne et un uniforme. Le recrutement se fait habituellement en février, avec un engagement de deux ans.",
+      "en": "Yes, the Volunteer Crisis Response Team, under Protection Services, provides 24/7 emergency medical response on the main campus. Members get Canadian Red Cross First Responder training and a uniform. Recruitment usually happens in February, with a two-year commitment."
+    },
+    "sources": [
+      {
+        "label": "Volunteer Crisis Response Team (VCRT) — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/vcrt"
+      },
+      {
+        "label": "Équipe bénévole d'intervention en cas de crise — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/protection/ebic"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-premiers-soins-evenement",
+    "category": "services",
+    "keywords": [
+      "premiers soins événement",
+      "first aid event",
+      "couverture médicale",
+      "medical coverage",
+      "événement club",
+      "club event",
+      "vcrt événement",
+      "secouristes",
+      "first aiders event"
+    ],
+    "question": {
+      "fr": "Mon club organise un événement : peut-on avoir des secouristes sur place ?",
+      "en": "My club is hosting an event: can we get first aid coverage?"
+    },
+    "answer": {
+      "fr": "Oui, les clubs, services et facultés peuvent demander une couverture de premiers soins à l'Équipe bénévole d'intervention en cas de crise. Remplis le formulaire au moins quatre semaines avant l'événement; la demande ne garantit pas la couverture et l'équipe te recontactera.",
+      "en": "Yes, clubs, services and faculties can request first aid coverage from the Volunteer Crisis Response Team. Fill out the form at least four weeks before the event; submitting doesn't guarantee coverage, and the team will get back to you."
+    },
+    "sources": [
+      {
+        "label": "Volunteer Crisis Response Team (VCRT) — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/vcrt"
+      },
+      {
+        "label": "Équipe bénévole d'intervention en cas de crise — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/protection/ebic"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-naloxone-campus",
+    "category": "sante",
+    "keywords": [
+      "naloxone campus",
+      "trousse naloxone",
+      "naloxone kit",
+      "défibrillateur",
+      "aed",
+      "dea",
+      "armoire dea",
+      "aed cabinet",
+      "surdose campus",
+      "overdose on campus"
+    ],
+    "question": {
+      "fr": "Y a-t-il de la naloxone sur le campus ?",
+      "en": "Is there naloxone on campus?"
+    },
+    "answer": {
+      "fr": "Oui, tous les agents du Service de la protection en portent, et des trousses de naloxone, dans un petit étui rouge, sont placées dans les armoires de défibrillateur du campus, y compris en résidence. Quand tu ouvres l'armoire, une alarme avise le Service de la protection. Appelle aussi le 613-562-5411 ou le 911 si la personne ne répond pas.",
+      "en": "Yes, all Protection Services officers carry it, and naloxone kits, in a small red case, are in campus AED cabinets, including in residences. Opening the cabinet triggers an alarm that notifies Protection Services. Also call 613-562-5411 or 911 if the person is unresponsive."
+    },
+    "sources": [
+      {
+        "label": "Campus naloxone program — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/occupational-health-safety/campus-naloxone-program"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-signes-surdose-opioides",
+    "category": "sante",
+    "keywords": [
+      "signes surdose",
+      "overdose signs",
+      "opioïdes",
+      "opioids",
+      "lèvres bleues",
+      "blue lips",
+      "pupilles",
+      "pinpoint pupils",
+      "ne se réveille pas",
+      "won't wake up",
+      "fentanyl"
+    ],
+    "question": {
+      "fr": "Comment reconnaître une surdose d'opioïdes ?",
+      "en": "How do I recognize an opioid overdose?"
+    },
+    "answer": {
+      "fr": "Les signes courants sont une respiration lente, irrégulière ou absente, des lèvres ou des ongles bleus, un corps mou, des ronflements ou gargouillements, des pupilles très petites et une personne qu'on ne réussit pas à réveiller. Appelle le 613-562-5411 sur le campus ou le 911, donne la naloxone si tu peux, fais seulement des compressions thoraciques et reste avec la personne.",
+      "en": "Common signs are slow, irregular or no breathing, blue lips or nails, a limp body, snoring or gurgling sounds, tiny pupils and a person you can't wake up. Call 613-562-5411 on campus or 911, give naloxone if you can, do chest compressions only, and stay with the person."
+    },
+    "sources": [
+      {
+        "label": "Campus naloxone program — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/occupational-health-safety/campus-naloxone-program"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-fumer-campus",
+    "category": "services",
+    "keywords": [
+      "fumer",
+      "smoking",
+      "vapoter",
+      "vaping",
+      "cigarette",
+      "zone sans fumée",
+      "smoke-free",
+      "où fumer",
+      "where to smoke",
+      "pelouse tabaret",
+      "campus alta vista"
+    ],
+    "question": {
+      "fr": "Où est-ce qu'on peut fumer ou vapoter sur le campus ?",
+      "en": "Where can I smoke or vape on campus?"
+    },
+    "answer": {
+      "fr": "C'est interdit dans les pavillons, les endroits couverts, à moins de neuf mètres d'une entrée, d'une prise d'air ou d'une terrasse, près des terrains de sport, sur la pelouse Tabaret et la place de l'Université. Tout le campus Alta Vista, dont le pavillon Roger-Guindon, est entièrement sans fumée. Consulte la carte des zones sans fumée pour le reste du campus.",
+      "en": "It's banned in buildings, covered areas, within nine metres of an entrance, air intake or patio, near sports fields, on Tabaret Lawn and University Square. The entire Alta Vista Campus, including Roger Guindon Hall, is fully smoke-free. Check the no-smoking map for the rest of campus."
+    },
+    "sources": [
+      {
+        "label": "Smoking and vaping on campus — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/smoking-vaping-on-campus"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-cannabis-campus",
+    "category": "services",
+    "keywords": [
+      "cannabis",
+      "pot",
+      "weed",
+      "marijuana",
+      "résidence cannabis",
+      "cannabis residence",
+      "comestibles",
+      "edibles",
+      "livraison cannabis",
+      "delivery",
+      "cannabis médical",
+      "medical cannabis"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux consommer du cannabis sur le campus ou en résidence ?",
+      "en": "Can I use cannabis on campus or in residence?"
+    },
+    "answer": {
+      "fr": "Fumer ou vapoter du cannabis est interdit partout où le tabac l'est, et c'est complètement interdit en résidence, tout comme la culture de plants. Les produits comestibles ne sont pas permis sur le campus, et le cannabis ne peut pas y être livré : il faut le ramasser au bureau de poste. Pour le cannabis médical, l'Université offre des accommodements raisonnables au cas par cas.",
+      "en": "Smoking or vaping cannabis is banned wherever tobacco is, and it's completely banned in residence, as is growing plants. Edibles aren't allowed on campus, and cannabis can't be delivered there: you must pick it up at the post office. For medical cannabis, the University offers reasonable accommodation case by case."
+    },
+    "sources": [
+      {
+        "label": "Cannabis on campus — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/smoking-vaping-on-campus/cannabis"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-alertes-ordinateur-alertus",
+    "category": "services",
+    "keywords": [
+      "alertus",
+      "alertes ordinateur",
+      "computer alerts",
+      "alerte urgence",
+      "emergency alert",
+      "securuo notifications",
+      "alertes texto",
+      "sms alerts",
+      "test alertes",
+      "alertuo"
+    ],
+    "question": {
+      "fr": "Comment recevoir les alertes d'urgence de uOttawa sur mon ordinateur et mon téléphone ?",
+      "en": "How do I get uOttawa emergency alerts on my computer and phone?"
+    },
+    "answer": {
+      "fr": "Installe Alertus sur ton ordinateur pour voir les alertes à l'écran, et SecurUO sur ton téléphone en activant les notifications; ouvre l'appli régulièrement pour qu'elle reste active. Tu peux aussi t'abonner aux alertes par texto et à un courriel personnel; ton adresse uOttawa les reçoit déjà. Le prochain test complet a lieu le 21 janvier 2027, entre 11 h et midi.",
+      "en": "Install Alertus on your computer to see alerts on screen, and SecurUO on your phone with notifications turned on; open the app regularly so it stays active. You can also subscribe to text alerts and a personal email; your uOttawa address already gets them. The next full test is January 21, 2027, between 11 a.m. and noon."
+    },
+    "sources": [
+      {
+        "label": "Setting up emergency alerts — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/are-you-ready/emergency-alerts"
+      },
+      {
+        "label": "Alertes d'urgence — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/etes-vous-prets/alertes-urgence"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-tenir-et-securiser",
+    "category": "services",
+    "keywords": [
+      "tenir et sécuriser",
+      "hold and secure",
+      "alerte violence proximité",
+      "nearby threat",
+      "rester à l'intérieur",
+      "stay inside",
+      "alerte campus",
+      "campus alert",
+      "menace près du campus"
+    ],
+    "question": {
+      "fr": "Que veut dire une alerte « tenir et sécuriser » ?",
+      "en": "What does a hold and secure alert mean?"
+    },
+    "answer": {
+      "fr": "C'est une mesure de précaution quand un incident violent pourrait toucher le campus. Arrête tes activités, entre dans un bâtiment et restes-y, éloigne-toi des portes et des fenêtres, repère un endroit où te cacher et suis les avis d'AlertUO. Tu peux aller aux toilettes au besoin, mais reviens tout de suite; la situation peut durer plusieurs heures.",
+      "en": "It's a precaution when a violent incident could affect campus. Stop what you're doing, go into a building and stay there, keep away from doors and windows, find a place you could hide and follow AlertUO updates. You can use the washroom if needed, but return right away; it may last several hours."
+    },
+    "sources": [
+      {
+        "label": "Violent threats — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/are-you-ready/violent-threats"
+      },
+      {
+        "label": "Situations violentes — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/etes-vous-prets/situations-violentes"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-courir-cacher-defendre",
+    "category": "services",
+    "keywords": [
+      "courir se cacher se défendre",
+      "run hide defend",
+      "tireur actif",
+      "active shooter",
+      "attaquant",
+      "attacker",
+      "arme",
+      "weapon",
+      "violence campus",
+      "menace armée"
+    ],
+    "question": {
+      "fr": "Que faire si un attaquant armé est près de moi ?",
+      "en": "What should I do if an armed attacker is near me?"
+    },
+    "answer": {
+      "fr": "Retiens : courir, se cacher et, en dernier recours, se défendre. Fuis le danger le plus vite possible, puis appelle le Service de la protection ou le 911 une fois en sécurité. Si tu ne peux pas fuir, cache-toi, verrouille ou barricade la porte et mets ton cellulaire en silencieux. Seulement si ta vie est en danger immédiat et que tu ne peux ni fuir ni te cacher, défends-toi.",
+      "en": "Remember: run, hide and, as a last resort, defend. Get away from the danger as fast as you can, then call Protection Services or 911 once safe. If you can't leave, hide, lock or barricade the door and silence your phone. Only if your life is in immediate danger and you can't run or hide, defend yourself."
+    },
+    "sources": [
+      {
+        "label": "Violent threats — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/are-you-ready/violent-threats"
+      },
+      {
+        "label": "Situations violentes — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/etes-vous-prets/situations-violentes"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-abriter-sur-place",
+    "category": "services",
+    "keywords": [
+      "abriter sur place",
+      "shelter in place",
+      "tempête",
+      "storm",
+      "déversement extérieur",
+      "chemical release",
+      "fenêtres fermées",
+      "close windows",
+      "alerte environnementale",
+      "environmental hazard"
+    ],
+    "question": {
+      "fr": "Que faire en cas d'alerte « s'abriter sur place » ?",
+      "en": "What should I do during a shelter-in-place alert?"
+    },
+    "answer": {
+      "fr": "Reste dans le bâtiment où tu es, ou entre dans le plus proche. Ferme et verrouille les fenêtres et les portes extérieures et éteins les ventilateurs et la ventilation si possible. Pour une tempête, va dans une petite pièce intérieure sans fenêtres; pour une menace chimique, reste plutôt en hauteur. Ne sors pas avant que les autorités du campus l'annoncent; cette alerte ne sert jamais pour une menace violente.",
+      "en": "Stay in the building you're in, or go into the nearest one. Close and lock windows and exterior doors and turn off fans and ventilation if you can. For a storm, go to a small interior room without windows; for a chemical threat, stay above ground. Don't leave until campus authorities say so; this alert is never used for violent threats."
+    },
+    "sources": [
+      {
+        "label": "Shelter-in-place — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/are-you-ready/shelter-place"
+      },
+      {
+        "label": "S'abriter sur place — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/etes-vous-prets/abriter-sur-place"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-tornade",
+    "category": "services",
+    "keywords": [
+      "tornade",
+      "tornado",
+      "vents violents",
+      "severe weather",
+      "météo extrême",
+      "extreme weather",
+      "tempête",
+      "sous-sol",
+      "basement",
+      "orage"
+    ],
+    "question": {
+      "fr": "Que faire s'il y a une tornade pendant que je suis sur le campus ?",
+      "en": "What should I do if there's a tornado while I'm on campus?"
+    },
+    "answer": {
+      "fr": "Entre dans le bâtiment le plus proche et descends au sous-sol; sinon, va au centre d'une pièce intérieure du niveau le plus bas. Abrite-toi sous un meuble solide, loin des fenêtres, des coins et des murs extérieurs, et protège ta tête et ton cou. N'utilise pas les ascenseurs, et attends que le Service de la protection ou les responsables d'étage disent que c'est sécuritaire.",
+      "en": "Go into the nearest building and head to the basement; otherwise, go to the centre of an interior room on the lowest level. Shelter under sturdy furniture, away from windows, corners and outside walls, and protect your head and neck. Don't use elevators, and wait until Protection Services or building wardens say it's safe."
+    },
+    "sources": [
+      {
+        "label": "Other hazards — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+      },
+      {
+        "label": "Procédures particulières — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/etes-vous-prets/procedures-particulieres"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-maladie-contagieuse",
+    "category": "sante",
+    "keywords": [
+      "maladie contagieuse",
+      "contagious",
+      "grippe",
+      "flu",
+      "covid",
+      "malade aller en classe",
+      "sick go to class",
+      "éclosion",
+      "outbreak",
+      "isolement",
+      "isolation",
+      "symptômes"
+    ],
+    "question": {
+      "fr": "Je pense avoir une maladie contagieuse : que dois-je faire ?",
+      "en": "I think I have a contagious illness: what should I do?"
+    },
+    "answer": {
+      "fr": "Évite les lieux publics et appelle ton médecin ou ton professionnel de la santé pour éviter de propager la maladie, puis suis ses consignes. Lave-toi souvent les mains et tousse dans ton coude. Si ton état met ta vie en danger, appelle le Service de la protection au 613-562-5411 sur le campus, ou le 911 hors campus, en décrivant tes symptômes.",
+      "en": "Avoid public places and call your doctor or health provider to avoid spreading the illness, then follow their instructions. Wash your hands often and cough into your elbow. If your condition is life-threatening, call Protection Services at 613-562-5411 on campus, or 911 off campus, and describe your symptoms."
+    },
+    "sources": [
+      {
+        "label": "Other hazards — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+      },
+      {
+        "label": "Procédures particulières — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/etes-vous-prets/procedures-particulieres"
+      },
+      {
+        "label": "Health care — Where and When — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-when-and-where"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-deversement-produit-chimique",
+    "category": "services",
+    "keywords": [
+      "déversement",
+      "spill",
+      "produit chimique",
+      "chemical",
+      "matière dangereuse",
+      "hazardous material",
+      "biorisque",
+      "biohazard",
+      "radioactif",
+      "labo accident",
+      "lab spill"
+    ],
+    "question": {
+      "fr": "Que faire si un produit chimique ou dangereux est renversé ?",
+      "en": "What should I do if a chemical or hazardous substance is spilled?"
+    },
+    "answer": {
+      "fr": "Avise le Service de la protection de tout incident avec une substance chimique, radioactive ou biologique, même s'il semble réglé. N'essaie pas de nettoyer si tu n'as pas la formation; éloigne-toi du danger et, si le produit est dans l'air, va dans une zone voisine en limitant l'accès pendant 30 minutes. Ne déclenche pas l'alarme incendie et attends les instructions avant de quitter les lieux.",
+      "en": "Notify Protection Services of any incident with a chemical, radioactive or biological substance, even if it seems resolved. Don't try to clean it up without training; step away from danger and, if it's airborne, move to an adjacent area and restrict access for 30 minutes. Don't pull the fire alarm, and wait for instructions before leaving."
+    },
+    "sources": [
+      {
+        "label": "Other hazards — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+      },
+      {
+        "label": "Procédures particulières — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/etes-vous-prets/procedures-particulieres"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-quand-ne-pas-appeler-urgence",
+    "category": "services",
+    "keywords": [
+      "garder lignes libres",
+      "keep lines open",
+      "appeler 911 stress",
+      "call 911 stress",
+      "pendant confinement appeler",
+      "during lockdown call",
+      "cellulaire urgence",
+      "phone during emergency",
+      "réseau cellulaire"
+    ],
+    "question": {
+      "fr": "Pendant une alerte, est-ce que je devrais appeler la sécurité pour avoir des nouvelles ?",
+      "en": "During an alert, should I call security for updates?"
+    },
+    "answer": {
+      "fr": "Non. Pendant une situation violente, n'appelle pas le Service de la protection ou le 911 pour un inconfort ou du stress : garde les lignes libres pour les urgences médicales, les dangers immédiats ou une information importante sur la menace. Évite aussi d'utiliser ton cellulaire inutilement pour ne pas surcharger le réseau, et suis les messages officiels.",
+      "en": "No. During a violent situation, don't call Protection Services or 911 about discomfort or stress: keep the lines open for medical emergencies, immediate danger or critical information about the threat. Also avoid unnecessary phone use so you don't overload the network, and follow official messages."
+    },
+    "sources": [
+      {
+        "label": "Violent threats — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/are-you-ready/violent-threats"
+      },
+      {
+        "label": "Situations violentes — uOttawa",
+        "url": "https://www.uottawa.ca/vie-campus/etes-vous-prets/situations-violentes"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-arret-sur-demande-nuit",
+    "category": "services",
+    "keywords": [
+      "arrêt sur demande",
+      "night stop",
+      "oc transpo nuit",
+      "bus de nuit",
+      "night bus",
+      "safe stop",
+      "rentrer le soir",
+      "getting home at night",
+      "sécurité autobus",
+      "bus safety"
+    ],
+    "question": {
+      "fr": "Y a-t-il des mesures de sécurité pour prendre l'autobus le soir ?",
+      "en": "Are there safety measures for taking the bus at night?"
+    },
+    "answer": {
+      "fr": "Oui, OC Transpo offre ses services Night Stop et Safe Stop après 21 h, avec des arrêts centraux bien éclairés identifiés par le logo jaune TRANSECURE. Sur le campus, tu peux aussi appeler le Service de la protection au 613-562-5499 si tu ne te sens pas en sécurité.",
+      "en": "Yes, OC Transpo offers Night Stop and Safe Stop after 9 p.m., with well-lit central stops marked by the yellow TRANSECURE logo. On campus, you can also call Protection Services at 613-562-5499 if you don't feel safe."
+    },
+    "sources": [
+      {
+        "label": "Resources on and off campus, sexual violence — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+      },
+      {
+        "label": "How to reach us, Protection Services — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/reach-us"
+      },
+      {
+        "label": "Nous contacter, Service de la protection — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/protection/nous-contacter"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-violence-sexuelle-aide",
+    "category": "sante",
+    "keywords": [
+      "violence sexuelle",
+      "sexual violence",
+      "agression sexuelle",
+      "sexual assault",
+      "harcèlement sexuel",
+      "sexual harassment",
+      "victime",
+      "survivor",
+      "survivante",
+      "consentement",
+      "j'ai été agressée"
+    ],
+    "question": {
+      "fr": "J'ai vécu de la violence sexuelle. Qui peut m'aider à l'Université ?",
+      "en": "I experienced sexual violence. Who can help me at the University?"
+    },
+    "answer": {
+      "fr": "Ce n'est pas ta faute, et de l'aide existe. L'équipe de prévention et d'intervention en matière de violence sexuelle du Bureau des droits de la personne offre un soutien gratuit et confidentiel, du lundi au vendredi de 8 h 45 à 16 h; écris-lui ou passe par son portail, ou appelle le 613-562-5222. Si tu es en danger, appelle le Service de la protection au 613-562-5411 ou le 911 hors campus.",
+      "en": "It's not your fault, and help is available. The Human Rights Office's Sexual Violence Prevention and Response team offers free, confidential support, Monday to Friday, 8:45 a.m. to 4 p.m.; email them or use their portal, or call 613-562-5222. If you're in danger, call Protection Services at 613-562-5411, or 911 off campus."
+    },
+    "sources": [
+      {
+        "label": "Sexual Violence: Support and Prevention — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention"
+      },
+      {
+        "label": "Violence sexuelle : soutien et prévention — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/violence-sexuelle-support-prevention"
+      },
+      {
+        "label": "Disclosing sexual violence and filing a complaint — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/report-incident"
+      },
+      {
+        "label": "Dévoiler une situation de violence sexuelle — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/violence-sexuelle-support-prevention/devoiler-situation-violence-sexuelle-deposer-plainte"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-centre-soutien-violence-sexuelle",
+    "category": "sante",
+    "keywords": [
+      "centre de soutien violence sexuelle",
+      "sexual violence support centre",
+      "228 thompson",
+      "sans rendez-vous",
+      "drop-in",
+      "parler à quelqu'un violence",
+      "talk to someone",
+      "bureau droits personne",
+      "human rights office"
+    ],
+    "question": {
+      "fr": "Où est le Centre de soutien et de ressources en matière de violence sexuelle ?",
+      "en": "Where is the Sexual Violence Support and Resource Centre?"
+    },
+    "answer": {
+      "fr": "Le Centre est au pavillon Thompson, local 228, avec des heures sans rendez-vous affichées sur son horaire. L'équipe est aussi disponible en ligne, ou parfois en personne sans rendez-vous; appelle le 613-562-5222 pour vérifier sa disponibilité avant de te déplacer.",
+      "en": "The Centre is in Thompson Hall, room 228, with drop-in hours posted on its schedule. The team is also available online, or sometimes in person without an appointment; call 613-562-5222 to check availability before you go."
+    },
+    "sources": [
+      {
+        "label": "Sexual Violence: Support and Prevention — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention"
+      },
+      {
+        "label": "Violence sexuelle : soutien et prévention — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/violence-sexuelle-support-prevention"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-devoiler-sans-porter-plainte",
+    "category": "sante",
+    "keywords": [
+      "dévoiler",
+      "disclose",
+      "sans porter plainte",
+      "without complaint",
+      "anonyme",
+      "anonymous",
+      "pas prête",
+      "not ready",
+      "délai plainte",
+      "deadline",
+      "confidentiel",
+      "confidential"
+    ],
+    "question": {
+      "fr": "Si je parle d'une agression au Bureau des droits de la personne, est-ce que ça devient automatiquement une plainte ?",
+      "en": "If I tell the Human Rights Office about an assault, does it automatically become a complaint?"
+    },
+    "answer": {
+      "fr": "Non. En parler à l'équipe ne mène pas automatiquement à une plainte : tu peux recevoir des services sans porter plainte, sauf dans certaines situations de danger ou d'obligation légale. Tu peux même joindre le Bureau de façon anonyme pour t'informer, venir avec la personne de ton choix, et il n'y a pas de délai pour dévoiler une situation.",
+      "en": "No. Talking to the team doesn't automatically lead to a complaint: you can get services without filing one, except in certain situations involving danger or a legal obligation. You can even contact the Office anonymously to get information, bring someone you choose, and there's no deadline to disclose."
+    },
+    "sources": [
+      {
+        "label": "Disclosing sexual violence and filing a complaint — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/report-incident"
+      },
+      {
+        "label": "Dévoiler une situation de violence sexuelle — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/violence-sexuelle-support-prevention/devoiler-situation-violence-sexuelle-deposer-plainte"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-plainte-violence-sexuelle",
+    "category": "sante",
+    "keywords": [
+      "porter plainte",
+      "file a complaint",
+      "politique 67b",
+      "policy 67b",
+      "enquête",
+      "investigation",
+      "mesures provisoires",
+      "interim measures",
+      "représailles",
+      "retaliation",
+      "agresseur étudiant"
+    ],
+    "question": {
+      "fr": "Comment porter plainte pour violence sexuelle contre un membre de l'Université ?",
+      "en": "How do I file a sexual violence complaint against a University member?"
+    },
+    "answer": {
+      "fr": "Seule la personne survivante peut porter plainte selon la politique 67b, sauf en cas de danger ou d'obligation légale, et il n'y a pas de délai tant que l'auteur fait partie de la communauté universitaire. Le Bureau des droits de la personne peut mettre en place des mesures provisoires pour ta sécurité, et tu peux être accompagnée tout au long du processus. Parles-en d'abord avec une conseillère au 613-562-5222.",
+      "en": "Only the survivor can file a complaint under Policy 67b, except in cases of danger or legal obligation, and there's no deadline as long as the perpetrator is a member of the University community. The Human Rights Office can put interim measures in place for your safety, and you can have a support person throughout. Talk to a counsellor first at 613-562-5222."
+    },
+    "sources": [
+      {
+        "label": "Disclosing sexual violence and filing a complaint — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/report-incident"
+      },
+      {
+        "label": "Dévoiler une situation de violence sexuelle — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/violence-sexuelle-support-prevention/devoiler-situation-violence-sexuelle-deposer-plainte"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-violence-sexuelle-hors-campus",
+    "category": "sante",
+    "keywords": [
+      "hors campus",
+      "off campus",
+      "agresseur pas étudiant",
+      "perpetrator not student",
+      "pendant une fête",
+      "at a party",
+      "arrivé ailleurs",
+      "happened elsewhere",
+      "services quand même"
+    ],
+    "question": {
+      "fr": "L'agression a eu lieu hors du campus : puis-je quand même avoir de l'aide de l'Université ?",
+      "en": "The assault happened off campus: can I still get help from the University?"
+    },
+    "answer": {
+      "fr": "Oui. Tu peux parler de ta situation et recevoir des services même si l'incident a eu lieu en dehors de l'Université, et même si l'auteur ne fait pas partie de la communauté universitaire. L'équipe peut t'aider avec un plan de sécurité, des accommodements scolaires et, si tu le souhaites, un lien avec la police d'Ottawa.",
+      "en": "Yes. You can talk about your situation and get services even if the incident happened outside the University, and even if the perpetrator isn't part of the University community. The team can help with a safety plan, academic accommodations and, if you wish, liaison with the Ottawa Police."
+    },
+    "sources": [
+      {
+        "label": "Disclosing sexual violence and filing a complaint — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/report-incident"
+      },
+      {
+        "label": "Dévoiler une situation de violence sexuelle — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/violence-sexuelle-support-prevention/devoiler-situation-violence-sexuelle-deposer-plainte"
+      },
+      {
+        "label": "Sexual Violence: Support and Prevention — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention"
+      },
+      {
+        "label": "Violence sexuelle : soutien et prévention — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/violence-sexuelle-support-prevention"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-calacs-orcc",
+    "category": "sante",
+    "keywords": [
+      "calacs",
+      "orcc",
+      "centre d'aide agression",
+      "rape crisis centre",
+      "ligne de crise agression",
+      "sexual assault crisis line",
+      "613-562-2333",
+      "francophone",
+      "aide spécialisée",
+      "specialized support"
+    ],
+    "question": {
+      "fr": "Y a-t-il des organismes spécialisés en agression sexuelle offerts aux étudiants ?",
+      "en": "Are there specialized sexual assault organizations available to students?"
+    },
+    "answer": {
+      "fr": "Oui, l'Université a des partenariats gratuits et confidentiels. En français, le CALACS francophone d'Ottawa répond au 613-789-8096, poste 25. En anglais, le Ottawa Rape Crisis Centre répond au 613-562-2334, avec une ligne de crise 24 heures sur 24 au 613-562-2333. Mentionne que tu fais partie de la communauté uOttawa.",
+      "en": "Yes, the University has free, confidential partnerships. In French, CALACS francophone d'Ottawa is at 613-789-8096 ext. 25. In English, the Ottawa Rape Crisis Centre is at 613-562-2334, with a 24/7 crisis line at 613-562-2333. Mention that you're part of the uOttawa community."
+    },
+    "sources": [
+      {
+        "label": "Partnerships with CALACS and ORCC — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/partnerships-calacs-orcc"
+      },
+      {
+        "label": "Partenariat CALACS et ORCC — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/violence-sexuelle-support-prevention/partenariat-calacs-orcc"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-ami-devoile-agression",
+    "category": "sante",
+    "keywords": [
+      "ami agressé",
+      "friend assaulted",
+      "quelqu'un se confie",
+      "someone disclosed",
+      "comment réagir",
+      "how to respond",
+      "croire",
+      "believe",
+      "soutenir survivant",
+      "support survivor"
+    ],
+    "question": {
+      "fr": "Une amie m'a confié avoir été agressée sexuellement. Comment la soutenir ?",
+      "en": "A friend told me she was sexually assaulted. How can I support her?"
+    },
+    "answer": {
+      "fr": "Écoute-la avec empathie, crois-la et dis-lui que ce n'est pas sa faute. Respecte ses choix sans décider à sa place, et parle-lui du Bureau des droits de la personne, où elle peut recevoir du soutien confidentiel sans être obligée de porter plainte. En cas d'urgence, appelle le Service de la protection au 613-562-5411. Prends aussi soin de toi.",
+      "en": "Listen with empathy, believe her and tell her it's not her fault. Respect her choices without deciding for her, and tell her about the Human Rights Office, where she can get confidential support without having to file a complaint. In an emergency, call Protection Services at 613-562-5411. Take care of yourself too."
+    },
+    "sources": [
+      {
+        "label": "Offering support — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/offering-support"
+      },
+      {
+        "label": "Offrir du soutien — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/violence-sexuelle-support-prevention/offrir-soutien"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-temoin-intervenir",
+    "category": "sante",
+    "keywords": [
+      "témoin",
+      "bystander",
+      "intervenir",
+      "intervene",
+      "voir harcèlement",
+      "witness harassment",
+      "mobiliser les témoins",
+      "bystander workshop",
+      "atelier témoin",
+      "justgotweird"
+    ],
+    "question": {
+      "fr": "Je suis témoin de harcèlement ou de violence sexuelle : comment intervenir sans me mettre en danger ?",
+      "en": "I'm witnessing sexual harassment or violence: how can I step in safely?"
+    },
+    "answer": {
+      "fr": "Tu peux dire directement à la personne que son comportement est inacceptable, créer une distraction pour aider la victime à partir, ou appeler le Service de la protection au 613-562-5411. Ensuite, demande à la victime comment l'aider. La sécurité de tous passe en premier; l'équipe offre aussi l'atelier Mobiliser les témoins.",
+      "en": "You can tell the person directly their behaviour is inappropriate, create a distraction to help the victim get away, or call Protection Services at 613-562-5411. Afterward, ask the victim how you can help. Everyone's safety comes first; the team also offers the Mobilizing the Bystanders workshop."
+    },
+    "sources": [
+      {
+        "label": "Offering support — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/offering-support"
+      },
+      {
+        "label": "Offrir du soutien — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/violence-sexuelle-support-prevention/offrir-soutien"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-soins-medicaux-agression",
+    "category": "sante",
+    "keywords": [
+      "soins après agression",
+      "medical care after assault",
+      "hôpital agression",
+      "hospital sexual assault",
+      "programme soins agression",
+      "sexual assault care program",
+      "examen médical",
+      "violence conjugale",
+      "partner abuse",
+      "conseils juridiques gratuits"
+    ],
+    "question": {
+      "fr": "Où obtenir des soins médicaux ou des conseils juridiques après une agression sexuelle ?",
+      "en": "Where can I get medical care or legal advice after a sexual assault?"
+    },
+    "answer": {
+      "fr": "Le programme de soins aux victimes d'agression sexuelle et de violence conjugale de l'Hôpital d'Ottawa offre des soins médicaux privés et confidentiels aux personnes de 16 ans et plus. Les survivantes à Ottawa peuvent aussi être admissibles à jusqu'à quatre heures de conseils juridiques gratuits. Le Bureau des droits de la personne, au 613-562-5222, peut t'orienter.",
+      "en": "The Ottawa Hospital's Sexual Assault and Partner Abuse Care Program offers private, confidential medical care to people 16 and older. Survivors in Ottawa may also be eligible for up to four hours of free legal advice. The Human Rights Office, at 613-562-5222, can guide you."
+    },
+    "sources": [
+      {
+        "label": "Resources on and off campus — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-harcelement-definition",
+    "category": "services",
+    "keywords": [
+      "harcèlement",
+      "harassment",
+      "c'est quoi du harcèlement",
+      "what is harassment",
+      "discrimination",
+      "commentaires déplacés",
+      "unwelcome comments",
+      "politique 67a",
+      "policy 67a",
+      "prof harcèle"
+    ],
+    "question": {
+      "fr": "Qu'est-ce qui est considéré comme du harcèlement à l'Université ?",
+      "en": "What counts as harassment at the University?"
+    },
+    "answer": {
+      "fr": "Le harcèlement, ce sont des commentaires ou des comportements vexatoires dont on sait, ou devrait savoir, qu'ils sont importuns; un seul incident assez grave peut suffire. Tout membre de la communauté a droit à un milieu sans harcèlement ni discrimination. Le Bureau des droits de la personne reçoit les plaintes, gratuitement et en toute confidentialité, par son portail ou au 613-562-5222.",
+      "en": "Harassment is a course of vexatious comments or conduct that's known, or should be known, to be unwelcome; a single serious incident can be enough. Every community member has the right to an environment free of harassment and discrimination. The Human Rights Office receives complaints, free and confidential, through its portal or at 613-562-5222."
+    },
+    "sources": [
+      {
+        "label": "Harassment and Discrimination — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/about-harassment-discrimination"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-bizutage-politique-130",
+    "category": "services",
+    "keywords": [
+      "bizutage",
+      "hazing",
+      "initiation",
+      "intimidation en ligne",
+      "cyberbullying",
+      "politique 130",
+      "policy 130",
+      "conduite responsable",
+      "responsible conduct",
+      "plainte étudiant",
+      "complaint about a student"
+    ],
+    "question": {
+      "fr": "Le bizutage ou l'intimidation entre étudiants, c'est permis ?",
+      "en": "Is hazing or bullying between students allowed?"
+    },
+    "answer": {
+      "fr": "Non. La politique 130 sur les droits et la conduite responsable des étudiants interdit notamment le bizutage, la conduite abusive, les menaces en ligne et le vandalisme. Pour signaler un manquement, remplis une demande de résolution de cas sur le portail du Bureau des droits de la personne; une résolution informelle, comme la médiation, ou une enquête formelle peut suivre.",
+      "en": "No. Policy 130 on Student Rights and Responsible Conduct prohibits hazing, abusive conduct, online threats and vandalism, among others. To report a breach, submit a case resolution request on the Human Rights Office portal; an informal resolution, like mediation, or a formal investigation may follow."
+    },
+    "sources": [
+      {
+        "label": "Student Rights and Responsible Conduct — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/student-rights-responsible-conduct"
+      },
+      {
+        "label": "Droits et conduite responsable des étudiants — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/droits-conduite-responsable-etudiantes-etudiants"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-ombudsman-joindre",
+    "category": "services",
+    "keywords": [
+      "ombudsman",
+      "ombudsperson",
+      "joindre ombudsman",
+      "contact ombudsperson",
+      "ucu 307",
+      "traité injustement",
+      "treated unfairly",
+      "conflit université",
+      "dispute",
+      "médiation"
+    ],
+    "question": {
+      "fr": "Où est le Bureau de l'Ombudsman et comment le joindre ?",
+      "en": "Where is the Ombudsperson's Office and how do I reach it?"
+    },
+    "answer": {
+      "fr": "Le Bureau de l'Ombudsman est au Centre universitaire, local 307, au 613-562-5342, du lundi au vendredi pendant les heures de bureau. Les rendez-vous peuvent se faire en personne, par téléphone ou sur Teams. Le service est gratuit, bilingue, confidentiel et indépendant de l'Université.",
+      "en": "The Office of the Ombudsperson is in the University Centre, room 307, at 613-562-5342, Monday to Friday during business hours. Appointments can be in person, by phone or on Teams. The service is free, bilingual, confidential and independent of the University."
+    },
+    "sources": [
+      {
+        "label": "Office of the Ombudsperson — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/office-ombudsperson"
+      },
+      {
+        "label": "Bureau de l'Ombudsman — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/bureau-ombudsman"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-documentation-tdah-accommodements",
+    "category": "sante",
+    "keywords": [
+      "documentation tdah",
+      "adhd documentation",
+      "évaluation psychoéducative",
+      "psychoeducational assessment",
+      "neuropsychologique",
+      "preuve handicap",
+      "proof of disability",
+      "billet médical accommodements",
+      "documents requis",
+      "required documents"
+    ],
+    "question": {
+      "fr": "Quels documents faut-il pour obtenir des accommodements pour un TDAH ou un trouble d'apprentissage ?",
+      "en": "What documents do I need for ADHD or learning disability accommodations?"
+    },
+    "answer": {
+      "fr": "Il faut une évaluation psychoéducative ou neuropsychologique faite au cours des cinq dernières années ou à 18 ans, par un psychologue clinicien, un associé en psychologie ou un neuropsychologue. Pour le TDAH, le formulaire de documentation du Service d'accommodements scolaires peut aussi être rempli par un professionnel autorisé à poser ce diagnostic.",
+      "en": "You need a psychoeducational or neuropsychological assessment done in the last five years or at age 18, by a clinical psychologist, psychological associate or neuropsychologist. For ADHD, the Academic Accommodations Service documentation form can also be completed by a professional licensed to make that diagnosis."
+    },
+    "sources": [
+      {
+        "label": "Registering for accommodations — uOttawa",
+        "url": "https://www.uottawa.ca/study/academic-support-mentoring/registering-accommodations"
+      },
+      {
+        "label": "Procédure d'inscription aux accommodements — uOttawa",
+        "url": "https://www.uottawa.ca/etudes/soutien-academique-mentorat/procedure-inscription-accommodements"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-accommodements-provisoires",
+    "category": "sante",
+    "keywords": [
+      "accommodements provisoires",
+      "interim accommodations",
+      "en attente évaluation",
+      "waiting for assessment",
+      "évaluation expirée",
+      "outdated assessment",
+      "coût évaluation",
+      "assessment cost",
+      "temporaire",
+      "temporary"
+    ],
+    "question": {
+      "fr": "J'attends une évaluation médicale : puis-je avoir des accommodements en attendant ?",
+      "en": "I'm waiting for a medical assessment: can I get accommodations in the meantime?"
+    },
+    "answer": {
+      "fr": "Oui, le Service d'accommodements scolaires peut t'accorder des accommodements provisoires pendant que tu attends ton évaluation. Si ton évaluation psychoéducative est périmée, tu peux aussi obtenir des accommodements provisoires pour un trimestre. Le coût d'une évaluation ne devrait pas t'empêcher de t'inscrire : appelle le 613-562-5777.",
+      "en": "Yes, the Academic Accommodations Service can grant interim accommodations while you wait for your assessment. If your psychoeducational assessment is outdated, you may also get interim accommodations for one term. The cost of an assessment shouldn't stop you from registering: call 613-562-5777."
+    },
+    "sources": [
+      {
+        "label": "Registering for accommodations — uOttawa",
+        "url": "https://www.uottawa.ca/study/academic-support-mentoring/registering-accommodations"
+      },
+      {
+        "label": "Procédure d'inscription aux accommodements — uOttawa",
+        "url": "https://www.uottawa.ca/etudes/soutien-academique-mentorat/procedure-inscription-accommodements"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-accommodements-nouvel-etudiant",
+    "category": "sante",
+    "keywords": [
+      "nouvel étudiant handicap",
+      "new student disability",
+      "avant la rentrée",
+      "before classes start",
+      "mi-juin",
+      "mid-june",
+      "programme de transition",
+      "transition program",
+      "inscription accommodements tôt",
+      "register early"
+    ],
+    "question": {
+      "fr": "Je commence l'université en septembre et j'ai un handicap : quand dois-je m'inscrire aux accommodements ?",
+      "en": "I start university in September and have a disability: when should I register for accommodations?"
+    },
+    "answer": {
+      "fr": "Inscris-toi au Service d'accommodements scolaires d'ici la mi-juin si tu arrives en septembre, ou d'ici la mi-décembre si tu arrives en janvier, pour éviter des délais. Tu peux aussi participer au programme de transition, offert l'été et pendant l'année, pour t'initier au milieu universitaire.",
+      "en": "Register with the Academic Accommodations Service by mid-June if you start in September, or by mid-December if you start in January, to avoid delays. You can also join the Transition Program, offered in summer and through the year, to get familiar with university life."
+    },
+    "sources": [
+      {
+        "label": "Accessibility Hub, Studying — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/accessibility-hub/studying"
+      },
+      {
+        "label": "Carrefour de l'accessibilité, étudier — uOttawa",
+        "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/carrefour-accessibilite/etudier"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-transcription-format-accessible",
+    "category": "sante",
+    "keywords": [
+      "format accessible",
+      "accessible format",
+      "braille",
+      "livre audio",
+      "audio book",
+      "transcription",
+      "manuel en pdf",
+      "textbook pdf",
+      "déficience visuelle",
+      "visual impairment",
+      "ace",
+      "cela"
+    ],
+    "question": {
+      "fr": "Comment obtenir mes manuels en format accessible, comme le braille ou l'audio ?",
+      "en": "How can I get my textbooks in an accessible format, like braille or audio?"
+    },
+    "answer": {
+      "fr": "Le Service de transcription convertit le matériel de cours en PDF, Word, braille ou audio pour les étudiants inscrits aux accommodements. Apporte tes livres le plus tôt possible avec ta preuve d'achat, exigée pour le droit d'auteur. La bibliothèque donne aussi accès à des collections accessibles, comme le portail ACE et le Centre d'accès équitable aux bibliothèques.",
+      "en": "The Transcription Service converts course material into PDF, Word, braille or audio for students registered for accommodations. Bring your books as early as possible with proof of purchase, required for copyright. The library also offers accessible collections, like the ACE portal and the Centre for Equitable Library Access."
+    },
+    "sources": [
+      {
+        "label": "Accommodations overview, services and hours — uOttawa",
+        "url": "https://www.uottawa.ca/study/academic-support-mentoring/accommodation-services-available"
+      },
+      {
+        "label": "Accommodements scolaires, services — uOttawa",
+        "url": "https://www.uottawa.ca/etudes/soutien-academique-mentorat/accommodements-scolaire-services"
+      },
+      {
+        "label": "Accessibility, Library — uOttawa",
+        "url": "https://www.uottawa.ca/library/services/accessibility"
+      },
+      {
+        "label": "Accessibilité, Bibliothèque — uOttawa",
+        "url": "https://www.uottawa.ca/bibliotheque/services/accessibilite"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-interpretation-langue-signes",
+    "category": "sante",
+    "keywords": [
+      "langue des signes",
+      "sign language",
+      "asl",
+      "lsq",
+      "interprète",
+      "interpreter",
+      "sourd",
+      "deaf",
+      "malentendant",
+      "hard of hearing",
+      "sous-titrage",
+      "captioning"
+    ],
+    "question": {
+      "fr": "Je suis sourd ou malentendant : y a-t-il des interprètes en langue des signes ?",
+      "en": "I'm deaf or hard of hearing: are there sign language interpreters?"
+    },
+    "answer": {
+      "fr": "Oui, le Service d'interprétation offre l'interprétation en langue des signes, ASL et LSQ, et le sous-titrage informatisé pour tes cours, tes rencontres avec les professeurs, les travaux d'équipe, les présentations et les examens. Inscris-toi d'abord au Service d'accommodements scolaires, puis écris au Service d'interprétation.",
+      "en": "Yes, the Interpretation Service provides sign language interpretation, ASL and LSQ, and computerized captioning for your classes, meetings with professors, group work, presentations and exams. Register first with the Academic Accommodations Service, then email the Interpretation Service."
+    },
+    "sources": [
+      {
+        "label": "Accommodations overview, services and hours — uOttawa",
+        "url": "https://www.uottawa.ca/study/academic-support-mentoring/accommodation-services-available"
+      },
+      {
+        "label": "Accommodements scolaires, services — uOttawa",
+        "url": "https://www.uottawa.ca/etudes/soutien-academique-mentorat/accommodements-scolaire-services"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-preneur-notes-benevole",
+    "category": "services",
+    "keywords": [
+      "preneur de notes",
+      "note taker",
+      "partager mes notes",
+      "share my notes",
+      "bénévolat notes",
+      "volunteer notes",
+      "heures de bénévolat",
+      "volunteer hours",
+      "accommodements notes",
+      "note-taking"
+    ],
+    "question": {
+      "fr": "Comment devenir preneur de notes bénévole pour un étudiant avec un handicap ?",
+      "en": "How can I become a volunteer note taker for a student with a disability?"
+    },
+    "answer": {
+      "fr": "Surveille les annonces de ton professeur sur Brightspace, ou demande-lui si quelqu'un dans ta classe a besoin de notes. Si c'est le cas, partage tes notes par courriel. Pour faire reconnaître tes heures de bénévolat, écris au Service d'accommodements scolaires avec l'objet « Volunteer Peer Note Taker – Community Engagement Placement ».",
+      "en": "Watch for your professor's announcements on Brightspace, or ask them if anyone in your class needs notes. If so, share your notes by email. To get your volunteer hours recognized, email the Academic Accommodations Service with the subject Volunteer Peer Note Taker – Community Engagement Placement."
+    },
+    "sources": [
+      {
+        "label": "Accommodations overview, services and hours — uOttawa",
+        "url": "https://www.uottawa.ca/study/academic-support-mentoring/accommodation-services-available"
+      },
+      {
+        "label": "Accommodements scolaires, services — uOttawa",
+        "url": "https://www.uottawa.ca/etudes/soutien-academique-mentorat/accommodements-scolaire-services"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-mentorat-technologies-assistance",
+    "category": "sante",
+    "keywords": [
+      "technologies d'aide",
+      "assistive technology",
+      "centre de mentorat",
+      "atmc",
+      "read&write",
+      "logiciel lecture",
+      "text to speech",
+      "dragon",
+      "stratégies d'apprentissage",
+      "learning strategies"
+    ],
+    "question": {
+      "fr": "Qui peut m'apprendre à utiliser des technologies d'aide comme Read&Write ?",
+      "en": "Who can teach me to use assistive technology like Read&Write?"
+    },
+    "answer": {
+      "fr": "Le Centre de mentorat en technologies d'assistance offre des rencontres individuelles avec des mentors étudiants qui t'enseignent des technologies d'aide et des stratégies d'apprentissage adaptées à ton style. Il est ouvert à tous les étudiants. La bibliothèque offre d'ailleurs une licence Read&Write à tous les étudiants actuels.",
+      "en": "The Assistive Technology Mentoring Centre offers one-on-one sessions with student mentors who teach assistive technology and learning strategies suited to your style. It's open to all students. The library also offers a Read&Write licence to all current students."
+    },
+    "sources": [
+      {
+        "label": "Accommodations overview, services and hours — uOttawa",
+        "url": "https://www.uottawa.ca/study/academic-support-mentoring/accommodation-services-available"
+      },
+      {
+        "label": "Accommodements scolaires, services — uOttawa",
+        "url": "https://www.uottawa.ca/etudes/soutien-academique-mentorat/accommodements-scolaire-services"
+      },
+      {
+        "label": "Accessibility, Library — uOttawa",
+        "url": "https://www.uottawa.ca/library/services/accessibility"
+      },
+      {
+        "label": "Accessibilité, Bibliothèque — uOttawa",
+        "url": "https://www.uottawa.ca/bibliotheque/services/accessibilite"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-animal-assistance-campus",
+    "category": "services",
+    "keywords": [
+      "animal d'assistance",
+      "service animal",
+      "chien guide",
+      "guide dog",
+      "animal de soutien émotionnel",
+      "emotional support animal",
+      "chien en classe",
+      "dog in class",
+      "chien en résidence",
+      "dog in residence"
+    ],
+    "question": {
+      "fr": "Est-ce que je peux venir sur le campus avec mon animal d'assistance ?",
+      "en": "Can I bring my service animal on campus?"
+    },
+    "answer": {
+      "fr": "Oui. Dans les lieux ouverts au public, tu n'as pas besoin de l'inscrire. Pour les classes, les milieux de travail et les résidences, il faut passer par le processus d'accommodement, par exemple le Service d'accommodements scolaires, et inscrire l'animal. Un animal de soutien émotionnel est considéré comme animal d'assistance seulement s'il répond à la définition de la loi; sinon, c'est un animal de compagnie.",
+      "en": "Yes. In areas open to the public, you don't need to register it. For classes, workplaces and residences, you must go through the accommodation process, for example the Academic Accommodations Service, and register the animal. An emotional support animal counts as a service animal only if it meets the legal definition; otherwise it's a pet."
+    },
+    "sources": [
+      {
+        "label": "Service Animals on Campus — uOttawa",
+        "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/accessibility-hub/accessibility-legal-framework/service-animal-campus"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-assurance-seuo-retrait",
+    "category": "sante",
+    "keywords": [
+      "retrait assurance",
+      "opt out insurance",
+      "alumo",
+      "greenshield",
+      "assurance seuo",
+      "uosu health plan",
+      "déjà assuré parents",
+      "covered by parents",
+      "remboursement assurance",
+      "insurance refund"
+    ],
+    "question": {
+      "fr": "Je suis au premier cycle et déjà assuré par mes parents : puis-je me retirer de l'assurance étudiante ?",
+      "en": "I'm an undergrad already covered by my parents: can I opt out of the student insurance?"
+    },
+    "answer": {
+      "fr": "Oui, si tu as déjà une couverture santé ou dentaire équivalente, tu peux te retirer du régime complémentaire Alumo Greenshield du premier cycle. Les détails et la date limite de retrait sont sur la page d'assurance du SÉUO, géré par Alumo.",
+      "en": "Yes, if you already have equivalent health or dental coverage, you can opt out of the Alumo Greenshield undergraduate supplementary plan. Details and the opt-out deadline are on the UOSU insurance page, managed by Alumo."
+    },
+    "sources": [
+      {
+        "label": "Student health insurance — uOttawa",
+        "url": "https://www.uottawa.ca/campus-life/health-wellness/insurance"
+      },
+      {
+        "label": "Health & Dental Insurance — UOSU",
+        "url": "https://www.seuo-uosu.com/health-dental-insurance"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "pointer"
+  },
+  {
+    "id": "x-gsaed-assurance-retrait",
+    "category": "sante",
+    "keywords": [
+      "retrait assurance gsaéd",
+      "gsaed opt out",
+      "assurance cycles supérieurs",
+      "graduate insurance",
+      "30 septembre",
+      "september 30",
+      "uozone retrait",
+      "greenshield cycles sup",
+      "déjà assuré",
+      "already insured"
+    ],
+    "question": {
+      "fr": "Je suis aux cycles supérieurs : comment me retirer de l'assurance santé et dentaire de la GSAÉD ?",
+      "en": "I'm a grad student: how do I opt out of the GSAÉD health and dental plan?"
+    },
+    "answer": {
+      "fr": "Si tu as déjà une assurance valide, par un parent, un parrain ou un employeur, retire-toi dans uoZone : Applications, puis « Opt-out of the Health and Dental Insurance Plan ». La date limite est le 30 septembre, et aucune demande n'est acceptée après. Attention : il faut se retirer chaque année.",
+      "en": "If you already have valid coverage, through a parent, sponsor or employer, opt out in uoZone: Applications, then Opt-out of the Health and Dental Insurance Plan. The deadline is September 30, and no requests are accepted after. Note: you must opt out every year."
+    },
+    "sources": [
+      {
+        "label": "Insurance Coverages — GSAÉD",
+        "url": "https://gsaed.ca/insurance-coverage/"
+      },
+      {
+        "label": "Couvertures d'assurance — GSAÉD",
+        "url": "https://gsaed.ca/fr/insurance-coverage/"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-gsaed-assurance-adhesion",
+    "category": "sante",
+    "keywords": [
+      "adhérer assurance",
+      "opt in insurance",
+      "temps partiel assurance",
+      "part-time insurance",
+      "commence en janvier",
+      "start in winter",
+      "assurance famille",
+      "dependant coverage",
+      "conjoint",
+      "spouse",
+      "enfants"
+    ],
+    "question": {
+      "fr": "Je suis aux cycles supérieurs à temps partiel : puis-je adhérer à l'assurance de la GSAÉD ?",
+      "en": "I'm a part-time grad student: can I join the GSAÉD insurance plan?"
+    },
+    "answer": {
+      "fr": "Oui. Les étudiants à temps partiel, ou à temps plein qui commencent en hiver, peuvent adhérer : environ 376 $ pour la santé, 363 $ pour le dentaire, ou 738 $ pour les deux. Cette année, la date limite est le 26 octobre 2026 pour l'automne et le 28 février 2027 pour l'hiver. Tu peux aussi ajouter des personnes à charge, si tu es toi-même couvert.",
+      "en": "Yes. Part-time students, or full-time students starting in winter, can opt in: about $376 for health, $363 for dental, or $738 for both. This year the deadline is October 26, 2026 for fall and February 28, 2027 for winter. You can also add dependants if you're covered yourself."
+    },
+    "sources": [
+      {
+        "label": "Insurance Coverages — GSAÉD",
+        "url": "https://gsaed.ca/insurance-coverage/"
+      },
+      {
+        "label": "Couvertures d'assurance — GSAÉD",
+        "url": "https://gsaed.ca/fr/insurance-coverage/"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-gsaed-verifier-couverture",
+    "category": "sante",
+    "keywords": [
+      "vérifier couverture",
+      "check coverage",
+      "greenshield compte",
+      "greenshield account",
+      "réclamation",
+      "claim",
+      "médicament couvert",
+      "drug covered",
+      "période couverture",
+      "coverage period"
+    ],
+    "question": {
+      "fr": "Comment vérifier si un soin ou un médicament est couvert par l'assurance de la GSAÉD ?",
+      "en": "How do I check whether a service or drug is covered by the GSAÉD plan?"
+    },
+    "answer": {
+      "fr": "Connecte-toi à ton compte Greenshield, choisis le service, l'article ou le médicament, que tu peux chercher par son nom ou son DIN, puis entre la date et le montant; la couverture s'affiche. La période de couverture va du 1er septembre au 31 août, et Greenshield répond au 1-888-711-1119.",
+      "en": "Log in to your Greenshield account, choose the service, item or drug, which you can search by name or DIN, then enter the date and amount; your coverage appears. The coverage period runs September 1 to August 31, and Greenshield is at 1-888-711-1119."
+    },
+    "sources": [
+      {
+        "label": "Insurance Coverages — GSAÉD",
+        "url": "https://gsaed.ca/insurance-coverage/"
+      },
+      {
+        "label": "Couvertures d'assurance — GSAÉD",
+        "url": "https://gsaed.ca/fr/insurance-coverage/"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-ramu-carte",
+    "category": "sante",
+    "keywords": [
+      "carte ramu",
+      "uhip card",
+      "cowan",
+      "recevoir carte",
+      "get my card",
+      "portail cowan",
+      "cowan portal",
+      "numéro étudiant uo",
+      "certificat ramu",
+      "imprimer carte"
+    ],
+    "question": {
+      "fr": "Comment obtenir ma carte RAMU ?",
+      "en": "How do I get my UHIP card?"
+    },
+    "answer": {
+      "fr": "Si tu commences en septembre, Cowan t'envoie un courriel à ton adresse uOttawa à la mi-août ou au début septembre; en janvier, vers la mi-décembre ou au début janvier. En t'inscrivant au portail de Cowan, ajoute « UO » devant ton numéro étudiant. Télécharge ou imprime ta carte et garde-la toujours sur toi.",
+      "en": "If you start in September, Cowan emails your uOttawa account in mid-August or early September; for January, around mid-December or early January. When registering on the Cowan portal, add UO before your student number. Download or print your card and keep it with you at all times."
+    },
+    "sources": [
+      {
+        "label": "University Health Insurance Plan (UHIP) — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-ramu-personnes-charge",
+    "category": "sante",
+    "keywords": [
+      "personnes à charge ramu",
+      "uhip dependants",
+      "conjoint ramu",
+      "spouse uhip",
+      "enfant ramu",
+      "child uhip",
+      "famille assurance",
+      "30 jours",
+      "500 $",
+      "frais de retard"
+    ],
+    "question": {
+      "fr": "Comment inscrire ma famille au RAMU ?",
+      "en": "How do I enrol my family in UHIP?"
+    },
+    "answer": {
+      "fr": "Inscris ton conjoint et tes enfants dans les 30 jours suivant leur arrivée avec le formulaire de demande pour personnes à charge du RAMU. Après 30 jours, des frais de retard de 500 $ s'appliquent. Ta carte indiquera tous les membres couverts, et leur couverture se renouvelle chaque année avec la tienne.",
+      "en": "Enrol your spouse and children within 30 days of their arrival using the UHIP Dependant Application Form. After 30 days, a $500 late fee applies. Your card will list all covered members, and their coverage renews each year with yours."
+    },
+    "sources": [
+      {
+        "label": "University Health Insurance Plan (UHIP) — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-ramu-reseau-cowan",
+    "category": "sante",
+    "keywords": [
+      "réseau cowan",
+      "preferred provider network",
+      "clinique sans payer",
+      "no upfront payment",
+      "appletree",
+      "frais administratifs",
+      "admin fee",
+      "clinique ramu",
+      "uhip clinic",
+      "gatineau ramu"
+    ],
+    "question": {
+      "fr": "Avec le RAMU, où consulter sans avoir à payer d'avance ?",
+      "en": "With UHIP, where can I see a doctor without paying upfront?"
+    },
+    "answer": {
+      "fr": "Choisis une clinique du réseau de fournisseurs privilégiés de Cowan : elle facture Cowan directement, et le réseau inclut aussi des fournisseurs à Gatineau. Attention, les cliniques Appletree facturent Cowan, mais exigent des frais administratifs de 20 $ aux personnes sans Assurance-santé de l'Ontario, non remboursés. Le Centre de santé et mieux-être du campus accepte aussi le RAMU.",
+      "en": "Choose a clinic in Cowan's Preferred Provider Network: it bills Cowan directly, and the network also includes Gatineau providers. Note that Appletree clinics bill Cowan but charge a $20 admin fee to people without OHIP, which isn't reimbursed. The campus Student Health and Wellness Centre also accepts UHIP."
+    },
+    "sources": [
+      {
+        "label": "University Health Insurance Plan (UHIP) — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-voyage-etudes-etapes",
+    "category": "services",
+    "keywords": [
+      "voyage études",
+      "study trip",
+      "échange étudiant",
+      "student exchange",
+      "formation sécurité voyage",
+      "travel safety training",
+      "registre des voyages",
+      "travel registry",
+      "destination à risque",
+      "risky destination"
+    ],
+    "question": {
+      "fr": "Je pars à l'étranger pour mes études : quelles démarches de sécurité sont obligatoires ?",
+      "en": "I'm going abroad for my studies: what safety steps are required?"
+    },
+    "answer": {
+      "fr": "Tu dois suivre la séance de sécurité en voyage ou la formation en ligne d'International SOS, puis inscrire ton voyage au registre des voyages étudiants. Au premier cycle, il faut une permission pour une destination où Affaires mondiales Canada déconseille les voyages non essentiels ou tout voyage; écris au bureau au moins 10 jours ouvrables avant. Ces étapes sont exigées pour les bourses d'échange.",
+      "en": "You must take the travel safety session or International SOS online training, then register your trip in the student travel registry. Undergrads need permission for destinations where Global Affairs Canada advises against non-essential or all travel; email the office at least 10 business days ahead. These steps are required for exchange scholarships."
+    },
+    "sources": [
+      {
+        "label": "Travel Safety — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-experience/travel-safety"
+      },
+      {
+        "label": "Sécurité des voyages internationaux — uOttawa",
+        "url": "https://www.uottawa.ca/etudes/experience-internationale/securite-voyages-internationaux"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-assurance-voyage-etudiant",
+    "category": "sante",
+    "keywords": [
+      "assurance voyage",
+      "travel insurance",
+      "ramu à l'étranger",
+      "uhip abroad",
+      "couvert à l'étranger",
+      "covered abroad",
+      "échange assurance",
+      "exchange insurance",
+      "voyage pays d'origine",
+      "home country"
+    ],
+    "question": {
+      "fr": "Suis-je couvert par une assurance voyage quand je pars à l'étranger ?",
+      "en": "Am I covered by travel insurance when I go abroad?"
+    },
+    "answer": {
+      "fr": "Si tu n'as pas fait de retrait et que tes frais sont payés, tu as une assurance voyage par le SÉUO au premier cycle, ou par la GSAÉD aux cycles supérieurs. Sinon, tu dois en acheter une. Attention, étudiant international : le RAMU ne te couvre pas hors du Canada, et ton assurance voyage ne te couvre probablement pas dans ton pays d'origine.",
+      "en": "If you haven't opted out and your fees are paid, you have travel insurance through UOSU as an undergrad, or GSAÉD as a grad student. Otherwise, you must buy your own. International students: UHIP doesn't cover you outside Canada, and your travel insurance likely won't cover you in your home country."
+    },
+    "sources": [
+      {
+        "label": "Travel Safety — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-experience/travel-safety"
+      },
+      {
+        "label": "Sécurité des voyages internationaux — uOttawa",
+        "url": "https://www.uottawa.ca/etudes/experience-internationale/securite-voyages-internationaux"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  },
+  {
+    "id": "x-urgence-a-letranger",
+    "category": "services",
+    "keywords": [
+      "urgence à l'étranger",
+      "emergency abroad",
+      "international sos",
+      "perdu passeport",
+      "danger à l'étranger",
+      "in danger abroad",
+      "appli assistance",
+      "assistance app",
+      "protection depuis l'étranger",
+      "call from abroad"
+    ],
+    "question": {
+      "fr": "J'ai une urgence pendant un voyage d'études à l'étranger : qui appeler ?",
+      "en": "I have an emergency during a study trip abroad: who do I call?"
+    },
+    "answer": {
+      "fr": "Si tu es en danger immédiat, appelle les services d'urgence locaux. Pour du soutien médical, logistique ou de sécurité, joins International SOS, notamment par son application d'assistance, puis ton assureur au besoin. Tu peux aussi joindre en tout temps le Service de la protection de uOttawa au +1-613-562-5411.",
+      "en": "If you're in immediate danger, call local emergency services. For medical, logistical or security support, contact International SOS, including through its Assistance app, then your insurer if needed. You can also reach uOttawa Protection Services anytime at +1-613-562-5411."
+    },
+    "sources": [
+      {
+        "label": "Travel Safety — uOttawa",
+        "url": "https://www.uottawa.ca/study/international-experience/travel-safety"
+      },
+      {
+        "label": "Sécurité des voyages internationaux — uOttawa",
+        "url": "https://www.uottawa.ca/etudes/experience-internationale/securite-voyages-internationaux"
+      }
+    ],
+    "verifiedOn": "2026-11-16",
+    "status": "official"
+  }
+]

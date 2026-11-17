@@ -1,0 +1,2908 @@
+[
+ {
+  "id": "y-suspension-document-voyage",
+  "category": "international",
+  "keywords": [
+   "suspension document de voyage",
+   "courriel ircc suspension",
+   "ebola",
+   "visa suspendu",
+   "ave suspendue",
+   "travel document suspended",
+   "ircc email suspension",
+   "eta suspended",
+   "visa suspended",
+   "border measures",
+   "can i travel ebola"
+  ],
+  "question": {
+   "fr": "J'ai reçu un courriel d'IRCC qui parle de la suspension de mon document de voyage : qu'est-ce que ça veut dire ?",
+   "en": "I got an IRCC email about my travel document being suspended: what does it mean?"
+  },
+  "answer": {
+   "fr": "Selon l'Université, c'est lié aux mesures frontalières temporaires sur l'Ebola, prolongées jusqu'au 27 novembre 2026 : vérifie le numéro de document en haut à droite du courriel. Si c'est ton visa ou ton AVE, ton statut au Canada n'est pas touché et tu peux continuer d'étudier ou de travailler avec ton permis valide, mais tu ne pourrais pas revenir si tu quittes le pays. L'Université recommande d'éviter les voyages internationaux et de contacter l'équipe conseil en immigration étudiante.",
+   "en": "According to the University, this is linked to temporary Ebola-related border measures, extended until November 27, 2026: check the document number in the top-right corner of the email. If it's your visa or eTA, your status in Canada isn't affected and you can keep studying or working on your valid permit, but you wouldn't be able to re-enter if you leave. The University recommends avoiding international travel and contacting the Student Immigration Advising Team."
+  },
+  "sources": [
+   {
+    "label": "Immigration — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-doctorat-traitement-rapide",
+  "category": "international",
+  "keywords": [
+   "traitement plus rapide doctorat",
+   "permis d'études doctorat rapide",
+   "phd faster processing",
+   "doctoral study permit faster",
+   "famille doctorant immigration",
+   "phd family immigration",
+   "accelerated processing phd",
+   "délai permis doctorat",
+   "phd permit processing time"
+  ],
+  "question": {
+   "fr": "Je suis au doctorat : ma demande d'immigration peut-elle être traitée plus vite ?",
+   "en": "I'm a PhD student: can my immigration application be processed faster?"
+  },
+  "answer": {
+   "fr": "Peut-être : selon la page Immigration de l'Université, les demandes des doctorants et des membres de leur famille qui les accompagnent peuvent être admissibles à un traitement plus rapide. Suis les instructions de cette page, et pose tes questions à l'équipe conseil en immigration étudiante.",
+   "en": "Possibly: according to the University's Immigration page, applications from PhD students and their accompanying family members may be eligible for faster processing. Follow the instructions on that page, and ask the Student Immigration Advising Team if you have questions."
+  },
+  "sources": [
+   {
+    "label": "Immigration — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "y-permis-coop-demande-en-cours",
+  "category": "international",
+  "keywords": [
+   "demande permis coop en cours",
+   "permis de travail coop en attente",
+   "pending co-op work permit",
+   "co-op permit application withdrawn",
+   "ircc retire demande coop",
+   "already applied co-op permit",
+   "permis coop plus nécessaire",
+   "co-op work permit no longer required",
+   "coop stage permis"
+  ],
+  "question": {
+   "fr": "J'avais déjà demandé un permis de travail coop : est-ce que je dois faire quelque chose ?",
+   "en": "I already applied for a co-op work permit: do I need to do anything?"
+  },
+  "answer": {
+   "fr": "Non : depuis le 1er avril 2026, le permis de travail coop n'est plus requis, et la page Immigration indique que les étudiants avec une demande en attente n'ont rien à faire. IRCC retirera toutes les demandes admissibles et actives.",
+   "en": "No: since April 1, 2026, the co-op work permit is no longer required, and the Immigration page says students with a pending application don't need to take any action. IRCC will withdraw all eligible and active applications."
+  },
+  "sources": [
+   {
+    "label": "Immigration — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-pal-nom-passeport",
+  "category": "international",
+  "keywords": [
+   "nom pal passeport",
+   "erreur nom lettre attestation",
+   "pal wrong name",
+   "pal date of birth",
+   "corriger pal",
+   "fix pal",
+   "pal reissue",
+   "dépôt admission étranger délai",
+   "deposit from outside canada",
+   "pal name passport"
+  ],
+  "question": {
+   "fr": "Que faire pour que ma lettre d'attestation provinciale soit sans erreur ?",
+   "en": "How do I make sure my provincial attestation letter has no errors?"
+  },
+  "answer": {
+   "fr": "Assure-toi que le nom et la date de naissance sur ton offre d'admission sont exactement les mêmes que sur ton passeport, car ils sont repris sur la lettre. Une fois émise, elle ne peut pas être modifiée ni réémise. Note aussi qu'un dépôt payé depuis l'étranger peut prendre jusqu'à 14 jours ouvrables à être traité.",
+   "en": "Make sure the name and date of birth on your offer of admission match your passport exactly, since they're copied onto the letter. Once issued, it can't be changed or reissued. Also note that a deposit paid from outside Canada can take up to 14 business days to be processed."
+  },
+  "sources": [
+   {
+    "label": "Provincial attestation letter (PAL) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/provincial-attestation-letter"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-pal-exemptions",
+  "category": "international",
+  "keywords": [
+   "exemption pal",
+   "qui n'a pas besoin de pal",
+   "who doesn't need a pal",
+   "pal exempt",
+   "lettre exemption pal",
+   "pal exemption letter",
+   "pal échange",
+   "pal renouvellement visa",
+   "pal same level extension",
+   "pal refugee",
+   "sans lettre d'attestation provinciale"
+  ],
+  "question": {
+   "fr": "Qui n'a pas besoin de lettre d'attestation provinciale ?",
+   "en": "Who doesn't need a provincial attestation letter?"
+  },
+  "answer": {
+   "fr": "Entre autres : les étudiants qui prolongent leur permis pour continuer à uOttawa au même niveau d'études, ceux qui renouvellent seulement leur visa ou AVE, les étudiants d'échange, ceux qui passent par le Programme pilote pour les communautés francophones en situation minoritaire, les réfugiés au sens de la Convention ou personnes protégées, et les boursiers d'Affaires mondiales Canada. Si tu es exempté, l'Université offre un modèle de lettre d'exemption à personnaliser et à joindre à ta demande.",
+   "en": "Among others: students extending their permit to continue at uOttawa at the same level of study, those only renewing their visa or eTA, exchange students, those applying through the Francophone Minority Communities Student Pilot, Convention refugees or protected persons, and Global Affairs Canada scholarship holders. If you're exempt, the University provides a sample exemption letter to personalize and include with your application."
+  },
+  "sources": [
+   {
+    "label": "Provincial attestation letter (PAL) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/provincial-attestation-letter"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-pal-validite",
+  "category": "international",
+  "keywords": [
+   "validité pal",
+   "pal expire",
+   "pal expiry",
+   "pal valid how long",
+   "date expiration lettre attestation",
+   "pal still valid",
+   "soumettre avant expiration pal",
+   "pal validity",
+   "pal expired"
+  ],
+  "question": {
+   "fr": "Ma lettre d'attestation provinciale doit-elle rester valide pendant tout mon séjour ?",
+   "en": "Does my provincial attestation letter need to stay valid for my whole stay?"
+  },
+  "answer": {
+   "fr": "Non : elle doit seulement être valide au moment où tu soumets ta demande de permis d'études. L'Université conseille de soumettre ta demande au moins un jour avant son expiration.",
+   "en": "No: it only needs to be valid when you submit your study permit application. The University advises submitting your application at least one day before it expires."
+  },
+  "sources": [
+   {
+    "label": "Provincial attestation letter (PAL) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/provincial-attestation-letter"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-plan-etudes-contenu",
+  "category": "international",
+  "keywords": [
+   "plan d'études permis",
+   "study plan",
+   "lettre d'explication permis",
+   "how to write study plan",
+   "comment écrire plan d'études",
+   "study plan length",
+   "study plan visa",
+   "plan d'études une page",
+   "liens avec pays d'origine",
+   "ties to home country"
+  ],
+  "question": {
+   "fr": "Comment rédiger le plan d'études pour ma demande de permis d'études ?",
+   "en": "How do I write the study plan for my study permit application?"
+  },
+  "answer": {
+   "fr": "L'Université recommande un plan d'une page maximum, factuel et direct, relu par quelqu'un qui maîtrise bien l'anglais. Explique pourquoi tu veux étudier au Canada dans ce programme, tes objectifs, pourquoi pas un programme semblable dans ton pays, tes liens avec ton pays d'origine, qui finance tes études et ton parcours scolaire. Téléverse-le dans la section des renseignements du client de ta liste de documents IRCC.",
+   "en": "The University recommends one page maximum, factual and direct, reviewed by someone with strong English skills. Explain why you want to study this program in Canada, your goals, why not a similar program at home, your ties to your home country, who's funding your studies and your education history. Upload it in the Client Information section of your IRCC document checklist."
+  },
+  "sources": [
+   {
+    "label": "How to write a study plan for your study permit application — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada/how-to-write-a-study-plan"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-famille-accompagner",
+  "category": "international",
+  "keywords": [
+   "amener ma famille",
+   "conjoint permis de travail ouvert",
+   "spouse open work permit",
+   "bring my family canada",
+   "enfants au canada études",
+   "children study permit family",
+   "spouse visa",
+   "famille visa",
+   "partner come with me",
+   "conjoint de fait"
+  ],
+  "question": {
+   "fr": "Ma famille peut-elle venir avec moi au Canada pendant mes études ?",
+   "en": "Can my family come with me to Canada during my studies?"
+  },
+  "answer": {
+   "fr": "Ton conjoint ou conjoint de fait et tes enfants à charge pourraient vivre avec toi au Canada ; dans la plupart des cas, ils doivent demander leur propre visa ou AVE en même temps que toi. Ton conjoint pourrait aussi être admissible à un permis de travail ouvert pendant tes études. N'oublie pas de les inscrire au RAMU dans les 30 jours suivant leur arrivée.",
+   "en": "Your spouse or common-law partner and your dependent children might be able to live with you in Canada; in most cases they should apply for their own visa or eTA at the same time as you. Your spouse might also be eligible for an open work permit while you study. Don't forget to enrol them in UHIP within 30 days of their arrival."
+  },
+  "sources": [
+   {
+    "label": "Apply for your study permit from outside Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   },
+   {
+    "label": "University Health Insurance Plan (UHIP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-americains-permis-frontiere",
+  "category": "international",
+  "keywords": [
+   "américain permis d'études",
+   "us citizen study permit",
+   "permis à la frontière",
+   "apply at border",
+   "port of entry application us",
+   "résident permanent américain",
+   "greenland",
+   "saint-pierre-et-miquelon",
+   "us citizen visa canada",
+   "american student canada"
+  ],
+  "question": {
+   "fr": "Je suis citoyen américain : comment obtenir mon permis d'études ?",
+   "en": "I'm a U.S. citizen: how do I get my study permit?"
+  },
+  "answer": {
+   "fr": "Les citoyens et résidents permanents des États-Unis, ainsi que les résidents du Groenland et de Saint-Pierre-et-Miquelon, peuvent demander leur permis d'études à leur entrée au Canada, à un poste frontalier ou dans un aéroport canadien. Les citoyens américains n'ont besoin ni de visa ni d'AVE pour entrer au Canada. Prépare tous les documents exigés par IRCC avant ton arrivée.",
+   "en": "U.S. citizens and permanent residents, and residents of Greenland or St. Pierre and Miquelon, can apply for their study permit when entering Canada, at a land border crossing or a Canadian airport. U.S. citizens don't need a visa or an eTA to travel to Canada. Have all the documents IRCC requires ready before you arrive."
+  },
+  "sources": [
+   {
+    "label": "Apply for your study permit from outside Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   },
+   {
+    "label": "Travelling to Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/travelling-to-and-out-of-canada/travelling-to-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-visa-ave-automatique",
+  "category": "international",
+  "keywords": [
+   "visa en plus du permis",
+   "dois-je demander un visa",
+   "do i need a visa too",
+   "trv study permit",
+   "eta study permit",
+   "visa de résident temporaire",
+   "autorisation de voyage électronique",
+   "passport visa stamp",
+   "envoyer mon passeport",
+   "temporary resident visa automatically"
+  ],
+  "question": {
+   "fr": "Dois-je demander un visa ou une AVE séparément de mon permis d'études ?",
+   "en": "Do I need to apply for a visa or eTA separately from my study permit?"
+  },
+  "answer": {
+   "fr": "Non : si tu fais ta demande de permis d'études depuis l'extérieur du Canada et qu'elle est approuvée, IRCC te délivre automatiquement un visa de résident temporaire ou une AVE, selon ta nationalité. Si tu as besoin d'un visa, on te demandera d'envoyer ton passeport pour qu'on y appose le visa ; une AVE, elle, est liée électroniquement à ton passeport.",
+   "en": "No: if you apply for your study permit from outside Canada and it's approved, IRCC automatically issues a temporary resident visa or an eTA, depending on your nationality. If you need a visa, you'll be asked to send your passport so it can be placed in it; an eTA is linked electronically to your passport."
+  },
+  "sources": [
+   {
+    "label": "Apply for your study permit from outside Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-lettre-introduction",
+  "category": "international",
+  "keywords": [
+   "lettre d'introduction",
+   "lettre point d'entrée",
+   "port of entry letter",
+   "letter of introduction",
+   "poe letter",
+   "is the poe letter my permit",
+   "permis d'études approuvé",
+   "study permit approved what next",
+   "approval letter study permit"
+  ],
+  "question": {
+   "fr": "Ma demande de permis d'études est approuvée : la lettre d'IRCC, c'est mon permis ?",
+   "en": "My study permit was approved: is the IRCC letter my permit?"
+  },
+  "answer": {
+   "fr": "Non : la lettre d'introduction, aussi appelée lettre de point d'entrée, n'est pas ton permis d'études. Tu dois la présenter à l'agent frontalier à ton arrivée pour qu'on te délivre ton permis. N'entre jamais au Canada avec seulement ton visa ou ton AVE, sinon obtenir ton permis une fois au pays sera beaucoup plus compliqué.",
+   "en": "No: the letter of introduction, also called the port of entry letter, isn't your study permit. You must show it to the border officer when you arrive to receive your permit. Never enter Canada with only your visa or eTA, or getting your permit once in the country will be much more complicated."
+  },
+  "sources": [
+   {
+    "label": "Apply for your study permit from outside Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   },
+   {
+    "label": "Travelling to Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/travelling-to-and-out-of-canada/travelling-to-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-permis-premier-point-entree",
+  "category": "international",
+  "keywords": [
+   "premier point d'entrée",
+   "first point of entry",
+   "escale toronto permis",
+   "connecting flight toronto permit",
+   "vérifier mon permis d'études",
+   "erreur sur mon permis",
+   "error on study permit",
+   "study permit mistake",
+   "autorisation de travail sur le permis",
+   "work authorization on permit"
+  ],
+  "question": {
+   "fr": "J'atterris à Toronto avant Ottawa : où est-ce que je reçois mon permis d'études ?",
+   "en": "I land in Toronto before Ottawa: where do I get my study permit?"
+  },
+  "answer": {
+   "fr": "À ton premier point d'entrée : dans ce cas, fais toutes les formalités et obtiens ton permis à Toronto. Avant de quitter le comptoir d'immigration, vérifie tes renseignements et assure-toi que le permis mentionne l'autorisation de travailler sur et hors campus si tu y as droit. Une erreur non corrigée sur place peut prendre plusieurs mois à faire corriger.",
+   "en": "At your first point of entry: in this case, complete all formalities and get your permit in Toronto. Before leaving the immigration desk, check your details and make sure the permit includes authorization to work on and off campus if you're eligible. An error not corrected on the spot can take several months to fix later."
+  },
+  "sources": [
+   {
+    "label": "Travelling to Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/travelling-to-and-out-of-canada/travelling-to-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-preuve-fonds-permis",
+  "category": "international",
+  "keywords": [
+   "preuve de fonds",
+   "proof of funds",
+   "combien d'argent pour le permis",
+   "how much money study permit",
+   "relevés bancaires permis",
+   "bank statements visa",
+   "capacité financière",
+   "financial support study permit",
+   "frais de scolarité première année"
+  ],
+  "question": {
+   "fr": "Quelle preuve de fonds faut-il pour la demande de permis d'études ?",
+   "en": "What proof of funds do I need for my study permit application?"
+  },
+  "answer": {
+   "fr": "Tu dois démontrer que tu peux subvenir à tes besoins et à ceux de ta famille qui t'accompagne : un montant minimal par année, plus tes droits de scolarité de première année et tes frais de voyage. Montre de préférence des fonds liquides ou facilement accessibles. Même si on exige la preuve pour la première année seulement, l'agent évaluera aussi si tu auras assez pour les années suivantes.",
+   "en": "You must show you can support yourself and any accompanying family: a minimum amount per year, plus your first-year tuition and travel costs. Ideally show liquid or readily accessible funds. Even though proof is only required for the first year, the officer will also assess whether you'll have enough for the remaining years."
+  },
+  "sources": [
+   {
+    "label": "Apply for your study permit from outside Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-prolonger-permis-quand",
+  "category": "international",
+  "keywords": [
+   "prolonger permis d'études",
+   "extend study permit when",
+   "quand prolonger",
+   "permis expire bientôt",
+   "study permit expiring",
+   "prolongation délai",
+   "extension processing time",
+   "renouveler permis d'études",
+   "renew study permit"
+  ],
+  "question": {
+   "fr": "Quand dois-je demander la prolongation de mon permis d'études ?",
+   "en": "When should I apply to extend my study permit?"
+  },
+  "answer": {
+   "fr": "Ton permis doit rester valide pendant tout ton programme : l'Université recommande de soumettre ta demande cinq à six mois avant son expiration, et de consulter les délais de traitement d'IRCC. Les prolongations se font seulement depuis le Canada ; si tu es à l'étranger quand ton permis expire, tu dois faire une nouvelle demande avec une preuve que tu es un étudiant de retour.",
+   "en": "Your permit must stay valid for your whole program: the University recommends applying five to six months before it expires, and checking IRCC processing times. Extensions can only be done from within Canada; if you're abroad when your permit expires, you must submit a new application with proof you're a returning student."
+  },
+  "sources": [
+   {
+    "label": "How to extend your study permit from within Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-extend-your-study-permit-from-within-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-changer-etablissement-permis",
+  "category": "international",
+  "keywords": [
+   "changer d'établissement permis",
+   "transfer to uottawa study permit",
+   "changing institutions study permit",
+   "secondaire au canada vers université",
+   "high school to university permit",
+   "transfert collège université permis",
+   "new study permit transfer",
+   "permis pour nouvelle école"
+  ],
+  "question": {
+   "fr": "Je change d'établissement au Canada pour venir à uOttawa : ai-je besoin d'un nouveau permis ?",
+   "en": "I'm transferring to uOttawa from another Canadian school: do I need a new permit?"
+  },
+  "answer": {
+   "fr": "Oui, il te faut un nouveau permis pour ton nouvel établissement ; officiellement, ça s'appelle une prolongation. Si tu passes d'un établissement postsecondaire à un autre, tu dois attendre ton nouveau permis avant de commencer. Si tu viens d'une école secondaire au Canada, tu peux commencer l'université pendant le traitement, à condition d'avoir fait ta demande avant l'expiration de ton permis.",
+   "en": "Yes, you need a new permit for your new institution; officially, it's called an extension. If you're moving between two postsecondary institutions, you must wait for your new permit before starting. If you're coming from a Canadian high school, you can start university while it's processed, as long as you applied before your permit expired."
+  },
+  "sources": [
+   {
+    "label": "How to extend your study permit from within Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-extend-your-study-permit-from-within-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-visa-apres-prolongation",
+  "category": "international",
+  "keywords": [
+   "visa expiré",
+   "trv expired",
+   "renouveler visa",
+   "renew trv",
+   "eta expiring",
+   "ave expire",
+   "visa after study permit extension",
+   "voyager pendant prolongation",
+   "travel during extension",
+   "visa pas renouvelé automatiquement"
+  ],
+  "question": {
+   "fr": "Ma prolongation de permis est approuvée, mais mon visa expire : est-il renouvelé aussi ?",
+   "en": "My permit extension was approved but my visa is expiring: is it renewed too?"
+  },
+  "answer": {
+   "fr": "Non : une prolongation approuvée ne te donne pas automatiquement un nouveau visa ou une nouvelle AVE, tu dois faire une demande séparée, sans lettre d'attestation provinciale. Il te faut un visa ou une AVE valide pour revenir au Canada, alors vérifie-le avant de voyager pendant que ta demande est en traitement.",
+   "en": "No: an approved extension doesn't automatically give you a new visa or eTA, so you must submit a separate application, with no provincial attestation letter needed. You need a valid visa or eTA to re-enter Canada, so check it before travelling while your application is in progress."
+  },
+  "sources": [
+   {
+    "label": "How to extend your study permit from within Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-extend-your-study-permit-from-within-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-voyage-etats-unis",
+  "category": "international",
+  "keywords": [
+   "voyage aux états-unis",
+   "travel to us",
+   "visa pour revenir des états-unis",
+   "return from us without visa",
+   "trip to new york",
+   "fin de semaine aux états-unis",
+   "weekend in the us",
+   "trv expired us trip",
+   "voyager usa étudiant international"
+  ],
+  "question": {
+   "fr": "Mon visa est expiré : puis-je aller aux États-Unis et revenir au Canada ?",
+   "en": "My visa has expired: can I go to the U.S. and come back to Canada?"
+  },
+  "answer": {
+   "fr": "Selon l'Université, si tu as un permis d'études, un permis de travail ou un statut de visiteur valide et que tu voyages seulement aux États-Unis, tu n'as pas besoin d'un visa valide pour revenir, à condition de rentrer avant la fin de ton séjour autorisé. L'équipe d'immigration ne peut pas te conseiller sur les règles d'entrée aux États-Unis : renseigne-toi auprès de leur consulat. La décision finale revient toujours à l'agent frontalier.",
+   "en": "According to the University, if you hold a valid study permit, work permit or visitor status and travel only to the U.S., you don't need a valid visa to return, as long as you come back before your authorized stay ends. The immigration team can't advise on U.S. entry rules, so check with their consulate. The final decision always rests with the border officer."
+  },
+  "sources": [
+   {
+    "label": "Travelling outside Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/travelling-to-and-out-of-canada/travelling-outside-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-voyage-hors-canada-verifier",
+  "category": "international",
+  "keywords": [
+   "voyager hors du canada",
+   "travel outside canada",
+   "vacances pays d'origine",
+   "go home for holidays",
+   "permis expire pendant voyage",
+   "permit expires while abroad",
+   "documents pour revenir",
+   "re-enter canada documents",
+   "partir en vacances étudiant international"
+  ],
+  "question": {
+   "fr": "Je pars en voyage hors du Canada : qu'est-ce que je dois vérifier avant ?",
+   "en": "I'm travelling outside Canada: what should I check first?"
+  },
+  "answer": {
+   "fr": "Vérifie les dates d'expiration de ton permis d'études, de ton passeport et de ton visa ou AVE. Si ton permis expire dans six mois ou moins, demande une prolongation le plus tôt possible. Si ton permis expire pendant que tu es à l'étranger, tu devras faire une nouvelle demande dans ton compte IRCC, avec une lettre d'attestation provinciale.",
+   "en": "Check the expiry dates of your study permit, passport and visa or eTA. If your permit expires in six months or less, apply for an extension as soon as possible. If your permit expires while you're abroad, you'll have to submit a new application through your IRCC account, with a provincial attestation letter."
+  },
+  "sources": [
+   {
+    "label": "Travelling outside Canada — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/travelling-to-and-out-of-canada/travelling-outside-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-retrait-programme-immigration",
+  "category": "international",
+  "keywords": [
+   "retiré du programme",
+   "withdrawn from program",
+   "exclusion académique permis",
+   "academic withdrawal study permit",
+   "étudiant non admissible à un grade",
+   "non-degree student permit",
+   "mise à niveau permis d'études",
+   "academic upgrading work",
+   "changer de programme immigration"
+  ],
+  "question": {
+   "fr": "Je dois me retirer de mon programme pour raisons académiques : qu'arrive-t-il à mon statut ?",
+   "en": "I have to withdraw from my program for academic reasons: what happens to my status?"
+  },
+  "answer": {
+   "fr": "Au premier cycle, selon le moment et ta MPC, tu pourrais changer de programme avant que le retrait prenne effet ; un programme du même niveau n'a pas à être déclaré à IRCC. Si tu continues comme étudiant non admissible à un grade, tu ne peux plus travailler hors campus, mais tu peux travailler sur le campus à temps plein. Écris à l'équipe conseil en immigration pour des conseils adaptés à ta situation.",
+   "en": "As an undergraduate, depending on timing and your CGPA, you might be able to change programs before the withdrawal takes effect; a program at the same level doesn't need to be reported to IRCC. If you continue as a non-degree student, you can no longer work off campus, but you can still work on campus as a full-time student. Email the immigration advising team for advice on your situation."
+  },
+  "sources": [
+   {
+    "label": "Impact of changes to your studies on your immigration status — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/impact-of-changes-to-studies-on-immigration-status"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-cs-temps-partiel-immigration",
+  "category": "international",
+  "keywords": [
+   "maîtrise temps partiel immigration",
+   "graduate part time immigration",
+   "nombre de cours études supérieures permis",
+   "grad student units full time",
+   "doctorat temps plein permis",
+   "master's course load study permit",
+   "cycles supérieurs statut",
+   "graduate full-time status"
+  ],
+  "question": {
+   "fr": "Aux cycles supérieurs, le nombre de cours que je prends affecte-t-il mon statut d'immigration ?",
+   "en": "In graduate studies, does the number of courses I take affect my immigration status?"
+  },
+  "answer": {
+   "fr": "Non : selon l'Université, si tu as été admis à temps plein à un diplôme ou à un programme d'études supérieures, tu es considéré à temps plein pour l'immigration, peu importe le nombre de cours. Au premier cycle, par contre, c'est 12 unités par trimestre qui comptent.",
+   "en": "No: according to the University, if you were admitted full time to a graduate diploma or program, you're considered full time for immigration, regardless of the number of courses. At the undergraduate level, however, it's 12 units per term that count."
+  },
+  "sources": [
+   {
+    "label": "Impact of changes to your studies on your immigration status — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/impact-of-changes-to-studies-on-immigration-status"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-conges-planifies",
+  "category": "international",
+  "keywords": [
+   "congés réguliers",
+   "scheduled breaks",
+   "travailler l'été temps plein",
+   "work full time summer",
+   "semaine de lecture travail",
+   "reading week work",
+   "printemps-été congé",
+   "spring summer break international",
+   "work unlimited hours break",
+   "vacances d'hiver travail"
+  ],
+  "question": {
+   "fr": "C'est quoi un congé régulier, et quand puis-je travailler à temps plein ?",
+   "en": "What counts as a scheduled break, and when can I work full time?"
+  },
+  "answer": {
+   "fr": "À uOttawa, les congés réguliers incluent l'été, le congé d'hiver et les semaines de lecture, mais ça varie selon ton programme, alors vérifie ta séquence de cours. Tu peux travailler sans limite d'heures pendant un congé si tu es à temps plein au trimestre juste avant et juste après. Attention : le printemps-été est un congé pour la plupart des étudiants du premier cycle, mais aux cycles supérieurs tu dois rester inscrit chaque trimestre, sauf exception de ton programme.",
+   "en": "At uOttawa, scheduled breaks include summer, winter break and reading weeks, but it varies by program, so check your course sequence. You can work unlimited hours during a break if you're full time in the terms immediately before and after. Note: spring-summer is a break for most undergraduates, but graduate students must stay enrolled every term unless their program says otherwise."
+  },
+  "sources": [
+   {
+    "label": "Working on and off campus — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/working-on-and-off-campus"
+   },
+   {
+    "label": "Impact of changes to your studies on your immigration status — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/impact-of-changes-to-studies-on-immigration-status"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-travail-campus-definition",
+  "category": "international",
+  "keywords": [
+   "c'est quoi travail sur le campus",
+   "what counts as on-campus work",
+   "assistant d'enseignement hôpital",
+   "ta at hospital",
+   "research assistant institute",
+   "entreprise privée sur le campus",
+   "private business on campus job",
+   "travailleur autonome campus",
+   "self-employed on campus",
+   "employeur sur le campus"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qui compte comme un emploi sur le campus pour un étudiant international ?",
+   "en": "What counts as an on-campus job for an international student?"
+  },
+  "answer": {
+   "fr": "C'est un emploi à l'intérieur des limites du campus : pour l'Université, un professeur, une association étudiante, une entreprise privée située sur le campus ou ta propre entreprise si elle y est située. Un poste d'assistant d'enseignement ou de recherche dans un hôpital ou institut affilié compte aussi s'il est directement lié à ta recherche. Un autre type de poste à ces endroits, comme un emploi administratif, est considéré hors campus et compte dans la limite de 24 heures.",
+   "en": "It's a job within the campus boundaries: for the University, a professor, a student organization, a private business located on campus, or your own business if it's located there. A teaching or research assistant position in an affiliated hospital or institute also counts if it's directly connected to your research. Other positions there, like an administrative job, are considered off campus and count toward the 24-hour limit."
+  },
+  "sources": [
+   {
+    "label": "Working on and off campus — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/working-on-and-off-campus"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-benevolat-24-heures",
+  "category": "international",
+  "keywords": [
+   "bénévolat compte 24 heures",
+   "does volunteering count work hours",
+   "unpaid work 24 hours",
+   "travail non rémunéré",
+   "stage non payé hors campus",
+   "calculer mes heures de travail",
+   "track work hours",
+   "off-campus hours limit",
+   "compter heures hors campus"
+  ],
+  "question": {
+   "fr": "Le travail non rémunéré compte-t-il dans mes 24 heures par semaine hors campus ?",
+   "en": "Does unpaid work count toward my 24 hours a week off campus?"
+  },
+  "answer": {
+   "fr": "Oui : selon la page de l'Université, la limite de 24 heures par semaine hors campus pendant les trimestres s'applique au travail rémunéré ou non. Tu dois suivre toutes tes heures de travail hors campus et respecter les conditions de ton permis ; la page explique comment les calculer.",
+   "en": "Yes: according to the University's page, the 24-hours-a-week off-campus limit during terms applies to paid or unpaid work. You must track all your off-campus hours and comply with your permit conditions; the page explains how to calculate them."
+  },
+  "sources": [
+   {
+    "label": "Working on and off campus — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/working-on-and-off-campus"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-stage-obligatoire-heures",
+  "category": "international",
+  "keywords": [
+   "stage obligatoire plus d'heures",
+   "co-op more than 24 hours",
+   "internship hours limit",
+   "travailler temps plein en coop",
+   "full time co-op placement international",
+   "stage obligatoire conditions",
+   "mandatory work placement criteria",
+   "coop 50% programme"
+  ],
+  "question": {
+   "fr": "Pendant mon stage coop obligatoire, puis-je travailler plus que les heures habituelles ?",
+   "en": "During my mandatory co-op placement, can I work more than the usual hours?"
+  },
+  "answer": {
+   "fr": "Oui, tu pourrais travailler plus d'heures que les règles habituelles si tu étudies à temps plein, sauf au dernier trimestre, dans un programme d'au moins six mois, avec un permis valide qui t'autorise à travailler sur le campus. Le stage doit être obligatoire dans ton programme et ne pas dépasser 50 % de celui-ci.",
+   "en": "Yes, you might be able to work more hours than usual rules allow if you're studying full time, except in your final term, in a program at least six months long, with a valid permit that lets you work on campus. The placement must be a mandatory part of your program and make up no more than 50% of it."
+  },
+  "sources": [
+   {
+    "label": "Working on and off campus — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/working-on-and-off-campus"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-cs-conge-international",
+  "category": "international",
+  "keywords": [
+   "congé études supérieures international",
+   "graduate leave of absence international",
+   "politique c-3",
+   "policy c-3",
+   "congé maîtrise permis",
+   "phd leave study permit",
+   "superviseur congé",
+   "supervisor leave approval"
+  ],
+  "question": {
+   "fr": "Je suis aux cycles supérieurs et étudiant international : comment demander un congé ?",
+   "en": "I'm an international graduate student: how do I request a leave?"
+  },
+  "answer": {
+   "fr": "Consulte d'abord la Politique C-3 sur l'inscription et les congés aux études supérieures. Remplis ensuite le formulaire du site des Études supérieures et postdoctorales ou de ton unité : ta demande est examinée par ton superviseur, puis par ton unité. Avant tout, parle à un conseiller en immigration par la file virtuelle d'InfoService.",
+   "en": "First review Policy C-3 on graduate enrolment and leaves of absence. Then fill out the form from Graduate and Postdoctoral Studies or your academic unit: your request is reviewed by your supervisor, then by your unit. Before anything, talk to an immigration adviser through the InfoService virtual line."
+  },
+  "sources": [
+   {
+    "label": "Authorized leave for international students — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/authorized-leave-for-international-students"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-retour-apres-conge",
+  "category": "international",
+  "keywords": [
+   "retour après congé",
+   "return after leave",
+   "prolonger mon congé",
+   "extend leave international",
+   "can't return after leave",
+   "reprendre études après congé",
+   "deuxième trimestre congé",
+   "documents congé garder"
+  ],
+  "question": {
+   "fr": "Je suis en congé autorisé au premier cycle et je ne pourrai pas revenir comme prévu : que faire ?",
+   "en": "I'm on an authorized undergraduate leave and can't return as planned: what do I do?"
+  },
+  "answer": {
+   "fr": "On s'attend à ce que tu reprennes tes études au trimestre qui suit ton congé. Si ce n'est pas possible, rencontre un conseiller en immigration pour voir l'effet sur ton statut et si tu peux demander un autre congé. Garde aussi tous les documents qui prouvent ton congé : tu pourrais en avoir besoin pour une prolongation de permis ou un PTPD.",
+   "en": "You're expected to resume your studies in the term right after your leave. If you can't, meet an immigration adviser to see the impact on your status and whether you can request another leave. Also keep all documents proving your leave: you might need them for a permit extension or a PGWP."
+  },
+  "sources": [
+   {
+    "label": "Authorized leave for international students — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/authorized-leave-for-international-students"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-ptpd-admissibilite",
+  "category": "international",
+  "keywords": [
+   "admissibilité ptpd",
+   "pgwp eligibility",
+   "qui peut avoir le ptpd",
+   "who qualifies for pgwp",
+   "permis de travail postdiplôme conditions",
+   "post-graduation work permit requirements",
+   "ptpd domaine d'études",
+   "field of study pgwp",
+   "pgwp language requirement",
+   "ptpd temps plein"
+  ],
+  "question": {
+   "fr": "Quelles sont les conditions pour obtenir un permis de travail postdiplôme ?",
+   "en": "What are the requirements for a post-graduation work permit?"
+  },
+  "answer": {
+   "fr": "Selon la page de l'Université, tu dois avoir terminé un programme d'au moins huit mois menant à un grade, diplôme ou certificat, avoir étudié à temps plein sauf au dernier trimestre ou pendant un congé régulier, et avoir fait au moins la moitié du programme en classe au Canada. Tu dois aussi satisfaire l'exigence linguistique et avoir un permis valide à un moment donné dans les 180 jours suivant ta confirmation de fin d'études. Les baccalauréats, maîtrises et doctorats n'ont pas à répondre à l'exigence de domaine d'études.",
+   "en": "According to the University's page, you must have completed a program of at least eight months leading to a degree, diploma or certificate, studied full time except in your final term or a scheduled break, and done at least half the program in class in Canada. You must also meet the language requirement and have held a valid permit at some point in the 180 days after your completion confirmation. Bachelor's, master's and doctoral degrees don't need to meet the field of study requirement."
+  },
+  "sources": [
+   {
+    "label": "Apply for a post-graduation work permit (PGWP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/apply-for-post-graduation-work-permit"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-ptpd-delais",
+  "category": "international",
+  "keywords": [
+   "quand demander ptpd",
+   "when to apply pgwp",
+   "180 jours ptpd",
+   "180 days pgwp",
+   "permis expire 90 jours fin études",
+   "study permit 90 days after completion",
+   "lettre de fin d'études ptpd",
+   "completion letter pgwp",
+   "deadline pgwp"
+  ],
+  "question": {
+   "fr": "Quand dois-je demander mon PTPD après la fin de mon programme ?",
+   "en": "When should I apply for my PGWP after finishing my program?"
+  },
+  "answer": {
+   "fr": "Tu peux le demander seulement après avoir reçu une confirmation écrite que tu as terminé ton programme, et au plus tard 180 jours après la date où elle est devenue disponible. Au Canada, ton permis d'études devient invalide 90 jours après cette confirmation, ou à sa date d'expiration si elle vient avant. Fais ta demande pendant que ton permis est encore valide pour pouvoir travailler à temps plein en attendant.",
+   "en": "You can only apply after receiving written confirmation that you've completed your program, and no later than 180 days after it first became available. In Canada, your study permit becomes invalid 90 days after that confirmation, or on its expiry date if that comes first. Apply while your permit is still valid so you can work full time while you wait."
+  },
+  "sources": [
+   {
+    "label": "Apply for a post-graduation work permit (PGWP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/apply-for-post-graduation-work-permit"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-ptpd-travail-avant-demande",
+  "category": "international",
+  "keywords": [
+   "travailler après dernier trimestre",
+   "work after final exams",
+   "work before pgwp",
+   "arrêter de travailler fin études",
+   "stop working after graduation",
+   "travail entre fin études et ptpd",
+   "work while waiting completion letter",
+   "150 jours nouveau programme"
+  ],
+  "question": {
+   "fr": "J'ai fini mes cours : puis-je continuer à travailler avant de demander mon PTPD ?",
+   "en": "I've finished my courses: can I keep working before applying for my PGWP?"
+  },
+  "answer": {
+   "fr": "Si tu avais le droit de travailler à ton dernier trimestre, tu peux continuer, à temps plein sur le campus et jusqu'à 24 heures par semaine hors campus, jusqu'à ce que tu reçoives la confirmation officielle de fin de programme. Tu dois alors arrêter de travailler. Exception : si tu commences un nouveau programme dans les 150 jours et que tu respectes les conditions, tu peux continuer.",
+   "en": "If you were allowed to work in your final term, you can keep working, full time on campus and up to 24 hours a week off campus, until you receive official confirmation that you've completed your program. Then you must stop working. Exception: if you start a new program within 150 days and meet the conditions, you can keep working."
+  },
+  "sources": [
+   {
+    "label": "Apply for a post-graduation work permit (PGWP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/apply-for-post-graduation-work-permit"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-ptpd-travail-apres-demande",
+  "category": "international",
+  "keywords": [
+   "travailler en attendant ptpd",
+   "work while pgwp processing",
+   "statut maintenu ptpd",
+   "maintained status pgwp work",
+   "lettre ircc autorisation travail",
+   "work authorization letter pgwp",
+   "full time after pgwp application",
+   "pgwp pending work"
+  ],
+  "question": {
+   "fr": "Puis-je travailler pendant que ma demande de PTPD est en traitement ?",
+   "en": "Can I work while my PGWP application is being processed?"
+  },
+  "answer": {
+   "fr": "Oui, tu peux travailler à temps plein après avoir soumis ta demande si tu respectes les conditions d'IRCC, et même si ton permis d'études expire pendant l'attente. Mais si tu étais en statut maintenu au moment de soumettre ta demande, ça ne compte pas comme un permis valide et tu ne pourras pas travailler en attendant la décision.",
+   "en": "Yes, you can work full time after submitting your application if you meet IRCC's conditions, even if your study permit expires while you wait. But if you were on maintained status when you applied, that doesn't count as a valid permit and you won't be allowed to work while waiting for a decision."
+  },
+  "sources": [
+   {
+    "label": "Apply for a post-graduation work permit (PGWP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/apply-for-post-graduation-work-permit"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-ptpd-deux-programmes",
+  "category": "international",
+  "keywords": [
+   "combiner deux programmes ptpd",
+   "combine two programs pgwp",
+   "ptpd passeport expire",
+   "pgwp passport expiry",
+   "prolonger ptpd",
+   "extend pgwp",
+   "deux diplômes permis de travail",
+   "second program pgwp"
+  ],
+  "question": {
+   "fr": "Puis-je combiner deux programmes pour obtenir un PTPD plus long ?",
+   "en": "Can I combine two programs to get a longer PGWP?"
+  },
+  "answer": {
+   "fr": "Oui : tu peux combiner la durée de deux programmes admissibles si tu termines le deuxième dans les deux ans suivant la fin du premier. Ton PTPD ne peut toutefois pas dépasser la validité de ton passeport ; il ne peut être prolongé que dans ce cas, par une demande papier. C'est l'agent d'immigration qui décide de la durée finale.",
+   "en": "Yes: you can combine the lengths of two eligible programs if you complete the second within two years of finishing the first. However, your PGWP can't last longer than your passport is valid; it can only be extended in that case, through a paper application. The immigration officer decides the final length."
+  },
+  "sources": [
+   {
+    "label": "Apply for a post-graduation work permit (PGWP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/apply-for-post-graduation-work-permit"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-ptpd-voyage-attente",
+  "category": "international",
+  "keywords": [
+   "voyager en attendant ptpd",
+   "travel while pgwp pending",
+   "quitter canada demande ptpd",
+   "leave canada pgwp application",
+   "où reçoit-on le ptpd",
+   "pgwp mailed",
+   "adresse postale ptpd",
+   "pgwp outside canada"
+  ],
+  "question": {
+   "fr": "J'ai demandé mon PTPD au Canada : puis-je voyager pendant l'attente ?",
+   "en": "I applied for my PGWP in Canada: can I travel while I wait?"
+  },
+  "answer": {
+   "fr": "Oui, mais assure-toi d'avoir un visa ou une AVE valide, sinon tu ne pourras pas revenir. Selon la page, voyager et revenir n'affecte pas ton droit de continuer à travailler à temps plein pendant l'attente. Si ta demande est approuvée, le PTPD est envoyé par la poste à l'adresse canadienne indiquée dans ta demande.",
+   "en": "Yes, but make sure you have a valid visa or eTA, or you won't be able to return. According to the page, travelling and returning doesn't affect your ability to keep working full time while you wait. If approved, the PGWP is mailed to the Canadian address you gave in your application."
+  },
+  "sources": [
+   {
+    "label": "Apply for a post-graduation work permit (PGWP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/working-in-canada/apply-for-post-graduation-work-permit"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-residence-permanente-conseil",
+  "category": "international",
+  "keywords": [
+   "résidence permanente conseil",
+   "permanent residence advice",
+   "citoyenneté canadienne aide",
+   "citizenship help",
+   "consultant en immigration",
+   "immigration consultant",
+   "ccic",
+   "cicc",
+   "devenir résident permanent",
+   "pr application help"
+  ],
+  "question": {
+   "fr": "L'équipe d'immigration de l'Université peut-elle m'aider avec la résidence permanente ?",
+   "en": "Can the University's immigration team help me with permanent residence?"
+  },
+  "answer": {
+   "fr": "Non : les conseillers, qui sont des consultants réglementés en immigration canadienne ou des conseillers réglementés en immigration pour étudiants étrangers, s'occupent du statut temporaire des étudiants. Pour la résidence permanente ou la citoyenneté, l'Université recommande un professionnel autorisé, que tu peux trouver par le Collège des consultants en immigration et en citoyenneté. Les conseillers ne peuvent pas non plus te représenter auprès d'IRCC.",
+   "en": "No: the advisers, who are Regulated Canadian Immigration Consultants or Regulated International Student Immigration Advisers, handle students' temporary status. For permanent residence or citizenship, the University recommends a licensed professional, which you can find through the College of Immigration and Citizenship Consultants. The advisers also can't represent you with IRCC."
+  },
+  "sources": [
+   {
+    "label": "Student Immigration Advising Team — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/student-immigration-advising-team"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-sessions-info-decembre",
+  "category": "international",
+  "keywords": [
+   "séance d'information décembre",
+   "december info session",
+   "nouveaux étudiants internationaux séance",
+   "new international students webinar",
+   "séance ramu nouveaux",
+   "uhip info session",
+   "préparer arrivée canada séance",
+   "pre-arrival session immigration"
+  ],
+  "question": {
+   "fr": "Y a-t-il des séances d'information pour les nouveaux étudiants internationaux avant l'arrivée ?",
+   "en": "Are there info sessions for new international students before arrival?"
+  },
+  "answer": {
+   "fr": "Oui : en décembre, l'équipe conseil en immigration tient une séance virtuelle sur les règles en vigueur, le moment d'arriver, les documents à apporter et ce qui t'attend à la frontière. Le conseiller RAMU tient aussi une séance virtuelle en décembre sur le fonctionnement du RAMU. Les séances mensuelles Parlons immigration, sans rendez-vous, sont aussi ouvertes.",
+   "en": "Yes: in December, the immigration advising team holds a virtual session on current rules, when to arrive, which documents to bring and what to expect at the border. The UHIP adviser also holds a virtual session in December on how UHIP works. The monthly drop-in Let's Talk Immigration sessions are also open."
+  },
+  "sources": [
+   {
+    "label": "International students checklist — uOttawa",
+    "url": "https://www.uottawa.ca/study/new-students/international-students-checklist"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-residence-documents-immigration",
+  "category": "international",
+  "keywords": [
+   "résidence étudiant international documents",
+   "residence international student documents",
+   "contrat de résidence immigration",
+   "residence agreement immigration",
+   "annuler résidence permis refusé",
+   "cancel residence permit refused",
+   "logement campus international",
+   "résidence permis d'études"
+  ],
+  "question": {
+   "fr": "Je vais vivre en résidence : y a-t-il quelque chose de spécial à savoir comme étudiant international ?",
+   "en": "I'll live in residence: is there anything special I should know as an international student?"
+  },
+  "answer": {
+   "fr": "Oui : lis attentivement ton contrat de résidence. Selon l'aide-mémoire des étudiants internationaux, il précise les documents d'immigration supplémentaires que tu dois fournir, ainsi que les options et délais d'annulation du logement.",
+   "en": "Yes: read your residence agreement carefully. According to the international students checklist, it details the additional immigration documents you must provide, as well as housing cancellation options and deadlines."
+  },
+  "sources": [
+   {
+    "label": "International students checklist — uOttawa",
+    "url": "https://www.uottawa.ca/study/new-students/international-students-checklist"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-ramu-remboursement-conditions",
+  "category": "international",
+  "keywords": [
+   "remboursement ramu",
+   "uhip refund",
+   "annuler ramu",
+   "cancel uhip",
+   "date limite remboursement ramu",
+   "uhip refund deadline",
+   "28 février ramu",
+   "finir programme tôt ramu",
+   "uhip online program refund",
+   "uhip retroactive"
+  ],
+  "question": {
+   "fr": "Dans quels cas puis-je me faire rembourser mon RAMU ?",
+   "en": "When can I get a UHIP refund?"
+  },
+  "answer": {
+   "fr": "Tu pourrais être remboursé si tu te retires de l'Université, si tu termines ton programme plus tôt et rentres chez toi, si tu es dans un programme entièrement en ligne sans volet au Canada, ou si tu es couvert par un régime provincial comme l'OHIP. Le remboursement vaut seulement pour les mois complets à partir du mois suivant ta demande, jamais rétroactivement. La date limite est le 28 février, sauf si c'est à cause d'une nouvelle couverture provinciale.",
+   "en": "You might get a refund if you withdraw from the University, finish your program early and return home, are in a fully online program with no in-Canada component, or are covered by a provincial plan like OHIP. Refunds only cover full months starting the month after your request, never retroactively. The deadline is February 28, unless it's because of new provincial coverage."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-ramu-gatineau",
+  "category": "international",
+  "keywords": [
+   "ramu gatineau",
+   "uhip gatineau",
+   "habiter au québec ramu",
+   "live in quebec uhip",
+   "clinique gatineau ramu",
+   "gatineau doctor uhip",
+   "uhip quebec coverage",
+   "vivre à gatineau étudiant international"
+  ],
+  "question": {
+   "fr": "J'habite à Gatineau : est-ce que le RAMU me couvre quand même ?",
+   "en": "I live in Gatineau: does UHIP still cover me?"
+  },
+  "answer": {
+   "fr": "Oui : même si c'est un régime pour les étudiants qui étudient en Ontario, la couverture habituelle du RAMU inclut la région de Gatineau, pour toi et tes personnes à charge. Le réseau de fournisseurs privilégiés de Cowan compte aussi des fournisseurs à Gatineau.",
+   "en": "Yes: even though it's a plan for students studying in Ontario, regular UHIP coverage includes the Gatineau region, for you and your dependants. Cowan's Preferred Provider Network also includes providers in Gatineau."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-ramu-tarifs-janvier-mai",
+  "category": "international",
+  "keywords": [
+   "prix ramu janvier",
+   "uhip cost january",
+   "ramu mai",
+   "uhip may start",
+   "ramu avec conjoint prix",
+   "uhip family cost",
+   "tarif ramu 2027",
+   "uhip premium 2026-2027",
+   "combien coûte le ramu famille"
+  ],
+  "question": {
+   "fr": "Combien coûte le RAMU si je commence en janvier ou en mai, ou avec ma famille ?",
+   "en": "How much is UHIP if I start in January or May, or with my family?"
+  },
+  "answer": {
+   "fr": "Pour 2026-2027, taxes incluses : si tu commences en janvier 2027, c'est 632 dollars seul, 1 264 avec une personne à charge et 1 896 avec deux ou plus. Si tu commences en mai 2027, c'est 316, 632 et 948 dollars. Pour une année complète dès septembre 2026, c'est 948 dollars seul, 1 896 avec une personne à charge et 2 844 avec deux ou plus.",
+   "en": "For 2026-2027, tax included: if you start in January 2027, it's $632 alone, $1,264 with one dependant and $1,896 with two or more. If you start in May 2027, it's $316, $632 and $948. For a full year starting September 2026, it's $948 alone, $1,896 with one dependant and $2,844 with two or more."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-ramu-couverture-avant-paiement",
+  "category": "international",
+  "keywords": [
+   "ramu pas encore payé",
+   "uhip not paid yet",
+   "frais ramu absents relevé",
+   "uhip fee not on statement",
+   "couvert avant de payer",
+   "covered before paying uhip",
+   "ramu relevé de compte",
+   "uhip statement of account"
+  ],
+  "question": {
+   "fr": "Je n'ai pas encore payé mon RAMU : suis-je couvert ?",
+   "en": "I haven't paid my UHIP yet: am I covered?"
+  },
+  "answer": {
+   "fr": "Oui : ta couverture commence dès que tu es admissible, même si tu n'as pas encore payé. Si les frais du RAMU n'apparaissent pas sur ton relevé de compte au début de tes études, écris à l'équipe RAMU d'InfoService pour les faire ajouter.",
+   "en": "Yes: your coverage begins as soon as you're eligible, even if you haven't paid yet. If the UHIP fees don't appear on your statement of account when you start your studies, email the InfoService UHIP team to have them added."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-ramu-sans-inscription-auto",
+  "category": "international",
+  "keywords": [
+   "ramu thèse",
+   "uhip thesis only",
+   "pas inscrit automatiquement ramu",
+   "not automatically enrolled uhip",
+   "demande couverture ramu",
+   "uhip coverage request form",
+   "résidence permanente en cours ramu",
+   "pr applicant uhip"
+  ],
+  "question": {
+   "fr": "Dans quels cas dois-je demander moi-même ma couverture RAMU ?",
+   "en": "When do I have to request UHIP coverage myself?"
+  },
+  "answer": {
+   "fr": "Contacte le conseiller RAMU d'InfoService si tu es inscrit à un cours sans avoir encore le statut d'étudiant international, si tu es aux cycles supérieurs et travailles sur ta thèse sans être inscrit à des cours ni diplômer avant le prochain trimestre, ou si tu as demandé la résidence permanente sans l'avoir reçue et n'as pas d'autre régime provincial. Dans ces cas, l'inscription n'est pas automatique.",
+   "en": "Contact the InfoService UHIP adviser if you're enrolled in a course but don't yet have international student status, if you're a graduate student working on your thesis without courses and not graduating before next term, or if you've applied for permanent residence without receiving it and have no other provincial plan. In these cases, enrolment isn't automatic."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-ramu-appletree",
+  "category": "international",
+  "keywords": [
+   "appletree ramu",
+   "appletree uhip fee",
+   "frais administratifs clinique",
+   "clinic admin fee uhip",
+   "clinique sans rendez-vous ramu",
+   "walk-in clinic uhip",
+   "20 dollars clinique",
+   "frais non remboursés"
+  ],
+  "question": {
+   "fr": "Pourquoi une clinique Appletree me demande des frais même avec le RAMU ?",
+   "en": "Why does an Appletree clinic charge me a fee even with UHIP?"
+  },
+  "answer": {
+   "fr": "Selon l'Université, les cliniques Appletree facturent Cowan directement, mais elles demandent des frais administratifs séparés, présentement de 20 dollars, aux personnes sans OHIP. Ces frais ne sont pas remboursés par Cowan. Pour éviter des coûts, choisis si possible un fournisseur du réseau privilégié de Cowan.",
+   "en": "According to the University, Appletree clinics bill Cowan directly, but they charge a separate administrative fee, currently $20, to anyone without OHIP. Cowan doesn't reimburse it. To avoid extra costs, choose a provider in Cowan's Preferred Provider Network when possible."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-assurance-complementaire-cs-hiver",
+  "category": "international",
+  "keywords": [
+   "assurance santé dentaire cycles supérieurs",
+   "graduate health dental insurance",
+   "commencer en janvier assurance dentaire",
+   "start january dental plan",
+   "adhérer assurance gsaed",
+   "opt in gsaed insurance",
+   "médicaments pas couverts ramu",
+   "prescriptions international student"
+  ],
+  "question": {
+   "fr": "Je commence aux cycles supérieurs en janvier : ai-je l'assurance santé et dentaire complémentaire ?",
+   "en": "I'm starting graduate studies in January: do I have supplemental health and dental insurance?"
+  },
+  "answer": {
+   "fr": "Pas automatiquement : aux cycles supérieurs, l'assurance de la GSAÉD est ajoutée d'office seulement si tu commences à l'automne ; si tu commences en hiver ou au printemps-été, tu dois demander à y adhérer. C'est cette assurance qui couvre les médicaments, les soins dentaires et la vue, que le RAMU ne couvre pas. Au premier cycle, celle du SÉUO est ajoutée automatiquement si tu es à temps plein.",
+   "en": "Not automatically: for graduate students, the GSAÉD plan is added automatically only if you start in the fall; if you start in winter or spring-summer, you must opt in. That's the plan that covers prescriptions, dental and vision, which UHIP doesn't. For undergraduates, the UOSU plan is added automatically when you enrol full time."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP) — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-exoneration-frais-internationaux",
+  "category": "finances",
+  "keywords": [
+   "exonération frais internationaux",
+   "international fee exemption",
+   "payer frais canadiens",
+   "pay canadian fees",
+   "conjoint citoyen canadien frais",
+   "spouse of canadian tuition",
+   "diplomate frais de scolarité",
+   "diplomat tuition",
+   "réfugié frais",
+   "refugee tuition fees"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international : puis-je payer les droits de scolarité canadiens ?",
+   "en": "I'm an international student: can I pay Canadian tuition fees?"
+  },
+  "answer": {
+   "fr": "Peut-être : peuvent demander une exonération notamment les citoyens canadiens, résidents permanents et leurs personnes à charge, les membres du corps diplomatique et leurs personnes à charge, les réfugiés acceptés par le Canada, et les titulaires d'un permis de travail valide nommant un employeur en Ontario, avec leurs personnes à charge. Tu dois présenter tes pièces justificatives à InfoService.",
+   "en": "Possibly: those who can apply for an exemption include Canadian citizens, permanent residents and their dependants, members of the diplomatic corps and their dependants, refugees accepted by Canada, and holders of a valid work permit naming an Ontario employer, with their dependants. You must submit your supporting documents to InfoService."
+  },
+  "sources": [
+   {
+    "label": "International tuition fee exemptions — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/international-tuition-fee-exemptions"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-exoneration-dates-limites",
+  "category": "finances",
+  "keywords": [
+   "date limite exonération",
+   "fee exemption deadline",
+   "31 octobre exonération",
+   "october 31 exemption",
+   "exonération rétroactive",
+   "retroactive exemption",
+   "31 janvier exonération",
+   "changer statut frais",
+   "status change tuition deadline"
+  ],
+  "question": {
+   "fr": "Quelle est la date limite pour demander une exonération des frais internationaux ?",
+   "en": "What's the deadline to apply for an international fee exemption?"
+  },
+  "answer": {
+   "fr": "Le 31 octobre pour l'automne et le 31 janvier pour l'hiver. Pour le printemps-été, c'est le 30 juin pour les cycles supérieurs inscrits à des cours de mai à août, et le 31 juillet pour les cours d'été de juillet-août aux cycles supérieurs et pour le premier cycle. Aucune exception n'est faite et aucune exonération rétroactive n'est accordée.",
+   "en": "October 31 for fall and January 31 for winter. For spring-summer, it's June 30 for graduate students in May-to-August courses, and July 31 for graduate summer courses in July-August and for undergraduates. No exceptions are made and no retroactive exemptions are granted."
+  },
+  "sources": [
+   {
+    "label": "International tuition fee exemptions — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/international-tuition-fee-exemptions"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-exoneration-rp-en-cours",
+  "category": "finances",
+  "keywords": [
+   "résidence permanente en cours frais",
+   "pr application in progress tuition",
+   "demande rp frais canadiens",
+   "pr pending fees",
+   "preuve demande résidence permanente",
+   "proof pr application",
+   "accusé de réception ircc",
+   "acknowledgement of receipt"
+  ],
+  "question": {
+   "fr": "J'ai demandé la résidence permanente : quels documents pour payer les frais canadiens ?",
+   "en": "I've applied for permanent residence: which documents do I need to pay Canadian fees?"
+  },
+  "answer": {
+   "fr": "Fournis une lettre officielle d'IRCC, un courriel confirmant la réception de ta demande, ou une capture d'écran de ton portail montrant le statut en cours de traitement. Une lettre qui dit seulement que la demande a été soumise ne suffit pas.",
+   "en": "Provide an official letter from IRCC, an email acknowledging receipt of your application, or a screenshot of your portal showing the status as in process. A letter stating only that the application was submitted isn't enough."
+  },
+  "sources": [
+   {
+    "label": "International tuition fee exemptions — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/international-tuition-fee-exemptions"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-exoneration-permis-travail",
+  "category": "finances",
+  "keywords": [
+   "permis de travail frais canadiens",
+   "work permit canadian tuition",
+   "conjoint permis de travail exonération",
+   "spouse work permit exemption",
+   "ptpd frais de scolarité",
+   "pgwp tuition",
+   "permis ouvert frais",
+   "open work permit fees",
+   "employeur ontario exonération"
+  ],
+  "question": {
+   "fr": "J'ai un permis de travail : ai-je droit aux frais de scolarité canadiens ?",
+   "en": "I have a work permit: am I eligible for Canadian tuition fees?"
+  },
+  "answer": {
+   "fr": "Seulement s'il s'agit d'un permis de travail valide qui nomme un employeur canadien situé en Ontario, et que tu as aussi le droit d'étudier ; tu fournis ton permis de travail et ton permis d'études. Sont exclus, entre autres : le permis postdiplôme, un permis pour un stage coop ou une résidence médicale, un permis hors campus, un permis d'assistant d'enseignement, ou le permis obtenu par ton conjoint grâce à ton propre permis d'études.",
+   "en": "Only if it's a valid work permit naming a Canadian employer located in Ontario, and you're also eligible to study; you provide your work permit and study permit. Excluded, among others: the post-graduation permit, a permit for a co-op term or medical residency, an off-campus permit, a teaching assistant permit, or a permit your spouse got because of your own study permit."
+  },
+  "sources": [
+   {
+    "label": "International tuition fee exemptions — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/international-tuition-fee-exemptions"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-prets-etudiants-internationaux",
+  "category": "finances",
+  "keywords": [
+   "prêt étudiant international",
+   "student loan international",
+   "osap international",
+   "aide financière étudiant étranger",
+   "financial aid international student",
+   "prêt de mon pays",
+   "loan from my country",
+   "emprunter études canada"
+  ],
+  "question": {
+   "fr": "Les étudiants internationaux peuvent-ils obtenir un prêt étudiant ?",
+   "en": "Can international students get a student loan?"
+  },
+  "answer": {
+   "fr": "L'Université n'a pas de programme de prêts spécifiquement pour les étudiants internationaux, sauf pour certaines catégories. Elle te recommande de vérifier auprès du gouvernement de ton pays d'origine s'il existe des programmes de prêts étudiants. Regarde aussi les bourses pour étudiants internationaux.",
+   "en": "The University doesn't have student loan programs specifically for international students, except in certain categories. It recommends checking with your home country's government for student loan programs. Also look at the scholarships for international students."
+  },
+  "sources": [
+   {
+    "label": "Fees and financial support: International students — uOttawa",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/international-students"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-bourse-mobilite-recherche-doctorat",
+  "category": "finances",
+  "keywords": [
+   "bourse mobilité recherche doctorat",
+   "phd international mobility research scholarship",
+   "recherche à l'étranger doctorat",
+   "research abroad phd funding",
+   "stage de recherche international doctorat",
+   "5000 dollars recherche étranger",
+   "huit semaines à l'étranger",
+   "1er mars 1er octobre bourse"
+  ],
+  "question": {
+   "fr": "Je suis au doctorat : y a-t-il une bourse pour faire de la recherche à l'étranger ?",
+   "en": "I'm a PhD student: is there a scholarship to do research abroad?"
+  },
+  "answer": {
+   "fr": "Oui : la Bourse de recherche pour la mobilité internationale des doctorants vaut 5 000 dollars, une seule fois, si tu es à temps plein et as terminé au moins un an de doctorat. La recherche doit durer au moins huit semaines hors du Canada et être liée directement à ta thèse. Il y a deux concours par année, le 1er mars et le 1er octobre, par Bourses et aide financière en ligne.",
+   "en": "Yes: the PhD Student International Mobility Research Scholarship is worth $5,000, once, if you're full time and have completed at least one year of your PhD. The research must last at least eight weeks outside Canada and be directly related to your thesis. There are two competitions a year, March 1 and October 1, through Online Scholarships and Bursaries."
+  },
+  "sources": [
+   {
+    "label": "PhD Student International Mobility Research Scholarship — uOttawa",
+    "url": "https://www.uottawa.ca/study/graduate-studies/funding-financing/awards/phd-student-international-research-scholarship"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-facultes-admissibles",
+  "category": "international",
+  "keywords": [
+   "échange quelles facultés",
+   "exchange which faculties",
+   "échange telfer",
+   "exchange telfer",
+   "échange médecine éducation",
+   "exchange medicine education",
+   "échange maîtrise",
+   "master's exchange",
+   "étudiant international échange",
+   "international student exchange abroad"
+  ],
+  "question": {
+   "fr": "Qui peut participer au programme d'échange, et un étudiant international peut-il partir ?",
+   "en": "Who can join the exchange program, and can an international student go?"
+  },
+  "answer": {
+   "fr": "Les étudiants au premier cycle ou à la maîtrise en Arts, Génie, Droit civil ou common law, Sciences, Sciences sociales et Sciences de la santé, qu'ils soient citoyens canadiens, résidents permanents ou étudiants internationaux dans un programme régulier. À Telfer, en Médecine ou en Éducation au premier cycle, contacte ta faculté pour ses programmes de mobilité. Les étudiants à la maîtrise avec cours peuvent postuler dès la première année.",
+   "en": "Undergraduate or master's students in Arts, Engineering, Civil or Common Law, Science, Social Sciences and Health Sciences, whether Canadian citizens, permanent residents or international students in a regular program. At Telfer, in Medicine or in undergraduate Education, contact your faculty about its mobility programs. Course-based master's students can apply starting in first year."
+  },
+  "sources": [
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-atelier-obligatoire",
+  "category": "international",
+  "keywords": [
+   "atelier d'information échange",
+   "exchange information workshop",
+   "quiz échange 7 sur 10",
+   "exchange quiz",
+   "brightspace échange",
+   "atelier obligatoire échange",
+   "mandatory exchange workshop",
+   "25 novembre échange",
+   "accès atelier 72 heures"
+  ],
+  "question": {
+   "fr": "C'est quoi l'atelier d'information obligatoire pour l'échange ?",
+   "en": "What is the mandatory exchange information workshop?"
+  },
+  "answer": {
+   "fr": "C'est un atelier sur Brightspace qui t'aide à comprendre l'échange, préparer ta demande et choisir ta destination. Pour 2027-2028, tu dois le terminer et réussir le quiz avec au moins 7 sur 10 avant le 25 novembre 2026 à 23 h 59, sans exception. L'accès est donné 24 à 72 heures après ton inscription, alors inscris-toi tôt.",
+   "en": "It's a Brightspace workshop that helps you understand the exchange, prepare your application and choose your destination. For 2027-2028, you must complete it and pass the quiz with at least 7 out of 10 by November 25, 2026, at 11:59 p.m., with no exceptions. Access is granted 24 to 72 hours after you register, so sign up early."
+  },
+  "sources": [
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-lettre-motivation",
+  "category": "international",
+  "keywords": [
+   "lettre de motivation échange",
+   "exchange motivation letter",
+   "combien de mots lettre échange",
+   "exchange letter word count",
+   "500 mots",
+   "letter of motivation questions",
+   "lettre comité de sélection",
+   "exchange application documents"
+  ],
+  "question": {
+   "fr": "Que doit contenir la lettre de motivation pour l'échange ?",
+   "en": "What should the exchange letter of motivation include?"
+  },
+  "answer": {
+   "fr": "Elle vise seulement ta première destination, fait 500 mots maximum, en français ou en anglais, et s'adresse au comité de sélection. Réponds à trois questions : tes objectifs scolaires et personnels et comment la destination t'aide à les atteindre, comment tu vas t'adapter à une nouvelle culture, et comment l'expérience contribuera à ta carrière et à ton développement.",
+   "en": "It's for your first-choice destination only, 500 words maximum, in English or French, addressed to the selection committee. Answer three questions: your academic and personal goals and how the destination helps you reach them, how you'll adapt to a new culture, and how the experience will contribute to your career and personal development."
+  },
+  "sources": [
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-destinations-competitives",
+  "category": "international",
+  "keywords": [
+   "destination compétitive",
+   "competitive destination exchange",
+   "sélection échange critères",
+   "exchange selection criteria",
+   "mpc 25 % lettre 75 %",
+   "premier choix échange",
+   "first choice exchange",
+   "places limitées échange",
+   "how are exchange students selected"
+  ],
+  "question": {
+   "fr": "Comment sont choisis les étudiants pour les destinations d'échange compétitives ?",
+   "en": "How are students selected for competitive exchange destinations?"
+  },
+  "answer": {
+   "fr": "Quand une destination reçoit plus de demandes que de places, un comité évalue ta MPC à 25 % et ta lettre de motivation à 75 %. Une destination compétitive doit être ton premier choix pour être considérée, et tes autres choix doivent être non compétitifs. La liste des destinations compétitives peut changer d'une année à l'autre.",
+   "en": "When a destination gets more applications than spots, a committee assesses your CGPA at 25% and your letter of motivation at 75%. A competitive destination must be your first choice to be considered, and your other choices must be non-competitive. Which destinations are competitive can change from year to year."
+  },
+  "sources": [
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   },
+   {
+    "label": "Find a destination — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/find-destination"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-choix-destinations",
+  "category": "international",
+  "keywords": [
+   "combien de choix échange",
+   "how many exchange choices",
+   "formulaire confirmation admissibilité",
+   "confirmation of eligibility form",
+   "sélection de cours préliminaire",
+   "preliminary course selection",
+   "modifier choix destination",
+   "change exchange choices",
+   "premier choix garanti"
+  ],
+  "question": {
+   "fr": "Combien de destinations puis-je choisir dans ma demande d'échange ?",
+   "en": "How many destinations can I choose in my exchange application?"
+  },
+  "answer": {
+   "fr": "Pour l'échange régulier, tu indiques trois choix dans le formulaire de confirmation d'admissibilité, puis tu fournis ta sélection de cours préliminaire pour ton premier choix seulement. Pour un échange en consortium, tu indiques tous tes choix et fournis une sélection de cours pour chacun. Tu ne peux indiquer tes choix qu'une seule fois, et ton premier choix n'est pas garanti.",
+   "en": "For a regular exchange, you list three choices in the Confirmation of Eligibility form, then submit your preliminary course selection for your first choice only. For a consortium exchange, you list all your choices and submit a course selection for each. You can only indicate your choices once, and your first choice isn't guaranteed."
+  },
+  "sources": [
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-maintien-moyenne",
+  "category": "international",
+  "keywords": [
+   "moyenne minimale échange",
+   "minimum gpa exchange",
+   "échange annulé moyenne",
+   "exchange cancelled gpa",
+   "solde impayé échange",
+   "financial hold exchange",
+   "crédits restants échange",
+   "credits remaining exchange",
+   "mpc 6.0 destination"
+  ],
+  "question": {
+   "fr": "Mon échange peut-il être annulé après mon acceptation ?",
+   "en": "Can my exchange be cancelled after I'm accepted?"
+  },
+  "answer": {
+   "fr": "Oui : tu dois rester en bonne situation scolaire et maintenir ta MPC, d'au moins 5,0 et parfois 6,0 selon la destination, jusqu'au départ, sinon ton échange est annulé. Tu ne dois pas non plus avoir de retenue financière sur ton compte, et il doit te rester assez de crédits dans ton programme pour être à temps plein pendant l'échange.",
+   "en": "Yes: you must stay in good academic standing and maintain your CGPA, at least 5.0 and sometimes 6.0 depending on the destination, until departure, or your exchange is cancelled. You also can't have financial holds on your account, and you must have enough credits left in your program to be full time during the exchange."
+  },
+  "sources": [
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-frais-dossier",
+  "category": "international",
+  "keywords": [
+   "frais d'évaluation échange",
+   "exchange file evaluation fee",
+   "frais demande échange",
+   "exchange application fee",
+   "payer carte de crédit échange",
+   "credit card exchange fee",
+   "plusieurs demandes échange frais",
+   "coût demande échange"
+  ],
+  "question": {
+   "fr": "Y a-t-il des frais pour présenter une demande d'échange ?",
+   "en": "Is there a fee to apply for an exchange?"
+  },
+  "answer": {
+   "fr": "Oui : des frais uniques d'évaluation du dossier s'appliquent, payables par carte de crédit, même si tu présentes plusieurs demandes. Tu dois les payer pour pouvoir soumettre ta demande. Le montant est indiqué au moment de la demande.",
+   "en": "Yes: a one-time file evaluation fee applies, paid by credit card, even if you submit several applications. You must pay it to be able to submit your application. The amount is shown when you apply."
+  },
+  "sources": [
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-coop",
+  "category": "international",
+  "keywords": [
+   "échange et coop",
+   "exchange and co-op",
+   "approbation coop échange",
+   "co-op approval exchange",
+   "navigateur coop mobilité",
+   "co-op navigator mobility form",
+   "étudiant coop partir en échange",
+   "coop et échange en même temps"
+  ],
+  "question": {
+   "fr": "Je suis en coop : puis-je partir en échange ?",
+   "en": "I'm in co-op: can I go on exchange?"
+  },
+  "answer": {
+   "fr": "Oui, mais ton conseiller coop doit approuver ta participation. Soumets le formulaire de mobilité dans le Navigateur coop, puis téléverse en PDF le courriel d'approbation de ton conseiller dans ta demande d'échange.",
+   "en": "Yes, but your co-op adviser must approve your participation. Submit the mobility application form in the Co-op Navigator, then upload your adviser's approval email as a PDF in your exchange application."
+  },
+  "sources": [
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-apres-acceptation",
+  "category": "international",
+  "keywords": [
+   "accepté en échange étapes",
+   "accepted exchange next steps",
+   "nomination université d'accueil",
+   "nomination host university",
+   "lettre d'acceptation université d'accueil",
+   "host acceptance letter",
+   "acheter billet avion échange",
+   "book flight exchange",
+   "quand saurai-je échange"
+  ],
+  "question": {
+   "fr": "J'ai été accepté au programme d'échange : quelles sont les prochaines étapes ?",
+   "en": "I've been accepted to the exchange program: what are the next steps?"
+  },
+  "answer": {
+   "fr": "Accepte l'offre avant la date limite ; l'équipe de mobilité te nominera ensuite à l'université d'accueil, de février à juin pour l'automne ou l'année complète, et d'août à décembre pour l'hiver. Attends l'invitation, puis postule à l'université d'accueil selon ses délais. Ton échange est confirmé seulement avec la lettre d'acceptation officielle : n'achète rien et ne fais pas de plans officiels avant.",
+   "en": "Accept the offer by the deadline; the mobility team will then nominate you to the host university, from February to June for fall or full-year exchanges, and from August to December for winter. Wait for the invitation, then apply to the host university by its deadlines. Your exchange is only confirmed with the official acceptance letter: don't buy anything or make official plans before."
+  },
+  "sources": [
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-calendrier",
+  "category": "international",
+  "keywords": [
+   "calendrier échange",
+   "exchange timeline",
+   "quand réponse échange",
+   "when exchange decision",
+   "offre d'échange mars",
+   "exchange offer march",
+   "17 janvier échange",
+   "date limite demande échange complète",
+   "exchange checklist"
+  ],
+  "question": {
+   "fr": "Quand vais-je savoir si je suis accepté en échange ?",
+   "en": "When will I find out if I'm accepted for an exchange?"
+  },
+  "answer": {
+   "fr": "Selon le calendrier de l'Université, les demandes complètes doivent être soumises avant le 17 janvier 2027 pour 2027-2028, puis l'équipe de mobilité les évalue en février. Tu reçois et acceptes ton offre d'échange au début mars.",
+   "en": "According to the University's timeline, complete applications are due by January 17, 2027, for 2027-2028, then the mobility team assesses them in February. You receive and accept your exchange offer in early March."
+  },
+  "sources": [
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-trf1000",
+  "category": "international",
+  "keywords": [
+   "trf 1000",
+   "trf1000",
+   "cours d'échange",
+   "exchange course code",
+   "inscription cours pendant échange",
+   "course enrolment during exchange",
+   "équivalences échange",
+   "exchange course equivalencies",
+   "conseiller échange faculté"
+  ],
+  "question": {
+   "fr": "Comment je m'inscris à mes cours uOttawa quand je pars en échange ?",
+   "en": "How do I enrol in my uOttawa courses when I go on exchange?"
+  },
+  "answer": {
+   "fr": "Inscris-toi d'abord à tes cours habituels de l'année, comme si tu ne partais pas. Une fois ta lettre d'acceptation reçue, demande à ta faculté de t'inscrire au cours d'échange TRF 1000, avec le formulaire de modification ou d'annulation d'inscription. Ton conseiller d'échange facultaire répond à toutes tes questions sur l'inscription et les équivalences.",
+   "en": "First enrol in your usual courses for the year, as if you weren't leaving. Once you get your acceptance letter, ask your faculty to enrol you in the exchange course TRF 1000, using the modification or cancellation of enrolment form. Your faculty exchange adviser answers all questions about enrolment and equivalencies."
+  },
+  "sources": [
+   {
+    "label": "Preparing for life abroad: pre-departure essentials — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/preparing-life-abroad-pre-departure-essentials"
+   },
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-credits-retour",
+  "category": "international",
+  "keywords": [
+   "crédits échange retour",
+   "exchange credits transfer",
+   "relevé de notes échange",
+   "exchange transcript",
+   "équivalences retour échange",
+   "questionnaire de retour",
+   "return questionnaire exchange",
+   "sélection de cours finale",
+   "final course selection exchange"
+  ],
+  "question": {
+   "fr": "Comment mes cours d'échange sont-ils reconnus à mon retour ?",
+   "en": "How are my exchange courses recognized when I come back?"
+  },
+  "answer": {
+   "fr": "À ton arrivée à l'université d'accueil, soumets ta sélection de cours finale à ta faculté pour approbation. Après l'échange, c'est à toi d'envoyer ton relevé de notes de l'établissement d'accueil à ta faculté pour obtenir tes crédits de transfert. Tu dois aussi remplir le questionnaire de retour obligatoire.",
+   "en": "When you arrive at the host university, submit your final course selection to your faculty for approval. After the exchange, it's up to you to send your host transcript to your faculty to receive transfer credits. You must also complete the mandatory return questionnaire."
+  },
+  "sources": [
+   {
+    "label": "Preparing for life abroad: pre-departure essentials — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/preparing-life-abroad-pre-departure-essentials"
+   },
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-assurance",
+  "category": "international",
+  "keywords": [
+   "assurance échange",
+   "exchange insurance",
+   "assurance voyage séuo échange",
+   "uosu travel insurance exchange",
+   "assurance santé pays d'accueil",
+   "host country health insurance",
+   "assurance obligatoire échange",
+   "notify insurer exchange"
+  ],
+  "question": {
+   "fr": "Quelle assurance me faut-il pour partir en échange ?",
+   "en": "What insurance do I need for an exchange?"
+  },
+  "answer": {
+   "fr": "L'Université recommande deux assurances : une assurance voyage du Canada, par exemple celle du SÉUO ou de la GSAÉD si tu as payé tes frais et ne t'es pas retiré, et l'assurance santé obligatoire exigée par ton pays ou ton établissement d'accueil. Avise ton assureur que tu pars en échange. Si tu es étudiant international, le RAMU ne te couvre pas hors du Canada.",
+   "en": "The University recommends two types of insurance: Canadian travel insurance, for example through UOSU or GSAÉD if you've paid your fees and haven't opted out, and the mandatory health insurance required by your host country or institution. Tell your insurer you're going on exchange. If you're an international student, UHIP doesn't cover you outside Canada."
+  },
+  "sources": [
+   {
+    "label": "Preparing for life abroad: pre-departure essentials — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/preparing-life-abroad-pre-departure-essentials"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-logement-visa",
+  "category": "international",
+  "keywords": [
+   "logement échange",
+   "exchange housing",
+   "trouver appartement échange",
+   "find housing abroad",
+   "visa échange",
+   "exchange visa",
+   "fraude logement",
+   "housing scam abroad",
+   "résidence université d'accueil"
+  ],
+  "question": {
+   "fr": "Qui s'occupe de mon logement et de mon visa pour l'échange ?",
+   "en": "Who handles my housing and visa for the exchange?"
+  },
+  "answer": {
+   "fr": "C'est toi : l'équipe de mobilité ne trouve pas de logement et tu es responsable de tes visas et documents de voyage. Ton université d'accueil et l'ambassade du pays peuvent t'aider ; il te faut la lettre d'acceptation pour commencer le visa. Ne réserve aucun logement avant cette lettre, méfie-toi des fraudes et cherche d'abord un logement étudiant.",
+   "en": "You do: the mobility team doesn't arrange housing and you're responsible for your visas and travel documents. Your host university and the country's embassy can help; you need the acceptance letter to start the visa process. Don't book housing before that letter, beware of fraud and look for student housing first."
+  },
+  "sources": [
+   {
+    "label": "Preparing for life abroad: pre-departure essentials — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/preparing-life-abroad-pre-departure-essentials"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-voyage-destination-risque",
+  "category": "international",
+  "keywords": [
+   "destination à risque",
+   "high-risk destination",
+   "éviter tout voyage",
+   "avoid all travel",
+   "avertissement affaires mondiales",
+   "travel advisory student",
+   "permission voyager pays dangereux",
+   "permission to travel risky country"
+  ],
+  "question": {
+   "fr": "Puis-je partir dans un pays visé par un avertissement aux voyageurs ?",
+   "en": "Can I travel to a country with a travel advisory?"
+  },
+  "answer": {
+   "fr": "Au premier cycle, il te faut une permission pour une destination où Affaires mondiales Canada recommande d'éviter les voyages non essentiels ou tout voyage. Aux cycles supérieurs, la permission est requise pour les destinations où il faut éviter tout voyage. Ta faculté peut aussi exiger d'autres approbations.",
+   "en": "As an undergraduate, you need permission for a destination where Global Affairs Canada advises avoiding non-essential travel or all travel. As a graduate student, permission is required for destinations under avoid all travel. Your faculty may also require other approvals."
+  },
+  "sources": [
+   {
+    "label": "Travel safety — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/travel-safety"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-consortiums",
+  "category": "international",
+  "keywords": [
+   "échange consortium",
+   "consortium exchange",
+   "clic killam oui",
+   "échange chine états-unis europe",
+   "exchange china usa europe",
+   "consortium exchanges uottawa",
+   "programmes d'échange consortium",
+   "multi-institution exchange"
+  ],
+  "question": {
+   "fr": "C'est quoi un échange en consortium ?",
+   "en": "What is a consortium exchange?"
+  },
+  "answer": {
+   "fr": "Ce sont des échanges offerts grâce à des partenariats entre plusieurs établissements. uOttawa fait partie de trois consortiums : l'Initiative canadienne d'apprentissage en Chine, le programme de bourses Killam vers les États-Unis, et Ontario Universities International vers l'Allemagne et la France. Tu postules d'abord au programme d'échange de uOttawa.",
+   "en": "They're exchanges offered through partnerships between several institutions. uOttawa belongs to three consortiums: the Canada Learning Initiative in China, the Killam Fellowships program to the United States, and Ontario Universities International to Germany and France. You first apply to the uOttawa exchange program."
+  },
+  "sources": [
+   {
+    "label": "Consortium exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/consortium-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-clic-chine",
+  "category": "international",
+  "keywords": [
+   "échange chine",
+   "exchange china",
+   "clic",
+   "canada learning initiative in china",
+   "conseil chinois des bourses",
+   "chinese scholarship council",
+   "allocation mensuelle chine",
+   "monthly stipend china",
+   "étudier en chine bourse"
+  ],
+  "question": {
+   "fr": "Comment fonctionne l'échange en Chine avec l'Initiative canadienne d'apprentissage en Chine ?",
+   "en": "How does the Canada Learning Initiative in China exchange work?"
+  },
+  "answer": {
+   "fr": "Ce programme, réservé aux citoyens canadiens, offre une allocation mensuelle de 3 000 yuans, environ 600 dollars, un logement gratuit ou subventionné, une assurance médicale gratuite et du soutien administratif. Tu postules d'abord à l'échange de uOttawa, puis, si tu es nominé, au Conseil chinois des bourses. Tu reçois aussi la Bourse de mobilité étudiante et la Bourse Jacques-Frémont.",
+   "en": "This program, open only to Canadian citizens, offers a monthly stipend of 3,000 yuan, about $600, free or subsidized housing, free medical insurance and administrative support. You first apply to the uOttawa exchange, then, if nominated, to the Chinese Scholarship Council. You also receive the Student Mobility Scholarship and the Jacques Frémont Scholarship."
+  },
+  "sources": [
+   {
+    "label": "Consortium exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/consortium-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-killam",
+  "category": "international",
+  "keywords": [
+   "killam",
+   "bourses killam",
+   "killam fellowships",
+   "échange états-unis",
+   "exchange united states",
+   "étudier aux états-unis échange",
+   "study in the us exchange",
+   "killam financement"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme de bourses Killam pour un échange aux États-Unis ?",
+   "en": "What is the Killam Fellowships program for an exchange in the U.S.?"
+  },
+  "answer": {
+   "fr": "Il permet à des étudiants exceptionnels du premier cycle, hors programmes professionnels, de passer un trimestre ou une année dans l'une des 15 universités partenaires Killam aux États-Unis. Seuls les citoyens canadiens sont admissibles. Selon la page, le financement est de 6 000 dollars américains pour un trimestre et 12 000 pour deux ; après ta nomination par uOttawa, tu postules directement au consortium.",
+   "en": "It lets exceptional undergraduates, outside professional programs, spend one term or a full year at one of 15 Killam partner universities in the United States. Only Canadian citizens are eligible. According to the page, funding is US$6,000 for one term and US$12,000 for two; after uOttawa nominates you, you apply directly to the consortium."
+  },
+  "sources": [
+   {
+    "label": "Consortium exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/consortium-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-oui-allemagne-france",
+  "category": "international",
+  "keywords": [
+   "échange allemagne",
+   "exchange germany",
+   "échange france auvergne-rhône-alpes",
+   "ontario universities international",
+   "obw",
+   "ora",
+   "bade-wurtemberg",
+   "baden-württemberg",
+   "grandes écoles échange",
+   "oui financement"
+  ],
+  "question": {
+   "fr": "Comment fonctionnent les échanges en Allemagne et en France avec Ontario Universities International ?",
+   "en": "How do the Germany and France exchanges with Ontario Universities International work?"
+  },
+  "answer": {
+   "fr": "Le programme OBW t'envoie un ou deux trimestres dans l'une de neuf universités de recherche du Bade-Wurtemberg, et le programme ORA dans l'une de cinq universités et deux grandes écoles d'Auvergne-Rhône-Alpes. Le financement garanti est de 3 000 dollars pour un trimestre et 4 000 pour deux, réservé aux citoyens canadiens et résidents permanents ; les étudiants internationaux peuvent être admis, mais sans bourse. Les écoles d'été de ces réseaux ne sont pas offertes par l'échange de uOttawa.",
+   "en": "The OBW program sends you for one or two terms to one of nine research universities in Baden-Württemberg, and the ORA program to one of five universities and two Grandes Écoles in Auvergne-Rhône-Alpes. Guaranteed funding is $3,000 for one term and $4,000 for two, for Canadian citizens and permanent residents only; international students can be admitted, but without funding. These networks' summer schools aren't offered through the uOttawa exchange."
+  },
+  "sources": [
+   {
+    "label": "Consortium exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/consortium-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-bourse-jacques-fremont",
+  "category": "finances",
+  "keywords": [
+   "bourse jacques-frémont",
+   "jacques frémont scholarship",
+   "bourse expérience internationale",
+   "international experience scholarship",
+   "750 dollars échange",
+   "bourse stage coop étranger",
+   "co-op abroad scholarship",
+   "bourse automatique échange"
+  ],
+  "question": {
+   "fr": "C'est quoi la Bourse d'expérience internationale Jacques-Frémont ?",
+   "en": "What is the Jacques Frémont International Experience Scholarship?"
+  },
+  "answer": {
+   "fr": "C'est une bourse de 750 dollars, versée une fois par année scolaire, pour les étudiants à temps plein au premier cycle ou à la maîtrise qui font un échange ou un stage coop à l'étranger et qui sont choisis par l'équipe d'échange. Pas besoin de postuler : tu es considéré automatiquement. Les étudiants de la Section de common law n'y sont pas admissibles.",
+   "en": "It's a $750 scholarship, paid once per academic year, for full-time undergraduate or master's students on an exchange or co-op placement abroad who are selected by the exchange team. No need to apply: you're considered automatically. Common Law Section students aren't eligible."
+  },
+  "sources": [
+   {
+    "label": "Exchange program scholarships — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/exchange-program-scholarships"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-bourse-ashesi-ghana",
+  "category": "finances",
+  "keywords": [
+   "bourse ashesi",
+   "ashesi scholarship",
+   "échange ghana",
+   "exchange ghana",
+   "ashesi university",
+   "10 000 dollars échange",
+   "bourse afrique échange",
+   "africa exchange scholarship"
+  ],
+  "question": {
+   "fr": "Y a-t-il une bourse pour un échange au Ghana ?",
+   "en": "Is there a scholarship for an exchange in Ghana?"
+  },
+  "answer": {
+   "fr": "Oui : la Bourse de la Fondation Ashesi Canada vaut 10 000 dollars, pour un trimestre ou une année à l'Université Ashesi, et deux bourses sont offertes chaque année. Une partie, 3 565 dollars, va directement à Ashesi pour le logement, les repas, le permis de séjour et la carte Ghana, et le reste est versé à ton compte. Ceux qui choisissent Ashesi en premier choix ont la priorité, sans demande séparée.",
+   "en": "Yes: the Ashesi Foundation Canada Scholarship is worth $10,000, for one term or a year at Ashesi University, and two are awarded each year. Part of it, $3,565, goes directly to Ashesi for housing, meals, the residence permit and the Ghana Card, and the rest is deposited in your account. Students who pick Ashesi as their first choice get priority, with no separate application."
+  },
+  "sources": [
+   {
+    "label": "Exchange program scholarships — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/exchange-program-scholarships"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-bourse-philantra-tsai-chine",
+  "category": "finances",
+  "keywords": [
+   "bourse philantra-tsai",
+   "philantra-tsai scholarship",
+   "bourse mobilité chine",
+   "china mobility scholarship",
+   "échange chine bourse citoyen",
+   "coop chine bourse",
+   "co-op in china scholarship",
+   "20 000 dollars chine"
+  ],
+  "question": {
+   "fr": "Y a-t-il une bourse pour un échange ou un stage coop en Chine ?",
+   "en": "Is there a scholarship for an exchange or co-op placement in China?"
+  },
+  "answer": {
+   "fr": "Oui : la Bourse de mobilité pour la Chine de la Fondation familiale Philantra-Tsai, pour les citoyens canadiens au premier cycle ou aux cycles supérieurs, à temps plein ou partiel, acceptés à un échange en Chine. Le financement total est de 20 000 dollars par année, partagé entre les lauréats. Tu dois postuler par Bourses et aide financière en ligne, avec la lettre d'acceptation de l'établissement chinois.",
+   "en": "Yes: the Philantra-Tsai Family Foundation China Mobility Scholarship, for Canadian citizens in undergraduate or graduate programs, full or part time, accepted to an exchange in China. Total funding is $20,000 per year, shared among recipients. You must apply through Online Scholarships and Bursaries, with the acceptance letter from the Chinese institution."
+  },
+  "sources": [
+   {
+    "label": "Exchange program scholarships — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/exchange-program-scholarships"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-bourse-erasmus",
+  "category": "finances",
+  "keywords": [
+   "erasmus",
+   "erasmus+",
+   "bourse europe échange",
+   "europe exchange funding",
+   "échange mantoue",
+   "university of mantova",
+   "freie universität berlin",
+   "échange allemagne bourse"
+  ],
+  "question": {
+   "fr": "Puis-je recevoir du financement Erasmus+ pour un échange en Europe ?",
+   "en": "Can I get Erasmus+ funding for an exchange in Europe?"
+  },
+  "answer": {
+   "fr": "Pour 2027-2028, deux bourses Erasmus+ sont offertes aux étudiants du Département de français de la Faculté des arts en échange à l'Université de Mantoue, en Italie, et une pour un échange à la Freie Universität Berlin. Le montant dépend de la durée, du pays et de la distance ; par exemple, environ 4 788 euros pour quatre mois en Allemagne. Pas de demande séparée : l'équipe d'échange contacte les étudiants admissibles.",
+   "en": "For 2027-2028, two Erasmus+ scholarships are offered to Faculty of Arts Département de français students on exchange at the University of Mantova, Italy, and one for an exchange at Freie Universität Berlin. The amount depends on length, country and distance; for example, about €4,788 for four months in Germany. No separate application: the exchange team contacts eligible students."
+  },
+  "sources": [
+   {
+    "label": "Exchange program scholarships — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/exchange-program-scholarships"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-annulation-bourse",
+  "category": "finances",
+  "keywords": [
+   "annuler échange bourse",
+   "cancel exchange scholarship",
+   "rembourser bourse échange",
+   "repay exchange scholarship",
+   "changer destination bourse",
+   "change exchange destination",
+   "abandonner échange",
+   "withdraw from exchange"
+  ],
+  "question": {
+   "fr": "Qu'arrive-t-il à ma bourse d'échange si j'annule ou change de destination ?",
+   "en": "What happens to my exchange scholarship if I cancel or change destination?"
+  },
+  "answer": {
+   "fr": "Si tu annules ou ne termines pas ton échange, tu n'es plus admissible : la bourse est retirée de ton compte et tu dois rembourser les sommes déjà versées. Si tu changes d'établissement d'accueil, ton admissibilité peut changer ; contacte l'équipe du programme d'échange le plus tôt possible.",
+   "en": "If you cancel or don't complete your exchange, you're no longer eligible: the scholarship is removed from your account and you must repay any funds already issued. If you change host institutions, your eligibility may change; contact the exchange program team as soon as possible."
+  },
+  "sources": [
+   {
+    "label": "Exchange program scholarships — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/exchange-program-scholarships"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-frais-scolarite-hote",
+  "category": "finances",
+  "keywords": [
+   "frais de scolarité échange",
+   "exchange tuition",
+   "payer université d'accueil",
+   "pay host university tuition",
+   "échange coûte plus cher",
+   "does exchange cost more",
+   "bourses actuelles échange",
+   "keep my scholarships exchange"
+  ],
+  "question": {
+   "fr": "Pendant un échange, à qui je paie mes droits de scolarité ?",
+   "en": "During an exchange, who do I pay tuition to?"
+  },
+  "answer": {
+   "fr": "Tu continues de payer tes droits de scolarité à uOttawa, pas à l'établissement d'accueil, et l'échange n'augmente pas tes droits. Tes bourses et bourses d'aide actuelles de uOttawa ne sont pas touchées, tant que tu respectes leurs conditions.",
+   "en": "You keep paying your tuition to uOttawa, not to the host institution, and the exchange doesn't increase your fees. Your current uOttawa scholarships and bursaries aren't affected, as long as you keep meeting their conditions."
+  },
+  "sources": [
+   {
+    "label": "Exchange program scholarships — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/exchange-program-scholarships"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-pays-destinations",
+  "category": "international",
+  "keywords": [
+   "où partir en échange",
+   "where can i go on exchange",
+   "liste des universités partenaires",
+   "partner universities list",
+   "échange australie",
+   "exchange france",
+   "échange japon",
+   "exchange uk",
+   "outil trouver une destination",
+   "find a destination tool"
+  ],
+  "question": {
+   "fr": "Dans quels pays puis-je partir en échange ?",
+   "en": "Which countries can I go to on exchange?"
+  },
+  "answer": {
+   "fr": "L'Université a plus de 100 ententes d'échange ; l'outil Trouver une destination présente des partenaires dans des dizaines de pays, comme la France, l'Australie, la Chine, le Royaume-Uni, le Japon, le Mexique ou Singapour. Pour chaque établissement, il indique les trimestres possibles, la moyenne exigée, les facultés ouvertes, si la destination est compétitive et le nombre de places. Certaines destinations sont suspendues pour 2027-2028.",
+   "en": "The University has more than 100 exchange agreements; the Find a destination tool lists partners in dozens of countries, such as France, Australia, China, the United Kingdom, Japan, Mexico or Singapore. For each institution, it shows available terms, the required average, open faculties, whether it's competitive and the number of spots. Some destinations are suspended for 2027-2028."
+  },
+  "sources": [
+   {
+    "label": "Find a destination — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges/find-destination"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-cours-autodirige",
+  "category": "international",
+  "keywords": [
+   "cours autodirigé échange",
+   "self-directed course exchange",
+   "crédits pour expérience échange",
+   "academic credit exchange experience",
+   "séance information mai échange",
+   "transformer échange en cours",
+   "uocompétences échange",
+   "self-directed course"
+  ],
+  "question": {
+   "fr": "Puis-je obtenir des crédits pour mon expérience d'échange elle-même ?",
+   "en": "Can I earn credits for the exchange experience itself?"
+  },
+  "answer": {
+   "fr": "Oui, tu peux transformer ton expérience d'échange en cours autodirigé. Des séances d'information en ligne pour les étudiants qui partent en échange ont lieu en mai : tu y apprends à concevoir ton expérience d'apprentissage, à obtenir des crédits et à suivre le processus de sélection.",
+   "en": "Yes, you can turn your exchange experience into a self-directed course. Online information sessions for students going on exchange are held in May: you learn how to design your learning experience, earn credits and complete the selection process."
+  },
+  "sources": [
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-seances-information",
+  "category": "international",
+  "keywords": [
+   "séances sans rendez-vous échange",
+   "exchange drop-in sessions",
+   "parler à un conseiller mobilité",
+   "talk to mobility advisor",
+   "foire des échanges",
+   "exchange information session",
+   "visites d'ambassades",
+   "embassy visits exchange"
+  ],
+  "question": {
+   "fr": "Où puis-je poser mes questions sur les échanges étudiants ?",
+   "en": "Where can I ask questions about student exchanges?"
+  },
+  "answer": {
+   "fr": "Aux séances sans rendez-vous de l'équipe de mobilité étudiante, offertes du 29 septembre au 24 mars. De septembre à janvier, tu peux aussi assister à la séance d'information sur les échanges de ta faculté et aux visites d'ambassades. Tu peux également joindre InfoService.",
+   "en": "At the Student Mobility team's drop-in sessions, held from September 29 to March 24. From September to January, you can also attend your faculty's exchange information session and embassy visits. You can also contact InfoService."
+  },
+  "sources": [
+   {
+    "label": "International experience — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience"
+   },
+   {
+    "label": "Outgoing exchanges — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/outgoing-exchanges"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-bourses-affaires-mondiales",
+  "category": "international",
+  "keywords": [
+   "bourses affaires mondiales canada",
+   "global affairs canada scholarships",
+   "elap",
+   "seed-2",
+   "futurs leaders dans les amériques",
+   "emerging leaders in the americas",
+   "bourse études courte durée canada",
+   "short-term study scholarship canada",
+   "chercheur invité bourse"
+  ],
+  "question": {
+   "fr": "Je veux venir à uOttawa avec une bourse d'Affaires mondiales Canada : comment faire ?",
+   "en": "I want to come to uOttawa with a Global Affairs Canada scholarship: how does it work?"
+  },
+  "answer": {
+   "fr": "uOttawa participe aux programmes ELAP et SEED-2. Pour suivre des cours, tu dois aussi postuler au programme d'échange entrant, après avoir été nominé par ton établissement ; pour faire de la recherche, il te faut d'abord une lettre d'invitation d'un superviseur de uOttawa. C'est ton établissement qui soumet ta candidature ; pour 2026-2027, les dates limites étaient le 5 mars pour la bourse et le 31 mars pour l'échange, et les candidatures sont maintenant fermées.",
+   "en": "uOttawa takes part in the ELAP and SEED-2 programs. To take courses, you must also apply to the incoming exchange program after being nominated by your home institution; to do research, you first need an invitation letter from a uOttawa supervisor. Your home institution submits your application; for 2026-2027, the deadlines were March 5 for the scholarship and March 31 for the exchange, and applications are now closed."
+  },
+  "sources": [
+   {
+    "label": "Global Affairs Canada scholarships — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/incoming-exchanges/global-affairs-canada-scholarships"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-echange-entrant-scores-langue",
+  "category": "international",
+  "keywords": [
+   "score langue échange entrant",
+   "incoming exchange language score",
+   "ielts échange",
+   "ielts exchange",
+   "delf b2 échange",
+   "toefl exchange uottawa",
+   "duolingo échange",
+   "exemption test anglais échange",
+   "english test exemption exchange"
+  ],
+  "question": {
+   "fr": "Quels résultats de test de langue faut-il pour venir en échange à uOttawa ?",
+   "en": "What language test scores do I need to come on exchange to uOttawa?"
+  },
+  "answer": {
+   "fr": "Pour un programme en français : DELF, TCF ou TEF de niveau B2, ou DALF C1 ou C2. Pour un programme en anglais : par exemple IELTS Academic de 6,5 avec 6,5 en écriture, TOEFL iBT de 86 avec 22 en écriture pour les tests passés avant le 21 janvier 2026, Duolingo de 120 ou Cambridge B2. Le test doit dater de moins de deux ans, et certains pays, dont ceux où l'anglais est langue officielle, sont exemptés du test d'anglais.",
+   "en": "For a French program: DELF, TCF or TEF at level B2, or DALF C1 or C2. For an English program: for example IELTS Academic 6.5 with 6.5 in writing, TOEFL iBT 86 with 22 in writing for tests taken before January 21, 2026, Duolingo 120 or Cambridge B2. The test must be less than two years old, and some countries, including those where English is an official language, are exempt from the English test."
+  },
+  "sources": [
+   {
+    "label": "Language requirements for incoming exchange students — uOttawa",
+    "url": "https://www.uottawa.ca/study/international-experience/incoming-exchanges/language-requirements-incoming-exchange"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-pia-frais",
+  "category": "programmes",
+  "keywords": [
+   "prix programme intensif anglais",
+   "english intensive program cost",
+   "frais pia",
+   "eip fees",
+   "combien coûte le programme d'anglais",
+   "how much eip",
+   "6985 dollars",
+   "rabais 10 % pia",
+   "frais d'admission 100 dollars"
+  ],
+  "question": {
+   "fr": "Combien coûte le Programme intensif d'anglais ?",
+   "en": "How much does the English Intensive Program cost?"
+  },
+  "answer": {
+   "fr": "C'est 6 985 dollars par session pour les cours, plus le RAMU, 316 dollars, et le U-Pass, 240,67 dollars. Sans offre conditionnelle, il y a aussi des frais d'admission uniques de 100 dollars, et tu pourrais avoir droit à un rabais de 10 %, soit 6 286,50 dollars. Les frais doivent être payés au complet avant le premier cours, et le programme n'est pas admissible à l'aide financière gouvernementale.",
+   "en": "It's $6,985 per session for tuition, plus UHIP at $316 and the U-Pass at $240.67. Without a conditional offer, there's also a one-time $100 admission fee, and you might qualify for a 10% discount, so $6,286.50. Fees must be paid in full by the first day of class, and the program isn't eligible for government financial aid."
+  },
+  "sources": [
+   {
+    "label": "English Intensive Program (EIP) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/english-intensive-program"
+   },
+   {
+    "label": "Session dates and fees, Centre for Language Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/session-dates-fees"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-pia-dates",
+  "category": "programmes",
+  "keywords": [
+   "dates programme intensif anglais",
+   "eip dates",
+   "session hiver 2027 anglais",
+   "winter 2027 eip",
+   "début programme anglais",
+   "eip start date",
+   "14 semaines anglais",
+   "eip schedule"
+  ],
+  "question": {
+   "fr": "Quelles sont les prochaines dates du Programme intensif d'anglais ?",
+   "en": "What are the upcoming English Intensive Program dates?"
+  },
+  "answer": {
+   "fr": "Le programme dure 14 semaines et est offert trois fois par année, entièrement en personne : hiver 2027 du 12 janvier au 16 avril, printemps-été 2027 du 11 mai au 13 août, et automne 2027 du 8 septembre au 10 décembre. Les nouveaux étudiants doivent participer à la journée d'intégration, la veille du premier cours.",
+   "en": "The program lasts 14 weeks and is offered three times a year, fully in person: winter 2027 from January 12 to April 16, spring-summer 2027 from May 11 to August 13, and fall 2027 from September 8 to December 10. New students must attend Integration Day, the day before classes start."
+  },
+  "sources": [
+   {
+    "label": "English Intensive Program (EIP) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/english-intensive-program"
+   },
+   {
+    "label": "Session dates and fees, Centre for Language Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/session-dates-fees"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-pia-cours-universitaires",
+  "category": "programmes",
+  "keywords": [
+   "cours universitaire pendant pia",
+   "university course during eip",
+   "cmn 1148",
+   "esl 0140 cours crédit",
+   "cours de maths pendant anglais",
+   "math course during esl",
+   "rabais 20 % cours",
+   "take courses while learning english"
+  ],
+  "question": {
+   "fr": "Puis-je suivre des cours universitaires pendant le Programme intensif d'anglais ?",
+   "en": "Can I take university courses during the English Intensive Program?"
+  },
+  "answer": {
+   "fr": "Oui : tous les étudiants du cours ESL 0140 suivent aussi CMN 1148, Introduction à la communication organisationnelle. Ceux qui entreront au premier cycle peuvent ajouter un cours en mathématiques, en génie ou en chimie, avec un rabais de 20 % pour les étudiants qui ont une offre conditionnelle. Les frais du programme de langue ne couvrent pas ces cours supplémentaires.",
+   "en": "Yes: all students in ESL 0140 also take CMN 1148, Introduction to Organizational Communication. Those entering an undergraduate program can add one course in mathematics, engineering or chemistry, at a 20% discount for conditional offer students. Language program fees don't cover these additional courses."
+  },
+  "sources": [
+   {
+    "label": "English Intensive Program (EIP) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/english-intensive-program"
+   },
+   {
+    "label": "Language programs FAQs, Centre for Language Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-pia-cours-pre-arrivee",
+  "category": "programmes",
+  "keywords": [
+   "cours pré-arrivée",
+   "pre-arrival course",
+   "cours en ligne gratuit anglais",
+   "free online course eip",
+   "préparer programme intensif anglais",
+   "prepare for eip",
+   "certificat de fin de cours",
+   "brightspace pré-arrivée"
+  ],
+  "question": {
+   "fr": "Y a-t-il un cours pour me préparer avant le Programme intensif d'anglais ?",
+   "en": "Is there a course to prepare before the English Intensive Program?"
+  },
+  "answer": {
+   "fr": "Oui : le cours pré-arrivée est gratuit, 100 % en ligne et à ton rythme, avec huit modules interactifs sur la culture universitaire canadienne, la vie à Ottawa, la santé mentale et les compétences scolaires. Après ton inscription, tu reçois les instructions dans un délai de 48 à 72 heures ouvrables pour accéder à Brightspace, et tu obtiens un certificat de fin de cours.",
+   "en": "Yes: the pre-arrival course is free, 100% online and self-paced, with eight interactive modules on Canadian university culture, life in Ottawa, mental health and academic skills. After you register, you get instructions within 48 to 72 business hours to access Brightspace, and you receive a certificate of completion."
+  },
+  "sources": [
+   {
+    "label": "English Intensive Program Pre-arrival course — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/pre-arrival-course"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-esl-0140-accelere-dates",
+  "category": "programmes",
+  "keywords": [
+   "esl 0140 accéléré",
+   "accelerated academic bridging in english",
+   "esl 0140 été 2027",
+   "esl 0140 summer dates",
+   "passerelle accélérée anglais",
+   "8 semaines anglais été",
+   "esl 0140 prix",
+   "esl 0140 cost"
+  ],
+  "question": {
+   "fr": "Quand a lieu le cours accéléré ESL 0140 et combien coûte-t-il ?",
+   "en": "When is the accelerated ESL 0140 course and how much does it cost?"
+  },
+  "answer": {
+   "fr": "Le cours accéléré de passerelle en anglais universitaire, ESL 0140, est condensé en huit semaines : à l'été 2027, du 5 juillet au 27 août, pour 6 985 dollars, sans les manuels. Il est réservé aux étudiants qui ont une offre conditionnelle et qui doivent seulement réussir ESL 0140.",
+   "en": "The Accelerated Academic Bridging in English course, ESL 0140, is condensed into eight weeks: in summer 2027, from July 5 to August 27, for $6,985, not including textbooks. It's for students with a conditional offer who only need to complete ESL 0140."
+  },
+  "sources": [
+   {
+    "label": "Session dates and fees, Centre for Language Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/session-dates-fees"
+   },
+   {
+    "label": "Language programs FAQs, Centre for Language Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-uoee-dates-frais",
+  "category": "programmes",
+  "keywords": [
+   "uottawa english experience dates",
+   "uoee prix",
+   "uoee cost",
+   "programme expérience anglais hiver 2027",
+   "english experience winter 2027",
+   "programme anglais 3 semaines prix",
+   "3-week english program price",
+   "remboursement uoee"
+  ],
+  "question": {
+   "fr": "Quelles sont les dates et les frais du programme uOttawa English Experience ?",
+   "en": "What are the dates and fees for the uOttawa English Experience program?"
+  },
+  "answer": {
+   "fr": "À l'hiver 2027, du 16 février au 19 mars, cinq semaines pour 2 899 dollars ; en juillet 2027, du 5 au 23, et en août 2027, du 3 au 20, trois semaines pour 1 949 dollars. Les frais incluent les cours, l'assurance santé et les activités socioculturelles hebdomadaires. On rembourse jusqu'à deux semaines avant le premier cours, moins 200 dollars de frais administratifs.",
+   "en": "In winter 2027, February 16 to March 19, five weeks for $2,899; in July 2027, the 5th to the 23rd, and August 2027, the 3rd to the 20th, three weeks for $1,949. Fees include tuition, health insurance and weekly sociocultural activities. Refunds are given up to two weeks before the first class, minus a $200 administrative fee."
+  },
+  "sources": [
+   {
+    "label": "Session dates and fees, Centre for Language Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/session-dates-fees"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-cal-report-nouveaux-resultats",
+  "category": "programmes",
+  "keywords": [
+   "reporter admission programme intensif",
+   "defer admission eip",
+   "nouveaux résultats ielts éviter pia",
+   "new ielts score skip eip",
+   "offre conditionnelle anglais",
+   "conditional offer english",
+   "arrêter programme intensif",
+   "quit eip"
+  ],
+  "question": {
+   "fr": "J'ai une offre conditionnelle avec le Programme intensif d'anglais : puis-je reporter ou soumettre de nouveaux résultats ?",
+   "en": "I have a conditional offer with the English Intensive Program: can I defer or submit new test scores?"
+  },
+  "answer": {
+   "fr": "Les étudiants qui doivent faire le programme selon leur offre conditionnelle ne peuvent pas reporter leur admission. Tu peux soumettre de nouveaux résultats de test au Bureau des admissions jusqu'à la date limite, mais une fois le programme commencé, tu dois le terminer et réussir ESL 0140 pour commencer ton programme de premier cycle.",
+   "en": "Students who must complete the program under their conditional offer can't defer their admission. You can submit new test scores to the Admissions Office until the deadline, but once you start the program, you must finish it and pass ESL 0140 to begin your undergraduate program."
+  },
+  "sources": [
+   {
+    "label": "Language programs FAQs, Centre for Language Learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-cali-programme",
+  "category": "programmes",
+  "keywords": [
+   "cali",
+   "cultural and academic language immersion",
+   "immersion culturelle et linguistique",
+   "programme anglais hiver quatre semaines",
+   "four-week winter english program",
+   "cali offert",
+   "is cali offered",
+   "programme cali hiver"
+  ],
+  "question": {
+   "fr": "Le programme d'immersion culturelle et linguistique universitaire, CALI, est-il offert ?",
+   "en": "Is the Cultural and Academic Language Immersion program, CALI, offered?"
+  },
+  "answer": {
+   "fr": "Non : selon le Centre d'apprentissage des langues, le programme CALI n'est pas offert pour le moment. C'était un programme d'hiver de quatre semaines, environ 21 heures par semaine, pour pratiquer l'anglais par la participation. Regarde plutôt le programme uOttawa English Experience ou le Programme intensif d'anglais.",
+   "en": "No: according to the Centre for Language Learning, CALI isn't being offered at this time. It was a four-week winter program, about 21 hours a week, for practising English through participation. Look instead at the uOttawa English Experience program or the English Intensive Program."
+  },
+  "sources": [
+   {
+    "label": "Cultural and Academic Language Immersion (CALI) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/cultural-academic-language-immersion"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-cal-programmes-sur-mesure",
+  "category": "programmes",
+  "keywords": [
+   "programme de langue sur mesure",
+   "customized language program",
+   "groupe étudiants cours d'anglais",
+   "group english course",
+   "programme tier",
+   "tier program",
+   "enseignement en anglais université partenaire",
+   "english-medium instruction"
+  ],
+  "question": {
+   "fr": "Le Centre d'apprentissage des langues offre-t-il des programmes pour des groupes ou des universités ?",
+   "en": "Does the Centre for Language Learning offer programs for groups or universities?"
+  },
+  "answer": {
+   "fr": "Oui : il offre des programmes ou cours sur mesure en anglais ou en français pour des groupes d'étudiants et de professionnels du monde entier. Il propose aussi le programme TIER, une résidence intensive et personnalisable de perfectionnement professionnel pour les universités qui veulent renforcer leur enseignement en anglais.",
+   "en": "Yes: it offers customized programs or courses in English or French for groups of students and professionals from around the world. It also offers the TIER Program, an intensive, customizable professional development residency for universities that want to strengthen their English-medium instruction."
+  },
+  "sources": [
+   {
+    "label": "Choose your program to learn English or French — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/choose-your-program"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-test-competence-cycles-superieurs",
+  "category": "programmes",
+  "keywords": [
+   "test de compétence études supérieures",
+   "graduate language proficiency test",
+   "e7 f7",
+   "test langue seconde maîtrise",
+   "second language test master's",
+   "xpresslab",
+   "maîtrise bilinguisme test",
+   "50 dollars test langue",
+   "admission test olbi"
+  ],
+  "question": {
+   "fr": "Mon programme aux cycles supérieurs exige un test de langue seconde : comment ça marche ?",
+   "en": "My graduate program requires a second-language test: how does it work?"
+  },
+  "answer": {
+   "fr": "Certains programmes, comme la maîtrise en études du bilinguisme, la maîtrise en sciences de l'information, la maîtrise en sciences de la santé interdisciplinaires, le doctorat en santé des populations et la maîtrise en littératures et cultures du monde, exigent le test de compétence de l'ILOB, avec au moins avancé faible, E7 ou F7, ou E8 ou F8 pour le bilinguisme. Le test coûte 50 dollars, dure 90 minutes et se passe sur la plateforme XpressLab, avec les résultats immédiats.",
+   "en": "Some programs, like the MA in Bilingualism Studies, Master of Information Studies, MSc in Interdisciplinary Health Sciences, PhD in Population Health and MA in World Literatures and Cultures, require OLBI's proficiency test, with at least Low Advanced, E7 or F7, or E8 or F8 for Bilingualism. The test costs $50, takes 90 minutes and is done on the XpressLab platform, with immediate results."
+  },
+  "sources": [
+   {
+    "label": "Language requirements for graduate programs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/language-assessment/language-requirements-graduate-programs"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-test-achevement-cycles-superieurs",
+  "category": "programmes",
+  "keywords": [
+   "test d'achèvement de programme",
+   "graduate program completion test",
+   "langue seconde avant diplôme",
+   "second language before graduation",
+   "60 dollars test",
+   "exigence langue fin de programme",
+   "completion requirement language",
+   "test langue seconde diplôme cycles supérieurs"
+  ],
+  "question": {
+   "fr": "Je dois prouver ma langue seconde avant de diplômer aux cycles supérieurs : quelles options ?",
+   "en": "I must prove my second language before graduating from grad school: what are my options?"
+  },
+  "answer": {
+   "fr": "Selon ton programme, tu pourrais devoir réussir des cours de français ou d'anglais langue seconde, ou passer le test d'achèvement de programme pour études supérieures. Ce test coûte 60 dollars, dure 90 minutes sur XpressLab, et les résultats sont envoyés directement à ton programme. Pour les exigences exactes, contacte ta faculté ou ton département.",
+   "en": "Depending on your program, you may need to pass French or English as a second language courses, or take the Graduate Program Completion Test. The test costs $60, takes 90 minutes on XpressLab, and results are sent directly to your program. For exact requirements, contact your faculty or department."
+  },
+  "sources": [
+   {
+    "label": "Language requirements for graduate programs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/language-assessment/language-requirements-graduate-programs"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-cantest-testcan",
+  "category": "programmes",
+  "keywords": [
+   "cantest",
+   "testcan",
+   "test cantest uottawa",
+   "cantest discontinued",
+   "test anglais ottawa cantest",
+   "cantest score valid",
+   "test de français testcan",
+   "test de langue accepté"
+  ],
+  "question": {
+   "fr": "Puis-je encore passer le CanTEST ou le TESTCan à l'Université ?",
+   "en": "Can I still take the CanTEST or TESTCan at the University?"
+  },
+  "answer": {
+   "fr": "Non : l'ILOB n'offre plus le CanTEST ni le TESTCan depuis le 15 août 2021, et les résultats ne sont plus valides depuis le 15 août 2022. Vérifie les tests de langue acceptés par ton programme.",
+   "en": "No: OLBI stopped offering the CanTEST and TESTCan as of August 15, 2021, and scores are no longer valid since August 15, 2022. Check which language tests your program accepts."
+  },
+  "sources": [
+   {
+    "label": "CanTEST and TESTCan discontinuation notice — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/language-assessment/tests/cantest-testcan"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-partenaires-conversation-annulation",
+  "category": "programmes",
+  "keywords": [
+   "annuler partenaire de conversation",
+   "cancel conversation partner",
+   "réserver partenaire de conversation",
+   "book conversation partner",
+   "absence rendez-vous conversation",
+   "no-show conversation",
+   "24 heures préavis",
+   "24 hours notice"
+  ],
+  "question": {
+   "fr": "Quelles sont les règles pour réserver ou annuler un partenaire de conversation ?",
+   "en": "What are the rules to book or cancel a conversation partner?"
+  },
+  "answer": {
+   "fr": "Tu réserves un partenaire de conversation en français ou en anglais au Centre de ressources Julien-Couture, en personne ou en ligne. Si tu ne peux pas venir, avise au moins 24 heures à l'avance. Après deux annulations de dernière minute consécutives ou absences, tes réservations sont suspendues pendant deux semaines.",
+   "en": "You book a French or English conversation partner at the Julien Couture Resource Centre, in person or online. If you can't make it, give at least 24 hours' notice. After two consecutive last-minute cancellations or no-shows, your booking privileges are paused for two weeks."
+  },
+  "sources": [
+   {
+    "label": "Conversation partners, Julien Couture Resource Centre — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/julien-couture-resource-centre/conversation-partners"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-cours-fls-esl-debutant",
+  "category": "programmes",
+  "keywords": [
+   "français débutant cours",
+   "beginner french course",
+   "fls 1510",
+   "jamais fait de français",
+   "never studied french",
+   "anglais débutant cours",
+   "beginner english course",
+   "esl 1111",
+   "cours langue seconde niveau"
+  ],
+  "question": {
+   "fr": "Je n'ai jamais appris le français : quel cours puis-je suivre ?",
+   "en": "I've never learned French: which course can I take?"
+  },
+  "answer": {
+   "fr": "L'ILOB offre des cours pour débutants, comme FLS 1510, Welcome! First steps in French, puis FLS 1511 et 1512 en communication orale et écrite. En anglais, l'équivalent commence avec ESL 1111. Ces cours donnent des crédits peu importe ta faculté ; avant ton premier cours, passe le test de classement.",
+   "en": "OLBI offers beginner courses, like FLS 1510, Welcome! First steps in French, followed by FLS 1511 and 1512 in oral and written communication. In English, the equivalent starts with ESL 1111. These courses give credits regardless of your faculty; take the placement test before your first course."
+  },
+  "sources": [
+   {
+    "label": "Second language courses — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/second-language-courses"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "y-agent-recrutement-obligatoire",
+  "category": "international",
+  "keywords": [
+   "agent de recrutement",
+   "recruitment agent",
+   "dois-je passer par un agent",
+   "do i need an agent",
+   "partenaires de recrutement",
+   "recruitment partners uottawa",
+   "applyboard uottawa",
+   "idp uottawa",
+   "postuler sans agent"
+  ],
+  "question": {
+   "fr": "Dois-je passer par un agent de recrutement pour postuler à uOttawa ?",
+   "en": "Do I have to use a recruitment agent to apply to uOttawa?"
+  },
+  "answer": {
+   "fr": "Non : l'Université précise que tu n'es pas obligé de travailler avec un partenaire ou un agent de recrutement. Elle collabore avec plusieurs partenaires dans le monde, et son équipe de développement des marchés internationaux peut répondre à tes questions et te diriger vers le bon partenaire selon ta région.",
+   "en": "No: the University states you don't have to work with a recruitment partner or agent. It works with several partners around the world, and its International Market Development team can answer your questions and connect you with the right partner for your region."
+  },
+  "sources": [
+   {
+    "label": "International market development team — uOttawa",
+    "url": "https://www.uottawa.ca/study/applying-uottawa/international-student-recruitment-team"
+   }
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ }
+]

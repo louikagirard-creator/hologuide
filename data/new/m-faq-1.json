@@ -2468,7 +2468,7 @@
     "keywords": [
       "acompte",
       "deposit",
-      "1000 $",
+      "950 $",
       "résidence",
       "residence",
       "remboursement",
@@ -2476,15 +2476,20 @@
       "annulation",
       "cancel",
       "uozone",
-      "demande de remboursement"
+      "demande de remboursement",
+      "depot de residence",
+      "depot residence",
+      "combien coute le depot de residence",
+      "residence deposit cost",
+      "acompte residence"
     ],
     "question": {
       "fr": "Quand dois-je payer l'acompte de résidence, et comment me faire rembourser si j'annule ?",
       "en": "When do I pay the residence deposit, and how do I get a refund if I cancel?"
     },
     "answer": {
-      "fr": "Avec la garantie de logement, tu paies l'acompte de 1000 $ au moment de ta demande ou de ta réservation, et ta réservation n'est finalisée qu'à sa réception; les autres le paient en acceptant leur offre. Si tu annules avant la date limite, tu dois demander le remboursement dans uoZone, sous Applications, Demande de remboursement : il n'est pas automatique.",
-      "en": "With the housing guarantee, you pay the $1000 deposit when you apply or book your room, and your reservation isn't final until it's received; everyone else pays when accepting their offer. If you cancel before the deadline, you must request the refund in uoZone, under Applications, Refund Request: it isn't automatic."
+      "fr": "Avec la garantie de logement, tu paies l'acompte de 950 $ au moment de ta demande ou de ta réservation, et ta réservation n'est finalisée qu'à sa réception; les autres le paient en acceptant leur offre. Si tu annules avant la date limite, tu dois demander le remboursement dans uoZone, sous Applications, Demande de remboursement : il n'est pas automatique.",
+      "en": "With the housing guarantee, you pay the $950 deposit when you apply or book your room, and your reservation isn't final until it's received; everyone else pays when accepting their offer. If you cancel before the deadline, you must request the refund in uoZone, under Applications, Refund Request: it isn't automatic."
     },
     "sources": [
       {

@@ -4800,7 +4800,6 @@ export const KB = [
    "business school",
    "commerce",
    "bcom",
-   "mba",
    "administration des affaires",
    "où est telfer",
    "pavillon desmarais",
@@ -54149,7 +54148,10 @@ export const KB = [
    "defective",
    "tabaret",
    "ressources humaines",
-   "human resources"
+   "human resources",
+   "carte d employe",
+   "carte employe perdue",
+   "lost employee card"
   ],
   "question": {
    "fr": "Ma carte d'employé est perdue ou brisée : dois-je payer pour la remplacer ?",
@@ -54192,7 +54194,9 @@ export const KB = [
    "huguette-labelle",
    "refusée",
    "refused",
-   "confidentialité"
+   "confidentialité",
+   "obtenir carte d employe",
+   "get employee card"
   ],
   "question": {
    "fr": "Je ne veux pas téléverser ma pièce d'identité pour ma carte d'employé : quelles sont les autres options ?",
@@ -62210,7 +62214,11 @@ export const KB = [
    "mba professionnel 24 mois",
    "executive mba",
    "emba",
-   "mba finance"
+   "mba finance",
+   "mba",
+   "mba uottawa",
+   "mba telfer",
+   "master of business administration"
   ],
   "question": {
    "fr": "Est-ce qu'il y a un MBA ?",

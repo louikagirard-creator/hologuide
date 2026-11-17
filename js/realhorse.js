@@ -5,7 +5,8 @@
 //   en 3D découpe les poils. Les zones non orangées de la texture (sabots, yeux, naseaux) restent sans poils.
 //   La crinière et la queue ont des crins plus longs, en mèches étirées vers le bas.
 //   Duvet court (velours) sur le museau et dans les oreilles ; les yeux sont dessinés dans le shader (iris, reflet).
-// - Variante « geegee » : pelage crème, maillot grenat GG / GEE-GEES 48 et short gris, dessinés dans le shader.
+// - Variante « geegee » : pelage crème, maillot grenat GG / GEE-GEES 48 et short gris, dessinés dans le shader,
+//   avec plis souples et mailles du tissu en relief (bump procédural).
 // - Animation sans squelette : la tête, la mâchoire et les bras tournent autour de pivots mesurés sur le modèle,
 //   avec des poids progressifs (épaules, cou) ; les poils et les vêtements suivent automatiquement.
 //   Les gestes viennent de la même logique que le Gee-Gee fait en code (mascot.js) : parole, salut, haussement…
@@ -89,6 +90,7 @@ export const realSettings = {
   furLength: { value: 0.012 }, density: { value: 900 }, gravity: { value: 0.35 }, furOn: { value: 1 },
   geegee: { value: 1 }, headR: { value: new THREE.Matrix3() }, jaw: { value: 0 }, breath: { value: 0 },
   armP: { value: new THREE.Vector4() }, armN: { value: new THREE.Vector4() },
+  clothScale: { value: 1 }, // échelle modèle → scène, pour la profondeur des plis du tissu
   eyeC: { value: new THREE.Vector4(0.046, 0.878, 0.142, 0.017) } // dans l’orbite du modèle
 };
 
@@ -341,11 +343,36 @@ function clothMaterial(bounds) {
     s.uniforms.shellH = { value: 0 };
     bodyUniforms(s, bounds);
     s.uniforms.art = { value: art };
+    s.uniforms.clothScale = realSettings.clothScale;
     vertexPatch(s, 'transformed += objectNormal * bodyH * 0.0055;'); // tissu ≈ 1 cm au-dessus de la peau
     s.fragmentShader = s.fragmentShader
       .replace('#include <common>', `#include <common>
-        uniform sampler2D art; varying vec3 vBase;
-        ${BODY_GLSL}`)
+        uniform sampler2D art; uniform float clothScale; varying vec3 vBase;
+        ${BODY_GLSL}
+        float cn31(vec3 p) { p = fract(p * 0.3183099 + 0.1); p *= 17.0; return fract(p.x * p.y * p.z * (p.x + p.y + p.z)); }
+        float cnoise(vec3 x) { // bruit de valeur 3D
+          vec3 i = floor(x), f = fract(x); f = f * f * (3.0 - 2.0 * f);
+          return mix(mix(mix(cn31(i), cn31(i + vec3(1, 0, 0)), f.x), mix(cn31(i + vec3(0, 1, 0)), cn31(i + vec3(1, 1, 0)), f.x), f.y),
+                     mix(mix(cn31(i + vec3(0, 0, 1)), cn31(i + vec3(1, 0, 1)), f.x), mix(cn31(i + vec3(0, 1, 1)), cn31(i + vec3(1, 1, 1)), f.x), f.y), f.z);
+        }
+        // Relief du tissu (en fraction de hauteur) : plis souples qui suivent le corps + mailles fines du jersey.
+        float clothFolds(vec3 q, float t, float zone) {
+          float ax = abs(q.x), w = cnoise(q * 7.0) * 2.0 + cnoise(q * 19.0);
+          float h;
+          if (zone < 1.5) {
+            bool sleeve = ax > 0.118 && t > 0.6;
+            // Manches : plis obliques vers l'aisselle. Torse : grands plis souples qui tombent vers la taille.
+            h = sleeve ? sin((t - ax * 1.6) * 90.0 + w * 2.5) * smoothstep(0.67, 0.61, t)
+                       : sin(t * 60.0 + w * 3.5 + q.x * 14.0) * (0.25 + 0.75 * smoothstep(0.62, 0.5, t));
+          } else {
+            // Short : plis en diagonale depuis l'entrejambe et sur l'avant des cuisses.
+            h = sin((t + ax * 0.9) * 75.0 + w * 3.0) * (0.5 + 0.5 * smoothstep(0.44, 0.37, t));
+          }
+          // Aucun relief sur les coutures (maillot/short, manche/torse) : sinon le saut de hauteur dessine une ligne.
+          float seam = smoothstep(0.0, 0.012, abs(t - 0.475)) * mix(1.0, smoothstep(0.0, 0.01, abs(ax - 0.118)), step(0.6, t));
+          return ((h * h * sign(h)) * 0.0035 + (cnoise(q * 40.0) - 0.5) * 0.0008) * seam;
+        }
+        float clothKnit(vec3 q, float t) { return sin(q.x * 2600.0 + sin(t * 1300.0) * 0.8) * sin(t * 2600.0); }`)
       .replace('#include <color_fragment>', `#include <color_fragment>
         {
           float zone = clothZone(vBase);
@@ -376,7 +403,23 @@ function clothMaterial(bounds) {
             c = grey * 1.15;
             if (t - 0.335 < 0.012) c = garnet;
           }
+          // Creux des plis un peu plus sombres ; mailles visibles seulement de près (sinon scintillement).
+          float fh = clothFolds(q, t, zone) / 0.0035;
+          float kn = clothKnit(q, t), kf = 1.0 - smoothstep(0.15, 0.6, fwidth(t * 2600.0));
+          c *= (0.93 + 0.1 * fh) * (1.0 + 0.08 * kn * kf);
           diffuseColor.rgb = c;
+        }`)
+      .replace('#include <normal_fragment_maps>', `#include <normal_fragment_maps>
+        {
+          // Relief en bosselage (bump) calculé sur la position du corps au repos : les plis suivent les mouvements.
+          vec3 q = bodyN(vBase); float t = bodyT(vBase);
+          float kf = 1.0 - smoothstep(0.15, 0.6, fwidth(t * 2600.0));
+          float hgt = (clothFolds(q, t, clothZone(vBase)) + clothKnit(q, t) * 0.00008 * kf) * bodyH * clothScale;
+          vec3 sx = dFdx(-vViewPosition), sy = dFdy(-vViewPosition);
+          vec3 r1 = cross(sy, normal), r2 = cross(normal, sx);
+          float det = dot(sx, r1);
+          vec3 grad = sign(det) * (dFdx(hgt) * r1 + dFdy(hgt) * r2);
+          normal = normalize(abs(det) * normal - grad);
         }`);
   };
   m.customProgramCacheKey = () => 'realhorse-cloth';
@@ -435,6 +478,7 @@ export class RealHorse {
       }
       const box = new THREE.Box3().setFromObject(m), size = box.getSize(new THREE.Vector3());
       m.scale.setScalar(height / size.y);
+      realSettings.clothScale.value = height / size.y;
       box.setFromObject(m);
       const c = box.getCenter(new THREE.Vector3());
       m.position.set(-c.x, floorY - box.min.y, -c.z);

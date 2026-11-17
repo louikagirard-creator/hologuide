@@ -198,7 +198,8 @@ export class GeeGee {
     // mais Gee-Gee reste centré dans la colonne de gauche.
     const col = this.el.closest('.holo')?.clientWidth || w;
     const cam = this.camera, aspect = col / h, half = Math.tan(THREE.MathUtils.degToRad(cam.fov / 2));
-    const H = (TOP - FLOOR) * FIT, W = 1.25;                  // hauteur et largeur à faire tenir (bras compris)
+    // Le modèle réaliste a les bras plus écartés : on cadre plus large pour que ses mains ne soient pas coupées.
+    const H = (TOP - FLOOR) * FIT, W = this.style === 'cartoon' ? 1.25 : 1.75; // hauteur et largeur à faire tenir (bras compris)
     const d = Math.max(H / 2 / half, W / 2 / (half * aspect));
     const cy = FLOOR + H / 2 - 0.02;
     cam.aspect = aspect; cam.position.set(0, cy, d); cam.lookAt(0, cy, 0);
@@ -269,6 +270,7 @@ export class GeeGee {
     // Les couleurs du modèle réaliste sont réglées pour un rendu neutre (l'ACES rougit le pelage).
     this.renderer.toneMapping = real ? THREE.NeutralToneMapping : THREE.ACESFilmicToneMapping;
     this.renderer.toneMappingExposure = real ? 1.0 : 0.95;
+    this.resize();
   }
 
   // ---------- Vrai modèle 3D ----------

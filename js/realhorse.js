@@ -3,6 +3,7 @@
 //
 // - Fourrure : « shell fur », le maillage est recopié en couches poussées le long de la normale ; un motif de brins
 //   en 3D découpe les poils. Les zones non orangées de la texture (sabots, yeux, naseaux) restent sans poils.
+//   La crinière et la queue ont des crins plus longs, en mèches étirées vers le bas.
 // - Variante « geegee » : pelage crème, maillot grenat GG / GEE-GEES 48 et short gris, dessinés dans le shader.
 // - Animation sans squelette : la tête, la mâchoire et les bras tournent autour de pivots mesurés sur le modèle,
 //   avec des poids progressifs (épaules, cou) ; les poils et les vêtements suivent automatiquement.
@@ -27,6 +28,15 @@ const BODY_GLSL = `
     if (t > 0.335 && t <= 0.475 && ax < 0.126 && !tail) return 2.0;
     return 0.0;
   }
+  // Crinière (dessus du crâne, nuque) et queue : poils longs, en mèches.
+  float maneMask(vec3 p) {
+    vec3 q = bodyN(p); float t = bodyT(p);
+    float xw = t > 0.885 ? 0.035 : 0.08;
+    float mane = smoothstep(0.725, 0.765, t) * (1.0 - smoothstep(xw - 0.015, xw + 0.01, abs(q.x)))
+               * (1.0 - smoothstep(0.02, 0.06, q.z) * (1.0 - smoothstep(0.86, 0.895, t)));
+    float tail = smoothstep(-0.095, -0.115, q.z) * smoothstep(0.08, 0.12, t) * (1.0 - smoothstep(0.5, 0.56, t));
+    return max(mane, tail);
+  }
   vec3 recolor(vec3 col) {
     if (geegee < 0.5) return col;
     float L = dot(col, vec3(0.299, 0.587, 0.114));
@@ -41,6 +51,7 @@ const BODY_GLSL = `
 // Déformation (« squelette » doux) : appliquée à la position et à la normale de chaque couche.
 const RIG_GLSL = `
   uniform mat3 headR; uniform float jaw, breath; uniform vec4 armP, armN; // bras côté +x / −x : (lever, avant, côté, avant épaule)
+  attribute float armW; // appartenance au bras, calculée sur le maillage (voir armWeights)
   mat3 rotX(float a) { float c = cos(a), s = sin(a); return mat3(1., 0., 0., 0., c, s, 0., -s, c); }
   mat3 rotZ(float a) { float c = cos(a), s = sin(a); return mat3(c, s, 0., -s, c, 0., 0., 0., 1.); }
   void rigApply(inout vec3 Q, inout vec3 N, mat3 R, vec3 pivot, float w) {
@@ -51,8 +62,7 @@ const RIG_GLSL = `
   void rig(inout vec3 Q, inout vec3 N) {
     float s = Q.x >= 0.0 ? 1.0 : -1.0;
     vec4 a = s > 0.0 ? armP : armN;
-    float ax = abs(Q.x);
-    float wArm = smoothstep(0.105, 0.14, ax) * (1.0 - smoothstep(0.64, 0.73, Q.y)) * smoothstep(0.24, 0.28, Q.y);
+    float wArm = armW;
     float wFore = wArm * (1.0 - smoothstep(0.49, 0.545, Q.y));
     float wHead = smoothstep(0.715, 0.79, Q.y) * (1.0 - wArm);
     float wJaw = smoothstep(0.11, 0.15, Q.z) * smoothstep(0.742, 0.752, Q.y) * (1.0 - smoothstep(0.776, 0.788, Q.y));
@@ -97,6 +107,43 @@ function smoothNormals(geometry) {
   geometry.setAttribute('normal', new THREE.BufferAttribute(normals, 3));
 }
 
+// Poids « bras » par sommet : on part des coudes et on suit les arêtes du maillage (sans passer par le milieu du
+// corps), donc les cuisses voisines des mains ne bougent pas avec le bras. Le poids diminue vers l'épaule, puis
+// est lissé sur quelques voisins pour que l'aisselle se plie en douceur.
+function armWeights(geometry, bounds) {
+  const pos = geometry.attributes.position, n = pos.count, idx = geometry.index ? geometry.index.array : null;
+  const H = bounds.max.y - bounds.min.y;
+  const key = (i) => `${pos.getX(i).toFixed(5)},${pos.getY(i).toFixed(5)},${pos.getZ(i).toFixed(5)}`;
+  const gm = new Map(), gid = new Int32Array(n);
+  for (let i = 0; i < n; i++) { const k = key(i); if (!gm.has(k)) gm.set(k, gm.size); gid[i] = gm.get(k); }
+  const G = gm.size, T = new Float32Array(G), X = new Float32Array(G);
+  for (let i = 0; i < n; i++) { T[gid[i]] = (pos.getY(i) - bounds.min.y) / H; X[gid[i]] = pos.getX(i) / H; }
+  const adj = Array.from({ length: G }, () => new Set());
+  const tri = idx ? idx.length / 3 : n / 3;
+  for (let t = 0; t < tri; t++) {
+    const v = [0, 1, 2].map((j) => gid[idx ? idx[t * 3 + j] : t * 3 + j]);
+    for (const a of v) for (const b of v) if (a !== b) adj[a].add(b);
+  }
+  const ss = (a, b, x) => { const u = Math.min(1, Math.max(0, (x - a) / (b - a))); return u * u * (3 - 2 * u); };
+  let w = new Float32Array(G);
+  for (const s of [1, -1]) {
+    const q = [];
+    for (let v = 0; v < G; v++) if (T[v] > 0.5 && T[v] < 0.53 && X[v] * s > 0.155) { w[v] = 1; q.push(v); }
+    for (let k = 0; k < q.length; k++) for (const u of adj[q[k]]) if (!w[u] && X[u] * s > 0.1 && T[u] < 0.72) { w[u] = 1; q.push(u); }
+  }
+  for (let v = 0; v < G; v++) w[v] *= 1 - ss(0.63, 0.72, T[v]);
+  for (let it = 0; it < 3; it++) {
+    const nw = new Float32Array(G);
+    for (let v = 0; v < G; v++) { let sum = w[v] * 2, c = 2; for (const u of adj[v]) { sum += w[u]; c++; } nw[v] = sum / c; }
+    // les vrais sommets du bras (sous l'aisselle) gardent leur poids complet
+    for (let v = 0; v < G; v++) if (w[v] > 0.999 && T[v] < 0.6) nw[v] = 1;
+    w = nw;
+  }
+  const out = new Float32Array(n);
+  for (let i = 0; i < n; i++) out[i] = w[gid[i]];
+  geometry.setAttribute('armW', new THREE.BufferAttribute(out, 1));
+}
+
 function bodyUniforms(s, bounds) {
   s.uniforms.bodyMinY = { value: bounds.min.y };
   s.uniforms.bodyH = { value: bounds.max.y - bounds.min.y };
@@ -128,8 +175,9 @@ function shellMaterial(base, h, bounds) {
     for (const k of ['furLength', 'density', 'gravity', 'furOn']) s.uniforms[k] = realSettings[k];
     s.uniforms.shellH = { value: h };
     bodyUniforms(s, bounds);
-    vertexPatch(s, `transformed += objectNormal * furLength * bodyH * shellH * furOn;
-      transformed.y -= gravity * furLength * bodyH * shellH * shellH * furOn;`);
+    vertexPatch(s, `float hairL = furLength * bodyH * shellH * furOn * (1.0 + 2.2 * maneMask(position));
+      transformed += objectNormal * hairL;
+      transformed.y -= gravity * hairL * shellH * (1.0 + maneMask(position));`);
     s.fragmentShader = s.fragmentShader
       .replace('#include <common>', `#include <common>
         uniform float density, shellH, furOn; varying vec3 vBase;
@@ -141,24 +189,33 @@ function shellMaterial(base, h, bounds) {
           vec3 raw = diffuseColor.rgb;
           vec3 col = recolor(raw);
           float orange = smoothstep(0.04, 0.16, raw.r - raw.b) * smoothstep(0.03, 0.12, max(raw.r, raw.g));
+          // Mèches de la crinière et de la queue : zones foncées de la texture dans la région de la crinière.
+          float hairF = maneMask(vBase) * (1.0 - smoothstep(0.05, 0.12, max(raw.r, raw.g)));
+          float isHair = step(0.5, hairF);
           float cloth = clothZone(vBase);
           float strand = 0.0;
           if (shellH > 0.0) {
             if (cloth > 0.5 || furOn < 0.5) discard;
-            vec3 p = (vBase / bodyH) * density, c = floor(p);
+            // Brins ronds pour le pelage ; pour les crins, cellules étirées vers le bas (mèches).
+            vec3 p = (vBase / bodyH) * density * mix(vec3(1.0), vec3(1.7, 0.22, 1.7), isHair), c = floor(p);
             float best = 9.0, rnd = 0.0;
             for (int x = 0; x <= 1; x++) for (int y = 0; y <= 1; y++) for (int z = 0; z <= 1; z++) {
               vec3 cc = c + vec3(x, y, z) - 0.5 + step(0.5, fract(p));
               float d = length(p - (cc + h33(cc)));
               if (d < best) { best = d; rnd = h31(cc); }
             }
-            float len = mix(0.55, 1.0, rnd) * orange;
-            float radius = 0.62 * (1.0 - shellH / max(len, 1e-3));
+            float len = mix(0.55, 1.0, rnd) * max(orange * (1.0 - isHair), isHair * mix(0.6, 1.0, rnd));
+            float radius = mix(0.62, 0.7, isHair) * (1.0 - shellH / max(len, 1e-3));
             if (shellH > len || best > radius) discard;
             strand = rnd;
           }
+          if (isHair > 0.5) {
+            // Gee-Gee : crins gris anthracite ; cheval : brun d'origine. Reflets selon la mèche et vers les pointes.
+            vec3 hc = geegee > 0.5 ? vec3(0.05, 0.05, 0.056) : raw * 1.1;
+            col = hc * (0.65 + 0.7 * strand) * mix(0.7, 1.35, shellH);
+          }
           float ao = mix(0.55, 1.08, shellH) * mix(1.0, 0.9 + 0.2 * strand, step(0.001, shellH));
-          diffuseColor.rgb = col * mix(1.0, ao, orange * (1.0 - step(0.5, cloth)));
+          diffuseColor.rgb = col * mix(1.0, ao, max(orange, isHair) * (1.0 - step(0.5, cloth)));
         }`);
   };
   m.customProgramCacheKey = () => 'realhorse-fur' + h.toFixed(3);
@@ -233,6 +290,8 @@ function clothMaterial(bounds) {
   return m;
 }
 
+const _euler = new THREE.Euler(), _m4 = new THREE.Matrix4();
+
 export class RealHorse {
   constructor(url) { this.url = url; this.group = new THREE.Group(); this.ready = null; }
 
@@ -249,6 +308,7 @@ export class RealHorse {
         smoothNormals(mesh.geometry);
         mesh.geometry.computeBoundingBox();
         const bounds = mesh.geometry.boundingBox, base = mesh.material;
+        armWeights(mesh.geometry, bounds);
         mesh.material = shellMaterial(base, 0, bounds);
         mesh.frustumCulled = false; // la déformation sort parfois de la boîte englobante d'origine
         const cloth = new THREE.Mesh(mesh.geometry, clothMaterial(bounds));
@@ -275,16 +335,19 @@ export class RealHorse {
   // Applique la pose calculée par mascot.js (tête, bras, mâchoire) au modèle réaliste.
   pose(P, mouth, t, arms) {
     // Amplitudes réduites : sans vrai squelette, une grande rotation étirerait le cou.
-    const e = new THREE.Euler(P.hx * 0.6, (P.hy + 0.12) * 0.5, P.hz * 0.6, 'YXZ');
-    realSettings.headR.value.setFromMatrix4(new THREE.Matrix4().makeRotationFromEuler(e));
+    _euler.set(P.hx * 0.6, (P.hy + 0.12) * 0.5, P.hz * 0.6, 'YXZ');
+    realSettings.headR.value.setFromMatrix4(_m4.makeRotationFromEuler(_euler));
     realSettings.jaw.value = mouth * 0.22;
     realSettings.breath.value = Math.sin(t * 1.4);
     // Écart par rapport au repos du Gee-Gee fait en code (sz repos = −0,12·s, ex repos = −0,25).
     P.arms.forEach((q, i) => {
       const s = arms[i].s, v = s > 0 ? realSettings.armP.value : realSettings.armN.value;
-      const raise = Math.max(-0.1, Math.min(1.35, (q.sz + 0.12 * s) * s * 0.62));
+      const raise = Math.max(-0.1, Math.min(1.1, (q.sz + 0.12 * s) * s * 0.62));
       const fwd = Math.max(-0.2, Math.min(1.5, -(q.ex + 0.25) * 0.85));
-      v.set(raise, fwd, q.ez * s * 0.5, -q.sx * 0.5);
+      // Avant-bras : quand le bras est levé (salut), la main monte à la verticale et se balance de chaque côté.
+      const r = Math.max(0, Math.min(1, raise / 0.55)), ez = q.ez * s; // le coude plie avant que le bras soit haut
+      const bend = ez * 0.5 * (1 - r) + (0.95 + 0.78 * ez) * r;
+      v.set(raise, fwd, Math.max(-0.3, Math.min(2.1, bend)), -q.sx * 0.5);
     });
   }
 }

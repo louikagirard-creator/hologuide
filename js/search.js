@@ -53,6 +53,7 @@ function score(item, n, qwords, cats) {
     else if (w.length >= 5 && !ALL_WORDS.has(w) && item.vocab.some((v) => v.length >= 5 && lev(w, v) <= 1)) s += 0.75;
   }
   if (cats.has(item.e.category)) s += 0.5;
+  if (cats.club && item.e.category === 'associations') s += 1.5; // « club de … » : les fiches de clubs d'abord
   if (/\d/.test(item.idk) && n.includes(item.idk)) s += 1; // départage : « gng1503 » → la fiche j-gng1503 plutôt que son équivalent anglais
   return s;
 }
@@ -65,6 +66,7 @@ export function findAnswer(text) {
   if (all.length <= 3 && HELLO.some((h) => n.includes(` ${h} `))) return { type: 'hello' };
   if (THANKS.some((h) => n.includes(norm(h))) && all.length <= 5) return { type: 'thanks' };
   const cats = new Set(CAT_HINTS.filter((c) => c.hints.some((h) => n.includes(h))).map((c) => c.id));
+  cats.club = / (club|clubs|association etudiante|student club) /.test(n);
   const ranked = INDEX.map((it) => ({ e: it.e, s: score(it, n, qwords, cats) })).filter((r) => r.s > 0).sort((a, b) => b.s - a.s);
   const best = ranked[0];
   if (best && best.s >= 2.5) return { type: 'answer', entry: best.e, score: best.s, alts: ranked.slice(1, 4).filter((r) => r.s >= 2).map((r) => r.e) };

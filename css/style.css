@@ -510,3 +510,14 @@ body.contrast .src, body.contrast .choice, body.contrast .seg-btn, body.contrast
 .choices.two .choice::after { display: none; }
 .choices.two .choice .word { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .choices.two .choice { justify-content: center; } .choices.two .choice .code { display: none; }
+
+/* IA : « réfléchit… » et mention sous la réponse */
+.thinking { font-size: 1.15rem; font-weight: 700; color: var(--ink); animation: think 1.2s ease-in-out infinite; }
+@keyframes think { 50% { opacity: 0.45; } }
+.ai-badge { display: inline-block; margin-top: 0.8rem; padding: 0.35rem 0.75rem; border-radius: 999px; background: #eef1f8; color: #1f2a44; font-size: 0.78rem; font-weight: 700; }
+.set-note { margin: -0.2rem 0 0.5rem; font-size: 0.8rem; font-weight: 500; color: var(--dim); }
+.thinking.small { font-size: 0.82rem; font-weight: 600; color: var(--dim); margin: 0 0 0.6rem; }
+.ai-card { margin: 0 0 1rem; padding: 0.9rem; border-radius: 16px; background: #eef1f8; }
+.ai-card .ai-badge { margin: 0 0 0.4rem; padding: 0; background: none; color: #1f2a44; }
+.ai-text { font-size: 1.02rem; font-weight: 600; line-height: 1.45; color: var(--ink); }
+.ai-card .list { background: #fff; margin-top: 0.6rem; }

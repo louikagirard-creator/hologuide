@@ -18,6 +18,12 @@ export function norm(s) {
     .replace(/\b([a-z]{4,})s\b/g, '$1')} `; // pluriel simple : « examens » = « examen »
 }
 const words = (s) => norm(s).trim().split(' ').filter((w) => w && !STOP.has(w));
+// Synonymes courants (langage parlé, québécismes) ramenés aux mots de la base ; appliqués à la question seulement
+const SYN = [[' egare ', ' perdu '], [' egaree ', ' perdue '], [' paume ', ' perdu '], [' carte d etudiant ', ' carte etudiante '], [' carte etudiant ', ' carte etudiante '],
+  [' bouffer ', ' manger '], [' bouffe ', ' nourriture '], [' resto ', ' restaurant '], [' wc ', ' toilette '], [' salle de bain ', ' toilette '], [' bathroom ', ' toilette '], [' washroom ', ' toilette '],
+  [' bibli ', ' bibliotheque '], [' biblio ', ' bibliotheque '], [' job ', ' emploi '], [' boulot ', ' emploi '], [' jobine ', ' emploi '], [' char ', ' voiture '],
+  [' parking ', ' stationnement '], [' cell ', ' telephone '], [' ordi ', ' ordinateur '], [' laptop ', ' ordinateur portable '], [' prof ', ' professeur '], [' labo ', ' laboratoire ']];
+const expand = (n) => { let x = n; for (const [a, b] of SYN) x = x.replaceAll(a, `${a}${b.trim()} `); return x; }; // garde le mot d'origine et ajoute le synonyme
 
 function lev(a, b) { // distance d'édition (tolérance d'une faute de frappe)
   if (Math.abs(a.length - b.length) > 1) return 2;
@@ -59,8 +65,8 @@ function score(item, n, qwords, cats) {
 }
 
 export function findAnswer(text) {
-  const n = norm(text);
-  const qwords = words(text);
+  const n = expand(norm(text));
+  const qwords = words(n);
   if (SENSITIVE.some((k) => n.includes(norm(k)))) return { type: 'sensitive' };
   const all = n.trim().split(' ');
   if (all.length <= 3 && HELLO.some((h) => n.includes(` ${h} `))) return { type: 'hello' };
@@ -69,8 +75,9 @@ export function findAnswer(text) {
   cats.club = / (club|clubs|association etudiante|student club) /.test(n);
   const ranked = INDEX.map((it) => ({ e: it.e, s: score(it, n, qwords, cats) })).filter((r) => r.s > 0).sort((a, b) => b.s - a.s);
   const best = ranked[0];
-  if (best && best.s >= 2.5) return { type: 'answer', entry: best.e, score: best.s, alts: ranked.slice(1, 4).filter((r) => r.s >= 2).map((r) => r.e) };
-  return { type: 'none', alts: ranked.slice(0, 3).filter((r) => r.s >= 1).map((r) => r.e) };
+  const top = ranked.slice(0, 6).map((r) => r.e); // candidates pour l'IA (elle relit plus de fiches que l'écran n'en montre)
+  if (best && best.s >= 2.5) return { type: 'answer', entry: best.e, score: best.s, alts: ranked.slice(1, 4).filter((r) => r.s >= 2).map((r) => r.e), top };
+  return { type: 'none', alts: ranked.slice(0, 3).filter((r) => r.s >= 1).map((r) => r.e), top };
 }
 
 export const byId = (id) => KB.find((e) => e.id === id);

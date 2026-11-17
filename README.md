@@ -71,6 +71,12 @@ Le modèle est automatiquement mis à l'échelle de la boîte (de la tête aux p
 
 Design original inspiré des Gee-Gees : pour utiliser le logo ou la mascotte officielle, il faut l'accord de l'Université.
 
+## IA gratuite dans la borne (expérimentale, désactivée par défaut)
+`js/ai.js` : WebLLM + modèle Qwen 2.5 1.5B, qui tourne dans le navigateur (WebGPU) : gratuit, sans clé, rien n'est envoyé ailleurs. Le modèle (~1 Go) se télécharge une seule fois. À activer dans **Paramètres › Réponses intelligentes**.
+- L'IA ne sert que quand la recherche hésite, et seulement en arrière-plan : la réponse officielle s'affiche tout de suite, puis un encadré « Résumé par l'IA » s'ajoute si la réponse passe les garde-fous.
+- Garde-fous : elle doit citer ses fiches ; chaque nombre (local, heure, prix…) doit exister dans les fiches ; la réponse doit reprendre le contenu des fiches ; les refus et hésitations sont rejetés.
+- Limite constatée aux tests : un petit modèle gratuit se trompe souvent de sujet. Pour une vraie qualité, il faudrait une IA en ligne (offre gratuite Gemini ou Groq) avec une clé gardée dans un petit relais (Cloudflare Worker) : un membre de l'équipe doit créer le compte et la clé.
+
 ## Fichiers
 - `index.html`, `css/style.css` : la page (deux colonnes : Gee-Gee à gauche, interface à droite) et son style sobre (titres à empattements, filets fins, accent grenat).
 - `js/app.js` : le déroulement dans la boîte (écrans, conversation, QR, inactivité, indicateurs).

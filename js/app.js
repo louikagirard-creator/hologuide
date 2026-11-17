@@ -8,12 +8,13 @@ import { GeeGee } from './mascot.js';
 import { VideoGeeGee, CLIPS } from './avatar-video.js';
 import { loadCampus, routeForEntry, drawRoute } from './campusmap.js';
 import { loadLinks, searchLinks } from './links.js';
+import { ai, aiSupported, loadAI, aiAnswer } from './ai.js';
 
 const $ = (s, root = document) => root.querySelector(s);
 const $$ = (s, root = document) => [...root.querySelectorAll(s)];
 const IDLE_MS = 45000, IDLE_COUNTDOWN = 15, SESSION_NOTICE_MS = 180000, END_COUNTDOWN = 30;
 
-const DEFAULTS = { voice: true, scale: 1, contrast: false, speed: 1, volume: 1, highlight: true, calm: false, font: 'std', spacing: 'normal', patience: 1, qr: true };
+const DEFAULTS = { useAI: false, voice: true, scale: 1, contrast: false, speed: 1, volume: 1, highlight: true, calm: false, font: 'std', spacing: 'normal', patience: 1, qr: true };
 const state = { lang: 'fr', profile: 'student', ...DEFAULTS, session: null, idleTimer: null, idleTick: null, endTick: null };
 const t = (key) => TEXT[state.lang][key];
 const L = (o) => (o && typeof o === 'object' ? o[state.lang] || o.fr : o);
@@ -179,14 +180,18 @@ function logExchange(q, a, url) {
 }
 
 // ---------- Questions ----------
-function ask(text, id) {
+function ask(text, id, opts = {}) {
   const started = performance.now();
   const entry = id ? byId(id) : null;
   const q = entry ? L(entry.question) : text.trim();
   if (!q) return;
-  const res = entry ? { type: 'answer', entry, alts: [] } : findAnswer(q);
+  const res = entry ? { type: 'answer', entry, alts: [], score: 99 } : findAnswer(q);
   const ms = Math.max(1, Math.round(performance.now() - started));
-  bump((s) => { s.questions++; });
+  if (!opts.retry) bump((s) => { s.questions++; });
+
+  // Recherche hésitante (correspondance faible ou aucune fiche) : l'IA relit les fiches les plus proches et répond si elles le permettent
+  const weak = (res.type === 'answer' && res.score < 6) || (res.type === 'none' && res.top?.length);
+  if (weak && state.useAI && ai.state === 'ready') setTimeout(() => enhanceAI(q, res), 0); // en arrière-plan : la réponse habituelle s'affiche tout de suite
 
   if (res.type === 'answer') {
     const e = res.entry, answer = L(e.answer);
@@ -289,6 +294,27 @@ function openHistory() {
   $('#history').hidden = false;
 }
 function openPlan(img) { $('#lightboxMap').replaceChildren(); $('#lightboxImg').hidden = false; $('#lightboxImg').src = img.src; $('#lightboxImg').alt = L(img.alt); $('#lightbox').hidden = false; }
+// ---------- Résumé par l'IA (à partir des fiches officielles seulement) ----------
+// La réponse habituelle est déjà à l'écran ; si l'IA produit une réponse vérifiée, elle s'ajoute en haut dans un encadré.
+async function enhanceAI(q, res) {
+  const marker = $('#view').firstElementChild; // la question affichée : si elle change, on abandonne
+  const cands = [...new Set([...(res.entry ? [res.entry] : []), ...(res.top || res.alts)])].slice(0, 6);
+  const note = h('p', { class: 'thinking small', text: t('aiThinking') });
+  marker?.after(note);
+  const out = await aiAnswer(q, cands.map((e) => ({ q: L(e.question), a: L(e.answer) })), state.lang);
+  note.remove();
+  if (!out || $('#view').firstElementChild !== marker) return;
+  const used = out.used.map((i) => cands[i]);
+  marker.after(h('section', { class: 'ai-card' },
+    h('p', { class: 'ai-badge', text: t('aiBadge') }), h('p', { class: 'ai-text', text: out.text }),
+    h('ul', { class: 'list' }, used.map((e) => h('li', {}, h('button', { onclick: () => ask('', e.id) }, h('span', { text: L(e.question) }), icon('next')))))));
+}
+// Statut de l'IA dans les Paramètres (téléchargement du modèle la première fois)
+function aiStatus() {
+  if (!aiSupported()) return t('aiNoGpu');
+  return { off: t('aiOff'), loading: fill(t('aiLoading'), { p: ai.progress }), ready: t('aiReady'), unsupported: t('aiNoGpu'), error: t('aiError') }[ai.state];
+}
+
 // Code QR « Emporte cette réponse » : la question, la réponse courte, le lien officiel et l'itinéraire (rien de personnel)
 function takeAway(q, answer, url, route) {
   const lines = [`HoloGuide — ${q}`, answer.length > 220 ? `${answer.slice(0, 217).trim()}…` : answer];
@@ -348,6 +374,7 @@ function closeOverlays() { $('#history').hidden = true; $('#lightbox').hidden = 
 // Chaque réglage : un libellé et des choix côte à côte (un seul actif). Tout revient par défaut pour la personne suivante.
 const SETTINGS = [
   { key: 'lang', label: 'setLang', choices: [['fr', 'Français'], ['en', 'English']] },
+  { key: 'useAI', label: 'setAI', choices: [[true, 'optOn'], [false, 'optOff']] },
   { key: 'scale', label: 'setSize', choices: [[1, 'A'], [1.2, 'A+'], [1.4, 'A++']] },
   { key: 'contrast', label: 'setContrast', choices: [[false, 'optNormal'], [true, 'optHigh']] },
   { key: 'voice', label: 'setVoice', choices: [[true, 'optOn'], [false, 'optOff']] },
@@ -374,17 +401,22 @@ function applySettings() {
 function renderSettings() {
   $('#settingsRows').replaceChildren(...SETTINGS.map((st) => h('div', { class: 'set-row' },
     h('p', { class: 'set-label', text: t(st.label) }),
+    st.key === 'useAI' && h('p', { class: 'set-note', id: 'aiStatus', text: aiStatus() }),
     h('div', { class: 'seg', role: 'group', 'aria-label': t(st.label) }, st.choices.map(([val, lab]) => h('button', {
       class: 'seg-btn', 'aria-pressed': String(state[st.key] === val), text: TEXT[state.lang][lab] || lab,
       onclick: () => {
         const langChanged = st.key === 'lang' && state.lang !== val;
-        state[st.key] = val; applySettings();
+        state[st.key] = val; applySettings(); if (st.key === 'useAI') startAI();
         if (langChanged) { applyText(); if (state.session) viewHome(t('homeTitle')); }
         renderSettings();
       }
     }))))));
 }
 function openSettings() { renderSettings(); $('#settings').hidden = false; }
+function startAI() { // téléchargé en arrière-plan, une seule fois ; le site marche normalement en attendant
+  if (!state.useAI || !aiSupported()) return;
+  loadAI(() => { const el = $('#aiStatus'); if (el) el.textContent = aiStatus(); });
+}
 function toast(text) {
   const el = h('div', { class: 'toast', role: 'status', text });
   document.body.append(el); setTimeout(() => el.remove(), 7000);
@@ -468,6 +500,7 @@ function bind() {
 
 loadCampus();
 loadLinks();
+setTimeout(startAI, 4000); // IA : après l'affichage, pour ne pas ralentir le démarrage
 applyText();
 placeMascot();
 bind();

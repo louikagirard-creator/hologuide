@@ -4,7 +4,8 @@
 // - Fourrure : « shell fur », le maillage est recopié en couches poussées le long de la normale ; un motif de brins
 //   en 3D découpe les poils. Les zones non orangées de la texture (sabots, yeux, naseaux) restent sans poils.
 //   La crinière et la queue ont des crins plus longs, en mèches étirées vers le bas.
-//   Duvet court (velours) sur le museau et dans les oreilles ; les yeux sont dessinés dans le shader (iris, reflet).
+//   Duvet court (velours) sur le museau et dans les oreilles ; les yeux sont dessinés dans le shader (iris, reflet),
+//   ils clignent et suivent le regard calculé par mascot.js.
 //   Sabots en corne striée, avec une frange de poils plus longs qui retombe dessus.
 // - Variante « geegee » : pelage crème, maillot grenat GG / GEE-GEES 48 et short gris, dessinés dans le shader,
 //   avec plis souples et mailles du tissu en relief (bump procédural).
@@ -18,6 +19,7 @@ import * as THREE from 'three';
 const BODY_GLSL = `
   uniform float bodyMinY, bodyH, geegee;
   uniform vec4 eyeC; // centre de l'œil côté +x (x, t, z) et rayon, en unités de hauteur
+  uniform vec3 eyeLook; // fermeture de la paupière (0 ouvert … 1 fermé), regard horizontal, regard vertical
   float bodyT(vec3 p) { return (p.y - bodyMinY) / bodyH; }
   vec3 bodyN(vec3 p) { return p / bodyH; }
   // 1 = maillot, 2 = short, 0 = pelage
@@ -94,6 +96,7 @@ export const realSettings = {
   geegee: { value: 1 }, headR: { value: new THREE.Matrix3() }, jaw: { value: 0 }, breath: { value: 0 },
   armP: { value: new THREE.Vector4() }, armN: { value: new THREE.Vector4() },
   clothScale: { value: 1 }, // échelle modèle → scène, pour la profondeur des plis du tissu
+  eyeLook: { value: new THREE.Vector3() },
   eyeC: { value: new THREE.Vector4(0.046, 0.878, 0.142, 0.017) } // dans l’orbite du modèle
 };
 
@@ -220,7 +223,7 @@ function lightFix(geometry, bounds, map) {
 function bodyUniforms(s, bounds) {
   s.uniforms.bodyMinY = { value: bounds.min.y };
   s.uniforms.bodyH = { value: bounds.max.y - bounds.min.y };
-  for (const k of ['geegee', 'headR', 'jaw', 'breath', 'armP', 'armN', 'eyeC']) s.uniforms[k] = realSettings[k];
+  for (const k of ['geegee', 'headR', 'jaw', 'breath', 'armP', 'armN', 'eyeC', 'eyeLook']) s.uniforms[k] = realSettings[k];
 }
 
 // Partie commune du vertex shader : déformation + poussée le long de la normale (offset en unités de hauteur).
@@ -231,6 +234,7 @@ function vertexPatch(s, offsetExpr) {
       ${RIG_GLSL}
       uniform float furLength, gravity, shellH, furOn; varying vec3 vBase;
       attribute float lumFix; varying float vLumFix;
+      varying vec3 vEyeN; // normale douce du côté de la tête, pour éclairer l'œil sans les facettes de l'orbite
       vec3 rigQ; vec3 rigN;`)
     .replace('#include <beginnormal_vertex>', `#include <beginnormal_vertex>
       rigQ = vec3(position.x / bodyH, bodyT(position), position.z / bodyH); rigN = objectNormal;
@@ -238,6 +242,7 @@ function vertexPatch(s, offsetExpr) {
       objectNormal = rigN;`)
     .replace('#include <begin_vertex>', `#include <begin_vertex>
       vBase = position; vLumFix = lumFix;
+      vEyeN = normalMatrix * (headR * normalize(vec3(sign(position.x) * 0.85, 0.15, 0.5)));
       transformed = vec3(rigQ.x * bodyH, rigQ.y * bodyH + bodyMinY, rigQ.z * bodyH);
       ${offsetExpr}`);
 }
@@ -254,19 +259,22 @@ function shellMaterial(base, h, bounds) {
       transformed.y -= gravity * hairL * shellH * (1.0 + maneMask(position) + 2.0 * fringe(position));`);
     s.fragmentShader = s.fragmentShader
       .replace('#include <common>', `#include <common>
-        uniform float density, shellH, furOn; varying vec3 vBase; varying float vLumFix;
+        uniform float density, shellH, furOn; varying vec3 vBase; varying float vLumFix; varying vec3 vEyeN;
         ${BODY_GLSL}
         float h31(vec3 p) { p = fract(p * vec3(.1031, .1030, .0973)); p += dot(p, p.yxz + 33.33); return fract((p.x + p.y) * p.z); }
         vec3 h33(vec3 p) { p = fract(p * vec3(.1031, .1030, .0973)); p += dot(p, p.yxz + 33.33); return fract((p.xxy + p.yxx) * p.zyx); }`)
+      .replace('#include <normal_fragment_maps>', `#include <normal_fragment_maps>
+        normal = normalize(mix(normal, normalize(vEyeN), eyeZ));`)
       .replace('#include <roughnessmap_fragment>', `#include <roughnessmap_fragment>
         roughnessFactor = mix(roughnessFactor, 0.3, eyeF); // œil humide et brillant
+        roughnessFactor = mix(roughnessFactor, 1.0, lidF); // paupière mate
         roughnessFactor = mix(roughnessFactor, 0.7, hoofF); // corne à peine lustrée (plus brillant, les facettes du maillage se verraient)`)
       .replace('#include <map_fragment>', `#include <map_fragment>
-        float eyeF = 0.0, hoofF = 0.0;
+        float eyeF = 0.0, hoofF = 0.0, lidF = 0.0, eyeZ = 0.0;
         {
           vec3 raw = diffuseColor.rgb * vLumFix;
           vec3 col = recolor(raw);
-          vec3 ev = eyeV(vBase); float ed = length(ev);
+          vec3 ev = eyeV(vBase); float ed = length(ev); eyeZ = 1.0 - smoothstep(1.05, 1.45, ed);
           float orange = smoothstep(0.04, 0.16, raw.r - raw.b) * smoothstep(0.03, 0.12, max(raw.r, raw.g))
                        * smoothstep(1.1, 1.6, ed);
           // Mèches de la crinière et de la queue : zones foncées de la texture dans la région de la crinière.
@@ -304,14 +312,22 @@ function shellMaterial(base, h, bounds) {
           }
           if (ed < 1.3) {
             // Iris brun foncé, pupille noire, bord sombre, reflet de lumière ; paupière foncée autour.
-            float r = min(ed, 1.0);
+            // L'iris suit le regard ; la paupière du haut descend pour cligner.
+            vec3 iv = ev - vec3(0.0, eyeLook.z * 0.28, eyeLook.y * 0.32 * sign(vBase.x));
+            float r = min(length(iv), 1.0);
             vec3 eye = mix(vec3(0.012, 0.009, 0.008), vec3(0.17, 0.095, 0.05), smoothstep(0.3, 0.8, r));
             eye *= 1.0 - 0.7 * smoothstep(0.8, 1.0, r);
             float glint = 1.0 - smoothstep(0.1, 0.19, length(ev.yz - vec2(0.38, 0.3)));
             eye = mix(eye, vec3(0.95), glint);
             float lid = smoothstep(1.0, 1.3, ed);
-            col = mix(eye, mix(vec3(0.035, 0.03, 0.03), col, smoothstep(1.12, 1.3, ed)), lid);
-            eyeF = 1.0 - lid;
+            // Paupière du haut : au repos, elle couvre le haut de l'œil ; pendant un clignement, elle le ferme.
+            float lidLine = mix(0.82, -1.15, eyeLook.x) + 0.12 * ev.z * ev.z;
+            float upper = smoothstep(lidLine - 0.04, lidLine + 0.04, ev.y) * (1.0 - lid);
+            vec3 skin = geegee > 0.5 ? vec3(0.4, 0.385, 0.36) : vec3(0.16, 0.075, 0.03);
+            vec3 lidCol = mix(vec3(0.02), skin * (0.75 + 0.25 * smoothstep(lidLine, lidLine + 0.5, ev.y)), smoothstep(lidLine + 0.04, lidLine + 0.16, ev.y));
+            eye = mix(eye, lidCol, upper);
+            col = mix(eye, mix(mix(vec3(0.035, 0.03, 0.03), skin * 0.8, eyeLook.x), col, smoothstep(1.12, 1.3, ed)), lid); // contour foncé, adouci quand l'œil se ferme
+            eyeF = (1.0 - lid) * (1.0 - upper); lidF = (1.0 - lid) * upper;
           }
           // Sabots : corne striée de haut en bas, bande plus foncée sous les poils, bord usé plus clair.
           float hoof = (1.0 - smoothstep(0.05, 0.065, tb)) * (1.0 - smoothstep(0.25, 0.55, orange)) * (1.0 - isHair);
@@ -507,8 +523,9 @@ export class RealHorse {
   setVariant(v) { realSettings.geegee.value = v === 'geegee' ? 1 : 0; }
 
   // Applique la pose calculée par mascot.js (tête, bras, mâchoire) au modèle réaliste.
-  pose(P, mouth, t, arms) {
+  pose(P, mouth, t, arms, eyes) {
     this.watchPerf();
+    if (eyes) realSettings.eyeLook.value.set(eyes.blink, eyes.gx, eyes.gy);
     // Amplitudes réduites : sans vrai squelette, une grande rotation étirerait le cou.
     _euler.set(P.hx * 0.6, (P.hy + 0.12) * 0.5, P.hz * 0.6, 'YXZ');
     realSettings.headR.value.setFromMatrix4(_m4.makeRotationFromEuler(_euler));

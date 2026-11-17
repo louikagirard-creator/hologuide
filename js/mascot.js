@@ -387,7 +387,9 @@ export class GeeGee {
     // Clignements (parfois doubles), regard, sourcils
     if (t > S.blinkAt && S.blinkStart < 0) { S.blinkStart = t; S.blinkAt = t + (Math.random() < 0.2 ? 0.35 : 2.2 + Math.random() * 3.5); }
     let lid = S.calm ? 0.05 : -0.35;
-    if (S.blinkStart >= 0) { const x = (t - S.blinkStart) / 0.16; if (x >= 1) S.blinkStart = -1; else lid = mix(lid, 1.45, Math.sin(x * Math.PI)); }
+    let blink = S.calm ? 0.3 : 0; // fermeture des paupières du modèle réaliste (0 à 1)
+    if (S.blinkStart >= 0) { const x = (t - S.blinkStart) / 0.16; if (x >= 1) S.blinkStart = -1; else { lid = mix(lid, 1.45, Math.sin(x * Math.PI)); blink = mix(blink, 1, Math.sin(x * Math.PI)); } }
+    this.eyeState = { blink, gx: S.gaze.x, gy: S.gaze.y };
     if (t > S.gazeAt) { S.gazeAt = t + 1.2 + Math.random() * 2.5; S.gazeTo.set(S.talking ? 0 : (Math.random() - 0.5) * 0.5, S.talking ? 0 : (Math.random() - 0.5) * 0.3); }
     S.gaze.lerp(S.gazeTo, 1 - Math.exp(-dt * 12));
     for (const e of this.eyes) {
@@ -415,7 +417,7 @@ export class GeeGee {
 
     // Modèle réaliste (Gee-Gee réaliste ou cheval) : même pose que le Gee-Gee fait en code
     if (this.real && this.style !== 'cartoon') {
-      this.real.pose(P, S.mouth, t, this.arms);
+      this.real.pose(P, S.mouth, t, this.arms, this.eyeState);
       const g = this.real.group;
       g.position.y = P.y; g.rotation.set(Math.sin(t * 0.9) * 0.01, P.ry - 0.22, P.rz);
     }

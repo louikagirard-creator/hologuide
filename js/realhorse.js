@@ -63,7 +63,7 @@ const BODY_GLSL = `
 
 // Déformation (« squelette » doux) : appliquée à la position et à la normale de chaque couche.
 const RIG_GLSL = `
-  uniform mat3 headR; uniform float jaw, breath; uniform vec4 armP, armN; // bras côté +x / −x : (lever, avant, côté, avant épaule)
+  uniform mat3 headR; uniform float jaw, breath, bicep; uniform vec4 armP, armN; // bras côté +x / −x : (lever, avant, côté, avant épaule)
   uniform vec2 ears; // inclinaison des oreilles côté +x / −x (radians, négatif = vers l'arrière)
   attribute float armW; // appartenance au bras, calculée sur le maillage (voir armWeights)
   mat3 rotX(float a) { float c = cos(a), s = sin(a); return mat3(1., 0., 0., 0., c, s, 0., -s, c); }
@@ -74,6 +74,21 @@ const RIG_GLSL = `
   }
   // Q : coordonnées du corps (x, t, z) en unités de hauteur
   void rig(inout vec3 Q, inout vec3 N) {
+    // Muscles : haut du bras plus épais, et biceps qui gonfle pendant la contraction (bicep : 0 repos → 1 flex).
+    {
+      float sM = Q.x >= 0.0 ? 1.0 : -1.0;
+      float wB = armW * smoothstep(0.5, 0.545, Q.y) * (1.0 - smoothstep(0.72, 0.755, Q.y));
+      if (wB > 0.001) {
+        float e = (Q.y - 0.59) / 0.06;             // bosse centrée sur le biceps, sous la manche
+        float bell = exp(-e * e);
+        vec3 axis = vec3(sM * 0.166, Q.y, 0.0);
+        float k = 1.0 + wB * (0.14 + 0.85 * bicep) * (0.25 + 0.75 * bell);
+        Q.xz = axis.xz + (Q.xz - axis.xz) * k;
+      }
+      // Pectoraux et épaules un peu plus larges.
+      float wChest = (1.0 - armW) * smoothstep(0.53, 0.6, Q.y) * (1.0 - smoothstep(0.7, 0.745, Q.y));
+      Q.xz *= 1.0 + 0.035 * wChest;
+    }
     float s = Q.x >= 0.0 ? 1.0 : -1.0;
     vec4 a = s > 0.0 ? armP : armN;
     float wArm = armW;
@@ -98,6 +113,7 @@ const RIG_GLSL = `
 export const realSettings = {
   furLength: { value: 0.012 }, density: { value: 900 }, gravity: { value: 0.35 }, furOn: { value: 1 },
   geegee: { value: 1 }, headR: { value: new THREE.Matrix3() }, jaw: { value: 0 }, breath: { value: 0 },
+  bicep: { value: 0 }, // 0 = bras au repos, 1 = biceps contractés
   armP: { value: new THREE.Vector4() }, armN: { value: new THREE.Vector4() },
   clothScale: { value: 1 }, // échelle modèle → scène, pour la profondeur des plis du tissu
   eyeLook: { value: new THREE.Vector3() }, ears: { value: new THREE.Vector2() },
@@ -227,7 +243,7 @@ function lightFix(geometry, bounds, map) {
 function bodyUniforms(s, bounds) {
   s.uniforms.bodyMinY = { value: bounds.min.y };
   s.uniforms.bodyH = { value: bounds.max.y - bounds.min.y };
-  for (const k of ['geegee', 'headR', 'jaw', 'breath', 'armP', 'armN', 'eyeC', 'eyeLook', 'ears']) s.uniforms[k] = realSettings[k];
+  for (const k of ['geegee', 'headR', 'jaw', 'breath', 'bicep', 'armP', 'armN', 'eyeC', 'eyeLook', 'ears']) s.uniforms[k] = realSettings[k];
 }
 
 // Partie commune du vertex shader : déformation + poussée le long de la normale (offset en unités de hauteur).
@@ -527,14 +543,15 @@ export class RealHorse {
   setVariant(v) { realSettings.geegee.value = v === 'geegee' ? 1 : 0; }
 
   // Applique la pose calculée par mascot.js (tête, bras, mâchoire) au modèle réaliste.
-  pose(P, mouth, t, arms, eyes) {
+  pose(P, mouth, t, arms, eyes, flex = 0) {
     this.watchPerf();
     if (eyes) { realSettings.eyeLook.value.set(eyes.blink, eyes.gx, eyes.gy); realSettings.ears.value.set(eyes.earP, eyes.earN); }
+    realSettings.bicep.value = Math.max(0, Math.min(1, flex));
     // Amplitudes réduites : sans vrai squelette, une grande rotation étirerait le cou.
     _euler.set(P.hx * 0.6, (P.hy + 0.12) * 0.5, P.hz * 0.6, 'YXZ');
     realSettings.headR.value.setFromMatrix4(_m4.makeRotationFromEuler(_euler));
     realSettings.jaw.value = mouth * 0.22;
-    realSettings.breath.value = Math.sin(t * 1.4);
+    realSettings.breath.value = Math.sin(t * 1.4) + 0.6 * Math.max(0, Math.min(1, flex)); // respire fort en flex
     // Écart par rapport au repos du Gee-Gee fait en code (sz repos = −0,12·s, ex repos = −0,25).
     P.arms.forEach((q, i) => {
       const s = arms[i].s, v = s > 0 ? realSettings.armP.value : realSettings.armN.value;

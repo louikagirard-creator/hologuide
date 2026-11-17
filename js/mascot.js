@@ -60,6 +60,7 @@ export class GeeGee {
     at(new THREE.DirectionalLight(0xffffff, 0.5), 0, -2, 3, this.scene);        // rebond du plancher
     this.camera = new THREE.PerspectiveCamera(30, 1, 0.1, 50);
     this.figure = 0.27; // position horizontale de Gee-Gee dans l'image (0 = bord gauche)
+    this.yaw = 0; this.yawTo = 0; // rotation donnée au doigt (glisser de côté)
 
     this.build();
     this.modelYaw = 0;
@@ -149,13 +150,14 @@ export class GeeGee {
     // Bras : épaule arrondie > manche > coude > avant-bras > sabot
     this.arms = [1, -1].map((s) => {
       const shoulder = at(new THREE.Group(), 0.44 * s, 0.86, 0, upper);
-      at(ball(0.13, mat(C.garnet, 0.8), 1, 0.9, 0.9), 0, -0.02, 0, shoulder);
-      at(new THREE.Mesh(new THREE.CapsuleGeometry(0.095, 0.26, 6, 20), mat(C.garnet, 0.8)), 0, -0.17, 0, shoulder);
-      at(new THREE.Mesh(new THREE.TorusGeometry(0.1, 0.02, 8, 24), mat(C.grey, 0.6)), 0, -0.34, 0, shoulder).rotation.x = Math.PI / 2;
+      at(ball(0.15, mat(C.garnet, 0.8), 1, 0.92, 0.92), 0, -0.02, 0, shoulder);
+      // Manche = biceps : plus épaisse, et elle gonfle pendant le flex.
+      const bicep = at(new THREE.Mesh(new THREE.CapsuleGeometry(0.118, 0.26, 6, 20), mat(C.garnet, 0.8)), 0, -0.17, 0, shoulder);
+      at(new THREE.Mesh(new THREE.TorusGeometry(0.118, 0.02, 8, 24), mat(C.grey, 0.6)), 0, -0.34, 0, shoulder).rotation.x = Math.PI / 2;
       const elbow = at(new THREE.Group(), 0, -0.4, 0, shoulder);
-      at(new THREE.Mesh(new THREE.CapsuleGeometry(0.075, 0.24, 6, 20), mat(C.coat)), 0, -0.16, 0, elbow);
-      at(new THREE.Mesh(new THREE.CylinderGeometry(0.075, 0.09, 0.1, 24), mat(C.hoof, 0.4)), 0, -0.36, 0, elbow);
-      return { s, shoulder, elbow };
+      at(new THREE.Mesh(new THREE.CapsuleGeometry(0.088, 0.24, 6, 20), mat(C.coat)), 0, -0.16, 0, elbow);
+      at(new THREE.Mesh(new THREE.CylinderGeometry(0.085, 0.1, 0.1, 24), mat(C.hoof, 0.4)), 0, -0.36, 0, elbow);
+      return { s, shoulder, elbow, bicep };
     });
 
     // Bas du corps : short gris à bande blanche, jambes, bas grenat rayés, gros souliers de mascotte
@@ -187,8 +189,36 @@ export class GeeGee {
   // ---------- Affichage ----------
   mount(parent, view = 'bust') {
     if (this.el.parentNode !== parent) parent.appendChild(this.el);
+    this.attachDrag(parent.closest('.holo') || parent);
     this.setView(view); this.resize();
     if (!this.running) { this.running = true; const loop = () => { this.frame(); requestAnimationFrame(loop); }; requestAnimationFrame(loop); }
+  }
+  // Rotation au doigt : glisser de côté sur la colonne de gauche fait tourner Gee-Gee sur lui-même.
+  attachDrag(area) {
+    if (!area || area.dataset.turnReady) return;
+    area.dataset.turnReady = '1';
+    let id = null, x0 = 0, yaw0 = 0, moved = 0;
+    const down = (e) => {
+      if (e.pointerType === 'mouse' && e.button !== 0) return;
+      id = e.pointerId; x0 = e.clientX; yaw0 = this.yawTo; moved = 0;
+      try { area.setPointerCapture(id); } catch { /* capture refusée */ }
+      area.classList.add('turning');
+    };
+    const move = (e) => {
+      if (id !== e.pointerId) return;
+      this.yawTo = yaw0 + (e.clientX - x0) * 0.012; // ~1 tour sur ~520 px
+      moved = Math.max(moved, Math.abs(e.clientX - x0));
+    };
+    const up = (e) => {
+      if (id !== e.pointerId) return;
+      try { area.releasePointerCapture(id); } catch { /* déjà relâchée */ }
+      id = null; area.classList.remove('turning');
+      if (moved > 8) this.lastDragEnd = performance.now(); // un glissement ne doit pas lancer la session
+    };
+    area.addEventListener('pointerdown', down);
+    area.addEventListener('pointermove', move);
+    area.addEventListener('pointerup', up);
+    area.addEventListener('pointercancel', up);
   }
   setView() { this.resize(); } // une seule vue : Gee-Gee en pied, cadré de la tête aux souliers
   resize() {
@@ -203,6 +233,7 @@ export class GeeGee {
     const d = Math.max(H / 2 / half, W / 2 / (half * aspect));
     const cy = FLOOR + H / 2 - 0.02;
     cam.aspect = aspect; cam.position.set(0, cy, d); cam.lookAt(0, cy, 0);
+    this.baseDist = d; this.baseY = cy; // cadrage de base ; le flex recule un peu pour garder les bras dans l'image
     cam.setViewOffset(col, h, w > col ? col * 0.025 : 0, 0, w, h); // un peu à gauche du centre de la colonne
     cam.updateProjectionMatrix();
   }
@@ -311,7 +342,8 @@ export class GeeGee {
     const p = {
       y: 0.008 * b, ry: 0.22 + Math.sin(t * 0.37) * 0.08, rz: Math.sin(t * 0.29) * 0.015,
       hx: Math.sin(t * 0.8) * 0.03, hy: -0.12 + Math.sin(t * 0.43) * 0.1, hz: Math.sin(t * 0.61) * 0.05, brow: 0.15,
-      arms: this.arms.map((a) => ({ sx: 0.05, sz: -0.12 * a.s, ex: -0.25 + 0.03 * b, ez: 0, lift: 0 }))
+      arms: this.arms.map((a) => ({ sx: 0.05, sz: -0.12 * a.s, ex: -0.25 + 0.03 * b, ez: 0, lift: 0 })),
+      flex: 0 // contraction des biceps (0 = repos, 1 = flex)
     };
     if (S.talking) {
       p.hx += Math.sin(t * 5.3) * 0.035; p.hz += Math.sin(t * 2.1) * 0.05; p.brow = 0.5 + 0.5 * Math.sin(t * 3.1);
@@ -326,8 +358,8 @@ export class GeeGee {
     }
     if (!S.talking && !S.gesture && t > S.fidgetAt) { // petite animation spontanée pour attirer les passants
       S.fidgetAt = t + 7 + Math.random() * 8;
-      const pick = ['tilt', 'lookAround', 'hop', 'tilt'][Math.floor(Math.random() * 4)];
-      this.play(pick, pick === 'lookAround' ? 2.6 : 1.4);
+      const pick = ['tilt', 'lookAround', 'flex', 'hop', 'tilt'][Math.floor(Math.random() * 5)];
+      this.play(pick, pick === 'lookAround' ? 2.6 : pick === 'flex' ? 3 : 1.4);
       if (pick === 'tilt') { S.earStart = t; S.earSide = Math.random() < 0.5 ? 0 : 1; }
     }
     const g = S.gesture;
@@ -354,6 +386,12 @@ export class GeeGee {
           const sw = Math.sin(k * Math.PI * 2); p.hy += sw * 0.45 * w; p.ry += sw * 0.1 * w;
         } else if (g.name === 'calm') {
           for (const [a, s] of [[R, 1], [L, -1]]) Object.assign(a, { sx: mix(a.sx, -0.6, w), ex: mix(a.ex, -1.2, w), sz: mix(a.sz, -0.25 * s, w) });
+        } else if (g.name === 'flex') {
+          // Double biceps : les bras montent sur les côtés et les coudes se plient ; les biceps gonflent (P.flex).
+          for (const [a, s] of [[R, 1], [L, -1]]) Object.assign(a, {
+            sz: mix(a.sz, 1.05 * s, w), sx: mix(a.sx, -0.2, w), ex: mix(a.ex, -0.5, w), ez: mix(a.ez, 1.5 * s, w)
+          });
+          p.flex = w; p.hz += 0.08 * w; p.hx -= 0.04 * w; p.brow = mix(p.brow, 1, w);
         }
       }
     }
@@ -364,17 +402,26 @@ export class GeeGee {
     const S = this.state, t = now();
     const dt = Math.min(0.05, t - S.last); S.last = t;
     const T = this.target(t);
+    this.yaw = mix(this.yaw, this.yawTo, 1 - Math.exp(-dt * 10)); // suit le doigt, sans à-coup
+    if (this.baseDist) { // pendant le flex, il se tourne de trois quarts et recule un peu : les bras restent dans la colonne
+      const fx = this.state.pose?.flex || 0;
+      this.camera.position.set(0, this.baseY, this.baseDist * (1 + 0.12 * fx));
+      this.camera.lookAt(0, this.baseY, 0);
+    }
     if (!S.pose) S.pose = structuredClone(T);
     const P = S.pose, k = 1 - Math.exp(-dt * 10);
-    for (const key of ['y', 'ry', 'rz', 'hx', 'hy', 'hz', 'brow']) P[key] = mix(P[key], T[key], k);
+    for (const key of ['y', 'ry', 'rz', 'hx', 'hy', 'hz', 'brow', 'flex']) P[key] = mix(P[key], T[key], k);
     P.arms.forEach((a, i) => { for (const key in a) a[key] = mix(a[key], T.arms[i][key], k); });
 
-    this.root.position.y = P.y; this.root.rotation.set(0, P.ry, 0);
+    this.root.position.y = P.y; this.root.rotation.set(0, P.ry + this.yaw, 0);
     this.upper.rotation.z = P.rz; this.upper.rotation.x = Math.sin(t * 0.9) * 0.012; // le haut se balance, les pieds restent au sol
     this.tail.rotation.z = Math.sin(t * 1.7) * 0.18; this.tail.rotation.x = 0.35 + Math.sin(t * 1.1) * 0.05;
     this.torso.scale.y = 1 + 0.012 * Math.sin(t * 1.4);
     this.neckPivot.rotation.set(P.hx, P.hy, P.hz);
-    this.arms.forEach((a, i) => { const q = P.arms[i]; a.shoulder.position.y = 0.86 + q.lift; a.shoulder.rotation.set(q.sx, 0, q.sz); a.elbow.rotation.set(q.ex, 0, q.ez); });
+    this.arms.forEach((a, i) => {
+      const q = P.arms[i]; a.shoulder.position.y = 0.86 + q.lift; a.shoulder.rotation.set(q.sx, 0, q.sz); a.elbow.rotation.set(q.ex, 0, q.ez);
+      a.bicep.scale.set(1 + 0.45 * P.flex, 1 + 0.08 * P.flex, 1 + 0.45 * P.flex); // biceps qui gonfle puis revient
+    });
 
     // Mâchoire : enveloppe des syllabes en cours
     const ms = performance.now();
@@ -413,15 +460,16 @@ export class GeeGee {
     // Vrai modèle 3D (s'il est présent) : animations du fichier, orientation et petits hochements quand il parle
     if (this.model) {
       this.mixer?.update(dt);
-      this.model.position.y = P.y; this.model.rotation.y = P.ry - 0.22 + this.modelYaw;
+      this.model.position.y = P.y; this.model.rotation.y = P.ry - 0.22 + this.modelYaw + this.yaw;
       this.model.rotation.x = S.mouth * 0.035; this.model.rotation.z = P.rz;
     }
 
     // Modèle réaliste (Gee-Gee réaliste ou cheval) : même pose que le Gee-Gee fait en code
     if (this.real && this.style !== 'cartoon') {
-      this.real.pose(P, S.mouth, t, this.arms, this.eyeState);
+      this.real.pose(P, S.mouth, t, this.arms, this.eyeState, P.flex);
       const g = this.real.group;
-      g.position.y = P.y; g.rotation.set(Math.sin(t * 0.9) * 0.01, P.ry - 0.22, P.rz);
+      // Pendant le flex, il pivote un peu (pose de trois quarts) pour montrer ses biceps sans sortir de la colonne.
+      g.position.y = P.y; g.rotation.set(Math.sin(t * 0.9) * 0.01, P.ry - 0.22 + this.yaw + 1 * P.flex, P.rz);
     }
 
     this.renderer.render(this.scene, this.camera);

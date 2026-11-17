@@ -452,7 +452,10 @@ function openAdmin() {
 function bind() {
   ['pointerdown', 'keydown', 'input'].forEach((ev) => document.addEventListener(ev, () => { if ($('#idle').hidden) resetIdle(); }, true));
   $('#attract').addEventListener('click', openStart);
-  $('#holo').addEventListener('click', () => { if ($('#attract').classList.contains('active')) openStart(); });
+  $('#holo').addEventListener('click', () => { // glisser l'avatar pour le tourner ne compte pas comme un appui
+    if (performance.now() - (gg?.lastDragEnd || 0) < 400) return;
+    if ($('#attract').classList.contains('active')) openStart();
+  });
   $('#attract').addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') openStart(); });
   $('#start').addEventListener('click', (e) => {
     const b = e.target.closest('button'); if (!b) return;

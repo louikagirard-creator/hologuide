@@ -1,0 +1,3857 @@
+[
+ {
+  "id": "p-cs-informatique",
+  "category": "genie",
+  "keywords": [
+   "maitrise en informatique",
+   "master of computer science",
+   "mcs",
+   "master's in computer science",
+   "doctorat en informatique",
+   "phd computer science",
+   "phd en informatique",
+   "computer science graduate",
+   "informatique cycles superieurs",
+   "intelligence artificielle appliquee informatique",
+   "ocics"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise ou un doctorat en informatique ?",
+   "en": "Is there a master's or PhD in computer science?"
+  },
+  "answer": {
+   "fr": "Oui ! La Faculté de génie (École de science informatique et de génie électrique) offre la maîtrise en informatique (MCS) et le doctorat (PhD) en informatique, en partenariat avec l'Université Carleton par l'Institut d'informatique d'Ottawa-Carleton. La maîtrise se fait avec thèse ou avec cours et projet, et propose une option coop, une concentration en intelligence artificielle appliquée et une spécialisation en bio-informatique. Selon le catalogue, ces programmes sont offerts en anglais.",
+   "en": "Yes! The Faculty of Engineering (School of Electrical Engineering and Computer Science) offers the Master of Computer Science (MCS) and a PhD in Computer Science, jointly with Carleton University through the Ottawa-Carleton Institute for Computer Science. The master's can be done with a thesis or with coursework and a project, and offers a co-op option, a concentration in Applied Artificial Intelligence and a specialization in Bioinformatics. According to the catalogue, these programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Computer Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-computer-science/"
+   },
+   {
+    "label": "Maîtrise en informatique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-informatique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Computer Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-computer-science/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-electrique-informatique",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie electrique",
+   "maitrise en genie informatique",
+   "master's in electrical engineering",
+   "master's in computer engineering",
+   "masc electrical and computer engineering",
+   "meng electrical and computer engineering",
+   "doctorat genie electrique",
+   "phd electrical engineering",
+   "phd computer engineering",
+   "ociece",
+   "genie electrique et informatique"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie électrique et informatique ?",
+   "en": "Is there a master's in electrical and computer engineering?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie offre en génie électrique et informatique une maîtrise ès sciences appliquées (MASc, avec thèse), une maîtrise en ingénierie (MEng, avec cours et projet, option coop possible, et une concentration en intelligence artificielle appliquée) ainsi qu'un doctorat (PhD). Ces programmes conjoints avec l'Université Carleton relèvent de l'Institut de génie électrique et informatique d'Ottawa-Carleton et sont offerts en anglais selon le catalogue.",
+   "en": "Yes. The Faculty of Engineering offers, in electrical and computer engineering, a Master of Applied Science (MASc, thesis-based), a Master of Engineering (MEng, coursework and project, with a possible co-op option and a concentration in Applied Artificial Intelligence) and a PhD. These joint programs with Carleton University are run by the Ottawa-Carleton Institute for Electrical and Computer Engineering and are offered in English according to the catalogue."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Electrical and Computer Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-electrical-computer-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées génie électrique et génie informatique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-electrique-genie-informatique/"
+   },
+   {
+    "label": "Master of Engineering Electrical and Computer Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-civil",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie civil",
+   "master's in civil engineering",
+   "masc civil engineering",
+   "meng civil engineering",
+   "doctorat en genie civil",
+   "phd civil engineering",
+   "infrastructure durable et resiliente",
+   "sustainable resilient infrastructure",
+   "ocice",
+   "civil engineering graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie civil ?",
+   "en": "Is there a master's in civil engineering?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de génie civil (Faculté de génie) offre la maîtrise ès sciences appliquées (MASc, avec thèse), la maîtrise en ingénierie (MEng, avec cours et projet) et le doctorat (PhD) en génie civil, conjointement avec l'Université Carleton. La MASc offre aussi une concentration en infrastructure durable et résiliente. Selon le catalogue, ces programmes sont offerts en anglais.",
+   "en": "Yes. The Department of Civil Engineering (Faculty of Engineering) offers the Master of Applied Science (MASc, thesis), the Master of Engineering (MEng, coursework and project) and the PhD in Civil Engineering, jointly with Carleton University. The MASc also offers a concentration in Sustainable and Resilient Infrastructure. According to the catalogue, these programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Civil Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-civil-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées génie civil — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-civil/"
+   },
+   {
+    "label": "Master of Engineering Civil Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-civil-engineering/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-mecanique",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie mecanique",
+   "master's in mechanical engineering",
+   "masc mechanical engineering",
+   "meng mechanical engineering",
+   "doctorat en genie mecanique",
+   "phd mechanical engineering",
+   "genie aerospatial",
+   "aerospace engineering graduate",
+   "ocimae",
+   "robotique"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie mécanique ?",
+   "en": "Is there a master's in mechanical engineering?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de génie mécanique offre la maîtrise ès sciences appliquées (MASc, avec thèse), la maîtrise en ingénierie (MEng, avec cours et projet, avec option coop) et le doctorat (PhD) en génie mécanique, par l'Institut de génie mécanique et aérospatial d'Ottawa-Carleton. Les axes de recherche incluent la thermique et les fluides, la mécanique des solides, les matériaux, la robotique, le génie biomédical et l'aérospatial. Selon le catalogue, ces programmes sont offerts en anglais.",
+   "en": "Yes. The Department of Mechanical Engineering offers the Master of Applied Science (MASc, thesis), the Master of Engineering (MEng, coursework and project, with a co-op option) and the PhD in Mechanical Engineering, through the Ottawa-Carleton Institute for Mechanical and Aerospace Engineering. Research areas include thermal and fluid engineering, solid mechanics, materials, controls and robotics, biomedical and aerospace engineering. According to the catalogue, these programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Mechanical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-mechanical-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées génie mécanique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-mecanique/"
+   },
+   {
+    "label": "Master of Engineering Mechanical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-mechanical-engineering/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-chimique",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie chimique",
+   "master's in chemical engineering",
+   "masc chemical engineering",
+   "meng chemical engineering",
+   "doctorat en genie chimique",
+   "phd chemical engineering",
+   "genie chimique et biologique",
+   "chemical and biological engineering",
+   "chemical engineering graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie chimique ?",
+   "en": "Is there a master's in chemical engineering?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de génie chimique et biologique (Faculté de génie) offre la maîtrise ès sciences appliquées (MASc, avec thèse), la maîtrise en ingénierie (MEng, avec cours et projet) et le doctorat (PhD) en génie chimique. Les étudiants de premier cycle du département peuvent aussi commencer la MASc en voie accélérée. Selon le catalogue, ces programmes sont offerts en anglais.",
+   "en": "Yes. The Department of Chemical and Biological Engineering (Faculty of Engineering) offers the Master of Applied Science (MASc, thesis), the Master of Engineering (MEng, coursework and project) and the PhD in Chemical Engineering. The department's undergraduate students can also start the MASc through an accelerated stream. According to the catalogue, these programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Chemical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-chemical-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées génie chimique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-chimique/"
+   },
+   {
+    "label": "Master of Engineering Chemical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-chemical-engineering/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-environnement",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie de l'environnement",
+   "master's in environmental engineering",
+   "masc environmental engineering",
+   "meng environmental engineering",
+   "doctorat genie de l'environnement",
+   "phd environmental engineering",
+   "traitement de l'eau",
+   "water treatment",
+   "ocience",
+   "environmental engineering graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie de l'environnement ?",
+   "en": "Is there a master's in environmental engineering?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie offre la maîtrise ès sciences appliquées (MASc, avec thèse), la maîtrise en ingénierie (MEng, avec cours et projet) et le doctorat (PhD) en génie de l'environnement, par l'Institut de génie de l'environnement d'Ottawa-Carleton. La plupart des cours sont en anglais, mais la recherche peut se faire en anglais, en français ou dans les deux langues selon le groupe de recherche.",
+   "en": "Yes. The Faculty of Engineering offers the Master of Applied Science (MASc, thesis), the Master of Engineering (MEng, coursework and project) and the PhD in Environmental Engineering, through the Ottawa-Carleton Institute of Environmental Engineering. Most courses are in English, but research can be conducted in English, French or both depending on the research group."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Environmental Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-environmental-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées génie de l'environnement — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-lenvironnement/"
+   },
+   {
+    "label": "Master of Engineering Environmental Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-environmental-engineering/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-biomedical",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie biomedical",
+   "master's in biomedical engineering",
+   "masc biomedical engineering",
+   "meng biomedical engineering",
+   "doctorat en genie biomedical",
+   "phd biomedical engineering",
+   "genie clinique",
+   "clinical engineering",
+   "ocibme",
+   "biomedical engineering graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie biomédical ?",
+   "en": "Is there a master's in biomedical engineering?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie offre la maîtrise ès sciences appliquées (MASc, avec thèse), la maîtrise en ingénierie (MEng, avec une concentration possible en génie clinique) et le doctorat (PhD) en génie biomédical, par l'Institut de génie biomédical d'Ottawa-Carleton. Le programme est multidisciplinaire et réunit plusieurs unités d'Ottawa et de Carleton. Selon le catalogue, il est offert en anglais.",
+   "en": "Yes. The Faculty of Engineering offers the Master of Applied Science (MASc, thesis), the Master of Engineering (MEng, with an optional concentration in Clinical Engineering) and the PhD in Biomedical Engineering, through the Ottawa-Carleton Institute of Biomedical Engineering. The program is multidisciplinary and brings together several units at uOttawa and Carleton. According to the catalogue, it is offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Biomedical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées génie biomédical — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-biomedical/"
+   },
+   {
+    "label": "Master of Engineering Biomedical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-biomedical/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-systemes",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie des systemes",
+   "master's in systems engineering",
+   "masc systems engineering",
+   "meng systems engineering",
+   "science des systemes",
+   "systems science",
+   "intelligence artificielle interdisciplinaire",
+   "interdisciplinary artificial intelligence",
+   "systems engineering graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie des systèmes ?",
+   "en": "Is there a master's in systems engineering?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie (École de design en ingénierie et d'innovation pédagogique) offre une maîtrise ès sciences appliquées (MASc, avec thèse) et une maîtrise en ingénierie (MEng, avec cours) en génie des systèmes, avec une concentration possible en intelligence artificielle interdisciplinaire. Le programme mise sur une approche transdisciplinaire et la modélisation mathématique et informatique des systèmes. Selon le catalogue, il est offert en anglais, à temps plein ou à temps partiel.",
+   "en": "Yes. The Faculty of Engineering (School of Engineering Design and Teaching Innovation) offers a Master of Applied Science (MASc, thesis) and a Master of Engineering (MEng, coursework) in Systems Engineering, with an optional concentration in Interdisciplinary Artificial Intelligence. The program focuses on a transdisciplinary approach and the mathematical and computational modelling of systems. According to the catalogue, it is offered in English, full-time or part-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science in Systems Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-systems-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées en génie des systèmes — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-systemes/"
+   },
+   {
+    "label": "Master of Engineering in Systems Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-systems-engineering/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-materiaux-fabrication",
+  "category": "genie",
+  "keywords": [
+   "maitrise en materiaux et fabrication avances",
+   "materiaux avances et fabrication",
+   "master's in advanced materials and manufacturing",
+   "masc advanced materials",
+   "meng advanced materials and manufacturing",
+   "doctorat materiaux et fabrication",
+   "phd advanced materials and manufacturing",
+   "fabrication additive",
+   "materials engineering graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en matériaux et fabrication avancés ?",
+   "en": "Is there a master's in advanced materials and manufacturing?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie offre en matériaux avancés et fabrication une maîtrise ès sciences appliquées (MASc, avec thèse), une maîtrise en ingénierie (MEng, avec cours et projet, option coop possible) et un doctorat (PhD), par l'Institut de génie mécanique et aérospatial d'Ottawa-Carleton. Les cours sont en anglais selon le catalogue, mais la recherche peut se faire en anglais, en français ou dans les deux langues.",
+   "en": "Yes. The Faculty of Engineering offers, in advanced materials and manufacturing, a Master of Applied Science (MASc, thesis), a Master of Engineering (MEng, coursework and project, with a possible co-op option) and a PhD, through the Ottawa-Carleton Institute for Mechanical and Aerospace Engineering. Courses are in English according to the catalogue, but research can be done in English, French or both."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Advanced Materials and Manufacturing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-advanced-materials-manufacturing/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées matériaux avancés et fabrication — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-materiaux-avances-fabrication/"
+   },
+   {
+    "label": "Master of Engineering Advanced Materials and Manufacturing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-advanced-materials-manufacturing/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-gestion-genie",
+  "category": "genie",
+  "keywords": [
+   "maitrise en gestion en ingenierie",
+   "master's in engineering management",
+   "meng engineering management",
+   "master of engineering management",
+   "mem en ligne",
+   "diplome en gestion en ingenierie",
+   "graduate diploma engineering management",
+   "engineering management online",
+   "gestion de projets techniques"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en gestion en ingénierie ?",
+   "en": "Is there a master's in engineering management?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie et l'École de gestion Telfer offrent la maîtrise en ingénierie (MEng) en gestion en ingénierie, avec cours, ainsi qu'une maîtrise en gestion en ingénierie en ligne (MEM, à temps partiel) et un diplôme d'études supérieures en gestion en ingénierie, aussi en ligne. Le programme développe les compétences des ingénieurs et des scientifiques en gestion de personnes, de projets et de ressources dans des milieux techniques. Selon le catalogue, il est offert en anglais.",
+   "en": "Yes. The Faculty of Engineering and the Telfer School of Management offer the Master of Engineering (MEng) in Engineering Management, course-based, as well as an online Master of Engineering Management (MEM, part-time) and a Graduate Diploma in Engineering Management, also online. The program develops engineers' and scientists' skills in managing people, projects and resources in technical environments. According to the catalogue, it is offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Engineering Engineering Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/"
+   },
+   {
+    "label": "Maîtrise en ingénierie gestion en ingénierie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-ingenierie-gestion-ingenierie/"
+   },
+   {
+    "label": "Master of Engineering Management (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management-online/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-conception-entrepreneuriale",
+  "category": "genie",
+  "keywords": [
+   "maitrise en conception entrepreneuriale en ingenierie",
+   "master's in entrepreneurial engineering design",
+   "meng entrepreneurial engineering design",
+   "entrepreneuriat genie",
+   "engineering entrepreneurship master",
+   "demarrer une entreprise ingenieur",
+   "startup engineering",
+   "design en ingenierie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en entrepreneuriat pour ingénieurs ?",
+   "en": "Is there a master's in entrepreneurial engineering design?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie offre la maîtrise en ingénierie (MEng) en génie entrepreneurial de la conception, qui donne une formation avancée et du mentorat en design dans un contexte d'entrepreneuriat. Le programme porte sur la conception de nouveaux produits ou technologies destinés à être commercialisés ou à avoir un impact dans la communauté. Selon le catalogue, il est offert en anglais, à temps plein ou à temps partiel.",
+   "en": "Yes. The Faculty of Engineering offers the Master of Engineering (MEng) in Entrepreneurial Engineering Design, which provides advanced training and mentorship in engineering design in the context of entrepreneurship. The program focuses on designing new products or technologies to be commercialized or to have community impact. According to the catalogue, it is offered in English, full-time or part-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Engineering in Entrepreneurial Engineering Design — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-entrepreneurial-engineering-design/"
+   },
+   {
+    "label": "Maîtrise en ingénierie génie entrepreneurial de la conception — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-ingenierie-genie-entrepreneurial-conception/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-transformation-numerique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en transformation numerique et innovation",
+   "innovation et transformation numerique",
+   "master of digital transformation and innovation",
+   "mdti",
+   "master's in digital transformation",
+   "doctorat transformation numerique",
+   "phd digital transformation and innovation",
+   "science des donnees appliquee",
+   "applied data science master",
+   "ux design master",
+   "conception ux",
+   "transformation numerique en ligne"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en transformation numérique et innovation ?",
+   "en": "Is there a master's in digital transformation and innovation?"
+  },
+  "answer": {
+   "fr": "Oui. Le programme d'innovation et transformation numérique est une collaboration entre l'École de gestion Telfer, la Faculté des arts et la Faculté de génie. Il comprend la maîtrise en innovation et transformation numérique (avec projet de recherche, option coop, concentrations en science des données appliquée ou en conception UX, et une version en ligne à temps partiel), une maîtrise ès sciences (MSc, avec thèse) et un doctorat (PhD). Selon le catalogue, il est offert en anglais.",
+   "en": "Yes. The Digital Transformation and Innovation program is a collaboration between the Telfer School of Management, the Faculty of Arts and the Faculty of Engineering. It includes the Master of Digital Transformation and Innovation (with a research project, co-op option, concentrations in Applied Data Science or UX Design, and a part-time online version), a Master of Science (MSc, thesis) and a PhD. According to the catalogue, it is offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Digital Transformation and Innovation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-digital-transformation-innovation/"
+   },
+   {
+    "label": "Maîtrise en innovation et transformation numérique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-innovation-transformation-numerique/"
+   },
+   {
+    "label": "Master of Science Digital Transformation and Innovation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-ia-interdisciplinaire",
+  "category": "genie",
+  "keywords": [
+   "maitrise en intelligence artificielle",
+   "master's in artificial intelligence",
+   "master of interdisciplinary artificial intelligence",
+   "miai",
+   "ia en ligne",
+   "ai master online",
+   "microprogramme intelligence artificielle",
+   "microprogram artificial intelligence",
+   "apprentissage automatique",
+   "machine learning graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en intelligence artificielle ?",
+   "en": "Is there a master's in artificial intelligence?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie offre une maîtrise interdisciplinaire en intelligence artificielle entièrement en ligne (MIAI, avec cours, à temps partiel) et un microprogramme en intelligence artificielle interdisciplinaire, qui aborde l'apprentissage automatique, la science des données et les enjeux éthiques et sociaux de l'IA. Selon le catalogue, la maîtrise est offerte en anglais. Tu peux aussi choisir une concentration en IA dans d'autres maîtrises, comme l'informatique, le génie électrique et informatique ou le génie des systèmes.",
+   "en": "Yes. The Faculty of Engineering offers a fully online Master of Interdisciplinary Artificial Intelligence (MIAI, course-based, part-time) and a Microprogram in Interdisciplinary Artificial Intelligence, covering machine learning, data science and the ethical and societal implications of AI. According to the catalogue, the master's is offered in English. You can also choose an AI concentration in other master's programs, such as computer science, electrical and computer engineering or systems engineering."
+  },
+  "sources": [
+   {
+    "label": "Master of Interdisciplinary Artificial Intelligence (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-interdisciplinary-applied-artificial-intelligence-online/"
+   },
+   {
+    "label": "Maîtrise interdisciplinaire en intelligence artificielle (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-interdisciplinaire-intelligence-artificielle-appliquee-en-ligne/"
+   },
+   {
+    "label": "Microprogram Interdisciplinary Artificial Intelligence — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-interdisciplinary-artificial-intelligence/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-accessibilite-biomedecine",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en accessibilite en biomedecine",
+   "master's in accessibility in biomedicine",
+   "masc accessibility biomedicine",
+   "accessibilite recherche biomedicale",
+   "accessibility biomedical research",
+   "engagement communautaire",
+   "community engagement",
+   "maitrise en ligne medecine"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en accessibilité en biomédecine ?",
+   "en": "Is there a master's in accessibility in biomedicine?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de médecine offre une maîtrise ès sciences appliquées (MASc) en accessibilité en biomédecine, un programme entièrement en ligne de 12 mois avec cours. Il forme des scientifiques et des professionnels de la santé aux pratiques d'accessibilité et d'engagement communautaire, notamment avec les personnes en situation de handicap, pour intégrer l'inclusion à la recherche biomédicale.",
+   "en": "Yes. The Faculty of Medicine offers a Master of Applied Science (MASc) in Accessibility in Biomedicine, a fully online, 12-month course-based program. It trains scientists and health professionals in accessibility and community engagement practices, particularly with persons with disabilities, to embed inclusion in biomedical research."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science in Accessibility in Biomedicine (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-accessibility-biomedicine/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées en accessibilité en biomédecine (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-accessibilite-biomedecine/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-cybersecurite",
+  "category": "genie",
+  "keywords": [
+   "microprogramme en cybersecurite",
+   "microprogram cybersecurity",
+   "cybersecurite cycles superieurs",
+   "cybersecurity graduate",
+   "securite logicielle",
+   "software security",
+   "cryptographie appliquee",
+   "applied cryptography",
+   "maitrise cybersecurite",
+   "master's in cybersecurity"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme d'études supérieures en cybersécurité ?",
+   "en": "Is there a graduate program in cybersecurity?"
+  },
+  "answer": {
+   "fr": "Oui. Il existe un microprogramme de cycles supérieurs en cybersécurité, lié aux programmes d'informatique de la Faculté de génie. Il te permet d'acquérir rapidement des compétences en sécurité logicielle (développement de code sécuritaire, cryptographie appliquée, sensibilisation à la sécurité, cyberprotection) sans faire un diplôme complet.",
+   "en": "Yes. There is a graduate Microprogram in Cybersecurity, linked to the computer science programs in the Faculty of Engineering. It lets you quickly gain skills in software security (secure code development, applied cryptography, security awareness, cyberprotection) without completing a full degree."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Cybersecurity — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-cybersecurity/"
+   },
+   {
+    "label": "Microprogramme cybersécurité — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/microprogramme-cybersecurite/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-biologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en biologie",
+   "master's in biology",
+   "msc biology",
+   "doctorat en biologie",
+   "phd biology",
+   "phd en biologie",
+   "ocib",
+   "ecologie",
+   "biologie cellulaire et moleculaire",
+   "biology graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en biologie ?",
+   "en": "Is there a master's in biology?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de biologie (Faculté des sciences) offre la maîtrise ès sciences (MSc, avec thèse) et le doctorat (PhD) en biologie, conjointement avec l'Université Carleton par l'Institut de biologie d'Ottawa-Carleton. Les axes de recherche incluent la biologie cellulaire et moléculaire, l'écologie, le comportement et la systématique, ainsi que la physiologie et la biochimie. Selon le catalogue, les programmes sont offerts en anglais, et on peut passer directement de la maîtrise au doctorat.",
+   "en": "Yes. The Department of Biology (Faculty of Science) offers the Master of Science (MSc, thesis) and the PhD in Biology, jointly with Carleton University through the Ottawa-Carleton Institute of Biology. Research areas include cell and molecular biology, ecology, behaviour and systematics, and physiology and biochemistry. According to the catalogue, the programs are offered in English, and a fast-track from the master's to the PhD is possible."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Biology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-biology/"
+   },
+   {
+    "label": "Maîtrise ès sciences biologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-biologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Biology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biology/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-chimie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en chimie",
+   "master's in chemistry",
+   "msc chemistry",
+   "doctorat en chimie",
+   "phd chemistry",
+   "phd en chimie",
+   "sciences biomoleculaires",
+   "biomolecular science",
+   "occi",
+   "chemistry graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en chimie ?",
+   "en": "Is there a master's in chemistry?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de chimie et sciences biomoléculaires (Faculté des sciences) offre la maîtrise ès sciences (MSc, avec thèse, aussi en voie accélérée de 12 mois) et le doctorat (PhD) en chimie, conjointement avec l'Université Carleton. Une concentration en sciences biomoléculaires est offerte à la maîtrise. Les programmes sont offerts en français et en anglais, mais la plupart des cours se donnent en anglais.",
+   "en": "Yes. The Department of Chemistry and Biomolecular Sciences (Faculty of Science) offers the Master of Science (MSc, thesis, including a 12-month accelerated stream) and the PhD in Chemistry, jointly with Carleton University. A concentration in Biomolecular Science is offered at the master's level. The programs are offered in French and English, but most courses are given in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Chemistry — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-chemistry/"
+   },
+   {
+    "label": "Maîtrise ès sciences chimie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-chimie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Chemistry — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-chemistry/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-biochimie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en biochimie",
+   "master's in biochemistry",
+   "msc biochemistry",
+   "doctorat en biochimie",
+   "phd biochemistry",
+   "phd en biochimie",
+   "biochemistry graduate",
+   "faculte de medecine biochimie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en biochimie ?",
+   "en": "Is there a master's in biochemistry?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de biochimie, microbiologie et immunologie (Faculté de médecine) offre la maîtrise ès sciences (MSc, avec thèse ou avec projet de recherche) et le doctorat (PhD) en biochimie. Les étudiants participent activement à la recherche en laboratoire, aux cours et aux séminaires. Selon le catalogue, les programmes sont offerts en anglais, à temps plein.",
+   "en": "Yes. The Department of Biochemistry, Microbiology and Immunology (Faculty of Medicine) offers the Master of Science (MSc, with thesis or research project) and the PhD in Biochemistry. Students are actively involved in laboratory research, coursework and research seminars. According to the catalogue, the programs are offered in English, full-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Biochemistry — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-biochemistry/"
+   },
+   {
+    "label": "Maîtrise ès sciences biochimie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-biochimie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Biochemistry — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biochemistry/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-physique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en physique",
+   "master's in physics",
+   "msc physics",
+   "doctorat en physique",
+   "phd physics",
+   "phd en physique",
+   "sciences quantiques",
+   "quantum science",
+   "photonique",
+   "physics graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en physique ?",
+   "en": "Is there a master's in physics?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de physique (Faculté des sciences) offre la maîtrise ès sciences (MSc) et le doctorat (PhD) en physique, conjointement avec l'Université Carleton par l'Institut de physique d'Ottawa-Carleton. La maîtrise se fait avec thèse ou avec l'option de physique appliquée, offre une option coop et une concentration en sciences quantiques. La plupart des exigences se font en anglais, mais la recherche peut se faire en français ou en anglais.",
+   "en": "Yes. The Department of Physics (Faculty of Science) offers the Master of Science (MSc) and the PhD in Physics, jointly with Carleton University through the Ottawa-Carleton Institute for Physics. The master's is done with a thesis or the Applied Physics option, and offers a co-op option and a concentration in Quantum Science. Most requirements are in English, but research can be conducted in French or English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Physics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-physics/"
+   },
+   {
+    "label": "Maîtrise ès sciences physique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-physique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Physics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-mathematiques-statistique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en mathematiques",
+   "maitrise en statistique",
+   "master's in mathematics",
+   "master's in statistics",
+   "msc mathematics and statistics",
+   "doctorat en mathematiques",
+   "phd mathematics",
+   "phd statistics",
+   "ocims",
+   "mathematiques et statistique"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en mathématiques ou en statistique ?",
+   "en": "Is there a master's in mathematics or statistics?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de mathématiques et de statistique (Faculté des sciences) offre la maîtrise ès sciences (MSc) en mathématiques et statistique, avec une concentration en mathématiques ou en statistique, ainsi que le doctorat (PhD), par l'Institut de mathématiques et de statistique d'Ottawa-Carleton. La maîtrise peut se faire avec thèse, avec projet ou avec cours, et offre une option coop. Selon le catalogue, les programmes sont offerts en anglais.",
+   "en": "Yes. The Department of Mathematics and Statistics (Faculty of Science) offers the Master of Science (MSc) in Mathematics and Statistics, with a concentration in Mathematics or in Statistics, as well as the PhD, through the Ottawa-Carleton Institute of Mathematics and Statistics. The master's can be done with a thesis, a project or coursework, and offers a co-op option. According to the catalogue, the programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Mathematics and Statistics and Concentration Mathematics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-mathematics/"
+   },
+   {
+    "label": "Maîtrise ès sciences mathématiques et statistique concentration mathématiques — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-mathematiques-statistique-concentration-mathematiques/"
+   },
+   {
+    "label": "Master of Science Mathematics and Statistics and Concentration Statistics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-statistics/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-terre",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sciences de la terre",
+   "master's in earth sciences",
+   "msc earth sciences",
+   "doctorat en sciences de la terre",
+   "phd earth sciences",
+   "geologie",
+   "geology graduate",
+   "geoscience",
+   "ocgc",
+   "geochimie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences de la Terre ou en géologie ?",
+   "en": "Is there a master's in earth sciences or geology?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département des sciences de la Terre et de l'environnement (Faculté des sciences) offre la maîtrise ès sciences (MSc, avec thèse) et le doctorat (PhD) en sciences de la Terre, conjointement avec l'Université Carleton par le Centre de géoscience d'Ottawa-Carleton. Les axes de recherche incluent la géoscience environnementale, la géochimie, la géophysique, les ressources minérales et la tectonique. Selon le catalogue, les programmes sont offerts en anglais.",
+   "en": "Yes. The Department of Earth and Environmental Sciences (Faculty of Science) offers the Master of Science (MSc, thesis) and the PhD in Earth Sciences, jointly with Carleton University through the Ottawa-Carleton Geoscience Centre. Research areas include environmental geoscience, geochemistry, geophysics, mineral resources and tectonics. According to the catalogue, the programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Earth Sciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-earth-sciences/"
+   },
+   {
+    "label": "Maîtrise ès sciences sciences de la Terre — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sciences-terre/"
+   },
+   {
+    "label": "Doctorate in Philosophy Earth Sciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-earth-sciences/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-durabilite-environnement",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en durabilite de l'environnement",
+   "master's in environmental sustainability",
+   "msc environmental sustainability",
+   "doctorat en durabilite de l'environnement",
+   "phd environmental sustainability",
+   "institut de l'environnement",
+   "institute of the environment",
+   "politique environnementale",
+   "environmental policy master",
+   "environnement maitrise"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en environnement ou en développement durable ?",
+   "en": "Is there a master's in environmental sustainability?"
+  },
+  "answer": {
+   "fr": "Oui. L'Institut de l'environnement offre une maîtrise ès sciences (MSc) interdisciplinaire en durabilité de l'environnement, avec mémoire (12 mois à temps plein) ou avec thèse (24 mois), et une option coop pour un nombre limité d'étudiants, ainsi qu'un doctorat en durabilité de l'environnement. La maîtrise combine sciences, droit, économie et politiques pour trouver des solutions aux problèmes environnementaux. Les cours obligatoires de la maîtrise sont pour l'instant en anglais; le doctorat est offert en français et en anglais.",
+   "en": "Yes. The Institute of the Environment offers an interdisciplinary Master of Science (MSc) in Environmental Sustainability, with a research paper (12 months full-time) or a thesis (24 months), and a co-op option for a limited number of students, as well as a Doctorate in Environmental Sustainability. The master's combines science, law, economics and policy to address environmental problems. The master's compulsory courses are currently in English; the doctorate is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Environmental Sustainability — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-environmental-sustainability/"
+   },
+   {
+    "label": "Maîtrise ès sciences durabilité de l'environnement — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-durabilite-lenvironnement/"
+   },
+   {
+    "label": "Doctorate Environmental Sustainability — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-environmental-sustainability/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-bio-informatique",
+  "category": "programmes",
+  "keywords": [
+   "bio-informatique",
+   "bioinformatique",
+   "bioinformatics",
+   "specialisation en bio-informatique",
+   "specialization in bioinformatics",
+   "maitrise bio-informatique",
+   "master's in bioinformatics",
+   "phd bioinformatics",
+   "doctorat bio-informatique",
+   "programme concerte"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en bio-informatique ?",
+   "en": "Is there a master's in bioinformatics?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme de spécialisation concertée : avec l'Université Carleton, tu peux obtenir une maîtrise dans ton programme principal avec spécialisation en bio-informatique. Les programmes participants incluent la biologie, la biochimie, la médecine cellulaire et moléculaire, la microbiologie et immunologie, les mathématiques et statistique, le génie biomédical et l'informatique, et une spécialisation existe aussi au doctorat dans plusieurs de ces programmes.",
+   "en": "Yes, as a collaborative specialization: with Carleton University, you can earn a master's in your primary program with a specialization in Bioinformatics. Participating programs include biology, biochemistry, cellular and molecular medicine, microbiology and immunology, mathematics and statistics, biomedical engineering and computer science, and a specialization also exists at the PhD level in several of these programs."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Biology and Specialization Bioinformatics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-biology-specialization-bioinformatics/"
+   },
+   {
+    "label": "Maîtrise ès sciences biologie spécialisation bioinformatique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-biologie-specialisation-bioinformatique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Biology and Specialization Bioinformatics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biology-specialization-bioinformatics/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-toxicologie",
+  "category": "programmes",
+  "keywords": [
+   "toxicologie",
+   "toxicology",
+   "toxicologie chimique et environnementale",
+   "chemical and environmental toxicology",
+   "maitrise en toxicologie",
+   "master's in toxicology",
+   "phd toxicology",
+   "doctorat toxicologie",
+   "programme concerte toxicologie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en toxicologie ?",
+   "en": "Is there a master's in toxicology?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme de spécialisation concertée. L'Université d'Ottawa et l'Université Carleton offrent un programme concerté en toxicologie chimique et environnementale, qui mène à une maîtrise ou à un doctorat dans ton programme principal (par exemple biologie, chimie ou sciences de la Terre) avec cette spécialisation. La toxicologie étudie les effets des substances toxiques sur les organismes vivants.",
+   "en": "Yes, as a collaborative specialization. The University of Ottawa and Carleton University offer a collaborative program in Chemical and Environmental Toxicology, leading to a master's or PhD in your primary program (for example biology, chemistry or earth sciences) with this specialization. Toxicology is the study of the effects of toxic substances on living systems."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Biology and Specialization Chemical and Environmental Toxicology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-biology-specialization-chemical-environmental-toxicology/"
+   },
+   {
+    "label": "Maîtrise ès sciences biologie spécialisation toxicologie chimique et environnementale — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-biologie-specialisation-toxicologie-chimique-environnementale/"
+   },
+   {
+    "label": "Doctorate in Philosophy Biology and Specialization Chemical and Environmental Toxicology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biology-specialization-chemical-environmental-toxicology/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-science-societe-politique",
+  "category": "programmes",
+  "keywords": [
+   "science, societe et politique publique",
+   "science society and policy",
+   "specialisation science societe politique",
+   "politique scientifique",
+   "science policy master",
+   "politique de l'innovation",
+   "innovation policy",
+   "programme concerte science societe"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en politique scientifique ?",
+   "en": "Is there a master's in science policy?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme de spécialisation concertée au niveau de la maîtrise. Le programme concerté en science, société et politique publique permet aux étudiants inscrits à une maîtrise participante de se spécialiser en politique scientifique et d'innovation. Plusieurs maîtrises y participent, par exemple en biologie, chimie, physique, sciences de la Terre, géographie, génie, communication, administration publique, affaires publiques et internationales et sciences de l'information.",
+   "en": "Yes, as a collaborative specialization at the master's level. The collaborative program in Science, Society and Policy lets students enrolled in a participating master's program specialize in science and innovation policy. Many master's programs take part, for example biology, chemistry, physics, earth sciences, geography, engineering, communication, public administration, public and international affairs and information studies."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Biology and Specialization Science, Society and Policy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-biology-specialization-science-society-policy/"
+   },
+   {
+    "label": "Maîtrise ès sciences biologie spécialisation science, société et politique publique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-biologie-specialisation-science-societe-politique-publique/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genetique-humaine",
+  "category": "programmes",
+  "keywords": [
+   "genetique humaine et moleculaire",
+   "human and molecular genetics",
+   "maitrise en genetique",
+   "master's in genetics",
+   "phd genetics",
+   "doctorat en genetique",
+   "specialisation genetique",
+   "genetics graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génétique ?",
+   "en": "Is there a master's in genetics?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme de spécialisation concertée. La Faculté de médecine offre un programme concerté en génétique humaine et moléculaire, aux niveaux de la maîtrise et du doctorat, que tu fais à partir d'un programme principal comme la biochimie, la médecine cellulaire et moléculaire ou la neuroscience. Selon le catalogue, ces programmes sont offerts en anglais.",
+   "en": "Yes, as a collaborative specialization. The Faculty of Medicine offers a collaborative program in Human and Molecular Genetics at the master's and doctoral levels, which you complete through a primary program such as biochemistry, cellular and molecular medicine or neuroscience. According to the catalogue, these programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Biochemistry and Specialization Human and Molecular Genetics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-biochemistry-specialization-human-molecular-genetics/"
+   },
+   {
+    "label": "Maîtrise ès sciences biochimie spécialisation génétique humaine et moléculaire — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-biochimie-specialisation-genetique-humaine-moleculaire/"
+   },
+   {
+    "label": "Doctorate in Philosophy Biochemistry and Specialization Human and Molecular Genetics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biochemistry-specialization-human-molecular-genetics/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-medecine-cellulaire",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en medecine cellulaire et moleculaire",
+   "master's in cellular and molecular medicine",
+   "msc cellular and molecular medicine",
+   "doctorat medecine cellulaire et moleculaire",
+   "phd cellular and molecular medicine",
+   "cmm",
+   "pathologie et medecine experimentale",
+   "cellular molecular medicine graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en médecine cellulaire et moléculaire ?",
+   "en": "Is there a master's in cellular and molecular medicine?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de médecine cellulaire et moléculaire (Faculté de médecine) offre la maîtrise ès sciences (MSc, avec thèse en 24 mois ou avec projet de recherche en 12 mois) et le doctorat (PhD). Les programmes préparent à des carrières en enseignement et en recherche, à l'université ou ailleurs. Ils sont offerts en français et en anglais, mais la plupart des cours se donnent en anglais.",
+   "en": "Yes. The Department of Cellular and Molecular Medicine (Faculty of Medicine) offers the Master of Science (MSc, with a thesis in 24 months or a research project in 12 months) and the PhD. The programs prepare students for careers in teaching and research, in academia or elsewhere. They are offered in French and English, but most courses are given in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Cellular and Molecular Medicine — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-cellular-molecular-medicine/"
+   },
+   {
+    "label": "Maîtrise ès sciences médecine cellulaire et moléculaire — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-medecine-cellulaire-moleculaire/"
+   },
+   {
+    "label": "Doctorate in Philosophy Cellular and Molecular Medicine — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-cellular-molecular-medicine/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-microbiologie-immunologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en microbiologie",
+   "maitrise en immunologie",
+   "master's in microbiology",
+   "master's in immunology",
+   "msc microbiology and immunology",
+   "doctorat microbiologie immunologie",
+   "phd microbiology",
+   "phd immunology",
+   "microbiology graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en microbiologie et immunologie ?",
+   "en": "Is there a master's in microbiology and immunology?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de biochimie, microbiologie et immunologie (Faculté de médecine) offre la maîtrise ès sciences (MSc, avec thèse ou avec projet de recherche) et le doctorat (PhD) en microbiologie et immunologie. Les programmes préparent à des carrières en enseignement et en recherche, y compris en milieu gouvernemental, clinique ou industriel. Selon le catalogue, ils sont offerts en anglais, à temps plein.",
+   "en": "Yes. The Department of Biochemistry, Microbiology and Immunology (Faculty of Medicine) offers the Master of Science (MSc, with thesis or research project) and the PhD in Microbiology and Immunology. The programs prepare students for teaching and research careers, including in government, clinical or industrial settings. According to the catalogue, they are offered in English, full-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Microbiology and Immunology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-microbiology-immunology/"
+   },
+   {
+    "label": "Maîtrise ès sciences microbiologie et immunologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-microbiologie-immunologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Microbiology and Immunology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-microbiology-immunology/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-neuroscience",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en neuroscience",
+   "maitrise en neurosciences",
+   "master's in neuroscience",
+   "msc neuroscience",
+   "doctorat en neuroscience",
+   "phd neuroscience",
+   "phd en neurosciences",
+   "neuroscience graduate",
+   "cerveau recherche"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en neuroscience ?",
+   "en": "Is there a master's in neuroscience?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de médecine cellulaire et moléculaire (Faculté de médecine) offre la maîtrise ès sciences (MSc, avec thèse en 24 mois ou avec projet de recherche en 12 mois) et le doctorat (PhD) en neuroscience. Tu y développes ton esprit critique par la lecture scientifique, les expériences en laboratoire et la présentation de tes résultats. Les programmes sont offerts en français et en anglais, mais la plupart des cours se donnent en anglais.",
+   "en": "Yes. The Department of Cellular and Molecular Medicine (Faculty of Medicine) offers the Master of Science (MSc, with a thesis in 24 months or a research project in 12 months) and the PhD in Neuroscience. You build critical analysis skills through reading the scientific literature, lab experiments and presenting your results. The programs are offered in French and English, but most courses are given in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Neuroscience — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-neuroscience/"
+   },
+   {
+    "label": "Maîtrise ès sciences neuroscience — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-neuroscience/"
+   },
+   {
+    "label": "Doctorate in Philosophy Neuroscience — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-neuroscience/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-epidemiologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en epidemiologie",
+   "master's in epidemiology",
+   "msc epidemiology",
+   "doctorat en epidemiologie",
+   "phd epidemiology",
+   "recherche appliquee en sante",
+   "applied health research",
+   "recherche clinique",
+   "evaluation des technologies de la sante",
+   "ecole d'epidemiologie et de sante publique"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en épidémiologie ?",
+   "en": "Is there a master's in epidemiology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'épidémiologie et de santé publique (Faculté de médecine) offre la maîtrise ès sciences (MSc) en épidémiologie et recherche appliquée en santé, avec thèse ou projet de recherche, et des concentrations en épidémiologie, recherche clinique, recherche en santé mondiale, politique de santé, évaluation des technologies de la santé et science de la mise en œuvre. Elle offre aussi le doctorat (PhD) en épidémiologie et recherche appliquée en santé. Selon le catalogue, ces programmes sont offerts en anglais.",
+   "en": "Yes. The School of Epidemiology and Public Health (Faculty of Medicine) offers the Master of Science (MSc) in Epidemiology and Applied Health Research, with a thesis or research project, and concentrations in epidemiology, clinical research, global health research, health policy, health technology assessment and implementation science. It also offers the PhD in Epidemiology and Applied Health Research. According to the catalogue, these programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science in Epidemiology and Applied Health Research, Concentration in Epidemiology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-epidemiology-applied-health-research-concentration-epidemiology/"
+   },
+   {
+    "label": "Maîtrise ès sciences épidémiologie et recherche appliquée en santé, concentration en épidémiologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-epidemiologie-recherche-appliquee-sante-concentration-epidemiologie/"
+   },
+   {
+    "label": "Doctorate of Philosophy in Epidemiology and Applied Health Research — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-epidemiology-applied-health-research/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-cliniques-translationnelles",
+  "category": "programmes",
+  "keywords": [
+   "sciences cliniques et medecine translationnelle",
+   "clinical science and translational medicine",
+   "maitrise recherche clinique",
+   "master's in clinical science",
+   "msc translational medicine",
+   "phd translational medicine",
+   "doctorat sciences cliniques",
+   "imagerie medicale",
+   "sciences pharmaceutiques",
+   "ctm"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences cliniques et médecine translationnelle ?",
+   "en": "Is there a master's in clinical science and translational medicine?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de médecine offre la maîtrise ès sciences (MSc, avec thèse ou projet de recherche) et le doctorat (PhD) en sciences cliniques et médecine translationnelle, avec huit concentrations, dont l'imagerie médicale et sciences des radiations, la médecine cardiovasculaire, la psychiatrie clinique, les sciences musculosquelettiques, la qualité et sécurité des patients, les sciences pharmaceutiques et l'intelligence artificielle. Le programme forme à la recherche clinique et translationnelle, pour amener les découvertes jusqu'au chevet des patients.",
+   "en": "Yes. The Faculty of Medicine offers the Master of Science (MSc, with thesis or research project) and the PhD in Clinical Science and Translational Medicine, with eight concentrations, including medical imaging and radiation sciences, cardiovascular medicine, clinical psychiatry, musculoskeletal sciences, quality and patient safety, pharmaceutical sciences and artificial intelligence. The program trains students in clinical and translational research, to bring findings to the patient bedside."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Clinical Science and Translational Medicine — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-clinical-science-translational-medicine/"
+   },
+   {
+    "label": "Maîtrise ès sciences sciences cliniques et médecine translationnelle — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sciences-cliniques-medecine-translationnelle/"
+   },
+   {
+    "label": "Doctorate in philosophy Clinical Science and Translational Medicine — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-clinical-science-translational-medicine/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-enseignement-anatomie",
+  "category": "programmes",
+  "keywords": [
+   "enseignement des sciences anatomiques",
+   "anatomical sciences education",
+   "maitrise en anatomie",
+   "master's in anatomy",
+   "masc anatomical sciences",
+   "enseigner l'anatomie",
+   "teach anatomy",
+   "anatomie cycles superieurs"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en anatomie ?",
+   "en": "Is there a master's in anatomy?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de médecine offre la maîtrise ès sciences appliquées en enseignement des sciences anatomiques, à temps plein, sur environ 20 mois. Le programme est offert en anglais ou en français. Selon le catalogue, l'admission à l'option avec projet de recherche est suspendue jusqu'à nouvel ordre; l'option avec cours reste offerte.",
+   "en": "Yes. The Faculty of Medicine offers the Master of Applied Science in Anatomical Sciences Education, full-time, over about 20 months. The program is offered in English or French. According to the catalogue, admission to the research project option is suspended until further notice; the coursework option remains available."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Anatomical Sciences Education — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-anatomical-sciences-education/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées enseignement des sciences anatomiques — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-enseignement-sciences-anatomiques/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-systemes-sante",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en systemes de sante",
+   "master's in health systems",
+   "msc health systems",
+   "gestion des systemes de sante recherche",
+   "health systems research",
+   "telfer sante",
+   "planification des soins de sante",
+   "health care management research"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en systèmes de santé ?",
+   "en": "Is there a master's in health systems?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre la maîtrise ès sciences en systèmes de santé, qui forme des chercheurs et des leaders capables de transformer les systèmes de santé avec des méthodes qualitatives et quantitatives. Le programme comprend des cours, une thèse et un stage de recherche en systèmes de santé. Il est offert en français et en anglais, surtout à temps plein.",
+   "en": "Yes. The Telfer School of Management offers the Master of Science in Health Systems (MSc HS), which trains researchers and leaders to transform health systems using qualitative and quantitative methods. The program includes courses, a thesis and a health systems research internship. It is offered in English and French, primarily full-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Health Systems — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-health-systems/"
+   },
+   {
+    "label": "Maîtrise ès sciences systèmes de santé — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-systemes-sante/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sante-populations",
+  "category": "programmes",
+  "keywords": [
+   "doctorat en sante des populations",
+   "phd population health",
+   "sante des populations",
+   "population health",
+   "inegalites en sante",
+   "health inequities",
+   "determinants de la sante",
+   "doctorat interdisciplinaire sante"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un doctorat en santé des populations ?",
+   "en": "Is there a PhD in population health?"
+  },
+  "answer": {
+   "fr": "Oui. Le doctorat (PhD) en santé des populations est offert en collaboration par cinq facultés : sciences de la santé (qui l'héberge), médecine, sciences sociales, École de gestion Telfer et droit (Section de common law). Il porte sur les déterminants et les inégalités de santé et sur les interventions en santé des populations. Les cours de base sont donnés en format bilingue, ce qui exige une compréhension passive du français et de l'anglais.",
+   "en": "Yes. The PhD in Population Health is offered jointly by five faculties: Health Sciences (which hosts it), Medicine, Social Sciences, the Telfer School of Management and Law (Common Law Section). It focuses on the determinants and inequities of health and on population health interventions. Core courses are given in a bilingual format, which requires a passive understanding of both French and English."
+  },
+  "sources": [
+   {
+    "label": "Doctorate in Philosophy Population Health — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-population-health/"
+   },
+   {
+    "label": "Doctorat en philosophie santé des populations — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/doctorat-philosophie-sante-populations/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sante-publique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sante publique",
+   "master of public health",
+   "mph",
+   "master's in public health",
+   "sante mondiale",
+   "global health",
+   "politique de sante publique",
+   "public health policy",
+   "pratique de la sante publique",
+   "mph+"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en santé publique ?",
+   "en": "Is there a master's in public health (MPH)?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'épidémiologie et de santé publique (Faculté de médecine) offre la maîtrise en santé publique (MPH), un programme avec cours, stage pratique et projet de synthèse, à temps plein sur quatre trimestres. Tu choisis une concentration en pratique de la santé publique, en santé mondiale ou en politique de santé publique, et l'option MPH+ ajoute une formation linguistique intensive. Selon le catalogue, la MPH est offerte en anglais.",
+   "en": "Yes. The School of Epidemiology and Public Health (Faculty of Medicine) offers the Master of Public Health (MPH), a course-based program with a practicum and a capstone project, full-time over four terms. You choose a concentration in Public Health Practice, Global Health or Public Health Policy, and the MPH+ option adds intensive language training. According to the catalogue, the MPH is offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Public Health Concentration in Public Health Practice — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-public-health-practice/"
+   },
+   {
+    "label": "Maîtrise en santé publique concentration en pratique de la santé publique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sante-publique-concentration-pratique-sante-publique/"
+   },
+   {
+    "label": "Master of Public Health, Concentration in Global Health — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-sante-interdisciplinaires",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sciences interdisciplinaires de la sante",
+   "master's in interdisciplinary health sciences",
+   "msc interdisciplinary health sciences",
+   "sciences de la sante maitrise",
+   "health sciences master",
+   "biosciences integratives de la sante",
+   "sante des populations et sante publique",
+   "technologies et innovation en sante"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences de la santé ?",
+   "en": "Is there a master's in health sciences?"
+  },
+  "answer": {
+   "fr": "Oui. L'École interdisciplinaire des sciences de la santé (Faculté des sciences de la santé) offre la maîtrise ès sciences (MSc) en sciences interdisciplinaires de la santé, avec thèse ou avec cours; l'option avec cours permet de faire un stage coop. Des concentrations existent en biosciences intégratives de la santé, en santé des populations et santé publique, et en technologies et innovation en sciences de la santé. Le programme est offert en français et en anglais.",
+   "en": "Yes. The Interdisciplinary School of Health Sciences (Faculty of Health Sciences) offers the Master of Science (MSc) in Interdisciplinary Health Sciences, with a thesis or coursework; the coursework option allows a co-op placement. Concentrations exist in integrative health biosciences, population and public health, and technologies and innovation in health sciences. The program is offered in French and English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Interdisciplinary Health Sciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-interdisciplinary-health-sciences/"
+   },
+   {
+    "label": "Maîtrise ès sciences sciences interdisciplinaires de la santé — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sciences-interdisciplinaires-sante/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-infirmieres",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sciences infirmieres",
+   "master of science in nursing",
+   "mscn",
+   "master's in nursing",
+   "doctorat en sciences infirmieres",
+   "phd nursing",
+   "phd in nursing",
+   "sciences infirmieres a distance",
+   "nursing distance option",
+   "ecole des sciences infirmieres"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences infirmières ?",
+   "en": "Is there a master's in nursing?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences infirmières (Faculté des sciences de la santé) offre la maîtrise ès sciences en sciences infirmières, avec thèse ou avec option clinique, sur le campus ou avec l'option à distance, ainsi que le doctorat (PhD) en sciences infirmières. Les programmes sont offerts en français et en anglais. Selon le catalogue, l'admission au doctorat en personne est suspendue, mais une option à distance existe.",
+   "en": "Yes. The School of Nursing (Faculty of Health Sciences) offers the Master of Science in Nursing (MScN), with a thesis or a clinical option, on campus or through a distance option, as well as the PhD in Nursing. The programs are offered in French and English. According to the catalogue, admission to the in-person PhD is suspended, but a distance option exists."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Nursing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-nursing/"
+   },
+   {
+    "label": "Maîtrise ès sciences sciences infirmières — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sciences-infirmieres/"
+   },
+   {
+    "label": "Doctorate in Philosophy Nursing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-nursing/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-infirmiere-praticienne",
+  "category": "programmes",
+  "keywords": [
+   "infirmiere praticienne",
+   "nurse practitioner",
+   "diplome infirmieres praticiennes",
+   "graduate diploma nurse practitioners",
+   "ip soins primaires",
+   "np program",
+   "devenir infirmiere praticienne",
+   "become a nurse practitioner",
+   "mscn nurse practitioner"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme pour devenir infirmière praticienne ?",
+   "en": "Is there a nurse practitioner program?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences infirmières offre la maîtrise ès sciences en sciences infirmières avec diplôme d'études supérieures pour infirmières et infirmiers praticiens (24 mois), et le diplôme d'études supérieures pour infirmières et infirmiers praticiens seul (12 mois, avec cours). Ces programmes forment des infirmières autorisées au rôle de pratique avancée d'infirmière praticienne, en français et en anglais. Selon le catalogue, l'option avec thèse de la maîtrise combinée est suspendue.",
+   "en": "Yes. The School of Nursing offers the Master of Science in Nursing with Graduate Diploma for Nurse Practitioners (24 months), and the Graduate Diploma for Nurse Practitioners on its own (12 months, coursework). These programs prepare registered nurses for the advanced practice role of nurse practitioner, in French and English. According to the catalogue, the thesis option of the combined master's is suspended."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Nursing with Graduate Diploma for Nurse Practitioners — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-nursing-diploma-nurse-practitioners/"
+   },
+   {
+    "label": "Maitrise ès sciences sciences infirmières avec Diplôme d'études supérieures pour infirmières et infirmiers praticiens — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sciences-infirmieres-diplome-infirmieres-infirmiers-praticiens/"
+   },
+   {
+    "label": "Graduate Diploma for Nurse Practitioners — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/diploma-nurse-practitioners/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-activite-physique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sciences de l'activite physique",
+   "master's in human kinetics",
+   "ma human kinetics",
+   "msc human kinetics",
+   "doctorat sciences de l'activite physique",
+   "phd human kinetics",
+   "kinesiologie maitrise",
+   "kinesiology master",
+   "sport activite physique sante"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences de l'activité physique ?",
+   "en": "Is there a master's in human kinetics?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de l'activité physique (Faculté des sciences de la santé) offre la maîtrise ès arts (MA) et la maîtrise ès sciences (MSc) en sciences de l'activité physique, avec thèse, ainsi que le doctorat (PhD). Les programmes étudient le sport, l'activité physique et la santé de façon intégrée. Ils sont offerts en français et en anglais, et on peut passer directement de la maîtrise au doctorat.",
+   "en": "Yes. The School of Human Kinetics (Faculty of Health Sciences) offers the Master of Arts (MA) and the Master of Science (MSc) in Human Kinetics, thesis-based, as well as the PhD. The programs study sport, physical activity and health in an integrated way. They are offered in French and English, and a fast-track from the master's to the PhD is possible."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Human Kinetics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-human-kinetics/"
+   },
+   {
+    "label": "Maîtrise ès arts sciences de l'activité physique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-sciences-lactivite-physique/"
+   },
+   {
+    "label": "Master of Science Human Kinetics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-human-kinetics/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-gestion-sport",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en gestion du sport",
+   "master's in sport management",
+   "mhk sport management",
+   "gestion du sport",
+   "sport management",
+   "gestion d'organismes sportifs",
+   "marketing sportif",
+   "sports business master"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en gestion du sport ?",
+   "en": "Is there a master's in sport management?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de l'activité physique offre la maîtrise en sciences de l'activité physique (MHK) avec concentration en gestion du sport, un programme professionnel avec cours de 12 mois à temps plein. Tu y apprends le marketing, la finance, le comportement organisationnel et les aspects juridiques des organisations sportives, avec un stage supervisé au cœur du programme. Selon le catalogue, le programme est offert en anglais, la version française étant temporairement suspendue.",
+   "en": "Yes. The School of Human Kinetics offers the Master of Human Kinetics (MHK) with a concentration in Sport Management, a 12-month, full-time professional course-based program. You learn marketing, finance, organizational behaviour and legal issues in sport organizations, with a supervised internship at the heart of the program. According to the catalogue, the program is offered in English, as the French version is temporarily suspended."
+  },
+  "sources": [
+   {
+    "label": "Master of Human Kinetics with Concentration Sport Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-human-kinetics-concentration-sport-management/"
+   },
+   {
+    "label": "Maîtrise en sciences de l'activité physique avec concentration gestion du sport — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-lactivite-physique-concentration-gestion-sport/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-performance-mentale",
+  "category": "programmes",
+  "keywords": [
+   "psychologie du sport",
+   "sport psychology",
+   "consultation en performance mentale",
+   "mental performance consulting",
+   "mhk mental performance",
+   "maitrise psychologie sportive",
+   "master's in sport psychology",
+   "cmpc"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en psychologie du sport ?",
+   "en": "Is there a master's in sport psychology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de l'activité physique offre la maîtrise en sciences de l'activité physique (MHK) avec concentration en consultation en performance mentale, un programme avec cours et stage de 20 mois à temps plein. Selon le catalogue, c'est le seul programme appliqué en psychologie du sport au Canada qui prépare à la certification Certified Mental Performance Consultant (CMPC). Il est offert en anglais, la version française étant temporairement suspendue.",
+   "en": "Yes. The School of Human Kinetics offers the Master of Human Kinetics (MHK) with a concentration in Mental Performance Consulting, a 20-month, full-time program of courses and internship. According to the catalogue, it is the only applied sport psychology program in Canada preparing students for the Certified Mental Performance Consultant (CMPC) certification. It is offered in English, as the French version is temporarily suspended."
+  },
+  "sources": [
+   {
+    "label": "Master of Human Kinetics with Concentration Mental Performance Consulting — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-human-kinetics-concentration-mental-performance-consulting/"
+   },
+   {
+    "label": "Maîtrise en sciences de l'activité physique avec concentration consultation en performance mentale — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-lactivite-physique-concentration-consultation-performance-mentale/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-audiologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en audiologie",
+   "master's in audiology",
+   "mhsc audiology",
+   "audiologiste",
+   "audiologist",
+   "devenir audiologiste",
+   "become an audiologist",
+   "audition",
+   "hearing health"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en audiologie ?",
+   "en": "Is there a master's in audiology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la réadaptation (Faculté des sciences de la santé) offre la maîtrise ès sciences de la santé en audiologie, sur six trimestres consécutifs (deux ans à temps plein), avec cours et stages cliniques. Tous les cours sont donnés en français, mais tu peux remettre tes travaux et examens en français ou en anglais, et les stages se font en milieu francophone, anglophone ou bilingue.",
+   "en": "Yes. The School of Rehabilitation Sciences (Faculty of Health Sciences) offers the Master of Health Sciences (MHSc) in Audiology, over six consecutive terms (two years full-time), with courses and clinical placements. All courses are taught in French, but you can submit assignments and exams in French or English, and placements take place in French-speaking, English-speaking or bilingual settings."
+  },
+  "sources": [
+   {
+    "label": "Master of Health Sciences Audiology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-health-sciences-audiology/"
+   },
+   {
+    "label": "Maîtrise ès sciences de la santé audiologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sante-audiologie/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-ergotherapie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en ergotherapie",
+   "master's in occupational therapy",
+   "mhsc occupational therapy",
+   "ergotherapeute",
+   "occupational therapist",
+   "devenir ergotherapeute",
+   "become an occupational therapist",
+   "ot program"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en ergothérapie ?",
+   "en": "Is there a master's in occupational therapy?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la réadaptation offre la maîtrise ès sciences de la santé en ergothérapie, avec cours (avec ou sans projet), sur six trimestres consécutifs à temps plein ou douze trimestres à temps partiel, stages compris. Le programme est à capacité limitée et vise à servir les communautés francophones minoritaires; selon le catalogue, il est offert en français.",
+   "en": "Yes. The School of Rehabilitation Sciences offers the Master of Health Sciences (MHSc) in Occupational Therapy, course-based (with or without a project), over six consecutive full-time terms or twelve part-time terms, placements included. The program has limited enrolment and aims to serve minority Francophone communities; according to the catalogue, it is offered in French."
+  },
+  "sources": [
+   {
+    "label": "Master of Health Sciences Occupational Therapy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-health-sciences-occupational-therapy/"
+   },
+   {
+    "label": "Maîtrise ès sciences de la santé ergothérapie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sante-ergotherapie/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-physiotherapie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en physiotherapie",
+   "master's in physiotherapy",
+   "mhsc physiotherapy",
+   "physiotherapeute",
+   "physiotherapist",
+   "physical therapy master",
+   "devenir physiotherapeute",
+   "become a physiotherapist"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en physiothérapie ?",
+   "en": "Is there a master's in physiotherapy?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la réadaptation offre la maîtrise ès sciences de la santé en physiothérapie, sur six trimestres consécutifs (deux ans à temps plein), avec 63 unités de cours et 1 025 heures de stage. Comme sa mission est de former des physiothérapeutes bilingues pour servir les francophones, le programme est offert seulement en français, mais tu peux faire tes travaux et examens en français ou en anglais.",
+   "en": "Yes. The School of Rehabilitation Sciences offers the Master of Health Sciences (MHSc) in Physiotherapy, over six consecutive terms (two years full-time), with 63 course units and 1,025 placement hours. Because its mission is to train bilingual physiotherapists to serve Francophones, the program is offered only in French, but you can write assignments and exams in French or English."
+  },
+  "sources": [
+   {
+    "label": "Master of Health Sciences Physiotherapy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-health-sciences-physiotherapy/"
+   },
+   {
+    "label": "Maîtrise ès sciences de la santé physiothérapie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sante-physiotherapie/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-orthophonie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en orthophonie",
+   "master's in speech-language pathology",
+   "mhsc speech-language pathology",
+   "orthophoniste",
+   "speech-language pathologist",
+   "speech therapy master",
+   "devenir orthophoniste",
+   "become a speech therapist"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en orthophonie ?",
+   "en": "Is there a master's in speech-language pathology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la réadaptation offre la maîtrise ès sciences de la santé en orthophonie, sur deux ans (24 mois consécutifs, six trimestres à temps plein) avec projet de recherche et stages cliniques. Le programme forme des professionnels pour répondre aux besoins des communautés francophones; selon le catalogue, il est offert en français et l'admission est limitée.",
+   "en": "Yes. The School of Rehabilitation Sciences offers the Master of Health Sciences (MHSc) in Speech-Language Pathology, over two years (24 consecutive months, six full-time terms) with a research project and clinical placements. The program trains professionals to meet the needs of Francophone communities; according to the catalogue, it is offered in French and admission is limited."
+  },
+  "sources": [
+   {
+    "label": "Master of Health Sciences Speech-Language Pathology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-health-sciences-speechlanguage-pathology/"
+   },
+   {
+    "label": "Maîtrise ès sciences de la santé orthophonie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sante-orthophonie/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-readaptation",
+  "category": "programmes",
+  "keywords": [
+   "doctorat en sciences de la readaptation",
+   "phd rehabilitation sciences",
+   "sciences de la readaptation",
+   "rehabilitation sciences",
+   "readaptation recherche",
+   "rehabilitation research",
+   "doctorat a distance readaptation",
+   "rehabilitation phd distance"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un doctorat en sciences de la réadaptation ?",
+   "en": "Is there a PhD in rehabilitation sciences?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la réadaptation (Faculté des sciences de la santé) offre le doctorat (PhD) en sciences de la réadaptation, sur le campus ou avec une option à distance. Il prépare des candidats de milieux professionnels ou de recherche à une carrière en recherche, des questions fondamentales jusqu'aux répercussions psychosociales des problèmes de santé. Le programme est offert en français et en anglais.",
+   "en": "Yes. The School of Rehabilitation Sciences (Faculty of Health Sciences) offers the PhD in Rehabilitation Sciences, on campus or through a distance option. It prepares candidates from professional or research backgrounds for a research career, from basic science questions to the psychosocial impact of health conditions. The program is offered in French and English."
+  },
+  "sources": [
+   {
+    "label": "Doctorate in Philosophy Rehabilitation Sciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-rehabilitation-sciences/"
+   },
+   {
+    "label": "Doctorat en philosophie sciences de la réadaptation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/doctorat-philosophie-sciences-readaptation/"
+   },
+   {
+    "label": "Doctorate in Philosophy Rehabilitation Sciences - Distance Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-rehabilitation-sciences-virtual/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-nutrition",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en nutrition",
+   "master's in nutrition",
+   "msc nutrition and food biosciences",
+   "biosciences alimentaires",
+   "food biosciences",
+   "sciences des aliments",
+   "food science master",
+   "nutrition clinique recherche"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en nutrition ?",
+   "en": "Is there a master's in nutrition?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la nutrition (Faculté des sciences de la santé) offre la maîtrise ès sciences (MSc) en nutrition et biosciences alimentaires, avec thèse, axée sur la recherche. Elle couvre trois domaines : la nutrition clinique et en santé publique, les sciences des aliments et la nutrition cellulaire et moléculaire. Selon le catalogue, elle est offerte en anglais, à temps plein.",
+   "en": "Yes. The School of Nutrition Sciences (Faculty of Health Sciences) offers the Master of Science (MSc) in Nutrition and Food Biosciences, a research-focused thesis program. It covers three areas: clinical and public health nutrition, food sciences, and cellular and molecular nutrition. According to the catalogue, it is offered in English, full-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Nutrition and Food Biosciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-nutrition-food-biosciences/"
+   },
+   {
+    "label": "Maîtrise ès sciences nutrition et biosciences alimentaires — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-nutrition-biosciences-alimentaires/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-politique-alimentaire",
+  "category": "programmes",
+  "keywords": [
+   "politique alimentaire et affaires reglementaires",
+   "food policy and regulatory affairs",
+   "diplome politique alimentaire",
+   "graduate diploma food policy",
+   "reglementation des aliments",
+   "food regulation",
+   "salubrite des aliments",
+   "programme en ligne nutrition"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en politique alimentaire ?",
+   "en": "Is there a graduate program in food policy?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la nutrition offre un diplôme d'études supérieures en politique alimentaire et affaires réglementaires, en ligne et à temps partiel. Il t'apprend à transformer l'information scientifique en politiques et en règlements sur les aliments, à partir d'enjeux de qualité, de salubrité et de nutrition. Selon le catalogue, il est offert en anglais.",
+   "en": "Yes. The School of Nutrition Sciences offers a Graduate Diploma in Food Policy and Regulatory Affairs, online and part-time. It teaches you to turn scientific information into food policies and regulations, using challenges in food quality, safety and nutrition. According to the catalogue, it is offered in English."
+  },
+  "sources": [
+   {
+    "label": "Graduate Diploma Food Policy and Regulatory Affairs (online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-food-policy-regulatory-affairs-online/"
+   },
+   {
+    "label": "Diplôme d'études supérieures politique alimentaire et affaires réglementaires (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/diplome-detudes-superieures-politique-alimentaire-affaires-reglementaires-en-ligne/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-anthropologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en anthropologie",
+   "master's in anthropology",
+   "ma anthropology",
+   "doctorat en anthropologie",
+   "phd anthropology",
+   "phd en anthropologie",
+   "ethnographie",
+   "ethnography",
+   "anthropology graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en anthropologie ?",
+   "en": "Is there a master's in anthropology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'études sociologiques et anthropologiques (Faculté des sciences sociales) offre la maîtrise ès arts (MA) en anthropologie, avec thèse, mémoire ou cours, et une option coop possible, ainsi que le doctorat (PhD). La maîtrise est offerte à temps plein ou à temps partiel, en français et en anglais. Le doctorat est aussi offert dans les deux langues, mais ses trois séminaires obligatoires se donnent seulement en français.",
+   "en": "Yes. The School of Sociological and Anthropological Studies (Faculty of Social Sciences) offers the Master of Arts (MA) in Anthropology, with a thesis, research paper or coursework, and a possible co-op option, as well as the PhD. The MA is offered full-time or part-time, in French and English. The PhD is also offered in both languages, but its three required doctoral seminars are given only in French."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Anthropology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-anthropology/"
+   },
+   {
+    "label": "Maîtrise ès arts anthropologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-anthropologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Anthropology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-anthropology/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-criminologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en criminologie",
+   "master's in criminology",
+   "ma criminology",
+   "doctorat en criminologie",
+   "phd criminology",
+   "phd en criminologie",
+   "justice penale",
+   "criminal justice graduate",
+   "stage criminologie",
+   "double diplome louvain criminologie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en criminologie ?",
+   "en": "Is there a master's in criminology?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de criminologie (Faculté des sciences sociales) offre la maîtrise ès arts (MA) et le doctorat (PhD) en criminologie. La maîtrise peut se faire avec thèse (avec ou sans stage), avec mémoire ou avec cours, et il existe une option de double diplôme avec l'Université catholique de Louvain. Les programmes sont offerts en français et en anglais.",
+   "en": "Yes. The Department of Criminology (Faculty of Social Sciences) offers the Master of Arts (MA) and the PhD in Criminology. The MA can be done with a thesis (with or without a field placement), a research paper or coursework, and there is a double-degree option with Université catholique de Louvain. The programs are offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Criminology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-criminology/"
+   },
+   {
+    "label": "Maîtrise ès arts criminologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-criminologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Criminology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-criminology/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-economie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en economie",
+   "maitrise en science economique",
+   "master's in economics",
+   "ma economics",
+   "doctorat en economie",
+   "phd economics",
+   "phd en science economique",
+   "economics graduate",
+   "economie coop"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en économie ?",
+   "en": "Is there a master's in economics?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de science économique (Faculté des sciences sociales) offre la maîtrise ès arts (MA) en science économique, avec mémoire ou avec cours, et une option coop. Il offre aussi le doctorat (PhD) en science économique, conjointement avec l'Université Carleton, et un passage accéléré de la maîtrise au doctorat est possible.",
+   "en": "Yes. The Department of Economics (Faculty of Social Sciences) offers the Master of Arts (MA) in Economics, with a research paper or coursework, and a co-op option. It also offers the PhD in Economics, jointly with Carleton University, and a fast-track from the master's to the PhD is possible."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Economics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-economics/"
+   },
+   {
+    "label": "Maîtrise ès arts science économique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-science-economique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Economics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-economics/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-etudes-feministes",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en etudes feministes et de genre",
+   "master's in feminist and gender studies",
+   "ma feminist and gender studies",
+   "doctorat en etudes feministes",
+   "phd gender studies",
+   "etudes des femmes",
+   "women's studies graduate",
+   "etudes de genre",
+   "specialisation etudes feministes"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en études féministes et de genre ?",
+   "en": "Is there a master's in feminist and gender studies?"
+  },
+  "answer": {
+   "fr": "Oui. L'Institut d'études féministes et de genre offre la maîtrise ès arts (MA, avec thèse, mémoire ou cours) et le doctorat (PhD) en études féministes et de genre, à temps plein ou à temps partiel, avec des cours en français et en anglais. Il existe aussi une spécialisation concertée en études féministes et de genre à la maîtrise, que tu peux combiner avec plusieurs disciplines comme l'histoire, la criminologie, la science politique, la musique ou le droit.",
+   "en": "Yes. The Institute of Feminist and Gender Studies offers the Master of Arts (MA, with thesis, research paper or coursework) and the PhD in Feminist and Gender Studies, full-time or part-time, with courses in English and French. There is also a collaborative specialization in Feminist and Gender Studies at the master's level, which you can combine with many disciplines such as history, criminology, political science, music or law."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Feminist and Gender Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-feminist-gender-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts études féministes et de genre — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-etudes-feministes-genre/"
+   },
+   {
+    "label": "Doctorate in Philosophy in Feminist and Gender Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-feminist-gender-studies/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-geographie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en geographie",
+   "master's in geography",
+   "ma geography",
+   "msc geography",
+   "doctorat en geographie",
+   "phd geography",
+   "geomatique",
+   "geomatics",
+   "anthropocene",
+   "environnement geographie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en géographie ?",
+   "en": "Is there a master's in geography?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de géographie, environnement et géomatique offre une maîtrise ès arts (MA) et une maîtrise ès sciences (MSc) en géographie avec thèse, sur deux ans, ainsi qu'une concentration interdisciplinaire d'un an avec cours sur l'anthropocène (MSc) et un doctorat (PhD) en géographie. Les forces du département incluent les environnements polaires, la géographie urbaine, les changements climatiques, les SIG et la télédétection.",
+   "en": "Yes. The Department of Geography, Environment and Geomatics offers a thesis-based two-year Master of Arts (MA) and Master of Science (MSc) in Geography, a one-year course-based interdisciplinary concentration in The Anthropocene (MSc), and a PhD in Geography. The department's strengths include polar environments, urban geography, climate change, and GIS and remote sensing."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Geography — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-geography/"
+   },
+   {
+    "label": "Maîtrise ès arts géographie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-geographie/"
+   },
+   {
+    "label": "Master of Science Geography — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-geography/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-developpement-international",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en developpement international",
+   "master's in international development",
+   "ma international development and globalization",
+   "mondialisation",
+   "globalization",
+   "doctorat en developpement international",
+   "phd international development",
+   "pratique du developpement",
+   "development practice",
+   "ong"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en développement international ?",
+   "en": "Is there a master's in international development?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de développement international et mondialisation (Faculté des sciences sociales) offre la maîtrise ès arts (MA) en développement international et mondialisation, avec cours ou avec thèse, une option coop et une concentration en pratique du développement, ainsi que le doctorat (PhD) en développement international. Les cours obligatoires de la maîtrise sont offerts chaque année en français et en anglais, et le doctorat est offert dans les deux langues, à temps plein.",
+   "en": "Yes. The School of International Development and Global Studies (Faculty of Social Sciences) offers the Master of Arts (MA) in International Development and Globalization, with coursework or a thesis, a co-op option and a concentration in Development Practice, as well as the PhD in International Development. The MA core courses are offered every year in English and French, and the PhD is offered in both languages, full-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts International Development and Globalization — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-globalization-international-development/"
+   },
+   {
+    "label": "Maîtrise ès arts développement international et mondialisation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-mondialisation-developpement-international/"
+   },
+   {
+    "label": "Doctorate in Philosophy International Development — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-international-development/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-science-politique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en science politique",
+   "master's in political science",
+   "ma political science",
+   "doctorat en science politique",
+   "phd political science",
+   "phd en science politique",
+   "etudes politiques",
+   "political studies graduate",
+   "science po maitrise"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en science politique ?",
+   "en": "Is there a master's in political science?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'études politiques (Faculté des sciences sociales) offre la maîtrise ès arts (MA) en science politique, avec thèse ou avec mémoire (avec ou sans option coop), à temps plein ou à temps partiel, et le doctorat (PhD), à temps plein. Les programmes sont offerts en français et en anglais, et il est possible de faire la maîtrise ou le doctorat entièrement en français.",
+   "en": "Yes. The School of Political Studies (Faculty of Social Sciences) offers the Master of Arts (MA) in Political Science, with a thesis or a research paper (with or without a co-op option), full-time or part-time, and the PhD, full-time. The programs are offered in French and English, and it is possible to complete the master's or PhD entirely in French."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Political Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-political-science/"
+   },
+   {
+    "label": "Maîtrise ès arts science politique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-science-politique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Political Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-political-science/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-psychologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en psychologie",
+   "master's in psychology",
+   "ma psychology",
+   "doctorat en psychologie",
+   "phd psychology",
+   "psychologie clinique",
+   "clinical psychology",
+   "devenir psychologue",
+   "become a psychologist",
+   "ma-phd psychologie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise ou un doctorat en psychologie ?",
+   "en": "Is there a master's or PhD in psychology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de psychologie (Faculté des sciences sociales) offre le doctorat (PhD) en psychologie clinique et en psychologie, avec des domaines comme la psychologie sociale, la psychologie du développement, la cognition et les neurosciences comportementales; le programme clinique est agréé par la Société canadienne de psychologie. Le cheminement MA-PhD admet seulement les personnes qui visent le doctorat. Il existe aussi une MA en psychologie avec mémoire, ou avec cours et coop obligatoire.",
+   "en": "Yes. The School of Psychology (Faculty of Social Sciences) offers the PhD in Clinical Psychology and in Psychology, with fields such as social psychology, developmental psychology, cognition and behavioural neurosciences; the clinical program is accredited by the Canadian Psychological Association. The MA-PhD path only admits students who intend to complete a doctorate. There is also an MA in Psychology with a research paper, or with coursework and mandatory co-op."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Psychology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-psychology/"
+   },
+   {
+    "label": "Maîtrise ès arts psychologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-psychologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Psychology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-psychology/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-administration-publique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en administration publique",
+   "master's in public administration",
+   "ma public administration",
+   "mpa",
+   "doctorat en administration publique",
+   "phd public administration",
+   "gestion publique",
+   "public management",
+   "politiques publiques",
+   "public policy master"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en administration publique ?",
+   "en": "Is there a master's in public administration?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'études politiques (Faculté des sciences sociales) offre la maîtrise ès arts (MA) en administration publique, avec thèse ou avec mémoire, et une option coop, à temps plein ou à temps partiel, ainsi que le doctorat (PhD), à temps plein. Les programmes offrent deux champs : la gestion publique et les politiques publiques. Ils sont offerts en français et en anglais, et l'usage des deux langues est encouragé.",
+   "en": "Yes. The School of Political Studies (Faculty of Social Sciences) offers the Master of Arts (MA) in Public Administration, with a thesis or a research paper, and a co-op option, full-time or part-time, as well as the PhD, full-time. The programs offer two fields: public management and public policy. They are offered in French and English, and using both languages is encouraged."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Public Administration — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/"
+   },
+   {
+    "label": "Maîtrise ès arts administration publique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-administration-publique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Public Administration — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-public-administration/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-affaires-publiques-internationales",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en affaires publiques et internationales",
+   "master's in public and international affairs",
+   "ma public and international affairs",
+   "api",
+   "affaires internationales",
+   "international affairs master",
+   "ecole superieure d'affaires publiques et internationales",
+   "relations internationales maitrise"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en affaires internationales ?",
+   "en": "Is there a master's in public and international affairs?"
+  },
+  "answer": {
+   "fr": "Oui. L'École supérieure d'affaires publiques et internationales offre la maîtrise ès arts (MA) en affaires publiques et internationales, un programme multidisciplinaire avec cours ou avec mémoire, à temps plein ou à temps partiel. Tu suis cinq cours de base, cinq séminaires spécialisés et un séminaire de synthèse, et une option coop est offerte aux étudiants à temps plein, ainsi que des échanges internationaux.",
+   "en": "Yes. The Graduate School of Public and International Affairs offers the Master of Arts (MA) in Public and International Affairs, a multidisciplinary program with coursework or a major research paper, full-time or part-time. You take five core courses, five specialized seminars and a capstone seminar, and a co-op option is offered to full-time students, along with international exchanges."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Public and International Affairs — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-public-international-affairs/"
+   },
+   {
+    "label": "Maîtrise ès arts affaires publiques et internationales — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-affaires-publiques-internationales/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-service-social",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en service social",
+   "maitrise en travail social",
+   "master of social work",
+   "msw",
+   "mss",
+   "doctorat en service social",
+   "phd social work",
+   "travailleur social",
+   "social worker",
+   "ecole de service social"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en travail social ou en service social ?",
+   "en": "Is there a master's in social work?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de service social (Faculté des sciences sociales) offre la maîtrise en travail social et le doctorat (PhD) en travail social. La maîtrise est une formation professionnelle agréée par l'Association canadienne pour la formation en travail social, axée sur les inégalités sociales, les contextes minoritaires et les besoins de la population francophone de l'Ontario. Selon le catalogue, ces programmes sont offerts en français.",
+   "en": "Yes. The School of Social Work (Faculty of Social Sciences) offers the Master of Social Work and the PhD in Social Work. The master's is a professional program approved by the Canadian Association for Social Work Education, focused on social inequality, minority contexts and the needs of Ontario's French-speaking population. According to the catalogue, these programs are offered in French."
+  },
+  "sources": [
+   {
+    "label": "Master of Social Work — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-social-work/"
+   },
+   {
+    "label": "Maîtrise en travail social — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-travail-social/"
+   },
+   {
+    "label": "Doctorate in Philosophy Social Work — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-social-work/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sociologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sociologie",
+   "master's in sociology",
+   "ma sociology",
+   "doctorat en sociologie",
+   "phd sociology",
+   "phd en sociologie",
+   "sociology graduate",
+   "immersion francaise maitrise sociologie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sociologie ?",
+   "en": "Is there a master's in sociology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'études sociologiques et anthropologiques (Faculté des sciences sociales) offre la maîtrise ès arts (MA) en sociologie, avec thèse, mémoire ou cours (avec une composante d'immersion en français possible) et une option coop, ainsi que le doctorat (PhD). La maîtrise est offerte à temps plein ou à temps partiel, et le doctorat à temps plein, en français et en anglais.",
+   "en": "Yes. The School of Sociological and Anthropological Studies (Faculty of Social Sciences) offers the Master of Arts (MA) in Sociology, with a thesis, research paper or coursework (with an optional French immersion component) and a co-op option, as well as the PhD. The MA is offered full-time or part-time, and the PhD full-time, in French and English."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Sociology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-sociology/"
+   },
+   {
+    "label": "Maîtrise ès arts sociologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-sociologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Sociology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-sociology/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-securite-defense",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en etudes de securite et defense",
+   "master's in security and defence studies",
+   "masd",
+   "securite nationale",
+   "national security master",
+   "defense",
+   "defence studies",
+   "securite internationale"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sécurité et défense ?",
+   "en": "Is there a master's in security and defence studies?"
+  },
+  "answer": {
+   "fr": "Oui. La maîtrise ès arts en études de sécurité et défense est un programme interdisciplinaire, en français et en anglais, axé sur la pratique, qui aborde la sécurité internationale, nationale et humaine. Elle se fait avec cours : quatre cours obligatoires et six cours au choix (30 unités), en 12 mois à temps plein ou en deux ans à temps partiel.",
+   "en": "Yes. The Master of Arts in Security and Defence Studies (MASD) is an interdisciplinary, practice-oriented program in English and French covering international, national and human security. It is course-based: four compulsory courses and six electives (30 units), completed in 12 months full-time or two years part-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts in Security and Defence Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-security-defence-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts en études de sécurité et défense — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-etudes-securite-defense/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-psychedeliques",
+  "category": "programmes",
+  "keywords": [
+   "maitrise etudes sur les psychedeliques",
+   "master's in psychedelics",
+   "psychedelics and consciousness studies",
+   "etudes sur la conscience",
+   "consciousness studies",
+   "microprogramme science psychedelique",
+   "microprogram psychedelic science",
+   "psychedeliques et spiritualite",
+   "psychedelic-assisted therapy"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise sur les psychédéliques ?",
+   "en": "Is there a master's in psychedelics?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de psychologie offre la maîtrise ès arts en études sur les psychédéliques et sur la conscience, avec mémoire ou avec cours, qui porte sur les usages thérapeutiques, spirituels et rituels des psychédéliques à travers les cultures et l'histoire. Il existe aussi deux microprogrammes : science psychédélique, et études psychédéliques et spiritualité.",
+   "en": "Yes. The School of Psychology offers the Master of Arts in Psychedelics and Consciousness Studies, with a research paper or coursework, focused on the therapeutic, spiritual and ritual uses of psychedelics across cultures and history. There are also two microprograms: Psychedelic Science, and Psychedelics and Spirituality Studies."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Psychedelics and Consciousness Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-psychedelics-consciousness-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts études sur les psychédéliques et sur la conscience — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-psychedeliques-conscience/"
+   },
+   {
+    "label": "Microprogram Psychedelic Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-psychedelic-science/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-evaluation-programmes",
+  "category": "programmes",
+  "keywords": [
+   "evaluation de programmes",
+   "program evaluation",
+   "diplome evaluation de programmes",
+   "graduate diploma program evaluation",
+   "microprogramme evaluation",
+   "microprogram program evaluation",
+   "evaluation des politiques",
+   "policy evaluation"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en évaluation de programmes ?",
+   "en": "Is there a graduate program in program evaluation?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme de microprogrammes. La Faculté d'éducation offre un microprogramme en évaluation de programmes en contextes professionnels, et il existe aussi un microprogramme en évaluation des programmes et politiques sociales et de santé. Selon le catalogue, l'admission au diplôme d'études supérieures en évaluation de programmes est suspendue jusqu'à nouvel ordre.",
+   "en": "Yes, as microprograms. The Faculty of Education offers a Microprogram in Program Evaluation in Professional Contexts, and there is also a Microprogram in Evaluation of Social and Health Programs and Policies. According to the catalogue, admission to the Graduate Diploma in Program Evaluation is suspended until further notice."
+  },
+  "sources": [
+   {
+    "label": "Graduate Diploma Program Evaluation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-program-evaluation/"
+   },
+   {
+    "label": "Diplôme d'études supérieures évaluation de programmes — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/diplome-detudes-superieures-evaluation-programmes/"
+   },
+   {
+    "label": "Microprogram Program Evaluation in Professional Contexts — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-program-evaluation-professional-contexts/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-gestion-publique-gouvernance",
+  "category": "programmes",
+  "keywords": [
+   "gestion publique et gouvernance",
+   "public management and governance",
+   "diplome gestion publique",
+   "graduate diploma public management",
+   "gouvernance",
+   "governance",
+   "microprogramme gouvernance",
+   "analyse des politiques publiques",
+   "public policy analysis"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un diplôme en gestion publique et gouvernance ?",
+   "en": "Is there a graduate diploma in public management and governance?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'études politiques offre un diplôme d'études supérieures en gestion publique et gouvernance, qui donne une base conceptuelle pour analyser la politique canadienne et parlementaire et des outils pour travailler dans des organisations complexes. Il existe aussi deux microprogrammes de 9 unités : gouvernance et gestion publique, et gouvernance et analyse des politiques publiques.",
+   "en": "Yes. The School of Political Studies offers a Graduate Diploma in Public Management and Governance, which provides a conceptual foundation for analyzing Canadian and parliamentary politics and the skills to work in complex organizations. There are also two 9-unit microprograms: Governance and Public Management, and Governance and Public Policy Analysis."
+  },
+  "sources": [
+   {
+    "label": "Graduate Diploma Public Management and Governance — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-public-management-governance/"
+   },
+   {
+    "label": "Diplôme d'études supérieures gestion publique et gouvernance — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/diplome-detudes-superieures-gestion-publique-gouvernance/"
+   },
+   {
+    "label": "Microprogram Governance and Public Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-governance-public-management/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-communication",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en communication",
+   "master's in communication",
+   "ma communication",
+   "master of communication",
+   "doctorat en communication",
+   "phd communication",
+   "communication organisationnelle",
+   "organizational communication",
+   "etudes des medias",
+   "communication en sante"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en communication ?",
+   "en": "Is there a master's in communication?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de communication (Faculté des arts) offre la maîtrise ès arts (MA) en communication, avec thèse ou avec mémoire (concentration possible en communication en santé et double diplôme avec l'Université catholique de Louvain), la maîtrise en communication (MC) avec cours, à laquelle on peut ajouter une option coop, ainsi que le doctorat (PhD) en communication. Les champs d'études sont les études des médias et la communication organisationnelle.",
+   "en": "Yes. The Department of Communication (Faculty of Arts) offers the Master of Arts (MA) in Communication, with a thesis or research paper (with an optional concentration in health communication and a double degree with Université catholique de Louvain), the course-based Master of Communication (MC), to which a co-op option can be added, and the PhD in Communication. Fields of study are media studies and organizational communication."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Communication — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-communication/"
+   },
+   {
+    "label": "Maîtrise ès arts communication — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-communication/"
+   },
+   {
+    "label": "Master of Communication — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-communication/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-anglais",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en anglais",
+   "master's in english",
+   "ma english literature",
+   "doctorat en anglais",
+   "phd english",
+   "creation litteraire",
+   "creative writing master",
+   "litterature anglaise",
+   "english literature graduate",
+   "ecriture creative"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en littérature anglaise ou en création littéraire ?",
+   "en": "Is there a master's in English or creative writing?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département d'anglais (Faculté des arts) offre la maîtrise ès arts (MA) en littérature anglaise, avec cours, mémoire ou thèse, une MA avec concentration en création littéraire (cours et projet), et le doctorat (PhD) en anglais. Une option coop peut s'ajouter aux options avec cours ou avec mémoire. Ces programmes sont offerts seulement en anglais.",
+   "en": "Yes. The Department of English (Faculty of Arts) offers the Master of Arts (MA) in English Literature, with coursework, a major research paper or a thesis, an MA with a Concentration in Creative Writing (coursework and project), and the PhD in English. A co-op option can be added to the coursework or research paper options. These programs are offered in English only."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts English Literature — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-english-literature/"
+   },
+   {
+    "label": "Master of Arts English Literature — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/master-arts-english-literature/"
+   },
+   {
+    "label": "Doctorate in Philosophy English Literature — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-english-literature/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-lettres-francaises",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en lettres francaises",
+   "master's in french literature",
+   "ma lettres francaises",
+   "doctorat en lettres francaises",
+   "phd french literature",
+   "litterature francaise",
+   "etudes francaises",
+   "departement de francais",
+   "french studies graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en lettres françaises ?",
+   "en": "Is there a master's in French literature?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de français (Faculté des arts) offre la maîtrise ès arts (M.A.) en lettres françaises, avec thèse, avec mémoire ou avec cours, et le doctorat (Ph.D.) en lettres françaises. Le département participe aussi aux spécialisations en études féministes et de genre et en études médiévales et de la Renaissance à la maîtrise. Ces programmes sont offerts seulement en français.",
+   "en": "Yes. The Département de français (Faculty of Arts) offers the Master of Arts (MA) in Lettres françaises (French literature), with a thesis, a research paper or coursework, and the PhD in Lettres françaises. The department also takes part in the master's specializations in feminist and gender studies and in medieval and Renaissance studies. These programs are offered in French only."
+  },
+  "sources": [
+   {
+    "label": "Maîtrise ès arts Lettres françaises — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/maitrise-arts-lettres-francaises/"
+   },
+   {
+    "label": "Maîtrise ès arts lettres françaises — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-lettres-francaises/"
+   },
+   {
+    "label": "Doctorat en philosophie Lettres françaises — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorat-philosophie-lettres-francaises/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-histoire",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en histoire",
+   "master's in history",
+   "ma history",
+   "doctorat en histoire",
+   "phd history",
+   "phd en histoire",
+   "history graduate",
+   "histoire coop"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en histoire ?",
+   "en": "Is there a master's in history?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département d'histoire (Faculté des arts) offre la maîtrise ès arts (MA) en histoire, avec thèse ou avec mémoire, et une option coop, ainsi que le doctorat (PhD) en histoire. Selon la disponibilité des professeurs, tu peux faire tes études en français ou en anglais. Le département participe aussi aux spécialisations en études féministes et de genre et en études médiévales et de la Renaissance.",
+   "en": "Yes. The Department of History (Faculty of Arts) offers the Master of Arts (MA) in History, with a thesis or research paper, and a co-op option, as well as the PhD in History. Depending on faculty availability, you can study in English or French. The department also takes part in the specializations in feminist and gender studies and in medieval and Renaissance studies."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts History — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-history/"
+   },
+   {
+    "label": "Maîtrise ès arts histoire — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-histoire/"
+   },
+   {
+    "label": "Doctorate in Philosophy History — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-history/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-philosophie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en philosophie",
+   "master's in philosophy",
+   "ma philosophy",
+   "doctorat en philosophie philosophie",
+   "phd philosophy",
+   "phd en philosophie",
+   "philosophy graduate",
+   "ethique maitrise"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en philosophie ?",
+   "en": "Is there a master's in philosophy?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de philosophie (Faculté des arts) offre la maîtrise ès arts (MA) en philosophie, avec thèse ou avec cours, et le doctorat (PhD) en philosophie. Les programmes sont offerts en français et en anglais, et tu peux étudier dans la langue officielle de ton choix.",
+   "en": "Yes. The Department of Philosophy (Faculty of Arts) offers the Master of Arts (MA) in Philosophy, with a thesis or coursework, and the PhD in Philosophy. The programs are offered in English and French, and you may study in the official language of your choice."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Philosophy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-philosophy/"
+   },
+   {
+    "label": "Maîtrise ès arts philosophie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-philosophie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Philosophy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-philosophy/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-linguistique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en linguistique",
+   "master's in linguistics",
+   "ma linguistics",
+   "doctorat en linguistique",
+   "phd linguistics",
+   "phd en linguistique",
+   "psycholinguistique",
+   "sociolinguistique",
+   "acquisition des langues",
+   "linguistics graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en linguistique ?",
+   "en": "Is there a master's in linguistics?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de linguistique (Faculté des arts) offre la maîtrise ès arts (MA, avec mémoire) et le doctorat (PhD) en linguistique. Tu peux te spécialiser en linguistique théorique (phonétique, phonologie, morphologie, syntaxe, sémantique), en acquisition de la langue première et seconde, en psycholinguistique, en neurolinguistique ou en sociolinguistique.",
+   "en": "Yes. The Department of Linguistics (Faculty of Arts) offers the Master of Arts (MA, with a research paper) and the PhD in Linguistics. You can specialize in theoretical linguistics (phonetics, phonology, morphology, syntax, semantics), first and second language acquisition, psycholinguistics, neurolinguistics or sociolinguistics."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Linguistics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-linguistics/"
+   },
+   {
+    "label": "Maîtrise ès arts linguistique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-linguistique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Linguistics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-linguistics/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-bilinguisme",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en etudes du bilinguisme",
+   "master's in bilingualism studies",
+   "ma bilingualism studies",
+   "bilinguisme",
+   "bilingualism",
+   "linguistique appliquee",
+   "applied linguistics master",
+   "enseignement des langues secondes",
+   "ilob",
+   "olbi"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en bilinguisme ?",
+   "en": "Is there a master's in bilingualism studies?"
+  },
+  "answer": {
+   "fr": "Oui. L'Institut des langues officielles et du bilinguisme (ILOB) offre la maîtrise ès arts (MA) en études du bilinguisme, avec thèse, mémoire ou cours, à temps plein ou à temps partiel. Le programme porte sur la linguistique appliquée : bilinguisme et plurilinguisme, enseignement et évaluation des langues secondes chez les adultes, et politiques linguistiques. Il est offert en français et en anglais, et un double diplôme est possible avec l'Université Lyon 2.",
+   "en": "Yes. The Official Languages and Bilingualism Institute (OLBI) offers the Master of Arts (MA) in Bilingualism Studies, with a thesis, research paper or coursework, full-time or part-time. The program covers applied linguistics: bi- and multilingualism, adult second language teaching and assessment, and language policy. It is offered in English and French, and a dual degree is possible with Université Lyon 2."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Bilingualism Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-bilingualism-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts études du bilinguisme — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-etudes-bilinguisme/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-etudes-anciennes",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en etudes anciennes",
+   "master's in classical studies",
+   "ma classical studies",
+   "antiquite tardive",
+   "late antiquity",
+   "latin grec",
+   "classics graduate",
+   "etudes classiques"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en études anciennes ?",
+   "en": "Is there a master's in classical studies?"
+  },
+  "answer": {
+   "fr": "Le Département d'études anciennes et de sciences des religions (Faculté des arts) offre une maîtrise ès arts (MA) en études anciennes centrée sur l'Antiquité tardive (200 à 700 apr. J.-C.), avec mémoire ou avec thèse. Attention : selon le catalogue, l'admission à ce programme est suspendue jusqu'à nouvel ordre.",
+   "en": "The Department of Classics and Religious Studies (Faculty of Arts) offers a Master of Arts (MA) in Classical Studies focused on Late Antiquity (A.D. 200-700), with a research paper or thesis. Note: according to the catalogue, admission to this program is suspended until further notice."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Classical Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-classical-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts études anciennes — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-etudes-anciennes/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-etudes-medievales",
+  "category": "programmes",
+  "keywords": [
+   "etudes medievales et de la renaissance",
+   "medieval and renaissance studies",
+   "maitrise etudes medievales",
+   "master's in medieval studies",
+   "moyen age",
+   "middle ages",
+   "renaissance",
+   "specialisation concertee medievale"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en études médiévales ?",
+   "en": "Is there a master's in medieval and Renaissance studies?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme de spécialisation concertée à la maîtrise. Tu peux faire une maîtrise ès arts dans une discipline participante avec spécialisation en études médiévales et de la Renaissance, par exemple en histoire, en anglais, en lettres françaises, en philosophie, en musique, en espagnol, en théâtre, en sciences des religions ou en études anciennes.",
+   "en": "Yes, as a collaborative specialization at the master's level. You can do a Master of Arts in a participating discipline with a specialization in Medieval and Renaissance Studies, for example in history, English, French literature, philosophy, music, Spanish, theatre, religious studies or classical studies."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts History and Specialization Medieval and Renaissance Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-history-specialization-medieval-renaissance-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts en histoire spécialisation études médiévales et de la renaissance — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-histoire-specialisation-etudes-medievales-renaissance/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-religions",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sciences des religions",
+   "master's in religious studies",
+   "ma religious studies",
+   "doctorat en sciences des religions",
+   "phd religious studies",
+   "etudes religieuses",
+   "religions au canada",
+   "religion graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences des religions ?",
+   "en": "Is there a master's in religious studies?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département d'études anciennes et de sciences des religions (Faculté des arts) offre la maîtrise ès arts (MA, avec thèse ou avec mémoire) et le doctorat (PhD) en sciences des religions. Ces programmes étudient le phénomène religieux avec des approches historiques, sociologiques, psychologiques et anthropologiques, sans considérer aucune tradition comme normative.",
+   "en": "Yes. The Department of Classics and Religious Studies (Faculty of Arts) offers the Master of Arts (MA, with a thesis or research paper) and the PhD in Religious Studies. These programs study religious phenomena through historical, sociological, psychological and anthropological approaches, without treating any tradition as normative."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Religious Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-religious-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts sciences des religions — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-sciences-religions/"
+   },
+   {
+    "label": "Doctorate in Philosophy Religious Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-religious-studies/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-espagnol",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en espagnol",
+   "master's in spanish",
+   "ma spanish",
+   "doctorat en espagnol",
+   "phd spanish",
+   "etudes hispaniques",
+   "hispanic studies",
+   "litterature espagnole",
+   "langues modernes"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en espagnol ?",
+   "en": "Is there a master's in Spanish?"
+  },
+  "answer": {
+   "fr": "Le Département des langues et littératures modernes (Faculté des arts) offre une maîtrise ès arts (MA) et un doctorat (PhD) en espagnol, axés sur les littératures et cultures de l'Espagne et de l'Amérique latine et sur la linguistique hispanique. Attention : selon le catalogue, l'admission à la maîtrise (options avec cours et avec mémoire) et au doctorat est suspendue jusqu'à nouvel ordre.",
+   "en": "The Department of Modern Languages and Literatures (Faculty of Arts) offers a Master of Arts (MA) and a PhD in Spanish, focused on the literatures and cultures of Spain and Latin America and on Hispanic linguistics. Note: according to the catalogue, admission to the MA (coursework and research paper options) and to the PhD is suspended until further notice."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Spanish — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-spanish/"
+   },
+   {
+    "label": "Maîtrise ès arts Espagnol — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-espagnol/"
+   },
+   {
+    "label": "Doctorate in Philosophy in Spanish — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-spanish/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-litteratures-monde",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en litteratures et cultures du monde",
+   "master's in world literatures and cultures",
+   "ma world literatures",
+   "litterature comparee",
+   "comparative literature",
+   "cultures du monde",
+   "world cultures",
+   "langues et litteratures modernes"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en littératures et cultures du monde ?",
+   "en": "Is there a master's in world literatures and cultures?"
+  },
+  "answer": {
+   "fr": "Le Département des langues et littératures modernes a créé une maîtrise ès arts en littératures et cultures du monde, une MA d'un an avec mémoire qui réunit littérature, cinéma, médias, sociolinguistique, genre, diasporas et minorités. Attention : selon le catalogue, ce programme est suspendu jusqu'à nouvel ordre.",
+   "en": "The Department of Modern Languages and Literatures created a Master of Arts in World Literatures and Cultures, a one-year MA with a research paper bringing together literature, film, media, sociolinguistics, gender, diasporas and minorities. Note: according to the catalogue, this program is suspended until further notice."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts World Literatures and Cultures — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-world-literatures-cultures/"
+   },
+   {
+    "label": "Maîtrise ès arts littératures et cultures du monde — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-litteratures-cultures-monde/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-theatre",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en theatre",
+   "master's in theatre",
+   "ma theatre",
+   "mise en scene",
+   "theatre directing",
+   "mfa theatre directing",
+   "pratique theatrale",
+   "dramaturgie",
+   "dramaturgy"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en théâtre ou en mise en scène ?",
+   "en": "Is there a master's in theatre or directing?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de théâtre (Faculté des arts) offre la maîtrise ès arts (MA) en théâtre, axée sur la théorie et la dramaturgie, avec thèse (deux ans) ou avec mémoire (un an), et la maîtrise en pratique théâtrale, mise en scène (MFA), un programme à temps plein de deux ans. Ces programmes peuvent se faire en français et en anglais, et la mise en scène permet d'étudier les pratiques théâtrales des deux langues dans un milieu bilingue.",
+   "en": "Yes. The Department of Theatre (Faculty of Arts) offers the Master of Arts (MA) in Theatre, focused on theory and dramaturgy, with a thesis (two years) or a major research paper (one year), and the Master of Fine Arts (MFA) in Theatre Directing, a two-year full-time program. These programs can be pursued in English and French, and the directing program lets you study both English and French theatre practices in a bilingual setting."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Theatre — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-theatre/"
+   },
+   {
+    "label": "Maîtrise ès arts théâtre — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-theatre/"
+   },
+   {
+    "label": "Master of Fine Arts Theatre Directing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-fine-arts-theatre-directing/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-arts-visuels",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en arts visuels",
+   "master of fine arts",
+   "mfa visual arts",
+   "master's in visual arts",
+   "theorie de l'art contemporain",
+   "contemporary art theory",
+   "ma contemporary art",
+   "histoire de l'art maitrise",
+   "art history master"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en arts visuels ?",
+   "en": "Is there a master's in visual arts (MFA)?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département des arts visuels (Faculté des arts) offre la maîtrise en arts visuels (MFA), un programme bilingue de deux ans à temps plein, avec présentation de thèse, qui couvre la photographie, les arts médiatiques, la sculpture, la peinture, le dessin, la vidéo et l'installation. Il offre aussi la maîtrise ès arts en théorie de l'art contemporain, un programme bilingue d'un an à temps plein, avec mémoire ou avec cours.",
+   "en": "Yes. The Department of Visual Arts (Faculty of Arts) offers the Master of Fine Arts (MFA), a bilingual two-year full-time program with a thesis presentation, covering photography, media arts, sculpture, painting, drawing, video and installation. It also offers the Master of Arts in Contemporary Art Theory, a bilingual one-year full-time program with a research paper or coursework."
+  },
+  "sources": [
+   {
+    "label": "Master of Fine Arts Visual Arts — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-fine-arts-visual-arts/"
+   },
+   {
+    "label": "Maîtrise en arts visuels — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-visuels/"
+   },
+   {
+    "label": "Master of Arts Contemporary Art Theory — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-contemporary-art-theory/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-musique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en musique",
+   "master of music",
+   "mmus",
+   "master's in music",
+   "ma music",
+   "doctorat en musique",
+   "phd music",
+   "interpretation musicale",
+   "music performance",
+   "composition musicale",
+   "pedagogie du piano"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en musique ?",
+   "en": "Is there a master's in music?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de musique (Faculté des arts) offre la maîtrise en musique (MMus) avec concentration en interprétation ou en composition, la maîtrise ès arts (MA) en musique (avec mémoire, thèse ou cours) et un doctorat (PhD) en recherche interdisciplinaire en musique. L'interprétation est offerte en piano, piano collaboratif, direction, chant, instruments d'orchestre et guitare. L'École offre aussi des diplômes d'études supérieures en interprétation musicale et en recherche en pédagogie du piano.",
+   "en": "Yes. The School of Music (Faculty of Arts) offers the Master of Music (MMus) with a concentration in Performance or Composition, the Master of Arts (MA) in Music (with a research paper, thesis or coursework) and a PhD in Interdisciplinary Research in Music. Performance studies are offered in piano, collaborative piano, conducting, voice, orchestral instruments and guitar. The School also offers graduate diplomas in Music Performance and in Piano Pedagogy Research."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Music — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-music/"
+   },
+   {
+    "label": "Maîtrise ès arts musique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-musique/"
+   },
+   {
+    "label": "Master of Music and Concentration Performance — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-music-concentration-in-performance/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-traductologie",
+  "category": "programmes",
+  "keywords": [
+   "traductologie",
+   "translation studies",
+   "ma translation studies",
+   "doctorat en traductologie",
+   "phd translation studies",
+   "phd en traduction",
+   "traduction litteraire",
+   "literary translation",
+   "recherche en traduction"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un doctorat en traduction ?",
+   "en": "Is there a PhD in translation studies?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de traduction et d'interprétation (Faculté des arts) offre le doctorat (PhD) en traductologie, un programme à temps plein comprenant quatre cours, un examen de synthèse et une thèse; la plupart des séminaires sont bilingues. Selon le catalogue, la maîtrise ès arts en traductologie (y compris la concentration en traduction littéraire) est suspendue jusqu'à nouvel ordre. Pour une maîtrise professionnelle, il existe la maîtrise en traduction.",
+   "en": "Yes. The School of Translation and Interpretation (Faculty of Arts) offers the PhD in Translation Studies, a full-time program with four courses, a comprehensive exam and a thesis; most seminars are bilingual. According to the catalogue, the Master of Arts in Translation Studies (including the literary translation concentration) is suspended until further notice. For a professional master's, there is the Master of Translation."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Translation Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-translation-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts traductologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-traductologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Translation Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-translation-studies/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-maitrise-traduction",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en traduction",
+   "master of translation",
+   "mtr",
+   "master's in translation",
+   "devenir traducteur",
+   "become a translator",
+   "traduction professionnelle",
+   "professional translation",
+   "traduction coop"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en traduction ?",
+   "en": "Is there a master's in translation?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de traduction et d'interprétation offre la maîtrise en traduction (MTr), un programme avec cours de 45 crédits sur quatre trimestres, avec option coop, qui forme des langagiers pour l'industrie de la langue d'aujourd'hui. Le tronc commun comprend des cours de traduction (de l'anglais vers le français ou du français vers l'anglais) et de rédaction, puis tu choisis des modules, un projet de synthèse avec portfolio ou un stage.",
+   "en": "Yes. The School of Translation and Interpretation offers the Master of Translation (MTr), a 45-credit, four-term course-based program with a co-op option that trains language professionals for today's language industry. The common core includes translation courses (English to French or French to English) and writing, then you choose modules, a capstone project with a translation portfolio, or a practicum."
+  },
+  "sources": [
+   {
+    "label": "Master of Translation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-translation/"
+   },
+   {
+    "label": "Maîtrise en traduction — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-traduction/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-interpretation-conference",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en interpretation de conference",
+   "master of conference interpreting",
+   "mci",
+   "interprete",
+   "interpreter",
+   "interpretation simultanee",
+   "simultaneous interpreting",
+   "devenir interprete",
+   "become an interpreter"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en interprétation ?",
+   "en": "Is there a master's in conference interpreting?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de traduction et d'interprétation offre la maîtrise en interprétation de conférence, un programme professionnel à temps plein avec stage, qui forme des interprètes surtout pour le marché canadien. Les cours se donnent en anglais ou en français, et tu dois interpréter de l'anglais vers le français et du français vers l'anglais.",
+   "en": "Yes. The School of Translation and Interpretation offers the Master of Conference Interpreting, a full-time professional program with a practicum that trains interpreters mainly for the Canadian market. Courses are given in English or French, and you must interpret from English into French and from French into English."
+  },
+  "sources": [
+   {
+    "label": "Master of Conference Interpreting — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-conference-interpreting/"
+   },
+   {
+    "label": "Maîtrise en interprétation de conférence — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-interpretation-conference/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-information",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sciences de l'information",
+   "master of information studies",
+   "mis",
+   "master's in library science",
+   "bibliothecaire",
+   "librarian",
+   "archiviste",
+   "archivist",
+   "gestion de l'information",
+   "information management diploma"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences de l'information ?",
+   "en": "Is there a master's in information studies (library science)?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de l'information (Faculté des arts) offre la maîtrise en sciences de l'information (programme bilingue), avec cours, avec thèse ou avec coop (coop réservé aux étudiants à temps plein), ainsi qu'un diplôme d'études supérieures en gestion de l'information. Les deux programmes sont ouverts aux diplômés de toutes les disciplines et offerts à temps plein ou à temps partiel.",
+   "en": "Yes. The School of Information Studies (Faculty of Arts) offers the Master of Information Studies (MIS, a bilingual program), with coursework, a thesis or co-op (co-op for full-time students only), as well as a Graduate Diploma in Information Management. Both programs are open to graduates of all disciplines and offered full-time or part-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Information Studies (Bilingual) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-information-studies-bilingual/"
+   },
+   {
+    "label": "Maîtrise en sciences de l'information (bilingue) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-linformation-bilingue/"
+   },
+   {
+    "label": "Graduate Diploma Information Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-information-management/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-mba",
+  "category": "programmes",
+  "keywords": [
+   "mba",
+   "maitrise en administration des affaires",
+   "master of business administration",
+   "mba telfer",
+   "mba en francais",
+   "mba intensif 12 mois",
+   "mba professionnel 24 mois",
+   "executive mba",
+   "emba",
+   "mba finance"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un MBA ?",
+   "en": "Is there an MBA?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre la maîtrise en administration des affaires (MBA), en version intensive de 12 mois ou professionnelle de 24 mois (le MBA en français est offert seulement en version professionnelle). Tu peux faire un MBA général ou choisir une concentration en finance, transformation numérique et analytique, consultation en gestion ou gestion durable. Telfer offre aussi les programmes combinés MBA-JD et MBA-LL.L., ainsi qu'un MBA pour cadres (EMBA).",
+   "en": "Yes. The Telfer School of Management offers the Master of Business Administration (MBA), as a 12-month intensive or 24-month professional program (the French MBA is offered only as the professional program). You can do a general MBA or choose a concentration in Finance, Digital Transformation and Analytics, Management Consulting or Sustainable Management. Telfer also offers the combined MBA-JD and MBA-LL.L. programs, and an Executive MBA (EMBA)."
+  },
+  "sources": [
+   {
+    "label": "Master of Business Administration (MBA) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/"
+   },
+   {
+    "label": "Maîtrise en administration des affaires (M.B.A.) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-administration-affaires-mba/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-mha",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en gestion des services de sante",
+   "maitrise en gestion des systemes de sante",
+   "master of health administration",
+   "mha",
+   "mgss",
+   "gestion de la sante",
+   "health administration",
+   "executive mha",
+   "gestion hospitaliere",
+   "health care management master"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en gestion de la santé (MHA) ?",
+   "en": "Is there a Master of Health Administration (MHA)?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre la maîtrise en gestion des systèmes de santé (M.G.S.S., ou MHA en anglais), un programme de 24 mois qui comprend une résidence administrative d'au moins 16 semaines ou un projet de consultation d'environ 200 heures dans un organisme de santé. Selon le catalogue, tous les cours sont donnés en anglais, mais la résidence ou le projet peut se faire en français ou en anglais. Telfer offre aussi la maîtrise en gestion des services de santé pour cadres, entièrement en ligne.",
+   "en": "Yes. The Telfer School of Management offers the Master of Health Administration (MHA), a 24-month program that includes an administrative residency of at least 16 weeks or a consulting project of about 200 hours in a health organization. According to the catalogue, all courses are taught in English, but the residency or project can be done in English or French. Telfer also offers a fully online Executive Master of Health Administration (EMHA)."
+  },
+  "sources": [
+   {
+    "label": "Master of Health Administration (MHA) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-health-administration-mha/"
+   },
+   {
+    "label": "Maîtrise en gestion des systèmes de santé (M.G.S.S.) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-gestion-systemes-sante-mgss/"
+   },
+   {
+    "label": "Executive Master of Health Administration (EMHA) (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-health-administration-executive-mha/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-gestion-msc",
+  "category": "programmes",
+  "keywords": [
+   "maitrise es sciences en gestion",
+   "master of science in management",
+   "msc management",
+   "doctorat en gestion",
+   "phd management",
+   "phd in management",
+   "recherche en gestion",
+   "management research",
+   "telfer phd"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise ou un doctorat en gestion ?",
+   "en": "Is there a master's or PhD in management?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre la maîtrise ès sciences en gestion (MSc), avec thèse ou avec projet de recherche et une option coop, dans une concentration comme la gestion de l'innovation, l'entrepreneuriat, la finance, la comptabilité, le comportement organisationnel et les ressources humaines, l'analytique d'affaires, le marketing ou les systèmes de santé. Elle offre aussi le doctorat (PhD) en gestion, à temps plein; selon le catalogue, il est offert en anglais, avec des professeurs bilingues qui peuvent t'accompagner en français.",
+   "en": "Yes. The Telfer School of Management offers the Master of Science (MSc) in Management, with a thesis or research project and a co-op option, in a concentration such as innovation management, entrepreneurship, finance, accounting, organizational behaviour and human resources, business analytics, marketing or health systems. It also offers the PhD in Management, full-time; according to the catalogue, it is offered in English, with bilingual professors who can support students in French."
+  },
+  "sources": [
+   {
+    "label": "Master of Science in Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-management/"
+   },
+   {
+    "label": "Maîtrise ès sciences en gestion — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-gestion/"
+   },
+   {
+    "label": "Doctorate in Philosophy Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-management/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-projets-complexes",
+  "category": "programmes",
+  "keywords": [
+   "gestion de projets complexes",
+   "complex project leadership",
+   "diplome gestion de projets",
+   "graduate diploma complex project leadership",
+   "leadership de projets",
+   "project management graduate",
+   "gestion de projet",
+   "project leadership"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en gestion de projets ?",
+   "en": "Is there a graduate program in project management?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre un diplôme d'études supérieures en gestion de projets complexes (15 unités), conçu pour les gestionnaires qui lancent et gèrent de grands projets sur plusieurs années. Selon le catalogue, la maîtrise en affaires de leadership de projets complexes est suspendue jusqu'à nouvel ordre.",
+   "en": "Yes. The Telfer School of Management offers a Graduate Diploma in Complex Project Leadership (15 units), designed for practising managers who launch and manage large multi-year projects. According to the catalogue, the Master of Business in Complex Project Leadership is suspended until further notice."
+  },
+  "sources": [
+   {
+    "label": "Master of Business Complex Project Leadership — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-business-complex-project-leadership/"
+   },
+   {
+    "label": "Maîtrise en affaires de leadership de projets complexes — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-administration-leadership-projets-complexes/"
+   },
+   {
+    "label": "Graduate Diploma Complex Project Leadership — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-complex-project-leadership/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-cpa",
+  "category": "programmes",
+  "keywords": [
+   "comptabilite professionnelle",
+   "chartered professional accountancy",
+   "cpa",
+   "diplome cpa",
+   "graduate diploma cpa",
+   "comptable professionnel agree",
+   "devenir cpa",
+   "become a cpa",
+   "comptabilite cycles superieurs"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme pour devenir CPA ?",
+   "en": "Is there a graduate program to become a CPA?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre un diplôme d'études supérieures en comptabilité professionnelle, un diplôme à admission directe qui prolonge la spécialisation en comptabilité du baccalauréat en commerce. Avec cette spécialisation, il répond aux exigences de la grille de compétences de CPA Canada et prépare aux modules de synthèse du programme de formation professionnelle des CPA.",
+   "en": "Yes. The Telfer School of Management offers a Graduate Diploma in Chartered Professional Accountancy, a direct-entry diploma that continues the Accounting specialization of the Bachelor of Commerce. Together with that specialization, it meets the requirements of the CPA Canada competency map and prepares candidates for the capstone modules of the CPA professional education program."
+  },
+  "sources": [
+   {
+    "label": "Graduate Diploma Chartered Professional Accountancy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-chartered-professional-accountancy/"
+   },
+   {
+    "label": "Diplôme d'études supérieures comptabilité professionnelle — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/diplome-detudes-superieures-comptabilite-professionnelle/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-leadership-gestion",
+  "category": "programmes",
+  "keywords": [
+   "diplome leadership et gestion",
+   "graduate diploma leadership and management",
+   "gestion et leadership scientifiques",
+   "scientific management and leadership",
+   "diplome en gestion",
+   "management diploma",
+   "leadership cycles superieurs",
+   "telfer diplome"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un diplôme d'études supérieures en gestion ?",
+   "en": "Is there a graduate diploma in management?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre un diplôme d'études supérieures en leadership et gestion, à temps partiel, composé de cours du MBA; si tu es admis au MBA ensuite, tes unités peuvent y être transférées. Il existe aussi un diplôme d'études supérieures en gestion et leadership scientifiques, dont tu peux faire toutes les exigences en français ou en anglais.",
+   "en": "Yes. The Telfer School of Management offers a part-time Graduate Diploma in Leadership and Management, made up of MBA courses; if you are later admitted to the MBA, your units can be transferred. There is also a Graduate Diploma in Scientific Management and Leadership, whose requirements you can complete entirely in English or in French."
+  },
+  "sources": [
+   {
+    "label": "Graduate Diploma Leadership and Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-leadership-management/"
+   },
+   {
+    "label": "Diplôme d'études supérieures leadership et gestion — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/diplome-detudes-superieures-leadership-gestion/"
+   },
+   {
+    "label": "Graduate Diploma Scientific Management and Leadership — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-scientific-management-leadership/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-llm",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en droit",
+   "llm",
+   "ll.m.",
+   "master of laws",
+   "master's in law",
+   "droit notarial",
+   "notarial law",
+   "droit international",
+   "droit de la sante",
+   "droit de l'environnement",
+   "etudes legislatives"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en droit (LL.M.) ?",
+   "en": "Is there a Master of Laws (LLM)?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de droit (sections de common law et de droit civil) offre la maîtrise en droit (LL.M.), avec thèse, mémoire ou cours. Des concentrations existent notamment en droit notarial, droit et technologie, droit de la santé, droit international humanitaire et de la sécurité, commerce et investissement internationaux, durabilité mondiale et droit de l'environnement, droit et justice sociale, études législatives, et une spécialisation en études féministes et de genre. Les cours sont offerts en français ou en anglais, et parfois dans les deux langues.",
+   "en": "Yes. The Faculty of Law (Common Law and Civil Law Sections) offers the Master of Laws (LLM), with a thesis, research paper or coursework. Concentrations include notarial law, law and technology, health law, international humanitarian and security law, international trade and foreign investment, global sustainability and environmental law, law and social justice, legislative studies, and a specialization in feminist and gender studies. Courses are offered in English or French, and occasionally in both."
+  },
+  "sources": [
+   {
+    "label": "Master of Laws (LLM) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-laws-llm/"
+   },
+   {
+    "label": "Maîtrise en droit (LL.M.) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-droit-llm/"
+   },
+   {
+    "label": "Master of Laws (LLM) and Concentration Notarial Law — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-laws-llm-concentration-notarial-law/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-doctorat-droit",
+  "category": "programmes",
+  "keywords": [
+   "doctorat en droit",
+   "phd in law",
+   "phd law",
+   "doctorat en philosophie droit",
+   "ll.d.",
+   "recherche en droit",
+   "legal research doctorate",
+   "droit cycles superieurs"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un doctorat en droit ?",
+   "en": "Is there a PhD in law?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de droit offre le doctorat (PhD) en droit, un projet commun des sections de common law et de droit civil qui reflète le système juridique bilingue et trijuridique du Canada (droit civil, common law et droit autochtone). Les programmes sont offerts en français et en anglais, et tes examens, travaux et thèse peuvent être rédigés dans l'une ou l'autre langue.",
+   "en": "Yes. The Faculty of Law offers the PhD in Law, a joint endeavour of the Common Law and Civil Law Sections reflecting Canada's bilingual and trijuridical legal system (civil law, common law and Aboriginal law). The programs are offered in English and French, and your exams, assignments and thesis may be written in either language."
+  },
+  "sources": [
+   {
+    "label": "Doctorate in Philosophy Law — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-law/"
+   },
+   {
+    "label": "Doctorat en philosophie droit — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/doctorat-philosophie-droit/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-droit-technologie",
+  "category": "programmes",
+  "keywords": [
+   "droit et technologie",
+   "law and technology",
+   "llm droit et technologie",
+   "llm law and technology",
+   "microprogramme droit et technologie",
+   "microprogram law and technology",
+   "droit du numerique",
+   "technology law",
+   "droit de la propriete intellectuelle"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en droit et technologie ?",
+   "en": "Is there a graduate program in law and technology?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de droit offre la maîtrise en droit (LL.M.) avec concentration en droit et technologie, avec mémoire, ainsi qu'un microprogramme en droit et technologie. Les cours sont offerts en français ou en anglais, et tes travaux peuvent être rédigés dans l'une ou l'autre langue.",
+   "en": "Yes. The Faculty of Law offers the Master of Laws (LLM) with a Concentration in Law and Technology, with a research paper, as well as a Microprogram in Law and Technology. Courses are offered in English or French, and your work may be written in either language."
+  },
+  "sources": [
+   {
+    "label": "Master of Laws (LLM) and Concentration Law and Technology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-laws-llm-concentration-law-technology/"
+   },
+   {
+    "label": "Maîtrise en droit (LL.M.) et concentration en droit et technologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-droit-llm-concentration-droit-technologie/"
+   },
+   {
+    "label": "Microprogram Law and Technology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-law-technology/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-education",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en education",
+   "master of education",
+   "med",
+   "m.ed.",
+   "master's in education",
+   "ma education",
+   "doctorat en education",
+   "phd education",
+   "enseignement et apprentissage",
+   "teaching and learning master"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en éducation ?",
+   "en": "Is there a master's in education?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté d'éducation offre la maîtrise en éducation (M.Ed.), avec cours ou avec mémoire, sur le campus ou entièrement en ligne, dans une concentration comme l'enseignement et l'apprentissage, la psychologie du counselling, le leadership éducationnel, les langues secondes ou l'enseignement aux professionnels de la santé. Elle offre aussi la maîtrise ès arts en éducation (M.A., avec thèse) et le doctorat (Ph.D.) en éducation. Les programmes sont offerts en français et en anglais.",
+   "en": "Yes. The Faculty of Education offers the Master of Education (MEd), with coursework or a research paper, on campus or fully online, in a concentration such as teaching and learning, counselling psychology, educational leadership, second language education or health professions education. It also offers the Master of Arts in Education (MA, thesis) and the PhD in Education. The programs are offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Master of arts Education — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-education/"
+   },
+   {
+    "label": "Maîtrise ès arts éducation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-education/"
+   },
+   {
+    "label": "Doctorate in Philosophy Education — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-education/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-counselling",
+  "category": "programmes",
+  "keywords": [
+   "psychologie du counselling",
+   "counselling psychology",
+   "maitrise en counselling",
+   "master's in counselling",
+   "med counselling psychology",
+   "ma education counselling",
+   "conseiller",
+   "counsellor",
+   "orientation",
+   "therapeute"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en counselling ?",
+   "en": "Is there a master's in counselling psychology?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté d'éducation offre la maîtrise en éducation (M.Ed.) en psychologie du counselling, avec cours, ainsi que la maîtrise ès arts en éducation (M.A.) en psychologie du counselling, avec thèse. Les programmes sont offerts en français et en anglais. Selon le catalogue, l'option avec mémoire de la M.Ed. et la concentration en counselling éducationnel au doctorat sont suspendues jusqu'à nouvel ordre.",
+   "en": "Yes. The Faculty of Education offers the Master of Education (MEd) in Counselling Psychology, course-based, as well as the Master of Arts in Education (MA) in Counselling Psychology, with a thesis. The programs are offered in English and French. According to the catalogue, the MEd research paper option and the PhD concentration in Educational Counselling are suspended until further notice."
+  },
+  "sources": [
+   {
+    "label": "Master of Education (Counselling Psychology) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-education-concentration-counselling-psychology/"
+   },
+   {
+    "label": "Maîtrise en éducation (psychologie du counselling) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-education-concentration-psychologie-counselling/"
+   },
+   {
+    "label": "Master of Arts Education (Counselling Psychology) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-education-concentration-counselling-psychology/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-leadership-educationnel",
+  "category": "programmes",
+  "keywords": [
+   "leadership educationnel",
+   "educational leadership",
+   "maitrise en leadership educationnel",
+   "med educational leadership",
+   "politiques educatives",
+   "education policy",
+   "evaluation en education",
+   "direction d'ecole",
+   "school administration",
+   "med en ligne"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en leadership éducationnel ?",
+   "en": "Is there a master's in educational leadership?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté d'éducation offre la maîtrise en éducation (M.Ed.) en leadership, évaluation et politiques éducatives, entièrement en ligne, avec cours ou avec mémoire. Les programmes de la faculté sont offerts en français et en anglais.",
+   "en": "Yes. The Faculty of Education offers the Master of Education (MEd) in Educational Leadership, Policy and Evaluation, fully online, with coursework or a research paper. The faculty's programs are offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Master of Education (Educational Leadership, Policy and Evaluation) (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-education-concentration-educational-leadership-policy-evaluation-virtual/"
+   },
+   {
+    "label": "Maîtrise en éducation (leadership, évaluation et politiques éducatives) (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-education-concentration-leadership-evaluation-politiques-educatives-virtuel/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-enseignement-professions-sante",
+  "category": "programmes",
+  "keywords": [
+   "enseignement aux professionnels de la sante",
+   "health professions education",
+   "med health professions education",
+   "diplome health professions education",
+   "phd health professions education",
+   "education medicale",
+   "medical education",
+   "formation des professionnels de la sante"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en éducation des professionnels de la santé ?",
+   "en": "Is there a graduate program in health professions education?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté d'éducation offre en enseignement aux professionnels de la santé une maîtrise en éducation (M.Ed.) en ligne, avec cours ou avec mémoire, un diplôme d'études supérieures en ligne (offert seulement en anglais) et une concentration au doctorat (Ph.D.) en éducation. Ces programmes s'adressent aux personnes qui forment ou veulent former des professionnels de la santé.",
+   "en": "Yes. The Faculty of Education offers, in health professions education, an online Master of Education (MEd), with coursework or a research paper, an online graduate diploma (offered in English only) and a concentration in the PhD in Education. These programs are for people who train, or want to train, health professionals."
+  },
+  "sources": [
+   {
+    "label": "Master of Education (Health Professions Education) (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-education-concentration-health-professions-education/"
+   },
+   {
+    "label": "Maîtrise en éducation (enseignement aux professionnels de la santé) (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-education-concentration-enseignement-aux-professionnels-sante/"
+   },
+   {
+    "label": "Graduate Diploma Health Professions Education (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-health-professions-education/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-enseignement-sante",
+  "category": "programmes",
+  "keywords": [
+   "enseignement en sante",
+   "health education",
+   "maitrise en enseignement en sante",
+   "med health education",
+   "diplome enseignement en sante",
+   "microprogramme enseignement en sante",
+   "pedagogie medicale",
+   "formation clinique",
+   "enseignement en sante en francais"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en enseignement en santé en français ?",
+   "en": "Is there a French-language graduate program in health education?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté d'éducation et la Faculté de médecine offrent en partenariat la maîtrise en éducation (M.Ed.) en enseignement en santé, avec cours ou avec mémoire, un diplôme d'études supérieures en enseignement en santé (pour l'instant, seul le programme en ligne accepte des demandes) et un microprogramme d'introduction à l'enseignement en santé. Ces programmes, offerts seulement en français, s'adressent aux diplômés en santé qui enseignent ou veulent enseigner en milieu universitaire, clinique ou hospitalier.",
+   "en": "Yes. The Faculty of Education and the Faculty of Medicine jointly offer the Master of Education (MEd) in Health Education, with coursework or a research paper, a Graduate Diploma in Health Education (currently only the online program is accepting applications) and a Microprogram Introduction to Health Education. These programs, offered in French only, are for health graduates who teach or want to teach in academic, clinical or hospital settings."
+  },
+  "sources": [
+   {
+    "label": "Master of Education (Health Education) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-education-concentration-health-education/"
+   },
+   {
+    "label": "Maîtrise en éducation (enseignement en santé) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-education-concentration-enseignement-sante/"
+   },
+   {
+    "label": "Graduate Diploma in Health Education — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-health-education/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-langues-secondes-education",
+  "category": "programmes",
+  "keywords": [
+   "education et langues secondes",
+   "second language education",
+   "med second language education",
+   "enseigner le francais langue seconde",
+   "teach french as a second language",
+   "milieux linguistiques minoritaires",
+   "minority language contexts",
+   "education inclusive",
+   "inclusion"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en enseignement des langues secondes ?",
+   "en": "Is there a master's in second language education?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté d'éducation offre la maîtrise en éducation (M.Ed.) en éducation et langues secondes, entièrement en ligne, avec cours ou avec mémoire. Elle offre aussi la M.Ed. en éducation en milieux linguistiques minoritaires et inclusion, sur le campus ou en ligne. Les programmes de la faculté sont offerts en français et en anglais.",
+   "en": "Yes. The Faculty of Education offers the Master of Education (MEd) in Second Language Education, fully online, with coursework or a research paper. It also offers the MEd in Education in Minority Language Contexts and Inclusion, on campus or online. The faculty's programs are offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Master of Education (Second Language Education) (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-education-concentration-second-language-education-virtual/"
+   },
+   {
+    "label": "Maîtrise en éducation (éducation et langues secondes) (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-education-concentration-education-langues-secondes-virtuel/"
+   },
+   {
+    "label": "Master of Education (Education in Minority Language Contexts and Inclusion) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-education-concentration-education-minority-language-contexts-inclusion/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sondage-opinion",
+  "category": "programmes",
+  "keywords": [
+   "opinion publique et sondage",
+   "public opinion and survey research",
+   "microprogramme sondage",
+   "microprogram survey research",
+   "sondages",
+   "surveys",
+   "recherche par sondage",
+   "methodes quantitatives"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en sondage et opinion publique ?",
+   "en": "Is there a graduate program in survey research and public opinion?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'études politiques offre un microprogramme de cycles supérieurs en opinion publique et sondage (6 unités), à faire pendant les trimestres d'automne et d'hiver d'une même année. Tu y participes à toutes les étapes d'un vrai sondage d'opinion publique, de la conception des questions jusqu'à l'analyse et la communication des résultats. Selon le catalogue, il est offert en alternance en anglais et en français.",
+   "en": "Yes. The School of Political Studies offers a graduate Microprogram in Public Opinion and Survey Research (6 units), completed over the fall and winter terms of one academic year. You take part in every stage of a real public opinion survey, from designing questions to analyzing and communicating results. According to the catalogue, it is offered alternately in English and in French."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Public Opinion and Survey Research — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-public-opinion-survey-research/"
+   },
+   {
+    "label": "Microprogramme opinion publique et sondage — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/microprogramme-opinion-publique-sondage/"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ }
+]

@@ -53533,5 +53533,9354 @@ export const KB = [
   ],
   "verifiedOn": "2026-11-16",
   "status": "official"
+ },
+ {
+  "id": "m-papu-c-quoi",
+  "category": "programmes",
+  "keywords": [
+   "papu",
+   "sep",
+   "second entry program",
+   "préalables universitaires",
+   "sciences infirmières",
+   "nursing",
+   "bscn",
+   "b.sc. sciences infirmières",
+   "accelerated nursing",
+   "infirmière",
+   "nurse"
+  ],
+  "question": {
+   "fr": "C'est quoi le programme d'admission avec préalables universitaires (PAPU) en sciences infirmières ?",
+   "en": "What is the Second Entry Program (SEP) in nursing?"
+  },
+  "answer": {
+   "fr": "Le PAPU s'échelonne sur 24 mois et mène au baccalauréat ès sciences en sciences infirmières, le B.Sc. (Sc. inf.). Une fois ton diplôme obtenu, tu es admissible à l'examen d'autorisation à la profession infirmière au Canada. Le contenu est le même que dans le programme régulier de quatre ans : tu entres simplement en deuxième année plutôt qu'en première.",
+   "en": "The Second Entry Program runs over 24 months and leads to the Bachelor of Science in Nursing, the BScN. Once you graduate, you're eligible for the nursing licensure exam in Canada. The content is the same as the regular four-year program: you simply start in second year instead of first year."
+  },
+  "sources": [
+   {
+    "label": "FAQ — Programme d'admission avec préalables universitaires, B.Sc. sciences infirmières — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/sciences-infirmieres/etudes-premier-cycle/bsc-scinf-admission-prealables-universitaires/faq"
+   }
+  ],
+  "related": [
+   "m-papu-temps-partiel",
+   "m-papu-immersion",
+   "m-cal-duree-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-papu-temps-partiel",
+  "category": "programmes",
+  "keywords": [
+   "papu",
+   "sep",
+   "temps partiel",
+   "part-time",
+   "sciences infirmières",
+   "nursing",
+   "second entry",
+   "temps complet",
+   "full-time",
+   "infirmière"
+  ],
+  "question": {
+   "fr": "Est-ce que le PAPU en sciences infirmières est offert à temps partiel ?",
+   "en": "Is the nursing Second Entry Program offered part-time?"
+  },
+  "answer": {
+   "fr": "Non, le PAPU est offert à temps complet seulement.",
+   "en": "No, the Second Entry Program is offered full-time only."
+  },
+  "sources": [
+   {
+    "label": "FAQ — Programme d'admission avec préalables universitaires, B.Sc. sciences infirmières — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/sciences-infirmieres/etudes-premier-cycle/bsc-scinf-admission-prealables-universitaires/faq"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-immersion",
+   "m-cal-duree-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-papu-exigences",
+  "category": "admissions",
+  "keywords": [
+   "papu",
+   "sep",
+   "exigences admission",
+   "admission requirements",
+   "préalables",
+   "prerequisites",
+   "60 crédits",
+   "anatomie",
+   "physiologie",
+   "statistiques",
+   "sciences infirmières",
+   "nursing"
+  ],
+  "question": {
+   "fr": "Quelles sont les exigences d'admission au PAPU en sciences infirmières ?",
+   "en": "What are the admission requirements for the nursing Second Entry Program?"
+  },
+  "answer": {
+   "fr": "Il te faut au moins 60 crédits universitaires, dont au moins 6 crédits en anatomie humaine et physiologie, 6 crédits en sciences sociales, 3 en statistiques, 3 en arts et humanités et 3 en méthodes de recherche. Les cours d'anatomie et physiologie et le cours de statistiques doivent dater des six années précédant l'admission. Remplir toutes les exigences ne garantit pas automatiquement l'admission.",
+   "en": "You need at least 60 university credits, including at least 6 credits in human anatomy and physiology, 6 credits in social sciences, 3 in statistics, 3 in arts and humanities, and 3 in research methods. The anatomy and physiology courses and the statistics course must have been taken within the six years before admission. Meeting all the requirements doesn't automatically guarantee admission."
+  },
+  "sources": [
+   {
+    "label": "FAQ — Programme d'admission avec préalables universitaires, B.Sc. sciences infirmières — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/sciences-infirmieres/etudes-premier-cycle/bsc-scinf-admission-prealables-universitaires/faq"
+   }
+  ],
+  "related": [
+   "m-papu-dates",
+   "m-papu-mpc",
+   "m-papu-prealables-en-cours"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-papu-dates",
+  "category": "admissions",
+  "keywords": [
+   "papu",
+   "sep",
+   "date limite",
+   "deadline",
+   "1er décembre",
+   "december 1",
+   "début des cours",
+   "start date",
+   "mai",
+   "may",
+   "réponse",
+   "sciences infirmières",
+   "nursing"
+  ],
+  "question": {
+   "fr": "Quand faire ma demande au PAPU en sciences infirmières et quand le programme commence-t-il ?",
+   "en": "When do I apply to the nursing Second Entry Program, and when does it start?"
+  },
+  "answer": {
+   "fr": "Les demandes sont acceptées dès le 1er octobre et la date limite est le 1er décembre; ton dossier doit être complet à cette date. Les dossiers sont évalués en février, donc tu devrais avoir une réponse vers la mi-mars. Le programme commence toujours en mai, à la session du printemps-été.",
+   "en": "Applications are accepted starting October 1, and the deadline is December 1; your file must be complete by that date. Files are assessed in February, so you should get an answer around mid-March. The program always starts in May, in the spring/summer session."
+  },
+  "sources": [
+   {
+    "label": "FAQ — Programme d'admission avec préalables universitaires, B.Sc. sciences infirmières — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/sciences-infirmieres/etudes-premier-cycle/bsc-scinf-admission-prealables-universitaires/faq"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-mpc",
+   "m-papu-prealables-en-cours"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-papu-mpc",
+  "category": "admissions",
+  "keywords": [
+   "papu",
+   "sep",
+   "mpc",
+   "gpa",
+   "moyenne",
+   "minimum",
+   "7.0",
+   "concurrence",
+   "competitive",
+   "sciences infirmières",
+   "nursing"
+  ],
+  "question": {
+   "fr": "Quelle moyenne faut-il pour faire une demande au PAPU en sciences infirmières ?",
+   "en": "What GPA do I need to apply to the nursing Second Entry Program?"
+  },
+  "answer": {
+   "fr": "Il te faut une moyenne pondérée cumulative d'au moins 7,0 pour présenter une demande. La concurrence est très forte, donc atteindre ce minimum ne garantit pas l'admission. Tous les cours suivis dans un programme de baccalauréat comptent dans le calcul, sans exception.",
+   "en": "You need a cumulative grade point average of at least 7.0 to apply. Competition is very strong, so meeting this minimum doesn't guarantee admission. Every course taken as part of a bachelor's program counts in the calculation, without exception."
+  },
+  "sources": [
+   {
+    "label": "FAQ — Programme d'admission avec préalables universitaires, B.Sc. sciences infirmières — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/sciences-infirmieres/etudes-premier-cycle/bsc-scinf-admission-prealables-universitaires/faq"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-prealables-en-cours"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-papu-prealables-en-cours",
+  "category": "admissions",
+  "keywords": [
+   "papu",
+   "sep",
+   "préalables",
+   "prerequisites",
+   "en cours",
+   "in progress",
+   "30 avril",
+   "april 30",
+   "offre conditionnelle",
+   "conditional offer",
+   "athabasca",
+   "sciences infirmières",
+   "nursing"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire une demande au PAPU si mes préalables ne sont pas tous terminés ?",
+   "en": "Can I apply to the nursing Second Entry Program if I haven't finished all my prerequisites?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es en voie de les terminer : joins une preuve d'inscription aux cours manquants, idéalement avec une note de mi-session. Tu dois avoir terminé ces cours au plus tard le 30 avril, ou le 15 avril pour un cours suivi à Athabasca University. Si tu es accepté entre-temps, tu reçois une offre conditionnelle.",
+   "en": "Yes, as long as you're on track to finish them: include proof of registration in the missing courses, ideally with a midterm grade. You must complete those courses by April 30 at the latest, or April 15 for a course taken through Athabasca University. If you're accepted in the meantime, you'll receive a conditional offer."
+  },
+  "sources": [
+   {
+    "label": "FAQ — Programme d'admission avec préalables universitaires, B.Sc. sciences infirmières — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/sciences-infirmieres/etudes-premier-cycle/bsc-scinf-admission-prealables-universitaires/faq"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-papu-immersion",
+  "category": "programmes",
+  "keywords": [
+   "papu",
+   "sep",
+   "immersion française",
+   "french immersion",
+   "sciences infirmières",
+   "nursing",
+   "régime d immersion",
+   "quatre ans",
+   "four-year",
+   "anglais"
+  ],
+  "question": {
+   "fr": "Est-ce que le PAPU en sciences infirmières offre le régime d'immersion en français ?",
+   "en": "Does the nursing Second Entry Program offer French immersion?"
+  },
+  "answer": {
+   "fr": "Non, le PAPU n'offre pas le régime d'immersion en français. Seul le programme régulier de quatre ans offert en anglais au campus d'Ottawa offre cette option.",
+   "en": "No, the Second Entry Program doesn't offer French immersion. Only the regular four-year program offered in English on the Ottawa campus has that option."
+  },
+  "sources": [
+   {
+    "label": "FAQ — Programme d'admission avec préalables universitaires, B.Sc. sciences infirmières — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/sciences-infirmieres/etudes-premier-cycle/bsc-scinf-admission-prealables-universitaires/faq"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-cal-duree-programmes"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-lapho-code",
+  "category": "reglements",
+  "keywords": [
+   "lapho",
+   "aoda",
+   "code des droits de la personne",
+   "human rights code",
+   "accessibilité",
+   "accessibility",
+   "loi",
+   "law",
+   "handicap",
+   "disability",
+   "ontario"
+  ],
+  "question": {
+   "fr": "Est-ce que la LAPHO remplace le Code des droits de la personne de l'Ontario ?",
+   "en": "Does the AODA replace the Ontario Human Rights Code?"
+  },
+  "answer": {
+   "fr": "Non, ce sont deux lois très différentes : le Code traite de discrimination à partir de plaintes individuelles, alors que le Règlement sur les normes d'accessibilité intégrées vise à accroître l'accessibilité pour tous en Ontario. Le Règlement ne remplace pas les droits et obligations prévus par le Code, qui peut exiger des mesures d'adaptation allant au-delà des normes de la LAPHO.",
+   "en": "No, they're two very different laws: the Code addresses discrimination through individual complaints, while the Integrated Accessibility Standards Regulation aims to increase accessibility for everyone in Ontario. The Regulation doesn't replace rights and obligations under the Code, which may require accommodation measures that go beyond AODA standards."
+  },
+  "sources": [
+   {
+    "label": "Frequently Asked Questions — Accessibility Hub — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/accessibility-hub/frequently-asked-questions"
+   },
+   {
+    "label": "Foire aux questions — Carrefour de l'accessibilité — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/carrefour-accessibilite/foire-questions"
+   }
+  ],
+  "related": [
+   "m-esapi-temps-partiel-moyenne",
+   "m-bed-report-pause"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-lapho-commentaires",
+  "category": "services",
+  "keywords": [
+   "accessibilité",
+   "accessibility",
+   "commentaires",
+   "feedback",
+   "lapho",
+   "aoda",
+   "bureau des droits de la personne",
+   "human rights office",
+   "plainte",
+   "obstacle"
+  ],
+  "question": {
+   "fr": "À qui envoyer mes commentaires sur l'accessibilité à l'Université ?",
+   "en": "Where can I send feedback about accessibility at the University?"
+  },
+  "answer": {
+   "fr": "Tu peux envoyer tes commentaires au Bureau des droits de la personne de l'Université d'Ottawa, volet accessibilité, ou à la Direction générale de l'accessibilité de l'Ontario. En cas de doute sur une norme de la LAPHO, le Bureau des droits de la personne peut aussi te renseigner.",
+   "en": "You can send feedback to the University of Ottawa Human Rights Office, Accessibility, or to the Accessibility Directorate of Ontario. If you have questions about an AODA standard, the Human Rights Office can also help."
+  },
+  "sources": [
+   {
+    "label": "Frequently Asked Questions — Accessibility Hub — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/accessibility-hub/frequently-asked-questions"
+   },
+   {
+    "label": "Foire aux questions — Carrefour de l'accessibilité — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-droits-personne/carrefour-accessibilite/foire-questions"
+   }
+  ],
+  "related": [
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite",
+   "m-emploi-delai-reponse"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-permis-partage",
+  "category": "transport",
+  "keywords": [
+   "permis de stationnement",
+   "parking permit",
+   "partager",
+   "share",
+   "plusieurs conducteurs",
+   "multiple drivers",
+   "plaque",
+   "licence plate",
+   "covoiturage",
+   "vignette"
+  ],
+  "question": {
+   "fr": "Est-ce qu'un permis de stationnement peut être partagé entre plusieurs conducteurs ?",
+   "en": "Can a parking permit be shared among several drivers?"
+  },
+  "answer": {
+   "fr": "Oui, plusieurs personnes peuvent partager un permis, mais un seul véhicule peut être stationné sur le campus à la fois. Les plaques de chaque véhicule doivent être inscrites à l'achat, et la personne qui achète le permis est responsable de son utilisation. Utiliser le même permis pour plus d'un véhicule en même temps peut entraîner des amendes et la perte du droit de stationner.",
+   "en": "Yes, several people can share a permit, but only one vehicle can be parked on campus at a time. Every vehicle's plates must be registered when the permit is purchased, and the purchaser is responsible for how it's used. Using the same permit for more than one vehicle at the same time can lead to fines and loss of parking privileges."
+  },
+  "sources": [
+   {
+    "label": "Parking FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/faq"
+   },
+   {
+    "label": "FAQ — Stationnement — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/faq"
+   }
+  ],
+  "related": [
+   "m-permis-autre-stationnement",
+   "m-permis-indisponibles",
+   "m-stationnement-paiement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-permis-autre-stationnement",
+  "category": "transport",
+  "keywords": [
+   "permis de stationnement",
+   "parking permit",
+   "autre stationnement",
+   "different lot",
+   "après 16 h",
+   "after 4 pm",
+   "fin de semaine",
+   "weekend",
+   "marie-curie",
+   "stationnement sur rue"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux utiliser mon permis dans un autre stationnement du campus ?",
+   "en": "Can I use my parking permit in a different lot?"
+  },
+  "answer": {
+   "fr": "Oui, même si ton permis est lié à un stationnement précis, tu peux l'utiliser dans n'importe quel autre stationnement de l'Université après 16 h et la fin de semaine. Les exceptions sont le stationnement dans la rue, au tarif journalier seulement, et le stationnement à côté du 100, rue Marie-Curie.",
+   "en": "Yes, even though your permit is assigned to a specific lot, you can use it in any other uOttawa lot after 4 p.m. and on weekends. The exceptions are on-street parking, which is daily rates only, and the lot beside 100 Marie-Curie."
+  },
+  "sources": [
+   {
+    "label": "Parking FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/faq"
+   },
+   {
+    "label": "FAQ — Stationnement — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/faq"
+   }
+  ],
+  "related": [
+   "m-permis-partage",
+   "m-permis-indisponibles",
+   "m-stationnement-paiement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-permis-indisponibles",
+  "category": "transport",
+  "keywords": [
+   "plus de permis",
+   "permits unavailable",
+   "stationnement complet",
+   "parking full",
+   "u-pass",
+   "o-train",
+   "brooks",
+   "mann",
+   "stationnement sur rue",
+   "alternatives",
+   "transport en commun",
+   "transit"
+  ],
+  "question": {
+   "fr": "Il n'y a plus de permis de stationnement disponibles : quelles sont mes options ?",
+   "en": "On-campus parking permits are sold out: what are my options?"
+  },
+  "answer": {
+   "fr": "Si tu étudies à temps plein, ton U-Pass inclus dans tes droits te donne un accès illimité à OC Transpo et à la STO, et le campus a sa propre station de l'O-Train. Un nombre limité de places payantes à la journée est offert aux garages Brooks et Mann, mais elles se remplissent tôt. Tu peux aussi te stationner dans la rue aux alentours en vérifiant bien la signalisation.",
+   "en": "If you're a full-time student, the U-Pass included in your fees gives you unlimited access to OC Transpo and STO, and the campus has its own O-Train station. A limited number of paid daily spaces are available in the Brooks and Mann garages, but they fill up early. You can also park on nearby streets, checking the signs carefully."
+  },
+  "sources": [
+   {
+    "label": "Parking FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/faq"
+   },
+   {
+    "label": "FAQ — Stationnement — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/faq"
+   }
+  ],
+  "related": [
+   "m-permis-partage",
+   "m-permis-autre-stationnement",
+   "m-stationnement-paiement"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-stationnement-paiement",
+  "category": "transport",
+  "keywords": [
+   "payer stationnement",
+   "pay parking",
+   "hotspot",
+   "apple pay",
+   "google pay",
+   "tap to pay",
+   "argent comptant",
+   "cash",
+   "carte de crédit",
+   "credit card",
+   "horodateur",
+   "pay and display"
+  ],
+  "question": {
+   "fr": "Comment payer le stationnement à la journée ? Est-ce qu'on accepte l'argent comptant ?",
+   "en": "How do I pay for daily parking? Is cash accepted?"
+  },
+  "answer": {
+   "fr": "Tu peux payer avec l'application HotSpot, qui permet aussi de prolonger à distance, ou aux horodateurs, qui prennent seulement les cartes Visa ou Mastercard. Dans plusieurs stationnements, tu peux aussi payer avec Apple Pay ou Google Pay sur les panneaux « tap-to-pay ». L'argent comptant n'est pas accepté.",
+   "en": "You can pay with the HotSpot app, which also lets you top up remotely, or at the Pay and Display machines, which take Visa or Mastercard only. In many lots, you can also pay with Apple Pay or Google Pay at the tap-to-pay signs. Cash isn't accepted."
+  },
+  "sources": [
+   {
+    "label": "Parking FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/faq"
+   },
+   {
+    "label": "FAQ — Stationnement — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/faq"
+   }
+  ],
+  "related": [
+   "m-permis-partage",
+   "m-permis-autre-stationnement",
+   "m-permis-indisponibles"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-stationnement-quelques-jours",
+  "category": "transport",
+  "keywords": [
+   "stationnement",
+   "parking",
+   "quelques jours par semaine",
+   "few days a week",
+   "permis mensuel",
+   "monthly permit",
+   "tarif journalier",
+   "daily rate",
+   "temps partiel",
+   "premier arrivé"
+  ],
+  "question": {
+   "fr": "Je viens seulement quelques jours par semaine : dois-je payer un permis mensuel complet ?",
+   "en": "I'm only on campus a few days a week: do I need a full monthly permit?"
+  },
+  "answer": {
+   "fr": "Pas nécessairement : l'Université offre à la fois des permis mensuels et des tarifs journaliers, alors compare les deux pour choisir ce qui te convient. Garde en tête que certains stationnements sont réservés aux détenteurs de permis et que les places à la journée sont attribuées selon le principe du premier arrivé, premier servi.",
+   "en": "Not necessarily: the University offers both monthly permits and daily rates, so compare them to choose what suits you. Keep in mind that some lots are for permit holders only and daily spaces are first come, first served."
+  },
+  "sources": [
+   {
+    "label": "Parking FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/faq"
+   },
+   {
+    "label": "FAQ — Stationnement — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/faq"
+   }
+  ],
+  "related": [
+   "m-permis-partage",
+   "m-permis-autre-stationnement",
+   "m-permis-indisponibles"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-permis-accessible-mto",
+  "category": "transport",
+  "keywords": [
+   "permis accessible",
+   "accessible parking permit",
+   "ministère des transports",
+   "ministry of transportation",
+   "handicap",
+   "disability",
+   "stationnement accessible",
+   "pictogramme",
+   "bureau du stationnement",
+   "parking office"
+  ],
+  "question": {
+   "fr": "J'ai un permis de stationnement accessible du ministère des Transports : comment me stationner sur le campus ?",
+   "en": "I have an accessible parking permit from the Ontario Ministry of Transportation: how do I park on campus?"
+  },
+  "answer": {
+   "fr": "L'Université offre des permis spéciaux qui te permettent de te stationner aux places marquées du pictogramme de stationnement accessible. Apporte ton permis du ministère des Transports au Bureau du stationnement quand tu fais ta demande de permis uOttawa et que tu vas le chercher en personne.",
+   "en": "The University offers special permits that let you park in spots marked with the accessible parking pictogram. Bring your Ministry of Transportation permit to the parking office when you apply for and pick up your uOttawa permit in person."
+  },
+  "sources": [
+   {
+    "label": "Parking FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/faq"
+   },
+   {
+    "label": "FAQ — Stationnement — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/faq"
+   }
+  ],
+  "related": [
+   "m-permis-partage",
+   "m-permis-autre-stationnement",
+   "m-permis-indisponibles"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-carte-employe-remplacement",
+  "category": "services",
+  "keywords": [
+   "carte employé",
+   "employee card",
+   "remplacement",
+   "replacement",
+   "perdue",
+   "lost",
+   "défectueuse",
+   "defective",
+   "tabaret",
+   "ressources humaines",
+   "human resources"
+  ],
+  "question": {
+   "fr": "Ma carte d'employé est perdue ou brisée : dois-je payer pour la remplacer ?",
+   "en": "My employee card is lost or broken: do I have to pay to replace it?"
+  },
+  "answer": {
+   "fr": "L'Université fournit ta première carte gratuitement, mais si tu la perds, tu dois la remplacer à tes frais. Si elle ne fonctionne plus, apporte-la aux Ressources humaines, au pavillon Tabaret, pièce 019 : si c'est un défaut de fabrication, le remplacement est gratuit.",
+   "en": "The University provides your first card free of charge, but if you lose it, you have to replace it at your own expense. If it stops working, bring it to Human Resources, Tabaret Hall, room 019: if it's a manufacturing defect, the replacement is free."
+  },
+  "sources": [
+   {
+    "label": "uOttawa employee card FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/get-employee-card/faq"
+   },
+   {
+    "label": "Foire aux questions pour la carte d'employé — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/carte-uottawa/carte-employe/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-piece-identite",
+   "m-emploi-delai-reponse"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-carte-employe-piece-identite",
+  "category": "services",
+  "keywords": [
+   "carte employé",
+   "employee card",
+   "pièce d identité",
+   "government id",
+   "card exchange",
+   "photo",
+   "en personne",
+   "in person",
+   "huguette-labelle",
+   "refusée",
+   "refused",
+   "confidentialité"
+  ],
+  "question": {
+   "fr": "Je ne veux pas téléverser ma pièce d'identité pour ma carte d'employé : quelles sont les autres options ?",
+   "en": "I don't want to upload my government ID for my employee card: what are my other options?"
+  },
+  "answer": {
+   "fr": "Tu peux téléverser ta pièce d'identité en t'assurant que seuls ton nom et ta photo sont visibles, téléverser une copie de ton ancienne carte si elle permet de t'identifier, ou faire ta demande en personne en janvier à la salle Huguette-Labelle du pavillon Tabaret. Ta pièce d'identité est supprimée du système Card Exchange une fois ta demande approuvée ou refusée.",
+   "en": "You can upload your ID making sure only your name and photo are visible, upload a copy of your previous staff card if it can identify you, or apply in person in January at Huguette Labelle Hall in the Tabaret building. Your ID is deleted from the Card Exchange system once your request is approved or refused."
+  },
+  "sources": [
+   {
+    "label": "uOttawa employee card FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/get-employee-card/faq"
+   },
+   {
+    "label": "Foire aux questions pour la carte d'employé — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/carte-uottawa/carte-employe/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-emploi-delai-reponse"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-emploi-delai-reponse",
+  "category": "services",
+  "keywords": [
+   "emploi",
+   "job",
+   "candidature",
+   "application",
+   "réponse",
+   "contacted",
+   "21 jours",
+   "21 days",
+   "concours",
+   "competition",
+   "carrières",
+   "careers",
+   "postuler"
+  ],
+  "question": {
+   "fr": "J'ai postulé à un emploi à l'Université : quand vais-je avoir des nouvelles ?",
+   "en": "I applied for a job at the University: when will I hear back?"
+  },
+  "answer": {
+   "fr": "L'Université communique seulement avec les personnes retenues pour les étapes suivantes, dans un délai de 21 jours. Quand le concours se termine, toutes les personnes candidates reçoivent un courriel pour l'annoncer. Si rien ne te convient pour le moment, inscris-toi aux alertes-emploi de la page Carrières.",
+   "en": "The University only contacts applicants selected for the next steps, within 21 days. When the competition closes, all applicants receive an email update. If nothing suits you right now, sign up for career alerts on the Careers site."
+  },
+  "sources": [
+   {
+    "label": "Careers — Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/frequently-asked-questions"
+   },
+   {
+    "label": "Carrières — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-emploi-entrevue",
+  "category": "services",
+  "keywords": [
+   "entrevue",
+   "interview",
+   "emploi",
+   "job",
+   "personnel de soutien",
+   "support staff",
+   "bilingue",
+   "french and english",
+   "références",
+   "references",
+   "préparer",
+   "prepare"
+  ],
+  "question": {
+   "fr": "Comment se passe une entrevue pour un emploi à l'Université d'Ottawa ?",
+   "en": "What is a job interview at the University of Ottawa like?"
+  },
+  "answer": {
+   "fr": "Pour un poste de soutien, l'entrevue dure généralement de 30 à 60 minutes devant un comité de deux ou trois personnes, avec des questions sur les compétences et des questions techniques. Elle se déroule en français et en anglais, alors prépare-toi à répondre dans les deux langues. Prévois aussi une liste d'au moins trois références professionnelles, dont deux superviseurs immédiats.",
+   "en": "For a support staff position, the interview usually lasts 30 minutes to an hour with a panel of two or three people, with competency-based and technical questions. It takes place in French and English, so be ready to answer in both. Also prepare a list of at least three professional references, including two direct supervisors."
+  },
+  "sources": [
+   {
+    "label": "Careers — Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/frequently-asked-questions"
+   },
+   {
+    "label": "Carrières — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-emploi-entrevue-virtuelle",
+  "category": "services",
+  "keywords": [
+   "entrevue virtuelle",
+   "virtual interview",
+   "emploi",
+   "job",
+   "connexion internet",
+   "internet connection",
+   "problème technique",
+   "technical issue",
+   "15 minutes",
+   "conseils",
+   "tips"
+  ],
+  "question": {
+   "fr": "Comment me préparer à une entrevue virtuelle pour un emploi à l'Université ?",
+   "en": "How do I prepare for a virtual job interview at the University?"
+  },
+  "answer": {
+   "fr": "Vérifie ta connexion Internet d'avance et connecte-toi au moins 15 minutes avant l'heure prévue, dans un endroit calme. Si un problème technique survient, avise le comité; si l'entrevue ne peut pas continuer, écris aux membres dont les coordonnées figurent dans ta confirmation. L'entrevue pourrait alors être reportée.",
+   "en": "Check your internet connection ahead of time and log in at least 15 minutes before your interview, in a quiet place. If a technical issue comes up, let the panel know; if you can't continue, email the panel members listed in your interview confirmation. The interview may then be rescheduled."
+  },
+  "sources": [
+   {
+    "label": "Careers — Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/frequently-asked-questions"
+   },
+   {
+    "label": "Carrières — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-emploi-accommodements",
+  "category": "services",
+  "keywords": [
+   "accommodement",
+   "accommodation",
+   "accessibilité",
+   "accessibility",
+   "recrutement",
+   "recruitment",
+   "handicap",
+   "disability",
+   "entrevue",
+   "interview",
+   "gestion des talents",
+   "talent management"
+  ],
+  "question": {
+   "fr": "Est-ce que l'Université offre des mesures d'adaptation pendant le processus de recrutement ?",
+   "en": "Does the University offer accommodations during the hiring process?"
+  },
+  "answer": {
+   "fr": "Oui, l'Université s'engage à accommoder les personnes qui en ont besoin pendant le recrutement, l'évaluation et la sélection. Écris à l'équipe de gestion des talents des Ressources humaines pour discuter des mesures dont tu as besoin.",
+   "en": "Yes, the University is committed to accommodating applicants who need it during recruitment, assessment and selection. Email HR Talent Management to discuss the accommodations you require."
+  },
+  "sources": [
+   {
+    "label": "Careers — Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/frequently-asked-questions"
+   },
+   {
+    "label": "Carrières — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-emploi-candidatures-refusees",
+  "category": "services",
+  "keywords": [
+   "candidature",
+   "application",
+   "refusé",
+   "not selected",
+   "pas d entrevue",
+   "no interview",
+   "syndiqué",
+   "unionized",
+   "unité de négociation",
+   "bargaining unit",
+   "emploi",
+   "job"
+  ],
+  "question": {
+   "fr": "J'ai postulé plusieurs fois à l'Université sans jamais être convoqué : pourquoi ?",
+   "en": "I've applied several times at the University and never got an interview: why?"
+  },
+  "answer": {
+   "fr": "Les offres reçoivent souvent beaucoup de candidatures; elles sont toutes examinées, mais seules les personnes retenues sont convoquées. Suis bien les instructions, fais relire ton CV et ta lettre, et ne te décourage pas. À noter : la majorité des postes sont syndiqués, et les membres de l'unité de négociation ont priorité au premier tour.",
+   "en": "Job postings often get many applications; every one is reviewed, but only selected applicants are invited to interview. Follow the application instructions, have your resumé and cover letter reviewed, and don't get discouraged. Note that most positions are unionized, and bargaining unit members get priority in the first round."
+  },
+  "sources": [
+   {
+    "label": "Careers — Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/frequently-asked-questions"
+   },
+   {
+    "label": "Carrières — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-ombud-qui-peut",
+  "category": "services",
+  "keywords": [
+   "ombudsman",
+   "ombudsperson",
+   "ombud",
+   "qui peut",
+   "who can",
+   "diplômés",
+   "alumni",
+   "employés",
+   "employees",
+   "candidats",
+   "applicants",
+   "professeurs",
+   "plainte"
+  ],
+  "question": {
+   "fr": "Qui peut faire appel à l'Ombudsman de l'Université ?",
+   "en": "Who can use the University's Ombudsperson?"
+  },
+  "answer": {
+   "fr": "Tous les membres de la communauté universitaire : les étudiants de tous les cycles, les candidats à l'admission, les employés, les diplômés et anciens étudiants, ainsi que les professeurs, chargés de cours et chercheurs affiliés. La demande doit être faite par la personne elle-même.",
+   "en": "All members of the University community: students at all levels, candidates for admission, employees, graduates and alumni, as well as professors, fellows and affiliated researchers. The request must be made by the person themselves."
+  },
+  "sources": [
+   {
+    "label": "Office of the Ombudsperson — FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/office-ombudsperson/about-us/faq"
+   },
+   {
+    "label": "Bureau de l'ombudsman — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/bureau-ombudsman/a-propos/faq"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-ombud-types-questions",
+  "category": "services",
+  "keywords": [
+   "ombudsman",
+   "ombudsperson",
+   "refus d admission",
+   "exclusion",
+   "supervision",
+   "discipline",
+   "droits de la personne",
+   "human rights",
+   "problème administratif",
+   "conflit",
+   "collègues"
+  ],
+  "question": {
+   "fr": "Pour quels genres de problèmes est-ce que je peux consulter l'Ombudsman ?",
+   "en": "What kinds of issues can I bring to the Ombudsperson?"
+  },
+  "answer": {
+   "fr": "Pour toute question liée à l'Université : réglementation des études comme un refus d'admission ou une exclusion de programme, supervision, application de règlements disciplinaires, relations avec des collègues ou patrons, droits de la personne, ou procédures et services de l'Université ou des associations étudiantes. Tu peux consulter avant, pendant ou après avoir fait tes propres démarches.",
+   "en": "Any University-related issue: academic rules such as a refusal of admission or exclusion from a program, supervision, application of disciplinary rules, problems with co-workers or supervisors, human rights concerns, or processes and services of the University or student unions. You can consult before, while or after taking steps yourself."
+  },
+  "sources": [
+   {
+    "label": "Office of the Ombudsperson — FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/office-ombudsperson/about-us/faq"
+   },
+   {
+    "label": "Bureau de l'ombudsman — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/bureau-ombudsman/a-propos/faq"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-ombud-limites",
+  "category": "services",
+  "keywords": [
+   "ombudsman",
+   "ombudsperson",
+   "limites",
+   "restrictions",
+   "convention collective",
+   "collective agreement",
+   "recours",
+   "décision",
+   "associations étudiantes",
+   "student unions"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que l'Ombudsman ne peut pas faire ?",
+   "en": "What can't the Ombudsperson do?"
+  },
+  "answer": {
+   "fr": "L'Ombudsman ne peut pas prendre de décisions au nom de l'Université ou des associations étudiantes, ni examiner formellement une plainte avant que tous les recours soient épuisés. Elle ne peut pas intervenir dans une situation couverte par une convention collective valide, ni dans la gouvernance interne des associations étudiantes.",
+   "en": "The Ombudsperson can't make decisions for the University or student unions, or formally investigate a complaint until all available channels are exhausted. She can't intervene in situations covered by a valid collective agreement, or in the internal governance of student unions."
+  },
+  "sources": [
+   {
+    "label": "Office of the Ombudsperson — FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/office-ombudsperson/about-us/faq"
+   },
+   {
+    "label": "Bureau de l'ombudsman — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/bureau-ombudsman/a-propos/faq"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-ombud-confidentialite",
+  "category": "services",
+  "keywords": [
+   "ombudsman",
+   "ombudsperson",
+   "confidentiel",
+   "confidential",
+   "consentement écrit",
+   "written consent",
+   "dossier",
+   "file",
+   "sécurité",
+   "safety"
+  ],
+  "question": {
+   "fr": "Est-ce que ma démarche auprès de l'Ombudsman reste confidentielle ?",
+   "en": "Is contacting the Ombudsperson confidential?"
+  },
+  "answer": {
+   "fr": "Oui, toute discussion avec le Bureau, et même le fait de l'avoir contacté, est confidentielle; ni la haute direction ni les associations étudiantes n'ont accès aux dossiers. L'Ombudsman a besoin de ton consentement écrit avant de contacter quelqu'un à ton sujet. Exceptions : quand la loi l'exige, ou si la vie ou la sécurité d'une personne est en jeu ou qu'un crime grave a été ou pourrait être commis.",
+   "en": "Yes, any discussion with the Office, including the fact that you contacted it, is confidential; neither senior University authorities nor student unions can access its files. The Ombudsperson needs your written consent before contacting anyone about you. Exceptions: when required by law, or if someone's life or safety is at risk or a serious crime has been or may be committed."
+  },
+  "sources": [
+   {
+    "label": "Office of the Ombudsperson — FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/office-ombudsperson/about-us/faq"
+   },
+   {
+    "label": "Bureau de l'ombudsman — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/bureau-ombudsman/a-propos/faq"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-ombud-financement",
+  "category": "services",
+  "keywords": [
+   "ombudsman",
+   "ombudsperson",
+   "financement",
+   "funding",
+   "séuo",
+   "uosu",
+   "gsaed",
+   "gsaéd",
+   "indépendant",
+   "independent",
+   "rapport annuel",
+   "annual report"
+  ],
+  "question": {
+   "fr": "Comment le Bureau de l'Ombudsman est-il financé ?",
+   "en": "How is the Office of the Ombudsperson funded?"
+  },
+  "answer": {
+   "fr": "Il est financé à 50 % par les associations étudiantes, le SÉUO et la GSAÉD, et à 50 % par l'Université d'Ottawa. Il fonctionne toutefois de façon indépendante de l'Université et des associations étudiantes, et publie un rapport annuel sur son site Web.",
+   "en": "It's funded 50% by the student unions, UOSU and GSAED, and 50% by the University of Ottawa. It still operates independently from the University and the student unions, and publishes an annual report on its website."
+  },
+  "sources": [
+   {
+    "label": "Office of the Ombudsperson — FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/office-ombudsperson/about-us/faq"
+   },
+   {
+    "label": "Bureau de l'ombudsman — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/bureau-ombudsman/a-propos/faq"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cal-duree-programmes",
+  "category": "programmes",
+  "keywords": [
+   "programme intensif d anglais",
+   "english intensive program",
+   "eip",
+   "esl 0140",
+   "esl",
+   "durée",
+   "how long",
+   "passerelle accélérée",
+   "accelerated bridging",
+   "niveaux",
+   "levels",
+   "centre d apprentissage des langues",
+   "centre for language learning"
+  ],
+  "question": {
+   "fr": "Combien de temps dure le Programme intensif d'anglais du Centre d'apprentissage des langues ?",
+   "en": "How long is the English Intensive Program at the Centre for Language Learning?"
+  },
+  "answer": {
+   "fr": "Le Programme intensif d'anglais compte cinq niveaux, d'ESL 0105 à ESL 0140, et chaque niveau dure 14 semaines, soit un trimestre. Il existe aussi une version condensée de huit semaines d'ESL 0140, la Passerelle accélérée, offerte au printemps-été aux personnes ayant une offre conditionnelle qui doivent seulement faire ce niveau. Si tu échoues un niveau, tu dois le reprendre avant de passer au suivant.",
+   "en": "The English Intensive Program has five levels, from ESL 0105 to ESL 0140, and each level takes 14 weeks, or one term. There's also a condensed eight-week version of ESL 0140, Accelerated Academic Bridging in English, offered in the summer term for students with a conditional offer who only need that level. If you don't pass a level, you have to repeat it before moving on."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cal-non-etudiants",
+  "category": "programmes",
+  "keywords": [
+   "cours d anglais",
+   "english courses",
+   "pas étudiant",
+   "not a student",
+   "18 ans",
+   "18 years old",
+   "âge minimum",
+   "minimum age",
+   "étudiant spécial",
+   "non-degree",
+   "test de classement",
+   "placement test",
+   "centre d apprentissage des langues"
+  ],
+  "question": {
+   "fr": "Je ne suis pas étudiant à l'Université : est-ce que je peux suivre les programmes de langues du Centre d'apprentissage des langues ?",
+   "en": "I'm not a uOttawa student: can I take the Centre for Language Learning's language programs?"
+  },
+  "answer": {
+   "fr": "Oui, absolument! Il faut seulement avoir terminé tes études secondaires dans ton pays ou avoir au moins 18 ans. Sans offre conditionnelle de l'Université, tu es inscrit comme étudiant spécial et tu passes un test de classement en ligne pour déterminer ton niveau.",
+   "en": "Yes, absolutely! You just need to have finished high school in your home country or be at least 18 years old. Without a conditional offer from the University, you're registered as a non-degree student and take an online placement test to determine your level."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cal-inscription",
+  "category": "programmes",
+  "keywords": [
+   "inscription",
+   "register",
+   "programme de langue",
+   "language program",
+   "formulaire en ligne",
+   "online application",
+   "date limite",
+   "deadline",
+   "permis d études",
+   "study permit",
+   "centre d apprentissage des langues",
+   "eip"
+  ],
+  "question": {
+   "fr": "Comment m'inscrire à un programme de langue du Centre d'apprentissage des langues, et y a-t-il une date limite ?",
+   "en": "How do I register for a Centre for Language Learning program, and is there a deadline?"
+  },
+  "answer": {
+   "fr": "Tu remplis le formulaire d'inscription en ligne; le traitement prend de deux à quatre semaines, et le Centre t'inscrit lui-même à tes cours environ un mois avant le début de la session. Il n'y a pas de date limite, mais si tu as besoin d'un permis d'études, inscris-toi au moins trois à quatre mois avant le début du programme.",
+   "en": "You fill out the online application form; processing takes two to four weeks, and the Centre enrols you in your courses itself about one month before the term starts. There's no deadline, but if you need a study permit, apply at least three to four months before the program begins."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cal-depot",
+  "category": "finances",
+  "keywords": [
+   "dépôt",
+   "deposit",
+   "non remboursable",
+   "non-refundable",
+   "programme intensif d anglais",
+   "english intensive program",
+   "permis d études refusé",
+   "study permit denied",
+   "transfert",
+   "transfer",
+   "centre d apprentissage des langues"
+  ],
+  "question": {
+   "fr": "Est-ce que le dépôt du Programme intensif d'anglais est obligatoire et remboursable ?",
+   "en": "Is the English Intensive Program deposit mandatory and refundable?"
+  },
+  "answer": {
+   "fr": "Oui, il est obligatoire : il réserve ta place et permet au Centre de t'envoyer tes documents d'admission. Il n'est pas remboursable, sauf qu'un transfert unique à la session suivante est offert si ton permis d'études a été refusé, sur preuve originale du refus. Pour les autres programmes de langue, tu paies la totalité des droits en une seule fois.",
+   "en": "Yes, it's mandatory: it saves your seat and lets the Centre send your admission documents. It's non-refundable, except that a one-time transfer to the next term is offered if your study permit was denied, with original proof of refusal. For the other language programs, you pay the full tuition at once."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-cal-paiement-remboursement",
+   "m-cal-droits-citoyens",
+   "m-cal-manuel-rafeo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cal-paiement-remboursement",
+  "category": "finances",
+  "keywords": [
+   "droits de scolarité",
+   "tuition",
+   "date limite paiement",
+   "payment deadline",
+   "remboursement",
+   "refund",
+   "abandon",
+   "withdrawal",
+   "programme de langue",
+   "language program",
+   "premier jour",
+   "first day"
+  ],
+  "question": {
+   "fr": "Quand dois-je payer les droits de mon programme de langue, et puis-je être remboursé si j'abandonne ?",
+   "en": "When do I pay my language program tuition, and can I get a refund if I withdraw?"
+  },
+  "answer": {
+   "fr": "Les droits de tous les programmes de langue doivent être payés en entier avant le premier jour de cours. En cas d'abandon, un remboursement est possible, moins le dépôt non remboursable, jusqu'au lundi de la deuxième semaine du programme. Ces échéances diffèrent de celles des étudiants de premier cycle.",
+   "en": "Tuition for all language programs must be paid in full by the first day of class. If you withdraw, a refund is possible, minus the non-refundable deposit, until the Monday of the second week of the program. These deadlines differ from undergraduate tuition deadlines."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-cal-depot",
+   "m-cal-droits-citoyens",
+   "m-cal-manuel-rafeo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cal-droits-citoyens",
+  "category": "finances",
+  "keywords": [
+   "droits de scolarité",
+   "tuition",
+   "résident permanent",
+   "permanent resident",
+   "citoyen canadien",
+   "canadian citizen",
+   "même prix",
+   "same cost",
+   "programme de langue",
+   "ramu",
+   "uhip"
+  ],
+  "question": {
+   "fr": "Je suis citoyen canadien ou résident permanent : est-ce que les droits du programme de langue sont différents pour moi ?",
+   "en": "I'm a Canadian citizen or permanent resident: is language program tuition different for me?"
+  },
+  "answer": {
+   "fr": "Non, les droits de scolarité sont les mêmes pour tous, peu importe le pays d'origine ou le statut au Canada. Certains frais accessoires et coûts comme l'assurance maladie (RAMU) peuvent toutefois varier légèrement selon ton statut et le programme choisi.",
+   "en": "No, tuition is the same for everyone, no matter where you come from or your status in Canada. However, some incidental fees and costs like health insurance (UHIP) may differ slightly based on your status and the program you choose."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-cal-depot",
+   "m-cal-paiement-remboursement",
+   "m-cal-manuel-rafeo"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cal-ramu",
+  "category": "sante",
+  "keywords": [
+   "ramu",
+   "uhip",
+   "assurance maladie",
+   "health insurance",
+   "guard.me",
+   "programme intensif d anglais",
+   "english intensive program",
+   "étudiant international",
+   "international student",
+   "exemption",
+   "opt out"
+  ],
+  "question": {
+   "fr": "Est-ce que l'assurance maladie est obligatoire pour les programmes de langue ?",
+   "en": "Is health insurance mandatory for the language programs?"
+  },
+  "answer": {
+   "fr": "Oui, le RAMU est obligatoire pour les étudiants internationaux inscrits au Programme intensif d'anglais ou à la Passerelle accélérée. Si tu as déjà une assurance maladie au Canada, tu pourrais t'en exempter en soumettant une preuve de couverture avant la date limite. Pour les programmes de courte durée, comme le Programme d'expérience en anglais, la couverture vient d'un autre assureur, comme Guard.Me.",
+   "en": "Yes, UHIP is mandatory for international students in the English Intensive Program or Accelerated Academic Bridging in English. If you already have health coverage in Canada, you may be able to opt out by submitting proof of coverage before the deadline. For short programs, like the uOttawa English Experience, coverage comes from another provider such as Guard.Me."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-csme-qui",
+   "m-csme-sans-cours",
+   "m-csme-delai"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cal-manuel-rafeo",
+  "category": "finances",
+  "keywords": [
+   "manuel",
+   "textbook",
+   "coût",
+   "cost",
+   "rafeo",
+   "osap",
+   "aide financière",
+   "financial aid",
+   "programme de langue",
+   "language program",
+   "non crédité",
+   "non-credit"
+  ],
+  "question": {
+   "fr": "Combien coûte le manuel d'un programme de langue, et est-ce que le RAFÉO couvre ces programmes ?",
+   "en": "How much is a language program textbook, and does OSAP cover these programs?"
+  },
+  "answer": {
+   "fr": "Le manuel dépend de ton programme et de ton niveau, et coûte généralement de 100 $ à 250 $ CA; il n'est pas inclus dans les droits de scolarité. Le RAFÉO ne couvre malheureusement pas les programmes du Centre d'apprentissage des langues, parce que ce ne sont pas des programmes crédités.",
+   "en": "The textbook depends on your program and level, and usually costs CA$100 to CA$250; it isn't included in tuition. Unfortunately, OSAP doesn't cover Centre for Language Learning programs, because they aren't for-credit programs."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-cal-depot",
+   "m-cal-paiement-remboursement",
+   "m-cal-droits-citoyens"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cal-sauter-niveau",
+  "category": "programmes",
+  "keywords": [
+   "sauter un niveau",
+   "skip a level",
+   "programme intensif d anglais",
+   "english intensive program",
+   "85 %",
+   "présence",
+   "attendance",
+   "note",
+   "grade",
+   "esl"
+  ],
+  "question": {
+   "fr": "Est-ce qu'on peut sauter un niveau dans le Programme intensif d'anglais ?",
+   "en": "Can I skip a level in the English Intensive Program?"
+  },
+  "answer": {
+   "fr": "C'est possible si tu réussis ton niveau actuel avec un taux de présence de 85 %, qui est obligatoire, et une note globale de 85 %. La décision doit être approuvée par la direction du Centre d'apprentissage des langues et le personnel enseignant.",
+   "en": "It's possible if you pass your current level with the mandatory 85% attendance rate and an 85% overall grade. The decision must be approved by the Centre for Language Learning management team and the teaching staff."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-numero-eed",
+  "category": "international",
+  "keywords": [
+   "numéro eed",
+   "dli number",
+   "établissement d enseignement désigné",
+   "designated learning institution",
+   "permis d études",
+   "study permit",
+   "ircc",
+   "o19397188593",
+   "immigration"
+  ],
+  "question": {
+   "fr": "Quel est le numéro d'établissement d'enseignement désigné (EED) de l'Université d'Ottawa ?",
+   "en": "What is the University of Ottawa's Designated Learning Institution (DLI) number?"
+  },
+  "answer": {
+   "fr": "Le numéro EED de l'Université d'Ottawa est O19397188593.",
+   "en": "The University of Ottawa's DLI number is O19397188593."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-fss-mobilite-options",
+   "m-fss-stage-etranger-conditions",
+   "m-fss-stage-etranger-couts"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cal-logement-ete",
+  "category": "logement",
+  "keywords": [
+   "logement",
+   "housing",
+   "programme de langue",
+   "language program",
+   "résidence",
+   "residence",
+   "été",
+   "summer",
+   "famille d accueil",
+   "homestay",
+   "canada homestay network",
+   "hors campus",
+   "off-campus"
+  ],
+  "question": {
+   "fr": "Où me loger pendant un programme de langue du Centre d'apprentissage des langues ?",
+   "en": "Where can I stay during a Centre for Language Learning program?"
+  },
+  "answer": {
+   "fr": "De mai à août, le Centre réserve un bloc de chambres en résidence sur le campus : après ton inscription à un programme d'été, tu reçois par courriel un lien pour réserver, selon le principe du premier arrivé, premier servi. Sans offre conditionnelle, tu peux aussi opter pour une famille d'accueil avec le Canada Homestay Network, partenaire de l'Université, ou un logement hors campus. Si tu as une offre conditionnelle au premier cycle, tu pourrais aussi demander une résidence pendant le Programme intensif d'anglais.",
+   "en": "From May to August, the Centre reserves a block of on-campus residence rooms: after you register for a summer program, you get an email link to book, first come, first served. Without a conditional offer, you can also choose a homestay through the Canada Homestay Network, a uOttawa partner, or off-campus housing. If you have a conditional undergraduate offer, you may also apply for residence while in the English Intensive Program."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-portail-logement-ouverture",
+   "m-residence-preferences",
+   "m-residence-quatre-mois"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-taxe-vente-pourboire",
+  "category": "services",
+  "keywords": [
+   "taxe",
+   "tax",
+   "tvh",
+   "hst",
+   "13 %",
+   "pourboire",
+   "tip",
+   "tipping",
+   "restaurant",
+   "prix",
+   "price",
+   "ontario",
+   "nouvel arrivant",
+   "newcomer"
+  ],
+  "question": {
+   "fr": "Comment fonctionnent les taxes et le pourboire à Ottawa ?",
+   "en": "How do sales tax and tipping work in Ottawa?"
+  },
+  "answer": {
+   "fr": "La plupart des biens et services sont soumis à la TVH de 13 %, ajoutée à la caisse : le prix affiché est donc généralement avant taxes, mais l'épicerie de base n'est pas taxée. Le pourboire n'est pas obligatoire, mais il est d'usage au restaurant, dans les bars, les taxis, la livraison de repas et les salons de coiffure, habituellement de 10 à 20 %. Il n'est pas attendu dans la restauration rapide, les dépanneurs ou les endroits en libre-service.",
+   "en": "Most goods and services have a 13% HST added at the checkout, so shelf prices are usually before tax, but basic groceries aren't taxed. Tipping isn't required by law, but it's expected in restaurants, bars, taxis, food delivery and hair salons, usually 10 to 20%. It's not expected in fast-food restaurants, corner stores or self-serve places."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-indicatif-forfait-cellulaire",
+  "category": "services",
+  "keywords": [
+   "indicatif régional",
+   "area code",
+   "613",
+   "343",
+   "753",
+   "forfait cellulaire",
+   "phone plan",
+   "esim",
+   "téléphone",
+   "phone",
+   "carte sim",
+   "nouvel arrivant"
+  ],
+  "question": {
+   "fr": "Quel est l'indicatif régional d'Ottawa et comment obtenir un forfait cellulaire ?",
+   "en": "What is Ottawa's area code, and how do I get a phone plan?"
+  },
+  "answer": {
+   "fr": "L'indicatif du Canada est +1, et les indicatifs régionaux d'Ottawa sont 613, 343 et 753. Plusieurs fournisseurs offrent des forfaits prépayés ou avec contrat, comme Bell, Freedom Mobile, Koodo, Chatr, Fido, Rogers, Telus et Virgin Mobile; visite une boutique avec une pièce d'identité émise par un gouvernement. Une eSIM achetée en ligne est aussi une option rapide à ton arrivée.",
+   "en": "Canada's country code is +1, and Ottawa's area codes are 613, 343 and 753. Many providers offer pay-as-you-go or contract plans, such as Bell, Freedom Mobile, Koodo, Chatr, Fido, Rogers, Telus and Virgin Mobile; visit a store with government-issued ID. An eSIM bought online is also a quick option when you arrive."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-majeure-fls",
+  "category": "programmes",
+  "keywords": [
+   "majeure en français langue seconde",
+   "french as a second language major",
+   "fls",
+   "français",
+   "french",
+   "non francophones",
+   "non-francophones",
+   "42 crédits",
+   "deux ans",
+   "ilob",
+   "olbi",
+   "bilingue"
+  ],
+  "question": {
+   "fr": "C'est quoi la majeure en français langue seconde et à qui s'adresse-t-elle ?",
+   "en": "What is the French as a second language major, and who is it for?"
+  },
+  "answer": {
+   "fr": "Elle s'adresse aux personnes non francophones passionnées par le français qui veulent approfondir leurs compétences. Le programme dure deux ans, soit 42 crédits, et mise sur l'apprentissage du français dans des situations de la vie courante, en petits groupes d'au plus 30 étudiants.",
+   "en": "It's for non-Francophones who are passionate about French and want to enhance their skills. The program takes two years, or 42 units, and focuses on learning French in real-life situations, in small groups of at most 30 students."
+  },
+  "sources": [
+   {
+    "label": "French as a second language major — FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/undergraduate-programs/french-second-language-fls/faqs"
+   },
+   {
+    "label": "Majeure en français langue seconde — Questions fréquentes — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/programmes-etudes-premier-cycle/francais-langue-seconde-fls/questions-frequentes"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-majeure-fls-emplois",
+  "category": "programmes",
+  "keywords": [
+   "majeure fls",
+   "fls major",
+   "français langue seconde",
+   "french as a second language",
+   "emplois",
+   "jobs",
+   "carrière",
+   "career",
+   "traduction",
+   "fonction publique",
+   "public service"
+  ],
+  "question": {
+   "fr": "Quels emplois peut-on viser après la majeure en français langue seconde ?",
+   "en": "What jobs can I get after the French as a second language major?"
+  },
+  "answer": {
+   "fr": "Les diplômés peuvent travailler en enseignement des langues secondes, en traduction et interprétation, en communications et relations publiques, dans la fonction publique ou en affaires internationales.",
+   "en": "Graduates can work in second language teaching, translation and interpretation, communication and public relations, the public service, or international affairs."
+  },
+  "sources": [
+   {
+    "label": "French as a second language major — FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/undergraduate-programs/french-second-language-fls/faqs"
+   },
+   {
+    "label": "Majeure en français langue seconde — Questions fréquentes — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/programmes-etudes-premier-cycle/francais-langue-seconde-fls/questions-frequentes"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-majeure-fls-en-ligne",
+  "category": "cours",
+  "keywords": [
+   "cours fls en ligne",
+   "online fls courses",
+   "français langue seconde",
+   "french as a second language",
+   "en ligne",
+   "online",
+   "hybride",
+   "hybrid",
+   "présentiel",
+   "in person"
+  ],
+  "question": {
+   "fr": "Est-ce que les cours de français langue seconde sont offerts en ligne ?",
+   "en": "Are French as a second language courses offered online?"
+  },
+  "answer": {
+   "fr": "La grande majorité des cours sont donnés en présentiel, pour favoriser les échanges et l'interactivité. Pour l'instant, seuls quelques cours sont offerts en ligne, et certains en mode hybride.",
+   "en": "The vast majority of courses are offered in person, to encourage discussion and interaction. For now, only a few courses are offered online, and some in a hybrid format."
+  },
+  "sources": [
+   {
+    "label": "French as a second language major — FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/undergraduate-programs/french-second-language-fls/faqs"
+   },
+   {
+    "label": "Majeure en français langue seconde — Questions fréquentes — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/programmes-etudes-premier-cycle/francais-langue-seconde-fls/questions-frequentes"
+   }
+  ],
+  "related": [
+   "m-bed-etudiant-special",
+   "m-bcom-en-ligne"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-ma-bilinguisme-bilingue",
+  "category": "programmes",
+  "keywords": [
+   "maîtrise en études du bilinguisme",
+   "ma bilingualism studies",
+   "bilingue",
+   "bilingual",
+   "test de compétence",
+   "proficiency test",
+   "ilob",
+   "olbi",
+   "français",
+   "anglais"
+  ],
+  "question": {
+   "fr": "Dois-je être bilingue pour la maîtrise en études du bilinguisme ?",
+   "en": "Do I need to be bilingual for the MA in Bilingualism Studies?"
+  },
+  "answer": {
+   "fr": "Oui et non : tu dois pouvoir suivre des cours en français et en anglais, avec une excellente maîtrise d'une langue et une compréhension fonctionnelle de l'autre, assez pour suivre les explications en classe et lire des articles scientifiques. Tu peux intervenir en classe et rédiger tes travaux dans la langue de ton choix. Un test de compétence linguistique est requis avant l'admission.",
+   "en": "Yes and no: you must be able to take courses in French and English, with an excellent command of one language and functional receptive proficiency in the other, enough to follow class instruction and read scientific articles. You can take part in class and write your assignments in the language of your choice. A language proficiency test is required before admission."
+  },
+  "sources": [
+   {
+    "label": "MA in Bilingualism Studies — FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/ma-bilingualism-studies/faqs"
+   },
+   {
+    "label": "M.A. en études du bilinguisme — Questions fréquentes — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/ma-etudes-bilinguisme/questions-frequentes"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-ma-bilinguisme-admission",
+  "category": "admissions",
+  "keywords": [
+   "maîtrise en études du bilinguisme",
+   "ma bilingualism studies",
+   "exigences admission",
+   "admission requirements",
+   "date limite",
+   "deadline",
+   "linguistique appliquée",
+   "applied linguistics",
+   "enseignement des langues secondes",
+   "second language teaching"
+  ],
+  "question": {
+   "fr": "Quelles sont les exigences et les dates limites d'admission à la maîtrise en études du bilinguisme ?",
+   "en": "What are the admission requirements and deadlines for the MA in Bilingualism Studies?"
+  },
+  "answer": {
+   "fr": "Il faut un baccalauréat spécialisé en enseignement des langues secondes, en linguistique appliquée ou dans une discipline connexe comme la traduction, la sociologie ou les sciences politiques, ou encore un baccalauréat de trois ans avec un certificat avancé en enseignement des langues secondes d'au moins 30 crédits. Les dates limites sont le lundi 1er février 2027 pour les candidats canadiens et le mardi 1er décembre 2026 pour les candidats internationaux.",
+   "en": "You need an honours bachelor's in second language teaching, applied linguistics or a related discipline such as translation, sociology or political science, or else a three-year bachelor's plus an advanced TESOL certificate worth at least 30 credits. The deadlines are Monday, February 1, 2027, for Canadian applicants and Tuesday, December 1, 2026, for international applicants."
+  },
+  "sources": [
+   {
+    "label": "MA in Bilingualism Studies — FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/ma-bilingualism-studies/faqs"
+   },
+   {
+    "label": "M.A. en études du bilinguisme — Questions fréquentes — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/ma-etudes-bilinguisme/questions-frequentes"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-ma-bilinguisme-format",
+  "category": "programmes",
+  "keywords": [
+   "maîtrise en études du bilinguisme",
+   "ma bilingualism studies",
+   "bimodal",
+   "en ligne",
+   "online",
+   "hybride",
+   "hybrid",
+   "durée",
+   "duration",
+   "un à deux ans"
+  ],
+  "question": {
+   "fr": "Est-ce que la maîtrise en études du bilinguisme se fait en ligne, et combien de temps dure-t-elle ?",
+   "en": "Can I do the MA in Bilingualism Studies online, and how long does it take?"
+  },
+  "answer": {
+   "fr": "La plupart des cours sont bimodaux : tu peux y assister en classe ou en ligne, et certains peuvent être entièrement virtuels ou hybrides. Le programme se fait en un à deux ans, selon l'option choisie.",
+   "en": "Most courses are bimodal: you can attend in the classroom or online, and some may be fully virtual or hybrid. The program takes one to two years, depending on the option you choose."
+  },
+  "sources": [
+   {
+    "label": "MA in Bilingualism Studies — FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/ma-bilingualism-studies/faqs"
+   },
+   {
+    "label": "M.A. en études du bilinguisme — Questions fréquentes — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/ma-etudes-bilinguisme/questions-frequentes"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-coop-employeur-avantages",
+  "category": "services",
+  "keywords": [
+   "embaucher stagiaire coop",
+   "hire co-op student",
+   "employeur",
+   "employer",
+   "avantages",
+   "benefits",
+   "77 programmes",
+   "main-d œuvre",
+   "bilingue",
+   "coop",
+   "régime coopératif"
+  ],
+  "question": {
+   "fr": "Pourquoi une organisation embaucherait-elle un stagiaire coop de l'Université d'Ottawa ?",
+   "en": "Why should an organization hire a uOttawa co-op student?"
+  },
+  "answer": {
+   "fr": "Tu as accès toute l'année à des étudiants motivés et qualifiés de 77 programmes de premier cycle et 8 programmes de maîtrise, dont beaucoup sont francophones, anglophones ou bilingues. C'est une main-d'œuvre temporaire rentable pour les périodes de pointe ou des projets spéciaux, et une façon d'évaluer de futurs employés à temps plein en réduisant coûts et risques.",
+   "en": "You get year-round access to motivated, qualified students from 77 undergraduate programs and 8 master's programs, including many French-speaking, English-speaking and bilingual students. It's a cost-effective source of temporary staff for peak periods or special projects, and a way to assess potential full-time employees while reducing costs and risks."
+  },
+  "sources": [
+   {
+    "label": "Hire a co-op student — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/services-employers-partners/hire-coop-student/faq"
+   },
+   {
+    "label": "Embaucher un stagiaire coop — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/services-employeurs-partenaires/embaucher-stagiaire-coop/faq"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-coop-ou-internat",
+  "category": "services",
+  "keywords": [
+   "coop",
+   "co-op",
+   "internat",
+   "internship",
+   "différence",
+   "difference",
+   "stage",
+   "work term",
+   "quatre mois",
+   "four months",
+   "employeur",
+   "employer"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre un stage coop et un internat ?",
+   "en": "What's the difference between a co-op work term and an internship?"
+  },
+  "answer": {
+   "fr": "En coop, les stages durent habituellement quatre mois et alternent avec les sessions d'études, généralement après au moins quatre sessions au baccalauréat ou deux à la maîtrise, et la séquence doit se terminer par une session de cours. Il faut de trois à cinq stages au premier cycle et deux à la maîtrise. L'internat, lui, est souvent un stage unique vers la fin du programme, habituellement de 12 à 16 mois.",
+   "en": "In co-op, work terms usually last four months and alternate with study terms, generally after at least four academic terms for undergraduates or two for master's students, and the sequence must end with an academic session. Three to five work terms are required at the undergraduate level and two at the master's level. An internship, by contrast, is often a single placement toward the end of the program, typically 12 to 16 months."
+  },
+  "sources": [
+   {
+    "label": "Hire a co-op student — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/services-employers-partners/hire-coop-student/faq"
+   },
+   {
+    "label": "Embaucher un stagiaire coop — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/services-employeurs-partenaires/embaucher-stagiaire-coop/faq"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-coop-afficher-poste",
+  "category": "services",
+  "keywords": [
+   "afficher poste coop",
+   "post co-op job",
+   "employeur",
+   "employer",
+   "recrutement",
+   "recruitment",
+   "trois mois et demi",
+   "entrevues",
+   "interviews",
+   "hiver",
+   "winter",
+   "calendrier"
+  ],
+  "question": {
+   "fr": "Quand un employeur doit-il afficher un poste coop ?",
+   "en": "When should an employer post a co-op position?"
+  },
+  "answer": {
+   "fr": "Le recrutement commence environ trois mois et demi avant chaque stage. Par exemple, pour un stage d'hiver, de janvier à avril, tu affiches le poste à la mi-septembre et les entrevues commencent au début d'octobre. Les stages ont lieu à l'automne, à l'hiver et à l'été.",
+   "en": "Recruitment starts about three and a half months before each work term. For example, for a winter term, January to April, you post the job in mid-September and interviews start in early October. Work terms take place in fall, winter and summer."
+  },
+  "sources": [
+   {
+    "label": "Hire a co-op student — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/services-employers-partners/hire-coop-student/faq"
+   },
+   {
+    "label": "Embaucher un stagiaire coop — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/services-employeurs-partenaires/embaucher-stagiaire-coop/faq"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-coop-credits-impot",
+  "category": "finances",
+  "keywords": [
+   "crédit d impôt",
+   "tax credit",
+   "employeur",
+   "employer",
+   "coop",
+   "ontario",
+   "québec",
+   "quebec",
+   "crsng",
+   "nserc",
+   "secteur privé",
+   "private sector"
+  ],
+  "question": {
+   "fr": "Est-ce qu'une entreprise privée peut obtenir des crédits d'impôt en embauchant un stagiaire coop ?",
+   "en": "Can a private company get tax credits for hiring a co-op student?"
+  },
+  "answer": {
+   "fr": "Oui, les gouvernements de l'Ontario et du Québec offrent des crédits d'impôt aux employeurs qui accueillent des stagiaires inscrits au régime coopératif d'un établissement reconnu. Le CRSNG offre aussi un programme de bourses Expérience pour le secteur industriel. Et une organisation située à l'extérieur d'Ottawa peut embaucher, puisque certains étudiants acceptent de déménager pour le bon poste.",
+   "en": "Yes, the governments of Ontario and Quebec offer tax credits to employers who host students from a recognized institution's co-op program. NSERC also has an Experience Awards program for industrial settings. And organizations outside Ottawa can hire too, since some students are willing to relocate for the right position."
+  },
+  "sources": [
+   {
+    "label": "Hire a co-op student — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/services-employers-partners/hire-coop-student/faq"
+   },
+   {
+    "label": "Embaucher un stagiaire coop — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/services-employeurs-partenaires/embaucher-stagiaire-coop/faq"
+   }
+  ],
+  "related": [
+   "m-cal-depot",
+   "m-cal-paiement-remboursement",
+   "m-cal-droits-citoyens"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-diplomes-courriel",
+  "category": "ti",
+  "keywords": [
+   "diplômé",
+   "alumni",
+   "graduate",
+   "courriel uottawa",
+   "uottawa email",
+   "adresse courriel",
+   "email address",
+   "compte",
+   "account",
+   "service informatique",
+   "it service desk"
+  ],
+  "question": {
+   "fr": "Je suis diplômé : est-ce que je peux avoir une adresse courriel de l'Université d'Ottawa ?",
+   "en": "I'm a graduate: can I get a uOttawa email address?"
+  },
+  "answer": {
+   "fr": "Oui, en tant que diplômé, tu peux demander gratuitement un compte de messagerie de l'Université en t'adressant au service d'assistance informatique. Si tu as un problème avec ce compte, c'est aussi le service d'assistance informatique qu'il faut contacter.",
+   "en": "Yes, as a graduate you can request a free uOttawa email account through the IT service desk. If you have a problem with that account, the IT service desk is also who to contact."
+  },
+  "sources": [
+   {
+    "label": "Alumni — Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/frequently-asked-questions"
+   },
+   {
+    "label": "Diplômés — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/diplomes/foire-aux-questions"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-diplomes-carte-biblio",
+  "category": "bibliotheques",
+  "keywords": [
+   "diplômé",
+   "alumni",
+   "carte de bibliothèque",
+   "library card",
+   "carte de membre",
+   "membership card",
+   "association des diplômés",
+   "alumni association",
+   "bibliothèque",
+   "library"
+  ],
+  "question": {
+   "fr": "Est-ce qu'un diplômé peut obtenir une carte de la Bibliothèque ?",
+   "en": "Can alumni get a uOttawa Library card?"
+  },
+  "answer": {
+   "fr": "Oui. Il faut d'abord présenter ta carte de membre de l'Association des diplômés, que tu obtiens en remplissant le formulaire de demande de carte de membre; elle t'est envoyée par courriel en format PDF. Ensuite, tu suis la procédure de la Bibliothèque pour les diplômés et visiteurs.",
+   "en": "Yes. You first need to show your Alumni Association membership card, which you get by completing the membership card request form; it's emailed to you as a PDF. Then you follow the Library's procedure for alumni and visitors."
+  },
+  "sources": [
+   {
+    "label": "Alumni — Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/frequently-asked-questions"
+   },
+   {
+    "label": "Diplômés — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/diplomes/foire-aux-questions"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-diplomes-coordonnees-camarade",
+  "category": "services",
+  "keywords": [
+   "diplômé",
+   "alumni",
+   "coordonnées",
+   "contact information",
+   "camarade",
+   "classmate",
+   "ancien étudiant",
+   "confidentialité",
+   "confidentiality",
+   "retrouver"
+  ],
+  "question": {
+   "fr": "Est-ce que l'Université peut me donner les coordonnées d'une personne avec qui j'ai étudié ?",
+   "en": "Can the University give me the contact information of someone I studied with?"
+  },
+  "answer": {
+   "fr": "Malheureusement non : pour des raisons de confidentialité, l'Université ne transmet pas les coordonnées de ses diplômés.",
+   "en": "Unfortunately not: for confidentiality reasons, the University can't share its alumni's contact information."
+  },
+  "sources": [
+   {
+    "label": "Alumni — Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/frequently-asked-questions"
+   },
+   {
+    "label": "Diplômés — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/diplomes/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-diplomes-mise-a-jour",
+  "category": "services",
+  "keywords": [
+   "diplômé",
+   "alumni",
+   "mettre à jour",
+   "update",
+   "coordonnées",
+   "contact information",
+   "communications",
+   "infolettre",
+   "newsletter",
+   "formulaire"
+  ],
+  "question": {
+   "fr": "Comment mettre à jour mes coordonnées de diplômé et recevoir les nouvelles de l'Université ?",
+   "en": "How do I update my alumni contact information and receive University news?"
+  },
+  "answer": {
+   "fr": "Remplis le formulaire de mise à jour des coordonnées des diplômés. Pour recevoir les communications de l'Université, utilise le même formulaire et ajoute ta demande dans la section des commentaires.",
+   "en": "Complete the alumni contact information update form. To receive messages and updates from the University, use the same form and add your request in the comment box."
+  },
+  "sources": [
+   {
+    "label": "Alumni — Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/frequently-asked-questions"
+   },
+   {
+    "label": "Diplômés — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/diplomes/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-csme-qui",
+  "category": "sante",
+  "keywords": [
+   "centre de santé et mieux-être",
+   "student health and wellness centre",
+   "clinique",
+   "clinic",
+   "qui peut",
+   "who can",
+   "université saint-paul",
+   "saint paul university",
+   "médecin de famille",
+   "family doctor",
+   "diplômés",
+   "alumni"
+  ],
+  "question": {
+   "fr": "Qui peut utiliser le Centre de santé et mieux-être étudiant ?",
+   "en": "Who can use the Student Health and Wellness Centre?"
+  },
+  "answer": {
+   "fr": "Tous les étudiants inscrits à l'Université d'Ottawa ou à l'Université Saint-Paul, même si tu as déjà un médecin de famille ailleurs. Le public, les membres de la famille des étudiants et les diplômés n'y ont pas accès.",
+   "en": "All students currently registered at the University of Ottawa or Saint Paul University, even if you already have a family doctor elsewhere. The public, students' family members and graduates can't use it."
+  },
+  "sources": [
+   {
+    "label": "Student Health and Wellness Centre — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   },
+   {
+    "label": "Centre de santé et mieux-être étudiant — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/centre-sante-mieux-etre-etudiant/foire-questions"
+   }
+  ],
+  "related": [
+   "m-cal-ramu",
+   "m-csme-sans-cours",
+   "m-csme-delai"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-csme-sans-cours",
+  "category": "sante",
+  "keywords": [
+   "centre de santé",
+   "health centre",
+   "numéro étudiant",
+   "student number",
+   "aucun cours",
+   "no courses",
+   "trimestre",
+   "term",
+   "carte santé",
+   "health card",
+   "ramu",
+   "uhip"
+  ],
+  "question": {
+   "fr": "J'ai un numéro étudiant mais je ne suis aucun cours ce trimestre : puis-je aller au Centre de santé ?",
+   "en": "I have a student number but I'm not taking courses this term: can I still use the health centre?"
+  },
+  "answer": {
+   "fr": "Oui. N'oublie pas d'apporter ta carte étudiante et ta carte d'assurance maladie provinciale ou territoriale, ou ton numéro du RAMU si tu viens de l'étranger, à ton rendez-vous.",
+   "en": "Yes. Just remember to bring your student card and your provincial or territorial health card, or your UHIP number if you're from abroad, to your appointment."
+  },
+  "sources": [
+   {
+    "label": "Student Health and Wellness Centre — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   },
+   {
+    "label": "Centre de santé et mieux-être étudiant — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/centre-sante-mieux-etre-etudiant/foire-questions"
+   }
+  ],
+  "related": [
+   "m-cal-ramu",
+   "m-csme-qui",
+   "m-csme-delai"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-csme-delai",
+  "category": "sante",
+  "keywords": [
+   "centre de santé",
+   "health centre",
+   "attente",
+   "wait",
+   "médecin",
+   "doctor",
+   "même jour",
+   "same day",
+   "rendez-vous",
+   "appointment",
+   "bilingue",
+   "français"
+  ],
+  "question": {
+   "fr": "Combien de temps faut-il attendre pour voir un médecin au Centre de santé ?",
+   "en": "How long is the wait to see a doctor at the health centre?"
+  },
+  "answer": {
+   "fr": "Tu peux réserver un rendez-vous pour le jour même si l'horaire le permet. L'équipe est bilingue et peut te servir en français ou en anglais.",
+   "en": "You can book a same-day appointment if the schedule allows. The team is bilingual and can serve you in French or English."
+  },
+  "sources": [
+   {
+    "label": "Student Health and Wellness Centre — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   },
+   {
+    "label": "Centre de santé et mieux-être étudiant — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/centre-sante-mieux-etre-etudiant/foire-questions"
+   }
+  ],
+  "related": [
+   "m-cal-ramu",
+   "m-csme-qui",
+   "m-csme-sans-cours"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-ohip-ou-ramu",
+  "category": "sante",
+  "keywords": [
+   "assurance-santé de l ontario",
+   "ohip",
+   "ramu",
+   "uhip",
+   "assurance maladie",
+   "health insurance",
+   "différence",
+   "difference",
+   "étudiant international",
+   "international student",
+   "assurance étudiante",
+   "student insurance"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre l'Assurance-santé de l'Ontario, le RAMU et l'assurance étudiante ?",
+   "en": "What's the difference between OHIP, UHIP and the student insurance plan?"
+  },
+  "answer": {
+   "fr": "L'Assurance-santé de l'Ontario couvre les soins de base des résidents permanents de l'Ontario et est financée par les impôts provinciaux. Le RAMU offre une couverture semblable aux étudiants internationaux et membres du personnel non couverts par un régime provincial ou territorial. L'assurance des étudiants de premier cycle, elle, s'ajoute à ces régimes de base.",
+   "en": "OHIP provides basic health coverage for Ontario's permanent residents and is funded by provincial taxes. UHIP offers similar coverage to international students and staff who aren't covered by a provincial or territorial plan. The undergraduate student insurance plan comes on top of those basic plans."
+  },
+  "sources": [
+   {
+    "label": "Student Health and Wellness Centre — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   },
+   {
+    "label": "Centre de santé et mieux-être étudiant — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/centre-sante-mieux-etre-etudiant/foire-questions"
+   }
+  ],
+  "related": [
+   "m-cal-ramu",
+   "m-csme-qui",
+   "m-csme-sans-cours"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-csme-immunisation-stage",
+  "category": "sante",
+  "keywords": [
+   "immunisation",
+   "immunization",
+   "vaccins",
+   "vaccines",
+   "stage",
+   "placement",
+   "voyage",
+   "travel",
+   "santé-voyage",
+   "travel clinic",
+   "étudier à l étranger",
+   "study abroad"
+  ],
+  "question": {
+   "fr": "Le Centre de santé peut-il m'immuniser pour un stage ou un voyage d'études à l'étranger ?",
+   "en": "Can the health centre give me immunizations for a placement or study abroad?"
+  },
+  "answer": {
+   "fr": "Oui pour les stages : le Centre peut assurer l'immunisation des futurs stagiaires. Pour un voyage, il peut te diriger vers une clinique santé-voyage; ces consultations et vaccins ne sont pas couverts par l'assurance publique, mais ta faculté pourrait payer les frais, alors renseigne-toi d'abord auprès d'elle.",
+   "en": "Yes for placements: the Centre can immunize future placement students. For travel, it can refer you to a travel clinic; those consultations and vaccines aren't covered by public health insurance, but your faculty may cover the cost, so check with them first."
+  },
+  "sources": [
+   {
+    "label": "Student Health and Wellness Centre — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   },
+   {
+    "label": "Centre de santé et mieux-être étudiant — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/centre-sante-mieux-etre-etudiant/foire-questions"
+   }
+  ],
+  "related": [
+   "m-cal-ramu",
+   "m-csme-qui",
+   "m-csme-sans-cours"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-physio-massotherapie",
+  "category": "sante",
+  "keywords": [
+   "physiothérapie",
+   "physiotherapy",
+   "massothérapie",
+   "massage therapy",
+   "médecine sportive",
+   "sports medicine",
+   "minto",
+   "clinique",
+   "clinic",
+   "assurance",
+   "insurance"
+  ],
+  "question": {
+   "fr": "Où trouver de la physiothérapie ou de la massothérapie sur le campus ?",
+   "en": "Where can I get physiotherapy or massage therapy on campus?"
+  },
+  "answer": {
+   "fr": "L'Université a une entente avec la clinique de médecine sportive du campus, qui offre la médecine sportive et la physiothérapie, y compris la massothérapie. Ces services sont au deuxième étage du Complexe sportif Minto, et plusieurs sont couverts par ton assurance maladie étudiante.",
+   "en": "The University has an agreement with the on-campus sports medicine clinic, which offers sports medicine and physiotherapy, including massage therapy. These services are on the second floor of the Minto Sports Complex, and many are covered by your student health insurance."
+  },
+  "sources": [
+   {
+    "label": "Student Health and Wellness Centre — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   },
+   {
+    "label": "Centre de santé et mieux-être étudiant — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/centre-sante-mieux-etre-etudiant/foire-questions"
+   }
+  ],
+  "related": [
+   "m-cal-ramu",
+   "m-csme-qui",
+   "m-csme-sans-cours"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-portail-logement-ouverture",
+  "category": "logement",
+  "keywords": [
+   "portail du logement",
+   "housing portal",
+   "résidence",
+   "residence",
+   "8 décembre",
+   "december 8",
+   "offre d admission",
+   "offer of admission",
+   "demande",
+   "apply",
+   "2027"
+  ],
+  "question": {
+   "fr": "Quand ouvre le Portail du logement pour les demandes de résidence 2027 ?",
+   "en": "When does the Housing Portal open for 2027 residence applications?"
+  },
+  "answer": {
+   "fr": "Pour les nouveaux étudiants, le Portail du logement ouvre le 8 décembre 2026 à 9 h pour les demandes 2027. Tu dois avoir reçu une offre d'admission pour y accéder; pas besoin de l'avoir acceptée. Un ordinateur est conseillé plutôt qu'un cellulaire pour une meilleure expérience.",
+   "en": "For new students, the Housing Portal opens at 9 a.m. on December 8, 2026, for 2027 applications. You need to have received an offer of admission to access it; you don't need to have accepted it. A computer is recommended over a phone for a better experience."
+  },
+  "sources": [
+   {
+    "label": "Apply for residence — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/apply-residence/FAQ"
+   },
+   {
+    "label": "Faire une demande de résidence — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/logement/faire-demande-residence/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-cal-logement-ete",
+   "m-residence-preferences",
+   "m-residence-quatre-mois"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-residence-preferences",
+  "category": "logement",
+  "keywords": [
+   "résidence",
+   "residence",
+   "préférences",
+   "preferences",
+   "trois",
+   "sept",
+   "choix de chambre",
+   "room selection",
+   "filtres",
+   "filters",
+   "demande"
+  ],
+  "question": {
+   "fr": "Combien de préférences de chambre dois-je choisir dans ma demande de résidence ?",
+   "en": "How many room preferences do I select in my residence application?"
+  },
+  "answer": {
+   "fr": "Tu dois choisir au moins trois préférences pour continuer ta demande, et au maximum sept. Des filtres en haut de la page de sélection t'aident à limiter les choix, et tu peux comparer de deux à quatre chambres côte à côte.",
+   "en": "You need to select at least three preferences to continue your application, and at most seven. Filters at the top of the selection page help you narrow things down, and you can compare two to four rooms side by side."
+  },
+  "sources": [
+   {
+    "label": "Apply for residence — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/apply-residence/FAQ"
+   },
+   {
+    "label": "Faire une demande de résidence — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/logement/faire-demande-residence/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-cal-logement-ete",
+   "m-portail-logement-ouverture",
+   "m-residence-quatre-mois"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-residence-quatre-mois",
+  "category": "logement",
+  "keywords": [
+   "résidence",
+   "residence",
+   "quatre mois",
+   "four months",
+   "4 mois",
+   "garantie de logement",
+   "housing guarantee",
+   "janvier",
+   "january",
+   "contrat 8 mois"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux demander une résidence pour quatre mois seulement ?",
+   "en": "Can I apply for residence for only four months?"
+  },
+  "answer": {
+   "fr": "L'option existe, mais la priorité va aux contrats de 8 ou 12 mois, et la garantie de logement ne s'applique pas aux séjours de 4 mois. Les totaux affichés sur la page de sélection sont pour 8 ou 12 mois; si tu reçois une offre de 4 mois, le total sera ajusté.",
+   "en": "The option exists, but priority goes to 8- or 12-month agreements, and the housing guarantee doesn't apply to 4-month stays. The totals shown on the selection page are for 8 or 12 months; if you get a 4-month offer, the total will be adjusted."
+  },
+  "sources": [
+   {
+    "label": "Apply for residence — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/apply-residence/FAQ"
+   },
+   {
+    "label": "Faire une demande de résidence — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/logement/faire-demande-residence/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-cal-logement-ete",
+   "m-portail-logement-ouverture",
+   "m-residence-preferences"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-residence-prix-inclus",
+  "category": "logement",
+  "keywords": [
+   "résidence",
+   "residence",
+   "prix",
+   "price",
+   "inclus",
+   "included",
+   "internet",
+   "charges",
+   "utilities",
+   "forfait alimentaire",
+   "meal plan"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qui est inclus dans le prix d'une chambre en résidence ?",
+   "en": "What's included in the price of a residence room?"
+  },
+  "answer": {
+   "fr": "Le prix total est calculé pour le nombre de mois indiqué et comprend Internet, les charges et le forfait alimentaire si tu as choisi une chambre qui en comporte un.",
+   "en": "The total price is for the specified number of months and includes Internet, utilities, and the meal plan if you picked a room type that comes with one."
+  },
+  "sources": [
+   {
+    "label": "Apply for residence — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/apply-residence/FAQ"
+   },
+   {
+    "label": "Faire une demande de résidence — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/logement/faire-demande-residence/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-cal-logement-ete",
+   "m-portail-logement-ouverture",
+   "m-residence-preferences"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-residence-offre-quand",
+  "category": "logement",
+  "keywords": [
+   "offre de logement",
+   "housing offer",
+   "résidence",
+   "residence",
+   "quand",
+   "when",
+   "garantie",
+   "guarantee",
+   "30 avril",
+   "april 30",
+   "mi-mai",
+   "mid-may",
+   "juin",
+   "june"
+  ],
+  "question": {
+   "fr": "Quand vais-je recevoir mon offre de résidence ?",
+   "en": "When will I get my residence offer?"
+  },
+  "answer": {
+   "fr": "Si tu as la garantie d'hébergement et que tu as fait ta demande avant le 30 avril, attends-toi à ton offre entre la mi-mai et la mi-juin; entre le 1er mai et le 1er juin, ce sera entre le 9 juin et le 7 juillet. S'il reste des chambres ensuite, les étudiants sans garantie reçoivent des offres selon le principe du premier arrivé, premier servi, au plus tôt vers la fin juin et tout l'été.",
+   "en": "If you have the housing guarantee and applied before April 30, expect your offer between mid-May and mid-June; if you applied between May 1 and June 1, it'll come between June 9 and July 7. If rooms remain afterwards, non-guaranteed students get offers first come, first served, starting toward the end of June and throughout the summer."
+  },
+  "sources": [
+   {
+    "label": "Apply for residence — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/apply-residence/FAQ"
+   },
+   {
+    "label": "Faire une demande de résidence — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/logement/faire-demande-residence/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-cal-logement-ete",
+   "m-portail-logement-ouverture",
+   "m-residence-preferences"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-residence-acompte",
+  "category": "logement",
+  "keywords": [
+   "acompte",
+   "deposit",
+   "1000 $",
+   "résidence",
+   "residence",
+   "remboursement",
+   "refund",
+   "annulation",
+   "cancel",
+   "uozone",
+   "demande de remboursement"
+  ],
+  "question": {
+   "fr": "Quand dois-je payer l'acompte de résidence, et comment me faire rembourser si j'annule ?",
+   "en": "When do I pay the residence deposit, and how do I get a refund if I cancel?"
+  },
+  "answer": {
+   "fr": "Avec la garantie de logement, tu paies l'acompte de 1000 $ au moment de ta demande ou de ta réservation, et ta réservation n'est finalisée qu'à sa réception; les autres le paient en acceptant leur offre. Si tu annules avant la date limite, tu dois demander le remboursement dans uoZone, sous Applications, Demande de remboursement : il n'est pas automatique.",
+   "en": "With the housing guarantee, you pay the $1000 deposit when you apply or book your room, and your reservation isn't final until it's received; everyone else pays when accepting their offer. If you cancel before the deadline, you must request the refund in uoZone, under Applications, Refund Request: it isn't automatic."
+  },
+  "sources": [
+   {
+    "label": "Apply for residence — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/apply-residence/FAQ"
+   },
+   {
+    "label": "Faire une demande de résidence — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/logement/faire-demande-residence/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-cal-logement-ete",
+   "m-portail-logement-ouverture",
+   "m-residence-preferences"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-residence-colocataire",
+  "category": "logement",
+  "keywords": [
+   "colocataire",
+   "roommate",
+   "résidence",
+   "residence",
+   "même chambre",
+   "room together",
+   "jumelage",
+   "matching",
+   "juillet",
+   "july",
+   "août",
+   "august"
+  ],
+  "question": {
+   "fr": "Comment demander d'habiter en résidence avec un ami, et quand saurai-je qui est mon colocataire ?",
+   "en": "How do I request to room with a friend in residence, and when will I find out who my roommate is?"
+  },
+  "answer": {
+   "fr": "Si vous êtes tous les deux admis, faites votre demande en même temps sur des ordinateurs séparés, inscrivez le nom de l'autre à la question du colocataire et choisissez la priorité colocataire. Ça peut te placer dans un type de chambre moins haut dans tes préférences, et le jumelage n'est pas garanti. Les courriels annonçant les colocataires sont envoyés en juillet et en août.",
+   "en": "If you've both been accepted, apply at the same time on separate computers, enter each other's name at the roommate question and select the roommate priority. That may put you in a room type lower in your preferences, and pairing isn't guaranteed. Emails announcing roommates go out in July and August."
+  },
+  "sources": [
+   {
+    "label": "Apply for residence — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/housing/apply-residence/FAQ"
+   },
+   {
+    "label": "Faire une demande de résidence — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/logement/faire-demande-residence/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-cal-logement-ete",
+   "m-portail-logement-ouverture",
+   "m-residence-preferences"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bed-duree",
+  "category": "programmes",
+  "keywords": [
+   "baccalauréat en éducation",
+   "bachelor of education",
+   "b.éd",
+   "b.ed",
+   "durée",
+   "how long",
+   "12 mois",
+   "12 months",
+   "plusieurs parties",
+   "multi-session",
+   "formation à l enseignement",
+   "teacher education",
+   "enseignant"
+  ],
+  "question": {
+   "fr": "Combien de temps dure le baccalauréat en éducation (B.Éd.) ?",
+   "en": "How long is the Bachelor of Education (B.Ed.)?"
+  },
+  "answer": {
+   "fr": "Le B.Éd. à temps plein dure 12 mois consécutifs, soit trois trimestres. Le programme de Formation à l'enseignement en plusieurs parties dure six trimestres consécutifs à temps partiel, avec des cours en ligne et des stages en personne. Les campus offerts varient selon le programme.",
+   "en": "The full-time B.Ed. takes 12 consecutive months, or three terms. The multi-session Formation à l'enseignement program takes six consecutive terms part-time, with online courses and in-person practica. Available campuses vary by program."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Education — Undergraduate studies FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/undergraduate-studies/frequently-asked-questions"
+   },
+   {
+    "label": "Faculté d'éducation — Études de premier cycle, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-education/etudes-premier-cycle/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bed-autre-province",
+  "category": "programmes",
+  "keywords": [
+   "baccalauréat en éducation",
+   "b.ed",
+   "oeeo",
+   "oct",
+   "ordre des enseignantes et des enseignants",
+   "ontario college of teachers",
+   "autre province",
+   "another province",
+   "brevet",
+   "teaching licence",
+   "stage",
+   "practicum"
+  ],
+  "question": {
+   "fr": "Avec un B.Éd. de l'Université d'Ottawa, est-ce que je peux enseigner ou faire mon stage dans une autre province ?",
+   "en": "With a uOttawa B.Ed., can I teach or do my practicum in another province?"
+  },
+  "answer": {
+   "fr": "Le B.Éd. est agréé pour enseigner dans les écoles de l'Ontario, donc ton stage doit se faire en Ontario pour respecter les exigences de l'Ordre des enseignantes et des enseignants de l'Ontario. Pour enseigner ailleurs ensuite, tu dois être membre de l'Ordre et contacter les provinces visées pour transférer ton certificat. La Faculté organise elle-même tous les stages.",
+   "en": "The B.Ed. is accredited for teaching in Ontario schools, so your practicum must be in Ontario to meet Ontario College of Teachers requirements. To teach elsewhere afterwards, you need to be an OCT member and contact the provinces where you want to teach to transfer your certificate. The Faculty arranges all practicum placements itself."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Education — Undergraduate studies FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/undergraduate-studies/frequently-asked-questions"
+   },
+   {
+    "label": "Faculté d'éducation — Études de premier cycle, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-education/etudes-premier-cycle/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bed-etudiant-special",
+  "category": "cours",
+  "keywords": [
+   "baccalauréat en éducation",
+   "b.ed",
+   "étudiant spécial",
+   "special student",
+   "cours",
+   "courses",
+   "contingenté",
+   "limited enrolment",
+   "admis",
+   "admitted"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux suivre des cours du B.Éd. comme étudiant spécial ?",
+   "en": "Can I take B.Ed. courses as a special student?"
+  },
+  "answer": {
+   "fr": "Non. Le B.Éd. est fortement contingenté : seules les personnes admises au programme peuvent s'inscrire à ses cours.",
+   "en": "No. Enrolment in the B.Ed. is very limited: only students admitted to the program can enrol in its courses."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Education — Undergraduate studies FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/undergraduate-studies/frequently-asked-questions"
+   },
+   {
+    "label": "Faculté d'éducation — Études de premier cycle, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-education/etudes-premier-cycle/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-majeure-fls-en-ligne",
+   "m-bcom-en-ligne"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bed-test-langue",
+  "category": "admissions",
+  "keywords": [
+   "tclf",
+   "tcle",
+   "test de compétence linguistique",
+   "language proficiency test",
+   "formation à l enseignement",
+   "fls",
+   "french as a second language",
+   "b.ed",
+   "exemption",
+   "tecfée",
+   "dalf"
+  ],
+  "question": {
+   "fr": "Est-ce que le test de compétence linguistique est obligatoire pour le B.Éd. même si je parle français couramment ?",
+   "en": "Do I have to write the language proficiency test for the B.Ed. even if I'm fluent in French?"
+  },
+  "answer": {
+   "fr": "Oui. Pour la Formation à l'enseignement ou la discipline français langue seconde de Teacher Education, tu dois réussir le TCLF ou le TCLE, sans exemption, et aucun autre test comme le TECFÉE ou le DALF ne le remplace. Un échec entraîne le rejet de ta demande. Les résultats valent pour deux cycles d'admission.",
+   "en": "Yes. For Formation à l'enseignement or Teacher Education's French as a second language teaching program, you must pass the TCLF or TCLE, with no exceptions, and no other test such as the TECFÉE or DALF can replace it. If you fail, your application won't be accepted. Results can be used for two admission cycles."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Education — Undergraduate studies FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/undergraduate-studies/frequently-asked-questions"
+   },
+   {
+    "label": "Faculté d'éducation — Études de premier cycle, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-education/etudes-premier-cycle/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bed-casper",
+  "category": "admissions",
+  "keywords": [
+   "casper",
+   "test casper",
+   "casper test",
+   "b.ed",
+   "baccalauréat en éducation",
+   "admission",
+   "jugement situationnel",
+   "situational judgement",
+   "enseignement",
+   "teaching"
+  ],
+  "question": {
+   "fr": "C'est quoi le test Casper demandé pour le B.Éd. ?",
+   "en": "What is the Casper test for the B.Ed.?"
+  },
+  "answer": {
+   "fr": "C'est un test en ligne qui évalue les aptitudes personnelles et professionnelles liées à l'enseignement. Les détails pour t'y inscrire sont sur la page d'admission du programme.",
+   "en": "It's an online situational judgement test that assesses the personal and professional skills relevant to teaching. Registration details are on the program's admissions page."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Education — Undergraduate studies FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/undergraduate-studies/frequently-asked-questions"
+   },
+   {
+    "label": "Faculté d'éducation — Études de premier cycle, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-education/etudes-premier-cycle/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-educ-cycles-sup-financement",
+  "category": "finances",
+  "keywords": [
+   "financement",
+   "funding",
+   "bourse",
+   "scholarship",
+   "maîtrise",
+   "master",
+   "doctorat",
+   "phd",
+   "m.ed",
+   "m.a.",
+   "éducation",
+   "education",
+   "8,0",
+   "automatique"
+  ],
+  "question": {
+   "fr": "Est-ce que tous les étudiants aux cycles supérieurs en éducation reçoivent du financement ?",
+   "en": "Do all graduate students in Education get funding automatically?"
+  },
+  "answer": {
+   "fr": "Non. Au doctorat, les bourses sont attribuées sur une base compétitive selon un quota, donc en nombre limité. À la maîtrise avec thèse (M.A.), une bourse de mérite spéciale peut être accordée, généralement automatiquement, aux nouveaux étudiants ayant une moyenne d'admission d'au moins 8,0 sur 10 (A-). Les étudiants à la M.Ed. ne sont pas admissibles aux bourses d'admission ou de mérite spéciales.",
+   "en": "No. At the doctoral level, scholarships are awarded competitively under a quota, so they're limited. For thesis-based master's students (M.A.), a special merit scholarship may be awarded, generally automatically, to new students with an admission average of 8.0 out of 10 (A-) or higher. M.Ed. students don't qualify for admission or special merit scholarships."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Education — Graduate studies FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/graduate-studies/frequently-asked-questions"
+   },
+   {
+    "label": "Faculté d'éducation — Études supérieures, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-education/etudes-superieures/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-cal-depot",
+   "m-cal-paiement-remboursement",
+   "m-cal-droits-citoyens"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-readaptation-sans-bac-connexe",
+  "category": "admissions",
+  "keywords": [
+   "physiothérapie",
+   "physiotherapy",
+   "ergothérapie",
+   "occupational therapy",
+   "orthophonie",
+   "speech-language pathology",
+   "audiologie",
+   "audiology",
+   "baccalauréat",
+   "bachelor",
+   "domaine connexe",
+   "related field",
+   "entrevue",
+   "interview"
+  ],
+  "question": {
+   "fr": "Je n'ai pas de baccalauréat dans un domaine connexe : suis-je admissible aux maîtrises en réadaptation ? Y a-t-il une entrevue ?",
+   "en": "My bachelor's isn't in a related field: am I eligible for the rehabilitation master's programs? Is there an interview?"
+  },
+  "answer": {
+   "fr": "Oui, si tu remplis toutes les exigences : ton domaine d'études n'influence pas la décision, mais tu dois avoir réussi les cours préalables ou être en voie de le faire. Les baccalauréats par cumul sont aussi acceptés. Il n'y a pas d'entrevue d'admission.",
+   "en": "Yes, if you meet all the requirements: your field of study has no bearing on the decision, but you must have completed the prerequisite courses or be in the process of doing so. Cumulative bachelor's degrees are also accepted. There's no admissions interview."
+  },
+  "sources": [
+   {
+    "label": "School of Rehabilitation Sciences — Programs FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/rehabilitation/our-programs/frequently-asked-questions"
+   },
+   {
+    "label": "École des sciences de la réadaptation — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/readaptation/nos-programmes/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-readaptation-langue",
+  "category": "programmes",
+  "keywords": [
+   "physiothérapie",
+   "physiotherapy",
+   "ergothérapie",
+   "occupational therapy",
+   "orthophonie",
+   "speech-language pathology",
+   "audiologie",
+   "audiology",
+   "anglais",
+   "english",
+   "français",
+   "french",
+   "langue"
+  ],
+  "question": {
+   "fr": "Est-ce que les maîtrises en physiothérapie, ergothérapie, audiologie et orthophonie sont offertes en anglais ?",
+   "en": "Are the physiotherapy, occupational therapy, audiology and speech-language pathology master's programs offered in English?"
+  },
+  "answer": {
+   "fr": "Non, les cours sont offerts en français, et les stages cliniques se font en milieux francophones, anglophones ou bilingues. En ergothérapie et en physiothérapie, tu peux remettre tes travaux en français ou en anglais, mais en audiologie et en orthophonie, ils doivent être remis en français.",
+   "en": "No, courses are offered in French, and clinical placements take place in French, English or bilingual settings. In occupational therapy and physiotherapy, you can submit assignments in French or English, but in audiology and speech-language pathology, they must be submitted in French."
+  },
+  "sources": [
+   {
+    "label": "School of Rehabilitation Sciences — Programs FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/rehabilitation/our-programs/frequently-asked-questions"
+   },
+   {
+    "label": "École des sciences de la réadaptation — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/readaptation/nos-programmes/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-readaptation-agrement",
+  "category": "programmes",
+  "keywords": [
+   "physiothérapie",
+   "physiotherapy",
+   "ergothérapie",
+   "occupational therapy",
+   "orthophonie",
+   "audiologie",
+   "agrément",
+   "accreditation",
+   "reconnu",
+   "recognized",
+   "canada"
+  ],
+  "question": {
+   "fr": "Est-ce que les maîtrises en réadaptation de l'Université d'Ottawa sont reconnues partout au Canada ?",
+   "en": "Are uOttawa's rehabilitation master's programs recognized across Canada?"
+  },
+  "answer": {
+   "fr": "Oui. L'audiologie et l'orthophonie sont agréées par le Conseil d'agrément des programmes universitaires canadiens en audiologie et en orthophonie, l'ergothérapie par l'Association canadienne des ergothérapeutes, et la physiothérapie par l'Agrément de l'enseignement de la physiothérapie au Canada.",
+   "en": "Yes. Audiology and speech-language pathology are accredited by the Council for Accreditation of Canadian University Programs in Audiology and Speech-Language Pathology, occupational therapy by the Canadian Association of Occupational Therapists, and physiotherapy by Physiotherapy Education Accreditation Canada."
+  },
+  "sources": [
+   {
+    "label": "School of Rehabilitation Sciences — Programs FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/rehabilitation/our-programs/frequently-asked-questions"
+   },
+   {
+    "label": "École des sciences de la réadaptation — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sante/readaptation/nos-programmes/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-droit-annees-prealables",
+  "category": "admissions",
+  "keywords": [
+   "faculté de droit",
+   "law school",
+   "common law",
+   "jd",
+   "années",
+   "years",
+   "90 crédits",
+   "90 credits",
+   "premier cycle",
+   "undergraduate",
+   "candidat adulte",
+   "mature"
+  ],
+  "question": {
+   "fr": "Combien d'années d'université faut-il pour faire une demande en common law ?",
+   "en": "How many years of university do I need to apply to Common Law?"
+  },
+  "answer": {
+   "fr": "Sauf pour la catégorie adulte, il faut l'équivalent de trois années d'études de premier cycle à temps plein, soit 90 crédits, dans n'importe quelle discipline. On t'encourage fortement à terminer ton baccalauréat avant d'entrer à la Faculté de droit.",
+   "en": "Except for mature applicants, you need the equivalent of three years of full-time undergraduate studies, or 90 credits, in any field. You're strongly encouraged to finish your bachelor's degree before starting law school."
+  },
+  "sources": [
+   {
+    "label": "Common Law — Admissions FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/admissions/faq"
+   },
+   {
+    "label": "Common law — Admissions, FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/common-law/admissions/faq"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-droit-programme-prealable",
+  "category": "admissions",
+  "keywords": [
+   "faculté de droit",
+   "law school",
+   "common law",
+   "quel programme",
+   "which program",
+   "premier cycle",
+   "undergraduate",
+   "préparer",
+   "prepare",
+   "discipline"
+  ],
+  "question": {
+   "fr": "Quel programme de premier cycle devrais-je suivre pour me préparer au droit ?",
+   "en": "What undergraduate program should I take to prepare for law school?"
+  },
+  "answer": {
+   "fr": "Aucun programme précis n'est exigé. Les étudiants arrivent avec des diplômes de toutes sortes de disciplines, comme le commerce, le génie, la philosophie, les sciences politiques, l'économie, la biologie ou la sociologie.",
+   "en": "No specific program is required. Students come with degrees in all kinds of disciplines, such as business, engineering, philosophy, political science, economics, biology or sociology."
+  },
+  "sources": [
+   {
+    "label": "Common Law — Admissions FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/admissions/faq"
+   },
+   {
+    "label": "Common law — Admissions, FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/common-law/admissions/faq"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-droit-moyenne-lsat",
+  "category": "admissions",
+  "keywords": [
+   "common law",
+   "faculté de droit",
+   "law school",
+   "lsat",
+   "moyenne",
+   "average",
+   "mpc",
+   "cgpa",
+   "80 %",
+   "a-",
+   "programme français",
+   "french program"
+  ],
+  "question": {
+   "fr": "Quelle moyenne faut-il pour la common law et est-ce que le LSAT est obligatoire ?",
+   "en": "What average do I need for Common Law, and is the LSAT required?"
+  },
+  "answer": {
+   "fr": "La plupart des candidats admis ont une moyenne d'au moins A- ou 80 %. Le LSAT n'est pas exigé pour le programme de common law en français, puisque ce test évalue des capacités en anglais seulement, mais il fait partie de la demande pour les programmes en anglais. Ton dossier doit être complet, y compris le résultat du LSAT s'il est exigé, pour être évalué.",
+   "en": "Most successful candidates have at least an A- or 80% average. The LSAT isn't required for the French Common Law program, since it only assesses skills in English, but it's part of the application for the English programs. Your file must be complete, including the LSAT result where required, to be evaluated."
+  },
+  "sources": [
+   {
+    "label": "Common Law — Admissions FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/admissions/faq"
+   },
+   {
+    "label": "Common law — Admissions, FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/common-law/admissions/faq"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-llm-admission",
+  "category": "admissions",
+  "keywords": [
+   "ll.m",
+   "llm",
+   "maîtrise en droit",
+   "master of laws",
+   "doctorat en droit",
+   "phd law",
+   "admission",
+   "diplôme en droit",
+   "law degree",
+   "lsat",
+   "70 %",
+   "75 %"
+  ],
+  "question": {
+   "fr": "Quelles sont les conditions d'admission à la maîtrise (LL.M.) et au doctorat en droit ?",
+   "en": "What are the admission requirements for the LL.M. and the PhD in Law?"
+  },
+  "answer": {
+   "fr": "Pour la LL.M., il faut un diplôme de premier cycle en droit canadien ou équivalent étranger et une moyenne d'au moins 70 % (B); pour le doctorat, une LL.M. et une moyenne d'au moins 75 % (B+). Un diplôme d'une autre discipline n'est accepté qu'exceptionnellement, avec une expérience juridique et un projet de recherche à caractère juridique. Le LSAT n'est pas exigé aux études supérieures en droit.",
+   "en": "For the LL.M., you need an undergraduate law degree from Canada or a foreign equivalent and an average of at least 70% (B); for the PhD, an LL.M. and an average of at least 75% (B+). A degree in another discipline is accepted only exceptionally, with legal experience and a research project with a legal focus. The LSAT isn't required for graduate studies in law."
+  },
+  "sources": [
+   {
+    "label": "Graduate Studies in Law — Admissions FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/llmphd/admissions/frequently-asked-questions"
+   },
+   {
+    "label": "Études supérieures en droit — Admissions, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/llmphd/admissions/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-llm-duree",
+  "category": "programmes",
+  "keywords": [
+   "ll.m",
+   "llm",
+   "maîtrise en droit",
+   "master of laws",
+   "doctorat en droit",
+   "phd law",
+   "durée",
+   "duration",
+   "mémoire",
+   "research paper",
+   "thèse",
+   "thesis"
+  ],
+  "question": {
+   "fr": "Combien de temps durent la maîtrise et le doctorat en droit ?",
+   "en": "How long do the master's and PhD in Law take?"
+  },
+  "answer": {
+   "fr": "La maîtrise avec mémoire dure au minimum un an, soit trois trimestres à temps complet, et au maximum un an et quatre mois. La maîtrise avec thèse dure au minimum un an et au maximum un an et huit mois. Le doctorat dure au maximum cinq ans, soit 15 trimestres.",
+   "en": "The master's with research paper takes at least one year, or three full-time terms, and at most one year and four months. The master's with thesis takes at least one year and at most one year and eight months. The doctorate takes at most five years, or 15 terms."
+  },
+  "sources": [
+   {
+    "label": "Graduate Studies in Law — Admissions FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/llmphd/admissions/frequently-asked-questions"
+   },
+   {
+    "label": "Études supérieures en droit — Admissions, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/llmphd/admissions/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-pratiquer-droit-diplome-etranger",
+  "category": "programmes",
+  "keywords": [
+   "pratiquer le droit",
+   "practise law",
+   "canada",
+   "diplôme étranger",
+   "foreign degree",
+   "comité national sur les équivalences",
+   "national committee on accreditation",
+   "cne",
+   "nca",
+   "avocat formé à l étranger"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux pratiquer le droit au Canada avec un diplôme d'études supérieures d'une université étrangère ?",
+   "en": "Can I practise law in Canada with a graduate degree from a non-Canadian university?"
+  },
+  "answer": {
+   "fr": "Non. Si tu as reçu ta formation juridique à l'étranger et que tu veux pratiquer au Canada, tu dois faire évaluer ton dossier par le Comité national sur les équivalences des diplômes de droit.",
+   "en": "No. If you trained as a lawyer abroad and want to practise in Canada, you must have your law degree assessed by the National Committee on Accreditation."
+  },
+  "sources": [
+   {
+    "label": "Graduate Studies in Law — Admissions FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/llmphd/admissions/frequently-asked-questions"
+   },
+   {
+    "label": "Études supérieures en droit — Admissions, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-droit/llmphd/admissions/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-pharmd-admissibilite",
+  "category": "admissions",
+  "keywords": [
+   "pharmd",
+   "doctorat en pharmacie",
+   "doctor of pharmacy",
+   "pharmacie",
+   "pharmacy",
+   "étudiant international",
+   "international student",
+   "citoyen",
+   "resident permanent",
+   "deux ans",
+   "two years",
+   "60 crédits",
+   "temps plein"
+  ],
+  "question": {
+   "fr": "Qui peut faire une demande d'admission au PharmD ?",
+   "en": "Who can apply to the PharmD program?"
+  },
+  "answer": {
+   "fr": "Il faut avoir la citoyenneté canadienne ou la résidence permanente avant la date limite : les demandes internationales ne sont pas acceptées. Tu dois compléter au moins deux années d'études universitaires à temps plein, soit 60 crédits, dans un baccalauréat; le temps plein, c'est cinq cours par trimestre, ou un trimestre de quatre cours plus un cours d'été. Tu peux postuler après ta première année, avec une admission conditionnelle à la réussite de l'année en cours.",
+   "en": "You must be a Canadian citizen or permanent resident before the deadline: international applications aren't accepted. You need at least two years of full-time university studies, or 60 credits, in a bachelor's program; full-time means five courses per term, or a four-course term plus a summer course. You can apply after your first year, with admission conditional on completing the current year."
+  },
+  "sources": [
+   {
+    "label": "PharmD — Admissions FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/pharmd/admissions/faqs"
+   },
+   {
+    "label": "PharmD — Admissions, FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-medecine/pharmd/admissions/faqs"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-pharmd-places-autochtones",
+  "category": "admissions",
+  "keywords": [
+   "pharmd",
+   "pharmacie",
+   "pharmacy",
+   "places réservées",
+   "reserved seats",
+   "autochtones",
+   "indigenous",
+   "premières nations",
+   "first nations",
+   "inuits",
+   "métis",
+   "uottawa"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a des places réservées au PharmD ?",
+   "en": "Are there reserved seats in the PharmD program?"
+  },
+  "answer": {
+   "fr": "Oui, deux places sont réservées aux candidats des Premières Nations, Inuits et Métis. Par contre, aucune place n'est réservée spécifiquement aux étudiants de l'Université d'Ottawa.",
+   "en": "Yes, two seats are reserved for First Nations, Inuit and Métis candidates. However, no seats are reserved specifically for University of Ottawa students."
+  },
+  "sources": [
+   {
+    "label": "PharmD — Admissions FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/pharmd/admissions/faqs"
+   },
+   {
+    "label": "PharmD — Admissions, FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-medecine/pharmd/admissions/faqs"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-pharmd-stages-report",
+  "category": "programmes",
+  "keywords": [
+   "pharmd",
+   "pharmacie",
+   "pharmacy",
+   "stages",
+   "practicum",
+   "rémunérés",
+   "paid",
+   "reporter",
+   "defer",
+   "offre d admission",
+   "offer"
+  ],
+  "question": {
+   "fr": "Les stages du PharmD sont-ils rémunérés, et peut-on reporter son offre d'admission ?",
+   "en": "Are PharmD placements paid, and can I defer my offer of admission?"
+  },
+  "answer": {
+   "fr": "Non aux deux : aucun stage n'est rémunéré, les étudiants ne sont pas des employés du milieu de stage et ne doivent recevoir aucune compensation financière. Et vu la nature compétitive du programme, une offre d'admission ne peut pas être reportée au cycle suivant.",
+   "en": "No to both: all placements are unpaid, students aren't employees of the site and must not receive any financial compensation. And given how competitive the program is, an offer of admission can't be deferred to the next cycle."
+  },
+  "sources": [
+   {
+    "label": "PharmD — Admissions FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/pharmd/admissions/faqs"
+   },
+   {
+    "label": "PharmD — Admissions, FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-medecine/pharmd/admissions/faqs"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-fss-mobilite-options",
+  "category": "international",
+  "keywords": [
+   "sciences sociales",
+   "social sciences",
+   "mobilité internationale",
+   "international opportunities",
+   "stage à l étranger",
+   "international internship",
+   "échange",
+   "exchange",
+   "recherche sur le terrain",
+   "field research",
+   "nations unies",
+   "model united nations"
+  ],
+  "question": {
+   "fr": "Quelles possibilités internationales offre la Faculté des sciences sociales ?",
+   "en": "What international opportunities does the Faculty of Social Sciences offer?"
+  },
+  "answer": {
+   "fr": "Tu peux faire un cours d'apprentissage expérientiel international, c'est-à-dire un stage à l'étranger, un cours de recherche sur le terrain, un échange international ou le cours de simulation des Nations Unies. Le stage dure 12 semaines de travail non rémunéré avec une ONG locale, alors qu'un échange te permet d'étudier une ou deux sessions dans une université partenaire.",
+   "en": "You can take an international experiential learning course, meaning an internship abroad, a field research course, an international exchange or the Model United Nations course. The internship is 12 weeks of unpaid work with a local NGO, while an exchange lets you study for one or two sessions at a partner university."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Social Sciences — International FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/international/faq"
+   },
+   {
+    "label": "Faculté des sciences sociales — International, FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/international/faq"
+   }
+  ],
+  "related": [
+   "m-numero-eed",
+   "m-fss-stage-etranger-conditions",
+   "m-fss-stage-etranger-couts"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-fss-stage-etranger-conditions",
+  "category": "international",
+  "keywords": [
+   "sciences sociales",
+   "social sciences",
+   "stage à l étranger",
+   "international internship",
+   "admissibilité",
+   "eligibility",
+   "54 crédits",
+   "mpc 6,0",
+   "cgpa",
+   "candidature",
+   "apply",
+   "crédits",
+   "credits"
+  ],
+  "question": {
+   "fr": "Quelles sont les conditions pour faire un stage à l'étranger en sciences sociales ?",
+   "en": "What are the requirements for an international internship in Social Sciences?"
+  },
+  "answer": {
+   "fr": "Il faut être inscrit à temps complet dans un baccalauréat spécialisé de la Faculté, avoir au moins 54 crédits au moment de la demande et une MPC d'au moins 6,0; les étudiants des cycles supérieurs peuvent aussi en faire. Tu poses ta candidature au début de la session qui précède le stage. Le stage vaut trois, six ou neuf crédits selon ton programme, et deux cours intensifs après le stage peuvent en ajouter six.",
+   "en": "You must be registered full-time in an honours bachelor's in the Faculty, have at least 54 credits when you apply and a CGPA of at least 6.0; graduate students can also do one. Apply at the beginning of the session before the internship. It's worth three, six or nine credits depending on your program, and two intensive courses after the internship can add six more."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Social Sciences — International FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/international/faq"
+   },
+   {
+    "label": "Faculté des sciences sociales — International, FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/international/faq"
+   }
+  ],
+  "related": [
+   "m-numero-eed",
+   "m-fss-mobilite-options",
+   "m-fss-stage-etranger-couts"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-fss-stage-etranger-couts",
+  "category": "international",
+  "keywords": [
+   "sciences sociales",
+   "social sciences",
+   "stage à l étranger",
+   "international internship",
+   "coûts",
+   "costs",
+   "recherche sur le terrain",
+   "field research",
+   "droits de scolarité",
+   "tuition",
+   "ong",
+   "ngo"
+  ],
+  "question": {
+   "fr": "Combien coûte un stage à l'étranger ou un cours de recherche sur le terrain en sciences sociales ?",
+   "en": "How much does an international internship or field research course cost in Social Sciences?"
+  },
+  "answer": {
+   "fr": "Une session de stage à l'étranger ne coûte pas plus cher qu'une session à Ottawa : tu paies les frais du stage et les droits de scolarité selon le nombre de crédits. Pour un cours de recherche sur le terrain, les coûts varient selon la destination, et tu paies ton séjour, tes déplacements et les droits selon les crédits.",
+   "en": "A session on an international internship costs the same as a session in Ottawa: you pay the internship fees and tuition based on the number of credits. For a field research course, costs vary by destination, and you pay for your accommodation, transportation and tuition based on the credits."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Social Sciences — International FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/international/faq"
+   },
+   {
+    "label": "Faculté des sciences sociales — International, FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/international/faq"
+   }
+  ],
+  "related": [
+   "m-numero-eed",
+   "m-fss-mobilite-options",
+   "m-fss-stage-etranger-conditions"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-psy-doctorat-admission",
+  "category": "admissions",
+  "keywords": [
+   "psychologie clinique",
+   "clinical psychology",
+   "psychologie expérimentale",
+   "experimental psychology",
+   "doctorat",
+   "phd",
+   "baccalauréat spécialisé",
+   "honours",
+   "thèse de spécialisation",
+   "honours thesis",
+   "8,0",
+   "gre"
+  ],
+  "question": {
+   "fr": "Que faut-il pour être admis au doctorat en psychologie clinique ou expérimentale ?",
+   "en": "What do I need to get into the PhD in Clinical or Experimental Psychology?"
+  },
+  "answer": {
+   "fr": "Il faut un baccalauréat spécialisé en psychologie avec une thèse de spécialisation, ou l'équivalent, et une moyenne de 8,0 (A- ou 80 %) sur les 20 derniers cours ou 60 crédits; en clinique, au moins 20 cours de psychologie au premier cycle. Le GRE n'est pas exigé et n'est pas pris en compte s'il est soumis. Les programmes mènent au Ph.D., et seuls les candidats qui comptent terminer le doctorat sont admis.",
+   "en": "You need an honours bachelor's in psychology with an honours thesis, or the equivalent, and a GPA of 8.0 (A- or 80%) over the last 20 courses or 60 credits; for the clinical program, at least 20 undergraduate psychology courses. The GRE isn't required and isn't considered if submitted. The programs lead to a PhD, and only candidates intending to complete the doctorate are admitted."
+  },
+  "sources": [
+   {
+    "label": "Clinical Psychology graduate program — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/psychology/graduate/clinical-psychology/faq"
+   },
+   {
+    "label": "Psychologie clinique, études supérieures — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/psychologie/etudes-superieures/psychologie-clinique/faq"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-psy-doctorat-duree",
+  "category": "programmes",
+  "keywords": [
+   "psychologie clinique",
+   "clinical psychology",
+   "psychologie expérimentale",
+   "experimental psychology",
+   "doctorat",
+   "phd",
+   "durée",
+   "duration",
+   "temps partiel",
+   "part-time",
+   "7 ans",
+   "6 ans"
+  ],
+  "question": {
+   "fr": "Combien de temps dure le doctorat en psychologie, et peut-on le faire à temps partiel ?",
+   "en": "How long is the PhD in Psychology, and can I do it part-time?"
+  },
+  "answer": {
+   "fr": "En moyenne, il faut 7 ans pour terminer le programme clinique et 6 ans pour le programme expérimental. Le programme est offert à temps complet seulement : il n'y a pas d'option à temps partiel.",
+   "en": "On average, it takes 7 years to complete the clinical program and 6 years for the experimental program. The program is offered full-time only: there's no part-time option."
+  },
+  "sources": [
+   {
+    "label": "Clinical Psychology graduate program — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/psychology/graduate/clinical-psychology/faq"
+   },
+   {
+    "label": "Psychologie clinique, études supérieures — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/psychologie/etudes-superieures/psychologie-clinique/faq"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-esapi-bilingue",
+  "category": "admissions",
+  "keywords": [
+   "ésapi",
+   "gspia",
+   "affaires publiques et internationales",
+   "public and international affairs",
+   "bilingue",
+   "bilingual",
+   "langue seconde",
+   "second language",
+   "sécurité et défense",
+   "security and defence",
+   "durabilité",
+   "sustainability"
+  ],
+  "question": {
+   "fr": "Dois-je être bilingue pour étudier à l'École supérieure d'affaires publiques et internationales ?",
+   "en": "Do I need to be bilingual to study at the Graduate School of Public and International Affairs?"
+  },
+  "answer": {
+   "fr": "Non, il n'est pas nécessaire d'être bilingue pour postuler. Les maîtrises en sécurité et défense et en durabilité environnementale n'exigent pas la seconde langue officielle, mais la maîtrise en affaires publiques et internationales exige une connaissance passive de l'autre langue et la réussite d'un cours de langue seconde. Tu peux toujours intervenir et remettre tes travaux dans la langue de ton choix.",
+   "en": "No, you don't need to be bilingual to apply. The master's programs in security and defence and in environmental sustainability don't require the second official language, but the MA in Public and International Affairs requires passive knowledge of the other language and passing a second-language course. You can always take part and submit work in the language of your choice."
+  },
+  "sources": [
+   {
+    "label": "Graduate School of Public and International Affairs — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/public-international-affairs/graduate/faq"
+   },
+   {
+    "label": "École supérieure d'affaires publiques et internationales — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/affaires-publiques-internationales/etudes-superieures/faq"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-esapi-temps-partiel-moyenne",
+  "category": "reglements",
+  "keywords": [
+   "ésapi",
+   "gspia",
+   "affaires publiques et internationales",
+   "temps partiel",
+   "part-time",
+   "temps complet",
+   "full-time",
+   "moyenne",
+   "average",
+   "c+",
+   "65 %",
+   "boursiers",
+   "retrait"
+  ],
+  "question": {
+   "fr": "À l'ÉSAPI, est-ce que je peux passer à temps partiel, et quelle moyenne dois-je garder ?",
+   "en": "At GSPIA, can I switch to part-time, and what average must I keep?"
+  },
+  "answer": {
+   "fr": "Ton statut dépend du programme où tu as été admis, à temps complet ou à temps partiel, et tu ne peux pas changer une fois admis; le nombre de cours ne détermine pas ton statut. Les boursiers doivent garder une moyenne de 8,0 sur 10 (A-), les autres la note de passage de 65 % (C+) dans tous les cours. Deux échecs, soit 6 crédits, entraînent un retrait automatique du programme.",
+   "en": "Your status depends on the program you were admitted to, full-time or part-time, and you can't switch once admitted; the number of courses doesn't determine your status. Scholarship students must keep an 8.0 out of 10 (A-) average, others the graduate pass mark of 65% (C+) in all courses. Failing two courses, or 6 credits, leads to automatic withdrawal from the program."
+  },
+  "sources": [
+   {
+    "label": "Graduate School of Public and International Affairs — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/public-international-affairs/graduate/faq"
+   },
+   {
+    "label": "École supérieure d'affaires publiques et internationales — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/affaires-publiques-internationales/etudes-superieures/faq"
+   }
+  ],
+  "related": [
+   "m-lapho-code",
+   "m-bed-report-pause"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-msi-admission",
+  "category": "admissions",
+  "keywords": [
+   "maîtrise en sciences de l information",
+   "master of information studies",
+   "msi",
+   "mis",
+   "bibliothécaire",
+   "librarian",
+   "admission",
+   "gre",
+   "bilingue",
+   "bilingual",
+   "baccalauréat spécialisé",
+   "honours"
+  ],
+  "question": {
+   "fr": "Quelles sont les exigences d'admission à la maîtrise en sciences de l'information ?",
+   "en": "What are the admission requirements for the Master of Information Studies?"
+  },
+  "answer": {
+   "fr": "Il faut un baccalauréat spécialisé de quatre ans ou l'équivalent avec une moyenne de B, des compétences en français et en anglais, et des connaissances en informatique; les résultats du GRE ne sont pas acceptés. Les étudiants doivent être fonctionnellement bilingues, ce qui se démontre par exemple avec un B en compréhension à l'examen de langue du gouvernement fédéral ou F7 et E7 à l'examen de l'ILOB. Sans baccalauréat, l'admission à la maîtrise n'est pas possible.",
+   "en": "You need a four-year honours bachelor's or the equivalent with a B average, competence in French and English, and computer literacy; GRE scores aren't accepted. Students must be functionally bilingual, shown for example by a B in comprehension on the federal government language exam or F7 and E7 on the OLBI exam. Without a bachelor's degree, admission to the master's isn't possible."
+  },
+  "sources": [
+   {
+    "label": "Information Studies — Admissions FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/information-studies/faqs"
+   },
+   {
+    "label": "Sciences de l'information — FAQ sur les admissions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-arts/sciences-information/faq"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-msi-dates-emploi",
+  "category": "admissions",
+  "keywords": [
+   "maîtrise en sciences de l information",
+   "master of information studies",
+   "msi",
+   "mis",
+   "date limite",
+   "deadline",
+   "1er avril",
+   "april 1",
+   "15 septembre",
+   "september 15",
+   "emploi",
+   "job",
+   "placement"
+  ],
+  "question": {
+   "fr": "Quelles sont les dates limites de la maîtrise en sciences de l'information, et les diplômés trouvent-ils un emploi ?",
+   "en": "What are the deadlines for the Master of Information Studies, and do graduates find jobs?"
+  },
+  "answer": {
+   "fr": "Pour les Canadiens, la date limite est le 1er avril pour l'automne et le 15 septembre pour l'hiver suivant; pour les étudiants internationaux, c'est le 1er février pour l'automne et le 1er mai pour l'hiver. Un emploi n'est pas garanti, mais depuis le début du programme en 2009, 83 % des diplômés ont trouvé un emploi à temps plein dans les six mois suivant l'obtention du diplôme.",
+   "en": "For Canadians, the deadline is April 1 for fall and September 15 for the following winter; for international students, it's February 1 for fall and May 1 for winter. A job isn't guaranteed, but since the program began in 2009, 83% of graduates have found full-time employment within six months of graduating."
+  },
+  "sources": [
+   {
+    "label": "Information Studies — Admissions FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/information-studies/faqs"
+   },
+   {
+    "label": "Sciences de l'information — FAQ sur les admissions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-arts/sciences-information/faq"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cycles-sup-frais-demande",
+  "category": "admissions",
+  "keywords": [
+   "frais de demande",
+   "application fee",
+   "120 $",
+   "cycles supérieurs",
+   "graduate studies",
+   "maîtrise",
+   "master",
+   "doctorat",
+   "phd",
+   "plusieurs programmes",
+   "more than one program",
+   "ouac"
+  ],
+  "question": {
+   "fr": "Combien coûte une demande d'admission aux études supérieures, et faut-il payer pour chaque programme ?",
+   "en": "How much does a graduate application cost, and do I pay for each program?"
+  },
+  "answer": {
+   "fr": "Les frais de demande sont de 120 $ en fonds canadiens, et ils s'appliquent à chaque programme demandé. Les dates limites varient d'un programme à l'autre, et une offre d'admission n'est valable que pour une seule session.",
+   "en": "The application fee is $120 in Canadian funds, and it applies to each program you apply to. Deadlines vary by program, and an offer of admission is valid for only one session."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Social Sciences — Graduate studies FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/programs/graduate/frequently-asked-questions"
+   },
+   {
+    "label": "Faculté des sciences sociales — Études supérieures, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/programmes/etudes-superieures/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cycles-sup-duree",
+  "category": "programmes",
+  "keywords": [
+   "durée",
+   "how long",
+   "cycles supérieurs",
+   "graduate studies",
+   "maîtrise",
+   "master",
+   "doctorat",
+   "phd",
+   "thèse",
+   "thesis",
+   "mémoire",
+   "major paper",
+   "option cours",
+   "course option"
+  ],
+  "question": {
+   "fr": "Combien de temps durent les études supérieures ?",
+   "en": "How long do graduate studies take?"
+  },
+  "answer": {
+   "fr": "En général, la maîtrise avec option cours prend un an, la maîtrise avec mémoire un à deux ans et la maîtrise avec thèse deux ans. Le doctorat prend en moyenne quatre ans, avec un maximum de six ans.",
+   "en": "Generally, a course-based master's takes one year, a master's with major paper one to two years, and a master's with thesis two years. A doctorate takes four years on average, with a maximum of six years."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Social Sciences — Graduate studies FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/programs/graduate/frequently-asked-questions"
+   },
+   {
+    "label": "Faculté des sciences sociales — Études supérieures, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/programmes/etudes-superieures/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cycles-sup-bourse-admission",
+  "category": "finances",
+  "keywords": [
+   "bourse d admission",
+   "admission scholarship",
+   "cycles supérieurs",
+   "graduate",
+   "maîtrise",
+   "master",
+   "8,0",
+   "automatique",
+   "automatic",
+   "résident permanent",
+   "canadien",
+   "temps complet"
+  ],
+  "question": {
+   "fr": "Comment obtenir la bourse d'admission aux études supérieures ?",
+   "en": "How do I get the graduate admission scholarship?"
+  },
+  "answer": {
+   "fr": "Pour l'automne et l'hiver, elle est attribuée automatiquement aux étudiants canadiens ou résidents permanents dont la moyenne d'admission est d'au moins 8,0 sur 10 et qui s'inscrivent à temps complet sans interruption pendant la durée de la bourse.",
+   "en": "For fall and winter, it's awarded automatically to Canadian and permanent resident students with an admission average of 8.0 out of 10 or more who register full-time without interruption for the duration of the scholarship."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Social Sciences — Graduate studies FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/programs/graduate/frequently-asked-questions"
+   },
+   {
+    "label": "Faculté des sciences sociales — Études supérieures, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/programmes/etudes-superieures/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-cal-depot",
+   "m-cal-paiement-remboursement",
+   "m-cal-droits-citoyens"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-genie-en-ligne-format",
+  "category": "programmes",
+  "keywords": [
+   "programmes en ligne",
+   "online programs",
+   "génie",
+   "engineering",
+   "gestion en ingénierie",
+   "engineering management",
+   "travailler",
+   "work",
+   "temps partiel",
+   "part-time",
+   "campus",
+   "durée",
+   "20 mois"
+  ],
+  "question": {
+   "fr": "Comment fonctionnent les programmes en ligne de la Faculté de génie ?",
+   "en": "How do the Faculty of Engineering's online programs work?"
+  },
+  "answer": {
+   "fr": "Ils sont à temps partiel et conçus pour que tu puisses travailler : un ou deux cours par trimestre de 15 semaines, et tu n'as jamais besoin de venir sur le campus, sauf si tu veux assister à la collation des grades. Une maîtrise de dix cours peut se faire en cinq trimestres, soit 20 mois, et le diplôme d'études supérieures en gestion en ingénierie, cinq cours, se fait habituellement en un an. Il y a trois rentrées par année : automne, hiver et printemps-été.",
+   "en": "They're part-time and designed so you can keep working: one or two courses per 15-week term, and you never need to come to campus, unless you want to attend convocation. A ten-course master's can be done in five terms, or 20 months, and the five-course Graduate Diploma in Engineering Management usually takes one year. There are three intakes a year: fall, winter and spring/summer."
+  },
+  "sources": [
+   {
+    "label": "FAQ — Online programs, Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/online-programs/faq"
+   },
+   {
+    "label": "FAQ — Programmes en ligne, Faculté de génie — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-genie/programmes-en-ligne/faq"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-genie-en-ligne-concentrations",
+  "category": "programmes",
+  "keywords": [
+   "programmes en ligne",
+   "online programs",
+   "génie",
+   "engineering",
+   "concentrations",
+   "cybersécurité",
+   "cybersecurity",
+   "analyse des données",
+   "data analytics",
+   "gestion de projets",
+   "project management",
+   "ux"
+  ],
+  "question": {
+   "fr": "Quelles concentrations sont offertes dans les maîtrises en ligne en génie ?",
+   "en": "What concentrations are offered in the online engineering master's programs?"
+  },
+  "answer": {
+   "fr": "Il y en a six : gestion de projets technologiques, analyse des données, gestion de la production, gestion de l'innovation des produits, conception de l'expérience utilisateur et cybersécurité. Chacune comprend trois cours au choix, et tu peux en faire une ou deux, ou choisir des cours isolés.",
+   "en": "There are six: technology project management, data analytics, operations management, product innovation management, UX design and cybersecurity. Each includes three electives, and you can complete one or two, or choose individual electives."
+  },
+  "sources": [
+   {
+    "label": "FAQ — Online programs, Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/online-programs/faq"
+   },
+   {
+    "label": "FAQ — Programmes en ligne, Faculté de génie — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-genie/programmes-en-ligne/faq"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-genie-en-ligne-langue-admission",
+  "category": "admissions",
+  "keywords": [
+   "programmes en ligne",
+   "online programs",
+   "génie",
+   "engineering",
+   "anglais",
+   "english",
+   "langue",
+   "language",
+   "gre",
+   "gmat",
+   "frais de demande",
+   "application fee",
+   "125 $",
+   "report",
+   "defer"
+  ],
+  "question": {
+   "fr": "Dans quelle langue sont les programmes en ligne en génie, et que faut-il pour postuler ?",
+   "en": "What language are the online engineering programs in, and what do I need to apply?"
+  },
+  "answer": {
+   "fr": "Pour l'instant, ils sont offerts uniquement en anglais, mais tu as le droit de faire tous tes travaux en français ou en anglais. Aucun résultat au GRE ou au GMAT n'est exigé, et les frais de demande sont de 125 $, non remboursables. L'admission ne peut pas être différée : l'offre est valide seulement pour le trimestre indiqué.",
+   "en": "For now, they're taught only in English, but you have the right to complete all your work in French or English. No GRE or GMAT scores are required, and there's a $125 non-refundable application fee. Admission can't be deferred: the offer is valid only for the term specified."
+  },
+  "sources": [
+   {
+    "label": "FAQ — Online programs, Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/online-programs/faq"
+   },
+   {
+    "label": "FAQ — Programmes en ligne, Faculté de génie — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-genie/programmes-en-ligne/faq"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-genie-en-ligne-droits",
+  "category": "finances",
+  "keywords": [
+   "programmes en ligne",
+   "online programs",
+   "génie",
+   "engineering",
+   "droits de scolarité",
+   "tuition",
+   "2 448 $",
+   "coût",
+   "cost",
+   "maîtrise",
+   "master",
+   "diplôme d études supérieures",
+   "graduate diploma"
+  ],
+  "question": {
+   "fr": "Combien coûtent les programmes en ligne de la Faculté de génie ?",
+   "en": "How much do the Faculty of Engineering's online programs cost?"
+  },
+  "answer": {
+   "fr": "Les droits sont de 2 448 $ par cours de trois crédits. Chacune des trois maîtrises totalise 24 480 $, et le diplôme d'études supérieures, 12 240 $. Les droits sont facturés chaque trimestre selon le nombre de cours auxquels tu es inscrit.",
+   "en": "Tuition is $2,448 per three-unit course. Each of the three master's degrees totals $24,480, and the graduate diploma totals $12,240. Tuition is charged each term based on the number of courses you enrol in."
+  },
+  "sources": [
+   {
+    "label": "FAQ — Online programs, Faculty of Engineering — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/online-programs/faq"
+   },
+   {
+    "label": "FAQ — Programmes en ligne, Faculté de génie — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-genie/programmes-en-ligne/faq"
+   }
+  ],
+  "related": [
+   "m-cal-depot",
+   "m-cal-paiement-remboursement",
+   "m-cal-droits-citoyens"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bcom-admission",
+  "category": "admissions",
+  "keywords": [
+   "bcom",
+   "baccalauréat en commerce",
+   "bachelor of commerce",
+   "telfer",
+   "admission",
+   "préalables",
+   "prerequisites",
+   "eng4u",
+   "mhf4u",
+   "mcv4u",
+   "78 %",
+   "moyenne",
+   "average"
+  ],
+  "question": {
+   "fr": "Quelles sont les conditions d'admission au baccalauréat en commerce (BCom) de Telfer ?",
+   "en": "What are the admission requirements for the Telfer Bachelor of Commerce (BCom)?"
+  },
+  "answer": {
+   "fr": "Pour les élèves du secondaire de l'Ontario, il faut le DESO avec six cours 4U ou 4M, dont l'anglais (ENG4U), les fonctions avancées (MHF4U) et le calcul et vecteurs (MCV4U), et une moyenne d'admission minimale d'environ 78 %, qui peut changer chaque année. Certaines options, comme le coop ou l'immersion en français, peuvent exiger une moyenne plus élevée. La demande se fait par le Centre de demande d'admission aux universités de l'Ontario (OUAC).",
+   "en": "For Ontario high school students, you need the OSSD with six 4U or 4M courses, including English (ENG4U), Advanced Functions (MHF4U) and Calculus and Vectors (MCV4U), and a minimum admission average of around 78%, which can change each year. Some options, like co-op or French immersion, may require a higher average. You apply through the Ontario Universities' Application Centre (OUAC)."
+  },
+  "sources": [
+   {
+    "label": "BCom FAQ — Eligibility and admissions — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/bcom/faq/eligibility-and-admissions"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bcom-dates-limites",
+  "category": "admissions",
+  "keywords": [
+   "bcom",
+   "telfer",
+   "date limite",
+   "deadline",
+   "1er juin",
+   "june 1",
+   "1er avril",
+   "april 1",
+   "janvier",
+   "january",
+   "hiver",
+   "winter",
+   "ouac"
+  ],
+  "question": {
+   "fr": "Quelle est la date limite pour faire une demande au BCom de Telfer ?",
+   "en": "What is the application deadline for the Telfer BCom?"
+  },
+  "answer": {
+   "fr": "Pour l'automne, la date limite est le 1er juin pour les élèves du secondaire de l'Ontario et les transferts d'universités ou de collèges canadiens, et le 1er avril pour les étudiants internationaux. Tu peux aussi commencer en janvier : il faut alors faire ta demande par l'OUAC avant la troisième semaine d'octobre, la période s'ouvrant à la mi-septembre. Postuler tôt améliore tes chances pour les bourses, le coop et le choix de cours.",
+   "en": "For fall, the deadline is June 1 for Ontario high school students and Canadian university or college transfers, and April 1 for international students. You can also start in January: you then apply through OUAC by the third week of October, with the application period opening in mid-September. Applying early improves your chances for scholarships, co-op and course selection."
+  },
+  "sources": [
+   {
+    "label": "BCom FAQ — Eligibility and admissions — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/bcom/faq/eligibility-and-admissions"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bcom-taille-cohorte",
+  "category": "programmes",
+  "keywords": [
+   "bcom",
+   "telfer",
+   "taille",
+   "class size",
+   "cohorte",
+   "cohort",
+   "étudiants internationaux",
+   "international students",
+   "pays",
+   "countries",
+   "1 200",
+   "25 %"
+  ],
+  "question": {
+   "fr": "Combien d'étudiants entrent au BCom de Telfer chaque année, et combien sont internationaux ?",
+   "en": "How many students start the Telfer BCom each year, and how many are international?"
+  },
+  "answer": {
+   "fr": "La cohorte de première année compte généralement de 1 200 à 1 300 étudiants, toutes options et tous volets linguistiques confondus. Les étudiants internationaux forment habituellement de 25 à 30 % des étudiants de premier cycle à Telfer, et l'École accueille des étudiants de plus de 90 pays.",
+   "en": "The first-year class generally has 1,200 to 1,300 students across all options and language streams. International students typically make up 25 to 30% of Telfer's undergraduates, and the School has students from over 90 countries."
+  },
+  "sources": [
+   {
+    "label": "BCom FAQ — International students — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/bcom/faq/international-students"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bcom-immersion",
+  "category": "programmes",
+  "keywords": [
+   "bcom",
+   "telfer",
+   "immersion en français",
+   "french immersion",
+   "bilingue",
+   "bilingual",
+   "test d entrée en immersion",
+   "immersion entry test",
+   "notes qualitatives",
+   "qualitative grades",
+   "un tiers"
+  ],
+  "question": {
+   "fr": "Comment fonctionne l'immersion en français au BCom de Telfer ?",
+   "en": "How does French immersion work in the Telfer BCom?"
+  },
+  "answer": {
+   "fr": "Tu suis au moins le tiers de tes cours en français et le reste en anglais. Il faut avoir fait des cours avancés de français langue seconde en 11e ou 12e année, choisir l'option immersion dans ta demande à l'OUAC, puis réussir le test d'entrée en immersion après ton offre. Tu peux opter pour des notes qualitatives, satisfaisant ou non satisfaisant, pour jusqu'à huit cours en français pendant tes deux premières années.",
+   "en": "You take at least one third of your courses in French and the rest in English. You should have taken advanced French as a second language courses in Grade 11 or 12, select the immersion option in your OUAC application, then pass the Immersion Entry Test after receiving your offer. You can choose qualitative grades, satisfactory or not satisfactory, for up to eight French courses during your first two years."
+  },
+  "sources": [
+   {
+    "label": "BCom FAQ — Program structure and curriculum — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/bcom/faq/program-structure-and-curriculum"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bcom-regulier-coop",
+  "category": "programmes",
+  "keywords": [
+   "bcom",
+   "telfer",
+   "coop",
+   "co-op",
+   "régulier",
+   "regular",
+   "stages",
+   "work terms",
+   "durée",
+   "duration",
+   "16 mois",
+   "16 months",
+   "quatre ans"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre le BCom régulier et le BCom coop à Telfer ?",
+   "en": "What's the difference between the regular and co-op BCom at Telfer?"
+  },
+  "answer": {
+   "fr": "Les deux mènent au même diplôme. Le régulier compte huit trimestres d'études, soit environ quatre ans. En coop, tu alternes études et stages rémunérés dès la deuxième année, avec trois ou quatre stages et jusqu'à 16 mois d'expérience, sur quatre ans et demi à cinq ans; l'admission y est compétitive, avec une demande distincte pendant ta première année.",
+   "en": "Both lead to the same degree. The regular program has eight study terms, about four years. In co-op, you alternate study terms with paid work terms starting in second year, with three or four work terms and up to 16 months of experience, over four and a half to five years; admission is competitive, with a separate application during your first year."
+  },
+  "sources": [
+   {
+    "label": "BCom FAQ — Program structure and curriculum — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/bcom/faq/program-structure-and-curriculum"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bcom-titres-professionnels",
+  "category": "programmes",
+  "keywords": [
+   "bcom",
+   "telfer",
+   "cpa",
+   "cfa",
+   "crha",
+   "chrp",
+   "titre professionnel",
+   "professional designation",
+   "comptabilité",
+   "accounting",
+   "finance",
+   "ressources humaines"
+  ],
+  "question": {
+   "fr": "Est-ce que des options du BCom de Telfer préparent aux titres professionnels comme CPA ou CFA ?",
+   "en": "Do Telfer BCom options prepare you for designations like CPA or CFA?"
+  },
+  "answer": {
+   "fr": "Oui. L'option comptabilité est alignée sur les exigences du titre de CPA, la finance prépare entre autres au CFA et aux certifications de FP Canada, et la gestion des ressources humaines est alignée sur le titre de CHRP, avec des cours reconnus par la HRPA. L'option gestion des technologies d'affaires est reconnue par le ITAC BTM Forum.",
+   "en": "Yes. The Accounting option is aligned with CPA designation requirements, Finance prepares you for designations such as the CFA and FP Canada certifications, and Human Resource Management is aligned with the CHRP designation, with courses recognized by the HRPA. Business Technology Management is recognized under the ITAC BTM Forum."
+  },
+  "sources": [
+   {
+    "label": "BCom FAQ — Program structure and curriculum — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/bcom/faq/program-structure-and-curriculum"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bcom-en-ligne",
+  "category": "cours",
+  "keywords": [
+   "bcom",
+   "telfer",
+   "en ligne",
+   "online",
+   "hybride",
+   "hybrid",
+   "en personne",
+   "in person",
+   "desmarais",
+   "cours",
+   "courses"
+  ],
+  "question": {
+   "fr": "Est-ce qu'on peut faire le BCom de Telfer en ligne ?",
+   "en": "Can I do the Telfer BCom online?"
+  },
+  "answer": {
+   "fr": "Non, aucun programme n'est entièrement en ligne. La plupart des cours se donnent en personne au pavillon Desmarais, au centre-ville d'Ottawa, mais certains cours, surtout des cours au choix ou d'introduction, sont offerts en ligne ou en mode hybride.",
+   "en": "No, there are no fully online programs. Most courses are taught in person at the Desmarais Building in downtown Ottawa, but some courses, particularly electives or introductory classes, are offered online or in a hybrid format."
+  },
+  "sources": [
+   {
+    "label": "BCom FAQ — Program structure and curriculum — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/bcom/faq/program-structure-and-curriculum"
+   }
+  ],
+  "related": [
+   "m-majeure-fls-en-ligne",
+   "m-bed-etudiant-special"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-mba-admission",
+  "category": "admissions",
+  "keywords": [
+   "mba",
+   "telfer",
+   "admission",
+   "expérience de travail",
+   "work experience",
+   "trois ans",
+   "three years",
+   "baccalauréat",
+   "bachelor",
+   "70 %",
+   "sans diplôme en commerce",
+   "without business degree"
+  ],
+  "question": {
+   "fr": "Quelles sont les conditions d'admission au MBA de Telfer ?",
+   "en": "What are the admission requirements for the Telfer MBA?"
+  },
+  "answer": {
+   "fr": "Il faut un baccalauréat canadien ou l'équivalent avec une moyenne d'au moins B (70 %) sur les 20 derniers cours, un résultat concurrentiel au GMAT, au GRE, au TAGE MAGE ou au TCT, et au moins trois ans d'expérience de travail à temps plein; les emplois à temps partiel, d'été et les stages coop ne comptent pas dans ces trois ans. Pas besoin d'un diplôme en commerce : des étudiants viennent du génie, de la santé, du gouvernement et d'ailleurs.",
+   "en": "You need a Canadian bachelor's or equivalent with at least a B (70%) average over the last 20 courses, a competitive GMAT, GRE, TAGE MAGE or TCT score, and at least three years of full-time work experience; part-time positions, summer jobs and co-op placements don't count toward those three years. You don't need a business degree: students come from engineering, healthcare, government and more."
+  },
+  "sources": [
+   {
+    "label": "MBA FAQ — Eligibility and admissions — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/mba/faq/eligibility-and-admissions"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-mba-tests-admission",
+  "category": "admissions",
+  "keywords": [
+   "mba",
+   "telfer",
+   "gmat",
+   "gre",
+   "tage mage",
+   "tct",
+   "test d admission",
+   "admissions test",
+   "exemption",
+   "waiver",
+   "mba en français",
+   "french mba"
+  ],
+  "question": {
+   "fr": "Quel test d'admission faut-il passer pour le MBA de Telfer ?",
+   "en": "Which admissions test do I need for the Telfer MBA?"
+  },
+  "answer": {
+   "fr": "Le MBA en français exige le TAGE MAGE ou le TCT, et deux séances en ligne du TCT sont offertes à ceux qui ne peuvent pas passer le TAGE MAGE. Le MBA en anglais exige le GMAT ou le GRE, sans préférence entre les deux. Si tu as un diplôme de l'Université d'Ottawa ou d'une autre université canadienne, tu pourrais être exempté du test.",
+   "en": "The French MBA requires the TAGE MAGE or TCT, and two online TCT sessions are offered for those who can't take the TAGE MAGE. The English MBA requires the GMAT or GRE, with no preference between them. If you have a degree from uOttawa or another Canadian university, you may be eligible to waive the test."
+  },
+  "sources": [
+   {
+    "label": "MBA FAQ — Entrance exams — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/mba/faq/entrance-exams"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-mba-dates",
+  "category": "calendrier",
+  "keywords": [
+   "mba",
+   "telfer",
+   "date limite",
+   "deadline",
+   "15 mai",
+   "may 15",
+   "1er mars",
+   "march 1",
+   "fête du travail",
+   "labour day",
+   "début des cours",
+   "classes start",
+   "admission continue",
+   "rolling admissions"
+  ],
+  "question": {
+   "fr": "Quelles sont les dates limites du MBA de Telfer et quand commencent les cours ?",
+   "en": "What are the Telfer MBA deadlines, and when do classes start?"
+  },
+  "answer": {
+   "fr": "La date limite est le 15 mai pour les citoyens canadiens et résidents permanents, et le 1er mars pour les candidats internationaux. Les cours commencent la semaine suivant la fête du Travail. Si tu manques la date limite, tu peux quand même postuler : grâce à l'admission continue, ton dossier sera évalué pour la prochaine année disponible.",
+   "en": "The deadline is May 15 for Canadian citizens and permanent residents, and March 1 for international applicants. Classes start the week after Labour Day. If you miss the deadline, you can still apply: with rolling admissions, your file will be reviewed for the next available academic year."
+  },
+  "sources": [
+   {
+    "label": "MBA FAQ — Important dates — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/mba/faq/important-dates"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-mba-horaire-travail",
+  "category": "programmes",
+  "keywords": [
+   "mba",
+   "telfer",
+   "mba professionnel",
+   "professional mba",
+   "horaire",
+   "schedule",
+   "soirs",
+   "evenings",
+   "fins de semaine",
+   "weekends",
+   "travailler",
+   "work",
+   "en ligne",
+   "online",
+   "class size"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux travailler pendant le MBA de Telfer ? Quel est l'horaire ?",
+   "en": "Can I work while doing the Telfer MBA? What's the schedule?"
+  },
+  "answer": {
+   "fr": "Oui, le MBA professionnel est conçu pour que tu continues à travailler : les cours ont lieu le soir, une ou deux fois par semaine, et une fin de semaine sur deux, pour terminer en deux ans; il est tout de même considéré comme un programme à temps plein. Il n'y a pas de MBA en ligne, mais le MBA professionnel en français est hybride. Les classes comptent de 30 à 40 étudiants en anglais et de 15 à 20 en français.",
+   "en": "Yes, the Professional MBA is designed so you can keep working: classes are in the evenings, once or twice a week, and every other weekend, so you finish in two years; it's still considered a full-time program. There's no online MBA, but the French Professional MBA is hybrid. Classes have 30 to 40 students in English and 15 to 20 in French."
+  },
+  "sources": [
+   {
+    "label": "MBA FAQ — Program and structure — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/mba/faq/program-and-structure"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-telfer-agrements",
+  "category": "programmes",
+  "keywords": [
+   "telfer",
+   "agrément",
+   "accreditation",
+   "aacsb",
+   "amba",
+   "equis",
+   "triple couronne",
+   "triple crown",
+   "mba",
+   "école de gestion",
+   "business school",
+   "réputation"
+  ],
+  "question": {
+   "fr": "Quels agréments détient l'École de gestion Telfer ?",
+   "en": "What accreditations does the Telfer School of Management hold?"
+  },
+  "answer": {
+   "fr": "Telfer détient les agréments AACSB, AMBA et EQUIS. Selon l'École, cette triple couronne n'est détenue que par deux établissements au Canada et environ 1 % des écoles de gestion dans le monde.",
+   "en": "Telfer holds AACSB, AMBA and EQUIS accreditations. According to the School, this Triple Crown is held by only two institutions in Canada and about 1% of business schools worldwide."
+  },
+  "sources": [
+   {
+    "label": "MBA FAQ — Program and structure — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/mba/faq/program-and-structure"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-telfer-campus-cadres",
+  "category": "batiments",
+  "keywords": [
+   "telfer",
+   "programmes pour cadres",
+   "executive programs",
+   "campus des cadres",
+   "executive campus",
+   "99 rue bank",
+   "99 bank street",
+   "sun life",
+   "parlement",
+   "parliament station",
+   "stationnement",
+   "parking"
+  ],
+  "question": {
+   "fr": "Où se trouve le campus des programmes pour cadres de Telfer ?",
+   "en": "Where is the Telfer Executive Campus?"
+  },
+  "answer": {
+   "fr": "Les programmes en personne ont lieu au campus des cadres de Telfer, au deuxième étage du Centre Sun Life, 99, rue Bank, bureau 200. En O-Train, descends à la station Parlement de la Ligne 1. Du stationnement payant est offert au 99, rue Bank en semaine, et la fin de semaine, il faut plutôt aller au stationnement souterrain de la World Exchange Plaza.",
+   "en": "In-person programs take place at the Telfer Executive Campus, on the second floor of the Sun Life Financial Centre, 99 Bank Street, Suite 200. By O-Train, get off at Parliament Station on Line 1. Paid parking is available at 99 Bank Street on weekdays; on weekends, use World Exchange Plaza instead."
+  },
+  "sources": [
+   {
+    "label": "Executive Programs FAQ — Participant experience — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/executive-programs/faq/faq-en/participant-experience"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-telfer-cadres-credits",
+  "category": "programmes",
+  "keywords": [
+   "telfer",
+   "programmes pour cadres",
+   "executive programs",
+   "crédits universitaires",
+   "university credit",
+   "badge numérique",
+   "digital badge",
+   "credly",
+   "virtuel",
+   "virtual",
+   "leadership"
+  ],
+  "question": {
+   "fr": "Est-ce que les programmes pour cadres de Telfer donnent des crédits universitaires ?",
+   "en": "Do Telfer Executive Programs give university credit?"
+  },
+  "answer": {
+   "fr": "Non, ce sont des programmes de développement du leadership non crédités; tu reçois un badge numérique Credly à la fin. Ils sont offerts en personne, en mode virtuel en direct ou en formule mixte, et tu dois y assister dans le format prévu.",
+   "en": "No, they're not-for-credit leadership development programs; you receive a Credly digital badge when you finish. They're offered in person, live virtual or blended, and you must attend in the format in which the program is offered."
+  },
+  "sources": [
+   {
+    "label": "Executive Programs FAQ — Program registration — Telfer, uOttawa",
+    "url": "https://telfer.uottawa.ca/en/executive-programs/faq/faq-en/program-registration"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-bed-report-pause",
+  "category": "reglements",
+  "keywords": [
+   "baccalauréat en éducation",
+   "b.ed",
+   "reporter admission",
+   "defer admission",
+   "interruption",
+   "interrupt studies",
+   "pause",
+   "six trimestres",
+   "six terms",
+   "durée maximale",
+   "maximum duration"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux reporter mon admission au B.Éd. ou prendre une pause pendant le programme ?",
+   "en": "Can I defer my B.Ed. admission or take a break during the program?"
+  },
+  "answer": {
+   "fr": "Les reports d'admission ne sont pas acceptés pour le B.Éd. Par contre, tu peux interrompre tes études en écrivant au Bureau des études de premier cycle : si l'interruption dure six trimestres consécutifs ou moins, tu peux te réinscrire sans refaire de demande d'admission. La durée maximale des études est de quatre ans à temps plein et de six ans pour le programme en plusieurs parties.",
+   "en": "Deferral requests aren't accepted for the B.Ed. However, you can interrupt your studies by emailing the undergraduate studies office: if the interruption lasts six consecutive terms or fewer, you can re-enrol without re-applying. The maximum duration of studies is four years for full-time programs and six years for multi-session programs."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Education — Undergraduate studies FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/undergraduate-studies/frequently-asked-questions"
+   },
+   {
+    "label": "Faculté d'éducation — Études de premier cycle, foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-education/etudes-premier-cycle/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-code",
+   "m-esapi-temps-partiel-moyenne"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-pharmd-cegep",
+  "category": "admissions",
+  "keywords": [
+   "pharmd",
+   "pharmacie",
+   "pharmacy",
+   "cégep",
+   "cegep",
+   "québec",
+   "quebec",
+   "équivalences",
+   "equivalencies",
+   "admission",
+   "deux ans",
+   "two years"
+  ],
+  "question": {
+   "fr": "Je viens de terminer mon cégep : est-ce que mes études comptent pour l'admission au PharmD ?",
+   "en": "I just finished CEGEP: do my studies count for PharmD admission?"
+  },
+  "answer": {
+   "fr": "Non, les études de niveau cégep ne sont pas reconnues dans le processus d'admission : il faut compléter deux années à temps plein dans un baccalauréat universitaire. Si un programme universitaire a déjà reconnu des équivalences pour certains cours de cégep, elles pourraient être considérées au cas par cas.",
+   "en": "No, CEGEP studies aren't recognized in the admission process: you must complete two years of full-time study in a university bachelor's program. If a university program has already granted equivalencies for certain CEGEP courses, they may be considered case by case."
+  },
+  "sources": [
+   {
+    "label": "PharmD — Admissions FAQs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/pharmd/admissions/faqs"
+   },
+   {
+    "label": "PharmD — Admissions, FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-medecine/pharmd/admissions/faqs"
+   }
+  ],
+  "related": [
+   "m-papu-exigences",
+   "m-papu-dates",
+   "m-papu-mpc"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cal-journees-integration",
+  "category": "evenements",
+  "keywords": [
+   "journées d intégration",
+   "integration days",
+   "obligatoire",
+   "mandatory",
+   "programme de langue",
+   "language program",
+   "carte étudiante",
+   "student card",
+   "u-pass",
+   "sorties",
+   "outings",
+   "centre d apprentissage des langues"
+  ],
+  "question": {
+   "fr": "Est-ce que les journées d'intégration du Centre d'apprentissage des langues sont obligatoires ?",
+   "en": "Are the Centre for Language Learning's Integration Days mandatory?"
+  },
+  "answer": {
+   "fr": "Oui, elles sont obligatoires : tu y rencontres d'autres étudiants internationaux et certains de tes professeurs, tu récupères ta carte étudiante et ton U-Pass, et tu reçois l'information sur ton assurance maladie. Arrive donc à Ottawa, avec un logement, quelques jours avant le début du programme. Les sorties socioculturelles, elles, ne sont pas obligatoires, mais fortement encouragées pour pratiquer ton anglais.",
+   "en": "Yes, they're mandatory: you meet other international students and some of your teachers, pick up your student card and U-Pass, and get information about your health insurance. So arrive in Ottawa, with accommodation, a few days before your program starts. Sociocultural outings aren't mandatory, but they're strongly encouraged to practise your English."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-cal-preuve-fonds",
+  "category": "international",
+  "keywords": [
+   "preuve de fonds",
+   "proof of funds",
+   "permis d études",
+   "study permit",
+   "relevé de compte",
+   "statement of account",
+   "uozone",
+   "infoservice",
+   "preuve de paiement",
+   "proof of payment",
+   "programme de langue"
+  ],
+  "question": {
+   "fr": "Comment obtenir une preuve de fonds pour ma demande de permis d'études pour un programme de langue ?",
+   "en": "How do I get proof of funds for my study permit application for a language program?"
+  },
+  "answer": {
+   "fr": "Si tu as une offre conditionnelle de l'Université, connecte-toi à uoZone et télécharge ton relevé de compte dans la section Finances. Sinon, demande une preuve de paiement à InfoService en indiquant ton numéro d'étudiant; tu la recevras par courriel.",
+   "en": "If you have a conditional offer from the University, log into uoZone and download your statement of account in the Finances section. Otherwise, request proof of payment from InfoService, including your student number; you'll receive it by email."
+  },
+  "sources": [
+   {
+    "label": "Centre for Language Learning — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/official-languages-bilingualism-institute/centre-language-learning/faq"
+   },
+   {
+    "label": "Centre d'apprentissage des langues — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/institut-langues-officielles-bilinguisme/centre-apprentissage-langues/foire-questions"
+   }
+  ],
+  "related": [
+   "m-numero-eed",
+   "m-fss-mobilite-options",
+   "m-fss-stage-etranger-conditions"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-diplomes-verification-statut",
+  "category": "services",
+  "keywords": [
+   "vérifier diplôme",
+   "verify degree",
+   "statut de diplômé",
+   "graduate status",
+   "embauche",
+   "hiring",
+   "employeur",
+   "employer",
+   "infoservice",
+   "diplômé",
+   "alumni"
+  ],
+  "question": {
+   "fr": "Comment un employeur peut-il vérifier le statut de diplômé d'une personne ?",
+   "en": "How can an employer check someone's graduate status?"
+  },
+  "answer": {
+   "fr": "Pour vérifier le statut de diplômé de quelqu'un en vue d'une embauche, communique avec InfoService.",
+   "en": "To check a graduate's status for a potential hire, contact InfoService."
+  },
+  "sources": [
+   {
+    "label": "Alumni — Frequently asked questions — uOttawa",
+    "url": "https://www.uottawa.ca/alumni/frequently-asked-questions"
+   },
+   {
+    "label": "Diplômés — Foire aux questions — uOttawa",
+    "url": "https://www.uottawa.ca/diplomes/foire-aux-questions"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-coop-assistant-recherche",
+  "category": "services",
+  "keywords": [
+   "assistant de recherche",
+   "research assistant",
+   "coop",
+   "co-op",
+   "embaucher",
+   "hire",
+   "campus",
+   "scfp 2626",
+   "cupe 2626",
+   "professeur",
+   "professor",
+   "convention collective"
+  ],
+  "question": {
+   "fr": "Est-ce qu'un professeur peut embaucher un assistant de recherche sur le campus par le régime coop ?",
+   "en": "Can a professor hire a campus research assistant through co-op?"
+  },
+  "answer": {
+   "fr": "Oui, conformément à l'entente entre l'Université d'Ottawa et la section locale 2626 du Syndicat canadien de la fonction publique (SCFP), les employeurs du campus peuvent embaucher un étudiant coop comme assistant de recherche.",
+   "en": "Yes, under the collective agreement between the University of Ottawa and the Canadian Union of Public Employees (CUPE) Local 2626, campus employers can hire co-op students as research assistants."
+  },
+  "sources": [
+   {
+    "label": "Hire a co-op student — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/services-employers-partners/hire-coop-student/faq"
+   },
+   {
+    "label": "Embaucher un stagiaire coop — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/services-employeurs-partenaires/embaucher-stagiaire-coop/faq"
+   }
+  ],
+  "related": [
+   "m-lapho-commentaires",
+   "m-carte-employe-remplacement",
+   "m-carte-employe-piece-identite"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "m-esapi-specialisations",
+  "category": "programmes",
+  "keywords": [
+   "ésapi",
+   "gspia",
+   "affaires publiques et internationales",
+   "spécialisations",
+   "specializations",
+   "durabilité de l environnement",
+   "environmental sustainability",
+   "science société et politique publique",
+   "science society and policy",
+   "programme pluridisciplinaire",
+   "collaborative program"
+  ],
+  "question": {
+   "fr": "Quelles spécialisations sont offertes à l'École supérieure d'affaires publiques et internationales ?",
+   "en": "What specializations does the Graduate School of Public and International Affairs offer?"
+  },
+  "answer": {
+   "fr": "Il y a le programme pluridisciplinaire en durabilité de l'environnement et le programme pluridisciplinaire en science, société et politique publique. L'inscription à une spécialisation se fait après l'admission, une fois le programme commencé.",
+   "en": "There's the collaborative program in Environmental Sustainability and the collaborative program in Science, Society and Policy. You register for a specialization after admission, once the program has started."
+  },
+  "sources": [
+   {
+    "label": "Graduate School of Public and International Affairs — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/public-international-affairs/graduate/faq"
+   },
+   {
+    "label": "École supérieure d'affaires publiques et internationales — FAQ — uOttawa",
+    "url": "https://www.uottawa.ca/faculte-sciences-sociales/affaires-publiques-internationales/etudes-superieures/faq"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-informatique",
+  "category": "genie",
+  "keywords": [
+   "maitrise en informatique",
+   "master of computer science",
+   "mcs",
+   "master's in computer science",
+   "doctorat en informatique",
+   "phd computer science",
+   "phd en informatique",
+   "computer science graduate",
+   "informatique cycles superieurs",
+   "intelligence artificielle appliquee informatique",
+   "ocics"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise ou un doctorat en informatique ?",
+   "en": "Is there a master's or PhD in computer science?"
+  },
+  "answer": {
+   "fr": "Oui ! La Faculté de génie (École de science informatique et de génie électrique) offre la maîtrise en informatique (MCS) et le doctorat (PhD) en informatique, en partenariat avec l'Université Carleton par l'Institut d'informatique d'Ottawa-Carleton. La maîtrise se fait avec thèse ou avec cours et projet, et propose une option coop, une concentration en intelligence artificielle appliquée et une spécialisation en bio-informatique. Selon le catalogue, ces programmes sont offerts en anglais.",
+   "en": "Yes! The Faculty of Engineering (School of Electrical Engineering and Computer Science) offers the Master of Computer Science (MCS) and a PhD in Computer Science, jointly with Carleton University through the Ottawa-Carleton Institute for Computer Science. The master's can be done with a thesis or with coursework and a project, and offers a co-op option, a concentration in Applied Artificial Intelligence and a specialization in Bioinformatics. According to the catalogue, these programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Computer Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-computer-science/"
+   },
+   {
+    "label": "Maîtrise en informatique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-informatique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Computer Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-computer-science/"
+   }
+  ],
+  "related": [
+   "p-cs-genie-electrique-informatique",
+   "p-cs-genie-civil",
+   "p-cs-genie-mecanique"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-electrique-informatique",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie electrique",
+   "maitrise en genie informatique",
+   "master's in electrical engineering",
+   "master's in computer engineering",
+   "masc electrical and computer engineering",
+   "meng electrical and computer engineering",
+   "doctorat genie electrique",
+   "phd electrical engineering",
+   "phd computer engineering",
+   "ociece",
+   "genie electrique et informatique"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie électrique et informatique ?",
+   "en": "Is there a master's in electrical and computer engineering?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie offre en génie électrique et informatique une maîtrise ès sciences appliquées (MASc, avec thèse), une maîtrise en ingénierie (MEng, avec cours et projet, option coop possible, et une concentration en intelligence artificielle appliquée) ainsi qu'un doctorat (PhD). Ces programmes conjoints avec l'Université Carleton relèvent de l'Institut de génie électrique et informatique d'Ottawa-Carleton et sont offerts en anglais selon le catalogue.",
+   "en": "Yes. The Faculty of Engineering offers, in electrical and computer engineering, a Master of Applied Science (MASc, thesis-based), a Master of Engineering (MEng, coursework and project, with a possible co-op option and a concentration in Applied Artificial Intelligence) and a PhD. These joint programs with Carleton University are run by the Ottawa-Carleton Institute for Electrical and Computer Engineering and are offered in English according to the catalogue."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Electrical and Computer Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-electrical-computer-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées génie électrique et génie informatique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-electrique-genie-informatique/"
+   },
+   {
+    "label": "Master of Engineering Electrical and Computer Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-electrical-computer-engineering/"
+   }
+  ],
+  "related": [
+   "p-cs-informatique",
+   "p-cs-genie-civil",
+   "p-cs-genie-mecanique"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-civil",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie civil",
+   "master's in civil engineering",
+   "masc civil engineering",
+   "meng civil engineering",
+   "doctorat en genie civil",
+   "phd civil engineering",
+   "infrastructure durable et resiliente",
+   "sustainable resilient infrastructure",
+   "ocice",
+   "civil engineering graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie civil ?",
+   "en": "Is there a master's in civil engineering?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de génie civil (Faculté de génie) offre la maîtrise ès sciences appliquées (MASc, avec thèse), la maîtrise en ingénierie (MEng, avec cours et projet) et le doctorat (PhD) en génie civil, conjointement avec l'Université Carleton. La MASc offre aussi une concentration en infrastructure durable et résiliente. Selon le catalogue, ces programmes sont offerts en anglais.",
+   "en": "Yes. The Department of Civil Engineering (Faculty of Engineering) offers the Master of Applied Science (MASc, thesis), the Master of Engineering (MEng, coursework and project) and the PhD in Civil Engineering, jointly with Carleton University. The MASc also offers a concentration in Sustainable and Resilient Infrastructure. According to the catalogue, these programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Civil Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-civil-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées génie civil — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-civil/"
+   },
+   {
+    "label": "Master of Engineering Civil Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-civil-engineering/"
+   }
+  ],
+  "related": [
+   "p-cs-informatique",
+   "p-cs-genie-electrique-informatique",
+   "p-cs-genie-mecanique"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-mecanique",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie mecanique",
+   "master's in mechanical engineering",
+   "masc mechanical engineering",
+   "meng mechanical engineering",
+   "doctorat en genie mecanique",
+   "phd mechanical engineering",
+   "genie aerospatial",
+   "aerospace engineering graduate",
+   "ocimae",
+   "robotique"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie mécanique ?",
+   "en": "Is there a master's in mechanical engineering?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de génie mécanique offre la maîtrise ès sciences appliquées (MASc, avec thèse), la maîtrise en ingénierie (MEng, avec cours et projet, avec option coop) et le doctorat (PhD) en génie mécanique, par l'Institut de génie mécanique et aérospatial d'Ottawa-Carleton. Les axes de recherche incluent la thermique et les fluides, la mécanique des solides, les matériaux, la robotique, le génie biomédical et l'aérospatial. Selon le catalogue, ces programmes sont offerts en anglais.",
+   "en": "Yes. The Department of Mechanical Engineering offers the Master of Applied Science (MASc, thesis), the Master of Engineering (MEng, coursework and project, with a co-op option) and the PhD in Mechanical Engineering, through the Ottawa-Carleton Institute for Mechanical and Aerospace Engineering. Research areas include thermal and fluid engineering, solid mechanics, materials, controls and robotics, biomedical and aerospace engineering. According to the catalogue, these programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Mechanical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-mechanical-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées génie mécanique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-mecanique/"
+   },
+   {
+    "label": "Master of Engineering Mechanical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-mechanical-engineering/"
+   }
+  ],
+  "related": [
+   "p-cs-informatique",
+   "p-cs-genie-electrique-informatique",
+   "p-cs-genie-civil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-chimique",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie chimique",
+   "master's in chemical engineering",
+   "masc chemical engineering",
+   "meng chemical engineering",
+   "doctorat en genie chimique",
+   "phd chemical engineering",
+   "genie chimique et biologique",
+   "chemical and biological engineering",
+   "chemical engineering graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie chimique ?",
+   "en": "Is there a master's in chemical engineering?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de génie chimique et biologique (Faculté de génie) offre la maîtrise ès sciences appliquées (MASc, avec thèse), la maîtrise en ingénierie (MEng, avec cours et projet) et le doctorat (PhD) en génie chimique. Les étudiants de premier cycle du département peuvent aussi commencer la MASc en voie accélérée. Selon le catalogue, ces programmes sont offerts en anglais.",
+   "en": "Yes. The Department of Chemical and Biological Engineering (Faculty of Engineering) offers the Master of Applied Science (MASc, thesis), the Master of Engineering (MEng, coursework and project) and the PhD in Chemical Engineering. The department's undergraduate students can also start the MASc through an accelerated stream. According to the catalogue, these programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Chemical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-chemical-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées génie chimique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-chimique/"
+   },
+   {
+    "label": "Master of Engineering Chemical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-chemical-engineering/"
+   }
+  ],
+  "related": [
+   "p-cs-informatique",
+   "p-cs-genie-electrique-informatique",
+   "p-cs-genie-civil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-environnement",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie de l'environnement",
+   "master's in environmental engineering",
+   "masc environmental engineering",
+   "meng environmental engineering",
+   "doctorat genie de l'environnement",
+   "phd environmental engineering",
+   "traitement de l'eau",
+   "water treatment",
+   "ocience",
+   "environmental engineering graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie de l'environnement ?",
+   "en": "Is there a master's in environmental engineering?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie offre la maîtrise ès sciences appliquées (MASc, avec thèse), la maîtrise en ingénierie (MEng, avec cours et projet) et le doctorat (PhD) en génie de l'environnement, par l'Institut de génie de l'environnement d'Ottawa-Carleton. La plupart des cours sont en anglais, mais la recherche peut se faire en anglais, en français ou dans les deux langues selon le groupe de recherche.",
+   "en": "Yes. The Faculty of Engineering offers the Master of Applied Science (MASc, thesis), the Master of Engineering (MEng, coursework and project) and the PhD in Environmental Engineering, through the Ottawa-Carleton Institute of Environmental Engineering. Most courses are in English, but research can be conducted in English, French or both depending on the research group."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Environmental Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-environmental-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées génie de l'environnement — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-lenvironnement/"
+   },
+   {
+    "label": "Master of Engineering Environmental Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-environmental-engineering/"
+   }
+  ],
+  "related": [
+   "p-cs-informatique",
+   "p-cs-genie-electrique-informatique",
+   "p-cs-genie-civil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-biomedical",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie biomedical",
+   "master's in biomedical engineering",
+   "masc biomedical engineering",
+   "meng biomedical engineering",
+   "doctorat en genie biomedical",
+   "phd biomedical engineering",
+   "genie clinique",
+   "clinical engineering",
+   "ocibme",
+   "biomedical engineering graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie biomédical ?",
+   "en": "Is there a master's in biomedical engineering?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie offre la maîtrise ès sciences appliquées (MASc, avec thèse), la maîtrise en ingénierie (MEng, avec une concentration possible en génie clinique) et le doctorat (PhD) en génie biomédical, par l'Institut de génie biomédical d'Ottawa-Carleton. Le programme est multidisciplinaire et réunit plusieurs unités d'Ottawa et de Carleton. Selon le catalogue, il est offert en anglais.",
+   "en": "Yes. The Faculty of Engineering offers the Master of Applied Science (MASc, thesis), the Master of Engineering (MEng, with an optional concentration in Clinical Engineering) and the PhD in Biomedical Engineering, through the Ottawa-Carleton Institute of Biomedical Engineering. The program is multidisciplinary and brings together several units at uOttawa and Carleton. According to the catalogue, it is offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Biomedical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées génie biomédical — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-biomedical/"
+   },
+   {
+    "label": "Master of Engineering Biomedical Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-biomedical/"
+   }
+  ],
+  "related": [
+   "p-cs-informatique",
+   "p-cs-genie-electrique-informatique",
+   "p-cs-genie-civil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genie-systemes",
+  "category": "genie",
+  "keywords": [
+   "maitrise en genie des systemes",
+   "master's in systems engineering",
+   "masc systems engineering",
+   "meng systems engineering",
+   "science des systemes",
+   "systems science",
+   "intelligence artificielle interdisciplinaire",
+   "interdisciplinary artificial intelligence",
+   "systems engineering graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génie des systèmes ?",
+   "en": "Is there a master's in systems engineering?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie (École de design en ingénierie et d'innovation pédagogique) offre une maîtrise ès sciences appliquées (MASc, avec thèse) et une maîtrise en ingénierie (MEng, avec cours) en génie des systèmes, avec une concentration possible en intelligence artificielle interdisciplinaire. Le programme mise sur une approche transdisciplinaire et la modélisation mathématique et informatique des systèmes. Selon le catalogue, il est offert en anglais, à temps plein ou à temps partiel.",
+   "en": "Yes. The Faculty of Engineering (School of Engineering Design and Teaching Innovation) offers a Master of Applied Science (MASc, thesis) and a Master of Engineering (MEng, coursework) in Systems Engineering, with an optional concentration in Interdisciplinary Artificial Intelligence. The program focuses on a transdisciplinary approach and the mathematical and computational modelling of systems. According to the catalogue, it is offered in English, full-time or part-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science in Systems Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-systems-engineering/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées en génie des systèmes — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-genie-systemes/"
+   },
+   {
+    "label": "Master of Engineering in Systems Engineering — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-systems-engineering/"
+   }
+  ],
+  "related": [
+   "p-cs-informatique",
+   "p-cs-genie-electrique-informatique",
+   "p-cs-genie-civil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-materiaux-fabrication",
+  "category": "genie",
+  "keywords": [
+   "maitrise en materiaux et fabrication avances",
+   "materiaux avances et fabrication",
+   "master's in advanced materials and manufacturing",
+   "masc advanced materials",
+   "meng advanced materials and manufacturing",
+   "doctorat materiaux et fabrication",
+   "phd advanced materials and manufacturing",
+   "fabrication additive",
+   "materials engineering graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en matériaux et fabrication avancés ?",
+   "en": "Is there a master's in advanced materials and manufacturing?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie offre en matériaux avancés et fabrication une maîtrise ès sciences appliquées (MASc, avec thèse), une maîtrise en ingénierie (MEng, avec cours et projet, option coop possible) et un doctorat (PhD), par l'Institut de génie mécanique et aérospatial d'Ottawa-Carleton. Les cours sont en anglais selon le catalogue, mais la recherche peut se faire en anglais, en français ou dans les deux langues.",
+   "en": "Yes. The Faculty of Engineering offers, in advanced materials and manufacturing, a Master of Applied Science (MASc, thesis), a Master of Engineering (MEng, coursework and project, with a possible co-op option) and a PhD, through the Ottawa-Carleton Institute for Mechanical and Aerospace Engineering. Courses are in English according to the catalogue, but research can be done in English, French or both."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Advanced Materials and Manufacturing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-advanced-materials-manufacturing/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées matériaux avancés et fabrication — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-materiaux-avances-fabrication/"
+   },
+   {
+    "label": "Master of Engineering Advanced Materials and Manufacturing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-advanced-materials-manufacturing/"
+   }
+  ],
+  "related": [
+   "p-cs-informatique",
+   "p-cs-genie-electrique-informatique",
+   "p-cs-genie-civil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-gestion-genie",
+  "category": "genie",
+  "keywords": [
+   "maitrise en gestion en ingenierie",
+   "master's in engineering management",
+   "meng engineering management",
+   "master of engineering management",
+   "mem en ligne",
+   "diplome en gestion en ingenierie",
+   "graduate diploma engineering management",
+   "engineering management online",
+   "gestion de projets techniques"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en gestion en ingénierie ?",
+   "en": "Is there a master's in engineering management?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie et l'École de gestion Telfer offrent la maîtrise en ingénierie (MEng) en gestion en ingénierie, avec cours, ainsi qu'une maîtrise en gestion en ingénierie en ligne (MEM, à temps partiel) et un diplôme d'études supérieures en gestion en ingénierie, aussi en ligne. Le programme développe les compétences des ingénieurs et des scientifiques en gestion de personnes, de projets et de ressources dans des milieux techniques. Selon le catalogue, il est offert en anglais.",
+   "en": "Yes. The Faculty of Engineering and the Telfer School of Management offer the Master of Engineering (MEng) in Engineering Management, course-based, as well as an online Master of Engineering Management (MEM, part-time) and a Graduate Diploma in Engineering Management, also online. The program develops engineers' and scientists' skills in managing people, projects and resources in technical environments. According to the catalogue, it is offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Engineering Engineering Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/"
+   },
+   {
+    "label": "Maîtrise en ingénierie gestion en ingénierie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-ingenierie-gestion-ingenierie/"
+   },
+   {
+    "label": "Master of Engineering Management (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management-online/"
+   }
+  ],
+  "related": [
+   "p-cs-informatique",
+   "p-cs-genie-electrique-informatique",
+   "p-cs-genie-civil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-conception-entrepreneuriale",
+  "category": "genie",
+  "keywords": [
+   "maitrise en conception entrepreneuriale en ingenierie",
+   "master's in entrepreneurial engineering design",
+   "meng entrepreneurial engineering design",
+   "entrepreneuriat genie",
+   "engineering entrepreneurship master",
+   "demarrer une entreprise ingenieur",
+   "startup engineering",
+   "design en ingenierie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en entrepreneuriat pour ingénieurs ?",
+   "en": "Is there a master's in entrepreneurial engineering design?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie offre la maîtrise en ingénierie (MEng) en génie entrepreneurial de la conception, qui donne une formation avancée et du mentorat en design dans un contexte d'entrepreneuriat. Le programme porte sur la conception de nouveaux produits ou technologies destinés à être commercialisés ou à avoir un impact dans la communauté. Selon le catalogue, il est offert en anglais, à temps plein ou à temps partiel.",
+   "en": "Yes. The Faculty of Engineering offers the Master of Engineering (MEng) in Entrepreneurial Engineering Design, which provides advanced training and mentorship in engineering design in the context of entrepreneurship. The program focuses on designing new products or technologies to be commercialized or to have community impact. According to the catalogue, it is offered in English, full-time or part-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Engineering in Entrepreneurial Engineering Design — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-engineering-entrepreneurial-engineering-design/"
+   },
+   {
+    "label": "Maîtrise en ingénierie génie entrepreneurial de la conception — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-ingenierie-genie-entrepreneurial-conception/"
+   }
+  ],
+  "related": [
+   "p-cs-informatique",
+   "p-cs-genie-electrique-informatique",
+   "p-cs-genie-civil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-transformation-numerique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en transformation numerique et innovation",
+   "innovation et transformation numerique",
+   "master of digital transformation and innovation",
+   "mdti",
+   "master's in digital transformation",
+   "doctorat transformation numerique",
+   "phd digital transformation and innovation",
+   "science des donnees appliquee",
+   "applied data science master",
+   "ux design master",
+   "conception ux",
+   "transformation numerique en ligne"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en transformation numérique et innovation ?",
+   "en": "Is there a master's in digital transformation and innovation?"
+  },
+  "answer": {
+   "fr": "Oui. Le programme d'innovation et transformation numérique est une collaboration entre l'École de gestion Telfer, la Faculté des arts et la Faculté de génie. Il comprend la maîtrise en innovation et transformation numérique (avec projet de recherche, option coop, concentrations en science des données appliquée ou en conception UX, et une version en ligne à temps partiel), une maîtrise ès sciences (MSc, avec thèse) et un doctorat (PhD). Selon le catalogue, il est offert en anglais.",
+   "en": "Yes. The Digital Transformation and Innovation program is a collaboration between the Telfer School of Management, the Faculty of Arts and the Faculty of Engineering. It includes the Master of Digital Transformation and Innovation (with a research project, co-op option, concentrations in Applied Data Science or UX Design, and a part-time online version), a Master of Science (MSc, thesis) and a PhD. According to the catalogue, it is offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Digital Transformation and Innovation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-digital-transformation-innovation/"
+   },
+   {
+    "label": "Maîtrise en innovation et transformation numérique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-innovation-transformation-numerique/"
+   },
+   {
+    "label": "Master of Science Digital Transformation and Innovation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-digital-transformation-innovation/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-ia-interdisciplinaire",
+  "category": "genie",
+  "keywords": [
+   "maitrise en intelligence artificielle",
+   "master's in artificial intelligence",
+   "master of interdisciplinary artificial intelligence",
+   "miai",
+   "ia en ligne",
+   "ai master online",
+   "microprogramme intelligence artificielle",
+   "microprogram artificial intelligence",
+   "apprentissage automatique",
+   "machine learning graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en intelligence artificielle ?",
+   "en": "Is there a master's in artificial intelligence?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de génie offre une maîtrise interdisciplinaire en intelligence artificielle entièrement en ligne (MIAI, avec cours, à temps partiel) et un microprogramme en intelligence artificielle interdisciplinaire, qui aborde l'apprentissage automatique, la science des données et les enjeux éthiques et sociaux de l'IA. Selon le catalogue, la maîtrise est offerte en anglais. Tu peux aussi choisir une concentration en IA dans d'autres maîtrises, comme l'informatique, le génie électrique et informatique ou le génie des systèmes.",
+   "en": "Yes. The Faculty of Engineering offers a fully online Master of Interdisciplinary Artificial Intelligence (MIAI, course-based, part-time) and a Microprogram in Interdisciplinary Artificial Intelligence, covering machine learning, data science and the ethical and societal implications of AI. According to the catalogue, the master's is offered in English. You can also choose an AI concentration in other master's programs, such as computer science, electrical and computer engineering or systems engineering."
+  },
+  "sources": [
+   {
+    "label": "Master of Interdisciplinary Artificial Intelligence (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-interdisciplinary-applied-artificial-intelligence-online/"
+   },
+   {
+    "label": "Maîtrise interdisciplinaire en intelligence artificielle (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-interdisciplinaire-intelligence-artificielle-appliquee-en-ligne/"
+   },
+   {
+    "label": "Microprogram Interdisciplinary Artificial Intelligence — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-interdisciplinary-artificial-intelligence/"
+   }
+  ],
+  "related": [
+   "p-cs-informatique",
+   "p-cs-genie-electrique-informatique",
+   "p-cs-genie-civil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-accessibilite-biomedecine",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en accessibilite en biomedecine",
+   "master's in accessibility in biomedicine",
+   "masc accessibility biomedicine",
+   "accessibilite recherche biomedicale",
+   "accessibility biomedical research",
+   "engagement communautaire",
+   "community engagement",
+   "maitrise en ligne medecine"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en accessibilité en biomédecine ?",
+   "en": "Is there a master's in accessibility in biomedicine?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de médecine offre une maîtrise ès sciences appliquées (MASc) en accessibilité en biomédecine, un programme entièrement en ligne de 12 mois avec cours. Il forme des scientifiques et des professionnels de la santé aux pratiques d'accessibilité et d'engagement communautaire, notamment avec les personnes en situation de handicap, pour intégrer l'inclusion à la recherche biomédicale.",
+   "en": "Yes. The Faculty of Medicine offers a Master of Applied Science (MASc) in Accessibility in Biomedicine, a fully online, 12-month course-based program. It trains scientists and health professionals in accessibility and community engagement practices, particularly with persons with disabilities, to embed inclusion in biomedical research."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science in Accessibility in Biomedicine (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-accessibility-biomedicine/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées en accessibilité en biomédecine (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-accessibilite-biomedecine/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-cybersecurite",
+  "category": "genie",
+  "keywords": [
+   "microprogramme en cybersecurite",
+   "microprogram cybersecurity",
+   "cybersecurite cycles superieurs",
+   "cybersecurity graduate",
+   "securite logicielle",
+   "software security",
+   "cryptographie appliquee",
+   "applied cryptography",
+   "maitrise cybersecurite",
+   "master's in cybersecurity"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme d'études supérieures en cybersécurité ?",
+   "en": "Is there a graduate program in cybersecurity?"
+  },
+  "answer": {
+   "fr": "Oui. Il existe un microprogramme de cycles supérieurs en cybersécurité, lié aux programmes d'informatique de la Faculté de génie. Il te permet d'acquérir rapidement des compétences en sécurité logicielle (développement de code sécuritaire, cryptographie appliquée, sensibilisation à la sécurité, cyberprotection) sans faire un diplôme complet.",
+   "en": "Yes. There is a graduate Microprogram in Cybersecurity, linked to the computer science programs in the Faculty of Engineering. It lets you quickly gain skills in software security (secure code development, applied cryptography, security awareness, cyberprotection) without completing a full degree."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Cybersecurity — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-cybersecurity/"
+   },
+   {
+    "label": "Microprogramme cybersécurité — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/microprogramme-cybersecurite/"
+   }
+  ],
+  "related": [
+   "p-cs-informatique",
+   "p-cs-genie-electrique-informatique",
+   "p-cs-genie-civil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-biologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en biologie",
+   "master's in biology",
+   "msc biology",
+   "doctorat en biologie",
+   "phd biology",
+   "phd en biologie",
+   "ocib",
+   "ecologie",
+   "biologie cellulaire et moleculaire",
+   "biology graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en biologie ?",
+   "en": "Is there a master's in biology?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de biologie (Faculté des sciences) offre la maîtrise ès sciences (MSc, avec thèse) et le doctorat (PhD) en biologie, conjointement avec l'Université Carleton par l'Institut de biologie d'Ottawa-Carleton. Les axes de recherche incluent la biologie cellulaire et moléculaire, l'écologie, le comportement et la systématique, ainsi que la physiologie et la biochimie. Selon le catalogue, les programmes sont offerts en anglais, et on peut passer directement de la maîtrise au doctorat.",
+   "en": "Yes. The Department of Biology (Faculty of Science) offers the Master of Science (MSc, thesis) and the PhD in Biology, jointly with Carleton University through the Ottawa-Carleton Institute of Biology. Research areas include cell and molecular biology, ecology, behaviour and systematics, and physiology and biochemistry. According to the catalogue, the programs are offered in English, and a fast-track from the master's to the PhD is possible."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Biology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-biology/"
+   },
+   {
+    "label": "Maîtrise ès sciences biologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-biologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Biology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biology/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-chimie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en chimie",
+   "master's in chemistry",
+   "msc chemistry",
+   "doctorat en chimie",
+   "phd chemistry",
+   "phd en chimie",
+   "sciences biomoleculaires",
+   "biomolecular science",
+   "occi",
+   "chemistry graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en chimie ?",
+   "en": "Is there a master's in chemistry?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de chimie et sciences biomoléculaires (Faculté des sciences) offre la maîtrise ès sciences (MSc, avec thèse, aussi en voie accélérée de 12 mois) et le doctorat (PhD) en chimie, conjointement avec l'Université Carleton. Une concentration en sciences biomoléculaires est offerte à la maîtrise. Les programmes sont offerts en français et en anglais, mais la plupart des cours se donnent en anglais.",
+   "en": "Yes. The Department of Chemistry and Biomolecular Sciences (Faculty of Science) offers the Master of Science (MSc, thesis, including a 12-month accelerated stream) and the PhD in Chemistry, jointly with Carleton University. A concentration in Biomolecular Science is offered at the master's level. The programs are offered in French and English, but most courses are given in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Chemistry — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-chemistry/"
+   },
+   {
+    "label": "Maîtrise ès sciences chimie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-chimie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Chemistry — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-chemistry/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-biochimie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en biochimie",
+   "master's in biochemistry",
+   "msc biochemistry",
+   "doctorat en biochimie",
+   "phd biochemistry",
+   "phd en biochimie",
+   "biochemistry graduate",
+   "faculte de medecine biochimie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en biochimie ?",
+   "en": "Is there a master's in biochemistry?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de biochimie, microbiologie et immunologie (Faculté de médecine) offre la maîtrise ès sciences (MSc, avec thèse ou avec projet de recherche) et le doctorat (PhD) en biochimie. Les étudiants participent activement à la recherche en laboratoire, aux cours et aux séminaires. Selon le catalogue, les programmes sont offerts en anglais, à temps plein.",
+   "en": "Yes. The Department of Biochemistry, Microbiology and Immunology (Faculty of Medicine) offers the Master of Science (MSc, with thesis or research project) and the PhD in Biochemistry. Students are actively involved in laboratory research, coursework and research seminars. According to the catalogue, the programs are offered in English, full-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Biochemistry — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-biochemistry/"
+   },
+   {
+    "label": "Maîtrise ès sciences biochimie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-biochimie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Biochemistry — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biochemistry/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-physique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en physique",
+   "master's in physics",
+   "msc physics",
+   "doctorat en physique",
+   "phd physics",
+   "phd en physique",
+   "sciences quantiques",
+   "quantum science",
+   "photonique",
+   "physics graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en physique ?",
+   "en": "Is there a master's in physics?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de physique (Faculté des sciences) offre la maîtrise ès sciences (MSc) et le doctorat (PhD) en physique, conjointement avec l'Université Carleton par l'Institut de physique d'Ottawa-Carleton. La maîtrise se fait avec thèse ou avec l'option de physique appliquée, offre une option coop et une concentration en sciences quantiques. La plupart des exigences se font en anglais, mais la recherche peut se faire en français ou en anglais.",
+   "en": "Yes. The Department of Physics (Faculty of Science) offers the Master of Science (MSc) and the PhD in Physics, jointly with Carleton University through the Ottawa-Carleton Institute for Physics. The master's is done with a thesis or the Applied Physics option, and offers a co-op option and a concentration in Quantum Science. Most requirements are in English, but research can be conducted in French or English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Physics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-physics/"
+   },
+   {
+    "label": "Maîtrise ès sciences physique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-physique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Physics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-mathematiques-statistique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en mathematiques",
+   "maitrise en statistique",
+   "master's in mathematics",
+   "master's in statistics",
+   "msc mathematics and statistics",
+   "doctorat en mathematiques",
+   "phd mathematics",
+   "phd statistics",
+   "ocims",
+   "mathematiques et statistique"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en mathématiques ou en statistique ?",
+   "en": "Is there a master's in mathematics or statistics?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de mathématiques et de statistique (Faculté des sciences) offre la maîtrise ès sciences (MSc) en mathématiques et statistique, avec une concentration en mathématiques ou en statistique, ainsi que le doctorat (PhD), par l'Institut de mathématiques et de statistique d'Ottawa-Carleton. La maîtrise peut se faire avec thèse, avec projet ou avec cours, et offre une option coop. Selon le catalogue, les programmes sont offerts en anglais.",
+   "en": "Yes. The Department of Mathematics and Statistics (Faculty of Science) offers the Master of Science (MSc) in Mathematics and Statistics, with a concentration in Mathematics or in Statistics, as well as the PhD, through the Ottawa-Carleton Institute of Mathematics and Statistics. The master's can be done with a thesis, a project or coursework, and offers a co-op option. According to the catalogue, the programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Mathematics and Statistics and Concentration Mathematics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-mathematics/"
+   },
+   {
+    "label": "Maîtrise ès sciences mathématiques et statistique concentration mathématiques — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-mathematiques-statistique-concentration-mathematiques/"
+   },
+   {
+    "label": "Master of Science Mathematics and Statistics and Concentration Statistics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-statistics/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-terre",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sciences de la terre",
+   "master's in earth sciences",
+   "msc earth sciences",
+   "doctorat en sciences de la terre",
+   "phd earth sciences",
+   "geologie",
+   "geology graduate",
+   "geoscience",
+   "ocgc",
+   "geochimie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences de la Terre ou en géologie ?",
+   "en": "Is there a master's in earth sciences or geology?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département des sciences de la Terre et de l'environnement (Faculté des sciences) offre la maîtrise ès sciences (MSc, avec thèse) et le doctorat (PhD) en sciences de la Terre, conjointement avec l'Université Carleton par le Centre de géoscience d'Ottawa-Carleton. Les axes de recherche incluent la géoscience environnementale, la géochimie, la géophysique, les ressources minérales et la tectonique. Selon le catalogue, les programmes sont offerts en anglais.",
+   "en": "Yes. The Department of Earth and Environmental Sciences (Faculty of Science) offers the Master of Science (MSc, thesis) and the PhD in Earth Sciences, jointly with Carleton University through the Ottawa-Carleton Geoscience Centre. Research areas include environmental geoscience, geochemistry, geophysics, mineral resources and tectonics. According to the catalogue, the programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Earth Sciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-earth-sciences/"
+   },
+   {
+    "label": "Maîtrise ès sciences sciences de la Terre — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sciences-terre/"
+   },
+   {
+    "label": "Doctorate in Philosophy Earth Sciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-earth-sciences/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-durabilite-environnement",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en durabilite de l'environnement",
+   "master's in environmental sustainability",
+   "msc environmental sustainability",
+   "doctorat en durabilite de l'environnement",
+   "phd environmental sustainability",
+   "institut de l'environnement",
+   "institute of the environment",
+   "politique environnementale",
+   "environmental policy master",
+   "environnement maitrise"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en environnement ou en développement durable ?",
+   "en": "Is there a master's in environmental sustainability?"
+  },
+  "answer": {
+   "fr": "Oui. L'Institut de l'environnement offre une maîtrise ès sciences (MSc) interdisciplinaire en durabilité de l'environnement, avec mémoire (12 mois à temps plein) ou avec thèse (24 mois), et une option coop pour un nombre limité d'étudiants, ainsi qu'un doctorat en durabilité de l'environnement. La maîtrise combine sciences, droit, économie et politiques pour trouver des solutions aux problèmes environnementaux. Les cours obligatoires de la maîtrise sont pour l'instant en anglais; le doctorat est offert en français et en anglais.",
+   "en": "Yes. The Institute of the Environment offers an interdisciplinary Master of Science (MSc) in Environmental Sustainability, with a research paper (12 months full-time) or a thesis (24 months), and a co-op option for a limited number of students, as well as a Doctorate in Environmental Sustainability. The master's combines science, law, economics and policy to address environmental problems. The master's compulsory courses are currently in English; the doctorate is offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Environmental Sustainability — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-environmental-sustainability/"
+   },
+   {
+    "label": "Maîtrise ès sciences durabilité de l'environnement — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-durabilite-lenvironnement/"
+   },
+   {
+    "label": "Doctorate Environmental Sustainability — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-environmental-sustainability/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-bio-informatique",
+  "category": "programmes",
+  "keywords": [
+   "bio-informatique",
+   "bioinformatique",
+   "bioinformatics",
+   "specialisation en bio-informatique",
+   "specialization in bioinformatics",
+   "maitrise bio-informatique",
+   "master's in bioinformatics",
+   "phd bioinformatics",
+   "doctorat bio-informatique",
+   "programme concerte"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en bio-informatique ?",
+   "en": "Is there a master's in bioinformatics?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme de spécialisation concertée : avec l'Université Carleton, tu peux obtenir une maîtrise dans ton programme principal avec spécialisation en bio-informatique. Les programmes participants incluent la biologie, la biochimie, la médecine cellulaire et moléculaire, la microbiologie et immunologie, les mathématiques et statistique, le génie biomédical et l'informatique, et une spécialisation existe aussi au doctorat dans plusieurs de ces programmes.",
+   "en": "Yes, as a collaborative specialization: with Carleton University, you can earn a master's in your primary program with a specialization in Bioinformatics. Participating programs include biology, biochemistry, cellular and molecular medicine, microbiology and immunology, mathematics and statistics, biomedical engineering and computer science, and a specialization also exists at the PhD level in several of these programs."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Biology and Specialization Bioinformatics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-biology-specialization-bioinformatics/"
+   },
+   {
+    "label": "Maîtrise ès sciences biologie spécialisation bioinformatique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-biologie-specialisation-bioinformatique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Biology and Specialization Bioinformatics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biology-specialization-bioinformatics/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-toxicologie",
+  "category": "programmes",
+  "keywords": [
+   "toxicologie",
+   "toxicology",
+   "toxicologie chimique et environnementale",
+   "chemical and environmental toxicology",
+   "maitrise en toxicologie",
+   "master's in toxicology",
+   "phd toxicology",
+   "doctorat toxicologie",
+   "programme concerte toxicologie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en toxicologie ?",
+   "en": "Is there a master's in toxicology?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme de spécialisation concertée. L'Université d'Ottawa et l'Université Carleton offrent un programme concerté en toxicologie chimique et environnementale, qui mène à une maîtrise ou à un doctorat dans ton programme principal (par exemple biologie, chimie ou sciences de la Terre) avec cette spécialisation. La toxicologie étudie les effets des substances toxiques sur les organismes vivants.",
+   "en": "Yes, as a collaborative specialization. The University of Ottawa and Carleton University offer a collaborative program in Chemical and Environmental Toxicology, leading to a master's or PhD in your primary program (for example biology, chemistry or earth sciences) with this specialization. Toxicology is the study of the effects of toxic substances on living systems."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Biology and Specialization Chemical and Environmental Toxicology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-biology-specialization-chemical-environmental-toxicology/"
+   },
+   {
+    "label": "Maîtrise ès sciences biologie spécialisation toxicologie chimique et environnementale — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-biologie-specialisation-toxicologie-chimique-environnementale/"
+   },
+   {
+    "label": "Doctorate in Philosophy Biology and Specialization Chemical and Environmental Toxicology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biology-specialization-chemical-environmental-toxicology/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-science-societe-politique",
+  "category": "programmes",
+  "keywords": [
+   "science, societe et politique publique",
+   "science society and policy",
+   "specialisation science societe politique",
+   "politique scientifique",
+   "science policy master",
+   "politique de l'innovation",
+   "innovation policy",
+   "programme concerte science societe"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en politique scientifique ?",
+   "en": "Is there a master's in science policy?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme de spécialisation concertée au niveau de la maîtrise. Le programme concerté en science, société et politique publique permet aux étudiants inscrits à une maîtrise participante de se spécialiser en politique scientifique et d'innovation. Plusieurs maîtrises y participent, par exemple en biologie, chimie, physique, sciences de la Terre, géographie, génie, communication, administration publique, affaires publiques et internationales et sciences de l'information.",
+   "en": "Yes, as a collaborative specialization at the master's level. The collaborative program in Science, Society and Policy lets students enrolled in a participating master's program specialize in science and innovation policy. Many master's programs take part, for example biology, chemistry, physics, earth sciences, geography, engineering, communication, public administration, public and international affairs and information studies."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Biology and Specialization Science, Society and Policy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-biology-specialization-science-society-policy/"
+   },
+   {
+    "label": "Maîtrise ès sciences biologie spécialisation science, société et politique publique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-biologie-specialisation-science-societe-politique-publique/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-genetique-humaine",
+  "category": "programmes",
+  "keywords": [
+   "genetique humaine et moleculaire",
+   "human and molecular genetics",
+   "maitrise en genetique",
+   "master's in genetics",
+   "phd genetics",
+   "doctorat en genetique",
+   "specialisation genetique",
+   "genetics graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en génétique ?",
+   "en": "Is there a master's in genetics?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme de spécialisation concertée. La Faculté de médecine offre un programme concerté en génétique humaine et moléculaire, aux niveaux de la maîtrise et du doctorat, que tu fais à partir d'un programme principal comme la biochimie, la médecine cellulaire et moléculaire ou la neuroscience. Selon le catalogue, ces programmes sont offerts en anglais.",
+   "en": "Yes, as a collaborative specialization. The Faculty of Medicine offers a collaborative program in Human and Molecular Genetics at the master's and doctoral levels, which you complete through a primary program such as biochemistry, cellular and molecular medicine or neuroscience. According to the catalogue, these programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Biochemistry and Specialization Human and Molecular Genetics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-biochemistry-specialization-human-molecular-genetics/"
+   },
+   {
+    "label": "Maîtrise ès sciences biochimie spécialisation génétique humaine et moléculaire — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-biochimie-specialisation-genetique-humaine-moleculaire/"
+   },
+   {
+    "label": "Doctorate in Philosophy Biochemistry and Specialization Human and Molecular Genetics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biochemistry-specialization-human-molecular-genetics/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-medecine-cellulaire",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en medecine cellulaire et moleculaire",
+   "master's in cellular and molecular medicine",
+   "msc cellular and molecular medicine",
+   "doctorat medecine cellulaire et moleculaire",
+   "phd cellular and molecular medicine",
+   "cmm",
+   "pathologie et medecine experimentale",
+   "cellular molecular medicine graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en médecine cellulaire et moléculaire ?",
+   "en": "Is there a master's in cellular and molecular medicine?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de médecine cellulaire et moléculaire (Faculté de médecine) offre la maîtrise ès sciences (MSc, avec thèse en 24 mois ou avec projet de recherche en 12 mois) et le doctorat (PhD). Les programmes préparent à des carrières en enseignement et en recherche, à l'université ou ailleurs. Ils sont offerts en français et en anglais, mais la plupart des cours se donnent en anglais.",
+   "en": "Yes. The Department of Cellular and Molecular Medicine (Faculty of Medicine) offers the Master of Science (MSc, with a thesis in 24 months or a research project in 12 months) and the PhD. The programs prepare students for careers in teaching and research, in academia or elsewhere. They are offered in French and English, but most courses are given in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Cellular and Molecular Medicine — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-cellular-molecular-medicine/"
+   },
+   {
+    "label": "Maîtrise ès sciences médecine cellulaire et moléculaire — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-medecine-cellulaire-moleculaire/"
+   },
+   {
+    "label": "Doctorate in Philosophy Cellular and Molecular Medicine — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-cellular-molecular-medicine/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-microbiologie-immunologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en microbiologie",
+   "maitrise en immunologie",
+   "master's in microbiology",
+   "master's in immunology",
+   "msc microbiology and immunology",
+   "doctorat microbiologie immunologie",
+   "phd microbiology",
+   "phd immunology",
+   "microbiology graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en microbiologie et immunologie ?",
+   "en": "Is there a master's in microbiology and immunology?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de biochimie, microbiologie et immunologie (Faculté de médecine) offre la maîtrise ès sciences (MSc, avec thèse ou avec projet de recherche) et le doctorat (PhD) en microbiologie et immunologie. Les programmes préparent à des carrières en enseignement et en recherche, y compris en milieu gouvernemental, clinique ou industriel. Selon le catalogue, ils sont offerts en anglais, à temps plein.",
+   "en": "Yes. The Department of Biochemistry, Microbiology and Immunology (Faculty of Medicine) offers the Master of Science (MSc, with thesis or research project) and the PhD in Microbiology and Immunology. The programs prepare students for teaching and research careers, including in government, clinical or industrial settings. According to the catalogue, they are offered in English, full-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Microbiology and Immunology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-microbiology-immunology/"
+   },
+   {
+    "label": "Maîtrise ès sciences microbiologie et immunologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-microbiologie-immunologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Microbiology and Immunology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-microbiology-immunology/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-neuroscience",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en neuroscience",
+   "maitrise en neurosciences",
+   "master's in neuroscience",
+   "msc neuroscience",
+   "doctorat en neuroscience",
+   "phd neuroscience",
+   "phd en neurosciences",
+   "neuroscience graduate",
+   "cerveau recherche"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en neuroscience ?",
+   "en": "Is there a master's in neuroscience?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de médecine cellulaire et moléculaire (Faculté de médecine) offre la maîtrise ès sciences (MSc, avec thèse en 24 mois ou avec projet de recherche en 12 mois) et le doctorat (PhD) en neuroscience. Tu y développes ton esprit critique par la lecture scientifique, les expériences en laboratoire et la présentation de tes résultats. Les programmes sont offerts en français et en anglais, mais la plupart des cours se donnent en anglais.",
+   "en": "Yes. The Department of Cellular and Molecular Medicine (Faculty of Medicine) offers the Master of Science (MSc, with a thesis in 24 months or a research project in 12 months) and the PhD in Neuroscience. You build critical analysis skills through reading the scientific literature, lab experiments and presenting your results. The programs are offered in French and English, but most courses are given in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Neuroscience — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-neuroscience/"
+   },
+   {
+    "label": "Maîtrise ès sciences neuroscience — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-neuroscience/"
+   },
+   {
+    "label": "Doctorate in Philosophy Neuroscience — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-neuroscience/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-epidemiologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en epidemiologie",
+   "master's in epidemiology",
+   "msc epidemiology",
+   "doctorat en epidemiologie",
+   "phd epidemiology",
+   "recherche appliquee en sante",
+   "applied health research",
+   "recherche clinique",
+   "evaluation des technologies de la sante",
+   "ecole d'epidemiologie et de sante publique"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en épidémiologie ?",
+   "en": "Is there a master's in epidemiology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'épidémiologie et de santé publique (Faculté de médecine) offre la maîtrise ès sciences (MSc) en épidémiologie et recherche appliquée en santé, avec thèse ou projet de recherche, et des concentrations en épidémiologie, recherche clinique, recherche en santé mondiale, politique de santé, évaluation des technologies de la santé et science de la mise en œuvre. Elle offre aussi le doctorat (PhD) en épidémiologie et recherche appliquée en santé. Selon le catalogue, ces programmes sont offerts en anglais.",
+   "en": "Yes. The School of Epidemiology and Public Health (Faculty of Medicine) offers the Master of Science (MSc) in Epidemiology and Applied Health Research, with a thesis or research project, and concentrations in epidemiology, clinical research, global health research, health policy, health technology assessment and implementation science. It also offers the PhD in Epidemiology and Applied Health Research. According to the catalogue, these programs are offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science in Epidemiology and Applied Health Research, Concentration in Epidemiology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-epidemiology-applied-health-research-concentration-epidemiology/"
+   },
+   {
+    "label": "Maîtrise ès sciences épidémiologie et recherche appliquée en santé, concentration en épidémiologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-epidemiologie-recherche-appliquee-sante-concentration-epidemiologie/"
+   },
+   {
+    "label": "Doctorate of Philosophy in Epidemiology and Applied Health Research — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-epidemiology-applied-health-research/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-cliniques-translationnelles",
+  "category": "programmes",
+  "keywords": [
+   "sciences cliniques et medecine translationnelle",
+   "clinical science and translational medicine",
+   "maitrise recherche clinique",
+   "master's in clinical science",
+   "msc translational medicine",
+   "phd translational medicine",
+   "doctorat sciences cliniques",
+   "imagerie medicale",
+   "sciences pharmaceutiques",
+   "ctm"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences cliniques et médecine translationnelle ?",
+   "en": "Is there a master's in clinical science and translational medicine?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de médecine offre la maîtrise ès sciences (MSc, avec thèse ou projet de recherche) et le doctorat (PhD) en sciences cliniques et médecine translationnelle, avec huit concentrations, dont l'imagerie médicale et sciences des radiations, la médecine cardiovasculaire, la psychiatrie clinique, les sciences musculosquelettiques, la qualité et sécurité des patients, les sciences pharmaceutiques et l'intelligence artificielle. Le programme forme à la recherche clinique et translationnelle, pour amener les découvertes jusqu'au chevet des patients.",
+   "en": "Yes. The Faculty of Medicine offers the Master of Science (MSc, with thesis or research project) and the PhD in Clinical Science and Translational Medicine, with eight concentrations, including medical imaging and radiation sciences, cardiovascular medicine, clinical psychiatry, musculoskeletal sciences, quality and patient safety, pharmaceutical sciences and artificial intelligence. The program trains students in clinical and translational research, to bring findings to the patient bedside."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Clinical Science and Translational Medicine — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-clinical-science-translational-medicine/"
+   },
+   {
+    "label": "Maîtrise ès sciences sciences cliniques et médecine translationnelle — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sciences-cliniques-medecine-translationnelle/"
+   },
+   {
+    "label": "Doctorate in philosophy Clinical Science and Translational Medicine — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-clinical-science-translational-medicine/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-enseignement-anatomie",
+  "category": "programmes",
+  "keywords": [
+   "enseignement des sciences anatomiques",
+   "anatomical sciences education",
+   "maitrise en anatomie",
+   "master's in anatomy",
+   "masc anatomical sciences",
+   "enseigner l'anatomie",
+   "teach anatomy",
+   "anatomie cycles superieurs"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en anatomie ?",
+   "en": "Is there a master's in anatomy?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de médecine offre la maîtrise ès sciences appliquées en enseignement des sciences anatomiques, à temps plein, sur environ 20 mois. Le programme est offert en anglais ou en français. Selon le catalogue, l'admission à l'option avec projet de recherche est suspendue jusqu'à nouvel ordre; l'option avec cours reste offerte.",
+   "en": "Yes. The Faculty of Medicine offers the Master of Applied Science in Anatomical Sciences Education, full-time, over about 20 months. The program is offered in English or French. According to the catalogue, admission to the research project option is suspended until further notice; the coursework option remains available."
+  },
+  "sources": [
+   {
+    "label": "Master of Applied Science Anatomical Sciences Education — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-applied-science-anatomical-sciences-education/"
+   },
+   {
+    "label": "Maîtrise ès sciences appliquées enseignement des sciences anatomiques — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-appliquees-enseignement-sciences-anatomiques/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-systemes-sante",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en systemes de sante",
+   "master's in health systems",
+   "msc health systems",
+   "gestion des systemes de sante recherche",
+   "health systems research",
+   "telfer sante",
+   "planification des soins de sante",
+   "health care management research"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en systèmes de santé ?",
+   "en": "Is there a master's in health systems?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre la maîtrise ès sciences en systèmes de santé, qui forme des chercheurs et des leaders capables de transformer les systèmes de santé avec des méthodes qualitatives et quantitatives. Le programme comprend des cours, une thèse et un stage de recherche en systèmes de santé. Il est offert en français et en anglais, surtout à temps plein.",
+   "en": "Yes. The Telfer School of Management offers the Master of Science in Health Systems (MSc HS), which trains researchers and leaders to transform health systems using qualitative and quantitative methods. The program includes courses, a thesis and a health systems research internship. It is offered in English and French, primarily full-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Health Systems — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-health-systems/"
+   },
+   {
+    "label": "Maîtrise ès sciences systèmes de santé — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-systemes-sante/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sante-populations",
+  "category": "programmes",
+  "keywords": [
+   "doctorat en sante des populations",
+   "phd population health",
+   "sante des populations",
+   "population health",
+   "inegalites en sante",
+   "health inequities",
+   "determinants de la sante",
+   "doctorat interdisciplinaire sante"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un doctorat en santé des populations ?",
+   "en": "Is there a PhD in population health?"
+  },
+  "answer": {
+   "fr": "Oui. Le doctorat (PhD) en santé des populations est offert en collaboration par cinq facultés : sciences de la santé (qui l'héberge), médecine, sciences sociales, École de gestion Telfer et droit (Section de common law). Il porte sur les déterminants et les inégalités de santé et sur les interventions en santé des populations. Les cours de base sont donnés en format bilingue, ce qui exige une compréhension passive du français et de l'anglais.",
+   "en": "Yes. The PhD in Population Health is offered jointly by five faculties: Health Sciences (which hosts it), Medicine, Social Sciences, the Telfer School of Management and Law (Common Law Section). It focuses on the determinants and inequities of health and on population health interventions. Core courses are given in a bilingual format, which requires a passive understanding of both French and English."
+  },
+  "sources": [
+   {
+    "label": "Doctorate in Philosophy Population Health — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-population-health/"
+   },
+   {
+    "label": "Doctorat en philosophie santé des populations — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/doctorat-philosophie-sante-populations/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sante-publique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sante publique",
+   "master of public health",
+   "mph",
+   "master's in public health",
+   "sante mondiale",
+   "global health",
+   "politique de sante publique",
+   "public health policy",
+   "pratique de la sante publique",
+   "mph+"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en santé publique ?",
+   "en": "Is there a master's in public health (MPH)?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'épidémiologie et de santé publique (Faculté de médecine) offre la maîtrise en santé publique (MPH), un programme avec cours, stage pratique et projet de synthèse, à temps plein sur quatre trimestres. Tu choisis une concentration en pratique de la santé publique, en santé mondiale ou en politique de santé publique, et l'option MPH+ ajoute une formation linguistique intensive. Selon le catalogue, la MPH est offerte en anglais.",
+   "en": "Yes. The School of Epidemiology and Public Health (Faculty of Medicine) offers the Master of Public Health (MPH), a course-based program with a practicum and a capstone project, full-time over four terms. You choose a concentration in Public Health Practice, Global Health or Public Health Policy, and the MPH+ option adds intensive language training. According to the catalogue, the MPH is offered in English."
+  },
+  "sources": [
+   {
+    "label": "Master of Public Health Concentration in Public Health Practice — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-public-health-practice/"
+   },
+   {
+    "label": "Maîtrise en santé publique concentration en pratique de la santé publique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sante-publique-concentration-pratique-sante-publique/"
+   },
+   {
+    "label": "Master of Public Health, Concentration in Global Health — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-sante-interdisciplinaires",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sciences interdisciplinaires de la sante",
+   "master's in interdisciplinary health sciences",
+   "msc interdisciplinary health sciences",
+   "sciences de la sante maitrise",
+   "health sciences master",
+   "biosciences integratives de la sante",
+   "sante des populations et sante publique",
+   "technologies et innovation en sante"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences de la santé ?",
+   "en": "Is there a master's in health sciences?"
+  },
+  "answer": {
+   "fr": "Oui. L'École interdisciplinaire des sciences de la santé (Faculté des sciences de la santé) offre la maîtrise ès sciences (MSc) en sciences interdisciplinaires de la santé, avec thèse ou avec cours; l'option avec cours permet de faire un stage coop. Des concentrations existent en biosciences intégratives de la santé, en santé des populations et santé publique, et en technologies et innovation en sciences de la santé. Le programme est offert en français et en anglais.",
+   "en": "Yes. The Interdisciplinary School of Health Sciences (Faculty of Health Sciences) offers the Master of Science (MSc) in Interdisciplinary Health Sciences, with a thesis or coursework; the coursework option allows a co-op placement. Concentrations exist in integrative health biosciences, population and public health, and technologies and innovation in health sciences. The program is offered in French and English."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Interdisciplinary Health Sciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-interdisciplinary-health-sciences/"
+   },
+   {
+    "label": "Maîtrise ès sciences sciences interdisciplinaires de la santé — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sciences-interdisciplinaires-sante/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-infirmieres",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sciences infirmieres",
+   "master of science in nursing",
+   "mscn",
+   "master's in nursing",
+   "doctorat en sciences infirmieres",
+   "phd nursing",
+   "phd in nursing",
+   "sciences infirmieres a distance",
+   "nursing distance option",
+   "ecole des sciences infirmieres"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences infirmières ?",
+   "en": "Is there a master's in nursing?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences infirmières (Faculté des sciences de la santé) offre la maîtrise ès sciences en sciences infirmières, avec thèse ou avec option clinique, sur le campus ou avec l'option à distance, ainsi que le doctorat (PhD) en sciences infirmières. Les programmes sont offerts en français et en anglais. Selon le catalogue, l'admission au doctorat en personne est suspendue, mais une option à distance existe.",
+   "en": "Yes. The School of Nursing (Faculty of Health Sciences) offers the Master of Science in Nursing (MScN), with a thesis or a clinical option, on campus or through a distance option, as well as the PhD in Nursing. The programs are offered in French and English. According to the catalogue, admission to the in-person PhD is suspended, but a distance option exists."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Nursing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-nursing/"
+   },
+   {
+    "label": "Maîtrise ès sciences sciences infirmières — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sciences-infirmieres/"
+   },
+   {
+    "label": "Doctorate in Philosophy Nursing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-nursing/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-infirmiere-praticienne",
+  "category": "programmes",
+  "keywords": [
+   "infirmiere praticienne",
+   "nurse practitioner",
+   "diplome infirmieres praticiennes",
+   "graduate diploma nurse practitioners",
+   "ip soins primaires",
+   "np program",
+   "devenir infirmiere praticienne",
+   "become a nurse practitioner",
+   "mscn nurse practitioner"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme pour devenir infirmière praticienne ?",
+   "en": "Is there a nurse practitioner program?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences infirmières offre la maîtrise ès sciences en sciences infirmières avec diplôme d'études supérieures pour infirmières et infirmiers praticiens (24 mois), et le diplôme d'études supérieures pour infirmières et infirmiers praticiens seul (12 mois, avec cours). Ces programmes forment des infirmières autorisées au rôle de pratique avancée d'infirmière praticienne, en français et en anglais. Selon le catalogue, l'option avec thèse de la maîtrise combinée est suspendue.",
+   "en": "Yes. The School of Nursing offers the Master of Science in Nursing with Graduate Diploma for Nurse Practitioners (24 months), and the Graduate Diploma for Nurse Practitioners on its own (12 months, coursework). These programs prepare registered nurses for the advanced practice role of nurse practitioner, in French and English. According to the catalogue, the thesis option of the combined master's is suspended."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Nursing with Graduate Diploma for Nurse Practitioners — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-nursing-diploma-nurse-practitioners/"
+   },
+   {
+    "label": "Maitrise ès sciences sciences infirmières avec Diplôme d'études supérieures pour infirmières et infirmiers praticiens — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sciences-infirmieres-diplome-infirmieres-infirmiers-praticiens/"
+   },
+   {
+    "label": "Graduate Diploma for Nurse Practitioners — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/diploma-nurse-practitioners/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-activite-physique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sciences de l'activite physique",
+   "master's in human kinetics",
+   "ma human kinetics",
+   "msc human kinetics",
+   "doctorat sciences de l'activite physique",
+   "phd human kinetics",
+   "kinesiologie maitrise",
+   "kinesiology master",
+   "sport activite physique sante"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences de l'activité physique ?",
+   "en": "Is there a master's in human kinetics?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de l'activité physique (Faculté des sciences de la santé) offre la maîtrise ès arts (MA) et la maîtrise ès sciences (MSc) en sciences de l'activité physique, avec thèse, ainsi que le doctorat (PhD). Les programmes étudient le sport, l'activité physique et la santé de façon intégrée. Ils sont offerts en français et en anglais, et on peut passer directement de la maîtrise au doctorat.",
+   "en": "Yes. The School of Human Kinetics (Faculty of Health Sciences) offers the Master of Arts (MA) and the Master of Science (MSc) in Human Kinetics, thesis-based, as well as the PhD. The programs study sport, physical activity and health in an integrated way. They are offered in French and English, and a fast-track from the master's to the PhD is possible."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Human Kinetics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-human-kinetics/"
+   },
+   {
+    "label": "Maîtrise ès arts sciences de l'activité physique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-sciences-lactivite-physique/"
+   },
+   {
+    "label": "Master of Science Human Kinetics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-human-kinetics/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-gestion-sport",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en gestion du sport",
+   "master's in sport management",
+   "mhk sport management",
+   "gestion du sport",
+   "sport management",
+   "gestion d'organismes sportifs",
+   "marketing sportif",
+   "sports business master"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en gestion du sport ?",
+   "en": "Is there a master's in sport management?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de l'activité physique offre la maîtrise en sciences de l'activité physique (MHK) avec concentration en gestion du sport, un programme professionnel avec cours de 12 mois à temps plein. Tu y apprends le marketing, la finance, le comportement organisationnel et les aspects juridiques des organisations sportives, avec un stage supervisé au cœur du programme. Selon le catalogue, le programme est offert en anglais, la version française étant temporairement suspendue.",
+   "en": "Yes. The School of Human Kinetics offers the Master of Human Kinetics (MHK) with a concentration in Sport Management, a 12-month, full-time professional course-based program. You learn marketing, finance, organizational behaviour and legal issues in sport organizations, with a supervised internship at the heart of the program. According to the catalogue, the program is offered in English, as the French version is temporarily suspended."
+  },
+  "sources": [
+   {
+    "label": "Master of Human Kinetics with Concentration Sport Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-human-kinetics-concentration-sport-management/"
+   },
+   {
+    "label": "Maîtrise en sciences de l'activité physique avec concentration gestion du sport — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-lactivite-physique-concentration-gestion-sport/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-performance-mentale",
+  "category": "programmes",
+  "keywords": [
+   "psychologie du sport",
+   "sport psychology",
+   "consultation en performance mentale",
+   "mental performance consulting",
+   "mhk mental performance",
+   "maitrise psychologie sportive",
+   "master's in sport psychology",
+   "cmpc"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en psychologie du sport ?",
+   "en": "Is there a master's in sport psychology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de l'activité physique offre la maîtrise en sciences de l'activité physique (MHK) avec concentration en consultation en performance mentale, un programme avec cours et stage de 20 mois à temps plein. Selon le catalogue, c'est le seul programme appliqué en psychologie du sport au Canada qui prépare à la certification Certified Mental Performance Consultant (CMPC). Il est offert en anglais, la version française étant temporairement suspendue.",
+   "en": "Yes. The School of Human Kinetics offers the Master of Human Kinetics (MHK) with a concentration in Mental Performance Consulting, a 20-month, full-time program of courses and internship. According to the catalogue, it is the only applied sport psychology program in Canada preparing students for the Certified Mental Performance Consultant (CMPC) certification. It is offered in English, as the French version is temporarily suspended."
+  },
+  "sources": [
+   {
+    "label": "Master of Human Kinetics with Concentration Mental Performance Consulting — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-human-kinetics-concentration-mental-performance-consulting/"
+   },
+   {
+    "label": "Maîtrise en sciences de l'activité physique avec concentration consultation en performance mentale — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-lactivite-physique-concentration-consultation-performance-mentale/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-audiologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en audiologie",
+   "master's in audiology",
+   "mhsc audiology",
+   "audiologiste",
+   "audiologist",
+   "devenir audiologiste",
+   "become an audiologist",
+   "audition",
+   "hearing health"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en audiologie ?",
+   "en": "Is there a master's in audiology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la réadaptation (Faculté des sciences de la santé) offre la maîtrise ès sciences de la santé en audiologie, sur six trimestres consécutifs (deux ans à temps plein), avec cours et stages cliniques. Tous les cours sont donnés en français, mais tu peux remettre tes travaux et examens en français ou en anglais, et les stages se font en milieu francophone, anglophone ou bilingue.",
+   "en": "Yes. The School of Rehabilitation Sciences (Faculty of Health Sciences) offers the Master of Health Sciences (MHSc) in Audiology, over six consecutive terms (two years full-time), with courses and clinical placements. All courses are taught in French, but you can submit assignments and exams in French or English, and placements take place in French-speaking, English-speaking or bilingual settings."
+  },
+  "sources": [
+   {
+    "label": "Master of Health Sciences Audiology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-health-sciences-audiology/"
+   },
+   {
+    "label": "Maîtrise ès sciences de la santé audiologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sante-audiologie/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-ergotherapie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en ergotherapie",
+   "master's in occupational therapy",
+   "mhsc occupational therapy",
+   "ergotherapeute",
+   "occupational therapist",
+   "devenir ergotherapeute",
+   "become an occupational therapist",
+   "ot program"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en ergothérapie ?",
+   "en": "Is there a master's in occupational therapy?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la réadaptation offre la maîtrise ès sciences de la santé en ergothérapie, avec cours (avec ou sans projet), sur six trimestres consécutifs à temps plein ou douze trimestres à temps partiel, stages compris. Le programme est à capacité limitée et vise à servir les communautés francophones minoritaires; selon le catalogue, il est offert en français.",
+   "en": "Yes. The School of Rehabilitation Sciences offers the Master of Health Sciences (MHSc) in Occupational Therapy, course-based (with or without a project), over six consecutive full-time terms or twelve part-time terms, placements included. The program has limited enrolment and aims to serve minority Francophone communities; according to the catalogue, it is offered in French."
+  },
+  "sources": [
+   {
+    "label": "Master of Health Sciences Occupational Therapy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-health-sciences-occupational-therapy/"
+   },
+   {
+    "label": "Maîtrise ès sciences de la santé ergothérapie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sante-ergotherapie/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-physiotherapie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en physiotherapie",
+   "master's in physiotherapy",
+   "mhsc physiotherapy",
+   "physiotherapeute",
+   "physiotherapist",
+   "physical therapy master",
+   "devenir physiotherapeute",
+   "become a physiotherapist"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en physiothérapie ?",
+   "en": "Is there a master's in physiotherapy?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la réadaptation offre la maîtrise ès sciences de la santé en physiothérapie, sur six trimestres consécutifs (deux ans à temps plein), avec 63 unités de cours et 1 025 heures de stage. Comme sa mission est de former des physiothérapeutes bilingues pour servir les francophones, le programme est offert seulement en français, mais tu peux faire tes travaux et examens en français ou en anglais.",
+   "en": "Yes. The School of Rehabilitation Sciences offers the Master of Health Sciences (MHSc) in Physiotherapy, over six consecutive terms (two years full-time), with 63 course units and 1,025 placement hours. Because its mission is to train bilingual physiotherapists to serve Francophones, the program is offered only in French, but you can write assignments and exams in French or English."
+  },
+  "sources": [
+   {
+    "label": "Master of Health Sciences Physiotherapy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-health-sciences-physiotherapy/"
+   },
+   {
+    "label": "Maîtrise ès sciences de la santé physiothérapie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sante-physiotherapie/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-orthophonie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en orthophonie",
+   "master's in speech-language pathology",
+   "mhsc speech-language pathology",
+   "orthophoniste",
+   "speech-language pathologist",
+   "speech therapy master",
+   "devenir orthophoniste",
+   "become a speech therapist"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en orthophonie ?",
+   "en": "Is there a master's in speech-language pathology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la réadaptation offre la maîtrise ès sciences de la santé en orthophonie, sur deux ans (24 mois consécutifs, six trimestres à temps plein) avec projet de recherche et stages cliniques. Le programme forme des professionnels pour répondre aux besoins des communautés francophones; selon le catalogue, il est offert en français et l'admission est limitée.",
+   "en": "Yes. The School of Rehabilitation Sciences offers the Master of Health Sciences (MHSc) in Speech-Language Pathology, over two years (24 consecutive months, six full-time terms) with a research project and clinical placements. The program trains professionals to meet the needs of Francophone communities; according to the catalogue, it is offered in French and admission is limited."
+  },
+  "sources": [
+   {
+    "label": "Master of Health Sciences Speech-Language Pathology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-health-sciences-speechlanguage-pathology/"
+   },
+   {
+    "label": "Maîtrise ès sciences de la santé orthophonie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-sante-orthophonie/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-readaptation",
+  "category": "programmes",
+  "keywords": [
+   "doctorat en sciences de la readaptation",
+   "phd rehabilitation sciences",
+   "sciences de la readaptation",
+   "rehabilitation sciences",
+   "readaptation recherche",
+   "rehabilitation research",
+   "doctorat a distance readaptation",
+   "rehabilitation phd distance"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un doctorat en sciences de la réadaptation ?",
+   "en": "Is there a PhD in rehabilitation sciences?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la réadaptation (Faculté des sciences de la santé) offre le doctorat (PhD) en sciences de la réadaptation, sur le campus ou avec une option à distance. Il prépare des candidats de milieux professionnels ou de recherche à une carrière en recherche, des questions fondamentales jusqu'aux répercussions psychosociales des problèmes de santé. Le programme est offert en français et en anglais.",
+   "en": "Yes. The School of Rehabilitation Sciences (Faculty of Health Sciences) offers the PhD in Rehabilitation Sciences, on campus or through a distance option. It prepares candidates from professional or research backgrounds for a research career, from basic science questions to the psychosocial impact of health conditions. The program is offered in French and English."
+  },
+  "sources": [
+   {
+    "label": "Doctorate in Philosophy Rehabilitation Sciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-rehabilitation-sciences/"
+   },
+   {
+    "label": "Doctorat en philosophie sciences de la réadaptation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/doctorat-philosophie-sciences-readaptation/"
+   },
+   {
+    "label": "Doctorate in Philosophy Rehabilitation Sciences - Distance Option — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-rehabilitation-sciences-virtual/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-nutrition",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en nutrition",
+   "master's in nutrition",
+   "msc nutrition and food biosciences",
+   "biosciences alimentaires",
+   "food biosciences",
+   "sciences des aliments",
+   "food science master",
+   "nutrition clinique recherche"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en nutrition ?",
+   "en": "Is there a master's in nutrition?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la nutrition (Faculté des sciences de la santé) offre la maîtrise ès sciences (MSc) en nutrition et biosciences alimentaires, avec thèse, axée sur la recherche. Elle couvre trois domaines : la nutrition clinique et en santé publique, les sciences des aliments et la nutrition cellulaire et moléculaire. Selon le catalogue, elle est offerte en anglais, à temps plein.",
+   "en": "Yes. The School of Nutrition Sciences (Faculty of Health Sciences) offers the Master of Science (MSc) in Nutrition and Food Biosciences, a research-focused thesis program. It covers three areas: clinical and public health nutrition, food sciences, and cellular and molecular nutrition. According to the catalogue, it is offered in English, full-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Science Nutrition and Food Biosciences — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-nutrition-food-biosciences/"
+   },
+   {
+    "label": "Maîtrise ès sciences nutrition et biosciences alimentaires — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-nutrition-biosciences-alimentaires/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-politique-alimentaire",
+  "category": "programmes",
+  "keywords": [
+   "politique alimentaire et affaires reglementaires",
+   "food policy and regulatory affairs",
+   "diplome politique alimentaire",
+   "graduate diploma food policy",
+   "reglementation des aliments",
+   "food regulation",
+   "salubrite des aliments",
+   "programme en ligne nutrition"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en politique alimentaire ?",
+   "en": "Is there a graduate program in food policy?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de la nutrition offre un diplôme d'études supérieures en politique alimentaire et affaires réglementaires, en ligne et à temps partiel. Il t'apprend à transformer l'information scientifique en politiques et en règlements sur les aliments, à partir d'enjeux de qualité, de salubrité et de nutrition. Selon le catalogue, il est offert en anglais.",
+   "en": "Yes. The School of Nutrition Sciences offers a Graduate Diploma in Food Policy and Regulatory Affairs, online and part-time. It teaches you to turn scientific information into food policies and regulations, using challenges in food quality, safety and nutrition. According to the catalogue, it is offered in English."
+  },
+  "sources": [
+   {
+    "label": "Graduate Diploma Food Policy and Regulatory Affairs (online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-food-policy-regulatory-affairs-online/"
+   },
+   {
+    "label": "Diplôme d'études supérieures politique alimentaire et affaires réglementaires (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/diplome-detudes-superieures-politique-alimentaire-affaires-reglementaires-en-ligne/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-anthropologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en anthropologie",
+   "master's in anthropology",
+   "ma anthropology",
+   "doctorat en anthropologie",
+   "phd anthropology",
+   "phd en anthropologie",
+   "ethnographie",
+   "ethnography",
+   "anthropology graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en anthropologie ?",
+   "en": "Is there a master's in anthropology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'études sociologiques et anthropologiques (Faculté des sciences sociales) offre la maîtrise ès arts (MA) en anthropologie, avec thèse, mémoire ou cours, et une option coop possible, ainsi que le doctorat (PhD). La maîtrise est offerte à temps plein ou à temps partiel, en français et en anglais. Le doctorat est aussi offert dans les deux langues, mais ses trois séminaires obligatoires se donnent seulement en français.",
+   "en": "Yes. The School of Sociological and Anthropological Studies (Faculty of Social Sciences) offers the Master of Arts (MA) in Anthropology, with a thesis, research paper or coursework, and a possible co-op option, as well as the PhD. The MA is offered full-time or part-time, in French and English. The PhD is also offered in both languages, but its three required doctoral seminars are given only in French."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Anthropology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-anthropology/"
+   },
+   {
+    "label": "Maîtrise ès arts anthropologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-anthropologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Anthropology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-anthropology/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-criminologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en criminologie",
+   "master's in criminology",
+   "ma criminology",
+   "doctorat en criminologie",
+   "phd criminology",
+   "phd en criminologie",
+   "justice penale",
+   "criminal justice graduate",
+   "stage criminologie",
+   "double diplome louvain criminologie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en criminologie ?",
+   "en": "Is there a master's in criminology?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de criminologie (Faculté des sciences sociales) offre la maîtrise ès arts (MA) et le doctorat (PhD) en criminologie. La maîtrise peut se faire avec thèse (avec ou sans stage), avec mémoire ou avec cours, et il existe une option de double diplôme avec l'Université catholique de Louvain. Les programmes sont offerts en français et en anglais.",
+   "en": "Yes. The Department of Criminology (Faculty of Social Sciences) offers the Master of Arts (MA) and the PhD in Criminology. The MA can be done with a thesis (with or without a field placement), a research paper or coursework, and there is a double-degree option with Université catholique de Louvain. The programs are offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Criminology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-criminology/"
+   },
+   {
+    "label": "Maîtrise ès arts criminologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-criminologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Criminology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-criminology/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-economie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en economie",
+   "maitrise en science economique",
+   "master's in economics",
+   "ma economics",
+   "doctorat en economie",
+   "phd economics",
+   "phd en science economique",
+   "economics graduate",
+   "economie coop"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en économie ?",
+   "en": "Is there a master's in economics?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de science économique (Faculté des sciences sociales) offre la maîtrise ès arts (MA) en science économique, avec mémoire ou avec cours, et une option coop. Il offre aussi le doctorat (PhD) en science économique, conjointement avec l'Université Carleton, et un passage accéléré de la maîtrise au doctorat est possible.",
+   "en": "Yes. The Department of Economics (Faculty of Social Sciences) offers the Master of Arts (MA) in Economics, with a research paper or coursework, and a co-op option. It also offers the PhD in Economics, jointly with Carleton University, and a fast-track from the master's to the PhD is possible."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Economics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-economics/"
+   },
+   {
+    "label": "Maîtrise ès arts science économique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-science-economique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Economics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-economics/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-etudes-feministes",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en etudes feministes et de genre",
+   "master's in feminist and gender studies",
+   "ma feminist and gender studies",
+   "doctorat en etudes feministes",
+   "phd gender studies",
+   "etudes des femmes",
+   "women's studies graduate",
+   "etudes de genre",
+   "specialisation etudes feministes"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en études féministes et de genre ?",
+   "en": "Is there a master's in feminist and gender studies?"
+  },
+  "answer": {
+   "fr": "Oui. L'Institut d'études féministes et de genre offre la maîtrise ès arts (MA, avec thèse, mémoire ou cours) et le doctorat (PhD) en études féministes et de genre, à temps plein ou à temps partiel, avec des cours en français et en anglais. Il existe aussi une spécialisation concertée en études féministes et de genre à la maîtrise, que tu peux combiner avec plusieurs disciplines comme l'histoire, la criminologie, la science politique, la musique ou le droit.",
+   "en": "Yes. The Institute of Feminist and Gender Studies offers the Master of Arts (MA, with thesis, research paper or coursework) and the PhD in Feminist and Gender Studies, full-time or part-time, with courses in English and French. There is also a collaborative specialization in Feminist and Gender Studies at the master's level, which you can combine with many disciplines such as history, criminology, political science, music or law."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Feminist and Gender Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-feminist-gender-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts études féministes et de genre — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-etudes-feministes-genre/"
+   },
+   {
+    "label": "Doctorate in Philosophy in Feminist and Gender Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-feminist-gender-studies/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-geographie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en geographie",
+   "master's in geography",
+   "ma geography",
+   "msc geography",
+   "doctorat en geographie",
+   "phd geography",
+   "geomatique",
+   "geomatics",
+   "anthropocene",
+   "environnement geographie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en géographie ?",
+   "en": "Is there a master's in geography?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de géographie, environnement et géomatique offre une maîtrise ès arts (MA) et une maîtrise ès sciences (MSc) en géographie avec thèse, sur deux ans, ainsi qu'une concentration interdisciplinaire d'un an avec cours sur l'anthropocène (MSc) et un doctorat (PhD) en géographie. Les forces du département incluent les environnements polaires, la géographie urbaine, les changements climatiques, les SIG et la télédétection.",
+   "en": "Yes. The Department of Geography, Environment and Geomatics offers a thesis-based two-year Master of Arts (MA) and Master of Science (MSc) in Geography, a one-year course-based interdisciplinary concentration in The Anthropocene (MSc), and a PhD in Geography. The department's strengths include polar environments, urban geography, climate change, and GIS and remote sensing."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Geography — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-geography/"
+   },
+   {
+    "label": "Maîtrise ès arts géographie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-geographie/"
+   },
+   {
+    "label": "Master of Science Geography — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-geography/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-developpement-international",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en developpement international",
+   "master's in international development",
+   "ma international development and globalization",
+   "mondialisation",
+   "globalization",
+   "doctorat en developpement international",
+   "phd international development",
+   "pratique du developpement",
+   "development practice",
+   "ong"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en développement international ?",
+   "en": "Is there a master's in international development?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de développement international et mondialisation (Faculté des sciences sociales) offre la maîtrise ès arts (MA) en développement international et mondialisation, avec cours ou avec thèse, une option coop et une concentration en pratique du développement, ainsi que le doctorat (PhD) en développement international. Les cours obligatoires de la maîtrise sont offerts chaque année en français et en anglais, et le doctorat est offert dans les deux langues, à temps plein.",
+   "en": "Yes. The School of International Development and Global Studies (Faculty of Social Sciences) offers the Master of Arts (MA) in International Development and Globalization, with coursework or a thesis, a co-op option and a concentration in Development Practice, as well as the PhD in International Development. The MA core courses are offered every year in English and French, and the PhD is offered in both languages, full-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts International Development and Globalization — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-globalization-international-development/"
+   },
+   {
+    "label": "Maîtrise ès arts développement international et mondialisation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-mondialisation-developpement-international/"
+   },
+   {
+    "label": "Doctorate in Philosophy International Development — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-international-development/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-science-politique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en science politique",
+   "master's in political science",
+   "ma political science",
+   "doctorat en science politique",
+   "phd political science",
+   "phd en science politique",
+   "etudes politiques",
+   "political studies graduate",
+   "science po maitrise"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en science politique ?",
+   "en": "Is there a master's in political science?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'études politiques (Faculté des sciences sociales) offre la maîtrise ès arts (MA) en science politique, avec thèse ou avec mémoire (avec ou sans option coop), à temps plein ou à temps partiel, et le doctorat (PhD), à temps plein. Les programmes sont offerts en français et en anglais, et il est possible de faire la maîtrise ou le doctorat entièrement en français.",
+   "en": "Yes. The School of Political Studies (Faculty of Social Sciences) offers the Master of Arts (MA) in Political Science, with a thesis or a research paper (with or without a co-op option), full-time or part-time, and the PhD, full-time. The programs are offered in French and English, and it is possible to complete the master's or PhD entirely in French."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Political Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-political-science/"
+   },
+   {
+    "label": "Maîtrise ès arts science politique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-science-politique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Political Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-political-science/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-psychologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en psychologie",
+   "master's in psychology",
+   "ma psychology",
+   "doctorat en psychologie",
+   "phd psychology",
+   "psychologie clinique",
+   "clinical psychology",
+   "devenir psychologue",
+   "become a psychologist",
+   "ma-phd psychologie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise ou un doctorat en psychologie ?",
+   "en": "Is there a master's or PhD in psychology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de psychologie (Faculté des sciences sociales) offre le doctorat (PhD) en psychologie clinique et en psychologie, avec des domaines comme la psychologie sociale, la psychologie du développement, la cognition et les neurosciences comportementales; le programme clinique est agréé par la Société canadienne de psychologie. Le cheminement MA-PhD admet seulement les personnes qui visent le doctorat. Il existe aussi une MA en psychologie avec mémoire, ou avec cours et coop obligatoire.",
+   "en": "Yes. The School of Psychology (Faculty of Social Sciences) offers the PhD in Clinical Psychology and in Psychology, with fields such as social psychology, developmental psychology, cognition and behavioural neurosciences; the clinical program is accredited by the Canadian Psychological Association. The MA-PhD path only admits students who intend to complete a doctorate. There is also an MA in Psychology with a research paper, or with coursework and mandatory co-op."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Psychology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-psychology/"
+   },
+   {
+    "label": "Maîtrise ès arts psychologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-psychologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Psychology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-psychology/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-administration-publique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en administration publique",
+   "master's in public administration",
+   "ma public administration",
+   "mpa",
+   "doctorat en administration publique",
+   "phd public administration",
+   "gestion publique",
+   "public management",
+   "politiques publiques",
+   "public policy master"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en administration publique ?",
+   "en": "Is there a master's in public administration?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'études politiques (Faculté des sciences sociales) offre la maîtrise ès arts (MA) en administration publique, avec thèse ou avec mémoire, et une option coop, à temps plein ou à temps partiel, ainsi que le doctorat (PhD), à temps plein. Les programmes offrent deux champs : la gestion publique et les politiques publiques. Ils sont offerts en français et en anglais, et l'usage des deux langues est encouragé.",
+   "en": "Yes. The School of Political Studies (Faculty of Social Sciences) offers the Master of Arts (MA) in Public Administration, with a thesis or a research paper, and a co-op option, full-time or part-time, as well as the PhD, full-time. The programs offer two fields: public management and public policy. They are offered in French and English, and using both languages is encouraged."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Public Administration — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/"
+   },
+   {
+    "label": "Maîtrise ès arts administration publique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-administration-publique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Public Administration — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-public-administration/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-affaires-publiques-internationales",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en affaires publiques et internationales",
+   "master's in public and international affairs",
+   "ma public and international affairs",
+   "api",
+   "affaires internationales",
+   "international affairs master",
+   "ecole superieure d'affaires publiques et internationales",
+   "relations internationales maitrise"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en affaires internationales ?",
+   "en": "Is there a master's in public and international affairs?"
+  },
+  "answer": {
+   "fr": "Oui. L'École supérieure d'affaires publiques et internationales offre la maîtrise ès arts (MA) en affaires publiques et internationales, un programme multidisciplinaire avec cours ou avec mémoire, à temps plein ou à temps partiel. Tu suis cinq cours de base, cinq séminaires spécialisés et un séminaire de synthèse, et une option coop est offerte aux étudiants à temps plein, ainsi que des échanges internationaux.",
+   "en": "Yes. The Graduate School of Public and International Affairs offers the Master of Arts (MA) in Public and International Affairs, a multidisciplinary program with coursework or a major research paper, full-time or part-time. You take five core courses, five specialized seminars and a capstone seminar, and a co-op option is offered to full-time students, along with international exchanges."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Public and International Affairs — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-public-international-affairs/"
+   },
+   {
+    "label": "Maîtrise ès arts affaires publiques et internationales — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-affaires-publiques-internationales/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-service-social",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en service social",
+   "maitrise en travail social",
+   "master of social work",
+   "msw",
+   "mss",
+   "doctorat en service social",
+   "phd social work",
+   "travailleur social",
+   "social worker",
+   "ecole de service social"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en travail social ou en service social ?",
+   "en": "Is there a master's in social work?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de service social (Faculté des sciences sociales) offre la maîtrise en travail social et le doctorat (PhD) en travail social. La maîtrise est une formation professionnelle agréée par l'Association canadienne pour la formation en travail social, axée sur les inégalités sociales, les contextes minoritaires et les besoins de la population francophone de l'Ontario. Selon le catalogue, ces programmes sont offerts en français.",
+   "en": "Yes. The School of Social Work (Faculty of Social Sciences) offers the Master of Social Work and the PhD in Social Work. The master's is a professional program approved by the Canadian Association for Social Work Education, focused on social inequality, minority contexts and the needs of Ontario's French-speaking population. According to the catalogue, these programs are offered in French."
+  },
+  "sources": [
+   {
+    "label": "Master of Social Work — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-social-work/"
+   },
+   {
+    "label": "Maîtrise en travail social — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-travail-social/"
+   },
+   {
+    "label": "Doctorate in Philosophy Social Work — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-social-work/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sociologie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sociologie",
+   "master's in sociology",
+   "ma sociology",
+   "doctorat en sociologie",
+   "phd sociology",
+   "phd en sociologie",
+   "sociology graduate",
+   "immersion francaise maitrise sociologie"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sociologie ?",
+   "en": "Is there a master's in sociology?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'études sociologiques et anthropologiques (Faculté des sciences sociales) offre la maîtrise ès arts (MA) en sociologie, avec thèse, mémoire ou cours (avec une composante d'immersion en français possible) et une option coop, ainsi que le doctorat (PhD). La maîtrise est offerte à temps plein ou à temps partiel, et le doctorat à temps plein, en français et en anglais.",
+   "en": "Yes. The School of Sociological and Anthropological Studies (Faculty of Social Sciences) offers the Master of Arts (MA) in Sociology, with a thesis, research paper or coursework (with an optional French immersion component) and a co-op option, as well as the PhD. The MA is offered full-time or part-time, and the PhD full-time, in French and English."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Sociology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-sociology/"
+   },
+   {
+    "label": "Maîtrise ès arts sociologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-sociologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Sociology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-sociology/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-securite-defense",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en etudes de securite et defense",
+   "master's in security and defence studies",
+   "masd",
+   "securite nationale",
+   "national security master",
+   "defense",
+   "defence studies",
+   "securite internationale"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sécurité et défense ?",
+   "en": "Is there a master's in security and defence studies?"
+  },
+  "answer": {
+   "fr": "Oui. La maîtrise ès arts en études de sécurité et défense est un programme interdisciplinaire, en français et en anglais, axé sur la pratique, qui aborde la sécurité internationale, nationale et humaine. Elle se fait avec cours : quatre cours obligatoires et six cours au choix (30 unités), en 12 mois à temps plein ou en deux ans à temps partiel.",
+   "en": "Yes. The Master of Arts in Security and Defence Studies (MASD) is an interdisciplinary, practice-oriented program in English and French covering international, national and human security. It is course-based: four compulsory courses and six electives (30 units), completed in 12 months full-time or two years part-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts in Security and Defence Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-security-defence-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts en études de sécurité et défense — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-etudes-securite-defense/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-psychedeliques",
+  "category": "programmes",
+  "keywords": [
+   "maitrise etudes sur les psychedeliques",
+   "master's in psychedelics",
+   "psychedelics and consciousness studies",
+   "etudes sur la conscience",
+   "consciousness studies",
+   "microprogramme science psychedelique",
+   "microprogram psychedelic science",
+   "psychedeliques et spiritualite",
+   "psychedelic-assisted therapy"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise sur les psychédéliques ?",
+   "en": "Is there a master's in psychedelics?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de psychologie offre la maîtrise ès arts en études sur les psychédéliques et sur la conscience, avec mémoire ou avec cours, qui porte sur les usages thérapeutiques, spirituels et rituels des psychédéliques à travers les cultures et l'histoire. Il existe aussi deux microprogrammes : science psychédélique, et études psychédéliques et spiritualité.",
+   "en": "Yes. The School of Psychology offers the Master of Arts in Psychedelics and Consciousness Studies, with a research paper or coursework, focused on the therapeutic, spiritual and ritual uses of psychedelics across cultures and history. There are also two microprograms: Psychedelic Science, and Psychedelics and Spirituality Studies."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Psychedelics and Consciousness Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-psychedelics-consciousness-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts études sur les psychédéliques et sur la conscience — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-psychedeliques-conscience/"
+   },
+   {
+    "label": "Microprogram Psychedelic Science — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-psychedelic-science/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-evaluation-programmes",
+  "category": "programmes",
+  "keywords": [
+   "evaluation de programmes",
+   "program evaluation",
+   "diplome evaluation de programmes",
+   "graduate diploma program evaluation",
+   "microprogramme evaluation",
+   "microprogram program evaluation",
+   "evaluation des politiques",
+   "policy evaluation"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en évaluation de programmes ?",
+   "en": "Is there a graduate program in program evaluation?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme de microprogrammes. La Faculté d'éducation offre un microprogramme en évaluation de programmes en contextes professionnels, et il existe aussi un microprogramme en évaluation des programmes et politiques sociales et de santé. Selon le catalogue, l'admission au diplôme d'études supérieures en évaluation de programmes est suspendue jusqu'à nouvel ordre.",
+   "en": "Yes, as microprograms. The Faculty of Education offers a Microprogram in Program Evaluation in Professional Contexts, and there is also a Microprogram in Evaluation of Social and Health Programs and Policies. According to the catalogue, admission to the Graduate Diploma in Program Evaluation is suspended until further notice."
+  },
+  "sources": [
+   {
+    "label": "Graduate Diploma Program Evaluation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-program-evaluation/"
+   },
+   {
+    "label": "Diplôme d'études supérieures évaluation de programmes — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/diplome-detudes-superieures-evaluation-programmes/"
+   },
+   {
+    "label": "Microprogram Program Evaluation in Professional Contexts — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-program-evaluation-professional-contexts/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-gestion-publique-gouvernance",
+  "category": "programmes",
+  "keywords": [
+   "gestion publique et gouvernance",
+   "public management and governance",
+   "diplome gestion publique",
+   "graduate diploma public management",
+   "gouvernance",
+   "governance",
+   "microprogramme gouvernance",
+   "analyse des politiques publiques",
+   "public policy analysis"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un diplôme en gestion publique et gouvernance ?",
+   "en": "Is there a graduate diploma in public management and governance?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'études politiques offre un diplôme d'études supérieures en gestion publique et gouvernance, qui donne une base conceptuelle pour analyser la politique canadienne et parlementaire et des outils pour travailler dans des organisations complexes. Il existe aussi deux microprogrammes de 9 unités : gouvernance et gestion publique, et gouvernance et analyse des politiques publiques.",
+   "en": "Yes. The School of Political Studies offers a Graduate Diploma in Public Management and Governance, which provides a conceptual foundation for analyzing Canadian and parliamentary politics and the skills to work in complex organizations. There are also two 9-unit microprograms: Governance and Public Management, and Governance and Public Policy Analysis."
+  },
+  "sources": [
+   {
+    "label": "Graduate Diploma Public Management and Governance — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-public-management-governance/"
+   },
+   {
+    "label": "Diplôme d'études supérieures gestion publique et gouvernance — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/diplome-detudes-superieures-gestion-publique-gouvernance/"
+   },
+   {
+    "label": "Microprogram Governance and Public Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-governance-public-management/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-communication",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en communication",
+   "master's in communication",
+   "ma communication",
+   "master of communication",
+   "doctorat en communication",
+   "phd communication",
+   "communication organisationnelle",
+   "organizational communication",
+   "etudes des medias",
+   "communication en sante"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en communication ?",
+   "en": "Is there a master's in communication?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de communication (Faculté des arts) offre la maîtrise ès arts (MA) en communication, avec thèse ou avec mémoire (concentration possible en communication en santé et double diplôme avec l'Université catholique de Louvain), la maîtrise en communication (MC) avec cours, à laquelle on peut ajouter une option coop, ainsi que le doctorat (PhD) en communication. Les champs d'études sont les études des médias et la communication organisationnelle.",
+   "en": "Yes. The Department of Communication (Faculty of Arts) offers the Master of Arts (MA) in Communication, with a thesis or research paper (with an optional concentration in health communication and a double degree with Université catholique de Louvain), the course-based Master of Communication (MC), to which a co-op option can be added, and the PhD in Communication. Fields of study are media studies and organizational communication."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Communication — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-communication/"
+   },
+   {
+    "label": "Maîtrise ès arts communication — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-communication/"
+   },
+   {
+    "label": "Master of Communication — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-communication/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-anglais",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en anglais",
+   "master's in english",
+   "ma english literature",
+   "doctorat en anglais",
+   "phd english",
+   "creation litteraire",
+   "creative writing master",
+   "litterature anglaise",
+   "english literature graduate",
+   "ecriture creative"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en littérature anglaise ou en création littéraire ?",
+   "en": "Is there a master's in English or creative writing?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département d'anglais (Faculté des arts) offre la maîtrise ès arts (MA) en littérature anglaise, avec cours, mémoire ou thèse, une MA avec concentration en création littéraire (cours et projet), et le doctorat (PhD) en anglais. Une option coop peut s'ajouter aux options avec cours ou avec mémoire. Ces programmes sont offerts seulement en anglais.",
+   "en": "Yes. The Department of English (Faculty of Arts) offers the Master of Arts (MA) in English Literature, with coursework, a major research paper or a thesis, an MA with a Concentration in Creative Writing (coursework and project), and the PhD in English. A co-op option can be added to the coursework or research paper options. These programs are offered in English only."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts English Literature — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-english-literature/"
+   },
+   {
+    "label": "Master of Arts English Literature — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/master-arts-english-literature/"
+   },
+   {
+    "label": "Doctorate in Philosophy English Literature — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-english-literature/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-lettres-francaises",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en lettres francaises",
+   "master's in french literature",
+   "ma lettres francaises",
+   "doctorat en lettres francaises",
+   "phd french literature",
+   "litterature francaise",
+   "etudes francaises",
+   "departement de francais",
+   "french studies graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en lettres françaises ?",
+   "en": "Is there a master's in French literature?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de français (Faculté des arts) offre la maîtrise ès arts (M.A.) en lettres françaises, avec thèse, avec mémoire ou avec cours, et le doctorat (Ph.D.) en lettres françaises. Le département participe aussi aux spécialisations en études féministes et de genre et en études médiévales et de la Renaissance à la maîtrise. Ces programmes sont offerts seulement en français.",
+   "en": "Yes. The Département de français (Faculty of Arts) offers the Master of Arts (MA) in Lettres françaises (French literature), with a thesis, a research paper or coursework, and the PhD in Lettres françaises. The department also takes part in the master's specializations in feminist and gender studies and in medieval and Renaissance studies. These programs are offered in French only."
+  },
+  "sources": [
+   {
+    "label": "Maîtrise ès arts Lettres françaises — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/maitrise-arts-lettres-francaises/"
+   },
+   {
+    "label": "Maîtrise ès arts lettres françaises — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-lettres-francaises/"
+   },
+   {
+    "label": "Doctorat en philosophie Lettres françaises — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorat-philosophie-lettres-francaises/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-histoire",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en histoire",
+   "master's in history",
+   "ma history",
+   "doctorat en histoire",
+   "phd history",
+   "phd en histoire",
+   "history graduate",
+   "histoire coop"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en histoire ?",
+   "en": "Is there a master's in history?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département d'histoire (Faculté des arts) offre la maîtrise ès arts (MA) en histoire, avec thèse ou avec mémoire, et une option coop, ainsi que le doctorat (PhD) en histoire. Selon la disponibilité des professeurs, tu peux faire tes études en français ou en anglais. Le département participe aussi aux spécialisations en études féministes et de genre et en études médiévales et de la Renaissance.",
+   "en": "Yes. The Department of History (Faculty of Arts) offers the Master of Arts (MA) in History, with a thesis or research paper, and a co-op option, as well as the PhD in History. Depending on faculty availability, you can study in English or French. The department also takes part in the specializations in feminist and gender studies and in medieval and Renaissance studies."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts History — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-history/"
+   },
+   {
+    "label": "Maîtrise ès arts histoire — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-histoire/"
+   },
+   {
+    "label": "Doctorate in Philosophy History — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-history/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-philosophie",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en philosophie",
+   "master's in philosophy",
+   "ma philosophy",
+   "doctorat en philosophie philosophie",
+   "phd philosophy",
+   "phd en philosophie",
+   "philosophy graduate",
+   "ethique maitrise"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en philosophie ?",
+   "en": "Is there a master's in philosophy?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de philosophie (Faculté des arts) offre la maîtrise ès arts (MA) en philosophie, avec thèse ou avec cours, et le doctorat (PhD) en philosophie. Les programmes sont offerts en français et en anglais, et tu peux étudier dans la langue officielle de ton choix.",
+   "en": "Yes. The Department of Philosophy (Faculty of Arts) offers the Master of Arts (MA) in Philosophy, with a thesis or coursework, and the PhD in Philosophy. The programs are offered in English and French, and you may study in the official language of your choice."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Philosophy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-philosophy/"
+   },
+   {
+    "label": "Maîtrise ès arts philosophie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-philosophie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Philosophy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-philosophy/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-linguistique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en linguistique",
+   "master's in linguistics",
+   "ma linguistics",
+   "doctorat en linguistique",
+   "phd linguistics",
+   "phd en linguistique",
+   "psycholinguistique",
+   "sociolinguistique",
+   "acquisition des langues",
+   "linguistics graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en linguistique ?",
+   "en": "Is there a master's in linguistics?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de linguistique (Faculté des arts) offre la maîtrise ès arts (MA, avec mémoire) et le doctorat (PhD) en linguistique. Tu peux te spécialiser en linguistique théorique (phonétique, phonologie, morphologie, syntaxe, sémantique), en acquisition de la langue première et seconde, en psycholinguistique, en neurolinguistique ou en sociolinguistique.",
+   "en": "Yes. The Department of Linguistics (Faculty of Arts) offers the Master of Arts (MA, with a research paper) and the PhD in Linguistics. You can specialize in theoretical linguistics (phonetics, phonology, morphology, syntax, semantics), first and second language acquisition, psycholinguistics, neurolinguistics or sociolinguistics."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Linguistics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-linguistics/"
+   },
+   {
+    "label": "Maîtrise ès arts linguistique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-linguistique/"
+   },
+   {
+    "label": "Doctorate in Philosophy Linguistics — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-linguistics/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-bilinguisme",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en etudes du bilinguisme",
+   "master's in bilingualism studies",
+   "ma bilingualism studies",
+   "bilinguisme",
+   "bilingualism",
+   "linguistique appliquee",
+   "applied linguistics master",
+   "enseignement des langues secondes",
+   "ilob",
+   "olbi"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en bilinguisme ?",
+   "en": "Is there a master's in bilingualism studies?"
+  },
+  "answer": {
+   "fr": "Oui. L'Institut des langues officielles et du bilinguisme (ILOB) offre la maîtrise ès arts (MA) en études du bilinguisme, avec thèse, mémoire ou cours, à temps plein ou à temps partiel. Le programme porte sur la linguistique appliquée : bilinguisme et plurilinguisme, enseignement et évaluation des langues secondes chez les adultes, et politiques linguistiques. Il est offert en français et en anglais, et un double diplôme est possible avec l'Université Lyon 2.",
+   "en": "Yes. The Official Languages and Bilingualism Institute (OLBI) offers the Master of Arts (MA) in Bilingualism Studies, with a thesis, research paper or coursework, full-time or part-time. The program covers applied linguistics: bi- and multilingualism, adult second language teaching and assessment, and language policy. It is offered in English and French, and a dual degree is possible with Université Lyon 2."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Bilingualism Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-bilingualism-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts études du bilinguisme — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-etudes-bilinguisme/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-etudes-anciennes",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en etudes anciennes",
+   "master's in classical studies",
+   "ma classical studies",
+   "antiquite tardive",
+   "late antiquity",
+   "latin grec",
+   "classics graduate",
+   "etudes classiques"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en études anciennes ?",
+   "en": "Is there a master's in classical studies?"
+  },
+  "answer": {
+   "fr": "Le Département d'études anciennes et de sciences des religions (Faculté des arts) offre une maîtrise ès arts (MA) en études anciennes centrée sur l'Antiquité tardive (200 à 700 apr. J.-C.), avec mémoire ou avec thèse. Attention : selon le catalogue, l'admission à ce programme est suspendue jusqu'à nouvel ordre.",
+   "en": "The Department of Classics and Religious Studies (Faculty of Arts) offers a Master of Arts (MA) in Classical Studies focused on Late Antiquity (A.D. 200-700), with a research paper or thesis. Note: according to the catalogue, admission to this program is suspended until further notice."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Classical Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-classical-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts études anciennes — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-etudes-anciennes/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-etudes-medievales",
+  "category": "programmes",
+  "keywords": [
+   "etudes medievales et de la renaissance",
+   "medieval and renaissance studies",
+   "maitrise etudes medievales",
+   "master's in medieval studies",
+   "moyen age",
+   "middle ages",
+   "renaissance",
+   "specialisation concertee medievale"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en études médiévales ?",
+   "en": "Is there a master's in medieval and Renaissance studies?"
+  },
+  "answer": {
+   "fr": "Oui, sous forme de spécialisation concertée à la maîtrise. Tu peux faire une maîtrise ès arts dans une discipline participante avec spécialisation en études médiévales et de la Renaissance, par exemple en histoire, en anglais, en lettres françaises, en philosophie, en musique, en espagnol, en théâtre, en sciences des religions ou en études anciennes.",
+   "en": "Yes, as a collaborative specialization at the master's level. You can do a Master of Arts in a participating discipline with a specialization in Medieval and Renaissance Studies, for example in history, English, French literature, philosophy, music, Spanish, theatre, religious studies or classical studies."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts History and Specialization Medieval and Renaissance Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-history-specialization-medieval-renaissance-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts en histoire spécialisation études médiévales et de la renaissance — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-histoire-specialisation-etudes-medievales-renaissance/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-religions",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sciences des religions",
+   "master's in religious studies",
+   "ma religious studies",
+   "doctorat en sciences des religions",
+   "phd religious studies",
+   "etudes religieuses",
+   "religions au canada",
+   "religion graduate"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences des religions ?",
+   "en": "Is there a master's in religious studies?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département d'études anciennes et de sciences des religions (Faculté des arts) offre la maîtrise ès arts (MA, avec thèse ou avec mémoire) et le doctorat (PhD) en sciences des religions. Ces programmes étudient le phénomène religieux avec des approches historiques, sociologiques, psychologiques et anthropologiques, sans considérer aucune tradition comme normative.",
+   "en": "Yes. The Department of Classics and Religious Studies (Faculty of Arts) offers the Master of Arts (MA, with a thesis or research paper) and the PhD in Religious Studies. These programs study religious phenomena through historical, sociological, psychological and anthropological approaches, without treating any tradition as normative."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Religious Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-religious-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts sciences des religions — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-sciences-religions/"
+   },
+   {
+    "label": "Doctorate in Philosophy Religious Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-religious-studies/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-espagnol",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en espagnol",
+   "master's in spanish",
+   "ma spanish",
+   "doctorat en espagnol",
+   "phd spanish",
+   "etudes hispaniques",
+   "hispanic studies",
+   "litterature espagnole",
+   "langues modernes"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en espagnol ?",
+   "en": "Is there a master's in Spanish?"
+  },
+  "answer": {
+   "fr": "Le Département des langues et littératures modernes (Faculté des arts) offre une maîtrise ès arts (MA) et un doctorat (PhD) en espagnol, axés sur les littératures et cultures de l'Espagne et de l'Amérique latine et sur la linguistique hispanique. Attention : selon le catalogue, l'admission à la maîtrise (options avec cours et avec mémoire) et au doctorat est suspendue jusqu'à nouvel ordre.",
+   "en": "The Department of Modern Languages and Literatures (Faculty of Arts) offers a Master of Arts (MA) and a PhD in Spanish, focused on the literatures and cultures of Spain and Latin America and on Hispanic linguistics. Note: according to the catalogue, admission to the MA (coursework and research paper options) and to the PhD is suspended until further notice."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Spanish — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-spanish/"
+   },
+   {
+    "label": "Maîtrise ès arts Espagnol — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-espagnol/"
+   },
+   {
+    "label": "Doctorate in Philosophy in Spanish — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-spanish/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-litteratures-monde",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en litteratures et cultures du monde",
+   "master's in world literatures and cultures",
+   "ma world literatures",
+   "litterature comparee",
+   "comparative literature",
+   "cultures du monde",
+   "world cultures",
+   "langues et litteratures modernes"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en littératures et cultures du monde ?",
+   "en": "Is there a master's in world literatures and cultures?"
+  },
+  "answer": {
+   "fr": "Le Département des langues et littératures modernes a créé une maîtrise ès arts en littératures et cultures du monde, une MA d'un an avec mémoire qui réunit littérature, cinéma, médias, sociolinguistique, genre, diasporas et minorités. Attention : selon le catalogue, ce programme est suspendu jusqu'à nouvel ordre.",
+   "en": "The Department of Modern Languages and Literatures created a Master of Arts in World Literatures and Cultures, a one-year MA with a research paper bringing together literature, film, media, sociolinguistics, gender, diasporas and minorities. Note: according to the catalogue, this program is suspended until further notice."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts World Literatures and Cultures — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-world-literatures-cultures/"
+   },
+   {
+    "label": "Maîtrise ès arts littératures et cultures du monde — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-litteratures-cultures-monde/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-theatre",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en theatre",
+   "master's in theatre",
+   "ma theatre",
+   "mise en scene",
+   "theatre directing",
+   "mfa theatre directing",
+   "pratique theatrale",
+   "dramaturgie",
+   "dramaturgy"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en théâtre ou en mise en scène ?",
+   "en": "Is there a master's in theatre or directing?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département de théâtre (Faculté des arts) offre la maîtrise ès arts (MA) en théâtre, axée sur la théorie et la dramaturgie, avec thèse (deux ans) ou avec mémoire (un an), et la maîtrise en pratique théâtrale, mise en scène (MFA), un programme à temps plein de deux ans. Ces programmes peuvent se faire en français et en anglais, et la mise en scène permet d'étudier les pratiques théâtrales des deux langues dans un milieu bilingue.",
+   "en": "Yes. The Department of Theatre (Faculty of Arts) offers the Master of Arts (MA) in Theatre, focused on theory and dramaturgy, with a thesis (two years) or a major research paper (one year), and the Master of Fine Arts (MFA) in Theatre Directing, a two-year full-time program. These programs can be pursued in English and French, and the directing program lets you study both English and French theatre practices in a bilingual setting."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Theatre — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-theatre/"
+   },
+   {
+    "label": "Maîtrise ès arts théâtre — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-theatre/"
+   },
+   {
+    "label": "Master of Fine Arts Theatre Directing — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-fine-arts-theatre-directing/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-arts-visuels",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en arts visuels",
+   "master of fine arts",
+   "mfa visual arts",
+   "master's in visual arts",
+   "theorie de l'art contemporain",
+   "contemporary art theory",
+   "ma contemporary art",
+   "histoire de l'art maitrise",
+   "art history master"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en arts visuels ?",
+   "en": "Is there a master's in visual arts (MFA)?"
+  },
+  "answer": {
+   "fr": "Oui. Le Département des arts visuels (Faculté des arts) offre la maîtrise en arts visuels (MFA), un programme bilingue de deux ans à temps plein, avec présentation de thèse, qui couvre la photographie, les arts médiatiques, la sculpture, la peinture, le dessin, la vidéo et l'installation. Il offre aussi la maîtrise ès arts en théorie de l'art contemporain, un programme bilingue d'un an à temps plein, avec mémoire ou avec cours.",
+   "en": "Yes. The Department of Visual Arts (Faculty of Arts) offers the Master of Fine Arts (MFA), a bilingual two-year full-time program with a thesis presentation, covering photography, media arts, sculpture, painting, drawing, video and installation. It also offers the Master of Arts in Contemporary Art Theory, a bilingual one-year full-time program with a research paper or coursework."
+  },
+  "sources": [
+   {
+    "label": "Master of Fine Arts Visual Arts — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-fine-arts-visual-arts/"
+   },
+   {
+    "label": "Maîtrise en arts visuels — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-visuels/"
+   },
+   {
+    "label": "Master of Arts Contemporary Art Theory — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-contemporary-art-theory/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-musique",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en musique",
+   "master of music",
+   "mmus",
+   "master's in music",
+   "ma music",
+   "doctorat en musique",
+   "phd music",
+   "interpretation musicale",
+   "music performance",
+   "composition musicale",
+   "pedagogie du piano"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en musique ?",
+   "en": "Is there a master's in music?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de musique (Faculté des arts) offre la maîtrise en musique (MMus) avec concentration en interprétation ou en composition, la maîtrise ès arts (MA) en musique (avec mémoire, thèse ou cours) et un doctorat (PhD) en recherche interdisciplinaire en musique. L'interprétation est offerte en piano, piano collaboratif, direction, chant, instruments d'orchestre et guitare. L'École offre aussi des diplômes d'études supérieures en interprétation musicale et en recherche en pédagogie du piano.",
+   "en": "Yes. The School of Music (Faculty of Arts) offers the Master of Music (MMus) with a concentration in Performance or Composition, the Master of Arts (MA) in Music (with a research paper, thesis or coursework) and a PhD in Interdisciplinary Research in Music. Performance studies are offered in piano, collaborative piano, conducting, voice, orchestral instruments and guitar. The School also offers graduate diplomas in Music Performance and in Piano Pedagogy Research."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Music — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-music/"
+   },
+   {
+    "label": "Maîtrise ès arts musique — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-musique/"
+   },
+   {
+    "label": "Master of Music and Concentration Performance — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-music-concentration-in-performance/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-traductologie",
+  "category": "programmes",
+  "keywords": [
+   "traductologie",
+   "translation studies",
+   "ma translation studies",
+   "doctorat en traductologie",
+   "phd translation studies",
+   "phd en traduction",
+   "traduction litteraire",
+   "literary translation",
+   "recherche en traduction"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un doctorat en traduction ?",
+   "en": "Is there a PhD in translation studies?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de traduction et d'interprétation (Faculté des arts) offre le doctorat (PhD) en traductologie, un programme à temps plein comprenant quatre cours, un examen de synthèse et une thèse; la plupart des séminaires sont bilingues. Selon le catalogue, la maîtrise ès arts en traductologie (y compris la concentration en traduction littéraire) est suspendue jusqu'à nouvel ordre. Pour une maîtrise professionnelle, il existe la maîtrise en traduction.",
+   "en": "Yes. The School of Translation and Interpretation (Faculty of Arts) offers the PhD in Translation Studies, a full-time program with four courses, a comprehensive exam and a thesis; most seminars are bilingual. According to the catalogue, the Master of Arts in Translation Studies (including the literary translation concentration) is suspended until further notice. For a professional master's, there is the Master of Translation."
+  },
+  "sources": [
+   {
+    "label": "Master of Arts Translation Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-translation-studies/"
+   },
+   {
+    "label": "Maîtrise ès arts traductologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-traductologie/"
+   },
+   {
+    "label": "Doctorate in Philosophy Translation Studies — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-translation-studies/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-maitrise-traduction",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en traduction",
+   "master of translation",
+   "mtr",
+   "master's in translation",
+   "devenir traducteur",
+   "become a translator",
+   "traduction professionnelle",
+   "professional translation",
+   "traduction coop"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en traduction ?",
+   "en": "Is there a master's in translation?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de traduction et d'interprétation offre la maîtrise en traduction (MTr), un programme avec cours de 45 crédits sur quatre trimestres, avec option coop, qui forme des langagiers pour l'industrie de la langue d'aujourd'hui. Le tronc commun comprend des cours de traduction (de l'anglais vers le français ou du français vers l'anglais) et de rédaction, puis tu choisis des modules, un projet de synthèse avec portfolio ou un stage.",
+   "en": "Yes. The School of Translation and Interpretation offers the Master of Translation (MTr), a 45-credit, four-term course-based program with a co-op option that trains language professionals for today's language industry. The common core includes translation courses (English to French or French to English) and writing, then you choose modules, a capstone project with a translation portfolio, or a practicum."
+  },
+  "sources": [
+   {
+    "label": "Master of Translation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-translation/"
+   },
+   {
+    "label": "Maîtrise en traduction — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-traduction/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-interpretation-conference",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en interpretation de conference",
+   "master of conference interpreting",
+   "mci",
+   "interprete",
+   "interpreter",
+   "interpretation simultanee",
+   "simultaneous interpreting",
+   "devenir interprete",
+   "become an interpreter"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en interprétation ?",
+   "en": "Is there a master's in conference interpreting?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de traduction et d'interprétation offre la maîtrise en interprétation de conférence, un programme professionnel à temps plein avec stage, qui forme des interprètes surtout pour le marché canadien. Les cours se donnent en anglais ou en français, et tu dois interpréter de l'anglais vers le français et du français vers l'anglais.",
+   "en": "Yes. The School of Translation and Interpretation offers the Master of Conference Interpreting, a full-time professional program with a practicum that trains interpreters mainly for the Canadian market. Courses are given in English or French, and you must interpret from English into French and from French into English."
+  },
+  "sources": [
+   {
+    "label": "Master of Conference Interpreting — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-conference-interpreting/"
+   },
+   {
+    "label": "Maîtrise en interprétation de conférence — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-interpretation-conference/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sciences-information",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en sciences de l'information",
+   "master of information studies",
+   "mis",
+   "master's in library science",
+   "bibliothecaire",
+   "librarian",
+   "archiviste",
+   "archivist",
+   "gestion de l'information",
+   "information management diploma"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en sciences de l'information ?",
+   "en": "Is there a master's in information studies (library science)?"
+  },
+  "answer": {
+   "fr": "Oui. L'École des sciences de l'information (Faculté des arts) offre la maîtrise en sciences de l'information (programme bilingue), avec cours, avec thèse ou avec coop (coop réservé aux étudiants à temps plein), ainsi qu'un diplôme d'études supérieures en gestion de l'information. Les deux programmes sont ouverts aux diplômés de toutes les disciplines et offerts à temps plein ou à temps partiel.",
+   "en": "Yes. The School of Information Studies (Faculty of Arts) offers the Master of Information Studies (MIS, a bilingual program), with coursework, a thesis or co-op (co-op for full-time students only), as well as a Graduate Diploma in Information Management. Both programs are open to graduates of all disciplines and offered full-time or part-time."
+  },
+  "sources": [
+   {
+    "label": "Master of Information Studies (Bilingual) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-information-studies-bilingual/"
+   },
+   {
+    "label": "Maîtrise en sciences de l'information (bilingue) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-linformation-bilingue/"
+   },
+   {
+    "label": "Graduate Diploma Information Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-information-management/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-mba",
+  "category": "programmes",
+  "keywords": [
+   "mba",
+   "maitrise en administration des affaires",
+   "master of business administration",
+   "mba telfer",
+   "mba en francais",
+   "mba intensif 12 mois",
+   "mba professionnel 24 mois",
+   "executive mba",
+   "emba",
+   "mba finance"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un MBA ?",
+   "en": "Is there an MBA?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre la maîtrise en administration des affaires (MBA), en version intensive de 12 mois ou professionnelle de 24 mois (le MBA en français est offert seulement en version professionnelle). Tu peux faire un MBA général ou choisir une concentration en finance, transformation numérique et analytique, consultation en gestion ou gestion durable. Telfer offre aussi les programmes combinés MBA-JD et MBA-LL.L., ainsi qu'un MBA pour cadres (EMBA).",
+   "en": "Yes. The Telfer School of Management offers the Master of Business Administration (MBA), as a 12-month intensive or 24-month professional program (the French MBA is offered only as the professional program). You can do a general MBA or choose a concentration in Finance, Digital Transformation and Analytics, Management Consulting or Sustainable Management. Telfer also offers the combined MBA-JD and MBA-LL.L. programs, and an Executive MBA (EMBA)."
+  },
+  "sources": [
+   {
+    "label": "Master of Business Administration (MBA) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/"
+   },
+   {
+    "label": "Maîtrise en administration des affaires (M.B.A.) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-administration-affaires-mba/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-mha",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en gestion des services de sante",
+   "maitrise en gestion des systemes de sante",
+   "master of health administration",
+   "mha",
+   "mgss",
+   "gestion de la sante",
+   "health administration",
+   "executive mha",
+   "gestion hospitaliere",
+   "health care management master"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en gestion de la santé (MHA) ?",
+   "en": "Is there a Master of Health Administration (MHA)?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre la maîtrise en gestion des systèmes de santé (M.G.S.S., ou MHA en anglais), un programme de 24 mois qui comprend une résidence administrative d'au moins 16 semaines ou un projet de consultation d'environ 200 heures dans un organisme de santé. Selon le catalogue, tous les cours sont donnés en anglais, mais la résidence ou le projet peut se faire en français ou en anglais. Telfer offre aussi la maîtrise en gestion des services de santé pour cadres, entièrement en ligne.",
+   "en": "Yes. The Telfer School of Management offers the Master of Health Administration (MHA), a 24-month program that includes an administrative residency of at least 16 weeks or a consulting project of about 200 hours in a health organization. According to the catalogue, all courses are taught in English, but the residency or project can be done in English or French. Telfer also offers a fully online Executive Master of Health Administration (EMHA)."
+  },
+  "sources": [
+   {
+    "label": "Master of Health Administration (MHA) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-health-administration-mha/"
+   },
+   {
+    "label": "Maîtrise en gestion des systèmes de santé (M.G.S.S.) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-gestion-systemes-sante-mgss/"
+   },
+   {
+    "label": "Executive Master of Health Administration (EMHA) (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-health-administration-executive-mha/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-gestion-msc",
+  "category": "programmes",
+  "keywords": [
+   "maitrise es sciences en gestion",
+   "master of science in management",
+   "msc management",
+   "doctorat en gestion",
+   "phd management",
+   "phd in management",
+   "recherche en gestion",
+   "management research",
+   "telfer phd"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise ou un doctorat en gestion ?",
+   "en": "Is there a master's or PhD in management?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre la maîtrise ès sciences en gestion (MSc), avec thèse ou avec projet de recherche et une option coop, dans une concentration comme la gestion de l'innovation, l'entrepreneuriat, la finance, la comptabilité, le comportement organisationnel et les ressources humaines, l'analytique d'affaires, le marketing ou les systèmes de santé. Elle offre aussi le doctorat (PhD) en gestion, à temps plein; selon le catalogue, il est offert en anglais, avec des professeurs bilingues qui peuvent t'accompagner en français.",
+   "en": "Yes. The Telfer School of Management offers the Master of Science (MSc) in Management, with a thesis or research project and a co-op option, in a concentration such as innovation management, entrepreneurship, finance, accounting, organizational behaviour and human resources, business analytics, marketing or health systems. It also offers the PhD in Management, full-time; according to the catalogue, it is offered in English, with bilingual professors who can support students in French."
+  },
+  "sources": [
+   {
+    "label": "Master of Science in Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-science-management/"
+   },
+   {
+    "label": "Maîtrise ès sciences en gestion — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-sciences-gestion/"
+   },
+   {
+    "label": "Doctorate in Philosophy Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-management/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-projets-complexes",
+  "category": "programmes",
+  "keywords": [
+   "gestion de projets complexes",
+   "complex project leadership",
+   "diplome gestion de projets",
+   "graduate diploma complex project leadership",
+   "leadership de projets",
+   "project management graduate",
+   "gestion de projet",
+   "project leadership"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en gestion de projets ?",
+   "en": "Is there a graduate program in project management?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre un diplôme d'études supérieures en gestion de projets complexes (15 unités), conçu pour les gestionnaires qui lancent et gèrent de grands projets sur plusieurs années. Selon le catalogue, la maîtrise en affaires de leadership de projets complexes est suspendue jusqu'à nouvel ordre.",
+   "en": "Yes. The Telfer School of Management offers a Graduate Diploma in Complex Project Leadership (15 units), designed for practising managers who launch and manage large multi-year projects. According to the catalogue, the Master of Business in Complex Project Leadership is suspended until further notice."
+  },
+  "sources": [
+   {
+    "label": "Master of Business Complex Project Leadership — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-business-complex-project-leadership/"
+   },
+   {
+    "label": "Maîtrise en affaires de leadership de projets complexes — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-administration-leadership-projets-complexes/"
+   },
+   {
+    "label": "Graduate Diploma Complex Project Leadership — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-complex-project-leadership/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-cpa",
+  "category": "programmes",
+  "keywords": [
+   "comptabilite professionnelle",
+   "chartered professional accountancy",
+   "cpa",
+   "diplome cpa",
+   "graduate diploma cpa",
+   "comptable professionnel agree",
+   "devenir cpa",
+   "become a cpa",
+   "comptabilite cycles superieurs"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme pour devenir CPA ?",
+   "en": "Is there a graduate program to become a CPA?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre un diplôme d'études supérieures en comptabilité professionnelle, un diplôme à admission directe qui prolonge la spécialisation en comptabilité du baccalauréat en commerce. Avec cette spécialisation, il répond aux exigences de la grille de compétences de CPA Canada et prépare aux modules de synthèse du programme de formation professionnelle des CPA.",
+   "en": "Yes. The Telfer School of Management offers a Graduate Diploma in Chartered Professional Accountancy, a direct-entry diploma that continues the Accounting specialization of the Bachelor of Commerce. Together with that specialization, it meets the requirements of the CPA Canada competency map and prepares candidates for the capstone modules of the CPA professional education program."
+  },
+  "sources": [
+   {
+    "label": "Graduate Diploma Chartered Professional Accountancy — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-chartered-professional-accountancy/"
+   },
+   {
+    "label": "Diplôme d'études supérieures comptabilité professionnelle — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/diplome-detudes-superieures-comptabilite-professionnelle/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-leadership-gestion",
+  "category": "programmes",
+  "keywords": [
+   "diplome leadership et gestion",
+   "graduate diploma leadership and management",
+   "gestion et leadership scientifiques",
+   "scientific management and leadership",
+   "diplome en gestion",
+   "management diploma",
+   "leadership cycles superieurs",
+   "telfer diplome"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un diplôme d'études supérieures en gestion ?",
+   "en": "Is there a graduate diploma in management?"
+  },
+  "answer": {
+   "fr": "Oui. L'École de gestion Telfer offre un diplôme d'études supérieures en leadership et gestion, à temps partiel, composé de cours du MBA; si tu es admis au MBA ensuite, tes unités peuvent y être transférées. Il existe aussi un diplôme d'études supérieures en gestion et leadership scientifiques, dont tu peux faire toutes les exigences en français ou en anglais.",
+   "en": "Yes. The Telfer School of Management offers a part-time Graduate Diploma in Leadership and Management, made up of MBA courses; if you are later admitted to the MBA, your units can be transferred. There is also a Graduate Diploma in Scientific Management and Leadership, whose requirements you can complete entirely in English or in French."
+  },
+  "sources": [
+   {
+    "label": "Graduate Diploma Leadership and Management — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-leadership-management/"
+   },
+   {
+    "label": "Diplôme d'études supérieures leadership et gestion — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/diplome-detudes-superieures-leadership-gestion/"
+   },
+   {
+    "label": "Graduate Diploma Scientific Management and Leadership — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-scientific-management-leadership/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-llm",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en droit",
+   "llm",
+   "ll.m.",
+   "master of laws",
+   "master's in law",
+   "droit notarial",
+   "notarial law",
+   "droit international",
+   "droit de la sante",
+   "droit de l'environnement",
+   "etudes legislatives"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en droit (LL.M.) ?",
+   "en": "Is there a Master of Laws (LLM)?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de droit (sections de common law et de droit civil) offre la maîtrise en droit (LL.M.), avec thèse, mémoire ou cours. Des concentrations existent notamment en droit notarial, droit et technologie, droit de la santé, droit international humanitaire et de la sécurité, commerce et investissement internationaux, durabilité mondiale et droit de l'environnement, droit et justice sociale, études législatives, et une spécialisation en études féministes et de genre. Les cours sont offerts en français ou en anglais, et parfois dans les deux langues.",
+   "en": "Yes. The Faculty of Law (Common Law and Civil Law Sections) offers the Master of Laws (LLM), with a thesis, research paper or coursework. Concentrations include notarial law, law and technology, health law, international humanitarian and security law, international trade and foreign investment, global sustainability and environmental law, law and social justice, legislative studies, and a specialization in feminist and gender studies. Courses are offered in English or French, and occasionally in both."
+  },
+  "sources": [
+   {
+    "label": "Master of Laws (LLM) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-laws-llm/"
+   },
+   {
+    "label": "Maîtrise en droit (LL.M.) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-droit-llm/"
+   },
+   {
+    "label": "Master of Laws (LLM) and Concentration Notarial Law — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-laws-llm-concentration-notarial-law/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-doctorat-droit",
+  "category": "programmes",
+  "keywords": [
+   "doctorat en droit",
+   "phd in law",
+   "phd law",
+   "doctorat en philosophie droit",
+   "ll.d.",
+   "recherche en droit",
+   "legal research doctorate",
+   "droit cycles superieurs"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un doctorat en droit ?",
+   "en": "Is there a PhD in law?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de droit offre le doctorat (PhD) en droit, un projet commun des sections de common law et de droit civil qui reflète le système juridique bilingue et trijuridique du Canada (droit civil, common law et droit autochtone). Les programmes sont offerts en français et en anglais, et tes examens, travaux et thèse peuvent être rédigés dans l'une ou l'autre langue.",
+   "en": "Yes. The Faculty of Law offers the PhD in Law, a joint endeavour of the Common Law and Civil Law Sections reflecting Canada's bilingual and trijuridical legal system (civil law, common law and Aboriginal law). The programs are offered in English and French, and your exams, assignments and thesis may be written in either language."
+  },
+  "sources": [
+   {
+    "label": "Doctorate in Philosophy Law — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-law/"
+   },
+   {
+    "label": "Doctorat en philosophie droit — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/doctorat-philosophie-droit/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-droit-technologie",
+  "category": "programmes",
+  "keywords": [
+   "droit et technologie",
+   "law and technology",
+   "llm droit et technologie",
+   "llm law and technology",
+   "microprogramme droit et technologie",
+   "microprogram law and technology",
+   "droit du numerique",
+   "technology law",
+   "droit de la propriete intellectuelle"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en droit et technologie ?",
+   "en": "Is there a graduate program in law and technology?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté de droit offre la maîtrise en droit (LL.M.) avec concentration en droit et technologie, avec mémoire, ainsi qu'un microprogramme en droit et technologie. Les cours sont offerts en français ou en anglais, et tes travaux peuvent être rédigés dans l'une ou l'autre langue.",
+   "en": "Yes. The Faculty of Law offers the Master of Laws (LLM) with a Concentration in Law and Technology, with a research paper, as well as a Microprogram in Law and Technology. Courses are offered in English or French, and your work may be written in either language."
+  },
+  "sources": [
+   {
+    "label": "Master of Laws (LLM) and Concentration Law and Technology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-laws-llm-concentration-law-technology/"
+   },
+   {
+    "label": "Maîtrise en droit (LL.M.) et concentration en droit et technologie — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-droit-llm-concentration-droit-technologie/"
+   },
+   {
+    "label": "Microprogram Law and Technology — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-law-technology/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-education",
+  "category": "programmes",
+  "keywords": [
+   "maitrise en education",
+   "master of education",
+   "med",
+   "m.ed.",
+   "master's in education",
+   "ma education",
+   "doctorat en education",
+   "phd education",
+   "enseignement et apprentissage",
+   "teaching and learning master"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en éducation ?",
+   "en": "Is there a master's in education?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté d'éducation offre la maîtrise en éducation (M.Ed.), avec cours ou avec mémoire, sur le campus ou entièrement en ligne, dans une concentration comme l'enseignement et l'apprentissage, la psychologie du counselling, le leadership éducationnel, les langues secondes ou l'enseignement aux professionnels de la santé. Elle offre aussi la maîtrise ès arts en éducation (M.A., avec thèse) et le doctorat (Ph.D.) en éducation. Les programmes sont offerts en français et en anglais.",
+   "en": "Yes. The Faculty of Education offers the Master of Education (MEd), with coursework or a research paper, on campus or fully online, in a concentration such as teaching and learning, counselling psychology, educational leadership, second language education or health professions education. It also offers the Master of Arts in Education (MA, thesis) and the PhD in Education. The programs are offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Master of arts Education — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-education/"
+   },
+   {
+    "label": "Maîtrise ès arts éducation — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-arts-education/"
+   },
+   {
+    "label": "Doctorate in Philosophy Education — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-education/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-counselling",
+  "category": "programmes",
+  "keywords": [
+   "psychologie du counselling",
+   "counselling psychology",
+   "maitrise en counselling",
+   "master's in counselling",
+   "med counselling psychology",
+   "ma education counselling",
+   "conseiller",
+   "counsellor",
+   "orientation",
+   "therapeute"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en counselling ?",
+   "en": "Is there a master's in counselling psychology?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté d'éducation offre la maîtrise en éducation (M.Ed.) en psychologie du counselling, avec cours, ainsi que la maîtrise ès arts en éducation (M.A.) en psychologie du counselling, avec thèse. Les programmes sont offerts en français et en anglais. Selon le catalogue, l'option avec mémoire de la M.Ed. et la concentration en counselling éducationnel au doctorat sont suspendues jusqu'à nouvel ordre.",
+   "en": "Yes. The Faculty of Education offers the Master of Education (MEd) in Counselling Psychology, course-based, as well as the Master of Arts in Education (MA) in Counselling Psychology, with a thesis. The programs are offered in English and French. According to the catalogue, the MEd research paper option and the PhD concentration in Educational Counselling are suspended until further notice."
+  },
+  "sources": [
+   {
+    "label": "Master of Education (Counselling Psychology) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-education-concentration-counselling-psychology/"
+   },
+   {
+    "label": "Maîtrise en éducation (psychologie du counselling) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-education-concentration-psychologie-counselling/"
+   },
+   {
+    "label": "Master of Arts Education (Counselling Psychology) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-arts-education-concentration-counselling-psychology/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-leadership-educationnel",
+  "category": "programmes",
+  "keywords": [
+   "leadership educationnel",
+   "educational leadership",
+   "maitrise en leadership educationnel",
+   "med educational leadership",
+   "politiques educatives",
+   "education policy",
+   "evaluation en education",
+   "direction d'ecole",
+   "school administration",
+   "med en ligne"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en leadership éducationnel ?",
+   "en": "Is there a master's in educational leadership?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté d'éducation offre la maîtrise en éducation (M.Ed.) en leadership, évaluation et politiques éducatives, entièrement en ligne, avec cours ou avec mémoire. Les programmes de la faculté sont offerts en français et en anglais.",
+   "en": "Yes. The Faculty of Education offers the Master of Education (MEd) in Educational Leadership, Policy and Evaluation, fully online, with coursework or a research paper. The faculty's programs are offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Master of Education (Educational Leadership, Policy and Evaluation) (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-education-concentration-educational-leadership-policy-evaluation-virtual/"
+   },
+   {
+    "label": "Maîtrise en éducation (leadership, évaluation et politiques éducatives) (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-education-concentration-leadership-evaluation-politiques-educatives-virtuel/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-enseignement-professions-sante",
+  "category": "programmes",
+  "keywords": [
+   "enseignement aux professionnels de la sante",
+   "health professions education",
+   "med health professions education",
+   "diplome health professions education",
+   "phd health professions education",
+   "education medicale",
+   "medical education",
+   "formation des professionnels de la sante"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en éducation des professionnels de la santé ?",
+   "en": "Is there a graduate program in health professions education?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté d'éducation offre en enseignement aux professionnels de la santé une maîtrise en éducation (M.Ed.) en ligne, avec cours ou avec mémoire, un diplôme d'études supérieures en ligne (offert seulement en anglais) et une concentration au doctorat (Ph.D.) en éducation. Ces programmes s'adressent aux personnes qui forment ou veulent former des professionnels de la santé.",
+   "en": "Yes. The Faculty of Education offers, in health professions education, an online Master of Education (MEd), with coursework or a research paper, an online graduate diploma (offered in English only) and a concentration in the PhD in Education. These programs are for people who train, or want to train, health professionals."
+  },
+  "sources": [
+   {
+    "label": "Master of Education (Health Professions Education) (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-education-concentration-health-professions-education/"
+   },
+   {
+    "label": "Maîtrise en éducation (enseignement aux professionnels de la santé) (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-education-concentration-enseignement-aux-professionnels-sante/"
+   },
+   {
+    "label": "Graduate Diploma Health Professions Education (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-health-professions-education/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-enseignement-sante",
+  "category": "programmes",
+  "keywords": [
+   "enseignement en sante",
+   "health education",
+   "maitrise en enseignement en sante",
+   "med health education",
+   "diplome enseignement en sante",
+   "microprogramme enseignement en sante",
+   "pedagogie medicale",
+   "formation clinique",
+   "enseignement en sante en francais"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en enseignement en santé en français ?",
+   "en": "Is there a French-language graduate program in health education?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté d'éducation et la Faculté de médecine offrent en partenariat la maîtrise en éducation (M.Ed.) en enseignement en santé, avec cours ou avec mémoire, un diplôme d'études supérieures en enseignement en santé (pour l'instant, seul le programme en ligne accepte des demandes) et un microprogramme d'introduction à l'enseignement en santé. Ces programmes, offerts seulement en français, s'adressent aux diplômés en santé qui enseignent ou veulent enseigner en milieu universitaire, clinique ou hospitalier.",
+   "en": "Yes. The Faculty of Education and the Faculty of Medicine jointly offer the Master of Education (MEd) in Health Education, with coursework or a research paper, a Graduate Diploma in Health Education (currently only the online program is accepting applications) and a Microprogram Introduction to Health Education. These programs, offered in French only, are for health graduates who teach or want to teach in academic, clinical or hospital settings."
+  },
+  "sources": [
+   {
+    "label": "Master of Education (Health Education) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-education-concentration-health-education/"
+   },
+   {
+    "label": "Maîtrise en éducation (enseignement en santé) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-education-concentration-enseignement-sante/"
+   },
+   {
+    "label": "Graduate Diploma in Health Education — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/graduate-diploma-health-education/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-langues-secondes-education",
+  "category": "programmes",
+  "keywords": [
+   "education et langues secondes",
+   "second language education",
+   "med second language education",
+   "enseigner le francais langue seconde",
+   "teach french as a second language",
+   "milieux linguistiques minoritaires",
+   "minority language contexts",
+   "education inclusive",
+   "inclusion"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a une maîtrise en enseignement des langues secondes ?",
+   "en": "Is there a master's in second language education?"
+  },
+  "answer": {
+   "fr": "Oui. La Faculté d'éducation offre la maîtrise en éducation (M.Ed.) en éducation et langues secondes, entièrement en ligne, avec cours ou avec mémoire. Elle offre aussi la M.Ed. en éducation en milieux linguistiques minoritaires et inclusion, sur le campus ou en ligne. Les programmes de la faculté sont offerts en français et en anglais.",
+   "en": "Yes. The Faculty of Education offers the Master of Education (MEd) in Second Language Education, fully online, with coursework or a research paper. It also offers the MEd in Education in Minority Language Contexts and Inclusion, on campus or online. The faculty's programs are offered in English and French."
+  },
+  "sources": [
+   {
+    "label": "Master of Education (Second Language Education) (Online) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-education-concentration-second-language-education-virtual/"
+   },
+   {
+    "label": "Maîtrise en éducation (éducation et langues secondes) (en ligne) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/maitrise-education-concentration-education-langues-secondes-virtuel/"
+   },
+   {
+    "label": "Master of Education (Education in Minority Language Contexts and Inclusion) — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/master-education-concentration-education-minority-language-contexts-inclusion/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "p-cs-sondage-opinion",
+  "category": "programmes",
+  "keywords": [
+   "opinion publique et sondage",
+   "public opinion and survey research",
+   "microprogramme sondage",
+   "microprogram survey research",
+   "sondages",
+   "surveys",
+   "recherche par sondage",
+   "methodes quantitatives"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a un programme en sondage et opinion publique ?",
+   "en": "Is there a graduate program in survey research and public opinion?"
+  },
+  "answer": {
+   "fr": "Oui. L'École d'études politiques offre un microprogramme de cycles supérieurs en opinion publique et sondage (6 unités), à faire pendant les trimestres d'automne et d'hiver d'une même année. Tu y participes à toutes les étapes d'un vrai sondage d'opinion publique, de la conception des questions jusqu'à l'analyse et la communication des résultats. Selon le catalogue, il est offert en alternance en anglais et en français.",
+   "en": "Yes. The School of Political Studies offers a graduate Microprogram in Public Opinion and Survey Research (6 units), completed over the fall and winter terms of one academic year. You take part in every stage of a real public opinion survey, from designing questions to analyzing and communicating results. According to the catalogue, it is offered alternately in English and in French."
+  },
+  "sources": [
+   {
+    "label": "Microprogram Public Opinion and Survey Research — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/en/graduate/microprogram-public-opinion-survey-research/"
+   },
+   {
+    "label": "Microprogramme opinion publique et sondage — Catalogue uOttawa",
+    "url": "https://catalogue.uottawa.ca/fr/etudes-sup/microprogramme-opinion-publique-sondage/"
+   }
+  ],
+  "related": [
+   "m-papu-c-quoi",
+   "m-papu-temps-partiel",
+   "m-papu-immersion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
  }
 ];

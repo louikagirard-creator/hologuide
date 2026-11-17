@@ -10,5 +10,6 @@ export const CASES = [
   ['où est le pavillon Fauteux', 'd-fauteux'], ["j'ai oublié mon mot de passe uoAccess", 'e-mot-de-passe-oublie'], ['combien coûte le U-Pass', 'd-upass-cout'],
   ['where can I get coffee', 'c-cafe'], ['permis de travail post-diplôme', 'a-permis-travail-postdiplome'], ['comment aller à Roger-Guindon', 'd-roger-guindon'],
   ['c\'est quoi ITI1120', 'j-iti1120'], ['GNG1503', 'j-gng1503'], ['Tim Hortons au CRX', 'i-crx-tim-hortons'], ['alarme incendie', 'g-alarme-incendie'],
-  ['c\'est quoi le club d\'escalade', 'q-club-escalade'], ['is there a chess club', 'q-club-chess']
+  ['c\'est quoi le club d\'escalade', 'q-club-escalade'], ['is there a chess club', 'q-club-chess'],
+  ['labo informatique', 'r-labo-info-sciences-mnt'], ['formation SIMDUT', 'r-simdut-obligatoire']
 ];

@@ -1,0 +1,3316 @@
+[
+ {
+  "id": "r-labo-info-sciences-mnt",
+  "category": "ti",
+  "keywords": [
+   "labo informatique sciences",
+   "laboratoire",
+   "laboratoire informatique",
+   "computer lab science",
+   "lab",
+   "labo",
+   "montpetit",
+   "mnt 141",
+   "faculté des sciences ordinateurs",
+   "arcgis pro",
+   "science computer lab hours"
+  ],
+  "question": {
+   "fr": "Comment fonctionne le labo informatique de la Faculté des sciences ?",
+   "en": "How does the Faculty of Science computer lab work?"
+  },
+  "answer": {
+   "fr": "Le labo informatique de la Faculté des sciences est au pavillon Montpetit, salle 141, ouvert de 7 h à 23 h ; il compte 30 ordinateurs avec Microsoft Office, ArcGIS Pro et les logiciels des cours de la Faculté. Tu y as accès si tu es inscrit à un cours de la Faculté des sciences, sauf pendant les cours prévus (l'horaire est affiché à la porte). Tu peux rester après la fermeture des portes aussi longtemps que tu veux, et tu te connectes avec ton identifiant et ton mot de passe uoAccess.",
+   "en": "The Faculty of Science computer lab is in Montpetit Hall, room 141, open from 7 a.m. to 11 p.m.; it has 30 computers with Microsoft Office, ArcGIS Pro and the software used in the Faculty's courses. You can use it if you're enrolled in a Faculty of Science course, except when classes are scheduled (the timetable is posted at the door). You can stay after the doors are locked for as long as you like, and you log in with your uoAccess ID and password."
+  },
+  "sources": [
+   {
+    "label": "Computer labs for students — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/student-hub/computer-labs-students"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labo-info-sciences-sociales-vnr",
+  "category": "ti",
+  "keywords": [
+   "labo informatique sciences sociales",
+   "laboratoire",
+   "laboratoire informatique vanier",
+   "social sciences computer lab",
+   "lab",
+   "labo",
+   "vanier",
+   "vnr 2008",
+   "vnr 2015",
+   "vnr 2025",
+   "spss",
+   "stata",
+   "nvivo"
+  ],
+  "question": {
+   "fr": "Où sont les labos informatiques des sciences sociales et quels logiciels ont-ils ?",
+   "en": "Where are the Social Sciences computer labs and what software do they have?"
+  },
+  "answer": {
+   "fr": "Les labos de la Faculté des sciences sociales sont au pavillon Vanier, salles 2008, 2015 et 2025, ouverts tous les jours de 7 h à 23 h sauf les jours fériés ; la salle VNR 2008 ferme à 20 h. Chaque labo a environ 12 ordinateurs, avec la suite Microsoft et des logiciels spécialisés comme SPSS, STATA et NVivo. Ils sont réservés aux étudiants en sciences sociales, sauf pendant les cours prévus.",
+   "en": "The Faculty of Social Sciences labs are in Vanier Hall, rooms 2008, 2015 and 2025, open every day from 7 a.m. to 11 p.m. except holidays; room VNR 2008 closes at 8 p.m. Each lab has about 12 computers, with the Microsoft suite and specialized software such as SPSS, STATA and NVivo. They're for Social Sciences students, except when classes are scheduled."
+  },
+  "sources": [
+   {
+    "label": "Computers - computing labs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/computing-labs"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labo-langues-hamelin",
+  "category": "ti",
+  "keywords": [
+   "labo de langues",
+   "laboratoire",
+   "laboratoire de langues",
+   "language lab",
+   "lab",
+   "labo",
+   "hamelin",
+   "mhn002",
+   "ilob",
+   "olbi",
+   "poste multimédia",
+   "langue seconde",
+   "second language lab"
+  ],
+  "question": {
+   "fr": "Y a-t-il un labo de langues sur le campus ?",
+   "en": "Is there a language lab on campus?"
+  },
+  "answer": {
+   "fr": "Oui, la salle MHN002 du pavillon Hamelin, gérée par la Faculté des arts pour l'Institut des langues officielles et du bilinguisme, compte 12 postes multimédias pour l'apprentissage des langues. Elle est réservée aux étudiants inscrits à un cours de langue (moderne ou seconde). La page indique des heures de mai à juin, du lundi au vendredi de 10 h à 16 h, et en juillet-août, de 9 h 30 à 19 h les lundis, mercredis et jeudis et de 9 h 30 à 16 h 30 les mardis et vendredis.",
+   "en": "Yes, room MHN002 in Hamelin Hall, maintained by the Faculty of Arts for the Official Languages and Bilingualism Institute, has 12 multimedia language workstations. It's reserved for students enrolled in a language course (modern or second language). The page lists hours for May to June, Monday to Friday from 10 a.m. to 4 p.m., and for July and August, 9:30 a.m. to 7 p.m. on Mondays, Wednesdays and Thursdays and 9:30 a.m. to 4:30 p.m. on Tuesdays and Fridays."
+  },
+  "sources": [
+   {
+    "label": "Computers - computing labs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/computing-labs"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labo-info-droit-ftx430",
+  "category": "ti",
+  "keywords": [
+   "labo informatique droit",
+   "laboratoire",
+   "computer lab law",
+   "lab",
+   "labo",
+   "fauteux",
+   "ftx 430",
+   "bibliothèque brian-dickson",
+   "brian dickson law library",
+   "salle 430",
+   "ordinateurs droit"
+  ],
+  "question": {
+   "fr": "Y a-t-il un labo informatique à la Faculté de droit ?",
+   "en": "Is there a computer lab at the Faculty of Law?"
+  },
+  "answer": {
+   "fr": "Oui, à la bibliothèque de droit Brian-Dickson, au 57, rue Louis-Pasteur (pavillon Fauteux), salle 430. Il est géré par la Bibliothèque et les Technologies de l'information et il est accessible pendant les heures normales de la bibliothèque de droit, sauf s'il est réservé pour un cours.",
+   "en": "Yes, in the Brian Dickson Law Library, 57 Louis-Pasteur (Fauteux Hall), room 430. It's maintained by the Library and Information Technology and is open during the law library's regular hours, unless it's booked for teaching."
+  },
+  "sources": [
+   {
+    "label": "Computers - computing labs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/computing-labs"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labo-info-connexion",
+  "category": "ti",
+  "keywords": [
+   "connexion labo informatique",
+   "laboratoire",
+   "log in lab computer",
+   "lab",
+   "labo",
+   "laboratoire informatique",
+   "compte labo",
+   "lab account",
+   "uoaccess",
+   "identifiant",
+   "mot de passe",
+   "ordinateur du campus"
+  ],
+  "question": {
+   "fr": "Comment je me connecte à un ordinateur d'un labo informatique ?",
+   "en": "How do I log in to a computer in a computer lab?"
+  },
+  "answer": {
+   "fr": "Tu n'as pas besoin de demander un compte : il est créé automatiquement. Ton nom d'utilisateur est la première partie de ton adresse courriel uOttawa (avant le @) et ton mot de passe est celui d'uoAccess. Si ça ne marche pas, fais une demande au Centre de services TI.",
+   "en": "You don't need to ask for an account: it's created automatically. Your username is the first part of your uOttawa email address (before the @) and your password is your uoAccess password. If it doesn't work, submit an IT Service Desk request."
+  },
+  "sources": [
+   {
+    "label": "Computers - computing labs — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/computing-labs"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-ordinateurs-publics-bibliotheque",
+  "category": "bibliotheques",
+  "keywords": [
+   "ordinateurs bibliothèque",
+   "laboratoire",
+   "library computers",
+   "lab",
+   "labo",
+   "poste public",
+   "public computer",
+   "morisset",
+   "mrt 308",
+   "bibliothèque des sciences de la santé",
+   "brian-dickson",
+   "compte invité",
+   "guest account"
+  ],
+  "question": {
+   "fr": "Où trouver des ordinateurs publics à la Bibliothèque ?",
+   "en": "Where can I find public computers in the Library?"
+  },
+  "answer": {
+   "fr": "Il y a des ordinateurs publics à la bibliothèque Morisset, à la Bibliothèque des sciences de la santé et à la bibliothèque Brian-Dickson, selon le principe du premier arrivé, premier servi ; on peut te demander ta carte uOttawa. Tous ont Internet et Microsoft Office, et la salle MRT 308 de Morisset offre des logiciels et de l'équipement géographiques et statistiques. Les visiteurs peuvent obtenir un compte invité au comptoir de service avec une pièce d'identité indiquant leur nom, leur adresse et leur signature.",
+   "en": "There are public computers at Morisset Library, the Health Sciences Library and the Brian Dickson Law Library, on a first-come, first-served basis; you may be asked for your uOttawa ID. All have Internet access and Microsoft Office, and room MRT 308 in Morisset offers geographic and statistical software and equipment. Visitors can get a guest account at the service desk by showing ID with their name, address and signature."
+  },
+  "sources": [
+   {
+    "label": "Computers and technology — uOttawa",
+    "url": "https://www.uottawa.ca/library/services/computers-technology"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-uolabsplus-bibliotheque",
+  "category": "ti",
+  "keywords": [
+   "uolabsplus bibliothèque",
+   "laboratoire",
+   "library uolabsplus",
+   "lab",
+   "labo",
+   "laboratoire virtuel",
+   "virtual lab",
+   "arcgis",
+   "spss",
+   "stata",
+   "haver",
+   "logiciels à distance",
+   "remote software"
+  ],
+  "question": {
+   "fr": "Quels logiciels la Bibliothèque offre-t-elle dans uOlabsPlus ?",
+   "en": "What software does the Library offer through uOlabsPlus?"
+  },
+  "answer": {
+   "fr": "Par uOlabsPlus, la Bibliothèque offre ArcGIS Pro, ArcGIS Desktop, Excel, Haver, PowerPoint, SPSS, Word et Stata, accessibles depuis ton propre appareil, sur le campus ou à distance. Ces applications sont réservées aux étudiants actifs et sont arrêtées chaque nuit de minuit à 3 h pour l'entretien. Stata n'a que deux licences simultanées, alors sauvegarde bien ton travail.",
+   "en": "Through uOlabsPlus, the Library offers ArcGIS Pro, ArcGIS Desktop, Excel, Haver, PowerPoint, SPSS, Word and Stata, available from your own device, on campus or remotely. These apps are for active students only and are shut down every night from midnight to 3 a.m. for maintenance. Stata has only two simultaneous licences, so be sure to save your work."
+  },
+  "sources": [
+   {
+    "label": "Computers and technology — uOttawa",
+    "url": "https://www.uottawa.ca/library/services/computers-technology"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-imprimer-ordi-labo",
+  "category": "ti",
+  "keywords": [
+   "imprimer labo",
+   "laboratoire",
+   "print lab computer",
+   "lab",
+   "labo",
+   "imprimante",
+   "printer",
+   "cws-p301",
+   "couleur",
+   "noir et blanc",
+   "ordinateur uottawa",
+   "uoprint"
+  ],
+  "question": {
+   "fr": "Comment imprimer depuis un ordinateur d'un labo de l'Université ?",
+   "en": "How do I print from a University lab computer?"
+  },
+  "answer": {
+   "fr": "Dans l'option Imprimer, choisis l'imprimante cws-p301\\Couleur - Colour pour la couleur ou cws-p301\\Noir_et_blanc_black_and_white pour le noir et blanc. Ensuite, va à n'importe quel appareil libre-service étudiant du campus et libère ton impression en suivant la procédure affichée.",
+   "en": "In the Print option, choose the printer cws-p301\\Couleur - Colour for colour or cws-p301\\Noir_et_blanc_black_and_white for black and white. Then go to any student self-serve device on campus and release your job following the procedure at the device."
+  },
+  "sources": [
+   {
+    "label": "Printing — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/print/printer/lab-computer"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labo-info-geographie-smd038",
+  "category": "ti",
+  "keywords": [
+   "labo informatique géographie",
+   "laboratoire",
+   "geography computer lab",
+   "lab",
+   "labo",
+   "smd038",
+   "simard",
+   "géomatique",
+   "geomatics",
+   "sig",
+   "gis"
+  ],
+  "question": {
+   "fr": "Y a-t-il un labo informatique pour la géographie ?",
+   "en": "Is there a computer lab for geography?"
+  },
+  "answer": {
+   "fr": "Oui, le Département de géographie, environnement et géomatique a le labo informatique SMD038, au pavillon Simard, accessible en semaine de 7 h à 23 h.",
+   "en": "Yes, the Department of Geography, Environment and Geomatics has computer lab SMD038 in Simard Hall, open weekdays from 7 a.m. to 11 p.m."
+  },
+  "sources": [
+   {
+    "label": "Laboratories — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/geography-environment-geomatics/laboratories"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-tinkering-lab-realite-virtuelle",
+  "category": "bibliotheques",
+  "keywords": [
+   "tinkering lab",
+   "laboratoire",
+   "réalité virtuelle",
+   "virtual reality",
+   "lab",
+   "labo",
+   "crx c220",
+   "carrefour des apprentissages",
+   "centre des compétences numériques",
+   "digital skills hub",
+   "jeux vidéo",
+   "gaming",
+   "réserver vr"
+  ],
+  "question": {
+   "fr": "Comment réserver une séance de réalité virtuelle au Tinkering Lab ?",
+   "en": "How do I book a virtual reality session at the Tinkering Lab?"
+  },
+  "answer": {
+   "fr": "Le Tinkering Lab, salle C220 au 2e étage du Carrefour des apprentissages (CRX), fait partie du Centre des compétences numériques de la Bibliothèque ; il accueille jusqu'à 50 personnes et compte 3 casques de réalité virtuelle. Les étudiants, les professeurs, les chercheurs et le personnel peuvent réserver une séance de réalité virtuelle ou de jeu pour un cours, une recherche ou une activité d'équipe en envoyant une demande à la Bibliothèque.",
+   "en": "The Tinkering Lab, room C220 on the 2nd floor of Learning Crossroads (CRX), is part of the Library's Digital Skills Hub; it holds up to 50 people and has 3 VR sets. Students, faculty, researchers and staff can book a virtual reality or gaming session for a class, research or team building by sending a request to the Library."
+  },
+  "sources": [
+   {
+    "label": "Virtual reality and gaming — uOttawa",
+    "url": "https://www.uottawa.ca/library/learning-crossroads/digital-skills-hub/virtual-reality-gaming"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-makerspace-imprimantes-3d",
+  "category": "genie",
+  "keywords": [
+   "imprimante 3d makerspace",
+   "laboratoire",
+   "3d printers makerspace",
+   "lab",
+   "labo",
+   "makerspace",
+   "ultimaker",
+   "prusa",
+   "markforged",
+   "impression résine",
+   "resin printer",
+   "fibre de carbone",
+   "stm 107"
+  ],
+  "question": {
+   "fr": "Quelles imprimantes 3D y a-t-il au Makerspace ?",
+   "en": "What 3D printers does the Makerspace have?"
+  },
+  "answer": {
+   "fr": "L'atelier Makerspace Richard-L'Abbé a plus de 40 imprimantes 3D, dont des Ultimaker 2+ et 3, une Markforged Mark Two (renforts en fibre de carbone, fibre de verre et Kevlar), des Raise3D N2 Plus, FLSUN V400, Stratasys F170, Prusa MK4S et une imprimante à résine Elegoo Saturn 4 Ultra. L'impression en PLA est gratuite, les autres matériaux sont facturés au gramme. L'imprimante à résine exige une formation au MakerLab.",
+   "en": "The Richard L'Abbé Makerspace has over 40 3D printers, including Ultimaker 2+ and 3, a Markforged Mark Two (carbon fibre, fibreglass and Kevlar reinforcement), Raise3D N2 Plus, FLSUN V400, Stratasys F170, Prusa MK4S and an Elegoo Saturn 4 Ultra resin printer. PLA printing is free; other materials are charged by the gram. The resin printer requires MakerLab training."
+  },
+  "sources": [
+   {
+    "label": "Equipment - uOttawa Richard L'Abbé Makerspace — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace/equipment"
+   },
+   {
+    "label": "uOttawa Richard L’Abbé Makerspace — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-makerspace-decoupe-laser",
+  "category": "genie",
+  "keywords": [
+   "découpe laser",
+   "laboratoire",
+   "laser cutter",
+   "lab",
+   "labo",
+   "makerspace",
+   "epilog",
+   "gravure",
+   "engraving",
+   "graveuse rotative",
+   "formation laser",
+   "bed size"
+  ],
+  "question": {
+   "fr": "Quelles découpeuses laser y a-t-il au Makerspace et faut-il une formation ?",
+   "en": "What laser cutters does the Makerspace have, and do I need training?"
+  },
+  "answer": {
+   "fr": "Le Makerspace a une Epilog Helix 60 W (plateau de 24 x 18 po), une Epilog Mini 50 W (24 x 12 po) et un outil de gravure rotative. La découpeuse laser fait partie de l'équipement restreint : tu dois suivre la formation du MakerLab avant de l'utiliser. Des retailles de matériaux sont offertes pour la découpe laser.",
+   "en": "The Makerspace has an Epilog Helix 60W (24 x 18 in. bed), an Epilog Mini 50W (24 x 12 in. bed) and a rotary engraving tool. The laser cutter is restricted equipment: you must complete MakerLab training before using it. Material scraps are available for laser cutting."
+  },
+  "sources": [
+   {
+    "label": "Equipment - uOttawa Richard L'Abbé Makerspace — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace/equipment"
+   },
+   {
+    "label": "MakerLab — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/makerlab"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-makerspace-electronique-textile",
+  "category": "genie",
+  "keywords": [
+   "électronique makerspace",
+   "laboratoire",
+   "electronics makerspace",
+   "lab",
+   "labo",
+   "soudure",
+   "soldering",
+   "oscilloscope",
+   "fraiseuse pcb",
+   "pcb mill",
+   "broderie",
+   "embroidery",
+   "machine à coudre",
+   "cricut",
+   "presse à chaud"
+  ],
+  "question": {
+   "fr": "Peut-on faire de l'électronique et de la couture au Makerspace ?",
+   "en": "Can I do electronics and sewing at the Makerspace?"
+  },
+  "answer": {
+   "fr": "Oui : le poste d'électronique a des fers à souder, un multimètre, des générateurs de fonctions, un oscilloscope, une alimentation et une fraiseuse de circuits imprimés LPKF Protomat S104. Côté textiles, il y a une brodeuse Brother, une machine à coudre, une presse à chaud et une machine Cricut. La fraiseuse PCB et la brodeuse exigent une formation au MakerLab.",
+   "en": "Yes: the electronics station has soldering irons, a multimeter, function generators, an oscilloscope, a power supply and an LPKF Protomat S104 PCB mill. For textiles, there's a Brother embroidery machine, a sewing machine, a heat press and a Cricut machine. The PCB mill and the embroidery machine require MakerLab training."
+  },
+  "sources": [
+   {
+    "label": "Equipment - uOttawa Richard L'Abbé Makerspace — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace/equipment"
+   },
+   {
+    "label": "uOttawa Richard L’Abbé Makerspace — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-makerspace-rv-numerisation-3d",
+  "category": "genie",
+  "keywords": [
+   "numériseur 3d",
+   "laboratoire",
+   "3d scanner",
+   "lab",
+   "labo",
+   "makerspace",
+   "réalité virtuelle",
+   "virtual reality",
+   "htc vive",
+   "meta quest",
+   "thermoformeuse",
+   "vacuum former",
+   "formech"
+  ],
+  "question": {
+   "fr": "Y a-t-il un numériseur 3D ou des casques de réalité virtuelle au Makerspace ?",
+   "en": "Is there a 3D scanner or VR headsets at the Makerspace?"
+  },
+  "answer": {
+   "fr": "Oui, le Makerspace a un poste de numérisation 3D avec un numériseur portatif à lumière structurée (précision de 0,1 mm), une table tournante et le logiciel Geomagic Wrap, ainsi que des casques HTC Vive, HTC Vive Pro, Meta Quest 2 et Meta Quest Pro. On y trouve aussi une thermoformeuse Formech 450DT.",
+   "en": "Yes, the Makerspace has a 3D scanning station with a handheld structured-light scanner (0.1 mm accuracy), a turntable and Geomagic Wrap software, plus HTC Vive, HTC Vive Pro, Meta Quest 2 and Meta Quest Pro headsets. There's also a Formech 450DT vacuum former."
+  },
+  "sources": [
+   {
+    "label": "Equipment - uOttawa Richard L'Abbé Makerspace — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace/equipment"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-makerspace-materiaux",
+  "category": "genie",
+  "keywords": [
+   "matériaux makerspace",
+   "laboratoire",
+   "makerspace materials",
+   "lab",
+   "labo",
+   "makerstore",
+   "boutique makerspace",
+   "retailles",
+   "scraps",
+   "acheter matériaux",
+   "buy materials",
+   "vinyle"
+  ],
+  "question": {
+   "fr": "Où acheter des matériaux pour mes projets au Makerspace ?",
+   "en": "Where can I buy materials for my Makerspace projects?"
+  },
+  "answer": {
+   "fr": "Le Makerspace a un Makerstore qui vend une sélection de matériaux. Des retailles sont offertes pour la découpe laser, la découpe de vinyle et la fraiseuse PCB, et tu peux aussi apporter tes propres matériaux. Le Centre Brunsfield a lui aussi un Makerstore.",
+   "en": "The Makerspace has a Makerstore that sells a selection of materials. Scraps are available for laser cutting, vinyl cutting and PCB milling, and you can also bring your own materials. The Brunsfield Centre has its own Makerstore too."
+  },
+  "sources": [
+   {
+    "label": "uOttawa Richard L’Abbé Makerspace — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/richard-labbe-makerspace"
+   },
+   {
+    "label": "Brunsfield Centre — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/brunsfield-centre"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-makerlab-local-cours",
+  "category": "genie",
+  "keywords": [
+   "makerlab",
+   "laboratoire",
+   "lab",
+   "labo",
+   "stm 119",
+   "stm 121",
+   "gng1103",
+   "gng2101",
+   "cours de conception",
+   "design course",
+   "arduino",
+   "soudure",
+   "cao",
+   "cad"
+  ],
+  "question": {
+   "fr": "Où est le MakerLab et quels cours s'y donnent ?",
+   "en": "Where is the MakerLab and which courses take place there?"
+  },
+  "answer": {
+   "fr": "Le MakerLab est aux salles STM 119 et 121 du complexe STEM, à côté du Makerspace Richard-L'Abbé ; il accueille des classes et des ateliers de 25 à 50 personnes. Certains cours de conception de la Faculté de génie s'y donnent : GNG1103 (CAO, programmation Arduino, découpe laser) et GNG2101 (programmation Arduino, circuits, soudure), avec une formation sur l'équipement incluse dans le cours.",
+   "en": "The MakerLab is in rooms STM 119 and 121 of the STEM Complex, next to the Richard L'Abbé Makerspace; it hosts classes and workshops for 25 to 50 people. Some Faculty of Engineering design courses take place there: GNG1103 (CAD, Arduino programming, laser cutting) and GNG2101 (Arduino programming, circuits, soldering), with equipment training included in the course."
+  },
+  "sources": [
+   {
+    "label": "MakerLab — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/makerlab"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-makerlab-ateliers",
+  "category": "genie",
+  "keywords": [
+   "ateliers makerlab",
+   "laboratoire",
+   "makerlab workshops",
+   "lab",
+   "labo",
+   "formation 3d",
+   "cao",
+   "cad",
+   "arduino",
+   "ecad",
+   "thermoformage",
+   "atelier sur mesure",
+   "custom training"
+  ],
+  "question": {
+   "fr": "Quels ateliers le MakerLab offre-t-il ?",
+   "en": "What workshops does the MakerLab offer?"
+  },
+  "answer": {
+   "fr": "En plus des formations obligatoires pour l'équipement restreint (impression 3D à résine, découpe laser, broderie numérique, fraiseuse PCB), le MakerLab offre des ateliers sur l'impression 3D FDM, la CAO, la programmation Arduino, la soudure, la Cricut et la presse à chaud, la numérisation 3D, la réalité virtuelle, la CAO électronique et le thermoformage. Il peut aussi créer des formations sur mesure pour des professeurs, des labos de recherche ou des partenaires externes.",
+   "en": "Besides the mandatory training for restricted equipment (resin 3D printing, laser cutting, CNC embroidery, PCB milling), the MakerLab offers workshops on FDM 3D printing, CAD, Arduino programming, soldering, Cricut and heat press, 3D scanning, virtual reality, electronic CAD and vacuum forming. It can also design custom training for faculty, research labs or external partners."
+  },
+  "sources": [
+   {
+    "label": "MakerLab — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/makerlab"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-centre-formation-fabrication",
+  "category": "genie",
+  "keywords": [
+   "centre de formation en fabrication",
+   "laboratoire",
+   "manufacturing training centre",
+   "mtc",
+   "lab",
+   "labo",
+   "stm 137",
+   "soudage mig tig",
+   "mig tig welding",
+   "commande numérique",
+   "cnc",
+   "tour",
+   "fraiseuse"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Centre de formation en fabrication ?",
+   "en": "What is the Manufacturing Training Centre?"
+  },
+  "answer": {
+   "fr": "Le Centre de formation en fabrication, salle STM 137 du complexe STEM, offre des ateliers de trois heures sur les bases de l'atelier d'usinage, les fraiseuses, les tours, l'usinage à commande numérique (CNC) et le soudage MIG et TIG. Une fois la formation requise terminée, tu as accès au Centre Brunsfield pour travailler sur tes projets. Il offre aussi des formations sur mesure aux professeurs, aux labos de recherche et aux partenaires externes.",
+   "en": "The Manufacturing Training Centre, room STM 137 in the STEM Complex, offers three-hour workshops on machine shop fundamentals, milling machines, lathes, CNC machining and MIG and TIG welding. Once you've completed the required training, you get access to the Brunsfield Centre to work on your projects. It also offers custom training for faculty, research labs and external partners."
+  },
+  "sources": [
+   {
+    "label": "Manufacturing Training Centre — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/manufacturing-training-centre"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-brunsfield-horaire",
+  "category": "genie",
+  "keywords": [
+   "heures centre brunsfield",
+   "laboratoire",
+   "brunsfield hours",
+   "lab",
+   "labo",
+   "atelier d'usinage",
+   "machine shop",
+   "stm 129",
+   "horaire",
+   "ouvert samedi",
+   "open saturday"
+  ],
+  "question": {
+   "fr": "Quelles sont les heures du Centre Brunsfield ?",
+   "en": "What are the Brunsfield Centre's hours?"
+  },
+  "answer": {
+   "fr": "Le Centre Brunsfield, salle STM 129 du complexe STEM, est ouvert le lundi, le mercredi et le vendredi de midi à 20 h, et le samedi de 10 h à 18 h ; il est fermé le dimanche, le mardi et le jeudi. Les heures peuvent changer pendant les congés et les examens. Tu peux le joindre au 613-562-5800, poste 4656.",
+   "en": "The Brunsfield Centre, room STM 129 in the STEM Complex, is open Monday, Wednesday and Friday from noon to 8 p.m., and Saturday from 10 a.m. to 6 p.m.; it's closed Sunday, Tuesday and Thursday. Hours may change during holidays and exams. You can reach it at 613-562-5800, extension 4656."
+  },
+  "sources": [
+   {
+    "label": "Brunsfield Centre — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/brunsfield-centre"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-brunsfield-equipement",
+  "category": "genie",
+  "keywords": [
+   "équipement brunsfield",
+   "laboratoire",
+   "brunsfield equipment",
+   "lab",
+   "labo",
+   "tour",
+   "lathe",
+   "fraiseuse cnc",
+   "haas",
+   "soudage",
+   "welding",
+   "découpe plasma",
+   "tôlerie",
+   "menuiserie",
+   "mmt"
+  ],
+  "question": {
+   "fr": "Quel équipement y a-t-il au Centre Brunsfield ?",
+   "en": "What equipment does the Brunsfield Centre have?"
+  },
+  "answer": {
+   "fr": "Le Centre Brunsfield a des tours et des fraiseuses manuels, une fraiseuse et un tour CNC HAAS, des routeurs CNC jusqu'à 4 x 8 pi et une baie de soudage (MIG, TIG, à l'électrode, découpe plasma). On y trouve aussi des outils d'inspection (machine à mesurer tridimensionnelle, bras de mesure), des outils de tôlerie comme une plieuse et une cisaille, et des outils de menuiserie. La formation du Centre de formation en fabrication est obligatoire pour utiliser l'espace.",
+   "en": "The Brunsfield Centre has manual lathes and mills, a HAAS CNC mill and lathe, CNC routers up to 4 x 8 ft and a welding bay (MIG, TIG, stick, plasma cutting). It also has inspection tools (CMM, inspection arm), sheet metal tools such as a brake and a shear, and woodworking tools. Training from the Manufacturing Training Centre is mandatory to use the space."
+  },
+  "sources": [
+   {
+    "label": "Equipment - Brunsfield Centre — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/brunsfield-centre/equipment"
+   },
+   {
+    "label": "Brunsfield Centre — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/brunsfield-centre"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-brunsfield-acces-tarifs",
+  "category": "genie",
+  "keywords": [
+   "tarifs brunsfield",
+   "laboratoire",
+   "brunsfield fees",
+   "lab",
+   "labo",
+   "membre ceed",
+   "ceed membership",
+   "passe journalière",
+   "day pass",
+   "passe de session",
+   "semester pass",
+   "atelier d'usinage prix"
+  ],
+  "question": {
+   "fr": "Combien coûte l'accès au Centre Brunsfield ?",
+   "en": "How much does access to the Brunsfield Centre cost?"
+  },
+  "answer": {
+   "fr": "Le Centre fonctionne avec l'adhésion au CGEC, pour les membres formés et approuvés. C'est sans frais supplémentaires pour les étudiants de la Faculté de génie ; pour le reste de la communauté uOttawa, c'est 5 $ par jour ou 25 $ par session, et pour les autres (diplômés et communauté), 10 $ par jour ou 40 $ par session.",
+   "en": "The Centre runs on a CEED membership model, for trained and approved members. It's no additional cost for Faculty of Engineering students; for the rest of the uOttawa community it's $5 a day or $25 a semester, and for others (alumni and community) $10 a day or $40 a semester."
+  },
+  "sources": [
+   {
+    "label": "Brunsfield Centre — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/brunsfield-centre"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-brunsfield-services",
+  "category": "genie",
+  "keywords": [
+   "services d'usinage",
+   "laboratoire",
+   "machining services",
+   "lab",
+   "labo",
+   "brunsfield",
+   "faire usiner une pièce",
+   "job service",
+   "usinage cnc",
+   "numérisation 3d",
+   "soumission",
+   "quote",
+   "location d'atelier"
+  ],
+  "question": {
+   "fr": "Le Centre Brunsfield peut-il usiner une pièce pour moi ?",
+   "en": "Can the Brunsfield Centre machine a part for me?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre offre des services d'usinage manuel et CNC, de soudage, d'inspection, de numérisation 3D et de conception, aussi pour la communauté. La consultation est gratuite ; le service coûte 50 $ l'heure pour la communauté uOttawa et 100 $ pour les autres, matériaux en sus. Les prix peuvent changer, alors demande une soumission au Centre.",
+   "en": "Yes, the Centre offers manual and CNC machining, welding, inspection, 3D scanning and design services, including for the community. Consultations are free; the service costs $50 an hour for the uOttawa community and $100 for others, with materials extra. Prices may change, so ask the Centre for a quote."
+  },
+  "sources": [
+   {
+    "label": "Brunsfield Centre — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/brunsfield-centre"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-espace-equipes-john-mcentyre",
+  "category": "genie",
+  "keywords": [
+   "espace de collaboration john mcentyre",
+   "laboratoire",
+   "john mcentyre team space",
+   "jmts",
+   "lab",
+   "labo",
+   "équipes compétitives",
+   "competitive teams",
+   "stm 128",
+   "salle des composites",
+   "cabine de peinture",
+   "voiture de course",
+   "fusée"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que l'espace John McEntyre pour les équipes compétitives ?",
+   "en": "What is the John McEntyre Team Space?"
+  },
+  "answer": {
+   "fr": "C'est un atelier pour les équipes compétitives de génie qui construisent de grands projets comme des voitures de course, des robots, des fusées ou des toboggans de béton ; il est au complexe STEM, salle 128, en face du Centre Brunsfield. Chaque équipe a sa baie de travail, et l'espace comprend une salle des composites et une cabine de peinture et de ponçage. Seuls les membres des équipes y ont accès ; la plupart recrutent au début septembre et les étudiants de toutes les facultés peuvent s'y joindre.",
+   "en": "It's a workshop for engineering competitive teams building large-scale projects like race cars, robots, rockets and concrete toboggans; it's in the STEM Complex, room 128, across from the Brunsfield Centre. Each team has its own work bay, and the space includes a composites room and a paint and sanding booth. Only team members have access; most teams recruit in early September, and students from any faculty can join."
+  },
+  "sources": [
+   {
+    "label": "John McEntyre Team Space — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/john-mcentrye-team-space"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-sandbox-cby",
+  "category": "genie",
+  "keywords": [
+   "bac à sable",
+   "laboratoire",
+   "sandbox",
+   "lab",
+   "labo",
+   "cby b109a",
+   "colonel by",
+   "équipe de conception",
+   "design team",
+   "startup",
+   "jeunes pousses",
+   "espace de projet"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Sandbox (Bac à sable) en génie ?",
+   "en": "What is the Sandbox in engineering?"
+  },
+  "answer": {
+   "fr": "Le Sandbox, salle CBY B109A du pavillon Colonel By, est un espace pour les équipes de petits projets, de compétitions préprofessionnelles et de jeunes pousses technologiques, avec aire de réunion, postes de conception, postes électriques et établi. Ton équipe doit demander l'adhésion : elle doit être formée surtout d'étudiants de la Faculté de génie et être une équipe de conception ou une équipe entrepreneuriale. Les membres ont un espace de rangement et accès à l'espace pendant les heures d'ouverture du pavillon.",
+   "en": "The Sandbox, room CBY B109A in Colonel By Hall, is a space for teams working on small projects, pre-professional competitions and tech startups, with a meeting area, design stations, electrical workstations and a tool bench. Your team must apply for membership: it must be mostly Faculty of Engineering students and be a design or entrepreneurial team. Members get a storage unit and access whenever the building is open."
+  },
+  "sources": [
+   {
+    "label": "Sandbox — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/sandbox"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-espace-conception-simon-nehme",
+  "category": "genie",
+  "keywords": [
+   "espace de conception simon nehme",
+   "laboratoire",
+   "simon nehme design commons",
+   "lab",
+   "labo",
+   "stm 102",
+   "tableaux blancs",
+   "whiteboards",
+   "remue-méninges",
+   "brainstorming",
+   "sans réservation"
+  ],
+  "question": {
+   "fr": "Peut-on réserver l'Espace de conception Simon Nehme ?",
+   "en": "Can I book the Simon Nehme Design Commons?"
+  },
+  "answer": {
+   "fr": "Non, l'Espace de conception Simon Nehme, salle STM 102 du complexe STEM, ne se réserve pas : c'est un espace sans rendez-vous pour toute personne qui travaille sur un projet de conception ou d'entrepreneuriat. Il est couvert de tableaux blancs avec du mobilier reconfigurable, et la nourriture et les boissons sont interdites.",
+   "en": "No, the Simon Nehme Design Commons, room STM 102 in the STEM Complex, can't be booked: it's a drop-in space for anyone working on a design or entrepreneurial project. It's covered in whiteboards with reconfigurable furniture, and food and drinks aren't allowed."
+  },
+  "sources": [
+   {
+    "label": "Simon Nehme Design Commons — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/centre-entrepreneurship-engineering-design/facilities/simon-nehme-design-commons"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-craft-lab-microbrasserie",
+  "category": "genie",
+  "keywords": [
+   "craft lab",
+   "laboratoire",
+   "labo artisanal",
+   "microbrasserie",
+   "microbrewing",
+   "lab",
+   "labo",
+   "génie chimique",
+   "chemical engineering",
+   "uo nanobrew",
+   "bière",
+   "beer",
+   "stem"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Craft Lab en génie chimique ?",
+   "en": "What is the Craft Lab in chemical engineering?"
+  },
+  "answer": {
+   "fr": "Le Craft Lab est un laboratoire de microbrasserie en développement au complexe STEM, où les étudiants en génie chimique combinent leurs connaissances et l'entrepreneuriat. Né d'un projet de fin d'études en 2020, il est porté par l'équipe étudiante uO NanoBrew, qui a fait son premier brassin en novembre 2021 avec un brasseur local. L'objectif est que le labo soit entièrement géré par des étudiants une fois ouvert.",
+   "en": "The Craft Lab is a microbrewing lab being developed in the STEM Complex, where chemical engineering students combine their knowledge with entrepreneurship. It started as a 2020 capstone project and is driven by the student team uO NanoBrew, which completed its first brew in November 2021 with a local brewer. The goal is for the lab to be fully student-run once it opens."
+  },
+  "sources": [
+   {
+    "label": "Craft Lab — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/spaces/craft-lab"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-maker-mobile",
+  "category": "genie",
+  "keywords": [
+   "maker mobile",
+   "laboratoire",
+   "atelier stim",
+   "stem workshops",
+   "lab",
+   "labo",
+   "écoles",
+   "schools",
+   "fête d'anniversaire",
+   "birthday party",
+   "atelier virtuel",
+   "jeunes",
+   "kids"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Maker Mobile de l'Université d'Ottawa ?",
+   "en": "What is the uOttawa Maker Mobile?"
+  },
+  "answer": {
+   "fr": "Le Maker Mobile offre des ateliers pratiques en STIM aux écoles, bibliothèques et centres communautaires de l'Ontario et du Québec, en personne ou par Zoom, en français, en anglais ou dans les deux langues. Les ateliers en ligne commencent à 110 $ pour le primaire et 130 $ pour le secondaire, pour 30 élèves au maximum. Il fait aussi des fêtes d'anniversaire à domicile (250 $, 10 participants au maximum) ; demande au moins trois semaines à l'avance.",
+   "en": "The Maker Mobile delivers hands-on STEM workshops to schools, libraries and community centres in Ontario and Quebec, in person or over Zoom, in English, French or both. Online workshops start at $110 for elementary and $130 for high school, for up to 30 students. It also does birthday parties at home ($250, up to 10 participants); request at least three weeks ahead."
+  },
+  "sources": [
+   {
+    "label": "uOttawa Maker Mobile Workshops — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/outreach/maker-mobile"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-cyber-range-ibm",
+  "category": "genie",
+  "keywords": [
+   "cyber range",
+   "laboratoire",
+   "laboratoire de cyberformation",
+   "uottawa-ibm",
+   "lab",
+   "labo",
+   "cybersécurité",
+   "cybersecurity",
+   "simulation cyberattaque",
+   "cyberattack simulation",
+   "cyber carrefour",
+   "cyber hub"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Laboratoire de cyberformation uOttawa-IBM (Cyber Range) ?",
+   "en": "What is the uOttawa-IBM Cyber Range?"
+  },
+  "answer": {
+   "fr": "Le Laboratoire de cyberformation uOttawa-IBM, situé dans le Cyber carrefour, est une installation de formation en cybersécurité, la première du genre au Canada, créée avec IBM. Elle permet de vivre des simulations immersives de cyberattaques pour apprendre à planifier, réagir, contenir et corriger un incident, et elle sert aussi à la recherche en cybersécurité, dans les deux langues officielles.",
+   "en": "It's a cybersecurity training facility located in the Cyber Hub, the first of its kind in Canada, created with IBM. It offers immersive cyberattack simulations to learn how to plan for, respond to, contain and remediate an incident, and it also supports cybersecurity research, in both official languages."
+  },
+  "sources": [
+   {
+    "label": "uOttawa-IBM Cyber Range — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/impact-discoveries/cyber-hub/uottawa-ibm-cyber-range"
+   },
+   {
+    "label": "Spaces — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/spaces"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-cyber-bootcamp",
+  "category": "genie",
+  "keywords": [
+   "cyber bootcamp",
+   "laboratoire",
+   "camp intensif de cybersécurité",
+   "lab",
+   "labo",
+   "cyber range",
+   "été",
+   "summer program",
+   "fortinet",
+   "intelligence artificielle",
+   "date limite",
+   "deadline"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Cyber Bootcamp d'été ?",
+   "en": "What is the summer Cyber Bootcamp?"
+  },
+  "answer": {
+   "fr": "C'est un programme intensif d'été en anglais, sur le campus, en cybersécurité et en IA, donné dans le Laboratoire de cyberformation uOttawa-IBM : un module de deux semaines (réseau ou IA) ou un programme complet de six semaines avec projet final. En 2027, le module IA a lieu du 19 juin au 3 juillet, le module réseau du 3 au 17 juillet et le programme de six semaines du 19 juin au 31 juillet. La date limite hâtive est le 1er décembre 2026 et la date limite de demande, le 1er mars 2027.",
+   "en": "It's an intensive English-language summer program on campus in cybersecurity and AI, held in the uOttawa-IBM Cyber Range: a two-week module (network or AI) or a full six-week program with a capstone project. In 2027, the AI module runs June 19 to July 3, the network module July 3 to 17 and the six-week program June 19 to July 31. The early bird deadline is December 1, 2026 and the application deadline is March 1, 2027."
+  },
+  "sources": [
+   {
+    "label": "Cyber Bootcamp — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/spaces/cyber-range/cyber-bootcamp"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-simulateur-tsunami",
+  "category": "genie",
+  "keywords": [
+   "simulateur de tsunami",
+   "laboratoire",
+   "tsunami simulator",
+   "lab",
+   "labo",
+   "séisme",
+   "earthquake",
+   "canal de recherche",
+   "research flume",
+   "table sismique",
+   "génie civil",
+   "vagues"
+  ],
+  "question": {
+   "fr": "Y a-t-il vraiment un simulateur de tsunami à l'Université ?",
+   "en": "Is there really a tsunami simulator at the University?"
+  },
+  "answer": {
+   "fr": "Oui, la Faculté de génie a un canal de recherche expérimental, le seul au monde avec une table sismique submergée pour modéliser les séismes sous-marins. Il a aussi un générateur de vagues conçu sur mesure pour créer des vagues semblables à des tsunamis et un système de recirculation des sédiments pour simuler l'érosion des rivières et des côtes.",
+   "en": "Yes, the Faculty of Engineering has an experimental research flume, the only one in the world with a submerged seismic table to model undersea earthquakes. It also has a custom-designed wave generator to create tsunami-like waves and a sediment recirculation system to simulate river and coastal erosion."
+  },
+  "sources": [
+   {
+    "label": "Spaces — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/spaces"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-genie-labos-installations",
+  "category": "genie",
+  "keywords": [
+   "labos de génie",
+   "engineering labs",
+   "lab",
+   "labo",
+   "laboratoire",
+   "150 laboratoires",
+   "installations génie",
+   "engineering facilities",
+   "complexe stem",
+   "véhicules connectés",
+   "kanata nord"
+  ],
+  "question": {
+   "fr": "Combien de labos la Faculté de génie a-t-elle ?",
+   "en": "How many labs does the Faculty of Engineering have?"
+  },
+  "answer": {
+   "fr": "La Faculté de génie compte plus de 150 laboratoires d'enseignement et de recherche, en plus d'espaces de conception comme ceux du CGEC au complexe STEM. Elle a aussi le Centre d'innovation pour véhicules intelligents et connectés, à son campus de Kanata-Nord, qui fait de la recherche sur la connectivité, la sécurité et la prise de décision des véhicules.",
+   "en": "The Faculty of Engineering has over 150 teaching and research labs, plus design spaces such as CEED's in the STEM Complex. It also has the Smart Connected Vehicles Innovation Centre, at its Kanata North campus, which does research on vehicle connectivity, security and decision-making."
+  },
+  "sources": [
+   {
+    "label": "Spaces — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/spaces"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labos-cby-niveau-0",
+  "category": "batiments",
+  "keywords": [
+   "labos colonel by",
+   "laboratoire",
+   "colonel by labs",
+   "lab",
+   "labo",
+   "cby niveau 0",
+   "laboratoire de structures",
+   "structures lab",
+   "labo d'enseignement",
+   "teaching lab",
+   "génie mécanique",
+   "génie civil"
+  ],
+  "question": {
+   "fr": "Quels labos y a-t-il au niveau 0 du pavillon Colonel By ?",
+   "en": "Which labs are on level 0 of Colonel By Hall?"
+  },
+  "answer": {
+   "fr": "Le niveau 0 du pavillon Colonel By (CBY) abrite notamment le Laboratoire de structures, le laboratoire d'ingénierie structurale Pomerleau, les laboratoires géotechnique et d'hydraulique, des laboratoires d'enseignement de premier cycle, le laboratoire Pierre-Bouchard, le laboratoire de génie mécanique et le laboratoire de microscopie à force atomique. On y trouve aussi une salle de déchets chimiques et les bureaux d'associations comme Ingénieurs sans frontières.",
+   "en": "Level 0 of Colonel By Hall (CBY) houses the Structures Research Laboratory, the Pomerleau Structural Engineering Laboratory, the Geotechnical, Hydraulic and Material Laboratory, the Undergraduate Students' Teaching Lab, the Pierre Bouchard Design Laboratory, the Mechanical Engineering Laboratory and the Atomic Force Microscopy Laboratory, among others. It also has a chemical waste room and the offices of associations such as Engineers Without Borders."
+  },
+  "sources": [
+   {
+    "label": "Colonel By Hall (CBY) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/colonel-hall-cby"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labos-cby-etages",
+  "category": "batiments",
+  "keywords": [
+   "labos colonel by étages",
+   "laboratoire",
+   "colonel by floors labs",
+   "lab",
+   "labo",
+   "cby",
+   "génie chimique",
+   "chemical engineering",
+   "usine pilote",
+   "pilot plant",
+   "laboratoire de génie environnemental",
+   "télécommunications sans fil"
+  ],
+  "question": {
+   "fr": "Où sont les labos de génie chimique et de génie environnemental au pavillon Colonel By ?",
+   "en": "Where are the chemical and environmental engineering labs in Colonel By Hall?"
+  },
+  "answer": {
+   "fr": "Au niveau 1 de CBY, il y a des labos informatiques, un labo d'enseignement de premier cycle et le Laboratoire de génie environnemental ; au niveau 2, des labos d'enseignement et le Laboratoire de génie chimique et biologique. Le niveau 4 a des labos d'enseignement et l'usine pilote de génie chimique, et le niveau 5 des laboratoires de systèmes sans fil, de micro-ondes et communications, et de chambre magnétique et antennes.",
+   "en": "On level 1 of CBY, there are computer labs, an undergraduate teaching lab and the Environmental Engineering Laboratory; level 2 has teaching labs and the Chemical and Biological Engineering Laboratory. Level 4 has teaching labs and the Chemical Engineering Pilot Plant, and level 5 has wireless systems, microwave and antenna labs."
+  },
+  "sources": [
+   {
+    "label": "Colonel By Hall (CBY) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/colonel-hall-cby"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labos-site",
+  "category": "batiments",
+  "keywords": [
+   "labos site",
+   "laboratoire",
+   "site building labs",
+   "lab",
+   "labo",
+   "eiti",
+   "ste",
+   "labo d'optique",
+   "optics lab",
+   "labo biomédical",
+   "biomedical undergraduate laboratory",
+   "génie électrique",
+   "discover lab"
+  ],
+  "question": {
+   "fr": "Quels labos y a-t-il dans l'immeuble SITE ?",
+   "en": "Which labs are in the SITE building?"
+  },
+  "answer": {
+   "fr": "Dans l'immeuble SITE (STE), le niveau 0 a un labo informatique et des labos d'enseignement en informatique. Le niveau 2 abrite le laboratoire d'optique de premier cycle et les Services de technologie de l'information de la Faculté de génie, et le niveau 3 le laboratoire biomédical de premier cycle du Département de génie mécanique, le Lab canadien en conception éthique de la robotique et de l'IA (CRAiEDL) et MakerLaunch. Le niveau 5 abrite le laboratoire DISCOVER et les bureaux de l'École de science informatique et de génie électrique.",
+   "en": "In the SITE building (STE), level 0 has a computer lab and computer teaching labs. Level 2 houses the Undergraduate Optics Lab and the Faculty of Engineering IT Services, and level 3 the Biomedical Undergraduate Laboratory, the CRAiEDL lab and MakerLaunch. Level 5 houses the DISCOVER Lab and the School of Electrical Engineering and Computer Science."
+  },
+  "sources": [
+   {
+    "label": "About the SITE building (STE) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/site"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labos-arc",
+  "category": "batiments",
+  "keywords": [
+   "labos arc",
+   "laboratoire",
+   "arc labs",
+   "lab",
+   "labo",
+   "complexe de recherche avancée",
+   "advanced research complex",
+   "photonique",
+   "photonics",
+   "sciences de la terre",
+   "earth sciences",
+   "sunlab",
+   "isotopes stables",
+   "25 templeton"
+  ],
+  "question": {
+   "fr": "Qu'y a-t-il dans le Complexe de recherche avancée (ARC) ?",
+   "en": "What's inside the Advanced Research Complex (ARC)?"
+  },
+  "answer": {
+   "fr": "L'ARC est un immeuble de recherche de cinq étages consacré à la photonique et aux sciences de la Terre, ouvert en 2014. Le niveau 1 abrite l'Installation nationale André E. Lalonde de spectrométrie de masse par accélérateur, le niveau 3 le SUNLAB et le laboratoire de recherche sur les rayons X ultrarapides (LUXSc), et le niveau 4 le Laboratoire d'isotopes stables, le Laboratoire de tritium et de gaz nobles et les laboratoires de géochimie.",
+   "en": "ARC is a five-storey research building dedicated to photonics and Earth sciences, opened in 2014. Level 1 houses the André E. Lalonde National Facility in Accelerator Mass Spectrometry, level 3 SUNLAB and the Laboratory for Ultrafast X-ray Sciences (LUXSc), and level 4 the stable isotope, tritium and noble gas, and geochemistry labs."
+  },
+  "sources": [
+   {
+    "label": "Advanced Research Complex (ARC) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/advanced-research-complex-arc"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labos-enseignement-biosciences",
+  "category": "batiments",
+  "keywords": [
+   "labos d'enseignement biologie",
+   "laboratoire",
+   "biology teaching labs",
+   "lab",
+   "labo",
+   "biosciences",
+   "bsc",
+   "biochimie",
+   "labo de biologie",
+   "parlons sciences",
+   "let's talk science",
+   "serre",
+   "greenhouse"
+  ],
+  "question": {
+   "fr": "Où sont les labos d'enseignement de biologie et de biochimie ?",
+   "en": "Where are the biology and biochemistry teaching labs?"
+  },
+  "answer": {
+   "fr": "Les labos d'enseignement de biologie et de biochimie sont dans l'immeuble des Biosciences (BSC) : le niveau 1 a une salle de classe, des labos d'enseignement et Parlons sciences, et les niveaux 2 et 3 des labos et des salles de préparation. Le niveau 0 a un autoclave et le Service vétérinaire et animalier, et l'accès aux 4e et 5e étages, où se trouvent le CRIC (Centre de recherche et d'innovation en catalyse) et une serre, exige une clé.",
+   "en": "The biology and biochemistry teaching labs are in the Biosciences building (BSC): level 1 has a classroom, teaching labs and Let's Talk Science, and levels 2 and 3 have labs and preparation rooms. Level 0 has an autoclave and Animal Care and Veterinary Services, and access to the 4th and 5th floors, home to the CCRI and a greenhouse, requires a key."
+  },
+  "sources": [
+   {
+    "label": "Biosciences (BSC) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/biosciences-complex-bsc"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labo-biophotonique",
+  "category": "genie",
+  "keywords": [
+   "labo de biophotonique",
+   "laboratoire",
+   "biophotonics lab",
+   "lab",
+   "labo",
+   "hanan anis",
+   "arc",
+   "laser femtoseconde",
+   "femtosecond laser",
+   "microscopie non linéaire",
+   "biocapteurs",
+   "biosensors"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Biophotonics Lab ?",
+   "en": "What is the Biophotonics Lab?"
+  },
+  "answer": {
+   "fr": "C'est le labo de la professeure Hanan Anis, en génie, situé au Complexe de recherche avancée (ARC). Il développe des plateformes tout-fibre ultrarapides pour l'imagerie et la détection biomédicales, dans trois salles : microscopie et endoscopie non linéaires, biocapteurs et lasers à fibre femtoseconde. Les étudiants aux cycles supérieurs intéressés peuvent contacter la professeure Anis.",
+   "en": "It's Professor Hanan Anis's engineering lab, located in the Advanced Research Complex (ARC). It develops ultrafast all-fibre platforms for biomedical imaging and sensing, in three rooms: nonlinear microscopy and endoscopy, biosensors and femtosecond fibre lasers. Interested graduate students can contact Professor Anis."
+  },
+  "sources": [
+   {
+    "label": "Biophotonics Lab — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/biophotonics-lab"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-simdut-obligatoire",
+  "category": "services",
+  "keywords": [
+   "simdut",
+   "whmis",
+   "lab",
+   "labo",
+   "laboratoire",
+   "formation obligatoire",
+   "mandatory training",
+   "matières dangereuses",
+   "hazardous materials",
+   "simdut labo",
+   "whmis lab version"
+  ],
+  "question": {
+   "fr": "La formation SIMDUT est-elle obligatoire pour travailler dans un labo ?",
+   "en": "Is WHMIS training mandatory to work in a lab?"
+  },
+  "answer": {
+   "fr": "Oui, la formation SIMDUT 2015 est obligatoire pour toute personne qui travaille à l'Université et pour certains étudiants, visiteurs et bénévoles. Elle se fait en ligne : la version pour travailleurs de laboratoire vise par exemple la chimie, la physique, les ateliers d'usinage ou les autoclaves, et la version pour bureau vise notamment les labos informatiques et les bureaux. Pour réussir, tu dois suivre tous les modules et réussir l'évaluation finale.",
+   "en": "Yes, WHMIS 2015 training is mandatory for everyone working at the University and for some students, visitors and volunteers. It's online: the laboratory worker version covers, for example, chemistry, physics, machine shops or autoclaves, and the office worker version covers places like computer labs and offices. To pass, you must follow all modules and pass the final knowledge assessment."
+  },
+  "sources": [
+   {
+    "label": "Workplace Hazardous Materials Information System (WHMIS 2015) — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/training/whmis"
+   },
+   {
+    "label": "WHMIS Training — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/health-safety/whmis-training"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-simdut-deja-suivi",
+  "category": "services",
+  "keywords": [
+   "simdut ancien emploi",
+   "laboratoire",
+   "whmis previous job",
+   "lab",
+   "labo",
+   "refaire simdut",
+   "retake whmis",
+   "formation propre à l'employeur",
+   "employer specific",
+   "faculté des sciences"
+  ],
+  "question": {
+   "fr": "J'ai déjà suivi le SIMDUT à mon ancien emploi. Dois-je le refaire ?",
+   "en": "I already did WHMIS at my previous job. Do I need to redo it?"
+  },
+  "answer": {
+   "fr": "Oui. Selon la Faculté des sciences, tous les employés de l'Université doivent suivre la formation SIMDUT (bureau ou labo) de l'Université, même s'ils l'ont faite ailleurs, parce que cette formation est propre à chaque employeur.",
+   "en": "Yes. According to the Faculty of Science, all University employees must complete the University's WHMIS training (office or lab), even if they did it elsewhere, because this training is employer-specific."
+  },
+  "sources": [
+   {
+    "label": "Health and safety — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/health-safety"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-formation-securite-labo",
+  "category": "services",
+  "keywords": [
+   "formation sécurité en laboratoire",
+   "laboratoire",
+   "lab safety training",
+   "lab",
+   "labo",
+   "laboratoire humide",
+   "wet lab",
+   "lrs",
+   "quiz",
+   "certificat",
+   "certificate",
+   "10 modules"
+  ],
+  "question": {
+   "fr": "Comment fonctionne la formation en ligne sur la sécurité en laboratoire ?",
+   "en": "How does the online lab safety training work?"
+  },
+  "answer": {
+   "fr": "C'est un atelier autoguidé de 10 modules pour les personnes qui travaillent ou étudient dans un labo humide, à suivre idéalement après le SIMDUT pour travailleurs de laboratoire. Il se termine par un quiz dans ton profil LRS : la note de passage est de 75 % et tu peux faire plusieurs tentatives. Tu reçois ensuite un certificat par courriel, et cette formation ne remplace pas celle propre à ton labo donnée par ton superviseur.",
+   "en": "It's a self-guided 10-module workshop for people working or studying in a wet lab, ideally taken after WHMIS for laboratory workers. It ends with a quiz in your LRS profile: the passing score is 75% and multiple attempts are allowed. You then get a certificate by email, and this training doesn't replace the lab-specific training from your supervisor."
+  },
+  "sources": [
+   {
+    "label": "Lab safety — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/training/lab-safety"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-formation-labo-sec-genie",
+  "category": "services",
+  "keywords": [
+   "dry lab risk management",
+   "laboratoire",
+   "gestion des risques laboratoire sec",
+   "lab",
+   "labo",
+   "génie civil",
+   "génie mécanique",
+   "eecs",
+   "cvg",
+   "mcg",
+   "chg",
+   "sécurité labo génie"
+  ],
+  "question": {
+   "fr": "Quelle formation de sécurité en labo dois-je suivre en génie ?",
+   "en": "Which lab safety training do I need in engineering?"
+  },
+  "answer": {
+   "fr": "Les étudiants en génie civil (CVG), en génie mécanique (MCG) et en génie électrique et informatique (EECS) suivent la formation Dry Lab Risk Management plutôt que la formation générale. Les étudiants en génie chimique (CHG) et en génie civil option environnement suivent la formation sur la sécurité en laboratoire. Pour toute question, contacte le gestionnaire de la santé, de la sécurité et des risques de la Faculté de génie.",
+   "en": "Students in civil (CVG), mechanical (MCG) and electrical engineering and computer science (EECS) take Dry Lab Risk Management training instead of the general lab safety training. Students in chemical engineering (CHG) and civil/environmental engineering take the laboratory safety training. For questions, contact the Faculty of Engineering's health, safety and risk manager."
+  },
+  "sources": [
+   {
+    "label": "Health and safety — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/health-safety"
+   },
+   {
+    "label": "Lab safety — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/training/lab-safety"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-compte-visiteur-lrs",
+  "category": "services",
+  "keywords": [
+   "compte visiteur lrs",
+   "laboratoire",
+   "lrs visitor account",
+   "lab",
+   "labo",
+   "bénévole labo",
+   "lab volunteer",
+   "personne externe",
+   "external",
+   "formation sécurité",
+   "créer un profil"
+  ],
+  "question": {
+   "fr": "Je suis bénévole externe dans un labo : comment suivre la formation de sécurité ?",
+   "en": "I'm an external lab volunteer: how do I take the safety training?"
+  },
+  "answer": {
+   "fr": "Crée un compte visiteur dans le système LRS en cliquant sur « Créer un profil » et en remplissant le formulaire (nom, courriel, nom d'utilisateur, langue et raison du compte). Les TI valident le compte et t'envoient les instructions par courriel dans les 24 heures ; ce compte te permet de t'inscrire à la formation sur la sécurité en laboratoire et aux autres ateliers de santé et sécurité.",
+   "en": "Create a visitor account in the LRS system by clicking \"Create a profile\" and filling out the form (name, email, username, language and reason for the account). IT validates the account and emails you instructions within 24 hours; the account lets you register for the lab safety training and other health and safety workshops."
+  },
+  "sources": [
+   {
+    "label": "Lab safety — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/training/lab-safety"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-orientation-labo-non-labo",
+  "category": "services",
+  "keywords": [
+   "orientation sécurité en laboratoire",
+   "laboratoire",
+   "laboratory safety orientation",
+   "lab",
+   "labo",
+   "entrepreneur",
+   "contractor",
+   "fournisseur",
+   "service provider",
+   "employé non-labo",
+   "vidéo sécurité",
+   "entrer dans un labo"
+  ],
+  "question": {
+   "fr": "Je ne travaille pas en labo mais je dois y entrer : quelle formation suivre ?",
+   "en": "I don't work in a lab but need to enter one: what training do I need?"
+  },
+  "answer": {
+   "fr": "Suis l'Orientation sur la sécurité en laboratoire, une vidéo pour les employés non-labo et les fournisseurs externes (entretien, réparations, TI, consultants) qui présente les dangers et les exigences d'entrée. Le SIMDUT est un préalable, et tu dois remplir le formulaire de confirmation après la vidéo. Avant d'entrer, coordonne toujours ta visite avec le superviseur du labo.",
+   "en": "Take the Laboratory Safety Orientation, a video for non-lab employees and external service providers (caretaking, repairs, IT, consultants) that covers lab hazards and entry requirements. WHMIS is a prerequisite, and you must fill out the acknowledgement form after the video. Before entering, always coordinate your visit with the lab supervisor."
+  },
+  "sources": [
+   {
+    "label": "Laboratory Safety Orientation — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/health-safety/programs-procedures/laboratory-safety-orientation"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-biosecurite-gr1",
+  "category": "services",
+  "keywords": [
+   "biosécurité",
+   "laboratoire",
+   "biosafety",
+   "lab",
+   "labo",
+   "groupe de risque 1",
+   "risk group 1",
+   "rg1",
+   "gr1",
+   "aspc",
+   "phac",
+   "laboratoire de confinement",
+   "containment lab"
+  ],
+  "question": {
+   "fr": "Comment suivre la formation en biosécurité de groupe de risque 1 ?",
+   "en": "How do I take the Risk Group 1 biosafety training?"
+  },
+  "answer": {
+   "fr": "Crée un compte sur le site de formation de l'Agence de la santé publique du Canada, puis suis le cours « General Safety for Containment Laboratories » dans la section sur la biosécurité en laboratoire. Télécharge ton certificat et remets-en une copie à ton chercheur principal, car cette formation n'est pas ajoutée à la base de données de l'Université. D'autres cours peuvent être requis selon ton travail, à voir avec ton superviseur.",
+   "en": "Create an account on the Public Health Agency of Canada training site, then complete the course \"General Safety for Containment Laboratories\" in the laboratory biosafety section. Download your certificate and give a copy to your principal investigator, because this training isn't added to the University's database. Other courses may be required depending on your work, so check with your supervisor."
+  },
+  "sources": [
+   {
+    "label": "Biosafety Training – RG1 — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/biosafety/biosafety-training-rg1"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-securite-laser",
+  "category": "services",
+  "keywords": [
+   "sécurité laser",
+   "laboratoire",
+   "laser safety",
+   "lab",
+   "labo",
+   "laser classe 3b",
+   "classe 4",
+   "class 4 laser",
+   "formation laser",
+   "basics of laser safety",
+   "utilisateur autorisé",
+   "permis laser"
+  ],
+  "question": {
+   "fr": "Quelle formation faut-il pour utiliser un laser de classe 3B ou 4 ?",
+   "en": "What training do I need to use a Class 3B or Class 4 laser?"
+  },
+  "answer": {
+   "fr": "La formation en sécurité laser a deux parties obligatoires pour les lasers et systèmes de classe 3B et 4 : un cours théorique en ligne, « Basics of Laser Safety », puis une formation pratique dans le labo. Le programme de sécurité laser est géré par le Bureau de la dirigeante principale de la gestion des risques et le comité de radioprotection.",
+   "en": "Laser safety training has two mandatory parts for Class 3B and Class 4 lasers and systems: an online theory course, \"Basics of Laser Safety\", followed by in-lab training. The laser safety program is managed by the Office of the Chief Risk Officer and the Radiation Safety Committee."
+  },
+  "sources": [
+   {
+    "label": "Laser safety — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/radiation-safety/laser"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-radioprotection-formation",
+  "category": "services",
+  "keywords": [
+   "radioprotection",
+   "laboratoire",
+   "radiation safety",
+   "lab",
+   "labo",
+   "substances radioactives",
+   "radioactive",
+   "formation radioprotection",
+   "permis",
+   "permit",
+   "nouvel utilisateur",
+   "new user"
+  ],
+  "question": {
+   "fr": "Comment m'inscrire à la formation en radioprotection ?",
+   "en": "How do I register for radiation safety training?"
+  },
+  "answer": {
+   "fr": "Les utilisateurs (employés et étudiants) s'inscrivent à la formation en radioprotection et remplissent le formulaire d'inscription des nouveaux utilisateurs sur la page Autorisations et formation du Bureau de la dirigeante principale de la gestion des risques. Les chercheurs principaux y trouvent aussi les demandes de permis pour les sources scellées et non scellées.",
+   "en": "Users (employees and students) register for radiation safety training and fill out the new user registration form on the Office of the Chief Risk Officer's Authorization and Training page. Principal investigators can also find the permit applications for sealed and unsealed sources there."
+  },
+  "sources": [
+   {
+    "label": "Authorization and Training — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/radiation-safety/radiation/authorization-training"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "r-fiches-signaletiques-chemwatch",
+  "category": "services",
+  "keywords": [
+   "fiche de données de sécurité",
+   "laboratoire",
+   "safety data sheet",
+   "fds",
+   "sds",
+   "msds",
+   "lab",
+   "labo",
+   "chemwatch",
+   "produit chimique",
+   "chemical",
+   "étiquette",
+   "vpn"
+  ],
+  "question": {
+   "fr": "Où trouver la fiche de données de sécurité d'un produit chimique ?",
+   "en": "Where can I find the safety data sheet for a chemical?"
+  },
+  "answer": {
+   "fr": "L'Université est abonnée à la base de données ChemWatch, qui contient plus de 13 millions de fiches de données de sécurité de fabricants, offertes en plusieurs langues. Tu y as accès sur le réseau du campus ou par RPV (VPN). Si l'étiquette du fournisseur est abîmée, elle doit être remplacée par une étiquette du lieu de travail.",
+   "en": "The University subscribes to the ChemWatch database, with more than 13 million manufacturer safety data sheets in several languages. You can access it on the campus network or through the VPN. If a supplier label gets damaged, it must be replaced with a workplace label."
+  },
+  "sources": [
+   {
+    "label": "WHMIS 2015 and Vertére — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/occupational-health-safety/safety-data-sheet"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-dechets-dangereux-labo",
+  "category": "services",
+  "keywords": [
+   "déchets dangereux",
+   "laboratoire",
+   "hazardous waste",
+   "lab",
+   "labo",
+   "collecte déchets chimiques",
+   "chemical waste pickup",
+   "déversement",
+   "spill kit",
+   "trousse de déversement",
+   "service le lendemain"
+  ],
+  "question": {
+   "fr": "Comment faire ramasser les déchets chimiques de mon labo ?",
+   "en": "How do I get my lab's chemical waste picked up?"
+  },
+  "answer": {
+   "fr": "Remplis une demande de collecte régulière de déchets dangereux dans l'application des Services de matières dangereuses : les déchets de recherche et d'enseignement sont ramassés directement au labo, gratuitement, selon l'horaire de collecte. Décris précisément les produits et étiquette clairement chaque contenant. Pour un service le lendemain, ta demande doit être soumise au plus tard à 10 h la veille.",
+   "en": "Submit a regular hazardous waste collection request in the Hazardous Materials Services app: research and teaching waste is collected directly at the lab, free of charge, according to the collection schedule. Describe the chemicals precisely and clearly label every container. For next-day service, your request must be in by 10 a.m. the day before."
+  },
+  "sources": [
+   {
+    "label": "Hazardous materials services — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/environmental-management/hazardous-materials-technical-services"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-travail-seul-securuo",
+  "category": "services",
+  "keywords": [
+   "travailler seul",
+   "laboratoire",
+   "work alone",
+   "lab",
+   "labo",
+   "securuo",
+   "en solo",
+   "workalone",
+   "seul le soir",
+   "alone at night",
+   "contact d'urgence",
+   "emergency contact"
+  ],
+  "question": {
+   "fr": "Je dois travailler seul au labo : existe-t-il un outil de sécurité ?",
+   "en": "I have to work alone in the lab: is there a safety tool?"
+  },
+  "answer": {
+   "fr": "Oui, la fonction En solo (WorkAlone) de l'appli SecurUO t'envoie des notifications à des heures prévues ; si tu ne réponds pas dans les cinq minutes, ton contact d'urgence est appelé. Ouvre SecurUO, touche « Boîte à outils de sécurité » puis « En solo » et inscris-toi pour la période voulue ; c'est gratuit. Tu peux répondre par Wi-Fi, mais il faut un service cellulaire pour recevoir les appels.",
+   "en": "Yes, the WorkAlone feature in the SecurUO app sends you push notifications at set times; if you don't respond within five minutes, your emergency contact is called. Open SecurUO, tap \"Safety Toolbox\" then \"WorkAlone\" and register for the period you need; it's free. You can check in over Wi-Fi, but you need cellular service to receive calls."
+  },
+  "sources": [
+   {
+    "label": "SecurUO – WorkAlone — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/occupational-health-safety/work-alone"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-acces-labo-apres-heures",
+  "category": "services",
+  "keywords": [
+   "accès labo après les heures",
+   "laboratoire",
+   "after hours lab access",
+   "lab",
+   "labo",
+   "soir",
+   "fin de semaine",
+   "weekend",
+   "permission écrite",
+   "written permission",
+   "poste 5499",
+   "travail seul"
+  ],
+  "question": {
+   "fr": "Puis-je travailler dans un labo de recherche le soir ou la fin de semaine ?",
+   "en": "Can I work in a research lab in the evening or on weekends?"
+  },
+  "answer": {
+   "fr": "Selon la politique des facultés des sciences et de médecine, les heures en dehors de 7 h 30 à 18 h, les fins de semaine et les jours fériés sont considérés comme « après les heures ». Les étudiants des cycles supérieurs, postdoctorants et membres du personnel dont le travail l'exige y ont accès, mais les autres, comme les étudiants de premier cycle, ont besoin de la permission écrite du professeur. Le travail seul est fortement déconseillé ; si tu travailles après les heures, appelle le Service de la protection au poste 5499 pour indiquer qui tu es, le labo et la durée prévue.",
+   "en": "Under the Faculty of Science and Faculty of Medicine policy, hours outside 7:30 a.m. to 6 p.m., weekends and holidays count as \"after hours\". Graduate students, postdocs and staff whose duties require it have access, but others, such as undergraduates, need the professor's written permission. Working alone is strongly discouraged; if you work after hours, call Protection Services at extension 5499 to say who you are, which lab and how long you'll stay."
+  },
+  "sources": [
+   {
+    "label": "After-hours access to research laboratories policy — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/health-safety/after-hours-policy"
+   },
+   {
+    "label": "Policy on after hours access by research personnel to research laboratories - HSRM — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/health-safety/policy-after-hours-access-research-personnel-research-laboratories"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-urgence-labo",
+  "category": "services",
+  "keywords": [
+   "urgence labo",
+   "laboratoire",
+   "lab emergency",
+   "lab",
+   "labo",
+   "déversement",
+   "spill",
+   "blessure",
+   "injury",
+   "service de la protection",
+   "protection services",
+   "poste 5411",
+   "911"
+  ],
+  "question": {
+   "fr": "Qui appeler en cas d'accident ou de déversement dans un labo ?",
+   "en": "Who do I call for an accident or spill in a lab?"
+  },
+  "answer": {
+   "fr": "En cas d'urgence sur le campus, y compris une blessure ou un déversement, appelle le Service de la protection au poste 5411, ou au 613-562-5411 depuis un cellulaire. Tu peux aussi appeler le 911, mais le Service de la protection connaît mieux le campus et peut intervenir plus rapidement.",
+   "en": "For an emergency on campus, including an injury or a spill, call Protection Services at extension 5411, or 613-562-5411 from a cellphone. You can also call 911, but Protection Services knows the campus better and can respond more quickly."
+  },
+  "sources": [
+   {
+    "label": "Lab safety — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/training/lab-safety"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-epi-equipement-dangereux",
+  "category": "services",
+  "keywords": [
+   "équipement de protection individuelle",
+   "laboratoire",
+   "personal protective equipment",
+   "epi",
+   "ppe",
+   "lab",
+   "labo",
+   "lunettes de sécurité",
+   "safety glasses",
+   "chaussures de sécurité",
+   "safety shoes",
+   "protection auditive",
+   "tour",
+   "fraiseuse"
+  ],
+  "question": {
+   "fr": "Quel équipement de protection faut-il pour utiliser des machines dangereuses en sciences ?",
+   "en": "What protective equipment do I need to use hazardous machines in science?"
+  },
+  "answer": {
+   "fr": "Selon la Faculté des sciences, quiconque travaille près de machinerie lourde (fraiseuses, tours, perceuses, scies, autoclave) doit porter des lunettes ou des lunettes-masques de sécurité homologuées CSA, une protection auditive et des chaussures de sécurité à embout d'acier ou composite. Les lunettes de prescription ne sont pas considérées comme une protection oculaire adéquate.",
+   "en": "According to the Faculty of Science, anyone working with heavy machinery (milling machines, lathes, drill presses, saws, autoclaves) must wear CSA-approved safety glasses or goggles, ear protection and safety shoes with steel or composite toes. Prescription glasses aren't considered proper eye protection."
+  },
+  "sources": [
+   {
+    "label": "PPE for Hazardous Equipment — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/health-safety/ppe-hazardous-equipment"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-autoclave-sciences",
+  "category": "services",
+  "keywords": [
+   "autoclave",
+   "laboratoire",
+   "stérilisation",
+   "sterilization",
+   "lab",
+   "labo",
+   "careg 233",
+   "faculté des sciences",
+   "déchets biologiques",
+   "biohazard waste",
+   "plateau polypropylène",
+   "formation autoclave"
+  ],
+  "question": {
+   "fr": "Comment utiliser le service d'autoclave de la Faculté des sciences ?",
+   "en": "How do I use the Faculty of Science autoclave service?"
+  },
+  "answer": {
+   "fr": "Tu dois d'abord suivre la formation sur l'autoclave et remettre ton certificat à l'équipe de santé et sécurité. Le service fonctionne du lundi au vendredi de 9 h à 16 h 45 (sauf jours fériés) : dépose ton matériel sur les tablettes de la salle CAREG 233 dans un plateau en polypropylène étiqueté de 4 kg au maximum, avec les bouteilles remplies à 60 % au plus. Le matériel déposé en fin de journée est traité le jour ouvrable suivant.",
+   "en": "You must first complete autoclave training and submit your certificate to the health and safety team. The service runs Monday to Friday from 9 a.m. to 4:45 p.m. (except holidays): leave your material on the shelves in room CAREG 233 in a labelled polypropylene tray of no more than 4 kg, with bottles filled to 60% at most. Material dropped off at the end of the day is processed the next business day."
+  },
+  "sources": [
+   {
+    "label": "Autoclave orientation — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/health-safety/autoclave-orientation"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labo-medecine-formations",
+  "category": "sante",
+  "keywords": [
+   "formation labo médecine",
+   "laboratoire",
+   "faculty of medicine lab training",
+   "lab",
+   "labo",
+   "simdut",
+   "sécurité en laboratoire",
+   "autoclave",
+   "formulaire d'accès",
+   "carte d'accès",
+   "access card",
+   "roger guindon"
+  ],
+  "question": {
+   "fr": "Quelles formations faut-il pour travailler dans un labo de la Faculté de médecine ?",
+   "en": "What training do I need to work in a Faculty of Medicine lab?"
+  },
+  "answer": {
+   "fr": "Toute personne qui travaille dans un labo, payée ou dans le cadre d'un cours, doit suivre ses formations dans son premier mois : le SIMDUT pour travailleurs de labo (valide 5 ans), ainsi que la Sécurité en laboratoire et la Sécurité des autoclaves (valides 4 ans), et parfois la biosécurité, le laser ou la radioprotection. Tu dois aussi remplir le formulaire d'orientation et le formulaire d'accès, signés par ton superviseur et envoyés à ton bureau départemental ; compte 48 heures pour la carte d'accès.",
+   "en": "Anyone working in a lab, whether paid or as part of a course, must complete their training within the first month: WHMIS for lab workers (valid 5 years), plus Laboratory Safety and Autoclave Safety (valid 4 years), and sometimes biosafety, laser or radiation safety. You also need to complete the Orientation Form and Access Form, signed by your supervisor and sent to your departmental office; allow 48 hours for the access card."
+  },
+  "sources": [
+   {
+    "label": "I work in a Lab - HSRM — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/health-safety/i-work-in-a-lab"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-benevolat-labo",
+  "category": "services",
+  "keywords": [
+   "bénévole labo",
+   "laboratoire",
+   "volunteer in a lab",
+   "lab",
+   "labo",
+   "bénévolat recherche",
+   "unpaid research",
+   "faculté de médecine",
+   "faculté des sciences",
+   "génie",
+   "formulaire de consentement",
+   "waiver"
+  ],
+  "question": {
+   "fr": "Puis-je faire du bénévolat dans un labo de recherche ?",
+   "en": "Can I volunteer in a research lab?"
+  },
+  "answer": {
+   "fr": "Ça dépend de la faculté. La Faculté de médecine n'accepte plus de bénévoles non rémunérés en recherche depuis mars 2020 : il faut être employé payé ou inscrit à un programme (spécialisation, TMM, coop, etc.). À la Faculté des sciences, le chercheur doit informer le gestionnaire de la santé et sécurité avant ton arrivée, et tu dois suivre les formations et signer une renonciation ; en génie, un formulaire de consentement éclairé est requis avant ton premier jour.",
+   "en": "It depends on the faculty. The Faculty of Medicine hasn't allowed unpaid research volunteers since March 2020: you must be a paid employee or enrolled in a program (honours, TMM, co-op, etc.). In the Faculty of Science, the researcher must inform the health and safety manager before you start, and you must complete the training and sign a waiver; in engineering, an informed consent form is required before your first day."
+  },
+  "sources": [
+   {
+    "label": "I work in a Lab - HSRM — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/health-safety/i-work-in-a-lab"
+   },
+   {
+    "label": "Health and safety — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/health-safety"
+   },
+   {
+    "label": "Health and safety — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/health-safety"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-cles-acces-labo-genie",
+  "category": "genie",
+  "keywords": [
+   "clé labo",
+   "laboratoire",
+   "lab key",
+   "carte d'accès",
+   "access card",
+   "lab",
+   "labo",
+   "génie",
+   "formulaire d'orientation",
+   "orientation form",
+   "santé et sécurité génie",
+   "cby a307"
+  ],
+  "question": {
+   "fr": "Comment obtenir une clé ou une carte d'accès pour un labo de génie ?",
+   "en": "How do I get a key or access card for an engineering lab?"
+  },
+  "answer": {
+   "fr": "Remplis le formulaire d'orientation et d'accès pour nouveaux employés, étudiants et bénévoles, puis remets-le à l'administration de ton département ou de ton école. Pour les questions de sécurité, le gestionnaire de la santé, de la sécurité et des risques de la Faculté de génie est au bureau CBY A307.",
+   "en": "Fill out the orientation and access form for new employees, students and volunteers, then submit it to your department or school administration. For safety questions, the Faculty of Engineering's health, safety and risk manager is in office CBY A307."
+  },
+  "sources": [
+   {
+    "label": "Health and safety — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-engineering/health-safety"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-magasin-sciences",
+  "category": "services",
+  "keywords": [
+   "magasin des sciences",
+   "laboratoire",
+   "science store",
+   "lab",
+   "labo",
+   "produits chimiques",
+   "chemicals",
+   "verrerie",
+   "glassware",
+   "bouteilles de gaz",
+   "gas cylinders",
+   "stm 010",
+   "réserve de chimie",
+   "stockroom"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Magasin des sciences ?",
+   "en": "What is the Science Store?"
+  },
+  "answer": {
+   "fr": "Le Magasin des sciences, au complexe STEM, salle 010, achète les biens et gère les stocks de la Faculté des sciences : produits chimiques et solvants, verrerie et fournitures de labo, bouteilles de gaz et consommables scientifiques. Les demandes se font par une réquisition dans Workday. Il est ouvert du lundi au vendredi, de 7 h 45 à 16 h de septembre à mai et de 8 h à 15 h 30 de juin à août, fermé de midi à 13 h.",
+   "en": "The Science Store, in the STEM Complex, room 010, buys goods and manages inventory for the Faculty of Science: chemicals and solvents, glassware and lab supplies, gas cylinders and scientific consumables. Requests are made through a requisition in Workday. It's open Monday to Friday, 7:45 a.m. to 4 p.m. from September to May and 8 a.m. to 3:30 p.m. from June to August, closed from noon to 1 p.m."
+  },
+  "sources": [
+   {
+    "label": "Science Store — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/science-store"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-ciesn-simulation-infirmiere",
+  "category": "sante",
+  "keywords": [
+   "centre de simulation sciences infirmières",
+   "laboratoire",
+   "nursing simulation",
+   "ciesn",
+   "ciespi",
+   "lab",
+   "labo",
+   "simulation",
+   "campus lees",
+   "b-166",
+   "simman",
+   "mannequin",
+   "200 lees"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le centre de simulation en sciences infirmières du campus Lees ?",
+   "en": "What is the nursing simulation centre on the Lees campus?"
+  },
+  "answer": {
+   "fr": "Le Centre d'innovation en enseignement et en simulation de la pratique infirmière (CIESPI), au 200, avenue Lees, salle B-166, compte 6 labos de simulation clinique de 7 lits chacun, avec des simulateurs patients comme SimMan, SimBaby, SimNewB et Noelle. On y trouve aussi deux murs de tête fonctionnels (oxygène, air médical, vide), une station d'IV virtuelle et l'enregistrement audio-vidéo pour les évaluations et les comptes rendus. Le centre a créé plus de 30 scénarios bilingues.",
+   "en": "The Centre for Innovative Education and Simulation in Nursing (CIESN), at 200 Lees Avenue, room B-166, has 6 clinical simulation labs with 7 beds each, and patient simulators such as SimMan, SimBaby, SimNewB and Noelle. It also has two functional headwalls (oxygen, medical air, vacuum), a virtual IV station and audio/video recording for evaluations and debriefing. The centre has developed more than 30 bilingual scenarios."
+  },
+  "sources": [
+   {
+    "label": "Centre for Innovative Education and Simulation in Nursing — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/nursing/centre-innovative-education-simulation-nursing"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-patients-simules",
+  "category": "sante",
+  "keywords": [
+   "patients simulés",
+   "laboratoire",
+   "simulated patients",
+   "patient standardisé",
+   "standardized patient",
+   "lab",
+   "labo",
+   "simulation",
+   "acteurs",
+   "actors",
+   "sciences infirmières",
+   "nursing"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'un patient simulé en sciences infirmières ?",
+   "en": "What is a simulated patient in nursing?"
+  },
+  "answer": {
+   "fr": "Un patient simulé est un acteur professionnel ou un patient formé pour présenter son histoire de façon uniforme. Au CIESPI, ils servent à apprendre l'examen physique, la prise d'histoire, l'annonce de mauvaises nouvelles ou une intervention psychiatrique. Ça aide les étudiants à prendre conscience de leurs forces et faiblesses en communication et de leurs réactions au stress.",
+   "en": "A simulated patient is a professional actor or a trained patient who presents a history in a consistent way. At CIESN, they're used to learn physical assessment, history taking, breaking bad news or a psychiatric intervention. This helps students become aware of their communication strengths and weaknesses and how they react under stress."
+  },
+  "sources": [
+   {
+    "label": "Centre for Innovative Education and Simulation in Nursing — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/nursing/centre-innovative-education-simulation-nursing"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-centre-simulation-louise-mcentyre-west",
+  "category": "sante",
+  "keywords": [
+   "centre louise mcentyre west",
+   "laboratoire",
+   "louise mcentyre west centre",
+   "lab",
+   "labo",
+   "simulation sciences infirmières",
+   "nursing simulation",
+   "mentorat par les pairs",
+   "peer mentorship",
+   "mannequins haute fidélité",
+   "high-fidelity manikins",
+   "nursing kid"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Centre de simulation et de mentorat Louise McEntyre West ?",
+   "en": "What is the Louise McEntyre West Simulation and Peer Mentorship Centre?"
+  },
+  "answer": {
+   "fr": "C'est le nouveau centre de l'École des sciences infirmières, conçu pour imiter un vrai milieu hospitalier, avec des labos équipés de mannequins haute fidélité (SimMan, Nursing Anne, Nursing Baby, Nursing Kid, Noelle pour l'accouchement et d'autres). Les étudiants en sciences infirmières, en réadaptation et en nutrition y pratiquent ensemble, et des étudiants expérimentés y offrent du mentorat à leurs pairs. Il a été rendu possible par des dons de la famille McEntyre West.",
+   "en": "It's the School of Nursing's new centre, designed to closely mimic a real hospital, with labs equipped with high-fidelity manikins (SimMan, Nursing Anne, Nursing Baby, Nursing Kid, Noelle for childbirth and others). Nursing, rehabilitation and nutrition students practise together there, and experienced students mentor their peers. It was made possible by donations from the McEntyre West family."
+  },
+  "sources": [
+   {
+    "label": "Louise McEntyre West Nursing Simulation and Peer Mentorship Centre — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/nursing/louise-mcentyre-west-nursing-simulation-peer-mentorship-centre"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-tmm3009-labo-biomedical",
+  "category": "programmes",
+  "keywords": [
+   "tmm3009",
+   "laboratoire",
+   "laboratoire de recherche biomédicale",
+   "biomedical research lab",
+   "lab",
+   "labo",
+   "médecine moléculaire et translationnelle",
+   "rotations",
+   "faculté de médecine",
+   "techniques de labo",
+   "pcr",
+   "culture cellulaire"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le cours TMM3009 ?",
+   "en": "What is the TMM3009 course?"
+  },
+  "answer": {
+   "fr": "TMM3009, Laboratoire de recherche biomédicale, est un cours de labo de la Faculté de médecine en deux parties. D'abord, tu suis quatre modules de formation en labo d'enseignement (pipetage, PCR, culture cellulaire, Western blot, microscopie, etc.). Ensuite, tu fais deux rotations de recherche dans deux labos différents de la Faculté, sous la supervision d'un professeur.",
+   "en": "TMM3009, Biomedical Research Laboratory, is a Faculty of Medicine lab course in two parts. First, you complete four training modules in a teaching lab (pipetting, PCR, cell culture, Western blotting, microscopy, etc.). Then you do two research rotations in two different Faculty labs, supervised by a professor."
+  },
+  "sources": [
+   {
+    "label": "TMM3009 Biomedical Research Laboratory - TMM — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/translational-molecular/courses/tmm3009-biomedical-research-lab"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-plateformes-technologiques",
+  "category": "services",
+  "keywords": [
+   "plateformes technologiques",
+   "laboratoire",
+   "core facilities",
+   "lab",
+   "labo",
+   "laboratoire de recherche",
+   "research lab",
+   "équipement de recherche",
+   "research equipment",
+   "vrri",
+   "ovpri",
+   "26 plateformes"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'une plateforme technologique à l'Université ?",
+   "en": "What is a core facility at the University?"
+  },
+  "answer": {
+   "fr": "Les plateformes technologiques sont des labos autonomes équipés d'appareils de recherche de pointe et gérés par des experts, pour des analyses trop coûteuses ou spécialisées pour un seul labo. L'Université en compte 26, qui soutiennent plus de 200 labos de recherche, sous la direction du Cabinet du vice-recteur à la recherche et à l'innovation. Elles sont ouvertes à tous les chercheurs de l'Université moyennant des frais de service, sans obligation de collaboration ou de cosignature.",
+   "en": "Core facilities are self-contained labs with state-of-the-art research equipment run by experts, for work too expensive or specialized for a single lab. The University has 26 of them, supporting more than 200 research labs, led by the Office of the Vice-President, Research and Innovation. They're open to all University researchers on a service basis, with no requirement for collaboration or co-authorship."
+  },
+  "sources": [
+   {
+    "label": "Core facilities — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/core-facilities"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-plateformes-medecine",
+  "category": "sante",
+  "keywords": [
+   "plateformes technologiques médecine",
+   "laboratoire",
+   "faculty of medicine core facilities",
+   "lab",
+   "labo",
+   "roger guindon",
+   "bio-informatique",
+   "bioinformatics",
+   "microscopie",
+   "génomique",
+   "stemcore",
+   "cellules souches",
+   "recouvrement des coûts"
+  ],
+  "question": {
+   "fr": "Quelles plateformes de recherche la Faculté de médecine offre-t-elle ?",
+   "en": "What research core facilities does the Faculty of Medicine offer?"
+  },
+  "answer": {
+   "fr": "Avec ses instituts affiliés, la Faculté de médecine offre un réseau de quatorze plateformes technologiques, accessibles aux chercheurs internes et externes selon le principe du recouvrement des coûts. On y trouve notamment le comportement animal, la bio-informatique, la microscopie (CBIA), la cytométrie, la génomique (StemCore), les cellules souches pluripotentes, l'histologie, l'imagerie préclinique, la protéomique, la métabolomique et la microscopie électronique.",
+   "en": "With its affiliated institutes, the Faculty of Medicine offers a network of fourteen core facilities, available to internal and external researchers on a cost-recovery basis. They include animal behaviour, bioinformatics, microscopy (CBIA), flow cytometry, genomics (StemCore), pluripotent stem cells, histology, preclinical imaging, proteomics, metabolomics and electron microscopy."
+  },
+  "sources": [
+   {
+    "label": "Core Facilities - RO — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/research-and-innovation/core-facilities"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-ams-lalonde",
+  "category": "services",
+  "keywords": [
+   "spectrométrie de masse par accélérateur",
+   "laboratoire",
+   "accelerator mass spectrometry",
+   "ams",
+   "lab",
+   "labo",
+   "andré e. lalonde",
+   "arc",
+   "accélérateur",
+   "isotopes",
+   "installation nationale",
+   "national facility"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le laboratoire André E. Lalonde AMS ?",
+   "en": "What is the André E. Lalonde AMS Laboratory?"
+  },
+  "answer": {
+   "fr": "C'est l'Installation nationale André E. Lalonde de spectrométrie de masse par accélérateur, au Complexe de recherche avancée (ARC), l'une des 17 installations nationales de recherche soutenues par la Fondation canadienne pour l'innovation. Son cœur est un accélérateur tandem de 3 MV construit sur mesure qui mesure des isotopes à très faible concentration, comme le carbone 14, le tritium ou le béryllium 10. Le spectromètre est visible près du hall d'entrée vitré de l'ARC.",
+   "en": "It's the André E. Lalonde National Facility in Accelerator Mass Spectrometry, in the Advanced Research Complex (ARC), one of 17 national research facilities supported by the Canada Foundation for Innovation. Its core is a custom-built 3 MV tandem accelerator that measures isotopes at very low concentrations, such as carbon-14, tritium or beryllium-10. The spectrometer can be seen next to ARC's glass entrance foyer."
+  },
+  "sources": [
+   {
+    "label": "Accelerator Laboratory — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/national-ael-ams-facility/accelerator-laboratory"
+   },
+   {
+    "label": "Core facilities — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/core-facilities"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-datation-radiocarbone",
+  "category": "services",
+  "keywords": [
+   "datation au radiocarbone",
+   "laboratoire",
+   "radiocarbon dating",
+   "carbone 14",
+   "carbon 14",
+   "lab",
+   "labo",
+   "laboratoire du radiocarbone",
+   "micadas",
+   "archéologie",
+   "délai",
+   "turnaround"
+  ],
+  "question": {
+   "fr": "Peut-on faire dater un échantillon au carbone 14 à l'Université ?",
+   "en": "Can I get a sample carbon-dated at the University?"
+  },
+  "answer": {
+   "fr": "Oui, le Laboratoire du radiocarbone de l'Installation nationale André E. Lalonde prépare et analyse des échantillons, de la datation archéologique à la certification de biocarburants. Le délai actuel indiqué est de 2 mois ; les tarifs, les directives d'échantillonnage et la procédure de soumission sont sur la page du labo. Il a notamment daté un louveteau du Yukon vieux d'environ 57 000 ans.",
+   "en": "Yes, the Radiocarbon Laboratory at the André E. Lalonde National Facility prepares and analyzes samples, from archaeological dating to biofuel certification. The current turnaround time listed is 2 months; pricing, sampling guidelines and submission steps are on the lab's page. It famously dated a Yukon wolf pup that lived about 57,000 years ago."
+  },
+  "sources": [
+   {
+    "label": "Radiocarbon Laboratory — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/national-ael-ams-facility/radiocarbon-laboratory"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-rmn-spectroscopie",
+  "category": "services",
+  "keywords": [
+   "rmn",
+   "laboratoire",
+   "nmr",
+   "résonance magnétique nucléaire",
+   "nuclear magnetic resonance",
+   "lab",
+   "labo",
+   "spectroscopie",
+   "chimie",
+   "formation rmn",
+   "nmr training",
+   "réserver rmn",
+   "10 marie-curie"
+  ],
+  "question": {
+   "fr": "Comment utiliser les appareils de RMN de l'Université ?",
+   "en": "How do I use the University's NMR instruments?"
+  },
+  "answer": {
+   "fr": "Le Centre de spectroscopie RMN offre des appareils pour liquides et solides de 200 à 600 MHz, au Département de chimie, 10, privé Marie-Curie. Tu dois suivre une formation pour chaque appareil que tu veux utiliser (de 5 minutes à 2 heures) en remplissant le formulaire de demande en ligne, puis tu réserves ton temps dans le système de réservation Calcium. Le centre analyse aussi des échantillons pour l'industrie.",
+   "en": "The NMR Spectroscopy Core Facility has liquids and solids instruments from 200 to 600 MHz, in the Department of Chemistry, 10 Marie-Curie Private. You must take a training session for each instrument you want to use (5 minutes to 2 hours) by filling out the online request form, then book your time in the Calcium booking system. The facility also analyzes samples for industry."
+  },
+  "sources": [
+   {
+    "label": "NMR Spectroscopy Core Facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/nuclear-magnetic-resonance"
+   },
+   {
+    "label": "Training — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/nuclear-magnetic-resonance/training"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-spectrometrie-masse-holmes",
+  "category": "services",
+  "keywords": [
+   "spectrométrie de masse",
+   "laboratoire",
+   "mass spectrometry",
+   "lab",
+   "labo",
+   "john l. holmes",
+   "dro 124",
+   "mrn 002",
+   "d'iorio",
+   "marion",
+   "analyse chimique",
+   "hydrosol",
+   "protéomique"
+  ],
+  "question": {
+   "fr": "Où est le laboratoire de spectrométrie de masse John L. Holmes ?",
+   "en": "Where is the John L. Holmes Mass Spectrometry Facility?"
+  },
+  "answer": {
+   "fr": "La partie chimie est au pavillon D'Iorio, salle 124, et la partie biologie au pavillon Marion, salle 002. Le labo se spécialise en chimie analytique, protéomique, métabolomique et vérification de composés, et il offre ses services aux professeurs, aux étudiants, à l'industrie et même aux producteurs artisanaux.",
+   "en": "The chemical facility is in D'Iorio Hall, room 124, and the biological facility in Marion Hall, room 002. The lab specializes in analytical chemistry, proteomics, metabolomics and compound verification, and serves professors, students, industry and even home producers."
+  },
+  "sources": [
+   {
+    "label": "John L. HolmesMass Spectrometry Facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/jlholmes-mass-spectrometry-facility"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labo-biologie-moleculaire-genomique",
+  "category": "services",
+  "keywords": [
+   "laboratoire de biologie moléculaire et de génomique",
+   "laboratoire",
+   "core molecular biology and genomics laboratory",
+   "cmbgl",
+   "lab",
+   "labo",
+   "careg",
+   "pcr",
+   "qpcr",
+   "ddpcr",
+   "location de paillasse",
+   "bench rental",
+   "culture cellulaire"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Laboratoire de biologie moléculaire et de génomique ?",
+   "en": "What is the Core Molecular Biology and Genomics Laboratory?"
+  },
+  "answer": {
+   "fr": "C'est une plateforme de partage d'équipement avec adhésion, au 3e étage du Centre de recherche avancée en génomique environnementale (CRAGE), sur le campus principal : PCR numérique (ddPCR), qPCR, électrophorèse, centrifugeuses, cryostats, salle de culture de niveau 2 et location de paillasses. Avant d'y travailler, tu dois suivre le SIMDUT et la formation en sécurité en labo, puis une orientation individuelle ; la réservation se fait après la formation sur l'appareil.",
+   "en": "It's a membership-based equipment-sharing facility on the 3rd floor of the Centre for Advanced Research in Environmental Genomics (CAREG), on the main campus: droplet digital PCR, qPCR, electrophoresis, centrifuges, cryostats, a Level 2 tissue culture room and bench rental. Before working there, you must complete WHMIS and lab safety training, then a one-on-one orientation; booking is allowed after training on the equipment."
+  },
+  "sources": [
+   {
+    "label": "Core Molecular Biology and Genomics Laboratory — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/core-molecular-biology-genomics-laboratory"
+   },
+   {
+    "label": "Facility guidelines — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/core-molecular-biology-genomics-laboratory/facility-guidelines"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-cytometrie-virometrie",
+  "category": "sante",
+  "keywords": [
+   "cytométrie en flux",
+   "laboratoire",
+   "flow cytometry",
+   "virométrie",
+   "virometry",
+   "lab",
+   "labo",
+   "tri cellulaire",
+   "cell sorting",
+   "rgn 4206",
+   "roger guindon",
+   "infinity",
+   "formation cytométrie"
+  ],
+  "question": {
+   "fr": "Où est la plateforme de cytométrie en flux et comment y être formé ?",
+   "en": "Where is the flow cytometry facility and how do I get trained?"
+  },
+  "answer": {
+   "fr": "La plateforme de cytométrie et de virométrie est au 4e étage du pavillon Roger-Guindon, salle 4206, au 451, chemin Smyth ; elle offre le tri cellulaire à haute vitesse, l'analyse et la formation. Pour utiliser les appareils toi-même, tu dois suivre le séminaire de formation et l'évaluation en ligne, puis des séances pratiques ; les réservations se font dans le système Infinity.",
+   "en": "The Flow Cytometry and Virometry Core Facility is on the 4th floor of Roger Guindon Hall, room 4206, 451 Smyth Road; it offers high-speed cell sorting, analysis and training. To run your own samples, you must complete the training seminar and online assessment, then hands-on sessions; bookings are made in the Infinity system."
+  },
+  "sources": [
+   {
+    "label": "Flow Cytometry and Virometry — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/flow-cytometry-virometry"
+   },
+   {
+    "label": "Getting started — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/flow-cytometry-virometry/getting-started"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-plateforme-gem",
+  "category": "sante",
+  "keywords": [
+   "édition génomique",
+   "laboratoire",
+   "genome editing",
+   "gem",
+   "bmeg",
+   "lab",
+   "labo",
+   "crispr",
+   "rgn 3111",
+   "lignées cellulaires",
+   "cell lines",
+   "clonage",
+   "roger guindon"
+  ],
+  "question": {
+   "fr": "Qu'offre la plateforme d'édition génomique GEM ?",
+   "en": "What does the GEM genome editing facility offer?"
+  },
+  "answer": {
+   "fr": "La plateforme de biologie moléculaire et d'édition génomique (GEM), salle 3111 du pavillon Roger-Guindon, offre des services d'édition génomique : lignées cellulaires knock-out, knock-in ou de surexpression, prime editing, séquençage de banques CRISPR, ARN guides et ADNc, et tests de mycoplasme. Elle donne aussi accès à des banques de plasmides, dont une banque CRISPR humaine pangénomique.",
+   "en": "The Genome Editing and Molecular Biology (GEM) Facility, room 3111 in Roger Guindon Hall, offers genome editing services: knock-out, knock-in and overexpression cell lines, prime editing, CRISPR library sequencing, guide RNA and cDNA, and mycoplasma testing. It also provides access to plasmid libraries, including a genome-wide human CRISPR library."
+  },
+  "sources": [
+   {
+    "label": "Genome Editing and Molecular biology (GEM) Facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/genome-editing-molecular-biology-gem-facility"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-plateforme-metabolomique",
+  "category": "sante",
+  "keywords": [
+   "métabolomique",
+   "laboratoire",
+   "metabolomics",
+   "lab",
+   "labo",
+   "spectrométrie de masse",
+   "gc/ms",
+   "lc-ms",
+   "mirgov",
+   "étude pilote",
+   "pilot study",
+   "roger guindon"
+  ],
+  "question": {
+   "fr": "Comment travailler avec la plateforme de métabolomique ?",
+   "en": "How do I work with the Metabolomics Core Facility?"
+  },
+  "answer": {
+   "fr": "Écris ou appelle la plateforme de métabolomique, au pavillon Roger-Guindon : on fixe d'abord une rencontre pour discuter de tes besoins, puis on t'envoie les protocoles d'extraction et des solvants de qualité spectrométrie de masse. Pour les méthodes standard, la plateforme commence toujours par une étude pilote gratuite. Elle fait partie du réseau MIRGOV et utilise notamment des spectromètres GC/MS, UHPLC-QTOF et UHPLC-QQQ.",
+   "en": "Email or call the Metabolomics Core Facility, in Roger Guindon Hall: you first meet to discuss your needs, then you're sent extraction protocols and mass spectrometry grade solvents. For standard methods, the facility always starts with a free pilot study. It's part of the MIRGOV network and uses GC/MS, UHPLC-QTOF and UHPLC-QQQ mass spectrometers."
+  },
+  "sources": [
+   {
+    "label": "Getting started — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/metabolomics/getting-started"
+   },
+   {
+    "label": "Core Facilities - RO — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/research-and-innovation/core-facilities"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-histologie-louise-pelletier",
+  "category": "sante",
+  "keywords": [
+   "histologie",
+   "laboratoire",
+   "histology",
+   "lab",
+   "labo",
+   "louise pelletier",
+   "rgn 4145",
+   "coupes",
+   "lames",
+   "slides",
+   "immunohistochimie",
+   "pathologie",
+   "roger guindon"
+  ],
+  "question": {
+   "fr": "Où est la plateforme d'histologie Louise-Pelletier ?",
+   "en": "Where is the Louise Pelletier Histology Core Facility?"
+  },
+  "answer": {
+   "fr": "Elle est au pavillon Roger-Guindon, salle 4145, au 451, chemin Smyth, et ouverte du lundi au vendredi de 8 h à 16 h. C'est un labo d'histologie complet du Département de pathologie et de médecine de laboratoire : inclusion en paraffine, coupes, colorations, immunohistochimie et numérisation des lames. Elle traite plus de 600 demandes et produit environ 36 000 lames par année.",
+   "en": "It's in Roger Guindon Hall, room 4145, 451 Smyth Road, open Monday to Friday from 8 a.m. to 4 p.m. It's a full-service histology lab in the Department of Pathology and Laboratory Medicine: paraffin embedding, sectioning, staining, immunohistochemistry and slide scanning. It handles over 600 requests and produces about 36,000 slides a year."
+  },
+  "sources": [
+   {
+    "label": "Louise Pelletier Histology Core Facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/histology"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-microscopie-electronique",
+  "category": "sante",
+  "keywords": [
+   "microscopie électronique",
+   "laboratoire",
+   "electron microscopy",
+   "met",
+   "tem",
+   "lab",
+   "labo",
+   "rgn 2533",
+   "roger guindon",
+   "microscope électronique à transmission",
+   "transmission electron microscope",
+   "jeol"
+  ],
+  "question": {
+   "fr": "Y a-t-il un microscope électronique à transmission à l'Université ?",
+   "en": "Is there a transmission electron microscope at the University?"
+  },
+  "answer": {
+   "fr": "Oui, la plateforme de microscopie électronique est au pavillon Roger-Guindon, salle 2533. Elle abrite le seul microscope électronique à transmission de la région d'Ottawa optimisé pour la recherche biologique, un JEOL JEM-1400Flash, et offre l'imagerie, la préparation des échantillons et la formation pour l'utiliser de façon autonome, en collaboration avec le CHEO.",
+   "en": "Yes, the Electron Microscopy Core Facility is in Roger Guindon Hall, room 2533. It houses the Ottawa region's only transmission electron microscope optimized for biological research, a JEOL JEM-1400Flash, and offers imaging, sample preparation and training for independent use, in collaboration with CHEO."
+  },
+  "sources": [
+   {
+    "label": "Electron Microscopy Core Facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/transmission-electron-microscopy"
+   },
+   {
+    "label": "Core Facilities - RO — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/research-and-innovation/core-facilities"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-imagerie-preclinique-irm",
+  "category": "sante",
+  "keywords": [
+   "imagerie préclinique",
+   "laboratoire",
+   "preclinical imaging",
+   "irm",
+   "mri",
+   "lab",
+   "labo",
+   "7 tesla",
+   "petits animaux",
+   "small animal",
+   "roger guindon",
+   "échographie",
+   "ultrasound"
+  ],
+  "question": {
+   "fr": "Qu'offre la plateforme d'imagerie préclinique ?",
+   "en": "What does the Preclinical Imaging Core Facility offer?"
+  },
+  "answer": {
+   "fr": "La plateforme d'imagerie préclinique, au pavillon Roger-Guindon dans le Service vétérinaire et animalier, offre de l'imagerie pour petits animaux (IRM, échographie, optique, doppler laser) et un irradiateur à rayons X. Elle abrite le seul appareil d'IRM haut champ pour petits animaux de la région d'Ottawa, un 7 teslas. La formation est offerte pour les appareils, sauf l'IRM, pour laquelle un physicien et un technicien aident à réaliser les protocoles.",
+   "en": "The Preclinical Imaging Core Facility, in Roger Guindon Hall within Animal Care and Veterinary Services, offers small-animal imaging (MRI, ultrasound, optical, laser doppler) and an X-ray irradiator. It houses the Ottawa region's only high-field small-animal MRI, a 7 tesla system. Training is offered for the machines except the MRI, where a dedicated physicist and technician help run the protocols."
+  },
+  "sources": [
+   {
+    "label": "Magnetic Resonance Imaging (MRI) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/preclinical-imaging-core/equipment/mri"
+   },
+   {
+    "label": "Core Facilities - RO — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/research-and-innovation/core-facilities"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-comportement-animal",
+  "category": "sante",
+  "keywords": [
+   "comportement animal",
+   "laboratoire",
+   "animal behaviour",
+   "lab",
+   "labo",
+   "souris",
+   "rats",
+   "rgn 1022",
+   "vivarium",
+   "physiologie",
+   "tests de mémoire",
+   "roger guindon"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que la plateforme de comportement et physiologie animale ?",
+   "en": "What is the Animal Behaviour and Physiology Core?"
+  },
+  "answer": {
+   "fr": "Créée en 2009, elle offre des analyses du comportement des souris et des rats : apprentissage et mémoire, comportement social, fonction motrice, anxiété et dépression. Elle est située dans le vivarium du pavillon Roger-Guindon, salle 1022, et sert l'Université, ses instituts affiliés et des chercheurs d'Ottawa.",
+   "en": "Established in 2009, it offers mouse and rat behavioural analyses: learning and memory, social behaviour, motor function, anxiety and depression. It's located in the vivarium of Roger Guindon Hall, room 1022, and serves the University, its affiliated institutes and Ottawa researchers."
+  },
+  "sources": [
+   {
+    "label": "Animal Behaviour and Physiology Core — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/animal-behaviour-core"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-cets-autoclave-medecine",
+  "category": "sante",
+  "keywords": [
+   "équipements communs",
+   "laboratoire",
+   "common equipment",
+   "cets",
+   "lab",
+   "labo",
+   "autoclave",
+   "lavage de verrerie",
+   "glassware washing",
+   "rgn 4201",
+   "nanodrop",
+   "roger guindon",
+   "congélateur alarme"
+  ],
+  "question": {
+   "fr": "Où faire stériliser ou laver la verrerie de labo à la Faculté de médecine ?",
+   "en": "Where can I get lab glassware sterilized or washed at the Faculty of Medicine?"
+  },
+  "answer": {
+   "fr": "Le service Équipements communs et services techniques (CETS) gère l'installation d'autoclave et de lavage de verrerie au 4e étage du pavillon Roger-Guindon, salle 4201, du lundi au vendredi de 8 h 30 à 16 h 30. Le CETS donne aussi accès à de l'équipement partagé, comme un NanoDrop Ultra en salle RGN 2531. En cas d'urgence après les heures (congélateur ou appareil en alarme), appelle le 613-562-5493.",
+   "en": "Common Equipment and Technical Services (CETS) runs the autoclave and glassware washing facility on the 4th floor of Roger Guindon Hall, room 4201, Monday to Friday from 8:30 a.m. to 4:30 p.m. CETS also provides shared equipment, such as a NanoDrop Ultra in room RGN 2531. For after-hours emergencies (freezer or instrument in alarm), call 613-562-5493."
+  },
+  "sources": [
+   {
+    "label": "Autoclave Services - CETS — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/research-and-innovation/core-facilities/common-equipment-and-technical-services/autoclave-services"
+   },
+   {
+    "label": "Common Equipment and Technical Services (CETS) - CF — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-medicine/research-and-innovation/core-facilities/common-equipment-and-technical-services"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-nanofab",
+  "category": "services",
+  "keywords": [
+   "nanofab",
+   "laboratoire",
+   "nanofabrication",
+   "salle blanche",
+   "clean room",
+   "lab",
+   "labo",
+   "arc",
+   "microscope électronique à balayage",
+   "sem",
+   "lithographie",
+   "adhésion",
+   "membership"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que la plateforme NanoFab ?",
+   "en": "What is the NanoFab facility?"
+  },
+  "answer": {
+   "fr": "NanoFab, au Complexe de recherche avancée (ARC), offre un accès ouvert à des outils de nanofabrication et de caractérisation, avec des labos de chimie humide, de métrologie et des salles blanches (classe 10 000), pour les chercheurs universitaires et industriels. On y accède par une adhésion qui inclut la formation sur les outils, ou par des services rémunérés. Avant l'accès, il faut notamment la formation en sécurité en labo, le SIMDUT pour labo et une visite de l'installation ; certains outils ne sont pas offerts aux étudiants de premier cycle.",
+   "en": "NanoFab, in the Advanced Research Complex (ARC), offers open access to nanofabrication and characterization tools, with wet chemistry and metrology labs and clean rooms (Class 10,000), for academic and industrial researchers. Access is through a membership that includes tool training, or through fee-for-service. Before access, you need lab safety training, WHMIS for lab workers and a facility tour, among other requirements; some tools aren't available to undergraduates."
+  },
+  "sources": [
+   {
+    "label": "NanoFab — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/nanofab"
+   },
+   {
+    "label": "User Access — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/nanofab/user-access"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-matchar",
+  "category": "services",
+  "keywords": [
+   "matchar",
+   "laboratoire",
+   "caractérisation des matériaux",
+   "material characterization",
+   "lab",
+   "labo",
+   "arc",
+   "photonique",
+   "catalyse",
+   "dro 132",
+   "chimie",
+   "nouveaux matériaux"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que la plateforme MatChar ?",
+   "en": "What is the MatChar core facility?"
+  },
+  "answer": {
+   "fr": "MatChar, la plateforme de caractérisation des matériaux, réunit des chercheurs en sciences, en génie et en médecine pour créer et caractériser de nouveaux matériaux, notamment pour l'environnement et la santé. Son infrastructure comprend des labos au Complexe de recherche avancée (ARC), et son technicien principal a son bureau au pavillon D'Iorio, salle 132.",
+   "en": "MatChar, the Material Characterization Core Facility, brings together researchers in science, engineering and medicine to create and characterize new materials, especially for environmental and health applications. Its infrastructure includes labs in the Advanced Research Complex (ARC), and its lead technician's office is in D'Iorio Hall, room 132."
+  },
+  "sources": [
+   {
+    "label": "Material Characterization Core Facility (MatChar) (Copy) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/material-characterization-core-facility-matchar-copy"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labo-geochimie",
+  "category": "services",
+  "keywords": [
+   "laboratoire de géochimie",
+   "laboratoire",
+   "geochemistry laboratory",
+   "lab",
+   "labo",
+   "icp-ms",
+   "ablation laser",
+   "laser ablation",
+   "arc 435",
+   "analyse élémentaire",
+   "salle blanche",
+   "sciences de la terre"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Laboratoire de géochimie ?",
+   "en": "What is the Geochemistry Laboratory?"
+  },
+  "answer": {
+   "fr": "C'est une plateforme de la Faculté des sciences qui offre des services d'analyse, selon le recouvrement des coûts, aux chercheurs de l'Université et aux utilisateurs externes (universités, gouvernement, industrie). Elle utilise notamment l'ICP-MS, l'ICP-ES, la chromatographie ionique et la digestion par micro-ondes, avec des salles blanches. Son labo d'ablation laser (LA-ICP-MS) est au Complexe de recherche avancée, 25, rue Templeton, salle 435.",
+   "en": "It's a Faculty of Science core facility offering analytical services on a cost-recovery basis to University researchers and external users (academia, government, industry). It uses ICP-MS, ICP-ES, ion chromatography and microwave digestion, among others, with clean room facilities. Its laser ablation lab (LA-ICP-MS) is in the Advanced Research Complex, 25 Templeton Street, room 435."
+  },
+  "sources": [
+   {
+    "label": "Geochemistry laboratory — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/research/centres-institutes-core-facilities-laboratories/geochemistry"
+   },
+   {
+    "label": "Laser Ablation Laboratory — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-science/research-publications/centres-institutes-core-facilities-laboratories/laser-ablation"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-catalyse-chimie-en-flux",
+  "category": "services",
+  "keywords": [
+   "chimie en flux",
+   "laboratoire",
+   "flow chemistry",
+   "lab",
+   "labo",
+   "ccri",
+   "catalyse",
+   "catalysis",
+   "criblage à haut débit",
+   "high-throughput",
+   "fabrication continue",
+   "continuous manufacturing"
+  ],
+  "question": {
+   "fr": "Quelles plateformes le Centre de recherche et d'innovation en catalyse offre-t-il ?",
+   "en": "What facilities does the Centre for Catalysis Research and Innovation offer?"
+  },
+  "answer": {
+   "fr": "Le CRIC a notamment la Plateforme technologique de chimie en flux, fondée en 2016 par le professeur Michael Organ, pour développer des réacteurs continus et des procédés de fabrication durables. Il a aussi le Laboratoire de criblage à haut débit, équipé d'un système automatisé Freeslate CM3 qui prépare rapidement des plaques de réactions sous atmosphère inerte. Ces installations accueillent aussi des collaborateurs universitaires externes et l'industrie.",
+   "en": "The CCRI has the Flow Research Facility, founded in 2016 by Professor Michael Organ, to develop continuous reactor platforms and sustainable manufacturing processes. It also has the High-Throughput Experimentation Facility, with an automated Freeslate CM3 system that quickly sets up reaction plates under an inert atmosphere. These facilities also welcome external academic collaborators and industry."
+  },
+  "sources": [
+   {
+    "label": "Flow Research Facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/catalysis-research-innovation/core-facilities/flow-research-facility"
+   },
+   {
+    "label": "High-Throughput Experimentation Facility — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/catalysis-research-innovation/core-facilities/high-throughput-experimentation-facility"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-cdro-statistique-canada",
+  "category": "services",
+  "keywords": [
+   "centre de données de recherche",
+   "laboratoire",
+   "research data centre",
+   "cdro",
+   "ordc",
+   "lab",
+   "labo",
+   "statistique canada",
+   "statistics canada",
+   "microdonnées",
+   "microdata",
+   "mrt 322",
+   "réserver poste"
+  ],
+  "question": {
+   "fr": "Comment accéder aux microdonnées de Statistique Canada à l'Université ?",
+   "en": "How do I access Statistics Canada microdata at the University?"
+  },
+  "answer": {
+   "fr": "Par le Centre de données de recherche Ottawa-Outaouais (CDRO), au pavillon Morisset, salle MRT 322 : tu crées un compte sur la Plateforme d'accès aux microdonnées de Statistique Canada et tu soumets une proposition ; un étudiant doit avoir l'appui écrit de son directeur de thèse. Il faut réserver un poste de travail avant chaque visite. Utiliser ou tenir un appareil électronique dans le labo est strictement interdit, sous peine de suspension de l'accès.",
+   "en": "Through the Ottawa-Outaouais Research Data Centre (ORDC), in Morisset Hall, room MRT 322: you create an account on Statistics Canada's Microdata Access Platform and submit a proposal; students need a support letter from their thesis supervisor. You must book a workstation before each visit. Using or holding an electronic device in the lab is strictly prohibited and can lead to suspension of access."
+  },
+  "sources": [
+   {
+    "label": "Ottawa-Outaouais Research Data Centre (ORDC) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ottawa-outaouais-research-data-centre"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labo-inspire",
+  "category": "services",
+  "keywords": [
+   "labo inspire",
+   "laboratoire",
+   "inspire laboratory",
+   "lab",
+   "labo",
+   "recherche comportement humain",
+   "human behaviour research",
+   "oculométrie",
+   "eye tracking",
+   "groupe de discussion",
+   "focus group",
+   "infinity",
+   "psychologie"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le laboratoire INSPIRE ?",
+   "en": "What is the INSPIRE Laboratory?"
+  },
+  "answer": {
+   "fr": "INSPIRE est une plateforme de recherche partagée pour étudier le comportement humain. Elle offre des suites standards à quatre postes, une suite individuelle, une suite d'oculométrie, une salle de groupe de discussion et une salle de contrôle, avec des mesures physiologiques comme l'ECG, l'activité électrodermale et la respiration. Les chercheurs réservent les salles dans Infinity une fois leur compte créé ; seuls les chercheurs principaux paient les frais d'adhésion.",
+   "en": "INSPIRE is a shared research facility for studying human behaviour. It offers standard four-station suites, a single suite, an eye-tracking suite, a focus group room and a control room, with physiological measures such as ECG, electrodermal activity and respiration. Researchers book rooms in Infinity once their account is created; only principal investigators pay the membership fee."
+  },
+  "sources": [
+   {
+    "label": "Discover the lab — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/inspire/discover-lab"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-ispr-bassin-etudiant",
+  "category": "services",
+  "keywords": [
+   "sipr",
+   "laboratoire",
+   "ispr",
+   "bassin étudiant",
+   "student pool",
+   "lab",
+   "labo",
+   "participer à une étude",
+   "research participation",
+   "points bonus",
+   "psy1102",
+   "sona",
+   "4 %"
+  ],
+  "question": {
+   "fr": "Comment fonctionne le bassin étudiant SIPR en psychologie ?",
+   "en": "How does the ISPR Student Pool work in psychology?"
+  },
+  "answer": {
+   "fr": "Dans plusieurs cours d'introduction (PSY, LIN, ADM, CMN de 1re et 2e année), tu peux obtenir jusqu'à 4 % de ta note en participant à des études ou en regardant des films sur les méthodes de recherche. Une étude de moins de 30 minutes vaut 0,5 point et une heure vaut 1 point, soit 1 %. Pour une étude en labo, inscris-toi la veille ; si tu manques un rendez-vous sans prévenir, 1 point est retiré.",
+   "en": "In several introductory courses (first- and second-year PSY, LIN, ADM, CMN), you can earn up to 4% of your grade by taking part in studies or watching films on research methods. A study under 30 minutes is worth 0.5 points and one hour is worth 1 point, or 1%. For an in-lab study, sign up the day before; if you miss an appointment without notice, 1 point is deducted."
+  },
+  "sources": [
+   {
+    "label": "ISPR Student Pool — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/inspire/discover-lab/ispr-student-pool"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-ispr-connexion-compte",
+  "category": "services",
+  "keywords": [
+   "compte sipr",
+   "laboratoire",
+   "ispr account",
+   "lab",
+   "labo",
+   "connexion sipr",
+   "can't log in ispr",
+   "bassin étudiant",
+   "student pool",
+   "code de cours",
+   "course code",
+   "prétest",
+   "prescreen"
+  ],
+  "question": {
+   "fr": "Je n'arrive pas à me connecter au SIPR : que faire ?",
+   "en": "I can't log in to ISPR: what should I do?"
+  },
+  "answer": {
+   "fr": "Le SIPR ouvre aux participants une semaine après le début des cours ; avant, ton compte n'est pas encore actif. Si tu t'es inscrit au cours tard, ton compte n'existe peut-être pas : écris à l'équipe INSPIRE avec ton courriel uOttawa, ton nom, ton numéro d'étudiant, le code du cours avec la lettre de section (par exemple PSY1102F) et le nom du professeur. Vérifie aussi que les bons cours sont liés à ton compte, sinon tu risques de ne pas recevoir tes points.",
+   "en": "ISPR opens to participants one week after classes start; before that, your account isn't active. If you registered for the course late, your account may not exist: email the INSPIRE team from your uOttawa email with your name, student number, course code with section letter (for example PSY1102F) and the professor's name. Also check that the right courses are linked to your account, or you may not get your points."
+  },
+  "sources": [
+   {
+    "label": "Questions and Answers (ISPR Student Pool) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/inspire/discover-lab/ispr-student-pool/questions-answers"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-ispr-bassin-communautaire",
+  "category": "services",
+  "keywords": [
+   "bassin communautaire",
+   "laboratoire",
+   "community pool",
+   "sipr",
+   "ispr",
+   "lab",
+   "labo",
+   "participer à la recherche",
+   "take part in research",
+   "public",
+   "compensation",
+   "stationnement k",
+   "lot k"
+  ],
+  "question": {
+   "fr": "Je ne suis pas étudiant : puis-je participer à des études de recherche ?",
+   "en": "I'm not a student: can I take part in research studies?"
+  },
+  "answer": {
+   "fr": "Oui, par le bassin communautaire SIPR d'INSPIRE, ouvert aux gens de tous âges et de tous horizons ; les moins de 16 ans sont encouragés à avoir le consentement d'un parent. Tu crées un compte sur le portail, remplis un questionnaire de présélection, puis tu vois les études auxquelles tu es admissible, en ligne ou en personne, avec la compensation offerte. Pour une étude dans les locaux d'INSPIRE, le stationnement gratuit est offert dans le terrain K sur demande au chercheur.",
+   "en": "Yes, through INSPIRE's ISPR Community Pool, open to people of all ages and backgrounds; those under 16 are encouraged to have parental consent. You create an account on the portal, fill out a screening questionnaire, then see the studies you're eligible for, online or in person, with the compensation offered. For a study in INSPIRE's facility, free parking in lot K is available on request to the researcher."
+  },
+  "sources": [
+   {
+    "label": "ISPR Community Pool — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/inspire/discover-lab/ispr-community-pool"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labos-geographie-simard",
+  "category": "programmes",
+  "keywords": [
+   "labos de géographie",
+   "laboratoire",
+   "geography labs",
+   "lab",
+   "labo",
+   "simard",
+   "géographie physique",
+   "physical geography",
+   "laggiss",
+   "cryosphère",
+   "climat",
+   "smd 005",
+   "smd 042"
+  ],
+  "question": {
+   "fr": "Quels labos de recherche le Département de géographie a-t-il ?",
+   "en": "What research labs does the Geography Department have?"
+  },
+  "answer": {
+   "fr": "Le Département de géographie, environnement et géomatique a plusieurs labos au pavillon Simard, dont le Laboratoire de géographie physique (salle 005), le LAGGISS en géomatique et SIG (salle 042), le Laboratoire de recherche cryosphérique (salle 043) et le Laboratoire de paléoclimatologie et de climatologie (salle 004). Le labo de géographie physique soutient aussi les cours de labo et de terrain.",
+   "en": "The Department of Geography, Environment and Geomatics has several labs in Simard Hall, including the Physical Geography Laboratory (room 005), LAGGISS for geomatics and GIS (room 042), the Laboratory for Cryospheric Research (room 043) and the Laboratory for Paleoclimatology and Climatology (room 004). The physical geography lab also supports lab and field courses."
+  },
+  "sources": [
+   {
+    "label": "Laboratories — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/geography-environment-geomatics/laboratories"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labo-acquisition-langage",
+  "category": "programmes",
+  "keywords": [
+   "laboratoire de recherche sur l'acquisition du langage",
+   "laboratoire",
+   "language acquisition research laboratory",
+   "lar lab",
+   "lab",
+   "labo",
+   "mhn 253",
+   "hamelin",
+   "bilinguisme",
+   "bilingualism",
+   "langues modernes",
+   "linguistique"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le Laboratoire de recherche sur l'acquisition du langage ?",
+   "en": "What is the Language Acquisition Research Laboratory?"
+  },
+  "answer": {
+   "fr": "Ce labo du Département de langues et littératures modernes étudie l'acquisition des langues premières, secondes et troisièmes, le bilinguisme, l'alternance de codes et les langues d'héritage et d'immigration. Il se trouve au pavillon Hamelin, salle MHN 253, et on peut le joindre au 613-562-5800, poste 1781.",
+   "en": "This Department of Modern Languages and Literatures lab studies first, second and third language acquisition, bilingualism, code-switching and heritage and immigrant languages. It's in Hamelin Hall, room MHN 253, and can be reached at 613-562-5800, extension 1781."
+  },
+  "sources": [
+   {
+    "label": "Language Acquisition Research Laboratory — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/modern-languages-literatures/language-acquisition-research-laboratory"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labos-education-edstudio",
+  "category": "programmes",
+  "keywords": [
+   "edstudio",
+   "laboratoire",
+   "labos éducation",
+   "education labs",
+   "lab",
+   "labo",
+   "faculté d'éducation",
+   "brain and behaviour laboratory",
+   "chenine",
+   "jeux numériques",
+   "création",
+   "making and tinkering"
+  ],
+  "question": {
+   "fr": "Quels labos de recherche la Faculté d'éducation a-t-elle ?",
+   "en": "What research labs does the Faculty of Education have?"
+  },
+  "answer": {
+   "fr": "La Faculté d'éducation compte notamment le Brain and Behaviour Laboratory de Tracy Vaillancourt, sur le lien entre le cerveau, le comportement et la santé mentale, le collaboratoire CHENINE et l'edstudiO. L'edstudiO est un espace de recherche, d'enseignement et de communauté avec quatre zones : création et bricolage, jeux numériques, production médiatique et collaboration.",
+   "en": "The Faculty of Education has, among others, Tracy Vaillancourt's Brain and Behaviour Laboratory, on the link between brain, behaviour and mental health, the CHENINE Collaboratory and the edstudiO. The edstudiO is a research, teaching and community space with four zones: making and tinkering, digital gaming, media production and collaboration."
+  },
+  "sources": [
+   {
+    "label": "Research laboratories, networks and centres — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-education/research/laboratories"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-labos-sciences-sociales",
+  "category": "programmes",
+  "keywords": [
+   "labos sciences sociales",
+   "laboratoire",
+   "social sciences labs",
+   "lab",
+   "labo",
+   "groupes de recherche",
+   "research groups",
+   "criminologie",
+   "économie appliquée",
+   "applied microeconomics",
+   "psycho-oncologie",
+   "fss"
+  ],
+  "question": {
+   "fr": "Quels labos de recherche y a-t-il à la Faculté des sciences sociales ?",
+   "en": "What research labs are there in the Faculty of Social Sciences?"
+  },
+  "answer": {
+   "fr": "La Faculté des sciences sociales a des laboratoires et groupes de recherche comme le Laboratoire de recherche engagée, le Laboratoire de microéconomie appliquée d'Ottawa, le Collectif de recherche sur les migrations et le racisme, le HumAnimaLab et le Laboratoire d'études interdisciplinaires sur l'alimentation. Elle compte aussi le laboratoire INSPIRE, une installation partagée pour la recherche sur le comportement humain.",
+   "en": "The Faculty of Social Sciences has labs and research groups such as the Laboratory for Engaged Research, the Ottawa Applied Microeconomics Lab, the Research Collective on Migration and Racism, HumAnimaLab and the Laboratory for the Interdisciplinary Study of Food. It also has the INSPIRE Laboratory, a shared facility for human behaviour research."
+  },
+  "sources": [
+   {
+    "label": "Laboratories and Research Groups — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-social-sciences/research/laboratories-research-groups"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "r-labos-droit-technologie",
+  "category": "programmes",
+  "keywords": [
+   "labos droit et technologie",
+   "laboratoire",
+   "law and technology labs",
+   "lab",
+   "labo",
+   "cdts",
+   "clts",
+   "legal tech lab",
+   "lab sur les technologies juridiques",
+   "craiedl",
+   "surveillance",
+   "intelligence artificielle"
+  ],
+  "question": {
+   "fr": "Quels labos le Centre de recherche en droit, technologie et société a-t-il ?",
+   "en": "What labs does the Centre for Law, Technology and Society have?"
+  },
+  "answer": {
+   "fr": "Le Centre de recherche en droit, technologie et société abrite le CRAiEDL (éthique de la robotique et de l'IA), le CSS/Lab (études critiques de la surveillance), le Pol Comm Tech Lab (politique, communication et technologie) et le Lab sur les technologies juridiques. Ce dernier, une collaboration entre les facultés de droit et de génie, fait de la recherche en analyse de textes juridiques et en automatisation de processus juridiques.",
+   "en": "The Centre for Law, Technology and Society hosts CRAiEDL (ethics of robotics and AI), the CSS/Lab (critical surveillance studies), the Pol Comm Tech Lab (politics, communication and technology) and the Legal Technology Lab. The latter, a collaboration between the faculties of Law and Engineering, researches legal text mining and the automation of legal processes."
+  },
+  "sources": [
+   {
+    "label": "Labs at the Centre for Law, Technology and Society — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/centre-law-technology-society/labs"
+   },
+   {
+    "label": "Legal Tech Lab — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/research/centres-research-excellence/legal-tech-lab"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "r-arts-innovation-labs-admissibilite",
+  "category": "programmes",
+  "keywords": [
+   "laboratoires d'innovation des arts",
+   "laboratoire",
+   "arts innovation labs",
+   "lab",
+   "labo",
+   "faculté des arts",
+   "1,5 crédit",
+   "apprentissage expérientiel",
+   "experiential learning",
+   "24 crédits",
+   "ia et création"
+  ],
+  "question": {
+   "fr": "Qui peut participer aux laboratoires d'innovation de la Faculté des arts ?",
+   "en": "Who can take part in the Faculty of Arts Innovation Labs?"
+  },
+  "answer": {
+   "fr": "Ces labos intensifs de courte durée valent 1,5 crédit et sont ouverts aux étudiants de premier cycle de toutes les facultés, sauf indication contraire, sans formation technique requise. Pour la plupart, tu dois avoir terminé au moins 24 crédits, être en règle sur les plans scolaire et financier, et participer à toute la durée du labo. Le prochain, sur l'IA et l'expérience créative, a lieu du 26 au 28 février 2027.",
+   "en": "These short, intensive labs are worth 1.5 units and are open to undergraduates from all faculties unless otherwise specified, with no technical background required. For most, you must have completed at least 24 units, be in good academic and financial standing, and commit to the full duration of the lab. The next one, on AI and the creative experience, runs February 26 to 28, 2027."
+  },
+  "sources": [
+   {
+    "label": "Arts Innovation Labs — uOttawa",
+    "url": "https://www.uottawa.ca/faculty-arts/arts-innovation-labs"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ }
+]

@@ -5,7 +5,7 @@
 //   en 3D découpe les poils. Les zones non orangées de la texture (sabots, yeux, naseaux) restent sans poils.
 //   La crinière et la queue ont des crins plus longs, en mèches étirées vers le bas.
 //   Duvet court (velours) sur le museau et dans les oreilles ; les yeux sont dessinés dans le shader (iris, reflet),
-//   ils clignent et suivent le regard calculé par mascot.js.
+//   ils clignent et suivent le regard calculé par mascot.js ; les oreilles frémissent comme celles du Gee-Gee dessiné.
 //   Sabots en corne striée, avec une frange de poils plus longs qui retombe dessus.
 // - Variante « geegee » : pelage crème, maillot grenat GG / GEE-GEES 48 et short gris, dessinés dans le shader,
 //   avec plis souples et mailles du tissu en relief (bump procédural).
@@ -64,6 +64,7 @@ const BODY_GLSL = `
 // Déformation (« squelette » doux) : appliquée à la position et à la normale de chaque couche.
 const RIG_GLSL = `
   uniform mat3 headR; uniform float jaw, breath; uniform vec4 armP, armN; // bras côté +x / −x : (lever, avant, côté, avant épaule)
+  uniform vec2 ears; // inclinaison des oreilles côté +x / −x (radians, négatif = vers l'arrière)
   attribute float armW; // appartenance au bras, calculée sur le maillage (voir armWeights)
   mat3 rotX(float a) { float c = cos(a), s = sin(a); return mat3(1., 0., 0., 0., c, s, 0., -s, c); }
   mat3 rotZ(float a) { float c = cos(a), s = sin(a); return mat3(c, s, 0., -s, c, 0., 0., 0., 1.); }
@@ -85,6 +86,9 @@ const RIG_GLSL = `
     // Avant-bras autour du coude, puis bras entier autour de l'épaule.
     rigApply(Q, N, rotZ(a.z * s) * rotX(-a.y), vec3(s * 0.165, 0.515, 0.0), wFore);
     rigApply(Q, N, rotZ(a.x * s) * rotX(-a.w), vec3(s * 0.14, 0.695, 0.0), wArm);
+    // Oreilles (sommet du crâne, |x| > 0,03) autour de leur base : frémissements, dressées quand il parle.
+    float wEar = smoothstep(0.935, 0.958, Q.y) * smoothstep(0.022, 0.036, abs(Q.x));
+    rigApply(Q, N, rotZ(-0.35 * (s > 0.0 ? ears.x : ears.y) * s) * rotX(s > 0.0 ? ears.x : ears.y), vec3(s * 0.048, 0.94, 0.085), wEar);
     // Mâchoire puis tête entière autour du cou.
     rigApply(Q, N, rotX(jaw), vec3(0.0, 0.79, 0.06), wJaw);
     rigApply(Q, N, headR, vec3(0.0, 0.755, 0.0), wHead);
@@ -96,7 +100,7 @@ export const realSettings = {
   geegee: { value: 1 }, headR: { value: new THREE.Matrix3() }, jaw: { value: 0 }, breath: { value: 0 },
   armP: { value: new THREE.Vector4() }, armN: { value: new THREE.Vector4() },
   clothScale: { value: 1 }, // échelle modèle → scène, pour la profondeur des plis du tissu
-  eyeLook: { value: new THREE.Vector3() },
+  eyeLook: { value: new THREE.Vector3() }, ears: { value: new THREE.Vector2() },
   eyeC: { value: new THREE.Vector4(0.046, 0.878, 0.142, 0.017) } // dans l’orbite du modèle
 };
 
@@ -223,7 +227,7 @@ function lightFix(geometry, bounds, map) {
 function bodyUniforms(s, bounds) {
   s.uniforms.bodyMinY = { value: bounds.min.y };
   s.uniforms.bodyH = { value: bounds.max.y - bounds.min.y };
-  for (const k of ['geegee', 'headR', 'jaw', 'breath', 'armP', 'armN', 'eyeC', 'eyeLook']) s.uniforms[k] = realSettings[k];
+  for (const k of ['geegee', 'headR', 'jaw', 'breath', 'armP', 'armN', 'eyeC', 'eyeLook', 'ears']) s.uniforms[k] = realSettings[k];
 }
 
 // Partie commune du vertex shader : déformation + poussée le long de la normale (offset en unités de hauteur).
@@ -525,7 +529,7 @@ export class RealHorse {
   // Applique la pose calculée par mascot.js (tête, bras, mâchoire) au modèle réaliste.
   pose(P, mouth, t, arms, eyes) {
     this.watchPerf();
-    if (eyes) realSettings.eyeLook.value.set(eyes.blink, eyes.gx, eyes.gy);
+    if (eyes) { realSettings.eyeLook.value.set(eyes.blink, eyes.gx, eyes.gy); realSettings.ears.value.set(eyes.earP, eyes.earN); }
     // Amplitudes réduites : sans vrai squelette, une grande rotation étirerait le cou.
     _euler.set(P.hx * 0.6, (P.hy + 0.12) * 0.5, P.hz * 0.6, 'YXZ');
     realSettings.headR.value.setFromMatrix4(_m4.makeRotationFromEuler(_euler));

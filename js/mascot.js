@@ -405,6 +405,8 @@ export class GeeGee {
       if (S.earStart >= 0 && i === S.earSide) { const z = (t - S.earStart) / 0.35; if (z >= 1) S.earStart = -1; else x += Math.sin(z * Math.PI * 2) * 0.35; }
       ear.rotation.x = mix(ear.rotation.x, x, 1 - Math.exp(-dt * 18));
     });
+    // Même mouvement pour les oreilles du modèle réaliste (amplifié : ses oreilles sont plus petites à l'écran).
+    if (this.eyeState) { this.eyeState.earP = this.ears[0].rotation.x * 1.6; this.eyeState.earN = this.ears[1].rotation.x * 1.6; }
     this.forelock.rotation.x = -P.hx * 0.8 + Math.sin(t * 3) * 0.03;
     this.mane.rotation.y = P.hy * 0.4;
 

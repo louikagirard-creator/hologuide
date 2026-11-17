@@ -55,9 +55,10 @@ function applyText() {
   $$('[data-ph]').forEach((e) => { e.placeholder = t(e.dataset.ph); });
   $$('[data-aria]').forEach((e) => { e.setAttribute('aria-label', t(e.dataset.aria)); e.title = t(e.dataset.aria); });
   $$('[data-profile]').forEach((b) => { $('[data-profile-label]', b).textContent = TEXT[state.lang].profiles[b.dataset.profile]; });
-  $('#langBtn').textContent = t('langBtn');
+  $('#langLabel').textContent = t('otherLang');
   $('#attractEn').textContent = TEXT.en.attractSub;
-  $('#micBtn').hidden = !canListen;
+  // Sans reconnaissance vocale (certains navigateurs) : le champ texte remplace le bouton « Parler »
+  $('#micBtn').hidden = !canListen; $('#typeBtn').hidden = !canListen; if (!canListen) $('#askForm').hidden = false;
 }
 
 // ---------- Écrans ----------
@@ -404,7 +405,7 @@ function bind() {
   $('#go').addEventListener('click', startSession);
   $('#askForm').addEventListener('submit', (e) => { e.preventDefault(); const v = $('#askInput').value; $('#askInput').value = ''; $('#askInput').blur(); ask(v); });
   $('#micBtn').addEventListener('click', () => listen(state.lang, {
-    onState: (on) => { $('#micBtn').classList.toggle('on', on); $('#askInput').placeholder = on ? t('listening') : t('askPh'); },
+    onState: (on) => { $('#micBtn').classList.toggle('on', on); $('#talkLabel').textContent = on ? t('listening') : t('talk'); },
     onText: (txt) => ask(txt),
     onError: (err) => { if (err !== 'aborted') toast(t('micError')); }
   }));
@@ -415,6 +416,10 @@ function bind() {
   });
   $('#langBtn').addEventListener('click', () => { state.lang = state.lang === 'fr' ? 'en' : 'fr'; applyText(); viewHome(t('homeTitle')); });
   $('#settingsBtn').addEventListener('click', openSettings);
+  $('#typeBtn').addEventListener('click', (e) => { // affiche ou cache le champ pour écrire
+    const open = $('#askForm').hidden; $('#askForm').hidden = !open; e.currentTarget.setAttribute('aria-pressed', String(open));
+    if (open) $('#askInput').focus();
+  });
   $('#closeSettings').addEventListener('click', closeOverlays);
   $('#doneSettings').addEventListener('click', closeOverlays);
   $('#resetSettings').addEventListener('click', () => { Object.assign(state, DEFAULTS); applySettings(); renderSettings(); });

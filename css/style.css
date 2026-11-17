@@ -365,3 +365,34 @@ body.contrast .spoken.reading .w.now { text-decoration: underline 2px var(--acce
 .settings .row { justify-content: space-between; }
 /* Animations réduites (réglage) */
 body.calm *, body.calm *::before, body.calm *::after { animation: none !important; transition: none !important; }
+
+/* ---------- Boutons en bas (arrangement 2) ---------- */
+.dock { display: flex; flex-direction: column; gap: 0.6rem; padding-top: 0.8rem; border-top: 1px solid var(--faint); }
+.dock .askbar { padding: 0; border: 0; }
+.talk {
+  display: flex; align-items: center; justify-content: center; gap: 0.6rem; width: 100%; min-height: 3.9rem;
+  border-radius: 14px; background: var(--accent); color: #fff; font-size: 1.15rem; font-weight: 700;
+  box-shadow: 0 6px 18px rgba(143, 0, 26, 0.22); transition: transform 0.12s;
+}
+.talk svg { width: 1.6rem; height: 1.6rem; }
+.talk:active { transform: scale(0.985); }
+.talk.on { background: #6e0014; animation: listen 1.2s ease-in-out infinite; }
+.dockbar { display: grid; grid-template-columns: repeat(auto-fit, minmax(0, 1fr)); gap: 0.3rem; }
+.dock-btn[hidden] { display: none; }
+.dock-btn {
+  position: relative; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0.25rem;
+  min-width: 0; min-height: 3.5rem; padding: 0.35rem 0.1rem; border: 1px solid var(--line); border-radius: 12px; background: #fff;
+  color: var(--ink); font-size: clamp(0.6rem, 2.9cqi, 0.78rem); font-weight: 600; line-height: 1.1; text-align: center;
+}
+.dock-btn > span:not(.count) { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.dock-btn svg { width: 1.35rem; height: 1.35rem; }
+.dock-btn:active, .dock-btn[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: #fff; }
+.dock-btn.end { color: var(--accent); border-color: rgba(143, 0, 26, 0.35); }
+.dock-btn .count {
+  position: absolute; top: 0.25rem; right: 0.35rem; min-width: 1.1rem; height: 1.1rem; padding: 0 0.3rem;
+  border-radius: 0.55rem; background: var(--accent); color: #fff; font-size: 0.62rem; font-weight: 700; line-height: 1.1rem;
+}
+svg use { pointer-events: none; }
+.talkrow { display: flex; gap: 0.4rem; }
+.talkrow .talk { flex: 1; }
+.dock-btn.type { flex: none; width: 4.4rem; min-height: 3.9rem; border-radius: 14px; }

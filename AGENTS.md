@@ -7,7 +7,7 @@ Dépôt : https://github.com/louikagirard-creator/hologuide — toute l'équipe 
 ## Règle n° 1 : chaque modification va sur GitHub
 L'équipe doit voir le travail des autres. À chaque demande de modification :
 1. **Avant de commencer** : `git pull --rebase` pour récupérer les modifications des coéquipiers.
-2. Faire la modification demandée, puis lancer les tests : `node tests/search.test.mjs` (tout doit réussir).
+2. Faire la modification demandée, puis lancer les tests : `node tests/search.test.mjs` et `node tests/ai.test.mjs` (tout doit réussir).
 3. **Tout de suite après** : `git add -A`, `git commit -m "<prénom> : <ce qui a changé, en français>"`, puis `git push`.
    - Si `git push` est refusé parce qu'un coéquipier a publié entre-temps : `git pull --rebase`, régler les conflits s'il y en a, relancer les tests, puis `git push`.
    - Ne jamais utiliser `git push --force`. Ne jamais publier de secret (`.env`, clé API, mot de passe).
@@ -39,3 +39,7 @@ On voit tout l'historique de l'équipe ici : https://github.com/louikagirard-cre
 
 ## Tester en local
 `python3 -m http.server 5179` dans ce dossier, puis ouvrir http://localhost:5179 (format de la boîte : écran vertical, par exemple 1080×1920).
+
+## IA
+- `js/ai.js` : IA en ligne via le relais `worker/` si `AI_ENDPOINT` est rempli (guide : `worker/README.md`), sinon IA dans le navigateur (désactivée par défaut).
+- **Ne jamais mettre de clé API dans le site ni dans le dépôt** : elle va seulement dans les secrets Cloudflare du relais.

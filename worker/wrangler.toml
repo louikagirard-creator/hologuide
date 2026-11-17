@@ -1,0 +1,11 @@
+# Configuration du relais IA (Cloudflare Workers). Guide complet : worker/README.md
+name = "hologuide-ia"
+main = "index.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+PROVIDER = "groq"            # ou "gemini"
+ALLOWED_ORIGIN = "https://louikagirard-creator.github.io"
+# MODEL = "llama-3.3-70b-versatile"   # facultatif : changer si Groq retire ce modèle
+
+# La clé N'EST PAS ici : elle se met avec « npx wrangler secret put GROQ_API_KEY » (ou GEMINI_API_KEY).

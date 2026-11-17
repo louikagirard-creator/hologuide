@@ -8,13 +8,14 @@ import { GeeGee } from './mascot.js';
 import { VideoGeeGee, CLIPS } from './avatar-video.js';
 import { loadCampus, routeForEntry, drawRoute } from './campusmap.js';
 import { loadLinks, searchLinks } from './links.js';
-import { ai, aiSupported, loadAI, aiAnswer } from './ai.js';
+import { ai, aiSupported, loadAI, aiAnswer, AI_ENDPOINT } from './ai.js';
 
 const $ = (s, root = document) => root.querySelector(s);
 const $$ = (s, root = document) => [...root.querySelectorAll(s)];
 const IDLE_MS = 45000, IDLE_COUNTDOWN = 15, SESSION_NOTICE_MS = 180000, END_COUNTDOWN = 30;
 
-const DEFAULTS = { useAI: false, voice: true, scale: 1, contrast: false, speed: 1, volume: 1, highlight: true, calm: false, font: 'std', spacing: 'normal', patience: 1, qr: true };
+const DEFAULTS = { useAI: Boolean(AI_ENDPOINT), voice: true, // IA en ligne activée dès que le relais est configuré ; IA du navigateur à activer à la main
+  scale: 1, contrast: false, speed: 1, volume: 1, highlight: true, calm: false, font: 'std', spacing: 'normal', patience: 1, qr: true };
 const state = { lang: 'fr', profile: 'student', ...DEFAULTS, session: null, idleTimer: null, idleTick: null, endTick: null };
 const t = (key) => TEXT[state.lang][key];
 const L = (o) => (o && typeof o === 'object' ? o[state.lang] || o.fr : o);
@@ -312,6 +313,7 @@ async function enhanceAI(q, res) {
 // Statut de l'IA dans les Paramètres (téléchargement du modèle la première fois)
 function aiStatus() {
   if (!aiSupported()) return t('aiNoGpu');
+  if (ai.online) return state.useAI ? t('aiOnline') : t('aiOff');
   return { off: t('aiOff'), loading: fill(t('aiLoading'), { p: ai.progress }), ready: t('aiReady'), unsupported: t('aiNoGpu'), error: t('aiError') }[ai.state];
 }
 

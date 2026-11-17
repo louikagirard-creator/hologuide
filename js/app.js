@@ -13,7 +13,7 @@ const $ = (s, root = document) => root.querySelector(s);
 const $$ = (s, root = document) => [...root.querySelectorAll(s)];
 const IDLE_MS = 45000, IDLE_COUNTDOWN = 15, SESSION_NOTICE_MS = 180000, END_COUNTDOWN = 30;
 
-const DEFAULTS = { voice: true, scale: 1, contrast: false, speed: 1, highlight: true, calm: false };
+const DEFAULTS = { voice: true, scale: 1, contrast: false, speed: 1, volume: 1, highlight: true, calm: false, font: 'std', spacing: 'normal', patience: 1, qr: true };
 const state = { lang: 'fr', profile: 'student', ...DEFAULTS, session: null, idleTimer: null, idleTick: null, endTick: null };
 const t = (key) => TEXT[state.lang][key];
 const L = (o) => (o && typeof o === 'object' ? o[state.lang] || o.fr : o);
@@ -112,7 +112,7 @@ function say(text, p) {
   if (!state.voice) { gg?.sayText(text, Math.min(9000, 400 + text.length * 55)); return; }
   if (state.highlight) p?.classList.add('reading');
   speak(text, state.lang, {
-    speed: state.speed,
+    speed: state.speed, volume: state.volume,
     onStart: () => gg?.startTalking(),
     onWord: (w, rate, idx) => {
       gg?.sayWord(w, rate);
@@ -207,6 +207,7 @@ function ask(text, id) {
     const sitePlan = /site-plan/.test(e.image?.src || '');
     setView(asked(q), p, route || (sitePlan && campusCard()),
       e.image?.src && !sitePlan && h('button', { class: 'plan', onclick: () => openPlan(e.image) }, h('img', { src: e.image.src, alt: L(e.image.alt) }), h('span', { text: route ? t('floorPlan') : t('zoom') })),
+      takeAway(q, answer, e.sources[0]?.url, route ? routeForEntry(e, q) : null),
       sourceLinks(e.sources), h('p', { class: 'meta', text: `${e.status === 'pointer' ? `${t('pointer')} · ` : ''}${fill(t('time'), { ms })}${e.verifiedOn ? ` · ${t('verified')} ${e.verifiedOn}` : ''}` }),
       fb, related.length && h('p', { class: 'section', text: t('relatedTitle') }), related.length && questionList(related),
       !route && pageList(searchLinks(q, state.lang, 3), t('morePages')));
@@ -288,6 +289,18 @@ function openHistory() {
   $('#history').hidden = false;
 }
 function openPlan(img) { $('#lightboxMap').replaceChildren(); $('#lightboxImg').hidden = false; $('#lightboxImg').src = img.src; $('#lightboxImg').alt = L(img.alt); $('#lightbox').hidden = false; }
+// Code QR « Emporte cette réponse » : la question, la réponse courte, le lien officiel et l'itinéraire (rien de personnel)
+function takeAway(q, answer, url, route) {
+  const lines = [`HoloGuide — ${q}`, answer.length > 220 ? `${answer.slice(0, 217).trim()}…` : answer];
+  if (route) lines.push(`${t('directions')} :`, ...route.steps[state.lang].map((s, i) => `${i + 1}. ${s}`));
+  if (url) lines.push(url);
+  let text = lines.join('\n'); if (text.length > 900) text = `${text.slice(0, 880)}…\n${url || ''}`;
+  qrcode.stringToBytes = qrcode.stringToBytesFuncs['UTF-8'];
+  const code = qrcode(0, 'L'); code.addData(text, 'Byte'); code.make();
+  const qr = h('div', { class: 'take-qr' }); qr.innerHTML = code.createSvgTag({ cellSize: 3, margin: 1, scalable: true, alt: t('takeAway') });
+  return h('section', { class: 'take' }, qr, h('div', {}, h('p', { class: 'take-t', text: t('takeAway') }), h('p', { class: 'take-s', text: t('takeAwaySub') })));
+}
+
 // Pages officielles trouvées dans l'index : toucher une page affiche un code QR pour l'ouvrir sur son téléphone
 function pageList(pages, heading = t('officialPages')) {
   if (!pages.length) return null;
@@ -339,13 +352,22 @@ const SETTINGS = [
   { key: 'contrast', label: 'setContrast', choices: [[false, 'optNormal'], [true, 'optHigh']] },
   { key: 'voice', label: 'setVoice', choices: [[true, 'optOn'], [false, 'optOff']] },
   { key: 'speed', label: 'setSpeed', choices: [[0.85, 'optSlow'], [1, 'optNormal'], [1.2, 'optFast']] },
+  { key: 'volume', label: 'setVolume', choices: [[0.5, 'optLow'], [0.8, 'optMedium'], [1, 'optLoud']] },
+  { key: 'font', label: 'setFont', choices: [['std', 'optStandard'], ['legible', 'optLegible']] },
+  { key: 'spacing', label: 'setSpacing', choices: [['normal', 'optNormal'], ['wide', 'optWide']] },
   { key: 'highlight', label: 'setHighlight', choices: [[true, 'optYes'], [false, 'optNo']] },
+  { key: 'qr', label: 'setQr', choices: [[true, 'optYes'], [false, 'optNo']] },
+  { key: 'patience', label: 'setTime', choices: [[1, 'optNormal'], [2, 'optMoreTime']] },
   { key: 'calm', label: 'setMotion', choices: [[false, 'optNormalF'], [true, 'optReduced']] }
 ];
 function applySettings() {
   document.documentElement.style.setProperty('--scale', state.scale);
   document.body.classList.toggle('contrast', state.contrast);
   document.body.classList.toggle('calm', state.calm);
+  document.body.classList.toggle('legible', state.font === 'legible');
+  document.body.classList.toggle('airy', state.spacing === 'wide');
+  document.body.classList.toggle('no-qr', !state.qr);
+  resetIdle();
   if (!state.voice) { stopSpeaking(); gg?.stopTalking(); }
   if (!state.highlight || !state.voice) $$('.spoken.reading').forEach((p) => p.classList.remove('reading'));
 }
@@ -377,7 +399,7 @@ function resetIdle() {
     const tick = () => { $('#idleText').textContent = fill(t('idleText'), { s: left }); if (left-- <= 0) { hideIdle(); state.session ? endSession() : attract(); } };
     tick(); state.idleTick = setInterval(tick, 1000);
     $('#stayBtn').focus();
-  }, IDLE_MS);
+  }, IDLE_MS * state.patience); // « Plus de temps » dans les Paramètres : 90 s au lieu de 45 s
 }
 function hideIdle() { $('#idle').hidden = true; clearInterval(state.idleTick); }
 function openAdmin() {

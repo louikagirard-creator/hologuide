@@ -396,3 +396,117 @@ svg use { pointer-events: none; }
 .talkrow { display: flex; gap: 0.4rem; }
 .talkrow .talk { flex: 1; }
 .dock-btn.type { flex: none; width: 4.4rem; min-height: 3.9rem; border-radius: 14px; }
+
+/* =========================================================
+   Passe esthétique (v3) : texte noir et plus gras, cartes douces, boutons soignés
+   ========================================================= */
+:root {
+  --ink: #000;                 /* texte : noir franc */
+  --mute: #1f1f23;             /* secondaire : presque noir */
+  --dim: #3b3b40;              /* indications : gris très foncé */
+  --faint: rgba(0, 0, 0, 0.12);
+  --line: rgba(0, 0, 0, 0.26);
+  --soft: #f4f2ee;             /* fond des cartes */
+  --soft-2: #ebe8e2;
+  --radius: 10px;
+}
+body { -webkit-font-smoothing: auto; font-weight: 500; }
+.spoken { font-weight: 560; letter-spacing: -0.003em; }
+.spoken.reading .w { color: #55555b; }
+.masthead { font-size: 0.82rem; font-weight: 600; padding-bottom: 0.8rem; }
+.wordmark { font-size: 1.02rem; font-weight: 800; letter-spacing: -0.01em; }
+.wordmark::before { width: 0.75em; height: 0.75em; border-radius: 3px; }
+.section { color: var(--ink); font-weight: 700; font-size: 0.86rem; border-bottom: 0; margin: 1.6rem 0 0.4rem; padding: 0; }
+.label { color: var(--ink); font-weight: 700; }
+.lead, .intro .lead.second { color: var(--mute); }
+.intro .lead { opacity: 1; font-weight: 600; }
+.display { font-weight: 800; letter-spacing: -0.025em; }
+.title, .view-title { font-weight: 800; letter-spacing: -0.02em; }
+.fine, .meta, .tip { color: var(--dim); font-weight: 500; }
+
+/* Question posée : petite bulle */
+.asked { display: inline-block; padding: 0.35rem 0.85rem; margin-bottom: 0.8rem; border-radius: 999px; background: var(--soft); color: var(--ink); font-weight: 600; font-size: 0.88rem; }
+
+/* Listes dans des cartes arrondies */
+.list, .topics { background: var(--soft); border-radius: 14px; padding: 0 0.9rem; border: 0 !important; }
+.list li, .topics li { border-bottom: 1px solid rgba(0, 0, 0, 0.08); }
+.list li:last-child, .topics li:last-child { border-bottom: 0; }
+.list button, .topics button { font-weight: 600; padding: 0.85rem 0; }
+.list button svg, .topics button svg { color: var(--accent); }
+.spoken + .list { margin-top: 1.2rem; }
+
+/* Itinéraire et pages officielles en cartes */
+.route, .pages { margin-top: 1.2rem; }
+.route-head strong { font-weight: 800; }
+.route-head span { color: var(--dim); font-weight: 600; }
+.route-map { border: 0; border-radius: 16px; box-shadow: 0 0 0 1px var(--faint); }
+.route-steps { border-top: 0; background: var(--soft); border-radius: 14px; padding: 0 0.8rem; margin-top: 0.6rem; }
+.route-steps li { border-bottom: 1px solid rgba(0, 0, 0, 0.08); }
+.route-steps li:last-child { border-bottom: 0; }
+.step-text { font-weight: 550; }
+.step-map { border: 0; box-shadow: 0 0 0 1px var(--faint); background: #fff; }
+.pg-title { font-weight: 700; }
+.pg-sec { color: var(--dim); }
+
+/* Liens sources : petites étiquettes */
+.foot { gap: 0.45rem; }
+.src { border: 0; background: var(--soft); border-radius: 999px; padding: 0.42rem 0.8rem; font-weight: 600; font-size: 0.85rem; }
+.src svg { color: var(--accent); }
+
+/* « Cette réponse t'aide ? » */
+.actions { border-top: 0; background: var(--soft); border-radius: 14px; padding: 0.6rem 0.7rem; color: var(--ink); font-weight: 600; }
+.actions .tool { background: #fff; border-color: transparent; color: var(--ink); }
+.pill { background: #fff; border-color: transparent; font-weight: 700; border-radius: 999px; }
+
+/* Code QR « Emporte cette réponse » */
+.take { display: flex; align-items: center; gap: 0.9rem; margin-top: 1.2rem; padding: 0.8rem; border-radius: 16px; background: #fff; box-shadow: 0 0 0 1.5px var(--accent) inset; }
+.take-qr { flex: none; width: 5.6rem; height: 5.6rem; padding: 0.3rem; background: #fff; border-radius: 8px; }
+.take-qr svg { display: block; width: 100%; height: 100%; }
+.take-t { font-weight: 800; font-size: 0.98rem; color: var(--accent); }
+.take-s { margin-top: 0.2rem; font-size: 0.8rem; font-weight: 500; color: var(--mute); line-height: 1.35; }
+body.no-qr .take { display: none; }
+
+/* Puces de l'accueil */
+.chip { border: 0; background: var(--soft); font-weight: 650; color: var(--ink); padding: 0.6rem 0.95rem; }
+.chip.all { background: #fff; box-shadow: 0 0 0 1px var(--line) inset; color: var(--ink); }
+.hint { color: var(--dim); font-weight: 500; }
+
+/* Boutons du bas : tuiles douces */
+.dock { border-top: 0; padding-top: 0.5rem; }
+.dock-btn { border: 0; background: var(--soft); border-radius: 14px; font-weight: 700; color: var(--ink); }
+.dock-btn.end { background: #f9e9ec; color: var(--accent); }
+.dock-btn:active, .dock-btn[aria-pressed="true"] { background: var(--ink); color: #fff; }
+.talk { border-radius: 16px; font-weight: 800; letter-spacing: -0.005em; }
+.askbar input { border: 0; background: var(--soft); border-radius: 14px; font-weight: 600; color: var(--ink); }
+.askbar input::placeholder { color: #55555b; }
+.askbar input:focus { box-shadow: 0 0 0 2px var(--ink) inset; }
+.send { border-radius: 14px; }
+
+/* Accueil (langue, profil) : cartes */
+.choices { border-top: 0; display: grid; gap: 0.5rem; }
+.choices.two { grid-template-columns: 1fr 1fr; }
+.choice { border: 0; border-radius: 14px; background: var(--soft); padding: 0.95rem 2.2rem 0.95rem 1rem; color: var(--ink); font-weight: 650; }
+.choice .code { color: var(--dim); font-weight: 700; }
+.choice[aria-pressed="true"] { background: #fff; box-shadow: 0 0 0 2px var(--accent) inset; }
+.choice::after { right: 0.9rem; }
+.choices.three .choice { border: 0; }
+.primary { border-radius: 14px; font-weight: 800; min-height: 3.5rem; }
+
+/* Fenêtres */
+.card, .drawer { border-radius: 20px; }
+.seg-btn { border: 0; background: var(--soft); border-radius: 12px; font-weight: 700; }
+.seg-btn[aria-pressed="true"] { background: var(--accent); color: #fff; }
+.set-row { border-bottom: 1px solid rgba(0, 0, 0, 0.08); }
+.set-label { font-weight: 700; }
+
+/* Réglages : police très lisible, texte aéré, contraste élevé */
+body.legible, body.legible button, body.legible input { font-family: "Atkinson Hyperlegible", var(--sans); }
+body.airy .spoken, body.airy .step-text, body.airy .list button { line-height: 1.75; letter-spacing: 0.012em; word-spacing: 0.08em; }
+body.contrast { --soft: #fff; }
+body.contrast .list, body.contrast .route-steps, body.contrast .actions, body.contrast .chip, body.contrast .dock-btn,
+body.contrast .src, body.contrast .choice, body.contrast .seg-btn, body.contrast .asked, body.contrast .askbar input { box-shadow: 0 0 0 2px #000 inset; }
+.choices.two { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+.choices.two .choice { padding: 0.95rem 0.8rem; gap: 0.6rem; min-width: 0; }
+.choices.two .choice::after { display: none; }
+.choices.two .choice .word { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.choices.two .choice { justify-content: center; } .choices.two .choice .code { display: none; }

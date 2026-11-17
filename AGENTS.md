@@ -16,8 +16,11 @@ L'équipe doit voir le travail des autres. À chaque demande de modification :
 On voit tout l'historique de l'équipe ici : https://github.com/louikagirard-creator/hologuide/commits/main
 
 ## Mise en page à respecter
-- Fond **blanc**. Deux colonnes : Gee-Gee debout à **gauche**, sur toute la hauteur ; l'interface à **droite** (maquette 1, dans `maquettes/`).
-- Style sobre : titres à empattements, filets fins, un seul accent grenat `#8f001a`. Pas d'émoji ni d'effets « verre ».
+- Fond **blanc**. Deux colonnes : Gee-Gee debout à **gauche**, sur toute la hauteur ; l'interface à **droite**.
+- Boutons **en bas** (maquette d'arrangement 2) : « Touche et parle » + Écrire, puis Langue, Historique, Paramètres, Terminer.
+- Texte **noir et bien gras** (jamais de gris pâle), une seule police sans empattements, cartes douces `#f4f2ee` arrondies, un seul accent grenat `#8f001a`.
+- Icônes : uniquement le jeu d'icônes au trait du sprite SVG d'`index.html`. Pas d'émoji ni d'effets « verre » ou de dégradés.
+- Les réglages (taille, contraste, voix, police…) sont dans le bouton **Paramètres** et reviennent par défaut pour chaque nouvelle personne.
 - Tout le texte existe en **français et en anglais** (`js/i18n.js`). Le français tutoie.
 
 ## Base de réponses (`data/kb.js`)

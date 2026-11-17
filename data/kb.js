@@ -78264,5 +78264,4007 @@ export const KB = [
   ],
   "verifiedOn": "2026-11-16",
   "status": "pointer"
+ },
+ {
+  "id": "u-rh-joindre",
+  "category": "services",
+  "keywords": [
+   "ressources humaines",
+   "rh",
+   "bureau rh",
+   "employe",
+   "prof",
+   "staff",
+   "human resources",
+   "hr office",
+   "hr hours",
+   "tabaret 019",
+   "faculty member",
+   "joindre rh"
+  ],
+  "question": {
+   "fr": "Où sont les Ressources humaines et quelles sont leurs heures ?",
+   "en": "Where is Human Resources and what are its hours?"
+  },
+  "answer": {
+   "fr": "Les Ressources humaines sont au pavillon Tabaret, 550, rue Cumberland, local 019. Tu peux les joindre au 613-562-5000, option 3, ou sans frais au 1-877-868-8292. Elles sont ouvertes du lundi au vendredi de 8 h 45 à 16 h 30 du 1er septembre au 31 mai, et de 8 h 45 à 15 h 30 du 1er juin au 31 août.",
+   "en": "Human Resources is in Tabaret Hall, 550 Cumberland Street, Room 019. You can reach them at 613-562-5000, option 3, or toll-free at 1-877-868-8292. They are open Monday to Friday, 8:45 a.m. to 4:30 p.m. from September 1 to May 31, and 8:45 a.m. to 3:30 p.m. from June 1 to August 31."
+  },
+  "sources": [
+   {
+    "label": "Human Resources — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-resources"
+   },
+   {
+    "label": "Ressources humaines — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/ressources-humaines"
+   }
+  ],
+  "related": [
+   "u-rh-question-paie",
+   "u-workday",
+   "u-portail-accueil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-rh-question-paie",
+  "category": "services",
+  "keywords": [
+   "paie",
+   "question de paie",
+   "avantages sociaux",
+   "centre libre-service rh",
+   "employe",
+   "prof",
+   "staff",
+   "payroll question",
+   "benefits question",
+   "hr ticket",
+   "faculty member",
+   "hr self-service"
+  ],
+  "question": {
+   "fr": "J'ai une question sur ma paie, mes avantages sociaux ou ma retraite : à qui je m'adresse ?",
+   "en": "I have a question about my pay, benefits or pension: who do I contact?"
+  },
+  "answer": {
+   "fr": "Pour toute question ou demande sur la paie, les avantages sociaux, le régime de retraite ou un autre sujet RH, passe par le Centre libre-service des Ressources humaines si tu as un identifiant uoAccess. Si tu n'as pas d'identifiant uoAccess, remplis plutôt le formulaire de demande pour les visiteurs; le numéro d'employé n'est pas requis. Après l'envoi, tu reçois par courriel une copie avec ton numéro de billet.",
+   "en": "For any question or request about payroll, benefits, the pension plan or another HR matter, use the Human Resources Self-Service Centre if you have a uoAccess ID. If you don't have uoAccess credentials, fill out the visitor's request form instead; no employee number is required. Once you submit, you receive an email copy with your ticket number."
+  },
+  "sources": [
+   {
+    "label": "Human Resources — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-resources"
+   },
+   {
+    "label": "Ressources humaines — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/ressources-humaines"
+   },
+   {
+    "label": "HR - Get Help — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-resources/hr-get-help"
+   },
+   {
+    "label": "RH - Demander de l'aide — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/ressources-humaines/rh-demander-laide"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-workday",
+   "u-portail-accueil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-workday",
+  "category": "services",
+  "keywords": [
+   "workday",
+   "erp",
+   "progiciel de gestion",
+   "employe",
+   "prof",
+   "staff",
+   "faculty member",
+   "vpn workday",
+   "conge workday",
+   "talon de paie",
+   "pay slip",
+   "leave request"
+  ],
+  "question": {
+   "fr": "C'est quoi Workday et comment y accéder ?",
+   "en": "What is Workday and how do I access it?"
+  },
+  "answer": {
+   "fr": "Workday est le progiciel de gestion intégré de l'Université pour les finances et les ressources humaines : paie et rémunération, information sur la retraite et les avantages sociaux, demandes de congé, suivi du temps et évaluations. Tu t'y connectes avec ton identifiant uoAccess. Il faut une connexion VPN pour utiliser toutes ses fonctions, sauf les tâches liées à ton profil.",
+   "en": "Workday is the University's enterprise resource planning system for finance and human resources: payroll and compensation, pension and benefits information, leave requests, time tracking and evaluations. You sign in with your uoAccess ID. You need a VPN connection to use all its features, except tasks related to your profile."
+  },
+  "sources": [
+   {
+    "label": "Human Resources — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-resources"
+   },
+   {
+    "label": "Ressources humaines — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/ressources-humaines"
+   },
+   {
+    "label": "IT for retirees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-retirees"
+   },
+   {
+    "label": "TI pour retraitées et retraités — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/ti-retraitees-retraites"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-portail-accueil"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-workday-aide",
+  "category": "ti",
+  "keywords": [
+   "workday aide",
+   "probleme workday",
+   "acces workday",
+   "erreur workday",
+   "employe",
+   "prof",
+   "staff",
+   "workday help",
+   "workday error",
+   "workday access",
+   "faculty member",
+   "helpdesk"
+  ],
+  "question": {
+   "fr": "J'ai un problème d'accès ou un message d'erreur dans Workday : que faire ?",
+   "en": "I have an access problem or an error message in Workday: what should I do?"
+  },
+  "answer": {
+   "fr": "Fais une demande au service d'assistance Workday. Le formulaire te demande d'abord de choisir ta situation : avec ou sans compte uoAccess. Une fois la demande envoyée, tu reçois une copie par courriel avec ton numéro de billet.",
+   "en": "Make a Workday helpdesk request. The form first asks you to choose your situation: with or without a uoAccess account. Once you submit it, you receive an email copy with your ticket number."
+  },
+  "sources": [
+   {
+    "label": "Human Resources — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-resources"
+   },
+   {
+    "label": "Ressources humaines — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/ressources-humaines"
+   },
+   {
+    "label": "Workday - Get Help — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-resources/workday-get-help"
+   },
+   {
+    "label": "Workday - Demander de l'aide — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/ressources-humaines/workday-demander-laide"
+   }
+  ],
+  "related": [
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe",
+   "u-autodefense-numerique"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-virtuo-portail",
+  "category": "ti",
+  "keywords": [
+   "virtuo",
+   "portail employe",
+   "outils en ligne",
+   "employe",
+   "prof",
+   "staff",
+   "employee portal",
+   "faculty and staff",
+   "faculty member",
+   "brightspace",
+   "outlook"
+  ],
+  "question": {
+   "fr": "C'est quoi VirtuO ?",
+   "en": "What is VirtuO?"
+  },
+  "answer": {
+   "fr": "VirtuO est le portail des employés qui regroupe les principaux outils en ligne de l'Université. Tu t'y connectes avec ton identifiant uoAccess. La page Professeurs et employés donne aussi accès à Brightspace, à Outlook et aux autres applications Microsoft 365, ainsi qu'à Workday.",
+   "en": "VirtuO is the employee portal that brings together the University's main online tools. You log in with your uoAccess ID. The Faculty and staff page also links to Brightspace, Outlook and other Microsoft 365 apps, and Workday."
+  },
+  "sources": [
+   {
+    "label": "Faculty and staff — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/faculty-staff"
+   },
+   {
+    "label": "Professeurs et employés — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/professeurs-employes"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-mot-de-passe-initial-employe",
+   "u-autodefense-numerique"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-portail-accueil",
+  "category": "services",
+  "keywords": [
+   "nouvel employe",
+   "accueil integration",
+   "portail d'accueil",
+   "premier jour",
+   "employe",
+   "prof",
+   "staff",
+   "onboarding portal",
+   "new employee",
+   "first day",
+   "faculty member",
+   "new hire"
+  ],
+  "question": {
+   "fr": "Je viens d'être embauché à l'Université : par où commencer ?",
+   "en": "I was just hired by the University: where do I start?"
+  },
+  "answer": {
+   "fr": "Consulte le portail d'accueil et d'intégration des Ressources humaines, conçu pour les nouveaux employés. Il présente ce qu'il faut faire avant ton arrivée : te rendre au campus, trouver où manger, les tâches TI à faire avant ta première journée et les mesures d'urgence comme l'appli SecurUO. Il te fait aussi découvrir les facultés, les services et la communauté.",
+   "en": "Check the Human Resources onboarding portal, designed for new employees. It covers what to do before you arrive: getting to campus, where to eat, the IT tasks to complete before your first day, and emergency measures such as the SecurUO app. It also introduces the faculties, services and community."
+  },
+  "sources": [
+   {
+    "label": "Onboarding portal — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-resources/onboarding-portal"
+   },
+   {
+    "label": "Portail d’accueil et d’intégration — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/ressources-humaines/portail-accueil-integration"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-regime-retraite",
+  "category": "finances",
+  "keywords": [
+   "regime de retraite",
+   "pension",
+   "prestations determinees",
+   "employe",
+   "prof",
+   "staff",
+   "pension plan",
+   "defined benefit",
+   "retirement plan",
+   "faculty member",
+   "indexation"
+  ],
+  "question": {
+   "fr": "Comment fonctionne le régime de retraite de l'Université ?",
+   "en": "How does the University pension plan work?"
+  },
+  "answer": {
+   "fr": "Pour les employés à temps plein, le Régime de retraite de l'Université d'Ottawa est un régime à prestations déterminées. Ta rente est calculée selon une formule basée sur ton salaire moyen des 60 meilleurs mois et tes années de service, et non sur le rendement des placements. Elle est protégée contre l'inflation et augmente normalement chaque 1er janvier pour refléter au moins une partie de la hausse de l'IPC.",
+   "en": "For full-time employees, the University of Ottawa Retirement Pension Plan is a defined-benefit plan. Your pension is set by a formula based on your average earnings over your best 60 months and your credited service, not on investment returns. It is protected from inflation and normally increases every January 1 to reflect at least part of the rise in the CPI."
+  },
+  "sources": [
+   {
+    "label": "Benefits — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/benefits"
+   },
+   {
+    "label": "Avantages sociaux — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/avantages-sociaux"
+   }
+  ],
+  "related": [
+   "u-retraite-anticipee",
+   "u-retraite-publications",
+   "u-assurances-collectives"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-retraite-anticipee",
+  "category": "finances",
+  "keywords": [
+   "retraite anticipee",
+   "90 points",
+   "age de la retraite",
+   "rente non reduite",
+   "employe",
+   "prof",
+   "staff",
+   "early retirement",
+   "unreduced pension",
+   "retirement age",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "À quel âge puis-je prendre ma retraite sans réduction de rente ?",
+   "en": "At what age can I retire without a pension reduction?"
+  },
+  "answer": {
+   "fr": "Le régime permet de prendre ta retraite dès 60 ans avec une rente non réduite à vie, ou plus tôt si ton âge et tes années de service totalisent 90 points. Tu peux aussi commencer à recevoir ta rente à partir de 55 ans, mais avec une réduction si tu n'as pas les 90 points. Les conditions peuvent varier selon ton statut et ton syndicat.",
+   "en": "The plan lets you retire as early as age 60 with an unreduced lifetime pension, or earlier if your age plus credited service add up to 90 points. You can also start your pension from age 55, but with a reduction if you don't have the 90 points. Conditions may vary depending on your status and union."
+  },
+  "sources": [
+   {
+    "label": "Benefits — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/benefits"
+   },
+   {
+    "label": "Avantages sociaux — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/avantages-sociaux"
+   }
+  ],
+  "related": [
+   "u-regime-retraite",
+   "u-retraite-publications",
+   "u-assurances-collectives"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-retraite-publications",
+  "category": "finances",
+  "keywords": [
+   "fiches regime de retraite",
+   "transfert de service",
+   "quitter l'universite pension",
+   "rapport annuel retraite",
+   "employe",
+   "prof",
+   "staff",
+   "pension fact sheets",
+   "transfer pension service",
+   "leaving before retirement",
+   "faculty member",
+   "evaluation actuarielle"
+  ],
+  "question": {
+   "fr": "Où trouver de l'information sur le transfert de ma rente ou mes options si je quitte l'Université ?",
+   "en": "Where can I find information on transferring my pension or my options if I leave the University?"
+  },
+  "answer": {
+   "fr": "La page des publications du régime de retraite des Ressources humaines offre des fiches d'information, par exemple sur le transfert de service d'un ancien employeur, tes options si tu quittes l'Université avant 55 ans, les congés et la retraite, la rupture du mariage ou les prestations au survivant. Tu y trouveras aussi le texte du régime, le rapport annuel et les évaluations actuarielles.",
+   "en": "The Human Resources pension plan publications page offers fact sheets, for example on transferring service from a previous employer, your options if you leave the University before age 55, leaves of absence, marriage breakdown or survivor benefits. You'll also find the plan text, annual report and actuarial valuations there."
+  },
+  "sources": [
+   {
+    "label": "Pension plan publications — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-resources/pension-plan-publications"
+   },
+   {
+    "label": "Publications du régime de retraite — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/ressources-humaines/publications-regime-retraite"
+   }
+  ],
+  "related": [
+   "u-regime-retraite",
+   "u-retraite-anticipee",
+   "u-assurances-collectives"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-assurances-collectives",
+  "category": "finances",
+  "keywords": [
+   "assurance collective",
+   "assurance sante",
+   "assurance dentaire",
+   "assurance vie",
+   "invalidite",
+   "employe",
+   "prof",
+   "staff",
+   "group insurance",
+   "dental insurance",
+   "health spending account",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Quelles assurances collectives sont offertes aux employés ?",
+   "en": "What group insurance is offered to employees?"
+  },
+  "answer": {
+   "fr": "Les assurances, payées en grande partie par l'employeur, peuvent comprendre l'assurance maladie complémentaire, l'assurance dentaire de base et optionnelle, l'assurance vie de base, l'assurance invalidité de longue durée et un compte de gestion santé pour les employés admissibles. Les avantages varient selon ton syndicat et ton statut et peuvent changer. Pour ta couverture précise, écris au Centre libre-service RH.",
+   "en": "Insurance, mostly paid by the employer, may include extended health, basic and optional dental, basic life insurance, long-term disability and a health-care spending account for eligible employees. Benefits vary by union and status and are subject to change. For your exact coverage, contact the HR Self-Service Centre."
+  },
+  "sources": [
+   {
+    "label": "Benefits — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/benefits"
+   },
+   {
+    "label": "Avantages sociaux — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/avantages-sociaux"
+   }
+  ],
+  "related": [
+   "u-regime-retraite",
+   "u-retraite-anticipee",
+   "u-retraite-publications"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-paef",
+  "category": "services",
+  "keywords": [
+   "paef",
+   "programme d'aide aux employes",
+   "telus sante",
+   "aide confidentielle",
+   "employe",
+   "prof",
+   "staff",
+   "efap",
+   "employee assistance",
+   "telus health one",
+   "faculty member",
+   "counselling employees"
+  ],
+  "question": {
+   "fr": "Existe-t-il un programme d'aide pour les employés et leur famille ?",
+   "en": "Is there an assistance program for employees and their families?"
+  },
+  "answer": {
+   "fr": "Oui, le Programme d'aide aux employés et à la famille (PAEF), offert par TELUS Santé, est gratuit, confidentiel, bilingue et accessible 24 heures sur 24, 7 jours sur 7, au 1-844-880-9142. Il est offert aux professeurs, au personnel et aux membres admissibles de leur famille vivant sous le même toit. En cas d'urgence sur le campus, appelle le 613-562-5411.",
+   "en": "Yes, the Employee and Family Assistance Program (EFAP), provided by TELUS Health, is free, confidential, bilingual and available 24/7 at 1-844-880-9142. It is open to faculty, staff and eligible family members in the same household. For an emergency on campus, call 613-562-5411."
+  },
+  "sources": [
+   {
+    "label": "Employee and family assistance program — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/employee-family-assistance-program"
+   },
+   {
+    "label": "Programme d’aide aux employés et à la famille — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/programme-daide-aux-employes-famille"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "u-telemedecine",
+  "category": "services",
+  "keywords": [
+   "telemedecine",
+   "medecin en ligne",
+   "consult+",
+   "canada vie",
+   "employe",
+   "prof",
+   "staff",
+   "telemedicine",
+   "virtual doctor",
+   "online physician",
+   "faculty member",
+   "retraites"
+  ],
+  "question": {
+   "fr": "Les employés ont-ils accès à un médecin en ligne ?",
+   "en": "Do employees have access to an online doctor?"
+  },
+  "answer": {
+   "fr": "Oui, Consult+ de la Canada Vie offre des services de télémédecine avec un accès rapide en ligne à des médecins généralistes, 24 heures sur 24, 7 jours sur 7. Ces services sont offerts aux professeurs, au personnel, aux membres des associations de retraités et aux membres admissibles de leur famille.",
+   "en": "Yes, Consult+ by Canada Life offers telemedicine services with quick online access to general practitioners, 24/7. These services are open to faculty, staff, members of the retirees' associations and their eligible family members."
+  },
+  "sources": [
+   {
+    "label": "Employee and family assistance program — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/employee-family-assistance-program"
+   },
+   {
+    "label": "Programme d’aide aux employés et à la famille — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/programme-daide-aux-employes-famille"
+   },
+   {
+    "label": "Getting help (employees) — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/getting-help-employees"
+   },
+   {
+    "label": "Recevoir de l'aide (pour employé) — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/sante-mieux-etre/recevoir-aide-employe"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-droits-scolarite-employes",
+  "category": "finances",
+  "keywords": [
+   "droits de scolarite employe",
+   "exoneration",
+   "etudier gratuitement",
+   "politique 22",
+   "employe",
+   "prof",
+   "staff",
+   "tuition fee support",
+   "tuition waiver",
+   "employee tuition",
+   "faculty member",
+   "personnes a charge"
+  ],
+  "question": {
+   "fr": "Est-ce que les employés peuvent étudier à l'Université sans payer les droits de scolarité ?",
+   "en": "Can employees study at the University without paying tuition fees?"
+  },
+  "answer": {
+   "fr": "L'Université offre un soutien financier sous forme de crédits équivalant à 100 % des droits de scolarité. Le programme s'adresse à toi, à ton conjoint ou ta conjointe et à tes personnes à charge déclarées et admissibles, sous réserve des règles d'admissibilité du Règlement 22.",
+   "en": "The University offers financial support in the form of credits equal to 100% of tuition fees. The program is for you, your spouse and your declared, eligible dependants, subject to the eligibility rules of Policy 22."
+  },
+  "sources": [
+   {
+    "label": "Benefits — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/benefits"
+   },
+   {
+    "label": "Avantages sociaux — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/avantages-sociaux"
+   }
+  ],
+  "related": [
+   "u-regime-retraite",
+   "u-retraite-anticipee",
+   "u-retraite-publications"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-cours-langue-personnel",
+  "category": "services",
+  "keywords": [
+   "cours de langue employe",
+   "francais langue seconde",
+   "anglais langue seconde",
+   "ilob",
+   "employe",
+   "prof",
+   "staff",
+   "language courses for staff",
+   "second language training",
+   "free french courses",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Les employés peuvent-ils suivre des cours de français ou d'anglais gratuitement ?",
+   "en": "Can employees take French or English courses for free?"
+  },
+  "answer": {
+   "fr": "Oui, en partenariat avec les Ressources humaines, l'Institut des langues officielles et du bilinguisme (ILOB) offre gratuitement des cours d'anglais ou de français langue seconde aux professeurs et au personnel. Dans bien des cas, les cours sont aussi ouverts aux membres de la famille.",
+   "en": "Yes, in partnership with Human Resources, the Official Languages and Bilingualism Institute (OLBI) offers free English or French as a second language courses to faculty and staff. In many cases, courses are also open to family members."
+  },
+  "sources": [
+   {
+    "label": "Benefits — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/benefits"
+   },
+   {
+    "label": "Avantages sociaux — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/avantages-sociaux"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-jours-feries",
+  "category": "services",
+  "keywords": [
+   "jours feries",
+   "conges payes",
+   "fete du travail",
+   "jour de la famille",
+   "employe",
+   "prof",
+   "staff",
+   "paid holidays",
+   "statutory holidays",
+   "public holidays",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Quels sont les jours fériés payés pour les employés ?",
+   "en": "What are the paid holidays for employees?"
+  },
+  "answer": {
+   "fr": "Les jours fériés payés sont Noël, le lendemain de Noël, le jour de l'An, le jour de la Famille, le Vendredi saint, le lundi de Pâques, la fête de Victoria, la fête du Canada, le congé civique, la fête du Travail et l'Action de grâce. Il y a aussi une période de congé d'hiver.",
+   "en": "Paid holidays are Christmas Day, Boxing Day, New Year's Day, Family Day, Good Friday, Easter Monday, Victoria Day, Canada Day, the Civic Holiday, Labour Day and Thanksgiving. There is also a winter holiday period."
+  },
+  "sources": [
+   {
+    "label": "Benefits — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/benefits"
+   },
+   {
+    "label": "Avantages sociaux — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/avantages-sociaux"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-horaire-ete",
+  "category": "services",
+  "keywords": [
+   "horaire d'ete",
+   "heures d'ete",
+   "partir plus tot",
+   "ete",
+   "employe",
+   "prof",
+   "staff",
+   "summer hours",
+   "reduced summer hours",
+   "leave early summer",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Y a-t-il un horaire d'été pour les employés ?",
+   "en": "Are there summer hours for employees?"
+  },
+  "answer": {
+   "fr": "Oui, l'Université offre un horaire d'été qui te permet de partir une heure plus tôt. Il s'applique du 1er juin au 31 août. Les conditions de travail peuvent varier selon ton syndicat et ton statut.",
+   "en": "Yes, the University offers summer hours that let you leave one hour earlier. They run from June 1 to August 31. Working conditions may vary depending on your union and status."
+  },
+  "sources": [
+   {
+    "label": "Benefits — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/benefits"
+   },
+   {
+    "label": "Avantages sociaux — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/avantages-sociaux"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-cotisations-pro",
+  "category": "finances",
+  "keywords": [
+   "cotisations professionnelles",
+   "ordre professionnel",
+   "remboursement cotisation",
+   "employe",
+   "staff",
+   "personnel de soutien",
+   "professional association fees",
+   "membership fees",
+   "reimbursement",
+   "support staff"
+  ],
+  "question": {
+   "fr": "L'Université rembourse-t-elle les cotisations à une association professionnelle ?",
+   "en": "Does the University reimburse professional association fees?"
+  },
+  "answer": {
+   "fr": "Si tu fais partie du personnel administratif ou de soutien régulier, tes cotisations à une association professionnelle peuvent être remboursées par ta faculté, ton école ou ton service, sous certaines conditions. Ces conditions sont précisées dans le Règlement 24.",
+   "en": "If you are a regular administrative or support staff member, your professional association membership fees may be reimbursed by your faculty, school or service, under certain conditions. These conditions are set out in Policy 24."
+  },
+  "sources": [
+   {
+    "label": "Benefits — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/benefits"
+   },
+   {
+    "label": "Avantages sociaux — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/avantages-sociaux"
+   }
+  ],
+  "related": [
+   "u-regime-retraite",
+   "u-retraite-anticipee",
+   "u-retraite-publications"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-rabais-boutique",
+  "category": "services",
+  "keywords": [
+   "rabais employe",
+   "boutique du campus",
+   "librairie",
+   "vetements gee-gees",
+   "employe",
+   "prof",
+   "staff",
+   "employee discount",
+   "campus store",
+   "bookstore discount",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Les employés ont-ils un rabais à la boutique du campus ?",
+   "en": "Do employees get a discount at the campus store?"
+  },
+  "answer": {
+   "fr": "Oui, les employés profitent d'offres spéciales comme un rabais de 10 % sur les vêtements et certains livres à la boutique du campus. Des événements exclusifs pour les employés sont aussi organisés pendant l'année.",
+   "en": "Yes, employees get special offers such as a 10% discount on clothing and some books at the campus store. Exclusive employee events are also held throughout the year."
+  },
+  "sources": [
+   {
+    "label": "Benefits — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/benefits"
+   },
+   {
+    "label": "Avantages sociaux — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/avantages-sociaux"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-immigration-employes",
+  "category": "services",
+  "keywords": [
+   "permis de travail employe",
+   "immigration",
+   "professeur etranger",
+   "residence permanente",
+   "employe",
+   "prof",
+   "staff",
+   "work permit",
+   "international faculty",
+   "permanent residency",
+   "faculty member",
+   "postdoctoral"
+  ],
+  "question": {
+   "fr": "Je suis un professeur ou un employé venant de l'étranger : qui peut m'aider avec mon permis de travail ?",
+   "en": "I'm a professor or employee coming from abroad: who can help with my work permit?"
+  },
+  "answer": {
+   "fr": "Le bureau Emploi international et immigration aide les professeurs, les stagiaires postdoctoraux et le personnel de soutien recrutés à l'étranger. L'équipe prépare la stratégie d'immigration pour obtenir l'autorisation de travailler au Canada, pour toi et ta famille admissible, et répond à tes questions jusqu'à ton arrivée. Une fois installé, elle te guide aussi pour ta demande de résidence permanente.",
+   "en": "The International Employment and Immigration office helps professors, postdoctoral fellows and support staff recruited from abroad. The team prepares the immigration strategy to obtain authorization to work in Canada, for you and your eligible family members, and answers your questions until you arrive. Once you're settled, it also guides you through your permanent residency application."
+  },
+  "sources": [
+   {
+    "label": "International employment and immigration services — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/careers/international-employment-and-immigration"
+   },
+   {
+    "label": "Services d'emploi international et immigration — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/carrieres/emploi-international-immigration"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-carte-employe-obtenir",
+  "category": "services",
+  "keywords": [
+   "carte d'employe",
+   "premiere carte",
+   "photo carte",
+   "carte uottawa employe",
+   "employe",
+   "prof",
+   "staff",
+   "employee card",
+   "employee id card",
+   "id photo",
+   "faculty member",
+   "tabaret"
+  ],
+  "question": {
+   "fr": "Comment obtenir ma première carte d'employé uOttawa ?",
+   "en": "How do I get my first uOttawa employee card?"
+  },
+  "answer": {
+   "fr": "Après ton premier jour, soumets ta photo en ligne en te connectant avec ton identifiant uoAccess et en téléversant une pièce d'identité gouvernementale. Quand la carte est prête, tu reçois un courriel et tu vas la chercher aux Ressources humaines, pavillon Tabaret, local 019, avec une pièce d'identité gouvernementale valide comme un passeport ou un permis de conduire. À la Faculté de médecine et à la Faculté des sciences de la santé, c'est ta faculté qui te contacte pour la remise.",
+   "en": "After your first day, submit your photo online by signing in with your uoAccess ID and uploading a government-issued ID. When the card is ready, you get an email and pick it up at Human Resources, Tabaret Hall, Room 019, with valid government-issued ID such as a passport or driver's licence. In the Faculty of Medicine and the Faculty of Health Sciences, your faculty contacts you for pickup."
+  },
+  "sources": [
+   {
+    "label": "Get a uOttawa employee card — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/get-employee-card"
+   },
+   {
+    "label": "Obtenir une carte d'employé — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/carte-uottawa/carte-employe"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-carte-employe-fin-contrat",
+  "category": "services",
+  "keywords": [
+   "carte d'employe fin de contrat",
+   "garder ma carte",
+   "nouveau contrat",
+   "carte defectueuse",
+   "employe",
+   "prof",
+   "staff",
+   "employee card end of contract",
+   "card not working",
+   "new contract",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Dois-je rendre ma carte d'employé à la fin de mon contrat ?",
+   "en": "Do I have to return my employee card at the end of my contract?"
+  },
+  "answer": {
+   "fr": "Non, ne jette pas ta carte : elle est renouvelée à chaque contrat et tu en auras besoin pour tes prochains contrats. Des frais s'appliquent pour en émettre une nouvelle. Si ta carte ne fonctionne plus, apporte-la au Service de la carte uOttawa, au 90, rue Université, local 145.",
+   "en": "No, don't throw away your card: it is renewed with each contract and you'll need it for future contracts. A fee applies to issue a replacement. If your card stops working, bring it to the uOttawa Card Service at 90 University, Room 145."
+  },
+  "sources": [
+   {
+    "label": "Get a uOttawa employee card — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/get-employee-card"
+   },
+   {
+    "label": "Obtenir une carte d'employé — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/carte-uottawa/carte-employe"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-forfait-bloc-employes",
+  "category": "services",
+  "keywords": [
+   "forfait bloc employe",
+   "salle a manger",
+   "repas employe",
+   "entrees",
+   "employe",
+   "prof",
+   "staff",
+   "employee block plan",
+   "dining hall",
+   "meal plan staff",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Les employés peuvent-ils acheter un forfait repas pour la salle à manger ?",
+   "en": "Can employees buy a meal plan for the Dining Hall?"
+  },
+  "answer": {
+   "fr": "Oui, les employés réguliers avec une carte d'employé valide peuvent acheter un bloc de 20, 40 ou 60 entrées à la salle à manger. En 2026-2027, le bloc coûte 398,40 $, 787,20 $ ou 1 101,60 $ taxes incluses. Les entrées sont valides pour une session et celles non utilisées sont converties en dollars Flex. Tu l'achètes dans ton compte de carte uOttawa, section Personnel, puis Forfait alimentaire.",
+   "en": "Yes, regular employees with a valid employee card can buy a block of 20, 40 or 60 Dining Hall entries. In 2026-2027, the blocks cost $398.40, $787.20 or $1,101.60 including taxes. Entries are valid for one term and unused ones are converted into Flex dollars. You buy it in your uOttawa card account, under Staff, then Meal plan."
+  },
+  "sources": [
+   {
+    "label": "Employee Block Dining Plans — uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/employee-block-plan"
+   },
+   {
+    "label": "Blocs alimentaires pour employés — uOttawa",
+    "url": "https://www.uottawa.ca/vie-campus/manger-campus/forfaits-bloc-employes"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-don-retenue-paie",
+  "category": "finances",
+  "keywords": [
+   "don retenue sur la paie",
+   "faire un don employe",
+   "retenue a la source",
+   "recu fiscal t4",
+   "employe",
+   "prof",
+   "staff",
+   "payroll deduction gift",
+   "employee giving",
+   "donate",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Comment faire un don à l'Université par retenue sur la paie ?",
+   "en": "How do I donate to the University through payroll deduction?"
+  },
+  "answer": {
+   "fr": "Les employés et les professeurs peuvent faire un don continu par retenue sur la paie en remplissant le formulaire de retenue. Les retenues commencent à la date que tu choisis, ton reçu fiscal est intégré à ton feuillet T4 et tu peux modifier le montant ou la destination en tout temps. Pour de l'aide, appelle le Bureau du développement au 613-562-5800, poste 3417.",
+   "en": "Staff and faculty can make an ongoing gift through payroll deduction by filling out the payroll deduction form. Deductions start on the date you choose, your tax receipt is included in your T4, and you can change the amount or designation at any time. For help, call the Development Office at 613-562-5800 ext. 3417."
+  },
+  "sources": [
+   {
+    "label": "Support the University of Ottawa through payroll and pension deductions — uOttawa",
+    "url": "https://www.uottawa.ca/giving/payroll-pension-deductions"
+   },
+   {
+    "label": "Donner à l’Université d’Ottawa par retenue sur la paie ou les prestations de retraite — uOttawa",
+    "url": "https://www.uottawa.ca/donner/retenue-paie-prestations"
+   }
+  ],
+  "related": [
+   "u-regime-retraite",
+   "u-retraite-anticipee",
+   "u-retraite-publications"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-salaires-divulgation",
+  "category": "reglements",
+  "keywords": [
+   "salaires 100 000",
+   "divulgation des salaires",
+   "liste publique",
+   "employe",
+   "prof",
+   "staff",
+   "sunshine list",
+   "salary disclosure",
+   "public notices",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Où trouver la liste des employés de l'Université payés 100 000 $ ou plus ?",
+   "en": "Where can I find the list of University employees paid $100,000 or more?"
+  },
+  "answer": {
+   "fr": "La page des Ressources humaines publie, dans sa section Avis publics et divulgations, la liste des employés payés 100 000 $ ou plus pour chaque année, de 2022 à 2025.",
+   "en": "The Human Resources page publishes, in its Public notices and disclosures section, the list of employees paid $100,000 or more for each year, from 2022 to 2025."
+  },
+  "sources": [
+   {
+    "label": "Human Resources — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-resources"
+   },
+   {
+    "label": "Ressources humaines — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/ressources-humaines"
+   }
+  ],
+  "related": [
+   "u-conge-autofinance",
+   "u-teletravail",
+   "u-deconnexion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-conge-autofinance",
+  "category": "reglements",
+  "keywords": [
+   "conge autofinance",
+   "salaire differe",
+   "reglement 46a",
+   "conge sabbatique",
+   "employe",
+   "prof",
+   "staff",
+   "self-funded leave",
+   "deferred salary",
+   "policy 46a",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Comment fonctionne le congé autofinancé ?",
+   "en": "How does self-funded leave work?"
+  },
+  "answer": {
+   "fr": "Le congé autofinancé (Règlement 46a) te permet de différer une partie de ton salaire pour financer un congé de 6 à 12 mois consécutifs, qui doit commencer au plus tard six ans après le début des retenues. Il s'adresse aux employés réguliers qui comptent au moins quatre ans d'emploi actif continu ou aux professeurs permanents. Le montant et la durée sont convenus par écrit à l'avance avec ta direction et les Ressources humaines.",
+   "en": "Self-funded leave (Policy 46a) lets you defer part of your salary to fund a leave of 6 to 12 consecutive months, which must begin no more than six years after deductions start. It is for regular staff members with at least four continuous years of active employment, or tenured professors. The amount and length are agreed in writing in advance with your dean or director and Human Resources."
+  },
+  "sources": [
+   {
+    "label": "Policy 46a - Self-Funded Leave — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/policy-46a-self-funded-leave"
+   },
+   {
+    "label": "Règlement 46a - Congé autofinancé — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/reglement-46a-conge-autofinance"
+   }
+  ],
+  "related": [
+   "u-salaires-divulgation",
+   "u-teletravail",
+   "u-deconnexion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-teletravail",
+  "category": "reglements",
+  "keywords": [
+   "teletravail",
+   "travail hybride",
+   "travail a distance",
+   "jours au campus",
+   "employe",
+   "staff",
+   "telework",
+   "remote work",
+   "hybrid work",
+   "flexible work arrangement",
+   "directive"
+  ],
+  "question": {
+   "fr": "Combien de jours de télétravail sont permis à l'Université ?",
+   "en": "How many telework days are allowed at the University?"
+  },
+  "answer": {
+   "fr": "Selon la directive institutionnelle adoptée le 23 juin 2026, le campus demeure le lieu de travail principal et le télétravail est permis au maximum deux jours par semaine. Le télétravail n'est pas un droit acquis : ton gestionnaire peut refuser, modifier ou retirer une entente avec un préavis raisonnable, selon les besoins opérationnels.",
+   "en": "Under the institutional directive adopted on June 23, 2026, campus remains the primary place of work and telework is allowed for a maximum of two days a week. Telework is not an acquired right: your manager can deny, modify or withdraw an agreement with reasonable notice, based on operational needs."
+  },
+  "sources": [
+   {
+    "label": "Institutional directive on telework and flexible work arrangements — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/institutional-directive-telework-flexible-work-arrangements"
+   },
+   {
+    "label": "Directive institutionnelle sur le télétravail – Une modalité de travail flexible — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/directive-institutionnelle-teletravail-modalite-travail-flexible"
+   }
+  ],
+  "related": [
+   "u-salaires-divulgation",
+   "u-conge-autofinance",
+   "u-deconnexion"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-deconnexion",
+  "category": "reglements",
+  "keywords": [
+   "deconnexion",
+   "droit a la deconnexion",
+   "courriels apres les heures",
+   "reglement 131",
+   "employe",
+   "prof",
+   "staff",
+   "disconnecting from work",
+   "after-hours email",
+   "policy 131",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "L'Université a-t-elle une politique sur la déconnexion du travail ?",
+   "en": "Does the University have a policy on disconnecting from work?"
+  },
+  "answer": {
+   "fr": "Oui, le Règlement 131, en vigueur depuis le 1er juin 2022, vise à ce que chaque employé connaisse ses heures normales de travail et les situations où il pourrait devoir communiquer en dehors de ces heures. Ta capacité à te déconnecter dépend des besoins opérationnels et de ton poste. Tu ne peux pas subir de représailles pour avoir soulevé une question à ce sujet.",
+   "en": "Yes, Policy 131, in effect since June 1, 2022, aims to ensure every employee knows their normal hours of work and the situations in which they may need to communicate outside those hours. Your ability to disconnect depends on operational needs and your position. You cannot face reprisal for raising questions about it."
+  },
+  "sources": [
+   {
+    "label": "Policy 131 – Disconnecting from Work — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/policy-131-disconnecting-work"
+   },
+   {
+    "label": "Règlement 131 – Déconnexion du travail — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/reglement-131-deconnexion-travail"
+   }
+  ],
+  "related": [
+   "u-salaires-divulgation",
+   "u-conge-autofinance",
+   "u-teletravail"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-surveillance-electronique",
+  "category": "reglements",
+  "keywords": [
+   "surveillance electronique",
+   "vie privee employe",
+   "suivi des employes",
+   "reglement 132",
+   "employe",
+   "prof",
+   "staff",
+   "electronic monitoring",
+   "employee privacy",
+   "policy 132",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Est-ce que l'Université surveille électroniquement ses employés ?",
+   "en": "Does the University electronically monitor its employees?"
+  },
+  "answer": {
+   "fr": "Selon le Règlement 132, l'Université n'utilise pas de moyens électroniques pour suivre délibérément et en temps réel l'activité ou la position des employés dans le cours normal de ses activités. Certains outils, comme les antivirus, les pare-feu ou les caméras, peuvent toutefois générer des données sur l'activité ou la position. Le règlement s'applique à tous les employés.",
+   "en": "Under Policy 132, the University does not use electronic means to deliberately track employee activity or location in real time as a routine practice. Some tools, such as antivirus software, firewalls or cameras, may however generate data about activity or location. The policy applies to all employees."
+  },
+  "sources": [
+   {
+    "label": "Policy 132 - Electronic Monitoring of Employees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/policy-132-electronic-monitoring-employees"
+   },
+   {
+    "label": "Règlement 132 - Surveillance électronique du personnel — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/reglement-132-surveillance-electronique"
+   }
+  ],
+  "related": [
+   "u-salaires-divulgation",
+   "u-conge-autofinance",
+   "u-teletravail"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-plainte-harcelement",
+  "category": "reglements",
+  "keywords": [
+   "harcelement au travail",
+   "discrimination",
+   "plainte",
+   "bureau des droits de la personne",
+   "employe",
+   "prof",
+   "staff",
+   "workplace harassment",
+   "discrimination complaint",
+   "human rights office",
+   "policy 67a"
+  ],
+  "question": {
+   "fr": "Comment porter plainte pour harcèlement ou discrimination au travail ?",
+   "en": "How do I file a complaint about harassment or discrimination at work?"
+  },
+  "answer": {
+   "fr": "Selon le Règlement 67a, les plaintes de harcèlement ou de discrimination se font auprès du Bureau des droits de la personne, dans un délai d'un an après le dernier incident. Une plainte plus tardive peut être examinée si le retard est de bonne foi et ne cause pas de préjudice important. Le règlement s'applique à tous les membres de la communauté universitaire.",
+   "en": "Under Policy 67a, harassment or discrimination complaints are made to the Human Rights Office within one year of the most recent incident. A later complaint may be considered if the delay was in good faith and causes no substantial prejudice. The policy applies to all members of the University community."
+  },
+  "sources": [
+   {
+    "label": "Policy 67a - Prevention of Harassment and Discrimination — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/policy-67a-prevention-harassment-discrimination"
+   },
+   {
+    "label": "Règlement 67a - Prévention du harcèlement et de la discrimination — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/reglement-67a-prevention-harcelement-discrimination"
+   }
+  ],
+  "related": [
+   "u-salaires-divulgation",
+   "u-conge-autofinance",
+   "u-teletravail"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-remboursement-depenses",
+  "category": "finances",
+  "keywords": [
+   "remboursement de depenses",
+   "frais de deplacement",
+   "reglement 21",
+   "note de frais",
+   "employe",
+   "prof",
+   "staff",
+   "expense reimbursement",
+   "travel expenses",
+   "policy 21",
+   "faculty member",
+   "workday"
+  ],
+  "question": {
+   "fr": "Comment me faire rembourser une dépense faite pour l'Université ?",
+   "en": "How do I get reimbursed for an expense I made for the University?"
+  },
+  "answer": {
+   "fr": "Les professeurs et le personnel demandent leur remboursement en ligne, dans Workday. Selon le Règlement 21, une dépense est admissible si elle est légitime, engagée uniquement pour les affaires de l'Université, appuyée de pièces justificatives et sans gain personnel. Les dépenses déjà réclamées ailleurs ou normalement fournies par l'Université ne sont pas remboursées.",
+   "en": "Faculty and staff request reimbursement online, in Workday. Under Policy 21, an expense is eligible if it is legitimate, incurred only for University business, supported by documentation and results in no personal gain. Expenses already claimed elsewhere or normally provided by the University are not reimbursed."
+  },
+  "sources": [
+   {
+    "label": "Expenses — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/financial-resources/expenses"
+   },
+   {
+    "label": "Frais — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/ressources-financieres/frais"
+   },
+   {
+    "label": "Policy 21 - Reimbursement to Individuals for University Business Expenses — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/policy-21-reimbursement-business-expenses"
+   },
+   {
+    "label": "Règlement 21 - Remboursement aux particuliers des dépenses engagées pour le compte de l'Université — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/reglement-21-remboursement-depenses"
+   },
+   {
+    "label": "Research resources — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/professors/research"
+   },
+   {
+    "label": "Ressources de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/vous-et-la-ti/professeurs/ressources-recherche"
+   }
+  ],
+  "related": [
+   "u-regime-retraite",
+   "u-retraite-anticipee",
+   "u-retraite-publications"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-accident-travail",
+  "category": "services",
+  "keywords": [
+   "accident de travail",
+   "blessure au travail",
+   "rapport d'incident",
+   "cspaat",
+   "employe",
+   "prof",
+   "staff",
+   "workplace accident",
+   "injury at work",
+   "incident report",
+   "wsib",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Je me suis blessé au travail : que dois-je faire ?",
+   "en": "I got hurt at work: what should I do?"
+  },
+  "answer": {
+   "fr": "Obtiens d'abord les soins nécessaires; en cas d'urgence, appelle le Service de la protection au 613-562-5411. Signale la situation tout de suite à ton superviseur, verbalement ou par écrit, puis remplis le formulaire en ligne de déclaration d'accident ou d'incident de l'Université. Si tu as reçu des soins médicaux ou perdu du temps de travail, l'Université doit le déclarer à la CSPAAT.",
+   "en": "First get the care you need; in an emergency, call Protection Services at 613-562-5411. Report the situation right away to your supervisor, verbally or in writing, then fill out the University's online accident or incident report form. If you received medical care or lost work time, the University must report it to the WSIB."
+  },
+  "sources": [
+   {
+    "label": "Incident Reporting for University Employees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/health-safety-environmental-management/incident/incident-reporting-university-employees"
+   },
+   {
+    "label": "Signalez un incident (pour le personnel de l'Université) — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/sante-securite-environnement/incident/signalez-incident-personnel-luniversite"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-permis-pluriannuel",
+  "category": "transport",
+  "keywords": [
+   "permis pluriannuel",
+   "stationnement employe",
+   "retenue sur la paie stationnement",
+   "employe",
+   "prof",
+   "staff",
+   "multi-year parking permit",
+   "employee parking",
+   "payroll deduction parking",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Qui a droit au permis de stationnement pluriannuel ?",
+   "en": "Who is eligible for the multi-year parking permit?"
+  },
+  "answer": {
+   "fr": "Le personnel de soutien régulier et les professeurs qui occupent un poste permanent ou ont un contrat de plus d'un an y ont droit. Le permis se paie par retenue sur la paie et n'a pas de date d'expiration. Il n'est pas transférable à un autre employé et doit être rendu si tu quittes l'Université, si ton contrat se termine ou si tu n'en as plus besoin.",
+   "en": "Regular support staff and faculty members who hold a permanent position or a contract longer than one year are eligible. The permit is paid through payroll deduction and has no expiry date. It can't be transferred to another employee and must be returned if you leave the University, your contract ends or you no longer need it."
+  },
+  "sources": [
+   {
+    "label": "For employees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/purchase-permit/employees"
+   },
+   {
+    "label": "Personnel — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/achat-permis/employes"
+   }
+  ],
+  "related": [
+   "u-permis-pluriannuel-tarifs",
+   "u-permis-suspension",
+   "u-permis-perdu-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-permis-pluriannuel-tarifs",
+  "category": "transport",
+  "keywords": [
+   "tarif permis employe",
+   "garage mann",
+   "lot g4",
+   "lot r",
+   "employe",
+   "prof",
+   "staff",
+   "employee permit rates",
+   "mann garage",
+   "parking cost staff",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Où et à quel prix sont offerts les permis de stationnement pluriannuels ?",
+   "en": "Where are multi-year parking permits offered and at what price?"
+  },
+  "answer": {
+   "fr": "Les permis pluriannuels sont actuellement émis pour trois endroits seulement : le garage Mann (Complexe sportif), au 33, avenue Mann, à 200,70 $ par mois; le lot G4, au 200, avenue Lees, à 116,44 $ par mois; et le lot R, au 625, avenue Peter-Morand, à 98,44 $ par mois.",
+   "en": "Multi-year permits are currently issued for three locations only: Mann Garage (Sports Complex), 33 Mann Avenue, at $200.70 a month; Lot G4, 200 Lees Avenue, at $116.44 a month; and Lot R, 625 Peter Morand, at $98.44 a month."
+  },
+  "sources": [
+   {
+    "label": "For employees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/purchase-permit/employees"
+   },
+   {
+    "label": "Personnel — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/achat-permis/employes"
+   }
+  ],
+  "related": [
+   "u-permis-pluriannuel",
+   "u-permis-suspension",
+   "u-permis-perdu-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-permis-suspension",
+  "category": "transport",
+  "keywords": [
+   "suspendre permis",
+   "conge maternite stationnement",
+   "absence stationnement",
+   "employe",
+   "prof",
+   "staff",
+   "suspend parking permit",
+   "leave of absence parking",
+   "parental leave",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Je pars en congé quelques mois : puis-je suspendre mon permis de stationnement ?",
+   "en": "I'm going on leave for a few months: can I suspend my parking permit?"
+  },
+  "answer": {
+   "fr": "Oui, pour une absence de 3 à 12 mois, tu peux demander la suspension temporaire de ton permis pluriannuel. Rapporte ton permis au Bureau du stationnement et du transport durable et remplis les documents requis avant ton départ. Tu restes responsable des frais jusqu'au retour du permis, et tu ne peux pas le transférer à ton remplaçant.",
+   "en": "Yes, for an absence of 3 to 12 months, you can ask to temporarily suspend your multi-year permit. Return your permit to the Parking and Sustainable Transportation Office and complete the required paperwork before you leave. You remain responsible for costs until the permit is returned, and you can't transfer it to your replacement."
+  },
+  "sources": [
+   {
+    "label": "For employees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/purchase-permit/employees"
+   },
+   {
+    "label": "Personnel — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/achat-permis/employes"
+   }
+  ],
+  "related": [
+   "u-permis-pluriannuel",
+   "u-permis-pluriannuel-tarifs",
+   "u-permis-perdu-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-permis-perdu-employe",
+  "category": "transport",
+  "keywords": [
+   "permis perdu",
+   "remplacer permis",
+   "frais de remplacement",
+   "employe",
+   "prof",
+   "staff",
+   "lost parking permit",
+   "replacement permit",
+   "parking fee",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "J'ai perdu mon permis de stationnement pluriannuel : combien ça coûte ?",
+   "en": "I lost my multi-year parking permit: how much does it cost?"
+  },
+  "answer": {
+   "fr": "Si tu perds ton permis pluriannuel, des frais de remplacement de 60 $ te seront facturés. Adresse-toi au Bureau du stationnement et du transport durable.",
+   "en": "If you lose your multi-year permit, you will be charged a $60 replacement fee. Contact the Parking and Sustainable Transportation Office."
+  },
+  "sources": [
+   {
+    "label": "For employees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/purchase-permit/employees"
+   },
+   {
+    "label": "Personnel — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/achat-permis/employes"
+   }
+  ],
+  "related": [
+   "u-permis-pluriannuel",
+   "u-permis-pluriannuel-tarifs",
+   "u-permis-suspension"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-permis-transfert",
+  "category": "transport",
+  "keywords": [
+   "changer de stationnement",
+   "liste de transfert",
+   "liste d'attente stationnement",
+   "employe",
+   "prof",
+   "staff",
+   "parking transfer list",
+   "switch parking lot",
+   "waiting list",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Puis-je changer de stationnement avec mon permis d'employé ?",
+   "en": "Can I switch parking locations with my employee permit?"
+  },
+  "answer": {
+   "fr": "Il n'y a pas de liste d'attente officielle pour les permis des employés, mais tu peux demander un transfert vers un autre stationnement du campus. Ton nom est alors ajouté à une liste de transfert, et les délais varient et ne sont pas garantis.",
+   "en": "There is no formal waiting list for employee permits, but you can request a transfer to another campus location. Your name is then added to a transfer list, and wait times vary and are not guaranteed."
+  },
+  "sources": [
+   {
+    "label": "For employees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/purchase-permit/employees"
+   },
+   {
+    "label": "Personnel — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/achat-permis/employes"
+   }
+  ],
+  "related": [
+   "u-permis-pluriannuel",
+   "u-permis-pluriannuel-tarifs",
+   "u-permis-suspension"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-permis-quarts",
+  "category": "transport",
+  "keywords": [
+   "permis travail par quarts",
+   "quart de nuit",
+   "stationnement quarts",
+   "employe",
+   "staff",
+   "shift work permit",
+   "night shift parking",
+   "half price permit",
+   "support staff"
+  ],
+  "question": {
+   "fr": "Y a-t-il un permis de stationnement pour les employés qui travaillent par quarts ?",
+   "en": "Is there a parking permit for employees who work shifts?"
+  },
+  "answer": {
+   "fr": "Oui, si ton horaire régulier compte environ 50 % de quarts de jour et 50 % de quarts de nuit. Ton admissibilité doit être vérifiée par ton service ou ton superviseur et approuvée par le Bureau du stationnement. Le permis coûte la moitié d'un permis régulier, est valide seulement pendant tes quarts prévus et ne donne pas droit à une deuxième vignette.",
+   "en": "Yes, if your regular schedule includes about 50% day shifts and 50% night shifts. Your eligibility must be verified by your department or supervisor and approved by the Parking Office. The permit costs half the price of a regular permit, is valid only during your scheduled shifts and doesn't come with a second tag."
+  },
+  "sources": [
+   {
+    "label": "For employees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/purchase-permit/employees"
+   },
+   {
+    "label": "Personnel — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/achat-permis/employes"
+   }
+  ],
+  "related": [
+   "u-permis-pluriannuel",
+   "u-permis-pluriannuel-tarifs",
+   "u-permis-suspension"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-deuxieme-vignette",
+  "category": "transport",
+  "keywords": [
+   "deuxieme vignette",
+   "partager permis collegue",
+   "covoiturage employe",
+   "employe",
+   "prof",
+   "staff",
+   "second permit tag",
+   "share permit colleague",
+   "carpool",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Puis-je partager mon permis d'employé avec un collègue ?",
+   "en": "Can I share my employee permit with a colleague?"
+  },
+  "answer": {
+   "fr": "Oui, le titulaire d'un permis d'employé peut demander une deuxième vignette pour une autre personne, mais une seule copie peut être utilisée à la fois. Si les deux sont utilisées en même temps, le véhicule avec la deuxième vignette reçoit une contravention. La deuxième vignette ne sert pas pour ton propre deuxième véhicule et expire à la fin d'avril; il faut en chercher une nouvelle chaque mois de mai.",
+   "en": "Yes, an employee permit holder can request a second tag for another person, but only one copy can be used at a time. If both are used at once, the vehicle with the second tag gets a ticket. The second tag isn't for your own second vehicle and expires at the end of April; you must pick up a new one each May."
+  },
+  "sources": [
+   {
+    "label": "For employees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/purchase-permit/employees"
+   },
+   {
+    "label": "Personnel — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/achat-permis/employes"
+   },
+   {
+    "label": "Parking permit information — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/parking-permit-information"
+   }
+  ],
+  "related": [
+   "u-permis-pluriannuel",
+   "u-permis-pluriannuel-tarifs",
+   "u-permis-suspension"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-annuler-permis-employe",
+  "category": "transport",
+  "keywords": [
+   "annuler permis employe",
+   "retenue sur la paie",
+   "rendre permis",
+   "employe",
+   "prof",
+   "staff",
+   "cancel parking permit",
+   "payroll deduction",
+   "return permit",
+   "faculty member",
+   "30 jours"
+  ],
+  "question": {
+   "fr": "Comment annuler mon permis de stationnement payé par retenue sur la paie ?",
+   "en": "How do I cancel my parking permit paid through payroll deduction?"
+  },
+  "answer": {
+   "fr": "Présente-toi en personne au Bureau du stationnement et du transport durable pour remplir le formulaire d'annulation et rendre ton permis et ta carte d'accès, s'il y a lieu. Si tu le rends avant la date limite de la paie, la retenue est généralement arrêtée avant la paie suivante. Après l'annulation, tu dois attendre 30 jours avant d'obtenir un nouveau permis d'employé.",
+   "en": "Go in person to the Parking and Sustainable Transportation Office to fill out the cancellation form and return your permit and access card, if applicable. If you return it before the payroll cutoff, the deduction is generally stopped before the next pay. After cancelling, you must wait 30 days before getting a new employee permit."
+  },
+  "sources": [
+   {
+    "label": "Permit cancellation and refund — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/permit-cancellation-refund"
+   },
+   {
+    "label": "Annulation et remboursement de permis — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/annulation-remboursement"
+   }
+  ],
+  "related": [
+   "u-permis-pluriannuel",
+   "u-permis-pluriannuel-tarifs",
+   "u-permis-suspension"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-permis-contrat-court",
+  "category": "transport",
+  "keywords": [
+   "contrat court stationnement",
+   "permis de jour employe",
+   "contrat moins d'un an",
+   "employe",
+   "prof",
+   "staff",
+   "short contract parking",
+   "day permit employee",
+   "fixed term contract",
+   "faculty member",
+   "charge de cours"
+  ],
+  "question": {
+   "fr": "J'ai un contrat de moins de 12 mois : quel permis de stationnement puis-je avoir ?",
+   "en": "I have a contract of less than 12 months: what parking permit can I get?"
+  },
+  "answer": {
+   "fr": "Les employés à contrat de moins de 12 mois, ou ceux qui préfèrent payer d'avance, peuvent obtenir un permis de jour. Ces permis expirent et ne peuvent pas être suspendus, mais la portion inutilisée peut être remboursée, selon les dates limites de remboursement. Les permis de soir fonctionnent de la même façon.",
+   "en": "Employees on contracts of less than 12 months, or those who prefer to pay upfront, can get a day permit. These permits expire and can't be suspended, but the unused portion can be refunded, subject to refund deadlines. Evening permits work the same way."
+  },
+  "sources": [
+   {
+    "label": "For employees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/purchase-permit/employees"
+   },
+   {
+    "label": "Personnel — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/achat-permis/employes"
+   },
+   {
+    "label": "Permit cancellation and refund — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/permit-cancellation-refund"
+   },
+   {
+    "label": "Annulation et remboursement de permis — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/bureau-dirigeante-principale-gestion-risques/stationnement/annulation-remboursement"
+   }
+  ],
+  "related": [
+   "u-permis-pluriannuel",
+   "u-permis-pluriannuel-tarifs",
+   "u-permis-suspension"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-mot-de-passe-initial-employe",
+  "category": "ti",
+  "keywords": [
+   "mot de passe initial",
+   "premier mot de passe",
+   "uoaccess employe",
+   "numero d'employe",
+   "employe",
+   "prof",
+   "staff",
+   "initial password",
+   "new employee account",
+   "uoaccess password",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Je suis un nouvel employé : comment obtenir mon mot de passe uoAccess ?",
+   "en": "I'm a new employee: how do I get my uoAccess password?"
+  },
+  "answer": {
+   "fr": "Comme l'indique ta lettre de bienvenue, appelle le Centre de services TI au 613-562-5000, ou au poste 5000 à l'interne, avec ton numéro d'employé pour obtenir ton mot de passe uoAccess initial. Change-le ensuite pour qu'il reste confidentiel, puis inscris-toi à l'authentification multifacteur, exigée pour accéder à plusieurs systèmes.",
+   "en": "As stated in your welcome letter, call the IT Service Desk at 613-562-5000, or ext. 5000 internally, with your employee number to get your initial uoAccess password. Then reset it to keep it confidential, and enrol in multi-factor authentication, which is required to access many systems."
+  },
+  "sources": [
+   {
+    "label": "IT for employees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/employees"
+   },
+   {
+    "label": "TI pour les employés — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/vous-et-la-ti/employes"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-autodefense-numerique"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-autodefense-numerique",
+  "category": "ti",
+  "keywords": [
+   "autodefense numerique",
+   "formation obligatoire",
+   "cybersecurite",
+   "employe",
+   "prof",
+   "staff",
+   "digital self-defence training",
+   "mandatory training",
+   "cybersecurity",
+   "faculty member",
+   "premiere semaine"
+  ],
+  "question": {
+   "fr": "Y a-t-il une formation TI obligatoire pour les nouveaux employés ?",
+   "en": "Is there mandatory IT training for new employees?"
+  },
+  "answer": {
+   "fr": "Oui, tu dois suivre la formation obligatoire d'autodéfense numérique avant la fin de ta première semaine de travail. Pendant ta première journée, configure aussi ta messagerie vocale, connecte-toi au réseau sans fil et installe le VPN pour accéder aux ressources sécurisées.",
+   "en": "Yes, you must complete the mandatory digital self-defence training within your first week on the job. On your first day, also set up your voicemail, connect to the wireless network and install the VPN to access secured resources."
+  },
+  "sources": [
+   {
+    "label": "IT for employees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/employees"
+   },
+   {
+    "label": "TI pour les employés — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/vous-et-la-ti/employes"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ti-professeurs",
+  "category": "ti",
+  "keywords": [
+   "soutien ti professeur",
+   "representant ti",
+   "ti departemental",
+   "prof",
+   "faculty member",
+   "professeur",
+   "it for professors",
+   "departmental it",
+   "it support faculty",
+   "staff"
+  ],
+  "question": {
+   "fr": "Je suis professeur : qui s'occupe de mon soutien informatique ?",
+   "en": "I'm a professor: who handles my IT support?"
+  },
+  "answer": {
+   "fr": "Ta faculté ou ton département offre, par son représentant TI, le soutien pour plusieurs services propres à la faculté, et les Technologies de l'information soutiennent les services TI généraux. Si tu ne sais pas à qui t'adresser, communique avec les TI au 613-562-5000 et on te dirigera vers la bonne ressource.",
+   "en": "Your faculty or department provides support, through its IT representative, for many faculty-specific services, while Information Technology supports general IT services. If you're not sure whom to contact, reach IT at 613-562-5000 and they will connect you to the right resource."
+  },
+  "sources": [
+   {
+    "label": "IT for professors — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/professors"
+   },
+   {
+    "label": "TI pour les professeurs — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/vous-et-la-ti/professeurs"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-courriel-nom-complet",
+  "category": "ti",
+  "keywords": [
+   "courriel nom complet",
+   "adresse prenom.nom",
+   "alias courriel",
+   "employe",
+   "prof",
+   "staff",
+   "full name email address",
+   "email alias",
+   "professional email",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Puis-je avoir une adresse courriel avec mon nom complet ?",
+   "en": "Can I get an email address with my full name?"
+  },
+  "answer": {
+   "fr": "Oui, les employés réguliers actifs peuvent demander une adresse courriel au nom complet, un alias de leur boîte aux lettres existante, avec le formulaire du Centre libre-service. Après le courriel de confirmation et un délai d'activation de 24 heures, configure ton logiciel de courriel pour que cette adresse apparaisse dans le champ De. Les étudiants des cycles supérieurs peuvent aussi en faire la demande.",
+   "en": "Yes, active regular employees can request a full name email address, an alias of their existing mailbox, using the Self-Service Centre form. After the confirmation email and a 24-hour activation period, set up your email client so this address appears in the From field. Graduate students can also request one."
+  },
+  "sources": [
+   {
+    "label": "Full Name Email Address — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/account/email/full-name"
+   },
+   {
+    "label": "Adresse électronique avec nom au complet — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/compte/courriel/nom-complet"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ti-retraites",
+  "category": "ti",
+  "keywords": [
+   "retraite courriel",
+   "retraites ti",
+   "apar",
+   "apruo",
+   "employe retraite",
+   "retiree email",
+   "retired professor",
+   "retiree microsoft 365",
+   "staff",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Je suis retraité de l'Université : est-ce que je garde mon courriel uOttawa ?",
+   "en": "I'm retired from the University: do I keep my uOttawa email?"
+  },
+  "answer": {
+   "fr": "Oui, tu gardes l'accès à ton courriel uOttawa, mais seulement par la version Web. Pour continuer à utiliser Word, Excel ou PowerPoint, tu peux acheter un abonnement Microsoft 365 à prix réduit par le programme de rabais Microsoft Workplace, en confirmant ton statut avec ton adresse courriel uOttawa. Les associations APAR et APRUO te permettent aussi de rester en contact.",
+   "en": "Yes, you keep access to your uOttawa email, but only through the web version. To keep using Word, Excel or PowerPoint, you can buy a discounted Microsoft 365 subscription through the Microsoft Workplace discount program, confirming your status with your uOttawa email address. The APAR and APRUO associations also help you stay connected."
+  },
+  "sources": [
+   {
+    "label": "IT for retirees — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-retirees"
+   },
+   {
+    "label": "TI pour retraitées et retraités — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/ti-retraitees-retraites"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ordinateur-travail",
+  "category": "ti",
+  "keywords": [
+   "ordinateur de travail",
+   "achat ordinateur unite",
+   "equipement standard",
+   "portable dell",
+   "employe",
+   "prof",
+   "staff",
+   "work computer",
+   "standard equipment",
+   "pc purchase",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Comment commander un ordinateur de travail pour mon unité ?",
+   "en": "How do I order a work computer for my unit?"
+  },
+  "answer": {
+   "fr": "Les TI offrent un équipement standard appartenant à l'Université, comme des portables Dell, des MacBook Pro ou Air, des écrans et des stations d'accueil, réservé aux activités de l'Université. Le coût approximatif est indiqué dans le formulaire de demande d'équipement du Centre libre-service. Si l'équipement standard ne répond pas à tes besoins, consulte la section sur l'achat d'équipement spécialisé.",
+   "en": "IT offers standard University-owned equipment, such as Dell laptops, MacBook Pro or Air, monitors and docking stations, for University business only. The approximate cost is shown in the Self-Service Centre equipment request form. If standard equipment doesn't meet your needs, see the section on purchasing specialized equipment."
+  },
+  "sources": [
+   {
+    "label": "PC purchases — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/pc-purchases"
+   },
+   {
+    "label": "Achat de matériel informatique — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/ordinateurs/achats-informatique"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ordinateur-personnel-rabais",
+  "category": "ti",
+  "keywords": [
+   "rabais ordinateur employe",
+   "achat personnel",
+   "dell",
+   "apple education",
+   "employe",
+   "prof",
+   "staff",
+   "employee computer discount",
+   "personal computer purchase",
+   "educational pricing",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Les employés ont-ils un rabais pour acheter un ordinateur personnel ?",
+   "en": "Do employees get a discount on a personal computer?"
+  },
+  "answer": {
+   "fr": "Oui, comme employé, tu peux acheter de l'équipement Dell ou Apple pour ton usage personnel aux prix et promotions éducatifs, à tes frais et par carte de crédit. Les ordinateurs standard achetés par l'Université, eux, sont réservés au travail.",
+   "en": "Yes, as an employee you can buy Dell or Apple equipment for personal use at educational prices and promotions, at your own expense and by credit card. Standard computers bought by the University are for work only."
+  },
+  "sources": [
+   {
+    "label": "Personal computer purchases webpage — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/pc-purchases/personal"
+   },
+   {
+    "label": "Achat d'ordinateurs personnels — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/ordinateurs/achats-informatique/personnels"
+   },
+   {
+    "label": "PC purchases — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/pc-purchases"
+   },
+   {
+    "label": "Achat de matériel informatique — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/ordinateurs/achats-informatique"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-logiciel-donnees-sensibles",
+  "category": "ti",
+  "keywords": [
+   "installer logiciel",
+   "donnees sensibles",
+   "approbation logiciel",
+   "employe",
+   "prof",
+   "staff",
+   "software installation",
+   "sensitive data computer",
+   "approved software list",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Comment faire installer un logiciel sur un ordinateur de travail qui contient des données sensibles ?",
+   "en": "How do I get software installed on a work computer that stores sensitive data?"
+  },
+  "answer": {
+   "fr": "Si le logiciel est dans la liste préapprouvée, fais simplement une demande au Centre de services TI, sujet Installation de logiciel. Sinon, il te faut une justification d'affaires et l'approbation écrite de l'approbateur autorisé de ton unité, dont tu indiques le courriel dans la demande. Les TI te contactent dans les 2 jours ouvrables, et l'examen de sécurité peut prendre jusqu'à 5 jours ouvrables.",
+   "en": "If the software is on the pre-approved list, simply submit a Service Desk request with the subject Software Installation. Otherwise, you need a business justification and written approval from your unit's Authorized Approver, whose email you include in the request. IT contacts you within 2 business days, and the security review can take up to 5 business days."
+  },
+  "sources": [
+   {
+    "label": "Request software for computers with sensitive data — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/installation"
+   },
+   {
+    "label": "Demande d’installation de logiciels sur un ordinateur renfermant des données sensibles — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/logiciels/installation"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-chiffrement-disque",
+  "category": "ti",
+  "keywords": [
+   "chiffrement",
+   "nip chiffrement",
+   "portable perdu",
+   "bitlocker",
+   "employe",
+   "prof",
+   "staff",
+   "disk encryption",
+   "encryption pin",
+   "lost laptop",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Pourquoi mon ordinateur de travail me demande-t-il un NIP de chiffrement ?",
+   "en": "Why does my work computer ask for an encryption PIN?"
+  },
+  "answer": {
+   "fr": "Les TI chiffrent le disque des postes de travail, surtout des portables, pour protéger les données de l'Université si l'appareil est perdu ou volé. Tout le contenu du disque est chiffré. Les TI offrent des guides pour créer ou changer ton NIP sous Windows et une récupération libre-service si tu l'oublies.",
+   "en": "IT encrypts workstation drives, especially laptops, to protect University data if the device is lost or stolen. Everything on the drive is encrypted. IT provides guides to create or change your PIN on Windows and a self-serve recovery if you forget it."
+  },
+  "sources": [
+   {
+    "label": "Disk Encryption — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/disk-encryption"
+   },
+   {
+    "label": "Chiffrement du disque dur — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/securite/chiffrement-disque-dur"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-signaler-courriel-suspect",
+  "category": "ti",
+  "keywords": [
+   "courriel suspect",
+   "hameconnage",
+   "signaler message",
+   "outlook",
+   "employe",
+   "prof",
+   "staff",
+   "phishing",
+   "report suspicious email",
+   "report message button",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Comment signaler un courriel d'hameçonnage dans Outlook ?",
+   "en": "How do I report a phishing email in Outlook?"
+  },
+  "answer": {
+   "fr": "Sélectionne le courriel suspect et clique sur le bouton Signaler ou Signaler le message dans Outlook, sur ordinateur, sur le Web ou sur mobile, puis confirme. Le message est retiré de ta boîte de réception et placé dans les éléments supprimés. Ce bouton sert aux courriels suspects ou d'hameçonnage, pas aux simples pourriels.",
+   "en": "Select the suspicious email and click the Report or Report Message button in Outlook, on desktop, web or mobile, then confirm. The message is removed from your inbox and moved to deleted items. This button is for suspicious or phishing emails, not regular spam."
+  },
+  "sources": [
+   {
+    "label": "Service - Security - report suspicious email — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/report-suspicious-email"
+   },
+   {
+    "label": "Signaler un courriel suspect — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/securite/signaler-courriel-suspect"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-gam-professeurs",
+  "category": "ti",
+  "keywords": [
+   "gestion des applications mobiles",
+   "gam",
+   "nip applications",
+   "telephone professeur",
+   "prof",
+   "faculty member",
+   "mam",
+   "mobile application management",
+   "outlook mobile pin",
+   "staff",
+   "employe"
+  ],
+  "question": {
+   "fr": "Pourquoi dois-je créer un NIP pour Outlook et Teams sur mon téléphone ?",
+   "en": "Why do I need to create a PIN for Outlook and Teams on my phone?"
+  },
+  "answer": {
+   "fr": "C'est la gestion des applications mobiles (GAM) : elle crée une zone sécurisée et chiffre les données des applications de l'Université sur ton appareil. Tu inscris ton appareil avec ton compte Microsoft de l'Université, crées un NIP de 6 chiffres et peux ajouter une authentification biométrique. Tes données personnelles ne sont ni vues ni touchées, et un effacement à distance ne supprime que les données universitaires de l'appareil.",
+   "en": "It's mobile application management (MAM): it creates a secure zone and encrypts University app data on your device. You register your device with your University Microsoft account, create a 6-digit PIN and can add biometric authentication. Your personal data is not seen or affected, and a remote wipe only deletes University data on the device."
+  },
+  "sources": [
+   {
+    "label": "MAM for professors — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/mam/professors"
+   },
+   {
+    "label": "GAM pour professeurs — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/securite/gam/professeurs"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-telephonie-teams",
+  "category": "ti",
+  "keywords": [
+   "telephone bureau",
+   "teams appels",
+   "messagerie vocale",
+   "communications unifiees",
+   "employe",
+   "prof",
+   "staff",
+   "office phone",
+   "teams calling",
+   "voicemail",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Comment fonctionne le téléphone de bureau à l'Université ?",
+   "en": "How does office telephone service work at the University?"
+  },
+  "answer": {
+   "fr": "Les services téléphoniques passent maintenant par Microsoft Teams : tu fais, reçois et gères tes appels, ta messagerie vocale et tes messages dans Teams, de n'importe quel appareil. Les TI offrent de courtes vidéos de formation et des aide-mémoire sur les appels Teams.",
+   "en": "Telephone services now run through Microsoft Teams: you make, receive and manage calls, voicemail and messages in Teams, from any device. IT offers short training videos and job aids on Teams calling."
+  },
+  "sources": [
+   {
+    "label": "Telephone Services — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/telephone-services"
+   },
+   {
+    "label": "Services téléphoniques — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/services-telephoniques"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-urgence-teams",
+  "category": "ti",
+  "keywords": [
+   "appel d'urgence teams",
+   "5411",
+   "protection",
+   "numerotation rapide",
+   "employe",
+   "prof",
+   "staff",
+   "emergency call teams",
+   "speed dial",
+   "securuo",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Comment appeler le Service de la protection en urgence avec Teams ?",
+   "en": "How do I call Protection Services in an emergency using Teams?"
+  },
+  "answer": {
+   "fr": "Compose le poste 5411 avec le clavier des appels Teams, comme pour un appel interne. Tu peux aussi configurer une numérotation rapide personnelle dans Teams ou utiliser l'appli SecurUO, qui appelle directement le Service de la protection. Avec ton cellulaire, compose le 613-562-5411.",
+   "en": "Dial extension 5411 using the Teams Calls keypad, as for an internal call. You can also set up a personal speed dial in Teams or use the SecurUO app, which calls Protection Services directly. From your cellphone, dial 613-562-5411."
+  },
+  "sources": [
+   {
+    "label": "Emergency calls with MS Teams — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/unified-communications/emergency-calls"
+   },
+   {
+    "label": "Appels d’urgence via MS Teams — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/communications-unifiees/appels-urgences"
+   },
+   {
+    "label": "Classroom podiums — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/classrooms-and-equipment/classroom-podiums"
+   },
+   {
+    "label": "Podiums des salles de classe — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/classes-et-equipements/podiums-salles-de-classe"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-imprimer-carte-employe",
+  "category": "ti",
+  "keywords": [
+   "imprimer employe",
+   "uoimprimer",
+   "liberer impression",
+   "compte partage",
+   "employe",
+   "prof",
+   "staff",
+   "employee printing",
+   "print release",
+   "shared print account",
+   "faculty member",
+   "uoprint"
+  ],
+  "question": {
+   "fr": "Comment imprimer avec ma carte d'employé ?",
+   "en": "How do I print with my employee card?"
+  },
+  "answer": {
+   "fr": "À l'imprimante, passe ta carte d'employé sur le lecteur, puis choisis tes travaux sous Libérer l'impression et appuie sur Imprimer. Le noir et blanc et le recto verso sont cochés par défaut, mais tu peux les modifier. Si tu as accès à un compte partagé, tu choisis le compte à facturer avec l'option Sélection du compte.",
+   "en": "At the printer, tap your employee card on the reader, then pick your jobs under Print Release and press Print. Grayscale and 2-sided are checked by default, but you can change them. If you have access to a shared account, choose the account to charge with the Account Selection option."
+  },
+  "sources": [
+   {
+    "label": "Printing — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/print/printer/printing-guide-employees"
+   },
+   {
+    "label": "Imprimantes — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/impression/imprimantes/guide-employ%C3%A9es-employ%C3%A9s"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-imprimer-appareil-perso-prof",
+  "category": "ti",
+  "keywords": [
+   "imprimer appareil personnel",
+   "impression web",
+   "portail uoimprimer",
+   "prof",
+   "faculty member",
+   "print from laptop",
+   "web print",
+   "uoprint portal",
+   "staff",
+   "employe"
+  ],
+  "question": {
+   "fr": "Je suis professeur : comment imprimer à partir de mon portable personnel ?",
+   "en": "I'm a professor: how do I print from my personal laptop?"
+  },
+  "answer": {
+   "fr": "Utilise l'impression Web du portail uoImprimer avec tes identifiants uoAccess : les fichiers doivent faire 100 Mo ou moins et un travail ne peut pas coûter 30 $ ou plus. Tu peux aussi installer le pilote uoImprimer sur Windows ou macOS, mais il faut être branché au réseau du campus, par eduroam, Ethernet ou VPN. Tu récupères ensuite tes travaux à une imprimante uoImprimer.",
+   "en": "Use Web Print on the uoPrint portal with your uoAccess credentials: files must be 100 MB or less, and a job can't cost $30 or more. You can also install the uoPrint driver on Windows or macOS, but you must be on the campus network, through eduroam, Ethernet or VPN. You then release your jobs at a uoPrint printer."
+  },
+  "sources": [
+   {
+    "label": "Printing — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/print/printer/printing-guide-professors-using-personal-device"
+   },
+   {
+    "label": "Imprimantes — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/impression/imprimantes/guide-profs-appareil-perso"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-stockage-recherche",
+  "category": "ti",
+  "keywords": [
+   "stockage recherche",
+   "donnees de recherche",
+   "nas",
+   "box",
+   "onedrive",
+   "prof",
+   "faculty member",
+   "research storage",
+   "research data",
+   "file storage",
+   "staff"
+  ],
+  "question": {
+   "fr": "Quelles solutions de stockage existent pour mes données de recherche ?",
+   "en": "What storage options exist for my research data?"
+  },
+  "answer": {
+   "fr": "OneDrive est le principal service de stockage infonuagique. Les groupes de recherche peuvent obtenir gratuitement 5 To sur un serveur NAS du centre de données local, puis 1 000 $ par tranche additionnelle de 5 To, accessible seulement sur le réseau du campus. Un nombre limité de licences Box est aussi offert, à 1 000 $ par année par groupe de recherche, sur demande au Centre libre-service.",
+   "en": "OneDrive is the main cloud storage service. Research groups can get 5 TB free on a NAS in the local data centre, then $1,000 per additional 5 TB, accessible only on the campus network. A limited number of Box licences is also available, at $1,000 per year per research group, by request through the Self-Service Centre."
+  },
+  "sources": [
+   {
+    "label": "Computing - Storage solutions — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computing/storage"
+   },
+   {
+    "label": "Solutions de stockage — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/calcul-informatique/solutions-stockage"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-redcap",
+  "category": "ti",
+  "keywords": [
+   "redcap",
+   "sondage recherche",
+   "donnees cliniques",
+   "base de donnees recherche",
+   "prof",
+   "faculty member",
+   "researcher",
+   "clinical research",
+   "research survey",
+   "staff"
+  ],
+  "question": {
+   "fr": "C'est quoi REDCap et qui peut l'utiliser ?",
+   "en": "What is REDCap and who can use it?"
+  },
+  "answer": {
+   "fr": "REDCap est une plateforme Web sécurisée pour créer des sondages et des bases de données de recherche, idéale pour les études cliniques ou multisites et les données sensibles. Les chercheurs cliniques configurent leur accès avec leurs identifiants uOttawa; les autres peuvent plutôt utiliser SurveyMonkey. Pour ajouter des membres à ton projet, ils doivent s'être connectés au moins une fois.",
+   "en": "REDCap is a secure web platform for building surveys and research databases, ideal for clinical or multi-site studies and sensitive data. Clinical researchers set up access with their uOttawa credentials; others can use SurveyMonkey instead. To add members to your project, they must have logged in at least once."
+  },
+  "sources": [
+   {
+    "label": "REDCap for Researchers — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/redcap-researchers"
+   },
+   {
+    "label": "REDCap pour les chercheurs — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/redcap-chercheurs"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-uniweb",
+  "category": "ti",
+  "keywords": [
+   "uniweb",
+   "cv academique",
+   "cv commun canadien",
+   "site web professeur",
+   "prof",
+   "faculty member",
+   "academic cv",
+   "faculty profile",
+   "researcher website",
+   "staff"
+  ],
+  "question": {
+   "fr": "C'est quoi UNIWeb ?",
+   "en": "What is UNIWeb?"
+  },
+  "answer": {
+   "fr": "UNIWeb est une plateforme bilingue gratuite pour les professeurs, les chercheurs et les étudiants de l'Université. Elle permet de tenir ton CV académique à jour, avec intégration au CV commun canadien pour les demandes de subvention, de gérer ton profil en ligne et tes publications, et de créer un site Web sans programmation.",
+   "en": "UNIWeb is a free bilingual platform for University faculty, researchers and students. It lets you keep your academic CV up to date, with integration into the Canadian Common CV for grant applications, manage your online profile and publications, and build a website without coding."
+  },
+  "sources": [
+   {
+    "label": "UNIWeb service offering — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/uniweb"
+   },
+   {
+    "label": "Offre de service UNIWeb — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/logiciels/uniweb"
+   },
+   {
+    "label": "IT for professors — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/professors"
+   },
+   {
+    "label": "TI pour les professeurs — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/vous-et-la-ti/professeurs"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-evaluation-securite-ti",
+  "category": "ti",
+  "keywords": [
+   "evaluation de securite",
+   "espvp",
+   "achat logiciel",
+   "reglement 116",
+   "employe",
+   "prof",
+   "staff",
+   "security and privacy assessment",
+   "spa",
+   "buying software",
+   "policy 116"
+  ],
+  "question": {
+   "fr": "Mon unité veut acheter un logiciel ou un service infonuagique : faut-il une évaluation ?",
+   "en": "My unit wants to buy software or a cloud service: is an assessment needed?"
+  },
+  "answer": {
+   "fr": "Oui, le Règlement 116 exige une évaluation de sécurité et de protection de la vie privée (ESPVP) pour tout produit ou service de TI sous contrat avec l'Université, avant l'acquisition. Soumets ta demande par le portail du Centre libre-service en joignant le formulaire ESPVP rempli. Le Bureau de la sécurité de l'information et le Bureau de l'accès à l'information et de la protection de la vie privée évaluent ensuite les risques.",
+   "en": "Yes, Policy 116 requires a Security and Privacy Assessment (SPA) for any IT product or service contracted by the University, before acquisition. Submit your request through the Self-Service Centre portal with the completed SPA form attached. The Information Security Office and the Access to Information and Privacy Office then assess the risks."
+  },
+  "sources": [
+   {
+    "label": "Service - Security - request Security assessment — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/request-security-assessment"
+   },
+   {
+    "label": "Évaluation de sécurité et protection de la vie privée (ESPVP) — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/securite/demande-devaluation-securite"
+   }
+  ],
+  "related": [
+   "u-workday-aide",
+   "u-virtuo-portail",
+   "u-mot-de-passe-initial-employe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-acces-salle-classe",
+  "category": "cours",
+  "keywords": [
+   "acces salle de classe",
+   "carte d'acces",
+   "equipement salle",
+   "prof",
+   "faculty member",
+   "charge de cours",
+   "classroom access",
+   "access card",
+   "instructor",
+   "staff"
+  ],
+  "question": {
+   "fr": "Comment obtenir l'accès à une salle de classe ou à son équipement ?",
+   "en": "How do I get access to a classroom or its equipment?"
+  },
+  "answer": {
+   "fr": "Fais ta demande en tout temps avec le formulaire en ligne pour la carte d'accès aux salles de classe. Une carte d'accès est nécessaire pour démarrer l'équipement audiovisuel du podium et ouvrir le rangement des accessoires.",
+   "en": "Submit your request anytime with the online access card form for classrooms. An access card is needed to start the podium's AV equipment and open the accessory storage."
+  },
+  "sources": [
+   {
+    "label": "Classrooms and equipment — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/classrooms-and-equipment"
+   },
+   {
+    "label": "Classes et équipements — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/classes-equipements"
+   },
+   {
+    "label": "Classroom podiums — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/classrooms-and-equipment/classroom-podiums"
+   },
+   {
+    "label": "Podiums des salles de classe — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/classes-et-equipements/podiums-salles-de-classe"
+   }
+  ],
+  "related": [
+   "u-podium-classe",
+   "u-aide-technique-classe",
+   "u-pret-equipement-av"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-podium-classe",
+  "category": "cours",
+  "keywords": [
+   "podium",
+   "projecteur",
+   "ecran tactile",
+   "micro salle de classe",
+   "prof",
+   "faculty member",
+   "classroom podium",
+   "projector",
+   "classroom technology",
+   "instructor",
+   "staff"
+  ],
+  "question": {
+   "fr": "Comment utiliser le podium d'une salle de classe ?",
+   "en": "How do I use a classroom podium?"
+  },
+  "answer": {
+   "fr": "Passe ta carte d'accès sur le lecteur du podium, choisis ta langue sur l'écran tactile et confirme le démarrage; l'ordinateur du podium est la source par défaut. La plupart des salles ont une entrée HDMI, alors apporte ton câble ou adaptateur si tu branches ton appareil. Avant chaque session, le SAEA offre des démonstrations du podium, et tu peux demander une démo personnalisée.",
+   "en": "Tap your access card on the podium reader, choose your language on the touch panel and confirm startup; the podium computer is the default source. Most rooms have an HDMI input, so bring your cable or adapter if you connect your own device. Before each term, TLSS offers podium demos, and you can request a personalized one."
+  },
+  "sources": [
+   {
+    "label": "Classroom podiums — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/classrooms-and-equipment/classroom-podiums"
+   },
+   {
+    "label": "Podiums des salles de classe — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/classes-et-equipements/podiums-salles-de-classe"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-aide-technique-classe",
+   "u-pret-equipement-av"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-aide-technique-classe",
+  "category": "cours",
+  "keywords": [
+   "probleme projecteur",
+   "aide en classe",
+   "poste 5000",
+   "soutien audiovisuel",
+   "prof",
+   "faculty member",
+   "classroom help",
+   "av support",
+   "projector not working",
+   "instructor",
+   "staff"
+  ],
+  "question": {
+   "fr": "Le projecteur ne fonctionne pas pendant mon cours : qui appeler ?",
+   "en": "The projector isn't working during my class: who do I call?"
+  },
+  "answer": {
+   "fr": "Chaque salle de classe a un téléphone de courtoisie : compose le 5000, ou le 613-562-5000, pour une aide immédiate. Avant d'appeler, vérifie que l'appareil choisi est allumé et resélectionne la source sur l'écran tactile. Le soutien audiovisuel en classe est au pavillon Morisset, salle 06, du lundi au vendredi de 7 h 30 à 22 h.",
+   "en": "Every classroom has a courtesy phone: dial 5000, or 613-562-5000, for immediate help. Before calling, check that the selected device is on and reselect the source on the touch panel. Classroom AV support is in Morisset Hall, Room 06, Monday to Friday from 7:30 a.m. to 10 p.m."
+  },
+  "sources": [
+   {
+    "label": "Classroom podiums — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/classrooms-and-equipment/classroom-podiums"
+   },
+   {
+    "label": "Podiums des salles de classe — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/classes-et-equipements/podiums-salles-de-classe"
+   },
+   {
+    "label": "Classrooms and equipment — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/classrooms-and-equipment"
+   },
+   {
+    "label": "Classes et équipements — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/classes-equipements"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-pret-equipement-av"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-pret-equipement-av",
+  "category": "cours",
+  "keywords": [
+   "pret d'equipement",
+   "camera",
+   "trepied",
+   "projecteur portatif",
+   "prof",
+   "faculty member",
+   "staff",
+   "equipment loan",
+   "av equipment",
+   "camera loan",
+   "employe"
+  ],
+  "question": {
+   "fr": "Puis-je emprunter une caméra ou un projecteur portatif pour un cours ?",
+   "en": "Can I borrow a camera or portable projector for a course?"
+  },
+  "answer": {
+   "fr": "Oui, les Services de soutien audiovisuel en classe prêtent caméras, trépieds, projecteurs portatifs, enregistreurs et plus, sans frais si c'est requis pour un cours ou un programme; les ordinateurs portables ne sont pas prêtés. Réserve au moins un jour ouvrable d'avance avec ton numéro d'étudiant ou d'employé; la durée maximale est de trois jours, avec un renouvellement. Le matériel se récupère au pavillon Morisset, salle 06.",
+   "en": "Yes, Classroom Learning AV & Support Services lends cameras, tripods, portable projectors, recorders and more, free of charge when required for a course or program; laptops are not loaned. Book at least one business day ahead with your student or employee number; the maximum is three days, with one renewal. Pick up equipment at Morisset Hall, Room 06."
+  },
+  "sources": [
+   {
+    "label": "Loan and rental of equipment — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/classrooms-and-equipment/loan-and-rental-of-equipment"
+   },
+   {
+    "label": "Prêt et location de matériel — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/classes-et-equipements/pret-et-location-de-materiel"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-retard-equipement-av",
+  "category": "cours",
+  "keywords": [
+   "retard equipement",
+   "frais de retard",
+   "equipement perdu",
+   "prof",
+   "faculty member",
+   "staff",
+   "late equipment fee",
+   "lost equipment",
+   "damaged equipment",
+   "employe"
+  ],
+  "question": {
+   "fr": "Qu'arrive-t-il si je rapporte en retard l'équipement audiovisuel emprunté ?",
+   "en": "What happens if I return borrowed AV equipment late?"
+  },
+  "answer": {
+   "fr": "Le matériel en retard est facturé au plein tarif de location plus 5 $ par article par jour, même si le prêt initial était gratuit. Si l'équipement est perdu ou endommagé, tu paies le coût de remplacement, dans un délai de dix jours. Les prêts ne sont pas offerts pendant le congé d'hiver.",
+   "en": "Late equipment is charged the full rental rate plus $5 per item per day, even if the original loan was free. If equipment is lost or damaged, you pay the replacement cost, within ten days. Loans are not available over the winter break."
+  },
+  "sources": [
+   {
+    "label": "Loan and rental of equipment — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/classrooms-and-equipment/loan-and-rental-of-equipment"
+   },
+   {
+    "label": "Prêt et location de matériel — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/classes-et-equipements/pret-et-location-de-materiel"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-salles-specialisees",
+  "category": "cours",
+  "keywords": [
+   "salle d'apprentissage actif",
+   "lpr 286",
+   "salle de visioconference",
+   "prof",
+   "faculty member",
+   "active learning room",
+   "videoconference room",
+   "specialized classroom",
+   "staff",
+   "soutenance"
+  ],
+  "question": {
+   "fr": "Y a-t-il des salles pour l'apprentissage actif ou la visioconférence ?",
+   "en": "Are there rooms for active learning or videoconferencing?"
+  },
+  "answer": {
+   "fr": "Oui, la salle d'apprentissage actif LPR 286, au pavillon Louis-Pasteur, accueille jusqu'à 36 personnes avec six tables équipées d'écrans, de caméras et d'ordinateurs, et un grand mur vidéo. Il y a aussi des salles de conférence équipées pour la visioconférence au pavillon Louis-Pasteur, pour 18 personnes, et au pavillon Vanier, pour 26 personnes.",
+   "en": "Yes, the LPR 286 active learning room in Louis Pasteur Hall seats up to 36 people, with six tables equipped with monitors, cameras and computers, and a large video wall. There are also videoconference-equipped conference rooms in Louis Pasteur Hall, for 18 people, and Vanier Hall, for 26 people."
+  },
+  "sources": [
+   {
+    "label": "Specialized classrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/classrooms-and-equipment/specialized-classrooms"
+   },
+   {
+    "label": "Salles de classe spécialisées — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/classes-et-equipements/salles-de-classe-specialisees"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-location-production-av",
+  "category": "cours",
+  "keywords": [
+   "location equipement",
+   "montage video",
+   "enregistrement studio",
+   "production audiovisuelle",
+   "prof",
+   "faculty member",
+   "staff",
+   "equipment rental rates",
+   "video production",
+   "studio recording",
+   "employe"
+  ],
+  "question": {
+   "fr": "Combien coûtent la location d'équipement et les services de production vidéo ?",
+   "en": "How much do equipment rental and video production services cost?"
+  },
+  "answer": {
+   "fr": "Le prêt d'équipement est gratuit pour les cours et la recherche; seules les locations à des fins personnelles sont facturées à la communauté interne. Les services de production, comme le montage vidéo, la numérisation audio ou vidéo et l'enregistrement en studio, coûtent 50 $ l'heure et sont facturés à tous, puisque ce sont des services spécialisés.",
+   "en": "Equipment loans are free for courses and research; only rentals for personal purposes are billed to the internal community. Production services, such as video editing, audio or video digitization and studio recording, cost $50 an hour and are charged to everyone, since they are specialized services."
+  },
+  "sources": [
+   {
+    "label": "Rates of equipment rentals and production services — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/classrooms-and-equipment/rentals-production"
+   },
+   {
+    "label": "Tarifs de location de matériel et services de production — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/services/classes-et-equipements/location-production"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-scantron",
+  "category": "examens",
+  "keywords": [
+   "scantron",
+   "correction examen choix multiples",
+   "lecture optique",
+   "docucentre",
+   "prof",
+   "faculty member",
+   "exam scanning",
+   "multiple choice",
+   "optical mark",
+   "instructor",
+   "staff"
+  ],
+  "question": {
+   "fr": "Comment faire corriger un examen à choix multiples par Scantron ?",
+   "en": "How do I get a multiple-choice exam scored by Scantron?"
+  },
+  "answer": {
+   "fr": "Prends le formulaire de demande Scantron et les feuilles-réponses auprès de ta faculté, ou télécharge le formulaire, et remplis-le avec le numéro de bon de commande et ta signature. Apporte les feuilles, bien à plat, au DocUcentre, Centre universitaire, local 0024, du lundi au vendredi entre 8 h 30 et 16 h. Les résultats te sont envoyés par courriel et tu peux récupérer les feuilles le lendemain.",
+   "en": "Get the Scantron request form and answer sheets from your faculty, or download the form, and fill it out with the purchase order number and your signature. Bring the sheets, kept flat, to the DocUcentre, University Centre, Room 0024, Monday to Friday between 8:30 a.m. and 4 p.m. Results are emailed to you and you can pick up the sheets the next day."
+  },
+  "sources": [
+   {
+    "label": "Services for professors — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/docucentre/professor"
+   },
+   {
+    "label": "DocUcentre — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/docucentre/services-professeurs"
+   }
+  ],
+  "related": [],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-recueil-cours",
+  "category": "cours",
+  "keywords": [
+   "recueil de cours",
+   "notes de cours imprimees",
+   "course pack",
+   "droit d'auteur",
+   "prof",
+   "faculty member",
+   "print course pack",
+   "copyright log",
+   "docucentre",
+   "instructor",
+   "staff"
+  ],
+  "question": {
+   "fr": "Comment faire imprimer un recueil de cours pour mes étudiants ?",
+   "en": "How do I get a course pack printed for my students?"
+  },
+  "answer": {
+   "fr": "Rassemble tes sources, vérifie le droit d'auteur et les licences, puis remplis le Registre de matériel protégé et la Demande de reproduction d'une note de cours du DocUcentre. Apporte les sources imprimées et les formulaires au DocUcentre. Si le recueil est identique à celui d'une session précédente, il suffit d'envoyer la demande de reproduction par courriel au Bureau du droit d'auteur.",
+   "en": "Collect your sources, check copyright and licences, then fill out the Copyright Materials Log and the DocUcentre's Request for Reproduction of a Course Pack. Bring the printed sources and forms to the DocUcentre. If the pack is identical to one used in a previous term, just email the reproduction request to the Copyright Office."
+  },
+  "sources": [
+   {
+    "label": "Creating print course packs — uOttawa",
+    "url": "https://www.uottawa.ca/library/copyright/instructors/creating-print-course-packs"
+   },
+   {
+    "label": "La création de notes de cours imprimées — uOttawa",
+    "url": "https://www.uottawa.ca/bibliotheque/droit-auteur/personnel-enseignant/creation-notes-cours-imprimees"
+   },
+   {
+    "label": "Services for professors — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/docucentre/professor"
+   },
+   {
+    "label": "DocUcentre — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/docucentre/services-professeurs"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-bon-travail-immeubles",
+  "category": "services",
+  "keywords": [
+   "bon de travail",
+   "demande d'entretien",
+   "reparation bureau",
+   "immeubles",
+   "employe",
+   "prof",
+   "staff",
+   "work order",
+   "maintenance request",
+   "facilities ticket",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Comment faire une demande de réparation ou d'entretien pour mon bureau ?",
+   "en": "How do I submit a repair or maintenance request for my office?"
+  },
+  "answer": {
+   "fr": "Pour une demande non urgente, soumets un billet au Soutien aux clients des Immeubles par le Centre libre-service. Si la situation t'empêche de travailler et demande une intervention immédiate, comme un bureau trop chaud ou trop froid ou une fuite d'eau, appelle le 613-562-5000. Pour un problème de téléphone ou d'ordinateur, adresse-toi plutôt aux TI.",
+   "en": "For a non-urgent request, submit a ticket to Facilities Client Support through the Self-Service Centre. If the situation prevents you from working and needs immediate attention, such as an office that's too hot or cold or a water leak, call 613-562-5000. For a phone or computer problem, contact IT instead."
+  },
+  "sources": [
+   {
+    "label": "Client Support — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/help-me"
+   },
+   {
+    "label": "Soutien aux clients — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/immeubles/aide"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-catalogue-immeubles",
+  "category": "services",
+  "keywords": [
+   "services immeubles",
+   "demenagement de mobilier",
+   "serrurier",
+   "conciergerie",
+   "employe",
+   "prof",
+   "staff",
+   "facilities services",
+   "furniture move",
+   "locksmith",
+   "custodial",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Quels services offrent les Immeubles aux unités ?",
+   "en": "What services does Facilities offer to units?"
+  },
+  "answer": {
+   "fr": "Le catalogue des Immeubles couvre le courrier et les colis, l'entretien ménager, le transport et le déménagement de mobilier ou d'équipement de laboratoire, la signalisation, l'entretien des terrains et le déneigement. On y trouve aussi la menuiserie, l'électricité, la serrurerie, la plomberie, l'accès par carte, les rénovations, les demandes d'espace et le programme de réutilisation du mobilier.",
+   "en": "The Facilities catalogue covers mail and parcels, custodial services, transport and moving of furniture or lab equipment, signage, grounds maintenance and snow removal. It also includes carpentry, electrical, locksmith and plumbing services, card access, renovations, space requests and the Furniture Reuse program."
+  },
+  "sources": [
+   {
+    "label": "Service catalogue — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/service-catalogue"
+   },
+   {
+    "label": "Catalogue de services — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/immeubles/catalogue-services"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-immeubles-accessibilite",
+  "category": "services",
+  "keywords": [
+   "accessibilite immeubles",
+   "retroaction accessibilite",
+   "obstacle",
+   "mobilier",
+   "employe",
+   "prof",
+   "staff",
+   "accessibility feedback",
+   "facilities accessibility",
+   "wayfinding",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Où signaler un problème d'accessibilité lié aux bâtiments ou au mobilier ?",
+   "en": "Where do I report an accessibility issue with buildings or furniture?"
+  },
+  "answer": {
+   "fr": "Les Immeubles ont un formulaire de rétroaction sur l'accessibilité pour tout ce qui relève d'eux : mobilier, installations, bâtiments, espaces extérieurs et orientation. Les avis d'interruption de service, par exemple pour un ascenseur, sont aussi publiés sur leur site.",
+   "en": "Facilities has an accessibility feedback form for anything under its responsibility: furniture, fixtures, buildings, outdoor spaces and wayfinding. Service interruption notices, for example for an elevator, are also posted on its site."
+  },
+  "sources": [
+   {
+    "label": "Client Support — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/help-me"
+   },
+   {
+    "label": "Soutien aux clients — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/immeubles/aide"
+   },
+   {
+    "label": "Interruption notices — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/service-interruption"
+   },
+   {
+    "label": "Avis d’interruption — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/immeubles/avis-interruption"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-avis-interruption-employes",
+  "category": "services",
+  "keywords": [
+   "avis d'interruption",
+   "travaux",
+   "plan d'urgence personnalise",
+   "accommodement",
+   "employe",
+   "staff",
+   "service interruption",
+   "construction notice",
+   "emergency plan employee",
+   "supervisor"
+  ],
+  "question": {
+   "fr": "Des travaux touchent mon accès au bâtiment et j'ai un plan d'urgence personnalisé : que faire ?",
+   "en": "Construction affects my building access and I have a personal emergency plan: what should I do?"
+  },
+  "answer": {
+   "fr": "Consulte les avis d'interruption des Immeubles, qui indiquent la raison, la durée prévue et les solutions de rechange accessibles. Si tu as un plan d'intervention d'urgence, revois-le avec ton superviseur en fonction des travaux. Pour une nouvelle demande d'accommodement, parle-en à ton superviseur ou aux Ressources humaines.",
+   "en": "Check the Facilities interruption notices, which give the reason, expected duration and accessible alternatives. If you have an emergency response plan, review it with your supervisor in light of the work. For a new accommodation request, talk to your supervisor or Human Resources."
+  },
+  "sources": [
+   {
+    "label": "Interruption notices — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/service-interruption"
+   },
+   {
+    "label": "Avis d’interruption — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/immeubles/avis-interruption"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-reserver-salle-interne",
+  "category": "services",
+  "keywords": [
+   "reserver une salle",
+   "evenement interne",
+   "uoreservation",
+   "congres et reservations",
+   "employe",
+   "prof",
+   "staff",
+   "room booking",
+   "book a classroom",
+   "internal event",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Comment réserver une salle pour une activité de mon unité ?",
+   "en": "How do I book a room for my unit's activity?"
+  },
+  "answer": {
+   "fr": "Pour une activité interne liée à l'enseignement, la recherche, l'administration ou la formation, soumets une demande au Service des congrès et réservations, au moins 15 jours ouvrables d'avance; les demandes de salles de classe se font dans uoReservation. Les salles de classe sont gratuites pour les activités académiques internes, et la priorité va aux activités académiques. Pour les événements de mai à août, la confirmation est donnée en mars, et pour ceux de septembre à avril, en juillet.",
+   "en": "For an internal activity related to teaching, research, administration or training, submit a request to Conventions and Reservations at least 15 business days ahead; classroom requests are made in uoReservation. Classrooms are free for internal academic functions, and academic functions get priority. For events from May to August, confirmation is given in March, and for September to April, in July."
+  },
+  "sources": [
+   {
+    "label": "Submit a request to Conventions and Reservations — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/reservations/submit-request"
+   },
+   {
+    "label": "Soumettre une demande au service Congrès et réservations — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/reservations/soumettre-demande"
+   },
+   {
+    "label": "Auditoriums and classrooms — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/reservations/spaces/auditoriums-classrooms"
+   },
+   {
+    "label": "Auditoriums et salles de classe — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/reservations/espaces/auditoriums-salles-classe"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-innova-salles",
+  "category": "services",
+  "keywords": [
+   "innova",
+   "salle crx",
+   "salle de reunion",
+   "cylindre immersif",
+   "employe",
+   "prof",
+   "staff",
+   "innova room booking",
+   "meeting room",
+   "immersive room",
+   "faculty member"
+  ],
+  "question": {
+   "fr": "Combien coûte une salle à INNOVA au Carrefour des apprentissages ?",
+   "en": "How much does a room at INNOVA in the Learning Crossroads cost?"
+  },
+  "answer": {
+   "fr": "INNOVA loue des classes interactives (CRX 604 et 632) à 600 $ la demi-journée ou 1 200 $ la journée, des salles de réunion à 400 $ ou 800 $ et le cylindre immersif (CRX 639) à 1 250 $ ou 2 100 $. Des casques immersifs et un système holographique sont aussi offerts. Tu réserves en communiquant avec INNOVA par son formulaire de réservation.",
+   "en": "INNOVA rents interactive classrooms (CRX 604 and 632) at $600 a half day or $1,200 a full day, meeting rooms at $400 or $800, and the immersive cylinder (CRX 639) at $1,250 or $2,100. Immersive headsets and a holographic system are also available. You book by contacting INNOVA through its booking form."
+  },
+  "sources": [
+   {
+    "label": "Room booking at INNOVA — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/innova/room-booking"
+   },
+   {
+    "label": "Réservation et location de salles à INNOVA — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/administration-services/innova/reservation-location-salles"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ethique-quand",
+  "category": "reglements",
+  "keywords": [
+   "ethique de la recherche",
+   "approbation ethique",
+   "participants humains",
+   "cer",
+   "prof",
+   "faculty member",
+   "research ethics approval",
+   "human participants",
+   "reb",
+   "researcher"
+  ],
+  "question": {
+   "fr": "Mon projet de recherche doit-il être approuvé par un comité d'éthique ?",
+   "en": "Does my research project need ethics board approval?"
+  },
+  "answer": {
+   "fr": "Oui, tout projet impliquant des participants humains ou du matériel biologique humain, mené sous les auspices de l'Université, subventionné ou non et peu importe le lieu, doit être approuvé par un comité d'éthique de la recherche (CÉR) de l'Université avant de commencer. C'est nécessaire même si un autre CÉR l'a déjà approuvé. En cas de doute, joins le Bureau d'éthique et d'intégrité de la recherche au 613-562-5387.",
+   "en": "Yes, any project involving human participants or human biological material, conducted under the University's auspices, funded or not and wherever it takes place, must be approved by a University Research Ethics Board (REB) before it starts. This applies even if another REB already approved it. If unsure, contact the Office of Research Ethics and Integrity at 613-562-5387."
+  },
+  "sources": [
+   {
+    "label": "Office of Research Ethics and Integrity — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ethics"
+   },
+   {
+    "label": "Bureau d'éthique et d'intégrité de la recherche — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/deontologie"
+   },
+   {
+    "label": "Ethics review — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ethics/ethics-review"
+   },
+   {
+    "label": "Processus d'évaluation — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/deontologie/processus-evaluation"
+   }
+  ],
+  "related": [
+   "u-salaires-divulgation",
+   "u-conge-autofinance",
+   "u-teletravail"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ereviews-dates",
+  "category": "reglements",
+  "keywords": [
+   "ereviews",
+   "date de soumission ethique",
+   "demande d'ethique",
+   "prof",
+   "faculty member",
+   "ethics submission deadline",
+   "ethics application",
+   "researcher",
+   "cer",
+   "reb"
+  ],
+  "question": {
+   "fr": "Comment et quand soumettre une demande d'évaluation éthique ?",
+   "en": "How and when do I submit an ethics review request?"
+  },
+  "answer": {
+   "fr": "Les demandes se font sur la plateforme eReviews, qui permet de remplir les formulaires, de répondre aux commentaires du CÉR et de suivre ton dossier. La date de soumission est le premier jour ouvrable du mois. Aucune nouvelle évaluation n'est reçue en décembre; les prochaines dates sont le 6 janvier, le 1er février, le 1er mars, le 1er avril et le 3 mai 2027.",
+   "en": "Requests are made on the eReviews platform, where you fill out forms, respond to REB feedback and track your file. The submission date is the first working day of the month. No new reviews are accepted in December; the next dates are January 6, February 1, March 1, April 1 and May 3, 2027."
+  },
+  "sources": [
+   {
+    "label": "Office of Research Ethics and Integrity — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ethics"
+   },
+   {
+    "label": "Bureau d'éthique et d'intégrité de la recherche — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/deontologie"
+   }
+  ],
+  "related": [
+   "u-salaires-divulgation",
+   "u-conge-autofinance",
+   "u-teletravail"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-cer-lequel",
+  "category": "reglements",
+  "keywords": [
+   "quel cer",
+   "comite d'ethique sciences sociales",
+   "comite d'ethique sciences de la sante",
+   "prof",
+   "faculty member",
+   "which reb",
+   "social sciences reb",
+   "health sciences reb",
+   "researcher"
+  ],
+  "question": {
+   "fr": "Quel comité d'éthique de la recherche évalue mon projet ?",
+   "en": "Which Research Ethics Board reviews my project?"
+  },
+  "answer": {
+   "fr": "Il y a deux CÉR. Le CÉR en sciences sociales et humanités évalue les projets de l'École de gestion Telfer et des facultés des arts, d'éducation, de droit et des sciences sociales, sauf l'École de psychologie. Le CÉR en sciences de la santé et sciences évalue ceux des facultés de génie, des sciences, des sciences de la santé et de médecine ainsi que de l'École de psychologie.",
+   "en": "There are two REBs. The Social Sciences and Humanities REB reviews projects from the Telfer School of Management and the Faculties of Arts, Education, Law and Social Sciences, except the School of Psychology. The Health Sciences and Science REB reviews those from the Faculties of Engineering, Science, Health Sciences and Medicine and the School of Psychology."
+  },
+  "sources": [
+   {
+    "label": "Research Ethics Boards (REB) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ethics/research-ethics-boards"
+   },
+   {
+    "label": "Comités d'éthique de la recherche (CÉR) — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/deontologie/comites-ethique-recherche"
+   }
+  ],
+  "related": [
+   "u-salaires-divulgation",
+   "u-conge-autofinance",
+   "u-teletravail"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ethique-delais",
+  "category": "reglements",
+  "keywords": [
+   "delai evaluation ethique",
+   "evaluation deleguee",
+   "risque minimal",
+   "prof",
+   "faculty member",
+   "ethics review timeline",
+   "expedited review",
+   "minimal risk",
+   "full board",
+   "researcher"
+  ],
+  "question": {
+   "fr": "Combien de temps prend l'évaluation éthique d'un projet ?",
+   "en": "How long does an ethics review take?"
+  },
+  "answer": {
+   "fr": "Ça dépend du niveau de risque : une évaluation par le comité plénier prend 6 semaines ou plus, une évaluation à risque minimal de 4 à 6 semaines et une évaluation accélérée de 2 à 3 semaines. L'utilisation secondaire de données et les rapports de modification prennent aussi de 2 à 3 semaines, et un examen administratif environ une semaine.",
+   "en": "It depends on the level of risk: a full REB review takes 6 weeks or more, a minimal risk review 4 to 6 weeks and an expedited review 2 to 3 weeks. Secondary use of data and modification reports also take 2 to 3 weeks, and an administrative review about one week."
+  },
+  "sources": [
+   {
+    "label": "Ethics review — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ethics/ethics-review"
+   },
+   {
+    "label": "Processus d'évaluation — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/deontologie/processus-evaluation"
+   }
+  ],
+  "related": [
+   "u-salaires-divulgation",
+   "u-conge-autofinance",
+   "u-teletravail"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ethique-specialiste",
+  "category": "services",
+  "keywords": [
+   "bureau d'ethique",
+   "specialiste en ethique",
+   "rencontre ethique",
+   "prof",
+   "faculty member",
+   "ethics office",
+   "ethics specialist",
+   "research ethics contact",
+   "researcher",
+   "tabaret"
+  ],
+  "question": {
+   "fr": "Comment joindre le Bureau d'éthique et d'intégrité de la recherche ?",
+   "en": "How do I contact the Office of Research Ethics and Integrity?"
+  },
+  "answer": {
+   "fr": "Le Bureau est au pavillon Tabaret, 550, rue Cumberland, local 154, au 613-562-5800, poste 5387. Il est ouvert de 8 h 45 à 17 h de septembre à mai et de 8 h 45 à 16 h de juin à août. Tu peux remplir un formulaire pour rencontrer un spécialiste avant de soumettre ta demande dans eReviews; comme le local peut être difficile d'accès, appelle d'avance si tu as besoin d'accommodements.",
+   "en": "The Office is in Tabaret Hall, 550 Cumberland Street, Room 154, at 613-562-5800 ext. 5387. It is open 8:45 a.m. to 5 p.m. from September to May and 8:45 a.m. to 4 p.m. from June to August. You can fill out a form to meet a specialist before submitting in eReviews; since the office may be hard to access, call ahead if you need accommodations."
+  },
+  "sources": [
+   {
+    "label": "Contact us — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ethics/contact-us"
+   },
+   {
+    "label": "Contactez-nous — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/deontologie/contactez-nous"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ethique-presentation-cours",
+  "category": "cours",
+  "keywords": [
+   "presentation ethique",
+   "ethique en classe",
+   "atelier ethique",
+   "prof",
+   "faculty member",
+   "research ethics presentation",
+   "guest lecture ethics",
+   "course presentation",
+   "instructor"
+  ],
+  "question": {
+   "fr": "Puis-je inviter le Bureau d'éthique à faire une présentation dans mon cours ?",
+   "en": "Can I invite the Ethics Office to give a presentation in my course?"
+  },
+  "answer": {
+   "fr": "Oui, les professeurs peuvent demander une présentation sur l'éthique de la recherche avec des participants humains dans le cadre de leur cours. Elle dure de 60 à 90 minutes et explique aussi le processus d'évaluation éthique à l'Université. La demande se fait avec le formulaire du Bureau d'éthique et d'intégrité de la recherche.",
+   "en": "Yes, professors can request a presentation on research ethics with human participants as part of their course. It lasts 60 to 90 minutes and also explains the ethics review process at the University. You request it with the Office of Research Ethics and Integrity's form."
+  },
+  "sources": [
+   {
+    "label": "Contact us — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ethics/contact-us"
+   },
+   {
+    "label": "Contactez-nous — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/deontologie/contactez-nous"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ethique-travaux-cours",
+  "category": "cours",
+  "keywords": [
+   "recherche dans un cours",
+   "travail de cours ethique",
+   "etudes dirigees",
+   "prof",
+   "faculty member",
+   "course-based research",
+   "class assignment ethics",
+   "directed studies",
+   "instructor",
+   "cer"
+  ],
+  "question": {
+   "fr": "Mes étudiants font une petite recherche avec des participants dans un travail de cours : faut-il une approbation éthique ?",
+   "en": "My students do a small study with participants in a course assignment: is ethics approval needed?"
+  },
+  "answer": {
+   "fr": "Oui, les activités de recherche intégrées à un cours sont visées, même si leur but est pédagogique. Les responsables de cours qui incluent de telles activités dans un travail, ou les professeurs qui encadrent des études dirigées, doivent soumettre une demande au CÉR. L'évaluation d'un plan de cours prend de 2 à 3 semaines.",
+   "en": "Yes, research activities built into a course are covered, even when their purpose is pedagogical. Course instructors who include such activities in an assignment, or professors supervising directed studies, must submit a request to the REB. Review of a course outline takes 2 to 3 weeks."
+  },
+  "sources": [
+   {
+    "label": "Ethics review — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ethics/ethics-review"
+   },
+   {
+    "label": "Processus d'évaluation — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/deontologie/processus-evaluation"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ethique-hopital",
+  "category": "reglements",
+  "keywords": [
+   "cer hopital",
+   "hopital affilie",
+   "recherche hopital",
+   "prof",
+   "faculty member",
+   "hospital reb",
+   "affiliated hospital",
+   "the ottawa hospital",
+   "cheo",
+   "researcher"
+  ],
+  "question": {
+   "fr": "Mon projet se déroule dans un hôpital affilié : quel comité d'éthique dois-je consulter ?",
+   "en": "My project takes place at an affiliated hospital: which ethics board do I consult?"
+  },
+  "answer": {
+   "fr": "Les projets qui recrutent ou recueillent des données dans un hôpital affilié doivent aussi être évalués par le CÉR de cet hôpital. Il est généralement recommandé de soumettre d'abord à l'hôpital, puis, une fois l'approbation obtenue, au CÉR de l'Université pour une évaluation accélérée. Communique avec les deux comités avant de commencer.",
+   "en": "Projects that recruit or collect data at an affiliated hospital must also be reviewed by that hospital's REB. It is generally recommended to submit to the hospital first, then, once approved, to the University REB for an expedited review. Contact both boards before you start."
+  },
+  "sources": [
+   {
+    "label": "Research Ethics Boards (REB) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ethics/research-ethics-boards"
+   },
+   {
+    "label": "Comités d'éthique de la recherche (CÉR) — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/deontologie/comites-ethique-recherche"
+   },
+   {
+    "label": "Ethics review — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ethics/ethics-review"
+   },
+   {
+    "label": "Processus d'évaluation — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/deontologie/processus-evaluation"
+   }
+  ],
+  "related": [
+   "u-salaires-divulgation",
+   "u-conge-autofinance",
+   "u-teletravail"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-conduite-responsable-recherche",
+  "category": "reglements",
+  "keywords": [
+   "conduite responsable",
+   "integrite en recherche",
+   "falsification",
+   "reglement 115",
+   "prof",
+   "faculty member",
+   "staff",
+   "responsible conduct of research",
+   "research integrity",
+   "policy 115",
+   "fabrication"
+  ],
+  "question": {
+   "fr": "C'est quoi le règlement sur la conduite responsable de la recherche ?",
+   "en": "What is the policy on the responsible conduct of research?"
+  },
+  "answer": {
+   "fr": "Le Règlement 115 s'applique à tous les membres de la communauté qui font de la recherche, employés, étudiants et chercheurs invités, que le projet soit financé ou non. Il exige notamment la rigueur, des données complètes et exactes, la reconnaissance des sources et des auteurs et la gestion des conflits d'intérêts. La fabrication, la falsification et la destruction de données de recherche sont des exemples de manquements.",
+   "en": "Policy 115 applies to all community members who do research, including employees, students and visiting researchers, whether the project is funded or not. It requires rigour, complete and accurate records, proper credit for sources and authors, and management of conflicts of interest. Fabrication, falsification and destruction of research records are examples of breaches."
+  },
+  "sources": [
+   {
+    "label": "Responsible Conduct of Research (RCR) — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/ethics/research-integrity"
+   },
+   {
+    "label": "Intégrité de la recherche — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/deontologie/integrite-recherche"
+   },
+   {
+    "label": "Policy 115 - Responsible Conduct of Research — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/policy-115-responsible-conduct-research"
+   },
+   {
+    "label": "Règlement 115 - Conduite responsable de la recherche — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/reglement-115-conduite-responsable-recherche"
+   }
+  ],
+  "related": [
+   "u-salaires-divulgation",
+   "u-conge-autofinance",
+   "u-teletravail"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ressources-chercheurs",
+  "category": "services",
+  "keywords": [
+   "ressources chercheurs",
+   "demande de subvention",
+   "eawards",
+   "facilitateurs de recherche",
+   "prof",
+   "faculty member",
+   "research resources",
+   "grant application",
+   "research facilitators",
+   "researcher"
+  ],
+  "question": {
+   "fr": "Où trouver les outils pour gérer mes subventions et mes demandes de recherche ?",
+   "en": "Where can I find tools to manage my grants and research applications?"
+  },
+  "answer": {
+   "fr": "La page Ressources pour la recherche des TI regroupe les outils par étape : gestion des subventions (eAwards), base de données des occasions de financement et facilitateurs de recherche avant l'octroi, eReviews pour l'éthique, Workday pour les finances et les remboursements, et UNIWeb pour la diffusion. On y trouve aussi les formulaires fréquents et les outils de gestion des données de recherche.",
+   "en": "The IT Research resources page groups tools by stage: grant management (eAwards), the funding opportunities database and research facilitators for pre-award, eReviews for ethics, Workday for finance and reimbursements, and UNIWeb for dissemination. It also lists frequently used forms and research data management tools."
+  },
+  "sources": [
+   {
+    "label": "Research resources — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/professors/research"
+   },
+   {
+    "label": "Ressources de recherche — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/technologies-information/vous-et-la-ti/professeurs/ressources-recherche"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "u-financement-partenariat",
+  "category": "finances",
+  "keywords": [
+   "financement recherche",
+   "subvention partenariat",
+   "crsng alliance",
+   "mitacs",
+   "prof",
+   "faculty member",
+   "research funding",
+   "partnership grant",
+   "nserc alliance",
+   "researcher"
+  ],
+  "question": {
+   "fr": "Quels programmes financent la recherche en partenariat avec l'industrie ?",
+   "en": "Which programs fund research partnerships with industry?"
+  },
+  "answer": {
+   "fr": "La page des occasions de financement présente notamment le PARI, IDEaS, Mitacs, les subventions Alliance du CRSNG et les subventions de partenariat du CRSH. Par exemple, Alliance Avantage du CRSNG offre de 20 000 $ à 1 million $ par année pendant jusqu'à 5 ans, sans date limite.",
+   "en": "The funding opportunities page lists IRAP, IDEaS, Mitacs, NSERC Alliance grants and SSHRC Partnership Grants, among others. For example, NSERC Alliance Advantage provides $20,000 to $1 million per year for up to 5 years, with no deadline."
+  },
+  "sources": [
+   {
+    "label": "Funding Opportunities — uOttawa",
+    "url": "https://www.uottawa.ca/research-innovation/funding-opportunities"
+   },
+   {
+    "label": "Possibilités de financement — uOttawa",
+    "url": "https://www.uottawa.ca/recherche-innovation/possibilites-financement"
+   }
+  ],
+  "related": [
+   "u-regime-retraite",
+   "u-retraite-anticipee",
+   "u-retraite-publications"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "pointer"
+ },
+ {
+  "id": "u-evaluation-cours-profs",
+  "category": "cours",
+  "keywords": [
+   "evaluation des cours professeur",
+   "evaluaction",
+   "evaluation formative",
+   "prof",
+   "faculty member",
+   "course evaluation",
+   "student evaluations",
+   "teaching evaluation",
+   "instructor",
+   "rapport p"
+  ],
+  "question": {
+   "fr": "Je suis professeur : comment fonctionne l'évaluation de mon cours par les étudiants ?",
+   "en": "I'm a professor: how does student evaluation of my course work?"
+  },
+  "answer": {
+   "fr": "Tout cours d'au moins neuf heures de contact avec le même professeur est évalué en ligne sur la plateforme ÉvaluAction, et tu dois réserver de 10 à 20 minutes en classe en quittant la salle. Tu peux ajouter une évaluation formative personnalisée de 10 questions dont toi seul vois les résultats. Tu peux suivre le taux de participation en temps réel, mais tu reçois les résultats seulement après la publication officielle des notes finales.",
+   "en": "Every course with at least nine contact hours with the same professor is evaluated online on the EvaluAction platform, and you must set aside 10 to 20 minutes of class time while you leave the room. You can add a customized 10-question formative evaluation whose results only you can see. You can follow participation rates in real time, but you only get results after final grades are official."
+  },
+  "sources": [
+   {
+    "label": "Evaluation of teaching and courses — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/provost/quality-assurance/evaluation-teaching-courses"
+   },
+   {
+    "label": "Évaluation de l’enseignement et des cours — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/provost/assurance-qualite/evaluation-enseignement-cours"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-dossier-enseignement",
+  "category": "cours",
+  "keywords": [
+   "dossier d'enseignement",
+   "philosophie d'enseignement",
+   "rapports a",
+   "prof",
+   "faculty member",
+   "teaching dossier",
+   "teaching philosophy",
+   "a-reports",
+   "promotion",
+   "saea"
+  ],
+  "question": {
+   "fr": "Que doit contenir mon dossier d'enseignement ?",
+   "en": "What must my teaching dossier contain?"
+  },
+  "answer": {
+   "fr": "Adopté par le Sénat en 2019, le dossier d'enseignement comprend trois documents obligatoires : un énoncé de ta philosophie d'enseignement, les rapports A et une brève réflexion sur ces résultats avec les actions prévues pour enrichir ton enseignement. Le Service d'appui à l'enseignement et à l'apprentissage (SAEA) offre de la formation et des ressources pour t'aider à le préparer.",
+   "en": "Adopted by the Senate in 2019, the teaching dossier includes three compulsory documents: a statement of your teaching philosophy, the A-reports and a brief reflection on those results with the actions planned to enrich your teaching. The Teaching and Learning Support Service (TLSS) offers training and resources to help you prepare it."
+  },
+  "sources": [
+   {
+    "label": "Professor zone — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/provost/quality-assurance/evaluation-teaching-courses/professor-zone"
+   },
+   {
+    "label": "Zone professorale — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/provost/assurance-qualite/evaluation-enseignement-cours/zone-professorale"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-prix-excellence-education",
+  "category": "cours",
+  "keywords": [
+   "prix d'excellence en education",
+   "prix enseignement",
+   "concours professeurs",
+   "prof",
+   "faculty member",
+   "excellence in education prize",
+   "teaching award",
+   "teaching prize",
+   "provost"
+  ],
+  "question": {
+   "fr": "C'est quoi les Prix d'excellence en éducation ?",
+   "en": "What are the Excellence in Education Prizes?"
+  },
+  "answer": {
+   "fr": "Ces prix annuels reconnaissent des professeurs réguliers qui se distinguent à la fois par un enseignement exceptionnel et par un solide programme de recherche. Chaque lauréat reçoit une subvention de 10 000 $ pour de la recherche sur des pratiques d'enseignement innovantes. Le concours 2026-2027 est ouvert du 2 décembre 2026 au 19 mars 2027.",
+   "en": "These annual prizes recognize regular professors who stand out for both outstanding teaching and a solid research program. Each recipient receives a $10,000 grant for research on innovative teaching practices. The 2026-2027 competition runs from December 2, 2026 to March 19, 2027."
+  },
+  "sources": [
+   {
+    "label": "Excellence in Education Prizes — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/provost/faculty-relations/prizes-awards/excellence-education"
+   },
+   {
+    "label": "Prix d'excellence en éducation — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/provost/affaires-professorales/prix-concours/excellence-education"
+   },
+   {
+    "label": "Prizes and awards — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/provost/faculty-relations/prizes-awards"
+   },
+   {
+    "label": "Prix et concours — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/provost/affaires-professorales/prix-concours"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-prix-concours-professeurs",
+  "category": "cours",
+  "keywords": [
+   "prix professeurs",
+   "professeur eminent",
+   "professeure de l'annee",
+   "concours annuels",
+   "prof",
+   "faculty member",
+   "faculty awards",
+   "distinguished university professor",
+   "women professors",
+   "part-time professor"
+  ],
+  "question": {
+   "fr": "Quels concours le Cabinet du provost organise-t-il pour les professeurs ?",
+   "en": "What competitions does the Office of the Provost hold for professors?"
+  },
+  "answer": {
+   "fr": "Chaque année, il y a le titre de professeur éminent, ouvert du 25 novembre 2026 au 12 mars 2027, le soutien au développement de carrière des professeures, du 9 décembre 2026 au 26 février 2027, les Prix d'excellence en éducation, du 2 décembre 2026 au 19 mars 2027, et le prix du professeur à temps partiel de l'année, dont les dates restent à déterminer.",
+   "en": "Each year there is the Distinguished University Professor title, open from November 25, 2026 to March 12, 2027, Career Development Support for Women Professors, from December 9, 2026 to February 26, 2027, the Excellence in Education Prizes, from December 2, 2026 to March 19, 2027, and the Part-Time Professor of the Year Award, with dates to be determined."
+  },
+  "sources": [
+   {
+    "label": "Prizes and awards — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/provost/faculty-relations/prizes-awards"
+   },
+   {
+    "label": "Prix et concours — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/provost/affaires-professorales/prix-concours"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-affaires-professorales",
+  "category": "services",
+  "keywords": [
+   "affaires professorales",
+   "relations de travail",
+   "apuo",
+   "aptpuo",
+   "scfp 2626",
+   "prof",
+   "faculty member",
+   "faculty relations",
+   "labour relations",
+   "collective agreement"
+  ],
+  "question": {
+   "fr": "Qui s'occupe des relations de travail avec les professeurs ?",
+   "en": "Who handles labour relations with professors?"
+  },
+  "answer": {
+   "fr": "Le Cabinet de la vice-provost aux affaires professorales gère le recrutement et la rétention des professeurs, les prix et les relations de travail avec l'APUO, l'APTPUO et le SCFP 2626, qui représente notamment les assistants d'enseignement et de recherche. Le bureau est au 1, rue Stewart, local 107, au 613-562-5958.",
+   "en": "The Office of the Vice-Provost, Faculty Relations handles faculty recruitment and retention, awards, and labour relations with the APUO, the APTPUO and CUPE 2626, which represents teaching and research assistants among others. The office is at 1 Stewart Street, Room 107, at 613-562-5958."
+  },
+  "sources": [
+   {
+    "label": "Vice-Provost, Faculty Relations — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/provost/faculty-relations"
+   },
+   {
+    "label": "Affaires professorales — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/provost/affaires-professorales"
+   },
+   {
+    "label": "Labour relations — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/provost/faculty-relations/labour-relations"
+   },
+   {
+    "label": "Relations de travail — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/provost/affaires-professorales/relations-travail"
+   }
+  ],
+  "related": [
+   "u-rh-joindre",
+   "u-rh-question-paie",
+   "u-workday"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-bibliotheque-profs",
+  "category": "cours",
+  "keywords": [
+   "bibliotheque professeurs",
+   "bibliothecaire",
+   "liste de lectures",
+   "uo recherche",
+   "prof",
+   "faculty member",
+   "library for faculty",
+   "librarian",
+   "e-reading list",
+   "institutional repository",
+   "instructor"
+  ],
+  "question": {
+   "fr": "Quels services la Bibliothèque offre-t-elle aux professeurs ?",
+   "en": "What services does the Library offer professors?"
+  },
+  "answer": {
+   "fr": "Ton bibliothécaire peut t'aider pour la recherche, donner des séances d'orientation et t'aider à concevoir des travaux de recherche pour tes étudiants. Dans ton cours Brightspace, tu peux créer une liste de lectures électroniques avec des liens vers les ressources de la Bibliothèque, ce qui ne demande habituellement pas d'autorisation de droit d'auteur. Tu peux aussi déposer tes travaux dans uO Recherche, le dépôt institutionnel.",
+   "en": "Your librarian can help with research, give orientation sessions and help design research assignments for your students. In your Brightspace course, you can create an e-reading list with links to Library resources, which usually doesn't require copyright clearance. You can also deposit your work in uO Research, the institutional repository."
+  },
+  "sources": [
+   {
+    "label": "Faculty and instructors — uOttawa",
+    "url": "https://www.uottawa.ca/library/services/faculty-instructors"
+   },
+   {
+    "label": "Professeurs — uOttawa",
+    "url": "https://www.uottawa.ca/bibliotheque/services/professeurs"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
+ },
+ {
+  "id": "u-ia-enseignement",
+  "category": "cours",
+  "keywords": [
+   "ia en enseignement",
+   "copilot professeurs",
+   "intelligence artificielle",
+   "saea",
+   "prof",
+   "faculty member",
+   "ai in teaching",
+   "copilot",
+   "generative ai",
+   "tlss",
+   "instructor"
+  ],
+  "question": {
+   "fr": "Quelles ressources existent pour utiliser l'IA dans mon enseignement ?",
+   "en": "What resources exist for using AI in my teaching?"
+  },
+  "answer": {
+   "fr": "Le Service d'appui à l'enseignement et à l'apprentissage (SAEA) offre un carrefour IA avec des ressources et des forums, ainsi que des ateliers sur l'utilisation responsable de l'IA pour les professeurs et des webinaires pour les assistants d'enseignement. Microsoft Copilot est le principal outil d'IA offert aux professeurs, par exemple pour préparer des plans de cours ou des questionnaires. La Bibliothèque a aussi un guide sur l'IA générative.",
+   "en": "The Teaching and Learning Support Service (TLSS) offers an AI hub with resources and forums, plus workshops on responsible AI use for faculty and webinars for teaching assistants. Microsoft Copilot is the main AI tool available to faculty, for example to prepare lesson plans or quizzes. The Library also has a generative AI guide."
+  },
+  "sources": [
+   {
+    "label": "Teaching and learning — uOttawa",
+    "url": "https://www.uottawa.ca/about-us/artificial-intelligence/teaching-learning"
+   },
+   {
+    "label": "Enseignement et apprentissage — uOttawa",
+    "url": "https://www.uottawa.ca/notre-universite/intelligence-artificielle/enseignement-apprentissage"
+   }
+  ],
+  "related": [
+   "u-acces-salle-classe",
+   "u-podium-classe",
+   "u-aide-technique-classe"
+  ],
+  "verifiedOn": "2026-11-16",
+  "status": "official"
  }
 ];

@@ -9,6 +9,7 @@ import { VideoGeeGee, CLIPS } from './avatar-video.js';
 import { loadCampus, routeForEntry, drawRoute } from './campusmap.js';
 import { loadLinks, searchLinks } from './links.js';
 import { ai, aiSupported, loadAI, aiAnswer, AI_ENDPOINT } from './ai.js';
+import { recapData, recapLink } from './recap.js';
 
 const $ = (s, root = document) => root.querySelector(s);
 const $$ = (s, root = document) => [...root.querySelectorAll(s)];
@@ -84,7 +85,8 @@ function attract() {
   };
   clearInterval(tipTimer); tick(); tipTimer = setInterval(tick, 6000);
 }
-function openStart() { clearInterval(tipTimer); show('start'); markChoices(); }
+// La session commence au premier toucher : son journal (questions, réponses, liens officiels) est prêt dès l'accueil.
+function openStart() { clearInterval(tipTimer); startLog(); show('start'); markChoices(); }
 function markChoices() {
   $$('[data-lang]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.lang === state.lang)));
   $$('[data-profile]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.profile === state.profile)));
@@ -173,9 +175,11 @@ function showTopic(id) {
     h('h2', { class: 'view-title', text: L(c) }), p, questionList(inCategory(id)));
   say(intro, p);
 }
-function logExchange(q, a, url) {
-  if (!state.session) return;
-  state.session.log.push({ q, a, url });
+// Journal de la session : une entrée par échange (question, réponse, fiche et lien officiel).
+// Il alimente l'historique, le récapitulatif de fin et son code QR.
+function logExchange(item) {
+  if (!state.session || !item?.q) return;
+  state.session.log.push({ ...item, at: Date.now() });
   const n = state.session.log.length;
   $('#histCount').hidden = !n; $('#histCount').textContent = n;
 }
@@ -196,7 +200,7 @@ function ask(text, id, opts = {}) {
 
   if (res.type === 'answer') {
     const e = res.entry, answer = L(e.answer);
-    logExchange(q, answer, e.sources[0]?.url || '');
+    logExchange({ q, id: e.id, a: answer, url: e.sources[0]?.url || '' });
     bump((s) => { s.top[e.id] = (s.top[e.id] || 0) + 1; });
     const p = spokenText(answer);
     const related = [...new Set([...(e.related || []).map(byId).filter(Boolean), ...res.alts])].filter((r) => r.id !== e.id).slice(0, 3);
@@ -220,7 +224,7 @@ function ask(text, id, opts = {}) {
     gg?.react('answer');
     say(answer, p);
   } else if (res.type === 'sensitive') {
-    logExchange(q, t('sensitive'), LINKS.wellness.url);
+    logExchange({ q, a: t('sensitive'), url: LINKS.wellness.url, type: 'sensitive' });
     const p = spokenText(t('sensitive'));
     setView(asked(q), p, sourceLinks([LINKS.wellness], h('a', { class: 'src alert', href: 'tel:911' }, t('urgent'))));
     gg?.react('sensitive');
@@ -234,7 +238,7 @@ function ask(text, id, opts = {}) {
     // Pas de fiche : on cherche dans l'index des ~36 000 pages officielles
     const pages = searchLinks(q, state.lang);
     const said = pages.length ? t('noneLinks') : t('none');
-    logExchange(q, said, pages[0]?.url || LINKS.infoservice.url);
+    logExchange({ q, a: said, url: pages[0]?.url || LINKS.infoservice.url });
     bump((s) => { s.unanswered++; });
     const p = spokenText(said);
     setView(asked(q), p, pageList(pages), sourceLinks([{ label: t('infoservice'), url: LINKS.infoservice.url }]),
@@ -246,11 +250,14 @@ function ask(text, id, opts = {}) {
 }
 
 // ---------- Session ----------
+function startLog() { state.session = { startedAt: Date.now(), lang: state.lang, profile: state.profile, log: [], noticeTimer: null }; }
 function startSession() {
-  state.session = { log: [], noticeTimer: setTimeout(() => {
+  if (!state.session) startLog();
+  state.session.lang = state.lang; state.session.profile = state.profile;
+  state.session.noticeTimer = setTimeout(() => {
     toast(t('timeNotice'));
     if (state.voice) speak(t('timeNotice'), state.lang, { onStart: () => gg?.startTalking(), onWord: (w, r) => gg?.sayWord(w, r), onEnd: () => gg?.stopTalking() });
-  }, SESSION_NOTICE_MS) };
+  }, SESSION_NOTICE_MS);
   bump((s) => { s.sessions++; s.profiles[state.profile] = (s.profiles[state.profile] || 0) + 1; s.langs[state.lang] = (s.langs[state.lang] || 0) + 1; });
   $('#histCount').hidden = true;
   applyText();
@@ -264,9 +271,14 @@ function endSession() {
   stopSpeaking(); gg?.stopTalking();
   clearTimeout(state.session?.noticeTimer);
   const log = state.session?.log || [];
+  const recap = log.length ? endQR(log, state.session?.startedAt) : null;
   $('#qr').replaceChildren();
-  if (log.length) { $('#qrText').textContent = t('qrText'); $('#qr').innerHTML = makeQR(log); bump((s) => { s.qr++; }); }
-  else $('#qrText').textContent = t('noQr');
+  if (recap) {
+    $('#qrText').textContent = recap.kept < recap.total ? fill(t('qrPartial'), { n: recap.kept, total: recap.total }) : t('qrText');
+    $('#qr').innerHTML = recap.svg;
+    $('#qr').append(h('p', { class: 'qr-link' }, h('a', { href: recap.url, target: '_blank', rel: 'noopener', text: t('qrOpen') })));
+    bump((s) => { s.qr++; });
+  } else $('#qrText').textContent = t('noQr');
   $$('#rating .choice').forEach((b) => b.setAttribute('aria-pressed', 'false'));
   state.session = null;
   show('end');
@@ -274,17 +286,24 @@ function endSession() {
   const tick = () => { $('#closing').textContent = fill(t('closing'), { s: left }); if (left-- <= 0) attract(); };
   clearInterval(state.endTick); tick(); state.endTick = setInterval(tick, 1000);
 }
-// QR : questions posées + lien officiel de chaque réponse (aucune donnée personnelle).
-function makeQR(log) {
-  const lines = [t('qrHeader')];
-  for (const it of log) {
-    const line = `• ${it.q}${it.url ? `\n  ${it.url}` : ''}`;
-    if ((lines.join('\n') + line).length > 700) break; // reste facile à scanner
-    lines.push(line);
+// QR de fin : il pointe sur le récapitulatif de la session (recap.html), qui contient les questions,
+// les réponses et les pages officielles d'où elles viennent. Aucune donnée personnelle.
+function qrSvg(text, level = 'M') {
+  try {
+    qrcode.stringToBytes = qrcode.stringToBytesFuncs['UTF-8'];
+    const code = qrcode(0, level); code.addData(text, 'Byte'); code.make();
+    return code.createSvgTag({ cellSize: 4, margin: 2, scalable: true, alt: t('qrText') });
+  } catch { return null; } // trop long pour tenir dans un code QR
+}
+function endQR(log, startedAt) {
+  const data = recapData(log, state.lang, startedAt);
+  // Si le lien est trop long à scanner, on garde les premières questions plutôt que de rendre le code illisible.
+  for (let kept = data.i.length; kept > 0; kept--) {
+    const url = recapLink({ ...data, i: data.i.slice(0, kept) });
+    const svg = qrSvg(url);
+    if (svg) return { url, svg, kept, total: data.i.length };
   }
-  qrcode.stringToBytes = qrcode.stringToBytesFuncs['UTF-8'];
-  const code = qrcode(0, 'M'); code.addData(lines.join('\n'), 'Byte'); code.make();
-  return code.createSvgTag({ cellSize: 4, margin: 2, scalable: true, alt: t('qrText') });
+  return null;
 }
 
 // ---------- Fenêtres : historique, plan, rappel, inactivité, tableau de bord ----------
@@ -342,7 +361,7 @@ function openLinkQR(pg) {
   const box = h('div', { class: 'link-qr' }, h('p', { class: 'title', text: pg.title }), h('p', { class: 'lead', text: t('scanToOpen') }));
   const qr = h('div', { class: 'qr' }); qr.innerHTML = code.createSvgTag({ cellSize: 4, margin: 2, scalable: true, alt: pg.url });
   box.append(qr, h('p', { class: 'fine', text: pg.url }));
-  if (state.session) state.session.log.push({ q: pg.title, a: '', url: pg.url }); // aussi dans le code QR de fin
+  logExchange({ q: pg.title, url: pg.url }); // la page ouverte fait aussi partie du récapitulatif de fin
   $('#lightboxImg').hidden = true; $('#lightboxMap').replaceChildren(box); $('#lightbox').hidden = false;
 }
 function openMap(svg) { $('#lightboxImg').hidden = true; $('#lightboxMap').replaceChildren(svg); $('#lightbox').hidden = false; }

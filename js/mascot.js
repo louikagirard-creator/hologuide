@@ -5,7 +5,6 @@
 import * as THREE from 'three';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 import { RealHorse } from './realhorse.js';
-import { Hologram, HOLO, holoMaterial } from './hologram.js';
 
 const C = { garnet: 0x8f001a, garnetDark: 0x5c0010, grey: 0x6d6e71, coat: 0xece7df, muzzle: 0xf7f2eb, hoof: 0x37373a, pink: 0xeaa3b2 };
 // Vrai modèle 3D de Gee-Gee : déposer le fichier dans assets/ puis écrire son chemin ici, ex. 'assets/geegee.glb'.
@@ -45,11 +44,9 @@ export class GeeGee {
     r.setPixelRatio(Math.min(2, window.devicePixelRatio || 1));
     r.setClearColor(0, 0);
     r.outputColorSpace = THREE.SRGBColorSpace;
-    // ACES et l'encodage sRGB sont appliqués en fin de passe par l'effet hologramme (js/hologram.js).
-    r.toneMapping = THREE.NoToneMapping;
+    r.toneMapping = THREE.ACESFilmicToneMapping; r.toneMappingExposure = 0.95;
     r.shadowMap.enabled = true; r.shadowMap.type = THREE.PCFSoftShadowMap;
     this.el.appendChild(r.domElement);
-    this.fx = new Hologram(r); // bloom, grain, liseré de Fresnel, lignes de balayage
 
     this.scene = new THREE.Scene();
     this.scene.environment = new THREE.PMREMGenerator(r).fromScene(new RoomEnvironment(), 0.04).texture;
@@ -187,7 +184,6 @@ export class GeeGee {
     const floor = at(new THREE.Mesh(new THREE.CircleGeometry(1.6, 48), new THREE.ShadowMaterial({ opacity: 0.22 })), 0, FLOOR, 0, this.scene);
     floor.rotation.x = -Math.PI / 2; floor.receiveShadow = true;
     this.root.traverse((o) => { if (o.isMesh) { o.castShadow = true; o.receiveShadow = true; } });
-    this.root.traverse((o) => { if (o.isMesh && o.material) holoMaterial(o.material); });
   }
 
   // ---------- Affichage ----------
@@ -240,7 +236,6 @@ export class GeeGee {
     this.baseDist = d; this.baseY = cy; // cadrage de base ; le flex recule un peu pour garder les bras dans l'image
     cam.setViewOffset(col, h, w > col ? col * 0.025 : 0, 0, w, h); // un peu à gauche du centre de la colonne
     cam.updateProjectionMatrix();
-    this.fx?.setSize(this.renderer);
   }
   snapshot() { this.frame(); return this.renderer.domElement.toDataURL('image/png'); }
 
@@ -295,20 +290,17 @@ export class GeeGee {
     if (real && !this.real) {
       this.real = new RealHorse('assets/cheval-realiste.glb');
       this.scene.add(this.real.group);
-      this.real.load(TOP - FLOOR, FLOOR)
-        // Le modèle réaliste reçoit le même liseré et les mêmes lignes de balayage que la mascotte en code.
-        .then(() => this.real?.group.traverse((o) => { if (o.isMesh && o.material) holoMaterial(o.material); }))
-        .catch((err) => {
-          console.warn('Modèle réaliste non chargé, Gee-Gee fait en code utilisé à la place :', err);
-          this.real = null; this.setStyle('cartoon');
-        });
+      this.real.load(TOP - FLOOR, FLOOR).catch((err) => {
+        console.warn('Modèle réaliste non chargé, Gee-Gee fait en code utilisé à la place :', err);
+        this.real = null; this.setStyle('cartoon');
+      });
     }
     if (this.real) { this.real.group.visible = real; if (real) this.real.setVariant(style); }
     this.root.visible = !real && !this.model;
     if (this.model) this.model.visible = !real;
     // Les couleurs du modèle réaliste sont réglées pour un rendu neutre (l'ACES rougit le pelage).
-    // Le tone mapping est appliqué par l'effet hologramme, en fin de passe : on lui passe le mode.
-    this.fx.setTone(real ? 'neutral' : 'aces', real ? 1.0 : 0.95);
+    this.renderer.toneMapping = real ? THREE.NeutralToneMapping : THREE.ACESFilmicToneMapping;
+    this.renderer.toneMappingExposure = real ? 1.0 : 0.95;
     this.resize();
   }
 
@@ -324,7 +316,7 @@ export class GeeGee {
       box.setFromObject(m);
       const c = box.getCenter(new THREE.Vector3());
       m.position.set(-c.x, FLOOR - box.min.y, -c.z);
-      m.traverse((o) => { if (o.isMesh) { o.castShadow = true; o.receiveShadow = true; if (o.material) holoMaterial(o.material); } });
+      m.traverse((o) => { if (o.isMesh) { o.castShadow = true; o.receiveShadow = true; } });
       this.model = new THREE.Group(); this.model.add(m); this.scene.add(this.model);
       this.root.visible = false;
       this.clips = gltf.animations;
@@ -480,7 +472,6 @@ export class GeeGee {
       g.position.y = P.y; g.rotation.set(Math.sin(t * 0.9) * 0.01, P.ry - 0.22 + this.yaw + 1 * P.flex, P.rz);
     }
 
-    HOLO.uTime.value = t;
-    this.fx.render(this.renderer, this.scene, this.camera);
+    this.renderer.render(this.scene, this.camera);
   }
 }

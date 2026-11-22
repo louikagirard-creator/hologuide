@@ -7,9 +7,10 @@ import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 import { RealHorse } from './realhorse.js';
 
 const C = { garnet: 0x8f001a, garnetDark: 0x5c0010, grey: 0x6d6e71, coat: 0xece7df, muzzle: 0xf7f2eb, hoof: 0x37373a, pink: 0xeaa3b2 };
-// Vrai modèle 3D de Gee-Gee : déposer le fichier dans assets/ puis écrire son chemin ici, ex. 'assets/geegee.glb'.
-// Laisser null pour utiliser le Gee-Gee fait en code.
-const MODEL_URL = null;
+// Vrai modèle 3D de Gee-Gee : mascotte générée sur Meshy (assets/geegee.glb), avec son squelette et son animation.
+// Déposer un autre fichier dans assets/ et écrire son chemin ici ; laisser null pour utiliser le Gee-Gee fait en code.
+const MODEL_URL = 'assets/geegee.glb';
+const MODEL_MAX_W = 2.05; // largeur maximale du modèle importé (il a les bras écartés), en unités de la scène
 const FLOOR = -1.33;   // dessous des souliers = plancher de la boîte
 const TOP = 2.02;      // bout des oreilles
 const FIT = 1.06;      // marge au-dessus des oreilles
@@ -229,7 +230,7 @@ export class GeeGee {
     const col = this.el.closest('.holo')?.clientWidth || w;
     const cam = this.camera, aspect = col / h, half = Math.tan(THREE.MathUtils.degToRad(cam.fov / 2));
     // Le modèle réaliste a les bras plus écartés : on cadre plus large pour que ses mains ne soient pas coupées.
-    const H = (TOP - FLOOR) * FIT, W = this.style === 'cartoon' ? 1.25 : 1.75; // hauteur et largeur à faire tenir (bras compris)
+    const H = (TOP - FLOOR) * FIT, W = this.style === 'cartoon' ? 1.25 : this.style === 'geegee' ? MODEL_MAX_W + 0.1 : 1.75; // hauteur et largeur à faire tenir (bras compris)
     const d = Math.max(H / 2 / half, W / 2 / (half * aspect));
     const cy = FLOOR + H / 2 - 0.02;
     cam.aspect = aspect; cam.position.set(0, cy, d); cam.lookAt(0, cy, 0);
@@ -286,8 +287,9 @@ export class GeeGee {
   setStyle(style = 'cartoon') {
     if (!['cartoon', 'geegee', 'horse'].includes(style)) style = 'cartoon';
     this.style = style;
-    const real = style !== 'cartoon';
-    if (real && !this.real) {
+    // 'geegee' : la mascotte importée (assets/geegee.glb) ; 'horse' : le cheval réaliste ; 'cartoon' : Gee-Gee fait en code.
+    const useModel = style === 'geegee' && !!this.model;
+    if (style === 'horse' && !this.real) {
       this.real = new RealHorse('assets/cheval-realiste.glb');
       this.scene.add(this.real.group);
       this.real.load(TOP - FLOOR, FLOOR).catch((err) => {
@@ -295,12 +297,14 @@ export class GeeGee {
         this.real = null; this.setStyle('cartoon');
       });
     }
+    const real = style === 'horse' || (style === 'geegee' && !useModel && !!this.real);
     if (this.real) { this.real.group.visible = real; if (real) this.real.setVariant(style); }
-    this.root.visible = !real && !this.model;
-    if (this.model) this.model.visible = !real;
-    // Les couleurs du modèle réaliste sont réglées pour un rendu neutre (l'ACES rougit le pelage).
-    this.renderer.toneMapping = real ? THREE.NeutralToneMapping : THREE.ACESFilmicToneMapping;
-    this.renderer.toneMappingExposure = real ? 1.0 : 0.95;
+    if (this.model) this.model.visible = useModel;
+    // Tant que le modèle importé charge (ou s'il échoue), le Gee-Gee fait en code tient l'écran.
+    this.root.visible = style === 'cartoon' || (style === 'geegee' && !useModel && !this.real);
+    // Les textures du modèle importé et du modèle réaliste sont réglées pour un rendu neutre (l'ACES rougit le pelage).
+    this.renderer.toneMapping = real || useModel ? THREE.NeutralToneMapping : THREE.ACESFilmicToneMapping;
+    this.renderer.toneMappingExposure = real || useModel ? 1.0 : 0.95;
     this.resize();
   }
 
@@ -312,7 +316,8 @@ export class GeeGee {
       const { GLTFLoader } = await import('three/addons/loaders/GLTFLoader.js');
       const gltf = await new GLTFLoader().loadAsync(url);
       const m = gltf.scene, box = new THREE.Box3().setFromObject(m), size = box.getSize(new THREE.Vector3());
-      m.scale.setScalar((TOP - FLOOR) / size.y);
+      // À l'échelle de la boîte (tête aux pieds), mais sans déborder en largeur : le modèle a les bras écartés.
+      m.scale.setScalar(Math.min((TOP - FLOOR) / size.y, MODEL_MAX_W / size.x));
       box.setFromObject(m);
       const c = box.getCenter(new THREE.Vector3());
       m.position.set(-c.x, FLOOR - box.min.y, -c.z);
@@ -320,11 +325,13 @@ export class GeeGee {
       this.model = new THREE.Group(); this.model.add(m); this.scene.add(this.model);
       this.root.visible = false;
       this.clips = gltf.animations;
+      // Au repos, on ne joue que les animations d'attente : une marche ou une course sur place ferait bizarre.
       if (this.clips.length) {
         this.mixer = new THREE.AnimationMixer(m);
-        const idle = this.clips.find((k) => /idle|repos|breath/i.test(k.name)) || this.clips[0];
-        this.mixer.clipAction(idle).play();
+        const idle = this.clips.find((k) => /idle|repos|breath|attente/i.test(k.name));
+        if (idle) this.mixer.clipAction(idle).play();
       }
+      this.setStyle(this.style);
     } catch (err) { console.warn('Modèle 3D non chargé, Gee-Gee fait en code utilisé à la place :', err); }
   }
   lookToward(x, y) {

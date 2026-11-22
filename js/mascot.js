@@ -11,6 +11,7 @@ const C = { garnet: 0x8f001a, garnetDark: 0x5c0010, grey: 0x6d6e71, coat: 0xece7
 // Déposer un autre fichier dans assets/ et écrire son chemin ici ; laisser null pour utiliser le Gee-Gee fait en code.
 const MODEL_URL = 'assets/geegee.glb';
 const MODEL_MAX_W = 2.05; // largeur maximale du modèle importé (il a les bras écartés), en unités de la scène
+const WAVE_EVERY = 10; // secondes entre deux salutations de la mascotte importée
 const FLOOR = -1.33;   // dessous des souliers = plancher de la boîte
 const TOP = 2.02;      // bout des oreilles
 const FIT = 1.06;      // marge au-dessus des oreilles
@@ -70,8 +71,10 @@ export class GeeGee {
     this.state = {
       mouth: 0, syllables: [], talking: false, gesture: null, calm: false, pose: null, attention: null,
       blinkAt: now() + 1.5, blinkStart: -1, earAt: now() + 2, earStart: -1, earSide: 0,
-      gaze: new THREE.Vector2(), gazeTo: new THREE.Vector2(), gazeAt: now() + 1, fidgetAt: now() + 8, last: now()
+      gaze: new THREE.Vector2(), gazeTo: new THREE.Vector2(), gazeAt: now() + 1, fidgetAt: now() + 8, last: now(),
+      waveAt: now() + WAVE_EVERY
     };
+    this.holdPose = false; // vrai quand la mascotte importée tient la pose « voici le code QR »
     new ResizeObserver(() => this.resize()).observe(this.el);
     window.addEventListener('pointerdown', (e) => this.lookToward(e.clientX, e.clientY), { passive: true });
   }
@@ -268,17 +271,34 @@ export class GeeGee {
 
   // ---------- Gestes et attention ----------
   react(kind) {
-    const g = { hello: ['wave', 2.6], thanks: ['hoofUp', 2], none: ['shrug', 2], answer: ['hop', 1.1], sensitive: ['calm', 2.5] }[kind];
+    const g = {
+      hello: ['wave', 2.6],     // salutation : au début d'une conversation, puis toutes les 10 s
+      bye: ['bye', 4.2],        // au revoir : à la fin de la conversation
+      present: ['present', 4],  // « voici le code QR » : les mains s'ouvrent vers l'écran et la pose reste affichée
+      thanks: ['hoofUp', 2], none: ['shrug', 2], answer: ['hop', 1.1], sensitive: ['calm', 2.5]
+    }[kind];
     this.state.calm = kind === 'sensitive';
     if (g) this.play(...g);
   }
   play(name, dur) {
-    this.state.gesture = { name, t0: now(), dur };
-    // Avec un vrai modèle : joue l'animation du fichier qui porte ce nom (ex. « wave »), puis revient au repos
-    const clip = this.clips?.find((c) => c.name.toLowerCase().includes(name.toLowerCase()));
+    const clip = this.clipFor(name);
+    this.holdPose = name === 'present';
+    this.state.gesture = { name, t0: now(), dur: clip ? Math.max(dur, clip.duration) : dur };
+    if (['wave', 'bye', 'present'].includes(name)) this.state.waveAt = now() + WAVE_EVERY; // la prochaine salutation compte à partir de ce geste
+    // Avec le modèle importé : joue l'animation du fichier (salut, au revoir, mains ouvertes), puis revient au repos.
     if (clip && this.mixer) {
-      const a = this.mixer.clipAction(clip); a.reset().setLoop(THREE.LoopOnce, 1).fadeIn(0.25).play(); a.clampWhenFinished = false;
+      const a = this.mixer.clipAction(clip);
+      this.mixer.stopAllAction();
+      a.reset().setLoop(THREE.LoopOnce, 1).fadeIn(0.2).play();
+      if (this.holdPose) { a.paused = true; a.time = Math.min(1.3, clip.duration * 0.4); } // main levée tant que le code QR est à l'écran
+      a.clampWhenFinished = this.holdPose;
     }
+  }
+  // Animation du modèle importé pour un geste : « wave » → petit signe de la main, « bye » → grand signe, « present » → mains ouvertes.
+  clipFor(name) {
+    if (!this.clips?.length) return null;
+    const re = { wave: /wave.?one.?hand/i, bye: /big.?wave|hello/i, present: /wave.?one.?hand/i }[name] || new RegExp(name, 'i');
+    return this.clips.find((c) => re.test(c.name)) || null;
   }
 
   // ---------- Style de la mascotte ----------
@@ -363,7 +383,7 @@ export class GeeGee {
       if (left <= 0) S.attention = null;
       else { const w = smooth(left / 0.4); p.hy -= S.attention.x * 0.45 * w; p.hx += S.attention.y * 0.18 * w; p.ry -= S.attention.x * 0.12 * w; }
     }
-    if (!S.talking && !S.gesture && t > S.fidgetAt) { // petite animation spontanée pour attirer les passants
+    if (!this.model && !S.talking && !S.gesture && t > S.fidgetAt) { // petite animation spontanée (Gee-Gee fait en code) pour attirer les passants
       S.fidgetAt = t + 7 + Math.random() * 8;
       const pick = ['tilt', 'lookAround', 'flex', 'hop', 'tilt'][Math.floor(Math.random() * 5)];
       this.play(pick, pick === 'lookAround' ? 2.6 : pick === 'flex' ? 3 : 1.4);
@@ -376,11 +396,11 @@ export class GeeGee {
       else {
         const w = smooth(Math.min(k / 0.18, (1 - k) / 0.2, 1));
         const [R, L] = p.arms;
-        if (['wave', 'hoofUp', 'hop', 'tilt'].includes(g.name)) p.brow = mix(p.brow, 1, w);
-        if (g.name === 'wave') {
+        if (['wave', 'bye', 'present', 'hoofUp', 'hop', 'tilt'].includes(g.name)) p.brow = mix(p.brow, 1, w);
+        if (g.name === 'wave' || g.name === 'bye') {
           Object.assign(R, { sz: mix(R.sz, 2.2, w), sx: mix(R.sx, -0.25, w), ex: mix(R.ex, -0.2, w), ez: mix(R.ez, 0.9 + 0.45 * Math.sin(e * 9), w) });
           p.hz += 0.12 * w; p.y += 0.03 * Math.abs(Math.sin(e * 4.5)) * w;
-        } else if (g.name === 'hoofUp') {
+        } else if (g.name === 'hoofUp' || g.name === 'present') {
           Object.assign(R, { sx: mix(R.sx, -1.1, w), ex: mix(R.ex, -1.4, w), sz: mix(R.sz, 0.15, w) }); p.hx += 0.12 * Math.sin(e * 6) * w;
         } else if (g.name === 'shrug') {
           for (const [a, s] of [[R, 1], [L, -1]]) Object.assign(a, { lift: 0.07 * w, ex: mix(a.ex, -1.5, w), ez: mix(a.ez, 0.9 * s, w), sz: mix(a.sz, 0.35 * s, w) });
@@ -409,6 +429,8 @@ export class GeeGee {
     const S = this.state, t = now();
     const dt = Math.min(0.05, t - S.last); S.last = t;
     const T = this.target(t);
+    // Salutation toutes les 10 s quand la mascotte importée est au repos (et pas pendant qu'elle parle).
+    if (this.model && !S.gesture && !S.talking && !this.holdPose && t > S.waveAt) this.react('hello');
     this.yaw = mix(this.yaw, this.yawTo, 1 - Math.exp(-dt * 10)); // suit le doigt, sans à-coup
     if (this.baseDist) { // pendant le flex, il se tourne de trois quarts et recule un peu : les bras restent dans la colonne
       const fx = this.state.pose?.flex || 0;

@@ -73,14 +73,14 @@ let tipTimer = null;
 function attract() {
   stopSpeaking(); gg?.stopTalking();
   clearTimeout(state.session?.noticeTimer); state.session = null;
-  clearInterval(state.endTick);
+  clearInterval(state.endTick); clearTimeout(state.qrGesture);
   state.lang = 'fr'; Object.assign(state, DEFAULTS); applySettings(); applyText(); // réglages par défaut pour la personne suivante
   show('attract');
+  gg?.react('hello'); // la mascotte salue à l'accueil, puis toutes les 10 s tant qu'elle est au repos
   let i = 0;
   const tick = () => {
     const k = i % TEXT.fr.tips.length;
     $('#tip').textContent = `${TEXT.fr.tips[k]} · ${TEXT.en.tips[k]}`;
-    if (i % 3 === 0) gg?.react('hello');
     i++;
   };
   clearInterval(tipTimer); tick(); tipTimer = setInterval(tick, 6000);
@@ -282,6 +282,10 @@ function endSession() {
   $$('#rating .choice').forEach((b) => b.setAttribute('aria-pressed', 'false'));
   state.session = null;
   show('end');
+  gg?.react('bye'); // au revoir à la fin de la conversation
+  clearTimeout(state.qrGesture);
+  // Une fois le salut terminé, les mains s'ouvrent vers le code QR et la pose reste pendant l'écran de fin.
+  if (recap) state.qrGesture = setTimeout(() => { if ($('#end').classList.contains('active')) gg?.react('present'); }, 5600);
   let left = END_COUNTDOWN;
   const tick = () => { $('#closing').textContent = fill(t('closing'), { s: left }); if (left-- <= 0) attract(); };
   clearInterval(state.endTick); tick(); state.endTick = setInterval(tick, 1000);

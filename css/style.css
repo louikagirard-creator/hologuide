@@ -36,9 +36,9 @@ svg { width: 1.15em; height: 1.15em; flex: none; }
 
 /* ---------- Les deux colonnes de la boîte ---------- */
 .box { display: grid; grid-template-columns: minmax(0, 54fr) minmax(0, 46fr); height: 100vh; height: 100dvh; }
-.holo { position: relative; min-width: 0; cursor: grab; touch-action: none; } /* glisser le doigt de côté pour tourner Gee-Gee */
+.holo { position: relative; min-width: 0; overflow: hidden; cursor: grab; touch-action: none; } /* glisser le doigt de côté pour tourner Gee-Gee ; la colonne garde tout Gee-Gee à l'intérieur */
 .holo.turning { cursor: grabbing; }
-.holo-stage { right: -20% !important; width: auto !important; pointer-events: none; } /* déborde sous l'interface */
+.holo-stage { right: 0 !important; width: auto !important; pointer-events: none; } /* exactement la colonne de gauche */
 .panel { position: relative; z-index: 1; background: var(--bg); } /* le canevas déborde dessous, sans dépasser dans l'interface */
 /* Gee-Gee en vidéo : le clip remplit la colonne, pieds en bas ; le mur blanc se fond dans le fond blanc */
 .holo-stage.is-video { right: 0 !important; }

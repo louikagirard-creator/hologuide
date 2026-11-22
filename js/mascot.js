@@ -10,7 +10,8 @@ const C = { garnet: 0x8f001a, garnetDark: 0x5c0010, grey: 0x6d6e71, coat: 0xece7
 // Vrai modèle 3D de Gee-Gee : mascotte générée sur Meshy (assets/geegee.glb), avec son squelette et son animation.
 // Déposer un autre fichier dans assets/ et écrire son chemin ici ; laisser null pour utiliser le Gee-Gee fait en code.
 const MODEL_URL = 'assets/geegee.glb';
-const MODEL_MAX_W = 2.05; // largeur maximale du modèle importé (il a les bras écartés), en unités de la scène
+const MODEL_MAX_W = 2.05; // largeur maximale du modèle importé au repos (il a les bras écartés), en unités de la scène
+const FIT_MARGIN = 1.1; // marge autour des mains (perspective + léger pivot du modèle) : rien ne touche le bord de la colonne
 const WAVE_EVERY = 10; // secondes entre deux salutations de la mascotte importée
 const FLOOR = -1.33;   // dessous des souliers = plancher de la boîte
 const TOP = 2.02;      // bout des oreilles
@@ -228,18 +229,29 @@ export class GeeGee {
   resize() {
     const w = this.el.clientWidth || 1, h = this.el.clientHeight || 1;
     this.renderer.setSize(w, h, false);
-    // Le canevas déborde sous l'interface (les bras qui saluent ne sont pas coupés),
-    // mais Gee-Gee reste centré dans la colonne de gauche.
-    const col = this.el.closest('.holo')?.clientWidth || w;
-    const cam = this.camera, aspect = col / h, half = Math.tan(THREE.MathUtils.degToRad(cam.fov / 2));
-    // Le modèle réaliste a les bras plus écartés : on cadre plus large pour que ses mains ne soient pas coupées.
-    const H = (TOP - FLOOR) * FIT, W = this.style === 'cartoon' ? 1.25 : this.style === 'geegee' ? MODEL_MAX_W + 0.1 : 1.75; // hauteur et largeur à faire tenir (bras compris)
+    // Le canevas fait exactement la colonne de gauche : quoi qu'il arrive, rien ne peut déborder dans l'interface.
+    const cam = this.camera, aspect = w / h, half = Math.tan(THREE.MathUtils.degToRad(cam.fov / 2));
+    // Hauteur et largeur à faire tenir, bras compris : la colonne est étroite (1080×1920), donc c'est la largeur
+    // qui décide du cadrage. Pour le modèle importé, on prend la largeur mesurée dans toutes ses animations
+    // (le grand signe d'au revoir écarte les bras plus que le repos).
+    const H = (TOP - FLOOR) * FIT;
+    const W = this.style === 'cartoon' ? 1.25 : this.style === 'geegee' ? this.reachW() * FIT_MARGIN : 1.75;
     const d = Math.max(H / 2 / half, W / 2 / (half * aspect));
     const cy = FLOOR + H / 2 - 0.02;
     cam.aspect = aspect; cam.position.set(0, cy, d); cam.lookAt(0, cy, 0);
     this.baseDist = d; this.baseY = cy; // cadrage de base ; le flex recule un peu pour garder les bras dans l'image
-    cam.setViewOffset(col, h, w > col ? col * 0.025 : 0, 0, w, h); // un peu à gauche du centre de la colonne
+    cam.clearViewOffset();
     cam.updateProjectionMatrix();
+  }
+  // Largeur à réserver au repos pour le modèle importé : ses gestes courants (salut, mains ouvertes), pas le grand
+  // signe d'au revoir, qui est plus large et fait reculer un peu la caméra (voir pullBack).
+  reachW() { return this.baseHalf ? this.baseHalf * 2 : MODEL_MAX_W; }
+  // Recul de la caméra pour que le geste en cours reste entier dans la colonne : 1 pour les gestes courants,
+  // un peu plus pendant le grand signe d'au revoir.
+  pullBack() {
+    const clip = this.state.gesture ? this.gestureClip : this.talkOn ? this.talkClip : null;
+    const half = clip && this.clipReach?.get(clip.name);
+    return half && this.baseHalf ? Math.max(1, half / this.baseHalf) : 1;
   }
   snapshot() { this.frame(); return this.renderer.domElement.toDataURL('image/png'); }
 
@@ -282,7 +294,10 @@ export class GeeGee {
   }
   play(name, dur) {
     const clip = this.clipFor(name);
+    this.gestureClip = clip;
     this.holdPose = name === 'present';
+    this.talkOn = false; // un geste remplace l'animation de parole (stopAllAction ci-dessous)
+    clearTimeout(this.talkStopTimer);
     this.state.gesture = { name, t0: now(), dur: clip ? Math.max(dur, clip.duration) : dur };
     if (['wave', 'bye', 'present'].includes(name)) this.state.waveAt = now() + WAVE_EVERY; // la prochaine salutation compte à partir de ce geste
     // Avec le modèle importé : joue l'animation du fichier (salut, au revoir, mains ouvertes), puis revient au repos.
@@ -297,8 +312,25 @@ export class GeeGee {
   // Animation du modèle importé pour un geste : « wave » → petit signe de la main, « bye » → grand signe, « present » → mains ouvertes.
   clipFor(name) {
     if (!this.clips?.length) return null;
-    const re = { wave: /wave.?one.?hand/i, bye: /big.?wave|hello/i, present: /wave.?one.?hand/i }[name] || new RegExp(name, 'i');
+    const re = { wave: /wave.?one.?hand/i, bye: /big.?wave|hello/i, present: /wave.?one.?hand/i, talk: /talk|hands.?open/i }[name] || new RegExp(name, 'i');
     return this.clips.find((c) => re.test(c.name)) || null;
+  }
+  // Pendant que la mascotte parle : l'animation « mains ouvertes » du modèle, en boucle, effacée dès le silence.
+  updateTalk() {
+    const want = !!this.mixer && !!this.talkClip && this.state.talking && !this.state.gesture && !this.holdPose;
+    if (want === this.talkOn) return;
+    this.talkOn = want;
+    if (want) {
+      const a = this.talkAction = this.mixer.clipAction(this.talkClip);
+      this.mixer.stopAllAction();
+      a.reset().setLoop(THREE.LoopRepeat, Infinity).fadeIn(0.25).play();
+    } else if (this.talkAction) {
+      const a = this.talkAction;
+      a.fadeOut(0.3);
+      // Une fois le silence, on arrête l'animation : le modèle revient à sa pose de repos au lieu de rester les mains ouvertes.
+      clearTimeout(this.talkStopTimer);
+      this.talkStopTimer = setTimeout(() => { if (!this.talkOn) a.stop(); }, 400);
+    }
   }
 
   // ---------- Style de la mascotte ----------
@@ -351,8 +383,74 @@ export class GeeGee {
         const idle = this.clips.find((k) => /idle|repos|breath|attente/i.test(k.name));
         if (idle) this.mixer.clipAction(idle).play();
       }
+      this.pinInPlace(m);
+      this.talkClip = this.clipFor('talk');
+      this.modelReach = this.measureReach(m); // mains comprises, sur toutes les animations
+      // Cadrage de repos : le plus large des gestes courants, sans compter le grand signe d'au revoir.
+      const bye = this.clipFor('bye');
+      this.baseHalf = Math.max(...[...this.clipReach].filter(([n]) => n !== bye?.name).map(([, h]) => h));
       this.setStyle(this.style);
     } catch (err) { console.warn('Modèle 3D non chargé, Gee-Gee fait en code utilisé à la place :', err); }
+  }
+  // Les animations de Meshy déplacent la mascotte d'un clip à l'autre (translation des hanches, jusqu'à 35 cm) :
+  // pendant le grand signe, elle sortait de la colonne et sautait d'un clip au suivant. Dans la boîte, elle reste
+  // à sa place : on garde le balancement vertical, on ramène chaque animation sur la position de repos des hanches.
+  pinInPlace(root) {
+    const hips = root.getObjectByName('Hips');
+    if (!hips) return;
+    const x0 = hips.position.x, z0 = hips.position.z;
+    for (const clip of this.clips) {
+      const track = clip.tracks.find((tr) => /Hips\.position$/.test(tr.name));
+      if (!track) continue;
+      const v = track.values;
+      for (let i = 0; i < v.length; i += 3) { v[i] = x0; v[i + 2] = z0; }
+    }
+  }
+  // Demi-largeur maximale du modèle dans chacun de ses gestes : le grand signe d'au revoir écarte les bras bien plus
+  // que la pose de repos. Le cadrage s'en sert pour que rien ne touche le bord de la colonne de gauche.
+  // Deux passes : un balayage rapide (peu de sommets, beaucoup d'instants) trouve les moments où les mains vont le
+  // plus loin, puis ces moments sont mesurés sommet par sommet — une main qui salue va plus vite que l'échantillonnage.
+  measureReach(root) {
+    if (!this.clips?.length || !this.mixer) return 0;
+    const meshes = []; root.traverse((o) => { if (o.isMesh && o.getVertexPosition) meshes.push(o); });
+    if (!meshes.length) return 0;
+    const v = new THREE.Vector3();
+    const poseAt = (t) => {
+      this.mixer.setTime(t);
+      root.updateMatrixWorld(true);
+      for (const mesh of meshes) mesh.skeleton?.update(); // sans rendu, les matrices des os ne sont pas recalculées
+    };
+    const scan = (stride) => {
+      let m = 0;
+      for (const mesh of meshes) {
+        const n = mesh.geometry.attributes.position.count;
+        for (let k = 0; k < n; k += stride) {
+          mesh.getVertexPosition(k, v).applyMatrix4(mesh.matrixWorld);
+          m = Math.max(m, Math.abs(v.x - root.position.x));
+        }
+      }
+      return m;
+    };
+    let half = 0;
+    this.clipReach = new Map();
+    for (const clip of this.clips) {
+      this.mixer.stopAllAction();
+      const a = this.mixer.clipAction(clip); a.reset().play();
+      const N = 120, moments = [];
+      for (let i = 0; i < N; i++) {
+        const t = clip.duration * i / N;
+        poseAt(t);
+        moments.push([scan(20), t]);
+      }
+      moments.sort((p, q) => q[0] - p[0]);
+      let reach = moments[0]?.[0] || 0;
+      for (const [, t] of moments.slice(0, 3)) { poseAt(t); reach = Math.max(reach, scan(1)); }
+      this.clipReach.set(clip.name, reach);
+      half = Math.max(half, reach);
+      a.stop();
+    }
+    this.mixer.stopAllAction(); this.mixer.setTime(0);
+    return half;
   }
   lookToward(x, y) {
     if (!this.el.isConnected) return;
@@ -434,7 +532,8 @@ export class GeeGee {
     this.yaw = mix(this.yaw, this.yawTo, 1 - Math.exp(-dt * 10)); // suit le doigt, sans à-coup
     if (this.baseDist) { // pendant le flex, il se tourne de trois quarts et recule un peu : les bras restent dans la colonne
       const fx = this.state.pose?.flex || 0;
-      this.camera.position.set(0, this.baseY, this.baseDist * (1 + 0.12 * fx));
+      this.camZoom = mix(this.camZoom ?? 1, this.pullBack(), 1 - Math.exp(-dt * 3));
+      this.camera.position.set(0, this.baseY, this.baseDist * this.camZoom * (1 + 0.12 * fx));
       this.camera.lookAt(0, this.baseY, 0);
     }
     if (!S.pose) S.pose = structuredClone(T);
@@ -488,6 +587,7 @@ export class GeeGee {
 
     // Vrai modèle 3D (s'il est présent) : animations du fichier, orientation et petits hochements quand il parle
     if (this.model) {
+      this.updateTalk();
       this.mixer?.update(dt);
       this.model.position.y = P.y; this.model.rotation.y = P.ry - 0.22 + this.modelYaw + this.yaw;
       this.model.rotation.x = S.mouth * 0.035; this.model.rotation.z = P.rz;

@@ -12,8 +12,8 @@ const C = { garnet: 0x8f001a, garnetDark: 0x5c0010, grey: 0x6d6e71, coat: 0xece7
 const MODEL_URL = 'assets/geegee.glb';
 const MODEL_MAX_W = 2.05; // largeur maximale du modèle importé au repos (il a les bras écartés), en unités de la scène
 const FIT_MARGIN = 1.1; // marge autour des mains (perspective + léger pivot du modèle) : rien ne touche le bord de la colonne
-const WALK_FOR = 7;   // secondes de marche entre deux salutations de la mascotte importée, tant que personne ne l'utilise
-const IDLE_PAUSE = 1; // petite pose au repos avant de repasser à la marche ou au salut
+const WALK_FOR = 5;   // secondes de marche entre deux salutations de la mascotte importée, tant que personne ne l'utilise
+const IDLE_PAUSE = 4; // quelques secondes debout, naturellement (regarde autour, change d'appui), avant la marche ou le salut
 const FLOOR = -1.33;   // dessous des souliers = plancher de la boîte
 const TOP = 2.02;      // bout des oreilles
 const FIT = 1.06;      // marge au-dessus des oreilles
@@ -535,7 +535,7 @@ export class GeeGee {
   buildRig(root) {
     const bone = (n) => root.getObjectByName(n);
     const need = ['Hips', 'Spine01', 'Spine02', 'neck', 'Head', 'headfront', 'head_end', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'LeftHand',
-      'RightShoulder', 'RightArm', 'RightForeArm', 'RightHand'];
+      'RightShoulder', 'RightArm', 'RightForeArm', 'RightHand', 'LeftUpLeg', 'LeftLeg', 'LeftFoot', 'RightUpLeg', 'RightLeg', 'RightFoot'];
     const B = {}; for (const n of need) { B[n] = bone(n); if (!B[n]) return null; }
     this.mixer.stopAllAction(); this.mixer.setTime(0);
     this.model.updateMatrixWorld(true);
@@ -563,11 +563,18 @@ export class GeeGee {
       bend: axisFor(B[L + 'ForeArm'], B[L + 'Hand'], fwd),      // coude qui plie vers l'avant
       shrug: axisFor(B[L + 'Shoulder'], B[L + 'Arm'], up)       // épaule qui monte
     });
+    const leg = (L) => ({
+      up: B[L + 'UpLeg'], knee: B[L + 'Leg'],
+      thigh: axisFor(B[L + 'UpLeg'], B[L + 'Leg'], fwd),                         // cuisse vers l'avant
+      bend: axisFor(B[L + 'Leg'], B[L + 'Foot'], new THREE.Vector3(0, 0, -1))   // genou qui plie (le pied recule)
+    });
     const R = {
       B, L: side('Left'), R: side('Right'),
       leanSide: axisFor(B.Spine01, B.Head, right), leanFwd: axisFor(B.Spine02, B.Head, fwd),
       yaw: axisFor(B.Head, B.headfront, right, [1]), nod: axisFor(B.Head, B.headfront, down, [0]), tilt: axisFor(B.Head, B.head_end, right, [2]),
-      free: 1, hy: 0, hp: 0, ht: 0
+      spineYaw: axisFor(B.Spine02, B.headfront, right, [1]),   // le buste tourne un peu avec la tête
+      legL: leg('Left'), legR: leg('Right'),
+      free: 1, hy: 0, hp: 0, ht: 0, shift: 0, shiftTo: 0, shiftAt: 3
     };
     if (!R.yaw || !R.nod || !R.tilt || !R.L.lower || !R.R.lower) return null;
     R.bones = Object.values(B); R.bind = R.bones.map((b) => b.quaternion.clone());
@@ -583,7 +590,9 @@ export class GeeGee {
     let w = 0; for (const a of this.mixer._actions) if (a.isRunning()) w += a.getEffectiveWeight();
     // Exactement le complément des fondus du fichier (déjà progressifs) : un retard créerait un à-coup en fin de geste.
     R.free = 1 - Math.min(1, w);
-    const f = R.free, breath = Math.sin(t * 1.45), sway = Math.sin(t * 0.42);
+    // Bruit doux (somme de sinus de fréquences sans rapport) : les petits mouvements ne se répètent jamais en boucle.
+    const noise = (a, ph = 0) => Math.sin(t * a + ph) * 0.6 + Math.sin(t * a * 2.13 + ph + 1.7) * 0.3 + Math.sin(t * a * 3.71 + ph + 4.1) * 0.1;
+    const f = R.free, breath = Math.sin(t * 1.45), sway = noise(0.42);
     // Gestes sans animation dans le fichier
     let shrug = 0, nod = 0, tilt = 0, bounce = 0;
     const g = S.gesture;
@@ -601,20 +610,36 @@ export class GeeGee {
       turn(s.fore, s.bend, 0.22 * f + 0.9 * shrug);
       turn(s.sh, s.shrug, 0.03 * breath * f + 0.22 * shrug);
     }
-    // Torse : respiration et léger transfert de poids d'une jambe à l'autre
-    turn(R.B.Spine02, R.leanFwd, 0.018 * breath);
-    turn(R.B.Spine01, R.leanSide, 0.03 * sway * (0.4 + 0.6 * f));
+    // Transfert de poids : comme une vraie personne debout, il se repose sur une jambe, l'autre genou relâché,
+    // puis change de côté toutes les 5 à 12 secondes (parfois revient sur ses deux pieds).
+    if (t > R.shiftAt) {
+      R.shiftTo = Math.random() < 0.25 ? 0 : (R.shiftTo > 0 ? -1 : 1);
+      R.shiftAt = t + 5 + Math.random() * 7;
+    }
+    R.shift = mix(R.shift, R.shiftTo * f, 1 - Math.exp(-dt * 1.4));
+    const sh = R.shift, relaxed = sh > 0 ? R.legR : R.legL, standing = sh > 0 ? R.legL : R.legR, amt = Math.abs(sh);
+    // Petit rebond « voilà » : les genoux plient (les pieds restent au sol) au lieu de soulever toute la mascotte.
+    const dip = 0.22 * bounce;
+    turn(relaxed.up, relaxed.thigh, 0.09 * amt + dip * 0.5); turn(relaxed.knee, relaxed.bend, 0.18 * amt + dip);
+    turn(standing.up, standing.thigh, dip * 0.5); turn(standing.knee, standing.bend, dip);
+    // Torse : respiration, bassin au-dessus de la jambe d'appui et épaules qui compensent
+    turn(R.B.Spine02, R.leanFwd, 0.018 * breath + 0.012 * noise(0.23, 2));
+    turn(R.B.Spine01, R.leanSide, 0.02 * sway * (0.4 + 0.6 * f) - 0.035 * sh);
     // Tête : suit la personne (attention), regarde autour au repos, hoche avec les syllabes quand il parle.
     const att = S.attention && S.attention.until > t ? S.attention : null;
-    const hy = (att ? att.x * 0.55 : 0) + S.gaze.x * 0.7 + Math.sin(t * 0.31) * 0.05;
-    const hp = (att ? att.y * 0.25 : 0) - S.gaze.y * 0.4 + S.mouth * 0.09 + nod + (S.talking ? 0.04 * Math.sin(t * 2.3) : 0);
-    const ht = tilt + Math.sin(t * 0.53) * 0.035 + (S.talking ? 0.04 * Math.sin(t * 1.3) : 0);
+    const hy = (att ? att.x * 0.55 : 0) + S.gaze.x * 0.7 + noise(0.31) * 0.05;
+    const hp = (att ? att.y * 0.25 : 0) - S.gaze.y * 0.4 + S.mouth * 0.09 + nod + (S.talking ? 0.04 * noise(2.3, 1) : 0);
+    const ht = tilt + noise(0.53, 3) * 0.035 + 0.04 * sh + (S.talking ? 0.04 * noise(1.3, 5) : 0);
     const k = 1 - Math.exp(-dt * 7);
     R.hy = mix(R.hy, hy, k); R.hp = mix(R.hp, hp, k); R.ht = mix(R.ht, ht, k);
-    turn(R.B.neck, R.yaw, R.hy * 0.4); turn(R.B.Head, R.yaw, R.hy * 0.6);
+    // Le regard entraîne le corps : la tête tourne la première, le buste suit un peu, plus lentement.
+    R.by = mix(R.by || 0, R.hy, 1 - Math.exp(-dt * 2.5));
+    turn(R.B.Spine02, R.spineYaw, R.by * 0.22);
+    turn(R.B.neck, R.yaw, R.hy * 0.3); turn(R.B.Head, R.yaw, R.hy * 0.55 - R.by * 0.07);
     turn(R.B.neck, R.nod, R.hp * 0.35); turn(R.B.Head, R.nod, R.hp * 0.65);
     turn(R.B.Head, R.tilt, R.ht);
-    this.model.position.y += 0.025 * bounce;
+    this.model.position.y -= 0.022 * bounce + 0.006 * amt; // le genou relâché fait descendre un peu le bassin
+    this.model.position.x = 0.014 * sh;                    // le corps se place au-dessus de la jambe d'appui
   }
   lookToward(x, y) {
     if (!this.el.isConnected) return;

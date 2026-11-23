@@ -36,6 +36,7 @@ On voit tout l'historique de l'équipe ici : https://github.com/louikagirard-cre
 - `js/speech.js` : voix et micro (Web Speech). `js/mascot.js` : Gee-Gee en 3D (three.js, dans `vendor/`).
 - Gee-Gee en vidéo (vrai costume) : clips dans `assets/video/`, liste dans `CLIPS` (`js/avatar-video.js`) ; guide de tournage dans le README.
 - Vrai modèle 3D : déposer un `.glb` dans `assets/` et mettre son chemin dans `MODEL_URL` (`js/mascot.js`).
+- `js/face.js` : paupières et bouche de `assets/geegee.glb` (repérées dans le modèle, voir `FACE`). Si on remplace le `.glb`, il faut remesurer ces zones.
 
 ## Tester en local
 `python3 -m http.server 5179` dans ce dossier, puis ouvrir http://localhost:5179 (format de la boîte : écran vertical, par exemple 1080×1920).

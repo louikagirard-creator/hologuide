@@ -5,6 +5,7 @@
 import * as THREE from 'three';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 import { RealHorse } from './realhorse.js';
+import { attachFace } from './face.js';
 
 const C = { garnet: 0x8f001a, garnetDark: 0x5c0010, grey: 0x6d6e71, coat: 0xece7df, muzzle: 0xf7f2eb, hoof: 0x37373a, pink: 0xeaa3b2 };
 // Vrai modèle 3D de Gee-Gee : mascotte générée sur Meshy (assets/geegee.glb), avec son squelette et son animation.
@@ -451,6 +452,7 @@ export class GeeGee {
       const rest = this.clipHalf.get('') || { x: MODEL_MAX_W / 2, z: 0 };
       this.baseHalf = Math.max(rest.x, ...[...this.clipHalf].filter(([n]) => n && n !== bye?.name).map(([, h]) => h.x));
       this.rig = this.buildRig(m);
+      this.face = attachFace(m); // paupières qui clignent et bouche qui s'ouvre (js/face.js)
       this.setStyle(this.style);
     } catch (err) { console.warn('Modèle 3D non chargé, Gee-Gee fait en code utilisé à la place :', err); }
   }
@@ -788,6 +790,7 @@ export class GeeGee {
       this.model.position.y = P.y; this.model.rotation.y = P.ry - 0.22 + this.modelYaw + this.yaw;
       this.model.rotation.x = 0; this.model.rotation.z = P.rz;
       this.poseRig(t, dt);
+      this.face?.set(this.eyeState?.blink || 0, S.mouth);
     }
 
     // Modèle réaliste (Gee-Gee réaliste ou cheval) : même pose que le Gee-Gee fait en code

@@ -316,12 +316,20 @@ export class GeeGee {
     this.waveNext = false; this.idleAt = now() + IDLE_PAUSE;
     // Avec le modèle importé : joue l'animation du fichier (salut, au revoir, mains ouvertes), puis revient au repos.
     if (clip && this.mixer) {
-      const a = this.mixer.clipAction(clip);
-      this.mixer.stopAllAction();
-      a.reset().setLoop(THREE.LoopOnce, 1).fadeIn(0.2).play();
+      // Fondu enchaîné depuis l'animation en cours (marche, parole) : plus de retour brusque à la pose de départ.
+      const a = this.gestureAction = this.fadeTo(clip, { loop: false, fade: 0.3 });
+      a.clampWhenFinished = true; a.endFading = false; // la fin du geste se fond dans le repos (voir frame)
       if (this.holdPose) { a.paused = true; a.time = Math.min(1.3, clip.duration * 0.4); } // main levée tant que le code QR est à l'écran
-      a.clampWhenFinished = this.holdPose;
-    }
+    } else this.gestureAction = null;
+  }
+  // Passe en douceur à une animation du modèle importé : les autres s'effacent pendant qu'elle apparaît.
+  fadeTo(clip, { loop = true, fade = 0.3, speed = 1 } = {}) {
+    const next = this.mixer.clipAction(clip);
+    for (const a of this.mixer._actions) if (a !== next && a.isRunning()) a.fadeOut(fade);
+    next.reset().setLoop(loop ? THREE.LoopRepeat : THREE.LoopOnce, loop ? Infinity : 1);
+    next.timeScale = speed;
+    next.setEffectiveWeight(1).fadeIn(fade).play();
+    return next;
   }
   // Animation du modèle importé pour un geste : « wave » → petit signe de la main, « bye » → grand signe, « present » → mains ouvertes.
   clipFor(name) {
@@ -336,9 +344,8 @@ export class GeeGee {
     this.talkOn = want;
     if (want) {
       this.stopWalk(); // parler l'emporte sur la marche de veille
-      const a = this.talkAction = this.mixer.clipAction(this.talkClip);
-      this.mixer.stopAllAction();
-      a.reset().setLoop(THREE.LoopRepeat, Infinity).fadeIn(0.25).play();
+      // Vitesse un peu différente à chaque réponse : les gestes ne se répètent pas à l'identique.
+      this.talkAction = this.fadeTo(this.talkClip, { fade: 0.35, speed: 0.85 + Math.random() * 0.25 });
     } else if (this.talkAction) {
       const a = this.talkAction;
       a.fadeOut(0.3);
@@ -372,9 +379,7 @@ export class GeeGee {
   startWalk(seconds) {
     if (!this.mixer || !this.walkClip || this.state.gesture || this.state.talking || this.holdPose) return;
     this.talkOn = false; clearTimeout(this.talkStopTimer);
-    const a = this.walkAction = this.mixer.clipAction(this.walkClip);
-    this.mixer.stopAllAction();
-    a.reset().setLoop(THREE.LoopRepeat, Infinity).fadeIn(0.3).play();
+    this.walkAction = this.fadeTo(this.walkClip, { fade: 0.45 });
     this.walkOn = true; this.walkUntil = now() + seconds;
   }
   stopWalk() {
@@ -445,6 +450,7 @@ export class GeeGee {
       const bye = this.clipFor('bye');
       const rest = this.clipHalf.get('') || { x: MODEL_MAX_W / 2, z: 0 };
       this.baseHalf = Math.max(rest.x, ...[...this.clipHalf].filter(([n]) => n && n !== bye?.name).map(([, h]) => h.x));
+      this.rig = this.buildRig(m);
       this.setStyle(this.style);
     } catch (err) { console.warn('Modèle 3D non chargé, Gee-Gee fait en code utilisé à la place :', err); }
   }
@@ -519,6 +525,96 @@ export class GeeGee {
     }
     this.mixer.stopAllAction(); this.mixer.setTime(0);
     return half;
+  }
+  // ---------- Mouvements ajoutés par-dessus les animations du modèle importé ----------
+  // Le fichier de Meshy n'a que 4 animations, et sa pose de départ a les bras écartés en « A ». Entre deux animations,
+  // la mascotte restait donc figée, bras tendus. On ajoute ici, os par os : une vraie pose de repos (bras le long du
+  // corps, coudes un peu pliés), la respiration, un transfert de poids, une tête vivante (regarde autour, suit la
+  // personne, hoche quand il parle) et les gestes sans animation dans le fichier (haussement d'épaules, hochement…).
+  // Les axes de rotation de chaque os sont mesurés au chargement : rien ne dépend de la façon dont Meshy a orienté le squelette.
+  buildRig(root) {
+    const bone = (n) => root.getObjectByName(n);
+    const need = ['Hips', 'Spine01', 'Spine02', 'neck', 'Head', 'headfront', 'head_end', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'LeftHand',
+      'RightShoulder', 'RightArm', 'RightForeArm', 'RightHand'];
+    const B = {}; for (const n of need) { B[n] = bone(n); if (!B[n]) return null; }
+    this.mixer.stopAllAction(); this.mixer.setTime(0);
+    this.model.updateMatrixWorld(true);
+    const AX = [new THREE.Vector3(1, 0, 0), new THREE.Vector3(0, 1, 0), new THREE.Vector3(0, 0, 1)];
+    const q = new THREE.Quaternion(), p0 = new THREE.Vector3(), p1 = new THREE.Vector3();
+    // Axe local (avec son signe) qui déplace « probe » le plus dans la direction « dir » quand on tourne « b ».
+    const axisFor = (b, probe, dir, only = [0, 1, 2]) => {
+      probe.getWorldPosition(p0);
+      let best = null, score = 0;
+      for (const i of only) {
+        const save = b.quaternion.clone();
+        b.quaternion.multiply(q.setFromAxisAngle(AX[i], 0.2));
+        this.model.updateMatrixWorld(true); probe.getWorldPosition(p1);
+        b.quaternion.copy(save);
+        const s = p1.sub(p0).dot(dir);
+        if (Math.abs(s) > Math.abs(score)) { score = s; best = AX[i].clone().multiplyScalar(Math.sign(s)); }
+      }
+      this.model.updateMatrixWorld(true);
+      return best;
+    };
+    const down = new THREE.Vector3(0, -1, 0), up = new THREE.Vector3(0, 1, 0), fwd = new THREE.Vector3(0, 0, 1), right = new THREE.Vector3(1, 0, 0);
+    const side = (L) => ({
+      arm: B[L + 'Arm'], fore: B[L + 'ForeArm'], sh: B[L + 'Shoulder'],
+      lower: axisFor(B[L + 'Arm'], B[L + 'Hand'], down),        // bras vers le bas, le long du corps
+      bend: axisFor(B[L + 'ForeArm'], B[L + 'Hand'], fwd),      // coude qui plie vers l'avant
+      shrug: axisFor(B[L + 'Shoulder'], B[L + 'Arm'], up)       // épaule qui monte
+    });
+    const R = {
+      B, L: side('Left'), R: side('Right'),
+      leanSide: axisFor(B.Spine01, B.Head, right), leanFwd: axisFor(B.Spine02, B.Head, fwd),
+      yaw: axisFor(B.Head, B.headfront, right, [1]), nod: axisFor(B.Head, B.headfront, down, [0]), tilt: axisFor(B.Head, B.head_end, right, [2]),
+      free: 1, hy: 0, hp: 0, ht: 0
+    };
+    if (!R.yaw || !R.nod || !R.tilt || !R.L.lower || !R.R.lower) return null;
+    R.bones = Object.values(B); R.bind = R.bones.map((b) => b.quaternion.clone());
+    return R;
+  }
+  // Avant mixer.update : chaque os revient à sa pose de départ, sinon nos rotations s'additionneraient d'image en image.
+  resetRig() { const R = this.rig; if (R) R.bones.forEach((b, i) => b.quaternion.copy(R.bind[i])); }
+  poseRig(t, dt) {
+    const R = this.rig; if (!R) return;
+    const S = this.state, q = new THREE.Quaternion();
+    const turn = (b, axis, a) => { if (axis && a) b.quaternion.multiply(q.setFromAxisAngle(axis, a)); };
+    // Part des animations du fichier : la pose de repos ne s'applique que lorsqu'aucune animation ne joue.
+    let w = 0; for (const a of this.mixer._actions) if (a.isRunning()) w += a.getEffectiveWeight();
+    // Exactement le complément des fondus du fichier (déjà progressifs) : un retard créerait un à-coup en fin de geste.
+    R.free = 1 - Math.min(1, w);
+    const f = R.free, breath = Math.sin(t * 1.45), sway = Math.sin(t * 0.42);
+    // Gestes sans animation dans le fichier
+    let shrug = 0, nod = 0, tilt = 0, bounce = 0;
+    const g = S.gesture;
+    if (g && !this.gestureClip) {
+      const k = Math.min(1, Math.max(0, (t - g.t0) / g.dur)), env = Math.sin(k * Math.PI);
+      if (g.name === 'shrug') { shrug = smooth(Math.min(1, env * 1.6)); tilt = 0.22 * shrug; }       // « je ne sais pas »
+      else if (g.name === 'hop') { nod = 0.16 * Math.sin(k * Math.PI * 2) * env; bounce = env; }   // « voilà ! » à chaque réponse
+      else if (g.name === 'hoofUp') { nod = 0.2 * Math.sin(k * Math.PI * 3) * env; bounce = 0.5 * env; } // merci : deux hochements
+      else if (g.name === 'calm') { tilt = 0.16 * env; nod = 0.08 * env; }                           // sujet délicat : tête penchée, posée
+    }
+    if (S.calm) tilt = Math.max(tilt, 0.1);
+    // Bras : le long du corps au repos, avec la respiration ; les épaules montent pendant le haussement.
+    for (const s of [R.L, R.R]) {
+      turn(s.arm, s.lower, (0.62 + 0.015 * breath) * f - 0.35 * shrug);
+      turn(s.fore, s.bend, 0.22 * f + 0.9 * shrug);
+      turn(s.sh, s.shrug, 0.03 * breath * f + 0.22 * shrug);
+    }
+    // Torse : respiration et léger transfert de poids d'une jambe à l'autre
+    turn(R.B.Spine02, R.leanFwd, 0.018 * breath);
+    turn(R.B.Spine01, R.leanSide, 0.03 * sway * (0.4 + 0.6 * f));
+    // Tête : suit la personne (attention), regarde autour au repos, hoche avec les syllabes quand il parle.
+    const att = S.attention && S.attention.until > t ? S.attention : null;
+    const hy = (att ? att.x * 0.55 : 0) + S.gaze.x * 0.7 + Math.sin(t * 0.31) * 0.05;
+    const hp = (att ? att.y * 0.25 : 0) - S.gaze.y * 0.4 + S.mouth * 0.09 + nod + (S.talking ? 0.04 * Math.sin(t * 2.3) : 0);
+    const ht = tilt + Math.sin(t * 0.53) * 0.035 + (S.talking ? 0.04 * Math.sin(t * 1.3) : 0);
+    const k = 1 - Math.exp(-dt * 7);
+    R.hy = mix(R.hy, hy, k); R.hp = mix(R.hp, hp, k); R.ht = mix(R.ht, ht, k);
+    turn(R.B.neck, R.yaw, R.hy * 0.4); turn(R.B.Head, R.yaw, R.hy * 0.6);
+    turn(R.B.neck, R.nod, R.hp * 0.35); turn(R.B.Head, R.nod, R.hp * 0.65);
+    turn(R.B.Head, R.tilt, R.ht);
+    this.model.position.y += 0.025 * bounce;
   }
   lookToward(x, y) {
     if (!this.el.isConnected) return;
@@ -659,9 +755,14 @@ export class GeeGee {
     // Vrai modèle 3D (s'il est présent) : animations du fichier, orientation et petits hochements quand il parle
     if (this.model) {
       this.updateTalk();
+      // Fin d'un geste : il se fond dans la pose de repos au lieu de revenir d'un coup aux bras écartés.
+      const ga = this.gestureAction;
+      if (ga && !this.holdPose && !ga.endFading && ga.isRunning() && ga.time > ga.getClip().duration - 0.45) { ga.fadeOut(0.45); ga.endFading = true; }
+      this.resetRig();
       this.mixer?.update(dt);
       this.model.position.y = P.y; this.model.rotation.y = P.ry - 0.22 + this.modelYaw + this.yaw;
-      this.model.rotation.x = S.mouth * 0.035; this.model.rotation.z = P.rz;
+      this.model.rotation.x = 0; this.model.rotation.z = P.rz;
+      this.poseRig(t, dt);
     }
 
     // Modèle réaliste (Gee-Gee réaliste ou cheval) : même pose que le Gee-Gee fait en code

@@ -1,0 +1,3494 @@
+[
+ {
+  "id": "zc-demande-directe-uottawa",
+  "category": "admissions",
+  "keywords": [
+   "demande directe",
+   "formulaire uottawa",
+   "direct application",
+   "ouac",
+   "application fee",
+   "frais de demande",
+   "104"
+  ],
+  "question": {
+   "fr": "Quand dois-je faire ma demande directement à l’Université plutôt que par OUAC?",
+   "en": "When do I apply directly to uOttawa instead of through OUAC?"
+  },
+  "answer": {
+   "fr": "Tu utilises le formulaire de demande de l’Université d’Ottawa, et non OUAC, si tu as déjà étudié à uOttawa ou à l’Université Saint-Paul, si tu vises le trimestre printemps-été, un certificat, un programme en partenariat avec un établissement hors Canada, ou si tu reviens après un retrait de ta faculté. Sauf pour les programmes sans frais, comme le baccalauréat en relations publiques, des frais de 104 $ s’appliquent.",
+   "en": "You use the University of Ottawa’s own application form, not OUAC, if you’ve studied at uOttawa or Saint Paul University before, you’re applying for the spring-summer term, a certificate, a partnership program with an institution outside Canada, or you’re reapplying after being required to withdraw from your faculty. Unless the program has no fee, like the Honours Bachelor in Public Relations, there is a $104 fee."
+  },
+  "sources": [
+   {
+    "label": "How to apply for undergraduate studies",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/how-to-apply"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-accuse-reception-demande",
+  "category": "admissions",
+  "keywords": [
+   "accusé de réception",
+   "acknowledgment email",
+   "numéro étudiant",
+   "student number",
+   "pas reçu courriel",
+   "no email after applying",
+   "uozone"
+  ],
+  "question": {
+   "fr": "J’ai fait ma demande, mais je n’ai pas reçu de courriel. Est-ce normal?",
+   "en": "I applied but haven’t received any email. Is that normal?"
+  },
+  "answer": {
+   "fr": "Tu devrais recevoir un accusé de réception dans la semaine qui suit ta demande; vérifie aussi tes courriels indésirables. Ce message contient ton numéro d’étudiant et tes informations pour te connecter à uoZone, alors garde-le. Si tu ne l’as pas reçu après deux semaines, écris à l’équipe des admissions.",
+   "en": "You should receive an acknowledgment email within one week of applying; check your junk folder too. It contains your student number and your uoZone login information, so keep it. If you haven’t received it after two weeks, email the admissions team."
+  },
+  "sources": [
+   {
+    "label": "I've applied",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-code-permanent-cegep",
+  "category": "admissions",
+  "keywords": [
+   "cégep",
+   "cegep",
+   "code permanent",
+   "permanent code",
+   "relevé de notes cégep",
+   "cegep transcript",
+   "ouac"
+  ],
+  "question": {
+   "fr": "Je viens du cégep : comment l’Université reçoit-elle mes notes?",
+   "en": "I’m coming from CEGEP: how does the University get my grades?"
+  },
+  "answer": {
+   "fr": "Tes relevés de notes officiels du cégep sont transmis automatiquement par OUAC, à condition d’inscrire ton code permanent du Québec à 12 chiffres dans ta demande. Sans ce code, ta demande ne peut pas être évaluée. Tes autres documents se téléversent dans uoDoc, dans uoZone.",
+   "en": "Your official CEGEP transcripts are sent automatically through OUAC, as long as you include your 12-digit Quebec permanent code in your application. Without it, your application can’t be assessed. Upload your other documents through uoDoc in uoZone."
+  },
+  "sources": [
+   {
+    "label": "How to apply for undergraduate studies",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/how-to-apply"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-soumettre-documents-uodoc",
+  "category": "admissions",
+  "keywords": [
+   "documents",
+   "uodoc",
+   "téléverser",
+   "upload documents",
+   "supporting documents",
+   "pièces justificatives",
+   "dossier d’admission"
+  ],
+  "question": {
+   "fr": "Comment envoyer mes documents pour ma demande d’admission?",
+   "en": "How do I submit documents for my admission application?"
+  },
+  "answer": {
+   "fr": "Ta liste personnalisée de documents se trouve dans l’outil Dossier d’admission de uoZone; tu les téléverses avec uoDoc. Si tu es au secondaire en Ontario, tes relevés arrivent automatiquement par OUAC. L’évaluation commence seulement quand tout est reçu, et l’Université peut annuler une demande incomplète après la date limite.",
+   "en": "Your personalized list of required documents is in the Admission file tool in uoZone, and you upload them with uoDoc. If you’re in an Ontario high school, your transcripts arrive automatically through OUAC. Assessment only starts once everything is received, and the University may cancel incomplete applications after the deadline."
+  },
+  "sources": [
+   {
+    "label": "How to apply for undergraduate studies",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/how-to-apply"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-quand-commencer-demande",
+  "category": "admissions",
+  "keywords": [
+   "quand postuler",
+   "when to apply",
+   "mi-octobre",
+   "mid-october",
+   "date limite",
+   "application period",
+   "début des demandes"
+  ],
+  "question": {
+   "fr": "À partir de quand puis-je faire ma demande pour l’automne?",
+   "en": "How early can I apply for the fall term?"
+  },
+  "answer": {
+   "fr": "Tu peux faire ta demande dès la mi-octobre pour le trimestre d’automne suivant. Les dates limites varient selon le programme, et la période de demande peut fermer plus tôt si les places sont comblées. Vérifie donc la date de ton programme et fais ta demande tôt.",
+   "en": "You can apply as early as mid-October for the following fall term. Deadlines vary by program, and the application period can close earlier if spaces fill up. So check your program’s deadline and apply early."
+  },
+  "sources": [
+   {
+    "label": "How to apply for undergraduate studies",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/how-to-apply"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-documents-non-retournes",
+  "category": "admissions",
+  "keywords": [
+   "documents originaux",
+   "original documents",
+   "retour documents",
+   "returned documents",
+   "propriété université",
+   "documents property"
+  ],
+  "question": {
+   "fr": "L’Université va-t-elle me renvoyer les documents que j’ai fournis?",
+   "en": "Will the University return the documents I submitted?"
+  },
+  "answer": {
+   "fr": "Non : tous les documents soumis deviennent la propriété de l’Université et ne sont pas retournés. Selon ton programme, d’autres documents peuvent t’être demandés, et si tu étudies au Canada depuis moins de trois ans, on peut exiger un test de langue reconnu.",
+   "en": "No: all documents submitted become the property of the University and are not returned. Depending on your program, you may be asked for more documents, and if you’ve studied in Canada for less than three years, an approved language test may be required."
+  },
+  "sources": [
+   {
+    "label": "How to apply for undergraduate studies",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/how-to-apply"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-declaration-experience-personnelle",
+  "category": "admissions",
+  "keywords": [
+   "déclaration d’expérience personnelle",
+   "declaration of personal experience",
+   "moyenne trop basse",
+   "average too low",
+   "défis",
+   "challenges",
+   "grades"
+  ],
+  "question": {
+   "fr": "Ma moyenne est un peu sous le seuil : puis-je expliquer ma situation?",
+   "en": "My average is a bit below the cutoff: can I explain my situation?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es citoyen canadien, résident permanent ou réfugié, tu peux remplir une déclaration d’expérience personnelle pour décrire les défis qui ont pu nuire à tes notes. C’est facultatif et c’est un projet pilote. Il ne s’applique pas à la médecine, à l’éducation, au Juris Doctor ni aux études supérieures.",
+   "en": "Yes, if you’re a Canadian citizen or have permanent resident or refugee status, you can complete a declaration of personal experience describing challenges that may have affected your grades. It’s optional and part of a pilot project. It doesn’t apply to Medicine, Education, Juris Doctor programs or graduate studies."
+  },
+  "sources": [
+   {
+    "label": "I've applied",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-modifier-demande-admission",
+  "category": "admissions",
+  "keywords": [
+   "modifier demande",
+   "change application",
+   "changer de programme",
+   "change program choice",
+   "ajouter coop",
+   "add co-op",
+   "ajouter immersion"
+  ],
+  "question": {
+   "fr": "Puis-je changer de programme ou ajouter la coop après avoir fait ma demande?",
+   "en": "Can I change my program or add co-op after applying?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es admissible et que le programme visé accepte encore des demandes. Si tu as fait ta demande par OUAC, ouvre une session sur le site d’OUAC pour la modifier. Si tu as fait ta demande directement à l’Université, écris à l’équipe des admissions.",
+   "en": "Yes, if you’re eligible and the program you want is still accepting applications. If you applied through OUAC, log in to the OUAC website to make the changes. If you applied directly to the University, email the admissions team."
+  },
+  "sources": [
+   {
+    "label": "I've applied",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-delai-traitement-demande",
+  "category": "admissions",
+  "keywords": [
+   "délai",
+   "how long",
+   "réponse admission",
+   "decision time",
+   "traitement demande",
+   "processing time",
+   "65 000"
+  ],
+  "question": {
+   "fr": "Combien de temps faut-il pour recevoir une réponse d’admission?",
+   "en": "How long does it take to get an admission decision?"
+  },
+  "answer": {
+   "fr": "Les spécialistes des admissions traitent plus de 65 000 demandes par année. Il faut compter quelques semaines après la réception de tous tes documents pour le traitement, le calcul de ta moyenne et l’évaluation. Tu suis l’état de ton dossier dans uoZone.",
+   "en": "Admission specialists handle over 65,000 applications a year. Expect a few weeks after all your documents are received for processing, calculating your average and evaluating your application. You track your status in uoZone."
+  },
+  "sources": [
+   {
+    "label": "I've applied",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-juris-doctor-olsas",
+  "category": "admissions",
+  "keywords": [
+   "juris doctor",
+   "jd",
+   "olsas",
+   "common law",
+   "droit",
+   "law school documents",
+   "uodoc"
+  ],
+  "question": {
+   "fr": "Je fais une demande au Juris Doctor : où dois-je envoyer mes documents?",
+   "en": "I’m applying to the Juris Doctor: where do I send my documents?"
+  },
+  "answer": {
+   "fr": "Tous tes documents doivent être envoyés directement à OLSAS, le service de demande d’admission des facultés de droit de l’Ontario. Tu peux suivre ton dossier dans uoZone, mais tu ne peux pas y soumettre de documents par uoDoc.",
+   "en": "You must send all your application documents directly to the Ontario Law School Application Service, OLSAS. You can track your application in uoZone, but you can’t submit documents through uoDoc."
+  },
+  "sources": [
+   {
+    "label": "I've applied",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourses-apres-demande",
+  "category": "admissions",
+  "keywords": [
+   "bourses",
+   "scholarships",
+   "quand demander",
+   "when to apply scholarship",
+   "uoaccès",
+   "uoaccess",
+   "bourses en ligne"
+  ],
+  "question": {
+   "fr": "Puis-je demander des bourses avant d’avoir reçu mon offre d’admission?",
+   "en": "Can I apply for scholarships before I get my offer?"
+  },
+  "answer": {
+   "fr": "Oui : tu peux demander des bourses dès que tu as fait ta demande d’admission et reçu ton identifiant et ton mot de passe uoAccès. Tu les trouves dans l’outil Bourses en ligne. Lis aussi tes courriels uOttawa, car l’Université t’y donne des nouvelles de ton dossier.",
+   "en": "Yes: you can apply for scholarships as soon as you’ve applied for admission and received your uoAccess ID and password. You’ll find them in the Online Scholarships and Bursaries tool. Also read your uOttawa emails, since that’s where the University updates you on your application."
+  },
+  "sources": [
+   {
+    "label": "I've applied",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-lettre-pal-delai",
+  "category": "international",
+  "keywords": [
+   "lettre d’attestation provinciale",
+   "pal",
+   "provincial attestation letter",
+   "délai pal",
+   "how long pal",
+   "dépôt",
+   "deposit"
+  ],
+  "question": {
+   "fr": "Combien de temps après mon dépôt vais-je recevoir ma lettre d’attestation provinciale?",
+   "en": "How long after my deposit will I get my provincial attestation letter?"
+  },
+  "answer": {
+   "fr": "Une fois ton paiement reçu, le Bureau des admissions t’envoie ta lettre d’attestation provinciale par courriel en environ trois jours ouvrables. Pendant ce temps, prépare tes autres documents pour ta demande de permis d’études auprès d’IRCC, car tu dois avoir ton permis avant de commencer tes études.",
+   "en": "Once your payment is received, the Admissions Office emails you your provincial attestation letter within about three working days. Meanwhile, prepare your other documents for your IRCC study permit application, because you must have your permit before starting your studies."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-releve-final-officiel",
+  "category": "admissions",
+  "keywords": [
+   "relevé final",
+   "final transcript",
+   "relevé officiel",
+   "official transcript",
+   "conditions d’admission",
+   "uodoc",
+   "lien web"
+  ],
+  "question": {
+   "fr": "Quel relevé final dois-je téléverser pour mes conditions d’admission?",
+   "en": "Which final transcript do I upload for my admission conditions?"
+  },
+  "answer": {
+   "fr": "Téléverse dans uoDoc un relevé officiel qui contient tes résultats finaux, avec toutes les pages. N’envoie pas de lien vers une plateforme externe ni une copie de ton portail étudiant. La vérification des conditions se fait de mai à la fin août.",
+   "en": "Upload an official transcript with your final results to uoDoc, including all pages. Don’t upload a web link from an external platform or a copy from your student portal. Conditions are verified from May until late August."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-conditions-non-remplies",
+  "category": "admissions",
+  "keywords": [
+   "conditions non remplies",
+   "not meet conditions",
+   "offre révoquée",
+   "offer revoked",
+   "programme alternatif",
+   "alternate program",
+   "offre conditionnelle"
+  ],
+  "question": {
+   "fr": "Que se passe-t-il si je ne remplis pas les conditions de mon offre?",
+   "en": "What happens if I don’t meet the conditions of my offer?"
+  },
+  "answer": {
+   "fr": "Si tu sais déjà que tu ne les rempliras pas, écris vite aux admissions pour qu’on examine tes options. L’Université te contactera pour en discuter, et un autre programme pourrait t’être proposé. Sinon, l’offre peut être retirée et tu perds ton dépôt non remboursable.",
+   "en": "If you already know you won’t meet them, email admissions promptly so they can look at your options. The University will contact you to discuss alternatives, such as another program you may be eligible for. Otherwise, your offer may be revoked and you lose your non-refundable deposit."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-documents-conditions-retard",
+  "category": "admissions",
+  "keywords": [
+   "retard documents",
+   "documents delayed",
+   "date limite conditions",
+   "two weeks",
+   "deux semaines",
+   "résultats finaux en retard",
+   "late results"
+  ],
+  "question": {
+   "fr": "Mes résultats finaux sont en retard : ai-je un délai supplémentaire?",
+   "en": "My final results are late: do I get extra time?"
+  },
+  "answer": {
+   "fr": "Oui, l’Université continue d’accepter les documents pour la vérification des conditions pendant deux semaines après la date limite. Envoie tes résultats dès que tu les as. Tu peux voir dans uoZone quelles conditions sont cochées comme remplies.",
+   "en": "Yes, the University keeps accepting documents for verifying admission conditions for two weeks after the deadline. Send your results as soon as you have them. You can see in uoZone which conditions are checked off as met."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-abandon-cours-offre",
+  "category": "admissions",
+  "keywords": [
+   "abandonner cours",
+   "drop courses",
+   "offre conditionnelle",
+   "conditional offer",
+   "finir mon année",
+   "finish my year",
+   "secondaire"
+  ],
+  "question": {
+   "fr": "Mon offre dit que je dois finir mon année : puis-je abandonner un cours?",
+   "en": "My offer says I must finish my year: can I drop a course?"
+  },
+  "answer": {
+   "fr": "Ce n’est généralement pas recommandé si le cours compte dans l’évaluation de ton admission. Si tu abandonnes, ton offre doit être réévaluée : parfois sans conséquence, parfois avec un effet direct sur ton admission. Écris aux admissions avant de décider.",
+   "en": "It’s generally not recommended if the course is part of your admission evaluation. If you drop it, your offer must be re-evaluated: sometimes there’s no consequence, but sometimes it directly affects your offer. Email admissions before deciding."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-conditions-pas-cochees",
+  "category": "admissions",
+  "keywords": [
+   "conditions pas cochées",
+   "conditions not checked",
+   "document téléversé",
+   "uploaded document",
+   "offre inconditionnelle",
+   "unconditional offer"
+  ],
+  "question": {
+   "fr": "J’ai envoyé mon document, alors pourquoi mes conditions ne sont-elles pas toutes cochées?",
+   "en": "I uploaded my document, so why aren’t all my conditions checked off?"
+  },
+  "answer": {
+   "fr": "Ta condition de dépôt de document est remplie, mais l’Université doit encore vérifier les autres, comme la moyenne, les préalables, les crédits de transfert ou les cours d’appoint. Les admissions et ta faculté les vérifient, pas toujours en même temps. Une fois tout vérifié, une nouvelle offre inconditionnelle apparaît dans uoZone.",
+   "en": "Your document submission condition is met, but the University still has to confirm your other conditions, such as averages, prerequisites, transfer credits or make-up courses. Admissions and your faculty review them, not always at the same time. Once everything is verified, a new unconditional offer appears in uoZone."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-quebec-releve-apprentissages",
+  "category": "admissions",
+  "keywords": [
+   "québec",
+   "quebec",
+   "relevé des apprentissages",
+   "achievement record",
+   "secondaire québec",
+   "ministry report",
+   "relevé ministère"
+  ],
+  "question": {
+   "fr": "Je suis au secondaire au Québec et je n’ai pas encore mon relevé des apprentissages. Que faire?",
+   "en": "I’m in a Quebec high school and don’t have my Achievement Record yet. What do I do?"
+  },
+  "answer": {
+   "fr": "Si tu ne l’as pas reçu à la date indiquée dans ton offre, l’Université accepte aussi un rapport du ministère remis par ton conseiller d’orientation, ou une impression de ton relevé de notes du portail du ministère. Ce document doit montrer tes notes finales, tes unités et ton diplôme obtenu.",
+   "en": "If you haven’t received it by the deadline in your offer, the University also accepts a ministry report from your school guidance counsellor, or a printout of your statement of marks from your ministry portal. It must show your final marks with credits and the diploma received."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-refus-ameliorer-dossier",
+  "category": "admissions",
+  "keywords": [
+   "refus",
+   "refused admission",
+   "présenter nouvelle demande",
+   "reapply",
+   "améliorer dossier",
+   "improve record",
+   "raisons du refus"
+  ],
+  "question": {
+   "fr": "J’ai été refusé : comment présenter une nouvelle demande?",
+   "en": "I was refused: how do I reapply?"
+  },
+  "answer": {
+   "fr": "Les raisons du refus sont indiquées dans ton dossier d’admission dans uoZone. Tu dois d’abord améliorer ton dossier : suivre ou reprendre un préalable manquant, ou suivre d’autres cours pour atteindre la moyenne exigée. Ensuite, refais une demande avant la date limite. L’admission n’est jamais garantie.",
+   "en": "The reasons for your refusal are in your Admission file in uoZone. You must first improve your record: take or retake a missing prerequisite, or take more courses until you reach the required average. Then reapply before the deadline. Admission is never guaranteed."
+  },
+  "sources": [
+   {
+    "label": "New application after admission refusal",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/new-application-after-refusal"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-refus-options-secondaire",
+  "category": "admissions",
+  "keywords": [
+   "refus secondaire",
+   "high school refused",
+   "reprendre cours secondaire",
+   "retake high school",
+   "16 unités",
+   "16 units",
+   "collège"
+  ],
+  "question": {
+   "fr": "J’ai été refusé en sortant du secondaire au Canada : quelles sont mes options?",
+   "en": "I was refused coming from a Canadian high school: what are my options?"
+  },
+  "answer": {
+   "fr": "Tu peux reprendre des cours du secondaire pour hausser ta moyenne, faire au moins un programme collégial pour être évalué sur tes résultats au collège, ou obtenir 16 unités universitaires pour être évalué sur tes cours universitaires. Si tu viens d’un secondaire à l’étranger, il faut plutôt faire une année supplémentaire.",
+   "en": "You can retake high school courses to raise your average, complete at least one college program so you’re assessed on your college results, or earn 16 university units so you’re assessed on your university courses. If you’re coming from a high school outside Canada, you instead complete one additional year."
+  },
+  "sources": [
+   {
+    "label": "New application after admission refusal",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/new-application-after-refusal"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-refus-options-cegep",
+  "category": "admissions",
+  "keywords": [
+   "refus cégep",
+   "cegep refused",
+   "17 cours",
+   "17 courses",
+   "16 unités",
+   "droit civil 30 unités",
+   "moyenne cégep"
+  ],
+  "question": {
+   "fr": "J’ai été refusé en venant du cégep : que dois-je faire?",
+   "en": "I was refused coming from CEGEP: what should I do?"
+  },
+  "answer": {
+   "fr": "Tu peux poursuivre tes études au cégep pour améliorer ta moyenne, ou obtenir 16 unités universitaires, ou 30 pour le droit civil. Si tu as fait 16 cours de cégep ou moins, l’Université recommande d’en terminer au moins 17, hors cours de mise à niveau : la moyenne exigée sera alors beaucoup plus basse.",
+   "en": "You can continue at CEGEP to improve your average, or earn 16 university units, or 30 for Civil Law. If you’ve taken 16 CEGEP courses or fewer, the University recommends completing at least 17, excluding remedial courses: the required admission average will then be much lower."
+  },
+  "sources": [
+   {
+    "label": "New application after admission refusal",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/new-application-after-refusal"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-refus-options-universite",
+  "category": "admissions",
+  "keywords": [
+   "refus université",
+   "university transfer refused",
+   "5 %",
+   "24 unités",
+   "24 units",
+   "diplôme collégial",
+   "transfert"
+  ],
+  "question": {
+   "fr": "Je viens d’une autre université et j’ai été refusé : que faut-il pour refaire une demande?",
+   "en": "I’m coming from another university and was refused: what do I need to reapply?"
+  },
+  "answer": {
+   "fr": "Si ta moyenne était à environ 5 % de la moyenne exigée, tu peux continuer à suivre des cours universitaires pour l’atteindre. Si l’écart était plus grand, des exigences propres à chaque faculté s’appliquent, souvent au moins 24 unités universitaires ou un diplôme collégial de deux ans. Dans ce cas, seules les notes de ces 24 unités comptent dans ta moyenne.",
+   "en": "If your average was within about 5% of the admission average, you can keep taking university courses to reach it. If it was further below, faculty-specific requirements apply, often at least 24 university units or a two-year college diploma. In that case, only the grades from those 24 units count in your admission average."
+  },
+  "sources": [
+   {
+    "label": "New application after admission refusal",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/new-application-after-refusal"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-refus-genie-sciences",
+  "category": "admissions",
+  "keywords": [
+   "refus génie",
+   "engineering refused",
+   "refus sciences",
+   "science refused",
+   "24 unités",
+   "maths sciences",
+   "12 unités"
+  ],
+  "question": {
+   "fr": "J’ai été refusé en génie ou en sciences après des études universitaires : que dois-je suivre?",
+   "en": "I was refused to Engineering or Science after university studies: what must I take?"
+  },
+  "answer": {
+   "fr": "Il faut réussir au moins 24 unités : 12 en mathématiques ou en sciences, et 12 dans d’autres facultés comme les Arts, les Sciences sociales, les Sciences de la santé ou Telfer. En génie, les maths ou sciences doivent être parmi les cours approuvés par la faculté, et les cours de la Faculté de génie ne comptent pas.",
+   "en": "You must pass at least 24 units: 12 in math or science and 12 in other faculties such as Arts, Social Sciences, Health Sciences or Telfer. For Engineering, the math or science courses must be among those approved by the faculty, and Faculty of Engineering courses don’t count."
+  },
+  "sources": [
+   {
+    "label": "New application after admission refusal",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/new-application-after-refusal"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-cours-hausser-moyenne",
+  "category": "admissions",
+  "keywords": [
+   "hausser moyenne",
+   "raise average",
+   "reprendre un cours",
+   "repeat course",
+   "cours d’appoint",
+   "make-up course",
+   "niveau des cours"
+  ],
+  "question": {
+   "fr": "Quels cours puis-je suivre pour remonter ma moyenne avant une nouvelle demande?",
+   "en": "Which courses can I take to raise my average before reapplying?"
+  },
+  "answer": {
+   "fr": "Choisis des cours de niveau égal ou supérieur à ceux que tu as déjà réussis : par exemple, pas Calcul 1 si tu as réussi Calcul 2. Les cours d’appoint équivalents au secondaire, comme MAT 1718, ne comptent pas. Si tu reprends un cours, seule la deuxième note est utilisée. Comme étudiant libre, tu peux suivre au plus deux cours par trimestre.",
+   "en": "Choose courses at the same or a higher level than those you’ve already passed: for example, not Calculus 1 if you’ve passed Calculus 2. Make-up courses equivalent to high school, like MAT 1718, don’t count. If you repeat a course, only the second grade is used. As a non-degree student, you can take at most two courses per term."
+  },
+  "sources": [
+   {
+    "label": "New application after admission refusal",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/new-application-after-refusal"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-ecole-maison-admission",
+  "category": "admissions",
+  "keywords": [
+   "école à la maison",
+   "home-schooled",
+   "homeschool",
+   "enseignement à domicile",
+   "sat",
+   "act",
+   "ap"
+  ],
+  "question": {
+   "fr": "J’ai fait mon secondaire à la maison : puis-je être admis?",
+   "en": "I was home-schooled: can I be admitted?"
+  },
+  "answer": {
+   "fr": "Oui, ta demande est évaluée individuellement. Tu n’as pas besoin des six cours 4U ou 4M habituels, mais tu dois montrer une préparation équivalente aux exigences de ton programme. Pour les préalables en maths ou en sciences de 12e année, tu peux fournir des résultats SAT, ACT ou AP, ou des cours 4U suivis dans une école accréditée.",
+   "en": "Yes, your application is assessed individually. You don’t need the usual six 4U or 4M courses, but you must show preparation equivalent to your program’s requirements. For Grade 12 math or science prerequisites, you can provide SAT, ACT or AP results, or 4U courses taken through an accredited school."
+  },
+  "sources": [
+   {
+    "label": "Home-schooled applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/home-schooled-applicants"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-ecole-maison-documents",
+  "category": "admissions",
+  "keywords": [
+   "école à la maison documents",
+   "home-schooled documents",
+   "déclaration personnelle",
+   "personal statement",
+   "relevé parent",
+   "academic record"
+  ],
+  "question": {
+   "fr": "Quels documents fournir si j’ai fait l’école à la maison?",
+   "en": "What documents do I provide if I was home-schooled?"
+  },
+  "answer": {
+   "fr": "On peut te demander une déclaration personnelle décrivant ton programme des deux dernières années et tes activités, un relevé des matières et des notes de 11e et 12e année, qui peut être préparé par un parent, et tes résultats SAT, ACT ou AP s’il y a lieu. Si tu es admis, il faut un relevé officiel scellé ou une copie certifiée, par exemple par un notaire.",
+   "en": "You may be asked for a personal statement describing your program in your last two years and your activities, a record of subjects and grades for Grades 11 and 12, which a parent can prepare, and SAT, ACT or AP results if available. If admitted, you need an official sealed transcript or a certified copy, for example from a notary."
+  },
+  "sources": [
+   {
+    "label": "Home-schooled applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/home-schooled-applicants"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-international-diplome-equivalent",
+  "category": "admissions",
+  "keywords": [
+   "diplôme étranger",
+   "foreign diploma",
+   "équivalence",
+   "equivalency",
+   "baccalauréat",
+   "pays",
+   "country requirements"
+  ],
+  "question": {
+   "fr": "J’étudie à l’étranger : quel diplôme me faut-il pour entrer au baccalauréat?",
+   "en": "I study abroad: which diploma do I need to start a bachelor’s?"
+  },
+  "answer": {
+   "fr": "Il te faut un diplôme équivalent au diplôme d’études secondaires canadien; par exemple le baccalauréat en France ou le High School Diploma aux États-Unis. La page des candidats internationaux présente un tableau par pays. Si ton pays n’y figure pas, contacte l’Université pour obtenir l’équivalence.",
+   "en": "You need a diploma equivalent to a Canadian high school diploma; for example, the Baccalauréat in France or a High School Diploma in the United States. The international applicants page has a table by country. If your country isn’t listed, contact the University for the equivalency."
+  },
+  "sources": [
+   {
+    "label": "International applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-international-15-janvier",
+  "category": "admissions",
+  "keywords": [
+   "15 janvier",
+   "january 15",
+   "date recommandée",
+   "international deadline",
+   "ouac septembre",
+   "programmes populaires",
+   "popular programs"
+  ],
+  "question": {
+   "fr": "Je suis candidat international : quand devrais-je envoyer ma demande?",
+   "en": "I’m an international applicant: when should I apply?"
+  },
+  "answer": {
+   "fr": "La période de demande d’OUAC commence en septembre. L’Université recommande fortement de faire ta demande avant le 15 janvier, car après cette date, certains programmes populaires peuvent fermer. Chaque programme a aussi sa propre date limite pour les documents.",
+   "en": "The OUAC application period begins in September. The University strongly encourages you to apply by January 15, because some popular programs may close after that date. Each program also has its own deadline for documents."
+  },
+  "sources": [
+   {
+    "label": "International applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-fraude-demande-admission",
+  "category": "admissions",
+  "keywords": [
+   "fraude",
+   "fraud",
+   "tiers",
+   "third party",
+   "agent",
+   "formulaire officiel",
+   "official form"
+  ],
+  "question": {
+   "fr": "Comment éviter la fraude quand je fais ma demande d’admission?",
+   "en": "How do I avoid fraud when applying for admission?"
+  },
+  "answer": {
+   "fr": "Utilise le formulaire officiel d’OUAC pour soumettre ta demande et payer les frais en ligne. Méfie-toi des tiers non autorisés. En cas de doute, vérifie auprès des conseillers en recrutement officiels de l’Université que tu traites bien avec des représentants reconnus.",
+   "en": "Use the official OUAC form to submit your application and pay the fees online. Beware of unauthorized third parties. If in doubt, check with the University’s official recruitment advisers that you’re dealing with recognized representatives."
+  },
+  "sources": [
+   {
+    "label": "International applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-international-inscription-cours",
+  "category": "admissions",
+  "keywords": [
+   "inscription aux cours",
+   "course enrolment",
+   "mai",
+   "may",
+   "dépôt",
+   "deposit",
+   "étudiant international"
+  ],
+  "question": {
+   "fr": "Je suis admis comme étudiant international : quand puis-je m’inscrire à mes cours?",
+   "en": "I’m admitted as an international student: when can I enrol in courses?"
+  },
+  "answer": {
+   "fr": "L’inscription aux cours commence en mai, mais seulement après que tu as accepté ton offre et payé ton dépôt d’admission non remboursable. Si tu veux vivre en résidence, la date limite pour faire ta demande de place est le 1er juin.",
+   "en": "Course enrolment begins in May, but only once you’ve accepted your offer and paid your non-refundable admission deposit. If you want to live in residence, the deadline to apply for a place is June 1."
+  },
+  "sources": [
+   {
+    "label": "International applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-adulte-lettre-intention",
+  "category": "admissions",
+  "keywords": [
+   "candidat adulte",
+   "mature applicant",
+   "lettre d’intention",
+   "letter of intent",
+   "cv",
+   "resume",
+   "catégorie"
+  ],
+  "question": {
+   "fr": "Que doit contenir ma lettre d’intention comme candidat adulte?",
+   "en": "What should my letter of intent include as a mature applicant?"
+  },
+  "answer": {
+   "fr": "Elle doit parler de ta motivation à entreprendre des études, de tes objectifs, de l’expérience acquise depuis tes dernières études avec des exemples concrets, et de l’expérience pertinente qui montre que tu es prêt. Tu n’as pas à choisir ta catégorie dans la demande : si tu sembles admissible, l’Université mettra ton statut à jour et te demandera ta lettre et ton CV.",
+   "en": "It should cover your motivation for starting university, your goals, the experience you’ve gained since your last studies with concrete examples, and relevant experience showing you’re ready. You don’t pick your category on the application: if you seem eligible, the University updates your status and asks for your letter and resumé."
+  },
+  "sources": [
+   {
+    "label": "Mature applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/mature-applicants"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-tests-francais-acceptes",
+  "category": "admissions",
+  "keywords": [
+   "test de français",
+   "french test",
+   "delf",
+   "dalf",
+   "tcf",
+   "tef",
+   "b2"
+  ],
+  "question": {
+   "fr": "Quels tests de français sont acceptés pour un programme en français, et avec quels résultats?",
+   "en": "Which French tests are accepted for a French-language program, and what scores?"
+  },
+  "answer": {
+   "fr": "L’Université accepte le DALF C1 ou C2, le DELF B2 avec au moins 16 sur 25 en production écrite, le TCF Tout public ou TCF DAP au niveau B2 avec les trois épreuves obligatoires, et le TEF autres usages avec cinq épreuves au niveau B2. Le test doit dater de moins de deux ans avant ton trimestre de début, et tu téléverses les résultats dans uoDoc.",
+   "en": "The University accepts the DALF C1 or C2, the DELF B2 with at least 16 out of 25 in written production, the TCF Tout public or TCF DAP at level B2 with all three mandatory sections, and the TEF autres usages with five sections at level B2. The test must be less than two years old at the start of your term, and you upload results through uoDoc."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-tests-langue-refuses",
+  "category": "admissions",
+  "keywords": [
+   "tests refusés",
+   "tests not accepted",
+   "tcf canada",
+   "tef canada",
+   "celpip",
+   "ielts ukvi",
+   "immigration test"
+  ],
+  "question": {
+   "fr": "Mon test de langue pour l’immigration est-il accepté pour l’admission?",
+   "en": "Is my immigration language test accepted for admission?"
+  },
+  "answer": {
+   "fr": "Non. Pour le premier cycle, l’Université n’accepte pas l’IELTS for UKVI, le TCF Canada, le TEF Canada, le CELPIP ni le test Bright Language, parce qu’ils mesurent une langue générale ou servent à l’immigration plutôt qu’aux études. Il te faut un test de niveau universitaire, comme l’IELTS Academic ou le DELF.",
+   "en": "No. For undergraduate admission, the University doesn’t accept the IELTS for UKVI, TCF Canada, TEF Canada, CELPIP or the Bright Language test, because they measure general or immigration-level language rather than academic proficiency. You need an academic test, such as the IELTS Academic or the DELF."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-toefl-admission",
+  "category": "admissions",
+  "keywords": [
+   "toefl",
+   "toefl ibt",
+   "score toefl",
+   "code 0993",
+   "anglais",
+   "english test",
+   "mybest"
+  ],
+  "question": {
+   "fr": "Quel résultat au TOEFL faut-il pour un programme en anglais au premier cycle?",
+   "en": "What TOEFL score do I need for an undergraduate English program?"
+  },
+  "answer": {
+   "fr": "Pour une admission sans condition linguistique, il faut 86 au total et 22 en rédaction au TOEFL iBT passé avant le 21 janvier 2026, ou 4,5 au total et 4,5 en rédaction pour un test passé après cette date. Les résultats doivent être envoyés électroniquement par le centre de test avec le code 0993, et les MyBest scores sont acceptés.",
+   "en": "For admission with no language conditions, you need 86 overall and 22 in writing on a TOEFL iBT taken before January 21, 2026, or 4.5 overall and 4.5 in writing for a test taken after that date. Results must be sent electronically by the test centre using code 0993, and MyBest scores are accepted."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-duolingo-admission",
+  "category": "admissions",
+  "keywords": [
+   "duolingo",
+   "det",
+   "duolingo english test",
+   "score duolingo",
+   "120",
+   "littératie",
+   "literacy"
+  ],
+  "question": {
+   "fr": "Le Duolingo English Test est-il accepté, et quel résultat faut-il?",
+   "en": "Is the Duolingo English Test accepted, and what score do I need?"
+  },
+  "answer": {
+   "fr": "Oui : il faut 120 au total et 120 en littératie pour une admission sans condition. Partage tes résultats avec l’Université dans ton tableau de bord Duolingo, en choisissant University of Ottawa Undergraduate, et ajoute ton numéro de référence OUAC si tu as déjà fait ta demande. Ton nom, ton courriel et ta date de naissance doivent correspondre à ta demande.",
+   "en": "Yes: you need 120 overall and 120 in literacy for admission with no conditions. Share your results with the University through your Duolingo dashboard by choosing University of Ottawa Undergraduate, and enter your OUAC reference number if you’ve already applied. Your name, email and date of birth must match your application."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-ielts-envoi-resultats",
+  "category": "admissions",
+  "keywords": [
+   "ielts",
+   "envoyer résultats",
+   "send scores",
+   "trf",
+   "124039",
+   "one skill retake",
+   "ielts academic"
+  ],
+  "question": {
+   "fr": "Comment faire parvenir mes résultats IELTS à l’Université?",
+   "en": "How do I send my IELTS results to the University?"
+  },
+  "answer": {
+   "fr": "Le centre de test doit les envoyer électroniquement, avec le code University of Ottawa – Admissions, 124039; donner seulement ton numéro TRF ne suffit pas. Seul l’IELTS Academic est accepté, y compris l’option One Skill Retake. Avec 6,0 au total, tu peux commencer ton programme avec des cours d’anglais langue seconde en plus.",
+   "en": "The test centre must send them electronically using the code University of Ottawa – Admissions, 124039; giving your TRF number alone isn’t enough. Only the IELTS Academic is accepted, including One Skill Retake. With 6.0 overall, you can start your program directly with extra ESL courses."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-test-langue-validite",
+  "category": "admissions",
+  "keywords": [
+   "validité test",
+   "test expiry",
+   "deux ans",
+   "two years",
+   "dernier résultat",
+   "latest score",
+   "test de langue"
+  ],
+  "question": {
+   "fr": "Mon test de langue doit-il être récent?",
+   "en": "Does my language test have to be recent?"
+  },
+  "answer": {
+   "fr": "Oui : tous les tests de compétence linguistique doivent avoir été passés moins de deux ans avant le début du trimestre indiqué dans ta demande. Seuls tes résultats les plus récents sont pris en compte. Même avec le résultat exigé, l’Université peut te demander de suivre des cours de langue.",
+   "en": "Yes: all language proficiency tests must be taken less than two years before the start of the term on your application. Only your latest scores are considered. Even with the required score, the University may ask you to take language courses."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exemption-anglais-autres",
+  "category": "admissions",
+  "keywords": [
+   "exemption anglais",
+   "english exemption",
+   "english 4u",
+   "ib english",
+   "ap english",
+   "sat",
+   "cbse"
+  ],
+  "question": {
+   "fr": "Puis-je être exempté du test d’anglais sans avoir étudié trois ans dans un pays anglophone?",
+   "en": "Can I be exempt from the English test without three years in an English-speaking country?"
+  },
+  "answer": {
+   "fr": "C’est possible, par exemple avec 80 % ou plus en English 4U dans un conseil scolaire d’Ottawa, le cours English A de l’IB avec au moins 4, un examen AP d’anglais avec 4, 550 en lecture et rédaction au SAT numérique, 75 % en anglais de 12e année CBSE ou CISCE, ou une année complète dans une université canadienne. Écris aux admissions pour demander l’exemption; un programme passerelle d’un autre établissement ne compte pas.",
+   "en": "Possibly, for example with 80% or more in English 4U at an Ottawa school board, IB English A with at least 4, an AP English exam with 4, 550 in SAT Digital Reading and Writing, 75% in CBSE or CISCE Grade 12 English, or one full-time year at a Canadian university. Email admissions to request the exemption; a bridging program at another institution doesn’t qualify."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exemption-francais-autres",
+  "category": "admissions",
+  "keywords": [
+   "exemption français",
+   "french exemption",
+   "français 4u",
+   "ib français a",
+   "baccalauréat français",
+   "cégep français",
+   "test de français"
+  ],
+  "question": {
+   "fr": "Puis-je être exempté du test de français pour un programme en français?",
+   "en": "Can I be exempt from the French test for a French-language program?"
+  },
+  "answer": {
+   "fr": "Oui, si tu as fait trois ans d’études à temps plein en français dans un pays où le français est officiel, ou par exemple avec 80 % en Français 4U, le cours Français A de l’IB avec au moins 4, le bac français avec 10 sur 20 combiné à l’oral et à l’écrit, ou 12 à 16 cours dans un cégep francophone. Écris aux admissions pour le demander; l’Université peut refuser une exemption.",
+   "en": "Yes, if you completed three years of full-time study in French in a country where French is official, or for example with 80% in Français 4U, IB French A with at least 4, the French Baccalaureate with a combined 10 out of 20 in oral and writing, or 12 to 16 courses at a French-language CEGEP. Email admissions to request it; the University may refuse an exemption."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-nom-sans-nom-famille",
+  "category": "admissions",
+  "keywords": [
+   "nom de famille",
+   "surname",
+   "last name",
+   "pas de nom de famille",
+   "no last name",
+   "test de langue",
+   "nom demande"
+  ],
+  "question": {
+   "fr": "Je n’ai pas de nom de famille : comment éviter que mes résultats de test se perdent?",
+   "en": "I don’t have a surname: how do I make sure my test results are matched?"
+  },
+  "answer": {
+   "fr": "Le système de l’Université attend un prénom et un nom qui correspondent à ta demande. Utilise un de tes prénoms comme nom de famille dans ta demande à uOttawa, et assure-toi que le nom est identique à celui de ton inscription au test. Cela évite des retards dans le traitement.",
+   "en": "The University’s system expects both a given name and a surname that match your application. Use one of your given names as your last name on your uOttawa application, and make sure it matches the name on your test registration. This prevents delays in processing."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-resultat-langue-insuffisant",
+  "category": "admissions",
+  "keywords": [
+   "résultat insuffisant",
+   "score too low",
+   "reprendre test",
+   "retake test",
+   "réévaluation",
+   "re-evaluation",
+   "même test"
+  ],
+  "question": {
+   "fr": "Mon résultat de test de langue est trop bas : que dois-je faire?",
+   "en": "My language test score is too low: what should I do?"
+  },
+  "answer": {
+   "fr": "Envoie quand même tes résultats. Tu peux repasser le test et demander une réévaluation par courriel aux admissions, si les résultats arrivent quelques semaines avant l’inscription aux cours. Pour une offre mise à jour, il faut repasser le même test, par exemple un autre IELTS si tu avais soumis un IELTS.",
+   "en": "Submit your results anyway. You can retake the test and request a re-evaluation by emailing admissions, as long as the scores arrive weeks before course enrolment. For an updated offer, you must take the same test again, for example another IELTS if you submitted an IELTS."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-autres-tests-anglais",
+  "category": "admissions",
+  "keywords": [
+   "pte",
+   "cael",
+   "cambridge",
+   "languagecert",
+   "michigan",
+   "test anglais",
+   "english test"
+  ],
+  "question": {
+   "fr": "Quels autres tests d’anglais l’Université accepte-t-elle?",
+   "en": "What other English tests does the University accept?"
+  },
+  "answer": {
+   "fr": "En plus de l’IELTS, du TOEFL et de Duolingo, l’Université accepte LanguageCert Academic, le Michigan English Test, le PTE, le Cambridge C1 Advanced et le CAEL. Pour une admission directe, il faut par exemple 60 au total et 60 en rédaction au PTE, 176 aux examens Cambridge, ou 60 au CAEL. Ces résultats s’envoient par courriel aux admissions.",
+   "en": "Besides IELTS, TOEFL and Duolingo, the University accepts LanguageCert Academic, the Michigan English Test, PTE, Cambridge C1 Advanced and CAEL. For direct entry, you need for example 60 overall and 60 in writing on the PTE, 176 on the Cambridge exams, or 60 on the CAEL. These scores are emailed to admissions."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-programme-intensif-anglais-exclus",
+  "category": "admissions",
+  "keywords": [
+   "programme intensif anglais",
+   "english intensive program",
+   "eip",
+   "musique",
+   "music",
+   "arts visuels",
+   "visual arts"
+  ],
+  "question": {
+   "fr": "Tous les programmes acceptent-ils le Programme intensif d’anglais?",
+   "en": "Do all programs accept the English Intensive Program?"
+  },
+  "answer": {
+   "fr": "Non : les candidats aux baccalauréats en musique et au baccalauréat en arts visuels ne sont pas admissibles au Programme intensif d’anglais. Pour les autres, il n’y a pas de demande séparée : si ton offre l’exige, tu fais de 8 à 42 semaines de cours selon ton résultat.",
+   "en": "No: applicants to any Bachelor of Music or the Bachelor of Fine Arts in Visual Arts aren’t eligible for the English Intensive Program. For other programs, there’s no separate application: if your offer requires it, you take 8 to 42 weeks of courses depending on your score."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-ap",
+  "category": "admissions",
+  "keywords": [
+   "advanced placement",
+   "ap",
+   "crédits ap",
+   "ap credits",
+   "examen ap",
+   "équivalences",
+   "transfer credits"
+  ],
+  "question": {
+   "fr": "Mes cours Advanced Placement (AP) me donnent-ils des crédits?",
+   "en": "Do my Advanced Placement (AP) courses earn me credits?"
+  },
+  "answer": {
+   "fr": "Oui, possiblement, pour les examens AP où tu as obtenu au moins 4, jusqu’à 30 unités selon ton programme. Pour l’automne, les crédits sont accordés quand l’Université reçoit tes résultats officiels, généralement en juillet ou en août. Ils sont envoyés automatiquement, tu n’as rien à soumettre.",
+   "en": "Yes, possibly, for AP exams where you scored at least 4, up to 30 units depending on your program. For the fall term, credits are granted once the University receives your official AP scores, usually in July or August. They’re sent automatically, so you don’t need to submit them."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-ib",
+  "category": "admissions",
+  "keywords": [
+   "baccalauréat international",
+   "international baccalaureate",
+   "ib",
+   "crédits ib",
+   "ib credits",
+   "niveau supérieur",
+   "higher level"
+  ],
+  "question": {
+   "fr": "Le Baccalauréat international (IB) me donne-t-il des crédits universitaires?",
+   "en": "Does the International Baccalaureate (IB) give me university credits?"
+  },
+  "answer": {
+   "fr": "Oui, possiblement, pour les cours de niveau supérieur (HL) où tu as obtenu 5 ou plus; le nombre dépend de ton programme. Si tu commences à l’automne, ils sont accordés après réception de tes résultats officiels finaux, habituellement en juillet ou en août, et ces résultats sont envoyés automatiquement.",
+   "en": "Yes, possibly, for Higher Level (HL) courses where you earned 5 or higher; the amount depends on your program. If you start in the fall, they’re granted after your final official IB results arrive, usually in July or August, and results are sent automatically."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-bac-francais-gce",
+  "category": "admissions",
+  "keywords": [
+   "baccalauréat français",
+   "french baccalaureate",
+   "aefe",
+   "gce",
+   "a-level",
+   "crédits",
+   "12 sur 20"
+  ],
+  "question": {
+   "fr": "Le baccalauréat français ou les A-levels donnent-ils des crédits de transfert?",
+   "en": "Do the French Baccalaureate or A-levels give transfer credits?"
+  },
+  "answer": {
+   "fr": "Pour le baccalauréat français reconnu par l’AEFE, il faut une note globale d’au moins 12 sur 20; les crédits sont confirmés après réception de tes notes officielles. Pour le GCE, il faut au moins B dans les cours A-Level, et tu peux recevoir jusqu’à 18 unités. Dans les deux cas, le nombre dépend de ton programme.",
+   "en": "For the French Baccalaureate recognized by the AEFE, you need an overall score of at least 12 out of 20; credits are confirmed once your official grades arrive. For the GCE, you need at least a B in A-Level courses, and you can receive up to 18 units. In both cases, the amount depends on your program."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-cegep",
+  "category": "admissions",
+  "keywords": [
+   "crédits cégep",
+   "cegep credits",
+   "cours de cégep",
+   "cegep courses",
+   "30 unités",
+   "équivalences",
+   "transfert"
+  ],
+  "question": {
+   "fr": "Combien de crédits puis-je obtenir avec mes cours de cégep?",
+   "en": "How many credits can I get for my CEGEP courses?"
+  },
+  "answer": {
+   "fr": "Ça dépend du nombre de cours réussis : jusqu’à 15 unités pour 12 cours, de 18 à 27 unités pour 13 à 16 cours, et jusqu’à 30 unités, soit une année universitaire, pour plus de 17 cours. Le plafond varie aussi selon la faculté : très limité en génie, sauf en informatique, et jusqu’à 9 unités en droit civil pour un programme technique juridique.",
+   "en": "It depends on how many courses you’ve completed: up to 15 units for 12 courses, 18 to 27 units for 13 to 16 courses, and up to 30 units, one year of university, for more than 17 courses. The cap also varies by faculty: very limited in Engineering except Computer Science, and up to 9 units in Civil Law for a technical legal program."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-college",
+  "category": "admissions",
+  "keywords": [
+   "crédits collège",
+   "college transfer",
+   "diplôme collégial",
+   "college diploma",
+   "telfer",
+   "45 unités",
+   "ententes"
+  ],
+  "question": {
+   "fr": "J’ai un diplôme collégial : combien de crédits puis-je recevoir?",
+   "en": "I have a college diploma: how many credits can I receive?"
+  },
+  "answer": {
+   "fr": "Avec un diplôme de deux ou trois ans d’un collège, tu peux souvent recevoir jusqu’à 30 unités en Arts, Sciences ou Sciences sociales. À Telfer, un diplôme de trois ans en gestion peut donner jusqu’à 45 unités. Des ententes avec des collèges canadiens prévoient aussi des crédits fixes, par exemple pour le baccalauréat en commerce avec une moyenne de 70 %.",
+   "en": "With a two- or three-year college diploma, you can often receive up to 30 units in Arts, Science or Social Sciences. At Telfer, a three-year management diploma can give up to 45 units. Agreements with Canadian colleges also set fixed credits, for example for the Bachelor of Commerce with a 70% average."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-transfert-universite-notes",
+  "category": "admissions",
+  "keywords": [
+   "transfert université",
+   "university transfer",
+   "note minimale",
+   "minimum grade",
+   "60 %",
+   "carleton",
+   "fraude"
+  ],
+  "question": {
+   "fr": "Quelle note faut-il dans mes cours d’une autre université pour obtenir des crédits?",
+   "en": "What grade do I need in courses from another university to get credits?"
+  },
+  "answer": {
+   "fr": "En général 60 % dans la plupart des universités canadiennes, 65 % pour les cours de nutrition et de sciences infirmières, 50 % pour Carleton et Saint-Paul, et une note de passage pour les universités hors Canada. Tu dois déclarer toutes tes études dans ta demande OUAC : ne pas le faire est considéré comme une fraude scolaire.",
+   "en": "Generally 60% at most Canadian universities, 65% for Nutrition and Nursing courses, 50% for Carleton and Saint Paul, and a passing grade for universities outside Canada. You must declare all your studies on your OUAC application: failing to do so is considered academic fraud."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-niveau-annee",
+  "category": "admissions",
+  "keywords": [
+   "niveau d’études",
+   "academic level",
+   "deuxième année",
+   "second year",
+   "unités transférées",
+   "transfer units",
+   "24 unités"
+  ],
+  "question": {
+   "fr": "Avec mes crédits de transfert, vais-je commencer en deuxième année?",
+   "en": "With my transfer credits, will I start in second year?"
+  },
+  "answer": {
+   "fr": "Ton niveau dépend des unités accordées : moins de 24 unités, tu es en première année; de 24 à 53, en deuxième; de 54 à 80, en troisième. La plupart des crédits sont de niveau 1000 ou 2000, et tu dois quand même respecter les préalables des cours plus avancés.",
+   "en": "Your level depends on the units granted: under 24 units, you’re a first-year student; 24 to 53, second year; 54 to 80, third year. Most transfer credits are at the 1000 or 2000 level, and you still need to meet prerequisites for more advanced courses."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-opt-generaux",
+  "category": "admissions",
+  "keywords": [
+   "opt 1xxx",
+   "crédits généraux",
+   "general credits",
+   "cours au choix",
+   "electives",
+   "crédits spécifiques",
+   "specific credits"
+  ],
+  "question": {
+   "fr": "Que veut dire un crédit de transfert comme OPT 1XXX?",
+   "en": "What does a transfer credit like OPT 1XXX mean?"
+  },
+  "answer": {
+   "fr": "C’est un crédit général, accordé quand il n’y a pas d’équivalent direct à uOttawa. Un crédit général avec un code de discipline, comme PSY 1XXX, peut remplacer un cours optionnel de cette discipline ou un cours au choix; un crédit OPT remplace seulement des cours au choix. Aucun crédit général ne remplace un cours obligatoire.",
+   "en": "It’s a general credit, given when there’s no direct uOttawa equivalent. A general credit with a subject code, like PSY 1XXX, can replace an optional course in that subject or an elective; an OPT credit only replaces electives. General credits can never replace required courses."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-plans-cours",
+  "category": "admissions",
+  "keywords": [
+   "plan de cours",
+   "course outline",
+   "crédits de transfert",
+   "transfer credits",
+   "deux semaines",
+   "two weeks",
+   "documents demandés"
+  ],
+  "question": {
+   "fr": "On me demande mes plans de cours pour les crédits de transfert : que dois-je envoyer?",
+   "en": "I’m asked for course outlines for transfer credits: what do I send?"
+  },
+  "answer": {
+   "fr": "Tu as deux semaines pour les envoyer. Chaque plan doit indiquer l’établissement, le code et les crédits du cours, l’année, la description, le contenu semaine par semaine, les heures d’enseignement, les manuels, les méthodes d’évaluation et les laboratoires s’il y en a. Si tu ne peux pas les fournir, tu recevras plutôt des crédits généraux au choix.",
+   "en": "You have two weeks to send them. Each outline must show the institution, course code and credits, the academic year, the description, weekly lecture content, total hours of instruction, textbooks, evaluation methods and any labs. If you can’t provide them, you’ll get general elective credits instead."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-delai-resultat",
+  "category": "admissions",
+  "keywords": [
+   "délai crédits",
+   "when transfer credits",
+   "offre révisée",
+   "revised offer",
+   "mes exigences scolaires",
+   "my academic requirements",
+   "semaines"
+  ],
+  "question": {
+   "fr": "Quand vais-je connaître mes crédits de transfert, et où les voir?",
+   "en": "When will I know my transfer credits, and where can I see them?"
+  },
+  "answer": {
+   "fr": "Si tes cours ont déjà été évalués, ton offre révisée peut arriver en deux semaines; s’il faut en évaluer, compte environ cinq semaines, et environ huit en période achalandée ou en cas de retard de documents. Tu les vois dans ton offre révisée et dans uoZone, sous Mes exigences scolaires.",
+   "en": "If your courses have already been assessed, your revised offer can come within two weeks; if some need assessing, expect about five weeks, and about eight during peak periods or if documents are delayed. You can see them in your revised offer and in uoZone under My Academic Requirements."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-contester",
+  "category": "admissions",
+  "keywords": [
+   "contester crédits",
+   "appeal transfer credits",
+   "réévaluation",
+   "re-evaluation",
+   "pas assez de crédits",
+   "not enough credits",
+   "faculté"
+  ],
+  "question": {
+   "fr": "Je ne suis pas d’accord avec le nombre de crédits de transfert reçus : que faire?",
+   "en": "I disagree with the number of transfer credits I received: what can I do?"
+  },
+  "answer": {
+   "fr": "Vérifie d’abord le maximum permis pour ton programme et ton établissement d’origine. Si tu crois à une erreur et que tu n’es pas encore inscrit à tes cours, contacte le Bureau des admissions. Après ton inscription, adresse ta demande de réévaluation ou ton appel à ta faculté.",
+   "en": "First check the maximum allowed for your program and previous institution. If you think there’s an error and you haven’t enrolled in courses yet, contact the Admissions Office. After you’ve enrolled, send your re-evaluation request or appeal to your faculty."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-limites-generales",
+  "category": "admissions",
+  "keywords": [
+   "crédits de transfert",
+   "transfer credits",
+   "cycles supérieurs",
+   "graduate courses",
+   "accréditation",
+   "accreditation",
+   "cours professionnels"
+  ],
+  "question": {
+   "fr": "Mes cours de maîtrise ou de mon ancien établissement peuvent-ils tous être crédités?",
+   "en": "Can my graduate courses or courses from any school be credited?"
+  },
+  "answer": {
+   "fr": "Oui : les cours de maîtrise ou de doctorat et les cours professionnels de droit, d’éducation ou de médecine ne donnent pas de crédits au premier cycle. Ton établissement d’origine doit être reconnu ou accrédité par le ministère de l’Éducation de son pays; s’il n’est pas dans la liste de l’Université, tu dois fournir une preuve d’accréditation.",
+   "en": "Yes: master’s or doctoral courses and professional law, education or medicine courses can’t count toward undergraduate programs. Your previous institution must be recognized or accredited by its country’s ministry of education; if it isn’t on the University’s list, you must provide proof of accreditation."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-genie-admission",
+  "category": "admissions",
+  "keywords": [
+   "génie",
+   "engineering",
+   "crédits de transfert",
+   "transfer credits",
+   "cours de génie",
+   "engineering courses",
+   "demande faculté"
+  ],
+  "question": {
+   "fr": "Mes cours de génie d’un autre établissement seront-ils crédités à l’admission?",
+   "en": "Will my engineering courses from another school be credited at admission?"
+  },
+  "answer": {
+   "fr": "En général, non : les crédits pour des cours de génie ne sont pas accordés à l’admission, sauf si une autre faculté de uOttawa, comme la Faculté des sciences, reconnaît ces cours. Pour faire examiner des cours de génie précis, soumets une demande de crédits de transfert à la Faculté de génie.",
+   "en": "Generally not: credits for engineering courses aren’t granted at admission, unless another uOttawa faculty, such as the Faculty of Science, recognizes them. To have specific engineering courses considered, submit a transfer credit request through the Faculty of Engineering."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-admission-vs-inscription",
+  "category": "admissions",
+  "keywords": [
+   "admission",
+   "inscription",
+   "registration",
+   "différence",
+   "difference",
+   "enrolment",
+   "glossaire"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre l’admission et l’inscription?",
+   "en": "What’s the difference between admission and registration?"
+  },
+  "answer": {
+   "fr": "L’admission, c’est le processus par lequel l’Université t’accepte dans un programme menant à un diplôme. L’inscription, c’est réserver ta place dans un cours. Tu peux t’inscrire seulement après avoir reçu et accepté une offre d’admission, à partir de la date fixée par l’Université.",
+   "en": "Admission is the process through which the University accepts you into a degree program. Registration is reserving your place in a course. You can register only after you’ve received and accepted an offer of admission, starting on the date the University sets."
+  },
+  "sources": [
+   {
+    "label": "Glossary of terms",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/glossary-terms"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-upass-facture-automne",
+  "category": "finances",
+  "keywords": [
+   "u-pass",
+   "frais u-pass",
+   "u-pass fees",
+   "quand payer u-pass",
+   "when pay u-pass",
+   "facture automne",
+   "fall fees"
+  ],
+  "question": {
+   "fr": "Quand dois-je payer les frais du U-Pass?",
+   "en": "When do I pay the U-Pass fee?"
+  },
+  "answer": {
+   "fr": "Les frais du U-Pass pour toute l’année sont payables avec tes droits universitaires du trimestre d’automne. Pour le printemps-été, ils sont payables avec les droits de ce trimestre. Sous certaines conditions, tu peux te retirer du U-Pass et de l’assurance collective.",
+   "en": "The U-Pass fee for the whole year is payable with your fall term university fees. For spring-summer, it’s payable with that term’s fees. Under certain conditions, you can opt out of the U-Pass and group insurance."
+  },
+  "sources": [
+   {
+    "label": "How and when to pay",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/how-when-to-pay"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-frais-payables-quand",
+  "category": "finances",
+  "keywords": [
+   "quand payer",
+   "when to pay",
+   "frais par trimestre",
+   "fees each term",
+   "frais administratifs",
+   "administrative fees",
+   "relevé de compte"
+  ],
+  "question": {
+   "fr": "Quels frais dois-je payer chaque trimestre, et lesquels au besoin?",
+   "en": "Which fees do I pay each term, and which only when needed?"
+  },
+  "answer": {
+   "fr": "Les frais de services aux étudiants, ceux du SÉUO et les frais afférents aux cours sont payables chaque trimestre, aux dates des échéances importantes. Les frais administratifs, eux, sont payables quand tu reçois le service. Ton relevé de compte dans uoZone, sous Applications, montre l’état officiel de ton compte.",
+   "en": "Student services fees, UOSU fees and incidental fees are payable each term, by the dates in the important academic dates and deadlines. Administrative fees are payable when you receive a service. Your statement of account in uoZone, under Applications, shows the official status of your account."
+  },
+  "sources": [
+   {
+    "label": "How and when to pay",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/how-when-to-pay"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-abandon-cours-mention-abs",
+  "category": "finances",
+  "keywords": [
+   "abandonner cours",
+   "drop course",
+   "abs",
+   "échec",
+   "mention abs",
+   "student center",
+   "retrait"
+  ],
+  "question": {
+   "fr": "Si j’arrête simplement d’aller à un cours, est-ce que ça l’annule?",
+   "en": "If I just stop going to a course, is it dropped?"
+  },
+  "answer": {
+   "fr": "Non : tu dois l’abandonner toi-même dans uoZone, sous Applications, Inscription, puis Abandonner, avant la date limite. Sinon, tu reçois la mention ABS, l’équivalent d’un échec, et les règles habituelles de paiement des droits s’appliquent.",
+   "en": "No: you must drop it yourself in uoZone, under Applications, Enrol, then Drop, before the deadline. Otherwise, you get an ABS notation, equivalent to an F, and the usual tuition payment rules apply."
+  },
+  "sources": [
+   {
+    "label": "How and when to pay",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/how-when-to-pay"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-frais-afferents-cours",
+  "category": "finances",
+  "keywords": [
+   "frais afférents",
+   "incidental fees",
+   "sortie sur le terrain",
+   "field trip",
+   "matériel de cours",
+   "learning material",
+   "frais de laboratoire"
+  ],
+  "question": {
+   "fr": "Pourquoi certains cours ont-ils des frais en plus des droits de scolarité?",
+   "en": "Why do some courses have fees on top of tuition?"
+  },
+  "answer": {
+   "fr": "Ce sont des frais afférents, liés à un cours précis : par exemple une sortie sur le terrain, du matériel pédagogique, des frais de laboratoire ou des vêtements spéciaux que tu gardes. Les montants pour chaque code de cours sont publiés sur la page des frais afférents. Certains coûts directs, comme un voyage, te sont facturés seulement quand ils sont connus, peu avant l’activité.",
+   "en": "They’re incidental fees tied to a specific course: for example a field trip, learning materials, lab fees or special clothing you keep. The amounts for each course code are published on the incidental fees page. Some direct costs, like travel, are billed only once known, shortly before the activity."
+  },
+  "sources": [
+   {
+    "label": "Incidental fees",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/incidental-fees"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zc-frais-afferents-remboursement",
+  "category": "finances",
+  "keywords": [
+   "frais afférents remboursement",
+   "incidental fees refund",
+   "non remboursable",
+   "non-refundable",
+   "abandon cours",
+   "sortie terrain"
+  ],
+  "question": {
+   "fr": "Les frais afférents d’un cours sont-ils remboursés si je l’abandonne?",
+   "en": "Are a course’s incidental fees refunded if I drop it?"
+  },
+  "answer": {
+   "fr": "En général oui, totalement ou en partie, si tu n’es plus inscrit à la date prévue dans les échéances importantes; si cette date tombe une fin de semaine ou un jour férié, c’est le jour ouvrable suivant. Attention : certains frais, souvent pour des sorties sur le terrain, sont indiqués comme non remboursables.",
+   "en": "Generally yes, fully or partly, if you’re no longer enrolled on the date in the important academic dates and deadlines; if that date falls on a weekend or holiday, it’s the next business day. Note that some fees, often for field trips, are marked non-refundable."
+  },
+  "sources": [
+   {
+    "label": "Incidental fees",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/incidental-fees"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-qui-fixe-droits",
+  "category": "finances",
+  "keywords": [
+   "qui fixe les droits",
+   "who sets tuition",
+   "gouvernement ontario",
+   "ontario government",
+   "hausse",
+   "increase",
+   "prévisibilité"
+  ],
+  "question": {
+   "fr": "Qui décide des droits de scolarité et de leurs hausses?",
+   "en": "Who decides tuition fees and their increases?"
+  },
+  "answer": {
+   "fr": "Le gouvernement de l’Ontario encadre les droits des étudiants canadiens, qu’ils viennent de l’Ontario ou d’ailleurs au pays. Pour les étudiants internationaux, c’est l’Université qui fixe les droits, et elle a adopté un engagement de prévisibilité qui limite les hausses pour les étudiants déjà inscrits. Les droits sont approuvés chaque année, habituellement en mai ou en juin, et entrent en vigueur en septembre.",
+   "en": "The Ontario government regulates tuition for Canadian students, whether they’re from Ontario or elsewhere in Canada. For international students, the University sets the fees, and it has a tuition predictability commitment that limits increases for returning students. Fees are approved each year, usually in May or June, and take effect in September."
+  },
+  "sources": [
+   {
+    "label": "Changes and increases",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/changes-increases"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exoneration-hors-province-dates",
+  "category": "finances",
+  "keywords": [
+   "frais ontariens",
+   "ontario fees",
+   "hors province",
+   "out of province",
+   "changement facturation",
+   "billing change",
+   "date limite"
+  ],
+  "question": {
+   "fr": "On me facture comme non-résident de l’Ontario par erreur : jusqu’à quand puis-je le faire corriger?",
+   "en": "I’m billed as a non-Ontario resident by mistake: when’s the deadline to fix it?"
+  },
+  "answer": {
+   "fr": "Tu dois envoyer ta demande de changement de facturation avec tes documents avant la date limite du trimestre, par exemple le 27 janvier 2027 pour l’hiver 2027. Aucune exception n’est faite, et le changement s’applique seulement au trimestre approuvé, jamais aux trimestres passés. Vérifie les dates sur la page des exemptions.",
+   "en": "You must submit your billing change request with your documents by the term deadline, for example January 27, 2027 for Winter 2027. No exceptions are made, and the change only applies to the approved term, never to past terms. Check the dates on the exemptions page."
+  },
+  "sources": [
+   {
+    "label": "Out of province tuition fee exemptions",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/out-province-tuition-fee-exemptions"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zc-etudiant-independant-definition",
+  "category": "finances",
+  "keywords": [
+   "étudiant indépendant",
+   "independent student",
+   "étudiant à charge",
+   "dependent student",
+   "frais ontariens",
+   "résidence ontario",
+   "rafeo"
+  ],
+  "question": {
+   "fr": "Suis-je considéré comme étudiant indépendant pour les frais de l’Ontario?",
+   "en": "Am I an independent student for Ontario fee purposes?"
+  },
+  "answer": {
+   "fr": "Tu es indépendant si tu es marié ou en union de fait, si tu es parent, si tu as quitté le secondaire depuis au moins six ans au début de tes études, si tu as travaillé à temps plein 24 mois de suite, ou si tes deux parents sont décédés. Dans ce cas, c’est ta propre résidence principale en Ontario qui compte, ou celle de ton conjoint.",
+   "en": "You’re independent if you’re married or in a common-law relationship, a parent, out of high school for six years or more at the start of your studies, have worked full time for 24 months in a row, or both your parents are deceased. In that case, it’s your own primary residence in Ontario that counts, or your spouse’s."
+  },
+  "sources": [
+   {
+    "label": "Out of province tuition fee exemptions",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/out-province-tuition-fee-exemptions"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-frais-ontariens-rafeo-pcno",
+  "category": "finances",
+  "keywords": [
+   "rafeo",
+   "osap",
+   "pcno",
+   "oinp",
+   "frais ontariens",
+   "ontario fees",
+   "candidats des provinces"
+  ],
+  "question": {
+   "fr": "Le RAFEO ou le Programme ontarien des candidats à l’immigration me donnent-ils droit aux frais de l’Ontario?",
+   "en": "Do OSAP or the Ontario Immigrant Nominee Program qualify me for Ontario fees?"
+  },
+  "answer": {
+   "fr": "Oui. Si tu reçois ou es admissible au RAFEO cette année, ou l’étais sans interruption d’études, l’Université vérifie elle-même ton statut, sans document à fournir. Si ta résidence permanente a été approuvée par le Programme ontarien des candidats à l’immigration, fournis ta lettre de confirmation de nomination et une preuve de résidence permanente ou d’approbation de principe.",
+   "en": "Yes. If you receive or are eligible for OSAP this year, or were and haven’t had a break in enrolment, the University checks your status itself, with no documents needed. If you were approved for permanent residency through the Ontario Immigrant Nominee Program, provide your Confirmation of Nomination letter and proof of permanent residence or approval in principle."
+  },
+  "sources": [
+   {
+    "label": "Out of province tuition fee exemptions",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/out-province-tuition-fee-exemptions"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-frais-ontariens-conjoint",
+  "category": "finances",
+  "keywords": [
+   "conjoint",
+   "spouse",
+   "union de fait",
+   "common-law",
+   "frais ontariens",
+   "ontario fees",
+   "avis de cotisation"
+  ],
+  "question": {
+   "fr": "Mon conjoint vit en Ontario : puis-je payer les frais de l’Ontario?",
+   "en": "My spouse lives in Ontario: can I pay Ontario fees?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es étudiant indépendant et que l’Ontario est la dernière province où ton conjoint a vécu 12 mois consécutifs. Il faut une preuve de mariage ou d’union de fait de trois ans, ou de cohabitation avec un enfant à charge, plus l’avis de cotisation de ton conjoint, ou son bail ou compte de taxes foncières et un autre document comme une facture.",
+   "en": "Yes, if you’re an independent student and Ontario is the last province where your spouse lived for 12 consecutive months. You need proof of marriage or three years of common-law status, or of cohabitation with a dependent child, plus your spouse’s Notice of Assessment, or their lease or property tax bill and another document such as a utility bill."
+  },
+  "sources": [
+   {
+    "label": "Out of province tuition fee exemptions",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/out-province-tuition-fee-exemptions"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourse-admission-internationale-anglais",
+  "category": "finances",
+  "keywords": [
+   "bourse internationale",
+   "international scholarship",
+   "programme en anglais",
+   "english program",
+   "7 500",
+   "60 000",
+   "bourse automatique"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international dans un programme en anglais : y a-t-il une bourse d’admission?",
+   "en": "I’m an international student in an English program: is there an admission scholarship?"
+  },
+  "answer": {
+   "fr": "Oui, la Bourse d’admission internationale en anglais est automatique : 7 500 $ par trimestre, jusqu’à 12 versements, soit 60 000 $ sur quatre ans. Il faut un permis d’études, une moyenne d’admission d’au moins 80 %, être inscrit à temps plein dans un programme en anglais approuvé en Arts, Génie, Sciences de la santé, Sciences, Sciences sociales ou à Telfer, sans l’immersion française.",
+   "en": "Yes, the International English Admission Scholarship is automatic: $7,500 per term, up to 12 instalments, or $60,000 over four years. You need a study permit, an admission average of at least 80%, and full-time enrolment in an approved English program in Arts, Engineering, Health Sciences, Science, Social Sciences or Telfer, without French Immersion."
+  },
+  "sources": [
+   {
+    "label": "Scholarships for international students studying in English",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/international-english-scholarship"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourse-excellence-internationale-anglais",
+  "category": "finances",
+  "keywords": [
+   "bourse excellence",
+   "academic excellence scholarship",
+   "international",
+   "95 %",
+   "10 000",
+   "programme en anglais",
+   "english program"
+  ],
+  "question": {
+   "fr": "Existe-t-il une bourse d’excellence pour les étudiants internationaux en anglais?",
+   "en": "Is there an excellence scholarship for international students in English programs?"
+  },
+  "answer": {
+   "fr": "Oui, la bourse internationale d’excellence académique en anglais vaut 10 000 $, versés 5 000 $ par trimestre, et 100 bourses sont offertes. Il faut une moyenne d’admission d’au moins 95 % et les mêmes conditions que la bourse d’admission. Elle n’est pas renouvelable, mais se cumule avec la Bourse d’admission internationale en anglais.",
+   "en": "Yes, the International English Academic Excellence Scholarship is worth $10,000, paid $5,000 per term, with 100 awards available. You need an admission average of at least 95% and the same conditions as the admission scholarship. It isn’t renewable, but it can be combined with the International English Admission Scholarship."
+  },
+  "sources": [
+   {
+    "label": "Scholarships for international students studying in English",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/international-english-scholarship"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourse-internationale-double-citoyennete",
+  "category": "finances",
+  "keywords": [
+   "double citoyenneté",
+   "dual citizenship",
+   "bourse internationale",
+   "international scholarship",
+   "frais canadiens",
+   "domestic fees",
+   "admissible"
+  ],
+  "question": {
+   "fr": "J’ai la double citoyenneté canadienne : ai-je droit aux bourses internationales?",
+   "en": "I’m a dual Canadian citizen: can I get international scholarships?"
+  },
+  "answer": {
+   "fr": "Non : les bourses internationales en anglais et l’exonération des droits différentiels sont réservées aux étudiants qui paient les droits internationaux. Comme citoyen canadien, même avec une autre citoyenneté, tu as déjà droit aux droits canadiens, donc tu n’es pas admissible.",
+   "en": "No: the international English scholarships and the differential tuition fee exemption are only for students who pay international tuition. As a Canadian citizen, even with another citizenship, you already qualify for Canadian rates, so you’re not eligible."
+  },
+  "sources": [
+   {
+    "label": "Scholarships for international students studying in English",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/international-english-scholarship"
+   },
+   {
+    "label": "Differential Tuition Fee Exemption Scholarship",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/differential-tuition-fee-exemption-scholarship"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exoneration-differentielle-premier-cycle",
+  "category": "finances",
+  "keywords": [
+   "exonération droits différentiels",
+   "differential tuition fee exemption",
+   "étudiant international francophone",
+   "francophone international",
+   "programme en français",
+   "immersion",
+   "bourse"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international et j’étudie en français : mes droits sont-ils réduits?",
+   "en": "I’m an international student studying in French: are my fees reduced?"
+  },
+  "answer": {
+   "fr": "Oui, grâce à la Bourse d’exonération des droits différentiels. Tu dois accepter une offre dans un programme en français, ou en anglais avec le régime d’immersion en français, être inscrit à temps plein et suivre au moins trois cours en français par trimestre, soit 9 unités. Elle réduit beaucoup tes droits de scolarité.",
+   "en": "Yes, through the Differential Tuition Fee Exemption Scholarship. You must accept an offer to a French-language program, or an English program with the French Immersion Stream, be enrolled full time and take at least three courses in French per term, or 9 units. It reduces your tuition considerably."
+  },
+  "sources": [
+   {
+    "label": "Differential Tuition Fee Exemption Scholarship",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/differential-tuition-fee-exemption-scholarship"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exoneration-differentielle-montants",
+  "category": "finances",
+  "keywords": [
+   "montant exonération",
+   "exemption amount",
+   "16 000",
+   "18 000",
+   "12 500",
+   "droits différentiels",
+   "differential"
+  ],
+  "question": {
+   "fr": "Combien vaut l’exonération des droits différentiels au baccalauréat?",
+   "en": "How much is the differential tuition fee exemption for undergraduates?"
+  },
+  "answer": {
+   "fr": "Pour les étudiants qui ont commencé à l’hiver 2024 ou après, c’est par trimestre admissible : 16 000 $ à Telfer, 18 000 $ en génie et dans certains programmes conjoints de sciences et génie, et 12 500 $ dans la plupart des autres facultés. Si le montant change, tu gardes celui indiqué dans ton offre tant que tu respectes les conditions.",
+   "en": "For students who started in Winter 2024 or later, it’s per eligible term: $16,000 at Telfer, $18,000 in Engineering and some joint science-engineering programs, and $12,500 in most other faculties. If the amount changes, you keep the one in your offer as long as you meet the conditions."
+  },
+  "sources": [
+   {
+    "label": "Differential Tuition Fee Exemption Scholarship",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/differential-tuition-fee-exemption-scholarship"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exoneration-differentielle-maintien",
+  "category": "finances",
+  "keywords": [
+   "garder exonération",
+   "keep exemption",
+   "renouvellement",
+   "renewal",
+   "coop",
+   "co-op",
+   "12 versements"
+  ],
+  "question": {
+   "fr": "Comment garder mon exonération des droits différentiels pendant mon baccalauréat?",
+   "en": "How do I keep my differential tuition fee exemption during my bachelor’s?"
+  },
+  "answer": {
+   "fr": "Tu dois être inscrit à temps plein chaque trimestre, suivre au moins trois cours en français, soit 9 unités, et rester dans un programme approuvé en français ou en immersion. Elle peut être versée jusqu’à 12 fois. Attention : en coop, tu n’y as pas droit pendant tes stages de travail.",
+   "en": "You must be enrolled full time every term, take at least three courses in French, or 9 units, and stay in an approved French or French Immersion program. It can be paid up to 12 times. Note: co-op students aren’t eligible during their work terms."
+  },
+  "sources": [
+   {
+    "label": "Differential Tuition Fee Exemption Scholarship",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/differential-tuition-fee-exemption-scholarship"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exoneration-differentielle-ete",
+  "category": "finances",
+  "keywords": [
+   "printemps-été",
+   "spring-summer",
+   "exonération été",
+   "summer exemption",
+   "temps partiel",
+   "part time",
+   "50 %"
+  ],
+  "question": {
+   "fr": "Ai-je l’exonération des droits différentiels au printemps-été?",
+   "en": "Do I get the differential tuition exemption in spring-summer?"
+  },
+  "answer": {
+   "fr": "Oui, mais tu dois en faire la demande dans l’outil Bourses en ligne. À temps plein avec au moins deux cours en français, tu reçois le plein montant. À temps partiel, avec au moins deux cours dont un en français, tu reçois 50 %, ce qui compte quand même comme un de tes 12 versements.",
+   "en": "Yes, but you must apply in the Online Scholarships and Bursaries tool. Full time with at least two courses in French, you get the full amount. Part time, with at least two courses including one in French, you get 50%, which still counts as one of your 12 payments."
+  },
+  "sources": [
+   {
+    "label": "Differential Tuition Fee Exemption Scholarship",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/differential-tuition-fee-exemption-scholarship"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exoneration-differentielle-maitrise",
+  "category": "finances",
+  "keywords": [
+   "exonération maîtrise",
+   "master’s exemption",
+   "droits différentiels",
+   "differential",
+   "cycles supérieurs",
+   "graduate",
+   "deux ans"
+  ],
+  "question": {
+   "fr": "L’exonération des droits différentiels existe-t-elle à la maîtrise?",
+   "en": "Is there a differential tuition fee exemption for master’s students?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es inscrit à temps plein à la maîtrise et que ton programme est offert seulement en français, ou si tu as un diplôme attestant au moins deux ans d’études en français et suis les cours obligatoires en français. Elle dure au plus deux ans, soit six versements, et ne se cumule pas avec la Bourse d’études pour étudiants internationaux à la maîtrise. Le montant dépend du programme.",
+   "en": "Yes, if you’re enrolled full time in a master’s program offered only in French, or you hold a diploma showing at least two years of study in French and take the compulsory courses in French. It lasts up to two years, or six payments, and can’t be combined with the Education Bursary for International Master’s Students. The amount depends on the program."
+  },
+  "sources": [
+   {
+    "label": "Differential Tuition Fee Exemption Scholarship",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/differential-tuition-fee-exemption-scholarship"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourse-fls",
+  "category": "finances",
+  "keywords": [
+   "français langue seconde",
+   "french as a second language",
+   "bourse fls",
+   "fsl bursary",
+   "3 000",
+   "acufc",
+   "anglophone"
+  ],
+  "question": {
+   "fr": "Y a-t-il une bourse pour les anglophones qui étudient en français?",
+   "en": "Is there a bursary for English speakers studying in French?"
+  },
+  "answer": {
+   "fr": "Oui, la Bourse pour études postsecondaires en français langue seconde vaut 3 000 $. Il faut avoir l’anglais comme première langue officielle, avoir terminé ton secondaire dans un établissement anglophone ou d’une autre langue non officielle, être à temps plein dans un programme en français ou en immersion, et suivre au moins deux cours en français par trimestre. La date limite est le 31 mars, et elle se cumule avec d’autres bourses.",
+   "en": "Yes, the Bursary for Postsecondary Studies in French as a Second Language is worth $3,000. You must have English as your first official language, have graduated from an English-language or non-official-language secondary school, be full time in a French or French Immersion program, and take at least two courses in French per term. The deadline is March 31, and it can be combined with other awards."
+  },
+  "sources": [
+   {
+    "label": "Scholarships and awards overview",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-concours-admission-francophones",
+  "category": "finances",
+  "keywords": [
+   "concours",
+   "contests",
+   "bourse admission",
+   "admission awards",
+   "french for the future",
+   "canadian parents for french",
+   "immersion"
+  ],
+  "question": {
+   "fr": "Y a-t-il des concours pour gagner des bourses d’admission?",
+   "en": "Are there contests to win admission awards?"
+  },
+  "answer": {
+   "fr": "Oui, les élèves francophones et en immersion française peuvent participer à des concours pour gagner des prix d’admission, dont certains offerts par Le français pour l’avenir, Canadian Parents for French ou l’ACUFC. La liste complète se trouve dans l’outil Bourses en ligne, et la valeur varie.",
+   "en": "Yes, Francophone and French immersion students can enter contests to win admission awards, some offered through French for the Future, Canadian Parents for French or the ACUFC. The full list is in the Online Scholarships and Bursaries tool, and values vary."
+  },
+  "sources": [
+   {
+    "label": "Scholarships and awards overview",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourse-fss-internationale",
+  "category": "finances",
+  "keywords": [
+   "sciences sociales",
+   "social sciences",
+   "bourse internationale",
+   "international scholarship",
+   "1 500",
+   "92 %",
+   "doyen"
+  ],
+  "question": {
+   "fr": "Y a-t-il une bourse pour les étudiants internationaux en sciences sociales?",
+   "en": "Is there a scholarship for international students in Social Sciences?"
+  },
+  "answer": {
+   "fr": "Oui, le Prix d’excellence du doyen de la Faculté des sciences sociales pour étudiants internationaux vaut 1 500 $. Il s’adresse aux étudiants internationaux qui paient les droits internationaux, inscrits à temps plein pour la première fois au premier cycle à la Faculté, avec une moyenne d’admission d’au moins 92 %.",
+   "en": "Yes, the Faculty of Social Sciences Dean’s Excellence Award for International Students is worth $1,500. It’s for international students paying international tuition, enrolled full time for the first time in an undergraduate program in the Faculty, with an admission average of at least 92%."
+  },
+  "sources": [
+   {
+    "label": "Scholarships and awards overview",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourse-handicap-internationale",
+  "category": "finances",
+  "keywords": [
+   "handicap",
+   "disability",
+   "étudiant international",
+   "international student",
+   "12 unités",
+   "bourse études",
+   "accommodements"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international avec un handicap et je ne peux pas suivre une charge complète : y a-t-il de l’aide?",
+   "en": "I’m an international student with a disability and can’t take a full course load: is there help?"
+  },
+  "answer": {
+   "fr": "Oui, la Bourse d’études pour étudiants internationaux ayant un handicap peut aider si un handicap ou un problème de santé permanent t’empêche de suivre plus de 12 unités par trimestre. Contacte d’abord le Service d’accommodements scolaires pour vérifier ton admissibilité, puis fais ta demande chaque trimestre dans l’outil Bourses en ligne. Vérifie les dates limites sur la page des bourses.",
+   "en": "Yes, the Education Bursary for International Students with Disabilities can help if a permanent disability or medical condition prevents you from taking more than 12 units per term. First contact the Academic Accommodations Service to confirm eligibility, then apply each term in the Online Scholarships and Bursaries tool. Check the deadlines on the scholarships page."
+  },
+  "sources": [
+   {
+    "label": "Scholarships and awards overview",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zc-bourse-difference-bourse-aide",
+  "category": "finances",
+  "keywords": [
+   "bourse d’études",
+   "scholarship",
+   "bourse",
+   "bursary",
+   "différence",
+   "difference",
+   "besoin financier"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre une bourse d’excellence et une bourse d’aide financière?",
+   "en": "What’s the difference between a scholarship and a bursary?"
+  },
+  "answer": {
+   "fr": "Une bourse d’excellence, ou scholarship, récompense tes résultats scolaires, alors qu’une bourse d’aide financière, ou bursary, est accordée selon ton besoin financier. Tu trouves les deux dans l’outil Bourses en ligne, que tu peux utiliser dès que tu as fait ta demande d’admission et reçu ton identifiant uoAccès.",
+   "en": "A scholarship rewards academic achievement, while a bursary is awarded based on financial need. You’ll find both in the Online Scholarships and Bursaries tool, which you can use as soon as you’ve applied for admission and received your uoAccess ID."
+  },
+  "sources": [
+   {
+    "label": "Scholarships and awards overview",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-budget-fonds-urgence",
+  "category": "finances",
+  "keywords": [
+   "fonds d’urgence",
+   "emergency fund",
+   "épargne",
+   "savings",
+   "500",
+   "budget",
+   "emploi d’été"
+  ],
+  "question": {
+   "fr": "Combien devrais-je garder de côté en cas d’imprévu pendant mes études?",
+   "en": "How much should I keep aside for emergencies during my studies?"
+  },
+  "answer": {
+   "fr": "L’Université conseille de garder un fonds d’urgence d’environ 500 $ pendant tes études, pour ne pas dépendre du crédit ou des prêts. Épargne aussi une bonne partie de ton revenu d’emploi d’été : il peut couvrir une grande part de tes droits de l’automne.",
+   "en": "The University recommends keeping an emergency fund of about $500 throughout your studies, so you don’t have to rely on credit or loans. Also save much of your summer job income: it can cover a large part of your fall tuition."
+  },
+  "sources": [
+   {
+    "label": "Financial planning",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/financial-planning"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-carte-credit-conseils",
+  "category": "finances",
+  "keywords": [
+   "carte de crédit",
+   "credit card",
+   "crédit",
+   "credit",
+   "dettes",
+   "debt",
+   "marge de crédit"
+  ],
+  "question": {
+   "fr": "Comment utiliser une carte de crédit sans m’endetter pendant mes études?",
+   "en": "How do I use a credit card without falling into debt as a student?"
+  },
+  "answer": {
+   "fr": "Évite de garder un solde, lis bien ton contrat pour connaître les taux d’intérêt, ne paie rien que tu ne peux pas rembourser, garde une limite basse et vérifie tes relevés pour repérer la fraude. Un paiement préautorisé peut t’aider à toujours payer le solde. Une marge de crédit étudiante peut aussi servir de filet, car tu paies l’intérêt seulement sur le montant utilisé.",
+   "en": "Avoid carrying a balance, read your agreement to know the interest rates, don’t charge what you can’t pay off, keep your limit low and check statements for fraud. A pre-authorized payment can help you always pay the balance. A student line of credit can also be a safety net, since you only pay interest on what you use."
+  },
+  "sources": [
+   {
+    "label": "Financial planning",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/financial-planning"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-economiser-manuels",
+  "category": "finances",
+  "keywords": [
+   "manuels",
+   "textbooks",
+   "économiser",
+   "save money",
+   "livres usagés",
+   "used books",
+   "librairie"
+  ],
+  "question": {
+   "fr": "Comment économiser sur mes manuels scolaires?",
+   "en": "How can I save money on textbooks?"
+  },
+  "answer": {
+   "fr": "Commence par la librairie du campus, où tu peux louer, acheter usagé ou commander en ligne. Demande la liste de lectures à tes professeurs à l’avance pour comparer les prix, et vérifie si le livre est à la réserve de la bibliothèque, en version numérique ou si une édition précédente suffit. Une fois le cours fini, revends tes livres.",
+   "en": "Start with the campus bookstore, where you can rent, buy used or order online. Ask your professors for the reading list ahead of time to compare prices, and check whether the book is on library reserve, available electronically, or if an older edition will do. Once the course is over, sell your books."
+  },
+  "sources": [
+   {
+    "label": "Financial planning",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/financial-planning"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-rabais-etudiants",
+  "category": "finances",
+  "keywords": [
+   "rabais étudiants",
+   "student discounts",
+   "carte étudiante",
+   "student card",
+   "économiser",
+   "save money",
+   "gym inclus"
+  ],
+  "question": {
+   "fr": "Quels rabais puis-je obtenir comme étudiant?",
+   "en": "What discounts can I get as a student?"
+  },
+  "answer": {
+   "fr": "Garde ta carte étudiante sur toi et demande toujours s’il y a un rabais. L’Université mentionne par exemple des billets étudiants au Centre national des Arts, des logiciels moins chers à la librairie, des billets peu coûteux pour les Gee-Gees, et l’accès gratuit aux expositions permanentes des musées nationaux le jeudi soir. Les centres sportifs du campus sont déjà inclus dans tes frais.",
+   "en": "Carry your student card and always ask about discounts. The University mentions, for example, student tickets at the National Arts Centre, cheaper software at the bookstore, low-cost Gee-Gees tickets, and free access to national museums’ permanent exhibitions on Thursday nights. Campus fitness facilities are already included in your fees."
+  },
+  "sources": [
+   {
+    "label": "Financial planning",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/financial-planning"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-fafsa-etapes",
+  "category": "finances",
+  "keywords": [
+   "fafsa",
+   "g06686",
+   "prêts américains",
+   "us loans",
+   "direct loan",
+   "mpn",
+   "entrance counselling"
+  ],
+  "question": {
+   "fr": "Je suis Américain : quelles étapes suivre pour un Direct Loan à uOttawa?",
+   "en": "I’m American: what are the steps for a Direct Loan at uOttawa?"
+  },
+  "answer": {
+   "fr": "Remplis la FAFSA avec le code fédéral de l’Université, G06686, puis signe un Master Promissory Note chaque année. Si c’est ton premier emprunt, fais aussi l’entrance counselling en ligne. Enfin, soumets le formulaire United States Financial Aid Request dans le portail Bourses en ligne; tu recevras ensuite une lettre d’approbation de prêt par courriel.",
+   "en": "Complete the FAFSA using the University’s federal code, G06686, then sign a Master Promissory Note every academic year. If you’re a first-time borrower, also complete online entrance counselling. Finally, submit the United States Financial Aid Request in the Online Scholarships and Bursaries portal; you’ll then get a loan approval letter by email."
+  },
+  "sources": [
+   {
+    "label": "US residents",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/us-residents"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-prets-us-cours-en-ligne",
+  "category": "finances",
+  "keywords": [
+   "prêts américains",
+   "us loans",
+   "cours en ligne",
+   "online courses",
+   "demi-temps",
+   "half-time",
+   "programmes non approuvés"
+  ],
+  "question": {
+   "fr": "Avec un prêt fédéral américain, puis-je suivre des cours en ligne ou étudier à temps partiel?",
+   "en": "With a U.S. federal loan, can I take online courses or study part time?"
+  },
+  "answer": {
+   "fr": "Non pour les cours en ligne : depuis la fin de l’assouplissement de la loi CARES en juin 2023, tu dois être dans un programme en personne. Au premier cycle, tu dois avoir au moins une demi-charge, soit 6 unités par trimestre; aux cycles supérieurs, le temps plein est obligatoire. Les sciences infirmières, la médecine et le JD double canado-américain ne sont pas approuvés, ni le statut d’étudiant libre.",
+   "en": "Not online courses: since the CARES Act flexibility ended in June 2023, you must be in an in-person program. Undergraduates must be at least half time, or 6 units per term; graduate students must be full time. Nursing, Medicine and the Canadian-American Dual JD aren’t approved, nor is non-degree status."
+  },
+  "sources": [
+   {
+    "label": "US residents",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/us-residents"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-prets-us-echange",
+  "category": "finances",
+  "keywords": [
+   "prêts américains",
+   "us loans",
+   "échange",
+   "exchange",
+   "études à l’étranger",
+   "study abroad",
+   "25 %"
+  ],
+  "question": {
+   "fr": "Je reçois des prêts américains : puis-je partir en échange?",
+   "en": "I receive U.S. loans: can I go on exchange?"
+  },
+  "answer": {
+   "fr": "Pendant un échange officiel de uOttawa, tu restes étudiant de uOttawa : tu paies tes droits à l’Université et tu gardes tes prêts, mais tu ne peux pas faire plus de 25 % de ton programme dans l’établissement d’accueil, stages compris. Dans un programme d’études à l’étranger, tu paies l’autre école et dois t’arranger avec elle. Parle au Service de l’aide financière et des bourses avant de partir.",
+   "en": "On an official uOttawa exchange, you remain a uOttawa student: you pay tuition to the University and keep your loans, but you can’t complete more than 25% of your program at the host institution, internships included. In a study abroad program, you pay the other school and arrange aid with it. Talk to Financial Aid and Awards before applying."
+  },
+  "sources": [
+   {
+    "label": "US residents",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/us-residents"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-prets-us-versements",
+  "category": "finances",
+  "keywords": [
+   "prêts américains",
+   "us loans",
+   "versement",
+   "disbursement",
+   "frais de prêt",
+   "loan fee",
+   "septembre janvier mai"
+  ],
+  "question": {
+   "fr": "Quand vais-je recevoir mes prêts américains?",
+   "en": "When will I receive my U.S. loans?"
+  },
+  "answer": {
+   "fr": "Une fois ton financement approuvé, le Département de l’Éducation des États-Unis envoie les fonds à l’Université, généralement en deux ou trois versements égaux, en septembre, en janvier et en mai s’il y a lieu. Des frais de prêt sont déduits de chaque versement, mais tu dois rembourser tout le montant emprunté.",
+   "en": "Once your funding is approved, the U.S. Department of Education sends the funds to the University, usually in two or three equal instalments, in September, January and May if applicable. A loan fee is deducted from each disbursement, but you must repay the full amount borrowed."
+  },
+  "sources": [
+   {
+    "label": "US residents",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/us-residents"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-prets-us-progres-satisfaisant",
+  "category": "finances",
+  "keywords": [
+   "progrès satisfaisant",
+   "satisfactory academic progress",
+   "sap",
+   "prêts américains",
+   "us loans",
+   "moyenne",
+   "67 %"
+  ],
+  "question": {
+   "fr": "Quelles notes dois-je garder pour conserver mes prêts américains?",
+   "en": "What grades do I need to keep my U.S. loans?"
+  },
+  "answer": {
+   "fr": "Tes progrès sont vérifiés à la fin de chaque année. Au premier cycle, il faut une moyenne cumulative d’au moins 4,0, soit 60 à 64 %, réussir au moins 67 % des crédits tentés, et finir ton diplôme en moins de 150 % de la durée prévue. Sinon, tu n’as pas droit aux Direct Loans l’année suivante.",
+   "en": "Your progress is reviewed at the end of each year. Undergraduates need a cumulative GPA of at least 4.0, or 60 to 64%, must complete at least 67% of credits attempted, and finish within 150% of the published program length. Otherwise, you aren’t eligible for Direct Loans the following year."
+  },
+  "sources": [
+   {
+    "label": "US residents",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/us-residents"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-prets-us-double-citoyen",
+  "category": "finances",
+  "keywords": [
+   "double citoyen",
+   "dual citizen",
+   "canado-américain",
+   "us canadian",
+   "prêts américains",
+   "us loans",
+   "prêts canadiens"
+  ],
+  "question": {
+   "fr": "J’ai les citoyennetés américaine et canadienne : puis-je avoir des prêts des deux pays?",
+   "en": "I’m a U.S. and Canadian citizen: can I get loans from both countries?"
+  },
+  "answer": {
+   "fr": "Non, tu ne peux pas recevoir en même temps des prêts fédéraux américains et des prêts canadiens. Tu dois comparer les programmes et choisir celui qui convient le mieux à tes besoins. L’Université ne gère pas non plus les fonds VA ni les bourses Pell.",
+   "en": "No, you can’t receive U.S. federal loans and Canadian loans at the same time. You need to compare the programs and choose the one that best fits your needs. The University also doesn’t administer VA funding or Pell Grants."
+  },
+  "sources": [
+   {
+    "label": "US residents",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/us-residents"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-remboursement-lettre-justification",
+  "category": "finances",
+  "keywords": [
+   "comité de remboursement",
+   "reimbursement committee",
+   "lettre de justification",
+   "justification letter",
+   "appel",
+   "appeal",
+   "annulation des droits"
+  ],
+  "question": {
+   "fr": "Que doit contenir ma lettre pour le comité de remboursement des comptes étudiants (CÉRCÉ)?",
+   "en": "What should my letter to the Student Account Reimbursement Committee include?"
+  },
+  "answer": {
+   "fr": "Reste factuel et suis l’ordre chronologique : ton nom, ton numéro d’étudiant et la date, les circonstances exceptionnelles, ce que tu demandes et le résultat souhaité. Précise si c’est ta première demande pour ces circonstances, et explique pourquoi tu n’as pas pu abandonner avant la date limite. Joins tes pièces, comme un certificat médical ou une lettre de non-présence de tes professeurs.",
+   "en": "Stick to the facts in chronological order: your name, student number and the date, the exceptional circumstances, what you’re requesting and the outcome you want. Say whether it’s your first request for these circumstances, and explain why you couldn’t drop before the deadline. Attach supporting documents, such as a medical certificate or a non-attendance letter from your professors."
+  },
+  "sources": [
+   {
+    "label": "Reimbursement Committee",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/reimbursement-committee"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-remboursement-motifs-refuses",
+  "category": "finances",
+  "keywords": [
+   "motifs refusés",
+   "reasons denied",
+   "difficultés financières",
+   "financial hardship",
+   "comité de remboursement",
+   "reimbursement committee",
+   "abandon tardif"
+  ],
+  "question": {
+   "fr": "Quelles raisons ne sont pas acceptées pour annuler mes droits après la date limite?",
+   "en": "Which reasons aren’t accepted for cancelling fees after the deadline?"
+  },
+  "answer": {
+   "fr": "Les demandes sont refusées si la raison est de ne pas avoir compris les dates limites, un échec probable, un abandon raté dans l’outil en ligne, des difficultés financières, un cours qui ne répond pas à tes attentes, ou ton emploi. Les circonstances acceptables sont graves, comme une maladie avec certificat médical ou le décès d’un proche avec certificat de décès.",
+   "en": "Requests are denied if the reason is not understanding the deadlines, a probable failing grade, a failed attempt to drop online, financial hardship, a course not meeting your expectations, or work commitments. Acceptable circumstances are serious, like illness with a medical certificate or a family death with a death certificate."
+  },
+  "sources": [
+   {
+    "label": "Reimbursement Committee",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/reimbursement-committee"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-remboursement-irrecevable",
+  "category": "finances",
+  "keywords": [
+   "irrecevable",
+   "inadmissible",
+   "examen final",
+   "final exam",
+   "note au relevé",
+   "grade on transcript",
+   "10 jours ouvrables"
+  ],
+  "question": {
+   "fr": "Quand ma demande au CÉRCÉ sera-t-elle jugée irrecevable?",
+   "en": "When is my Reimbursement Committee appeal considered inadmissible?"
+  },
+  "answer": {
+   "fr": "Elle est irrecevable si tu l’envoies plus de 10 jours ouvrables après la décision de ta faculté ou d’InfoService, sans raison valable, si tu as fait l’examen final du cours, ou si une note figure déjà à ton relevé pour ce cours. Tu dois aussi avoir d’abord reçu une décision négative de ta faculté ou d’InfoService.",
+   "en": "It’s inadmissible if you send it more than 10 working days after your faculty’s or InfoService’s decision without a valid reason, if you wrote the final exam for the course, or if a grade already appears on your transcript for it. You must also first have received a negative decision from your faculty or InfoService."
+  },
+  "sources": [
+   {
+    "label": "Reimbursement Committee",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/reimbursement-committee"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-remboursement-certificat-medical",
+  "category": "finances",
+  "keywords": [
+   "certificat médical",
+   "medical certificate",
+   "raisons de santé",
+   "health reasons",
+   "diagnostic",
+   "comité de remboursement",
+   "reimbursement"
+  ],
+  "question": {
+   "fr": "Que doit contenir mon certificat médical pour une demande de remboursement?",
+   "en": "What must my medical certificate include for a refund request?"
+  },
+  "answer": {
+   "fr": "Il doit indiquer ton nom, la période d’absence, la date de retour aux études, la date de la consultation, la signature du professionnel, et dire clairement que tu ne pouvais pas abandonner avant la date limite. Tu n’as pas à révéler ton diagnostic. Attention : si tu vas en classe pendant la période d’incapacité indiquée, tu ne peux plus faire appel pour raisons de santé.",
+   "en": "It must show your name, the period of absence, your return date, the consultation date and the professional’s signature, and clearly state that you couldn’t drop by the deadline. You don’t have to disclose your diagnosis. Note: if you attend class during the stated period of incapacity, you can no longer appeal on health grounds."
+  },
+  "sources": [
+   {
+    "label": "Reimbursement Committee",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/reimbursement-committee"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-remboursement-soumettre-delai",
+  "category": "finances",
+  "keywords": [
+   "soumettre appel",
+   "submit appeal",
+   "uozone",
+   "finances et emplois",
+   "délai",
+   "processing time",
+   "un mois"
+  ],
+  "question": {
+   "fr": "Comment soumettre un appel au CÉRCÉ, et en combien de temps aurai-je une réponse?",
+   "en": "How do I submit a Reimbursement Committee appeal, and how long does it take?"
+  },
+  "answer": {
+   "fr": "Dans uoZone, sous l’onglet Finances et emplois, choisis comité de remboursement des comptes étudiants (CÉRCÉ) et téléverse ta lettre et tes pièces. Tu reçois normalement un accusé de réception le jour même; sinon, renvoie ta demande après 24 heures. Le comité a un mois pour l’examiner et se réunit habituellement chaque mois; la décision arrive par courriel.",
+   "en": "In uoZone, under Finances and jobs, select Student Account Reimbursement Committee and upload your letter and documents. You normally get an automatic acknowledgment the same day; if not, resubmit after 24 hours. The committee has one month to review it and usually meets monthly; the decision comes by email."
+  },
+  "sources": [
+   {
+    "label": "Reimbursement Committee",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/reimbursement-committee"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-remboursement-revision-decision",
+  "category": "finances",
+  "keywords": [
+   "décision injuste",
+   "unfair decision",
+   "comité d’appel",
+   "appeals committee",
+   "ressources financières",
+   "financial resources",
+   "nouvelle information"
+  ],
+  "question": {
+   "fr": "Je trouve injuste la décision du CÉRCÉ : puis-je la contester?",
+   "en": "I think the Reimbursement Committee’s decision is unfair: can I challenge it?"
+  },
+  "answer": {
+   "fr": "Si tu as de nouvelles informations, soumets une nouvelle demande au comité, qui réexaminera ton dossier. Sinon, tu peux demander une révision au Comité d’appel des Ressources financières, par courriel, avec une nouvelle lettre, ta demande initiale et ses pièces, et la réponse du comité. Ta demande est évaluée dans les 10 jours ouvrables.",
+   "en": "If you have new information, submit a new request to the committee, which will re-examine your file. Otherwise, you can ask the Financial Resources Appeal Committee for a review by email, with a new letter, your original request and documents, and the committee’s response. It’s assessed within 10 working days."
+  },
+  "sources": [
+   {
+    "label": "Reimbursement Committee",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/reimbursement-committee"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-agence-recouvrement-calendrier",
+  "category": "finances",
+  "keywords": [
+   "agence de recouvrement",
+   "collection agency",
+   "compte en souffrance",
+   "overdue account",
+   "cote de crédit",
+   "credit rating",
+   "dette"
+  ],
+  "question": {
+   "fr": "Quand un compte en souffrance est-il envoyé à une agence de recouvrement?",
+   "en": "When is an overdue account sent to a collection agency?"
+  },
+  "answer": {
+   "fr": "Quel que soit ton dernier trimestre d’inscription, automne, hiver ou été, le dossier est transféré au trimestre d’automne suivant. L’Université t’écrit d’abord par courriel, alors garde tes coordonnées à jour. Ensuite, réponds vite à l’agence pour conclure une entente de paiement, car cela peut nuire à ta cote de crédit.",
+   "en": "Whatever your last registered term, fall, winter or summer, the file is transferred the following fall term. The University emails you first, so keep your contact information up to date. Then answer the agency promptly to reach a payment agreement, because it can affect your credit rating."
+  },
+  "sources": [
+   {
+    "label": "Overdue accounts",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/overdue"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-dette-faillite-documents",
+  "category": "finances",
+  "keywords": [
+   "faillite",
+   "bankruptcy",
+   "proposition de consommateur",
+   "consumer proposal",
+   "dette",
+   "debt",
+   "documents officiels"
+  ],
+  "question": {
+   "fr": "J’ai fait faillite : puis-je obtenir mon diplôme si je dois encore de l’argent à l’Université?",
+   "en": "I declared bankruptcy: can I get my diploma if I still owe the University?"
+  },
+  "answer": {
+   "fr": "Non : selon les règlements B-7 et C-9.4, un étudiant qui doit de l’argent à l’Université ne peut obtenir aucun document officiel, comme un relevé ou un diplôme, même après une faillite ou une proposition de consommateur. Tu peux quand même assister à la collation des grades. Pour en parler, contacte les Ressources financières au pavillon Tabaret.",
+   "en": "No: under regulations B-7 and C-9.4, a student who owes the University can’t obtain any official document, like a transcript or diploma, even after bankruptcy or a consumer proposal. You can still attend convocation. To discuss it, contact Financial Resources in Tabaret Hall."
+  },
+  "sources": [
+   {
+    "label": "Overdue accounts",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/overdue"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-langue-pas-citoyennete",
+  "category": "international",
+  "keywords": [
+   "exigences linguistiques",
+   "language requirements",
+   "citoyenneté",
+   "citizenship",
+   "pays d’études",
+   "country of study",
+   "langue d’enseignement"
+  ],
+  "question": {
+   "fr": "Je suis citoyen d’un pays anglophone : suis-je automatiquement exempté du test d’anglais?",
+   "en": "I’m a citizen of an English-speaking country: am I automatically exempt from the English test?"
+  },
+  "answer": {
+   "fr": "Non : les exigences linguistiques ne dépendent pas de ta citoyenneté, mais du pays où tu as étudié et de la langue d’enseignement de ton établissement. Pour être exempté, il faut au moins trois ans d’études à temps plein dans un pays où la langue est officielle, dans un établissement où c’est la seule langue d’enseignement. Ces trois ans peuvent être tes 10e, 11e et 12e années.",
+   "en": "No: language requirements aren’t based on citizenship, but on your country of study and the language of instruction at your school. To be exempt, you need at least three years of full-time study in a country where the language is official, at an institution where it’s the only language of instruction. Those three years can be Grades 10, 11 and 12."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-pays-exemption-anglais",
+  "category": "international",
+  "keywords": [
+   "exemption anglais",
+   "english exemption",
+   "pays anglophones",
+   "english-speaking countries",
+   "nigeria",
+   "ghana",
+   "inde"
+  ],
+  "question": {
+   "fr": "Mon pays fait-il partie de ceux qui permettent une exemption du test d’anglais?",
+   "en": "Is my country one that allows an English test exemption?"
+  },
+  "answer": {
+   "fr": "La liste comprend notamment les États-Unis, le Royaume-Uni, l’Irlande, l’Australie, la Nouvelle-Zélande, le Nigeria, le Ghana, le Kenya, l’Afrique du Sud, Singapour, Hong Kong, les Philippines, le Pakistan, la Jamaïque et le Cameroun, système anglophone seulement. Il faut trois ans d’études à temps plein dans un établissement où l’anglais est la seule langue d’enseignement. L’Inde n’y figure pas, mais un résultat de 75 % en anglais de 12e année CBSE ou CISCE peut donner une exemption.",
+   "en": "The list includes, among others, the United States, the United Kingdom, Ireland, Australia, New Zealand, Nigeria, Ghana, Kenya, South Africa, Singapore, Hong Kong, the Philippines, Pakistan, Jamaica and Cameroon, English system only. You need three years of full-time study at an institution where English is the only language of instruction. India isn’t on the list, but 75% in CBSE or CISCE Grade 12 English can qualify you for an exemption."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-pays-exemption-francais",
+  "category": "international",
+  "keywords": [
+   "exemption français",
+   "french exemption",
+   "pays francophones",
+   "french-speaking countries",
+   "sénégal",
+   "maroc",
+   "cameroun"
+  ],
+  "question": {
+   "fr": "Mon pays permet-il une exemption du test de français?",
+   "en": "Does my country allow a French test exemption?"
+  },
+  "answer": {
+   "fr": "La liste comprend notamment la France, la Belgique, la Suisse, le Luxembourg, Monaco, Haïti, le Sénégal, la Côte d’Ivoire, le Mali, le Bénin, le Burkina Faso, la Tunisie, l’Algérie, Madagascar et le Cameroun, système francophone seulement. Il faut trois ans d’études à temps plein dans un établissement où le français est la seule langue d’enseignement. Le Maroc n’est pas dans la liste; en cas de doute, contacte les admissions.",
+   "en": "The list includes, among others, France, Belgium, Switzerland, Luxembourg, Monaco, Haiti, Senegal, Ivory Coast, Mali, Benin, Burkina Faso, Tunisia, Algeria, Madagascar and Cameroon, French system only. You need three years of full-time study at an institution where French is the only language of instruction. Morocco isn’t on the list; if you’re unsure, contact admissions."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-pays-annee-universite-requise",
+  "category": "international",
+  "keywords": [
+   "myanmar",
+   "turkménistan",
+   "turkmenistan",
+   "pérou",
+   "peru",
+   "philippines",
+   "première année université"
+  ],
+  "question": {
+   "fr": "Mon diplôme secondaire suffit-il pour entrer au baccalauréat si je viens du Myanmar, du Pérou ou des Philippines?",
+   "en": "Is my high school diploma enough for a bachelor’s if I’m from Myanmar, Peru or the Philippines?"
+  },
+  "answer": {
+   "fr": "Pas toujours. Pour le Myanmar et le Turkménistan, il faut avoir terminé une première année dans une université reconnue. Pour le Pérou, il faut le Bachillerato Académico avec un excellent dossier, sinon une première année universitaire. Pour les Philippines, le diplôme Senior High School suffit, mais si tu l’as obtenu en 2017-2018 ou avant, il faut deux ans d’études universitaires.",
+   "en": "Not always. For Myanmar and Turkmenistan, you need to have completed a first year at a recognized university. For Peru, you need the Bachillerato Académico with high academic standing, otherwise a first year of university. For the Philippines, the Senior High School Diploma is enough, but if you finished it in 2017–2018 or earlier, you need two years of university study."
+  },
+  "sources": [
+   {
+    "label": "International applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-releves-retard-moyen-orient",
+  "category": "international",
+  "keywords": [
+   "moyen-orient",
+   "middle east",
+   "examens retardés",
+   "delayed exams",
+   "relevé non officiel",
+   "unofficial transcript",
+   "déclaration sous serment"
+  ],
+  "question": {
+   "fr": "Mes examens officiels sont retardés à cause de la situation dans mon pays : que fait l’Université?",
+   "en": "My official exams are delayed because of the situation in my country: what does the University do?"
+  },
+  "answer": {
+   "fr": "L’Université sait que certains examens au Moyen-Orient peuvent être retardés, mais elle ne peut pas reporter les offres conditionnelles : envoie tes résultats finaux dès que tu les as. Dans des circonstances exceptionnelles documentées, un relevé non officiel accompagné d’une déclaration sous serment peut être accepté. Par contre, les crédits de transfert exigent des documents officiels.",
+   "en": "The University knows some official exams in the Middle East may be delayed, but it can’t defer conditional offers: submit your final results as soon as they’re available. In documented extenuating circumstances, unofficial transcripts with a sworn affidavit may be accepted. However, transfer credits require official documents."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-maitrise-doctorat-sans-pal",
+  "category": "international",
+  "keywords": [
+   "maîtrise",
+   "master’s",
+   "doctorat",
+   "phd",
+   "lettre d’attestation provinciale",
+   "pal",
+   "dépôt d’admission"
+  ],
+  "question": {
+   "fr": "Je suis admis à la maîtrise ou au doctorat : ai-je besoin d’une lettre d’attestation provinciale?",
+   "en": "I’m admitted to a master’s or PhD: do I need a provincial attestation letter?"
+  },
+  "answer": {
+   "fr": "Non : les demandes de permis d’études pour la maîtrise ou le doctorat soumises depuis le 1er janvier 2026 n’exigent pas de lettre d’attestation provinciale. Les étudiants internationaux à la maîtrise et au doctorat n’ont pas non plus de dépôt d’admission à payer, sauf si leur programme en exige un. Fais ta demande de permis dès que tu as ta lettre d’admission.",
+   "en": "No: study permit applications for master’s or PhD programs submitted since January 1, 2026 don’t require a provincial attestation letter. International master’s and doctoral students also don’t pay an admission deposit, unless their program requires one. Apply for your permit as soon as you have your letter of admission."
+  },
+  "sources": [
+   {
+    "label": "International students checklist",
+    "url": "https://www.uottawa.ca/study/new-students/international-students-checklist"
+   },
+   {
+    "label": "Apply for your study permit from outside Canada",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-documents-bureau-visas",
+  "category": "international",
+  "keywords": [
+   "bureau des visas",
+   "visa office",
+   "documents supplémentaires",
+   "additional documents",
+   "permis d’études",
+   "study permit",
+   "client information"
+  ],
+  "question": {
+   "fr": "Y a-t-il des documents propres à mon pays pour ma demande de permis d’études?",
+   "en": "Are there country-specific documents for my study permit application?"
+  },
+  "answer": {
+   "fr": "Oui, en plus de la liste personnelle générée par IRCC, le bureau des visas de ton pays peut exiger d’autres documents. Sur la page d’IRCC pour les demandes papier, choisis ton pays, clique sur Obtenir les documents, puis sur les instructions du bureau des visas. Téléverse ces documents dans la section Client Information de ta liste.",
+   "en": "Yes, besides the personal checklist generated by IRCC, your country’s visa office may require more documents. On IRCC’s paper applications page, select your country, click Get documents, then Visa office instructions. Upload those documents in the Client Information section of your checklist."
+  },
+  "sources": [
+   {
+    "label": "Apply for your study permit from outside Canada",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-permis-refus-nouvelle-demande",
+  "category": "international",
+  "keywords": [
+   "permis refusé",
+   "permit refused",
+   "nouvelle demande",
+   "reapply",
+   "lettre d’explication",
+   "letter of explanation",
+   "nouvelle pal"
+  ],
+  "question": {
+   "fr": "Mon permis d’études a été refusé : comment présenter une nouvelle demande?",
+   "en": "My study permit was refused: how do I reapply?"
+  },
+  "answer": {
+   "fr": "Lis attentivement les raisons du refus d’IRCC. Si tu peux y répondre, prépare une nouvelle lettre d’explication et un plan d’études qui abordent ces raisons, tes objectifs, tes liens avec ton pays et tes projets. Si une lettre d’attestation provinciale est requise, demandes-en une nouvelle aux admissions par courriel avec la preuve du refus.",
+   "en": "Read IRCC’s reasons for refusal carefully. If you can address them, prepare a new letter of explanation and study plan covering those reasons, your goals, your ties to your home country and your plans. If a provincial attestation letter is required, request a new one from admissions by email with proof of the refusal."
+  },
+  "sources": [
+   {
+    "label": "Apply for your study permit from outside Canada",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-permis-refus-depot",
+  "category": "international",
+  "keywords": [
+   "dépôt remboursé",
+   "deposit refund",
+   "permis refusé",
+   "permit refused",
+   "abandon cours",
+   "drop courses",
+   "preuve de refus"
+  ],
+  "question": {
+   "fr": "Si mon permis est refusé, est-ce que je récupère mon dépôt d’admission?",
+   "en": "If my permit is refused, do I get my admission deposit back?"
+  },
+  "answer": {
+   "fr": "Oui, c’est la seule exception : le dépôt est remboursable si IRCC refuse ta demande de permis. Tu dois fournir la preuve du refus et demander le remboursement au plus tard le dernier jour pour s’inscrire au trimestre où tu devais commencer. Si tu es déjà inscrit, abandonne tes cours avant la date limite avec crédit financier.",
+   "en": "Yes, it’s the only exception: the deposit is refundable if IRCC refuses your permit application. You must provide proof of refusal and request the refund by the last day to enrol for the term you were supposed to start. If you’re already enrolled, drop your courses before the financial credit deadline."
+  },
+  "sources": [
+   {
+    "label": "Apply for your study permit from outside Canada",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-ramu-qui-contacter",
+  "category": "international",
+  "keywords": [
+   "ramu",
+   "uhip",
+   "cowan",
+   "qui contacter",
+   "who to contact",
+   "réclamation",
+   "claim"
+  ],
+  "question": {
+   "fr": "Pour une question sur le RAMU, dois-je contacter Cowan ou l’Université?",
+   "en": "For a UHIP question, do I contact Cowan or the University?"
+  },
+  "answer": {
+   "fr": "Contacte Cowan, l’assureur, pour une réclamation, une question sur la couverture, l’inscription au portail, l’accès à ta carte ou une lettre confirmant ta couverture. Contacte l’équipe RAMU de l’Université, à InfoService, pour modifier tes renseignements personnels, ajouter ou retirer des personnes à charge, les primes, ou prolonger ou annuler ta couverture. En cas d’hospitalisation, tu peux joindre les deux.",
+   "en": "Contact Cowan, the insurer, for claims, coverage questions, portal registration, card access or a letter confirming your coverage. Contact the University’s UHIP team at InfoService to update personal information, add or remove dependants, ask about premiums, or extend or cancel coverage. If you or a dependant is hospitalized, you can reach either."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP)",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-ramu-admissibilite",
+  "category": "international",
+  "keywords": [
+   "ramu",
+   "uhip",
+   "admissibilité",
+   "eligibility",
+   "cours de langue",
+   "language courses",
+   "obligatoire"
+  ],
+  "question": {
+   "fr": "Qui doit avoir le RAMU?",
+   "en": "Who has to have UHIP?"
+  },
+  "answer": {
+   "fr": "Le RAMU est obligatoire pour les étudiants internationaux et en échange et leurs personnes à charge, sauf s’ils ont déjà un régime provincial ou territorial canadien, ou une autre assurance approuvée pour une exemption. Il couvre aussi les étudiants libres inscrits aux cours de langue de l’Institut des langues officielles et du bilinguisme et les visiteurs de courte durée.",
+   "en": "UHIP is mandatory for international and exchange students and their dependants, unless they already have a Canadian provincial or territorial plan, or another plan approved for an exemption. It also covers non-degree students in language courses at the Official Languages and Bilingualism Institute and short-term visitors."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP)",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-ramu-periodes-inscription",
+  "category": "international",
+  "keywords": [
+   "ramu",
+   "uhip",
+   "période de couverture",
+   "coverage period",
+   "inscription automatique",
+   "automatic enrolment",
+   "relevé de compte"
+  ],
+  "question": {
+   "fr": "Comment savoir si je suis bien inscrit au RAMU, et pour quelle période?",
+   "en": "How do I know I’m enrolled in UHIP, and for what period?"
+  },
+  "answer": {
+   "fr": "Tu es inscrit automatiquement chaque année dès que tu es inscrit à au moins un cours. La couverture suit l’année universitaire, du 1er septembre au 31 août, pour l’année, deux trimestres ou un seul selon ton début. Vérifie ton relevé de compte environ un mois avant les cours; si les frais n’y sont pas au début de tes études, écris à l’équipe RAMU d’InfoService.",
+   "en": "You’re enrolled automatically every year once you’re enrolled in at least one course. Coverage follows the academic year, September 1 to August 31, for the full year, two terms or one term depending on when you start. Check your statement of account about a month before classes; if the fee isn’t there when you start, email InfoService’s UHIP team."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP)",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-deux-assurances-sante",
+  "category": "international",
+  "keywords": [
+   "assurance santé",
+   "health insurance",
+   "ramu",
+   "uhip",
+   "assurance complémentaire",
+   "supplemental insurance",
+   "dentaire"
+  ],
+  "question": {
+   "fr": "Comme étudiant international, combien d’assurances santé dois-je avoir?",
+   "en": "As an international student, how many health insurance plans do I need?"
+  },
+  "answer": {
+   "fr": "Deux : le RAMU, pour les soins essentiels comme les visites chez le médecin, l’hôpital, les chirurgies et les tests, et l’assurance santé et dentaire complémentaire, pour les médicaments, les soins dentaires, l’optométrie, certains spécialistes et l’assurance voyage. Au premier cycle, la seconde est gérée par le SÉUO et ajoutée automatiquement si tu es à temps plein; aux cycles supérieurs, elle est gérée par la GSAÉD.",
+   "en": "Two: UHIP, for essential care like doctor visits, hospital, surgeries and tests, and supplemental health and dental insurance, for prescriptions, dental care, optometry, some specialists and travel insurance. For undergraduates, the second is managed by the UOSU and added automatically if you’re full time; for graduate students, it’s managed by the GSAÉD."
+  },
+  "sources": [
+   {
+    "label": "International students checklist",
+    "url": "https://www.uottawa.ca/study/new-students/international-students-checklist"
+   },
+   {
+    "label": "University Health Insurance Plan (UHIP)",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-vice-rectorat-international",
+  "category": "international",
+  "keywords": [
+   "vice-recteur international",
+   "vice-provost international",
+   "partenariats",
+   "partnerships",
+   "mobilité",
+   "mobility",
+   "international"
+  ],
+  "question": {
+   "fr": "Qui s’occupe des activités internationales à l’Université?",
+   "en": "Who is in charge of international activities at the University?"
+  },
+  "answer": {
+   "fr": "Le vice-provost, International, et son équipe planifient et coordonnent les initiatives mondiales de l’Université : partenariats stratégiques, mobilité des étudiants et des professeurs, et soutien aux étudiants internationaux. L’équipe conseille aussi sur les ententes internationales et coordonne les visites officielles de délégations.",
+   "en": "The Vice-Provost, International and their team plan and coordinate the University’s global initiatives: strategic partnerships, student and faculty mobility, and support for international students. The team also advises on international agreements and coordinates official visits by delegations."
+  },
+  "sources": [
+   {
+    "label": "International (About us)",
+    "url": "https://www.uottawa.ca/about-us/international"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-international-portrait",
+  "category": "international",
+  "keywords": [
+   "étudiants internationaux",
+   "international students",
+   "pays",
+   "countries",
+   "classement",
+   "ranking",
+   "u15"
+  ],
+  "question": {
+   "fr": "D’où viennent les étudiants internationaux de uOttawa?",
+   "en": "Where do uOttawa’s international students come from?"
+  },
+  "answer": {
+   "fr": "Des étudiants de plus de 145 pays choisissent uOttawa pour la qualité de l’enseignement, ses droits de scolarité plus bas et sa situation au cœur de la capitale. L’Université, membre du U15 et de l’Alliance U7+, offre environ 550 programmes de premier cycle et des cycles supérieurs, et se classe 187e au classement mondial Times Higher Education 2026.",
+   "en": "Students from more than 145 countries choose uOttawa for its quality of education, lower tuition and location in the heart of the capital. A member of the U15 and the U7+ Alliance, the University offers about 550 undergraduate and graduate programs and ranks 187th in the Times Higher Education World University Rankings 2026."
+  },
+  "sources": [
+   {
+    "label": "Services for international students",
+    "url": "https://www.uottawa.ca/study/international-students"
+   },
+   {
+    "label": "International (About us)",
+    "url": "https://www.uottawa.ca/about-us/international"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-previsibilite-droits-internationaux",
+  "category": "finances",
+  "keywords": [
+   "prévisibilité",
+   "predictability",
+   "hausse droits",
+   "tuition increase",
+   "étudiant international",
+   "international student",
+   "7 %"
+  ],
+  "question": {
+   "fr": "Comme étudiant international, de combien mes droits peuvent-ils augmenter chaque année?",
+   "en": "As an international student, how much can my tuition go up each year?"
+  },
+  "answer": {
+   "fr": "Grâce à l’engagement de prévisibilité, la hausse est limitée à 7 % par année si tu as été admis à l’automne 2022 ou après, et à 5,5 % si tu as été admis au printemps-été 2022 ou avant. Il faut rester inscrit à temps plein et progresser normalement dans ton programme. Les nouveaux frais imposés par l’Ontario, les frais accessoires, afférents et administratifs ne sont pas visés.",
+   "en": "Under the tuition predictability commitment, increases are capped at 7% a year if you were admitted in Fall 2022 or later, and 5.5% if admitted in Spring-Summer 2022 or earlier. You must stay enrolled full time and progress normally in your program. New Ontario government fees, ancillary, incidental and administrative fees aren’t covered."
+  },
+  "sources": [
+   {
+    "label": "Tuition fees - International students",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/tuition-international"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-droits-internationaux-2026-2027",
+  "category": "finances",
+  "keywords": [
+   "droits internationaux",
+   "international tuition",
+   "2026-2027",
+   "inchangés",
+   "unchanged",
+   "hausse",
+   "increase"
+  ],
+  "question": {
+   "fr": "Les droits de scolarité internationaux augmentent-ils en 2026-2027?",
+   "en": "Is international tuition going up in 2026-2027?"
+  },
+  "answer": {
+   "fr": "Non : pour 2026-2027, les droits des étudiants internationaux au premier cycle, en première année comme aux années suivantes, sont inchangés par rapport à 2025-2026, et ceux de la maîtrise et du doctorat aussi. Le total officiel de tes frais apparaît dans ton relevé de compte environ un mois avant chaque trimestre. Vérifie la page des droits internationaux pour les années suivantes.",
+   "en": "No: for 2026-2027, international undergraduate tuition, for first year and returning students alike, is unchanged from 2025-2026, and master’s and doctoral tuition is unchanged too. The official total appears on your statement of account about a month before each term. Check the international tuition page for later years."
+  },
+  "sources": [
+   {
+    "label": "Tuition fees - International students",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/tuition-international"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zc-bourse-doctorale-internationale",
+  "category": "finances",
+  "keywords": [
+   "bourse doctorale internationale",
+   "international doctoral scholarship",
+   "doctorat",
+   "phd",
+   "45 000",
+   "étudiant international",
+   "international student"
+  ],
+  "question": {
+   "fr": "Y a-t-il une bourse pour les doctorants internationaux?",
+   "en": "Is there a scholarship for international PhD students?"
+  },
+  "answer": {
+   "fr": "Oui, la bourse internationale de doctorat (International Doctoral Scholarship) vaut 45 000 $ sur cinq ans. Les conditions ont changé pour les étudiants qui ont commencé un doctorat à partir de mai 2023. Si tu as commencé avant mai 2023 et reçu cette bourse, tu paies des droits équivalents à ceux des Canadiens de l’extérieur de l’Ontario pendant au plus cinq ans.",
+   "en": "Yes, the International Doctoral Scholarship is worth $45,000 over five years. Conditions changed for students who began a PhD in May 2023 or later. If you started before May 2023 and received it, your tuition is equivalent to that of Canadians from outside Ontario for up to five years."
+  },
+  "sources": [
+   {
+    "label": "Tuition fees - International students",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/tuition-international"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-frais-recherche-temps-partiel",
+  "category": "finances",
+  "keywords": [
+   "frais de recherche",
+   "research fee",
+   "temps partiel",
+   "part-time",
+   "cycles supérieurs",
+   "graduate",
+   "thèse"
+  ],
+  "question": {
+   "fr": "Qu’est-ce que les frais de recherche pour les étudiants des cycles supérieurs à temps partiel?",
+   "en": "What is the research fee for part-time graduate students?"
+  },
+  "answer": {
+   "fr": "C’est un droit de scolarité forfaitaire facturé chaque trimestre où tu es inscrit à temps partiel à des activités de recherche, à la maîtrise ou au doctorat; le montant dépend de ton statut au Canada. Pendant ces trimestres, tu ne peux pas t’inscrire à des cours, et tu paies aussi les frais accessoires.",
+   "en": "It’s a flat tuition fee charged each term you’re enrolled part time in research activities, at the master’s or doctoral level; the amount depends on your status in Canada. During those terms, you can’t enrol in courses, and you also pay ancillary fees."
+  },
+  "sources": [
+   {
+    "label": "Tuition fees - International students",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/tuition-international"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-telfer-test-langue-supplementaire",
+  "category": "admissions",
+  "keywords": [
+   "telfer",
+   "test de langue",
+   "language test",
+   "cours de langue",
+   "language courses",
+   "cours au choix",
+   "esl"
+  ],
+  "question": {
+   "fr": "Telfer peut-il me demander un autre test de langue même si j’ai le résultat exigé?",
+   "en": "Can Telfer ask me for another language test even if I have the required score?"
+  },
+  "answer": {
+   "fr": "Oui, l’École de gestion Telfer se réserve ce droit, même si tu as obtenu le résultat requis ou une exemption. Si le résultat montre une connaissance insuffisante d’une des deux langues officielles, tu pourrais devoir suivre des cours de langue supplémentaires, qui comptent alors comme cours au choix dans ton programme.",
+   "en": "Yes, the Telfer School of Management reserves that right, even if you achieved the required score or got an exemption. If the results show unsatisfactory knowledge of one of the official languages, you may have to take extra language courses, which count as electives in your program."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-programmes-sans-credits-transfert",
+  "category": "admissions",
+  "keywords": [
+   "crédits de transfert",
+   "transfer credits",
+   "programmes combinés",
+   "combined programs",
+   "juris doctor",
+   "programme accéléré",
+   "fast-track"
+  ],
+  "question": {
+   "fr": "Certains programmes refusent-ils les crédits de transfert?",
+   "en": "Do some programs not accept transfer credits?"
+  },
+  "answer": {
+   "fr": "Oui : les programmes combinés science politique et Juris Doctor, commerce et Juris Doctor, et sciences des aliments avec la maîtrise en nutrition n’accordent pas de crédits de transfert. Les crédits sont aussi limités dans les programmes accélérés, multidisciplinaires ou bidisciplinaires, ceux avec certification professionnelle, et par exemple en sciences infirmières et en nutrition et diététique.",
+   "en": "Yes: the combined Political Science and Juris Doctor, Commerce and Juris Doctor, and Food Sciences with the MSc in Nutrition programs don’t grant transfer credits. Credits are also limited in dual fast-track, multidisciplinary or bidisciplinary programs, programs with professional certification, and for example in Nursing and Nutrition and Dietetics."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-cours-tremplin-credits",
+  "category": "admissions",
+  "keywords": [
+   "tremplin",
+   "head start",
+   "cours universitaires secondaire",
+   "university courses high school",
+   "crédits",
+   "credits",
+   "diplôme"
+  ],
+  "question": {
+   "fr": "J’ai suivi des cours du programme Tremplin de uOttawa au secondaire : comptent-ils pour mon diplôme?",
+   "en": "I took uOttawa Head Start courses in high school: do they count toward my degree?"
+  },
+  "answer": {
+   "fr": "Oui : les cours universitaires réussis dans le cadre du programme Tremplin de l’Université d’Ottawa peuvent compter pour ton diplôme. En dehors des programmes avancés reconnus, comme l’AP, l’IB ou le GCE, l’Université n’accorde normalement pas de crédits pour des cours du secondaire.",
+   "en": "Yes: university courses completed through the University of Ottawa Head Start program can count toward your degree. Apart from recognized advanced programs like AP, IB or GCE, the University doesn’t normally grant transfer credits for high school courses."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ }
+]

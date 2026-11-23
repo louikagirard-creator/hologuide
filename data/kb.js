@@ -113993,5 +113993,17369 @@ export const KB = [
   ],
   "verifiedOn": "2026-11-16",
   "status": "official"
+ },
+ {
+  "id": "za-acces-morisset",
+  "category": "batiments",
+  "keywords": [
+   "morisset accessible",
+   "entrée accessible morisset",
+   "fauteuil roulant morisset",
+   "mrt accessible entrance",
+   "wheelchair morisset",
+   "para transpo morisset"
+  ],
+  "question": {
+   "fr": "Comment entrer dans le pavillon Morisset en fauteuil roulant ?",
+   "en": "How do I get into Morisset Hall in a wheelchair?"
+  },
+  "answer": {
+   "fr": "L'entrée extérieure accessible du pavillon Morisset (MRT) est formée des portes du côté est, au 1er étage. Tu peux aussi y entrer de l'intérieur depuis le Centre universitaire (UCU), par le rez-de-chaussée ou le 2e étage, ou depuis le 3e étage du pavillon Pérez. Les points Para Transpo les plus proches sont le 10, devant l'aile nord du UCU, et le 8, devant le côté nord du 90 Université.",
+   "en": "The accessible exterior entrance to Morisset Hall (MRT) is the set of doors on the east side, on the 1st floor. You can also get in from inside the University Centre (UCU), through the ground floor or the 2nd floor, or from the 3rd floor of Pérez Hall. The closest Para Transpo points are number 10, in front of the north arm of UCU, and number 8, in front of the north side of 90 University."
+  },
+  "sources": [
+   {
+    "label": "Morisset Hall (MRT) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/morisset-hall-mrt"
+   }
+  ],
+  "related": [
+   "za-acces-ucu",
+   "za-acces-fauteux",
+   "za-monte-escalier-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-ucu",
+  "category": "batiments",
+  "keywords": [
+   "ucu accessible",
+   "entrée accessible centre universitaire",
+   "fauteuil roulant ucu",
+   "university centre accessible entrance",
+   "wheelchair ucu",
+   "para transpo ucu"
+  ],
+  "question": {
+   "fr": "Où est l'entrée accessible du Centre universitaire (UCU) ?",
+   "en": "Where is the accessible entrance to the University Centre (UCU)?"
+  },
+  "answer": {
+   "fr": "Au Centre universitaire Jock-Turcot, tu peux entrer au 1er étage par la rampe entre Morisset et le UCU, puis les portes du côté nord. Il y a aussi une rampe dans l'espace vert près de la rue Copernicus, qui mène aux portes du rez-de-chaussée côté est. Le point Para Transpo 10 est sur la privée University, devant l'aile nord du UCU.",
+   "en": "At Jock Turcot University Centre, you can enter the 1st floor using the ramp between Morisset and UCU and then the doors on the north side. There's also a ramp in the green space off Copernicus Street leading to the ground-floor doors on the east side. Para Transpo point 10 is on University Private, in front of the north arm of UCU."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-fauteux",
+   "za-monte-escalier-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-fauteux",
+  "category": "batiments",
+  "keywords": [
+   "fauteux accessible",
+   "entrée accessible fauteux",
+   "ftx wheelchair",
+   "faculté de droit accessible",
+   "law building accessible entrance",
+   "para transpo fauteux"
+  ],
+  "question": {
+   "fr": "Comment entrer dans le pavillon Fauteux (droit) en fauteuil roulant ?",
+   "en": "How do I get into Fauteux Hall (Law) in a wheelchair?"
+  },
+  "answer": {
+   "fr": "Le pavillon Fauteux a deux entrées accessibles : la rampe à côté des marches de béton sur la rue Copernicus, côté ouest, et la rampe derrière la résidence Leblanc, côté nord. Tu peux aussi y entrer de l'intérieur depuis le complexe Brooks, la résidence Leblanc ou la résidence Thompson. Le point Para Transpo 9 est sur la privée Louis-Pasteur, juste devant le pavillon.",
+   "en": "Fauteux Hall has two accessible entrances: the ramp next to the concrete steps off Copernicus Street on the west side, and the ramp behind Leblanc Residence on the north side. You can also get in from inside the Brooks complex, Leblanc Residence or Thompson Residence. Para Transpo point 9 is on Louis-Pasteur Private, right in front of the building."
+  },
+  "sources": [
+   {
+    "label": "Fauteux Hall (FTX) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/fauteux-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-monte-escalier-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-monte-escalier-fauteux",
+  "category": "batiments",
+  "keywords": [
+   "monte-escalier fauteux",
+   "chair lift fauteux",
+   "fauteux 1er étage accessible",
+   "ftx chair lift",
+   "law building lift",
+   "plateforme élévatrice"
+  ],
+  "question": {
+   "fr": "Comment utiliser le monte-escalier au 1er étage du pavillon Fauteux ?",
+   "en": "How do I use the chair lift on the 1st floor of Fauteux Hall?"
+  },
+  "answer": {
+   "fr": "Au 1er étage du pavillon Fauteux, un monte-escalier relie les corridors 100C et 100E. Si tu n'as pas de clé, communique avec le Centre étudiant au 613-562-5800, poste 7158, du lundi au vendredi de 9 h à 12 h et de 13 h à 16 h 30, pour obtenir de l'aide.",
+   "en": "On the 1st floor of Fauteux Hall, a chair lift connects corridors 100C and 100E. If you don't have a key, contact the Student Centre at 613-562-5800, extension 7158, Monday to Friday from 9 a.m. to noon and 1 p.m. to 4:30 p.m., for help."
+  },
+  "sources": [
+   {
+    "label": "Fauteux Hall (FTX) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/fauteux-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-lamoureux",
+  "category": "batiments",
+  "keywords": [
+   "lamoureux accessible",
+   "entrée accessible lmx",
+   "fauteuil roulant lamoureux",
+   "lamoureux wheelchair entrance",
+   "lmx accessible",
+   "para transpo lamoureux"
+  ],
+  "question": {
+   "fr": "Où est l'entrée accessible du pavillon Lamoureux (LMX) ?",
+   "en": "Where is the accessible entrance to Lamoureux Hall (LMX)?"
+  },
+  "answer": {
+   "fr": "Tu peux entrer dans le pavillon Lamoureux par la rampe à côté des marches de béton, du côté ouest, ou par la porte du côté nord. De l'intérieur, il est relié au CRX, au 2e étage du pavillon Vanier et au 2e étage du pavillon Montpetit. Le point Para Transpo 6 est sur la privée University, entre Lamoureux et le Square University.",
+   "en": "You can enter Lamoureux Hall using the ramp next to the concrete steps on the west side, or through the door on the north side. Indoors, it connects to CRX, to the 2nd floor of Vanier Hall and to the 2nd floor of Montpetit Hall. Para Transpo point 6 is on University Private, between Lamoureux and University Square."
+  },
+  "sources": [
+   {
+    "label": "Lamoureux Hall (LMX) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-montpetit",
+  "category": "batiments",
+  "keywords": [
+   "montpetit accessible",
+   "entrée accessible montpetit",
+   "mnt wheelchair",
+   "gym accessible entrance",
+   "fauteuil roulant gym",
+   "para transpo montpetit"
+  ],
+  "question": {
+   "fr": "Comment entrer dans le pavillon Montpetit en fauteuil roulant ?",
+   "en": "How do I get into Montpetit Hall in a wheelchair?"
+  },
+  "answer": {
+   "fr": "L'entrée extérieure accessible du pavillon Montpetit est la rampe à côté des marches de béton, du côté sud. Tu peux aussi y passer de l'intérieur depuis les 2e, 3e et 4e étages du pavillon Lamoureux, ou depuis le 2e étage du Centre universitaire. Les points Para Transpo 6, 7 et 9 sont les plus proches.",
+   "en": "The accessible exterior entrance to Montpetit Hall is the ramp next to the concrete steps on the south side. You can also get in from inside through the 2nd, 3rd and 4th floors of Lamoureux Hall, or from the 2nd floor of the University Centre. Para Transpo points 6, 7 and 9 are the closest."
+  },
+  "sources": [
+   {
+    "label": "Montpetit Hall (MNT) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/montpetit-hall-mnt"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-perez",
+  "category": "batiments",
+  "keywords": [
+   "perez accessible",
+   "pérez entrée accessible",
+   "prz wheelchair",
+   "école de musique accessible",
+   "music building accessible entrance",
+   "stationnement perez accessible"
+  ],
+  "question": {
+   "fr": "Où est l'entrée accessible du pavillon Pérez (musique) ?",
+   "en": "Where is the accessible entrance to Pérez Hall (music)?"
+  },
+  "answer": {
+   "fr": "Entre au 1er étage du pavillon Pérez par les portes donnant sur la privée University, du côté sud-ouest. Tu peux aussi passer par le garage de stationnement Pérez, au 610, rue Cumberland, puis prendre l'ascenseur 001A ; ce garage a trois places de stationnement accessibles. Le point Para Transpo 10 est devant l'aile nord du Centre universitaire.",
+   "en": "Enter the 1st floor of Pérez Hall through the doors off University Private on the southwest side. You can also come in through the Pérez parking garage, at 610 Cumberland Street, and take elevator 001A; that garage has three accessible parking spaces. Para Transpo point 10 is in front of the north arm of the University Centre."
+  },
+  "sources": [
+   {
+    "label": "Pérez Hall (PRZ) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/perez-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-simard",
+  "category": "batiments",
+  "keywords": [
+   "simard accessible",
+   "entrée accessible simard",
+   "smd wheelchair",
+   "faculté des arts accessible",
+   "arts building accessible entrance",
+   "fauteuil roulant simard"
+  ],
+  "question": {
+   "fr": "Comment entrer dans le pavillon Simard en fauteuil roulant ?",
+   "en": "How do I get into Simard Hall in a wheelchair?"
+  },
+  "answer": {
+   "fr": "Au pavillon Simard, entre au rez-de-chaussée par les portes du côté nord, dans la cour entre Simard et Hamelin. Tu peux aussi accéder au sous-sol par le garage de stationnement Pérez, ou passer par le 2e étage du pavillon Hamelin. Le point Para Transpo le plus proche est le 10, devant l'aile nord du Centre universitaire.",
+   "en": "At Simard Hall, enter the ground floor through the doors on the north side, in the courtyard between Simard and Hamelin. You can also reach the basement through the Pérez parking garage, or come in through the 2nd floor of Hamelin Hall. The closest Para Transpo point is number 10, in front of the north arm of the University Centre."
+  },
+  "sources": [
+   {
+    "label": "Simard Hall (SMD) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/simard-hall-smd"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-hamelin",
+  "category": "batiments",
+  "keywords": [
+   "hamelin accessible",
+   "entrée accessible hamelin",
+   "mhn wheelchair",
+   "hamelin hall accessible entrance",
+   "fauteuil roulant hamelin",
+   "para transpo hamelin"
+  ],
+  "question": {
+   "fr": "Où est l'entrée accessible du pavillon Hamelin ?",
+   "en": "Where is the accessible entrance to Hamelin Hall?"
+  },
+  "answer": {
+   "fr": "Entre au 1er étage du pavillon Hamelin par les portes du côté sud. Tu peux aussi y arriver par le garage de stationnement Pérez, au 610, rue Cumberland, ou de l'intérieur par le 2e étage du pavillon Simard. Les points Para Transpo 10, 11 et 12 sont les plus proches.",
+   "en": "Enter the 1st floor of Hamelin Hall through the doors on the south side. You can also get there through the Pérez parking garage, at 610 Cumberland Street, or from inside through the 2nd floor of Simard Hall. Para Transpo points 10, 11 and 12 are the closest."
+  },
+  "sources": [
+   {
+    "label": "Hamelin Hall (MHN) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/hamelin-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-desmarais",
+  "category": "batiments",
+  "keywords": [
+   "desmarais accessible",
+   "entrée accessible desmarais",
+   "dms wheelchair",
+   "telfer accessible entrance",
+   "stationnement accessible desmarais",
+   "para transpo desmarais"
+  ],
+  "question": {
+   "fr": "Comment entrer dans le pavillon Desmarais en fauteuil roulant ?",
+   "en": "How do I get into Desmarais Hall in a wheelchair?"
+  },
+  "answer": {
+   "fr": "Le pavillon Desmarais a des portes accessibles au 1er étage, du côté sud-est et du côté nord. Tu peux aussi entrer par les niveaux 0 et 00 du garage de stationnement, puis prendre les ascenseurs ; ce garage compte quatre places accessibles. Le point Para Transpo 11 est dans le stationnement donnant sur la rue Nicholas, du côté nord.",
+   "en": "Desmarais Hall has accessible doors on the 1st floor, on the southeast side and the north side. You can also enter through levels 0 and 00 of the parking garage and take the elevators; that garage has four accessible spaces. Para Transpo point 11 is in the parking lot off Nicholas Street, on the north side."
+  },
+  "sources": [
+   {
+    "label": "Desmarais Hall (DMS) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/desmarais-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-tabaret",
+  "category": "batiments",
+  "keywords": [
+   "tabaret accessible",
+   "entrée accessible tabaret",
+   "tbt wheelchair",
+   "tabaret hall accessible entrance",
+   "fauteuil roulant tabaret",
+   "para transpo tabaret"
+  ],
+  "question": {
+   "fr": "Où est l'entrée accessible du pavillon Tabaret ?",
+   "en": "Where is the accessible entrance to Tabaret Hall?"
+  },
+  "answer": {
+   "fr": "Au pavillon Tabaret, les entrées accessibles mènent au rez-de-chaussée : une porte du côté sud-est, deux portes du côté sud-ouest, et des portes près du quai de chargement, dans la cour intérieure. Le point Para Transpo 12 est sur la privée Séraphin-Marion, entre la pelouse Tabaret et le pavillon Académique.",
+   "en": "At Tabaret Hall, the accessible entrances lead to the ground floor: a door on the southeast side, two doors on the southwest side, and doors near the loading dock in the inner courtyard. Para Transpo point 12 is on Séraphin-Marion Private, between Tabaret Lawn and Academic Hall."
+  },
+  "sources": [
+   {
+    "label": "Tabaret Hall (TBT) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/tabaret-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-colonel-by",
+  "category": "batiments",
+  "keywords": [
+   "colonel by accessible",
+   "cby entrée accessible",
+   "génie accessible",
+   "engineering building wheelchair",
+   "cby ramp",
+   "para transpo colonel by"
+  ],
+  "question": {
+   "fr": "Comment entrer dans le pavillon Colonel-By en fauteuil roulant ?",
+   "en": "How do I get into Colonel By Hall in a wheelchair?"
+  },
+  "answer": {
+   "fr": "Colonel-By a trois entrées accessibles par rampe : au nord-est et à l'ouest pour le 1er étage, et à l'est, sur l'avenue King Edward, pour le niveau 0. De l'intérieur, tu peux aussi y passer depuis le 1er étage de SITE ou le niveau 00 du Complexe STEM. Le point Para Transpo 3 est dans le stationnement entre le 1, rue Stewart et Colonel-By.",
+   "en": "Colonel By Hall has three accessible ramp entrances: on the northeast and west sides for the 1st floor, and on the east side, off King Edward Avenue, for level 0. Indoors, you can also get in from the 1st floor of SITE or level 00 of the STEM Complex. Para Transpo point 3 is in the parking lot between 1 Stewart Street and Colonel By."
+  },
+  "sources": [
+   {
+    "label": "Colonel By Hall (CBY) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/colonel-hall-cby"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-site",
+  "category": "batiments",
+  "keywords": [
+   "site accessible",
+   "entrée accessible site",
+   "ste wheelchair",
+   "site building accessible entrance",
+   "porte o-train site",
+   "para transpo site"
+  ],
+  "question": {
+   "fr": "Où sont les entrées accessibles du pavillon SITE ?",
+   "en": "Where are the accessible entrances to the SITE building?"
+  },
+  "answer": {
+   "fr": "Tu peux entrer au rez-de-chaussée de SITE par les portes sur l'avenue King Edward, côté nord, ou au 1er étage par la passerelle extérieure entre Colonel-By et SITE. Les portes 1 et 7, face à l'O-Train du côté sud-ouest, mènent aussi au 1er étage. Le point Para Transpo 3 est dans le stationnement entre le 1, rue Stewart et Colonel-By.",
+   "en": "You can enter SITE's ground floor through the doors off King Edward Avenue on the north side, or the 1st floor through the outdoor catwalk between Colonel By and SITE. Doors 1 and 7, facing the O-Train on the southwest side, also lead to the 1st floor. Para Transpo point 3 is in the parking lot between 1 Stewart Street and Colonel By."
+  },
+  "sources": [
+   {
+    "label": "SITE (STE) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/site"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-minto",
+  "category": "batiments",
+  "keywords": [
+   "minto accessible",
+   "entrée accessible minto",
+   "mno wheelchair",
+   "minto sports complex accessible",
+   "stationnement mann accessible",
+   "para transpo minto"
+  ],
+  "question": {
+   "fr": "Comment entrer dans le complexe sportif Minto en fauteuil roulant ?",
+   "en": "How do I get into the Minto Sports Complex in a wheelchair?"
+  },
+  "answer": {
+   "fr": "Au complexe Minto, entre au 1er étage par les portes du coin nord-est ou du côté sud. Tu peux aussi passer par les niveaux 1 et 2 du garage de stationnement, puis les portes du coin nord-ouest. Le garage Mann, au 33, avenue Mann, a cinq places accessibles au P1 et trois au P2, et le point Para Transpo 3 est entre le 1, rue Stewart et Colonel-By.",
+   "en": "At the Minto complex, enter the 1st floor through the doors at the northeast corner or on the south side. You can also go through levels 1 and 2 of the parking garage, then the doors in the northwest corner. The Mann garage, at 33 Mann Avenue, has five accessible spaces on P1 and three on P2, and Para Transpo point 3 is between 1 Stewart Street and Colonel By."
+  },
+  "sources": [
+   {
+    "label": "Minto Sports Complex (MNO) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/minto-sports-complex"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-marion",
+  "category": "batiments",
+  "keywords": [
+   "marion accessible",
+   "entrée accessible marion",
+   "mrn wheelchair",
+   "marion hall accessible",
+   "monte-escalier marion",
+   "para transpo marion"
+  ],
+  "question": {
+   "fr": "Le pavillon Marion est-il accessible en fauteuil roulant ?",
+   "en": "Is Marion Hall wheelchair accessible?"
+  },
+  "answer": {
+   "fr": "Oui : entre au 1er étage par la rampe du côté nord, face au pavillon D'Iorio. Tu peux aussi atteindre le sous-sol depuis le Complexe STEM ou depuis le sous-sol de D'Iorio, et un monte-escalier se trouve dans la cage d'escalier A. Le point Para Transpo 4 est au bout de la privée Louis-Pasteur, entre le 141 Louis-Pasteur et le Complexe STEM.",
+   "en": "Yes: enter the 1st floor using the ramp on the north side, facing D'Iorio Hall. You can also reach the sub-basement from the STEM Complex or from D'Iorio's basement, and there's a chair lift in stairwell A. Para Transpo point 4 is at the end of Louis-Pasteur Private, between 141 Louis-Pasteur and the STEM Complex."
+  },
+  "sources": [
+   {
+    "label": "Marion Hall (MRN) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/marion-hall-mrn"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-vanier",
+  "category": "batiments",
+  "keywords": [
+   "vanier accessible",
+   "entrée accessible vanier",
+   "vnr wheelchair",
+   "vanier hall accessible",
+   "psychologie pavillon accessible",
+   "para transpo vanier"
+  ],
+  "question": {
+   "fr": "Comment entrer dans le pavillon Vanier en fauteuil roulant ?",
+   "en": "How do I get into Vanier Hall in a wheelchair?"
+  },
+  "answer": {
+   "fr": "La fiche du pavillon Vanier indique d'y entrer par l'intérieur : depuis le pavillon des Sciences sociales (FSS), du 1er au 5e étage, ou depuis le 2e étage du pavillon Lamoureux. Un monte-escalier relie aussi les corridors 3000G et 3000H. Les points Para Transpo 6 et 7 sont sur la privée University, tout près.",
+   "en": "The Vanier Hall page says to enter from inside: from the Social Sciences Building (FSS), on floors 1 to 5, or from the 2nd floor of Lamoureux Hall. A chair lift also connects corridors 3000G and 3000H. Para Transpo points 6 and 7 are close by on University Private."
+  },
+  "sources": [
+   {
+    "label": "Vanier Hall (VNR) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/vanier-hall-vnr"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-brooks",
+  "category": "batiments",
+  "keywords": [
+   "brooks accessible",
+   "entrée accessible brooks",
+   "brs wheelchair",
+   "garderie brooks accès",
+   "stationnement brooks accessible",
+   "para transpo brooks"
+  ],
+  "question": {
+   "fr": "Où est l'entrée accessible du complexe Brooks ?",
+   "en": "Where is the accessible entrance to the Brooks complex?"
+  },
+  "answer": {
+   "fr": "Entre au 1er étage du complexe Brooks par la rampe et les portes principales sur la privée Thomas-More, du côté nord. Le 2e étage est aussi relié au 3e étage du pavillon Fauteux. Le garage Brooks, au 100, Thomas-More, a quatre places de stationnement accessibles, et le point Para Transpo 9 est devant Fauteux.",
+   "en": "Enter the 1st floor of the Brooks complex using the ramp and main doors off Thomas More Private, on the north side. The 2nd floor also connects to the 3rd floor of Fauteux Hall. The Brooks garage, at 100 Thomas More, has four accessible parking spaces, and Para Transpo point 9 is in front of Fauteux."
+  },
+  "sources": [
+   {
+    "label": "Brooks (BRS) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/brooks-residence"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-arc",
+  "category": "batiments",
+  "keywords": [
+   "arc accessible",
+   "complexe de recherche avancée entrée",
+   "arc wheelchair",
+   "advanced research complex accessible entrance",
+   "templeton accessible",
+   "para transpo arc"
+  ],
+  "question": {
+   "fr": "Où est l'entrée accessible du Complexe de recherche avancée (ARC) ?",
+   "en": "Where is the accessible entrance to the Advanced Research Complex (ARC)?"
+  },
+  "answer": {
+   "fr": "Entre au 1er étage de l'ARC par les portes du coin sud-ouest du bâtiment. Le bâtiment n'a pas de service alimentaire. Les points Para Transpo les plus proches sont le 3, entre le 1, rue Stewart et Colonel-By, et le 5, devant le 100, privée Marie-Curie.",
+   "en": "Enter the 1st floor of ARC through the doors at the southwest corner of the building. There's no food service in the building. The closest Para Transpo points are number 3, between 1 Stewart Street and Colonel By, and number 5, in front of 100 Marie-Curie Private."
+  },
+  "sources": [
+   {
+    "label": "Advanced Research Complex (ARC) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/advanced-research-complex-arc"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-fhs-lees",
+  "category": "batiments",
+  "keywords": [
+   "200 lees accessible",
+   "fhs entrée accessible",
+   "campus lees fauteuil roulant",
+   "lees wheelchair entrance",
+   "stationnement accessible lees",
+   "para transpo lees"
+  ],
+  "question": {
+   "fr": "Comment entrer dans le pavillon 200 Lees (FHS) en fauteuil roulant ?",
+   "en": "How do I get into the 200 Lees (FHS) building in a wheelchair?"
+  },
+  "answer": {
+   "fr": "Le pavillon FHS a quatre entrées accessibles au 1er étage : côté avenue Lees au nord, dans la cour avec les blocs A et E, au sud-ouest face au bloc E, et au sud face à la rivière Rideau. Il y a quatre places de stationnement accessibles devant le bâtiment et quatre dans le stationnement G3. Le point Para Transpo 1 est près du coin nord-est du bloc E.",
+   "en": "The FHS building has four accessible entrances to the 1st floor: on Lees Avenue to the north, in the courtyard with blocks A and E, on the southwest side facing Block E, and on the south side facing the Rideau River. There are four accessible parking spaces in front of the building and four in lot G3. Para Transpo point 1 is near the northeast corner of Block E."
+  },
+  "sources": [
+   {
+    "label": "200 Lees FHS – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/200-lees-fhs"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-100-laurier",
+  "category": "batiments",
+  "keywords": [
+   "100 laurier accessible",
+   "arts visuels accessibilité",
+   "lrr wheelchair",
+   "visual arts building accessible",
+   "ascenseur 100 laurier",
+   "accommodement 100 laurier"
+  ],
+  "question": {
+   "fr": "Le 100 Laurier (arts visuels) est-il accessible en fauteuil roulant ?",
+   "en": "Is 100 Laurier (visual arts) wheelchair accessible?"
+  },
+  "answer": {
+   "fr": "Le 100 Laurier a été construit avant que le code du bâtiment intègre l'accessibilité, et plusieurs étages n'ont pas d'ascenseur. Si tu as besoin d'un accommodement, communique le plus tôt possible avec l'organisateur de l'événement, ton superviseur ou le Service d'accommodements scolaires.",
+   "en": "100 Laurier was built before the building code included accessibility features, and several floors have no elevator. If you need an accommodation, contact the event planner, your supervisor or Academic Accommodations as soon as possible."
+  },
+  "sources": [
+   {
+    "label": "100 Laurier (LRR) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/100-laurier"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-pavillon-academique",
+  "category": "batiments",
+  "keywords": [
+   "pavillon académique accessible",
+   "smn entrée accessible",
+   "théâtre accessible",
+   "academic hall wheelchair",
+   "theatre accessible entrance",
+   "para transpo séraphin-marion"
+  ],
+  "question": {
+   "fr": "Comment entrer au théâtre du pavillon Académique en fauteuil roulant ?",
+   "en": "How do I get into the Academic Hall theatre in a wheelchair?"
+  },
+  "answer": {
+   "fr": "L'entrée accessible du pavillon Académique est la porte de gauche, du côté sud, au 1er étage, là où se trouve le théâtre. Attention : cette porte reste verrouillée sauf pendant les représentations. Le point Para Transpo 12 est sur la privée Séraphin-Marion, entre la pelouse Tabaret et le pavillon.",
+   "en": "The accessible entrance to Academic Hall is the left door on the south side, on the 1st floor where the theatre is. Note that this door stays locked except during performances. Para Transpo point 12 is on Séraphin-Marion Private, between Tabaret Lawn and the building."
+  },
+  "sources": [
+   {
+    "label": "Academic Hall (SMN) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/academic-hall-smn"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-biosciences-gendron",
+  "category": "batiments",
+  "keywords": [
+   "biosciences accessible",
+   "gendron accessible",
+   "bsc entrée accessible",
+   "gendron hall wheelchair",
+   "biosciences complex accessible entrance",
+   "para transpo biosciences"
+  ],
+  "question": {
+   "fr": "Où est l'entrée accessible du Complexe des biosciences et du pavillon Gendron ?",
+   "en": "Where is the accessible entrance to the Biosciences Complex and Gendron Hall?"
+  },
+  "answer": {
+   "fr": "Entre au niveau 1 par la rampe et la porte du côté nord, face à la privée Marie-Curie. C'est aussi la seule entrée extérieure accessible du pavillon Gendron (GNN). Les points Para Transpo 4, au bout de la privée Louis-Pasteur, et 5, devant le 100 Marie-Curie, sont les plus proches.",
+   "en": "Enter level 1 using the ramp and door on the north side, facing Marie-Curie Private. It's also the only accessible exterior entrance for Gendron Hall (GNN). Para Transpo points 4, at the end of Louis-Pasteur Private, and 5, in front of 100 Marie-Curie, are the closest."
+  },
+  "sources": [
+   {
+    "label": "Biosciences Complex (BSC) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/biosciences-complex-bsc"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-hagen",
+  "category": "batiments",
+  "keywords": [
+   "hagen accessible",
+   "entrée accessible hagen",
+   "hgn wheelchair",
+   "études supérieures pavillon accessible",
+   "hagen hall ramp",
+   "para transpo hagen"
+  ],
+  "question": {
+   "fr": "Où est l'entrée accessible du pavillon Hagen ?",
+   "en": "Where is the accessible entrance to Hagen Hall?"
+  },
+  "answer": {
+   "fr": "Entre au niveau 1 du pavillon Hagen par la rampe et la porte du côté ouest. Il n'y a pas de service alimentaire dans ce pavillon. Le point Para Transpo 12 est sur la privée Séraphin-Marion, entre la pelouse Tabaret et le pavillon Académique.",
+   "en": "Enter level 1 of Hagen Hall using the ramp and door on the west side. There's no food service in this building. Para Transpo point 12 is on Séraphin-Marion Private, between Tabaret Lawn and Academic Hall."
+  },
+  "sources": [
+   {
+    "label": "Hagen Hall (HGN) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/hagen-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-100-marie-curie",
+  "category": "batiments",
+  "keywords": [
+   "100 marie-curie accessible",
+   "mce entrée accessible",
+   "accommodements scolaires accès",
+   "marie-curie wheelchair",
+   "para transpo marie-curie",
+   "stationnement accessible louis-pasteur"
+  ],
+  "question": {
+   "fr": "Où est l'entrée accessible du 100, privée Marie-Curie ?",
+   "en": "Where is the accessible entrance to 100 Marie-Curie Private?"
+  },
+  "answer": {
+   "fr": "Entre au 1er étage par la porte du côté nord, face à la privée Marie-Curie. Le point Para Transpo 5 est juste devant le bâtiment. Il y a trois places de stationnement accessibles sur la privée Louis-Pasteur, à l'ouest du 141 Louis-Pasteur, et deux dans le stationnement du coin.",
+   "en": "Enter the 1st floor through the door on the north side, facing Marie-Curie Private. Para Transpo point 5 is right in front of the building. There are three accessible parking spaces on Louis-Pasteur Private, west of 141 Louis-Pasteur, and two in the corner parking lot."
+  },
+  "sources": [
+   {
+    "label": "100 Marie-Curie (MCE) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/100-marie-curie"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-stationnement-accessible",
+  "category": "batiments",
+  "keywords": [
+   "stationnement accessible",
+   "accessible parking",
+   "permis accessible",
+   "place handicapé",
+   "garage accessible campus",
+   "accessible permit uottawa"
+  ],
+  "question": {
+   "fr": "Comment utiliser les places de stationnement accessibles sur le campus ?",
+   "en": "How do I use the accessible parking spaces on campus?"
+  },
+  "answer": {
+   "fr": "Si tu as un permis accessible délivré par le ministère des Transports de l'Ontario, tu dois communiquer avec le Service de stationnement et de transport durable pour avoir accès aux places accessibles du campus. On en trouve notamment dans les garages Brooks et Desmarais, quatre chacun, Pérez, trois, et Mann, cinq au P1 et trois au P2.",
+   "en": "If you hold an accessible permit issued by the Ontario Ministry of Transportation, you must contact Parking and Sustainable Transportation to get access to the campus accessible spaces. You'll find them in the Brooks and Desmarais garages, four each, the Pérez garage, three, and the Mann garage, five on P1 and three on P2."
+  },
+  "sources": [
+   {
+    "label": "Desmarais Hall – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/desmarais-hall"
+   },
+   {
+    "label": "Brooks – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/brooks-residence"
+   },
+   {
+    "label": "Minto Sports Complex – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/minto-sports-complex"
+   },
+   {
+    "label": "Pérez Hall – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/perez-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-nom-morisset",
+  "category": "batiments",
+  "keywords": [
+   "pourquoi morisset",
+   "auguste morisset",
+   "nom pavillon morisset",
+   "morisset hall name",
+   "who is morisset",
+   "histoire morisset"
+  ],
+  "question": {
+   "fr": "Pourquoi le pavillon Morisset porte-t-il ce nom ?",
+   "en": "Why is Morisset Hall called that?"
+  },
+  "answer": {
+   "fr": "Le pavillon porte le nom du père Auguste Morisset, directeur fondateur de l'École de bibliothéconomie et bibliothécaire en chef de l'Université de 1934 à 1958. Construit en 1972, il compte six étages et deux sous-sols. En plus de la bibliothèque principale, il abrite la radio CHUO 89,1 FM et le Bureau du bibliothécaire en chef.",
+   "en": "The building is named after Father Auguste Morisset, founding director of the School of Library Science and the University's chief librarian from 1934 to 1958. Built in 1972, it has six storeys and two basements. Besides the main library, it houses CHUO 89.1 FM and the Office of the University Librarian."
+  },
+  "sources": [
+   {
+    "label": "Morisset Hall (MRT) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/morisset-hall-mrt"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-nom-fauteux",
+  "category": "batiments",
+  "keywords": [
+   "pourquoi fauteux",
+   "gérald fauteux",
+   "nom pavillon fauteux",
+   "fauteux hall name",
+   "histoire faculté de droit",
+   "who is fauteux"
+  ],
+  "question": {
+   "fr": "Qui était Fauteux, qui a donné son nom au pavillon de droit ?",
+   "en": "Who was Fauteux, the namesake of the Law building?"
+  },
+  "answer": {
+   "fr": "Le pavillon porte le nom de Gérald Fauteux, juge en chef de la Cour suprême du Canada et doyen de la Faculté de droit de 1953 à 1962. Ce pavillon de cinq étages a été construit en 1973. Il accueille les sections de droit civil et de common law ainsi que la bibliothèque de droit.",
+   "en": "The building is named after Gérald Fauteux, Chief Justice of the Supreme Court of Canada and Dean of the Faculty of Law from 1953 to 1962. The five-storey building was built in 1973. It houses the Civil Law and Common Law sections and the law library."
+  },
+  "sources": [
+   {
+    "label": "Fauteux Hall (FTX) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/fauteux-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-nom-hamelin",
+  "category": "batiments",
+  "keywords": [
+   "pourquoi hamelin",
+   "marcel hamelin",
+   "nom pavillon hamelin",
+   "hamelin hall name",
+   "histoire hamelin",
+   "who is hamelin"
+  ],
+  "question": {
+   "fr": "Pourquoi le pavillon Hamelin porte-t-il ce nom ?",
+   "en": "Why is Hamelin Hall called that?"
+  },
+  "answer": {
+   "fr": "Le pavillon porte le nom de Marcel Hamelin, qui a travaillé cinq décennies à l'Université, entre autres comme professeur d'histoire, doyen de la Faculté des arts, puis recteur. Ce pavillon de cinq étages a ouvert en 1996.",
+   "en": "The building is named after Dr. Marcel Hamelin, who worked at the University for five decades, among other things as a history professor, Dean of the Faculty of Arts and President. The five-storey building opened in 1996."
+  },
+  "sources": [
+   {
+    "label": "Hamelin Hall (MHN) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/hamelin-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-nom-montpetit",
+  "category": "batiments",
+  "keywords": [
+   "pourquoi montpetit",
+   "médéric montpetit",
+   "nom pavillon montpetit",
+   "montpetit hall name",
+   "histoire sciences de l'activité physique",
+   "premier institut éducation physique"
+  ],
+  "question": {
+   "fr": "Pourquoi le pavillon Montpetit porte-t-il ce nom ?",
+   "en": "Why is Montpetit Hall called that?"
+  },
+  "answer": {
+   "fr": "Le pavillon porte le nom du père Médéric Montpetit, qui a convaincu l'Université d'ouvrir le premier institut d'éducation physique et de loisirs au Canada. Construit en 1972, il abrite aujourd'hui l'École des sciences de l'activité physique, avec des gymnases, des salles d'exercice et des terrains de squash.",
+   "en": "The building is named after Father Médéric Montpetit, who persuaded the University to open Canada's first physical education and recreation institute. Built in 1972, it now houses the School of Human Kinetics, with gyms, exercise rooms and squash courts."
+  },
+  "sources": [
+   {
+    "label": "Montpetit Hall (MNT) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/montpetit-hall-mnt"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-nom-lamoureux",
+  "category": "batiments",
+  "keywords": [
+   "pourquoi lamoureux",
+   "rené lamoureux",
+   "nom pavillon lamoureux",
+   "lamoureux hall name",
+   "école normale",
+   "histoire lamoureux"
+  ],
+  "question": {
+   "fr": "Pourquoi le pavillon Lamoureux porte-t-il ce nom ?",
+   "en": "Why is Lamoureux Hall called that?"
+  },
+  "answer": {
+   "fr": "Le pavillon porte le nom du père René Lamoureux, éducateur et premier directeur de l'École normale de l'Université. Construit en 1978, il compte quatre étages et un sous-sol. Il abrite la Faculté d'éducation, l'École de psychologie et le Centre de recherche en civilisation canadienne-française.",
+   "en": "The building is named after Father René Lamoureux, an educator and the first director of uOttawa's École normale. Built in 1978, it has four storeys plus a basement. It houses the Faculty of Education, the School of Psychology and the Center for Research on French Canadian Culture."
+  },
+  "sources": [
+   {
+    "label": "Lamoureux Hall (LMX) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-nom-marion",
+  "category": "batiments",
+  "keywords": [
+   "pourquoi marion",
+   "séraphin marion",
+   "nom pavillon marion",
+   "marion hall name",
+   "histoire marion",
+   "who is marion"
+  ],
+  "question": {
+   "fr": "Pourquoi le pavillon Marion porte-t-il ce nom ?",
+   "en": "Why is Marion Hall called that?"
+  },
+  "answer": {
+   "fr": "Le pavillon porte le nom de Séraphin Marion, diplômé et professeur émérite de l'Université, et membre de l'Ordre du Canada. Construit en 1958, il compte trois étages, un sous-sol et un sous-sous-sol. On y trouve des laboratoires d'enseignement en sciences de la Terre et en chimie.",
+   "en": "The building is named after Séraphin Marion, a uOttawa graduate and professor emeritus, and a recipient of the Order of Canada. Built in 1958, it has three storeys, a basement and a sub-basement. It holds Earth Sciences and Chemistry teaching labs."
+  },
+  "sources": [
+   {
+    "label": "Marion Hall (MRN) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/marion-hall-mrn"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-nom-desmarais",
+  "category": "batiments",
+  "keywords": [
+   "pourquoi desmarais",
+   "paul desmarais",
+   "nom pavillon desmarais",
+   "desmarais hall name",
+   "histoire desmarais",
+   "combien d'étages desmarais"
+  ],
+  "question": {
+   "fr": "Pourquoi le pavillon Desmarais porte-t-il ce nom ?",
+   "en": "Why is Desmarais Hall called that?"
+  },
+  "answer": {
+   "fr": "Le pavillon porte le nom de Paul G. Desmarais, homme d'affaires, philanthrope et diplômé de l'Université. Terminé en 2007, ce pavillon de 12 étages avec stationnement souterrain est au coin nord-ouest du campus et donne sur le centre-ville. Il accueille l'École de gestion Telfer et la Faculté des arts.",
+   "en": "The building is named after Paul G. Desmarais, a business magnate, philanthropist and uOttawa graduate. Completed in 2007, the 12-storey building with underground parking sits in the northwest corner of campus, overlooking downtown. It's home to the Telfer School of Management and the Faculty of Arts."
+  },
+  "sources": [
+   {
+    "label": "Desmarais Hall (DMS) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/desmarais-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-nom-colonel-by",
+  "category": "batiments",
+  "keywords": [
+   "pourquoi colonel by",
+   "john by",
+   "nom pavillon colonel by",
+   "colonel by hall name",
+   "canal rideau",
+   "histoire génie"
+  ],
+  "question": {
+   "fr": "Pourquoi le pavillon de génie s'appelle-t-il Colonel-By ?",
+   "en": "Why is the engineering building called Colonel By?"
+  },
+  "answer": {
+   "fr": "Le pavillon porte le nom du lieutenant-colonel John By, fondateur de Bytown, l'ancienne Ottawa, qui a dirigé la construction du canal Rideau. Ouvert en 1970, il abrite la Faculté de génie, avec les départements de génie chimique, civil et mécanique, ainsi que l'École de science informatique et de génie électrique.",
+   "en": "The building is named after Lieutenant-Colonel John By, founder of Bytown, today's Ottawa, who supervised the construction of the Rideau Canal. Opened in 1970, it's home to the Faculty of Engineering, with the chemical, civil and mechanical engineering departments and the School of Information Technology and Engineering."
+  },
+  "sources": [
+   {
+    "label": "Colonel By Hall (CBY) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/colonel-hall-cby"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-nom-diorio",
+  "category": "batiments",
+  "keywords": [
+   "pourquoi d'iorio",
+   "antoine d'iorio",
+   "nom pavillon d'iorio",
+   "diorio hall name",
+   "histoire d'iorio",
+   "recteur d'iorio"
+  ],
+  "question": {
+   "fr": "Pourquoi le pavillon D'Iorio porte-t-il ce nom ?",
+   "en": "Why is D'Iorio Hall called that?"
+  },
+  "answer": {
+   "fr": "Le pavillon porte le nom du scientifique Antoine D'Iorio, recteur de l'Université de 1984 à 1990, qui y a aussi été professeur, doyen des sciences et du génie, et vice-recteur aux études. Terminé en 1993 au coût de 26 millions de dollars, il accueille les départements de chimie et de biologie.",
+   "en": "The building is named after scientist Dr. Antoine D'Iorio, Rector from 1984 to 1990, who was also a professor, Dean of Science and Engineering, and Vice-Rector (Academic). Completed in 1993 at a cost of 26 million dollars, it houses the Departments of Chemistry and Biology."
+  },
+  "sources": [
+   {
+    "label": "D'Iorio Hall (DRO) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/diorio-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-nom-jock-turcot",
+  "category": "batiments",
+  "keywords": [
+   "jock turcot",
+   "pourquoi jock turcot",
+   "nom centre universitaire",
+   "university centre name",
+   "ucu histoire",
+   "who is jock turcot"
+  ],
+  "question": {
+   "fr": "Qui était Jock Turcot, qui a donné son nom au Centre universitaire ?",
+   "en": "Who was Jock Turcot, the namesake of the University Centre?"
+  },
+  "answer": {
+   "fr": "Le Centre universitaire porte le nom de Francis James « Jock » Turcot, un leader du mouvement étudiant canadien des années 1960 et ancien président de l'association étudiante de l'Université. Terminé en 1973, le bâtiment a été conçu comme lieu de rassemblement pour toute la communauté du campus.",
+   "en": "The University Centre is named in memory of Francis James “Jock” Turcot, a leader of the Canadian student movement of the 1960s and former president of the University's students' union. Completed in 1973, the building was designed as a gathering space for the whole campus community."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-nom-brooks",
+  "category": "batiments",
+  "keywords": [
+   "pourquoi brooks",
+   "hubert brooks",
+   "nom complexe brooks",
+   "brooks name",
+   "ancienne résidence brooks",
+   "histoire brooks"
+  ],
+  "question": {
+   "fr": "Pourquoi le complexe Brooks porte-t-il ce nom ?",
+   "en": "Why is the Brooks complex called that?"
+  },
+  "answer": {
+   "fr": "Le complexe porte le nom de Hubert Brooks, premier directeur à temps plein du Service du logement. À son ouverture en 1988, il offrait des logements pour plus de 700 étudiants. Ces unités sont maintenant fermées ; il reste le bâtiment principal de trois étages et un grand garage souterrain.",
+   "en": "The complex is named after Hubert Brooks, the first full-time Director of Housing Services. When it opened in 1988, it had residential units for over 700 students. Those units are now closed; what remains is the three-storey main building and a large underground garage."
+  },
+  "sources": [
+   {
+    "label": "Brooks (BRS) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/brooks-residence"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-nom-perez",
+  "category": "batiments",
+  "keywords": [
+   "pourquoi perez",
+   "pérez nom",
+   "nom pavillon pérez",
+   "perez hall name",
+   "école de musique histoire",
+   "laboratoire pédagogie du piano"
+  ],
+  "question": {
+   "fr": "Pourquoi le pavillon de musique s'appelle-t-il Pérez ?",
+   "en": "Why is the music building called Pérez?"
+  },
+  "answer": {
+   "fr": "Le pavillon Pérez, inauguré en 1988, porte ce nom en l'honneur du plus grand bienfaiteur de l'École de musique. Il abrite aussi le Laboratoire de recherche en pédagogie du piano, qui permet de mesurer des phénomènes visuels et auditifs liés à l'apprentissage du piano.",
+   "en": "Pérez Hall, inaugurated in 1988, was named in honour of the music school's largest benefactor. It's also home to the Piano Pedagogy Research Laboratory, which measures visual and auditory phenomena involved in learning to play the piano."
+  },
+  "sources": [
+   {
+    "label": "Pérez Hall (PRZ) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/perez-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-rue-seraphin-marion",
+  "category": "batiments",
+  "keywords": [
+   "rue séraphin-marion",
+   "seraphin-marion street",
+   "ancienne rue wilbrod",
+   "maisons séraphin-marion",
+   "histoire rue séraphin-marion",
+   "pourquoi séraphin-marion"
+  ],
+  "question": {
+   "fr": "Pourquoi une rue du campus s'appelle-t-elle Séraphin-Marion ?",
+   "en": "Why is a campus street called Séraphin-Marion?"
+  },
+  "answer": {
+   "fr": "En 1987, l'Université a acheté le tronçon de la rue Wilbrod entre les rues Waller et Cumberland et l'a renommé Séraphin-Marion. Séraphin Marion était un historien franco-ontarien qui a enseigné la littérature française et canadienne-française à l'Université de 1926 à 1954. Les maisons de la rue, construites au 19e siècle, abritent notamment le Département d'histoire.",
+   "en": "In 1987, the University bought the section of Wilbrod Street between Waller and Cumberland and renamed it Séraphin-Marion. Séraphin Marion was a Franco-Ontarian historian who taught French and French-Canadian literature at the University from 1926 to 1954. The street's 19th-century houses are home to the Department of History, among others."
+  },
+  "sources": [
+   {
+    "label": "Séraphin-Marion buildings – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/seraphin-marion-buildings"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-rue-stewart",
+  "category": "batiments",
+  "keywords": [
+   "rue stewart",
+   "stewart street",
+   "criminologie bureau",
+   "department of criminology location",
+   "services linguistiques",
+   "où est criminologie"
+  ],
+  "question": {
+   "fr": "Où se trouve le Département de criminologie ?",
+   "en": "Where is the Department of Criminology?"
+  },
+  "answer": {
+   "fr": "Le Département de criminologie est dans les bâtiments de la rue Stewart, construits au tournant du 20e siècle. Ces bâtiments abritent aussi les études classiques et les Services linguistiques.",
+   "en": "The Department of Criminology is in the Stewart Street buildings, built at the turn of the 20th century. Those buildings also house Classical Studies and Language Services."
+  },
+  "sources": [
+   {
+    "label": "Séraphin-Marion buildings – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/seraphin-marion-buildings"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-laurier-diplomes",
+  "category": "batiments",
+  "keywords": [
+   "bureau des diplômés",
+   "alumni office",
+   "178 laurier",
+   "190 laurier",
+   "centre de ressources des aînés",
+   "seniors resource centre"
+  ],
+  "question": {
+   "fr": "Où est le Bureau des diplômés et du développement ?",
+   "en": "Where is the Alumni and Development Office?"
+  },
+  "answer": {
+   "fr": "Le Bureau des diplômés et du développement est dans les maisons du 178 et du 190, avenue Laurier. On y trouve aussi le Centre de ressources des aînés. Ces anciennes résidences privées appartiennent maintenant à l'Université.",
+   "en": "The Alumni and Development Office is in the houses at 178 and 190 Laurier Avenue. The Seniors' Resource Centre is there too. These former private homes now belong to the University."
+  },
+  "sources": [
+   {
+    "label": "King Edward buildings – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/king-edward-buildings"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-osgoode-ajefo",
+  "category": "batiments",
+  "keywords": [
+   "113 osgoode",
+   "ajefo",
+   "centre de traduction juridique",
+   "legal translation centre",
+   "rue osgoode",
+   "juristes d'expression française"
+  ],
+  "question": {
+   "fr": "Qu'y a-t-il au 113, rue Osgoode ?",
+   "en": "What's at 113 Osgoode Street?"
+  },
+  "answer": {
+   "fr": "Le 113, rue Osgoode, une maison appartenant à l'Université, abrite l'Association des juristes d'expression française de l'Ontario et le Centre de traduction et de documentation juridiques.",
+   "en": "113 Osgoode Street, a house owned by the University, is home to the Association des juristes d'expression française de l'Ontario and the Legal Translation and Documentation Centre."
+  },
+  "sources": [
+   {
+    "label": "King Edward buildings – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/king-edward-buildings"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-wilbrod",
+  "category": "batiments",
+  "keywords": [
+   "200 wilbrod",
+   "pavillon wilbrod",
+   "wld",
+   "wilbrod building",
+   "paroisse saint-joseph",
+   "st-joseph parish"
+  ],
+  "question": {
+   "fr": "C'est quoi le bâtiment Wilbrod (WLD) ?",
+   "en": "What is the Wilbrod building (WLD)?"
+  },
+  "answer": {
+   "fr": "Le bâtiment Wilbrod (WLD) est au 200, rue Wilbrod. Il figure sur la carte du campus, mais il appartient à la paroisse Saint-Joseph.",
+   "en": "The Wilbrod building (WLD) is at 200 Wilbrod Street. It appears on the campus map, but it belongs to St. Joseph's Parish."
+  },
+  "sources": [
+   {
+    "label": "Wilbrod (WLD) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/wilbrod"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-1-stewart",
+  "category": "batiments",
+  "keywords": [
+   "1 stewart",
+   "stt",
+   "pavillon 1 stewart",
+   "1 stewart street",
+   "où est stt",
+   "para transpo 3"
+  ],
+  "question": {
+   "fr": "Où est le bâtiment 1 Stewart (STT) ?",
+   "en": "Where is the 1 Stewart building (STT)?"
+  },
+  "answer": {
+   "fr": "Le bâtiment 1 Stewart, code STT, est au 1, rue Stewart. Il est voisin du pavillon Colonel-By : le point Para Transpo 3 se trouve dans le stationnement entre les deux, près de l'avenue King Edward.",
+   "en": "The 1 Stewart building, code STT, is at 1 Stewart Street. It's next to Colonel By Hall: Para Transpo point 3 is in the parking lot between the two, off King Edward Avenue."
+  },
+  "sources": [
+   {
+    "label": "1 Stewart (STT) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/1-stewart"
+   },
+   {
+    "label": "Colonel By Hall – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/colonel-hall-cby"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-tunnels-campus",
+  "category": "batiments",
+  "keywords": [
+   "tunnels campus",
+   "tunnels sous le campus",
+   "underground tunnels uottawa",
+   "centrale thermique tunnels",
+   "vapeur campus",
+   "steam tunnels"
+  ],
+  "question": {
+   "fr": "Y a-t-il des tunnels sous le campus ?",
+   "en": "Are there tunnels under the campus?"
+  },
+  "answer": {
+   "fr": "Oui, environ trois kilomètres de tunnels relient les pavillons du campus et convergent vers la Centrale thermique, sur l'avenue King Edward. Ils servent à transporter la vapeur, l'eau refroidie, le gaz naturel, les lignes téléphoniques et les câbles électriques. Pour te déplacer à l'intérieur, utilise plutôt les liens intérieurs entre pavillons indiqués sur la carte du campus.",
+   "en": "Yes, about three kilometres of tunnels link buildings across campus and meet at the Power Plant on King Edward Avenue. They carry steam, chilled water, natural gas, telephone lines and electrical cables. To get around indoors, use the indoor links between buildings shown on the campus map instead."
+  },
+  "sources": [
+   {
+    "label": "Power Plant – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/power-plant"
+   },
+   {
+    "label": "Campus maps",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-morisset-etages",
+  "category": "batiments",
+  "keywords": [
+   "morisset étages",
+   "qu'y a-t-il à morisset",
+   "morisset floors",
+   "morisset level 3",
+   "centre gsg",
+   "second cup morisset"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve à chaque étage du pavillon Morisset ?",
+   "en": "What's on each floor of Morisset Hall?"
+  },
+  "answer": {
+   "fr": "Au 1er étage, il y a le comptoir de prêt et de réserve, les services de référence, les Ressources médias et un Second Cup. Le niveau 0 regroupe un labo médias, un labo numérique et les bureaux des Archives et collections spéciales. Au 3e, tu trouves le Centre d'information géographique, statistique et gouvernementale et le Centre de données de recherche, et les étages 4 à 6 accueillent les collections et des places d'étude, avec une salle de lecture pour les cycles supérieurs au 6e.",
+   "en": "The 1st floor has the circulation and reserve desk, reference services, Media Resources and a Second Cup. Level 0 holds a media lab, a digital lab and the Archives and Special Collections offices. The 3rd floor has the Geographic, Statistical and Government Information Centre and the Research Data Centre, and floors 4 to 6 hold the collections and study spaces, with a graduate reading room on the 6th."
+  },
+  "sources": [
+   {
+    "label": "Morisset Hall (MRT) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/morisset-hall-mrt"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-morisset-studios",
+  "category": "batiments",
+  "keywords": [
+   "studio photo morisset",
+   "studio son morisset",
+   "plateau de tournage",
+   "soundstage uottawa",
+   "chuo radio",
+   "morisset level 00"
+  ],
+  "question": {
+   "fr": "Où sont la radio CHUO et les studios de son et de photo à Morisset ?",
+   "en": "Where are CHUO radio and the sound and photo studios in Morisset?"
+  },
+  "answer": {
+   "fr": "Ils sont au niveau 00, le plus bas du pavillon Morisset. Tu y trouveras un atelier d'art, des studios de montage sonore et de balado, un labo de photographie numérique, un plateau de tournage et les bureaux de CHUO 89,1 FM. Les toilettes de ce niveau sont des toilettes individuelles accessibles.",
+   "en": "They're on level 00, the lowest level of Morisset Hall. You'll find an art studio, sound editing and podcast studios, a digital photography lab, a soundstage and the offices of CHUO 89.1 FM. The washrooms on that level are single-stall accessible ones."
+  },
+  "sources": [
+   {
+    "label": "Morisset Hall (MRT) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/morisset-hall-mrt"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-fauteux-salle-audience",
+  "category": "batiments",
+  "keywords": [
+   "salle d'audience droit",
+   "moot court",
+   "tribunal école fauteux",
+   "fauteux courtroom",
+   "plaidoirie salle",
+   "salle de procès simulé"
+  ],
+  "question": {
+   "fr": "Y a-t-il une salle d'audience au pavillon Fauteux ?",
+   "en": "Is there a courtroom in Fauteux Hall?"
+  },
+  "answer": {
+   "fr": "Oui. Le pavillon Fauteux a un tribunal-école qu'on peut diviser en trois salles de cours, et sa fiche indique une salle d'audience au 2e étage. On y trouve aussi des auditoriums, des salles de séminaire et, au 3e étage, une cafétéria et le Go Café.",
+   "en": "Yes. Fauteux Hall has a moot court that can be split into three separate lecture halls, and its building page lists a courtroom on the 2nd floor. It also has auditoriums, seminar rooms and, on the 3rd floor, a cafeteria and Go Café."
+  },
+  "sources": [
+   {
+    "label": "Fauteux Hall (FTX) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/fauteux-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-passerelle-residences-fauteux",
+  "category": "batiments",
+  "keywords": [
+   "passerelle fauteux",
+   "thompson fauteux intérieur",
+   "leblanc fauteux",
+   "walkway residences",
+   "aller au cours sans sortir résidence",
+   "lien intérieur résidence droit"
+  ],
+  "question": {
+   "fr": "Peut-on aller des résidences Thompson ou Leblanc au pavillon Fauteux sans sortir ?",
+   "en": "Can I get from Thompson or Leblanc residence to Fauteux Hall without going outside?"
+  },
+  "answer": {
+   "fr": "Oui. Au 3e étage du pavillon Fauteux, une passerelle relie les résidences Leblanc et Thompson et le complexe Brooks. Concrètement, tu entres dans Fauteux par le 2e étage de Thompson, le 3e étage de Leblanc ou le 2e étage de Brooks.",
+   "en": "Yes. On the 3rd floor of Fauteux Hall, a walkway connects Leblanc Residence, Thompson Residence and the Brooks complex. In practice, you enter Fauteux from the 2nd floor of Thompson, the 3rd floor of Leblanc or the 2nd floor of Brooks."
+  },
+  "sources": [
+   {
+    "label": "Fauteux Hall (FTX) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/fauteux-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-lien-ucu-morisset",
+  "category": "batiments",
+  "keywords": [
+   "ucu morisset intérieur",
+   "passer du ucu à morisset",
+   "lien intérieur ucu",
+   "university centre to library indoors",
+   "ucu montpetit lien",
+   "sans sortir ucu"
+  ],
+  "question": {
+   "fr": "Peut-on aller du Centre universitaire à la bibliothèque Morisset sans sortir ?",
+   "en": "Can I get from the University Centre to Morisset Library without going outside?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre universitaire (UCU) est relié au pavillon Morisset au rez-de-chaussée et au 2e étage. Le 2e étage du UCU est aussi relié au pavillon Montpetit, ce qui te permet de continuer jusqu'au gym à l'intérieur.",
+   "en": "Yes, the University Centre (UCU) connects to Morisset Hall on the ground floor and the 2nd floor. UCU's 2nd floor also connects to Montpetit Hall, so you can keep going to the gym indoors."
+  },
+  "sources": [
+   {
+    "label": "University Centre (UCU) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/university-centre-ucu"
+   },
+   {
+    "label": "Montpetit Hall (MNT) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/montpetit-hall-mnt"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-lien-vanier-fss",
+  "category": "batiments",
+  "keywords": [
+   "vanier fss lien",
+   "passer de fss à vanier",
+   "passerelle vanier",
+   "social sciences to vanier indoors",
+   "labos vanier fss",
+   "sans sortir vanier"
+  ],
+  "question": {
+   "fr": "Comment passer du pavillon des Sciences sociales (FSS) au pavillon Vanier ?",
+   "en": "How do I get from the Social Sciences Building (FSS) to Vanier Hall?"
+  },
+  "answer": {
+   "fr": "Les deux pavillons sont reliés à l'intérieur, du 1er au 5e étage, par exemple par la passerelle du 2e étage. Vanier est aussi relié au 2e étage du pavillon Lamoureux. C'est par là que tu atteins les labos informatiques et l'imprimante du 2e étage de Vanier.",
+   "en": "The two buildings are connected indoors from the 1st to the 5th floor, for example by the 2nd-floor bridge. Vanier also connects to the 2nd floor of Lamoureux Hall. That's how you reach the computer labs and the printer on Vanier's 2nd floor."
+  },
+  "sources": [
+   {
+    "label": "Vanier Hall (VNR) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/vanier-hall-vnr"
+   },
+   {
+    "label": "Faculty of Social Sciences Library",
+    "url": "https://www.uottawa.ca/library/faculty-social-sciences-library"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-site-atrium",
+  "category": "batiments",
+  "keywords": [
+   "site atrium",
+   "étudier à site",
+   "site study space",
+   "site food court",
+   "aire de restauration site",
+   "800 pizza quesada"
+  ],
+  "question": {
+   "fr": "Peut-on étudier ou manger dans le pavillon SITE ?",
+   "en": "Can I study or eat in the SITE building?"
+  },
+  "answer": {
+   "fr": "Oui. SITE a un atrium vitré de cinq étages orienté vers le sud, avec des chaises, des tabourets et des tables dans des zones d'étude calmes. Au 1er étage, l'aire de restauration offre 800° Pizza, Quesada et Tim Hortons, à côté du Centre de mentorat en génie et en informatique.",
+   "en": "Yes. SITE has a south-facing five-storey glass atrium with chairs, stools and tables in quiet study areas. On the 1st floor, the food court has 800° Pizza, Quesada and Tim Hortons, next to the Engineering and Computer Science Mentoring Centre."
+  },
+  "sources": [
+   {
+    "label": "SITE (STE) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/site"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-manger-colonel-by",
+  "category": "batiments",
+  "keywords": [
+   "manger colonel by",
+   "nourriture cby",
+   "food near colonel by",
+   "où manger génie",
+   "cafétéria génie",
+   "cby food"
+  ],
+  "question": {
+   "fr": "Où manger quand je suis au pavillon Colonel-By ?",
+   "en": "Where can I eat when I'm in Colonel By Hall?"
+  },
+  "answer": {
+   "fr": "Il n'y a pas de service alimentaire dans le pavillon Colonel-By. Le plus simple est d'aller à côté, dans le pavillon SITE, relié à Colonel-By au 1er étage : tu y trouveras 800° Pizza, Quesada et Tim Hortons.",
+   "en": "There's no food service in Colonel By Hall. The easiest option is next door in the SITE building, connected to Colonel By on the 1st floor: you'll find 800° Pizza, Quesada and Tim Hortons there."
+  },
+  "sources": [
+   {
+    "label": "Colonel By Hall (CBY) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/colonel-hall-cby"
+   },
+   {
+    "label": "SITE (STE) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/site"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-manger-hamelin",
+  "category": "batiments",
+  "keywords": [
+   "manger hamelin",
+   "nourriture hamelin",
+   "food near hamelin",
+   "café arts",
+   "omni café simard",
+   "où manger faculté des arts"
+  ],
+  "question": {
+   "fr": "Où manger quand je suis au pavillon Hamelin ?",
+   "en": "Where can I eat when I'm in Hamelin Hall?"
+  },
+  "answer": {
+   "fr": "Il n'y a pas de service alimentaire dans le pavillon Hamelin. Le pavillon Simard, relié à Hamelin par le 2e étage, a l'Omni Café. Le Starbucks du pavillon Desmarais n'est pas loin non plus.",
+   "en": "There's no food service in Hamelin Hall. Simard Hall, connected to Hamelin through the 2nd floor, has Omni Café. The Starbucks in Desmarais Hall isn't far either."
+  },
+  "sources": [
+   {
+    "label": "Hamelin Hall (MHN) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/hamelin-hall"
+   },
+   {
+    "label": "Simard Hall (SMD) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/simard-hall-smd"
+   },
+   {
+    "label": "Desmarais Hall – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/desmarais-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-manger-vanier-montpetit",
+  "category": "batiments",
+  "keywords": [
+   "manger vanier",
+   "manger montpetit",
+   "food near vanier",
+   "food near gym",
+   "nourriture psychologie",
+   "lamoureux restaurants"
+  ],
+  "question": {
+   "fr": "Où manger quand je suis au pavillon Vanier ou Montpetit ?",
+   "en": "Where can I eat when I'm in Vanier Hall or Montpetit Hall?"
+  },
+  "answer": {
+   "fr": "Ni Vanier ni Montpetit n'ont de service alimentaire. Les deux sont reliés au 2e étage du pavillon Lamoureux, où tu trouveras au niveau 1 Paramount, Thai Express et un Go Café.",
+   "en": "Neither Vanier nor Montpetit has a food service. Both connect to the 2nd floor of Lamoureux Hall, where you'll find Paramount, Thai Express and a Go Café on level 1."
+  },
+  "sources": [
+   {
+    "label": "Vanier Hall (VNR) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/vanier-hall-vnr"
+   },
+   {
+    "label": "Montpetit Hall (MNT) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/montpetit-hall-mnt"
+   },
+   {
+    "label": "Lamoureux Hall (LMX) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-desmarais-3e-etage",
+  "category": "batiments",
+  "keywords": [
+   "desmarais 3e étage",
+   "musée des antiquités classiques",
+   "museum classical antiquities",
+   "centre des examens desmarais",
+   "coop desmarais",
+   "exam centre location"
+  ],
+  "question": {
+   "fr": "Qu'y a-t-il au 3e étage du pavillon Desmarais ?",
+   "en": "What's on the 3rd floor of Desmarais Hall?"
+  },
+  "answer": {
+   "fr": "Le 3e étage de Desmarais regroupe le Bureau des programmes d'enseignement coopératif, le Bureau des bourses et de l'aide financière, le Musée des antiquités classiques et le Centre des examens, y compris les examens adaptés. Il y a aussi des salles de séminaire et de réunion.",
+   "en": "Desmarais' 3rd floor has the Co-operative Education Programs office, the Financial Aid and Awards Centre, the Museum of Classical Antiquities and the Exam Centre, including adapted exams. There are also seminar and meeting rooms."
+  },
+  "sources": [
+   {
+    "label": "Desmarais Hall (DMS) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/desmarais-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-desmarais-arts",
+  "category": "batiments",
+  "keywords": [
+   "département de philosophie",
+   "département d'histoire desmarais",
+   "études anciennes et sciences des religions",
+   "école des sciences de l'information",
+   "département de communication",
+   "arts desmarais étages"
+  ],
+  "question": {
+   "fr": "Quels départements de la Faculté des arts sont au pavillon Desmarais ?",
+   "en": "Which Faculty of Arts departments are in Desmarais Hall?"
+  },
+  "answer": {
+   "fr": "Les étages supérieurs de Desmarais accueillent quatre unités des arts : Philosophie au 8e, Histoire au 9e, Études anciennes et sciences des religions au 10e, et Communication avec l'École des sciences de l'information au 11e. Le 12e étage abrite l'Institut de perfectionnement professionnel.",
+   "en": "Desmarais' upper floors house four Arts units: Philosophy on the 8th, History on the 9th, Classics and Religious Studies on the 10th, and Communication with the School of Information Studies on the 11th. The 12th floor has the Professional Development Institute."
+  },
+  "sources": [
+   {
+    "label": "Desmarais Hall (DMS) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/desmarais-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-hamelin-etages",
+  "category": "batiments",
+  "keywords": [
+   "hamelin étages",
+   "centre d'apprentissage des langues où",
+   "tests de langue bureau",
+   "language testing services",
+   "carrefour entrepreneuriat hamelin",
+   "centre de rédaction arts"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve à chaque étage du pavillon Hamelin ?",
+   "en": "What's on each floor of Hamelin Hall?"
+  },
+  "answer": {
+   "fr": "Au niveau 0, il y a le Carrefour de l'entrepreneuriat et le Centre de ressources Julien-Couture. Le 1er étage regroupe les Services d'évaluation linguistique, le Centre d'apprentissage des langues et l'Institut des langues officielles et du bilinguisme. Les étages suivants accueillent les langues et littératures modernes, l'anglais, puis la linguistique, et le 5e étage a le Centre de rédaction de la Faculté des arts.",
+   "en": "Level 0 has the Entrepreneurship Hub and the Julien Couture Resource Centre. The 1st floor has Language Testing Services, the Centre for Language Learning and the Official Languages and Bilingualism Institute. The next floors house Modern Languages and Literatures, English, then Linguistics, and the 5th floor has the Faculty of Arts Writing Centre."
+  },
+  "sources": [
+   {
+    "label": "Hamelin Hall (MHN) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/hamelin-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-marion-interieur",
+  "category": "batiments",
+  "keywords": [
+   "marion hall intérieur",
+   "centre d'aide en géologie",
+   "geology help centre",
+   "association des étudiants en sciences bureau",
+   "labos chimie marion",
+   "qu'y a-t-il à marion"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve dans le pavillon Marion ?",
+   "en": "What's inside Marion Hall?"
+  },
+  "answer": {
+   "fr": "Le pavillon Marion abrite des laboratoires d'enseignement en sciences de la Terre et en chimie, et le Centre de biologie chimique et synthétique. On y trouve aussi le bureau de l'Association des étudiants en sciences, un salon avec cuisine, un auditorium et le Centre d'aide en géologie. Le 3e étage, avec les labos de chimie, est réservé aux personnes autorisées.",
+   "en": "Marion Hall houses Earth Sciences and Chemistry teaching labs and the Centre for Chemical and Synthetic Biology. It also has the Science Students' Association office, a lounge with a kitchen, an auditorium and the Geology Help Centre. The 3rd floor, with the chemistry labs, is restricted to those with lab clearance."
+  },
+  "sources": [
+   {
+    "label": "Marion Hall (MRN) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/marion-hall-mrn"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-cby-associations",
+  "category": "batiments",
+  "keywords": [
+   "colonel by niveau 0",
+   "associations génie local",
+   "ess bureau",
+   "ingénieurs sans frontières",
+   "engineering student offices",
+   "bureau du doyen génie"
+  ],
+  "question": {
+   "fr": "Où sont les bureaux des associations étudiantes de génie ?",
+   "en": "Where are the engineering student association offices?"
+  },
+  "answer": {
+   "fr": "Ils sont au niveau 0 du pavillon Colonel-By : l'Association des étudiants en génie, Ingénieurs sans frontières, Femmes en sciences et en génie, la Société étudiante de génie mécanique et la Société canadienne de génie civil. Le Bureau du doyen de la Faculté de génie est au niveau 3A du même pavillon.",
+   "en": "They're on level 0 of Colonel By Hall: the Engineering Students' Society, Engineers Without Borders, uOttawa Women in Science and Engineering, the Mechanical Engineering Student Society and the Canadian Society for Civil Engineering. The Dean's Office of the Faculty of Engineering is on level 3A of the same building."
+  },
+  "sources": [
+   {
+    "label": "Colonel By Hall (CBY) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/colonel-hall-cby"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-site-etages",
+  "category": "batiments",
+  "keywords": [
+   "site étages",
+   "makerlaunch",
+   "association étudiante informatique",
+   "computer science student association",
+   "école de génie électrique et informatique",
+   "site floors"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve aux étages du pavillon SITE ?",
+   "en": "What's on the floors of the SITE building?"
+  },
+  "answer": {
+   "fr": "Au niveau 0, il y a des labos informatiques et des salles de cours. Le 1er étage a l'aire de restauration et les bureaux des études de la Faculté de génie, et le 2e, le labo d'optique de premier cycle et les services informatiques de génie. Le 3e accueille MakerLaunch, le 4e l'Association étudiante d'informatique et la branche étudiante de l'IEEE, et le 5e l'École de science informatique et de génie électrique.",
+   "en": "Level 0 has computer labs and classrooms. The 1st floor has the food court and the Faculty of Engineering studies offices, and the 2nd, the undergraduate optics lab and Engineering IT services. The 3rd floor hosts MakerLaunch, the 4th the Computer Science Student Association and the IEEE student branch, and the 5th the School of Electrical Engineering and Computer Science."
+  },
+  "sources": [
+   {
+    "label": "SITE (STE) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/site"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-minto-interieur",
+  "category": "batiments",
+  "keywords": [
+   "minto aréna",
+   "patinoire uottawa",
+   "minto arena",
+   "hockey rink campus",
+   "clinique physiothérapie minto",
+   "qu'y a-t-il à minto"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve dans le complexe sportif Minto ?",
+   "en": "What's inside the Minto Sports Complex?"
+  },
+  "answer": {
+   "fr": "Construit en 2001, le complexe Minto a un aréna de 1 200 places avec patinoire de hockey, une deuxième patinoire, des installations d'entraînement, un terrain d'athlétisme et un grand garage. On y trouve aussi le Centre de santé et de bien-être étudiant, un Shoppers Drug Mart, la Clinique de médecine sportive, une boutique de hockey et le restaurant-pub NOX. Une clinique de physiothérapie et de réadaptation y offre aussi des stages aux étudiants.",
+   "en": "Built in 2001, Minto has a 1,200-seat arena with a hockey rink, a second rink, training facilities, an athletic field and a large garage. You'll also find the Student Health and Wellness Centre, a Shoppers Drug Mart, the Sports Medical Clinic, a hockey pro shop and NOX Restaurant & Pub. A physiotherapy and rehabilitation clinic also provides student practicums."
+  },
+  "sources": [
+   {
+    "label": "Minto Sports Complex (MNO) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/minto-sports-complex"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-100-marie-curie-sante",
+  "category": "batiments",
+  "keywords": [
+   "pharmacie campus",
+   "dentiste campus",
+   "clinique sans rendez-vous campus",
+   "100 marie-curie",
+   "walk-in clinic uottawa",
+   "dentist near campus"
+  ],
+  "question": {
+   "fr": "Y a-t-il une pharmacie, un dentiste ou une clinique sans rendez-vous près du campus ?",
+   "en": "Is there a pharmacy, dentist or walk-in clinic near campus?"
+  },
+  "answer": {
+   "fr": "Oui, au 100, privée Marie-Curie : entre le sous-sol et le dernier étage, ce petit bâtiment ouvert en 1990 accueille plusieurs services de santé privés, dont une pharmacie, un dentiste et une clinique sans rendez-vous. Le dernier étage abrite le Service de réussite scolaire des étudiants. Le bâtiment n'a pas de service alimentaire.",
+   "en": "Yes, at 100 Marie-Curie Private: between the basement and the top floor, this small building opened in 1990 houses several private health services, including a pharmacy, a dentist and a walk-in clinic. The top floor holds the Student Academic Success Service. There's no food service in the building."
+  },
+  "sources": [
+   {
+    "label": "100 Marie-Curie (MCE) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/100-marie-curie"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-archives-universite",
+  "category": "batiments",
+  "keywords": [
+   "archives de l'université",
+   "gestion de l'information et des archives",
+   "university archives",
+   "historique uottawa documents",
+   "salle de consultation archives",
+   "100 marie-curie sous-sol"
+  ],
+  "question": {
+   "fr": "Où sont conservées les archives historiques de l'Université ?",
+   "en": "Where are the University's historical archives kept?"
+  },
+  "answer": {
+   "fr": "Au sous-sol du 100, privée Marie-Curie, le service de Gestion de l'information et des archives a de grandes voûtes à température et humidité contrôlées pour conserver le patrimoine archivistique de l'Université. Une salle de consultation est offerte aux chercheurs qui veulent étudier ces documents.",
+   "en": "In the basement of 100 Marie-Curie Private, Information and Archives Management has large temperature- and humidity-controlled vaults that preserve the University's archival heritage. A reading room is available for researchers who want to study these documents."
+  },
+  "sources": [
+   {
+    "label": "100 Marie-Curie (MCE) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/100-marie-curie"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-rgn-entree-sans-obstacle",
+  "category": "batiments",
+  "keywords": [
+   "roger-guindon accessible",
+   "entrée accessible rgn",
+   "451 smyth fauteuil roulant",
+   "roger guindon wheelchair",
+   "barrier-free entrance rgn",
+   "campus alta vista accessible"
+  ],
+  "question": {
+   "fr": "L'entrée principale du pavillon Roger-Guindon est-elle accessible ?",
+   "en": "Is the main entrance of Roger Guindon Hall accessible?"
+  },
+  "answer": {
+   "fr": "Non : l'entrée principale, au 451, chemin Smyth, n'est pas sans obstacle. Le parcours sans obstacle passe par l'entrée secondaire 1001, indiquée en bleu sur les plans du pavillon. Pendant les travaux du campus Alta Vista, consulte aussi la carte du stationnement accessible avant de t'y rendre.",
+   "en": "No: the main entrance, at 451 Smyth Road, isn't barrier-free. The barrier-free path goes through secondary entrance 1001, shown in blue on the building's floor plans. During construction on the Alta Vista Campus, also check the accessible parking map before you go."
+  },
+  "sources": [
+   {
+    "label": "Roger Guindon Hall (RGN) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/roger-guindon-hall-rgn"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-fhs-etages",
+  "category": "batiments",
+  "keywords": [
+   "200 lees étages",
+   "fhs étages",
+   "infoservice lees",
+   "salle multiconfessionnelle lees",
+   "studio musique et santé",
+   "centre de simulation sciences infirmières"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve dans le pavillon 200 Lees (FHS) ?",
+   "en": "What's inside the 200 Lees (FHS) building?"
+  },
+  "answer": {
+   "fr": "Au 1er étage, il y a le café Odelees, un comptoir InfoService, le Studio musique et santé et la bibliothèque du campus Lees. Le 3e étage a une salle multiconfessionnelle, des labos d'enseignement en sciences infirmières et le Centre de simulation et de mentorat Louise-McEntyre-West. Le Bureau du doyen de la Faculté des sciences de la santé est au 5e étage.",
+   "en": "The 1st floor has Odelees, an InfoService desk, the Music and Health Studio and the Lees Campus Library. The 3rd floor has a multi-faith room, nursing teaching labs and the Louise McEntyre West Nursing Simulation and Peer Mentorship Centre. The Faculty of Health Sciences Office of the Dean is on the 5th floor."
+  },
+  "sources": [
+   {
+    "label": "200 Lees FHS – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/200-lees-fhs"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-brooks-services",
+  "category": "batiments",
+  "keywords": [
+   "brooks contenu",
+   "clinique cippic",
+   "programme de défense contraventions",
+   "ticket defence program",
+   "centre de droit technologie société",
+   "garderie campus"
+  ],
+  "question": {
+   "fr": "Quels services de droit se trouvent dans le complexe Brooks ?",
+   "en": "Which law services are in the Brooks complex?"
+  },
+  "answer": {
+   "fr": "Le complexe Brooks accueille des bureaux de la Section de common law, la Clinique d'intérêt public et de politique d'Internet du Canada Samuelson-Glushko (CIPPIC), le Programme de défense contre les contraventions et le Centre de recherche en droit, technologie et société. Il abrite aussi une garderie et un centre de dons.",
+   "en": "The Brooks complex houses Common Law Section offices, the Samuelson-Glushko Canadian Internet Policy and Public Interest Clinic (CIPPIC), the Ticket Defence Program and the Centre for Law, Technology and Society. It also has a child-care centre and a donation centre."
+  },
+  "sources": [
+   {
+    "label": "Brooks (BRS) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/brooks-residence"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-perez-services",
+  "category": "batiments",
+  "keywords": [
+   "pérez intérieur",
+   "association étudiante musique",
+   "creator space",
+   "piano tech",
+   "école de musique pavillon",
+   "qu'y a-t-il à pérez"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve dans le pavillon Pérez, à part l'École de musique ?",
+   "en": "What's in Pérez Hall besides the School of Music?"
+  },
+  "answer": {
+   "fr": "En plus de l'École de musique, de sa bibliothèque de musique, des salles de pratique et de l'auditorium, le pavillon Pérez accueille l'Association des étudiants en musique, le Creator Space, Piano Tech et le Laboratoire de recherche en pédagogie du piano. Il n'y a pas de service alimentaire dans le pavillon.",
+   "en": "Besides the School of Music, its music library, practice rooms and auditorium, Pérez Hall houses the Music Students' Association, the Creator Space, Piano Tech and the Piano Pedagogy Research Laboratory. There's no food service in the building."
+  },
+  "sources": [
+   {
+    "label": "Pérez Hall (PRZ) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/perez-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-vanier-etages",
+  "category": "batiments",
+  "keywords": [
+   "vanier étages",
+   "service d'appui à l'enseignement",
+   "tlss vanier",
+   "teaching technologies lab",
+   "psychologie clinique vanier",
+   "vanier floors"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve aux étages du pavillon Vanier ?",
+   "en": "What's on the floors of Vanier Hall?"
+  },
+  "answer": {
+   "fr": "Le 1er étage de Vanier accueille le Service d'appui à l'enseignement et à l'apprentissage, avec ses salles de formation et le Laboratoire des technologies d'enseignement, au local 1020. Les étages supérieurs regroupent les labos de psychologie cognitive, de neuropsychologie, de psychologie clinique et du développement, ainsi que le Centre de services et de recherche en psychologie.",
+   "en": "Vanier's 1st floor has Teaching and Learning Support Services, with its training rooms and the Teaching Technologies Lab in room 1020. The upper floors hold the cognitive psychology, neuropsychology, clinical and developmental psychology labs, along with the Centre for Psychological Services and Research."
+  },
+  "sources": [
+   {
+    "label": "Vanier Hall (VNR) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/vanier-hall-vnr"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-simard-etages",
+  "category": "batiments",
+  "keywords": [
+   "simard étages",
+   "safa local",
+   "association étudiante arts",
+   "laboratoire de données en sciences humaines",
+   "école de traduction simard",
+   "simard floors"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve aux étages du pavillon Simard ?",
+   "en": "What's on the floors of Simard Hall?"
+  },
+  "answer": {
+   "fr": "Au niveau 00, le plus bas de Simard, il y a l'Omni Café, des casiers et l'Association étudiante de la Faculté des arts (SAFA). Le niveau 0 accueille le Département de géographie, environnement et géomatique, et le 1er étage le Centre de mentorat étudiant, les services scolaires de premier cycle et le bureau du doyen des arts. Le Département de français est au 2e, le Humanities Data Lab au 3e et l'École de traduction et d'interprétation au 5e.",
+   "en": "Level 00, Simard's lowest level, has Omni Café, lockers and the Students' Association of the Faculty of Arts (SAFA). Level 0 holds the Department of Geography, Environment and Geomatics, and the 1st floor the Student Mentoring Centre, undergraduate academic services and the Arts Dean's office. The Département de français is on the 2nd, the Humanities Data Lab on the 3rd and the School of Translation and Interpretation on the 5th."
+  },
+  "sources": [
+   {
+    "label": "Simard Hall (SMD) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/simard-hall-smd"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-lmx-etages",
+  "category": "batiments",
+  "keywords": [
+   "lamoureux étages",
+   "edstudio",
+   "centre de mentorat éducation",
+   "virtual history lab",
+   "doyen éducation bureau",
+   "lamoureux floors"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve aux étages du pavillon Lamoureux ?",
+   "en": "What's on the floors of Lamoureux Hall?"
+  },
+  "answer": {
+   "fr": "Le 2e étage de Lamoureux a le Centre de ressources et le Centre de mentorat de la Faculté d'éducation, edstudiO et des salles d'étude privées. Au 3e étage, tu trouves le Virtual History Lab et les bureaux du doyen de la Faculté d'éducation. Le 4e étage regroupe des salles de cours et des laboratoires de recherche et de sciences.",
+   "en": "Lamoureux's 2nd floor has the Faculty of Education Resource Centre and Mentoring Centre, edstudiO and private study rooms. The 3rd floor has the Virtual History Lab and the offices of the Dean of the Faculty of Education. The 4th floor holds classrooms and research and science labs."
+  },
+  "sources": [
+   {
+    "label": "Lamoureux Hall (LMX) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/lamoureux-hall-lmx"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-montpetit-etages",
+  "category": "batiments",
+  "keywords": [
+   "montpetit étages",
+   "studio de danse",
+   "centre aquatique montpetit",
+   "sciences de l'activité physique bureau",
+   "montpetit floors",
+   "vestiaires montpetit"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'on trouve aux étages du pavillon Montpetit ?",
+   "en": "What's on the floors of Montpetit Hall?"
+  },
+  "answer": {
+   "fr": "Le niveau 0 de Montpetit regroupe les gymnases, le centre aquatique, le centre de conditionnement physique et les vestiaires. Plus haut, il y a des labos informatiques, un studio de danse et les bureaux des Services des sports, puis les bureaux des études de la Faculté des sciences de la santé et de l'École des sciences de l'activité physique. Il n'y a pas de service alimentaire dans le pavillon.",
+   "en": "Montpetit's level 0 holds the gyms, the aquatic centre, the fitness centre and the change rooms. Higher up are computer labs, a dance studio and Sports Services offices, then the Faculty of Health Sciences studies offices and the School of Human Kinetics. There's no food service in the building."
+  },
+  "sources": [
+   {
+    "label": "Montpetit Hall (MNT) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/montpetit-hall-mnt"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-desmarais-4e-etage",
+  "category": "batiments",
+  "keywords": [
+   "desmarais 4e étage",
+   "centre de soutien à la recherche telfer",
+   "programmes des cycles supérieurs telfer",
+   "bureau du doyen telfer",
+   "telfer graduate office",
+   "research support centre"
+  ],
+  "question": {
+   "fr": "Où sont les programmes des cycles supérieurs et le bureau du doyen de Telfer ?",
+   "en": "Where are Telfer's graduate programs and Dean's office?"
+  },
+  "answer": {
+   "fr": "Ils sont au 4e étage du pavillon Desmarais, avec le Centre de soutien à la recherche, les bureaux des vice-doyens, des salles de cours et un salon étudiant. Les services administratifs de Telfer sont au 5e étage.",
+   "en": "They're on the 4th floor of Desmarais Hall, along with the Research Support Centre, the Associate Deans' offices, classrooms and a student lounge. Telfer's administrative services are on the 5th floor."
+  },
+  "sources": [
+   {
+    "label": "Desmarais Hall (DMS) – Building information",
+    "url": "https://www.uottawa.ca/about-us/administration-services/facilities/campus-maps/building/desmarais-hall"
+   }
+  ],
+  "related": [
+   "za-acces-morisset",
+   "za-acces-ucu",
+   "za-acces-fauteux"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-livraison-domicile",
+  "category": "bibliotheques",
+  "keywords": [
+   "livraison à domicile",
+   "home delivery library",
+   "livre par la poste",
+   "bibliothèque envoi poste",
+   "emprunter à distance",
+   "postes canada bibliothèque"
+  ],
+  "question": {
+   "fr": "La bibliothèque peut-elle m'envoyer des livres à la maison ?",
+   "en": "Can the Library mail books to my home?"
+  },
+  "answer": {
+   "fr": "Oui, le service de livraison à domicile est gratuit pour les livres de la collection générale et de l'Annexe, mais seulement au Canada, à l'extérieur de la région d'Ottawa-Gatineau. Il est aussi offert dans la région si tu as une maladie ou un handicap. Dans Omni, choisis « Place a hold », puis « Home Delivery » comme lieu de ramassage, et retourne les livres avec l'étiquette prépayée fournie.",
+   "en": "Yes, home delivery is free for books in the general collection and the Annex, but only within Canada, outside the Ottawa-Gatineau region. It's also offered locally if you have an illness or disability. In Omni, choose Place a hold, then Home Delivery as the pickup location, and return the books with the prepaid label provided."
+  },
+  "sources": [
+   {
+    "label": "Home delivery service",
+    "url": "https://www.uottawa.ca/library/services/borrow-access/home-delivery-service"
+   }
+  ],
+  "related": [
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites",
+   "za-programme-conjoint-carleton"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-pret-diplomes-visiteurs",
+  "category": "bibliotheques",
+  "keywords": [
+   "combien de livres diplômé",
+   "pret visiteur bibliothèque",
+   "alumni loan period",
+   "visitor borrowing limit",
+   "emprunt diplômés",
+   "durée prêt visiteur"
+  ],
+  "question": {
+   "fr": "Combien de livres un diplômé ou un visiteur peut-il emprunter ?",
+   "en": "How many books can an alumnus or a visitor borrow?"
+  },
+  "answer": {
+   "fr": "Les diplômés peuvent emprunter jusqu'à 50 documents pour 28 jours, avec deux renouvellements. Les visiteurs et les membres de SmartLibrary ont droit à 15 documents pour 28 jours, avec deux renouvellements. Les étudiants et le personnel, eux, peuvent en emprunter 500 pour 120 jours.",
+   "en": "Alumni can borrow up to 50 items for 28 days, with two renewals. Visitors and SmartLibrary members can borrow 15 items for 28 days, with two renewals. Students and staff, by comparison, can borrow 500 items for 120 days."
+  },
+  "sources": [
+   {
+    "label": "Borrow",
+    "url": "https://www.uottawa.ca/library/services/borrow"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-autres-universites",
+   "za-programme-conjoint-carleton"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-pret-autres-universites",
+  "category": "bibliotheques",
+  "keywords": [
+   "étudiant autre université",
+   "emprunt réciproque",
+   "reciprocal borrowing",
+   "curba",
+   "carleton student borrow",
+   "canadian university borrowing"
+  ],
+  "question": {
+   "fr": "Je suis étudiant dans une autre université canadienne : puis-je emprunter à uOttawa ?",
+   "en": "I'm a student at another Canadian university: can I borrow from uOttawa?"
+  },
+  "answer": {
+   "fr": "Oui, grâce à l'entente canadienne de prêt réciproque entre universités, les étudiants, professeurs et employés d'autres universités canadiennes peuvent emprunter 15 documents pour 28 jours, avec deux renouvellements. Présente-toi à un comptoir de service avec une pièce d'identité avec photo et adresse, et ta carte de ton établissement.",
+   "en": "Yes, under the Canadian University Reciprocal Borrowing Agreement, students, faculty and staff of other Canadian universities can borrow 15 items for 28 days, with two renewals. Go to a service desk with photo ID showing your address and your card from your institution."
+  },
+  "sources": [
+   {
+    "label": "Borrow",
+    "url": "https://www.uottawa.ca/library/services/borrow"
+   },
+   {
+    "label": "Alumni and visitors services",
+    "url": "https://www.uottawa.ca/library/services/alumni-visitors"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-programme-conjoint-carleton"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-programme-conjoint-carleton",
+  "category": "bibliotheques",
+  "keywords": [
+   "programme conjoint carleton",
+   "carleton bibliothèque uottawa",
+   "ottawa-carleton joint program",
+   "carleton card library",
+   "accès ressources uottawa carleton",
+   "étudiant carleton"
+  ],
+  "question": {
+   "fr": "Je suis dans un programme conjoint Ottawa-Carleton : comment accéder à la bibliothèque d'uOttawa ?",
+   "en": "I'm in an Ottawa-Carleton joint program: how do I access uOttawa's library?"
+  },
+  "answer": {
+   "fr": "Tu reçois tes identifiants d'uOttawa par courriel à la fin septembre, après la date limite d'abandon des cours ; ils te donnent accès aux ressources de l'Université. Pour obtenir des privilèges d'emprunt prolongés, apporte ta carte étudiante de Carleton au comptoir de prêt. Si tu as oublié ton mot de passe, appelle le Service desk au 613-562-5800, poste 5000.",
+   "en": "You'll receive your uOttawa login credentials by email in late September, after the course drop deadline; they give you access to University resources. For extended borrowing privileges, bring your Carleton student card to the circulation desk. If you've forgotten your password, call the Service Desk at 613-562-5800, extension 5000."
+  },
+  "sources": [
+   {
+    "label": "Services for students",
+    "url": "https://www.uottawa.ca/library/services/students"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-pret-periodiques-medias",
+  "category": "bibliotheques",
+  "keywords": [
+   "emprunter dvd",
+   "emprunter jeu bibliothèque",
+   "durée prêt périodique",
+   "borrow dvd library",
+   "game loan library",
+   "media loan period"
+  ],
+  "question": {
+   "fr": "Combien de temps puis-je emprunter un DVD, un jeu ou une revue ?",
+   "en": "How long can I borrow a DVD, a game or a journal?"
+  },
+  "answer": {
+   "fr": "Les périodiques, les recueils de jurisprudence et les jeux s'empruntent normalement 14 jours, avec deux renouvellements. La plupart des médias, comme les DVD et les CD, ainsi que l'équipement, s'empruntent aussi 14 jours avec deux renouvellements. L'équipement multimédia du comptoir de Morisset, lui, est prêté 7 jours.",
+   "en": "Periodicals, law reports and games can normally be borrowed for 14 days, with two renewals. Most media, like DVDs and CDs, and equipment are also 14 days with two renewals. Multimedia equipment from the Morisset main desk is loaned for 7 days."
+  },
+  "sources": [
+   {
+    "label": "Borrow",
+    "url": "https://www.uottawa.ca/library/services/borrow"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-avis-courtoisie",
+  "category": "bibliotheques",
+  "keywords": [
+   "avis de courtoisie",
+   "rappel date de retour",
+   "library due date email",
+   "courtesy notice",
+   "courriel bibliothèque échéance",
+   "reminder library book"
+  ],
+  "question": {
+   "fr": "Est-ce que la bibliothèque m'avertit avant la date de retour ?",
+   "en": "Does the Library remind me before an item is due?"
+  },
+  "answer": {
+   "fr": "Oui, tu reçois un avis par courriel normalement deux jours avant l'échéance, puis si le document est en retard, s'il a été rappelé ou si un document demandé est prêt. Les étudiants le reçoivent à leur adresse @uOttawa.ca. Attention : tu restes responsable de rendre tes documents à temps, même si tu ne reçois pas l'avis.",
+   "en": "Yes, you get an email notice normally two days before the due date, then if the item is overdue, has been recalled, or if an item you requested is ready. Students get it at their @uOttawa.ca address. Note that you're still responsible for returning items on time even if you don't get the notice."
+  },
+  "sources": [
+   {
+    "label": "Borrow",
+    "url": "https://www.uottawa.ca/library/services/borrow"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-privileges-suspendus",
+  "category": "bibliotheques",
+  "keywords": [
+   "compte bibliothèque bloqué",
+   "privilèges suspendus",
+   "library account blocked",
+   "frais bibliothèque diplôme",
+   "can't borrow library fines",
+   "relevé de notes bibliothèque"
+  ],
+  "question": {
+   "fr": "Pourquoi mon compte de bibliothèque est-il bloqué ?",
+   "en": "Why is my library account blocked?"
+  },
+  "answer": {
+   "fr": "Tes privilèges d'emprunt sont suspendus si tu dois 20 dollars ou plus, ou si tu as un document de réserve ou un document rappelé en retard. Pour obtenir ton diplôme, tes notes ou ton relevé, tu ne dois avoir aucun frais impayé, et les comptes impayés peuvent être confiés à une agence de recouvrement.",
+   "en": "Your borrowing privileges are suspended if you owe 20 dollars or more, or if you have an overdue reserve item or an overdue recalled item. To graduate or get your marks or transcripts, you must have no outstanding charges, and unpaid accounts may be sent to a collection agency."
+  },
+  "sources": [
+   {
+    "label": "Borrow",
+    "url": "https://www.uottawa.ca/library/services/borrow"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-paiement-biblio",
+  "category": "bibliotheques",
+  "keywords": [
+   "payer amende bibliothèque",
+   "paiement bibliothèque",
+   "comptant bibliothèque",
+   "pay library fine",
+   "library payment methods",
+   "carte flex bibliothèque"
+  ],
+  "question": {
+   "fr": "Comment payer des frais à la bibliothèque ? Est-ce qu'on accepte le comptant ?",
+   "en": "How do I pay library fees? Is cash accepted?"
+  },
+  "answer": {
+   "fr": "Non, la Bibliothèque n'accepte plus le comptant. Toutes ses succursales acceptent la carte de débit, les cartes de crédit Visa et Mastercard, les chèques et la carte uO Flex.",
+   "en": "No, the Library is officially cashless. All locations accept debit, Visa and Mastercard credit cards, cheques and the uO Flex card."
+  },
+  "sources": [
+   {
+    "label": "Borrow",
+    "url": "https://www.uottawa.ca/library/services/borrow"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-transfert-bibliotheques",
+  "category": "bibliotheques",
+  "keywords": [
+   "transférer livre bibliothèque",
+   "livre à roger-guindon",
+   "transfer book health sciences",
+   "saint-paul bibliothèque",
+   "demande transfert omni",
+   "pick up other library"
+  ],
+  "question": {
+   "fr": "Puis-je faire envoyer un livre du campus principal à la bibliothèque des sciences de la santé ?",
+   "en": "Can I have a book sent from the main campus to the Health Sciences Library?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es affilié à l'Université, tu peux demander qu'un document soit transféré des bibliothèques du campus principal vers la bibliothèque des sciences de la santé, la bibliothèque Berkman ou celle de l'Université Saint-Paul, et vice versa. Fais la demande dans Omni et choisis ton lieu de ramassage ; le document t'y attend 7 jours après son arrivée.",
+   "en": "Yes, if you're affiliated with the University, you can ask for an item to be transferred from the main campus libraries to the Health Sciences Library, the Berkman Library or Saint Paul University Library, and vice versa. Make the request in Omni and choose your pickup location; the item is held for 7 days after it arrives."
+  },
+  "sources": [
+   {
+    "label": "Borrow",
+    "url": "https://www.uottawa.ca/library/services/borrow"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-omni-connexion-visiteur",
+  "category": "bibliotheques",
+  "keywords": [
+   "omni id",
+   "connexion omni visiteur",
+   "omni login alumni",
+   "mot de passe omni oublié",
+   "reset omni password",
+   "se connecter omni diplômé"
+  ],
+  "question": {
+   "fr": "Je suis diplômé ou visiteur : comment me connecter à Omni ?",
+   "en": "I'm an alumnus or visitor: how do I sign in to Omni?"
+  },
+  "answer": {
+   "fr": "Sur la page d'Omni, clique sur « Sign in » en haut à droite, puis choisis « Omni ID ». Ton identifiant est ton adresse courriel, et ton mot de passe est celui que tu as choisi en créant ton compte de bibliothèque. Si tu l'as oublié, clique sur « Need help signing in? », puis sur l'option pour réinitialiser le mot de passe.",
+   "en": "On the Omni page, click Sign in at the top right, then choose Omni ID. Your user ID is your email address, and your password is the one you chose when you created your library account. If you've forgotten it, click Need help signing in?, then the reset password option."
+  },
+  "sources": [
+   {
+    "label": "Alumni and visitors services",
+    "url": "https://www.uottawa.ca/library/services/alumni-visitors"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-ressources-en-ligne-qui",
+  "category": "bibliotheques",
+  "keywords": [
+   "diplômé accès bases de données",
+   "ressources en ligne diplômés",
+   "alumni online resources",
+   "qui peut accéder aux articles",
+   "accès public ressources électroniques",
+   "guest account online resources"
+  ],
+  "question": {
+   "fr": "Les diplômés ou le public peuvent-ils accéder aux ressources en ligne de la bibliothèque ?",
+   "en": "Can alumni or the public access the Library's online resources?"
+  },
+  "answer": {
+   "fr": "À distance, l'accès est réservé aux étudiants, professeurs et employés actuels, aux titulaires de comptes parrainés et aux chercheurs des instituts hospitaliers affiliés, à cause des licences. Les membres du public, y compris les diplômés, peuvent consulter les ressources en ligne sur place, avec un compte invité sur un ordinateur de la bibliothèque, ou utiliser des ressources en libre accès.",
+   "en": "Remote access is limited, because of licences, to current students, faculty and staff, sponsored account holders and researchers at affiliated hospital research institutes. Members of the public, including alumni, can use online resources on-site with a guest account on a library computer, or use open access resources."
+  },
+  "sources": [
+   {
+    "label": "Sign in to online resources",
+    "url": "https://www.uottawa.ca/library/services/sign-online-resources"
+   },
+   {
+    "label": "Alumni and visitors services",
+    "url": "https://www.uottawa.ca/library/services/alumni-visitors"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-lien-openathens",
+  "category": "bibliotheques",
+  "keywords": [
+   "partager un article",
+   "lien openathens",
+   "share library link",
+   "générateur de liens",
+   "paywall lien collègue",
+   "library access link"
+  ],
+  "question": {
+   "fr": "Comment partager un article de la bibliothèque sans que l'autre personne tombe sur un mur payant ?",
+   "en": "How do I share a library article without the other person hitting a paywall?"
+  },
+  "answer": {
+   "fr": "Utilise un lien d'accès de la bibliothèque plutôt que l'adresse de l'éditeur. Copie le DOI ou le lien permanent de l'article, colle-le dans le générateur de liens OpenAthens, en vérifiant que l'organisation est Bibliothèque uOttawa Library, et partage le lien obtenu. La personne pourra se connecter grâce aux abonnements de la Bibliothèque.",
+   "en": "Use a library access link instead of the publisher's address. Copy the article's DOI or persistent URL, paste it into the OpenAthens Link Generator, checking that the organization is Bibliothèque uOttawa Library, and share the link it creates. The other person can then connect through the Library's subscriptions."
+  },
+  "sources": [
+   {
+    "label": "Sign in to online resources",
+    "url": "https://www.uottawa.ca/library/services/sign-online-resources"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-texte-integral-article",
+  "category": "bibliotheques",
+  "keywords": [
+   "texte intégral article",
+   "seulement le résumé",
+   "full text article",
+   "afficher get it",
+   "trouver le pdf article",
+   "article abstract only"
+  ],
+  "question": {
+   "fr": "La base de données ne me donne que le résumé : comment avoir l'article complet ?",
+   "en": "The database only gives me the abstract: how do I get the full article?"
+  },
+  "answer": {
+   "fr": "Cherche le bouton « Afficher! Get It! », souvent près de la référence : il vérifie si une autre base de données offre le texte intégral. Repère aussi les mentions comme « available online » ou « view PDF ». Si la Bibliothèque n'a pas la revue, demande l'article par le prêt entre bibliothèques.",
+   "en": "Look for the Afficher! Get It! button, usually near the citation: it checks whether another database has the full text. Also watch for phrases like available online or view PDF. If the Library doesn't have the journal, request the article through interlibrary loan."
+  },
+  "sources": [
+   {
+    "label": "Ask and contact – FAQ",
+    "url": "https://www.uottawa.ca/library/ask-contact"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-courriel-biblio",
+  "category": "bibliotheques",
+  "keywords": [
+   "écrire à la bibliothèque",
+   "courriel bibliothèque",
+   "email library question",
+   "délai réponse bibliothèque",
+   "library contact email",
+   "question par courriel bibliothèque"
+  ],
+  "question": {
+   "fr": "Puis-je poser ma question à la bibliothèque par courriel ?",
+   "en": "Can I email my question to the Library?"
+  },
+  "answer": {
+   "fr": "Oui, envoie ta question à l'adresse courriel générale de la Bibliothèque, indiquée sur sa page « Demandez-nous » : on répond habituellement en moins de 24 heures. Tu peux aussi appeler le 613-562-5213 pendant les heures d'ouverture, ou utiliser le clavardage.",
+   "en": "Yes, send your question to the Library's general email address, listed on its Ask us page: they usually reply within 24 hours. You can also call 613-562-5213 during opening hours, or use the chat."
+  },
+  "sources": [
+   {
+    "label": "Ask and contact",
+    "url": "https://www.uottawa.ca/library/ask-contact"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-ares-reserve-cours",
+  "category": "bibliotheques",
+  "keywords": [
+   "ares",
+   "lectures de cours en ligne",
+   "course reserve ares",
+   "réserve de cours numérique",
+   "trouver mes lectures",
+   "ares campus virtuel"
+  ],
+  "question": {
+   "fr": "Comment trouver les lectures que mon prof a mises à la réserve de cours ?",
+   "en": "How do I find the readings my professor put on course reserve?"
+  },
+  "answer": {
+   "fr": "Les lectures sont dans Ares, la plateforme de réserve de cours de la Bibliothèque. Connecte-toi directement à Ares avec ton identifiant uoAccess, la partie avant @uOttawa.ca, et ton mot de passe, ou passe par le Campus virtuel si ton prof l'a activé. Choisis ton cours, puis clique sur un titre : pour un document papier, la cote et le lieu de ramassage sont indiqués.",
+   "en": "Readings are in Ares, the Library's course reserve platform. Sign in to Ares directly with your uoAccess ID, the part before @uOttawa.ca, and your password, or go through Virtual Campus if your professor has activated it. Pick your course, then click a title: for a print item, the call number and pickup location are listed."
+  },
+  "sources": [
+   {
+    "label": "Course reserves",
+    "url": "https://www.uottawa.ca/library/services/course-reserves"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-reserve-cours-regles",
+  "category": "bibliotheques",
+  "keywords": [
+   "réserve de cours combien",
+   "renouveler réserve",
+   "course reserve limit",
+   "sortir livre réserve",
+   "reserve items rules",
+   "prêt réserve durée"
+  ],
+  "question": {
+   "fr": "Combien de documents de la réserve de cours puis-je emprunter, et puis-je les renouveler ?",
+   "en": "How many course reserve items can I borrow, and can I renew them?"
+  },
+  "answer": {
+   "fr": "Tu peux emprunter au maximum trois documents de la réserve en même temps. Ils peuvent généralement sortir de la bibliothèque, sauf certains documents appartenant au professeur, réservés à la consultation sur place. Tu ne peux pas les renouveler tout de suite : il faut les rendre pour que d'autres étudiants y aient accès.",
+   "en": "You can borrow a maximum of three reserve items at once. They can usually leave the library, except some items owned by your professor, which are for in-library use only. You can't renew them right away: they must be returned so other students get a chance to borrow them."
+  },
+  "sources": [
+   {
+    "label": "Course reserves",
+    "url": "https://www.uottawa.ca/library/services/course-reserves"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-reserve-cours-profs",
+  "category": "bibliotheques",
+  "keywords": [
+   "mettre à la réserve",
+   "professeur réserve de cours",
+   "place on reserve",
+   "syllabus bibliothèque",
+   "instructor course reserves",
+   "réserve de cours délai"
+  ],
+  "question": {
+   "fr": "Je suis professeur : comment mettre du matériel à la réserve de cours ?",
+   "en": "I'm a professor: how do I put material on course reserve?"
+  },
+  "answer": {
+   "fr": "Envoie ton plan de cours ou ta liste de lectures par courriel au service de la réserve de cours, avec des références complètes pour accélérer le traitement. Le personnel trouve les documents, gère le droit d'auteur et les rend disponibles dans Ares. Les demandes sont traitées dans l'ordre reçu, en priorité pour les trois ou quatre premières semaines du cours, alors envoie-les tôt.",
+   "en": "Email your syllabus or reading list to the course reserves service, with full citations to speed up processing. Staff locate the materials, handle copyright and make them available in Ares. Requests are handled in the order received, prioritizing the first three to four weeks of the course, so submit early."
+  },
+  "sources": [
+   {
+    "label": "Course reserves",
+    "url": "https://www.uottawa.ca/library/services/course-reserves"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-numerisation-sur-demande",
+  "category": "bibliotheques",
+  "keywords": [
+   "numérisation sur demande",
+   "scan on demand",
+   "chapitre pdf bibliothèque",
+   "bibliothèque envoie pdf",
+   "scan chapter library",
+   "copie numérique livre"
+  ],
+  "question": {
+   "fr": "La bibliothèque peut-elle numériser un chapitre pour moi ?",
+   "en": "Can the Library scan a chapter for me?"
+  },
+  "answer": {
+   "fr": "Oui, avec le service de numérisation sur demande, offert aux étudiants, au personnel, aux chercheurs affiliés et aux diplômés. Trouve le document dans Omni, clique sur le bouton « Scan on demand » et remplis le formulaire : tu reçois un PDF à ton adresse uOttawa en 1 à 3 jours. Les numérisations sont pour usage personnel et respectent les règles d'utilisation équitable.",
+   "en": "Yes, through the scan-on-demand service, offered to students, staff, affiliated researchers and alumni. Find the item in Omni, click the Scan on demand button and fill out the form: you'll get a PDF at your uOttawa email within 1 to 3 days. Scans are for individual use and follow fair dealing guidelines."
+  },
+  "sources": [
+   {
+    "label": "Scan-on-demand",
+    "url": "https://www.uottawa.ca/library/services/scan-on-demand"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-peb-documents-exclus",
+  "category": "bibliotheques",
+  "keywords": [
+   "prêt entre bibliothèques dvd",
+   "quoi demander peb",
+   "interlibrary loan dvd",
+   "ill not available",
+   "livre rare prêt",
+   "peb thèses"
+  ],
+  "question": {
+   "fr": "Quels documents ne peut-on pas obtenir par prêt entre bibliothèques ?",
+   "en": "What can't I get through interlibrary loan?"
+  },
+  "answer": {
+   "fr": "Tu peux demander des articles, des livres et des chapitres. Les DVD, films, cartes et atlas ne sont pas offerts pour le moment, et les numéros complets de revues, les livres rares, les ouvrages de référence et les logiciels ne sont pas disponibles. Pour une thèse, vérifie d'abord si elle est accessible en ligne.",
+   "en": "You can request articles, books and book chapters. DVDs, films, maps and atlases are currently unavailable, and whole journal issues, rare books, reference works and software aren't available. For a thesis, first check whether it's available online."
+  },
+  "sources": [
+   {
+    "label": "Resource sharing and interlibrary loan",
+    "url": "https://www.uottawa.ca/library/services/interlibrary-loan"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-annexe-entreposage",
+  "category": "bibliotheques",
+  "keywords": [
+   "annexe bibliothèque",
+   "off-campus storage",
+   "livre à l'annexe",
+   "entreposage hors campus",
+   "library annex request",
+   "keep@downsview"
+  ],
+  "question": {
+   "fr": "Le livre que je veux est à l'Annexe : comment l'obtenir ?",
+   "en": "The book I want is at the Annex: how do I get it?"
+  },
+  "answer": {
+   "fr": "Tous les documents entreposés hors campus peuvent être demandés. Pour un livre, demande qu'il soit livré à ta bibliothèque ; pour un article de revue, tu peux recevoir une copie électronique par courriel. Les cartes se demandent au Centre GSG, et les films et microformes par courriel.",
+   "en": "Everything in off-campus storage can be requested. For a book, ask for delivery to your library; for a journal article, you can get an electronic copy by email. Maps are requested at the GSG Centre, and movies and microforms by email."
+  },
+  "sources": [
+   {
+    "label": "Off-campus storage",
+    "url": "https://www.uottawa.ca/library/off-campus-storage"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-keep-downsview",
+  "category": "bibliotheques",
+  "keywords": [
+   "keep@downsview",
+   "conservation livres",
+   "entrepôt downsview",
+   "long-term storage books",
+   "annexe histoire",
+   "préservation collections imprimées"
+  ],
+  "question": {
+   "fr": "C'est quoi Keep@Downsview ?",
+   "en": "What is Keep@Downsview?"
+  },
+  "answer": {
+   "fr": "C'est un projet où la Bibliothèque d'uOttawa collabore avec celles de l'Université de Toronto, de Western, de Queen's et de McMaster pour préserver à long terme les documents imprimés peu utilisés. Il s'agit d'un entrepôt sécurisé à haute densité, à environnement contrôlé, qui prolonge l'installation de Downsview de l'Université de Toronto. C'est l'un des deux lieux d'entreposage hors campus, avec l'Annexe.",
+   "en": "It's a project in which the uOttawa Library works with the libraries of the University of Toronto, Western, Queen's and McMaster to preserve less-used print materials over the long term. It's a secure, environmentally controlled, high-density storage space extending U of T's Downsview facility. It's one of the two off-campus storage sites, along with the Annex."
+  },
+  "sources": [
+   {
+    "label": "Off-campus storage",
+    "url": "https://www.uottawa.ca/library/off-campus-storage"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-berkman",
+  "category": "bibliotheques",
+  "keywords": [
+   "bibliothèque berkman",
+   "berkman library",
+   "institut de cardiologie bibliothèque",
+   "heart institute library",
+   "40 ruskin",
+   "bibliothécaire cardiologie"
+  ],
+  "question": {
+   "fr": "C'est quoi la bibliothèque Berkman ?",
+   "en": "What is the Berkman Library?"
+  },
+  "answer": {
+   "fr": "La bibliothèque Berkman est à l'Institut de cardiologie de l'Université d'Ottawa, au 40, rue Ruskin. Elle offre sur place des services de recherche et de référence au personnel et aux étudiants actuels de l'Institut, qui y ont accès jour et nuit avec leur carte d'employé. Sa collection générale ne sort pas de l'Institut ; les autres membres d'uOttawa peuvent s'adresser à la bibliothèque des sciences de la santé.",
+   "en": "The Berkman Library is at the University of Ottawa Heart Institute, 40 Ruskin Street. It provides onsite research and reference services to Heart Institute staff and current students, who can access it 24/7 with their employee swipe card. Its general collection doesn't circulate outside the Institute; other uOttawa members can contact the Health Sciences Library."
+  },
+  "sources": [
+   {
+    "label": "Berkman Library",
+    "url": "https://www.uottawa.ca/library/berkman-library"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-biblio-fss",
+  "category": "bibliotheques",
+  "keywords": [
+   "bibliothèque sciences sociales",
+   "fss library",
+   "bibliothèque fss local",
+   "social sciences library room",
+   "bibliothèque 2010 fss",
+   "où est la bibliothèque fss"
+  ],
+  "question": {
+   "fr": "Où est la bibliothèque de la Faculté des sciences sociales, et qu'est-ce qu'on y trouve ?",
+   "en": "Where is the Faculty of Social Sciences Library, and what's there?"
+  },
+  "answer": {
+   "fr": "Elle est au 2e étage du pavillon des Sciences sociales, au local 2010, et elle est ouverte pendant les heures du pavillon. Elle offre un espace de 23 places avec prises électriques et quatre ordinateurs équipés de logiciels comme SPSS, ArcGIS, NVivo, R et Stata. Des bibliothécaires y aident aussi pour les revues de littérature et les données en sciences sociales.",
+   "en": "It's on the 2nd floor of the Social Sciences Building, in room 2010, and it's open during the building's hours. It offers a 23-seat space with power outlets and four computers with software such as SPSS, ArcGIS, NVivo, R and Stata. Librarians there also help with literature reviews and social science data."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Social Sciences Library",
+    "url": "https://www.uottawa.ca/library/faculty-social-sciences-library"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-bibliothecaires-fss",
+  "category": "bibliotheques",
+  "keywords": [
+   "bibliothécaire psychologie",
+   "bibliothécaire criminologie",
+   "bibliothécaire science politique",
+   "social sciences librarian",
+   "librarian economics",
+   "bibliothécaire service social"
+  ],
+  "question": {
+   "fr": "Qui est le bibliothécaire pour ma discipline en sciences sociales ?",
+   "en": "Who is the librarian for my social sciences discipline?"
+  },
+  "answer": {
+   "fr": "À la bibliothèque FSS, Alain El Hofi s'occupe de l'anthropologie, de la criminologie, de la sociologie et des études féministes et de genre. Majela Guzman Gomez couvre le développement international, les études politiques, l'économie et les affaires publiques et internationales, et Patrick Labelle, la psychologie et le service social. Tu peux prendre rendez-vous pour une consultation de recherche.",
+   "en": "At the FSS Library, Alain El Hofi covers anthropology, criminology, sociology and feminist and gender studies. Majela Guzman Gomez covers international development, political studies, economics and public and international affairs, and Patrick Labelle, psychology and social work. You can book a research consultation."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Social Sciences Library",
+    "url": "https://www.uottawa.ca/library/faculty-social-sciences-library"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-biblio-gestion",
+  "category": "bibliotheques",
+  "keywords": [
+   "bibliothèque de gestion",
+   "management library",
+   "bibliothèque telfer",
+   "bases de données affaires",
+   "business databases uottawa",
+   "desmarais bibliothèque"
+  ],
+  "question": {
+   "fr": "Où est la bibliothèque de gestion, et quelles bases de données offre-t-elle ?",
+   "en": "Where is the Management Library, and which databases does it offer?"
+  },
+  "answer": {
+   "fr": "La bibliothèque de gestion est au 2e étage du pavillon Desmarais, au 55, avenue Laurier Est. Elle donne accès à des bases comme Business Source Complete, Capital IQ, Factiva, FactSet, IBISWorld, PitchBook et Statista. Tu peux réserver une consultation de recherche avec un bibliothécaire en gestion à l'aide de son calendrier de disponibilités.",
+   "en": "The Management Library is on the 2nd floor of Desmarais Hall, at 55 Laurier Avenue East. It provides databases such as Business Source Complete, Capital IQ, Factiva, FactSet, IBISWorld, PitchBook and Statista. You can book a research consultation with a management librarian through its availability calendar."
+  },
+  "sources": [
+   {
+    "label": "Management Library",
+    "url": "https://www.uottawa.ca/library/management-library"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-labo-finance-bloomberg",
+  "category": "bibliotheques",
+  "keywords": [
+   "bloomberg uottawa",
+   "terminal bloomberg",
+   "laboratoire de recherche financière",
+   "financial research and learning lab",
+   "salle des marchés telfer",
+   "desmarais 2186"
+  ],
+  "question": {
+   "fr": "Y a-t-il des terminaux Bloomberg sur le campus ?",
+   "en": "Are there Bloomberg terminals on campus?"
+  },
+  "answer": {
+   "fr": "Oui, au Laboratoire de recherche et d'apprentissage en finance, au pavillon Desmarais, local 2186. Conçu comme une vraie salle de marchés, il compte 34 postes, dont 11 terminaux Bloomberg, et donne accès à Capital IQ, Factiva, FactSet et Refinitiv. Une équipe dirigée par la gestionnaire du labo aide les étudiants à utiliser ces outils.",
+   "en": "Yes, at the Financial Research and Learning Lab, in Desmarais Hall, room 2186. Designed like a professional trading lab, it has 34 terminals, including 11 Bloomberg terminals, and access to Capital IQ, Factiva, FactSet and Refinitiv. A team led by the lab manager helps students use these tools."
+  },
+  "sources": [
+   {
+    "label": "Financial Research and Learning Lab",
+    "url": "https://telfer.uottawa.ca/en/financial-research-and-learning-lab/"
+   },
+   {
+    "label": "Management Library",
+    "url": "https://www.uottawa.ca/library/management-library"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-centre-ressources-education",
+  "category": "bibliotheques",
+  "keywords": [
+   "centre de ressources éducation",
+   "education resource centre",
+   "lamoureux 203",
+   "étudier faculté d'éducation",
+   "manger étudier éducation",
+   "heures centre de ressources"
+  ],
+  "question": {
+   "fr": "C'est quoi le Centre de ressources de la Faculté d'éducation ?",
+   "en": "What is the Faculty of Education Resource Centre?"
+  },
+  "answer": {
+   "fr": "C'est un espace d'étude au pavillon Lamoureux, local 203, avec une grande salle de 120 places et quatre salles où tu peux travailler seul ou en groupe, et où la nourriture et les boissons sont permises. On y prête des livres, des trousses pédagogiques et du matériel, et on peut t'aider à trouver des ressources d'enseignement. Les heures changent selon la session : vérifie-les sur la page du Centre.",
+   "en": "It's a study space in Lamoureux Hall, room 203, with a large 120-seat area and four rooms where you can work alone or in groups, and where food and drinks are allowed. It lends books, teaching kits and supplies, and staff can help you find teaching resources. Hours change by term: check the Centre's page."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Education Resource Centre",
+    "url": "https://www.uottawa.ca/faculty-education/faculty-education-resource-centre"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "za-centre-ressources-collection",
+  "category": "bibliotheques",
+  "keywords": [
+   "livres jeunesse uottawa",
+   "trousses pédagogiques",
+   "teaching kits",
+   "children's books collection",
+   "littérature jeunesse",
+   "marionnettes éducation"
+  ],
+  "question": {
+   "fr": "Où trouver des livres jeunesse ou des trousses pédagogiques pour mon stage ?",
+   "en": "Where can I find children's books or teaching kits for my practicum?"
+  },
+  "answer": {
+   "fr": "Au Centre de ressources de la Faculté d'éducation, au pavillon Lamoureux : sa collection compte plus de 8 000 livres jeunesse en français et en anglais, une collection générale de plus de 8 000 ouvrages et 900 trousses pédagogiques. Pour la consulter, cherche dans Omni et choisis le Centre de ressources de la Faculté d'éducation comme emplacement.",
+   "en": "At the Faculty of Education Resource Centre, in Lamoureux Hall: its collection has over 8,000 children's books in English and French, a general collection of over 8,000 works and 900 teaching kits. To browse it, search Omni and select the Faculty of Education Resource Centre as the location."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Education Resource Centre",
+    "url": "https://www.uottawa.ca/faculty-education/faculty-education-resource-centre"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-toges-droit",
+  "category": "bibliotheques",
+  "keywords": [
+   "toge avocat",
+   "emprunter une toge",
+   "law gown",
+   "toge plaidoirie",
+   "gown loan law library",
+   "robe d'avocat"
+  ],
+  "question": {
+   "fr": "Puis-je emprunter une toge à la bibliothèque de droit ?",
+   "en": "Can I borrow a gown from the law library?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es étudiant, professeur ou employé avec un compte de bibliothèque en règle. Les toges s'empruntent au comptoir de la bibliothèque de droit Brian-Dickson pour 48 heures, sans réservation à l'avance, et pas si tu as 10 dollars d'amendes ou plus. Rends-la au comptoir, pas dans la chute de retour : en cas de perte ou de dommage, elle coûte 280 dollars.",
+   "en": "Yes, if you're a student, faculty or staff member with a library account in good standing. Gowns are borrowed at the Brian Dickson Law Library desk for 48 hours, can't be requested in advance, and aren't lent if you owe 10 dollars or more. Return it to the desk, not the return bin: a lost or damaged gown costs 280 dollars."
+  },
+  "sources": [
+   {
+    "label": "Brian Dickson Law Library – Gowns",
+    "url": "https://www.uottawa.ca/library/brian-dickson-law-library/gowns"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-examens-anterieurs-droit",
+  "category": "bibliotheques",
+  "keywords": [
+   "anciens examens droit",
+   "exam bank law",
+   "examens common law",
+   "past law exams",
+   "banque d'examens",
+   "examens antérieurs"
+  ],
+  "question": {
+   "fr": "Où trouver d'anciens examens de droit ?",
+   "en": "Where can I find past law exams?"
+  },
+  "answer": {
+   "fr": "La bibliothèque de droit Brian-Dickson publie une banque d'examens de la Section de common law, classés par année. On y trouve par exemple des examens de droit des affaires, de droit constitutionnel, de preuve ou de faillite et insolvabilité.",
+   "en": "The Brian Dickson Law Library publishes an exam bank for the Common Law Section, organized by year. It includes, for example, exams in business organizations, constitutional law, evidence, and bankruptcy and insolvency."
+  },
+  "sources": [
+   {
+    "label": "Brian Dickson Law Library – Exams",
+    "url": "https://www.uottawa.ca/library/brian-dickson-law-library/exams"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-salle-lecture-dickson",
+  "category": "bibliotheques",
+  "keywords": [
+   "salle de lecture brian dickson",
+   "brian dickson reading room",
+   "bureau du juge dickson",
+   "qui est brian dickson",
+   "bibliothèque droit histoire",
+   "salle lecture droit"
+  ],
+  "question": {
+   "fr": "Pourquoi la bibliothèque de droit porte-t-elle le nom de Brian Dickson ?",
+   "en": "Why is the law library named after Brian Dickson?"
+  },
+  "answer": {
+   "fr": "Elle honore le défunt juge en chef de la Cour suprême du Canada Brian Dickson. Au 4e étage, la salle de lecture Brian-Dickson contient une reproduction complète de son bureau à la maison, avec des objets personnels qui retracent sa vie. La bibliothèque occupe les 4e et 5e étages du pavillon Fauteux depuis sa construction en 1973.",
+   "en": "It honours the late Chief Justice of the Supreme Court of Canada Brian Dickson. On the 4th floor, the Brian Dickson Reading Room contains a full reproduction of his home office, with personal items representing his life. The library has occupied the 4th and 5th floors of Fauteux Hall since the building opened in 1973."
+  },
+  "sources": [
+   {
+    "label": "About the Brian Dickson Law Library",
+    "url": "https://www.uottawa.ca/library/brian-dickson-law-library/brian-dickson"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-bases-droit",
+  "category": "bibliotheques",
+  "keywords": [
+   "westlaw",
+   "lexis",
+   "canlii",
+   "bases de données juridiques",
+   "law databases",
+   "recherche juridique outils"
+  ],
+  "question": {
+   "fr": "Quelles bases de données juridiques offre la bibliothèque de droit ?",
+   "en": "Which legal databases does the law library offer?"
+  },
+  "answer": {
+   "fr": "Les principales sont Westlaw Canada, Lexis Advance Quicklaw, CanLII, La Référence, SOQUIJ et CAIJ. La bibliothèque propose aussi des modules d'apprentissage sur les principes de la recherche juridique et des guides par domaine, comme le droit criminel ou la propriété intellectuelle. Tu peux écrire à une bibliothécaire en droit pour prendre rendez-vous.",
+   "en": "The main ones are Westlaw Canada, Lexis Advance Quicklaw, CanLII, La Référence, SOQUIJ and CAIJ. The library also offers learning modules on the principles of legal research and subject guides, such as criminal law or intellectual property. You can email a law librarian to set up a meeting."
+  },
+  "sources": [
+   {
+    "label": "Brian Dickson Law Library",
+    "url": "https://www.uottawa.ca/library/brian-dickson-law-library"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-carrels-morisset",
+  "category": "bibliotheques",
+  "keywords": [
+   "carrel morisset",
+   "carrel d'étude",
+   "study carrel graduate",
+   "bureau étudiant maîtrise",
+   "carrels cycles supérieurs",
+   "demander un carrel"
+  ],
+  "question": {
+   "fr": "Je suis aux cycles supérieurs : puis-je avoir un carrel d'étude à Morisset ?",
+   "en": "I'm a graduate student: can I get a study carrel at Morisset?"
+  },
+  "answer": {
+   "fr": "Oui, Morisset a 152 carrels pour les étudiants des cycles supérieurs, avec armoire verrouillable, prises électriques et lampe de travail. Chaque carrel est partagé entre deux étudiants, et la demande se fait en ligne sur la page de la bibliothèque Morisset. Il y a aussi des carrels à la bibliothèque de droit et à celle des sciences de la santé.",
+   "en": "Yes, Morisset has 152 carrels for graduate students, with lockable cabinets, power outlets and task lighting. Each carrel is shared by two students, and you request one online from the Morisset Library page. There are also carrels at the law library and the Health Sciences Library."
+  },
+  "sources": [
+   {
+    "label": "Morisset Library",
+    "url": "https://www.uottawa.ca/library/morisset-library"
+   },
+   {
+    "label": "Reserve a study space",
+    "url": "https://www.uottawa.ca/library/services/reserve-study-space"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-salles-cycles-sup-morisset",
+  "category": "bibliotheques",
+  "keywords": [
+   "salle de groupe cycles supérieurs",
+   "graduate group study room",
+   "morisset maîtrise doctorat salle",
+   "salle six personnes",
+   "grad study room morisset",
+   "réserver salle étudiants diplômés"
+  ],
+  "question": {
+   "fr": "Y a-t-il des salles d'étude de groupe réservées aux cycles supérieurs à Morisset ?",
+   "en": "Are there group study rooms just for graduate students at Morisset?"
+  },
+  "answer": {
+   "fr": "Oui, huit salles de groupe sont réservées aux étudiants des cycles supérieurs. Elles accueillent de deux à six personnes et se réservent en ligne pour un maximum de deux heures.",
+   "en": "Yes, eight group study rooms are set aside for graduate students. They hold two to six people and can be booked online for up to two hours."
+  },
+  "sources": [
+   {
+    "label": "Morisset Library",
+    "url": "https://www.uottawa.ca/library/morisset-library"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-carrels-sciences-sante",
+  "category": "bibliotheques",
+  "keywords": [
+   "carrel roger-guindon",
+   "carrel sciences de la santé",
+   "health sciences carrel",
+   "tirage au sort carrel",
+   "carrel thèse",
+   "clé carrel perdue"
+  ],
+  "question": {
+   "fr": "Comment obtenir un carrel à la bibliothèque des sciences de la santé ?",
+   "en": "How do I get a carrel at the Health Sciences Library?"
+  },
+  "answer": {
+   "fr": "La bibliothèque a 23 carrels, partagés entre deux étudiants, attribués chaque année par tirage au sort aux étudiants des cycles supérieurs en année de thèse qui n'ont pas de bureau. L'attribution va du 1er octobre au 30 septembre, mais tu peux faire ta demande en ligne en tout temps, quitte à être sur une liste d'attente. Une clé perdue coûte 10 dollars à remplacer.",
+   "en": "The library has 23 carrels, shared by two students, assigned yearly by lottery to graduate students in their thesis year who don't have office space. Assignments run from October 1 to September 30, but you can apply online at any time and may be waitlisted. A lost key costs 10 dollars to replace."
+  },
+  "sources": [
+   {
+    "label": "Health Sciences Libraries",
+    "url": "https://www.uottawa.ca/library/health-sciences-libraries"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-biblio-lees",
+  "category": "bibliotheques",
+  "keywords": [
+   "bibliothèque lees",
+   "lees library",
+   "bibliothèque campus lees",
+   "salle d'étude lees",
+   "200 lees bibliothèque",
+   "réserver salle lees"
+  ],
+  "question": {
+   "fr": "Où est la bibliothèque du campus Lees, et peut-on y réserver une salle ?",
+   "en": "Where is the Lees Campus Library, and can I book a room there?"
+  },
+  "answer": {
+   "fr": "Elle est au 200, avenue Lees, local 147, et elle est accessible pendant les heures du pavillon. Elle offre trois salles d'étude de six personnes avec tableau blanc, et une salle d'accessibilité, la 147G. Les heures changent selon la période : vérifie la page des heures de la Bibliothèque.",
+   "en": "It's at 200 Lees Avenue, room 147, and it's open during the building's hours. It offers three six-person study rooms with whiteboards, plus an accessibility room, 147G. Hours vary by period: check the Library hours page."
+  },
+  "sources": [
+   {
+    "label": "Health Sciences Libraries",
+    "url": "https://www.uottawa.ca/library/health-sciences-libraries"
+   },
+   {
+    "label": "Locations and hours",
+    "url": "https://www.uottawa.ca/library/locations-hours"
+   },
+   {
+    "label": "Accessibility",
+    "url": "https://www.uottawa.ca/library/services/accessibility"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "za-lendit",
+  "category": "bibliotheques",
+  "keywords": [
+   "lendit",
+   "machine lendit",
+   "borne libre-service lees",
+   "self-service kiosk library",
+   "récupérer livre lees",
+   "lendit nip"
+  ],
+  "question": {
+   "fr": "Comment utiliser la machine LendIt à la bibliothèque de Lees ?",
+   "en": "How do I use the LendIt machine at the Lees library?"
+  },
+  "answer": {
+   "fr": "La LendIt est une borne libre-service au 200 Lees pour emprunter des livres et des documents de réserve, ou récupérer un document mis de côté. Choisis « Borrow » ou « Hold Pickup », scanne ta carte étudiante ou entre son code-barres, puis ton NIP, et récupère le livre dans la fenêtre. Les documents de réserve sont prêtés 4, 24 ou 48 heures ; si tu n'as pas de NIP, communique avec la bibliothèque.",
+   "en": "LendIt is a self-service kiosk at 200 Lees for borrowing books and reserve items, or picking up items on hold. Choose Borrow or Hold Pickup, scan your student card or type its barcode, then your PIN, and collect the book from the window. Reserve items are lent for 4, 24 or 48 hours; if you don't have a PIN, contact the library."
+  },
+  "sources": [
+   {
+    "label": "How to use the LendIt machine",
+    "url": "https://www.uottawa.ca/library/how-use-lendit-machine"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-synthese-connaissances",
+  "category": "bibliotheques",
+  "keywords": [
+   "revue systématique bibliothécaire",
+   "synthèse des connaissances",
+   "systematic review help",
+   "scoping review",
+   "knowledge synthesis library",
+   "stratégie de recherche santé"
+  ],
+  "question": {
+   "fr": "Un bibliothécaire peut-il m'aider avec une revue systématique en santé ?",
+   "en": "Can a librarian help me with a systematic review in health sciences?"
+  },
+  "answer": {
+   "fr": "Oui. Pour les étudiants, les bibliothécaires de ta discipline offrent des consultations pour formuler ta question, bâtir et documenter ta stratégie de recherche et choisir les bases de données ; ils ne sont pas coauteurs des travaux étudiants. À cause de la forte demande, les nouvelles demandes sont mises sur une liste d'attente d'environ six semaines.",
+   "en": "Yes. For students, the librarian for your discipline offers consultations to refine your question, build and document your search strategy and choose databases; they don't co-author student work. Because of high demand, new requests go on a waiting list of about six weeks."
+  },
+  "sources": [
+   {
+    "label": "Knowledge synthesis services (Health Sciences and Medicine)",
+    "url": "https://www.uottawa.ca/library/health-sciences-library/knowledge-synthesis-services-health"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-bases-sante",
+  "category": "bibliotheques",
+  "keywords": [
+   "pubmed",
+   "cinahl",
+   "embase",
+   "medline",
+   "bases de données santé",
+   "covidence"
+  ],
+  "question": {
+   "fr": "Quelles bases de données utiliser pour une recherche en sciences de la santé ?",
+   "en": "Which databases should I use for health sciences research?"
+  },
+  "answer": {
+   "fr": "Les bibliothèques des sciences de la santé mettent de l'avant CINAHL, Embase, Medline par Ovid, PubMed, PsycInfo, Scopus, SPORTDiscus et Web of Science. Pour le point de service clinique, il y a DynaMed, Isabel et CPS, et Covidence sert aux revues systématiques. Des guides de recherche existent aussi pour chaque discipline, des sciences infirmières à la pharmacie.",
+   "en": "The Health Sciences Libraries highlight CINAHL, Embase, Medline via Ovid, PubMed, PsycInfo, Scopus, SPORTDiscus and Web of Science. For point of care, there's DynaMed, Isabel and CPS, and Covidence is used for systematic reviews. Research guides also exist for each discipline, from nursing to pharmacy."
+  },
+  "sources": [
+   {
+    "label": "Health Sciences Libraries",
+    "url": "https://www.uottawa.ca/library/health-sciences-libraries"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-contact-sciences-sante",
+  "category": "bibliotheques",
+  "keywords": [
+   "téléphone bibliothèque sciences de la santé",
+   "roger-guindon local 1020",
+   "health sciences library phone",
+   "bibliothèque rgn contact",
+   "adresse bibliothèque santé",
+   "bibliothécaire médecine"
+  ],
+  "question": {
+   "fr": "Comment joindre la bibliothèque des sciences de la santé ?",
+   "en": "How do I contact the Health Sciences Library?"
+  },
+  "answer": {
+   "fr": "La bibliothèque des sciences de la santé est au pavillon Roger-Guindon, local 1020, au 451, chemin Smyth. Tu peux l'appeler au 613-562-5407, lui écrire ou utiliser le clavardage. Des bibliothécaires en sciences infirmières, en sciences de la santé, en médecine et en réadaptation peuvent aussi te rencontrer sur rendez-vous.",
+   "en": "The Health Sciences Library is in Roger Guindon Hall, room 1020, at 451 Smyth Road. You can call it at 613-562-5407, email it or use the chat. Librarians in nursing, health sciences, medicine and rehabilitation can also meet you by appointment."
+  },
+  "sources": [
+   {
+    "label": "Health Sciences Libraries",
+    "url": "https://www.uottawa.ca/library/health-sciences-libraries"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-contact-droit",
+  "category": "bibliotheques",
+  "keywords": [
+   "téléphone bibliothèque de droit",
+   "law library phone",
+   "bibliothèque brian-dickson contact",
+   "bibliothécaire droit rendez-vous",
+   "law librarian",
+   "joindre bibliothèque droit"
+  ],
+  "question": {
+   "fr": "Comment joindre la bibliothèque de droit Brian-Dickson ?",
+   "en": "How do I contact the Brian Dickson Law Library?"
+  },
+  "answer": {
+   "fr": "Tu peux appeler la bibliothèque de droit au 613-562-5812, lui écrire ou utiliser le clavardage de la Bibliothèque. Pour une question de recherche, écris à une bibliothécaire en droit pour poser ta question ou prendre rendez-vous ; ce service s'adresse surtout aux étudiants, professeurs et employés d'uOttawa.",
+   "en": "You can call the law library at 613-562-5812, email it or use the Library chat. For a research question, email a law librarian to ask or to set up a meeting; this service is mainly for uOttawa students, faculty and staff."
+  },
+  "sources": [
+   {
+    "label": "Brian Dickson Law Library",
+    "url": "https://www.uottawa.ca/library/brian-dickson-law-library"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-archives-collections-speciales",
+  "category": "bibliotheques",
+  "keywords": [
+   "archives et collections spéciales",
+   "livres rares",
+   "archives special collections",
+   "manuscrits uottawa",
+   "rare books library",
+   "arcs morisset"
+  ],
+  "question": {
+   "fr": "C'est quoi les Archives et collections spéciales de la bibliothèque ?",
+   "en": "What are the Library's Archives and Special Collections?"
+  },
+  "answer": {
+   "fr": "Situées au niveau 0, le concourse, du pavillon Morisset, les Archives et collections spéciales conservent des fonds d'archives et des documents uniques : périodiques rares, manuscrits, livres rares, fac-similés, livres d'artistes et brochures. Elles mettent aussi en valeur les archives des femmes, avec l'Initiative des archives des femmes et les Archives canadiennes des femmes en STIM.",
+   "en": "Located on the concourse level of Morisset Hall, Archives and Special Collections holds archival collections and unique materials: rare periodicals, manuscripts, rare books, facsimiles, artists' books and pamphlets. It also highlights women's archives, with the Women's Archives Initiative and the Canadian Archive of Women in STEM."
+  },
+  "sources": [
+   {
+    "label": "Archives and Special Collections",
+    "url": "https://www.uottawa.ca/library/archives-special-collections"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-archives-consultation",
+  "category": "bibliotheques",
+  "keywords": [
+   "consulter archives",
+   "salle de lecture archives",
+   "morisset 039",
+   "archives reading room",
+   "rendez-vous archives",
+   "emprunter livre rare"
+  ],
+  "question": {
+   "fr": "Comment consulter un document des Archives et collections spéciales ?",
+   "en": "How do I consult a document from Archives and Special Collections?"
+  },
+  "answer": {
+   "fr": "Tous les documents se consultent sur place, dans la salle de lecture au concourse du pavillon Morisset, local 039 : à ton arrivée, sonne la cloche et le personnel t'accueille. Si tu sais déjà ce que tu veux voir, écris aux Archives à l'avance pour qu'elles préparent les documents. Les heures et les plages de rendez-vous varient : vérifie la page des heures de la Bibliothèque.",
+   "en": "Everything is consulted on site, in the reading room on the concourse level of Morisset Hall, room 039: when you arrive, ring the bell and staff will welcome you. If you already know what you want to see, email the Archives ahead of time so they can prepare the documents. Hours and appointment times vary: check the Library hours page."
+  },
+  "sources": [
+   {
+    "label": "ARCS – Consultation and reproduction",
+    "url": "https://www.uottawa.ca/library/archives-special-collections/consultation-reproduction"
+   },
+   {
+    "label": "Locations and hours",
+    "url": "https://www.uottawa.ca/library/locations-hours"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "za-archives-reproduction",
+  "category": "bibliotheques",
+  "keywords": [
+   "photo document archives",
+   "reproduction archives prix",
+   "numériser archives",
+   "archives scan fee",
+   "photocopie archives",
+   "copie document rare"
+  ],
+  "question": {
+   "fr": "Puis-je photographier ou faire numériser un document des Archives ?",
+   "en": "Can I photograph or get a scan of an archival document?"
+  },
+  "answer": {
+   "fr": "Oui, quand la reproduction est permise. Les photos prises avec ton propre appareil sont gratuites. Les numérisations faites par le personnel ont des frais minimaux de 10 dollars, puis 30 cents la page, ou 10 dollars l'image en haute résolution, payables par carte de crédit. Les documents déjà numérisés dans la base des Archives se téléchargent gratuitement.",
+   "en": "Yes, when reproduction is allowed. Photos taken with your own device are free. Scans made by staff have a 10-dollar minimum fee, then 30 cents a page, or 10 dollars per high-resolution image, payable by credit card. Documents already scanned in the Archives database can be downloaded for free."
+  },
+  "sources": [
+   {
+    "label": "ARCS – Consultation and reproduction",
+    "url": "https://www.uottawa.ca/library/archives-special-collections/consultation-reproduction"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-services-donnees",
+  "category": "bibliotheques",
+  "keywords": [
+   "services de données",
+   "trouver des statistiques",
+   "data services library",
+   "statistiques canada aide",
+   "données recherche bibliothèque",
+   "centre gsg"
+  ],
+  "question": {
+   "fr": "Qui peut m'aider à trouver des données ou des statistiques pour un travail ?",
+   "en": "Who can help me find data or statistics for an assignment?"
+  },
+  "answer": {
+   "fr": "L'équipe des Services de données de la Bibliothèque offre des consultations individuelles ou en groupe pour trouver, obtenir et utiliser des données et des statistiques. Elle est rattachée au Centre d'information géographique, statistique et gouvernementale (GSG), au 3e étage de Morisset. Ses guides de recherche couvrent aussi les cartes, les SIG et les données géospatiales.",
+   "en": "The Library's Data Services team offers individual or group consultations to find, access and use data and statistics. It's part of the Geographic, Statistical and Government Information Centre (GSG), on the 3rd floor of Morisset. Its research guides also cover maps, GIS and geospatial data."
+  },
+  "sources": [
+   {
+    "label": "Data Services",
+    "url": "https://www.uottawa.ca/library/data-services"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-labo-sig-morisset",
+  "category": "bibliotheques",
+  "keywords": [
+   "arcgis bibliothèque",
+   "logiciel sig",
+   "mrt 308",
+   "mrt 309",
+   "gis lab morisset",
+   "cartes papier globe"
+  ],
+  "question": {
+   "fr": "Où trouver un ordinateur avec ArcGIS ou des logiciels de statistiques à Morisset ?",
+   "en": "Where can I find a computer with ArcGIS or statistics software at Morisset?"
+  },
+  "answer": {
+   "fr": "Au 3e étage de Morisset, le labo MRT 308 compte 21 postes avec des logiciels géographiques et statistiques, comme ArcGIS, QGIS, SPSS, Stata, R et NVivo. La salle MRT 309, juste à côté, est un espace d'étude collaboratif avec une collection de cartes papier, d'atlas, de globes et de photos aériennes, et trois postes spécialisés.",
+   "en": "On Morisset's 3rd floor, the MRT 308 lab has 21 workstations with geographic and statistical software, such as ArcGIS, QGIS, SPSS, Stata, R and NVivo. Room MRT 309, next door, is a collaborative study space with a collection of paper maps, atlases, globes and aerial photos, and three specialized workstations."
+  },
+  "sources": [
+   {
+    "label": "Data Services – Software and equipment",
+    "url": "https://www.uottawa.ca/library/data-services/software-and-equipment"
+   },
+   {
+    "label": "Data Services",
+    "url": "https://www.uottawa.ca/library/data-services"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-numeriser-carte",
+  "category": "bibliotheques",
+  "keywords": [
+   "numériser une carte",
+   "scanner grand format",
+   "map scanner",
+   "table lumineuse",
+   "stéréoscope",
+   "scan large document"
+  ],
+  "question": {
+   "fr": "Où numériser une carte ou un document grand format ?",
+   "en": "Where can I scan a map or large-format document?"
+  },
+  "answer": {
+   "fr": "Au local MRT 309, au 3e étage de Morisset, un numériseur grand format permet de numériser des cartes et de grands documents. C'est le personnel qui fait la numérisation sur place, gratuitement pour la communauté uOttawa. La salle a aussi une table lumineuse et un stéréoscope pour voir les photos aériennes en 3D.",
+   "en": "In room MRT 309, on Morisset's 3rd floor, a map-sized scanner handles maps and large documents. Staff do the scanning on site, free of charge for the uOttawa community. The room also has a light table and a stereoscope for viewing aerial photos in 3D."
+  },
+  "sources": [
+   {
+    "label": "Data Services – Software and equipment",
+    "url": "https://www.uottawa.ca/library/data-services/software-and-equipment"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-labo-numerique-mrt016",
+  "category": "bibliotheques",
+  "keywords": [
+   "numériser diapositives",
+   "numériser film 35 mm",
+   "digital lab morisset",
+   "mrt 016",
+   "numériser microfilm",
+   "scanner photos bibliothèque"
+  ],
+  "question": {
+   "fr": "Où numériser des diapositives, des négatifs ou des microfilms ?",
+   "en": "Where can I scan slides, negatives or microfilm?"
+  },
+  "answer": {
+   "fr": "Pour les images, les films 35 mm, les diapositives montées et les grands formats, va au Labo numérique de Morisset, local MRT 016. Les microformes se numérisent à côté du comptoir informatique du 1er étage de Morisset, et les cartes au Centre GSG, au 3e étage.",
+   "en": "For images, 35 mm film, mounted slides and larger formats, go to Morisset's Digital Lab, room MRT 016. Microforms are scanned next to the computer service desk on Morisset's 1st floor, and maps at the GSG Centre on the 3rd floor."
+  },
+  "sources": [
+   {
+    "label": "Printing, scanning and photocopying",
+    "url": "https://www.uottawa.ca/library/services/print-copy-scan"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-imprimantes-morisset",
+  "category": "bibliotheques",
+  "keywords": [
+   "imprimante morisset",
+   "où imprimer morisset",
+   "printers morisset rooms",
+   "imprimer bibliothèque étage",
+   "mrt 142",
+   "photocopieur morisset"
+  ],
+  "question": {
+   "fr": "Où sont les imprimantes dans la bibliothèque Morisset ?",
+   "en": "Where are the printers in Morisset Library?"
+  },
+  "answer": {
+   "fr": "Morisset a des imprimantes dans plusieurs salles : 104 et 140, la salle 142 au 1er étage, qui en compte six, ainsi que les salles 300, 309, 500 et 600. Pour imprimer, ajoute des fonds à ta carte étudiante en ligne, au bureau de la carte uOttawa ou à une borne de rechargement.",
+   "en": "Morisset has printers in several rooms: 104 and 140, room 142 on the 1st floor, which has six, and rooms 300, 309, 500 and 600. To print, add funds to your student card online, at the uOttawa Card office or at a card loader."
+  },
+  "sources": [
+   {
+    "label": "Printing, scanning and photocopying",
+    "url": "https://www.uottawa.ca/library/services/print-copy-scan"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-imprimer-visiteur",
+  "category": "bibliotheques",
+  "keywords": [
+   "visiteur imprimer",
+   "carte de copie visiteur",
+   "print as visitor",
+   "imprimer sans carte étudiante",
+   "visitor copy card",
+   "photocopie visiteur"
+  ],
+  "question": {
+   "fr": "Je suis visiteur : comment imprimer ou photocopier à la bibliothèque ?",
+   "en": "I'm a visitor: how do I print or photocopy at the Library?"
+  },
+  "answer": {
+   "fr": "Achète une carte visiteur et charge-la avec de l'argent à la machine située près des imprimantes. La numérisation vers un courriel ou une clé USB est gratuite sur les photocopieurs de chaque bibliothèque.",
+   "en": "Buy a visitor card and load money onto it at the machine located near the printers. Scanning to email or USB is free on the photocopiers at each library."
+  },
+  "sources": [
+   {
+    "label": "Printing, scanning and photocopying",
+    "url": "https://www.uottawa.ca/library/services/print-copy-scan"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-gestion-donnees-recherche",
+  "category": "bibliotheques",
+  "keywords": [
+   "gestion des données de recherche",
+   "plan de gestion des données",
+   "data management plan",
+   "pgd",
+   "rdm uottawa",
+   "déposer données recherche"
+  ],
+  "question": {
+   "fr": "Qui peut m'aider avec mon plan de gestion des données de recherche ?",
+   "en": "Who can help me with my research data management plan?"
+  },
+  "answer": {
+   "fr": "La Bibliothèque offre des consultations et des formations sur la planification de la gestion des données et le dépôt de données. Elle t'aide à préparer un plan de gestion des données, à choisir où publier tes données et à nommer et organiser tes fichiers. L'Université a aussi un Carrefour de gestion des données de recherche avec des outils centralisés pour stocker et partager les données.",
+   "en": "The Library offers consultations and training on data management planning and data deposit. It helps you prepare a data management plan, choose where to publish your data and name and organize your files. The University also has a Research Data Management Hub with centralized tools to store and share data."
+  },
+  "sources": [
+   {
+    "label": "Research data management",
+    "url": "https://www.uottawa.ca/library/research-data-management"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-depot-donnees-borealis",
+  "category": "bibliotheques",
+  "keywords": [
+   "dataverse uottawa",
+   "borealis",
+   "déposer jeu de données",
+   "data deposit uottawa",
+   "publier mes données",
+   "dépôt données recherche"
+  ],
+  "question": {
+   "fr": "Où déposer mes données de recherche à uOttawa ?",
+   "en": "Where can I deposit my research data at uOttawa?"
+  },
+  "answer": {
+   "fr": "L'Université offre le dépôt de données uOttawa Dataverse, sur la plateforme Borealis : la Bibliothèque t'aide à créer un compte et à y déposer tes données. Elle publie aussi des lignes directrices de dépôt et peut te conseiller sur le dépôt exigé par une revue ou un organisme subventionnaire.",
+   "en": "The University offers uOttawa Dataverse, on the Borealis platform: the Library helps you create an account and deposit your data. It also publishes deposit guidelines and can advise you on deposits required by a journal or funding agency."
+  },
+  "sources": [
+   {
+    "label": "Data Services – Software and equipment",
+    "url": "https://www.uottawa.ca/library/data-services/software-and-equipment"
+   },
+   {
+    "label": "Research data management",
+    "url": "https://www.uottawa.ca/library/research-data-management"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-uo-recherche",
+  "category": "bibliotheques",
+  "keywords": [
+   "uo recherche",
+   "uo research",
+   "dépôt institutionnel",
+   "institutional repository",
+   "déposer ma thèse en ligne",
+   "ruor"
+  ],
+  "question": {
+   "fr": "C'est quoi uO Recherche ?",
+   "en": "What is uO Research?"
+  },
+  "answer": {
+   "fr": "uO Recherche est le dépôt numérique de l'Université : il recueille, préserve et donne accès gratuitement aux travaux de recherche des professeurs, des chercheurs et des étudiants. Tu peux y chercher des thèses de l'Université ou y déposer tes propres travaux.",
+   "en": "uO Research is the University's digital repository: it collects, preserves and provides free, open access to research by faculty, researchers and students. You can search it for University theses or add your own work."
+  },
+  "sources": [
+   {
+    "label": "Scholarly communication",
+    "url": "https://www.uottawa.ca/library/scholarly-communication"
+   },
+   {
+    "label": "Services for students",
+    "url": "https://www.uottawa.ca/library/services/students"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-trouver-theses",
+  "category": "bibliotheques",
+  "keywords": [
+   "trouver une thèse",
+   "thèses uottawa",
+   "find thesis",
+   "mémoire de maîtrise consulter",
+   "thèses canada",
+   "proquest dissertations"
+  ],
+  "question": {
+   "fr": "Comment trouver une thèse de l'Université d'Ottawa ?",
+   "en": "How do I find a University of Ottawa thesis?"
+  },
+  "answer": {
+   "fr": "Cherche dans Omni et filtre par format « Dissertations » ; si la thèse est en ligne, suis le lien, souvent vers uO Recherche. Sinon, demande-la en ligne ou à un comptoir pour la consulter aux Archives et collections spéciales, ou consulte la microfiche aux Ressources médias. Pour d'autres universités, essaie ProQuest Dissertations & Theses Global ou Thèses Canada.",
+   "en": "Search Omni and filter by the Dissertations format; if the thesis is online, follow the link, often to uO Research. Otherwise, request it online or at a desk to consult it at Archives and Special Collections, or view the microfiche at Media Resources. For other universities, try ProQuest Dissertations & Theses Global or Theses Canada."
+  },
+  "sources": [
+   {
+    "label": "Theses and dissertations",
+    "url": "https://www.uottawa.ca/library/resources/theses-dissertations"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-acces-libre",
+  "category": "bibliotheques",
+  "keywords": [
+   "libre accès",
+   "open access",
+   "publier en libre accès",
+   "communication savante",
+   "bibliothécaire communication savante",
+   "éditeurs prédateurs"
+  ],
+  "question": {
+   "fr": "Qui peut m'aider à publier en libre accès ?",
+   "en": "Who can help me publish in open access?"
+  },
+  "answer": {
+   "fr": "La Bibliothèque a un site sur la communication savante pour les professeurs, les chercheurs et les étudiants des cycles supérieurs : libre accès, droits d'auteur, choix d'une revue, éditeurs prédateurs et mesures d'impact. Elle offre aussi des services d'édition ouverte. Le bibliothécaire en communication savante est au local MRT-113, au 65, privée University.",
+   "en": "The Library has a scholarly communication site for faculty, researchers and graduate students: open access, author rights, choosing a journal, predatory publishers and impact metrics. It also offers open publishing services. The Scholarly Communication Librarian is in room MRT-113, at 65 University Private."
+  },
+  "sources": [
+   {
+    "label": "Scholarly communication",
+    "url": "https://www.uottawa.ca/library/scholarly-communication"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-ree",
+  "category": "bibliotheques",
+  "keywords": [
+   "ressources éducatives libres",
+   "ree",
+   "open educational resources",
+   "oer uottawa",
+   "manuel gratuit",
+   "pressbooks"
+  ],
+  "question": {
+   "fr": "C'est quoi les ressources éducatives libres, et la bibliothèque aide-t-elle à en trouver ?",
+   "en": "What are open educational resources, and does the Library help find them?"
+  },
+  "answer": {
+   "fr": "Les ressources éducatives libres sont du matériel d'apprentissage gratuit et ouvert, souvent sous licence Creative Commons : manuels, vidéos, balados ou cours entiers. La Bibliothèque aide à trouver des ressources à adopter ou adapter, conseille sur le droit d'auteur et les licences, et forme à la plateforme Pressbooks. Elle peut aussi déposer ces ressources dans uO Recherche.",
+   "en": "Open educational resources are free, openly licensed learning materials, often under a Creative Commons licence: textbooks, videos, podcasts or entire courses. The Library helps find resources to adopt or adapt, advises on copyright and licences, and offers training on the Pressbooks platform. It can also deposit these resources in uO Research."
+  },
+  "sources": [
+   {
+    "label": "Open educational resources",
+    "url": "https://www.uottawa.ca/library/open-educational-resources"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-formats-accessibles",
+  "category": "bibliotheques",
+  "keywords": [
+   "format accessible livre",
+   "ace scholars portal",
+   "cela",
+   "bookshare",
+   "print disability",
+   "livre audio manuel"
+  ],
+  "question": {
+   "fr": "J'ai un trouble de lecture des imprimés : comment obtenir mes livres en format accessible ?",
+   "en": "I have a print disability: how do I get my books in an accessible format?"
+  },
+  "answer": {
+   "fr": "La Bibliothèque peut t'aider à obtenir des livres en PDF, DAISY, ePub, MP3 ou Word. Le dépôt ACE contient des documents numérisés en formats accessibles : inscris-toi d'abord au Service d'accommodements scolaires, puis écris à la Bibliothèque pour obtenir un jeton d'accès. Le service CELA, qui donne aussi accès à Bookshare, demande une carte de bibliothèque publique.",
+   "en": "The Library can help you get books in PDF, DAISY, ePub, MP3 or Word. The ACE repository holds digitized materials in accessible formats: first register with Academic Accommodations, then email the Library for an access token. The CELA service, which also gives access to Bookshare, requires a public library card."
+  },
+  "sources": [
+   {
+    "label": "Accessibility",
+    "url": "https://www.uottawa.ca/library/services/accessibility"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-loupe-optelec",
+  "category": "bibliotheques",
+  "keywords": [
+   "loupe électronique",
+   "agrandir texte",
+   "video magnifier",
+   "optelec",
+   "basse vision bibliothèque",
+   "low vision library"
+  ],
+  "question": {
+   "fr": "Y a-t-il une loupe électronique pour lire à la bibliothèque ?",
+   "en": "Is there a video magnifier for reading at the Library?"
+  },
+  "answer": {
+   "fr": "Oui, une loupe vidéo Optelec, sur une table à hauteur réglable, se trouve au 1er étage de Morisset, à l'extérieur du local 117, et une autre à la bibliothèque des sciences de la santé. Elle agrandit le texte et les images, et peut changer la couleur du texte ou du fond, par exemple du blanc sur noir.",
+   "en": "Yes, an Optelec video magnifier on a height-adjustable table is on Morisset's 1st floor, outside room 117, and another is at the Health Sciences Library. It enlarges text and pictures and can change the text or background colour, for example white on black."
+  },
+  "sources": [
+   {
+    "label": "Accessibility",
+    "url": "https://www.uottawa.ca/library/services/accessibility"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-poste-accessible-sciences-sante",
+  "category": "bibliotheques",
+  "keywords": [
+   "poste accessible sciences de la santé",
+   "assistive workstation",
+   "réserver poste adapté",
+   "technologie d'aide roger-guindon",
+   "adaptive booking",
+   "poste adapté bibliothèque"
+  ],
+  "question": {
+   "fr": "Comment réserver un poste de travail adapté à la bibliothèque ?",
+   "en": "How do I book an assistive workstation at the Library?"
+  },
+  "answer": {
+   "fr": "Écris d'abord à la Bibliothèque pour qu'on t'accorde l'accès aux postes adaptés. Ensuite, dans le système de réservation des salles, change l'option « Default » pour « adaptive » dans le menu en haut de la page. Il y a un poste adapté à côté du comptoir de la bibliothèque des sciences de la santé, et la salle 147G à la bibliothèque de Lees ; apporte ou emprunte des écouteurs.",
+   "en": "First email the Library to be given access to assistive workstations. Then, in the room booking system, switch the drop-down at the top of the page from Default to adaptive. There's an assistive workstation next to the Health Sciences Library service desk, and room 147G at the Lees library; bring or borrow headphones."
+  },
+  "sources": [
+   {
+    "label": "Accessibility",
+    "url": "https://www.uottawa.ca/library/services/accessibility"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-suggerer-achat",
+  "category": "bibliotheques",
+  "keywords": [
+   "suggérer un achat",
+   "demander un livre à la bibliothèque",
+   "suggest a purchase",
+   "bibliothèque acheter livre",
+   "livre manquant collection",
+   "request library buy book"
+  ],
+  "question": {
+   "fr": "La bibliothèque n'a pas le livre que je veux : puis-je lui demander de l'acheter ?",
+   "en": "The Library doesn't have the book I want: can I ask it to buy it?"
+  },
+  "answer": {
+   "fr": "Oui, remplis le formulaire « Suggérer un achat » sur le site de la Bibliothèque pour demander un document précis. Si tu en as besoin rapidement, tu peux aussi le demander par le prêt entre bibliothèques dans Omni.",
+   "en": "Yes, fill out the Suggest a purchase form on the Library website to request a specific item. If you need it quickly, you can also request it through interlibrary loan in Omni."
+  },
+  "sources": [
+   {
+    "label": "Services for students",
+    "url": "https://www.uottawa.ca/library/services/students"
+   },
+   {
+    "label": "Resource sharing and interlibrary loan",
+    "url": "https://www.uottawa.ca/library/services/interlibrary-loan"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-styles-citation",
+  "category": "bibliotheques",
+  "keywords": [
+   "style apa",
+   "style chicago",
+   "style mla",
+   "citation style",
+   "quel style de citation",
+   "normes bibliographiques"
+  ],
+  "question": {
+   "fr": "Quel style de citation utiliser : APA, Chicago ou MLA ?",
+   "en": "Which citation style should I use: APA, Chicago or MLA?"
+  },
+  "answer": {
+   "fr": "Demande toujours à ton professeur quel style il veut. En général, APA, en 7e édition, sert en sciences sociales et suit le format auteur-date ; Chicago, en 17e édition, sert surtout en sciences humaines, avec des notes de bas de page et une bibliographie ; MLA, en 9e édition, sert en arts et lettres. La Bibliothèque offre des tutoriels et des guides pour chacun.",
+   "en": "Always ask your professor which style to use. Generally, APA, 7th edition, is used in the social sciences and follows the author-date format; Chicago, 17th edition, is used mostly in the humanities, with footnotes and a bibliography; MLA, 9th edition, is used in arts and humanities. The Library offers tutorials and guides for each."
+  },
+  "sources": [
+   {
+    "label": "Citation styles",
+    "url": "https://www.uottawa.ca/library/writing-citing/citation-styles"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-autoplagiat",
+  "category": "bibliotheques",
+  "keywords": [
+   "autoplagiat",
+   "réutiliser mon travail",
+   "self-plagiarism",
+   "remettre même travail deux cours",
+   "self-recycling",
+   "plagiat paraphrase"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux remettre le même travail dans deux cours ?",
+   "en": "Can I hand in the same paper in two courses?"
+  },
+  "answer": {
+   "fr": "Non, pas sans autorisation : réutiliser ton propre travail dans un autre cours, c'est de l'autoplagiat. Le règlement sur la fraude scolaire inclut le fait de soumettre le même travail, ou une grande partie, dans plus d'un cours sans l'approbation préalable des professeurs concernés. Changer quelques mots tout en copiant la structure d'une source sans la citer est aussi du plagiat.",
+   "en": "No, not without permission: reusing your own work in another course is self-plagiarism. The academic fraud regulation includes submitting the same work, or a large part of it, in more than one course without the prior approval of the professors involved. Changing a few words while copying a source's sentence structure without citing it is also plagiarism."
+  },
+  "sources": [
+   {
+    "label": "Avoid plagiarism and other academic fraud",
+    "url": "https://www.uottawa.ca/library/writing-citing/avoid-plagiarism-academic-fraud"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-tutoriels-recherche",
+  "category": "bibliotheques",
+  "keywords": [
+   "tutoriels bibliothèque",
+   "apprendre à faire une recherche",
+   "research skills tutorials",
+   "stratégie de recherche",
+   "évaluer une source",
+   "writing and citing library"
+  ],
+  "question": {
+   "fr": "La bibliothèque a-t-elle des tutoriels pour apprendre à faire une recherche ?",
+   "en": "Does the Library have tutorials to learn how to do research?"
+  },
+  "answer": {
+   "fr": "Oui, la section « Rédiger et citer » propose des tutoriels en ligne et des ateliers pratiques pour les étudiants de premier cycle et les débutants. Ils couvrent la question de recherche, la stratégie de recherche, le choix et l'évaluation des sources, la citation et la façon d'éviter le plagiat. Les Ateliers instantanés offrent aussi de courtes leçons gratuites en français et en anglais.",
+   "en": "Yes, the Writing and citing section offers online tutorials and hands-on workshops for undergraduates and novice searchers. They cover your research question, search strategy, choosing and evaluating sources, citing and avoiding plagiarism. Instant Workshops also offer short free lessons in French and English."
+  },
+  "sources": [
+   {
+    "label": "Writing and citing",
+    "url": "https://www.uottawa.ca/library/writing-citing"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-demande-formation",
+  "category": "bibliotheques",
+  "keywords": [
+   "atelier bibliothèque en classe",
+   "demande de formation bibliothèque",
+   "library instruction request",
+   "bibliothécaire dans mon cours",
+   "formation documentaire groupe",
+   "library workshop class"
+  ],
+  "question": {
+   "fr": "Comment demander qu'un bibliothécaire donne un atelier à mon groupe ou à ma classe ?",
+   "en": "How do I ask a librarian to give a workshop to my group or class?"
+  },
+  "answer": {
+   "fr": "Remplis le formulaire de demande de formation documentaire de la Bibliothèque ; les professeurs, les étudiants et les groupes externes peuvent l'utiliser. Prévois au moins deux semaines d'avis. Tu peux choisir les sujets, comme les stratégies de recherche, l'évaluation des sources, la citation ou le plagiat, en présentiel virtuel ou avec du matériel asynchrone.",
+   "en": "Fill out the Library Instruction Request Form; faculty, students and external groups can use it. Allow at least two weeks' notice. You can choose topics such as search strategies, evaluating sources, citing or plagiarism, as a live virtual session or with asynchronous material."
+  },
+  "sources": [
+   {
+    "label": "Library Instruction Request Form",
+    "url": "https://www.uottawa.ca/library/university-ottawa-library-instruction-request-form"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-humanites-numeriques",
+  "category": "bibliotheques",
+  "keywords": [
+   "humanités numériques",
+   "digital humanities",
+   "omeka",
+   "projet numérique bibliothèque",
+   "tei xml",
+   "dh support uottawa"
+  ],
+  "question": {
+   "fr": "La bibliothèque aide-t-elle avec les projets en humanités numériques ?",
+   "en": "Does the Library help with digital humanities projects?"
+  },
+  "answer": {
+   "fr": "Oui, gratuitement, pour les professeurs, les étudiants et les groupes de recherche d'uOttawa : consultations, conseils sur les technologies comme Omeka, formation en curation numérique et appui aux projets en classe. Pour commencer, remplis l'entente de projet en humanités numériques de la Bibliothèque. Elle ne rédige pas de textes, ne crée pas de logos et ne gère pas les projets à ta place.",
+   "en": "Yes, free of charge, for uOttawa faculty, students and research groups: consultations, advice on tools such as Omeka, training in digital curation and support for classroom projects. To get started, fill out the Library's Digital Humanities Project Agreement. It doesn't draft text, create logos or manage projects for you."
+  },
+  "sources": [
+   {
+    "label": "Support services for Digital Humanities projects",
+    "url": "https://www.uottawa.ca/library/support-services-digital-humanities-projects"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-chercheurs-affilies",
+  "category": "bibliotheques",
+  "keywords": [
+   "chercheur affilié bibliothèque",
+   "hôpital affilié bibliothèque",
+   "affiliated researcher library",
+   "postdoc bibliothèque",
+   "chercheur invité accès",
+   "professionnel de la santé bibliothèque"
+  ],
+  "question": {
+   "fr": "Je suis chercheur dans un institut affilié : ai-je accès à la bibliothèque ?",
+   "en": "I'm a researcher at an affiliated institute: do I have library access?"
+  },
+  "answer": {
+   "fr": "Souvent, oui. Les assistants et associés de recherche des instituts affiliés, comme l'Institut de cardiologie, l'IRHO ou le CHEO, empruntent avec leur badge institutionnel indiquant leur statut ; les postdoctorants et les chercheurs invités utilisent leur carte uOttawa. Pour les ressources en ligne, une personne qui travaille activement à l'enseignement ou à la recherche d'uOttawa peut être parrainée, en général par un directeur de département.",
+   "en": "Often, yes. Research assistants and associates at affiliated institutes, such as the Heart Institute, OHRI or CHEO, borrow with an institutional ID badge showing their status; postdoctoral fellows and visiting scholars use their uOttawa card. For online resources, someone actively involved in uOttawa teaching or research can be sponsored, usually by a department chair or above."
+  },
+  "sources": [
+   {
+    "label": "Affiliated researchers and health professionals",
+    "url": "https://www.uottawa.ca/library/services/affiliated-researchers-health-professionals"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-biblio-en-chiffres",
+  "category": "bibliotheques",
+  "keywords": [
+   "bibliothèque en chiffres",
+   "combien de livres uottawa",
+   "library quick facts",
+   "nombre de titres bibliothèque",
+   "livres rares nombre",
+   "library statistics"
+  ],
+  "question": {
+   "fr": "Combien de livres a la bibliothèque d'uOttawa ?",
+   "en": "How many books does the uOttawa Library have?"
+  },
+  "answer": {
+   "fr": "La Bibliothèque compte plus de 5,9 millions de titres, tous formats confondus, dont 13 850 livres rares et 21 032 thèses d'uOttawa, ainsi que plus de 10 000 DVD. Elle a plusieurs succursales sur trois campus, principal, Roger-Guindon et Lees, et reçoit plus de 2 millions de visites par année.",
+   "en": "The Library has over 5.9 million titles in all formats, including 13,850 rare books and 21,032 uOttawa theses, plus more than 10,000 DVDs. It has several locations on three campuses, Main, Roger Guindon and Lees, and gets over 2 million visits a year."
+  },
+  "sources": [
+   {
+    "label": "Overview of the Library",
+    "url": "https://www.uottawa.ca/library/overview"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-collections-numeriques-uniques",
+  "category": "bibliotheques",
+  "keywords": [
+   "photos aériennes ottawa",
+   "cartes topographiques historiques",
+   "livres français numérisés",
+   "internet archive uottawa",
+   "historical air photos",
+   "collections numériques uniques"
+  ],
+  "question": {
+   "fr": "La bibliothèque a-t-elle des photos aériennes ou des cartes anciennes en ligne ?",
+   "en": "Does the Library have aerial photos or historical maps online?"
+  },
+  "answer": {
+   "fr": "Oui. La Bibliothèque a numérisé ses photos aériennes de la région d'Ottawa-Gatineau prises de 1928 à 1945, qu'on peut chercher et télécharger. Elle participe aussi à une collection ontarienne de cartes topographiques historiques de 1906 à 1977, en libre accès. Elle a enfin numérisé plus de 20 000 livres français publiés avant 1923, offerts gratuitement sur Internet Archive.",
+   "en": "Yes. The Library digitized its aerial photographs of the Ottawa-Gatineau region taken from 1928 to 1945, which you can search and download. It also contributes to an Ontario collection of historical topographic maps from 1906 to 1977, in open access. And it has digitized over 20,000 French books published before 1923, freely available on the Internet Archive."
+  },
+  "sources": [
+   {
+    "label": "Unique collections",
+    "url": "https://www.uottawa.ca/library/resources/unique-collections"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-dons-livres",
+  "category": "bibliotheques",
+  "keywords": [
+   "donner des livres bibliothèque",
+   "don de livres",
+   "donate books library",
+   "faire un don bibliothèque",
+   "library donation policy",
+   "soutenir la bibliothèque"
+  ],
+  "question": {
+   "fr": "Puis-je donner des livres à la bibliothèque ?",
+   "en": "Can I donate books to the Library?"
+  },
+  "answer": {
+   "fr": "La Bibliothèque a une politique sur les dons de documents, que tu peux consulter sur sa page « Appuyer la bibliothèque » avant d'offrir des livres. Tu peux aussi faire un don en argent, qui aide à enrichir et préserver les collections. Pour en savoir plus, communique avec la Bibliothèque.",
+   "en": "The Library has a policy on donations of library materials, which you can read on its Support the library page before offering books. You can also make a financial gift, which helps grow and preserve the collections. For more information, contact the Library."
+  },
+  "sources": [
+   {
+    "label": "Support the library",
+    "url": "https://www.uottawa.ca/library/support-library"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-morisset-cabine-telephonique",
+  "category": "bibliotheques",
+  "keywords": [
+   "cabine téléphonique morisset",
+   "appel bibliothèque",
+   "phone booth library",
+   "prêt libre-service morisset",
+   "self-checkout morisset",
+   "faire un appel en silence"
+  ],
+  "question": {
+   "fr": "Où faire un appel ou une rencontre en ligne à Morisset sans déranger ?",
+   "en": "Where can I take a call or online meeting at Morisset without disturbing anyone?"
+  },
+  "answer": {
+   "fr": "Il y a une cabine téléphonique au 5e étage de la bibliothèque Morisset. Le 5e étage est aussi une zone de silence, alors utilise la cabine plutôt que ton espace d'étude. Morisset a également des machines de prêt libre-service et le Wi-Fi partout.",
+   "en": "There's a phone booth on the 5th floor of Morisset Library. The 5th floor is also a silent zone, so use the booth rather than your study spot. Morisset also has self-checkout machines and Wi-Fi throughout."
+  },
+  "sources": [
+   {
+    "label": "Morisset Library",
+    "url": "https://www.uottawa.ca/library/morisset-library"
+   },
+   {
+    "label": "Study space occupancy",
+    "url": "https://www.uottawa.ca/library/study-space"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-heures-archives",
+  "category": "bibliotheques",
+  "keywords": [
+   "heures archives",
+   "archives special collections hours",
+   "ouverture archives morisset",
+   "archives fermées vendredi",
+   "horaire archives",
+   "arcs hours"
+  ],
+  "question": {
+   "fr": "Quand les Archives et collections spéciales sont-elles ouvertes ?",
+   "en": "When are Archives and Special Collections open?"
+  },
+  "answer": {
+   "fr": "À l'automne 2026, les Archives et collections spéciales sont ouvertes du lundi au jeudi, avec des rendez-vous offerts pendant une plage plus courte, et elles sont fermées du vendredi au dimanche. Comme l'horaire change selon la session, vérifie la page des heures de la Bibliothèque avant ta visite.",
+   "en": "In fall 2026, Archives and Special Collections is open Monday to Thursday, with appointments offered during a shorter window, and closed Friday to Sunday. Since hours change by term, check the Library hours page before you visit."
+  },
+  "sources": [
+   {
+    "label": "Locations and hours",
+    "url": "https://www.uottawa.ca/library/locations-hours"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "za-heures-fss-gestion",
+  "category": "bibliotheques",
+  "keywords": [
+   "heures bibliothèque fss",
+   "heures bibliothèque gestion",
+   "management library hours",
+   "fss library hours",
+   "bibliothèque desmarais horaire",
+   "bibliothèque sciences sociales heures"
+  ],
+  "question": {
+   "fr": "Quelles sont les heures des bibliothèques FSS et de gestion ?",
+   "en": "What are the hours of the FSS and Management libraries?"
+  },
+  "answer": {
+   "fr": "La bibliothèque de la Faculté des sciences sociales et la bibliothèque de gestion suivent les heures d'ouverture de leur pavillon, FSS et Desmarais. Elles ferment certains jours fériés, alors vérifie les exceptions sur la page des heures de la Bibliothèque.",
+   "en": "The Faculty of Social Sciences Library and the Management Library follow the opening hours of their buildings, FSS and Desmarais. They close on some holidays, so check the exceptions on the Library hours page."
+  },
+  "sources": [
+   {
+    "label": "Locations and hours",
+    "url": "https://www.uottawa.ca/library/locations-hours"
+   },
+   {
+    "label": "Faculty of Social Sciences Library",
+    "url": "https://www.uottawa.ca/library/faculty-social-sciences-library"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "za-comptoir-service-heures",
+  "category": "bibliotheques",
+  "keywords": [
+   "comptoir de service ferme",
+   "heures comptoir morisset",
+   "service desk hours",
+   "emprunter le soir",
+   "bibliothèque ouverte comptoir fermé",
+   "circulation desk hours"
+  ],
+  "question": {
+   "fr": "Pourquoi le comptoir de service de Morisset est-il fermé alors que la bibliothèque est ouverte ?",
+   "en": "Why is the Morisset service desk closed while the library is open?"
+  },
+  "answer": {
+   "fr": "Le comptoir de service a ses propres heures, plus courtes que celles de la bibliothèque : le soir, tu peux encore étudier, mais pas forcément emprunter au comptoir. Dans ce cas, utilise les machines de prêt libre-service. Les heures du comptoir sont affichées à côté de celles de la bibliothèque sur la page des heures.",
+   "en": "The service desk has its own hours, shorter than the library's: in the evening you can still study but may not be able to borrow at the desk. In that case, use the self-checkout machines. Desk hours are listed next to library hours on the hours page."
+  },
+  "sources": [
+   {
+    "label": "Locations and hours",
+    "url": "https://www.uottawa.ca/library/locations-hours"
+   },
+   {
+    "label": "Morisset Library",
+    "url": "https://www.uottawa.ca/library/morisset-library"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "za-consultation-recherche",
+  "category": "bibliotheques",
+  "keywords": [
+   "rendez-vous bibliothécaire",
+   "consultation de recherche",
+   "book research consultation",
+   "rencontrer un bibliothécaire",
+   "research appointment library",
+   "aide travail de recherche"
+  ],
+  "question": {
+   "fr": "Comment prendre rendez-vous avec un bibliothécaire pour mon travail ?",
+   "en": "How do I book an appointment with a librarian for my assignment?"
+  },
+  "answer": {
+   "fr": "Chaque bibliothèque propose des consultations de recherche individuelles. Trouve ton bibliothécaire dans les guides de recherche, puis réserve une consultation dans son calendrier de disponibilités ou écris-lui pour une rencontre en personne. Tu peux aussi demander un atelier pour ton groupe.",
+   "en": "Each library offers individual research consultations. Find your librarian in the research guides, then book a consultation through their availability calendar or email them for an in-person meeting. You can also request a workshop for your group."
+  },
+  "sources": [
+   {
+    "label": "Management Library",
+    "url": "https://www.uottawa.ca/library/management-library"
+   },
+   {
+    "label": "Ask and contact",
+    "url": "https://www.uottawa.ca/library/ask-contact"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-equipement-retour",
+  "category": "bibliotheques",
+  "keywords": [
+   "perdre équipement bibliothèque",
+   "frais équipement perdu",
+   "lost library equipment",
+   "coût livre perdu",
+   "remplacement livre perdu",
+   "équipement endommagé"
+  ],
+  "question": {
+   "fr": "Combien ça coûte si je perds un livre ou de l'équipement de la bibliothèque ?",
+   "en": "How much does it cost if I lose a library book or equipment?"
+  },
+  "answer": {
+   "fr": "Un livre ou un DVD déclaré perdu entraîne des frais de remplacement de 125 dollars par défaut. Pour l'équipement multimédia perdu ou endommagé au-delà de la réparation, le coût varie selon l'article et peut aller jusqu'à 500 dollars.",
+   "en": "A book or DVD declared lost carries a default replacement charge of 125 dollars. For multimedia equipment that's lost or damaged beyond repair, the cost depends on the item and can be as high as 500 dollars."
+  },
+  "sources": [
+   {
+    "label": "Borrow",
+    "url": "https://www.uottawa.ca/library/services/borrow"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-demande-document-sorti",
+  "category": "bibliotheques",
+  "keywords": [
+   "livre déjà emprunté",
+   "demander livre sorti",
+   "request checked out book",
+   "bouton request omni",
+   "livre en traitement",
+   "document en entrepôt"
+  ],
+  "question": {
+   "fr": "Le livre que je veux est déjà emprunté : que faire ?",
+   "en": "The book I want is already checked out: what can I do?"
+  },
+  "answer": {
+   "fr": "Dans Omni, clique sur le bouton « Request » : tu peux demander un document déjà prêté, entreposé hors campus ou en traitement. Entre tes informations et choisis ton lieu de ramassage. La personne qui l'a emprunté peut devoir le rendre dans les 7 jours si sa période de prêt est prolongée ou en retard.",
+   "en": "In Omni, click the Request button: you can request items already on loan, in off-site storage or being processed. Enter your information and choose a pickup location. The current borrower may have to return it within 7 days if it's on an extended loan or overdue."
+  },
+  "sources": [
+   {
+    "label": "Borrow",
+    "url": "https://www.uottawa.ca/library/services/borrow"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-wifi-biblio",
+  "category": "bibliotheques",
+  "keywords": [
+   "wifi bibliothèque",
+   "internet bibliothèque",
+   "library wireless",
+   "wifi diplômés bibliothèque",
+   "se connecter wifi morisset",
+   "wireless access library"
+  ],
+  "question": {
+   "fr": "Y a-t-il du Wi-Fi dans les bibliothèques ?",
+   "en": "Is there Wi-Fi in the libraries?"
+  },
+  "answer": {
+   "fr": "Oui, le Wi-Fi est offert dans toutes les bibliothèques aux étudiants, aux professeurs, au personnel et aux diplômés, sur un portable ou un appareil mobile. Pour configurer ta connexion, consulte le site de soutien des Technologies de l'information. Ne laisse jamais ton ordinateur ou tes effets personnels sans surveillance : la Bibliothèque n'est pas responsable des objets perdus ou volés.",
+   "en": "Yes, Wi-Fi is available in every library for current students, faculty, staff and alumni on a laptop or mobile device. To set up your connection, see the Information Technology support site. Never leave your computer or belongings unattended: the Library isn't responsible for lost or stolen items."
+  },
+  "sources": [
+   {
+    "label": "Computers and technology",
+    "url": "https://www.uottawa.ca/library/services/computers-technology"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-logiciels-postes-biblio",
+  "category": "bibliotheques",
+  "keywords": [
+   "logiciels ordinateurs bibliothèque",
+   "microsoft office bibliothèque",
+   "adobe bibliothèque",
+   "library computer software",
+   "lecteur dvd ordinateur",
+   "port usb bibliothèque"
+  ],
+  "question": {
+   "fr": "Quels logiciels y a-t-il sur les ordinateurs de la bibliothèque ?",
+   "en": "What software is on the library computers?"
+  },
+  "answer": {
+   "fr": "Tous les postes ont Internet et Microsoft Office, et la plupart ont des ports USB et un lecteur CD ou DVD. À Morisset, le local MRT 308 offre des logiciels géographiques et statistiques, et quatre ordinateurs du 3e étage ont des logiciels Adobe, avec un compte Adobe gratuit. Le Centre des médias offre aussi de l'équipement et des technologies multimédias.",
+   "en": "All workstations have Internet access and Microsoft Office, and most have USB ports and a CD or DVD drive. At Morisset, room MRT 308 has geographic and statistical software, and four computers on the 3rd floor have Adobe software, with a free Adobe account. The Media Centre also offers multimedia equipment and technology."
+  },
+  "sources": [
+   {
+    "label": "Computers and technology",
+    "url": "https://www.uottawa.ca/library/services/computers-technology"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "za-heures-lees-crx-pointer",
+  "category": "bibliotheques",
+  "keywords": [
+   "heures bibliothèque lees",
+   "lees library hours",
+   "bibliothèque crx heures",
+   "fermé action de grâces bibliothèque",
+   "heures fériés bibliothèque",
+   "bibliothèque jour férié"
+  ],
+  "question": {
+   "fr": "Les bibliothèques sont-elles ouvertes les jours fériés ?",
+   "en": "Are the libraries open on holidays?"
+  },
+  "answer": {
+   "fr": "Ça dépend de la succursale : certaines ferment, d'autres ont des heures réduites. Par exemple, à l'Action de grâces 2026, la bibliothèque de Lees, le CRX, la bibliothèque FSS et celle de gestion étaient fermés, tandis que Brian-Dickson et les sciences de la santé avaient des heures réduites. Consulte toujours la section des exceptions sur la page des heures de la Bibliothèque.",
+   "en": "It depends on the location: some close, others have reduced hours. For example, on Thanksgiving 2026, the Lees library, CRX, the FSS library and the Management library were closed, while Brian Dickson and Health Sciences had reduced hours. Always check the exceptions on the Library hours page."
+  },
+  "sources": [
+   {
+    "label": "Locations and hours",
+    "url": "https://www.uottawa.ca/library/locations-hours"
+   }
+  ],
+  "related": [
+   "za-livraison-domicile",
+   "za-pret-diplomes-visiteurs",
+   "za-pret-autres-universites"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zb-conservation-dossier-faculte",
+  "category": "reglements",
+  "keywords": [
+   "dossier étudiant",
+   "conservation",
+   "détruit",
+   "record retention",
+   "student file",
+   "how long is my file kept",
+   "dossier facultaire"
+  ],
+  "question": {
+   "fr": "Combien de temps ma faculté garde-t-elle mon dossier étudiant ?",
+   "en": "How long does my faculty keep my student file?"
+  },
+  "answer": {
+   "fr": "Ta faculté garde ton dossier tant que tu y es inscrit. Sept trimestres consécutifs après ton départ, que tu aies obtenu ton diplôme ou que tu te sois retiré, les documents du dossier sont détruits, sauf si tu es inscrit à un autre programme de la même faculté ou que tu as une raison valable de le faire garder plus longtemps. Les renseignements du système d’information étudiant, eux, sont conservés indéfiniment.",
+   "en": "Your faculty keeps your file as long as you are enrolled there. Seven consecutive terms after you leave, whether you graduated or withdrew, the documents in the file are destroyed, unless you are enrolled in another program in the same faculty or gave a valid reason to keep it longer. Information in the Student Information System, however, is kept indefinitely."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-7 – Conservation des dossiers",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-7-conservation-dossiers"
+   },
+   {
+    "label": "Academic Regulation A-7 – Record Retention",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-7-record-retention"
+   }
+  ],
+  "related": [
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code",
+   "zb-cours-equivalent-autre-langue"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-copies-examens-non-reclamees",
+  "category": "reglements",
+  "keywords": [
+   "examen non réclamé",
+   "travaux non réclamés",
+   "garder copie",
+   "unclaimed exam",
+   "unclaimed assignment",
+   "how long are exams kept",
+   "conservation examens"
+  ],
+  "question": {
+   "fr": "Combien de temps l’Université garde-t-elle mes examens et travaux non réclamés ?",
+   "en": "How long does the University keep my unclaimed exams and assignments?"
+  },
+  "answer": {
+   "fr": "Les travaux et examens non réclamés sont conservés au moins un an à partir du moment où la note finale devient officielle. Ils peuvent être détruits plus tôt seulement si tu y consens. Si tu veux revoir un examen, fais-le donc dans cette période.",
+   "en": "Unclaimed assignments and exams are kept for at least one year from the date the final grade becomes official. They can be destroyed earlier only if you agree to it. So if you want to review an exam, do it within that period."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-7 – Conservation des dossiers",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-7-conservation-dossiers"
+   },
+   {
+    "label": "Academic Regulation A-7 – Record Retention",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-7-record-retention"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-cours-bilingue-code",
+   "zb-cours-equivalent-autre-langue"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cours-bilingue-code",
+  "category": "reglements",
+  "keywords": [
+   "cours bilingue",
+   "code 0 ou 9",
+   "bilingual course",
+   "course code 0 9",
+   "language of course",
+   "cours bilingues"
+  ],
+  "question": {
+   "fr": "Comment fonctionne un cours bilingue, dont le code contient un 0 ou un 9 ?",
+   "en": "How does a bilingual course work, one whose code has a 0 or a 9?"
+  },
+  "answer": {
+   "fr": "Le cinquième caractère du code, 0 ou 9, peut indiquer un cours bilingue où le français et l’anglais sont utilisés de façon équilibrée. Tu peux t’exprimer dans la langue de ton choix, mais tu dois au moins comprendre l’autre langue à l’oral et à l’écrit. Le niveau exigé est précisé dans la description du cours.",
+   "en": "The fifth character of the code, 0 or 9, can indicate a bilingual course where English and French are used in a balanced way. You can use the language of your choice, but you must at least understand the other language orally and in writing. The required level is stated in the course description."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-2 – Cours",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-2-cours"
+   },
+   {
+    "label": "Academic Regulation A-2 – Courses",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-2-courses"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-equivalent-autre-langue"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cours-equivalent-autre-langue",
+  "category": "reglements",
+  "keywords": [
+   "cours équivalent français anglais",
+   "même cours en français",
+   "equivalent course french english",
+   "eco1100 eco1500",
+   "course in the other language",
+   "version française du cours"
+  ],
+  "question": {
+   "fr": "Comment savoir si un cours en anglais a son équivalent en français ?",
+   "en": "How can I tell whether an English course has a French equivalent?"
+  },
+  "answer": {
+   "fr": "Deux cours équivalents en anglais et en français ont une différence de 4 dans le cinquième caractère de leur code, quand ce chiffre est entre 1 et 8. Par exemple, ECO 1100 et ECO 1500 sont équivalents, mais pas ECO 1100 et ECO 1700. Les chiffres 1, 2 et 3 désignent un cours en anglais, et 5, 6 et 7 un cours en français.",
+   "en": "Two equivalent courses in English and French differ by 4 in the fifth character of their code, when that number is between 1 and 8. For example, ECO 1100 and ECO 1500 are equivalent, but ECO 1100 and ECO 1700 are not. The numbers 1, 2 and 3 indicate a course taught in English, and 5, 6 and 7 a course taught in French."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-2 – Cours",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-2-cours"
+   },
+   {
+    "label": "Academic Regulation A-2 – Courses",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-2-courses"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cours-immersion-six-credits",
+  "category": "reglements",
+  "keywords": [
+   "cours immersion crédits",
+   "cours de langue d’accompagnement",
+   "immersion course units",
+   "six units immersion",
+   "combien de crédits immersion"
+  ],
+  "question": {
+   "fr": "Combien de crédits vaut un cours d’immersion ?",
+   "en": "How many units is an immersion course worth?"
+  },
+  "answer": {
+   "fr": "Un cours d’immersion te permet d’améliorer ta langue seconde officielle. Tu reçois trois crédits pour le cours de contenu suivi dans ta langue seconde et trois crédits de plus pour le cours de langue qui l’accompagne, soit six crédits au total.",
+   "en": "An immersion course lets you improve your second official language. You receive three units for the regular content course taken in your second language and three more for the accompanying language course, for a total of six units."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-2 – Cours",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-2-cours"
+   },
+   {
+    "label": "Academic Regulation A-2 – Courses",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-2-courses"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-assiduite-cours",
+  "category": "reglements",
+  "keywords": [
+   "assiduité",
+   "présence obligatoire",
+   "attendance",
+   "is attendance mandatory",
+   "manquer des cours",
+   "présence en classe"
+  ],
+  "question": {
+   "fr": "La présence aux cours est-elle obligatoire ?",
+   "en": "Is class attendance mandatory?"
+  },
+  "answer": {
+   "fr": "Tu es responsable de participer aux activités d’apprentissage et d’évaluation de chacun de tes cours. Les exigences précises de présence sont indiquées dans le plan de cours, selon les règlements de ta faculté s’il y en a. Lis donc ton plan de cours dès le premier cours.",
+   "en": "You are responsible for taking part in the learning and assessment activities of each of your courses. The specific attendance requirements are set out in each course syllabus, following your faculty’s regulations where applicable. So read your syllabus from the first class."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-2 – Cours",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-2-cours"
+   },
+   {
+    "label": "Academic Regulation A-2 – Courses",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-2-courses"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-trimestres-faculte-droit",
+  "category": "reglements",
+  "keywords": [
+   "trimestre de janvier",
+   "session de janvier droit",
+   "law january term",
+   "law terms",
+   "trimestres droit",
+   "faculté de droit trimestres"
+  ],
+  "question": {
+   "fr": "Pourquoi la Faculté de droit a-t-elle un trimestre de janvier ?",
+   "en": "Why does the Faculty of Law have a January term?"
+  },
+  "answer": {
+   "fr": "À la Faculté de droit, les sections de droit civil et de common law ont quatre trimestres : l’automne de septembre à décembre, un trimestre de janvier, l’hiver de février à avril et le printemps-été de mai à août. Ailleurs à l’Université, il y a trois trimestres, et l’automne et l’hiver durent en général 15 semaines chacun, examens compris.",
+   "en": "At the Faculty of Law, the Civil Law and Common Law sections have four terms: fall from September to December, a January term, winter from February to April, and spring-summer from May to August. Elsewhere at the University there are three terms, and fall and winter generally last 15 weeks each, including exams."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-2 – Cours",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-2-cours"
+   },
+   {
+    "label": "Academic Regulation A-2 – Courses",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-2-courses"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-langue-presentations-orales",
+  "category": "reglements",
+  "keywords": [
+   "présentation orale langue",
+   "exposé en français",
+   "oral presentation language",
+   "present in french in english course",
+   "langue exposé oral"
+  ],
+  "question": {
+   "fr": "Puis-je faire une présentation orale en français dans un cours donné en anglais ?",
+   "en": "Can I give an oral presentation in French in a course taught in English?"
+  },
+  "answer": {
+   "fr": "Non : les présentations orales faites devant d’autres étudiants doivent être faites dans la langue d’enseignement du cours. Par contre, sauf dans les cours et programmes où la langue est une exigence, tu peux rédiger tes travaux et répondre aux examens dans la langue officielle de ton choix.",
+   "en": "No: oral presentations made in front of other students must be in the course’s language of instruction. However, except in courses and programs where language is a requirement, you can write your assignments and answer exam questions in the official language of your choice."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-1 – Bilingualism",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-1-bilingualism"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-langue-materiel-cours",
+  "category": "reglements",
+  "keywords": [
+   "notes de cours en anglais",
+   "lectures dans l’autre langue",
+   "course material language",
+   "readings in english",
+   "matériel pédagogique langue",
+   "slides language"
+  ],
+  "question": {
+   "fr": "Mon professeur peut-il me donner des lectures dans l’autre langue officielle ?",
+   "en": "Can my professor give me readings in the other official language?"
+  },
+  "answer": {
+   "fr": "Les notes, le plan de cours, les présentations et les consignes produits par le professeur doivent être dans la langue d’enseignement du cours. Les manuels et articles externes peuvent être dans l’autre langue s’ils ne sont pas offerts dans la langue du cours ou s’ils sont plus pertinents. Mais pour qu’une matière dans l’autre langue serve à une évaluation, elle doit avoir été présentée ou discutée en classe dans la langue d’enseignement.",
+   "en": "Notes, the syllabus, presentations and instructions produced by the professor must be in the course’s language of instruction. External textbooks and articles may be in the other language if they aren’t available in the course language or are more relevant. But for material in the other language to be used in an evaluation, it must have been presented or discussed in class in the language of instruction."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-1 – Bilingualism",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-1-bilingualism"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cours-langue-annuaire",
+  "category": "reglements",
+  "keywords": [
+   "cours donné dans quelle langue",
+   "langue de l’annuaire",
+   "course taught in the calendar language",
+   "right course language",
+   "language of instruction right"
+  ],
+  "question": {
+   "fr": "Un cours peut-il être donné dans une autre langue que celle annoncée ?",
+   "en": "Can a course be taught in a different language than the one announced?"
+  },
+  "answer": {
+   "fr": "Tu as le droit d’exiger qu’un cours soit donné dans la langue utilisée pour le décrire dans l’annuaire. Tu as aussi le droit de communiquer en français ou en anglais avec l’administration centrale, les services généraux et l’administration de ton unité scolaire.",
+   "en": "You have the right to require that a course be taught in the language used to describe it in the course calendar. You also have the right to use French or English to communicate with the central administration, general services and the administration of your academic unit."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-1 – Bilingualism",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-1-bilingualism"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-etudiant-libre-raisons",
+  "category": "reglements",
+  "keywords": [
+   "étudiant libre raisons",
+   "non-degree student reasons",
+   "certification professionnelle",
+   "perfectionnement",
+   "upgrading courses",
+   "professional certification courses"
+  ],
+  "question": {
+   "fr": "Pour quelles raisons puis-je m’inscrire comme étudiant libre ?",
+   "en": "For what reasons can I enrol as a non-degree student?"
+  },
+  "answer": {
+   "fr": "Les raisons reconnues sont l’intérêt personnel, une certification professionnelle exigée par un ordre ou une association, le transfert de crédits vers un autre établissement, le perfectionnement si tu as déjà un diplôme collégial ou universitaire reconnu, l’élève doué du secondaire, et l’amélioration du rendement scolaire. Selon la raison, un document est demandé, par exemple une lettre de l’association ou une lettre de permission.",
+   "en": "The recognized reasons are personal interest, professional certification required by an outside association, transfer of units to another institution, upgrading if you already hold a recognized college or university degree, gifted high school students, and improving academic standing. Depending on the reason, a document is required, such as a letter from the association or a letter of permission."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation B-1 – Categories and Status of Undergraduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-1-categories-status"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-ameliorer-rendement-retrait",
+  "category": "reglements",
+  "keywords": [
+   "retrait obligatoire cours",
+   "améliorer mon rendement",
+   "required to withdraw courses",
+   "improve academic standing",
+   "étudiant libre après retrait",
+   "mandatory withdrawal courses"
+  ],
+  "question": {
+   "fr": "J’ai été obligé de me retirer de ma faculté : puis-je encore suivre des cours ?",
+   "en": "I was required to withdraw from my faculty: can I still take courses?"
+  },
+  "answer": {
+   "fr": "Oui, comme étudiant libre pour améliorer ton rendement scolaire : jusqu’à 12 crédits par trimestre, pour un total cumulatif de 30 crédits. En règle générale, tu ne peux toutefois pas suivre de cours dans la faculté dont tu as été retiré pendant la période de retrait.",
+   "en": "Yes, as a non-degree student to improve your academic standing: up to 12 units per term, for a cumulative total of 30 units. As a rule, however, you can’t take courses in the faculty you were withdrawn from during the withdrawal period."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation B-1 – Categories and Status of Undergraduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-1-categories-status"
+   },
+   {
+    "label": "Academic Regulation B-4 – Registration",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-4-registration"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-baccalaureat-specialise-definition",
+  "category": "reglements",
+  "keywords": [
+   "baccalauréat spécialisé",
+   "honours bachelor",
+   "120 crédits",
+   "honours degree",
+   "what is an honours",
+   "différence baccalauréat spécialisé"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre un baccalauréat et un baccalauréat spécialisé ?",
+   "en": "What’s the difference between a bachelor’s and an honours bachelor’s?"
+  },
+  "answer": {
+   "fr": "Le baccalauréat spécialisé équivaut à quatre ans d’études et au moins 120 crédits, avec une formation approfondie d’au moins 54 crédits dans une discipline. Le baccalauréat non spécialisé, offert en arts, sciences et sciences sociales, demande trois ou quatre ans, soit 90 ou 120 crédits, et donne une formation universitaire de base. Les deux exigent la moyenne pondérée cumulative requise.",
+   "en": "The honours bachelor’s is equivalent to four years of study and at least 120 units, with in-depth training of at least 54 units in one discipline. The bachelor’s, offered in Arts, Science and Social Sciences, takes three or four years, meaning 90 or 120 units, and gives a basic university education. Both require the required cumulative grade point average."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-majeure-definition",
+  "category": "reglements",
+  "keywords": [
+   "majeure",
+   "major",
+   "combien de crédits majeure",
+   "how many units major",
+   "what is a major"
+  ],
+  "question": {
+   "fr": "Combien de crédits faut-il pour une majeure ?",
+   "en": "How many units is a major?"
+  },
+  "answer": {
+   "fr": "Une majeure comporte au moins 42 crédits dans une discipline ou un champ d’études. Parmi eux, 18 crédits doivent être des cours de niveau 3000 ou plus, dont au moins 6 crédits de niveau 4000.",
+   "en": "A major consists of at least 42 units in one discipline or field of study. Of these, 18 units must be courses at the 3000 level or above, including at least 6 units at the 4000 level."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-mineure-definition",
+  "category": "reglements",
+  "keywords": [
+   "mineure",
+   "minor",
+   "combien de crédits mineure",
+   "how many units minor",
+   "what is a minor"
+  ],
+  "question": {
+   "fr": "Combien de crédits faut-il pour une mineure ?",
+   "en": "How many units is a minor?"
+  },
+  "answer": {
+   "fr": "Une mineure comporte 30 crédits, sauf indication contraire, dont au moins 6 crédits de niveau 3000 ou plus. Elle t’initie à un domaine ou à un sous-domaine d’une discipline, et s’ajoute à ton baccalauréat spécialisé.",
+   "en": "A minor consists of 30 units, unless otherwise indicated, including at least 6 units at the 3000 level or above. It introduces you to a field or sub-field of a discipline and is added to your honours bachelor’s."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-double-majeure-bidisciplinaire",
+  "category": "reglements",
+  "keywords": [
+   "double majeure",
+   "bidisciplinaire",
+   "double major",
+   "joint honours",
+   "différence double majeure bidisciplinaire"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre une double majeure et un baccalauréat bidisciplinaire ?",
+   "en": "What’s the difference between a double major and a joint honours degree?"
+  },
+  "answer": {
+   "fr": "La double majeure est une formation intensive dans deux disciplines, avec 42 crédits dans chacune, sauf indication contraire. Le baccalauréat spécialisé bidisciplinaire te spécialise dans deux disciplines apparentées, avec au moins 42 crédits dans l’une et 36 dans l’autre.",
+   "en": "A double major is intensive training in two disciplines, with 42 units in each, unless otherwise indicated. A joint honours bachelor’s lets you specialize in two related disciplines, with at least 42 units in one and 36 in the other."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-microprogramme-premier-cycle",
+  "category": "reglements",
+  "keywords": [
+   "microprogramme",
+   "microprogram",
+   "undergraduate microprogram",
+   "21 crédits",
+   "short program"
+  ],
+  "question": {
+   "fr": "Qu’est-ce qu’un microprogramme de premier cycle ?",
+   "en": "What is an undergraduate microprogram?"
+  },
+  "answer": {
+   "fr": "C’est un ensemble de cours dans un domaine précis, d’au plus 21 crédits, qui peut faire partie de ton programme ou être suivi seul, par exemple pour ta carrière. Il est ouvert aux étudiants admis à un programme et aux étudiants libres. Il paraît sur ton relevé de notes, mais pas sur ton diplôme.",
+   "en": "It’s a set of courses in a specific area, of up to 21 units, that can be part of your program or taken on its own, for example for career development. It is open both to students admitted to a program and to non-degree students. It appears on your transcript but not on your diploma."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-certificat-premier-cycle",
+  "category": "reglements",
+  "keywords": [
+   "certificat de premier cycle",
+   "undergraduate certificate",
+   "certificat 30 crédits",
+   "certificate program",
+   "what is a certificate"
+  ],
+  "question": {
+   "fr": "Qu’est-ce qu’un certificat de premier cycle ?",
+   "en": "What is an undergraduate certificate?"
+  },
+  "answer": {
+   "fr": "Le certificat est un programme autonome de premier cycle d’au moins 30 crédits. À la fin, tu reçois un diplôme appelé certificat de premier cycle, conféré par le Sénat de l’Université.",
+   "en": "A certificate is an independent undergraduate program of at least 30 units. When you finish, you receive a diploma called an undergraduate certificate, conferred by the University Senate."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-programme-integre-double-diplome",
+  "category": "reglements",
+  "keywords": [
+   "programme intégré",
+   "deux diplômes",
+   "integrated program",
+   "double diplôme international",
+   "international dual degree",
+   "two degrees"
+  ],
+  "question": {
+   "fr": "Peut-on obtenir deux diplômes en même temps ?",
+   "en": "Can I earn two degrees at the same time?"
+  },
+  "answer": {
+   "fr": "Oui, de deux façons prévues au règlement. Dans un programme intégré, tu remplis les exigences de deux baccalauréats distincts et tu reçois deux diplômes. Avec un double diplôme international, l’Université et un établissement partenaire étranger reconnaissent mutuellement une partie de leurs exigences, et tu reçois un diplôme de chaque établissement, souvent en moins de temps.",
+   "en": "Yes, in two ways set out in the regulations. In an integrated program, you complete the requirements of two separate bachelor’s degrees and receive two diplomas. With an international dual degree, the University and a partner institution abroad mutually recognize part of each other’s requirements, and you receive a degree from each institution, often in less time."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-un-seul-programme",
+  "category": "reglements",
+  "keywords": [
+   "deux programmes en même temps",
+   "inscrit à deux programmes",
+   "two programs at once",
+   "enrol in two programs",
+   "plusieurs programmes"
+  ],
+  "question": {
+   "fr": "Puis-je être inscrit à deux programmes en même temps ?",
+   "en": "Can I be enrolled in two programs at the same time?"
+  },
+  "answer": {
+   "fr": "En général non : sauf indication contraire dans les règlements du programme, tu ne peux pas t’inscrire à plus d’un programme à la fois. Pour suivre des cours menant à un grade, tu dois être admis à un programme ; tu deviens alors un étudiant régulier.",
+   "en": "Generally no: unless the program regulations say otherwise, you can’t enrol in more than one program at a time. To take courses toward a degree, you must be admitted to a program; you then become a regular student."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-3 – Admission à un programme",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b3-admission-programme"
+   },
+   {
+    "label": "Academic Regulation B-3 – Admission to a Program",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-3-admission-program"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-bilinguisme-pas-exige",
+  "category": "reglements",
+  "keywords": [
+   "dois-je être bilingue",
+   "bilinguisme obligatoire",
+   "do i need to be bilingual",
+   "bilingualism required",
+   "parler les deux langues"
+  ],
+  "question": {
+   "fr": "Dois-je être bilingue pour étudier à l’Université d’Ottawa ?",
+   "en": "Do I need to be bilingual to study at the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "Non. L’Université encourage l’apprentissage de la langue seconde, le français ou l’anglais, et reconnaît cette compétence, mais elle n’exige le bilinguisme que si les exigences de ton programme comprennent la connaissance des deux langues.",
+   "en": "No. The University promotes learning a second language, English or French, and recognizes that proficiency, but it requires bilingualism only when your program’s requirements include knowledge of both languages."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-3 – Admission à un programme",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b3-admission-programme"
+   },
+   {
+    "label": "Academic Regulation B-3 – Admission to a Program",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-3-admission-program"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-changement-programme-moyenne",
+  "category": "reglements",
+  "keywords": [
+   "changer de programme moyenne",
+   "program change average",
+   "mes anciens cours comptent",
+   "old courses count gpa",
+   "changement de programme mpc"
+  ],
+  "question": {
+   "fr": "Si je change de programme, mes anciens cours comptent-ils dans ma moyenne ?",
+   "en": "If I change programs, do my old courses count in my average?"
+  },
+  "answer": {
+   "fr": "Oui : au premier cycle, si tu changes de programme, dans ta faculté ou dans une autre, tous les cours de ton dossier servent au calcul de ta moyenne. Cette règle ne s’applique pas à certaines facultés, comme Droit, Éducation et Médecine, sauf pour le baccalauréat en médecine translationnelle et moléculaire.",
+   "en": "Yes: at the undergraduate level, if you change programs, within your faculty or at another one, all courses on your file are used to calculate your average. This rule doesn’t apply in some faculties, such as Law, Education and Medicine, except for the Honours BSc in Translational and Molecular Medicine."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-4 – Inscription",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b-4-inscription"
+   },
+   {
+    "label": "Academic Regulation B-4 – Registration",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-4-registration"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-inscription-retroactive",
+  "category": "reglements",
+  "keywords": [
+   "inscription rétroactive",
+   "oublié de m’inscrire",
+   "retroactive enrolment",
+   "forgot to enrol in course",
+   "add course after deadline",
+   "pas inscrit au cours"
+  ],
+  "question": {
+   "fr": "J’ai suivi un cours sans y être inscrit : puis-je m’inscrire après coup ?",
+   "en": "I attended a course without being enrolled: can I enrol after the fact?"
+  },
+  "answer": {
+   "fr": "Non. Si tu n’es pas inscrit à un cours ou à une activité, tu ne recevras ni note ni crédits, et l’inscription ou la modification de cours rétroactive n’est pas permise. C’est à toi de vérifier les dates limites d’inscription et de modification.",
+   "en": "No. If you aren’t enrolled in a course or activity, you won’t receive a grade or units, and retroactive course enrolment or changes are not permitted. It’s your responsibility to check the enrolment and change deadlines."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-4 – Inscription",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b-4-inscription"
+   },
+   {
+    "label": "Academic Regulation B-4 – Registration",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-4-registration"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-reprise-cours-perte-credits",
+  "category": "reglements",
+  "keywords": [
+   "reprendre un cours réussi",
+   "échouer reprise",
+   "repeat passed course fail",
+   "lose units repeat",
+   "reprise cours note plus basse"
+  ],
+  "question": {
+   "fr": "Si je reprends un cours que j’avais réussi et que je l’échoue, que se passe-t-il ?",
+   "en": "If I repeat a course I had passed and fail it, what happens?"
+  },
+  "answer": {
+   "fr": "Tu perds les crédits obtenus la première fois, car seule la dernière note compte dans ta moyenne, même si c’est un échec. Toutes les tentatives restent sur ton relevé. Pense-y bien avant de reprendre un cours déjà réussi.",
+   "en": "You lose the units you earned the first time, because only the last grade counts in your average, even if it’s a failure. All attempts stay on your transcript. Think it over carefully before repeating a course you already passed."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-4 – Inscription",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b-4-inscription"
+   },
+   {
+    "label": "Academic Regulation B-4 – Registration",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-4-registration"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-reconnaissance-acquis",
+  "category": "reglements",
+  "keywords": [
+   "reconnaissance des acquis",
+   "rac",
+   "prior learning recognition",
+   "experience credit",
+   "crédits pour expérience",
+   "plr"
+  ],
+  "question": {
+   "fr": "Puis-je obtenir des crédits pour mon expérience de travail ?",
+   "en": "Can I get credits for my work experience?"
+  },
+  "answer": {
+   "fr": "Oui, par la reconnaissance des acquis, qui tient compte des connaissances acquises par l’expérience professionnelle, l’autoapprentissage, la formation en milieu de travail ou l’engagement communautaire. Tu dois d’abord être admis et inscrit à un programme, puis présenter ta demande après avoir accepté l’offre d’admission ou pendant ton premier trimestre. Au maximum, 30 crédits peuvent être accordés.",
+   "en": "Yes, through prior-learning recognition, which takes into account knowledge gained through professional experience, self-teaching, workplace training or community involvement. You must first be admitted to and enrolled in a program, then submit your request once you’ve accepted the offer of admission or during your first term. A maximum of 30 units can be granted."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-5 – Reconnaissance des acquis",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b-5-politique-generale-transfert-credits"
+   },
+   {
+    "label": "Academic Regulation B-5 – Prior-Learning Recognition",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-5-prior-learning-recognition"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-reconnaissance-acquis-conditions",
+  "category": "reglements",
+  "keywords": [
+   "reconnaissance des acquis facultés",
+   "prior learning which faculties",
+   "prior learning appeal",
+   "acquis langue seconde",
+   "prior learning conditions"
+  ],
+  "question": {
+   "fr": "Quelles sont les conditions de la reconnaissance des acquis ?",
+   "en": "What are the conditions for prior-learning recognition?"
+  },
+  "answer": {
+   "fr": "Elle vise seulement le premier cycle en arts, génie, sciences de la santé, sciences, sciences sociales et à l’École de gestion Telfer, pour des cours existants de ton programme offerts dans les 36 derniers mois. Les compétences en langue seconde peuvent donner des exemptions, mais pas des équivalences. Ces crédits ne comptent pas dans l’exigence de résidence, et en cas de refus, tu peux faire appel par écrit au doyen de la faculté qui offre le cours.",
+   "en": "It applies only to undergraduate courses in Arts, Engineering, Health Sciences, Science, Social Sciences and the Telfer School of Management, for existing courses in your program scheduled within the last 36 months. Second-language skills can lead to exemptions, but not equivalences. These units don’t count toward residency requirements, and if you’re refused, you can appeal in writing to the dean of the faculty offering the course."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-5 – Reconnaissance des acquis",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b-5-politique-generale-transfert-credits"
+   },
+   {
+    "label": "Academic Regulation B-5 – Prior-Learning Recognition",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-5-prior-learning-recognition"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-carleton-conversion-notes",
+  "category": "reglements",
+  "keywords": [
+   "notes carleton",
+   "carleton grade conversion",
+   "carleton gpa",
+   "cours carleton moyenne",
+   "carleton residence requirement"
+  ],
+  "question": {
+   "fr": "Comment mes notes de Carleton sont-elles converties ?",
+   "en": "How are my Carleton grades converted?"
+  },
+  "answer": {
+   "fr": "Les notes obtenues à l’Université Carleton sont converties selon un tableau d’équivalence, paraissent sur ton relevé officiel et comptent dans ta moyenne au premier cycle. Par exemple, un A+ de Carleton devient un A+, et un B de Carleton devient un B+. Par contre, ces cours ne comptent pas dans l’exigence de résidence à l’Université d’Ottawa.",
+   "en": "Grades earned at Carleton University are converted using an equivalence table, appear on your official transcript and count in your undergraduate average. For example, a Carleton A+ becomes an A+, and a Carleton B becomes a B+. However, these courses don’t count toward residency requirements at the University of Ottawa."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-10 – Transfert de crédits",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-10-transfert-credits"
+   },
+   {
+    "label": "Academic Regulation A-10 – Unit Transfers",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-10-unit-transfers"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-carleton-cours-equivalent",
+  "category": "reglements",
+  "keywords": [
+   "carleton cours équivalent",
+   "carleton same course",
+   "why can’t i take carleton course",
+   "carleton refusé",
+   "cours offert à uottawa"
+  ],
+  "question": {
+   "fr": "Puis-je suivre à Carleton un cours qui existe aussi à l’Université d’Ottawa ?",
+   "en": "Can I take a course at Carleton that is also offered at uOttawa?"
+  },
+  "answer": {
+   "fr": "En principe non, si un cours équivalent est offert à l’Université d’Ottawa la même année. Les exceptions : le cours est plein, il est absolument nécessaire pour terminer ton programme, ou il y a une autre raison valable. Il te faut l’approbation de ta faculté, et tu dois respecter les dates de chaque université.",
+   "en": "In principle no, if an equivalent course is offered at the University of Ottawa in the same academic year. The exceptions: the course is full, it’s absolutely required to complete your program, or there’s another valid reason. You need your faculty’s approval, and you must follow each university’s sessional dates."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-10 – Transfert de crédits",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-10-transfert-credits"
+   },
+   {
+    "label": "Academic Regulation A-10 – Unit Transfers",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-10-unit-transfers"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-lettre-permission-releve",
+  "category": "reglements",
+  "keywords": [
+   "lettre de permission relevé",
+   "nc relevé",
+   "transcript other university",
+   "course elsewhere nc",
+   "envoyer relevé autre université"
+  ],
+  "question": {
+   "fr": "J’ai suivi un cours ailleurs avec une lettre de permission : pourquoi aurais-je un NC ?",
+   "en": "I took a course elsewhere with a letter of permission: why would I get an NC?"
+  },
+  "answer": {
+   "fr": "Un NC paraît si tu n’obtiens pas la note minimale, soit 60 % au premier cycle et 65 % aux études supérieures, si le relevé officiel n’est pas envoyé à ta faculté dès la fin du trimestre, ou si tu abandonnes le cours sans en informer ta faculté par écrit dans les délais. Ces cours ne comptent pas non plus dans l’exigence de résidence.",
+   "en": "An NC appears if you don’t reach the minimum grade, 60% at the undergraduate level and 65% at the graduate level, if the official transcript isn’t sent to your faculty as soon as the term ends, or if you withdraw from the course without telling your faculty in writing within the deadlines. These courses also don’t count toward residency requirements."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-10 – Transfert de crédits",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-10-transfert-credits"
+   },
+   {
+    "label": "Academic Regulation A-10 – Unit Transfers",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-10-unit-transfers"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-echange-credits-bourse",
+  "category": "reglements",
+  "keywords": [
+   "échange international crédits",
+   "exchange units",
+   "exchange scholarship renewal",
+   "bourse d’excellence échange",
+   "cours à l’étranger crédits"
+  ],
+  "question": {
+   "fr": "Pendant un échange à l’étranger, mes cours comptent-ils et ma bourse est-elle renouvelée ?",
+   "en": "On an exchange abroad, do my courses count and is my scholarship renewed?"
+  },
+  "answer": {
+   "fr": "Si tu réussis des cours chez un partenaire d’échange, tu reçois automatiquement les crédits, pourvu que le contenu et les heures aient été approuvés à l’avance par ta faculté. Si tu es à temps plein et que ta bourse d’excellence dépend d’une moyenne, réussir tes cours à l’étranger compte comme une condition de renouvellement remplie.",
+   "en": "If you pass courses at an exchange partner, you automatically receive the units, as long as the content and hours were pre-approved by your faculty. If you’re full time and your excellence scholarship depends on keeping an average, passing your courses abroad counts as meeting the renewal conditions."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-10 – Transfert de crédits",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-10-transfert-credits"
+   },
+   {
+    "label": "Academic Regulation A-10 – Unit Transfers",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-10-unit-transfers"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-etudiant-libre-limite",
+  "category": "reglements",
+  "keywords": [
+   "étudiant libre études supérieures",
+   "cours de maîtrise sans être admis",
+   "graduate non-degree student",
+   "graduate course without admission",
+   "combien de cours étudiant libre cycles supérieurs"
+  ],
+  "question": {
+   "fr": "Puis-je suivre un cours de maîtrise sans être admis à un programme ?",
+   "en": "Can I take a graduate course without being admitted to a program?"
+  },
+  "answer": {
+   "fr": "Oui, comme étudiant libre aux études supérieures, avec l’approbation préalable de l’unité qui offre le cours. Tu peux suivre au plus six crédits par trimestre et neuf crédits au total, à temps partiel. Tu dois respecter les mêmes exigences que les autres : préalables, présence, travaux, examens et note de passage.",
+   "en": "Yes, as a graduate non-degree student, with prior approval from the academic unit offering the course. You can take no more than six units per term and nine units in total, part time. You must meet the same requirements as everyone else: prerequisites, attendance, assignments, exams and passing grades."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-1 – Catégories et statuts aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-1-categories-statuts-etudiants-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-1 – Categories and Status of Graduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-1-categories-status-graduate-students"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-auditeur-libre",
+  "category": "reglements",
+  "keywords": [
+   "auditeur libre études supérieures",
+   "graduate auditor",
+   "audit graduate course",
+   "assister à un cours de maîtrise",
+   "auditor attendance"
+  ],
+  "question": {
+   "fr": "Puis-je assister à un cours aux études supérieures comme auditeur libre ?",
+   "en": "Can I audit a graduate course?"
+  },
+  "answer": {
+   "fr": "Oui, si l’unité qui offre le cours t’y autorise, mais tu n’obtiens pas de crédits. Les auditeurs libres ne font ni examens ni travaux, mais doivent respecter les exigences de participation et de présence. Tu ne peux plus changer de statut après la date limite de modification de cours du trimestre.",
+   "en": "Yes, if the academic unit offering the course authorizes it, but you don’t earn units. Auditors don’t write exams or hand in assignments, but they must meet participation and attendance requirements. You can’t change your status after the course change deadline for the term."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-1 – Catégories et statuts aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-1-categories-statuts-etudiants-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-1 – Categories and Status of Graduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-1-categories-status-graduate-students"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-temps-plein-emploi",
+  "category": "reglements",
+  "keywords": [
+   "travailler pendant la maîtrise",
+   "emploi temps plein études supérieures",
+   "work during master’s",
+   "graduate student job hours",
+   "10 heures par semaine"
+  ],
+  "question": {
+   "fr": "Aux études supérieures à temps plein, combien d’heures puis-je travailler ?",
+   "en": "As a full-time graduate student, how many hours can I work?"
+  },
+  "answer": {
+   "fr": "L’Université s’attend à ce que tu consacres la majorité de ton temps à tes études. Si tu veux travailler plus de 10 heures par semaine, tu dois consulter ton directeur de thèse ou la direction de ton programme pour t’assurer que tes progrès restent satisfaisants. Le travail de recherche lié à ta thèse payé par une bourse de recherche ne compte pas comme emploi rémunéré.",
+   "en": "The University expects you to devote the majority of your time to your studies. If you want to work more than 10 hours per week, you must consult your thesis supervisor or program director to make sure your progress stays satisfactory. Thesis-related research paid through a research bursary doesn’t count as paid employment."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-1 – Catégories et statuts aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-1-categories-statuts-etudiants-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-1 – Categories and Status of Graduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-1-categories-status-graduate-students"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-temps-partiel",
+  "category": "reglements",
+  "keywords": [
+   "temps partiel études supérieures",
+   "passer à temps partiel maîtrise",
+   "graduate part-time",
+   "switch to part-time graduate",
+   "six crédits temps partiel"
+  ],
+  "question": {
+   "fr": "Aux études supérieures, puis-je passer de temps plein à temps partiel ?",
+   "en": "In graduate studies, can I switch from full time to part time?"
+  },
+  "answer": {
+   "fr": "Tu peux le demander, mais la décision finale revient au vice-doyen aux études supérieures, ou l’équivalent, de la faculté qui offre ton programme. Le temps limite pour terminer ton programme reste le même. À temps partiel, tu suis en général six crédits ou moins par trimestre.",
+   "en": "You can request it, but final approval rests with the vice-dean of graduate studies, or equivalent, of the faculty offering your program. The time limit to complete your program stays the same. Part time generally means six course units or less per term."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-1 – Catégories et statuts aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-1-categories-statuts-etudiants-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-1 – Categories and Status of Graduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-1-categories-status-graduate-students"
+   },
+   {
+    "label": "Academic Regulation C-6 – Time Limits for Completion of Graduate Requirements",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-6-time-limits-completion-graduate-degree-diploma-requirements"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-retrait-programme",
+  "category": "reglements",
+  "keywords": [
+   "retiré du programme maîtrise",
+   "deux échecs études supérieures",
+   "withdrawn from graduate program",
+   "two failures master’s",
+   "unsatisfactory progress report"
+  ],
+  "question": {
+   "fr": "Aux études supérieures, qu’est-ce qui peut me faire retirer de mon programme ?",
+   "en": "In graduate studies, what can get me withdrawn from my program?"
+  },
+  "answer": {
+   "fr": "Tu peux être retiré si tes progrès ne sont pas satisfaisants ou si tu ne respectes pas les exigences du programme. Par exemple : deux échecs dans le programme, que ce soit à des cours, au mémoire, à l’examen de synthèse ou au projet de thèse, ou deux rapports de progrès insatisfaisants, sauf règle particulière de ton programme.",
+   "en": "You can be withdrawn if your progress is unsatisfactory or you don’t meet program requirements. For example: two failures in the program, whether in courses, the major research paper, the comprehensive exam or the thesis proposal, or two unsatisfactory progress reports, unless your program’s specific rules say otherwise."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-4 – Rendement académique aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-4-rendement-academique-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-4 – Academic Standing for Graduate Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-4-academic-standing-graduate-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-note-passage",
+  "category": "reglements",
+  "keywords": [
+   "note de passage maîtrise",
+   "passing grade graduate",
+   "c+ études supérieures",
+   "minimum grade master’s",
+   "note minimale doctorat"
+  ],
+  "question": {
+   "fr": "Quelle est la note de passage aux études supérieures ?",
+   "en": "What is the passing grade in graduate studies?"
+  },
+  "answer": {
+   "fr": "La note minimale de passage pour tous les cours aux études supérieures est C+, y compris les cours de premier cycle suivis pour crédits dans un programme d’études supérieures et les cours de propédeutique. Certains programmes exigent une note plus élevée.",
+   "en": "The minimum passing grade for all graduate courses is C+, including undergraduate courses taken for credit in a graduate program and qualifying program courses. Some programs require a higher grade."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-4 – Rendement académique aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-4-rendement-academique-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-4 – Academic Standing for Graduate Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-4-academic-standing-graduate-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-echec-cours",
+  "category": "reglements",
+  "keywords": [
+   "échec cours maîtrise",
+   "pas d’examen de reprise études supérieures",
+   "failed graduate course",
+   "supplemental exam graduate",
+   "reprendre cours doctorat"
+  ],
+  "question": {
+   "fr": "J’ai échoué un cours aux études supérieures : puis-je faire un examen de reprise ?",
+   "en": "I failed a graduate course: can I write a supplemental exam?"
+  },
+  "answer": {
+   "fr": "Non, les examens de reprise ne sont pas permis aux études supérieures. Tu peux reprendre le cours ou suivre un autre cours désigné par ton unité. L’échec reste sur ton relevé même si tu réussis ensuite, et il compte comme un premier échec dans le programme.",
+   "en": "No, supplemental exams aren’t allowed in graduate studies. You can repeat the course or take another course specified by your academic unit. The failure stays on your transcript even if you then pass, and it counts as a first failure in the program."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-4 – Rendement académique aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-4-rendement-academique-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-4 – Academic Standing for Graduate Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-4-academic-standing-graduate-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-directeur-delai-absence",
+  "category": "reglements",
+  "keywords": [
+   "quand trouver directeur de thèse",
+   "directeur absent",
+   "supervisor deadline",
+   "supervisor away",
+   "thesis supervisor absent"
+  ],
+  "question": {
+   "fr": "Quand dois-je avoir un directeur de thèse, et que se passe-t-il s’il s’absente ?",
+   "en": "When must I have a thesis supervisor, and what if they’re away?"
+  },
+  "answer": {
+   "fr": "Tu dois trouver ton directeur de thèse, ou ton comité consultatif de thèse, avant la fin de ton deuxième trimestre d’inscription, avec l’aide de ton unité au besoin. Si ton directeur prévoit s’absenter plus d’un mois, il doit prendre des arrangements avec toi et ton unité pour que ta supervision continue.",
+   "en": "You must find your thesis supervisor, or thesis advisory committee, before the end of your second term of enrolment, with your academic unit’s help if needed. If your supervisor plans to be away for more than a month, they must make arrangements with you and your unit so your supervision continues."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation C-5 – Graduate Research: Supervision and Ethics",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-5-graduate-research-supervision-ethics"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-temps-limite-maitrise",
+  "category": "reglements",
+  "keywords": [
+   "temps limite maîtrise",
+   "combien de temps pour finir maîtrise",
+   "master’s time limit",
+   "how long to finish master’s",
+   "délai diplôme études supérieures"
+  ],
+  "question": {
+   "fr": "Combien de temps ai-je pour terminer ma maîtrise ou mon diplôme d’études supérieures ?",
+   "en": "How long do I have to finish my master’s or graduate diploma?"
+  },
+  "answer": {
+   "fr": "Pour une maîtrise, l’inscription à temps plein dure normalement de deux à six trimestres, mais tout doit être terminé dans les quatre ans suivant ta première inscription. Pour un diplôme d’études supérieures, c’est normalement d’un à trois trimestres, avec un maximum de trois ans. Ton programme peut prévoir d’autres règles.",
+   "en": "For a master’s, full-time enrolment normally lasts two to six terms, but everything must be completed within four years of your initial enrolment. For a graduate diploma, it’s normally one to three terms, with a maximum of three years. Your program may set other rules."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-6 – Temps limite aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-6-temps-limite-exgiences-grade-diplome-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-6 – Time Limits for Completion of Graduate Requirements",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-6-time-limits-completion-graduate-degree-diploma-requirements"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-temps-limite-doctorat",
+  "category": "reglements",
+  "keywords": [
+   "temps limite doctorat",
+   "combien de temps pour finir doctorat",
+   "phd time limit",
+   "how long to finish phd",
+   "six ans doctorat"
+  ],
+  "question": {
+   "fr": "Combien de temps ai-je pour terminer mon doctorat ?",
+   "en": "How long do I have to finish my PhD?"
+  },
+  "answer": {
+   "fr": "L’inscription à temps plein dure normalement de quatre à cinq ans, mais tu dois avoir rempli les exigences et soumis ta thèse pour la soutenance dans les six ans suivant ta première inscription au doctorat. Si tu es passé de la maîtrise au doctorat, la limite est de sept ans à partir de ta première inscription à la maîtrise.",
+   "en": "Full-time enrolment normally lasts four to five years, but you must complete the requirements and submit your thesis for defence within six years of your initial doctoral enrolment. If you transferred from a master’s to the PhD, the limit is seven years from your initial master’s enrolment."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-6 – Temps limite aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-6-temps-limite-exgiences-grade-diplome-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-6 – Time Limits for Completion of Graduate Requirements",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-6-time-limits-completion-graduate-degree-diploma-requirements"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-memoire-inscription-date",
+  "category": "reglements",
+  "keywords": [
+   "mémoire date limite",
+   "inscription au mémoire",
+   "major research paper deadline",
+   "when to submit research paper",
+   "mrp enrolment"
+  ],
+  "question": {
+   "fr": "Quand puis-je m’inscrire à mon mémoire et quand dois-je le remettre ?",
+   "en": "When can I enrol in my major research paper and when is it due?"
+  },
+  "answer": {
+   "fr": "Tu dois avoir terminé toutes les autres exigences du programme avant de t’inscrire au cours de mémoire, et tu t’y inscris pour un seul trimestre. Le mémoire doit être remis au plus tard le dernier jour de la période officielle d’examens de ce trimestre. Il fait en général au plus 50 pages, selon le format établi par ton programme.",
+   "en": "You must complete all other program requirements before enrolling in the major research paper course, and you enrol for one term only. The paper must be submitted no later than the last day of that term’s official exam period. It is generally a maximum of 50 pages, in the format set by your program."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-8 – Mémoire",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c8-memoire"
+   },
+   {
+    "label": "Academic Regulation C-8 – Major Research Paper",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-8-major-research-paper"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-memoire-evaluation",
+  "category": "reglements",
+  "keywords": [
+   "évaluation mémoire",
+   "note mémoire s ns",
+   "major research paper grade",
+   "research paper appeal",
+   "corriger mon mémoire"
+  ],
+  "question": {
+   "fr": "Comment mon mémoire est-il évalué, et puis-je contester la note ?",
+   "en": "How is my major research paper graded, and can I appeal?"
+  },
+  "answer": {
+   "fr": "Le mémoire est évalué de façon indépendante par ton directeur et un évaluateur, et tu reçois la note S ou NS. Contrairement à une thèse, il n’y a pas de possibilité de le modifier. La note est finale : le doyen de la faculté n’entend un appel que pour un motif de procédure.",
+   "en": "The paper is evaluated independently by your supervisor and an evaluator, and you receive a grade of S or NS. Unlike a thesis, it can’t be revised. The grade is final: the dean of the faculty hears appeals only on procedural grounds."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-8 – Mémoire",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c8-memoire"
+   },
+   {
+    "label": "Academic Regulation C-8 – Major Research Paper",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-8-major-research-paper"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-medailles-or",
+  "category": "reglements",
+  "keywords": [
+   "médaille d’or gouverneur général",
+   "gold medal",
+   "governor general medal",
+   "meilleure thèse",
+   "médailles collation"
+  ],
+  "question": {
+   "fr": "Qu’est-ce que la Médaille d’or du Gouverneur général aux études supérieures ?",
+   "en": "What is the graduate Governor General’s Gold Medal?"
+  },
+  "answer": {
+   "fr": "Chaque année, trois médailles d’or sont remises à la collation des grades pour les meilleures thèses de doctorat : une pour Telfer, Arts, Sciences sociales, Droit ou Éducation, une pour Sciences ou Génie, et une pour Sciences de la santé, Médecine ou un programme interdisciplinaire. Un comité relevant du vice-provost aux études supérieures et postdoctorales choisit les lauréats.",
+   "en": "Each year, three gold medals are awarded at convocation for the best doctoral theses: one for Telfer, Arts, Social Sciences, Law or Education, one for Science or Engineering, and one for Health Sciences, Medicine or an interdisciplinary program. A selection committee under the Vice-Provost of Graduate and Postdoctoral Studies chooses the recipients."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-9 – Conditions d’obtention d’un grade aux études supérieures et médailles",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-9-conditions-obtention-grade-diplomes-etudes-superieures-medailles"
+   },
+   {
+    "label": "Academic Regulation C-9 – Conditions for Obtaining a Graduate Degree and Medals",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-9-conditions-obtaining-graduate-degree-diploma-medals"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-solde-documents-officiels",
+  "category": "reglements",
+  "keywords": [
+   "solde impayé diplôme",
+   "dette université relevé",
+   "outstanding balance transcript",
+   "can’t get diploma balance",
+   "frais impayés document officiel"
+  ],
+  "question": {
+   "fr": "J’ai un solde impayé : puis-je obtenir mon diplôme ou mon relevé officiel ?",
+   "en": "I have an outstanding balance: can I get my diploma or official transcript?"
+  },
+  "answer": {
+   "fr": "Non. Aux études supérieures, si tu as un solde impayé ou une autre obligation financière envers l’Université, tu ne peux obtenir aucun document officiel attestant la fin de ton programme, comme une attestation, un relevé ou un diplôme. Règle ton solde avant de demander tes documents.",
+   "en": "No. In graduate studies, if you have an outstanding balance or other financial obligation to the University, you can’t obtain any official document confirming you completed your program, such as a certification, transcript or diploma. Settle your balance before requesting your documents."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-9 – Conditions d’obtention d’un grade aux études supérieures et médailles",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-9-conditions-obtention-grade-diplomes-etudes-superieures-medailles"
+   },
+   {
+    "label": "Academic Regulation C-9 – Conditions for Obtaining a Graduate Degree and Medals",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-9-conditions-obtaining-graduate-degree-diploma-medals"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-these-avant-diplome",
+  "category": "reglements",
+  "keywords": [
+   "thèse avant collation",
+   "recommandé pour diplôme thèse",
+   "thesis before graduation",
+   "uoresearch thesis",
+   "inscription collation études supérieures"
+  ],
+  "question": {
+   "fr": "Dans un programme avec thèse, quand puis-je obtenir mon diplôme ?",
+   "en": "In a thesis program, when can I graduate?"
+  },
+  "answer": {
+   "fr": "Tu ne peux être recommandé pour l’obtention du grade qu’une fois la version finale de ta thèse approuvée par ta faculté et déposée électroniquement dans uO Recherche. Tu dois aussi t’inscrire en ligne pour que ton grade soit conféré et indiquer si tu assisteras à la collation ; il y a quatre périodes d’inscription par année.",
+   "en": "You can be recommended for graduation only once the final version of your thesis has been approved by your faculty and submitted electronically to uOResearch. You must also register online for your degree to be conferred and indicate whether you’ll attend convocation; there are four registration periods each year."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-9 – Conditions d’obtention d’un grade aux études supérieures et médailles",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-9-conditions-obtention-grade-diplomes-etudes-superieures-medailles"
+   },
+   {
+    "label": "Academic Regulation C-9 – Conditions for Obtaining a Graduate Degree and Medals",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-9-conditions-obtaining-graduate-degree-diploma-medals"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-admission-moyenne-maitrise",
+  "category": "reglements",
+  "keywords": [
+   "moyenne admission maîtrise",
+   "70 % maîtrise",
+   "master’s admission average",
+   "gpa for master’s",
+   "b average graduate"
+  ],
+  "question": {
+   "fr": "Quelle moyenne faut-il pour être admis à une maîtrise ?",
+   "en": "What average do I need to be admitted to a master’s?"
+  },
+  "answer": {
+   "fr": "En général, il faut un baccalauréat de quatre ans, soit 120 crédits, ou l’équivalent, dans la même discipline ou une discipline connexe, avec une moyenne minimale de 70 %, soit B. Une formation et une expérience professionnelle importantes peuvent aussi permettre une admission sur recommandation du comité. Vérifie les exigences propres à ton programme.",
+   "en": "Generally, you need a four-year bachelor’s, meaning 120 units, or equivalent, in the same or a related discipline, with a minimum average of 70%, or B. Significant training and professional experience can also lead to admission on the committee’s recommendation. Check your program’s specific requirements."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-admission-moyenne-doctorat",
+  "category": "reglements",
+  "keywords": [
+   "moyenne admission doctorat",
+   "75 % doctorat",
+   "phd admission average",
+   "gpa for phd",
+   "admission directe doctorat"
+  ],
+  "question": {
+   "fr": "Quelle moyenne faut-il pour être admis au doctorat ?",
+   "en": "What average do I need to be admitted to a PhD?"
+  },
+  "answer": {
+   "fr": "En général, il faut une maîtrise ou l’équivalent dans la même discipline ou une discipline connexe, avec une moyenne minimale de 75 %, soit B+. Certains programmes permettent l’admission directe au doctorat si tu démontres une capacité de recherche avancée.",
+   "en": "Generally, you need a master’s or equivalent in the same or a related discipline, with a minimum average of 75%, or B+. Some programs allow direct admission to the PhD if you show advanced research ability."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-propedeutique",
+  "category": "reglements",
+  "keywords": [
+   "propédeutique",
+   "programme de propédeutique",
+   "qualifying program",
+   "qualifying year",
+   "pas de baccalauréat de quatre ans"
+  ],
+  "question": {
+   "fr": "Je n’ai pas de baccalauréat de quatre ans : puis-je quand même faire une maîtrise ?",
+   "en": "I don’t have a four-year bachelor’s: can I still do a master’s?"
+  },
+  "answer": {
+   "fr": "Dans certains programmes, oui, en passant par un programme de propédeutique. Il sert à mettre tes connaissances de la discipline au niveau requis, et tu dois le réussir pour être admis à la maîtrise. Le même mécanisme existe pour certains doctorats si tu n’as pas de maîtrise.",
+   "en": "In some programs, yes, through a qualifying program. It brings your knowledge of the discipline up to the required standard, and you must complete it successfully to be admitted to the master’s. The same option exists for some PhDs if you don’t have a master’s."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-appel-refus-admission",
+  "category": "reglements",
+  "keywords": [
+   "refus admission maîtrise appel",
+   "refused graduate admission",
+   "appeal graduate admission",
+   "contester refus doctorat",
+   "admission denied master’s"
+  ],
+  "question": {
+   "fr": "Ma demande d’admission aux études supérieures a été refusée : puis-je faire appel ?",
+   "en": "My graduate admission was refused: can I appeal?"
+  },
+  "answer": {
+   "fr": "Un refus d’admission par la faculté est final. Le doyen de la faculté qui offre le programme peut examiner un appel seulement pour un motif de procédure. Si l’appel est accueilli, ta demande retourne à l’instance où l’erreur s’est produite pour être réexaminée.",
+   "en": "A denial of admission by the faculty is final. The dean of the faculty offering the program can consider an appeal only on procedural grounds. If the appeal is allowed, your application goes back to the authority where the error happened to be reconsidered."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-passage-maitrise-doctorat",
+  "category": "reglements",
+  "keywords": [
+   "passage accéléré doctorat",
+   "passer de la maîtrise au doctorat",
+   "transfer master’s to phd",
+   "fast track phd",
+   "transfert doctorat"
+  ],
+  "question": {
+   "fr": "Puis-je passer de la maîtrise au doctorat sans terminer ma maîtrise ?",
+   "en": "Can I transfer from my master’s to the PhD without finishing it?"
+  },
+  "answer": {
+   "fr": "Oui, si les règlements du doctorat le permettent : tu présentes une demande écrite, qui doit être recommandée par le comité d’admission du doctorat et approuvée par la faculté. Attention, un échec de cours à la maîtrise compte aussi comme un échec dans le doctorat. Le même principe s’applique pour passer d’un diplôme d’études supérieures à une maîtrise.",
+   "en": "Yes, if the doctoral program’s regulations allow it: you submit a written request, which must be recommended by the doctoral admissions committee and approved by the faculty. Note that a course failure in the master’s also counts as a failure in the PhD. The same principle applies to moving from a graduate diploma to a master’s."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-doctorat-vers-maitrise",
+  "category": "reglements",
+  "keywords": [
+   "passer du doctorat à la maîtrise",
+   "quitter doctorat maîtrise",
+   "transfer phd to master’s",
+   "leave phd get master’s",
+   "retour maîtrise"
+  ],
+  "question": {
+   "fr": "Puis-je passer de mon doctorat à une maîtrise ?",
+   "en": "Can I transfer from my PhD to a master’s?"
+  },
+  "answer": {
+   "fr": "Oui, par une demande écrite qui doit être recommandée par le comité d’admission de la maîtrise et approuvée par la faculté. Par contre, tu ne pourras plus t’inscrire ensuite au même doctorat, et tu dois remplir toutes les exigences de la maîtrise pour obtenir le grade.",
+   "en": "Yes, through a written request that must be recommended by the master’s admissions committee and approved by the faculty. However, you won’t be allowed to enrol again in the same doctoral program afterward, and you must meet all the master’s requirements to be awarded the degree."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-equivalences-cours",
+  "category": "reglements",
+  "keywords": [
+   "équivalences études supérieures",
+   "transfert de crédits maîtrise",
+   "graduate course equivalency",
+   "transfer credits master’s",
+   "huit ans cours"
+  ],
+  "question": {
+   "fr": "Mes cours déjà suivis peuvent-ils être reconnus dans mon programme d’études supérieures ?",
+   "en": "Can courses I already took count toward my graduate program?"
+  },
+  "answer": {
+   "fr": "Oui, si le comité d’admission les juge pertinents, s’ils visent les mêmes résultats d’apprentissage, que tu as obtenu au moins 70 %, soit B, et qu’ils datent de moins de huit ans avant ton admission. En général, les équivalences peuvent couvrir jusqu’à 50 % des exigences du programme. Elles ne s’appliquent pas à l’examen de synthèse, au projet de thèse ni à la thèse.",
+   "en": "Yes, if the admissions committee finds them relevant, they meet the same learning outcomes, you earned at least 70%, or B, and they were taken within eight years before your admission. Generally, equivalencies can cover up to 50% of the program’s requirements. They don’t apply to the comprehensive exam, the thesis proposal or the thesis."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-ordinateur-portable-exigences",
+  "category": "ti",
+  "keywords": [
+   "quel ordinateur acheter",
+   "portable exigences",
+   "laptop requirements",
+   "which laptop for university",
+   "minimum specs laptop",
+   "spécifications ordinateur"
+  ],
+  "question": {
+   "fr": "Quel ordinateur portable me faut-il pour mes études ?",
+   "en": "What laptop do I need for my studies?"
+  },
+  "answer": {
+   "fr": "Les TI recommandent au minimum un processeur Intel Core i5 et 16 Go de mémoire vive. Sur PC, il faut Windows 11 et un SSD de 256 Go ; sur Mac, macOS Sonoma et un SSD de 512 Go. Prévois aussi un écran d’au moins 13 pouces, le Wi-Fi, ainsi qu’une caméra, un micro et des haut-parleurs intégrés.",
+   "en": "IT recommends at least an Intel Core i5 processor and 16 GB of RAM. On a PC, you need Windows 11 and a 256 GB SSD; on a Mac, macOS Sonoma and a 512 GB SSD. Also plan for a screen of at least 13 inches, Wi-Fi, and a built-in camera, microphone and speakers."
+  },
+  "sources": [
+   {
+    "label": "IT – Technical specifications for student laptops",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/technical-specification"
+   }
+  ],
+  "related": [
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande",
+   "zb-courriel-transfert-automatique"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-rabais-ordinateur-etudiant",
+  "category": "ti",
+  "keywords": [
+   "rabais ordinateur étudiant",
+   "student discount laptop",
+   "apple education",
+   "dell student discount",
+   "acheter ordinateur moins cher"
+  ],
+  "question": {
+   "fr": "Y a-t-il des rabais pour acheter un ordinateur comme étudiant ?",
+   "en": "Are there student discounts on computers?"
+  },
+  "answer": {
+   "fr": "Les TI suggèrent la boutique Apple pour l’éducation et les rabais étudiants de Dell. Pour l’antivirus, ils recommandent Microsoft Defender, et pour les logiciels, la suite Microsoft 365 de l’Université, offerte aux étudiants.",
+   "en": "IT suggests the Apple for Higher Education store and Dell student discounts. For antivirus, they recommend Microsoft Defender, and for software, the University’s Microsoft 365 suite, available to students."
+  },
+  "sources": [
+   {
+    "label": "IT – Technical specifications for student laptops",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/technical-specification"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-navigateur-recommande",
+   "zb-courriel-transfert-automatique"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-navigateur-recommande",
+  "category": "ti",
+  "keywords": [
+   "quel navigateur",
+   "navigateur recommandé",
+   "which browser",
+   "teams safari",
+   "browser for brightspace"
+  ],
+  "question": {
+   "fr": "Quel navigateur Web devrais-je utiliser ?",
+   "en": "Which web browser should I use?"
+  },
+  "answer": {
+   "fr": "Les TI recommandent Google Chrome, Firefox ou Safari pour ton ordinateur. Attention : Microsoft Teams n’est pas pris en charge dans Safari, alors utilise plutôt Edge ou Chrome, ou l’application Teams. Un casque d’écoute et une souris sans fil sont aussi suggérés.",
+   "en": "IT recommends Google Chrome, Firefox or Safari for your computer. Note that Microsoft Teams isn’t supported in Safari, so use Edge or Chrome instead, or the Teams app. A headset and a wireless mouse are also suggested."
+  },
+  "sources": [
+   {
+    "label": "IT – Technical specifications for student laptops",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/technical-specification"
+   },
+   {
+    "label": "IT – MS Teams",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-teams"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-courriel-transfert-automatique"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-courriel-transfert-automatique",
+  "category": "ti",
+  "keywords": [
+   "transférer courriel gmail",
+   "transfert automatique courriel",
+   "forward uottawa email",
+   "email forwarding gmail",
+   "rediriger mes courriels"
+  ],
+  "question": {
+   "fr": "Puis-je transférer automatiquement mes courriels uOttawa vers un autre compte ?",
+   "en": "Can I automatically forward my uOttawa email to another account?"
+  },
+  "answer": {
+   "fr": "C’est permis pour le moment, mais ce n’est pas recommandé. Les TI n’offrent aucun soutien pour les problèmes liés au transfert automatique des courriels. Le plus simple est d’ajouter ton compte uOttawa à l’application Outlook sur ton téléphone.",
+   "en": "It’s currently allowed, but it isn’t recommended. IT doesn’t support issues related to automatic email forwarding. The simplest option is to add your uOttawa account to the Outlook app on your phone."
+  },
+  "sources": [
+   {
+    "label": "IT – Using your Outlook account",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/account/student-email"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-courriel-limite-destinataires",
+  "category": "ti",
+  "keywords": [
+   "limite destinataires courriel",
+   "envoyer courriel à beaucoup de monde",
+   "email recipient limit",
+   "mass email",
+   "combien de destinataires"
+  ],
+  "question": {
+   "fr": "À combien de personnes puis-je envoyer un courriel uOttawa ?",
+   "en": "How many people can I email from my uOttawa account?"
+  },
+  "answer": {
+   "fr": "Tu peux écrire à au plus 500 destinataires par heure et 1 000 par jour, à l’interne comme à l’externe. Une liste de distribution du carnet d’adresses de l’Université compte pour un seul destinataire. Pour un bulletin ou un envoi massif, il faut utiliser un fournisseur externe.",
+   "en": "You can email up to 500 recipients per hour and 1,000 per day, internal and external combined. A distribution list in the organization’s address book counts as one recipient. For a newsletter or mass mailing, use a third-party provider."
+  },
+  "sources": [
+   {
+    "label": "IT – Using your Outlook account",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/account/student-email"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-courriel-apres-diplome",
+  "category": "ti",
+  "keywords": [
+   "garder courriel après diplôme",
+   "courriel diplômé",
+   "keep email after graduation",
+   "alumni email",
+   "perdre onedrive diplômé"
+  ],
+  "question": {
+   "fr": "Est-ce que je garde mon courriel uOttawa après mes études ?",
+   "en": "Do I keep my uOttawa email after I finish my studies?"
+  },
+  "answer": {
+   "fr": "Oui, ton compte garde l’accès au courriel, au calendrier, aux notes et aux tâches, avec un peu d’espace, tant qu’il reste actif au moins une fois par période de 365 jours. Par contre, les diplômés perdent l’accès à OneDrive et à SharePoint, alors sauvegarde tes fichiers avant de partir.",
+   "en": "Yes, your account keeps access to email, calendar, notes and tasks, with some storage, as long as it stays active within each 365-day period. However, alumni lose access to OneDrive and SharePoint, so back up your files before you leave."
+  },
+  "sources": [
+   {
+    "label": "IT – Using your Outlook account",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/account/student-email"
+   },
+   {
+    "label": "IT – MS OneDrive",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-onedrive"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-onedrive-fin-etudes",
+  "category": "ti",
+  "keywords": [
+   "onedrive après études",
+   "sauvegarder onedrive",
+   "onedrive deleted after graduation",
+   "backup onedrive",
+   "perdre mes fichiers onedrive"
+  ],
+  "question": {
+   "fr": "Qu’arrive-t-il à mon OneDrive à la fin de mes études ?",
+   "en": "What happens to my OneDrive when I finish my studies?"
+  },
+  "answer": {
+   "fr": "L’accès à OneDrive est retiré à la fin de ton affiliation avec l’Université, et les données peuvent être supprimées. Fais une copie de tes fichiers avant ce moment pour ne rien perdre. OneDrive est gratuit pour les utilisateurs admissibles et te permet de travailler hors ligne et de partager par lien.",
+   "en": "OneDrive access is removed when your affiliation with the University ends, and the data can be deleted. Back up your files before then so you don’t lose anything. OneDrive is free for eligible users and lets you work offline and share by link."
+  },
+  "sources": [
+   {
+    "label": "IT – MS OneDrive",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-onedrive"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-candidat-identifiants-uozone",
+  "category": "ti",
+  "keywords": [
+   "identifiants candidat",
+   "mot de passe temporaire",
+   "applicant uoaccess",
+   "applicant login uozone",
+   "suivre mon dossier d’admission"
+  ],
+  "question": {
+   "fr": "Je suis candidat : comment me connecter à uoZone ?",
+   "en": "I’m an applicant: how do I log in to uoZone?"
+  },
+  "answer": {
+   "fr": "Tes identifiants uoAccess sont dans le courriel d’accusé de réception de ta demande d’admission. Connecte-toi à uoZone, change ton mot de passe temporaire et configure l’authentification multifacteur, qui est obligatoire. Pendant que tu es candidat, ces identifiants servent seulement à uoZone, pour suivre ton dossier et téléverser tes documents.",
+   "en": "Your uoAccess credentials are in your admission acknowledgement email. Log in to uoZone, change your temporary password and set up multi-factor authentication, which is required. While you’re an applicant, these credentials work only for uoZone, to track your file and upload your documents."
+  },
+  "sources": [
+   {
+    "label": "IT – IT for uOttawa applicants",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/students/applicants"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-candidat-acces-courriel",
+  "category": "ti",
+  "keywords": [
+   "quand j’aurai mon courriel",
+   "accès courriel nouvel étudiant",
+   "when do i get my email",
+   "new student email access",
+   "courriel après inscription"
+  ],
+  "question": {
+   "fr": "Quand aurai-je accès à mon courriel uOttawa ?",
+   "en": "When will I get access to my uOttawa email?"
+  },
+  "answer": {
+   "fr": "Dès que tu es inscrit à au moins un cours, tes identifiants uoAccess te donnent aussi accès à ton courriel étudiant. Ensuite, ils servent pour uoZone, le courriel et plusieurs autres ressources en ligne.",
+   "en": "As soon as you’re enrolled in at least one course, your uoAccess credentials also give you access to your student email account. From then on, they work for uoZone, email and many other online resources."
+  },
+  "sources": [
+   {
+    "label": "IT – IT for uOttawa applicants",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/students/applicants"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-uozone-autre-compte-microsoft",
+  "category": "ti",
+  "keywords": [
+   "uozone ne fonctionne pas compte microsoft",
+   "connexion uozone erreur",
+   "can’t log in uozone microsoft account",
+   "signed in other microsoft account",
+   "déconnecter compte microsoft"
+  ],
+  "question": {
+   "fr": "Je n’arrive pas à me connecter à uoZone : est-ce à cause d’un autre compte Microsoft ?",
+   "en": "I can’t log in to uoZone: could another Microsoft account be the problem?"
+  },
+  "answer": {
+   "fr": "C’est possible. Si tu es connecté à des services Microsoft avec un autre compte, tu dois d’abord t’en déconnecter avant de te connecter à uoZone avec tes identifiants uoAccess. Si le problème continue, communique avec le Centre de services TI.",
+   "en": "It might be. If you’re signed in to Microsoft services with another account, you must sign out of it before logging in to uoZone with your uoAccess credentials. If the problem continues, contact the IT Service Desk."
+  },
+  "sources": [
+   {
+    "label": "IT – IT for uOttawa applicants",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/students/applicants"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-maintenance-systemes",
+  "category": "ti",
+  "keywords": [
+   "panne connexion soir",
+   "maintenance ti",
+   "system maintenance",
+   "can’t log in evening",
+   "service alerts",
+   "wifi down"
+  ],
+  "question": {
+   "fr": "Pourquoi certains services uOttawa sont-ils parfois indisponibles le soir ?",
+   "en": "Why are some uOttawa services sometimes unavailable in the evening?"
+  },
+  "answer": {
+   "fr": "Les applications qui demandent une authentification, comme la connexion aux postes et aux labos, le Wi-Fi, le VPN ou LiquidFiles, peuvent avoir de l’entretien plusieurs fois par semaine entre 18 h et 20 h. Pour Brightspace, uoZone et Microsoft 365, cela dépend du fournisseur. Les TI publient ces périodes sur leur page d’alertes de service, qui peut changer sans préavis.",
+   "en": "Applications that require authentication, like workstation and lab logins, Wi-Fi, VPN or LiquidFiles, can have maintenance several times a week between 6 p.m. and 8 p.m. For Brightspace, uoZone and Microsoft 365, it depends on the vendor. IT posts these periods on its service alerts page, which may change without notice."
+  },
+  "sources": [
+   {
+    "label": "IT – Service alerts",
+    "url": "https://www.uottawa.ca/about-us/information-technology/system-availability"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zb-copilot-gratuit",
+  "category": "ti",
+  "keywords": [
+   "copilot",
+   "ia gratuite université",
+   "chatgpt université",
+   "free ai uottawa",
+   "microsoft copilot students",
+   "intelligence artificielle"
+  ],
+  "question": {
+   "fr": "L’Université offre-t-elle un outil d’intelligence artificielle ?",
+   "en": "Does the University offer an AI tool?"
+  },
+  "answer": {
+   "fr": "Oui, Microsoft Copilot est la plateforme d’IA générative officielle de l’Université. La version Web de Copilot est gratuite pour tous ceux qui ont un compte actif uOttawa : va sur le site de Copilot et connecte-toi avec tes identifiants uoAccess. Vérifie toujours l’exactitude des réponses, et respecte les règles de ton cours sur l’IA.",
+   "en": "Yes, Microsoft Copilot is the University’s official generative AI platform. Copilot for the web is free for everyone with an active uOttawa account: go to the Copilot site and sign in with your uoAccess credentials. Always check the accuracy of its answers, and follow your course’s rules on AI."
+  },
+  "sources": [
+   {
+    "label": "IT – MS Copilot",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-copilot"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-copilot-bouclier-vert",
+  "category": "ti",
+  "keywords": [
+   "copilot bouclier vert",
+   "copilot données protégées",
+   "copilot data privacy",
+   "copilot green shield",
+   "mes données copilot"
+  ],
+  "question": {
+   "fr": "Comment savoir si mes données sont protégées dans Copilot ?",
+   "en": "How do I know my data is protected in Copilot?"
+  },
+  "answer": {
+   "fr": "Connecte-toi avec tes identifiants uoAccess, puis vérifie qu’un bouclier vert avec un crochet apparaît en haut à droite de Copilot Chat. Ainsi, Microsoft n’utilise pas tes données pour entraîner son modèle. Les TI conseillent aussi d’éviter les boutons « j’aime » et « je n’aime pas », qui peuvent partager ta conversation avec Microsoft.",
+   "en": "Sign in with your uoAccess credentials, then check that a green shield with a checkmark appears in the top right of Copilot Chat. That way, Microsoft doesn’t use your data to train its model. IT also advises avoiding the like and dislike buttons, which can share your chat with Microsoft."
+  },
+  "sources": [
+   {
+    "label": "IT – MS Copilot",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-copilot"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-copilot-limites-web",
+  "category": "ti",
+  "keywords": [
+   "limite copilot",
+   "copilot fichier 10 mo",
+   "copilot web limitations",
+   "copilot 365 licence",
+   "copilot word excel"
+  ],
+  "question": {
+   "fr": "Quelles sont les limites de la version gratuite de Copilot ?",
+   "en": "What are the limits of the free version of Copilot?"
+  },
+  "answer": {
+   "fr": "Copilot Web fonctionne seulement dans un navigateur, accepte des fichiers d’au plus 10 Mo et n’a pas accès à tes courriels, à Teams ni à OneDrive, sauf si tu y téléverses un fichier. La version intégrée à Word, Excel et Outlook demande une licence payante, réservée pour l’instant à des groupes désignés par les facultés et services.",
+   "en": "Copilot for the web works only in a browser, accepts files up to 10 MB and has no access to your email, Teams or OneDrive unless you upload a file. The version built into Word, Excel and Outlook requires a paid licence, currently limited to groups designated by faculties and units."
+  },
+  "sources": [
+   {
+    "label": "IT – MS Copilot",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-copilot"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-clipchamp",
+  "category": "ti",
+  "keywords": [
+   "clipchamp",
+   "montage vidéo gratuit",
+   "video editing free",
+   "édition vidéo étudiant",
+   "make a video for class"
+  ],
+  "question": {
+   "fr": "Y a-t-il un logiciel de montage vidéo gratuit pour les étudiants ?",
+   "en": "Is there free video editing software for students?"
+  },
+  "answer": {
+   "fr": "Oui, Clipchamp fait partie de Microsoft 365 et il est gratuit pour les étudiants à temps plein et à temps partiel. Il est simple, même sans expérience : tu glisses et déposes tes images, textes, vidéos et sons, puis tu partages par lien. Les TI n’offrent pas de soutien sur le logiciel lui-même, seulement pour les problèmes d’accès.",
+   "en": "Yes, Clipchamp is part of Microsoft 365 and free for full-time and part-time students. It’s easy to use, even without experience: you drag and drop images, text, video and audio, then share by link. IT doesn’t support the software itself, only access issues."
+  },
+  "sources": [
+   {
+    "label": "IT – ClipChamp",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/clipchamp"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-safe-links",
+  "category": "ti",
+  "keywords": [
+   "safelinks",
+   "lien bizarre courriel",
+   "safe links",
+   "why are my email links long",
+   "lien protection outlook"
+  ],
+  "question": {
+   "fr": "Pourquoi les liens dans mes courriels uOttawa commencent-ils par « safelinks » ?",
+   "en": "Why do links in my uOttawa emails start with safelinks?"
+  },
+  "answer": {
+   "fr": "C’est Safe Links, un outil de sécurité Microsoft activé automatiquement sur ton compte. Quand tu cliques sur un lien, il le vérifie : si le site est sûr, il s’ouvre, sinon tu reçois un avertissement. Les diplômés et les membres affiliés ne sont pas protégés par cet outil, et il faut rester vigilant dans tous les cas.",
+   "en": "That’s Safe Links, a Microsoft security tool applied automatically to your account. When you click a link, it checks it: if the site is safe, it opens; otherwise you get a warning. Alumni and affiliates aren’t protected by this tool, and you should stay vigilant either way."
+  },
+  "sources": [
+   {
+    "label": "IT – Safe Links and Safe Attachments",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/safe-links-safe-attachments"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-safe-attachments",
+  "category": "ti",
+  "keywords": [
+   "pièce jointe analysée",
+   "courriel en retard pièce jointe",
+   "safe attachments",
+   "attachment scan delay",
+   "pièce jointe protégée mot de passe"
+  ],
+  "question": {
+   "fr": "Pourquoi un courriel avec une grosse pièce jointe arrive-t-il en retard ?",
+   "en": "Why does an email with a large attachment arrive late?"
+  },
+  "answer": {
+   "fr": "Safe Attachments analyse automatiquement les pièces jointes dans Outlook et Microsoft 365, ce qui peut retarder un peu les gros fichiers. L’analyse est automatique : personne ne lit tes courriels. Elle ne fonctionne pas sur les pièces jointes chiffrées ou protégées par mot de passe, alors ouvre-les seulement si tu attends ce courriel.",
+   "en": "Safe Attachments automatically scans attachments in Outlook and Microsoft 365, which can slightly delay large files. The scan is automated: no one reads your email. It doesn’t work on encrypted or password-protected attachments, so open those only if you were expecting the email."
+  },
+  "sources": [
+   {
+    "label": "IT – Safe Links and Safe Attachments",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/safe-links-safe-attachments"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-mot-de-passe-conseils",
+  "category": "ti",
+  "keywords": [
+   "créer mot de passe fort",
+   "conseils mot de passe",
+   "strong password tips",
+   "how to make a good password",
+   "phrase de passe"
+  ],
+  "question": {
+   "fr": "Comment créer un bon mot de passe ?",
+   "en": "How do I create a strong password?"
+  },
+  "answer": {
+   "fr": "Les TI conseillent au moins 14 caractères, avec majuscules, minuscules, chiffres et caractères spéciaux, un mot de passe différent pour chaque site et un changement au moins tous les trois mois. Une astuce : pars d’une phrase, enlève les espaces, abrège quelques mots et ajoute des chiffres. Évite tes renseignements personnels, les suites comme « qwerty », et ne donne jamais ton mot de passe à personne.",
+   "en": "IT recommends at least 14 characters, with uppercase and lowercase letters, numbers and special characters, a different password for every site, and a change at least every three months. A tip: start from a sentence, remove the spaces, shorten some words and add numbers. Avoid personal information and sequences like qwerty, and never share your password."
+  },
+  "sources": [
+   {
+    "label": "IT – Password",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/awareness/password"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-arnaque-frais-scolarite",
+  "category": "ti",
+  "keywords": [
+   "courriel frais impayés",
+   "arnaque frais de scolarité",
+   "tuition fee scam",
+   "fake tuition email",
+   "payer frais urgence courriel"
+  ],
+  "question": {
+   "fr": "J’ai reçu un courriel urgent me demandant de payer des frais de scolarité : est-ce une arnaque ?",
+   "en": "I got an urgent email asking me to pay tuition fees: is it a scam?"
+  },
+  "answer": {
+   "fr": "Peut-être : des fraudeurs se font passer pour l’Université et menacent de poursuites pour te faire payer par virement. Ne réponds pas et ne clique sur aucun lien ; vérifie plutôt ton solde dans uoZone ou communique avec le bureau des finances avec les coordonnées officielles. Signale le message avec la fonction Signaler dans Outlook.",
+   "en": "Possibly: scammers impersonate the University and threaten legal action to get you to pay by transfer. Don’t reply or click any link; instead, check your balance in uoZone or contact the financial office using official contact information. Report the message with the Report function in Outlook."
+  },
+  "sources": [
+   {
+    "label": "IT – Phishing",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/awareness/phishing"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-arnaque-sextorsion",
+  "category": "ti",
+  "keywords": [
+   "sextorsion",
+   "courriel rançon",
+   "sextortion email",
+   "ransom email password",
+   "chantage courriel"
+  ],
+  "question": {
+   "fr": "J’ai reçu un courriel de chantage qui contient un de mes mots de passe : que faire ?",
+   "en": "I got a blackmail email that includes one of my passwords: what do I do?"
+  },
+  "answer": {
+   "fr": "Pas de panique, c’est une arnaque de sextorsion connue, et il est très peu probable que les fraudeurs aient des images compromettantes. Ne paie jamais la rançon, ne clique sur rien et supprime le courriel. Ensuite, change tes mots de passe, mets à jour tes logiciels et ton antivirus, et active l’authentification multifacteur.",
+   "en": "Don’t panic, it’s a known sextortion scam, and it’s very unlikely the scammers have compromising images. Never pay the ransom, don’t click anything and delete the email. Then change your passwords, update your software and antivirus, and enrol in multi-factor authentication."
+  },
+  "sources": [
+   {
+    "label": "IT – Phishing",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/awareness/phishing"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-courriel-compte-ferme",
+  "category": "ti",
+  "keywords": [
+   "compte sera fermé courriel",
+   "votre compte expire",
+   "account will be terminated email",
+   "verify your account email",
+   "courriel suspect compte"
+  ],
+  "question": {
+   "fr": "J’ai reçu un courriel disant que mon compte uOttawa sera fermé : est-ce vrai ?",
+   "en": "I got an email saying my uOttawa account will be closed: is it real?"
+  },
+  "answer": {
+   "fr": "Ces messages qui parlent de ton compte, par exemple qu’il sera fermé ou que tu dois te connecter pour continuer, sont habituellement frauduleux. Quitte le courriel et communique toi-même avec le Centre de services TI pour vérifier. Méfie-toi même d’une adresse uOttawa, car un compte peut avoir été piraté.",
+   "en": "Messages about your account, for example that it will be closed or that you must log in to keep it, are typically fraudulent. Exit the email and contact the IT Service Desk yourself to check. Be wary even of a uOttawa address, since an account may have been compromised."
+  },
+  "sources": [
+   {
+    "label": "IT – Phishing",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/awareness/phishing"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-teams-clavardage-150-jours",
+  "category": "ti",
+  "keywords": [
+   "messages teams supprimés",
+   "clavardage teams disparu",
+   "teams chat deleted",
+   "teams chat 150 days",
+   "historique teams"
+  ],
+  "question": {
+   "fr": "Pourquoi mes anciens messages Teams ont-ils disparu ?",
+   "en": "Why did my old Teams messages disappear?"
+  },
+  "answer": {
+   "fr": "Les messages des conversations individuelles et de groupe dans Teams sont supprimés automatiquement après 150 jours. De plus, les sites et fichiers SharePoint liés à une équipe sont supprimés après 180 jours d’inactivité, avec un avis avant la suppression. Garde ailleurs ce que tu veux conserver.",
+   "en": "Messages in individual and group chats in Teams are automatically removed after 150 days. Also, SharePoint sites and files linked to a team are removed after 180 days of inactivity, with a notice before deletion. Keep anything you want to save somewhere else."
+  },
+  "sources": [
+   {
+    "label": "IT – MS Teams",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-teams"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-teams-creer-equipe",
+  "category": "ti",
+  "keywords": [
+   "créer une équipe teams",
+   "nouvelle équipe teams",
+   "create a team in teams",
+   "request a teams team",
+   "teams pour mon groupe"
+  ],
+  "question": {
+   "fr": "Comment créer une nouvelle équipe dans Microsoft Teams ?",
+   "en": "How do I create a new team in Microsoft Teams?"
+  },
+  "answer": {
+   "fr": "Tu envoies une demande par le Centre libre-service des TI, et l’équipe de gestion de l’information l’approuve avant la création. Teams est gratuit pour les utilisateurs admissibles. Une équipe peut compter moins de 5 000 membres et jusqu’à 200 canaux.",
+   "en": "You send a request through the IT Self-Service Centre, and the Information Management Team approves it before the team is created. Teams is free for eligible users. A team can have fewer than 5,000 members and up to 200 channels."
+  },
+  "sources": [
+   {
+    "label": "IT – MS Teams",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-teams"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-eduroam-android",
+  "category": "ti",
+  "keywords": [
+   "eduroam android",
+   "eduroam ne marche pas android",
+   "eduroam android settings",
+   "peap mschapv2",
+   "identité anonyme eduroam"
+  ],
+  "question": {
+   "fr": "Eduroam ne fonctionne pas sur mon téléphone Android : quels réglages utiliser ?",
+   "en": "Eduroam doesn’t work on my Android phone: what settings should I use?"
+  },
+  "answer": {
+   "fr": "Choisis la méthode EAP PEAP, l’authentification de phase 2 MSCHAPV2, le certificat « Utiliser les certificats système » et le domaine uottawa.ca. Comme identité, entre ton adresse uOttawa complète et ton mot de passe uoAccess. Laisse le champ « identité anonyme » complètement vide : si « anonymous » s’y inscrit tout seul, efface-le.",
+   "en": "Choose EAP method PEAP, phase 2 authentication MSCHAPV2, CA certificate Use system certificates and domain uottawa.ca. For identity, enter your full uOttawa email address and your uoAccess password. Leave the anonymous identity field completely blank: if anonymous appears automatically, delete it."
+  },
+  "sources": [
+   {
+    "label": "IT – Eduroam",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/eduroam"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-eduroam-windows-mac",
+  "category": "ti",
+  "keywords": [
+   "eduroam windows",
+   "eduroam mac",
+   "eduroam won’t connect laptop",
+   "use my windows user account eduroam",
+   "configurer eduroam ordinateur"
+  ],
+  "question": {
+   "fr": "Comment connecter mon ordinateur Windows ou Mac à eduroam ?",
+   "en": "How do I connect my Windows or Mac computer to eduroam?"
+  },
+  "answer": {
+   "fr": "Normalement, aucune configuration manuelle n’est nécessaire : choisis eduroam, entre ton adresse uOttawa complète et ton mot de passe. Sur Windows, ne coche pas « Utiliser mon compte d’utilisateur Windows ». Sur Mac, coche « Mémoriser ce réseau » pour te reconnecter automatiquement.",
+   "en": "Normally no manual setup is needed: choose eduroam and enter your full uOttawa email address and password. On Windows, don’t check Use my Windows user account. On a Mac, check Remember this network so you reconnect automatically."
+  },
+  "sources": [
+   {
+    "label": "IT – Eduroam",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/eduroam"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-eduroam-invites-sans-eduroam",
+  "category": "ti",
+  "keywords": [
+   "invité sans eduroam",
+   "compte parrainé wifi",
+   "guest without eduroam",
+   "sponsored account wifi",
+   "visiteur université sans eduroam"
+  ],
+  "question": {
+   "fr": "Mon établissement n’a pas eduroam : comment avoir un accès Wi-Fi pour un séjour à l’Université ?",
+   "en": "My institution doesn’t have eduroam: how do I get Wi-Fi access for a stay at the University?"
+  },
+  "answer": {
+   "fr": "Les visiteurs dont l’établissement n’offre pas eduroam ont besoin d’un compte parrainé par une faculté, un département ou un service de l’Université. Parle à la personne ou à l’unité qui t’accueille. Pour une courte visite, le réseau public uoPublic reste une option.",
+   "en": "Visitors whose institution doesn’t offer eduroam need an account sponsored by a University faculty, department or service. Talk to the person or unit hosting you. For a short visit, the uoPublic network is still an option."
+  },
+  "sources": [
+   {
+    "label": "IT – Eduroam",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/eduroam"
+   },
+   {
+    "label": "IT – uoPublic",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/uopublic"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-mfa-delai-activation",
+  "category": "ti",
+  "keywords": [
+   "afm activée quand",
+   "mfa 24 heures",
+   "mfa not working yet",
+   "mfa activation delay",
+   "brightspace mfa"
+  ],
+  "question": {
+   "fr": "Je viens de m’inscrire à l’authentification multifacteur : quand sera-t-elle active ?",
+   "en": "I just enrolled in multi-factor authentication: when will it be active?"
+  },
+  "answer": {
+   "fr": "Pour le VPN, elle s’applique dès ta prochaine connexion. Pour les autres systèmes, comme Brightspace, uoCampus et Microsoft 365, l’authentification multifacteur est activée dans les 24 heures. Tu peux vérifier ton inscription sur le portail AFM.",
+   "en": "For VPN, it applies at your next connection. For other systems, such as Brightspace, uoCampus and Microsoft 365, multi-factor authentication is activated within 24 hours. You can confirm your enrolment on the MFA portal."
+  },
+  "sources": [
+   {
+    "label": "IT – Multi-factor authentication (MFA)",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/mfa"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-mfa-appareils-compatibles",
+  "category": "ti",
+  "keywords": [
+   "authenticator compatible",
+   "afm vie privée localisation",
+   "mfa compatible phone",
+   "authenticator track location",
+   "authenticator android ios version"
+  ],
+  "question": {
+   "fr": "Quel téléphone me faut-il pour l’authentification multifacteur, et l’application me suit-elle ?",
+   "en": "What phone do I need for multi-factor authentication, and does the app track me?"
+  },
+  "answer": {
+   "fr": "Il te faut l’application Microsoft Authenticator sur un appareil iOS 11 ou plus récent, ou Android 6.0 ou plus récent, téléphone ou tablette. L’application ne suit pas ta position. Si ton appareil n’est pas compatible, demande un jeton physique au Centre de services TI.",
+   "en": "You need the Microsoft Authenticator app on a device running iOS 11 or later, or Android 6.0 or later, phone or tablet. The app doesn’t track your location. If your device isn’t compatible, request a hardware token from the IT Service Desk."
+  },
+  "sources": [
+   {
+    "label": "IT – Multi-factor authentication (MFA)",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/mfa"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-mfa-diplome-reinitialiser",
+  "category": "ti",
+  "keywords": [
+   "diplômé réinitialiser afm",
+   "alumni mfa reset",
+   "mfa reset form",
+   "ssmr ne fonctionne pas",
+   "reset mfa alumni"
+  ],
+  "question": {
+   "fr": "Je suis diplômé et l’outil libre-service ne marche pas : comment réinitialiser mon AFM ?",
+   "en": "I’m a graduate and the self-service tool doesn’t work: how do I reset my MFA?"
+  },
+  "answer": {
+   "fr": "Si tu ne peux pas utiliser l’outil de réinitialisation libre-service de l’AFM, par exemple parce que tu es diplômé, remplis le formulaire de demande de réinitialisation et choisis « AFM » à la question sur ce que tu veux réinitialiser. Le traitement peut prendre du temps, d’où l’intérêt d’essayer d’abord l’outil libre-service.",
+   "en": "If you can’t use the Self-Service MFA Reset tool, for example because you’re an alumnus, fill out the reset request form and select MFA at the question about what you need to reset. Processing can take a while, which is why you should try the self-service tool first."
+  },
+  "sources": [
+   {
+    "label": "IT – Account Management",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/account"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-vpn-etudiants-cycles-sup",
+  "category": "ti",
+  "keywords": [
+   "adresse vpn étudiant",
+   "serveur vpn",
+   "vpn graduate student address",
+   "uovpn students",
+   "anyconnect server"
+  ],
+  "question": {
+   "fr": "Je suis aux études supérieures : quelle adresse de serveur VPN dois-je utiliser ?",
+   "en": "I’m a graduate student: which VPN server address do I use?"
+  },
+  "answer": {
+   "fr": "Dans l’application AnyConnect, entre l’adresse de serveur uovpn.uottawa.ca/students, puis tes identifiants uoAccess. Une notification d’authentification multifacteur apparaîtra sur ton téléphone : clique sur Approuver. Le VPN est offert aux employés et aux étudiants des cycles supérieurs.",
+   "en": "In the AnyConnect app, enter the server address uovpn.uottawa.ca/students, then your uoAccess credentials. A multi-factor authentication notification will appear on your phone: tap Approve. VPN is available to employees and graduate students."
+  },
+  "sources": [
+   {
+    "label": "IT – Virtual private network (VPN)",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/vpn"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-vpn-personnel-conflit",
+  "category": "ti",
+  "keywords": [
+   "vpn ne se connecte pas",
+   "vpn personnel",
+   "vpn won’t connect",
+   "personal vpn conflict",
+   "deux vpn"
+  ],
+  "question": {
+   "fr": "Le VPN de l’Université refuse de se connecter : que vérifier ?",
+   "en": "The University VPN won’t connect: what should I check?"
+  },
+  "answer": {
+   "fr": "Une seule connexion VPN peut être active à la fois : si tu utilises un VPN personnel, déconnecte-le avant de lancer celui de l’Université. Assure-toi aussi d’avoir configuré l’authentification multifacteur, obligatoire pour le VPN. Si ça ne fonctionne toujours pas, communique avec le Centre de services TI.",
+   "en": "Only one VPN connection can be active at a time: if you use a personal VPN, disconnect it before launching the University’s. Also make sure you’ve set up multi-factor authentication, which is required for VPN. If it still doesn’t work, contact the IT Service Desk."
+  },
+  "sources": [
+   {
+    "label": "IT – Virtual private network (VPN)",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/vpn"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-vpn-langue",
+  "category": "ti",
+  "keywords": [
+   "vpn en français",
+   "langue anyconnect",
+   "anyconnect language",
+   "vpn french",
+   "changer langue vpn"
+  ],
+  "question": {
+   "fr": "Comment mettre le client VPN AnyConnect en français ?",
+   "en": "How do I change the AnyConnect VPN client language?"
+  },
+  "answer": {
+   "fr": "Sur Windows, la langue d’AnyConnect suit les paramètres régionaux du système, pas la langue d’affichage. Dans le Panneau de configuration, ouvre Région, onglet Administration, puis « Modifier les paramètres régionaux du système » et choisis Français (Canada) ou Anglais (Canada).",
+   "en": "On Windows, AnyConnect’s language follows the system locale, not the display language. In Control Panel, open Region, go to the Administrative tab, click Change system locale and choose French (Canada) or English (Canada)."
+  },
+  "sources": [
+   {
+    "label": "IT – Virtual private network (VPN)",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/vpn"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-feuille-scantron",
+  "category": "ti",
+  "keywords": [
+   "feuille réponse examen",
+   "crayon examen choix multiples",
+   "scantron sheet",
+   "bubble sheet exam",
+   "optical sheet pencil"
+  ],
+  "question": {
+   "fr": "Comment bien remplir une feuille de réponses à lecture optique ?",
+   "en": "How do I fill out a bubble answer sheet correctly?"
+  },
+  "answer": {
+   "fr": "Utilise un crayon HB2 ou un stylo à bille noir ou bleu, et noircis complètement l’ovale. Efface clairement toute réponse que tu changes, ne fais aucune marque inutile et ne plie pas la feuille. Ainsi, tes réponses seront bien enregistrées.",
+   "en": "Use an HB2 pencil or a black or blue ballpoint pen, and fill in the oval completely. Clearly erase any answer you change, make no stray marks and don’t fold the sheet. That way, your answers will be recorded properly."
+  },
+  "sources": [
+   {
+    "label": "IT – Gear up for your exams",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/students/gear-up-exams"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-power-bi-pro",
+  "category": "ti",
+  "keywords": [
+   "power bi",
+   "power bi pro coût",
+   "power bi licence",
+   "tableau de bord",
+   "dashboard software"
+  ],
+  "question": {
+   "fr": "Les étudiants ont-ils accès à Power BI ?",
+   "en": "Do students have access to Power BI?"
+  },
+  "answer": {
+   "fr": "La liste des logiciels des TI indique Power BI Pro pour les étudiants, les professeurs et le personnel, mais une licence supplémentaire coûte 228 dollars par utilisateur, facturés chaque année. Les TI n’offrent pas de soutien direct pour ce logiciel. Vérifie la page des logiciels, car les offres changent.",
+   "en": "The IT software list shows Power BI Pro for students, faculty and staff, but an additional licence costs $228 per user, billed annually. IT doesn’t provide direct support for this software. Check the software page, as offerings change."
+  },
+  "sources": [
+   {
+    "label": "IT – Software for students, staff and professors",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software"
+   },
+   {
+    "label": "IT – Power BI",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-power-bi"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zb-sas-etudiants",
+  "category": "ti",
+  "keywords": [
+   "sas étudiant",
+   "logiciel statistique",
+   "sas software students",
+   "statistics software",
+   "acheter sas"
+  ],
+  "question": {
+   "fr": "Puis-je avoir le logiciel statistique SAS comme étudiant ?",
+   "en": "Can I get SAS statistical software as a student?"
+  },
+  "answer": {
+   "fr": "Oui, SAS figure dans la liste des logiciels des TI pour les étudiants, mais il s’achète auprès du fournisseur, qui en assure aussi le soutien. Pour d’autres logiciels gratuits comme NVivo, ArcGIS Pro ou ChemDraw, consulte la liste des logiciels, mise à jour régulièrement.",
+   "en": "Yes, SAS is on the IT software list for students, but it’s purchased from the vendor, which also provides support. For other free software like NVivo, ArcGIS Pro or ChemDraw, check the software list, which is updated regularly."
+  },
+  "sources": [
+   {
+    "label": "IT – Software for students, staff and professors",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zb-putty-ssh",
+  "category": "ti",
+  "keywords": [
+   "putty",
+   "ssh",
+   "telnet",
+   "connexion serveur ssh",
+   "terminal ssh windows"
+  ],
+  "question": {
+   "fr": "Comment me connecter à un serveur en SSH depuis Windows ?",
+   "en": "How do I connect to a server over SSH from Windows?"
+  },
+  "answer": {
+   "fr": "Les TI proposent PuTTY, un programme Telnet et SSH avec installateur Windows, gratuit pour les étudiants, les professeurs et le personnel. Tu le télécharges à partir de la liste des logiciels des TI ; le soutien est offert par le fournisseur.",
+   "en": "IT offers PuTTY, a Telnet and SSH program with a Windows-style installer, free for students, faculty and staff. You download it from the IT software list; support is provided by the vendor."
+  },
+  "sources": [
+   {
+    "label": "IT – Software for students, staff and professors",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-applications-microsoft-365",
+  "category": "ti",
+  "keywords": [
+   "applications microsoft 365",
+   "forms onenote planner",
+   "what apps in microsoft 365",
+   "microsoft forms sondage",
+   "outils microsoft 365"
+  ],
+  "question": {
+   "fr": "Quelles applications sont incluses dans Microsoft 365 à l’Université ?",
+   "en": "Which apps are included in the University’s Microsoft 365?"
+  },
+  "answer": {
+   "fr": "En plus de Word, Excel, PowerPoint, Outlook, Teams et OneDrive, tu as accès entre autres à OneNote, Forms pour créer des sondages et des quiz, Planner, To Do, Whiteboard, Sway, Lists et Clipchamp, par le portail Microsoft 365. Les TI soutiennent les licences et l’installation, mais pas chaque application en profondeur.",
+   "en": "Besides Word, Excel, PowerPoint, Outlook, Teams and OneDrive, you get OneNote, Forms for surveys and quizzes, Planner, To Do, Whiteboard, Sway, Lists and Clipchamp, among others, through the Microsoft 365 portal. IT supports licensing and installation, but not in-depth help for each app."
+  },
+  "sources": [
+   {
+    "label": "IT – Microsoft 365",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-fin-automne-2026",
+  "category": "calendrier",
+  "keywords": [
+   "common law fin des cours automne",
+   "common law december 9",
+   "common law last class fall",
+   "common law papers due",
+   "common law horaire du lundi"
+  ],
+  "question": {
+   "fr": "En common law, quand finissent les cours de l’automne 2026 ?",
+   "en": "In Common Law, when do Fall 2026 classes end?"
+  },
+  "answer": {
+   "fr": "Les cours de common law ont lieu du 9 septembre au 9 décembre 2026, et le 9 décembre suit l’horaire du lundi pour remplacer l’Action de grâce. Les examens ont lieu du 10 au 22 décembre, et tous les travaux, y compris les projets de recherche dirigée, sont dus le 22 décembre à 16 h.",
+   "en": "Common Law classes run from September 9 to December 9, 2026, and December 9 follows the Monday schedule to make up for Thanksgiving. Exams run December 10 to 22, and all papers, including Directed Research Projects, are due December 22 at 4 p.m."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027",
+   "zb-cl-session-janvier-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-notes-automne-2026",
+  "category": "calendrier",
+  "keywords": [
+   "common law notes automne",
+   "common law fall grades",
+   "common law grade review fall",
+   "common law notes 18 janvier",
+   "common law mid-term grades"
+  ],
+  "question": {
+   "fr": "En common law, quand recevrai-je mes notes de l’automne 2026 ?",
+   "en": "In Common Law, when will I get my Fall 2026 grades?"
+  },
+  "answer": {
+   "fr": "Les notes finales de l’automne sont approuvées par le Conseil de la faculté et publiées le 18 janvier 2027 avant 16 h, comme les notes de mi-année des étudiants de première année. La date limite pour demander la révision d’une note d’examen final est le 2 février 2027.",
+   "en": "Fall final grades are approved by Faculty Council and posted on January 18, 2027 by 4 p.m., as are first-year mid-term grades. The deadline to request a review of a final exam grade is February 2, 2027."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-examens-differes-2027",
+   "zb-cl-session-janvier-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-examens-differes-2027",
+  "category": "calendrier",
+  "keywords": [
+   "common law examen différé",
+   "common law deferred exam",
+   "common law deferred march",
+   "common law différés mars",
+   "common law supplemental"
+  ],
+  "question": {
+   "fr": "En common law, quand ont lieu les examens différés des cours d’automne et de janvier ?",
+   "en": "In Common Law, when are deferred exams for fall and January courses?"
+  },
+  "answer": {
+   "fr": "Les examens différés des cours d’automne 2026 et des cours de janvier 2027 ont lieu du 1er au 5 mars 2027. Les périodes d’examens de reprise ne sont pas encore fixées ; surveille la page des dates importantes de la Section de common law.",
+   "en": "Deferred exams for Fall 2026 courses and January 2027 courses take place March 1 to 5, 2027. Supplemental exam periods are still to be determined; watch the Common Law Section’s important dates page."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-session-janvier-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-session-janvier-2027",
+  "category": "calendrier",
+  "keywords": [
+   "common law session de janvier",
+   "common law january session",
+   "common law january exam",
+   "common law janvier 2027",
+   "january term law"
+  ],
+  "question": {
+   "fr": "En common law, comment se déroule la session de janvier 2027 ?",
+   "en": "In Common Law, how does the January 2027 session work?"
+  },
+  "answer": {
+   "fr": "La session de janvier va du 5 au 22 janvier 2027 : les cours ont lieu du 5 au 20 janvier, le 21 janvier est une pause d’étude et l’examen a lieu le 22 janvier. Tous les travaux sont dus le 22 janvier à 16 h, et une semaine de relâche suit du 24 au 30 janvier.",
+   "en": "The January session runs January 5 to 22, 2027: classes are January 5 to 20, January 21 is a study break and the exam is on January 22. All papers are due January 22 at 4 p.m., and a term break follows from January 24 to 30."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-janvier-dates-limites",
+  "category": "calendrier",
+  "keywords": [
+   "common law janvier date limite",
+   "common law january withdraw",
+   "common law january add course",
+   "common law satisfaisant janvier",
+   "drop january law course"
+  ],
+  "question": {
+   "fr": "En common law, quelles sont les dates limites pour les cours de janvier 2027 ?",
+   "en": "In Common Law, what are the deadlines for January 2027 courses?"
+  },
+  "answer": {
+   "fr": "Pour la session de janvier, tu peux t’inscrire ou modifier tes cours jusqu’au 7 janvier 2027. Le dernier jour pour abandonner avec crédit financier est le 12 janvier, et sans crédit financier, le 15 janvier. Le 15 janvier est aussi la date limite pour choisir des cours évalués « satisfaisant ou non satisfaisant ».",
+   "en": "For the January session, you can enrol or change courses until January 7, 2027. The last day to withdraw with a financial credit is January 12, and without a financial credit, January 15. January 15 is also the deadline to choose courses graded Satisfactory or Not satisfactory."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-janvier-notes",
+  "category": "calendrier",
+  "keywords": [
+   "common law notes janvier",
+   "common law january grades",
+   "common law february 9",
+   "révision note janvier droit",
+   "common law grade review january"
+  ],
+  "question": {
+   "fr": "En common law, quand sont publiées les notes de la session de janvier 2027 ?",
+   "en": "In Common Law, when are January 2027 session grades posted?"
+  },
+  "answer": {
+   "fr": "Les notes finales de la session de janvier sont approuvées et publiées le 9 février 2027 avant 16 h. Tu as jusqu’au 23 février 2027 pour demander la révision d’une note d’examen final.",
+   "en": "January session final grades are approved and posted on February 9, 2027 by 4 p.m. You have until February 23, 2027 to request a review of a final exam grade."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-hiver-2027-dates",
+  "category": "calendrier",
+  "keywords": [
+   "common law hiver 2027",
+   "common law winter term",
+   "common law reading week march",
+   "semaine de lecture common law hiver",
+   "common law winter classes"
+  ],
+  "question": {
+   "fr": "En common law, quelles sont les dates du trimestre d’hiver 2027 ?",
+   "en": "In Common Law, what are the Winter 2027 term dates?"
+  },
+  "answer": {
+   "fr": "Le trimestre d’hiver de common law va du 1er février au 30 avril 2027, avec des cours du 1er février au 14 avril. La semaine de lecture a lieu du 1er au 5 mars, le congé de Pâques du 26 au 29 mars, et les examens du 16 au 29 avril.",
+   "en": "The Common Law winter term runs February 1 to April 30, 2027, with classes from February 1 to April 14. Reading week is March 1 to 5, the Easter break March 26 to 29, and exams April 16 to 29."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-hiver-2027-dates-limites",
+  "category": "calendrier",
+  "keywords": [
+   "common law hiver abandon",
+   "common law winter withdraw deadline",
+   "common law winter add course",
+   "common law february 5",
+   "common law march 19"
+  ],
+  "question": {
+   "fr": "En common law, quelles sont les dates limites d’inscription et d’abandon à l’hiver 2027 ?",
+   "en": "In Common Law, what are the Winter 2027 enrolment and withdrawal deadlines?"
+  },
+  "answer": {
+   "fr": "Tu peux t’inscrire ou modifier tes cours d’hiver jusqu’au 5 février 2027. Le dernier jour pour abandonner un cours avec crédit financier est le 16 février, et sans crédit financier, le 19 mars 2027. Le formulaire d’inscription à l’exigence du travail majeur est dû le 12 février.",
+   "en": "You can enrol in or change winter courses until February 5, 2027. The last day to withdraw from a course with a financial credit is February 16, and without a financial credit, March 19, 2027. The Major Paper Requirement registration form is due February 12."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-hiver-2027-notes",
+  "category": "calendrier",
+  "keywords": [
+   "common law notes hiver",
+   "common law winter grades",
+   "common law may 14",
+   "common law academic standing",
+   "common law travaux hiver"
+  ],
+  "question": {
+   "fr": "En common law, quand recevrai-je mes notes de l’hiver 2027 ?",
+   "en": "In Common Law, when will I get my Winter 2027 grades?"
+  },
+  "answer": {
+   "fr": "Tous les travaux d’hiver, y compris les projets de recherche dirigée, sont dus le 29 avril 2027 à 16 h. Les notes finales d’hiver sont approuvées et publiées dans uoZone le 14 mai 2027 avant 16 h, et le rendement académique officiel est publié le 26 mai 2027.",
+   "en": "All winter papers, including Directed Research Projects, are due April 29, 2027 at 4 p.m. Winter final grades are approved and posted in uoZone on May 14, 2027 by 4 p.m., and official academic standing is posted on May 26, 2027."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-formulaire-option",
+  "category": "calendrier",
+  "keywords": [
+   "common law formulaire d’option",
+   "common law option form",
+   "option coordinator",
+   "common law april 8",
+   "common law option"
+  ],
+  "question": {
+   "fr": "En common law, quand dois-je remettre mon formulaire d’option ?",
+   "en": "In Common Law, when is my option form due?"
+  },
+  "answer": {
+   "fr": "Le formulaire d’option, signé par la coordonnatrice ou le coordonnateur de l’option, doit être remis au Centre étudiant au plus tard le 8 avril 2027.",
+   "en": "The option form, signed by the option coordinator, must be submitted to the Student Centre by April 8, 2027."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-rattrapage-hiver-2027",
+  "category": "calendrier",
+  "keywords": [
+   "common law jour de la famille rattrapage",
+   "common law makeup classes april",
+   "common law april 14 monday",
+   "cours vendredi saint common law",
+   "claw april 13"
+  ],
+  "question": {
+   "fr": "En common law, quand sont repris les cours annulés du jour de la Famille et du Vendredi saint ?",
+   "en": "In Common Law, when are classes cancelled for Family Day and Good Friday made up?"
+  },
+  "answer": {
+   "fr": "Pour les cours de common law seulement, les cours du vendredi 26 mars, Vendredi saint, sont repris le mardi 13 avril 2027 selon l’horaire du vendredi. Ceux du lundi 15 février, jour de la Famille, sont repris le mercredi 14 avril selon l’horaire du lundi.",
+   "en": "For Common Law courses only, classes from Friday, March 26, Good Friday, are made up on Tuesday, April 13, 2027 on the Friday schedule. Those from Monday, February 15, Family Day, are made up on Wednesday, April 14 on the Monday schedule."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-travail-majeur-inscription",
+  "category": "calendrier",
+  "keywords": [
+   "travail majeur common law",
+   "major paper requirement",
+   "common law major paper form",
+   "recherche dirigée inscription",
+   "directed research project deadline"
+  ],
+  "question": {
+   "fr": "En common law, quand dois-je m’inscrire à un projet de recherche dirigée ou au travail majeur ?",
+   "en": "In Common Law, when must I register for a Directed Research Project or the Major Paper Requirement?"
+  },
+  "answer": {
+   "fr": "Pour la session de janvier 2027, la demande de projet de recherche dirigée est due le 7 janvier et le formulaire du travail majeur le 8 janvier. Pour l’hiver 2027, c’est le 5 février pour la recherche dirigée et le 12 février pour le travail majeur.",
+   "en": "For the January 2027 session, the Directed Research Project request is due January 7 and the Major Paper Requirement form January 8. For Winter 2027, it’s February 5 for the Directed Research Project and February 12 for the major paper."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-coop-ete-2027-stage",
+  "category": "calendrier",
+  "keywords": [
+   "stage coop été 2027",
+   "coop work term summer 2027",
+   "coop may 3",
+   "dates stage coop",
+   "coop summer dates"
+  ],
+  "question": {
+   "fr": "Quelles sont les dates du stage coop de l’été 2027 ?",
+   "en": "What are the dates of the Summer 2027 co-op work term?"
+  },
+  "answer": {
+   "fr": "Le stage d’été 2027 a lieu du 3 mai au 27 août 2027, soit environ 15 à 17 semaines. Le rapport de stage doit être remis au plus tard le 9 septembre 2027 avant midi, peu importe ta faculté. Les webinaires et modules d’apprentissage du programme coop sont obligatoires.",
+   "en": "The Summer 2027 work term runs May 3 to August 27, 2027, about 15 to 17 weeks. The work term report is due by September 9, 2027 before noon, whatever your faculty. Co-op webinars and learning modules are mandatory."
+  },
+  "sources": [
+   {
+    "label": "Co-op – Key dates",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/key-dates"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-coop-postuler-hiver-2027",
+  "category": "calendrier",
+  "keywords": [
+   "postuler coop janvier 2027",
+   "coop apply jobs january",
+   "coop interviews january 21",
+   "coop cv deadline",
+   "portail coop 2027"
+  ],
+  "question": {
+   "fr": "Quand puis-je postuler aux emplois coop pour l’été 2027 ?",
+   "en": "When can I apply to co-op jobs for Summer 2027?"
+  },
+  "answer": {
+   "fr": "Pour un premier stage, ton CV coop doit être téléversé dans le Portail coop au plus tard le 4 janvier 2027. Les offres s’ouvrent le 13 janvier 2027, sans candidatures tardives acceptées, et les entrevues commencent le 21 janvier. Tu peux voir et confirmer ton horaire d’entrevues à partir du 19 janvier.",
+   "en": "For a first work term, your co-op resume must be uploaded to the Co-op Portal by January 4, 2027. Job postings open January 13, 2027, with no late applications accepted, and interviews start January 21. You can view and confirm your interview schedule from January 19."
+  },
+  "sources": [
+   {
+    "label": "Co-op – Key dates",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/key-dates"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-coop-retrait-2027",
+  "category": "calendrier",
+  "keywords": [
+   "quitter coop date limite",
+   "coop withdrawal deadline 2027",
+   "retrait coop sans pénalité",
+   "leave co-op january 18",
+   "abandonner coop"
+  ],
+  "question": {
+   "fr": "Jusqu’à quand puis-je me retirer du programme coop sans pénalité ?",
+   "en": "Until when can I withdraw from co-op without penalty?"
+  },
+  "answer": {
+   "fr": "Si tu es en trimestre d’études, le dernier jour pour te retirer du programme coop sans pénalité scolaire, en vue de l’été 2027, est le 18 janvier 2027. Tu dois remplir le formulaire de retrait en ligne.",
+   "en": "If you’re on a study term, the last day to withdraw from co-op without academic penalty, for the Summer 2027 cycle, is January 18, 2027. You must fill out the online withdrawal form."
+  },
+  "sources": [
+   {
+    "label": "Co-op – Key dates",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/key-dates"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-stages-sciences-sante-dates",
+  "category": "calendrier",
+  "keywords": [
+   "inscription stage clinique",
+   "sciences de l’activité physique stage",
+   "practical education enrolment deadline",
+   "human kinetics placement deadline",
+   "nursing clinical enrolment"
+  ],
+  "question": {
+   "fr": "Jusqu’à quand puis-je m’inscrire à un stage en sciences de la santé ?",
+   "en": "Until when can I enrol in a Health Sciences placement?"
+  },
+  "answer": {
+   "fr": "Tu peux t’inscrire en ligne jusqu’aux dates limites de ton école : par exemple, en sciences de l’activité physique, le 1er août pour l’automne et le 15 décembre pour l’hiver ; en sciences infirmières, le 15 août pour l’automne et l’hiver. Après ces dates, il faut passer par le Bureau des études avec l’approbation de l’école, et en sciences infirmières, une place n’est garantie que si tu t’inscris avant le 23 juin.",
+   "en": "You can enrol online until your school’s deadlines: for example, in Human Kinetics, August 1 for fall and December 15 for winter; in Nursing, August 15 for both fall and winter. After those dates, you must go through the Academic Office with the school’s approval, and in Nursing, a placement is guaranteed only if you enrol by June 23."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Health Sciences – Practical education enrolment deadlines",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/academic-office/clinical-enrolment-dates"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-fetes-religieuses-examens-avril-2027",
+  "category": "calendrier",
+  "keywords": [
+   "pâque juive 2027",
+   "pessah examens",
+   "passover 2027",
+   "religious holiday april exams",
+   "vaisakhi 2027"
+  ],
+  "question": {
+   "fr": "Y a-t-il des fêtes religieuses pendant les examens d’avril 2027 ?",
+   "en": "Are there religious holidays during the April 2027 exams?"
+  },
+  "answer": {
+   "fr": "Selon la liste de l’Université, le Vaisakhi tombe le 14 avril 2027, et Pessah, la Pâque juive, du 22 au 29 avril, en plein pendant les examens du 16 au 29 avril. Pessah commence au coucher du soleil la veille. Si tu as besoin d’un accommodement religieux, fais ta demande à l’avance selon le règlement sur les accommodements religieux.",
+   "en": "According to the University’s list, Vaisakhi falls on April 14, 2027, and Pesach, or Passover, from April 22 to 29, right during the April 16 to 29 exams. Passover begins at sundown the evening before. If you need a religious accommodation, request it in advance under the religious accommodations regulation."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines – religious holidays",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-fetes-religieuses-mars-2027",
+  "category": "calendrier",
+  "keywords": [
+   "nowruz 2027",
+   "holi 2027",
+   "pourim 2027",
+   "purim 2027",
+   "fêtes religieuses mars"
+  ],
+  "question": {
+   "fr": "Quelles fêtes religieuses tombent en mars 2027 ?",
+   "en": "Which religious holidays fall in March 2027?"
+  },
+  "answer": {
+   "fr": "Selon la liste de l’Université, Laylat al-Qadr est le 5 mars, l’Aïd al-Fitr le 10 mars, Nowruz le 21 mars, Holi le 22 mars et Pourim les 22 et 23 mars 2027. Le Vendredi saint est le 26 mars et Pâques le 28 mars. Les dates de l’Aïd sont confirmées à la dernière minute selon la lune.",
+   "en": "According to the University’s list, Laylat al-Qadr is March 5, Eid al-Fitr March 10, Nowruz March 21, Holi March 22 and Purim March 22 and 23, 2027. Good Friday is March 26 and Easter March 28. Eid dates are confirmed at the last minute based on the moon."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines – religious holidays",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-fetes-religieuses-printemps-2027",
+  "category": "calendrier",
+  "keywords": [
+   "pâques orthodoxe 2027",
+   "aïd al-adha 2027",
+   "eid al adha 2027",
+   "orthodox easter 2027",
+   "wesak 2027"
+  ],
+  "question": {
+   "fr": "Quelles fêtes religieuses tombent en mai 2027 ?",
+   "en": "Which religious holidays fall in May 2027?"
+  },
+  "answer": {
+   "fr": "Selon la liste de l’Université, le Vendredi saint orthodoxe est le 30 avril et la Pâque orthodoxe le 2 mai 2027. Yom HaShoah est les 3 et 4 mai, la Pentecôte orthodoxe le 16 mai, l’Aïd al-Adha les 16 et 17 mai et le Wesak le 20 mai. La date de l’Aïd est confirmée à la dernière minute selon la lune.",
+   "en": "According to the University’s list, Orthodox Good Friday is April 30 and Orthodox Easter May 2, 2027. Yom HaShoah is May 3 and 4, Orthodox Pentecost May 16, Eid al-Adha May 16 and 17, and Wesak May 20. The Eid date is confirmed at the last minute based on the moon."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines – religious holidays",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-fetes-religieuses-automne-2027",
+  "category": "calendrier",
+  "keywords": [
+   "rosh hashana 2027",
+   "yom kippour 2027",
+   "yom kippur 2027",
+   "diwali 2027",
+   "souccot 2027"
+  ],
+  "question": {
+   "fr": "Quand tombent les grandes fêtes juives et Diwali à l’automne 2027 ?",
+   "en": "When do the High Holidays and Diwali fall in Fall 2027?"
+  },
+  "answer": {
+   "fr": "Selon la liste de l’Université, Rosh Hashana a lieu du 1er au 3 octobre 2027, Yom Kippour les 10 et 11 octobre et Souccot du 15 au 22 octobre ; ces fêtes commencent au coucher du soleil la veille. Navratri va du 30 septembre au 8 octobre, et Diwali tombe le 29 octobre 2027.",
+   "en": "According to the University’s list, Rosh Hashanah is October 1 to 3, 2027, Yom Kippur October 10 and 11, and Sukkot October 15 to 22; these holidays begin at sundown the evening before. Navratri runs September 30 to October 8, and Diwali falls on October 29, 2027."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines – religious holidays",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-fetes-religieuses-janvier-2027",
+  "category": "calendrier",
+  "keywords": [
+   "fêtes religieuses janvier 2027",
+   "guru gobind singh",
+   "makar sankranti 2027",
+   "laylat al miraj 2027",
+   "epiphany orthodox 2027"
+  ],
+  "question": {
+   "fr": "Quelles fêtes religieuses tombent en janvier 2027 ?",
+   "en": "Which religious holidays fall in January 2027?"
+  },
+  "answer": {
+   "fr": "Selon la liste de l’Université, Laylat al-Miraj est le 5 janvier, la naissance de Guru Gobind Singh Ji le 6 janvier, Maghi et Makar Sankranti le 14 janvier, l’Épiphanie orthodoxe le 19 janvier et le Nouvel An mahayana le 22 janvier 2027. Laylat al-Baraat a lieu les 23 et 24 janvier.",
+   "en": "According to the University’s list, Laylat al-Miraj is January 5, the birth of Guru Gobind Singh Ji January 6, Maghi and Makar Sankranti January 14, Orthodox Epiphany January 19 and Mahayana New Year January 22, 2027. Laylat al-Baraat is January 23 and 24."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines – religious holidays",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-programme-multidisciplinaire",
+  "category": "reglements",
+  "keywords": [
+   "programme multidisciplinaire",
+   "multidisciplinary program",
+   "trois disciplines",
+   "multidisciplinary degree",
+   "programme plusieurs disciplines"
+  ],
+  "question": {
+   "fr": "Qu’est-ce qu’un programme multidisciplinaire ?",
+   "en": "What is a multidisciplinary program?"
+  },
+  "answer": {
+   "fr": "C’est un programme de premier cycle qui exige des cours dans au moins trois disciplines. Il mène à un baccalauréat spécialisé, et une variante permet d’y ajouter une mineure.",
+   "en": "It’s an undergraduate program that requires courses in at least three disciplines. It leads to an honours bachelor’s, and one version lets you add a minor."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-doctorat-premier-cycle",
+  "category": "reglements",
+  "keywords": [
+   "doctorat de premier cycle",
+   "undergraduate doctorate",
+   "md pharmd premier cycle",
+   "professional doctorate undergraduate",
+   "médecine pharmacie droit premier cycle"
+  ],
+  "question": {
+   "fr": "Qu’est-ce qu’un doctorat de premier cycle ?",
+   "en": "What is an undergraduate doctorate?"
+  },
+  "answer": {
+   "fr": "C’est un grade de premier cycle offert dans certains programmes professionnels, comme la médecine, la pharmacie ou le droit. Sa durée, son nombre de crédits et son niveau sont fixés par les normes d’agrément de la profession visée.",
+   "en": "It’s an undergraduate degree offered in certain professional programs, such as medicine, pharmacy or law. Its length, number of units and level are set by the accreditation standards of the profession concerned."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-programme-collaboratif-international",
+  "category": "reglements",
+  "keywords": [
+   "programme collaboratif international",
+   "international collaborative program",
+   "étudiant université partenaire étrangère",
+   "transfer from partner university abroad",
+   "partenaire international uottawa"
+  ],
+  "question": {
+   "fr": "Qu’est-ce qu’un programme collaboratif international ?",
+   "en": "What is an international collaborative program?"
+  },
+  "answer": {
+   "fr": "C’est une entente qui permet aux étudiants d’une université partenaire à l’étranger de poursuivre leurs études à l’Université d’Ottawa. Ils peuvent soit transférer dans un programme de l’Université, soit y faire une période d’études qui compte pour leur diplôme d’origine et les prépare à être admis ici. L’Université valide d’abord les cours et exigences du partenaire.",
+   "en": "It’s an agreement that lets students at a partner university abroad continue their studies at the University of Ottawa. They either transfer into a uOttawa program or complete a study period here that may count toward their home degree and prepares them for admission. The University first validates the partner’s courses and requirements."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-exigences-programme-modifiees",
+  "category": "reglements",
+  "keywords": [
+   "exigences de programme changées",
+   "program requirements changed",
+   "nouvelles exigences programme",
+   "am i affected program change",
+   "modification de programme pénalité"
+  ],
+  "question": {
+   "fr": "Les exigences de mon programme ont changé : est-ce que ça me pénalise ?",
+   "en": "My program requirements changed: will that penalize me?"
+  },
+  "answer": {
+   "fr": "Non, ça ne doit pas te pénaliser. Les cours et programmes sont recommandés par les facultés et approuvés par le Sénat, et quand les exigences changent, les facultés doivent s’assurer que les modifications ne pénalisent pas les étudiants déjà inscrits. Parle à ton bureau des études si tu as un doute sur ton cheminement.",
+   "en": "No, it shouldn’t penalize you. Courses and programs are recommended by faculties and approved by Senate, and when requirements change, faculties must make sure the changes don’t penalize students already enrolled. Talk to your academic office if you’re unsure about your path."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-reprendre-prealable-reussi",
+  "category": "reglements",
+  "keywords": [
+   "reprendre un préalable",
+   "repeat prerequisite",
+   "refaire cours préalable",
+   "sujets spéciaux reprise",
+   "special topics repeat"
+  ],
+  "question": {
+   "fr": "Puis-je reprendre un cours préalable même si j’ai déjà réussi le cours suivant ?",
+   "en": "Can I repeat a prerequisite even though I already passed the next course?"
+  },
+  "answer": {
+   "fr": "Oui, en général, sauf pour les cours de l’École de gestion Telfer et les cours de langue de la Faculté des arts. Pour les cours de sujets spéciaux, la règle de reprise s’applique seulement si le sujet est exactement le même. Certaines facultés, comme la Section de common law et l’Éducation, ne suivent pas ce règlement.",
+   "en": "Yes, generally, except for Telfer School of Management courses and Faculty of Arts language courses. For Special Topics courses, the repeat rule applies only to offerings on the exact same topic. Some faculties, like the Common Law Section and Education, don’t follow this regulation."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-4 – Inscription",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b-4-inscription"
+   },
+   {
+    "label": "Academic Regulation B-4 – Registration",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-4-registration"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-activites-hors-campus",
+  "category": "reglements",
+  "keywords": [
+   "recherche terrain études supérieures",
+   "activités hors campus",
+   "off-campus research graduate",
+   "conference travel graduate",
+   "cours autre établissement temps plein"
+  ],
+  "question": {
+   "fr": "Aux études supérieures à temps plein, puis-je faire des activités hors campus ?",
+   "en": "As a full-time graduate student, can I do academic activities off campus?"
+  },
+  "answer": {
+   "fr": "Oui, avec l’approbation de ton directeur de thèse ou de la direction du programme : par exemple de la recherche sur le terrain ou en bibliothèque, un cours dans un autre établissement ou une conférence. Tu dois rester en communication régulière avec ton directeur ou ton programme.",
+   "en": "Yes, with the approval of your thesis supervisor or graduate program director: for example field or library research, a course at another institution or a conference. You must stay in regular communication with your supervisor or program."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-1 – Catégories et statuts aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-1-categories-statuts-etudiants-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-1 – Categories and Status of Graduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-1-categories-status-graduate-students"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-memoire-sujet",
+  "category": "reglements",
+  "keywords": [
+   "sujet du mémoire",
+   "reprendre un travail pour mémoire",
+   "major research paper topic",
+   "research paper reading list",
+   "mémoire plan de travail"
+  ],
+  "question": {
+   "fr": "Puis-je bâtir mon mémoire à partir d’un travail déjà fait ?",
+   "en": "Can I build my major research paper on work I’ve already done?"
+  },
+  "answer": {
+   "fr": "Oui, avec l’approbation de la direction du programme, et le professeur responsable du travail d’origine sera normalement ton directeur. Le mémoire doit toutefois aller nettement plus loin que le travail initial. Avant le trimestre, entends-toi avec ton directeur sur le sujet, une liste de lectures et un calendrier de travail.",
+   "en": "Yes, with the program director’s approval, and the professor responsible for the original work will normally be your supervisor. However, the paper must show significant advancement beyond the original work. Before the term, agree with your supervisor on the topic, a reading list and a work schedule."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-8 – Mémoire",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c8-memoire"
+   },
+   {
+    "label": "Academic Regulation C-8 – Major Research Paper",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-8-major-research-paper"
+   }
+  ],
+  "related": [
+   "zb-conservation-dossier-faculte",
+   "zb-copies-examens-non-reclamees",
+   "zb-cours-bilingue-code"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-memoire-rapport-hiver-2027",
+  "category": "calendrier",
+  "keywords": [
+   "date limite mémoire hiver 2027",
+   "rapport de génie hiver 2027",
+   "major research paper deadline winter 2027",
+   "engineering report april 29",
+   "mrp april 2027"
+  ],
+  "question": {
+   "fr": "Quelle est la date limite pour remettre mon mémoire ou mon rapport de génie à l’hiver 2027 ?",
+   "en": "What is the deadline to submit my major research paper or engineering report in Winter 2027?"
+  },
+  "answer": {
+   "fr": "Le dernier jour de l’hiver 2027 pour remettre le mémoire, ou le rapport de génie sans devoir t’inscrire au printemps-été, est le 29 avril 2027. Certains programmes ont une date plus tôt, alors confirme-la avec ton unité scolaire.",
+   "en": "The last day of Winter 2027 to submit the major research paper, or the engineering report without having to enrol in Spring-Summer, is April 29, 2027. Some programs have an earlier date, so confirm it with your academic unit."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines – Winter 2027",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2027"
+   }
+  ],
+  "related": [
+   "zb-cl-fin-automne-2026",
+   "zb-cl-notes-automne-2026",
+   "zb-cl-examens-differes-2027"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-uoaccess-alias-invalide",
+  "category": "ti",
+  "keywords": [
+   "connexion avec mon adresse nom complet",
+   "alias uoaccess",
+   "full name email login",
+   "can’t log in with alias",
+   "identifiant uoaccess invalide"
+  ],
+  "question": {
+   "fr": "Puis-je me connecter avec mon adresse courriel à nom complet ?",
+   "en": "Can I log in with my full-name email address?"
+  },
+  "answer": {
+   "fr": "Non. Ton identifiant uoAccess est seulement le nom court avant @uOttawa.ca dans ton adresse principale, par exemple jsmit000. Une adresse à nom complet, comme prénom.nom, ou un alias lié à ton compte ne sont pas des identifiants uoAccess valides.",
+   "en": "No. Your uoAccess ID is only the short name before @uOttawa.ca in your main address, for example jsmit000. A full-name address, like first.last, or an alias linked to your account are not valid uoAccess IDs."
+  },
+  "sources": [
+   {
+    "label": "IT – uoAccess",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/account/uoaccess"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-copilot-renseignements-personnels",
+  "category": "ti",
+  "keywords": [
+   "copilot renseignements personnels",
+   "données confidentielles ia",
+   "personal information copilot",
+   "confidential data ai tool",
+   "chatgpt données université"
+  ],
+  "question": {
+   "fr": "Puis-je mettre des renseignements personnels ou confidentiels dans Copilot ou un autre outil d’IA ?",
+   "en": "Can I put personal or confidential information into Copilot or another AI tool?"
+  },
+  "answer": {
+   "fr": "Évite-le. Copilot n’est pas recommandé pour recueillir ou saisir des renseignements personnels sans autorisation légale et but universitaire légitime. Copilot est aussi la seule plateforme d’IA approuvée pour s’intégrer aux données de l’Université : dans les autres outils, n’entre aucune information interne, confidentielle ou restreinte.",
+   "en": "Avoid it. Copilot isn’t recommended for collecting or entering personal information without legal authority and a legitimate University purpose. Copilot is also the only AI platform approved to integrate with University data: in other tools, don’t enter any information classified as internal, confidential or restricted."
+  },
+  "sources": [
+   {
+    "label": "IT – MS Copilot",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-copilot"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-onedrive-usage",
+  "category": "ti",
+  "keywords": [
+   "photos personnelles onedrive",
+   "onedrive pour quoi",
+   "what to store on onedrive",
+   "onedrive personal photos",
+   "onedrive travail équipe"
+  ],
+  "question": {
+   "fr": "Que devrais-je garder dans mon OneDrive uOttawa ?",
+   "en": "What should I store in my uOttawa OneDrive?"
+  },
+  "answer": {
+   "fr": "OneDrive sert à tes propres documents de travail et à tes brouillons pas encore prêts à partager. Il n’est pas recommandé pour tes photos personnelles, pour les documents officiels ni pour les fichiers dont toute ton équipe a besoin : pour le travail d’équipe, utilise plutôt un espace partagé comme Teams. Pense aussi à retirer les liens de partage dont tu n’as plus besoin.",
+   "en": "OneDrive is for your own working documents and drafts you aren’t ready to share. It isn’t recommended for personal photos, official documents or files your whole team needs: for team work, use a shared space like Teams instead. Also remember to remove sharing links you no longer need."
+  },
+  "sources": [
+   {
+    "label": "IT – MS OneDrive",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-onedrive"
+   }
+  ],
+  "related": [
+   "zb-ordinateur-portable-exigences",
+   "zb-rabais-ordinateur-etudiant",
+   "zb-navigateur-recommande"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-demande-directe-uottawa",
+  "category": "admissions",
+  "keywords": [
+   "demande directe",
+   "formulaire uottawa",
+   "direct application",
+   "ouac",
+   "application fee",
+   "frais de demande",
+   "104"
+  ],
+  "question": {
+   "fr": "Quand dois-je faire ma demande directement à l’Université plutôt que par OUAC?",
+   "en": "When do I apply directly to uOttawa instead of through OUAC?"
+  },
+  "answer": {
+   "fr": "Tu utilises le formulaire de demande de l’Université d’Ottawa, et non OUAC, si tu as déjà étudié à uOttawa ou à l’Université Saint-Paul, si tu vises le trimestre printemps-été, un certificat, un programme en partenariat avec un établissement hors Canada, ou si tu reviens après un retrait de ta faculté. Sauf pour les programmes sans frais, comme le baccalauréat en relations publiques, des frais de 104 $ s’appliquent.",
+   "en": "You use the University of Ottawa’s own application form, not OUAC, if you’ve studied at uOttawa or Saint Paul University before, you’re applying for the spring-summer term, a certificate, a partnership program with an institution outside Canada, or you’re reapplying after being required to withdraw from your faculty. Unless the program has no fee, like the Honours Bachelor in Public Relations, there is a $104 fee."
+  },
+  "sources": [
+   {
+    "label": "How to apply for undergraduate studies",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/how-to-apply"
+   }
+  ],
+  "related": [
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep",
+   "zc-soumettre-documents-uodoc"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-accuse-reception-demande",
+  "category": "admissions",
+  "keywords": [
+   "accusé de réception",
+   "acknowledgment email",
+   "numéro étudiant",
+   "student number",
+   "pas reçu courriel",
+   "no email after applying",
+   "uozone"
+  ],
+  "question": {
+   "fr": "J’ai fait ma demande, mais je n’ai pas reçu de courriel. Est-ce normal?",
+   "en": "I applied but haven’t received any email. Is that normal?"
+  },
+  "answer": {
+   "fr": "Tu devrais recevoir un accusé de réception dans la semaine qui suit ta demande; vérifie aussi tes courriels indésirables. Ce message contient ton numéro d’étudiant et tes informations pour te connecter à uoZone, alors garde-le. Si tu ne l’as pas reçu après deux semaines, écris à l’équipe des admissions.",
+   "en": "You should receive an acknowledgment email within one week of applying; check your junk folder too. It contains your student number and your uoZone login information, so keep it. If you haven’t received it after two weeks, email the admissions team."
+  },
+  "sources": [
+   {
+    "label": "I've applied",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-code-permanent-cegep",
+   "zc-soumettre-documents-uodoc"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-code-permanent-cegep",
+  "category": "admissions",
+  "keywords": [
+   "cégep",
+   "cegep",
+   "code permanent",
+   "permanent code",
+   "relevé de notes cégep",
+   "cegep transcript",
+   "ouac"
+  ],
+  "question": {
+   "fr": "Je viens du cégep : comment l’Université reçoit-elle mes notes?",
+   "en": "I’m coming from CEGEP: how does the University get my grades?"
+  },
+  "answer": {
+   "fr": "Tes relevés de notes officiels du cégep sont transmis automatiquement par OUAC, à condition d’inscrire ton code permanent du Québec à 12 chiffres dans ta demande. Sans ce code, ta demande ne peut pas être évaluée. Tes autres documents se téléversent dans uoDoc, dans uoZone.",
+   "en": "Your official CEGEP transcripts are sent automatically through OUAC, as long as you include your 12-digit Quebec permanent code in your application. Without it, your application can’t be assessed. Upload your other documents through uoDoc in uoZone."
+  },
+  "sources": [
+   {
+    "label": "How to apply for undergraduate studies",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/how-to-apply"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-soumettre-documents-uodoc"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-soumettre-documents-uodoc",
+  "category": "admissions",
+  "keywords": [
+   "documents",
+   "uodoc",
+   "téléverser",
+   "upload documents",
+   "supporting documents",
+   "pièces justificatives",
+   "dossier d’admission"
+  ],
+  "question": {
+   "fr": "Comment envoyer mes documents pour ma demande d’admission?",
+   "en": "How do I submit documents for my admission application?"
+  },
+  "answer": {
+   "fr": "Ta liste personnalisée de documents se trouve dans l’outil Dossier d’admission de uoZone; tu les téléverses avec uoDoc. Si tu es au secondaire en Ontario, tes relevés arrivent automatiquement par OUAC. L’évaluation commence seulement quand tout est reçu, et l’Université peut annuler une demande incomplète après la date limite.",
+   "en": "Your personalized list of required documents is in the Admission file tool in uoZone, and you upload them with uoDoc. If you’re in an Ontario high school, your transcripts arrive automatically through OUAC. Assessment only starts once everything is received, and the University may cancel incomplete applications after the deadline."
+  },
+  "sources": [
+   {
+    "label": "How to apply for undergraduate studies",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/how-to-apply"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-quand-commencer-demande",
+  "category": "admissions",
+  "keywords": [
+   "quand postuler",
+   "when to apply",
+   "mi-octobre",
+   "mid-october",
+   "date limite",
+   "application period",
+   "début des demandes"
+  ],
+  "question": {
+   "fr": "À partir de quand puis-je faire ma demande pour l’automne?",
+   "en": "How early can I apply for the fall term?"
+  },
+  "answer": {
+   "fr": "Tu peux faire ta demande dès la mi-octobre pour le trimestre d’automne suivant. Les dates limites varient selon le programme, et la période de demande peut fermer plus tôt si les places sont comblées. Vérifie donc la date de ton programme et fais ta demande tôt.",
+   "en": "You can apply as early as mid-October for the following fall term. Deadlines vary by program, and the application period can close earlier if spaces fill up. So check your program’s deadline and apply early."
+  },
+  "sources": [
+   {
+    "label": "How to apply for undergraduate studies",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/how-to-apply"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-documents-non-retournes",
+  "category": "admissions",
+  "keywords": [
+   "documents originaux",
+   "original documents",
+   "retour documents",
+   "returned documents",
+   "propriété université",
+   "documents property"
+  ],
+  "question": {
+   "fr": "L’Université va-t-elle me renvoyer les documents que j’ai fournis?",
+   "en": "Will the University return the documents I submitted?"
+  },
+  "answer": {
+   "fr": "Non : tous les documents soumis deviennent la propriété de l’Université et ne sont pas retournés. Selon ton programme, d’autres documents peuvent t’être demandés, et si tu étudies au Canada depuis moins de trois ans, on peut exiger un test de langue reconnu.",
+   "en": "No: all documents submitted become the property of the University and are not returned. Depending on your program, you may be asked for more documents, and if you’ve studied in Canada for less than three years, an approved language test may be required."
+  },
+  "sources": [
+   {
+    "label": "How to apply for undergraduate studies",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/how-to-apply"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-declaration-experience-personnelle",
+  "category": "admissions",
+  "keywords": [
+   "déclaration d’expérience personnelle",
+   "declaration of personal experience",
+   "moyenne trop basse",
+   "average too low",
+   "défis",
+   "challenges",
+   "grades"
+  ],
+  "question": {
+   "fr": "Ma moyenne est un peu sous le seuil : puis-je expliquer ma situation?",
+   "en": "My average is a bit below the cutoff: can I explain my situation?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es citoyen canadien, résident permanent ou réfugié, tu peux remplir une déclaration d’expérience personnelle pour décrire les défis qui ont pu nuire à tes notes. C’est facultatif et c’est un projet pilote. Il ne s’applique pas à la médecine, à l’éducation, au Juris Doctor ni aux études supérieures.",
+   "en": "Yes, if you’re a Canadian citizen or have permanent resident or refugee status, you can complete a declaration of personal experience describing challenges that may have affected your grades. It’s optional and part of a pilot project. It doesn’t apply to Medicine, Education, Juris Doctor programs or graduate studies."
+  },
+  "sources": [
+   {
+    "label": "I've applied",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-modifier-demande-admission",
+  "category": "admissions",
+  "keywords": [
+   "modifier demande",
+   "change application",
+   "changer de programme",
+   "change program choice",
+   "ajouter coop",
+   "add co-op",
+   "ajouter immersion"
+  ],
+  "question": {
+   "fr": "Puis-je changer de programme ou ajouter la coop après avoir fait ma demande?",
+   "en": "Can I change my program or add co-op after applying?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es admissible et que le programme visé accepte encore des demandes. Si tu as fait ta demande par OUAC, ouvre une session sur le site d’OUAC pour la modifier. Si tu as fait ta demande directement à l’Université, écris à l’équipe des admissions.",
+   "en": "Yes, if you’re eligible and the program you want is still accepting applications. If you applied through OUAC, log in to the OUAC website to make the changes. If you applied directly to the University, email the admissions team."
+  },
+  "sources": [
+   {
+    "label": "I've applied",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-delai-traitement-demande",
+  "category": "admissions",
+  "keywords": [
+   "délai",
+   "how long",
+   "réponse admission",
+   "decision time",
+   "traitement demande",
+   "processing time",
+   "65 000"
+  ],
+  "question": {
+   "fr": "Combien de temps faut-il pour recevoir une réponse d’admission?",
+   "en": "How long does it take to get an admission decision?"
+  },
+  "answer": {
+   "fr": "Les spécialistes des admissions traitent plus de 65 000 demandes par année. Il faut compter quelques semaines après la réception de tous tes documents pour le traitement, le calcul de ta moyenne et l’évaluation. Tu suis l’état de ton dossier dans uoZone.",
+   "en": "Admission specialists handle over 65,000 applications a year. Expect a few weeks after all your documents are received for processing, calculating your average and evaluating your application. You track your status in uoZone."
+  },
+  "sources": [
+   {
+    "label": "I've applied",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-juris-doctor-olsas",
+  "category": "admissions",
+  "keywords": [
+   "juris doctor",
+   "jd",
+   "olsas",
+   "common law",
+   "droit",
+   "law school documents",
+   "uodoc"
+  ],
+  "question": {
+   "fr": "Je fais une demande au Juris Doctor : où dois-je envoyer mes documents?",
+   "en": "I’m applying to the Juris Doctor: where do I send my documents?"
+  },
+  "answer": {
+   "fr": "Tous tes documents doivent être envoyés directement à OLSAS, le service de demande d’admission des facultés de droit de l’Ontario. Tu peux suivre ton dossier dans uoZone, mais tu ne peux pas y soumettre de documents par uoDoc.",
+   "en": "You must send all your application documents directly to the Ontario Law School Application Service, OLSAS. You can track your application in uoZone, but you can’t submit documents through uoDoc."
+  },
+  "sources": [
+   {
+    "label": "I've applied",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourses-apres-demande",
+  "category": "admissions",
+  "keywords": [
+   "bourses",
+   "scholarships",
+   "quand demander",
+   "when to apply scholarship",
+   "uoaccès",
+   "uoaccess",
+   "bourses en ligne"
+  ],
+  "question": {
+   "fr": "Puis-je demander des bourses avant d’avoir reçu mon offre d’admission?",
+   "en": "Can I apply for scholarships before I get my offer?"
+  },
+  "answer": {
+   "fr": "Oui : tu peux demander des bourses dès que tu as fait ta demande d’admission et reçu ton identifiant et ton mot de passe uoAccès. Tu les trouves dans l’outil Bourses en ligne. Lis aussi tes courriels uOttawa, car l’Université t’y donne des nouvelles de ton dossier.",
+   "en": "Yes: you can apply for scholarships as soon as you’ve applied for admission and received your uoAccess ID and password. You’ll find them in the Online Scholarships and Bursaries tool. Also read your uOttawa emails, since that’s where the University updates you on your application."
+  },
+  "sources": [
+   {
+    "label": "I've applied",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-lettre-pal-delai",
+  "category": "international",
+  "keywords": [
+   "lettre d’attestation provinciale",
+   "pal",
+   "provincial attestation letter",
+   "délai pal",
+   "how long pal",
+   "dépôt",
+   "deposit"
+  ],
+  "question": {
+   "fr": "Combien de temps après mon dépôt vais-je recevoir ma lettre d’attestation provinciale?",
+   "en": "How long after my deposit will I get my provincial attestation letter?"
+  },
+  "answer": {
+   "fr": "Une fois ton paiement reçu, le Bureau des admissions t’envoie ta lettre d’attestation provinciale par courriel en environ trois jours ouvrables. Pendant ce temps, prépare tes autres documents pour ta demande de permis d’études auprès d’IRCC, car tu dois avoir ton permis avant de commencer tes études.",
+   "en": "Once your payment is received, the Admissions Office emails you your provincial attestation letter within about three working days. Meanwhile, prepare your other documents for your IRCC study permit application, because you must have your permit before starting your studies."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "related": [
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais",
+   "zc-pays-exemption-francais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-releve-final-officiel",
+  "category": "admissions",
+  "keywords": [
+   "relevé final",
+   "final transcript",
+   "relevé officiel",
+   "official transcript",
+   "conditions d’admission",
+   "uodoc",
+   "lien web"
+  ],
+  "question": {
+   "fr": "Quel relevé final dois-je téléverser pour mes conditions d’admission?",
+   "en": "Which final transcript do I upload for my admission conditions?"
+  },
+  "answer": {
+   "fr": "Téléverse dans uoDoc un relevé officiel qui contient tes résultats finaux, avec toutes les pages. N’envoie pas de lien vers une plateforme externe ni une copie de ton portail étudiant. La vérification des conditions se fait de mai à la fin août.",
+   "en": "Upload an official transcript with your final results to uoDoc, including all pages. Don’t upload a web link from an external platform or a copy from your student portal. Conditions are verified from May until late August."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-conditions-non-remplies",
+  "category": "admissions",
+  "keywords": [
+   "conditions non remplies",
+   "not meet conditions",
+   "offre révoquée",
+   "offer revoked",
+   "programme alternatif",
+   "alternate program",
+   "offre conditionnelle"
+  ],
+  "question": {
+   "fr": "Que se passe-t-il si je ne remplis pas les conditions de mon offre?",
+   "en": "What happens if I don’t meet the conditions of my offer?"
+  },
+  "answer": {
+   "fr": "Si tu sais déjà que tu ne les rempliras pas, écris vite aux admissions pour qu’on examine tes options. L’Université te contactera pour en discuter, et un autre programme pourrait t’être proposé. Sinon, l’offre peut être retirée et tu perds ton dépôt non remboursable.",
+   "en": "If you already know you won’t meet them, email admissions promptly so they can look at your options. The University will contact you to discuss alternatives, such as another program you may be eligible for. Otherwise, your offer may be revoked and you lose your non-refundable deposit."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-documents-conditions-retard",
+  "category": "admissions",
+  "keywords": [
+   "retard documents",
+   "documents delayed",
+   "date limite conditions",
+   "two weeks",
+   "deux semaines",
+   "résultats finaux en retard",
+   "late results"
+  ],
+  "question": {
+   "fr": "Mes résultats finaux sont en retard : ai-je un délai supplémentaire?",
+   "en": "My final results are late: do I get extra time?"
+  },
+  "answer": {
+   "fr": "Oui, l’Université continue d’accepter les documents pour la vérification des conditions pendant deux semaines après la date limite. Envoie tes résultats dès que tu les as. Tu peux voir dans uoZone quelles conditions sont cochées comme remplies.",
+   "en": "Yes, the University keeps accepting documents for verifying admission conditions for two weeks after the deadline. Send your results as soon as you have them. You can see in uoZone which conditions are checked off as met."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-abandon-cours-offre",
+  "category": "admissions",
+  "keywords": [
+   "abandonner cours",
+   "drop courses",
+   "offre conditionnelle",
+   "conditional offer",
+   "finir mon année",
+   "finish my year",
+   "secondaire"
+  ],
+  "question": {
+   "fr": "Mon offre dit que je dois finir mon année : puis-je abandonner un cours?",
+   "en": "My offer says I must finish my year: can I drop a course?"
+  },
+  "answer": {
+   "fr": "Ce n’est généralement pas recommandé si le cours compte dans l’évaluation de ton admission. Si tu abandonnes, ton offre doit être réévaluée : parfois sans conséquence, parfois avec un effet direct sur ton admission. Écris aux admissions avant de décider.",
+   "en": "It’s generally not recommended if the course is part of your admission evaluation. If you drop it, your offer must be re-evaluated: sometimes there’s no consequence, but sometimes it directly affects your offer. Email admissions before deciding."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-conditions-pas-cochees",
+  "category": "admissions",
+  "keywords": [
+   "conditions pas cochées",
+   "conditions not checked",
+   "document téléversé",
+   "uploaded document",
+   "offre inconditionnelle",
+   "unconditional offer"
+  ],
+  "question": {
+   "fr": "J’ai envoyé mon document, alors pourquoi mes conditions ne sont-elles pas toutes cochées?",
+   "en": "I uploaded my document, so why aren’t all my conditions checked off?"
+  },
+  "answer": {
+   "fr": "Ta condition de dépôt de document est remplie, mais l’Université doit encore vérifier les autres, comme la moyenne, les préalables, les crédits de transfert ou les cours d’appoint. Les admissions et ta faculté les vérifient, pas toujours en même temps. Une fois tout vérifié, une nouvelle offre inconditionnelle apparaît dans uoZone.",
+   "en": "Your document submission condition is met, but the University still has to confirm your other conditions, such as averages, prerequisites, transfer credits or make-up courses. Admissions and your faculty review them, not always at the same time. Once everything is verified, a new unconditional offer appears in uoZone."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-quebec-releve-apprentissages",
+  "category": "admissions",
+  "keywords": [
+   "québec",
+   "quebec",
+   "relevé des apprentissages",
+   "achievement record",
+   "secondaire québec",
+   "ministry report",
+   "relevé ministère"
+  ],
+  "question": {
+   "fr": "Je suis au secondaire au Québec et je n’ai pas encore mon relevé des apprentissages. Que faire?",
+   "en": "I’m in a Quebec high school and don’t have my Achievement Record yet. What do I do?"
+  },
+  "answer": {
+   "fr": "Si tu ne l’as pas reçu à la date indiquée dans ton offre, l’Université accepte aussi un rapport du ministère remis par ton conseiller d’orientation, ou une impression de ton relevé de notes du portail du ministère. Ce document doit montrer tes notes finales, tes unités et ton diplôme obtenu.",
+   "en": "If you haven’t received it by the deadline in your offer, the University also accepts a ministry report from your school guidance counsellor, or a printout of your statement of marks from your ministry portal. It must show your final marks with credits and the diploma received."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-refus-ameliorer-dossier",
+  "category": "admissions",
+  "keywords": [
+   "refus",
+   "refused admission",
+   "présenter nouvelle demande",
+   "reapply",
+   "améliorer dossier",
+   "improve record",
+   "raisons du refus"
+  ],
+  "question": {
+   "fr": "J’ai été refusé : comment présenter une nouvelle demande?",
+   "en": "I was refused: how do I reapply?"
+  },
+  "answer": {
+   "fr": "Les raisons du refus sont indiquées dans ton dossier d’admission dans uoZone. Tu dois d’abord améliorer ton dossier : suivre ou reprendre un préalable manquant, ou suivre d’autres cours pour atteindre la moyenne exigée. Ensuite, refais une demande avant la date limite. L’admission n’est jamais garantie.",
+   "en": "The reasons for your refusal are in your Admission file in uoZone. You must first improve your record: take or retake a missing prerequisite, or take more courses until you reach the required average. Then reapply before the deadline. Admission is never guaranteed."
+  },
+  "sources": [
+   {
+    "label": "New application after admission refusal",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/new-application-after-refusal"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-refus-options-secondaire",
+  "category": "admissions",
+  "keywords": [
+   "refus secondaire",
+   "high school refused",
+   "reprendre cours secondaire",
+   "retake high school",
+   "16 unités",
+   "16 units",
+   "collège"
+  ],
+  "question": {
+   "fr": "J’ai été refusé en sortant du secondaire au Canada : quelles sont mes options?",
+   "en": "I was refused coming from a Canadian high school: what are my options?"
+  },
+  "answer": {
+   "fr": "Tu peux reprendre des cours du secondaire pour hausser ta moyenne, faire au moins un programme collégial pour être évalué sur tes résultats au collège, ou obtenir 16 unités universitaires pour être évalué sur tes cours universitaires. Si tu viens d’un secondaire à l’étranger, il faut plutôt faire une année supplémentaire.",
+   "en": "You can retake high school courses to raise your average, complete at least one college program so you’re assessed on your college results, or earn 16 university units so you’re assessed on your university courses. If you’re coming from a high school outside Canada, you instead complete one additional year."
+  },
+  "sources": [
+   {
+    "label": "New application after admission refusal",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/new-application-after-refusal"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-refus-options-cegep",
+  "category": "admissions",
+  "keywords": [
+   "refus cégep",
+   "cegep refused",
+   "17 cours",
+   "17 courses",
+   "16 unités",
+   "droit civil 30 unités",
+   "moyenne cégep"
+  ],
+  "question": {
+   "fr": "J’ai été refusé en venant du cégep : que dois-je faire?",
+   "en": "I was refused coming from CEGEP: what should I do?"
+  },
+  "answer": {
+   "fr": "Tu peux poursuivre tes études au cégep pour améliorer ta moyenne, ou obtenir 16 unités universitaires, ou 30 pour le droit civil. Si tu as fait 16 cours de cégep ou moins, l’Université recommande d’en terminer au moins 17, hors cours de mise à niveau : la moyenne exigée sera alors beaucoup plus basse.",
+   "en": "You can continue at CEGEP to improve your average, or earn 16 university units, or 30 for Civil Law. If you’ve taken 16 CEGEP courses or fewer, the University recommends completing at least 17, excluding remedial courses: the required admission average will then be much lower."
+  },
+  "sources": [
+   {
+    "label": "New application after admission refusal",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/new-application-after-refusal"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-refus-options-universite",
+  "category": "admissions",
+  "keywords": [
+   "refus université",
+   "university transfer refused",
+   "5 %",
+   "24 unités",
+   "24 units",
+   "diplôme collégial",
+   "transfert"
+  ],
+  "question": {
+   "fr": "Je viens d’une autre université et j’ai été refusé : que faut-il pour refaire une demande?",
+   "en": "I’m coming from another university and was refused: what do I need to reapply?"
+  },
+  "answer": {
+   "fr": "Si ta moyenne était à environ 5 % de la moyenne exigée, tu peux continuer à suivre des cours universitaires pour l’atteindre. Si l’écart était plus grand, des exigences propres à chaque faculté s’appliquent, souvent au moins 24 unités universitaires ou un diplôme collégial de deux ans. Dans ce cas, seules les notes de ces 24 unités comptent dans ta moyenne.",
+   "en": "If your average was within about 5% of the admission average, you can keep taking university courses to reach it. If it was further below, faculty-specific requirements apply, often at least 24 university units or a two-year college diploma. In that case, only the grades from those 24 units count in your admission average."
+  },
+  "sources": [
+   {
+    "label": "New application after admission refusal",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/new-application-after-refusal"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-refus-genie-sciences",
+  "category": "admissions",
+  "keywords": [
+   "refus génie",
+   "engineering refused",
+   "refus sciences",
+   "science refused",
+   "24 unités",
+   "maths sciences",
+   "12 unités"
+  ],
+  "question": {
+   "fr": "J’ai été refusé en génie ou en sciences après des études universitaires : que dois-je suivre?",
+   "en": "I was refused to Engineering or Science after university studies: what must I take?"
+  },
+  "answer": {
+   "fr": "Il faut réussir au moins 24 unités : 12 en mathématiques ou en sciences, et 12 dans d’autres facultés comme les Arts, les Sciences sociales, les Sciences de la santé ou Telfer. En génie, les maths ou sciences doivent être parmi les cours approuvés par la faculté, et les cours de la Faculté de génie ne comptent pas.",
+   "en": "You must pass at least 24 units: 12 in math or science and 12 in other faculties such as Arts, Social Sciences, Health Sciences or Telfer. For Engineering, the math or science courses must be among those approved by the faculty, and Faculty of Engineering courses don’t count."
+  },
+  "sources": [
+   {
+    "label": "New application after admission refusal",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/new-application-after-refusal"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-cours-hausser-moyenne",
+  "category": "admissions",
+  "keywords": [
+   "hausser moyenne",
+   "raise average",
+   "reprendre un cours",
+   "repeat course",
+   "cours d’appoint",
+   "make-up course",
+   "niveau des cours"
+  ],
+  "question": {
+   "fr": "Quels cours puis-je suivre pour remonter ma moyenne avant une nouvelle demande?",
+   "en": "Which courses can I take to raise my average before reapplying?"
+  },
+  "answer": {
+   "fr": "Choisis des cours de niveau égal ou supérieur à ceux que tu as déjà réussis : par exemple, pas Calcul 1 si tu as réussi Calcul 2. Les cours d’appoint équivalents au secondaire, comme MAT 1718, ne comptent pas. Si tu reprends un cours, seule la deuxième note est utilisée. Comme étudiant libre, tu peux suivre au plus deux cours par trimestre.",
+   "en": "Choose courses at the same or a higher level than those you’ve already passed: for example, not Calculus 1 if you’ve passed Calculus 2. Make-up courses equivalent to high school, like MAT 1718, don’t count. If you repeat a course, only the second grade is used. As a non-degree student, you can take at most two courses per term."
+  },
+  "sources": [
+   {
+    "label": "New application after admission refusal",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/new-application-after-refusal"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-ecole-maison-admission",
+  "category": "admissions",
+  "keywords": [
+   "école à la maison",
+   "home-schooled",
+   "homeschool",
+   "enseignement à domicile",
+   "sat",
+   "act",
+   "ap"
+  ],
+  "question": {
+   "fr": "J’ai fait mon secondaire à la maison : puis-je être admis?",
+   "en": "I was home-schooled: can I be admitted?"
+  },
+  "answer": {
+   "fr": "Oui, ta demande est évaluée individuellement. Tu n’as pas besoin des six cours 4U ou 4M habituels, mais tu dois montrer une préparation équivalente aux exigences de ton programme. Pour les préalables en maths ou en sciences de 12e année, tu peux fournir des résultats SAT, ACT ou AP, ou des cours 4U suivis dans une école accréditée.",
+   "en": "Yes, your application is assessed individually. You don’t need the usual six 4U or 4M courses, but you must show preparation equivalent to your program’s requirements. For Grade 12 math or science prerequisites, you can provide SAT, ACT or AP results, or 4U courses taken through an accredited school."
+  },
+  "sources": [
+   {
+    "label": "Home-schooled applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/home-schooled-applicants"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-ecole-maison-documents",
+  "category": "admissions",
+  "keywords": [
+   "école à la maison documents",
+   "home-schooled documents",
+   "déclaration personnelle",
+   "personal statement",
+   "relevé parent",
+   "academic record"
+  ],
+  "question": {
+   "fr": "Quels documents fournir si j’ai fait l’école à la maison?",
+   "en": "What documents do I provide if I was home-schooled?"
+  },
+  "answer": {
+   "fr": "On peut te demander une déclaration personnelle décrivant ton programme des deux dernières années et tes activités, un relevé des matières et des notes de 11e et 12e année, qui peut être préparé par un parent, et tes résultats SAT, ACT ou AP s’il y a lieu. Si tu es admis, il faut un relevé officiel scellé ou une copie certifiée, par exemple par un notaire.",
+   "en": "You may be asked for a personal statement describing your program in your last two years and your activities, a record of subjects and grades for Grades 11 and 12, which a parent can prepare, and SAT, ACT or AP results if available. If admitted, you need an official sealed transcript or a certified copy, for example from a notary."
+  },
+  "sources": [
+   {
+    "label": "Home-schooled applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/home-schooled-applicants"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-international-diplome-equivalent",
+  "category": "admissions",
+  "keywords": [
+   "diplôme étranger",
+   "foreign diploma",
+   "équivalence",
+   "equivalency",
+   "baccalauréat",
+   "pays",
+   "country requirements"
+  ],
+  "question": {
+   "fr": "J’étudie à l’étranger : quel diplôme me faut-il pour entrer au baccalauréat?",
+   "en": "I study abroad: which diploma do I need to start a bachelor’s?"
+  },
+  "answer": {
+   "fr": "Il te faut un diplôme équivalent au diplôme d’études secondaires canadien; par exemple le baccalauréat en France ou le High School Diploma aux États-Unis. La page des candidats internationaux présente un tableau par pays. Si ton pays n’y figure pas, contacte l’Université pour obtenir l’équivalence.",
+   "en": "You need a diploma equivalent to a Canadian high school diploma; for example, the Baccalauréat in France or a High School Diploma in the United States. The international applicants page has a table by country. If your country isn’t listed, contact the University for the equivalency."
+  },
+  "sources": [
+   {
+    "label": "International applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-international-15-janvier",
+  "category": "admissions",
+  "keywords": [
+   "15 janvier",
+   "january 15",
+   "date recommandée",
+   "international deadline",
+   "ouac septembre",
+   "programmes populaires",
+   "popular programs"
+  ],
+  "question": {
+   "fr": "Je suis candidat international : quand devrais-je envoyer ma demande?",
+   "en": "I’m an international applicant: when should I apply?"
+  },
+  "answer": {
+   "fr": "La période de demande d’OUAC commence en septembre. L’Université recommande fortement de faire ta demande avant le 15 janvier, car après cette date, certains programmes populaires peuvent fermer. Chaque programme a aussi sa propre date limite pour les documents.",
+   "en": "The OUAC application period begins in September. The University strongly encourages you to apply by January 15, because some popular programs may close after that date. Each program also has its own deadline for documents."
+  },
+  "sources": [
+   {
+    "label": "International applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-fraude-demande-admission",
+  "category": "admissions",
+  "keywords": [
+   "fraude",
+   "fraud",
+   "tiers",
+   "third party",
+   "agent",
+   "formulaire officiel",
+   "official form"
+  ],
+  "question": {
+   "fr": "Comment éviter la fraude quand je fais ma demande d’admission?",
+   "en": "How do I avoid fraud when applying for admission?"
+  },
+  "answer": {
+   "fr": "Utilise le formulaire officiel d’OUAC pour soumettre ta demande et payer les frais en ligne. Méfie-toi des tiers non autorisés. En cas de doute, vérifie auprès des conseillers en recrutement officiels de l’Université que tu traites bien avec des représentants reconnus.",
+   "en": "Use the official OUAC form to submit your application and pay the fees online. Beware of unauthorized third parties. If in doubt, check with the University’s official recruitment advisers that you’re dealing with recognized representatives."
+  },
+  "sources": [
+   {
+    "label": "International applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-international-inscription-cours",
+  "category": "admissions",
+  "keywords": [
+   "inscription aux cours",
+   "course enrolment",
+   "mai",
+   "may",
+   "dépôt",
+   "deposit",
+   "étudiant international"
+  ],
+  "question": {
+   "fr": "Je suis admis comme étudiant international : quand puis-je m’inscrire à mes cours?",
+   "en": "I’m admitted as an international student: when can I enrol in courses?"
+  },
+  "answer": {
+   "fr": "L’inscription aux cours commence en mai, mais seulement après que tu as accepté ton offre et payé ton dépôt d’admission non remboursable. Si tu veux vivre en résidence, la date limite pour faire ta demande de place est le 1er juin.",
+   "en": "Course enrolment begins in May, but only once you’ve accepted your offer and paid your non-refundable admission deposit. If you want to live in residence, the deadline to apply for a place is June 1."
+  },
+  "sources": [
+   {
+    "label": "International applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-adulte-lettre-intention",
+  "category": "admissions",
+  "keywords": [
+   "candidat adulte",
+   "mature applicant",
+   "lettre d’intention",
+   "letter of intent",
+   "cv",
+   "resume",
+   "catégorie"
+  ],
+  "question": {
+   "fr": "Que doit contenir ma lettre d’intention comme candidat adulte?",
+   "en": "What should my letter of intent include as a mature applicant?"
+  },
+  "answer": {
+   "fr": "Elle doit parler de ta motivation à entreprendre des études, de tes objectifs, de l’expérience acquise depuis tes dernières études avec des exemples concrets, et de l’expérience pertinente qui montre que tu es prêt. Tu n’as pas à choisir ta catégorie dans la demande : si tu sembles admissible, l’Université mettra ton statut à jour et te demandera ta lettre et ton CV.",
+   "en": "It should cover your motivation for starting university, your goals, the experience you’ve gained since your last studies with concrete examples, and relevant experience showing you’re ready. You don’t pick your category on the application: if you seem eligible, the University updates your status and asks for your letter and resumé."
+  },
+  "sources": [
+   {
+    "label": "Mature applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/mature-applicants"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-tests-francais-acceptes",
+  "category": "admissions",
+  "keywords": [
+   "test de français",
+   "french test",
+   "delf",
+   "dalf",
+   "tcf",
+   "tef",
+   "b2"
+  ],
+  "question": {
+   "fr": "Quels tests de français sont acceptés pour un programme en français, et avec quels résultats?",
+   "en": "Which French tests are accepted for a French-language program, and what scores?"
+  },
+  "answer": {
+   "fr": "L’Université accepte le DALF C1 ou C2, le DELF B2 avec au moins 16 sur 25 en production écrite, le TCF Tout public ou TCF DAP au niveau B2 avec les trois épreuves obligatoires, et le TEF autres usages avec cinq épreuves au niveau B2. Le test doit dater de moins de deux ans avant ton trimestre de début, et tu téléverses les résultats dans uoDoc.",
+   "en": "The University accepts the DALF C1 or C2, the DELF B2 with at least 16 out of 25 in written production, the TCF Tout public or TCF DAP at level B2 with all three mandatory sections, and the TEF autres usages with five sections at level B2. The test must be less than two years old at the start of your term, and you upload results through uoDoc."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-tests-langue-refuses",
+  "category": "admissions",
+  "keywords": [
+   "tests refusés",
+   "tests not accepted",
+   "tcf canada",
+   "tef canada",
+   "celpip",
+   "ielts ukvi",
+   "immigration test"
+  ],
+  "question": {
+   "fr": "Mon test de langue pour l’immigration est-il accepté pour l’admission?",
+   "en": "Is my immigration language test accepted for admission?"
+  },
+  "answer": {
+   "fr": "Non. Pour le premier cycle, l’Université n’accepte pas l’IELTS for UKVI, le TCF Canada, le TEF Canada, le CELPIP ni le test Bright Language, parce qu’ils mesurent une langue générale ou servent à l’immigration plutôt qu’aux études. Il te faut un test de niveau universitaire, comme l’IELTS Academic ou le DELF.",
+   "en": "No. For undergraduate admission, the University doesn’t accept the IELTS for UKVI, TCF Canada, TEF Canada, CELPIP or the Bright Language test, because they measure general or immigration-level language rather than academic proficiency. You need an academic test, such as the IELTS Academic or the DELF."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-toefl-admission",
+  "category": "admissions",
+  "keywords": [
+   "toefl",
+   "toefl ibt",
+   "score toefl",
+   "code 0993",
+   "anglais",
+   "english test",
+   "mybest"
+  ],
+  "question": {
+   "fr": "Quel résultat au TOEFL faut-il pour un programme en anglais au premier cycle?",
+   "en": "What TOEFL score do I need for an undergraduate English program?"
+  },
+  "answer": {
+   "fr": "Pour une admission sans condition linguistique, il faut 86 au total et 22 en rédaction au TOEFL iBT passé avant le 21 janvier 2026, ou 4,5 au total et 4,5 en rédaction pour un test passé après cette date. Les résultats doivent être envoyés électroniquement par le centre de test avec le code 0993, et les MyBest scores sont acceptés.",
+   "en": "For admission with no language conditions, you need 86 overall and 22 in writing on a TOEFL iBT taken before January 21, 2026, or 4.5 overall and 4.5 in writing for a test taken after that date. Results must be sent electronically by the test centre using code 0993, and MyBest scores are accepted."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-duolingo-admission",
+  "category": "admissions",
+  "keywords": [
+   "duolingo",
+   "det",
+   "duolingo english test",
+   "score duolingo",
+   "120",
+   "littératie",
+   "literacy"
+  ],
+  "question": {
+   "fr": "Le Duolingo English Test est-il accepté, et quel résultat faut-il?",
+   "en": "Is the Duolingo English Test accepted, and what score do I need?"
+  },
+  "answer": {
+   "fr": "Oui : il faut 120 au total et 120 en littératie pour une admission sans condition. Partage tes résultats avec l’Université dans ton tableau de bord Duolingo, en choisissant University of Ottawa Undergraduate, et ajoute ton numéro de référence OUAC si tu as déjà fait ta demande. Ton nom, ton courriel et ta date de naissance doivent correspondre à ta demande.",
+   "en": "Yes: you need 120 overall and 120 in literacy for admission with no conditions. Share your results with the University through your Duolingo dashboard by choosing University of Ottawa Undergraduate, and enter your OUAC reference number if you’ve already applied. Your name, email and date of birth must match your application."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-ielts-envoi-resultats",
+  "category": "admissions",
+  "keywords": [
+   "ielts",
+   "envoyer résultats",
+   "send scores",
+   "trf",
+   "124039",
+   "one skill retake",
+   "ielts academic"
+  ],
+  "question": {
+   "fr": "Comment faire parvenir mes résultats IELTS à l’Université?",
+   "en": "How do I send my IELTS results to the University?"
+  },
+  "answer": {
+   "fr": "Le centre de test doit les envoyer électroniquement, avec le code University of Ottawa – Admissions, 124039; donner seulement ton numéro TRF ne suffit pas. Seul l’IELTS Academic est accepté, y compris l’option One Skill Retake. Avec 6,0 au total, tu peux commencer ton programme avec des cours d’anglais langue seconde en plus.",
+   "en": "The test centre must send them electronically using the code University of Ottawa – Admissions, 124039; giving your TRF number alone isn’t enough. Only the IELTS Academic is accepted, including One Skill Retake. With 6.0 overall, you can start your program directly with extra ESL courses."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-test-langue-validite",
+  "category": "admissions",
+  "keywords": [
+   "validité test",
+   "test expiry",
+   "deux ans",
+   "two years",
+   "dernier résultat",
+   "latest score",
+   "test de langue"
+  ],
+  "question": {
+   "fr": "Mon test de langue doit-il être récent?",
+   "en": "Does my language test have to be recent?"
+  },
+  "answer": {
+   "fr": "Oui : tous les tests de compétence linguistique doivent avoir été passés moins de deux ans avant le début du trimestre indiqué dans ta demande. Seuls tes résultats les plus récents sont pris en compte. Même avec le résultat exigé, l’Université peut te demander de suivre des cours de langue.",
+   "en": "Yes: all language proficiency tests must be taken less than two years before the start of the term on your application. Only your latest scores are considered. Even with the required score, the University may ask you to take language courses."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exemption-anglais-autres",
+  "category": "admissions",
+  "keywords": [
+   "exemption anglais",
+   "english exemption",
+   "english 4u",
+   "ib english",
+   "ap english",
+   "sat",
+   "cbse"
+  ],
+  "question": {
+   "fr": "Puis-je être exempté du test d’anglais sans avoir étudié trois ans dans un pays anglophone?",
+   "en": "Can I be exempt from the English test without three years in an English-speaking country?"
+  },
+  "answer": {
+   "fr": "C’est possible, par exemple avec 80 % ou plus en English 4U dans un conseil scolaire d’Ottawa, le cours English A de l’IB avec au moins 4, un examen AP d’anglais avec 4, 550 en lecture et rédaction au SAT numérique, 75 % en anglais de 12e année CBSE ou CISCE, ou une année complète dans une université canadienne. Écris aux admissions pour demander l’exemption; un programme passerelle d’un autre établissement ne compte pas.",
+   "en": "Possibly, for example with 80% or more in English 4U at an Ottawa school board, IB English A with at least 4, an AP English exam with 4, 550 in SAT Digital Reading and Writing, 75% in CBSE or CISCE Grade 12 English, or one full-time year at a Canadian university. Email admissions to request the exemption; a bridging program at another institution doesn’t qualify."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exemption-francais-autres",
+  "category": "admissions",
+  "keywords": [
+   "exemption français",
+   "french exemption",
+   "français 4u",
+   "ib français a",
+   "baccalauréat français",
+   "cégep français",
+   "test de français"
+  ],
+  "question": {
+   "fr": "Puis-je être exempté du test de français pour un programme en français?",
+   "en": "Can I be exempt from the French test for a French-language program?"
+  },
+  "answer": {
+   "fr": "Oui, si tu as fait trois ans d’études à temps plein en français dans un pays où le français est officiel, ou par exemple avec 80 % en Français 4U, le cours Français A de l’IB avec au moins 4, le bac français avec 10 sur 20 combiné à l’oral et à l’écrit, ou 12 à 16 cours dans un cégep francophone. Écris aux admissions pour le demander; l’Université peut refuser une exemption.",
+   "en": "Yes, if you completed three years of full-time study in French in a country where French is official, or for example with 80% in Français 4U, IB French A with at least 4, the French Baccalaureate with a combined 10 out of 20 in oral and writing, or 12 to 16 courses at a French-language CEGEP. Email admissions to request it; the University may refuse an exemption."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-nom-sans-nom-famille",
+  "category": "admissions",
+  "keywords": [
+   "nom de famille",
+   "surname",
+   "last name",
+   "pas de nom de famille",
+   "no last name",
+   "test de langue",
+   "nom demande"
+  ],
+  "question": {
+   "fr": "Je n’ai pas de nom de famille : comment éviter que mes résultats de test se perdent?",
+   "en": "I don’t have a surname: how do I make sure my test results are matched?"
+  },
+  "answer": {
+   "fr": "Le système de l’Université attend un prénom et un nom qui correspondent à ta demande. Utilise un de tes prénoms comme nom de famille dans ta demande à uOttawa, et assure-toi que le nom est identique à celui de ton inscription au test. Cela évite des retards dans le traitement.",
+   "en": "The University’s system expects both a given name and a surname that match your application. Use one of your given names as your last name on your uOttawa application, and make sure it matches the name on your test registration. This prevents delays in processing."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-resultat-langue-insuffisant",
+  "category": "admissions",
+  "keywords": [
+   "résultat insuffisant",
+   "score too low",
+   "reprendre test",
+   "retake test",
+   "réévaluation",
+   "re-evaluation",
+   "même test"
+  ],
+  "question": {
+   "fr": "Mon résultat de test de langue est trop bas : que dois-je faire?",
+   "en": "My language test score is too low: what should I do?"
+  },
+  "answer": {
+   "fr": "Envoie quand même tes résultats. Tu peux repasser le test et demander une réévaluation par courriel aux admissions, si les résultats arrivent quelques semaines avant l’inscription aux cours. Pour une offre mise à jour, il faut repasser le même test, par exemple un autre IELTS si tu avais soumis un IELTS.",
+   "en": "Submit your results anyway. You can retake the test and request a re-evaluation by emailing admissions, as long as the scores arrive weeks before course enrolment. For an updated offer, you must take the same test again, for example another IELTS if you submitted an IELTS."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-autres-tests-anglais",
+  "category": "admissions",
+  "keywords": [
+   "pte",
+   "cael",
+   "cambridge",
+   "languagecert",
+   "michigan",
+   "test anglais",
+   "english test"
+  ],
+  "question": {
+   "fr": "Quels autres tests d’anglais l’Université accepte-t-elle?",
+   "en": "What other English tests does the University accept?"
+  },
+  "answer": {
+   "fr": "En plus de l’IELTS, du TOEFL et de Duolingo, l’Université accepte LanguageCert Academic, le Michigan English Test, le PTE, le Cambridge C1 Advanced et le CAEL. Pour une admission directe, il faut par exemple 60 au total et 60 en rédaction au PTE, 176 aux examens Cambridge, ou 60 au CAEL. Ces résultats s’envoient par courriel aux admissions.",
+   "en": "Besides IELTS, TOEFL and Duolingo, the University accepts LanguageCert Academic, the Michigan English Test, PTE, Cambridge C1 Advanced and CAEL. For direct entry, you need for example 60 overall and 60 in writing on the PTE, 176 on the Cambridge exams, or 60 on the CAEL. These scores are emailed to admissions."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-programme-intensif-anglais-exclus",
+  "category": "admissions",
+  "keywords": [
+   "programme intensif anglais",
+   "english intensive program",
+   "eip",
+   "musique",
+   "music",
+   "arts visuels",
+   "visual arts"
+  ],
+  "question": {
+   "fr": "Tous les programmes acceptent-ils le Programme intensif d’anglais?",
+   "en": "Do all programs accept the English Intensive Program?"
+  },
+  "answer": {
+   "fr": "Non : les candidats aux baccalauréats en musique et au baccalauréat en arts visuels ne sont pas admissibles au Programme intensif d’anglais. Pour les autres, il n’y a pas de demande séparée : si ton offre l’exige, tu fais de 8 à 42 semaines de cours selon ton résultat.",
+   "en": "No: applicants to any Bachelor of Music or the Bachelor of Fine Arts in Visual Arts aren’t eligible for the English Intensive Program. For other programs, there’s no separate application: if your offer requires it, you take 8 to 42 weeks of courses depending on your score."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-ap",
+  "category": "admissions",
+  "keywords": [
+   "advanced placement",
+   "ap",
+   "crédits ap",
+   "ap credits",
+   "examen ap",
+   "équivalences",
+   "transfer credits"
+  ],
+  "question": {
+   "fr": "Mes cours Advanced Placement (AP) me donnent-ils des crédits?",
+   "en": "Do my Advanced Placement (AP) courses earn me credits?"
+  },
+  "answer": {
+   "fr": "Oui, possiblement, pour les examens AP où tu as obtenu au moins 4, jusqu’à 30 unités selon ton programme. Pour l’automne, les crédits sont accordés quand l’Université reçoit tes résultats officiels, généralement en juillet ou en août. Ils sont envoyés automatiquement, tu n’as rien à soumettre.",
+   "en": "Yes, possibly, for AP exams where you scored at least 4, up to 30 units depending on your program. For the fall term, credits are granted once the University receives your official AP scores, usually in July or August. They’re sent automatically, so you don’t need to submit them."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-ib",
+  "category": "admissions",
+  "keywords": [
+   "baccalauréat international",
+   "international baccalaureate",
+   "ib",
+   "crédits ib",
+   "ib credits",
+   "niveau supérieur",
+   "higher level"
+  ],
+  "question": {
+   "fr": "Le Baccalauréat international (IB) me donne-t-il des crédits universitaires?",
+   "en": "Does the International Baccalaureate (IB) give me university credits?"
+  },
+  "answer": {
+   "fr": "Oui, possiblement, pour les cours de niveau supérieur (HL) où tu as obtenu 5 ou plus; le nombre dépend de ton programme. Si tu commences à l’automne, ils sont accordés après réception de tes résultats officiels finaux, habituellement en juillet ou en août, et ces résultats sont envoyés automatiquement.",
+   "en": "Yes, possibly, for Higher Level (HL) courses where you earned 5 or higher; the amount depends on your program. If you start in the fall, they’re granted after your final official IB results arrive, usually in July or August, and results are sent automatically."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-bac-francais-gce",
+  "category": "admissions",
+  "keywords": [
+   "baccalauréat français",
+   "french baccalaureate",
+   "aefe",
+   "gce",
+   "a-level",
+   "crédits",
+   "12 sur 20"
+  ],
+  "question": {
+   "fr": "Le baccalauréat français ou les A-levels donnent-ils des crédits de transfert?",
+   "en": "Do the French Baccalaureate or A-levels give transfer credits?"
+  },
+  "answer": {
+   "fr": "Pour le baccalauréat français reconnu par l’AEFE, il faut une note globale d’au moins 12 sur 20; les crédits sont confirmés après réception de tes notes officielles. Pour le GCE, il faut au moins B dans les cours A-Level, et tu peux recevoir jusqu’à 18 unités. Dans les deux cas, le nombre dépend de ton programme.",
+   "en": "For the French Baccalaureate recognized by the AEFE, you need an overall score of at least 12 out of 20; credits are confirmed once your official grades arrive. For the GCE, you need at least a B in A-Level courses, and you can receive up to 18 units. In both cases, the amount depends on your program."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-cegep",
+  "category": "admissions",
+  "keywords": [
+   "crédits cégep",
+   "cegep credits",
+   "cours de cégep",
+   "cegep courses",
+   "30 unités",
+   "équivalences",
+   "transfert"
+  ],
+  "question": {
+   "fr": "Combien de crédits puis-je obtenir avec mes cours de cégep?",
+   "en": "How many credits can I get for my CEGEP courses?"
+  },
+  "answer": {
+   "fr": "Ça dépend du nombre de cours réussis : jusqu’à 15 unités pour 12 cours, de 18 à 27 unités pour 13 à 16 cours, et jusqu’à 30 unités, soit une année universitaire, pour plus de 17 cours. Le plafond varie aussi selon la faculté : très limité en génie, sauf en informatique, et jusqu’à 9 unités en droit civil pour un programme technique juridique.",
+   "en": "It depends on how many courses you’ve completed: up to 15 units for 12 courses, 18 to 27 units for 13 to 16 courses, and up to 30 units, one year of university, for more than 17 courses. The cap also varies by faculty: very limited in Engineering except Computer Science, and up to 9 units in Civil Law for a technical legal program."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-college",
+  "category": "admissions",
+  "keywords": [
+   "crédits collège",
+   "college transfer",
+   "diplôme collégial",
+   "college diploma",
+   "telfer",
+   "45 unités",
+   "ententes"
+  ],
+  "question": {
+   "fr": "J’ai un diplôme collégial : combien de crédits puis-je recevoir?",
+   "en": "I have a college diploma: how many credits can I receive?"
+  },
+  "answer": {
+   "fr": "Avec un diplôme de deux ou trois ans d’un collège, tu peux souvent recevoir jusqu’à 30 unités en Arts, Sciences ou Sciences sociales. À Telfer, un diplôme de trois ans en gestion peut donner jusqu’à 45 unités. Des ententes avec des collèges canadiens prévoient aussi des crédits fixes, par exemple pour le baccalauréat en commerce avec une moyenne de 70 %.",
+   "en": "With a two- or three-year college diploma, you can often receive up to 30 units in Arts, Science or Social Sciences. At Telfer, a three-year management diploma can give up to 45 units. Agreements with Canadian colleges also set fixed credits, for example for the Bachelor of Commerce with a 70% average."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-transfert-universite-notes",
+  "category": "admissions",
+  "keywords": [
+   "transfert université",
+   "university transfer",
+   "note minimale",
+   "minimum grade",
+   "60 %",
+   "carleton",
+   "fraude"
+  ],
+  "question": {
+   "fr": "Quelle note faut-il dans mes cours d’une autre université pour obtenir des crédits?",
+   "en": "What grade do I need in courses from another university to get credits?"
+  },
+  "answer": {
+   "fr": "En général 60 % dans la plupart des universités canadiennes, 65 % pour les cours de nutrition et de sciences infirmières, 50 % pour Carleton et Saint-Paul, et une note de passage pour les universités hors Canada. Tu dois déclarer toutes tes études dans ta demande OUAC : ne pas le faire est considéré comme une fraude scolaire.",
+   "en": "Generally 60% at most Canadian universities, 65% for Nutrition and Nursing courses, 50% for Carleton and Saint Paul, and a passing grade for universities outside Canada. You must declare all your studies on your OUAC application: failing to do so is considered academic fraud."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-niveau-annee",
+  "category": "admissions",
+  "keywords": [
+   "niveau d’études",
+   "academic level",
+   "deuxième année",
+   "second year",
+   "unités transférées",
+   "transfer units",
+   "24 unités"
+  ],
+  "question": {
+   "fr": "Avec mes crédits de transfert, vais-je commencer en deuxième année?",
+   "en": "With my transfer credits, will I start in second year?"
+  },
+  "answer": {
+   "fr": "Ton niveau dépend des unités accordées : moins de 24 unités, tu es en première année; de 24 à 53, en deuxième; de 54 à 80, en troisième. La plupart des crédits sont de niveau 1000 ou 2000, et tu dois quand même respecter les préalables des cours plus avancés.",
+   "en": "Your level depends on the units granted: under 24 units, you’re a first-year student; 24 to 53, second year; 54 to 80, third year. Most transfer credits are at the 1000 or 2000 level, and you still need to meet prerequisites for more advanced courses."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-opt-generaux",
+  "category": "admissions",
+  "keywords": [
+   "opt 1xxx",
+   "crédits généraux",
+   "general credits",
+   "cours au choix",
+   "electives",
+   "crédits spécifiques",
+   "specific credits"
+  ],
+  "question": {
+   "fr": "Que veut dire un crédit de transfert comme OPT 1XXX?",
+   "en": "What does a transfer credit like OPT 1XXX mean?"
+  },
+  "answer": {
+   "fr": "C’est un crédit général, accordé quand il n’y a pas d’équivalent direct à uOttawa. Un crédit général avec un code de discipline, comme PSY 1XXX, peut remplacer un cours optionnel de cette discipline ou un cours au choix; un crédit OPT remplace seulement des cours au choix. Aucun crédit général ne remplace un cours obligatoire.",
+   "en": "It’s a general credit, given when there’s no direct uOttawa equivalent. A general credit with a subject code, like PSY 1XXX, can replace an optional course in that subject or an elective; an OPT credit only replaces electives. General credits can never replace required courses."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-plans-cours",
+  "category": "admissions",
+  "keywords": [
+   "plan de cours",
+   "course outline",
+   "crédits de transfert",
+   "transfer credits",
+   "deux semaines",
+   "two weeks",
+   "documents demandés"
+  ],
+  "question": {
+   "fr": "On me demande mes plans de cours pour les crédits de transfert : que dois-je envoyer?",
+   "en": "I’m asked for course outlines for transfer credits: what do I send?"
+  },
+  "answer": {
+   "fr": "Tu as deux semaines pour les envoyer. Chaque plan doit indiquer l’établissement, le code et les crédits du cours, l’année, la description, le contenu semaine par semaine, les heures d’enseignement, les manuels, les méthodes d’évaluation et les laboratoires s’il y en a. Si tu ne peux pas les fournir, tu recevras plutôt des crédits généraux au choix.",
+   "en": "You have two weeks to send them. Each outline must show the institution, course code and credits, the academic year, the description, weekly lecture content, total hours of instruction, textbooks, evaluation methods and any labs. If you can’t provide them, you’ll get general elective credits instead."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-delai-resultat",
+  "category": "admissions",
+  "keywords": [
+   "délai crédits",
+   "when transfer credits",
+   "offre révisée",
+   "revised offer",
+   "mes exigences scolaires",
+   "my academic requirements",
+   "semaines"
+  ],
+  "question": {
+   "fr": "Quand vais-je connaître mes crédits de transfert, et où les voir?",
+   "en": "When will I know my transfer credits, and where can I see them?"
+  },
+  "answer": {
+   "fr": "Si tes cours ont déjà été évalués, ton offre révisée peut arriver en deux semaines; s’il faut en évaluer, compte environ cinq semaines, et environ huit en période achalandée ou en cas de retard de documents. Tu les vois dans ton offre révisée et dans uoZone, sous Mes exigences scolaires.",
+   "en": "If your courses have already been assessed, your revised offer can come within two weeks; if some need assessing, expect about five weeks, and about eight during peak periods or if documents are delayed. You can see them in your revised offer and in uoZone under My Academic Requirements."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-contester",
+  "category": "admissions",
+  "keywords": [
+   "contester crédits",
+   "appeal transfer credits",
+   "réévaluation",
+   "re-evaluation",
+   "pas assez de crédits",
+   "not enough credits",
+   "faculté"
+  ],
+  "question": {
+   "fr": "Je ne suis pas d’accord avec le nombre de crédits de transfert reçus : que faire?",
+   "en": "I disagree with the number of transfer credits I received: what can I do?"
+  },
+  "answer": {
+   "fr": "Vérifie d’abord le maximum permis pour ton programme et ton établissement d’origine. Si tu crois à une erreur et que tu n’es pas encore inscrit à tes cours, contacte le Bureau des admissions. Après ton inscription, adresse ta demande de réévaluation ou ton appel à ta faculté.",
+   "en": "First check the maximum allowed for your program and previous institution. If you think there’s an error and you haven’t enrolled in courses yet, contact the Admissions Office. After you’ve enrolled, send your re-evaluation request or appeal to your faculty."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-limites-generales",
+  "category": "admissions",
+  "keywords": [
+   "crédits de transfert",
+   "transfer credits",
+   "cycles supérieurs",
+   "graduate courses",
+   "accréditation",
+   "accreditation",
+   "cours professionnels"
+  ],
+  "question": {
+   "fr": "Mes cours de maîtrise ou de mon ancien établissement peuvent-ils tous être crédités?",
+   "en": "Can my graduate courses or courses from any school be credited?"
+  },
+  "answer": {
+   "fr": "Oui : les cours de maîtrise ou de doctorat et les cours professionnels de droit, d’éducation ou de médecine ne donnent pas de crédits au premier cycle. Ton établissement d’origine doit être reconnu ou accrédité par le ministère de l’Éducation de son pays; s’il n’est pas dans la liste de l’Université, tu dois fournir une preuve d’accréditation.",
+   "en": "Yes: master’s or doctoral courses and professional law, education or medicine courses can’t count toward undergraduate programs. Your previous institution must be recognized or accredited by its country’s ministry of education; if it isn’t on the University’s list, you must provide proof of accreditation."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-credits-genie-admission",
+  "category": "admissions",
+  "keywords": [
+   "génie",
+   "engineering",
+   "crédits de transfert",
+   "transfer credits",
+   "cours de génie",
+   "engineering courses",
+   "demande faculté"
+  ],
+  "question": {
+   "fr": "Mes cours de génie d’un autre établissement seront-ils crédités à l’admission?",
+   "en": "Will my engineering courses from another school be credited at admission?"
+  },
+  "answer": {
+   "fr": "En général, non : les crédits pour des cours de génie ne sont pas accordés à l’admission, sauf si une autre faculté de uOttawa, comme la Faculté des sciences, reconnaît ces cours. Pour faire examiner des cours de génie précis, soumets une demande de crédits de transfert à la Faculté de génie.",
+   "en": "Generally not: credits for engineering courses aren’t granted at admission, unless another uOttawa faculty, such as the Faculty of Science, recognizes them. To have specific engineering courses considered, submit a transfer credit request through the Faculty of Engineering."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-admission-vs-inscription",
+  "category": "admissions",
+  "keywords": [
+   "admission",
+   "inscription",
+   "registration",
+   "différence",
+   "difference",
+   "enrolment",
+   "glossaire"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre l’admission et l’inscription?",
+   "en": "What’s the difference between admission and registration?"
+  },
+  "answer": {
+   "fr": "L’admission, c’est le processus par lequel l’Université t’accepte dans un programme menant à un diplôme. L’inscription, c’est réserver ta place dans un cours. Tu peux t’inscrire seulement après avoir reçu et accepté une offre d’admission, à partir de la date fixée par l’Université.",
+   "en": "Admission is the process through which the University accepts you into a degree program. Registration is reserving your place in a course. You can register only after you’ve received and accepted an offer of admission, starting on the date the University sets."
+  },
+  "sources": [
+   {
+    "label": "Glossary of terms",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/glossary-terms"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-upass-facture-automne",
+  "category": "finances",
+  "keywords": [
+   "u-pass",
+   "frais u-pass",
+   "u-pass fees",
+   "quand payer u-pass",
+   "when pay u-pass",
+   "facture automne",
+   "fall fees"
+  ],
+  "question": {
+   "fr": "Quand dois-je payer les frais du U-Pass?",
+   "en": "When do I pay the U-Pass fee?"
+  },
+  "answer": {
+   "fr": "Les frais du U-Pass pour toute l’année sont payables avec tes droits universitaires du trimestre d’automne. Pour le printemps-été, ils sont payables avec les droits de ce trimestre. Sous certaines conditions, tu peux te retirer du U-Pass et de l’assurance collective.",
+   "en": "The U-Pass fee for the whole year is payable with your fall term university fees. For spring-summer, it’s payable with that term’s fees. Under certain conditions, you can opt out of the U-Pass and group insurance."
+  },
+  "sources": [
+   {
+    "label": "How and when to pay",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/how-when-to-pay"
+   }
+  ],
+  "related": [
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs",
+   "zc-frais-afferents-cours"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-frais-payables-quand",
+  "category": "finances",
+  "keywords": [
+   "quand payer",
+   "when to pay",
+   "frais par trimestre",
+   "fees each term",
+   "frais administratifs",
+   "administrative fees",
+   "relevé de compte"
+  ],
+  "question": {
+   "fr": "Quels frais dois-je payer chaque trimestre, et lesquels au besoin?",
+   "en": "Which fees do I pay each term, and which only when needed?"
+  },
+  "answer": {
+   "fr": "Les frais de services aux étudiants, ceux du SÉUO et les frais afférents aux cours sont payables chaque trimestre, aux dates des échéances importantes. Les frais administratifs, eux, sont payables quand tu reçois le service. Ton relevé de compte dans uoZone, sous Applications, montre l’état officiel de ton compte.",
+   "en": "Student services fees, UOSU fees and incidental fees are payable each term, by the dates in the important academic dates and deadlines. Administrative fees are payable when you receive a service. Your statement of account in uoZone, under Applications, shows the official status of your account."
+  },
+  "sources": [
+   {
+    "label": "How and when to pay",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/how-when-to-pay"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-abandon-cours-mention-abs",
+   "zc-frais-afferents-cours"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-abandon-cours-mention-abs",
+  "category": "finances",
+  "keywords": [
+   "abandonner cours",
+   "drop course",
+   "abs",
+   "échec",
+   "mention abs",
+   "student center",
+   "retrait"
+  ],
+  "question": {
+   "fr": "Si j’arrête simplement d’aller à un cours, est-ce que ça l’annule?",
+   "en": "If I just stop going to a course, is it dropped?"
+  },
+  "answer": {
+   "fr": "Non : tu dois l’abandonner toi-même dans uoZone, sous Applications, Inscription, puis Abandonner, avant la date limite. Sinon, tu reçois la mention ABS, l’équivalent d’un échec, et les règles habituelles de paiement des droits s’appliquent.",
+   "en": "No: you must drop it yourself in uoZone, under Applications, Enrol, then Drop, before the deadline. Otherwise, you get an ABS notation, equivalent to an F, and the usual tuition payment rules apply."
+  },
+  "sources": [
+   {
+    "label": "How and when to pay",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/how-when-to-pay"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-frais-afferents-cours"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-frais-afferents-cours",
+  "category": "finances",
+  "keywords": [
+   "frais afférents",
+   "incidental fees",
+   "sortie sur le terrain",
+   "field trip",
+   "matériel de cours",
+   "learning material",
+   "frais de laboratoire"
+  ],
+  "question": {
+   "fr": "Pourquoi certains cours ont-ils des frais en plus des droits de scolarité?",
+   "en": "Why do some courses have fees on top of tuition?"
+  },
+  "answer": {
+   "fr": "Ce sont des frais afférents, liés à un cours précis : par exemple une sortie sur le terrain, du matériel pédagogique, des frais de laboratoire ou des vêtements spéciaux que tu gardes. Les montants pour chaque code de cours sont publiés sur la page des frais afférents. Certains coûts directs, comme un voyage, te sont facturés seulement quand ils sont connus, peu avant l’activité.",
+   "en": "They’re incidental fees tied to a specific course: for example a field trip, learning materials, lab fees or special clothing you keep. The amounts for each course code are published on the incidental fees page. Some direct costs, like travel, are billed only once known, shortly before the activity."
+  },
+  "sources": [
+   {
+    "label": "Incidental fees",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/incidental-fees"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zc-frais-afferents-remboursement",
+  "category": "finances",
+  "keywords": [
+   "frais afférents remboursement",
+   "incidental fees refund",
+   "non remboursable",
+   "non-refundable",
+   "abandon cours",
+   "sortie terrain"
+  ],
+  "question": {
+   "fr": "Les frais afférents d’un cours sont-ils remboursés si je l’abandonne?",
+   "en": "Are a course’s incidental fees refunded if I drop it?"
+  },
+  "answer": {
+   "fr": "En général oui, totalement ou en partie, si tu n’es plus inscrit à la date prévue dans les échéances importantes; si cette date tombe une fin de semaine ou un jour férié, c’est le jour ouvrable suivant. Attention : certains frais, souvent pour des sorties sur le terrain, sont indiqués comme non remboursables.",
+   "en": "Generally yes, fully or partly, if you’re no longer enrolled on the date in the important academic dates and deadlines; if that date falls on a weekend or holiday, it’s the next business day. Note that some fees, often for field trips, are marked non-refundable."
+  },
+  "sources": [
+   {
+    "label": "Incidental fees",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/incidental-fees"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-qui-fixe-droits",
+  "category": "finances",
+  "keywords": [
+   "qui fixe les droits",
+   "who sets tuition",
+   "gouvernement ontario",
+   "ontario government",
+   "hausse",
+   "increase",
+   "prévisibilité"
+  ],
+  "question": {
+   "fr": "Qui décide des droits de scolarité et de leurs hausses?",
+   "en": "Who decides tuition fees and their increases?"
+  },
+  "answer": {
+   "fr": "Le gouvernement de l’Ontario encadre les droits des étudiants canadiens, qu’ils viennent de l’Ontario ou d’ailleurs au pays. Pour les étudiants internationaux, c’est l’Université qui fixe les droits, et elle a adopté un engagement de prévisibilité qui limite les hausses pour les étudiants déjà inscrits. Les droits sont approuvés chaque année, habituellement en mai ou en juin, et entrent en vigueur en septembre.",
+   "en": "The Ontario government regulates tuition for Canadian students, whether they’re from Ontario or elsewhere in Canada. For international students, the University sets the fees, and it has a tuition predictability commitment that limits increases for returning students. Fees are approved each year, usually in May or June, and take effect in September."
+  },
+  "sources": [
+   {
+    "label": "Changes and increases",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/changes-increases"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exoneration-hors-province-dates",
+  "category": "finances",
+  "keywords": [
+   "frais ontariens",
+   "ontario fees",
+   "hors province",
+   "out of province",
+   "changement facturation",
+   "billing change",
+   "date limite"
+  ],
+  "question": {
+   "fr": "On me facture comme non-résident de l’Ontario par erreur : jusqu’à quand puis-je le faire corriger?",
+   "en": "I’m billed as a non-Ontario resident by mistake: when’s the deadline to fix it?"
+  },
+  "answer": {
+   "fr": "Tu dois envoyer ta demande de changement de facturation avec tes documents avant la date limite du trimestre, par exemple le 27 janvier 2027 pour l’hiver 2027. Aucune exception n’est faite, et le changement s’applique seulement au trimestre approuvé, jamais aux trimestres passés. Vérifie les dates sur la page des exemptions.",
+   "en": "You must submit your billing change request with your documents by the term deadline, for example January 27, 2027 for Winter 2027. No exceptions are made, and the change only applies to the approved term, never to past terms. Check the dates on the exemptions page."
+  },
+  "sources": [
+   {
+    "label": "Out of province tuition fee exemptions",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/out-province-tuition-fee-exemptions"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zc-etudiant-independant-definition",
+  "category": "finances",
+  "keywords": [
+   "étudiant indépendant",
+   "independent student",
+   "étudiant à charge",
+   "dependent student",
+   "frais ontariens",
+   "résidence ontario",
+   "rafeo"
+  ],
+  "question": {
+   "fr": "Suis-je considéré comme étudiant indépendant pour les frais de l’Ontario?",
+   "en": "Am I an independent student for Ontario fee purposes?"
+  },
+  "answer": {
+   "fr": "Tu es indépendant si tu es marié ou en union de fait, si tu es parent, si tu as quitté le secondaire depuis au moins six ans au début de tes études, si tu as travaillé à temps plein 24 mois de suite, ou si tes deux parents sont décédés. Dans ce cas, c’est ta propre résidence principale en Ontario qui compte, ou celle de ton conjoint.",
+   "en": "You’re independent if you’re married or in a common-law relationship, a parent, out of high school for six years or more at the start of your studies, have worked full time for 24 months in a row, or both your parents are deceased. In that case, it’s your own primary residence in Ontario that counts, or your spouse’s."
+  },
+  "sources": [
+   {
+    "label": "Out of province tuition fee exemptions",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/out-province-tuition-fee-exemptions"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-frais-ontariens-rafeo-pcno",
+  "category": "finances",
+  "keywords": [
+   "rafeo",
+   "osap",
+   "pcno",
+   "oinp",
+   "frais ontariens",
+   "ontario fees",
+   "candidats des provinces"
+  ],
+  "question": {
+   "fr": "Le RAFEO ou le Programme ontarien des candidats à l’immigration me donnent-ils droit aux frais de l’Ontario?",
+   "en": "Do OSAP or the Ontario Immigrant Nominee Program qualify me for Ontario fees?"
+  },
+  "answer": {
+   "fr": "Oui. Si tu reçois ou es admissible au RAFEO cette année, ou l’étais sans interruption d’études, l’Université vérifie elle-même ton statut, sans document à fournir. Si ta résidence permanente a été approuvée par le Programme ontarien des candidats à l’immigration, fournis ta lettre de confirmation de nomination et une preuve de résidence permanente ou d’approbation de principe.",
+   "en": "Yes. If you receive or are eligible for OSAP this year, or were and haven’t had a break in enrolment, the University checks your status itself, with no documents needed. If you were approved for permanent residency through the Ontario Immigrant Nominee Program, provide your Confirmation of Nomination letter and proof of permanent residence or approval in principle."
+  },
+  "sources": [
+   {
+    "label": "Out of province tuition fee exemptions",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/out-province-tuition-fee-exemptions"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-frais-ontariens-conjoint",
+  "category": "finances",
+  "keywords": [
+   "conjoint",
+   "spouse",
+   "union de fait",
+   "common-law",
+   "frais ontariens",
+   "ontario fees",
+   "avis de cotisation"
+  ],
+  "question": {
+   "fr": "Mon conjoint vit en Ontario : puis-je payer les frais de l’Ontario?",
+   "en": "My spouse lives in Ontario: can I pay Ontario fees?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es étudiant indépendant et que l’Ontario est la dernière province où ton conjoint a vécu 12 mois consécutifs. Il faut une preuve de mariage ou d’union de fait de trois ans, ou de cohabitation avec un enfant à charge, plus l’avis de cotisation de ton conjoint, ou son bail ou compte de taxes foncières et un autre document comme une facture.",
+   "en": "Yes, if you’re an independent student and Ontario is the last province where your spouse lived for 12 consecutive months. You need proof of marriage or three years of common-law status, or of cohabitation with a dependent child, plus your spouse’s Notice of Assessment, or their lease or property tax bill and another document such as a utility bill."
+  },
+  "sources": [
+   {
+    "label": "Out of province tuition fee exemptions",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/out-province-tuition-fee-exemptions"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourse-admission-internationale-anglais",
+  "category": "finances",
+  "keywords": [
+   "bourse internationale",
+   "international scholarship",
+   "programme en anglais",
+   "english program",
+   "7 500",
+   "60 000",
+   "bourse automatique"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international dans un programme en anglais : y a-t-il une bourse d’admission?",
+   "en": "I’m an international student in an English program: is there an admission scholarship?"
+  },
+  "answer": {
+   "fr": "Oui, la Bourse d’admission internationale en anglais est automatique : 7 500 $ par trimestre, jusqu’à 12 versements, soit 60 000 $ sur quatre ans. Il faut un permis d’études, une moyenne d’admission d’au moins 80 %, être inscrit à temps plein dans un programme en anglais approuvé en Arts, Génie, Sciences de la santé, Sciences, Sciences sociales ou à Telfer, sans l’immersion française.",
+   "en": "Yes, the International English Admission Scholarship is automatic: $7,500 per term, up to 12 instalments, or $60,000 over four years. You need a study permit, an admission average of at least 80%, and full-time enrolment in an approved English program in Arts, Engineering, Health Sciences, Science, Social Sciences or Telfer, without French Immersion."
+  },
+  "sources": [
+   {
+    "label": "Scholarships for international students studying in English",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/international-english-scholarship"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourse-excellence-internationale-anglais",
+  "category": "finances",
+  "keywords": [
+   "bourse excellence",
+   "academic excellence scholarship",
+   "international",
+   "95 %",
+   "10 000",
+   "programme en anglais",
+   "english program"
+  ],
+  "question": {
+   "fr": "Existe-t-il une bourse d’excellence pour les étudiants internationaux en anglais?",
+   "en": "Is there an excellence scholarship for international students in English programs?"
+  },
+  "answer": {
+   "fr": "Oui, la bourse internationale d’excellence académique en anglais vaut 10 000 $, versés 5 000 $ par trimestre, et 100 bourses sont offertes. Il faut une moyenne d’admission d’au moins 95 % et les mêmes conditions que la bourse d’admission. Elle n’est pas renouvelable, mais se cumule avec la Bourse d’admission internationale en anglais.",
+   "en": "Yes, the International English Academic Excellence Scholarship is worth $10,000, paid $5,000 per term, with 100 awards available. You need an admission average of at least 95% and the same conditions as the admission scholarship. It isn’t renewable, but it can be combined with the International English Admission Scholarship."
+  },
+  "sources": [
+   {
+    "label": "Scholarships for international students studying in English",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/international-english-scholarship"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourse-internationale-double-citoyennete",
+  "category": "finances",
+  "keywords": [
+   "double citoyenneté",
+   "dual citizenship",
+   "bourse internationale",
+   "international scholarship",
+   "frais canadiens",
+   "domestic fees",
+   "admissible"
+  ],
+  "question": {
+   "fr": "J’ai la double citoyenneté canadienne : ai-je droit aux bourses internationales?",
+   "en": "I’m a dual Canadian citizen: can I get international scholarships?"
+  },
+  "answer": {
+   "fr": "Non : les bourses internationales en anglais et l’exonération des droits différentiels sont réservées aux étudiants qui paient les droits internationaux. Comme citoyen canadien, même avec une autre citoyenneté, tu as déjà droit aux droits canadiens, donc tu n’es pas admissible.",
+   "en": "No: the international English scholarships and the differential tuition fee exemption are only for students who pay international tuition. As a Canadian citizen, even with another citizenship, you already qualify for Canadian rates, so you’re not eligible."
+  },
+  "sources": [
+   {
+    "label": "Scholarships for international students studying in English",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/international-english-scholarship"
+   },
+   {
+    "label": "Differential Tuition Fee Exemption Scholarship",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/differential-tuition-fee-exemption-scholarship"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exoneration-differentielle-premier-cycle",
+  "category": "finances",
+  "keywords": [
+   "exonération droits différentiels",
+   "differential tuition fee exemption",
+   "étudiant international francophone",
+   "francophone international",
+   "programme en français",
+   "immersion",
+   "bourse"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international et j’étudie en français : mes droits sont-ils réduits?",
+   "en": "I’m an international student studying in French: are my fees reduced?"
+  },
+  "answer": {
+   "fr": "Oui, grâce à la Bourse d’exonération des droits différentiels. Tu dois accepter une offre dans un programme en français, ou en anglais avec le régime d’immersion en français, être inscrit à temps plein et suivre au moins trois cours en français par trimestre, soit 9 unités. Elle réduit beaucoup tes droits de scolarité.",
+   "en": "Yes, through the Differential Tuition Fee Exemption Scholarship. You must accept an offer to a French-language program, or an English program with the French Immersion Stream, be enrolled full time and take at least three courses in French per term, or 9 units. It reduces your tuition considerably."
+  },
+  "sources": [
+   {
+    "label": "Differential Tuition Fee Exemption Scholarship",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/differential-tuition-fee-exemption-scholarship"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exoneration-differentielle-montants",
+  "category": "finances",
+  "keywords": [
+   "montant exonération",
+   "exemption amount",
+   "16 000",
+   "18 000",
+   "12 500",
+   "droits différentiels",
+   "differential"
+  ],
+  "question": {
+   "fr": "Combien vaut l’exonération des droits différentiels au baccalauréat?",
+   "en": "How much is the differential tuition fee exemption for undergraduates?"
+  },
+  "answer": {
+   "fr": "Pour les étudiants qui ont commencé à l’hiver 2024 ou après, c’est par trimestre admissible : 16 000 $ à Telfer, 18 000 $ en génie et dans certains programmes conjoints de sciences et génie, et 12 500 $ dans la plupart des autres facultés. Si le montant change, tu gardes celui indiqué dans ton offre tant que tu respectes les conditions.",
+   "en": "For students who started in Winter 2024 or later, it’s per eligible term: $16,000 at Telfer, $18,000 in Engineering and some joint science-engineering programs, and $12,500 in most other faculties. If the amount changes, you keep the one in your offer as long as you meet the conditions."
+  },
+  "sources": [
+   {
+    "label": "Differential Tuition Fee Exemption Scholarship",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/differential-tuition-fee-exemption-scholarship"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exoneration-differentielle-maintien",
+  "category": "finances",
+  "keywords": [
+   "garder exonération",
+   "keep exemption",
+   "renouvellement",
+   "renewal",
+   "coop",
+   "co-op",
+   "12 versements"
+  ],
+  "question": {
+   "fr": "Comment garder mon exonération des droits différentiels pendant mon baccalauréat?",
+   "en": "How do I keep my differential tuition fee exemption during my bachelor’s?"
+  },
+  "answer": {
+   "fr": "Tu dois être inscrit à temps plein chaque trimestre, suivre au moins trois cours en français, soit 9 unités, et rester dans un programme approuvé en français ou en immersion. Elle peut être versée jusqu’à 12 fois. Attention : en coop, tu n’y as pas droit pendant tes stages de travail.",
+   "en": "You must be enrolled full time every term, take at least three courses in French, or 9 units, and stay in an approved French or French Immersion program. It can be paid up to 12 times. Note: co-op students aren’t eligible during their work terms."
+  },
+  "sources": [
+   {
+    "label": "Differential Tuition Fee Exemption Scholarship",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/differential-tuition-fee-exemption-scholarship"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exoneration-differentielle-ete",
+  "category": "finances",
+  "keywords": [
+   "printemps-été",
+   "spring-summer",
+   "exonération été",
+   "summer exemption",
+   "temps partiel",
+   "part time",
+   "50 %"
+  ],
+  "question": {
+   "fr": "Ai-je l’exonération des droits différentiels au printemps-été?",
+   "en": "Do I get the differential tuition exemption in spring-summer?"
+  },
+  "answer": {
+   "fr": "Oui, mais tu dois en faire la demande dans l’outil Bourses en ligne. À temps plein avec au moins deux cours en français, tu reçois le plein montant. À temps partiel, avec au moins deux cours dont un en français, tu reçois 50 %, ce qui compte quand même comme un de tes 12 versements.",
+   "en": "Yes, but you must apply in the Online Scholarships and Bursaries tool. Full time with at least two courses in French, you get the full amount. Part time, with at least two courses including one in French, you get 50%, which still counts as one of your 12 payments."
+  },
+  "sources": [
+   {
+    "label": "Differential Tuition Fee Exemption Scholarship",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/differential-tuition-fee-exemption-scholarship"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-exoneration-differentielle-maitrise",
+  "category": "finances",
+  "keywords": [
+   "exonération maîtrise",
+   "master’s exemption",
+   "droits différentiels",
+   "differential",
+   "cycles supérieurs",
+   "graduate",
+   "deux ans"
+  ],
+  "question": {
+   "fr": "L’exonération des droits différentiels existe-t-elle à la maîtrise?",
+   "en": "Is there a differential tuition fee exemption for master’s students?"
+  },
+  "answer": {
+   "fr": "Oui, si tu es inscrit à temps plein à la maîtrise et que ton programme est offert seulement en français, ou si tu as un diplôme attestant au moins deux ans d’études en français et suis les cours obligatoires en français. Elle dure au plus deux ans, soit six versements, et ne se cumule pas avec la Bourse d’études pour étudiants internationaux à la maîtrise. Le montant dépend du programme.",
+   "en": "Yes, if you’re enrolled full time in a master’s program offered only in French, or you hold a diploma showing at least two years of study in French and take the compulsory courses in French. It lasts up to two years, or six payments, and can’t be combined with the Education Bursary for International Master’s Students. The amount depends on the program."
+  },
+  "sources": [
+   {
+    "label": "Differential Tuition Fee Exemption Scholarship",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/differential-tuition-fee-exemption-scholarship"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourse-fls",
+  "category": "finances",
+  "keywords": [
+   "français langue seconde",
+   "french as a second language",
+   "bourse fls",
+   "fsl bursary",
+   "3 000",
+   "acufc",
+   "anglophone"
+  ],
+  "question": {
+   "fr": "Y a-t-il une bourse pour les anglophones qui étudient en français?",
+   "en": "Is there a bursary for English speakers studying in French?"
+  },
+  "answer": {
+   "fr": "Oui, la Bourse pour études postsecondaires en français langue seconde vaut 3 000 $. Il faut avoir l’anglais comme première langue officielle, avoir terminé ton secondaire dans un établissement anglophone ou d’une autre langue non officielle, être à temps plein dans un programme en français ou en immersion, et suivre au moins deux cours en français par trimestre. La date limite est le 31 mars, et elle se cumule avec d’autres bourses.",
+   "en": "Yes, the Bursary for Postsecondary Studies in French as a Second Language is worth $3,000. You must have English as your first official language, have graduated from an English-language or non-official-language secondary school, be full time in a French or French Immersion program, and take at least two courses in French per term. The deadline is March 31, and it can be combined with other awards."
+  },
+  "sources": [
+   {
+    "label": "Scholarships and awards overview",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-concours-admission-francophones",
+  "category": "finances",
+  "keywords": [
+   "concours",
+   "contests",
+   "bourse admission",
+   "admission awards",
+   "french for the future",
+   "canadian parents for french",
+   "immersion"
+  ],
+  "question": {
+   "fr": "Y a-t-il des concours pour gagner des bourses d’admission?",
+   "en": "Are there contests to win admission awards?"
+  },
+  "answer": {
+   "fr": "Oui, les élèves francophones et en immersion française peuvent participer à des concours pour gagner des prix d’admission, dont certains offerts par Le français pour l’avenir, Canadian Parents for French ou l’ACUFC. La liste complète se trouve dans l’outil Bourses en ligne, et la valeur varie.",
+   "en": "Yes, Francophone and French immersion students can enter contests to win admission awards, some offered through French for the Future, Canadian Parents for French or the ACUFC. The full list is in the Online Scholarships and Bursaries tool, and values vary."
+  },
+  "sources": [
+   {
+    "label": "Scholarships and awards overview",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourse-fss-internationale",
+  "category": "finances",
+  "keywords": [
+   "sciences sociales",
+   "social sciences",
+   "bourse internationale",
+   "international scholarship",
+   "1 500",
+   "92 %",
+   "doyen"
+  ],
+  "question": {
+   "fr": "Y a-t-il une bourse pour les étudiants internationaux en sciences sociales?",
+   "en": "Is there a scholarship for international students in Social Sciences?"
+  },
+  "answer": {
+   "fr": "Oui, le Prix d’excellence du doyen de la Faculté des sciences sociales pour étudiants internationaux vaut 1 500 $. Il s’adresse aux étudiants internationaux qui paient les droits internationaux, inscrits à temps plein pour la première fois au premier cycle à la Faculté, avec une moyenne d’admission d’au moins 92 %.",
+   "en": "Yes, the Faculty of Social Sciences Dean’s Excellence Award for International Students is worth $1,500. It’s for international students paying international tuition, enrolled full time for the first time in an undergraduate program in the Faculty, with an admission average of at least 92%."
+  },
+  "sources": [
+   {
+    "label": "Scholarships and awards overview",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-bourse-handicap-internationale",
+  "category": "finances",
+  "keywords": [
+   "handicap",
+   "disability",
+   "étudiant international",
+   "international student",
+   "12 unités",
+   "bourse études",
+   "accommodements"
+  ],
+  "question": {
+   "fr": "Je suis étudiant international avec un handicap et je ne peux pas suivre une charge complète : y a-t-il de l’aide?",
+   "en": "I’m an international student with a disability and can’t take a full course load: is there help?"
+  },
+  "answer": {
+   "fr": "Oui, la Bourse d’études pour étudiants internationaux ayant un handicap peut aider si un handicap ou un problème de santé permanent t’empêche de suivre plus de 12 unités par trimestre. Contacte d’abord le Service d’accommodements scolaires pour vérifier ton admissibilité, puis fais ta demande chaque trimestre dans l’outil Bourses en ligne. Vérifie les dates limites sur la page des bourses.",
+   "en": "Yes, the Education Bursary for International Students with Disabilities can help if a permanent disability or medical condition prevents you from taking more than 12 units per term. First contact the Academic Accommodations Service to confirm eligibility, then apply each term in the Online Scholarships and Bursaries tool. Check the deadlines on the scholarships page."
+  },
+  "sources": [
+   {
+    "label": "Scholarships and awards overview",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zc-bourse-difference-bourse-aide",
+  "category": "finances",
+  "keywords": [
+   "bourse d’études",
+   "scholarship",
+   "bourse",
+   "bursary",
+   "différence",
+   "difference",
+   "besoin financier"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre une bourse d’excellence et une bourse d’aide financière?",
+   "en": "What’s the difference between a scholarship and a bursary?"
+  },
+  "answer": {
+   "fr": "Une bourse d’excellence, ou scholarship, récompense tes résultats scolaires, alors qu’une bourse d’aide financière, ou bursary, est accordée selon ton besoin financier. Tu trouves les deux dans l’outil Bourses en ligne, que tu peux utiliser dès que tu as fait ta demande d’admission et reçu ton identifiant uoAccès.",
+   "en": "A scholarship rewards academic achievement, while a bursary is awarded based on financial need. You’ll find both in the Online Scholarships and Bursaries tool, which you can use as soon as you’ve applied for admission and received your uoAccess ID."
+  },
+  "sources": [
+   {
+    "label": "Scholarships and awards overview",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-budget-fonds-urgence",
+  "category": "finances",
+  "keywords": [
+   "fonds d’urgence",
+   "emergency fund",
+   "épargne",
+   "savings",
+   "500",
+   "budget",
+   "emploi d’été"
+  ],
+  "question": {
+   "fr": "Combien devrais-je garder de côté en cas d’imprévu pendant mes études?",
+   "en": "How much should I keep aside for emergencies during my studies?"
+  },
+  "answer": {
+   "fr": "L’Université conseille de garder un fonds d’urgence d’environ 500 $ pendant tes études, pour ne pas dépendre du crédit ou des prêts. Épargne aussi une bonne partie de ton revenu d’emploi d’été : il peut couvrir une grande part de tes droits de l’automne.",
+   "en": "The University recommends keeping an emergency fund of about $500 throughout your studies, so you don’t have to rely on credit or loans. Also save much of your summer job income: it can cover a large part of your fall tuition."
+  },
+  "sources": [
+   {
+    "label": "Financial planning",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/financial-planning"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-carte-credit-conseils",
+  "category": "finances",
+  "keywords": [
+   "carte de crédit",
+   "credit card",
+   "crédit",
+   "credit",
+   "dettes",
+   "debt",
+   "marge de crédit"
+  ],
+  "question": {
+   "fr": "Comment utiliser une carte de crédit sans m’endetter pendant mes études?",
+   "en": "How do I use a credit card without falling into debt as a student?"
+  },
+  "answer": {
+   "fr": "Évite de garder un solde, lis bien ton contrat pour connaître les taux d’intérêt, ne paie rien que tu ne peux pas rembourser, garde une limite basse et vérifie tes relevés pour repérer la fraude. Un paiement préautorisé peut t’aider à toujours payer le solde. Une marge de crédit étudiante peut aussi servir de filet, car tu paies l’intérêt seulement sur le montant utilisé.",
+   "en": "Avoid carrying a balance, read your agreement to know the interest rates, don’t charge what you can’t pay off, keep your limit low and check statements for fraud. A pre-authorized payment can help you always pay the balance. A student line of credit can also be a safety net, since you only pay interest on what you use."
+  },
+  "sources": [
+   {
+    "label": "Financial planning",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/financial-planning"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-economiser-manuels",
+  "category": "finances",
+  "keywords": [
+   "manuels",
+   "textbooks",
+   "économiser",
+   "save money",
+   "livres usagés",
+   "used books",
+   "librairie"
+  ],
+  "question": {
+   "fr": "Comment économiser sur mes manuels scolaires?",
+   "en": "How can I save money on textbooks?"
+  },
+  "answer": {
+   "fr": "Commence par la librairie du campus, où tu peux louer, acheter usagé ou commander en ligne. Demande la liste de lectures à tes professeurs à l’avance pour comparer les prix, et vérifie si le livre est à la réserve de la bibliothèque, en version numérique ou si une édition précédente suffit. Une fois le cours fini, revends tes livres.",
+   "en": "Start with the campus bookstore, where you can rent, buy used or order online. Ask your professors for the reading list ahead of time to compare prices, and check whether the book is on library reserve, available electronically, or if an older edition will do. Once the course is over, sell your books."
+  },
+  "sources": [
+   {
+    "label": "Financial planning",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/financial-planning"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-rabais-etudiants",
+  "category": "finances",
+  "keywords": [
+   "rabais étudiants",
+   "student discounts",
+   "carte étudiante",
+   "student card",
+   "économiser",
+   "save money",
+   "gym inclus"
+  ],
+  "question": {
+   "fr": "Quels rabais puis-je obtenir comme étudiant?",
+   "en": "What discounts can I get as a student?"
+  },
+  "answer": {
+   "fr": "Garde ta carte étudiante sur toi et demande toujours s’il y a un rabais. L’Université mentionne par exemple des billets étudiants au Centre national des Arts, des logiciels moins chers à la librairie, des billets peu coûteux pour les Gee-Gees, et l’accès gratuit aux expositions permanentes des musées nationaux le jeudi soir. Les centres sportifs du campus sont déjà inclus dans tes frais.",
+   "en": "Carry your student card and always ask about discounts. The University mentions, for example, student tickets at the National Arts Centre, cheaper software at the bookstore, low-cost Gee-Gees tickets, and free access to national museums’ permanent exhibitions on Thursday nights. Campus fitness facilities are already included in your fees."
+  },
+  "sources": [
+   {
+    "label": "Financial planning",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/financial-planning"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-fafsa-etapes",
+  "category": "finances",
+  "keywords": [
+   "fafsa",
+   "g06686",
+   "prêts américains",
+   "us loans",
+   "direct loan",
+   "mpn",
+   "entrance counselling"
+  ],
+  "question": {
+   "fr": "Je suis Américain : quelles étapes suivre pour un Direct Loan à uOttawa?",
+   "en": "I’m American: what are the steps for a Direct Loan at uOttawa?"
+  },
+  "answer": {
+   "fr": "Remplis la FAFSA avec le code fédéral de l’Université, G06686, puis signe un Master Promissory Note chaque année. Si c’est ton premier emprunt, fais aussi l’entrance counselling en ligne. Enfin, soumets le formulaire United States Financial Aid Request dans le portail Bourses en ligne; tu recevras ensuite une lettre d’approbation de prêt par courriel.",
+   "en": "Complete the FAFSA using the University’s federal code, G06686, then sign a Master Promissory Note every academic year. If you’re a first-time borrower, also complete online entrance counselling. Finally, submit the United States Financial Aid Request in the Online Scholarships and Bursaries portal; you’ll then get a loan approval letter by email."
+  },
+  "sources": [
+   {
+    "label": "US residents",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/us-residents"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-prets-us-cours-en-ligne",
+  "category": "finances",
+  "keywords": [
+   "prêts américains",
+   "us loans",
+   "cours en ligne",
+   "online courses",
+   "demi-temps",
+   "half-time",
+   "programmes non approuvés"
+  ],
+  "question": {
+   "fr": "Avec un prêt fédéral américain, puis-je suivre des cours en ligne ou étudier à temps partiel?",
+   "en": "With a U.S. federal loan, can I take online courses or study part time?"
+  },
+  "answer": {
+   "fr": "Non pour les cours en ligne : depuis la fin de l’assouplissement de la loi CARES en juin 2023, tu dois être dans un programme en personne. Au premier cycle, tu dois avoir au moins une demi-charge, soit 6 unités par trimestre; aux cycles supérieurs, le temps plein est obligatoire. Les sciences infirmières, la médecine et le JD double canado-américain ne sont pas approuvés, ni le statut d’étudiant libre.",
+   "en": "Not online courses: since the CARES Act flexibility ended in June 2023, you must be in an in-person program. Undergraduates must be at least half time, or 6 units per term; graduate students must be full time. Nursing, Medicine and the Canadian-American Dual JD aren’t approved, nor is non-degree status."
+  },
+  "sources": [
+   {
+    "label": "US residents",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/us-residents"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-prets-us-echange",
+  "category": "finances",
+  "keywords": [
+   "prêts américains",
+   "us loans",
+   "échange",
+   "exchange",
+   "études à l’étranger",
+   "study abroad",
+   "25 %"
+  ],
+  "question": {
+   "fr": "Je reçois des prêts américains : puis-je partir en échange?",
+   "en": "I receive U.S. loans: can I go on exchange?"
+  },
+  "answer": {
+   "fr": "Pendant un échange officiel de uOttawa, tu restes étudiant de uOttawa : tu paies tes droits à l’Université et tu gardes tes prêts, mais tu ne peux pas faire plus de 25 % de ton programme dans l’établissement d’accueil, stages compris. Dans un programme d’études à l’étranger, tu paies l’autre école et dois t’arranger avec elle. Parle au Service de l’aide financière et des bourses avant de partir.",
+   "en": "On an official uOttawa exchange, you remain a uOttawa student: you pay tuition to the University and keep your loans, but you can’t complete more than 25% of your program at the host institution, internships included. In a study abroad program, you pay the other school and arrange aid with it. Talk to Financial Aid and Awards before applying."
+  },
+  "sources": [
+   {
+    "label": "US residents",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/us-residents"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-prets-us-versements",
+  "category": "finances",
+  "keywords": [
+   "prêts américains",
+   "us loans",
+   "versement",
+   "disbursement",
+   "frais de prêt",
+   "loan fee",
+   "septembre janvier mai"
+  ],
+  "question": {
+   "fr": "Quand vais-je recevoir mes prêts américains?",
+   "en": "When will I receive my U.S. loans?"
+  },
+  "answer": {
+   "fr": "Une fois ton financement approuvé, le Département de l’Éducation des États-Unis envoie les fonds à l’Université, généralement en deux ou trois versements égaux, en septembre, en janvier et en mai s’il y a lieu. Des frais de prêt sont déduits de chaque versement, mais tu dois rembourser tout le montant emprunté.",
+   "en": "Once your funding is approved, the U.S. Department of Education sends the funds to the University, usually in two or three equal instalments, in September, January and May if applicable. A loan fee is deducted from each disbursement, but you must repay the full amount borrowed."
+  },
+  "sources": [
+   {
+    "label": "US residents",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/us-residents"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-prets-us-progres-satisfaisant",
+  "category": "finances",
+  "keywords": [
+   "progrès satisfaisant",
+   "satisfactory academic progress",
+   "sap",
+   "prêts américains",
+   "us loans",
+   "moyenne",
+   "67 %"
+  ],
+  "question": {
+   "fr": "Quelles notes dois-je garder pour conserver mes prêts américains?",
+   "en": "What grades do I need to keep my U.S. loans?"
+  },
+  "answer": {
+   "fr": "Tes progrès sont vérifiés à la fin de chaque année. Au premier cycle, il faut une moyenne cumulative d’au moins 4,0, soit 60 à 64 %, réussir au moins 67 % des crédits tentés, et finir ton diplôme en moins de 150 % de la durée prévue. Sinon, tu n’as pas droit aux Direct Loans l’année suivante.",
+   "en": "Your progress is reviewed at the end of each year. Undergraduates need a cumulative GPA of at least 4.0, or 60 to 64%, must complete at least 67% of credits attempted, and finish within 150% of the published program length. Otherwise, you aren’t eligible for Direct Loans the following year."
+  },
+  "sources": [
+   {
+    "label": "US residents",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/us-residents"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-prets-us-double-citoyen",
+  "category": "finances",
+  "keywords": [
+   "double citoyen",
+   "dual citizen",
+   "canado-américain",
+   "us canadian",
+   "prêts américains",
+   "us loans",
+   "prêts canadiens"
+  ],
+  "question": {
+   "fr": "J’ai les citoyennetés américaine et canadienne : puis-je avoir des prêts des deux pays?",
+   "en": "I’m a U.S. and Canadian citizen: can I get loans from both countries?"
+  },
+  "answer": {
+   "fr": "Non, tu ne peux pas recevoir en même temps des prêts fédéraux américains et des prêts canadiens. Tu dois comparer les programmes et choisir celui qui convient le mieux à tes besoins. L’Université ne gère pas non plus les fonds VA ni les bourses Pell.",
+   "en": "No, you can’t receive U.S. federal loans and Canadian loans at the same time. You need to compare the programs and choose the one that best fits your needs. The University also doesn’t administer VA funding or Pell Grants."
+  },
+  "sources": [
+   {
+    "label": "US residents",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/us-residents"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-remboursement-lettre-justification",
+  "category": "finances",
+  "keywords": [
+   "comité de remboursement",
+   "reimbursement committee",
+   "lettre de justification",
+   "justification letter",
+   "appel",
+   "appeal",
+   "annulation des droits"
+  ],
+  "question": {
+   "fr": "Que doit contenir ma lettre pour le comité de remboursement des comptes étudiants (CÉRCÉ)?",
+   "en": "What should my letter to the Student Account Reimbursement Committee include?"
+  },
+  "answer": {
+   "fr": "Reste factuel et suis l’ordre chronologique : ton nom, ton numéro d’étudiant et la date, les circonstances exceptionnelles, ce que tu demandes et le résultat souhaité. Précise si c’est ta première demande pour ces circonstances, et explique pourquoi tu n’as pas pu abandonner avant la date limite. Joins tes pièces, comme un certificat médical ou une lettre de non-présence de tes professeurs.",
+   "en": "Stick to the facts in chronological order: your name, student number and the date, the exceptional circumstances, what you’re requesting and the outcome you want. Say whether it’s your first request for these circumstances, and explain why you couldn’t drop before the deadline. Attach supporting documents, such as a medical certificate or a non-attendance letter from your professors."
+  },
+  "sources": [
+   {
+    "label": "Reimbursement Committee",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/reimbursement-committee"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-remboursement-motifs-refuses",
+  "category": "finances",
+  "keywords": [
+   "motifs refusés",
+   "reasons denied",
+   "difficultés financières",
+   "financial hardship",
+   "comité de remboursement",
+   "reimbursement committee",
+   "abandon tardif"
+  ],
+  "question": {
+   "fr": "Quelles raisons ne sont pas acceptées pour annuler mes droits après la date limite?",
+   "en": "Which reasons aren’t accepted for cancelling fees after the deadline?"
+  },
+  "answer": {
+   "fr": "Les demandes sont refusées si la raison est de ne pas avoir compris les dates limites, un échec probable, un abandon raté dans l’outil en ligne, des difficultés financières, un cours qui ne répond pas à tes attentes, ou ton emploi. Les circonstances acceptables sont graves, comme une maladie avec certificat médical ou le décès d’un proche avec certificat de décès.",
+   "en": "Requests are denied if the reason is not understanding the deadlines, a probable failing grade, a failed attempt to drop online, financial hardship, a course not meeting your expectations, or work commitments. Acceptable circumstances are serious, like illness with a medical certificate or a family death with a death certificate."
+  },
+  "sources": [
+   {
+    "label": "Reimbursement Committee",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/reimbursement-committee"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-remboursement-irrecevable",
+  "category": "finances",
+  "keywords": [
+   "irrecevable",
+   "inadmissible",
+   "examen final",
+   "final exam",
+   "note au relevé",
+   "grade on transcript",
+   "10 jours ouvrables"
+  ],
+  "question": {
+   "fr": "Quand ma demande au CÉRCÉ sera-t-elle jugée irrecevable?",
+   "en": "When is my Reimbursement Committee appeal considered inadmissible?"
+  },
+  "answer": {
+   "fr": "Elle est irrecevable si tu l’envoies plus de 10 jours ouvrables après la décision de ta faculté ou d’InfoService, sans raison valable, si tu as fait l’examen final du cours, ou si une note figure déjà à ton relevé pour ce cours. Tu dois aussi avoir d’abord reçu une décision négative de ta faculté ou d’InfoService.",
+   "en": "It’s inadmissible if you send it more than 10 working days after your faculty’s or InfoService’s decision without a valid reason, if you wrote the final exam for the course, or if a grade already appears on your transcript for it. You must also first have received a negative decision from your faculty or InfoService."
+  },
+  "sources": [
+   {
+    "label": "Reimbursement Committee",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/reimbursement-committee"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-remboursement-certificat-medical",
+  "category": "finances",
+  "keywords": [
+   "certificat médical",
+   "medical certificate",
+   "raisons de santé",
+   "health reasons",
+   "diagnostic",
+   "comité de remboursement",
+   "reimbursement"
+  ],
+  "question": {
+   "fr": "Que doit contenir mon certificat médical pour une demande de remboursement?",
+   "en": "What must my medical certificate include for a refund request?"
+  },
+  "answer": {
+   "fr": "Il doit indiquer ton nom, la période d’absence, la date de retour aux études, la date de la consultation, la signature du professionnel, et dire clairement que tu ne pouvais pas abandonner avant la date limite. Tu n’as pas à révéler ton diagnostic. Attention : si tu vas en classe pendant la période d’incapacité indiquée, tu ne peux plus faire appel pour raisons de santé.",
+   "en": "It must show your name, the period of absence, your return date, the consultation date and the professional’s signature, and clearly state that you couldn’t drop by the deadline. You don’t have to disclose your diagnosis. Note: if you attend class during the stated period of incapacity, you can no longer appeal on health grounds."
+  },
+  "sources": [
+   {
+    "label": "Reimbursement Committee",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/reimbursement-committee"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-remboursement-soumettre-delai",
+  "category": "finances",
+  "keywords": [
+   "soumettre appel",
+   "submit appeal",
+   "uozone",
+   "finances et emplois",
+   "délai",
+   "processing time",
+   "un mois"
+  ],
+  "question": {
+   "fr": "Comment soumettre un appel au CÉRCÉ, et en combien de temps aurai-je une réponse?",
+   "en": "How do I submit a Reimbursement Committee appeal, and how long does it take?"
+  },
+  "answer": {
+   "fr": "Dans uoZone, sous l’onglet Finances et emplois, choisis comité de remboursement des comptes étudiants (CÉRCÉ) et téléverse ta lettre et tes pièces. Tu reçois normalement un accusé de réception le jour même; sinon, renvoie ta demande après 24 heures. Le comité a un mois pour l’examiner et se réunit habituellement chaque mois; la décision arrive par courriel.",
+   "en": "In uoZone, under Finances and jobs, select Student Account Reimbursement Committee and upload your letter and documents. You normally get an automatic acknowledgment the same day; if not, resubmit after 24 hours. The committee has one month to review it and usually meets monthly; the decision comes by email."
+  },
+  "sources": [
+   {
+    "label": "Reimbursement Committee",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/reimbursement-committee"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-remboursement-revision-decision",
+  "category": "finances",
+  "keywords": [
+   "décision injuste",
+   "unfair decision",
+   "comité d’appel",
+   "appeals committee",
+   "ressources financières",
+   "financial resources",
+   "nouvelle information"
+  ],
+  "question": {
+   "fr": "Je trouve injuste la décision du CÉRCÉ : puis-je la contester?",
+   "en": "I think the Reimbursement Committee’s decision is unfair: can I challenge it?"
+  },
+  "answer": {
+   "fr": "Si tu as de nouvelles informations, soumets une nouvelle demande au comité, qui réexaminera ton dossier. Sinon, tu peux demander une révision au Comité d’appel des Ressources financières, par courriel, avec une nouvelle lettre, ta demande initiale et ses pièces, et la réponse du comité. Ta demande est évaluée dans les 10 jours ouvrables.",
+   "en": "If you have new information, submit a new request to the committee, which will re-examine your file. Otherwise, you can ask the Financial Resources Appeal Committee for a review by email, with a new letter, your original request and documents, and the committee’s response. It’s assessed within 10 working days."
+  },
+  "sources": [
+   {
+    "label": "Reimbursement Committee",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/reimbursement-committee"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-agence-recouvrement-calendrier",
+  "category": "finances",
+  "keywords": [
+   "agence de recouvrement",
+   "collection agency",
+   "compte en souffrance",
+   "overdue account",
+   "cote de crédit",
+   "credit rating",
+   "dette"
+  ],
+  "question": {
+   "fr": "Quand un compte en souffrance est-il envoyé à une agence de recouvrement?",
+   "en": "When is an overdue account sent to a collection agency?"
+  },
+  "answer": {
+   "fr": "Quel que soit ton dernier trimestre d’inscription, automne, hiver ou été, le dossier est transféré au trimestre d’automne suivant. L’Université t’écrit d’abord par courriel, alors garde tes coordonnées à jour. Ensuite, réponds vite à l’agence pour conclure une entente de paiement, car cela peut nuire à ta cote de crédit.",
+   "en": "Whatever your last registered term, fall, winter or summer, the file is transferred the following fall term. The University emails you first, so keep your contact information up to date. Then answer the agency promptly to reach a payment agreement, because it can affect your credit rating."
+  },
+  "sources": [
+   {
+    "label": "Overdue accounts",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/overdue"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-dette-faillite-documents",
+  "category": "finances",
+  "keywords": [
+   "faillite",
+   "bankruptcy",
+   "proposition de consommateur",
+   "consumer proposal",
+   "dette",
+   "debt",
+   "documents officiels"
+  ],
+  "question": {
+   "fr": "J’ai fait faillite : puis-je obtenir mon diplôme si je dois encore de l’argent à l’Université?",
+   "en": "I declared bankruptcy: can I get my diploma if I still owe the University?"
+  },
+  "answer": {
+   "fr": "Non : selon les règlements B-7 et C-9.4, un étudiant qui doit de l’argent à l’Université ne peut obtenir aucun document officiel, comme un relevé ou un diplôme, même après une faillite ou une proposition de consommateur. Tu peux quand même assister à la collation des grades. Pour en parler, contacte les Ressources financières au pavillon Tabaret.",
+   "en": "No: under regulations B-7 and C-9.4, a student who owes the University can’t obtain any official document, like a transcript or diploma, even after bankruptcy or a consumer proposal. You can still attend convocation. To discuss it, contact Financial Resources in Tabaret Hall."
+  },
+  "sources": [
+   {
+    "label": "Overdue accounts",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/student-accounts/overdue"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-langue-pas-citoyennete",
+  "category": "international",
+  "keywords": [
+   "exigences linguistiques",
+   "language requirements",
+   "citoyenneté",
+   "citizenship",
+   "pays d’études",
+   "country of study",
+   "langue d’enseignement"
+  ],
+  "question": {
+   "fr": "Je suis citoyen d’un pays anglophone : suis-je automatiquement exempté du test d’anglais?",
+   "en": "I’m a citizen of an English-speaking country: am I automatically exempt from the English test?"
+  },
+  "answer": {
+   "fr": "Non : les exigences linguistiques ne dépendent pas de ta citoyenneté, mais du pays où tu as étudié et de la langue d’enseignement de ton établissement. Pour être exempté, il faut au moins trois ans d’études à temps plein dans un pays où la langue est officielle, dans un établissement où c’est la seule langue d’enseignement. Ces trois ans peuvent être tes 10e, 11e et 12e années.",
+   "en": "No: language requirements aren’t based on citizenship, but on your country of study and the language of instruction at your school. To be exempt, you need at least three years of full-time study in a country where the language is official, at an institution where it’s the only language of instruction. Those three years can be Grades 10, 11 and 12."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-pays-exemption-anglais",
+   "zc-pays-exemption-francais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-pays-exemption-anglais",
+  "category": "international",
+  "keywords": [
+   "exemption anglais",
+   "english exemption",
+   "pays anglophones",
+   "english-speaking countries",
+   "nigeria",
+   "ghana",
+   "inde"
+  ],
+  "question": {
+   "fr": "Mon pays fait-il partie de ceux qui permettent une exemption du test d’anglais?",
+   "en": "Is my country one that allows an English test exemption?"
+  },
+  "answer": {
+   "fr": "La liste comprend notamment les États-Unis, le Royaume-Uni, l’Irlande, l’Australie, la Nouvelle-Zélande, le Nigeria, le Ghana, le Kenya, l’Afrique du Sud, Singapour, Hong Kong, les Philippines, le Pakistan, la Jamaïque et le Cameroun, système anglophone seulement. Il faut trois ans d’études à temps plein dans un établissement où l’anglais est la seule langue d’enseignement. L’Inde n’y figure pas, mais un résultat de 75 % en anglais de 12e année CBSE ou CISCE peut donner une exemption.",
+   "en": "The list includes, among others, the United States, the United Kingdom, Ireland, Australia, New Zealand, Nigeria, Ghana, Kenya, South Africa, Singapore, Hong Kong, the Philippines, Pakistan, Jamaica and Cameroon, English system only. You need three years of full-time study at an institution where English is the only language of instruction. India isn’t on the list, but 75% in CBSE or CISCE Grade 12 English can qualify you for an exemption."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-francais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-pays-exemption-francais",
+  "category": "international",
+  "keywords": [
+   "exemption français",
+   "french exemption",
+   "pays francophones",
+   "french-speaking countries",
+   "sénégal",
+   "maroc",
+   "cameroun"
+  ],
+  "question": {
+   "fr": "Mon pays permet-il une exemption du test de français?",
+   "en": "Does my country allow a French test exemption?"
+  },
+  "answer": {
+   "fr": "La liste comprend notamment la France, la Belgique, la Suisse, le Luxembourg, Monaco, Haïti, le Sénégal, la Côte d’Ivoire, le Mali, le Bénin, le Burkina Faso, la Tunisie, l’Algérie, Madagascar et le Cameroun, système francophone seulement. Il faut trois ans d’études à temps plein dans un établissement où le français est la seule langue d’enseignement. Le Maroc n’est pas dans la liste; en cas de doute, contacte les admissions.",
+   "en": "The list includes, among others, France, Belgium, Switzerland, Luxembourg, Monaco, Haiti, Senegal, Ivory Coast, Mali, Benin, Burkina Faso, Tunisia, Algeria, Madagascar and Cameroon, French system only. You need three years of full-time study at an institution where French is the only language of instruction. Morocco isn’t on the list; if you’re unsure, contact admissions."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-pays-annee-universite-requise",
+  "category": "international",
+  "keywords": [
+   "myanmar",
+   "turkménistan",
+   "turkmenistan",
+   "pérou",
+   "peru",
+   "philippines",
+   "première année université"
+  ],
+  "question": {
+   "fr": "Mon diplôme secondaire suffit-il pour entrer au baccalauréat si je viens du Myanmar, du Pérou ou des Philippines?",
+   "en": "Is my high school diploma enough for a bachelor’s if I’m from Myanmar, Peru or the Philippines?"
+  },
+  "answer": {
+   "fr": "Pas toujours. Pour le Myanmar et le Turkménistan, il faut avoir terminé une première année dans une université reconnue. Pour le Pérou, il faut le Bachillerato Académico avec un excellent dossier, sinon une première année universitaire. Pour les Philippines, le diplôme Senior High School suffit, mais si tu l’as obtenu en 2017-2018 ou avant, il faut deux ans d’études universitaires.",
+   "en": "Not always. For Myanmar and Turkmenistan, you need to have completed a first year at a recognized university. For Peru, you need the Bachillerato Académico with high academic standing, otherwise a first year of university. For the Philippines, the Senior High School Diploma is enough, but if you finished it in 2017–2018 or earlier, you need two years of university study."
+  },
+  "sources": [
+   {
+    "label": "International applicants",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-releves-retard-moyen-orient",
+  "category": "international",
+  "keywords": [
+   "moyen-orient",
+   "middle east",
+   "examens retardés",
+   "delayed exams",
+   "relevé non officiel",
+   "unofficial transcript",
+   "déclaration sous serment"
+  ],
+  "question": {
+   "fr": "Mes examens officiels sont retardés à cause de la situation dans mon pays : que fait l’Université?",
+   "en": "My official exams are delayed because of the situation in my country: what does the University do?"
+  },
+  "answer": {
+   "fr": "L’Université sait que certains examens au Moyen-Orient peuvent être retardés, mais elle ne peut pas reporter les offres conditionnelles : envoie tes résultats finaux dès que tu les as. Dans des circonstances exceptionnelles documentées, un relevé non officiel accompagné d’une déclaration sous serment peut être accepté. Par contre, les crédits de transfert exigent des documents officiels.",
+   "en": "The University knows some official exams in the Middle East may be delayed, but it can’t defer conditional offers: submit your final results as soon as they’re available. In documented extenuating circumstances, unofficial transcripts with a sworn affidavit may be accepted. However, transfer credits require official documents."
+  },
+  "sources": [
+   {
+    "label": "I've been admitted",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/applied/admitted"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-maitrise-doctorat-sans-pal",
+  "category": "international",
+  "keywords": [
+   "maîtrise",
+   "master’s",
+   "doctorat",
+   "phd",
+   "lettre d’attestation provinciale",
+   "pal",
+   "dépôt d’admission"
+  ],
+  "question": {
+   "fr": "Je suis admis à la maîtrise ou au doctorat : ai-je besoin d’une lettre d’attestation provinciale?",
+   "en": "I’m admitted to a master’s or PhD: do I need a provincial attestation letter?"
+  },
+  "answer": {
+   "fr": "Non : les demandes de permis d’études pour la maîtrise ou le doctorat soumises depuis le 1er janvier 2026 n’exigent pas de lettre d’attestation provinciale. Les étudiants internationaux à la maîtrise et au doctorat n’ont pas non plus de dépôt d’admission à payer, sauf si leur programme en exige un. Fais ta demande de permis dès que tu as ta lettre d’admission.",
+   "en": "No: study permit applications for master’s or PhD programs submitted since January 1, 2026 don’t require a provincial attestation letter. International master’s and doctoral students also don’t pay an admission deposit, unless their program requires one. Apply for your permit as soon as you have your letter of admission."
+  },
+  "sources": [
+   {
+    "label": "International students checklist",
+    "url": "https://www.uottawa.ca/study/new-students/international-students-checklist"
+   },
+   {
+    "label": "Apply for your study permit from outside Canada",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-documents-bureau-visas",
+  "category": "international",
+  "keywords": [
+   "bureau des visas",
+   "visa office",
+   "documents supplémentaires",
+   "additional documents",
+   "permis d’études",
+   "study permit",
+   "client information"
+  ],
+  "question": {
+   "fr": "Y a-t-il des documents propres à mon pays pour ma demande de permis d’études?",
+   "en": "Are there country-specific documents for my study permit application?"
+  },
+  "answer": {
+   "fr": "Oui, en plus de la liste personnelle générée par IRCC, le bureau des visas de ton pays peut exiger d’autres documents. Sur la page d’IRCC pour les demandes papier, choisis ton pays, clique sur Obtenir les documents, puis sur les instructions du bureau des visas. Téléverse ces documents dans la section Client Information de ta liste.",
+   "en": "Yes, besides the personal checklist generated by IRCC, your country’s visa office may require more documents. On IRCC’s paper applications page, select your country, click Get documents, then Visa office instructions. Upload those documents in the Client Information section of your checklist."
+  },
+  "sources": [
+   {
+    "label": "Apply for your study permit from outside Canada",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-permis-refus-nouvelle-demande",
+  "category": "international",
+  "keywords": [
+   "permis refusé",
+   "permit refused",
+   "nouvelle demande",
+   "reapply",
+   "lettre d’explication",
+   "letter of explanation",
+   "nouvelle pal"
+  ],
+  "question": {
+   "fr": "Mon permis d’études a été refusé : comment présenter une nouvelle demande?",
+   "en": "My study permit was refused: how do I reapply?"
+  },
+  "answer": {
+   "fr": "Lis attentivement les raisons du refus d’IRCC. Si tu peux y répondre, prépare une nouvelle lettre d’explication et un plan d’études qui abordent ces raisons, tes objectifs, tes liens avec ton pays et tes projets. Si une lettre d’attestation provinciale est requise, demandes-en une nouvelle aux admissions par courriel avec la preuve du refus.",
+   "en": "Read IRCC’s reasons for refusal carefully. If you can address them, prepare a new letter of explanation and study plan covering those reasons, your goals, your ties to your home country and your plans. If a provincial attestation letter is required, request a new one from admissions by email with proof of the refusal."
+  },
+  "sources": [
+   {
+    "label": "Apply for your study permit from outside Canada",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-permis-refus-depot",
+  "category": "international",
+  "keywords": [
+   "dépôt remboursé",
+   "deposit refund",
+   "permis refusé",
+   "permit refused",
+   "abandon cours",
+   "drop courses",
+   "preuve de refus"
+  ],
+  "question": {
+   "fr": "Si mon permis est refusé, est-ce que je récupère mon dépôt d’admission?",
+   "en": "If my permit is refused, do I get my admission deposit back?"
+  },
+  "answer": {
+   "fr": "Oui, c’est la seule exception : le dépôt est remboursable si IRCC refuse ta demande de permis. Tu dois fournir la preuve du refus et demander le remboursement au plus tard le dernier jour pour s’inscrire au trimestre où tu devais commencer. Si tu es déjà inscrit, abandonne tes cours avant la date limite avec crédit financier.",
+   "en": "Yes, it’s the only exception: the deposit is refundable if IRCC refuses your permit application. You must provide proof of refusal and request the refund by the last day to enrol for the term you were supposed to start. If you’re already enrolled, drop your courses before the financial credit deadline."
+  },
+  "sources": [
+   {
+    "label": "Apply for your study permit from outside Canada",
+    "url": "https://www.uottawa.ca/study/international-students/immigration/studying-in-canada/how-to-apply-for-study-permit-from-outside-canada"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-ramu-qui-contacter",
+  "category": "international",
+  "keywords": [
+   "ramu",
+   "uhip",
+   "cowan",
+   "qui contacter",
+   "who to contact",
+   "réclamation",
+   "claim"
+  ],
+  "question": {
+   "fr": "Pour une question sur le RAMU, dois-je contacter Cowan ou l’Université?",
+   "en": "For a UHIP question, do I contact Cowan or the University?"
+  },
+  "answer": {
+   "fr": "Contacte Cowan, l’assureur, pour une réclamation, une question sur la couverture, l’inscription au portail, l’accès à ta carte ou une lettre confirmant ta couverture. Contacte l’équipe RAMU de l’Université, à InfoService, pour modifier tes renseignements personnels, ajouter ou retirer des personnes à charge, les primes, ou prolonger ou annuler ta couverture. En cas d’hospitalisation, tu peux joindre les deux.",
+   "en": "Contact Cowan, the insurer, for claims, coverage questions, portal registration, card access or a letter confirming your coverage. Contact the University’s UHIP team at InfoService to update personal information, add or remove dependants, ask about premiums, or extend or cancel coverage. If you or a dependant is hospitalized, you can reach either."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP)",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-ramu-admissibilite",
+  "category": "international",
+  "keywords": [
+   "ramu",
+   "uhip",
+   "admissibilité",
+   "eligibility",
+   "cours de langue",
+   "language courses",
+   "obligatoire"
+  ],
+  "question": {
+   "fr": "Qui doit avoir le RAMU?",
+   "en": "Who has to have UHIP?"
+  },
+  "answer": {
+   "fr": "Le RAMU est obligatoire pour les étudiants internationaux et en échange et leurs personnes à charge, sauf s’ils ont déjà un régime provincial ou territorial canadien, ou une autre assurance approuvée pour une exemption. Il couvre aussi les étudiants libres inscrits aux cours de langue de l’Institut des langues officielles et du bilinguisme et les visiteurs de courte durée.",
+   "en": "UHIP is mandatory for international and exchange students and their dependants, unless they already have a Canadian provincial or territorial plan, or another plan approved for an exemption. It also covers non-degree students in language courses at the Official Languages and Bilingualism Institute and short-term visitors."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP)",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-ramu-periodes-inscription",
+  "category": "international",
+  "keywords": [
+   "ramu",
+   "uhip",
+   "période de couverture",
+   "coverage period",
+   "inscription automatique",
+   "automatic enrolment",
+   "relevé de compte"
+  ],
+  "question": {
+   "fr": "Comment savoir si je suis bien inscrit au RAMU, et pour quelle période?",
+   "en": "How do I know I’m enrolled in UHIP, and for what period?"
+  },
+  "answer": {
+   "fr": "Tu es inscrit automatiquement chaque année dès que tu es inscrit à au moins un cours. La couverture suit l’année universitaire, du 1er septembre au 31 août, pour l’année, deux trimestres ou un seul selon ton début. Vérifie ton relevé de compte environ un mois avant les cours; si les frais n’y sont pas au début de tes études, écris à l’équipe RAMU d’InfoService.",
+   "en": "You’re enrolled automatically every year once you’re enrolled in at least one course. Coverage follows the academic year, September 1 to August 31, for the full year, two terms or one term depending on when you start. Check your statement of account about a month before classes; if the fee isn’t there when you start, email InfoService’s UHIP team."
+  },
+  "sources": [
+   {
+    "label": "University Health Insurance Plan (UHIP)",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-deux-assurances-sante",
+  "category": "international",
+  "keywords": [
+   "assurance santé",
+   "health insurance",
+   "ramu",
+   "uhip",
+   "assurance complémentaire",
+   "supplemental insurance",
+   "dentaire"
+  ],
+  "question": {
+   "fr": "Comme étudiant international, combien d’assurances santé dois-je avoir?",
+   "en": "As an international student, how many health insurance plans do I need?"
+  },
+  "answer": {
+   "fr": "Deux : le RAMU, pour les soins essentiels comme les visites chez le médecin, l’hôpital, les chirurgies et les tests, et l’assurance santé et dentaire complémentaire, pour les médicaments, les soins dentaires, l’optométrie, certains spécialistes et l’assurance voyage. Au premier cycle, la seconde est gérée par le SÉUO et ajoutée automatiquement si tu es à temps plein; aux cycles supérieurs, elle est gérée par la GSAÉD.",
+   "en": "Two: UHIP, for essential care like doctor visits, hospital, surgeries and tests, and supplemental health and dental insurance, for prescriptions, dental care, optometry, some specialists and travel insurance. For undergraduates, the second is managed by the UOSU and added automatically if you’re full time; for graduate students, it’s managed by the GSAÉD."
+  },
+  "sources": [
+   {
+    "label": "International students checklist",
+    "url": "https://www.uottawa.ca/study/new-students/international-students-checklist"
+   },
+   {
+    "label": "University Health Insurance Plan (UHIP)",
+    "url": "https://www.uottawa.ca/study/international-students/university-health-insurance-plan-uhip"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-vice-rectorat-international",
+  "category": "international",
+  "keywords": [
+   "vice-recteur international",
+   "vice-provost international",
+   "partenariats",
+   "partnerships",
+   "mobilité",
+   "mobility",
+   "international"
+  ],
+  "question": {
+   "fr": "Qui s’occupe des activités internationales à l’Université?",
+   "en": "Who is in charge of international activities at the University?"
+  },
+  "answer": {
+   "fr": "Le vice-provost, International, et son équipe planifient et coordonnent les initiatives mondiales de l’Université : partenariats stratégiques, mobilité des étudiants et des professeurs, et soutien aux étudiants internationaux. L’équipe conseille aussi sur les ententes internationales et coordonne les visites officielles de délégations.",
+   "en": "The Vice-Provost, International and their team plan and coordinate the University’s global initiatives: strategic partnerships, student and faculty mobility, and support for international students. The team also advises on international agreements and coordinates official visits by delegations."
+  },
+  "sources": [
+   {
+    "label": "International (About us)",
+    "url": "https://www.uottawa.ca/about-us/international"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-international-portrait",
+  "category": "international",
+  "keywords": [
+   "étudiants internationaux",
+   "international students",
+   "pays",
+   "countries",
+   "classement",
+   "ranking",
+   "u15"
+  ],
+  "question": {
+   "fr": "D’où viennent les étudiants internationaux de uOttawa?",
+   "en": "Where do uOttawa’s international students come from?"
+  },
+  "answer": {
+   "fr": "Des étudiants de plus de 145 pays choisissent uOttawa pour la qualité de l’enseignement, ses droits de scolarité plus bas et sa situation au cœur de la capitale. L’Université, membre du U15 et de l’Alliance U7+, offre environ 550 programmes de premier cycle et des cycles supérieurs, et se classe 187e au classement mondial Times Higher Education 2026.",
+   "en": "Students from more than 145 countries choose uOttawa for its quality of education, lower tuition and location in the heart of the capital. A member of the U15 and the U7+ Alliance, the University offers about 550 undergraduate and graduate programs and ranks 187th in the Times Higher Education World University Rankings 2026."
+  },
+  "sources": [
+   {
+    "label": "Services for international students",
+    "url": "https://www.uottawa.ca/study/international-students"
+   },
+   {
+    "label": "International (About us)",
+    "url": "https://www.uottawa.ca/about-us/international"
+   }
+  ],
+  "related": [
+   "zc-lettre-pal-delai",
+   "zc-langue-pas-citoyennete",
+   "zc-pays-exemption-anglais"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-previsibilite-droits-internationaux",
+  "category": "finances",
+  "keywords": [
+   "prévisibilité",
+   "predictability",
+   "hausse droits",
+   "tuition increase",
+   "étudiant international",
+   "international student",
+   "7 %"
+  ],
+  "question": {
+   "fr": "Comme étudiant international, de combien mes droits peuvent-ils augmenter chaque année?",
+   "en": "As an international student, how much can my tuition go up each year?"
+  },
+  "answer": {
+   "fr": "Grâce à l’engagement de prévisibilité, la hausse est limitée à 7 % par année si tu as été admis à l’automne 2022 ou après, et à 5,5 % si tu as été admis au printemps-été 2022 ou avant. Il faut rester inscrit à temps plein et progresser normalement dans ton programme. Les nouveaux frais imposés par l’Ontario, les frais accessoires, afférents et administratifs ne sont pas visés.",
+   "en": "Under the tuition predictability commitment, increases are capped at 7% a year if you were admitted in Fall 2022 or later, and 5.5% if admitted in Spring-Summer 2022 or earlier. You must stay enrolled full time and progress normally in your program. New Ontario government fees, ancillary, incidental and administrative fees aren’t covered."
+  },
+  "sources": [
+   {
+    "label": "Tuition fees - International students",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/tuition-international"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-droits-internationaux-2026-2027",
+  "category": "finances",
+  "keywords": [
+   "droits internationaux",
+   "international tuition",
+   "2026-2027",
+   "inchangés",
+   "unchanged",
+   "hausse",
+   "increase"
+  ],
+  "question": {
+   "fr": "Les droits de scolarité internationaux augmentent-ils en 2026-2027?",
+   "en": "Is international tuition going up in 2026-2027?"
+  },
+  "answer": {
+   "fr": "Non : pour 2026-2027, les droits des étudiants internationaux au premier cycle, en première année comme aux années suivantes, sont inchangés par rapport à 2025-2026, et ceux de la maîtrise et du doctorat aussi. Le total officiel de tes frais apparaît dans ton relevé de compte environ un mois avant chaque trimestre. Vérifie la page des droits internationaux pour les années suivantes.",
+   "en": "No: for 2026-2027, international undergraduate tuition, for first year and returning students alike, is unchanged from 2025-2026, and master’s and doctoral tuition is unchanged too. The official total appears on your statement of account about a month before each term. Check the international tuition page for later years."
+  },
+  "sources": [
+   {
+    "label": "Tuition fees - International students",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/tuition-international"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zc-bourse-doctorale-internationale",
+  "category": "finances",
+  "keywords": [
+   "bourse doctorale internationale",
+   "international doctoral scholarship",
+   "doctorat",
+   "phd",
+   "45 000",
+   "étudiant international",
+   "international student"
+  ],
+  "question": {
+   "fr": "Y a-t-il une bourse pour les doctorants internationaux?",
+   "en": "Is there a scholarship for international PhD students?"
+  },
+  "answer": {
+   "fr": "Oui, la bourse internationale de doctorat (International Doctoral Scholarship) vaut 45 000 $ sur cinq ans. Les conditions ont changé pour les étudiants qui ont commencé un doctorat à partir de mai 2023. Si tu as commencé avant mai 2023 et reçu cette bourse, tu paies des droits équivalents à ceux des Canadiens de l’extérieur de l’Ontario pendant au plus cinq ans.",
+   "en": "Yes, the International Doctoral Scholarship is worth $45,000 over five years. Conditions changed for students who began a PhD in May 2023 or later. If you started before May 2023 and received it, your tuition is equivalent to that of Canadians from outside Ontario for up to five years."
+  },
+  "sources": [
+   {
+    "label": "Tuition fees - International students",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/tuition-international"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-frais-recherche-temps-partiel",
+  "category": "finances",
+  "keywords": [
+   "frais de recherche",
+   "research fee",
+   "temps partiel",
+   "part-time",
+   "cycles supérieurs",
+   "graduate",
+   "thèse"
+  ],
+  "question": {
+   "fr": "Qu’est-ce que les frais de recherche pour les étudiants des cycles supérieurs à temps partiel?",
+   "en": "What is the research fee for part-time graduate students?"
+  },
+  "answer": {
+   "fr": "C’est un droit de scolarité forfaitaire facturé chaque trimestre où tu es inscrit à temps partiel à des activités de recherche, à la maîtrise ou au doctorat; le montant dépend de ton statut au Canada. Pendant ces trimestres, tu ne peux pas t’inscrire à des cours, et tu paies aussi les frais accessoires.",
+   "en": "It’s a flat tuition fee charged each term you’re enrolled part time in research activities, at the master’s or doctoral level; the amount depends on your status in Canada. During those terms, you can’t enrol in courses, and you also pay ancillary fees."
+  },
+  "sources": [
+   {
+    "label": "Tuition fees - International students",
+    "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/tuition-international"
+   }
+  ],
+  "related": [
+   "zc-upass-facture-automne",
+   "zc-frais-payables-quand",
+   "zc-abandon-cours-mention-abs"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-telfer-test-langue-supplementaire",
+  "category": "admissions",
+  "keywords": [
+   "telfer",
+   "test de langue",
+   "language test",
+   "cours de langue",
+   "language courses",
+   "cours au choix",
+   "esl"
+  ],
+  "question": {
+   "fr": "Telfer peut-il me demander un autre test de langue même si j’ai le résultat exigé?",
+   "en": "Can Telfer ask me for another language test even if I have the required score?"
+  },
+  "answer": {
+   "fr": "Oui, l’École de gestion Telfer se réserve ce droit, même si tu as obtenu le résultat requis ou une exemption. Si le résultat montre une connaissance insuffisante d’une des deux langues officielles, tu pourrais devoir suivre des cours de langue supplémentaires, qui comptent alors comme cours au choix dans ton programme.",
+   "en": "Yes, the Telfer School of Management reserves that right, even if you achieved the required score or got an exemption. If the results show unsatisfactory knowledge of one of the official languages, you may have to take extra language courses, which count as electives in your program."
+  },
+  "sources": [
+   {
+    "label": "Language requirements",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/language-requirements"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-programmes-sans-credits-transfert",
+  "category": "admissions",
+  "keywords": [
+   "crédits de transfert",
+   "transfer credits",
+   "programmes combinés",
+   "combined programs",
+   "juris doctor",
+   "programme accéléré",
+   "fast-track"
+  ],
+  "question": {
+   "fr": "Certains programmes refusent-ils les crédits de transfert?",
+   "en": "Do some programs not accept transfer credits?"
+  },
+  "answer": {
+   "fr": "Oui : les programmes combinés science politique et Juris Doctor, commerce et Juris Doctor, et sciences des aliments avec la maîtrise en nutrition n’accordent pas de crédits de transfert. Les crédits sont aussi limités dans les programmes accélérés, multidisciplinaires ou bidisciplinaires, ceux avec certification professionnelle, et par exemple en sciences infirmières et en nutrition et diététique.",
+   "en": "Yes: the combined Political Science and Juris Doctor, Commerce and Juris Doctor, and Food Sciences with the MSc in Nutrition programs don’t grant transfer credits. Credits are also limited in dual fast-track, multidisciplinary or bidisciplinary programs, programs with professional certification, and for example in Nursing and Nutrition and Dietetics."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zc-cours-tremplin-credits",
+  "category": "admissions",
+  "keywords": [
+   "tremplin",
+   "head start",
+   "cours universitaires secondaire",
+   "university courses high school",
+   "crédits",
+   "credits",
+   "diplôme"
+  ],
+  "question": {
+   "fr": "J’ai suivi des cours du programme Tremplin de uOttawa au secondaire : comptent-ils pour mon diplôme?",
+   "en": "I took uOttawa Head Start courses in high school: do they count toward my degree?"
+  },
+  "answer": {
+   "fr": "Oui : les cours universitaires réussis dans le cadre du programme Tremplin de l’Université d’Ottawa peuvent compter pour ton diplôme. En dehors des programmes avancés reconnus, comme l’AP, l’IB ou le GCE, l’Université n’accorde normalement pas de crédits pour des cours du secondaire.",
+   "en": "Yes: university courses completed through the University of Ottawa Head Start program can count toward your degree. Apart from recognized advanced programs like AP, IB or GCE, the University doesn’t normally grant transfer credits for high school courses."
+  },
+  "sources": [
+   {
+    "label": "Transfer credits",
+    "url": "https://www.uottawa.ca/study/undergraduate-studies/transfer-credits"
+   }
+  ],
+  "related": [
+   "zc-demande-directe-uottawa",
+   "zc-accuse-reception-demande",
+   "zc-code-permanent-cegep"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-agents-pouvoir-arrestation",
+  "category": "sante",
+  "keywords": [
+   "agent de sécurité",
+   "arrestation",
+   "arrest",
+   "security guard powers",
+   "pouvoirs des agents",
+   "propriété privée",
+   "private property",
+   "intrusion"
+  ],
+  "question": {
+   "fr": "Est-ce que les agents de sécurité du campus peuvent arrêter quelqu'un ?",
+   "en": "Can campus security guards arrest someone?"
+  },
+  "answer": {
+   "fr": "Oui. Les terrains de l'Université sont une propriété privée : en vertu de l'article 494 du Code criminel, les agents du Service de la protection peuvent arrêter une personne qu'ils voient commettre une infraction criminelle sur le campus. Ils peuvent aussi donner un avis d'intrusion, oral ou écrit, qui interdit à quelqu'un l'accès au campus ou à certains secteurs comme les résidences.",
+   "en": "Yes. University property is private property, so under section 494 of the Criminal Code, Protection Services guards can arrest someone they see committing a criminal offence on campus. They can also give a trespass notice, verbal or written, barring a person from the campus or from certain areas such as residences."
+  },
+  "sources": [
+   {
+    "label": "Service de la protection – uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+   }
+  ],
+  "related": [
+   "zd-agents-demande-identite",
+   "zd-agents-formation",
+   "zd-vandalisme-consequences"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-agents-demande-identite",
+  "category": "sante",
+  "keywords": [
+   "carte d'identité",
+   "pièce d'identité",
+   "security asks id",
+   "agent demande identité",
+   "identification",
+   "laboratoire",
+   "restricted area",
+   "refuse to identify"
+  ],
+  "question": {
+   "fr": "Un agent de sécurité peut-il me demander mes pièces d'identité ?",
+   "en": "Can a security guard ask for my ID on campus?"
+  },
+  "answer": {
+   "fr": "Oui, surtout dans les secteurs à accès restreint comme les laboratoires de sciences, selon le Règlement 33 sur la sécurité. Si tu refuses de t'identifier, on peut te donner un avis d'intrusion et te demander de quitter les lieux immédiatement. Si tu refuses de partir, tu pourrais être arrêté en vertu de la Loi sur l'entrée sans autorisation.",
+   "en": "Yes, especially in restricted areas such as science labs, under Policy 33 on security. If you refuse to identify yourself, you may be given a trespass notice and asked to leave immediately. Refusing to leave can lead to arrest under the Trespass to Property Act."
+  },
+  "sources": [
+   {
+    "label": "Service de la protection – uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-formation",
+   "zd-vandalisme-consequences"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-agents-formation",
+  "category": "sante",
+  "keywords": [
+   "formation agents",
+   "security training",
+   "agents de sécurité",
+   "premiers soins",
+   "first aid guards",
+   "patrouille",
+   "patrol",
+   "vélo",
+   "bike patrol"
+  ],
+  "question": {
+   "fr": "Quelle formation ont les agents du Service de la protection ?",
+   "en": "What training do Protection Services guards have?"
+  },
+  "answer": {
+   "fr": "Les agents détiennent notamment des formations en premiers soins, RCR, défibrillateur et oxygène, en gestion de crise et de conflit, en légitime défense et en prévention du harcèlement sexuel. Plusieurs ont un diplôme collégial en techniques policières ou en sécurité. Ils travaillent en quatre équipes pour assurer une présence 24 heures sur 24 et se déplacent à pied, à vélo et en véhicule hybride.",
+   "en": "Guards hold training such as first aid, CPR, defibrillator and oxygen, crisis and conflict management, self-defence and sexual harassment awareness. Many have a college diploma in police foundations or law and security. They work in four shift teams for round-the-clock coverage and get around on foot, by bike and in hybrid vehicles."
+  },
+  "sources": [
+   {
+    "label": "Service de la protection – uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+   },
+   {
+    "label": "Services – Service de la protection",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/services"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-vandalisme-consequences"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vandalisme-consequences",
+  "category": "sante",
+  "keywords": [
+   "vandalisme",
+   "vandalism",
+   "dommages résidence",
+   "damage residence",
+   "enquête",
+   "investigation",
+   "rembourser",
+   "criminal charges"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qui arrive si quelqu'un fait du vandalisme sur le campus ?",
+   "en": "What happens if someone vandalizes something on campus?"
+  },
+  "answer": {
+   "fr": "La division des enquêtes du Service de la protection enquête sur les infractions criminelles commises sur les campus, en collaboration avec les doyens et la police. Par exemple, un étudiant identifié pour du vandalisme en résidence doit rembourser les dommages à l'Université. Pour d'autres actes criminels, des accusations peuvent être portées devant les tribunaux.",
+   "en": "Protection Services' Investigations Division looks into criminal offences on campus, working with deans and the police. For example, a student identified for vandalism in residence must reimburse the University for the damage. For other criminal acts, charges may go before the courts."
+  },
+  "sources": [
+   {
+    "label": "Service de la protection – uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+   },
+   {
+    "label": "Services – Service de la protection",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/services"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-drone-campus",
+  "category": "sante",
+  "keywords": [
+   "drone",
+   "faire voler un drone",
+   "fly a drone",
+   "uav",
+   "drone campus",
+   "transports canada",
+   "alta vista",
+   "permission drone"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire voler un drone sur le campus ?",
+   "en": "Can I fly a drone on campus?"
+  },
+  "answer": {
+   "fr": "Seulement avec une autorisation : remplis le formulaire de demande de drone du Service de la protection, avec le lieu, la date, le type et le poids du drone. Au-delà de 250 grammes, il faut la certification de pilote de Transports Canada, un certificat d'assurance qui nomme uOttawa et un plan de vol NAV Canada. Les drones sont interdits au campus Alta Vista, à cause de l'héliport du CHEO.",
+   "en": "Only with permission: fill out the Protection Services drone request form with the location, date, type and weight of the drone. Above 250 grams, you need Transport Canada pilot certification, an insurance certificate naming uOttawa and a NAV Canada flight plan. Drones aren't allowed at the Alta Vista campus because of the CHEO heliport."
+  },
+  "sources": [
+   {
+    "label": "Formulaire de demande de drone – uOttawa",
+    "url": "https://uoforms2.uottawa.ca/en/protection-services/drone-request-form"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-travailler-protection",
+  "category": "services",
+  "keywords": [
+   "emploi agent de sécurité",
+   "security guard job",
+   "travailler protection",
+   "work at protection services",
+   "bilingue",
+   "qualifications",
+   "job sécurité campus"
+  ],
+  "question": {
+   "fr": "Comment devenir agent de sécurité à l'Université ?",
+   "en": "How do I become a security guard at the University?"
+  },
+  "answer": {
+   "fr": "Le Service de la protection demande un diplôme collégial en techniques juridiques et sécurité ou l'équivalent, d'être bilingue à l'oral et à l'écrit, un certificat valide de premiers soins et RCR, et un permis de conduire valide. Les offres d'emploi sont conditionnelles à une entrevue, une évaluation psychologique, un examen médical et une vérification des antécédents. Les postes sont affichés en ligne.",
+   "en": "Protection Services asks for a college diploma in law and security or equivalent, spoken and written bilingualism, valid first aid and CPR certification, and a valid driver's licence. Job offers depend on passing an interview, a psychological assessment, a medical exam and a background check. Positions are posted online."
+  },
+  "sources": [
+   {
+    "label": "Travailler au Service de la protection",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/work-protection"
+   }
+  ],
+  "related": [
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants",
+   "zd-boite-repas"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-gestion-urgences-equipe",
+  "category": "sante",
+  "keywords": [
+   "gestion des urgences",
+   "emergency management",
+   "plan de continuité",
+   "business continuity",
+   "sécurité incendie",
+   "fire safety program",
+   "règlement 125"
+  ],
+  "question": {
+   "fr": "Qui s'occupe de la préparation aux urgences à l'Université ?",
+   "en": "Who handles emergency preparedness at the University?"
+  },
+  "answer": {
+   "fr": "C'est l'équipe de gestion des urgences, au 139, privé Louis-Pasteur, sous le Bureau de la dirigeante principale de la gestion des risques. Elle dirige le Centre des opérations d'urgence et gère trois programmes : gestion des urgences, continuité des activités et sécurité incendie, selon le Règlement 125. Les unités peuvent la contacter pour bâtir leur plan d'urgence.",
+   "en": "It's the Emergency Management team, at 139 Louis-Pasteur, under the Office of the Chief Risk Officer. It runs the Emergency Operations Centre and three programs: emergency management, business continuity and fire safety, under Policy 125. Units can contact it for help building their emergency plans."
+  },
+  "sources": [
+   {
+    "label": "Gestion des urgences – uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-emergency-management"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-fumee-corridor",
+  "category": "sante",
+  "keywords": [
+   "fumée corridor",
+   "smoke in hallway",
+   "fumée escalier",
+   "smoke stairwell",
+   "coincé",
+   "trapped fire",
+   "incendie",
+   "fire"
+  ],
+  "question": {
+   "fr": "Il y a de la fumée dans le corridor ou l'escalier : qu'est-ce que je fais ?",
+   "en": "There's smoke in the hallway or stairwell: what do I do?"
+  },
+  "answer": {
+   "fr": "Il peut être plus sûr de rester dans ta pièce : ferme la porte et bouche les ouvertures. Dans un escalier enfumé, sors-en vite et trouve une autre sortie, sinon retourne dans ta pièce. Appelle le Service de la protection au 613-562-5411, donne ta position exacte et agite un chandail de couleur pâle à la fenêtre pour qu'on te repère.",
+   "en": "It may be safer to stay in your room: close the door and seal any openings. If the stairwell is smoky, leave it quickly and find another exit, or go back to your room. Call Protection Services at 613-562-5411, give your exact location and wave a light-coloured shirt in the window so rescuers can find you."
+  },
+  "sources": [
+   {
+    "label": "Autres dangers – Êtes-vous prêt?",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-inondation-fuite",
+  "category": "sante",
+  "keywords": [
+   "inondation",
+   "flood",
+   "fuite d'eau",
+   "water leak",
+   "dégât d'eau",
+   "eau qui coule",
+   "leak campus"
+  ],
+  "question": {
+   "fr": "Que faire en cas d'inondation ou de grosse fuite d'eau dans un bâtiment ?",
+   "en": "What should I do if there's flooding or a big water leak in a building?"
+  },
+  "answer": {
+   "fr": "Avise tout de suite le Service de la protection de toute fuite importante. Si c'est sécuritaire, éloigne le matériel fragile de l'eau, débranche les appareils électriques et monte plus haut ou quitte la zone. Reste loin de l'eau en mouvement : 15 centimètres suffisent pour te faire perdre pied. Pour une petite fuite, comme un robinet qui goutte, compose le 5000 d'un téléphone du campus.",
+   "en": "Notify Protection Services right away of any significant leak. If it's safe, move vulnerable materials out of the water's path, unplug electrical equipment and move higher up or leave the area. Stay away from moving water: just 15 centimetres can knock you off your feet. For a minor leak, like a dripping faucet, dial 5000 from a campus phone."
+  },
+  "sources": [
+   {
+    "label": "Autres dangers – Êtes-vous prêt?",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vol-qualifie",
+  "category": "sante",
+  "keywords": [
+   "vol qualifié",
+   "robbery",
+   "se faire voler",
+   "being robbed",
+   "activité criminelle",
+   "criminal activity",
+   "agression vol"
+  ],
+  "question": {
+   "fr": "Que faire si je me fais voler ou si je suis témoin d'un crime sur le campus ?",
+   "en": "What should I do if I'm robbed or witness a crime on campus?"
+  },
+  "answer": {
+   "fr": "Éloigne-toi du danger immédiat. Si on te vole, donne exactement ce qu'on te demande, rien de plus, et note mentalement l'apparence des personnes et la direction où elles partent. Avise ensuite le Service de la protection au 613-562-5411, attends-le à l'endroit convenu et ne touche à aucune preuve laissée sur place.",
+   "en": "Get away from immediate danger. If you're being robbed, give exactly what's demanded and nothing more, and make a mental note of what the people look like and which way they go. Then notify Protection Services at 613-562-5411, wait for them at the agreed spot and don't touch any evidence left behind."
+  },
+  "sources": [
+   {
+    "label": "Autres dangers – Êtes-vous prêt?",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-urgence-medicale-temoin",
+  "category": "sante",
+  "keywords": [
+   "urgence médicale",
+   "medical emergency",
+   "quelqu'un s'effondre",
+   "someone collapsed",
+   "blessé",
+   "injured person",
+   "malaise"
+  ],
+  "question": {
+   "fr": "Quelqu'un se blesse ou fait un malaise devant moi sur le campus : que faire ?",
+   "en": "Someone is hurt or falls ill in front of me on campus: what do I do?"
+  },
+  "answer": {
+   "fr": "Avise immédiatement le Service de la protection au 613-562-5411. Si tu as une formation en premiers soins, donne-les si c'est sécuritaire. Suis ensuite les consignes des agents et des intervenants d'urgence, et reste sur place jusqu'à ce qu'on te dise de partir.",
+   "en": "Notify Protection Services immediately at 613-562-5411. If you're trained in first aid, give it if it's safe to do so. Then follow the instructions of the guards and emergency responders, and stay at the scene until you're told you can leave."
+  },
+  "sources": [
+   {
+    "label": "Autres dangers – Êtes-vous prêt?",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-personne-menacante",
+  "category": "sante",
+  "keywords": [
+   "personne menaçante",
+   "threatening person",
+   "menace",
+   "threat",
+   "comportement violent",
+   "violent behaviour",
+   "ligne ouverte"
+  ],
+  "question": {
+   "fr": "Quelqu'un me menace en face à face : comment réagir ?",
+   "en": "Someone is threatening me face to face: how should I react?"
+  },
+  "answer": {
+   "fr": "Reste le plus calme possible et essaie de calmer la personne : reconnais ce qu'elle ressent, sans jamais la confronter. Si la situation s'aggrave, appelle le Service de la protection ; même si tu ne peux pas parler, laisse la ligne ouverte et des agents seront envoyés. Si la personne part, note dans quelle direction.",
+   "en": "Stay as calm as you can and try to keep the person calm: acknowledge their feelings, and never confront them. If things escalate, call Protection Services; even if it isn't safe to speak, leave the line open and patrol officers will be sent. If the person leaves, note which way they went."
+  },
+  "sources": [
+   {
+    "label": "Autres dangers – Êtes-vous prêt?",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-appel-protection-transmis",
+  "category": "sante",
+  "keywords": [
+   "violence sexuelle",
+   "sexual violence",
+   "protection services",
+   "signalement",
+   "report",
+   "bureau des droits de la personne",
+   "human rights office"
+  ],
+  "question": {
+   "fr": "Si j'appelle le Service de la protection pour une violence sexuelle, qu'est-ce qui se passe ensuite ?",
+   "en": "If I call Protection Services about sexual violence, what happens next?"
+  },
+  "answer": {
+   "fr": "Un rapport est créé et transmis en toute confidentialité au Bureau des droits de la personne. Une conseillère de l'équipe de prévention et d'intervention en matière de violence sexuelle te contactera rapidement pour faire un suivi, te soutenir et t'expliquer tes options. Le Service de la protection est ouvert en tout temps : 613-562-5411 en urgence.",
+   "en": "A report is created and forwarded in complete confidentiality to the Human Rights Office. A counsellor from the Sexual Violence Prevention and Response team will promptly contact you to follow up, support you and explain your options. Protection Services is open at all times: 613-562-5411 for emergencies."
+  },
+  "sources": [
+   {
+    "label": "Divulguer une violence sexuelle et porter plainte",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/report-incident"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-limites-confidentialite",
+  "category": "sante",
+  "keywords": [
+   "confidentialité",
+   "confidentiality",
+   "violence sexuelle",
+   "sexual violence",
+   "obligation légale",
+   "legal obligation",
+   "divulgation",
+   "secret"
+  ],
+  "question": {
+   "fr": "Est-ce qu'une divulgation de violence sexuelle reste toujours confidentielle ?",
+   "en": "Does a disclosure of sexual violence always stay confidential?"
+  },
+  "answer": {
+   "fr": "L'Université la traite en toute confidentialité et limite l'information aux personnes qui doivent la connaître pour agir. La confidentialité ne peut pas être garantie seulement dans certains cas : risque qu'une personne se blesse ou blesse quelqu'un, risque pour la communauté, ou obligation légale, par exemple si une personne mineure est impliquée. Le Bureau des droits de la personne peut t'en dire plus avant que tu parles.",
+   "en": "The University treats it in complete confidentiality and limits information to those who need to know to act. Confidentiality can't be guaranteed only in specific cases: a risk that someone harms themselves or someone else, a risk to the community, or a legal obligation, for example if a minor is involved. The Human Rights Office can explain more before you share."
+  },
+  "sources": [
+   {
+    "label": "Divulguer une violence sexuelle et porter plainte",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/report-incident"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-services-bdp",
+  "category": "sante",
+  "keywords": [
+   "plan de sécurité",
+   "safety plan",
+   "violence sexuelle",
+   "sexual violence services",
+   "police",
+   "preuves",
+   "evidence",
+   "accommodements"
+  ],
+  "question": {
+   "fr": "Concrètement, comment le Bureau des droits de la personne peut m'aider après une violence sexuelle ?",
+   "en": "What can the Human Rights Office actually do for me after sexual violence?"
+  },
+  "answer": {
+   "fr": "L'équipe offre de l'écoute, t'oriente vers les bons services et t'aide à faire un plan de sécurité avec le Service de la protection. Elle peut faire le lien avec la police d'Ottawa si tu le veux, t'aider à demander des accommodements scolaires ou au travail, et documenter la situation et conserver les preuves dans une base de données sécurisée. Tu peux la joindre au 613-562-5222.",
+   "en": "The team offers a listening ear, refers you to the right services and helps you build a safety plan with Protection Services. It can liaise with the Ottawa Police if you want, help you request academic or workplace accommodations, and document the situation and store evidence in a secure database. You can reach it at 613-562-5222."
+  },
+  "sources": [
+   {
+    "label": "Divulguer une violence sexuelle et porter plainte",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/report-incident"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-gestionnaire",
+  "category": "sante",
+  "keywords": [
+   "gestionnaire",
+   "manager",
+   "employé divulgue",
+   "employee disclosure",
+   "violence sexuelle",
+   "sexual violence workplace",
+   "ressources humaines"
+  ],
+  "question": {
+   "fr": "Je suis gestionnaire et un employé me divulgue une violence sexuelle : que dois-je faire ?",
+   "en": "I'm a manager and an employee disclosed sexual violence to me: what should I do?"
+  },
+  "answer": {
+   "fr": "Tes obligations peuvent être différentes, car l'Université a des obligations légales envers ses employés en vertu de la Loi sur la santé et la sécurité au travail. Avant d'agir, communique avec le Bureau des droits de la personne ou les Ressources humaines, qui te guideront selon la situation. L'équipe peut aussi te donner une consultation rapide et confidentielle.",
+   "en": "Your obligations may be different, since the University has legal duties to employees under the Occupational Health and Safety Act. Before taking action, contact the Human Rights Office or Human Resources, who will guide you based on the situation. The team can also give you a quick, confidential consultation."
+  },
+  "sources": [
+   {
+    "label": "Offrir son soutien – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/offering-support"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-quoi-eviter",
+  "category": "sante",
+  "keywords": [
+   "quoi ne pas dire",
+   "what not to say",
+   "divulgation",
+   "disclosure",
+   "violence sexuelle",
+   "support survivor",
+   "soutenir"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que je devrais éviter de dire si quelqu'un me confie une violence sexuelle ?",
+   "en": "What should I avoid saying if someone tells me about sexual violence?"
+  },
+  "answer": {
+   "fr": "Ne blâme jamais la personne : ne suggère pas qu'elle ment, ne parle pas de ce qu'elle aurait dû faire et ne minimise pas ce qui s'est passé. Ne la traite pas différemment et ne prends pas de décisions à sa place. Évite aussi de mettre tes propres émotions de l'avant ou de vouloir te venger pour elle ; respecte ses choix et mentionne-lui le Bureau des droits de la personne.",
+   "en": "Never blame the person: don't suggest they're lying, don't talk about what they should have done, and don't minimize what happened. Don't treat them differently or make decisions for them. Also avoid putting your own feelings first or seeking revenge on their behalf; respect their choices and mention the Human Rights Office."
+  },
+  "sources": [
+   {
+    "label": "Offrir son soutien – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/offering-support"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-masque",
+  "category": "sante",
+  "keywords": [
+   "masque",
+   "mask",
+   "grippe",
+   "flu symptoms",
+   "centre de santé",
+   "health centre",
+   "port du masque",
+   "mask policy"
+  ],
+  "question": {
+   "fr": "Est-ce que je dois porter un masque au Centre de santé et de mieux-être ?",
+   "en": "Do I have to wear a mask at the Student Health and Wellness Centre?"
+  },
+  "answer": {
+   "fr": "Oui, si tu as des symptômes semblables à ceux de la grippe : toute personne qui en a doit porter un masque au Centre. Le Centre est au Complexe sportif Minto, 801, avenue King-Edward, local N203.",
+   "en": "Yes, if you have flu-like symptoms: anyone with them must wear a mask in the Centre. The Centre is in the Minto Sports Complex, 801 King Edward Avenue, room N203."
+  },
+  "sources": [
+   {
+    "label": "Centre de santé et de mieux-être étudiant",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-courriel-securise",
+  "category": "sante",
+  "keywords": [
+   "courriel",
+   "email",
+   "renseignements médicaux",
+   "health information",
+   "confidentialité",
+   "privacy",
+   "dossier santé",
+   "telus"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux envoyer mes informations médicales par courriel au Centre de santé ?",
+   "en": "Can I email my medical information to the Health Centre?"
+  },
+  "answer": {
+   "fr": "Le Centre ne peut pas garantir la sécurité des renseignements de santé envoyés par courriel. Il recommande plutôt d'utiliser un canal sécurisé comme le dossier de santé collaboratif de TELUS. Pour une question urgente, appelle le 613-562-5777.",
+   "en": "The Centre can't guarantee the security of health information sent by email. It recommends using a secure channel such as the TELUS Collaborative Health Record instead. For an urgent question, call 613-562-5777."
+  },
+  "sources": [
+   {
+    "label": "Centre de santé et de mieux-être étudiant",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-espace-autochtone",
+  "category": "sante",
+  "keywords": [
+   "purification",
+   "smudging",
+   "cérémonie autochtone",
+   "indigenous ceremony",
+   "cercle de guérison",
+   "healing circle",
+   "centre de santé",
+   "inclusif"
+  ],
+  "question": {
+   "fr": "Le Centre de santé a-t-il un espace pour les pratiques autochtones ?",
+   "en": "Does the Health Centre have a space for Indigenous practices?"
+  },
+  "answer": {
+   "fr": "Oui. Le Centre de santé et de mieux-être comprend une salle de purification par la fumée et des espaces pour les cercles de guérison ou les cérémonies autochtones. Son personnel est formé sur l'équité, la diversité, l'inclusion et les soins tenant compte des traumatismes.",
+   "en": "Yes. The Student Health and Wellness Centre includes a smudging room and spaces for healing circles or Indigenous ceremonies. Its staff are trained in equity, diversity and inclusion and in trauma-informed care."
+  },
+  "sources": [
+   {
+    "label": "FAQ – Centre de santé et de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-specialiste-reference",
+  "category": "sante",
+  "keywords": [
+   "spécialiste",
+   "specialist",
+   "référence",
+   "referral",
+   "centre de santé",
+   "dermatologue",
+   "voir un spécialiste"
+  ],
+  "question": {
+   "fr": "Comment voir un médecin spécialiste quand je suis étudiant ?",
+   "en": "How do I see a medical specialist as a student?"
+  },
+  "answer": {
+   "fr": "Il faut une référence : ton médecin de famille ou ton infirmière praticienne peut la faire, par exemple au Centre de santé et de mieux-être. Le bureau du spécialiste t'appellera ensuite pour fixer le rendez-vous. Si le Centre n'offre pas le service dont tu as besoin, il te dirigera vers un spécialiste.",
+   "en": "You need a referral: your family doctor or nurse practitioner can make one, for example at the Student Health and Wellness Centre. The specialist's office will then call you to book the appointment. If the Centre doesn't offer the service you need, it will refer you to a specialist."
+  },
+  "sources": [
+   {
+    "label": "Professionnels de la santé 101",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-providers"
+   },
+   {
+    "label": "FAQ – Centre de santé et de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-commentaires",
+  "category": "sante",
+  "keywords": [
+   "commentaires",
+   "feedback",
+   "plainte centre de santé",
+   "complaint health centre",
+   "suggestion",
+   "formulaire",
+   "avis"
+  ],
+  "question": {
+   "fr": "Comment donner mon avis sur le Centre de santé et de mieux-être ?",
+   "en": "How do I give feedback about the Student Health and Wellness Centre?"
+  },
+  "answer": {
+   "fr": "Remplis le formulaire de commentaires en ligne du Centre. Si tu veux qu'on te réponde, laisse tes coordonnées : le Centre te contactera dans les trois jours ouvrables. N'y mets pas d'information sur ton dossier médical.",
+   "en": "Fill out the Centre's online feedback form. If you want a reply, leave your contact information and the Centre will get back to you within three business days. Don't include any information from your medical record."
+  },
+  "sources": [
+   {
+    "label": "FAQ – Centre de santé et de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   },
+   {
+    "label": "Centre de santé et de mieux-être étudiant",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-rappels-rdv",
+  "category": "sante",
+  "keywords": [
+   "rappel",
+   "reminder",
+   "rendez-vous",
+   "appointment",
+   "texto",
+   "courriel",
+   "centre de santé",
+   "oublier"
+  ],
+  "question": {
+   "fr": "Est-ce que le Centre de santé m'envoie un rappel de rendez-vous ?",
+   "en": "Does the Health Centre send appointment reminders?"
+  },
+  "answer": {
+   "fr": "Oui, par courtoisie, le Centre envoie des rappels par courriel ou par texto pour tous les rendez-vous. Mais si tu n'en reçois pas, tu restes responsable d'arriver à l'heure. Si tu ne peux pas venir, annule le plus tôt possible au 613-562-5777.",
+   "en": "Yes, as a courtesy the Centre sends email or text reminders for all appointments. But if you don't get one, you're still responsible for arriving on time. If you can't make it, cancel as early as possible at 613-562-5777."
+  },
+  "sources": [
+   {
+    "label": "Centre de santé et de mieux-être étudiant",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-frais-formulaires",
+  "category": "sante",
+  "keywords": [
+   "frais formulaire",
+   "form fee",
+   "formulaire accommodements",
+   "accommodation form",
+   "rafeo",
+   "osap form",
+   "lettre d'attestation",
+   "certificat"
+  ],
+  "question": {
+   "fr": "Combien coûte un formulaire rempli par le Centre de santé ?",
+   "en": "How much does the Health Centre charge to fill out a form?"
+  },
+  "answer": {
+   "fr": "Selon la liste de frais du Centre, le formulaire pour les accommodements scolaires coûte 60 $, le formulaire RAFEO 30 $, une lettre d'attestation 10 $ et le formulaire clinique de préstage 30 $. Certains frais sont sujets à la TVH. Les frais peuvent changer sans préavis, alors vérifie la liste à jour.",
+   "en": "According to the Centre's fee list, the academic accommodations form costs $60, an OSAP form $30, a letter of attestation $10 and a clinical pre-placement form $30. Some fees are subject to HST. Fees can change without notice, so check the current list."
+  },
+  "sources": [
+   {
+    "label": "Liste des frais – Centre de santé",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/fees-not-covered"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-csme-rdv-non-assure",
+  "category": "sante",
+  "keywords": [
+   "pas d'assurance",
+   "no insurance",
+   "rendez-vous non assuré",
+   "uninsured appointment",
+   "frais médecin",
+   "cost doctor",
+   "sans carte santé"
+  ],
+  "question": {
+   "fr": "Combien coûte un rendez-vous au Centre de santé si je n'ai pas d'assurance maladie valide ?",
+   "en": "How much is a Health Centre appointment if I don't have valid health insurance?"
+  },
+  "answer": {
+   "fr": "Un rendez-vous médical non assuré coûte au moins 120 $, plus le coût des actes, selon la liste de frais du Centre. Les laboratoires non couverts coûtent 30 $ plus le prix des tests, et les vaccins non couverts sont facturés au coût du vaccin. Ces frais peuvent changer, vérifie la liste à jour.",
+   "en": "An uninsured medical appointment costs at least $120, plus the cost of procedures, according to the Centre's fee list. Uncovered lab work is $30 plus the cost of the tests, and uncovered vaccines are charged at the cost of the vaccine. These fees can change, so check the current list."
+  },
+  "sources": [
+   {
+    "label": "Liste des frais – Centre de santé",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/fees-not-covered"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-csme-renouvellement-telephone",
+  "category": "sante",
+  "keywords": [
+   "renouvellement ordonnance",
+   "prescription renewal",
+   "téléphone",
+   "by phone",
+   "fax",
+   "frais ordonnance",
+   "renouveler médicament"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire renouveler une ordonnance par téléphone au Centre de santé ?",
+   "en": "Can I get a prescription renewed by phone at the Health Centre?"
+  },
+  "answer": {
+   "fr": "Oui, mais un renouvellement d'ordonnance par téléphone ou par télécopieur coûte 15 $, selon la liste de frais du Centre. Le renouvellement fait pendant un rendez-vous fait partie des services médicaux offerts. Si manquer ton médicament causerait un sevrage, consulte avant la fin de ton ordonnance.",
+   "en": "Yes, but a prescription renewal by phone or fax costs $15, according to the Centre's fee list. Renewal during an appointment is part of the medical services offered. If running out of your medication would cause withdrawal, see a physician before your prescription runs out."
+  },
+  "sources": [
+   {
+    "label": "Liste des frais – Centre de santé",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/fees-not-covered"
+   },
+   {
+    "label": "Soins de santé – Quand et où",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-when-and-where"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-futurs-etudiants",
+  "category": "sante",
+  "keywords": [
+   "nouvel étudiant",
+   "incoming student",
+   "offre d'admission",
+   "admission accepted",
+   "avant la rentrée",
+   "before classes",
+   "centre de santé"
+  ],
+  "question": {
+   "fr": "J'ai accepté mon offre d'admission, mais je n'ai pas encore commencé : puis-je avoir du soutien au Centre de santé ?",
+   "en": "I accepted my offer but haven't started yet: can I get support from the Health Centre?"
+  },
+  "answer": {
+   "fr": "Oui, pour certains services : les étudiants qui arrivent et qui ont accepté leur offre peuvent accéder à l'évaluation d'accueil en santé mentale et aux services d'éducation à la santé avant de commencer leurs études. Les services médicaux, eux, exigent d'être inscrit et d'avoir payé les frais de santé du trimestre ou les frais d'inscription du Centre. Appelle le 613-562-5777 pour vérifier ton cas.",
+   "en": "Yes, for some services: incoming students who've accepted their offer can access the mental health intake and health education services before starting their studies. Medical services, however, require you to be enrolled and to have paid the term's health fee or the Centre's enrolment fee. Call 613-562-5777 to check your situation."
+  },
+  "sources": [
+   {
+    "label": "Admissibilité des étudiants aux services",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/student-eligibility-services"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-etudes-interrompues",
+  "category": "sante",
+  "keywords": [
+   "interruption des études",
+   "interrupted studies",
+   "congé",
+   "leave of absence",
+   "centre de santé",
+   "b-6.5",
+   "pas inscrit"
+  ],
+  "question": {
+   "fr": "J'ai interrompu mes études ou je suis en congé : puis-je encore aller au Centre de santé ?",
+   "en": "I've interrupted my studies or I'm on leave: can I still use the Health Centre?"
+  },
+  "answer": {
+   "fr": "Oui, si tu as déjà vu un professionnel du Centre pour des services médicaux ou de santé mentale, et que tu paies les frais d'inscription du Centre pour chaque trimestre où tu l'utilises. Cela vaut pour les études interrompues au premier cycle selon le règlement B-6.5 et les congés approuvés aux cycles supérieurs. Apporte ta carte étudiante à chaque visite.",
+   "en": "Yes, if you've already seen a Centre practitioner for medical or mental health services, and you pay the Centre's enrolment fee for each term you use it. This applies to undergraduate studies interrupted under regulation B-6.5 and to approved graduate leaves. Bring your student card to every visit."
+  },
+  "sources": [
+   {
+    "label": "Admissibilité des étudiants aux services",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/student-eligibility-services"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-aucun-rdv-affiche",
+  "category": "sante",
+  "keywords": [
+   "aucun rendez-vous",
+   "no appointments",
+   "portail vide",
+   "no slots",
+   "complet",
+   "booked up",
+   "centre de santé",
+   "clinique sans rendez-vous"
+  ],
+  "question": {
+   "fr": "Je ne vois aucun rendez-vous disponible sur le portail du Centre de santé : c'est normal ?",
+   "en": "I don't see any appointments on the Health Centre portal: is that normal?"
+  },
+  "answer": {
+   "fr": "Oui : quand il n'y a plus de place, les rendez-vous n'apparaissent tout simplement pas sur le portail ni dans l'application. Les plages de la semaine suivante sortent le vendredi à 8 h, et quelques rendez-vous pour urgences mineures sortent chaque matin de semaine à 8 h. Sinon, la page Soins de santé, quand et où te propose d'autres options, comme une clinique sans rendez-vous.",
+   "en": "Yes: when there are no openings, appointments simply don't show on the portal or the app. Next week's slots are released Fridays at 8 a.m., and a few minor-emergency appointments come out every weekday morning at 8 a.m. Otherwise, the Health care, when and where page suggests other options, such as a walk-in clinic."
+  },
+  "sources": [
+   {
+    "label": "Comprendre les temps d'attente",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/understanding-wait-times"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-education-sante-personnalisee",
+  "category": "sante",
+  "keywords": [
+   "éducation à la santé",
+   "health education",
+   "promotion de la santé",
+   "health promotion specialist",
+   "naviguer système santé",
+   "phep",
+   "plan de soins"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le programme d'éducation à la santé personnalisée ?",
+   "en": "What is the Personalized Health Education Program?"
+  },
+  "answer": {
+   "fr": "C'est un rendez-vous gratuit avec une spécialiste en promotion de la santé, au Centre de santé et de mieux-être, pour t'aider à t'y retrouver dans les ressources, faire un plan de soins ou fixer des objectifs. Cette personne n'est pas une professionnelle médicale et ne pose pas de diagnostic. Le service est confidentiel et réservé aux étudiants de uOttawa ; tu peux t'y inscrire toi-même au 613-562-5777.",
+   "en": "It's a free appointment with a Health Promotion Specialist at the Student Health and Wellness Centre who helps you navigate resources, build a care plan or set goals. The specialist isn't a medical professional and doesn't diagnose. The service is confidential and only for uOttawa students; you can self-refer at 613-562-5777."
+  },
+  "sources": [
+   {
+    "label": "Programme d'éducation à la santé personnalisée",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/personalized-health-education-program"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-sept-piliers",
+  "category": "sante",
+  "keywords": [
+   "sept piliers",
+   "seven pillars",
+   "mieux-être",
+   "wellness",
+   "dimensions",
+   "bien-être",
+   "promotion de la santé"
+  ],
+  "question": {
+   "fr": "Que sont les sept piliers du mieux-être à uOttawa ?",
+   "en": "What are uOttawa's seven pillars of wellness?"
+  },
+  "answer": {
+   "fr": "À uOttawa, le mieux-être est vu comme un équilibre entre sept dimensions : émotionnelle, physique, sociale, intellectuelle, environnementale, financière et spirituelle. L'équipe de promotion de la santé t'accompagne dans chacune avec des ateliers, des ressources et le Salon du mieux-être.",
+   "en": "At uOttawa, wellness is seen as a balance between seven dimensions: emotional, physical, social, intellectual, environmental, financial and spiritual. The Health Promotion team supports you in each one through workshops, resources and the Wellness Lounge."
+  },
+  "sources": [
+   {
+    "label": "Coin éducation – Sept piliers du mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/7-pillars-wellness"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-pharmacie-tests-sang",
+  "category": "sante",
+  "keywords": [
+   "test sanguin",
+   "blood test",
+   "hba1c",
+   "cholestérol",
+   "lipid profile",
+   "pharmacie",
+   "pharmacy test",
+   "diabète"
+  ],
+  "question": {
+   "fr": "Est-ce que la pharmacie du campus fait des tests comme le cholestérol ?",
+   "en": "Does the campus pharmacy do tests like cholesterol?"
+  },
+  "answer": {
+   "fr": "Oui, la Clinique de soins pharmaceutiques Shoppers Drug Mart au Complexe Minto offre des tests : 35 $ pour un bilan lipidique et 25 $ pour l'HbA1c, selon sa page. Elle est au local N209, au 2e étage. Vérifie les tarifs à jour avant d'y aller.",
+   "en": "Yes, the Shoppers Drug Mart Pharmacy Care Clinic at the Minto Complex offers testing: $35 for a lipid profile and $25 for HbA1c, according to its page. It's in room N209, on the 2nd floor. Check current prices before you go."
+  },
+  "sources": [
+   {
+    "label": "Clinique de soins pharmaceutiques Shoppers Drug Mart",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/shoppers-drug-mart-pharmacy-care-clinic"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-pharmacie-fievre-jaune",
+  "category": "sante",
+  "keywords": [
+   "fièvre jaune",
+   "yellow fever",
+   "santé-voyage",
+   "travel health",
+   "malaria",
+   "vaccin voyage",
+   "certificat international",
+   "pharmacie"
+  ],
+  "question": {
+   "fr": "Où faire ma consultation santé-voyage avant de partir à l'étranger ?",
+   "en": "Where can I get a travel health consultation before going abroad?"
+  },
+  "answer": {
+   "fr": "La Clinique de soins pharmaceutiques du Complexe Minto offre des consultations santé-voyage : évaluation des vaccins selon ta destination, ordonnances préventives pour la malaria ou le mal de l'altitude, et vaccin contre la fièvre jaune avec certificat international de vaccination. Les frais varient selon tes besoins. Vérifie aussi avec ta faculté, qui pourrait couvrir certains coûts.",
+   "en": "The Pharmacy Care Clinic at the Minto Complex offers travel health consultations: a vaccine assessment for your destination, preventive prescriptions for malaria or altitude sickness, and yellow fever vaccination with the International Certificate of Vaccination. Fees vary with your needs. Also check with your faculty, which may cover some costs."
+  },
+  "sources": [
+   {
+    "label": "Clinique de soins pharmaceutiques Shoppers Drug Mart",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/shoppers-drug-mart-pharmacy-care-clinic"
+   },
+   {
+    "label": "FAQ – Centre de santé et de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-pharmacie-ramu-affection",
+  "category": "sante",
+  "keywords": [
+   "ramu",
+   "uhip",
+   "affection mineure",
+   "minor ailment",
+   "infection urinaire",
+   "pharmacien",
+   "hors province",
+   "19 $"
+  ],
+  "question": {
+   "fr": "J'ai le RAMU : le pharmacien du campus peut-il traiter une affection mineure ?",
+   "en": "I have UHIP: can the campus pharmacist treat a minor ailment?"
+  },
+  "answer": {
+   "fr": "Oui, mais l'évaluation d'une affection mineure, comme une infection urinaire ou une conjonctivite, est couverte seulement pour l'OHIP ; avec le RAMU ou une assurance d'une autre province, elle coûte 19 $ à la pharmacie. Tu peux aussi consulter au Centre de santé et de mieux-être, qui accepte ces assurances.",
+   "en": "Yes, but a minor ailment assessment, like a urinary tract infection or pink eye, is covered only for OHIP; with UHIP or an out-of-province plan, it costs $19 at the pharmacy. You can also go to the Student Health and Wellness Centre, which accepts these plans."
+  },
+  "sources": [
+   {
+    "label": "Clinique de soins pharmaceutiques Shoppers Drug Mart",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/shoppers-drug-mart-pharmacy-care-clinic"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-pharmacie-renouvellement",
+  "category": "sante",
+  "keywords": [
+   "remplir ordonnance",
+   "fill prescription",
+   "renouveler",
+   "renew prescription",
+   "pharmacie",
+   "frais 15 $",
+   "pharmacy fee"
+  ],
+  "question": {
+   "fr": "Combien coûte faire remplir ou renouveler une ordonnance à la pharmacie du campus ?",
+   "en": "How much does it cost to fill or renew a prescription at the campus pharmacy?"
+  },
+  "answer": {
+   "fr": "Selon la page de la Clinique de soins pharmaceutiques, remplir ou renouveler une ordonnance sans changement coûte 15 $. Les injections coûtent 20 $, sauf les vaccins contre la grippe et la COVID-19, qui sont gratuits. Ton assurance peut couvrir une partie de ces frais.",
+   "en": "According to the Pharmacy Care Clinic page, filling or renewing a prescription with no changes costs $15. Injections cost $20, except flu and COVID-19 vaccines, which are free. Your insurance may cover part of these fees."
+  },
+  "sources": [
+   {
+    "label": "Clinique de soins pharmaceutiques Shoppers Drug Mart",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/shoppers-drug-mart-pharmacy-care-clinic"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-pharmacie-public",
+  "category": "sante",
+  "keywords": [
+   "pharmacie publique",
+   "pharmacy public",
+   "pas étudiant",
+   "non-student",
+   "employé",
+   "staff",
+   "médicament sans ordonnance",
+   "over the counter"
+  ],
+  "question": {
+   "fr": "Je ne suis pas étudiant : puis-je utiliser la pharmacie du Complexe Minto ?",
+   "en": "I'm not a student: can I use the pharmacy at the Minto Complex?"
+  },
+  "answer": {
+   "fr": "Oui. Les conseils sur les médicaments en vente libre sont gratuits pour tout le monde : étudiants, professeurs, employés et grand public. Les autres services peuvent être couverts ou non par ton assurance ; sinon, tu les paies toi-même. La pharmacie est au local N209 du Complexe Minto, 613-788-2029.",
+   "en": "Yes. Advice on over-the-counter medications is free for everyone: students, faculty, staff and the general public. Other services may or may not be covered by your insurance; if not, you pay for them yourself. The pharmacy is in room N209 of the Minto Complex, 613-788-2029."
+  },
+  "sources": [
+   {
+    "label": "Clinique de soins pharmaceutiques Shoppers Drug Mart",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/shoppers-drug-mart-pharmacy-care-clinic"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-imagerie-attente",
+  "category": "sante",
+  "keywords": [
+   "irm",
+   "mri",
+   "scan",
+   "ct scan",
+   "tomodensitométrie",
+   "attente imagerie",
+   "imaging wait",
+   "radiologie"
+  ],
+  "question": {
+   "fr": "Combien de temps faut-il attendre pour une IRM ou un scan à Ottawa ?",
+   "en": "How long is the wait for an MRI or CT scan in Ottawa?"
+  },
+  "answer": {
+   "fr": "Selon la page de l'Université, l'attente pour une IRM peut aller de 4 jours à 4 mois, et de 1 jour à 6 mois pour un scan, selon tes besoins. Le gouvernement de l'Ontario publie les temps d'attente moyens par établissement. Demande s'il y a des plages le soir ou la fin de semaine, souvent plus disponibles.",
+   "en": "According to the University's page, the wait for an MRI can range from 4 days to 4 months, and from 1 day to 6 months for a CT scan, depending on your needs. The Government of Ontario publishes average wait times by location. Ask about evening or weekend slots, which are often more available."
+  },
+  "sources": [
+   {
+    "label": "Comprendre les temps d'attente",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/understanding-wait-times"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-conseils-reduire-attente",
+  "category": "sante",
+  "keywords": [
+   "réduire attente",
+   "reduce wait",
+   "liste d'annulation",
+   "cancellation list",
+   "attente soins",
+   "wait times tips",
+   "rendez-vous plus tôt"
+  ],
+  "question": {
+   "fr": "Comment avoir un rendez-vous médical plus vite ?",
+   "en": "How can I get a medical appointment sooner?"
+  },
+  "answer": {
+   "fr": "Demande s'il y a une liste d'attente ou d'annulation pour qu'on t'appelle si une place se libère. Sois flexible : les plages du soir, de nuit ou de fin de semaine sont souvent plus disponibles, surtout en imagerie. Si tu peux te déplacer, demande des spécialistes ou hôpitaux hors de ta région, et suis bien les consignes avant le rendez-vous pour éviter de le reporter.",
+   "en": "Ask if there's a wait or cancellation list so you're called if a spot opens. Be flexible: evening, night or weekend slots are often more available, especially for imaging. If you can travel, ask about specialists or hospitals outside your region, and follow pre-appointment instructions carefully to avoid rescheduling."
+  },
+  "sources": [
+   {
+    "label": "Comprendre les temps d'attente",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/understanding-wait-times"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-infirmiere-praticienne",
+  "category": "sante",
+  "keywords": [
+   "infirmière praticienne",
+   "nurse practitioner",
+   "ip",
+   "np",
+   "prescrire",
+   "prescribe",
+   "sans référence",
+   "no referral"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'une infirmière praticienne peut faire pour moi ?",
+   "en": "What can a nurse practitioner do for me?"
+  },
+  "answer": {
+   "fr": "Une infirmière praticienne joue un rôle semblable à celui d'un médecin : elle pose des diagnostics, prescrit des médicaments et des tests, et te réfère à des spécialistes. Elle peut aussi faire des points de suture et soigner des plaies. Pas besoin de référence pour en voir une, et il y en a au Centre de santé et de mieux-être.",
+   "en": "A nurse practitioner plays a role similar to a doctor's: they diagnose conditions, prescribe medications and tests, and refer you to specialists. They can also do stitches and wound care. You don't need a referral to see one, and there are some at the Student Health and Wellness Centre."
+  },
+  "sources": [
+   {
+    "label": "Professionnels de la santé 101",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-providers"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-un-medecin-par-province",
+  "category": "sante",
+  "keywords": [
+   "médecin de famille",
+   "family doctor",
+   "inscrit",
+   "rostered",
+   "une seule province",
+   "one per province",
+   "accès soins",
+   "health care connect"
+  ],
+  "question": {
+   "fr": "Puis-je être inscrit auprès de deux médecins de famille ?",
+   "en": "Can I be registered with two family doctors?"
+  },
+  "answer": {
+   "fr": "Non : au Canada, tu peux être inscrit auprès d'un seul médecin de famille par province. Pour en trouver un en Ontario, inscris-toi tôt à Accès Soins, car les listes d'attente sont longues. En attendant, si tu es étudiant inscrit, tu peux quand même consulter au Centre de santé et de mieux-être.",
+   "en": "No: in Canada, you can be registered with only one family doctor per province. To find one in Ontario, sign up early with Health Care Connect, since wait lists are long. Meanwhile, as an enrolled student you can still see someone at the Student Health and Wellness Centre."
+  },
+  "sources": [
+   {
+    "label": "Professionnels de la santé 101",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-providers"
+   },
+   {
+    "label": "FAQ – Centre de santé et de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-contraception-csme",
+  "category": "sante",
+  "keywords": [
+   "contraception",
+   "birth control",
+   "stérilet",
+   "iud",
+   "implant contraceptif",
+   "contraceptive implant",
+   "santé des femmes",
+   "women's health"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux avoir une consultation pour la contraception sur le campus ?",
+   "en": "Can I get a birth control consultation on campus?"
+  },
+  "answer": {
+   "fr": "Oui. Au Centre de santé et de mieux-être, des médecins en santé des femmes offrent des consultations en contraception, la pose d'implant contraceptif et la consultation et pose de stérilet. Une référence peut être nécessaire pour voir un médecin avec cette spécialité. Prends rendez-vous au 613-562-5777.",
+   "en": "Yes. At the Student Health and Wellness Centre, women's health physicians offer contraception consultations, contraceptive implant insertion, and IUD consultation and insertion. A referral may be needed to see a physician with this specialty. Book at 613-562-5777."
+  },
+  "sources": [
+   {
+    "label": "Professionnels de la santé 101",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-providers"
+   },
+   {
+    "label": "Soins de santé physique – Centre de santé",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/physical-health"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-rhume-grippe-signes-graves",
+  "category": "sante",
+  "keywords": [
+   "rhume",
+   "cold",
+   "grippe",
+   "flu",
+   "symptômes",
+   "symptoms",
+   "difficulté à respirer",
+   "trouble breathing"
+  ],
+  "question": {
+   "fr": "J'ai le rhume ou la grippe : quand est-ce que c'est grave ?",
+   "en": "I have a cold or the flu: when is it serious?"
+  },
+  "answer": {
+   "fr": "La page de l'Université, qui n'est pas un avis médical, conseille de bien t'hydrater, te reposer, te laver les mains et éviter les visites, et de parler de médicaments en vente libre à un pharmacien. Appelle le 911, ou le Service de la protection au 613-562-5411 sur le campus, si tu as de la difficulté à respirer, une douleur à la poitrine qui ne cesse pas, de la confusion ou les lèvres bleutées. En cas de doute, appelle le 811.",
+   "en": "The University's page, which isn't medical advice, suggests staying hydrated, resting, washing your hands and avoiding visits, and asking a pharmacist about over-the-counter medication. Call 911, or Protection Services at 613-562-5411 on campus, if you have trouble breathing, non-stop chest pain, confusion or bluish lips. If unsure, call 811."
+  },
+  "sources": [
+   {
+    "label": "Soins de santé – Quand et où",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-when-and-where"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-assurance-ambulance",
+  "category": "sante",
+  "keywords": [
+   "ambulance",
+   "coût ambulance",
+   "ambulance cost",
+   "assurance",
+   "insurance",
+   "vitamine d",
+   "prise de sang non couverte",
+   "not covered"
+  ],
+  "question": {
+   "fr": "Est-ce que l'ambulance est couverte par mon assurance santé ?",
+   "en": "Is an ambulance covered by my health insurance?"
+  },
+  "answer": {
+   "fr": "La plupart des régimes de base ne couvrent pas l'ambulance : tu pourrais devoir la payer. Certains vaccins, comme celui du VPH ou de l'hépatite B, et certaines prises de sang, comme la vitamine D ou B12, ne sont pas couverts non plus par le régime de base. Ton régime complémentaire peut toutefois les couvrir, alors vérifie auprès de ton assureur.",
+   "en": "Most basic plans don't cover ambulances, so you might have to pay. Some vaccines, like HPV or hepatitis B, and some blood tests, like vitamin D or B12, aren't covered by the basic plan either. Your supplementary plan may cover them, so check with your insurer."
+  },
+  "sources": [
+   {
+    "label": "Assurance santé étudiante",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/insurance"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-assurance-changer-province",
+  "category": "sante",
+  "keywords": [
+   "changer de province",
+   "moving province",
+   "carte santé",
+   "health card",
+   "nouvelle province",
+   "ohip",
+   "ramq",
+   "trois mois"
+  ],
+  "question": {
+   "fr": "Je déménage en Ontario d'une autre province : que se passe-t-il avec ma carte santé ?",
+   "en": "I'm moving to Ontario from another province: what happens to my health card?"
+  },
+  "answer": {
+   "fr": "Si tu déménages d'une province à une autre, tu dois demander ta nouvelle carte santé dans les 3 mois pour garder une couverture continue ; pendant ce temps, ton ancienne province paie tes soins. Après 3 mois sans nouvelle carte, tu n'as plus de couverture provinciale. Si tu ne fais que visiter une autre province, ta carte reste valide pour recevoir des soins.",
+   "en": "If you move from one province to another, you need to apply for your new health card within 3 months to keep continuous coverage; meanwhile, your old province covers your care. After 3 months without a new card, you no longer have provincial coverage. If you're only visiting another province, your card still lets you receive care."
+  },
+  "sources": [
+   {
+    "label": "Assurance santé étudiante",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/insurance"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vaccin-grippe-campagne",
+  "category": "sante",
+  "keywords": [
+   "vaccin grippe",
+   "flu shot",
+   "flu vaccine",
+   "vaccination saisonnière",
+   "seasonal flu",
+   "pharmacie minto",
+   "sans rendez-vous"
+  ],
+  "question": {
+   "fr": "Quand et où puis-je recevoir le vaccin contre la grippe cette année ?",
+   "en": "When and where can I get the flu shot this year?"
+  },
+  "answer": {
+   "fr": "La campagne de vaccination contre la grippe a lieu du 26 octobre 2026 au 31 mars 2027, de 8 h à 16 h, à la pharmacie Shoppers Drug Mart du Complexe Minto, local N209. Tu peux y aller sans rendez-vous, mais les étudiants avec rendez-vous passent en priorité. Porte un chandail à manches courtes pour aller plus vite.",
+   "en": "The flu vaccine campaign runs from October 26, 2026, to March 31, 2027, from 8 a.m. to 4 p.m., at the Shoppers Drug Mart pharmacy in the Minto Complex, room N209. Walk-ins are welcome, but students with appointments get priority. Wear a short-sleeved shirt to make it quick."
+  },
+  "sources": [
+   {
+    "label": "Vaccin contre la grippe saisonnière – événement",
+    "url": "https://www.uottawa.ca/campus-life/events-all/seasonal-flu-vaccine"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-chien-therapie-vs-service",
+  "category": "sante",
+  "keywords": [
+   "chien de thérapie",
+   "therapy dog",
+   "chien d'assistance",
+   "service dog",
+   "différence",
+   "zoothérapie",
+   "animal"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre un chien de thérapie et un chien d'assistance ?",
+   "en": "What's the difference between a therapy dog and a service dog?"
+  },
+  "answer": {
+   "fr": "Un chien d'assistance est dressé pour aider une personne précise avec des tâches, par exemple guider une personne malvoyante. Un chien de thérapie, lui, est choisi pour rester calme pendant des visites encadrées avec beaucoup de gens, comme celles du Salon du mieux-être. Ses visites sur le campus sont organisées avec des organismes comme l'Ambulance Saint-Jean.",
+   "en": "A service dog is trained to perform tasks for a specific person, like guiding someone with a visual impairment. A therapy dog is chosen to stay calm during supervised visits with lots of people, like those at the Wellness Lounge. Campus visits are organized with groups such as St. John Ambulance."
+  },
+  "sources": [
+   {
+    "label": "Paws, pause, repeat – programme de chiens de thérapie",
+    "url": "https://www.uottawa.ca/campus-life/news-all/paws-pause-repeat-inside-uottawas-therapy-dog-program"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-centre-mieux-etre-musiciens",
+  "category": "sante",
+  "keywords": [
+   "musicien",
+   "musician",
+   "centre de mieux-être des musiciens",
+   "musician wellness centre",
+   "trac",
+   "performance anxiety",
+   "santé auditive",
+   "hearing"
+  ],
+  "question": {
+   "fr": "Y a-t-il des services de mieux-être pour les musiciens ?",
+   "en": "Are there wellness services for musicians?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre de mieux-être des musiciens offre des ateliers, des événements, du coaching et des consultations cliniques conçus pour les musiciens. On y aborde la prévention et le traitement de la douleur, la santé auditive, l'anxiété de performance et la pleine conscience. Le centre publie ses activités sur Facebook.",
+   "en": "Yes, the Musician Wellness Centre offers workshops, events, coaching and clinical consultations designed for musicians. Topics include pain prevention and treatment, hearing health, performance anxiety and mindfulness. The centre posts its activities on Facebook."
+  },
+  "sources": [
+   {
+    "label": "Services complémentaires sur le campus",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/complementary-services"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-compass",
+  "category": "sante",
+  "keywords": [
+   "compass",
+   "initiative étudiante",
+   "student-led",
+   "mieux-être",
+   "wellness project",
+   "bien-être étudiant",
+   "s'inscrire"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que Compass ?",
+   "en": "What is Compass?"
+  },
+  "answer": {
+   "fr": "Compass est une initiative menée par des étudiants pour soutenir la santé mentale et le mieux-être des étudiants. Tu peux découvrir le projet et t'y inscrire à partir de la page des services complémentaires du Centre de santé et de mieux-être.",
+   "en": "Compass is a student-led initiative to support student mental health and wellness. You can learn about the project and sign up from the Student Health and Wellness Centre's complementary services page."
+  },
+  "sources": [
+   {
+    "label": "Services complémentaires sur le campus",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/complementary-services"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-inviter-equipe-mieux-etre",
+  "category": "sante",
+  "keywords": [
+   "inviter",
+   "invite",
+   "équipe mieux-être",
+   "student wellness team",
+   "présentation en classe",
+   "classroom presentation",
+   "kiosque",
+   "événement"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux inviter l'équipe du mieux-être à mon événement ou dans ma classe ?",
+   "en": "Can I invite the Student Wellness team to my event or class?"
+  },
+  "answer": {
+   "fr": "Oui. Remplis la demande de participation de l'équipe du mieux-être étudiant, sur la page des ressources fréquemment utilisées, pour l'inviter à ton événement ou dans une classe. Pour toute question, contacte le 613-562-5777.",
+   "en": "Yes. Fill out the Student Wellness participation request, on the frequently used resources page, to invite the team to your event or classroom. For questions, call 613-562-5777."
+  },
+  "sources": [
+   {
+    "label": "Ressources fréquemment utilisées – Santé et mieux-être",
+    "url": "https://uottawa.ca/campus-life/health-wellness/frequently-used-services"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-gestion-cas-signaler-etudiant",
+  "category": "sante",
+  "keywords": [
+   "professeur inquiet",
+   "worried about a student",
+   "signaler étudiant",
+   "refer a student",
+   "gestion de cas",
+   "case management",
+   "consultation"
+  ],
+  "question": {
+   "fr": "Je suis professeur ou employé et je m'inquiète pour un étudiant : à qui m'adresser ?",
+   "en": "I'm a professor or staff member worried about a student: who do I contact?"
+  },
+  "answer": {
+   "fr": "Si sa sécurité est menacée ou que c'est une urgence, appelle tout de suite le Service de la protection au 613-562-5411. Sinon, tu peux remplir le formulaire de référence à l'équipe de gestion de cas, idéalement en prévenant l'étudiant, ou le formulaire de consultation si tu n'es pas sûr que ce soit le bon service. Après une référence, l'équipe communique avec l'étudiant d'habitude dans les 3 jours ouvrables.",
+   "en": "If the student's safety is at risk or it's an emergency, call Protection Services right away at 613-562-5411. Otherwise, fill out the referral form for the Case Management team, ideally letting the student know, or the consultation form if you're unsure it's the right service. After a referral, the team usually reaches out within 3 business days."
+  },
+  "sources": [
+   {
+    "label": "Gestion de cas",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/case-management"
+   },
+   {
+    "label": "Comprendre les temps d'attente",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/understanding-wait-times"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-ateliers-mieux-etre-tirage",
+  "category": "evenements",
+  "keywords": [
+   "ateliers mieux-être",
+   "wellness workshops",
+   "tirage",
+   "prize draw",
+   "carte-cadeau",
+   "gift card",
+   "bingo",
+   "café mieux-être"
+  ],
+  "question": {
+   "fr": "Quels ateliers de mieux-être sont offerts, et y a-t-il des prix à gagner ?",
+   "en": "What wellness workshops are offered, and are there prizes?"
+  },
+  "answer": {
+   "fr": "Le programme de mieux-être par les pairs offre, de septembre à mars, des ateliers interactifs comme Art for the Heart, le bingo lumineux, des quiz sur la santé sexuelle et des cafés mieux-être. Si tu participes à au moins trois ateliers en 2026-2027, selon les feuilles de présence signées, tu cours la chance de gagner une des deux cartes-cadeaux Le Choix du Président de 100 $. Le calendrier est sur la page des ateliers.",
+   "en": "From September to March, the Peer Wellness Program offers interactive workshops such as Art for the Heart, glow bingo, sex-ed trivia and wellness cafés. If you attend at least three workshops in 2026-2027, as shown on signed attendance sheets, you're entered to win one of two $100 President's Choice gift cards. The calendar is on the workshops page."
+  },
+  "sources": [
+   {
+    "label": "Événements et ateliers de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-workshop-series"
+   }
+  ],
+  "related": [
+   "zd-ateliers-sante-menstruelle",
+   "zd-ateliers-cuisine",
+   "zd-evenements-salle-manger"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-ateliers-sante-menstruelle",
+  "category": "evenements",
+  "keywords": [
+   "santé menstruelle",
+   "menstrual health",
+   "endométriose",
+   "endometriosis",
+   "sopk",
+   "pmos",
+   "atelier",
+   "workshop"
+  ],
+  "question": {
+   "fr": "Y a-t-il des ateliers sur la santé menstruelle ou l'endométriose ?",
+   "en": "Are there workshops on menstrual health or endometriosis?"
+  },
+  "answer": {
+   "fr": "Oui, l'équipe du mieux-être a offert à l'automne un atelier sur la santé menstruelle, le syndrome ovarien métabolique polyendocrinien et l'endométriose, ainsi qu'un atelier en deux parties sur les habitudes de vie pour gérer ces symptômes. Consulte le calendrier des ateliers de mieux-être pour les prochaines dates.",
+   "en": "Yes, this fall the Wellness team offered a workshop on menstrual health, polyendocrine metabolic ovarian syndrome and endometriosis, plus a two-part lifestyle workshop on managing those symptoms. Check the wellness workshops calendar for upcoming dates."
+  },
+  "sources": [
+   {
+    "label": "Événements et ateliers de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-workshop-series"
+   }
+  ],
+  "related": [
+   "zd-ateliers-mieux-etre-tirage",
+   "zd-ateliers-cuisine",
+   "zd-evenements-salle-manger"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-ateliers-cuisine",
+  "category": "evenements",
+  "keywords": [
+   "atelier cuisine",
+   "cooking workshop",
+   "tasty techniques",
+   "pantry remix",
+   "cuisiner pas cher",
+   "budget cooking",
+   "snack box"
+  ],
+  "question": {
+   "fr": "Y a-t-il des ateliers de cuisine gratuits pour les étudiants ?",
+   "en": "Are there free cooking workshops for students?"
+  },
+  "answer": {
+   "fr": "Oui, l'équipe du mieux-être offre des ateliers gratuits pour bien manger avec un petit budget, et tu repars avec ce que tu cuisines. Par exemple, Tasty Techniques a lieu le 25 novembre 2026 à la résidence Friel et le 3 mars 2027 au CUO, et Pantry Remix le 19 janvier 2027 au Terminus du CUO. Certains ateliers demandent une inscription.",
+   "en": "Yes, the Wellness team offers free workshops on eating well on a budget, and you take home what you cook. For example, Tasty Techniques takes place November 25, 2026, at Friel Residence and March 3, 2027, at the UCU, and Pantry Remix on January 19, 2027, at the UCU Terminus. Some require registration."
+  },
+  "sources": [
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   },
+   {
+    "label": "Événements et ateliers de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-workshop-series"
+   }
+  ],
+  "related": [
+   "zd-ateliers-mieux-etre-tirage",
+   "zd-ateliers-sante-menstruelle",
+   "zd-evenements-salle-manger"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-evenements-salle-manger",
+  "category": "evenements",
+  "keywords": [
+   "événements salle à manger",
+   "dining hall events",
+   "soirée thématique",
+   "themed meals",
+   "cuisine internationale",
+   "chef",
+   "repas thématique"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a des événements spéciaux à la Salle à manger ?",
+   "en": "Are there special events at the Dining Hall?"
+  },
+  "answer": {
+   "fr": "Oui, la Salle à manger organise plus de 70 événements pendant l'année universitaire : soirées de cuisine internationale, menus de chefs invités et célébrations saisonnières. Consulte la page des événements de la Salle à manger pour le calendrier.",
+   "en": "Yes, the Dining Hall hosts more than 70 events during the academic year: international cuisine nights, chef-inspired menus and seasonal celebrations. Check the Dining Hall events page for the calendar."
+  },
+  "sources": [
+   {
+    "label": "Événements de la Salle à manger",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/dining-hall/dining-hall-events"
+   },
+   {
+    "label": "Forfaits repas étudiants",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/meal-plan-options"
+   }
+  ],
+  "related": [
+   "zd-ateliers-mieux-etre-tirage",
+   "zd-ateliers-sante-menstruelle",
+   "zd-ateliers-cuisine"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-match-fierte-volleyball",
+  "category": "evenements",
+  "keywords": [
+   "match de la fierté",
+   "pride game",
+   "volleyball féminin",
+   "women's volleyball",
+   "gee-gees",
+   "rmc",
+   "montpetit"
+  ],
+  "question": {
+   "fr": "C'est quoi le match de la fierté des Gee-Gees en volleyball ?",
+   "en": "What is the Gee-Gees volleyball Pride game?"
+  },
+  "answer": {
+   "fr": "C'est un match de l'équipe féminine de volleyball des Gee-Gees contre le Collège militaire royal du Canada, pour célébrer l'amour et l'inclusion. Il a lieu le 28 novembre 2026, de 15 h à 17 h, au pavillon Montpetit, avec la prestation d'un artiste local et des cadeaux. Les billets se prennent en ligne.",
+   "en": "It's a Gee-Gees women's volleyball game against the Royal Military College of Canada that celebrates love and inclusion. It takes place November 28, 2026, from 3 to 5 p.m., in Montpetit Hall, with a local artist's performance and giveaways. Tickets are available online."
+  },
+  "sources": [
+   {
+    "label": "Match de la fierté – volleyball féminin",
+    "url": "https://www.uottawa.ca/campus-life/events-all/gee-gees-womens-volleyball-pride-game"
+   }
+  ],
+  "related": [
+   "zd-ateliers-mieux-etre-tirage",
+   "zd-ateliers-sante-menstruelle",
+   "zd-ateliers-cuisine"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-marche-payez-ce-que-vous-pouvez",
+  "category": "evenements",
+  "keywords": [
+   "payez ce que vous pouvez",
+   "pay what you can",
+   "marché",
+   "market",
+   "légumes",
+   "produce",
+   "sécurité alimentaire",
+   "pop-up"
+  ],
+  "question": {
+   "fr": "C'était quoi le marché « payez ce que vous pouvez » sur le campus ?",
+   "en": "What was the pay-what-you-can market on campus?"
+  },
+  "answer": {
+   "fr": "C'est le premier marché d'épicerie éphémère « payez ce que vous pouvez » de l'Université, tenu le 12 novembre 2026 au Carré universitaire. On suggérait un don de 5 $ pour un sac de fruits et légumes aux étudiants et de 20 $ au personnel ; l'argent est réinvesti dans la banque alimentaire de la SÉUO. C'est un projet pilote de la stratégie de sécurité alimentaire ; le Carrefour de soutien alimentaire annonce les prochains.",
+   "en": "It was the University's first pay-what-you-can grocery pop-up, held November 12, 2026, in University Square. Students were asked for a suggested $5 donation for a bag of produce and staff for $20; the money goes back into the UOSU Food Bank. It's a pilot under the food security strategy; the Food Support Hub lists upcoming ones."
+  },
+  "sources": [
+   {
+    "label": "Nouveau marché payez ce que vous pouvez",
+    "url": "https://www.uottawa.ca/campus-life/news-all/students-helping-students-new-pay-what-you-can-market-strengthens-food-security"
+   }
+  ],
+  "related": [
+   "zd-ateliers-mieux-etre-tirage",
+   "zd-ateliers-sante-menstruelle",
+   "zd-ateliers-cuisine"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-collation-bagues-cadres-fleurs",
+  "category": "evenements",
+  "keywords": [
+   "bague",
+   "ring",
+   "cadre diplôme",
+   "diploma frame",
+   "fleurs",
+   "flowers",
+   "collation des grades",
+   "convocation day"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux acheter une bague ou un cadre pour mon diplôme le jour de la collation ?",
+   "en": "Can I buy a ring or diploma frame on convocation day?"
+  },
+  "answer": {
+   "fr": "Oui, le Bureau des relations avec les diplômés vend les bagues officielles de l'Université et des cadres pour diplômes le jour de la collation des grades. Des bouquets de fleurs sont aussi vendus au Centre Rogers Ottawa le jour même.",
+   "en": "Yes, the Alumni Relations Office sells official University rings and diploma frames on convocation day. Flower bouquets are also sold at Rogers Centre Ottawa that day."
+  },
+  "sources": [
+   {
+    "label": "Le jour de la cérémonie – collation des grades",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   }
+  ],
+  "related": [
+   "zd-ateliers-mieux-etre-tirage",
+   "zd-ateliers-sante-menstruelle",
+   "zd-ateliers-cuisine"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-collation-deroulement",
+  "category": "evenements",
+  "keywords": [
+   "déroulement collation",
+   "convocation ceremony order",
+   "ordre de remise",
+   "phd",
+   "maîtrise",
+   "durée cérémonie",
+   "how long convocation"
+  ],
+  "question": {
+   "fr": "Comment se déroule la cérémonie de collation des grades ?",
+   "en": "How does the convocation ceremony unfold?"
+  },
+  "answer": {
+   "fr": "La cérémonie dure environ 2 h à 2 h 30 : discours d'ouverture, puis les diplômés traversent la scène dans l'ordre assigné, en commençant par les doctorats, puis les maîtrises et le premier cycle. Après la scène, tu passes en coulisses pour une photo et ton diplôme, puis tu retournes dans la salle jusqu'à la fin. Reste dans l'ordre où on t'a placé pour que ton nom soit lu correctement.",
+   "en": "The ceremony lasts about 2 to 2.5 hours: opening remarks, then graduates cross the stage in their assigned order, starting with PhDs, then master's and undergraduate degrees. After the stage, you go backstage for a photo and your diploma, then return to the hall until the end. Stay in the order you were placed so your name is read correctly."
+  },
+  "sources": [
+   {
+    "label": "Le jour de la cérémonie – collation des grades",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   }
+  ],
+  "related": [
+   "zd-ateliers-mieux-etre-tirage",
+   "zd-ateliers-sante-menstruelle",
+   "zd-ateliers-cuisine"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-doctorats-honorifiques",
+  "category": "evenements",
+  "keywords": [
+   "doctorat honorifique",
+   "honorary doctorate",
+   "honoris causa",
+   "collation",
+   "distinction",
+   "convocation honour"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'un doctorat honorifique ?",
+   "en": "What is an honorary doctorate?"
+  },
+  "answer": {
+   "fr": "C'est une distinction universitaire spéciale que l'Université décerne à des personnes dont les réalisations personnelles et professionnelles ont beaucoup apporté à l'Université, à leur discipline ou à la société. Les récipiendaires sont honorés lors des cérémonies de collation des grades et présentés sur la page de la cérémonie.",
+   "en": "It's a special academic distinction the University awards to people whose personal and professional achievements have made an invaluable contribution to the University, their field or society. Recipients are honoured during convocation ceremonies and listed on the ceremony page."
+  },
+  "sources": [
+   {
+    "label": "Le jour de la cérémonie – collation des grades",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   }
+  ],
+  "related": [
+   "zd-ateliers-mieux-etre-tirage",
+   "zd-ateliers-sante-menstruelle",
+   "zd-ateliers-cuisine"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-collation-photographe-personnel",
+  "category": "evenements",
+  "keywords": [
+   "photographe personnel",
+   "personal photographer",
+   "photos invités",
+   "guest photos",
+   "collation",
+   "prendre des photos",
+   "convocation pictures"
+  ],
+  "question": {
+   "fr": "Mes invités peuvent-ils prendre des photos pendant la collation, ou amener un photographe ?",
+   "en": "Can my guests take photos during convocation, or bring a photographer?"
+  },
+  "answer": {
+   "fr": "Les invités peuvent prendre des photos de leur siège en tout temps, et s'approcher du cordon à l'avant quand les diplômés sont appelés. Par contre, les photographes personnels ne sont pas permis pendant la cérémonie. Des photographes professionnels de PhotoGrad sont sur place, et la cérémonie est diffusée en direct sur YouTube.",
+   "en": "Guests can take photos from their seats at any time, and approach the rope at the front when graduates are called. However, personal photographers aren't allowed during the ceremony. Professional PhotoGrad photographers are on site, and the ceremony is livestreamed on YouTube."
+  },
+  "sources": [
+   {
+    "label": "Le jour de la cérémonie – collation des grades",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   }
+  ],
+  "related": [
+   "zd-ateliers-mieux-etre-tirage",
+   "zd-ateliers-sante-menstruelle",
+   "zd-ateliers-cuisine"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-collation-hebergement",
+  "category": "evenements",
+  "keywords": [
+   "hébergement collation",
+   "convocation accommodation",
+   "résidence invités",
+   "family stay",
+   "dormir",
+   "where to stay convocation",
+   "chambre"
+  ],
+  "question": {
+   "fr": "Où ma famille peut-elle dormir pour ma collation des grades ?",
+   "en": "Where can my family stay for my convocation?"
+  },
+  "answer": {
+   "fr": "Les résidences de l'Université offrent de l'hébergement pour les diplômés et leurs invités pendant la période de collation du printemps. Réserve ta chambre sur le site des résidences. Le jour même, le plus simple pour se rendre au Centre Rogers Ottawa est le train léger jusqu'à la station Rideau.",
+   "en": "University residences offer accommodation for graduates and their guests during the spring convocation period. Book your room on the residences website. On the day, the easiest way to reach Rogers Centre Ottawa is the LRT to Rideau Station."
+  },
+  "sources": [
+   {
+    "label": "Le jour de la cérémonie – collation des grades",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   }
+  ],
+  "related": [
+   "zd-ateliers-mieux-etre-tirage",
+   "zd-ateliers-sante-menstruelle",
+   "zd-ateliers-cuisine"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-irc-evenements",
+  "category": "evenements",
+  "keywords": [
+   "gala autochtone",
+   "indigenous student gala",
+   "journée d'orientation autochtone",
+   "indigenous orientation day",
+   "mashkawazìwogamig",
+   "événements autochtones",
+   "dîners étudiants"
+  ],
+  "question": {
+   "fr": "Quels événements organise le Centre de ressources autochtones ?",
+   "en": "What events does the Indigenous Resource Centre hold?"
+  },
+  "answer": {
+   "fr": "Mashkawazìwogamig organise notamment le Gala annuel des étudiants autochtones, des dîners étudiants et des ateliers, ainsi qu'une Journée d'orientation des étudiants autochtones pour faciliter ton arrivée. Le jeudi, de septembre à avril, un dîner soupe et bannique est offert à tous les étudiants au 145, privé Séraphin-Marion. Inscris-toi au centre pour recevoir les annonces.",
+   "en": "Mashkawazìwogamig holds the Annual Indigenous Student Gala, student lunches and workshops, plus an Indigenous Student Orientation Day to ease your transition. On Thursdays, from September to April, a soup and bannock lunch is open to all students at 145 Séraphin-Marion. Register with the centre to get announcements."
+  },
+  "sources": [
+   {
+    "label": "Centre de ressources autochtones Mashkawazìwogamig",
+    "url": "https://www.uottawa.ca/about-us/indigenous/indigenous-resource-centre"
+   },
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   }
+  ],
+  "related": [
+   "zd-ateliers-mieux-etre-tirage",
+   "zd-ateliers-sante-menstruelle",
+   "zd-ateliers-cuisine"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-salle-manger-regles-entree",
+  "category": "services",
+  "keywords": [
+   "salle à manger",
+   "dining hall",
+   "prix à la porte",
+   "door rate",
+   "entre deux repas",
+   "between meals",
+   "trois heures",
+   "argent comptant"
+  ],
+  "question": {
+   "fr": "Combien de temps je peux rester à la Salle à manger si je paie à la porte ?",
+   "en": "How long can I stay at the Dining Hall if I pay at the door?"
+  },
+  "answer": {
+   "fr": "Le prix à la porte est valide pour une période de repas ou jusqu'à trois heures, avec accès à toutes les stations. Si tu entres entre deux périodes, c'est le tarif du repas suivant qui s'applique. Si tu paies comptant, l'entrée est possible jusqu'à 22 h 30, car la Salle ferme à 23 h. Les tarifs sont affichés sur la page de la Salle à manger.",
+   "en": "The door rate is valid for one meal period or up to three hours, with access to all stations. If you come in between meal periods, the upcoming meal's rate applies. If you pay cash, entry is until 10:30 p.m., since the hall closes at 11 p.m. Rates are posted on the Dining Hall page."
+  },
+  "sources": [
+   {
+    "label": "Salle à manger – uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/dining-hall"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-enfants",
+   "zd-boite-repas"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-salle-manger-enfants",
+  "category": "services",
+  "keywords": [
+   "enfants",
+   "kids",
+   "famille",
+   "family",
+   "salle à manger",
+   "dining hall",
+   "rabais 50 %",
+   "diplômés",
+   "alumni"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux amener mes enfants à la Salle à manger ?",
+   "en": "Can I bring my kids to the Dining Hall?"
+  },
+  "answer": {
+   "fr": "Oui, tout le monde est bienvenu, et les enfants de 5 ans et moins ont 50 % de rabais sur le prix à la porte. Les employés doivent montrer leur carte d'employé pour avoir le tarif de la communauté universitaire, et les diplômés leur carte de membre de l'Association des diplômés.",
+   "en": "Yes, everyone is welcome, and kids 5 and under get 50% off the door rate. Employees need to show their employee card to get the University community rate, and alumni their Alumni Association membership card."
+  },
+  "sources": [
+   {
+    "label": "Salle à manger – uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/dining-hall"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-boite-repas"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-boite-repas",
+  "category": "services",
+  "keywords": [
+   "boîte-repas",
+   "boxed lunch",
+   "lunch à emporter",
+   "stage",
+   "placement",
+   "longues journées de cours",
+   "forfait repas"
+  ],
+  "question": {
+   "fr": "J'ai un forfait repas mais des cours toute la journée : est-ce que je peux avoir un lunch à emporter ?",
+   "en": "I have a meal plan but classes all day: can I get a boxed lunch?"
+  },
+  "answer": {
+   "fr": "Oui, si tu as un forfait de 5 ou 7 jours et cinq heures de cours consécutives ou plus, ou un stage hors campus, tu es admissible au programme de boîtes-repas. Inscris-toi par courriel avec une preuve, comme ton horaire, puis commande avant midi la veille. Ton lunch t'attend aux caisses de la Salle à manger à partir de 7 h.",
+   "en": "Yes, if you have a 5- or 7-day plan and five or more consecutive hours of classes, or an off-campus placement, you qualify for the boxed lunch program. Register by email with proof, like your schedule, then order by noon the day before. Your lunch is ready at the Dining Hall cashiers any time after 7 a.m."
+  },
+  "sources": [
+   {
+    "label": "Forfaits repas étudiants",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/meal-plan-options"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-dining-dollars-fin-session",
+  "category": "services",
+  "keywords": [
+   "dollars repas",
+   "dining dollars",
+   "dollars flex",
+   "flex dollars",
+   "fin de session",
+   "end of term",
+   "conversion",
+   "solde restant"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qui arrive à mes dollars repas qui restent à la fin de la session ?",
+   "en": "What happens to my leftover Dining dollars at the end of the term?"
+  },
+  "answer": {
+   "fr": "Les dollars repas inutilisés sont convertis en dollars Flex, moins les taxes applicables et des frais d'administration de 26 $. Les dollars Flex, eux, se reportent d'une année à l'autre sans frais. Attention : après six ans d'inactivité du compte, les fonds restants deviennent la propriété de l'Université.",
+   "en": "Unused Dining dollars are converted to Flex dollars, minus applicable taxes and a $26 admin fee. Flex dollars carry over from year to year with no fees. Note that after six years of account inactivity, the remaining funds become the University's property."
+  },
+  "sources": [
+   {
+    "label": "Forfaits repas étudiants",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/meal-plan-options"
+   },
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-dining-dollars-taxe",
+  "category": "services",
+  "keywords": [
+   "dollars repas",
+   "dining dollars",
+   "sans taxe",
+   "tax-free",
+   "économiser",
+   "save 13%",
+   "forfait repas",
+   "tvh"
+  ],
+  "question": {
+   "fr": "Est-ce que les dollars repas me font économiser les taxes ?",
+   "en": "Do Dining dollars save me tax?"
+  },
+  "answer": {
+   "fr": "Oui. Les dollars repas sont une monnaie sans taxe : tu évites la taxe de 13 % sur la nourriture préparée sur le campus, dans plus de 20 points de vente. Avec le forfait à la carte, tu peux aussi payer le tarif de la porte de la Salle à manger avec tes dollars repas et sauver la taxe. Les dollars repas sont réservés aux détenteurs d'un forfait.",
+   "en": "Yes. Dining dollars are tax-free: you avoid the 13% tax on food prepared on campus at more than 20 locations. With the pay-as-you-go plan, you can also use them to pay the Dining Hall door rate and skip the tax. Dining dollars are only for meal plan holders."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-exemption-forfait-obligatoire",
+  "category": "services",
+  "keywords": [
+   "exemption forfait repas",
+   "meal plan exemption",
+   "allergies",
+   "casher",
+   "kosher",
+   "diététiste",
+   "dietitian",
+   "résidence obligatoire"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux être exempté du forfait repas obligatoire en résidence ?",
+   "en": "Can I be exempted from the mandatory residence meal plan?"
+  },
+  "answer": {
+   "fr": "Seulement pour trois raisons : plusieurs allergies que le programme de restrictions alimentaires ne peut pas accommoder, des raisons religieuses comme une diète casher, ou une diète prescrite par un médecin que les Services alimentaires ne peuvent pas offrir. Contacte d'abord la diététiste ; le traitement peut prendre jusqu'à dix jours ouvrables et n'est pas garanti. Si c'est accepté, tu es remboursé à partir de la date où ton accès a pris fin.",
+   "en": "Only for three reasons: multiple food allergies the Dietary Restrictions Program can't accommodate, religious reasons like a kosher diet, or a physician-prescribed diet Food Services can't provide. Contact the dietitian first; processing can take up to ten business days and isn't guaranteed. If approved, you're refunded from the date your access ended."
+  },
+  "sources": [
+   {
+    "label": "Forfaits repas étudiants",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/meal-plan-options"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-programme-restrictions-alimentaires",
+  "category": "services",
+  "keywords": [
+   "allergie",
+   "allergy",
+   "maladie cœliaque",
+   "celiac",
+   "sans arachides",
+   "nut-free",
+   "restrictions alimentaires",
+   "dietary restrictions program"
+  ],
+  "question": {
+   "fr": "J'ai une allergie alimentaire ou la maladie cœliaque : comment manger en sécurité à la Salle à manger ?",
+   "en": "I have a food allergy or celiac disease: how can I eat safely at the Dining Hall?"
+  },
+  "answer": {
+   "fr": "Inscris-toi au programme de restrictions alimentaires si tu as un forfait de 5 ou 7 jours : les repas sont préparés dans une cuisine séparée, sans arachides ni noix, et une diététiste révise les recettes. Tu reçois un formulaire de commande le mardi matin et tu commandes avant le mercredi midi. Tes repas, identifiés à ton nom, t'attendent dans les frigos de la station My Pantry.",
+   "en": "Join the Dietary Restrictions Program if you have a 5- or 7-day plan: meals are made in a separate kitchen with no peanuts or tree nuts, and a dietitian reviews the recipes. You get an order form Tuesday mornings and order by noon Wednesday. Your meals, labelled with your name, wait for you in the My Pantry station fridges."
+  },
+  "sources": [
+   {
+    "label": "Restrictions alimentaires et allergies",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/dietary-restrictions"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-paniers-cadeaux",
+  "category": "services",
+  "keywords": [
+   "panier-cadeau",
+   "care package",
+   "colis",
+   "gâteau d'anniversaire",
+   "birthday cake",
+   "première moisson",
+   "cadeau étudiant",
+   "gift"
+  ],
+  "question": {
+   "fr": "Comment envoyer un panier-cadeau à un étudiant sur le campus ?",
+   "en": "How can I send a care package to a student on campus?"
+  },
+  "answer": {
+   "fr": "Les Services alimentaires offrent des paniers-cadeaux préparés par Première Moisson, comme le combo anniversaire avec gâteau personnalisé ou le combo gourmandises. Remplis le formulaire de commande en ligne ; on te rappellera pour le paiement, et la personne viendra chercher son cadeau chez Première Moisson. Les prix sont indiqués sur la page des paniers.",
+   "en": "Food Services offers care packages made by Première Moisson, such as the birthday combo with a personalized cake or the sweet tooth combo. Fill out the online order form; you'll be called for payment, and the recipient picks up the gift at Première Moisson. Prices are listed on the care packages page."
+  },
+  "sources": [
+   {
+    "label": "Paniers-cadeaux – Services alimentaires",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/care-packages"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-commentaires-services-alimentaires",
+  "category": "services",
+  "keywords": [
+   "plainte nourriture",
+   "food complaint",
+   "commentaires",
+   "feedback",
+   "salle à manger",
+   "text n tell",
+   "restaurant campus",
+   "services alimentaires"
+  ],
+  "question": {
+   "fr": "Comment faire une plainte ou un commentaire sur la nourriture du campus ?",
+   "en": "How do I complain or give feedback about campus food?"
+  },
+  "answer": {
+   "fr": "Tu peux parler directement aux chefs ou aux gérants de salle, utiliser Text 'n Tell dans la Salle à manger, remplir le formulaire de commentaires en ligne ou laisser un message au 613-562-5800, poste 2075. Le formulaire te permet de choisir le point de service visé et le sujet, comme la propreté, le prix ou le bilinguisme, et d'ajouter une photo.",
+   "en": "You can talk directly to the chefs or floor managers, use Text 'n Tell in the Dining Hall, fill out the online feedback form or leave a voicemail at 613-562-5800, ext. 2075. The form lets you pick the location and the topic, like cleanliness, price or bilingualism, and add a photo."
+  },
+  "sources": [
+   {
+    "label": "Commentaires – Services alimentaires",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/feedback"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-food-lounge-gee-gees",
+  "category": "services",
+  "keywords": [
+   "athlètes",
+   "student athletes",
+   "gee-gees food lounge",
+   "repas gratuits",
+   "free meals",
+   "minto",
+   "cuisine commune"
+  ],
+  "question": {
+   "fr": "Y a-t-il du soutien alimentaire pour les athlètes des Gee-Gees ?",
+   "en": "Is there food support for Gee-Gees athletes?"
+  },
+  "answer": {
+   "fr": "Oui, le Gee-Gees Food Lounge, au Complexe sportif Minto, est un espace réservé aux étudiants-athlètes. On y trouve des repas gratuits, de la cuisine en groupe, des ateliers de cuisine et un lieu pour socialiser, chaque semaine.",
+   "en": "Yes, the Gee-Gees Food Lounge at the Minto Sports Complex is a space for student athletes. It offers free meals, communal cooking, cooking workshops and a place to socialize, every week."
+  },
+  "sources": [
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-meal-friel",
+  "category": "services",
+  "keywords": [
+   "meal@friel",
+   "résidence friel",
+   "repas communautaire",
+   "community meal",
+   "repas chaud",
+   "hot meal",
+   "st. alban"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que Meal@Friel ?",
+   "en": "What is Meal@Friel?"
+  },
+  "answer": {
+   "fr": "Ce sont des repas communautaires chauds offerts aux étudiants de la résidence Friel, au 240, rue Friel, en partenariat avec l'église St. Alban's. C'est sans inscription, toutes les deux semaines.",
+   "en": "It's hot community meals for students living in Friel residence, at 240 Friel Street, in partnership with St. Alban's Church. It's drop-in, every two weeks."
+  },
+  "sources": [
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-paysages-comestibles",
+  "category": "services",
+  "keywords": [
+   "arbres fruitiers",
+   "fruit trees",
+   "paysages comestibles",
+   "edible landscapes",
+   "bleuets",
+   "pommes",
+   "pollinisateurs",
+   "cueillir"
+  ],
+  "question": {
+   "fr": "Est-ce vrai qu'on peut cueillir des fruits sur le campus ?",
+   "en": "Is it true you can pick fruit on campus?"
+  },
+  "answer": {
+   "fr": "Oui ! Des arbustes et arbres fruitiers, comme des pommiers, des poiriers, des camerisiers et des bleuetiers, ont été plantés pour la communauté. On les trouve notamment devant le pavillon Lamoureux, près de l'entrée de la Salle à manger du CUO et près de la bibliothèque Morisset, de la fin mai à octobre, sans inscription.",
+   "en": "Yes! Fruit bushes and trees, like apple, pear, haskap and blueberry, were planted for the community. You'll find them in front of Lamoureux Hall, near the UCU Dining Hall entrance and near Morisset Library, from late May to October, no sign-up needed."
+  },
+  "sources": [
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   },
+   {
+    "label": "uOttawa takes a fruitful leap forward",
+    "url": "https://www.uottawa.ca/campus-life/news-all/uottawa-takes-fruitful-leap-forward"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-cuisinette-deja-vu",
+  "category": "services",
+  "keywords": [
+   "cuisinette",
+   "kitchenette",
+   "déjà vu",
+   "cuisiner sur le campus",
+   "cook on campus",
+   "fed up",
+   "séuo"
+  ],
+  "question": {
+   "fr": "Y a-t-il un endroit sur le campus où je peux cuisiner ?",
+   "en": "Is there a place on campus where I can cook?"
+  },
+  "answer": {
+   "fr": "Oui, dans le cadre de la campagne Fed Up de la SÉUO, les étudiants peuvent louer gratuitement la cuisinette du Déjà Vu. La campagne offre aussi un repas chaud gratuit pendant les examens finaux, avec l'église St. Albans, et un kiosque de légumes gratuits à la bibliothèque Morisset pendant les examens d'hiver.",
+   "en": "Yes, through UOSU's Fed Up campaign, students can rent the Deja Vu kitchenette for free. The campaign also offers a free hot meal during final exams, with St. Albans Church, and a free produce stand in Morisset Library during winter exams."
+  },
+  "sources": [
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-aide-alimentaire-gatineau",
+  "category": "services",
+  "keywords": [
+   "gatineau",
+   "banque alimentaire",
+   "food bank",
+   "aide alimentaire",
+   "centre en sécurité alimentaire",
+   "rue guay",
+   "outaouais"
+  ],
+  "question": {
+   "fr": "J'habite à Gatineau : où trouver de l'aide alimentaire d'urgence ?",
+   "en": "I live in Gatineau: where can I find emergency food help?"
+  },
+  "answer": {
+   "fr": "Le Centre en sécurité alimentaire de Gatineau, au 176, rue Guay, offre de l'aide alimentaire d'urgence une fois par mois aux résidents de Gatineau. Prends rendez-vous par appel ou texto au 873-376-2724, ou présente-toi en personne avec une pièce d'identité et une preuve d'adresse. Tu peux aussi chercher par adresse sur le site de Moisson Outaouais.",
+   "en": "The Centre en sécurité alimentaire de Gatineau, at 176 rue Guay, offers emergency food assistance once a month to Gatineau residents. Book by calling or texting 873-376-2724, or go in person with ID and proof of address. You can also search by address on Moisson Outaouais's website."
+  },
+  "sources": [
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-salle-manger-verte",
+  "category": "services",
+  "keywords": [
+   "restaurant vert",
+   "green restaurant",
+   "certification",
+   "4 étoiles",
+   "4-star",
+   "salle à manger écologique",
+   "durabilité"
+  ],
+  "question": {
+   "fr": "Est-ce que la Salle à manger est écologique ?",
+   "en": "Is the Dining Hall eco-friendly?"
+  },
+  "answer": {
+   "fr": "Oui, depuis 2023, c'est la première salle à manger universitaire au Canada certifiée Restaurant vert 4 étoiles. La Green Restaurant Association évalue l'eau et l'énergie, les déchets et les produits jetables, l'approvisionnement durable et les produits de nettoyage. Sa conception zéro déchet a réduit les emballages pour emporter de près d'un million d'articles par année.",
+   "en": "Yes, since 2023 it's been Canada's first 4-star Certified Green university dining hall. The Green Restaurant Association assesses water and energy use, waste and disposables, sustainable sourcing and cleaning products. Its zero-waste design cut take-out packaging by nearly a million items a year."
+  },
+  "sources": [
+   {
+    "label": "Durabilité alimentaire sur le campus",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/food-sustainability-zero-waste"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-ustensiles-reutilisables",
+  "category": "services",
+  "keywords": [
+   "ustensiles",
+   "cutlery",
+   "fourchette",
+   "utensils",
+   "plastique",
+   "single-use plastic",
+   "bois",
+   "ustensiles gee-gees"
+  ],
+  "question": {
+   "fr": "Pourquoi il n'y a pas d'ustensiles en plastique sur le campus ?",
+   "en": "Why aren't there plastic utensils on campus?"
+  },
+  "answer": {
+   "fr": "Pour respecter l'interdiction fédérale des plastiques à usage unique, le campus a réduit les ustensiles jetables. Des ustensiles en bois compostables sont offerts sur demande au comptoir, avec un supplément de 25 cents. Tu peux aussi acheter les ustensiles réutilisables en acier inoxydable des Gee-Gees pour 5,99 $ plus taxes, par exemple au Go Café de Lamoureux ou chez Paramount au CRX.",
+   "en": "To follow the federal ban on single-use plastics, the campus cut back on disposable utensils. Compostable wooden ones are available on request at the counter for a 25-cent surcharge. You can also buy Gee-Gees reusable stainless steel cutlery for $5.99 plus tax, for example at Go Café in Lamoureux or Paramount in CRX."
+  },
+  "sources": [
+   {
+    "label": "Durabilité alimentaire sur le campus",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/food-sustainability-zero-waste"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-friendlier",
+  "category": "services",
+  "keywords": [
+   "friendlier",
+   "contenant réutilisable",
+   "reusable container",
+   "consigne",
+   "deposit",
+   "50 cents",
+   "zéro déchet",
+   "retour contenant"
+  ],
+  "question": {
+   "fr": "Comment fonctionnent les contenants Friendlier ?",
+   "en": "How do Friendlier containers work?"
+  },
+  "answer": {
+   "fr": "Dans les comptoirs participants, comme les Go Café, Paramount ou Elements, ton repas dans un contenant Friendlier inclut une consigne de 50 cents. Scanne le contenant avec l'application Friendlier, vide les restes et dépose-le dans un bac de retour ; ta consigne revient dans l'application, ce qui peut prendre jusqu'à deux semaines. Pas besoin de le laver, et sans téléphone, tu peux réclamer sur le site de Friendlier.",
+   "en": "At participating counters, like Go Café, Paramount or Elements, a meal in a Friendlier container includes a 50-cent deposit. Scan the container with the Friendlier app, scrape out leftovers and drop it in a return bin; your deposit comes back in the app, which can take up to two weeks. No need to wash it, and without a phone you can claim it on Friendlier's website."
+  },
+  "sources": [
+   {
+    "label": "Friendlier – Services alimentaires",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/friendlier"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-reduction-dechets-alimentaires",
+  "category": "services",
+  "keywords": [
+   "déchets",
+   "waste reduction",
+   "styromousse",
+   "styrofoam",
+   "huile de cuisson",
+   "biocarburant",
+   "compost",
+   "eau embouteillée"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que les Services alimentaires font pour réduire les déchets ?",
+   "en": "What does Food Services do to reduce waste?"
+  },
+  "answer": {
+   "fr": "Toute l'huile de cuisson usée est transformée en biocarburant, et les emballages en styromousse sont interdits sur tout le campus. uOttawa a été la première université ontarienne à interdire la vente d'eau embouteillée, et les restes de production alimentaire sont compostés. Il y a aussi le programme de tasses réutilisables, avec un rabais de 10 cents sur ta boisson.",
+   "en": "All used cooking oil is turned into biofuel, and Styrofoam food packaging is banned campus-wide. uOttawa was the first Ontario university to ban bottled water sales, and food production scraps are composted. There's also the reusable cup program, with 10 cents off your drink."
+  },
+  "sources": [
+   {
+    "label": "Durabilité alimentaire sur le campus",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/food-sustainability-zero-waste"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-strategie-securite-alimentaire",
+  "category": "services",
+  "keywords": [
+   "sécurité alimentaire",
+   "food security",
+   "stratégie",
+   "strategy",
+   "insécurité alimentaire",
+   "food insecurity",
+   "paniers",
+   "hampers"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que la stratégie de sécurité alimentaire de l'Université ?",
+   "en": "What is the University's food security strategy?"
+  },
+  "answer": {
+   "fr": "C'est un plan de cinq ans de uOttawa, de la SÉUO et de la GSAÉD pour améliorer l'accès à la nourriture. La première année prévoit entre autres 2 685 repas chauds de plus aux campus Lees et Roger-Guindon, 2 200 sacs de légumes de plus et 377 paniers de plus à la banque alimentaire de la SÉUO. Selon l'enquête canadienne sur le bien-être sur les campus de 2025, 42 % des étudiants de uOttawa vivent une forme d'insécurité alimentaire.",
+   "en": "It's a five-year plan by uOttawa, UOSU and GSAÉD to improve access to food. Year one includes 2,685 extra hot meals at the Lees and Roger Guindon campuses, 2,200 more produce bags and 377 more hampers at the UOSU Food Bank. According to the 2025 Canadian Campus Wellbeing Survey, 42% of uOttawa students experience some degree of food insecurity."
+  },
+  "sources": [
+   {
+    "label": "Stratégie de sécurité alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/food-security-strategy"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-aider-insecurite-alimentaire",
+  "category": "services",
+  "keywords": [
+   "faire un don",
+   "donate",
+   "fonds d'accès alimentaire",
+   "food access fund",
+   "mardi je donne",
+   "giving tuesday",
+   "denrées non périssables",
+   "aider"
+  ],
+  "question": {
+   "fr": "Comment aider les étudiants qui manquent de nourriture ?",
+   "en": "How can I help students who don't have enough food?"
+  },
+  "answer": {
+   "fr": "Tu peux donner au Fonds d'accès alimentaire de uOttawa, présenté sur la page de la stratégie de sécurité alimentaire. Le 1er décembre, la campagne Mardi je donne de l'Université vise l'insécurité alimentaire, et tu peux aussi donner des denrées non périssables. Les marchés « payez ce que vous pouvez » financent aussi la banque alimentaire de la SÉUO.",
+   "en": "You can donate to the uOttawa Food Access Fund, featured on the food security strategy page. On December 1, the University's Giving Tuesday drive focuses on food insecurity, and you can also donate non-perishable food. Pay-what-you-can markets also fund the UOSU Food Bank."
+  },
+  "sources": [
+   {
+    "label": "Stratégie de sécurité alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/food-security-strategy"
+   },
+   {
+    "label": "The Gee – bulletin étudiant",
+    "url": "https://www.uottawa.ca/campus-life/the-gee"
+   },
+   {
+    "label": "Nouveau marché payez ce que vous pouvez",
+    "url": "https://www.uottawa.ca/campus-life/news-all/students-helping-students-new-pay-what-you-can-market-strengthens-food-security"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-free-food-alert-cueillette",
+  "category": "services",
+  "keywords": [
+   "free food alert",
+   "nourriture gratuite",
+   "free food",
+   "restes d'événements",
+   "leftovers",
+   "contenant",
+   "hôte",
+   "host"
+  ],
+  "question": {
+   "fr": "Comment je récupère la nourriture annoncée par Free Food Alert ?",
+   "en": "How do I pick up food announced on Free Food Alert?"
+  },
+  "answer": {
+   "fr": "Inscris-toi avec ton adresse @uOttawa.ca : tu reçois une notification dans l'application et un courriel quand il reste de la nourriture après un événement. Tu as un délai limité, fixé par l'hôte, pour aller la chercher, et tu dois apporter ton propre contenant, thermos ou tasse. Les professeurs et employés peuvent aussi devenir hôtes et envoyer des alertes après leurs événements.",
+   "en": "Sign up with your @uOttawa.ca address: you'll get an app notification and an email when food is left over after an event. You have a limited window, set by the host, to pick it up, and you must bring your own container, thermos or mug. Professors and staff can also become hosts and send alerts after their events."
+  },
+  "sources": [
+   {
+    "label": "Lancement de Free Food Alert",
+    "url": "https://www.uottawa.ca/campus-life/news-all/free-food-alert-launch"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-utilisations",
+  "category": "services",
+  "keywords": [
+   "carte étudiante",
+   "student card",
+   "à quoi sert",
+   "what is it for",
+   "uottawa card",
+   "carte bibliothèque",
+   "clé résidence",
+   "carleton"
+  ],
+  "question": {
+   "fr": "À quoi sert ma carte étudiante uOttawa ?",
+   "en": "What is my uOttawa student card used for?"
+  },
+  "answer": {
+   "fr": "C'est ta pièce d'identité officielle, aussi exigée aux examens et au Centre de santé. Elle sert de clé pour les résidences, les labos et certaines classes, de carte d'accès aux installations sportives, de U-Pass et de carte de forfait repas. C'est aussi ta carte de bibliothèque, valide pour emprunter aux bibliothèques affiliées de Carleton et de l'Université Saint-Paul.",
+   "en": "It's your official ID, also required at exams and at the Health Centre. It's your key card for residences, labs and some classrooms, your sports facility pass, your U-Pass and your meal plan card. It's also your library card, valid for borrowing at the affiliated Carleton and Saint Paul University libraries."
+  },
+  "sources": [
+   {
+    "label": "Carte étudiante uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/student-card"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-photo-exigences",
+  "category": "services",
+  "keywords": [
+   "photo carte étudiante",
+   "student card photo",
+   "exigences photo",
+   "photo requirements",
+   "lunettes",
+   "glasses",
+   "photo refusée",
+   "rejected photo"
+  ],
+  "question": {
+   "fr": "Quelles sont les exigences pour la photo de ma carte étudiante ?",
+   "en": "What are the requirements for my student card photo?"
+  },
+  "answer": {
+   "fr": "Elles ressemblent à celles d'une photo de passeport : photo récente de moins de six mois, en couleur, sans filtre, sur fond blanc ou gris pâle, le visage centré et rien qui le touche. Pas de lunettes de soleil ni de couvre-chef, sauf les couvre-chefs religieux qui laissent tout le visage visible ; les lunettes teintées sur ordonnance sont permises si on voit tes yeux. Une photo non conforme est refusée et retarde ta carte.",
+   "en": "They mirror passport photo rules: a photo taken in the last six months, in colour, no filters, on a plain white or light grey background, face centred with nothing touching it. No sunglasses or headgear, except religious head coverings that keep your full face visible; tinted prescription glasses are fine if your eyes show. A photo that doesn't comply is rejected and delays your card."
+  },
+  "sources": [
+   {
+    "label": "Obtenir une carte étudiante uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/student-card/get-student-card"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-photo-voile",
+  "category": "services",
+  "keywords": [
+   "voile",
+   "veil",
+   "niqab",
+   "photo carte",
+   "student card photo",
+   "employée femme",
+   "female employee",
+   "infoservice"
+  ],
+  "question": {
+   "fr": "Je porte un voile qui cache une partie de mon visage : comment faire ma photo de carte étudiante ?",
+   "en": "I wear a veil that covers part of my face: how do I get my student card photo?"
+  },
+  "answer": {
+   "fr": "Tu peux contacter InfoService pour être photographiée sans ton voile par une employée, avant l'ouverture d'InfoService à 9 h. Les couvre-chefs religieux sont acceptés sur la photo s'ils laissent tout le visage visible.",
+   "en": "You can contact InfoService to arrange to be photographed without your veil by a female employee, before InfoService opens at 9 a.m. Religious head coverings are accepted in the photo if your full face is visible."
+  },
+  "sources": [
+   {
+    "label": "Obtenir une carte étudiante uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/student-card/get-student-card"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-pieces-identite",
+  "category": "services",
+  "keywords": [
+   "pièce d'identité",
+   "id",
+   "récupérer carte",
+   "pick up card",
+   "passeport",
+   "permis de conduire",
+   "carte de statut",
+   "acceptée"
+  ],
+  "question": {
+   "fr": "Quelle pièce d'identité je dois apporter pour récupérer ma carte étudiante ?",
+   "en": "What ID do I need to pick up my student card?"
+  },
+  "answer": {
+   "fr": "Une pièce d'identité valide émise par un gouvernement, par exemple un passeport, une carte NEXUS, un permis de conduire, une carte de statut indien, une carte de résident permanent, un certificat de citoyenneté ou un certificat de naissance. Les cartes de crédit et les autres pièces ne sont pas acceptées. Va au Service de la carte uOttawa, 90, privé Université, local 145.",
+   "en": "Valid government-issued ID, such as a passport, NEXUS card, driver's licence, Indian Status Card, permanent resident card, citizenship certificate or birth certificate. Credit cards and other IDs aren't accepted. Go to the uOttawa Card Service, 90 University Private, room 145."
+  },
+  "sources": [
+   {
+    "label": "Obtenir une carte étudiante uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/student-card/get-student-card"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-bornes-recharge",
+  "category": "services",
+  "keywords": [
+   "borne de rechargement",
+   "card loader",
+   "ajouter des fonds",
+   "add funds",
+   "dollars flex",
+   "recharger carte",
+   "carte visiteur",
+   "discover uottawa"
+  ],
+  "question": {
+   "fr": "Où sont les bornes pour ajouter de l'argent sur ma carte uOttawa ?",
+   "en": "Where are the machines to add money to my uOttawa card?"
+  },
+  "answer": {
+   "fr": "Il y a des bornes au pavillon Morisset (1er étage), au pavillon Fauteux (4e étage, bibliothèque), au pavillon Lamoureux (bibliothèque, local 203), au pavillon Tabaret (InfoService, local 129), dans le hall du 90 Université et à la bibliothèque de Roger-Guindon. Tape ta carte, paie par Visa, Mastercard ou Interac Flash, puis tape ta carte de nouveau. Tu peux aussi y acheter une carte visiteur Discover uOttawa pour 3 $.",
+   "en": "Card loaders are in Morisset Hall (1st floor), Fauteux Hall (4th floor library), Lamoureux Hall (library, room 203), Tabaret Hall (InfoService, room 129), the 90 University lobby and the Roger Guindon library. Tap your card, pay by Visa, Mastercard or Interac Flash, then tap again. You can also buy a Discover uOttawa visitor card there for $3."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-depot-en-ligne",
+  "category": "services",
+  "keywords": [
+   "dépôt en ligne",
+   "online deposit",
+   "ajouter argent",
+   "add money",
+   "minimum",
+   "interac",
+   "portail carte",
+   "uoaccess"
+  ],
+  "question": {
+   "fr": "Comment ajouter de l'argent en ligne sur ma carte uOttawa ?",
+   "en": "How do I add money online to my uOttawa card?"
+  },
+  "answer": {
+   "fr": "Connecte-toi au portail de la carte uOttawa avec ton identifiant uoAccès et ton mot de passe. Tu peux payer par Visa, Mastercard ou virement Interac en ligne, avec certaines banques comme BMO, TD, RBC et Banque Scotia. Le dépôt minimum est de 26 $.",
+   "en": "Log in to the uOttawa Card portal with your uoAccess ID and password. You can pay by Visa, Mastercard or Interac online transfer with certain banks, like BMO, TD, RBC and Scotiabank. The minimum deposit is $26."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-parents",
+  "category": "services",
+  "keywords": [
+   "parents",
+   "ajouter des fonds",
+   "add funds",
+   "carte de mon enfant",
+   "dependant's card",
+   "dollars flex",
+   "accès parent",
+   "parent access"
+  ],
+  "question": {
+   "fr": "Mes parents peuvent-ils mettre de l'argent sur ma carte uOttawa ?",
+   "en": "Can my parents put money on my uOttawa card?"
+  },
+  "answer": {
+   "fr": "Oui. Avec l'accès parent du portail en ligne, ils se connectent avec ton numéro d'étudiant et ton nom de famille. Ils peuvent ajouter des fonds, mais pas voir tes transactions ni désactiver ta carte.",
+   "en": "Yes. With parent access in the online portal, they log in using your student number and last name. They can add funds, but they can't see your transactions or deactivate your card."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-contester-transaction",
+  "category": "services",
+  "keywords": [
+   "contester",
+   "dispute",
+   "transaction non autorisée",
+   "unauthorized charge",
+   "carte uottawa",
+   "erreur de paiement",
+   "remboursement"
+  ],
+  "question": {
+   "fr": "Je vois une transaction que je n'ai pas faite sur ma carte uOttawa : que faire ?",
+   "en": "I see a transaction I didn't make on my uOttawa card: what do I do?"
+  },
+  "answer": {
+   "fr": "Essaie d'abord de régler le problème directement avec le commerce ou le service concerné. Si ça ne marche pas, avise le Service de la carte uOttawa en personne dans les 30 jours suivant la transaction ; chaque contestation est traitée au cas par cas. Si ta carte a été perdue ou volée, désactive-la tout de suite en ligne.",
+   "en": "First try to settle it directly with the vendor or service involved. If that doesn't work, notify the uOttawa Card Service in person within 30 days of the transaction; each dispute is handled case by case. If your card was lost or stolen, deactivate it online right away."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-remboursement-flex",
+  "category": "services",
+  "keywords": [
+   "remboursement",
+   "refund",
+   "dollars flex",
+   "flex dollars",
+   "forfait repas",
+   "meal plan refund",
+   "formulaire",
+   "argent sur la carte"
+  ],
+  "question": {
+   "fr": "Comment me faire rembourser l'argent qui reste sur ma carte uOttawa ?",
+   "en": "How do I get a refund for money left on my uOttawa card?"
+  },
+  "answer": {
+   "fr": "Remplis le formulaire de remboursement pour les dollars Flex ou le forfait repas, après avoir vérifié ton admissibilité dans l'entente du titulaire de carte, aux sections 9 et 15. Une demande ne garantit pas le remboursement. Sinon, tes dollars Flex se reportent d'année en année sans frais.",
+   "en": "Fill out the refund form for Flex dollars or a meal plan, after checking your eligibility in the cardholder agreement, sections 9 and 15. Submitting a request doesn't guarantee approval. Otherwise, your Flex dollars carry over from year to year with no fees."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-paiement-comptoir",
+  "category": "services",
+  "keywords": [
+   "argent comptant",
+   "cash",
+   "service de la carte",
+   "card service",
+   "paiement",
+   "chèque certifié",
+   "mandat",
+   "money order"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux payer comptant au Service de la carte uOttawa ?",
+   "en": "Can I pay cash at the uOttawa Card Service?"
+  },
+  "answer": {
+   "fr": "Non, le Service de la carte n'accepte pas l'argent comptant. Au comptoir, tu peux payer par carte de crédit Visa ou Mastercard, par Interac, ou par chèque certifié ou mandat en dollars canadiens, à l'ordre de « uOttawa Card Service ». Le bureau est au 90, privé Université, local 145.",
+   "en": "No, the Card Service doesn't accept cash. At the counter, you can pay by Visa or Mastercard, Interac, or a certified cheque or money order in Canadian dollars made out to \"uOttawa Card Service\". The office is at 90 University Private, room 145."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-heures-ete",
+  "category": "services",
+  "keywords": [
+   "heures d'été",
+   "summer hours",
+   "service de la carte",
+   "card service",
+   "u-pass bureau",
+   "heures d'ouverture",
+   "opening hours",
+   "90 université"
+  ],
+  "question": {
+   "fr": "Quelles sont les heures du Service de la carte uOttawa l'été ?",
+   "en": "What are the uOttawa Card Service's summer hours?"
+  },
+  "answer": {
+   "fr": "Du 11 mai au 7 août 2026, le Service de la carte était ouvert du lundi au vendredi, de 9 h à 15 h 30. Du 10 août 2026 au 10 mai 2027, c'est de 9 h à 16 h 30, du lundi au vendredi. Les heures changent chaque année, alors vérifie la page avant de te déplacer.",
+   "en": "From May 11 to August 7, 2026, the Card Service was open Monday to Friday, 9 a.m. to 3:30 p.m. From August 10, 2026, to May 10, 2027, it's 9 a.m. to 4:30 p.m., Monday to Friday. Hours change each year, so check the page before you go."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-flex-ou-utiliser",
+  "category": "services",
+  "keywords": [
+   "dollars flex",
+   "flex dollars",
+   "où utiliser",
+   "where to use",
+   "buanderie",
+   "laundry",
+   "distributrices",
+   "vending machines"
+  ],
+  "question": {
+   "fr": "Où est-ce que je peux utiliser mes dollars Flex ?",
+   "en": "Where can I use my Flex dollars?"
+  },
+  "answer": {
+   "fr": "Partout sur le campus où la carte est acceptée : Salle à manger, kiosques alimentaires, distributrices, buanderies des résidences, Librairie du campus, docUcentre, impression et photocopies. Tu peux même payer des documents officiels et des frais de retard. Il n'y a aucuns frais bancaires, et tu profites des caisses express à la Librairie et à la Salle à manger.",
+   "en": "Anywhere on campus the card is accepted: the Dining Hall, food kiosks, vending machines, residence laundry, the Campus Bookstore, docUcentre, printing and photocopying. You can even pay for official documents and late fees. There are no banking fees, and you get express checkout at the Bookstore and Dining Hall."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   },
+   {
+    "label": "Carte étudiante uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/student-card"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-irc-inscription",
+  "category": "services",
+  "keywords": [
+   "s'identifier autochtone",
+   "identify as indigenous",
+   "inscription centre autochtone",
+   "register irc",
+   "premières nations",
+   "inuit",
+   "métis",
+   "liste d'envoi"
+  ],
+  "question": {
+   "fr": "Comment m'inscrire au Centre de ressources autochtones ?",
+   "en": "How do I register with the Indigenous Resource Centre?"
+  },
+  "answer": {
+   "fr": "Si tu t'identifies comme membre des Premières Nations, Inuit ou Métis, inscris-toi en personne au centre Mashkawazìwogamig, au 145, privé Séraphin-Marion, ou écris-lui pour t'identifier. Tu seras ajouté à la liste d'envoi pour les événements, les offres d'emploi et les dates limites de bourses. Les visites sans rendez-vous sont bienvenues, ou prends rendez-vous au 613-562-5800, poste 4529.",
+   "en": "If you identify as First Nations, Inuit or Métis, register in person at Mashkawazìwogamig, 145 Séraphin-Marion Private, or email the centre to identify. You'll be added to the mailing list for events, job postings and scholarship deadlines. Walk-ins are welcome, or book an appointment at 613-562-5800, ext. 4529."
+  },
+  "sources": [
+   {
+    "label": "Centre de ressources autochtones Mashkawazìwogamig",
+    "url": "https://www.uottawa.ca/about-us/indigenous/indigenous-resource-centre"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-irc-services",
+  "category": "services",
+  "keywords": [
+   "aîné",
+   "elder",
+   "gardien du savoir",
+   "knowledge keeper",
+   "aide juridique",
+   "legal advice",
+   "labo informatique",
+   "computer lab"
+  ],
+  "question": {
+   "fr": "Quels services offre le Centre de ressources autochtones ?",
+   "en": "What services does the Indigenous Resource Centre offer?"
+  },
+  "answer": {
+   "fr": "Une fois inscrit, tu as accès à de l'orientation scolaire et personnelle, du soutien par les pairs, du mentorat par des étudiants autochtones plus avancés et des offres d'emploi. Tu peux rencontrer un aîné ou un gardien du savoir traditionnel, seul ou en groupe. Le centre offre aussi des références juridiques gratuites par la Clinique juridique communautaire, et des postes d'étude, un labo informatique et une imprimante.",
+   "en": "Once registered, you get academic and personal guidance, peer support, mentoring by upper-year Indigenous students and job postings. You can meet an Elder or traditional knowledge keeper, individually or in a group. The centre also offers free legal referrals through the Community Legal Clinic, plus study stations, a computer lab and a printer."
+  },
+  "sources": [
+   {
+    "label": "Centre de ressources autochtones Mashkawazìwogamig",
+    "url": "https://www.uottawa.ca/about-us/indigenous/indigenous-resource-centre"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-irc-nom-histoire",
+  "category": "services",
+  "keywords": [
+   "mashkawazìwogamig",
+   "signification",
+   "meaning",
+   "lieu de force",
+   "place of strength",
+   "kitigan zibi",
+   "histoire centre autochtone"
+  ],
+  "question": {
+   "fr": "Que veut dire Mashkawazìwogamig ?",
+   "en": "What does Mashkawazìwogamig mean?"
+  },
+  "answer": {
+   "fr": "Mashkawazìwogamig signifie « Lieu de force ». C'est le nom offert en 2018 au Centre de ressources autochtones par le Cercle des aînés de Kitigan Zibi. Le centre a été créé en 1997, sous le nom de Centre de ressources autochtones, et se trouve au 145, privé Séraphin-Marion depuis l'été 2021.",
+   "en": "Mashkawazìwogamig means \"Place of Strength\". The name was gifted to the Indigenous Resource Centre in 2018 by the Kitigan Zibi Elders Circle. The centre was created in 1997, then called the Aboriginal Resource Centre, and has been at 145 Séraphin-Marion Private since summer 2021."
+  },
+  "sources": [
+   {
+    "label": "Centre de ressources autochtones Mashkawazìwogamig",
+    "url": "https://www.uottawa.ca/about-us/indigenous/indigenous-resource-centre"
+   }
+  ],
+  "related": [
+   "zd-travailler-protection",
+   "zd-salle-manger-regles-entree",
+   "zd-salle-manger-enfants"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-sto-fidelite",
+  "category": "transport",
+  "keywords": [
+   "sto",
+   "fidélité",
+   "laissez-passer annuel",
+   "annual pass",
+   "gatineau",
+   "retenue salariale",
+   "payroll deduction",
+   "employés"
+  ],
+  "question": {
+   "fr": "Je suis employé : puis-je payer mon laissez-passer de la STO par retenue sur la paie ?",
+   "en": "I'm an employee: can I pay for my STO pass through payroll deduction?"
+  },
+  "answer": {
+   "fr": "Non, la STO n'offre plus la retenue sur la paie depuis le 1er mars 2020. Elle a été remplacée par le programme FIDÉLITÉ, un abonnement annuel qui donne 10 % de rabais sur les laissez-passer mensuels, prélevés directement dans ton compte bancaire. Les détails sont sur le site de la STO.",
+   "en": "No, the STO stopped offering payroll deduction on March 1, 2020. It was replaced by the FIDÉLITÉ Program, an annual pass with a 10% discount on monthly passes, taken directly from your bank account. Details are on the STO website."
+  },
+  "sources": [
+   {
+    "label": "Transport alternatif – Stationnement",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/alternative-transportation"
+   }
+  ],
+  "related": [
+   "zd-recharge-ve-regles",
+   "zd-stationnement-prepaye",
+   "zd-stationnement-responsabilite"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-recharge-ve-regles",
+  "category": "transport",
+  "keywords": [
+   "borne de recharge",
+   "ev charging",
+   "connecteur",
+   "j1772",
+   "flo",
+   "limite de temps",
+   "time limit",
+   "voiture électrique"
+  ],
+  "question": {
+   "fr": "Ai-je besoin de l'application flo pour recharger ma voiture électrique au campus ?",
+   "en": "Do I need the flo app to charge my electric car on campus?"
+  },
+  "answer": {
+   "fr": "Non : même si les bornes de niveau 2 sont de marque flo, tu paies uniquement avec l'application HotSpot, avec le code inscrit sur l'affiche bleue. Les bornes ont des connecteurs J1772 ; apporte ton adaptateur au besoin. Il n'y a pas de limite de temps, mais le supplément horaire n'a pas de maximum quotidien, alors une fois ta recharge finie, déplace-toi vers une place ordinaire.",
+   "en": "No: even though the Level 2 stations are flo-branded, you pay only with the HotSpot app, using the code on the blue sign. The stations have J1772 connectors; bring your own adapter if needed. There's no time limit, but the hourly surcharge has no daily maximum, so once you're charged, move to a regular spot."
+  },
+  "sources": [
+   {
+    "label": "Recharge de véhicules électriques",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/electric-vehicle-charging"
+   }
+  ],
+  "related": [
+   "zd-sto-fidelite",
+   "zd-stationnement-prepaye",
+   "zd-stationnement-responsabilite"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-stationnement-prepaye",
+  "category": "transport",
+  "keywords": [
+   "prépayer stationnement",
+   "prepay parking",
+   "hotspot",
+   "place garantie",
+   "guaranteed spot",
+   "stationnement journalier",
+   "daily parking",
+   "complet"
+  ],
+  "question": {
+   "fr": "Si je paie mon stationnement à l'avance avec HotSpot, ma place est-elle garantie ?",
+   "en": "If I prepay parking with HotSpot, is my spot guaranteed?"
+  },
+  "answer": {
+   "fr": "Non. Tu peux prépayer le stationnement journalier dans HotSpot, mais ça ne garantit pas qu'il y aura une place à ton arrivée, et l'Université n'est pas responsable si tu as payé sans trouver de place. Il est donc fortement recommandé d'attendre d'avoir trouvé une place avant de payer.",
+   "en": "No. You can prepay daily parking in HotSpot, but it doesn't guarantee a space when you arrive, and the University isn't responsible if you paid and found no spot. It's strongly recommended to wait until you've found a space before paying."
+  },
+  "sources": [
+   {
+    "label": "Stationnement journalier – non-détenteurs de permis",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/daily-parking-non-permit-holders"
+   }
+  ],
+  "related": [
+   "zd-sto-fidelite",
+   "zd-recharge-ve-regles",
+   "zd-stationnement-responsabilite"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-stationnement-responsabilite",
+  "category": "transport",
+  "keywords": [
+   "voiture volée",
+   "car stolen",
+   "dommages véhicule",
+   "vehicle damage",
+   "responsabilité",
+   "liability",
+   "stationnement",
+   "vol dans auto"
+  ],
+  "question": {
+   "fr": "Si ma voiture est endommagée ou volée dans un stationnement du campus, l'Université est-elle responsable ?",
+   "en": "If my car is damaged or stolen in a campus lot, is the University responsible?"
+  },
+  "answer": {
+   "fr": "Non, le Bureau du stationnement n'assume aucune responsabilité pour les dommages ou le vol de véhicules et de leur contenu sur le campus. Signale tout vol au Service de la protection au 613-562-5499, ou au 613-562-5411 en urgence.",
+   "en": "No, the Parking Office assumes no responsibility for damage to, or theft of, vehicles and their contents on campus. Report any theft to Protection Services at 613-562-5499, or 613-562-5411 in an emergency."
+  },
+  "sources": [
+   {
+    "label": "Règlements – Stationnement",
+    "url": "https://www.uottawa.ca/about-us/parking/regulations"
+   },
+   {
+    "label": "Service de la protection – uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+   }
+  ],
+  "related": [
+   "zd-sto-fidelite",
+   "zd-recharge-ve-regles",
+   "zd-stationnement-prepaye"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-stationnement-infractions-multiples",
+  "category": "transport",
+  "keywords": [
+   "plusieurs contraventions",
+   "multiple tickets",
+   "remorquage",
+   "towing",
+   "avis de courtoisie",
+   "courtesy notice",
+   "privilèges de stationnement",
+   "agents de patrouille"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qui arrive si j'accumule les contraventions de stationnement sur le campus ?",
+   "en": "What happens if I keep getting parking tickets on campus?"
+  },
+  "answer": {
+   "fr": "Le Bureau donne souvent un avis de courtoisie plutôt qu'une contravention, sauf pour les infractions graves, comme une place accessible sans permis. Mais les personnes qui cumulent les infractions perdent leurs privilèges de stationnement sur le campus, et leur véhicule est remorqué à leurs frais. Les agents de patrouille sont autorisés par la Ville d'Ottawa à émettre des contraventions municipales.",
+   "en": "The Office often issues a courtesy notice instead of a ticket, except for serious violations like using an accessible spot without a permit. But people with multiple infractions lose their campus parking privileges, and their vehicle is towed at their expense. Patrol officers are deputized by the City of Ottawa to issue City tickets."
+  },
+  "sources": [
+   {
+    "label": "Contester une contravention",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/appeal-ticket"
+   }
+  ],
+  "related": [
+   "zd-sto-fidelite",
+   "zd-recharge-ve-regles",
+   "zd-stationnement-prepaye"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-permis-revente",
+  "category": "transport",
+  "keywords": [
+   "revendre permis",
+   "resell permit",
+   "transférer permis",
+   "transfer permit",
+   "permis de stationnement",
+   "événements spéciaux",
+   "special events",
+   "règlements"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux revendre mon permis de stationnement à quelqu'un ?",
+   "en": "Can I resell my parking permit to someone?"
+  },
+  "answer": {
+   "fr": "Non. Les permis de stationnement appartiennent à l'Université et seuls le Bureau du stationnement et du transport durable peut les vendre ou les transférer. Le Bureau peut aussi modifier temporairement les règles de stationnement lors d'événements spéciaux. Pour toute question, appelle le 613-562-5800, poste 3807.",
+   "en": "No. Parking permits are University property, and only the Parking and Sustainable Transportation Office can sell or transfer them. The Office can also temporarily change parking rules for special events. For questions, call 613-562-5800, ext. 3807."
+  },
+  "sources": [
+   {
+    "label": "Règlements – Stationnement",
+    "url": "https://www.uottawa.ca/about-us/parking/regulations"
+   }
+  ],
+  "related": [
+   "zd-sto-fidelite",
+   "zd-recharge-ve-regles",
+   "zd-stationnement-prepaye"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-navette-pleine-septembre",
+  "category": "transport",
+  "keywords": [
+   "navette pleine",
+   "shuttle full",
+   "septembre",
+   "roger-guindon",
+   "attendre",
+   "heure de pointe",
+   "rush hour",
+   "navette"
+  ],
+  "question": {
+   "fr": "La navette vers Roger-Guindon est pleine : c'est normal ?",
+   "en": "The shuttle to Roger Guindon is full: is that normal?"
+  },
+  "answer": {
+   "fr": "Oui, surtout pendant les premières semaines de septembre, de 8 h à 9 h 30 et de midi à 14 h : tu pourrais devoir attendre la navette suivante, habituellement 30 minutes plus tard. L'embarquement se fait selon le principe du premier arrivé, premier servi. Tu peux aussi prendre le transport en commun avec ton U-Pass, en planifiant ton trajet sur le site d'OC Transpo.",
+   "en": "Yes, especially during the first weeks of September, from 8 to 9:30 a.m. and noon to 2 p.m.: you may have to wait for the next shuttle, usually 30 minutes later. Boarding is first come, first served. You can also take transit with your U-Pass, planning your route on the OC Transpo website."
+  },
+  "sources": [
+   {
+    "label": "Navette – Stationnement et transport durable",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/shuttle-bus"
+   }
+  ],
+  "related": [
+   "zd-sto-fidelite",
+   "zd-recharge-ve-regles",
+   "zd-stationnement-prepaye"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-covoit-capitaine",
+  "category": "transport",
+  "keywords": [
+   "capitaine covoiturage",
+   "carpool captain",
+   "groupe de covoiturage",
+   "carpool group",
+   "permis covoiturage",
+   "responsabilités",
+   "remboursement annuel"
+  ],
+  "question": {
+   "fr": "Quel est le rôle du capitaine d'un groupe de covoiturage ?",
+   "en": "What does a carpool group's captain do?"
+  },
+  "answer": {
+   "fr": "Le capitaine est la personne-ressource du groupe auprès du Bureau du transport durable. Il reçoit et paie le permis de covoiturage, perçoit les frais du groupe, s'assure que le permis est affiché et partage équitablement le remboursement annuel. Il doit aussi signaler un permis perdu et, si le groupe se dissout, rendre le permis dans le mois qui suit.",
+   "en": "The captain is the group's main contact with the Sustainable Transportation Office. They receive and pay for the carpool permit, collect the group's fees, make sure the permit is displayed and fairly share the annual rebate. They must also report a lost permit and, if the group dissolves, return the permit within one month."
+  },
+  "sources": [
+   {
+    "label": "Covoiturage – Stationnement",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/carpooling"
+   }
+  ],
+  "related": [
+   "zd-sto-fidelite",
+   "zd-recharge-ve-regles",
+   "zd-stationnement-prepaye"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-covoit-essai-occasionnel",
+  "category": "transport",
+  "keywords": [
+   "essayer covoiturage",
+   "try carpooling",
+   "trois mois",
+   "three months",
+   "permis journalier occasionnel",
+   "occasional day permit",
+   "remboursement",
+   "brooks mann"
+  ],
+  "question": {
+   "fr": "Si je me joins à un covoiturage, est-ce que je perds mon ancien permis de stationnement ?",
+   "en": "If I join a carpool, do I lose my old parking permit?"
+  },
+  "answer": {
+   "fr": "Non, tu peux essayer le covoiturage jusqu'à trois mois sans perdre ton ancien permis si tu décides de reconduire seul. Et si tu dois parfois venir sans ton groupe, le stationnement aux garages Brooks ou Mann t'est remboursé jusqu'à 17,50 $ par fois, deux fois par session, avec le formulaire de réclamation et ton reçu original.",
+   "en": "No, you can try carpooling for up to three months without losing your old permit if you decide to drive alone again. And if you occasionally have to come without your group, parking at Brooks or Mann garage is reimbursed up to $17.50 per occasion, twice per session, with the claim form and your original receipt."
+  },
+  "sources": [
+   {
+    "label": "Covoiturage – Stationnement",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/carpooling"
+   }
+  ],
+  "related": [
+   "zd-sto-fidelite",
+   "zd-recharge-ve-regles",
+   "zd-stationnement-prepaye"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-moins-18-ans",
+  "category": "sante",
+  "keywords": [
+   "moins de 18 ans",
+   "under 18",
+   "cheo",
+   "agression sexuelle mineur",
+   "sexual assault minor",
+   "adolescent",
+   "violence sexuelle"
+  ],
+  "question": {
+   "fr": "J'ai moins de 18 ans et j'ai subi une agression sexuelle : où trouver des soins ?",
+   "en": "I'm under 18 and was sexually assaulted: where can I get care?"
+  },
+  "answer": {
+   "fr": "Le programme d'aide aux victimes d'agression sexuelle du CHEO, l'hôpital pour enfants de l'Est de l'Ontario, soutient les patients de moins de 18 ans et leur famille. Son équipe d'infirmières, de travailleurs sociaux et de médecins d'urgence offre des soins et du soutien psychosocial. Sur le campus, le Bureau des droits de la personne peut aussi t'accompagner au 613-562-5222 ; en danger, compose le 911.",
+   "en": "The sexual assault program at CHEO, the Children's Hospital of Eastern Ontario, supports patients under 18 and their families. Its team of nurses, social workers and emergency doctors provides care and psychosocial support. On campus, the Human Rights Office can also help at 613-562-5222; if you're in danger, call 911."
+  },
+  "sources": [
+   {
+    "label": "Ressources sur le campus, hors campus et en ligne – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-hommes-survivants",
+  "category": "sante",
+  "keywords": [
+   "homme survivant",
+   "male survivor",
+   "hommes",
+   "men",
+   "violence sexuelle",
+   "sexual abuse",
+   "men & healing",
+   "cfs ottawa"
+  ],
+  "question": {
+   "fr": "Je suis un homme et j'ai subi de la violence sexuelle : y a-t-il des ressources pour moi ?",
+   "en": "I'm a man who experienced sexual violence: are there resources for me?"
+  },
+  "answer": {
+   "fr": "Oui. Men & Healing offre du soutien spécialisé aux hommes ayant subi des abus sexuels ou physiques dans l'enfance, en thérapie individuelle ou en groupe. Le Service à la famille et counselling d'Ottawa offre aussi gratuitement du counselling aux victimes d'abus sexuels, hommes et femmes. Le Bureau des droits de la personne de l'Université soutient tout le monde, au 613-562-5222.",
+   "en": "Yes. Men & Healing offers specialized support to men who experienced childhood sexual or physical abuse, through individual or group therapy. Counselling and Family Services Ottawa also offers free counselling for victims of sexual abuse, men and women. The University's Human Rights Office supports everyone, at 613-562-5222."
+  },
+  "sources": [
+   {
+    "label": "Ressources sur le campus, hors campus et en ligne – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-protection-decision",
+  "category": "sante",
+  "keywords": [
+   "signaler sans poursuivre",
+   "report without pursuing",
+   "service de la protection",
+   "rapport",
+   "violence sexuelle",
+   "sexual violence report",
+   "ma décision"
+  ],
+  "question": {
+   "fr": "Si je parle au Service de la protection d'une violence sexuelle, suis-je obligé de porter plainte ?",
+   "en": "If I talk to Protection Services about sexual violence, do I have to press charges?"
+  },
+  "answer": {
+   "fr": "Non. Le Service de la protection peut t'aider si tu veux signaler un incident ou simplement parler à quelqu'un. Il peut rédiger un rapport, mais il respectera ta décision si tu préfères ne pas donner suite. Tu le joins en tout temps au 613-562-5499, ou au 613-562-5411 en urgence.",
+   "en": "No. Protection Services can help if you want to report an incident or just talk to someone. It can write a report, but it will respect your decision if you'd rather not pursue the matter. You can reach it anytime at 613-562-5499, or 613-562-5411 in an emergency."
+  },
+  "sources": [
+   {
+    "label": "Ressources sur le campus, hors campus et en ligne – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-residence-changement",
+  "category": "sante",
+  "keywords": [
+   "résidence",
+   "residence",
+   "changer de chambre",
+   "room change",
+   "violence sexuelle",
+   "sexual violence",
+   "logement et vie en résidence",
+   "accommodements"
+  ],
+  "question": {
+   "fr": "J'habite en résidence et j'ai vécu une violence sexuelle : la résidence peut-elle m'aider ?",
+   "en": "I live in residence and experienced sexual violence: can residence help me?"
+  },
+  "answer": {
+   "fr": "Oui. Le Service du logement et de la vie en résidence offre un service de counselling confidentiel interne, dans un environnement sûr et accessible. Selon la situation, il peut aussi accorder des accommodements, comme un changement de chambre ou de résidence. Le Bureau des droits de la personne peut t'aider dans ces démarches.",
+   "en": "Yes. Housing and Residence Life offers an in-house confidential counselling service in a safe, accessible setting. Depending on the circumstances, it can also grant accommodations, like a room or residence change. The Human Rights Office can help you with these steps."
+  },
+  "sources": [
+   {
+    "label": "Ressources sur le campus, hors campus et en ligne – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-ressources-communautes",
+  "category": "sante",
+  "keywords": [
+   "inuit",
+   "tungasuvvingat",
+   "project agape",
+   "survivants noirs",
+   "black survivors",
+   "violence fondée sur le genre",
+   "gender-based violence",
+   "ressources culturelles"
+  ],
+  "question": {
+   "fr": "Y a-t-il des ressources pour les survivants inuits ou noirs de violence sexuelle ?",
+   "en": "Are there resources for Inuit or Black survivors of sexual violence?"
+  },
+  "answer": {
+   "fr": "Oui. Tungasuvvingat Inuit est un organisme de services urbains pour les Inuits de tous âges, qui aide à trouver du soutien tout en restant lié à sa culture. Project Agape est un organisme dirigé par des survivants noirs, qui offre des ressources et des ateliers sur la violence fondée sur le genre et le mieux-être. Le Bureau des droits de la personne peut t'orienter au 613-562-5222.",
+   "en": "Yes. Tungasuvvingat Inuit is an urban services provider for Inuit of all ages that helps you find support while staying connected to your culture. Project Agape is a Black, survivor-led organization offering resources and workshops on gender-based violence and wellness. The Human Rights Office can guide you at 613-562-5222."
+  },
+  "sources": [
+   {
+    "label": "Ressources sur le campus, hors campus et en ligne – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-unite-soutien-victimes-police",
+  "category": "sante",
+  "keywords": [
+   "victime d'un crime",
+   "crime victim",
+   "unité de soutien aux victimes",
+   "victim support unit",
+   "police d'ottawa",
+   "counselling de crise",
+   "rappel"
+  ],
+  "question": {
+   "fr": "J'ai été victime d'un crime : la police d'Ottawa offre-t-elle du soutien ?",
+   "en": "I was the victim of a crime: does the Ottawa Police offer support?"
+  },
+  "answer": {
+   "fr": "Oui, l'Unité de soutien aux victimes du Service de police d'Ottawa offre de l'aide professionnelle et du counselling de crise aux victimes de crimes ou de circonstances tragiques. Il faut laisser un message, et un conseiller te rappellera le plus tôt possible. En cas de danger, compose le 911, ou le 613-562-5411 sur le campus.",
+   "en": "Yes, the Ottawa Police Service Victim Support Unit provides professional assistance and crisis counselling to victims of crime or tragic circumstances. You'll need to leave a message, and a counsellor will call you back as soon as possible. If you're in danger, call 911, or 613-562-5411 on campus."
+  },
+  "sources": [
+   {
+    "label": "Ressources sur le campus, hors campus et en ligne – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-salon-mieux-etre-fin-semaine",
+  "category": "sante",
+  "keywords": [
+   "salon du mieux-être",
+   "wellness lounge",
+   "fin de semaine",
+   "weekend",
+   "90u",
+   "samedi",
+   "dimanche",
+   "soir"
+  ],
+  "question": {
+   "fr": "Est-ce que le Salon du mieux-être est ouvert la fin de semaine ?",
+   "en": "Is the Wellness Lounge open on weekends?"
+  },
+  "answer": {
+   "fr": "Oui, celui du 90U : depuis le 8 septembre 2026, il est ouvert de 17 h à 22 h du lundi au vendredi, de 13 h à 22 h le samedi et de midi à 16 h le dimanche. Il est fermé du 10 décembre 2026 au 11 janvier 2027 pour les examens et les Fêtes. Le Salon du CUO, lui, est ouvert en semaine seulement.",
+   "en": "Yes, the one at 90U: since September 8, 2026, it's open 5 to 10 p.m. Monday to Friday, 1 to 10 p.m. on Saturday and noon to 4 p.m. on Sunday. It's closed from December 10, 2026, to January 11, 2027, for exams and the holidays. The UCU lounge is open on weekdays only."
+  },
+  "sources": [
+   {
+    "label": "Salon du mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-tremblement-dehors-auto",
+  "category": "sante",
+  "keywords": [
+   "tremblement de terre",
+   "earthquake",
+   "en voiture",
+   "driving",
+   "dehors",
+   "outdoors",
+   "séisme",
+   "répliques"
+  ],
+  "question": {
+   "fr": "Que faire si un tremblement de terre arrive pendant que je conduis ?",
+   "en": "What should I do if an earthquake hits while I'm driving?"
+  },
+  "answer": {
+   "fr": "Range-toi sur le côté et laisse la route libre pour les véhicules d'urgence. Reste dans ton véhicule jusqu'à ce que plusieurs minutes passent sans répliques. Ne t'arrête pas sous des structures comme les ponts, les viaducs ou les fils électriques.",
+   "en": "Pull over and keep the road clear for emergency vehicles. Stay in your vehicle until several minutes have passed without aftershocks. Don't stop under overhead structures such as bridges, overpasses or power lines."
+  },
+  "sources": [
+   {
+    "label": "Autres dangers – Êtes-vous prêt?",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "related": [
+   "zd-agents-pouvoir-arrestation",
+   "zd-agents-demande-identite",
+   "zd-agents-formation"
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
  }
 ];

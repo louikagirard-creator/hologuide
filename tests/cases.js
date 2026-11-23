@@ -14,5 +14,9 @@ export const CASES = [
   ['labo informatique', 'r-labo-info-sciences-mnt'], ['formation SIMDUT', 'r-simdut-obligatoire'],
   ['combien coute le depot de residence', 'm-residence-acompte'], ['upass exemption', 'w-upass-exemption-autres'],
   ['révision de note', 'v-revision-note-etapes'], ['ligne de crise texto', 'x-texto-crise'],
-  ['bourse schulich leader', 'z-bourse-schulich-leader'], ['échange étudiant à l étranger', 'a-echange-etudiant-sortant']
+  ['bourse schulich leader', 'z-bourse-schulich-leader'], ['échange étudiant à l étranger', 'a-echange-etudiant-sortant'],
+  // Base élargie (23 novembre 2026)
+  ['combien de crédits pour une mineure', 'zb-mineure-definition'], ['réglages eduroam android', 'zb-eduroam-android'],
+  ['Copilot uottawa', 'zb-copilot-gratuit'], ['toefl score minimum', 'zc-toefl-admission'],
+  ['FAFSA prêt américain', 'zc-fafsa-etapes'], ['cours bilingue', 'zb-cours-bilingue-code']
 ];

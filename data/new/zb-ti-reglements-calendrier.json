@@ -1,0 +1,3523 @@
+[
+ {
+  "id": "zb-conservation-dossier-faculte",
+  "category": "reglements",
+  "keywords": [
+   "dossier étudiant",
+   "conservation",
+   "détruit",
+   "record retention",
+   "student file",
+   "how long is my file kept",
+   "dossier facultaire"
+  ],
+  "question": {
+   "fr": "Combien de temps ma faculté garde-t-elle mon dossier étudiant ?",
+   "en": "How long does my faculty keep my student file?"
+  },
+  "answer": {
+   "fr": "Ta faculté garde ton dossier tant que tu y es inscrit. Sept trimestres consécutifs après ton départ, que tu aies obtenu ton diplôme ou que tu te sois retiré, les documents du dossier sont détruits, sauf si tu es inscrit à un autre programme de la même faculté ou que tu as une raison valable de le faire garder plus longtemps. Les renseignements du système d’information étudiant, eux, sont conservés indéfiniment.",
+   "en": "Your faculty keeps your file as long as you are enrolled there. Seven consecutive terms after you leave, whether you graduated or withdrew, the documents in the file are destroyed, unless you are enrolled in another program in the same faculty or gave a valid reason to keep it longer. Information in the Student Information System, however, is kept indefinitely."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-7 – Conservation des dossiers",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-7-conservation-dossiers"
+   },
+   {
+    "label": "Academic Regulation A-7 – Record Retention",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-7-record-retention"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-copies-examens-non-reclamees",
+  "category": "reglements",
+  "keywords": [
+   "examen non réclamé",
+   "travaux non réclamés",
+   "garder copie",
+   "unclaimed exam",
+   "unclaimed assignment",
+   "how long are exams kept",
+   "conservation examens"
+  ],
+  "question": {
+   "fr": "Combien de temps l’Université garde-t-elle mes examens et travaux non réclamés ?",
+   "en": "How long does the University keep my unclaimed exams and assignments?"
+  },
+  "answer": {
+   "fr": "Les travaux et examens non réclamés sont conservés au moins un an à partir du moment où la note finale devient officielle. Ils peuvent être détruits plus tôt seulement si tu y consens. Si tu veux revoir un examen, fais-le donc dans cette période.",
+   "en": "Unclaimed assignments and exams are kept for at least one year from the date the final grade becomes official. They can be destroyed earlier only if you agree to it. So if you want to review an exam, do it within that period."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-7 – Conservation des dossiers",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-7-conservation-dossiers"
+   },
+   {
+    "label": "Academic Regulation A-7 – Record Retention",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-7-record-retention"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cours-bilingue-code",
+  "category": "reglements",
+  "keywords": [
+   "cours bilingue",
+   "code 0 ou 9",
+   "bilingual course",
+   "course code 0 9",
+   "language of course",
+   "cours bilingues"
+  ],
+  "question": {
+   "fr": "Comment fonctionne un cours bilingue, dont le code contient un 0 ou un 9 ?",
+   "en": "How does a bilingual course work, one whose code has a 0 or a 9?"
+  },
+  "answer": {
+   "fr": "Le cinquième caractère du code, 0 ou 9, peut indiquer un cours bilingue où le français et l’anglais sont utilisés de façon équilibrée. Tu peux t’exprimer dans la langue de ton choix, mais tu dois au moins comprendre l’autre langue à l’oral et à l’écrit. Le niveau exigé est précisé dans la description du cours.",
+   "en": "The fifth character of the code, 0 or 9, can indicate a bilingual course where English and French are used in a balanced way. You can use the language of your choice, but you must at least understand the other language orally and in writing. The required level is stated in the course description."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-2 – Cours",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-2-cours"
+   },
+   {
+    "label": "Academic Regulation A-2 – Courses",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-2-courses"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cours-equivalent-autre-langue",
+  "category": "reglements",
+  "keywords": [
+   "cours équivalent français anglais",
+   "même cours en français",
+   "equivalent course french english",
+   "eco1100 eco1500",
+   "course in the other language",
+   "version française du cours"
+  ],
+  "question": {
+   "fr": "Comment savoir si un cours en anglais a son équivalent en français ?",
+   "en": "How can I tell whether an English course has a French equivalent?"
+  },
+  "answer": {
+   "fr": "Deux cours équivalents en anglais et en français ont une différence de 4 dans le cinquième caractère de leur code, quand ce chiffre est entre 1 et 8. Par exemple, ECO 1100 et ECO 1500 sont équivalents, mais pas ECO 1100 et ECO 1700. Les chiffres 1, 2 et 3 désignent un cours en anglais, et 5, 6 et 7 un cours en français.",
+   "en": "Two equivalent courses in English and French differ by 4 in the fifth character of their code, when that number is between 1 and 8. For example, ECO 1100 and ECO 1500 are equivalent, but ECO 1100 and ECO 1700 are not. The numbers 1, 2 and 3 indicate a course taught in English, and 5, 6 and 7 a course taught in French."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-2 – Cours",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-2-cours"
+   },
+   {
+    "label": "Academic Regulation A-2 – Courses",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-2-courses"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cours-immersion-six-credits",
+  "category": "reglements",
+  "keywords": [
+   "cours immersion crédits",
+   "cours de langue d’accompagnement",
+   "immersion course units",
+   "six units immersion",
+   "combien de crédits immersion"
+  ],
+  "question": {
+   "fr": "Combien de crédits vaut un cours d’immersion ?",
+   "en": "How many units is an immersion course worth?"
+  },
+  "answer": {
+   "fr": "Un cours d’immersion te permet d’améliorer ta langue seconde officielle. Tu reçois trois crédits pour le cours de contenu suivi dans ta langue seconde et trois crédits de plus pour le cours de langue qui l’accompagne, soit six crédits au total.",
+   "en": "An immersion course lets you improve your second official language. You receive three units for the regular content course taken in your second language and three more for the accompanying language course, for a total of six units."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-2 – Cours",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-2-cours"
+   },
+   {
+    "label": "Academic Regulation A-2 – Courses",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-2-courses"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-assiduite-cours",
+  "category": "reglements",
+  "keywords": [
+   "assiduité",
+   "présence obligatoire",
+   "attendance",
+   "is attendance mandatory",
+   "manquer des cours",
+   "présence en classe"
+  ],
+  "question": {
+   "fr": "La présence aux cours est-elle obligatoire ?",
+   "en": "Is class attendance mandatory?"
+  },
+  "answer": {
+   "fr": "Tu es responsable de participer aux activités d’apprentissage et d’évaluation de chacun de tes cours. Les exigences précises de présence sont indiquées dans le plan de cours, selon les règlements de ta faculté s’il y en a. Lis donc ton plan de cours dès le premier cours.",
+   "en": "You are responsible for taking part in the learning and assessment activities of each of your courses. The specific attendance requirements are set out in each course syllabus, following your faculty’s regulations where applicable. So read your syllabus from the first class."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-2 – Cours",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-2-cours"
+   },
+   {
+    "label": "Academic Regulation A-2 – Courses",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-2-courses"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-trimestres-faculte-droit",
+  "category": "reglements",
+  "keywords": [
+   "trimestre de janvier",
+   "session de janvier droit",
+   "law january term",
+   "law terms",
+   "trimestres droit",
+   "faculté de droit trimestres"
+  ],
+  "question": {
+   "fr": "Pourquoi la Faculté de droit a-t-elle un trimestre de janvier ?",
+   "en": "Why does the Faculty of Law have a January term?"
+  },
+  "answer": {
+   "fr": "À la Faculté de droit, les sections de droit civil et de common law ont quatre trimestres : l’automne de septembre à décembre, un trimestre de janvier, l’hiver de février à avril et le printemps-été de mai à août. Ailleurs à l’Université, il y a trois trimestres, et l’automne et l’hiver durent en général 15 semaines chacun, examens compris.",
+   "en": "At the Faculty of Law, the Civil Law and Common Law sections have four terms: fall from September to December, a January term, winter from February to April, and spring-summer from May to August. Elsewhere at the University there are three terms, and fall and winter generally last 15 weeks each, including exams."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-2 – Cours",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-2-cours"
+   },
+   {
+    "label": "Academic Regulation A-2 – Courses",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-2-courses"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-langue-presentations-orales",
+  "category": "reglements",
+  "keywords": [
+   "présentation orale langue",
+   "exposé en français",
+   "oral presentation language",
+   "present in french in english course",
+   "langue exposé oral"
+  ],
+  "question": {
+   "fr": "Puis-je faire une présentation orale en français dans un cours donné en anglais ?",
+   "en": "Can I give an oral presentation in French in a course taught in English?"
+  },
+  "answer": {
+   "fr": "Non : les présentations orales faites devant d’autres étudiants doivent être faites dans la langue d’enseignement du cours. Par contre, sauf dans les cours et programmes où la langue est une exigence, tu peux rédiger tes travaux et répondre aux examens dans la langue officielle de ton choix.",
+   "en": "No: oral presentations made in front of other students must be in the course’s language of instruction. However, except in courses and programs where language is a requirement, you can write your assignments and answer exam questions in the official language of your choice."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-1 – Bilingualism",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-1-bilingualism"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-langue-materiel-cours",
+  "category": "reglements",
+  "keywords": [
+   "notes de cours en anglais",
+   "lectures dans l’autre langue",
+   "course material language",
+   "readings in english",
+   "matériel pédagogique langue",
+   "slides language"
+  ],
+  "question": {
+   "fr": "Mon professeur peut-il me donner des lectures dans l’autre langue officielle ?",
+   "en": "Can my professor give me readings in the other official language?"
+  },
+  "answer": {
+   "fr": "Les notes, le plan de cours, les présentations et les consignes produits par le professeur doivent être dans la langue d’enseignement du cours. Les manuels et articles externes peuvent être dans l’autre langue s’ils ne sont pas offerts dans la langue du cours ou s’ils sont plus pertinents. Mais pour qu’une matière dans l’autre langue serve à une évaluation, elle doit avoir été présentée ou discutée en classe dans la langue d’enseignement.",
+   "en": "Notes, the syllabus, presentations and instructions produced by the professor must be in the course’s language of instruction. External textbooks and articles may be in the other language if they aren’t available in the course language or are more relevant. But for material in the other language to be used in an evaluation, it must have been presented or discussed in class in the language of instruction."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-1 – Bilingualism",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-1-bilingualism"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cours-langue-annuaire",
+  "category": "reglements",
+  "keywords": [
+   "cours donné dans quelle langue",
+   "langue de l’annuaire",
+   "course taught in the calendar language",
+   "right course language",
+   "language of instruction right"
+  ],
+  "question": {
+   "fr": "Un cours peut-il être donné dans une autre langue que celle annoncée ?",
+   "en": "Can a course be taught in a different language than the one announced?"
+  },
+  "answer": {
+   "fr": "Tu as le droit d’exiger qu’un cours soit donné dans la langue utilisée pour le décrire dans l’annuaire. Tu as aussi le droit de communiquer en français ou en anglais avec l’administration centrale, les services généraux et l’administration de ton unité scolaire.",
+   "en": "You have the right to require that a course be taught in the language used to describe it in the course calendar. You also have the right to use French or English to communicate with the central administration, general services and the administration of your academic unit."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation A-1 – Bilingualism",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-1-bilingualism"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-etudiant-libre-raisons",
+  "category": "reglements",
+  "keywords": [
+   "étudiant libre raisons",
+   "non-degree student reasons",
+   "certification professionnelle",
+   "perfectionnement",
+   "upgrading courses",
+   "professional certification courses"
+  ],
+  "question": {
+   "fr": "Pour quelles raisons puis-je m’inscrire comme étudiant libre ?",
+   "en": "For what reasons can I enrol as a non-degree student?"
+  },
+  "answer": {
+   "fr": "Les raisons reconnues sont l’intérêt personnel, une certification professionnelle exigée par un ordre ou une association, le transfert de crédits vers un autre établissement, le perfectionnement si tu as déjà un diplôme collégial ou universitaire reconnu, l’élève doué du secondaire, et l’amélioration du rendement scolaire. Selon la raison, un document est demandé, par exemple une lettre de l’association ou une lettre de permission.",
+   "en": "The recognized reasons are personal interest, professional certification required by an outside association, transfer of units to another institution, upgrading if you already hold a recognized college or university degree, gifted high school students, and improving academic standing. Depending on the reason, a document is required, such as a letter from the association or a letter of permission."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation B-1 – Categories and Status of Undergraduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-1-categories-status"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-ameliorer-rendement-retrait",
+  "category": "reglements",
+  "keywords": [
+   "retrait obligatoire cours",
+   "améliorer mon rendement",
+   "required to withdraw courses",
+   "improve academic standing",
+   "étudiant libre après retrait",
+   "mandatory withdrawal courses"
+  ],
+  "question": {
+   "fr": "J’ai été obligé de me retirer de ma faculté : puis-je encore suivre des cours ?",
+   "en": "I was required to withdraw from my faculty: can I still take courses?"
+  },
+  "answer": {
+   "fr": "Oui, comme étudiant libre pour améliorer ton rendement scolaire : jusqu’à 12 crédits par trimestre, pour un total cumulatif de 30 crédits. En règle générale, tu ne peux toutefois pas suivre de cours dans la faculté dont tu as été retiré pendant la période de retrait.",
+   "en": "Yes, as a non-degree student to improve your academic standing: up to 12 units per term, for a cumulative total of 30 units. As a rule, however, you can’t take courses in the faculty you were withdrawn from during the withdrawal period."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation B-1 – Categories and Status of Undergraduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-1-categories-status"
+   },
+   {
+    "label": "Academic Regulation B-4 – Registration",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-4-registration"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-baccalaureat-specialise-definition",
+  "category": "reglements",
+  "keywords": [
+   "baccalauréat spécialisé",
+   "honours bachelor",
+   "120 crédits",
+   "honours degree",
+   "what is an honours",
+   "différence baccalauréat spécialisé"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre un baccalauréat et un baccalauréat spécialisé ?",
+   "en": "What’s the difference between a bachelor’s and an honours bachelor’s?"
+  },
+  "answer": {
+   "fr": "Le baccalauréat spécialisé équivaut à quatre ans d’études et au moins 120 crédits, avec une formation approfondie d’au moins 54 crédits dans une discipline. Le baccalauréat non spécialisé, offert en arts, sciences et sciences sociales, demande trois ou quatre ans, soit 90 ou 120 crédits, et donne une formation universitaire de base. Les deux exigent la moyenne pondérée cumulative requise.",
+   "en": "The honours bachelor’s is equivalent to four years of study and at least 120 units, with in-depth training of at least 54 units in one discipline. The bachelor’s, offered in Arts, Science and Social Sciences, takes three or four years, meaning 90 or 120 units, and gives a basic university education. Both require the required cumulative grade point average."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-majeure-definition",
+  "category": "reglements",
+  "keywords": [
+   "majeure",
+   "major",
+   "combien de crédits majeure",
+   "how many units major",
+   "what is a major"
+  ],
+  "question": {
+   "fr": "Combien de crédits faut-il pour une majeure ?",
+   "en": "How many units is a major?"
+  },
+  "answer": {
+   "fr": "Une majeure comporte au moins 42 crédits dans une discipline ou un champ d’études. Parmi eux, 18 crédits doivent être des cours de niveau 3000 ou plus, dont au moins 6 crédits de niveau 4000.",
+   "en": "A major consists of at least 42 units in one discipline or field of study. Of these, 18 units must be courses at the 3000 level or above, including at least 6 units at the 4000 level."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-mineure-definition",
+  "category": "reglements",
+  "keywords": [
+   "mineure",
+   "minor",
+   "combien de crédits mineure",
+   "how many units minor",
+   "what is a minor"
+  ],
+  "question": {
+   "fr": "Combien de crédits faut-il pour une mineure ?",
+   "en": "How many units is a minor?"
+  },
+  "answer": {
+   "fr": "Une mineure comporte 30 crédits, sauf indication contraire, dont au moins 6 crédits de niveau 3000 ou plus. Elle t’initie à un domaine ou à un sous-domaine d’une discipline, et s’ajoute à ton baccalauréat spécialisé.",
+   "en": "A minor consists of 30 units, unless otherwise indicated, including at least 6 units at the 3000 level or above. It introduces you to a field or sub-field of a discipline and is added to your honours bachelor’s."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-double-majeure-bidisciplinaire",
+  "category": "reglements",
+  "keywords": [
+   "double majeure",
+   "bidisciplinaire",
+   "double major",
+   "joint honours",
+   "différence double majeure bidisciplinaire"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre une double majeure et un baccalauréat bidisciplinaire ?",
+   "en": "What’s the difference between a double major and a joint honours degree?"
+  },
+  "answer": {
+   "fr": "La double majeure est une formation intensive dans deux disciplines, avec 42 crédits dans chacune, sauf indication contraire. Le baccalauréat spécialisé bidisciplinaire te spécialise dans deux disciplines apparentées, avec au moins 42 crédits dans l’une et 36 dans l’autre.",
+   "en": "A double major is intensive training in two disciplines, with 42 units in each, unless otherwise indicated. A joint honours bachelor’s lets you specialize in two related disciplines, with at least 42 units in one and 36 in the other."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-microprogramme-premier-cycle",
+  "category": "reglements",
+  "keywords": [
+   "microprogramme",
+   "microprogram",
+   "undergraduate microprogram",
+   "21 crédits",
+   "short program"
+  ],
+  "question": {
+   "fr": "Qu’est-ce qu’un microprogramme de premier cycle ?",
+   "en": "What is an undergraduate microprogram?"
+  },
+  "answer": {
+   "fr": "C’est un ensemble de cours dans un domaine précis, d’au plus 21 crédits, qui peut faire partie de ton programme ou être suivi seul, par exemple pour ta carrière. Il est ouvert aux étudiants admis à un programme et aux étudiants libres. Il paraît sur ton relevé de notes, mais pas sur ton diplôme.",
+   "en": "It’s a set of courses in a specific area, of up to 21 units, that can be part of your program or taken on its own, for example for career development. It is open both to students admitted to a program and to non-degree students. It appears on your transcript but not on your diploma."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-certificat-premier-cycle",
+  "category": "reglements",
+  "keywords": [
+   "certificat de premier cycle",
+   "undergraduate certificate",
+   "certificat 30 crédits",
+   "certificate program",
+   "what is a certificate"
+  ],
+  "question": {
+   "fr": "Qu’est-ce qu’un certificat de premier cycle ?",
+   "en": "What is an undergraduate certificate?"
+  },
+  "answer": {
+   "fr": "Le certificat est un programme autonome de premier cycle d’au moins 30 crédits. À la fin, tu reçois un diplôme appelé certificat de premier cycle, conféré par le Sénat de l’Université.",
+   "en": "A certificate is an independent undergraduate program of at least 30 units. When you finish, you receive a diploma called an undergraduate certificate, conferred by the University Senate."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-programme-integre-double-diplome",
+  "category": "reglements",
+  "keywords": [
+   "programme intégré",
+   "deux diplômes",
+   "integrated program",
+   "double diplôme international",
+   "international dual degree",
+   "two degrees"
+  ],
+  "question": {
+   "fr": "Peut-on obtenir deux diplômes en même temps ?",
+   "en": "Can I earn two degrees at the same time?"
+  },
+  "answer": {
+   "fr": "Oui, de deux façons prévues au règlement. Dans un programme intégré, tu remplis les exigences de deux baccalauréats distincts et tu reçois deux diplômes. Avec un double diplôme international, l’Université et un établissement partenaire étranger reconnaissent mutuellement une partie de leurs exigences, et tu reçois un diplôme de chaque établissement, souvent en moins de temps.",
+   "en": "Yes, in two ways set out in the regulations. In an integrated program, you complete the requirements of two separate bachelor’s degrees and receive two diplomas. With an international dual degree, the University and a partner institution abroad mutually recognize part of each other’s requirements, and you receive a degree from each institution, often in less time."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-un-seul-programme",
+  "category": "reglements",
+  "keywords": [
+   "deux programmes en même temps",
+   "inscrit à deux programmes",
+   "two programs at once",
+   "enrol in two programs",
+   "plusieurs programmes"
+  ],
+  "question": {
+   "fr": "Puis-je être inscrit à deux programmes en même temps ?",
+   "en": "Can I be enrolled in two programs at the same time?"
+  },
+  "answer": {
+   "fr": "En général non : sauf indication contraire dans les règlements du programme, tu ne peux pas t’inscrire à plus d’un programme à la fois. Pour suivre des cours menant à un grade, tu dois être admis à un programme ; tu deviens alors un étudiant régulier.",
+   "en": "Generally no: unless the program regulations say otherwise, you can’t enrol in more than one program at a time. To take courses toward a degree, you must be admitted to a program; you then become a regular student."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-3 – Admission à un programme",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b3-admission-programme"
+   },
+   {
+    "label": "Academic Regulation B-3 – Admission to a Program",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-3-admission-program"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-bilinguisme-pas-exige",
+  "category": "reglements",
+  "keywords": [
+   "dois-je être bilingue",
+   "bilinguisme obligatoire",
+   "do i need to be bilingual",
+   "bilingualism required",
+   "parler les deux langues"
+  ],
+  "question": {
+   "fr": "Dois-je être bilingue pour étudier à l’Université d’Ottawa ?",
+   "en": "Do I need to be bilingual to study at the University of Ottawa?"
+  },
+  "answer": {
+   "fr": "Non. L’Université encourage l’apprentissage de la langue seconde, le français ou l’anglais, et reconnaît cette compétence, mais elle n’exige le bilinguisme que si les exigences de ton programme comprennent la connaissance des deux langues.",
+   "en": "No. The University promotes learning a second language, English or French, and recognizes that proficiency, but it requires bilingualism only when your program’s requirements include knowledge of both languages."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-3 – Admission à un programme",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b3-admission-programme"
+   },
+   {
+    "label": "Academic Regulation B-3 – Admission to a Program",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-3-admission-program"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-changement-programme-moyenne",
+  "category": "reglements",
+  "keywords": [
+   "changer de programme moyenne",
+   "program change average",
+   "mes anciens cours comptent",
+   "old courses count gpa",
+   "changement de programme mpc"
+  ],
+  "question": {
+   "fr": "Si je change de programme, mes anciens cours comptent-ils dans ma moyenne ?",
+   "en": "If I change programs, do my old courses count in my average?"
+  },
+  "answer": {
+   "fr": "Oui : au premier cycle, si tu changes de programme, dans ta faculté ou dans une autre, tous les cours de ton dossier servent au calcul de ta moyenne. Cette règle ne s’applique pas à certaines facultés, comme Droit, Éducation et Médecine, sauf pour le baccalauréat en médecine translationnelle et moléculaire.",
+   "en": "Yes: at the undergraduate level, if you change programs, within your faculty or at another one, all courses on your file are used to calculate your average. This rule doesn’t apply in some faculties, such as Law, Education and Medicine, except for the Honours BSc in Translational and Molecular Medicine."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-4 – Inscription",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b-4-inscription"
+   },
+   {
+    "label": "Academic Regulation B-4 – Registration",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-4-registration"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-inscription-retroactive",
+  "category": "reglements",
+  "keywords": [
+   "inscription rétroactive",
+   "oublié de m’inscrire",
+   "retroactive enrolment",
+   "forgot to enrol in course",
+   "add course after deadline",
+   "pas inscrit au cours"
+  ],
+  "question": {
+   "fr": "J’ai suivi un cours sans y être inscrit : puis-je m’inscrire après coup ?",
+   "en": "I attended a course without being enrolled: can I enrol after the fact?"
+  },
+  "answer": {
+   "fr": "Non. Si tu n’es pas inscrit à un cours ou à une activité, tu ne recevras ni note ni crédits, et l’inscription ou la modification de cours rétroactive n’est pas permise. C’est à toi de vérifier les dates limites d’inscription et de modification.",
+   "en": "No. If you aren’t enrolled in a course or activity, you won’t receive a grade or units, and retroactive course enrolment or changes are not permitted. It’s your responsibility to check the enrolment and change deadlines."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-4 – Inscription",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b-4-inscription"
+   },
+   {
+    "label": "Academic Regulation B-4 – Registration",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-4-registration"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-reprise-cours-perte-credits",
+  "category": "reglements",
+  "keywords": [
+   "reprendre un cours réussi",
+   "échouer reprise",
+   "repeat passed course fail",
+   "lose units repeat",
+   "reprise cours note plus basse"
+  ],
+  "question": {
+   "fr": "Si je reprends un cours que j’avais réussi et que je l’échoue, que se passe-t-il ?",
+   "en": "If I repeat a course I had passed and fail it, what happens?"
+  },
+  "answer": {
+   "fr": "Tu perds les crédits obtenus la première fois, car seule la dernière note compte dans ta moyenne, même si c’est un échec. Toutes les tentatives restent sur ton relevé. Pense-y bien avant de reprendre un cours déjà réussi.",
+   "en": "You lose the units you earned the first time, because only the last grade counts in your average, even if it’s a failure. All attempts stay on your transcript. Think it over carefully before repeating a course you already passed."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-4 – Inscription",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b-4-inscription"
+   },
+   {
+    "label": "Academic Regulation B-4 – Registration",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-4-registration"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-reconnaissance-acquis",
+  "category": "reglements",
+  "keywords": [
+   "reconnaissance des acquis",
+   "rac",
+   "prior learning recognition",
+   "experience credit",
+   "crédits pour expérience",
+   "plr"
+  ],
+  "question": {
+   "fr": "Puis-je obtenir des crédits pour mon expérience de travail ?",
+   "en": "Can I get credits for my work experience?"
+  },
+  "answer": {
+   "fr": "Oui, par la reconnaissance des acquis, qui tient compte des connaissances acquises par l’expérience professionnelle, l’autoapprentissage, la formation en milieu de travail ou l’engagement communautaire. Tu dois d’abord être admis et inscrit à un programme, puis présenter ta demande après avoir accepté l’offre d’admission ou pendant ton premier trimestre. Au maximum, 30 crédits peuvent être accordés.",
+   "en": "Yes, through prior-learning recognition, which takes into account knowledge gained through professional experience, self-teaching, workplace training or community involvement. You must first be admitted to and enrolled in a program, then submit your request once you’ve accepted the offer of admission or during your first term. A maximum of 30 units can be granted."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-5 – Reconnaissance des acquis",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b-5-politique-generale-transfert-credits"
+   },
+   {
+    "label": "Academic Regulation B-5 – Prior-Learning Recognition",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-5-prior-learning-recognition"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-reconnaissance-acquis-conditions",
+  "category": "reglements",
+  "keywords": [
+   "reconnaissance des acquis facultés",
+   "prior learning which faculties",
+   "prior learning appeal",
+   "acquis langue seconde",
+   "prior learning conditions"
+  ],
+  "question": {
+   "fr": "Quelles sont les conditions de la reconnaissance des acquis ?",
+   "en": "What are the conditions for prior-learning recognition?"
+  },
+  "answer": {
+   "fr": "Elle vise seulement le premier cycle en arts, génie, sciences de la santé, sciences, sciences sociales et à l’École de gestion Telfer, pour des cours existants de ton programme offerts dans les 36 derniers mois. Les compétences en langue seconde peuvent donner des exemptions, mais pas des équivalences. Ces crédits ne comptent pas dans l’exigence de résidence, et en cas de refus, tu peux faire appel par écrit au doyen de la faculté qui offre le cours.",
+   "en": "It applies only to undergraduate courses in Arts, Engineering, Health Sciences, Science, Social Sciences and the Telfer School of Management, for existing courses in your program scheduled within the last 36 months. Second-language skills can lead to exemptions, but not equivalences. These units don’t count toward residency requirements, and if you’re refused, you can appeal in writing to the dean of the faculty offering the course."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-5 – Reconnaissance des acquis",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b-5-politique-generale-transfert-credits"
+   },
+   {
+    "label": "Academic Regulation B-5 – Prior-Learning Recognition",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-5-prior-learning-recognition"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-carleton-conversion-notes",
+  "category": "reglements",
+  "keywords": [
+   "notes carleton",
+   "carleton grade conversion",
+   "carleton gpa",
+   "cours carleton moyenne",
+   "carleton residence requirement"
+  ],
+  "question": {
+   "fr": "Comment mes notes de Carleton sont-elles converties ?",
+   "en": "How are my Carleton grades converted?"
+  },
+  "answer": {
+   "fr": "Les notes obtenues à l’Université Carleton sont converties selon un tableau d’équivalence, paraissent sur ton relevé officiel et comptent dans ta moyenne au premier cycle. Par exemple, un A+ de Carleton devient un A+, et un B de Carleton devient un B+. Par contre, ces cours ne comptent pas dans l’exigence de résidence à l’Université d’Ottawa.",
+   "en": "Grades earned at Carleton University are converted using an equivalence table, appear on your official transcript and count in your undergraduate average. For example, a Carleton A+ becomes an A+, and a Carleton B becomes a B+. However, these courses don’t count toward residency requirements at the University of Ottawa."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-10 – Transfert de crédits",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-10-transfert-credits"
+   },
+   {
+    "label": "Academic Regulation A-10 – Unit Transfers",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-10-unit-transfers"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-carleton-cours-equivalent",
+  "category": "reglements",
+  "keywords": [
+   "carleton cours équivalent",
+   "carleton same course",
+   "why can’t i take carleton course",
+   "carleton refusé",
+   "cours offert à uottawa"
+  ],
+  "question": {
+   "fr": "Puis-je suivre à Carleton un cours qui existe aussi à l’Université d’Ottawa ?",
+   "en": "Can I take a course at Carleton that is also offered at uOttawa?"
+  },
+  "answer": {
+   "fr": "En principe non, si un cours équivalent est offert à l’Université d’Ottawa la même année. Les exceptions : le cours est plein, il est absolument nécessaire pour terminer ton programme, ou il y a une autre raison valable. Il te faut l’approbation de ta faculté, et tu dois respecter les dates de chaque université.",
+   "en": "In principle no, if an equivalent course is offered at the University of Ottawa in the same academic year. The exceptions: the course is full, it’s absolutely required to complete your program, or there’s another valid reason. You need your faculty’s approval, and you must follow each university’s sessional dates."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-10 – Transfert de crédits",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-10-transfert-credits"
+   },
+   {
+    "label": "Academic Regulation A-10 – Unit Transfers",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-10-unit-transfers"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-lettre-permission-releve",
+  "category": "reglements",
+  "keywords": [
+   "lettre de permission relevé",
+   "nc relevé",
+   "transcript other university",
+   "course elsewhere nc",
+   "envoyer relevé autre université"
+  ],
+  "question": {
+   "fr": "J’ai suivi un cours ailleurs avec une lettre de permission : pourquoi aurais-je un NC ?",
+   "en": "I took a course elsewhere with a letter of permission: why would I get an NC?"
+  },
+  "answer": {
+   "fr": "Un NC paraît si tu n’obtiens pas la note minimale, soit 60 % au premier cycle et 65 % aux études supérieures, si le relevé officiel n’est pas envoyé à ta faculté dès la fin du trimestre, ou si tu abandonnes le cours sans en informer ta faculté par écrit dans les délais. Ces cours ne comptent pas non plus dans l’exigence de résidence.",
+   "en": "An NC appears if you don’t reach the minimum grade, 60% at the undergraduate level and 65% at the graduate level, if the official transcript isn’t sent to your faculty as soon as the term ends, or if you withdraw from the course without telling your faculty in writing within the deadlines. These courses also don’t count toward residency requirements."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-10 – Transfert de crédits",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-10-transfert-credits"
+   },
+   {
+    "label": "Academic Regulation A-10 – Unit Transfers",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-10-unit-transfers"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-echange-credits-bourse",
+  "category": "reglements",
+  "keywords": [
+   "échange international crédits",
+   "exchange units",
+   "exchange scholarship renewal",
+   "bourse d’excellence échange",
+   "cours à l’étranger crédits"
+  ],
+  "question": {
+   "fr": "Pendant un échange à l’étranger, mes cours comptent-ils et ma bourse est-elle renouvelée ?",
+   "en": "On an exchange abroad, do my courses count and is my scholarship renewed?"
+  },
+  "answer": {
+   "fr": "Si tu réussis des cours chez un partenaire d’échange, tu reçois automatiquement les crédits, pourvu que le contenu et les heures aient été approuvés à l’avance par ta faculté. Si tu es à temps plein et que ta bourse d’excellence dépend d’une moyenne, réussir tes cours à l’étranger compte comme une condition de renouvellement remplie.",
+   "en": "If you pass courses at an exchange partner, you automatically receive the units, as long as the content and hours were pre-approved by your faculty. If you’re full time and your excellence scholarship depends on keeping an average, passing your courses abroad counts as meeting the renewal conditions."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique A-10 – Transfert de crédits",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/a-10-transfert-credits"
+   },
+   {
+    "label": "Academic Regulation A-10 – Unit Transfers",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-10-unit-transfers"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-etudiant-libre-limite",
+  "category": "reglements",
+  "keywords": [
+   "étudiant libre études supérieures",
+   "cours de maîtrise sans être admis",
+   "graduate non-degree student",
+   "graduate course without admission",
+   "combien de cours étudiant libre cycles supérieurs"
+  ],
+  "question": {
+   "fr": "Puis-je suivre un cours de maîtrise sans être admis à un programme ?",
+   "en": "Can I take a graduate course without being admitted to a program?"
+  },
+  "answer": {
+   "fr": "Oui, comme étudiant libre aux études supérieures, avec l’approbation préalable de l’unité qui offre le cours. Tu peux suivre au plus six crédits par trimestre et neuf crédits au total, à temps partiel. Tu dois respecter les mêmes exigences que les autres : préalables, présence, travaux, examens et note de passage.",
+   "en": "Yes, as a graduate non-degree student, with prior approval from the academic unit offering the course. You can take no more than six units per term and nine units in total, part time. You must meet the same requirements as everyone else: prerequisites, attendance, assignments, exams and passing grades."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-1 – Catégories et statuts aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-1-categories-statuts-etudiants-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-1 – Categories and Status of Graduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-1-categories-status-graduate-students"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-auditeur-libre",
+  "category": "reglements",
+  "keywords": [
+   "auditeur libre études supérieures",
+   "graduate auditor",
+   "audit graduate course",
+   "assister à un cours de maîtrise",
+   "auditor attendance"
+  ],
+  "question": {
+   "fr": "Puis-je assister à un cours aux études supérieures comme auditeur libre ?",
+   "en": "Can I audit a graduate course?"
+  },
+  "answer": {
+   "fr": "Oui, si l’unité qui offre le cours t’y autorise, mais tu n’obtiens pas de crédits. Les auditeurs libres ne font ni examens ni travaux, mais doivent respecter les exigences de participation et de présence. Tu ne peux plus changer de statut après la date limite de modification de cours du trimestre.",
+   "en": "Yes, if the academic unit offering the course authorizes it, but you don’t earn units. Auditors don’t write exams or hand in assignments, but they must meet participation and attendance requirements. You can’t change your status after the course change deadline for the term."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-1 – Catégories et statuts aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-1-categories-statuts-etudiants-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-1 – Categories and Status of Graduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-1-categories-status-graduate-students"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-temps-plein-emploi",
+  "category": "reglements",
+  "keywords": [
+   "travailler pendant la maîtrise",
+   "emploi temps plein études supérieures",
+   "work during master’s",
+   "graduate student job hours",
+   "10 heures par semaine"
+  ],
+  "question": {
+   "fr": "Aux études supérieures à temps plein, combien d’heures puis-je travailler ?",
+   "en": "As a full-time graduate student, how many hours can I work?"
+  },
+  "answer": {
+   "fr": "L’Université s’attend à ce que tu consacres la majorité de ton temps à tes études. Si tu veux travailler plus de 10 heures par semaine, tu dois consulter ton directeur de thèse ou la direction de ton programme pour t’assurer que tes progrès restent satisfaisants. Le travail de recherche lié à ta thèse payé par une bourse de recherche ne compte pas comme emploi rémunéré.",
+   "en": "The University expects you to devote the majority of your time to your studies. If you want to work more than 10 hours per week, you must consult your thesis supervisor or program director to make sure your progress stays satisfactory. Thesis-related research paid through a research bursary doesn’t count as paid employment."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-1 – Catégories et statuts aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-1-categories-statuts-etudiants-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-1 – Categories and Status of Graduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-1-categories-status-graduate-students"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-temps-partiel",
+  "category": "reglements",
+  "keywords": [
+   "temps partiel études supérieures",
+   "passer à temps partiel maîtrise",
+   "graduate part-time",
+   "switch to part-time graduate",
+   "six crédits temps partiel"
+  ],
+  "question": {
+   "fr": "Aux études supérieures, puis-je passer de temps plein à temps partiel ?",
+   "en": "In graduate studies, can I switch from full time to part time?"
+  },
+  "answer": {
+   "fr": "Tu peux le demander, mais la décision finale revient au vice-doyen aux études supérieures, ou l’équivalent, de la faculté qui offre ton programme. Le temps limite pour terminer ton programme reste le même. À temps partiel, tu suis en général six crédits ou moins par trimestre.",
+   "en": "You can request it, but final approval rests with the vice-dean of graduate studies, or equivalent, of the faculty offering your program. The time limit to complete your program stays the same. Part time generally means six course units or less per term."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-1 – Catégories et statuts aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-1-categories-statuts-etudiants-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-1 – Categories and Status of Graduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-1-categories-status-graduate-students"
+   },
+   {
+    "label": "Academic Regulation C-6 – Time Limits for Completion of Graduate Requirements",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-6-time-limits-completion-graduate-degree-diploma-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-retrait-programme",
+  "category": "reglements",
+  "keywords": [
+   "retiré du programme maîtrise",
+   "deux échecs études supérieures",
+   "withdrawn from graduate program",
+   "two failures master’s",
+   "unsatisfactory progress report"
+  ],
+  "question": {
+   "fr": "Aux études supérieures, qu’est-ce qui peut me faire retirer de mon programme ?",
+   "en": "In graduate studies, what can get me withdrawn from my program?"
+  },
+  "answer": {
+   "fr": "Tu peux être retiré si tes progrès ne sont pas satisfaisants ou si tu ne respectes pas les exigences du programme. Par exemple : deux échecs dans le programme, que ce soit à des cours, au mémoire, à l’examen de synthèse ou au projet de thèse, ou deux rapports de progrès insatisfaisants, sauf règle particulière de ton programme.",
+   "en": "You can be withdrawn if your progress is unsatisfactory or you don’t meet program requirements. For example: two failures in the program, whether in courses, the major research paper, the comprehensive exam or the thesis proposal, or two unsatisfactory progress reports, unless your program’s specific rules say otherwise."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-4 – Rendement académique aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-4-rendement-academique-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-4 – Academic Standing for Graduate Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-4-academic-standing-graduate-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-note-passage",
+  "category": "reglements",
+  "keywords": [
+   "note de passage maîtrise",
+   "passing grade graduate",
+   "c+ études supérieures",
+   "minimum grade master’s",
+   "note minimale doctorat"
+  ],
+  "question": {
+   "fr": "Quelle est la note de passage aux études supérieures ?",
+   "en": "What is the passing grade in graduate studies?"
+  },
+  "answer": {
+   "fr": "La note minimale de passage pour tous les cours aux études supérieures est C+, y compris les cours de premier cycle suivis pour crédits dans un programme d’études supérieures et les cours de propédeutique. Certains programmes exigent une note plus élevée.",
+   "en": "The minimum passing grade for all graduate courses is C+, including undergraduate courses taken for credit in a graduate program and qualifying program courses. Some programs require a higher grade."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-4 – Rendement académique aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-4-rendement-academique-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-4 – Academic Standing for Graduate Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-4-academic-standing-graduate-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-echec-cours",
+  "category": "reglements",
+  "keywords": [
+   "échec cours maîtrise",
+   "pas d’examen de reprise études supérieures",
+   "failed graduate course",
+   "supplemental exam graduate",
+   "reprendre cours doctorat"
+  ],
+  "question": {
+   "fr": "J’ai échoué un cours aux études supérieures : puis-je faire un examen de reprise ?",
+   "en": "I failed a graduate course: can I write a supplemental exam?"
+  },
+  "answer": {
+   "fr": "Non, les examens de reprise ne sont pas permis aux études supérieures. Tu peux reprendre le cours ou suivre un autre cours désigné par ton unité. L’échec reste sur ton relevé même si tu réussis ensuite, et il compte comme un premier échec dans le programme.",
+   "en": "No, supplemental exams aren’t allowed in graduate studies. You can repeat the course or take another course specified by your academic unit. The failure stays on your transcript even if you then pass, and it counts as a first failure in the program."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-4 – Rendement académique aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-4-rendement-academique-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-4 – Academic Standing for Graduate Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-4-academic-standing-graduate-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-directeur-delai-absence",
+  "category": "reglements",
+  "keywords": [
+   "quand trouver directeur de thèse",
+   "directeur absent",
+   "supervisor deadline",
+   "supervisor away",
+   "thesis supervisor absent"
+  ],
+  "question": {
+   "fr": "Quand dois-je avoir un directeur de thèse, et que se passe-t-il s’il s’absente ?",
+   "en": "When must I have a thesis supervisor, and what if they’re away?"
+  },
+  "answer": {
+   "fr": "Tu dois trouver ton directeur de thèse, ou ton comité consultatif de thèse, avant la fin de ton deuxième trimestre d’inscription, avec l’aide de ton unité au besoin. Si ton directeur prévoit s’absenter plus d’un mois, il doit prendre des arrangements avec toi et ton unité pour que ta supervision continue.",
+   "en": "You must find your thesis supervisor, or thesis advisory committee, before the end of your second term of enrolment, with your academic unit’s help if needed. If your supervisor plans to be away for more than a month, they must make arrangements with you and your unit so your supervision continues."
+  },
+  "sources": [
+   {
+    "label": "Academic Regulation C-5 – Graduate Research: Supervision and Ethics",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-5-graduate-research-supervision-ethics"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-temps-limite-maitrise",
+  "category": "reglements",
+  "keywords": [
+   "temps limite maîtrise",
+   "combien de temps pour finir maîtrise",
+   "master’s time limit",
+   "how long to finish master’s",
+   "délai diplôme études supérieures"
+  ],
+  "question": {
+   "fr": "Combien de temps ai-je pour terminer ma maîtrise ou mon diplôme d’études supérieures ?",
+   "en": "How long do I have to finish my master’s or graduate diploma?"
+  },
+  "answer": {
+   "fr": "Pour une maîtrise, l’inscription à temps plein dure normalement de deux à six trimestres, mais tout doit être terminé dans les quatre ans suivant ta première inscription. Pour un diplôme d’études supérieures, c’est normalement d’un à trois trimestres, avec un maximum de trois ans. Ton programme peut prévoir d’autres règles.",
+   "en": "For a master’s, full-time enrolment normally lasts two to six terms, but everything must be completed within four years of your initial enrolment. For a graduate diploma, it’s normally one to three terms, with a maximum of three years. Your program may set other rules."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-6 – Temps limite aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-6-temps-limite-exgiences-grade-diplome-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-6 – Time Limits for Completion of Graduate Requirements",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-6-time-limits-completion-graduate-degree-diploma-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-temps-limite-doctorat",
+  "category": "reglements",
+  "keywords": [
+   "temps limite doctorat",
+   "combien de temps pour finir doctorat",
+   "phd time limit",
+   "how long to finish phd",
+   "six ans doctorat"
+  ],
+  "question": {
+   "fr": "Combien de temps ai-je pour terminer mon doctorat ?",
+   "en": "How long do I have to finish my PhD?"
+  },
+  "answer": {
+   "fr": "L’inscription à temps plein dure normalement de quatre à cinq ans, mais tu dois avoir rempli les exigences et soumis ta thèse pour la soutenance dans les six ans suivant ta première inscription au doctorat. Si tu es passé de la maîtrise au doctorat, la limite est de sept ans à partir de ta première inscription à la maîtrise.",
+   "en": "Full-time enrolment normally lasts four to five years, but you must complete the requirements and submit your thesis for defence within six years of your initial doctoral enrolment. If you transferred from a master’s to the PhD, the limit is seven years from your initial master’s enrolment."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-6 – Temps limite aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-6-temps-limite-exgiences-grade-diplome-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-6 – Time Limits for Completion of Graduate Requirements",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-6-time-limits-completion-graduate-degree-diploma-requirements"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-memoire-inscription-date",
+  "category": "reglements",
+  "keywords": [
+   "mémoire date limite",
+   "inscription au mémoire",
+   "major research paper deadline",
+   "when to submit research paper",
+   "mrp enrolment"
+  ],
+  "question": {
+   "fr": "Quand puis-je m’inscrire à mon mémoire et quand dois-je le remettre ?",
+   "en": "When can I enrol in my major research paper and when is it due?"
+  },
+  "answer": {
+   "fr": "Tu dois avoir terminé toutes les autres exigences du programme avant de t’inscrire au cours de mémoire, et tu t’y inscris pour un seul trimestre. Le mémoire doit être remis au plus tard le dernier jour de la période officielle d’examens de ce trimestre. Il fait en général au plus 50 pages, selon le format établi par ton programme.",
+   "en": "You must complete all other program requirements before enrolling in the major research paper course, and you enrol for one term only. The paper must be submitted no later than the last day of that term’s official exam period. It is generally a maximum of 50 pages, in the format set by your program."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-8 – Mémoire",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c8-memoire"
+   },
+   {
+    "label": "Academic Regulation C-8 – Major Research Paper",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-8-major-research-paper"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-memoire-evaluation",
+  "category": "reglements",
+  "keywords": [
+   "évaluation mémoire",
+   "note mémoire s ns",
+   "major research paper grade",
+   "research paper appeal",
+   "corriger mon mémoire"
+  ],
+  "question": {
+   "fr": "Comment mon mémoire est-il évalué, et puis-je contester la note ?",
+   "en": "How is my major research paper graded, and can I appeal?"
+  },
+  "answer": {
+   "fr": "Le mémoire est évalué de façon indépendante par ton directeur et un évaluateur, et tu reçois la note S ou NS. Contrairement à une thèse, il n’y a pas de possibilité de le modifier. La note est finale : le doyen de la faculté n’entend un appel que pour un motif de procédure.",
+   "en": "The paper is evaluated independently by your supervisor and an evaluator, and you receive a grade of S or NS. Unlike a thesis, it can’t be revised. The grade is final: the dean of the faculty hears appeals only on procedural grounds."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-8 – Mémoire",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c8-memoire"
+   },
+   {
+    "label": "Academic Regulation C-8 – Major Research Paper",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-8-major-research-paper"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-medailles-or",
+  "category": "reglements",
+  "keywords": [
+   "médaille d’or gouverneur général",
+   "gold medal",
+   "governor general medal",
+   "meilleure thèse",
+   "médailles collation"
+  ],
+  "question": {
+   "fr": "Qu’est-ce que la Médaille d’or du Gouverneur général aux études supérieures ?",
+   "en": "What is the graduate Governor General’s Gold Medal?"
+  },
+  "answer": {
+   "fr": "Chaque année, trois médailles d’or sont remises à la collation des grades pour les meilleures thèses de doctorat : une pour Telfer, Arts, Sciences sociales, Droit ou Éducation, une pour Sciences ou Génie, et une pour Sciences de la santé, Médecine ou un programme interdisciplinaire. Un comité relevant du vice-provost aux études supérieures et postdoctorales choisit les lauréats.",
+   "en": "Each year, three gold medals are awarded at convocation for the best doctoral theses: one for Telfer, Arts, Social Sciences, Law or Education, one for Science or Engineering, and one for Health Sciences, Medicine or an interdisciplinary program. A selection committee under the Vice-Provost of Graduate and Postdoctoral Studies chooses the recipients."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-9 – Conditions d’obtention d’un grade aux études supérieures et médailles",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-9-conditions-obtention-grade-diplomes-etudes-superieures-medailles"
+   },
+   {
+    "label": "Academic Regulation C-9 – Conditions for Obtaining a Graduate Degree and Medals",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-9-conditions-obtaining-graduate-degree-diploma-medals"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-solde-documents-officiels",
+  "category": "reglements",
+  "keywords": [
+   "solde impayé diplôme",
+   "dette université relevé",
+   "outstanding balance transcript",
+   "can’t get diploma balance",
+   "frais impayés document officiel"
+  ],
+  "question": {
+   "fr": "J’ai un solde impayé : puis-je obtenir mon diplôme ou mon relevé officiel ?",
+   "en": "I have an outstanding balance: can I get my diploma or official transcript?"
+  },
+  "answer": {
+   "fr": "Non. Aux études supérieures, si tu as un solde impayé ou une autre obligation financière envers l’Université, tu ne peux obtenir aucun document officiel attestant la fin de ton programme, comme une attestation, un relevé ou un diplôme. Règle ton solde avant de demander tes documents.",
+   "en": "No. In graduate studies, if you have an outstanding balance or other financial obligation to the University, you can’t obtain any official document confirming you completed your program, such as a certification, transcript or diploma. Settle your balance before requesting your documents."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-9 – Conditions d’obtention d’un grade aux études supérieures et médailles",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-9-conditions-obtention-grade-diplomes-etudes-superieures-medailles"
+   },
+   {
+    "label": "Academic Regulation C-9 – Conditions for Obtaining a Graduate Degree and Medals",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-9-conditions-obtaining-graduate-degree-diploma-medals"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-these-avant-diplome",
+  "category": "reglements",
+  "keywords": [
+   "thèse avant collation",
+   "recommandé pour diplôme thèse",
+   "thesis before graduation",
+   "uoresearch thesis",
+   "inscription collation études supérieures"
+  ],
+  "question": {
+   "fr": "Dans un programme avec thèse, quand puis-je obtenir mon diplôme ?",
+   "en": "In a thesis program, when can I graduate?"
+  },
+  "answer": {
+   "fr": "Tu ne peux être recommandé pour l’obtention du grade qu’une fois la version finale de ta thèse approuvée par ta faculté et déposée électroniquement dans uO Recherche. Tu dois aussi t’inscrire en ligne pour que ton grade soit conféré et indiquer si tu assisteras à la collation ; il y a quatre périodes d’inscription par année.",
+   "en": "You can be recommended for graduation only once the final version of your thesis has been approved by your faculty and submitted electronically to uOResearch. You must also register online for your degree to be conferred and indicate whether you’ll attend convocation; there are four registration periods each year."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-9 – Conditions d’obtention d’un grade aux études supérieures et médailles",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-9-conditions-obtention-grade-diplomes-etudes-superieures-medailles"
+   },
+   {
+    "label": "Academic Regulation C-9 – Conditions for Obtaining a Graduate Degree and Medals",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-9-conditions-obtaining-graduate-degree-diploma-medals"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-admission-moyenne-maitrise",
+  "category": "reglements",
+  "keywords": [
+   "moyenne admission maîtrise",
+   "70 % maîtrise",
+   "master’s admission average",
+   "gpa for master’s",
+   "b average graduate"
+  ],
+  "question": {
+   "fr": "Quelle moyenne faut-il pour être admis à une maîtrise ?",
+   "en": "What average do I need to be admitted to a master’s?"
+  },
+  "answer": {
+   "fr": "En général, il faut un baccalauréat de quatre ans, soit 120 crédits, ou l’équivalent, dans la même discipline ou une discipline connexe, avec une moyenne minimale de 70 %, soit B. Une formation et une expérience professionnelle importantes peuvent aussi permettre une admission sur recommandation du comité. Vérifie les exigences propres à ton programme.",
+   "en": "Generally, you need a four-year bachelor’s, meaning 120 units, or equivalent, in the same or a related discipline, with a minimum average of 70%, or B. Significant training and professional experience can also lead to admission on the committee’s recommendation. Check your program’s specific requirements."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-admission-moyenne-doctorat",
+  "category": "reglements",
+  "keywords": [
+   "moyenne admission doctorat",
+   "75 % doctorat",
+   "phd admission average",
+   "gpa for phd",
+   "admission directe doctorat"
+  ],
+  "question": {
+   "fr": "Quelle moyenne faut-il pour être admis au doctorat ?",
+   "en": "What average do I need to be admitted to a PhD?"
+  },
+  "answer": {
+   "fr": "En général, il faut une maîtrise ou l’équivalent dans la même discipline ou une discipline connexe, avec une moyenne minimale de 75 %, soit B+. Certains programmes permettent l’admission directe au doctorat si tu démontres une capacité de recherche avancée.",
+   "en": "Generally, you need a master’s or equivalent in the same or a related discipline, with a minimum average of 75%, or B+. Some programs allow direct admission to the PhD if you show advanced research ability."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-propedeutique",
+  "category": "reglements",
+  "keywords": [
+   "propédeutique",
+   "programme de propédeutique",
+   "qualifying program",
+   "qualifying year",
+   "pas de baccalauréat de quatre ans"
+  ],
+  "question": {
+   "fr": "Je n’ai pas de baccalauréat de quatre ans : puis-je quand même faire une maîtrise ?",
+   "en": "I don’t have a four-year bachelor’s: can I still do a master’s?"
+  },
+  "answer": {
+   "fr": "Dans certains programmes, oui, en passant par un programme de propédeutique. Il sert à mettre tes connaissances de la discipline au niveau requis, et tu dois le réussir pour être admis à la maîtrise. Le même mécanisme existe pour certains doctorats si tu n’as pas de maîtrise.",
+   "en": "In some programs, yes, through a qualifying program. It brings your knowledge of the discipline up to the required standard, and you must complete it successfully to be admitted to the master’s. The same option exists for some PhDs if you don’t have a master’s."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-appel-refus-admission",
+  "category": "reglements",
+  "keywords": [
+   "refus admission maîtrise appel",
+   "refused graduate admission",
+   "appeal graduate admission",
+   "contester refus doctorat",
+   "admission denied master’s"
+  ],
+  "question": {
+   "fr": "Ma demande d’admission aux études supérieures a été refusée : puis-je faire appel ?",
+   "en": "My graduate admission was refused: can I appeal?"
+  },
+  "answer": {
+   "fr": "Un refus d’admission par la faculté est final. Le doyen de la faculté qui offre le programme peut examiner un appel seulement pour un motif de procédure. Si l’appel est accueilli, ta demande retourne à l’instance où l’erreur s’est produite pour être réexaminée.",
+   "en": "A denial of admission by the faculty is final. The dean of the faculty offering the program can consider an appeal only on procedural grounds. If the appeal is allowed, your application goes back to the authority where the error happened to be reconsidered."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-passage-maitrise-doctorat",
+  "category": "reglements",
+  "keywords": [
+   "passage accéléré doctorat",
+   "passer de la maîtrise au doctorat",
+   "transfer master’s to phd",
+   "fast track phd",
+   "transfert doctorat"
+  ],
+  "question": {
+   "fr": "Puis-je passer de la maîtrise au doctorat sans terminer ma maîtrise ?",
+   "en": "Can I transfer from my master’s to the PhD without finishing it?"
+  },
+  "answer": {
+   "fr": "Oui, si les règlements du doctorat le permettent : tu présentes une demande écrite, qui doit être recommandée par le comité d’admission du doctorat et approuvée par la faculté. Attention, un échec de cours à la maîtrise compte aussi comme un échec dans le doctorat. Le même principe s’applique pour passer d’un diplôme d’études supérieures à une maîtrise.",
+   "en": "Yes, if the doctoral program’s regulations allow it: you submit a written request, which must be recommended by the doctoral admissions committee and approved by the faculty. Note that a course failure in the master’s also counts as a failure in the PhD. The same principle applies to moving from a graduate diploma to a master’s."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-doctorat-vers-maitrise",
+  "category": "reglements",
+  "keywords": [
+   "passer du doctorat à la maîtrise",
+   "quitter doctorat maîtrise",
+   "transfer phd to master’s",
+   "leave phd get master’s",
+   "retour maîtrise"
+  ],
+  "question": {
+   "fr": "Puis-je passer de mon doctorat à une maîtrise ?",
+   "en": "Can I transfer from my PhD to a master’s?"
+  },
+  "answer": {
+   "fr": "Oui, par une demande écrite qui doit être recommandée par le comité d’admission de la maîtrise et approuvée par la faculté. Par contre, tu ne pourras plus t’inscrire ensuite au même doctorat, et tu dois remplir toutes les exigences de la maîtrise pour obtenir le grade.",
+   "en": "Yes, through a written request that must be recommended by the master’s admissions committee and approved by the faculty. However, you won’t be allowed to enrol again in the same doctoral program afterward, and you must meet all the master’s requirements to be awarded the degree."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-equivalences-cours",
+  "category": "reglements",
+  "keywords": [
+   "équivalences études supérieures",
+   "transfert de crédits maîtrise",
+   "graduate course equivalency",
+   "transfer credits master’s",
+   "huit ans cours"
+  ],
+  "question": {
+   "fr": "Mes cours déjà suivis peuvent-ils être reconnus dans mon programme d’études supérieures ?",
+   "en": "Can courses I already took count toward my graduate program?"
+  },
+  "answer": {
+   "fr": "Oui, si le comité d’admission les juge pertinents, s’ils visent les mêmes résultats d’apprentissage, que tu as obtenu au moins 70 %, soit B, et qu’ils datent de moins de huit ans avant ton admission. En général, les équivalences peuvent couvrir jusqu’à 50 % des exigences du programme. Elles ne s’appliquent pas à l’examen de synthèse, au projet de thèse ni à la thèse.",
+   "en": "Yes, if the admissions committee finds them relevant, they meet the same learning outcomes, you earned at least 70%, or B, and they were taken within eight years before your admission. Generally, equivalencies can cover up to 50% of the program’s requirements. They don’t apply to the comprehensive exam, the thesis proposal or the thesis."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-2 – Admission aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/C-2-admission-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-2 – Admission to Graduate Programs",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/C-2-admission-graduate-programs"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-ordinateur-portable-exigences",
+  "category": "ti",
+  "keywords": [
+   "quel ordinateur acheter",
+   "portable exigences",
+   "laptop requirements",
+   "which laptop for university",
+   "minimum specs laptop",
+   "spécifications ordinateur"
+  ],
+  "question": {
+   "fr": "Quel ordinateur portable me faut-il pour mes études ?",
+   "en": "What laptop do I need for my studies?"
+  },
+  "answer": {
+   "fr": "Les TI recommandent au minimum un processeur Intel Core i5 et 16 Go de mémoire vive. Sur PC, il faut Windows 11 et un SSD de 256 Go ; sur Mac, macOS Sonoma et un SSD de 512 Go. Prévois aussi un écran d’au moins 13 pouces, le Wi-Fi, ainsi qu’une caméra, un micro et des haut-parleurs intégrés.",
+   "en": "IT recommends at least an Intel Core i5 processor and 16 GB of RAM. On a PC, you need Windows 11 and a 256 GB SSD; on a Mac, macOS Sonoma and a 512 GB SSD. Also plan for a screen of at least 13 inches, Wi-Fi, and a built-in camera, microphone and speakers."
+  },
+  "sources": [
+   {
+    "label": "IT – Technical specifications for student laptops",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/technical-specification"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-rabais-ordinateur-etudiant",
+  "category": "ti",
+  "keywords": [
+   "rabais ordinateur étudiant",
+   "student discount laptop",
+   "apple education",
+   "dell student discount",
+   "acheter ordinateur moins cher"
+  ],
+  "question": {
+   "fr": "Y a-t-il des rabais pour acheter un ordinateur comme étudiant ?",
+   "en": "Are there student discounts on computers?"
+  },
+  "answer": {
+   "fr": "Les TI suggèrent la boutique Apple pour l’éducation et les rabais étudiants de Dell. Pour l’antivirus, ils recommandent Microsoft Defender, et pour les logiciels, la suite Microsoft 365 de l’Université, offerte aux étudiants.",
+   "en": "IT suggests the Apple for Higher Education store and Dell student discounts. For antivirus, they recommend Microsoft Defender, and for software, the University’s Microsoft 365 suite, available to students."
+  },
+  "sources": [
+   {
+    "label": "IT – Technical specifications for student laptops",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/technical-specification"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-navigateur-recommande",
+  "category": "ti",
+  "keywords": [
+   "quel navigateur",
+   "navigateur recommandé",
+   "which browser",
+   "teams safari",
+   "browser for brightspace"
+  ],
+  "question": {
+   "fr": "Quel navigateur Web devrais-je utiliser ?",
+   "en": "Which web browser should I use?"
+  },
+  "answer": {
+   "fr": "Les TI recommandent Google Chrome, Firefox ou Safari pour ton ordinateur. Attention : Microsoft Teams n’est pas pris en charge dans Safari, alors utilise plutôt Edge ou Chrome, ou l’application Teams. Un casque d’écoute et une souris sans fil sont aussi suggérés.",
+   "en": "IT recommends Google Chrome, Firefox or Safari for your computer. Note that Microsoft Teams isn’t supported in Safari, so use Edge or Chrome instead, or the Teams app. A headset and a wireless mouse are also suggested."
+  },
+  "sources": [
+   {
+    "label": "IT – Technical specifications for student laptops",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/computers/technical-specification"
+   },
+   {
+    "label": "IT – MS Teams",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-teams"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-courriel-transfert-automatique",
+  "category": "ti",
+  "keywords": [
+   "transférer courriel gmail",
+   "transfert automatique courriel",
+   "forward uottawa email",
+   "email forwarding gmail",
+   "rediriger mes courriels"
+  ],
+  "question": {
+   "fr": "Puis-je transférer automatiquement mes courriels uOttawa vers un autre compte ?",
+   "en": "Can I automatically forward my uOttawa email to another account?"
+  },
+  "answer": {
+   "fr": "C’est permis pour le moment, mais ce n’est pas recommandé. Les TI n’offrent aucun soutien pour les problèmes liés au transfert automatique des courriels. Le plus simple est d’ajouter ton compte uOttawa à l’application Outlook sur ton téléphone.",
+   "en": "It’s currently allowed, but it isn’t recommended. IT doesn’t support issues related to automatic email forwarding. The simplest option is to add your uOttawa account to the Outlook app on your phone."
+  },
+  "sources": [
+   {
+    "label": "IT – Using your Outlook account",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/account/student-email"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-courriel-limite-destinataires",
+  "category": "ti",
+  "keywords": [
+   "limite destinataires courriel",
+   "envoyer courriel à beaucoup de monde",
+   "email recipient limit",
+   "mass email",
+   "combien de destinataires"
+  ],
+  "question": {
+   "fr": "À combien de personnes puis-je envoyer un courriel uOttawa ?",
+   "en": "How many people can I email from my uOttawa account?"
+  },
+  "answer": {
+   "fr": "Tu peux écrire à au plus 500 destinataires par heure et 1 000 par jour, à l’interne comme à l’externe. Une liste de distribution du carnet d’adresses de l’Université compte pour un seul destinataire. Pour un bulletin ou un envoi massif, il faut utiliser un fournisseur externe.",
+   "en": "You can email up to 500 recipients per hour and 1,000 per day, internal and external combined. A distribution list in the organization’s address book counts as one recipient. For a newsletter or mass mailing, use a third-party provider."
+  },
+  "sources": [
+   {
+    "label": "IT – Using your Outlook account",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/account/student-email"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-courriel-apres-diplome",
+  "category": "ti",
+  "keywords": [
+   "garder courriel après diplôme",
+   "courriel diplômé",
+   "keep email after graduation",
+   "alumni email",
+   "perdre onedrive diplômé"
+  ],
+  "question": {
+   "fr": "Est-ce que je garde mon courriel uOttawa après mes études ?",
+   "en": "Do I keep my uOttawa email after I finish my studies?"
+  },
+  "answer": {
+   "fr": "Oui, ton compte garde l’accès au courriel, au calendrier, aux notes et aux tâches, avec un peu d’espace, tant qu’il reste actif au moins une fois par période de 365 jours. Par contre, les diplômés perdent l’accès à OneDrive et à SharePoint, alors sauvegarde tes fichiers avant de partir.",
+   "en": "Yes, your account keeps access to email, calendar, notes and tasks, with some storage, as long as it stays active within each 365-day period. However, alumni lose access to OneDrive and SharePoint, so back up your files before you leave."
+  },
+  "sources": [
+   {
+    "label": "IT – Using your Outlook account",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/account/student-email"
+   },
+   {
+    "label": "IT – MS OneDrive",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-onedrive"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-onedrive-fin-etudes",
+  "category": "ti",
+  "keywords": [
+   "onedrive après études",
+   "sauvegarder onedrive",
+   "onedrive deleted after graduation",
+   "backup onedrive",
+   "perdre mes fichiers onedrive"
+  ],
+  "question": {
+   "fr": "Qu’arrive-t-il à mon OneDrive à la fin de mes études ?",
+   "en": "What happens to my OneDrive when I finish my studies?"
+  },
+  "answer": {
+   "fr": "L’accès à OneDrive est retiré à la fin de ton affiliation avec l’Université, et les données peuvent être supprimées. Fais une copie de tes fichiers avant ce moment pour ne rien perdre. OneDrive est gratuit pour les utilisateurs admissibles et te permet de travailler hors ligne et de partager par lien.",
+   "en": "OneDrive access is removed when your affiliation with the University ends, and the data can be deleted. Back up your files before then so you don’t lose anything. OneDrive is free for eligible users and lets you work offline and share by link."
+  },
+  "sources": [
+   {
+    "label": "IT – MS OneDrive",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-onedrive"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-candidat-identifiants-uozone",
+  "category": "ti",
+  "keywords": [
+   "identifiants candidat",
+   "mot de passe temporaire",
+   "applicant uoaccess",
+   "applicant login uozone",
+   "suivre mon dossier d’admission"
+  ],
+  "question": {
+   "fr": "Je suis candidat : comment me connecter à uoZone ?",
+   "en": "I’m an applicant: how do I log in to uoZone?"
+  },
+  "answer": {
+   "fr": "Tes identifiants uoAccess sont dans le courriel d’accusé de réception de ta demande d’admission. Connecte-toi à uoZone, change ton mot de passe temporaire et configure l’authentification multifacteur, qui est obligatoire. Pendant que tu es candidat, ces identifiants servent seulement à uoZone, pour suivre ton dossier et téléverser tes documents.",
+   "en": "Your uoAccess credentials are in your admission acknowledgement email. Log in to uoZone, change your temporary password and set up multi-factor authentication, which is required. While you’re an applicant, these credentials work only for uoZone, to track your file and upload your documents."
+  },
+  "sources": [
+   {
+    "label": "IT – IT for uOttawa applicants",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/students/applicants"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-candidat-acces-courriel",
+  "category": "ti",
+  "keywords": [
+   "quand j’aurai mon courriel",
+   "accès courriel nouvel étudiant",
+   "when do i get my email",
+   "new student email access",
+   "courriel après inscription"
+  ],
+  "question": {
+   "fr": "Quand aurai-je accès à mon courriel uOttawa ?",
+   "en": "When will I get access to my uOttawa email?"
+  },
+  "answer": {
+   "fr": "Dès que tu es inscrit à au moins un cours, tes identifiants uoAccess te donnent aussi accès à ton courriel étudiant. Ensuite, ils servent pour uoZone, le courriel et plusieurs autres ressources en ligne.",
+   "en": "As soon as you’re enrolled in at least one course, your uoAccess credentials also give you access to your student email account. From then on, they work for uoZone, email and many other online resources."
+  },
+  "sources": [
+   {
+    "label": "IT – IT for uOttawa applicants",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/students/applicants"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-uozone-autre-compte-microsoft",
+  "category": "ti",
+  "keywords": [
+   "uozone ne fonctionne pas compte microsoft",
+   "connexion uozone erreur",
+   "can’t log in uozone microsoft account",
+   "signed in other microsoft account",
+   "déconnecter compte microsoft"
+  ],
+  "question": {
+   "fr": "Je n’arrive pas à me connecter à uoZone : est-ce à cause d’un autre compte Microsoft ?",
+   "en": "I can’t log in to uoZone: could another Microsoft account be the problem?"
+  },
+  "answer": {
+   "fr": "C’est possible. Si tu es connecté à des services Microsoft avec un autre compte, tu dois d’abord t’en déconnecter avant de te connecter à uoZone avec tes identifiants uoAccess. Si le problème continue, communique avec le Centre de services TI.",
+   "en": "It might be. If you’re signed in to Microsoft services with another account, you must sign out of it before logging in to uoZone with your uoAccess credentials. If the problem continues, contact the IT Service Desk."
+  },
+  "sources": [
+   {
+    "label": "IT – IT for uOttawa applicants",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/students/applicants"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-maintenance-systemes",
+  "category": "ti",
+  "keywords": [
+   "panne connexion soir",
+   "maintenance ti",
+   "system maintenance",
+   "can’t log in evening",
+   "service alerts",
+   "wifi down"
+  ],
+  "question": {
+   "fr": "Pourquoi certains services uOttawa sont-ils parfois indisponibles le soir ?",
+   "en": "Why are some uOttawa services sometimes unavailable in the evening?"
+  },
+  "answer": {
+   "fr": "Les applications qui demandent une authentification, comme la connexion aux postes et aux labos, le Wi-Fi, le VPN ou LiquidFiles, peuvent avoir de l’entretien plusieurs fois par semaine entre 18 h et 20 h. Pour Brightspace, uoZone et Microsoft 365, cela dépend du fournisseur. Les TI publient ces périodes sur leur page d’alertes de service, qui peut changer sans préavis.",
+   "en": "Applications that require authentication, like workstation and lab logins, Wi-Fi, VPN or LiquidFiles, can have maintenance several times a week between 6 p.m. and 8 p.m. For Brightspace, uoZone and Microsoft 365, it depends on the vendor. IT posts these periods on its service alerts page, which may change without notice."
+  },
+  "sources": [
+   {
+    "label": "IT – Service alerts",
+    "url": "https://www.uottawa.ca/about-us/information-technology/system-availability"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zb-copilot-gratuit",
+  "category": "ti",
+  "keywords": [
+   "copilot",
+   "ia gratuite université",
+   "chatgpt université",
+   "free ai uottawa",
+   "microsoft copilot students",
+   "intelligence artificielle"
+  ],
+  "question": {
+   "fr": "L’Université offre-t-elle un outil d’intelligence artificielle ?",
+   "en": "Does the University offer an AI tool?"
+  },
+  "answer": {
+   "fr": "Oui, Microsoft Copilot est la plateforme d’IA générative officielle de l’Université. La version Web de Copilot est gratuite pour tous ceux qui ont un compte actif uOttawa : va sur le site de Copilot et connecte-toi avec tes identifiants uoAccess. Vérifie toujours l’exactitude des réponses, et respecte les règles de ton cours sur l’IA.",
+   "en": "Yes, Microsoft Copilot is the University’s official generative AI platform. Copilot for the web is free for everyone with an active uOttawa account: go to the Copilot site and sign in with your uoAccess credentials. Always check the accuracy of its answers, and follow your course’s rules on AI."
+  },
+  "sources": [
+   {
+    "label": "IT – MS Copilot",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-copilot"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-copilot-bouclier-vert",
+  "category": "ti",
+  "keywords": [
+   "copilot bouclier vert",
+   "copilot données protégées",
+   "copilot data privacy",
+   "copilot green shield",
+   "mes données copilot"
+  ],
+  "question": {
+   "fr": "Comment savoir si mes données sont protégées dans Copilot ?",
+   "en": "How do I know my data is protected in Copilot?"
+  },
+  "answer": {
+   "fr": "Connecte-toi avec tes identifiants uoAccess, puis vérifie qu’un bouclier vert avec un crochet apparaît en haut à droite de Copilot Chat. Ainsi, Microsoft n’utilise pas tes données pour entraîner son modèle. Les TI conseillent aussi d’éviter les boutons « j’aime » et « je n’aime pas », qui peuvent partager ta conversation avec Microsoft.",
+   "en": "Sign in with your uoAccess credentials, then check that a green shield with a checkmark appears in the top right of Copilot Chat. That way, Microsoft doesn’t use your data to train its model. IT also advises avoiding the like and dislike buttons, which can share your chat with Microsoft."
+  },
+  "sources": [
+   {
+    "label": "IT – MS Copilot",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-copilot"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-copilot-limites-web",
+  "category": "ti",
+  "keywords": [
+   "limite copilot",
+   "copilot fichier 10 mo",
+   "copilot web limitations",
+   "copilot 365 licence",
+   "copilot word excel"
+  ],
+  "question": {
+   "fr": "Quelles sont les limites de la version gratuite de Copilot ?",
+   "en": "What are the limits of the free version of Copilot?"
+  },
+  "answer": {
+   "fr": "Copilot Web fonctionne seulement dans un navigateur, accepte des fichiers d’au plus 10 Mo et n’a pas accès à tes courriels, à Teams ni à OneDrive, sauf si tu y téléverses un fichier. La version intégrée à Word, Excel et Outlook demande une licence payante, réservée pour l’instant à des groupes désignés par les facultés et services.",
+   "en": "Copilot for the web works only in a browser, accepts files up to 10 MB and has no access to your email, Teams or OneDrive unless you upload a file. The version built into Word, Excel and Outlook requires a paid licence, currently limited to groups designated by faculties and units."
+  },
+  "sources": [
+   {
+    "label": "IT – MS Copilot",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-copilot"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-clipchamp",
+  "category": "ti",
+  "keywords": [
+   "clipchamp",
+   "montage vidéo gratuit",
+   "video editing free",
+   "édition vidéo étudiant",
+   "make a video for class"
+  ],
+  "question": {
+   "fr": "Y a-t-il un logiciel de montage vidéo gratuit pour les étudiants ?",
+   "en": "Is there free video editing software for students?"
+  },
+  "answer": {
+   "fr": "Oui, Clipchamp fait partie de Microsoft 365 et il est gratuit pour les étudiants à temps plein et à temps partiel. Il est simple, même sans expérience : tu glisses et déposes tes images, textes, vidéos et sons, puis tu partages par lien. Les TI n’offrent pas de soutien sur le logiciel lui-même, seulement pour les problèmes d’accès.",
+   "en": "Yes, Clipchamp is part of Microsoft 365 and free for full-time and part-time students. It’s easy to use, even without experience: you drag and drop images, text, video and audio, then share by link. IT doesn’t support the software itself, only access issues."
+  },
+  "sources": [
+   {
+    "label": "IT – ClipChamp",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/clipchamp"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-safe-links",
+  "category": "ti",
+  "keywords": [
+   "safelinks",
+   "lien bizarre courriel",
+   "safe links",
+   "why are my email links long",
+   "lien protection outlook"
+  ],
+  "question": {
+   "fr": "Pourquoi les liens dans mes courriels uOttawa commencent-ils par « safelinks » ?",
+   "en": "Why do links in my uOttawa emails start with safelinks?"
+  },
+  "answer": {
+   "fr": "C’est Safe Links, un outil de sécurité Microsoft activé automatiquement sur ton compte. Quand tu cliques sur un lien, il le vérifie : si le site est sûr, il s’ouvre, sinon tu reçois un avertissement. Les diplômés et les membres affiliés ne sont pas protégés par cet outil, et il faut rester vigilant dans tous les cas.",
+   "en": "That’s Safe Links, a Microsoft security tool applied automatically to your account. When you click a link, it checks it: if the site is safe, it opens; otherwise you get a warning. Alumni and affiliates aren’t protected by this tool, and you should stay vigilant either way."
+  },
+  "sources": [
+   {
+    "label": "IT – Safe Links and Safe Attachments",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/safe-links-safe-attachments"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-safe-attachments",
+  "category": "ti",
+  "keywords": [
+   "pièce jointe analysée",
+   "courriel en retard pièce jointe",
+   "safe attachments",
+   "attachment scan delay",
+   "pièce jointe protégée mot de passe"
+  ],
+  "question": {
+   "fr": "Pourquoi un courriel avec une grosse pièce jointe arrive-t-il en retard ?",
+   "en": "Why does an email with a large attachment arrive late?"
+  },
+  "answer": {
+   "fr": "Safe Attachments analyse automatiquement les pièces jointes dans Outlook et Microsoft 365, ce qui peut retarder un peu les gros fichiers. L’analyse est automatique : personne ne lit tes courriels. Elle ne fonctionne pas sur les pièces jointes chiffrées ou protégées par mot de passe, alors ouvre-les seulement si tu attends ce courriel.",
+   "en": "Safe Attachments automatically scans attachments in Outlook and Microsoft 365, which can slightly delay large files. The scan is automated: no one reads your email. It doesn’t work on encrypted or password-protected attachments, so open those only if you were expecting the email."
+  },
+  "sources": [
+   {
+    "label": "IT – Safe Links and Safe Attachments",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/safe-links-safe-attachments"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-mot-de-passe-conseils",
+  "category": "ti",
+  "keywords": [
+   "créer mot de passe fort",
+   "conseils mot de passe",
+   "strong password tips",
+   "how to make a good password",
+   "phrase de passe"
+  ],
+  "question": {
+   "fr": "Comment créer un bon mot de passe ?",
+   "en": "How do I create a strong password?"
+  },
+  "answer": {
+   "fr": "Les TI conseillent au moins 14 caractères, avec majuscules, minuscules, chiffres et caractères spéciaux, un mot de passe différent pour chaque site et un changement au moins tous les trois mois. Une astuce : pars d’une phrase, enlève les espaces, abrège quelques mots et ajoute des chiffres. Évite tes renseignements personnels, les suites comme « qwerty », et ne donne jamais ton mot de passe à personne.",
+   "en": "IT recommends at least 14 characters, with uppercase and lowercase letters, numbers and special characters, a different password for every site, and a change at least every three months. A tip: start from a sentence, remove the spaces, shorten some words and add numbers. Avoid personal information and sequences like qwerty, and never share your password."
+  },
+  "sources": [
+   {
+    "label": "IT – Password",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/awareness/password"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-arnaque-frais-scolarite",
+  "category": "ti",
+  "keywords": [
+   "courriel frais impayés",
+   "arnaque frais de scolarité",
+   "tuition fee scam",
+   "fake tuition email",
+   "payer frais urgence courriel"
+  ],
+  "question": {
+   "fr": "J’ai reçu un courriel urgent me demandant de payer des frais de scolarité : est-ce une arnaque ?",
+   "en": "I got an urgent email asking me to pay tuition fees: is it a scam?"
+  },
+  "answer": {
+   "fr": "Peut-être : des fraudeurs se font passer pour l’Université et menacent de poursuites pour te faire payer par virement. Ne réponds pas et ne clique sur aucun lien ; vérifie plutôt ton solde dans uoZone ou communique avec le bureau des finances avec les coordonnées officielles. Signale le message avec la fonction Signaler dans Outlook.",
+   "en": "Possibly: scammers impersonate the University and threaten legal action to get you to pay by transfer. Don’t reply or click any link; instead, check your balance in uoZone or contact the financial office using official contact information. Report the message with the Report function in Outlook."
+  },
+  "sources": [
+   {
+    "label": "IT – Phishing",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/awareness/phishing"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-arnaque-sextorsion",
+  "category": "ti",
+  "keywords": [
+   "sextorsion",
+   "courriel rançon",
+   "sextortion email",
+   "ransom email password",
+   "chantage courriel"
+  ],
+  "question": {
+   "fr": "J’ai reçu un courriel de chantage qui contient un de mes mots de passe : que faire ?",
+   "en": "I got a blackmail email that includes one of my passwords: what do I do?"
+  },
+  "answer": {
+   "fr": "Pas de panique, c’est une arnaque de sextorsion connue, et il est très peu probable que les fraudeurs aient des images compromettantes. Ne paie jamais la rançon, ne clique sur rien et supprime le courriel. Ensuite, change tes mots de passe, mets à jour tes logiciels et ton antivirus, et active l’authentification multifacteur.",
+   "en": "Don’t panic, it’s a known sextortion scam, and it’s very unlikely the scammers have compromising images. Never pay the ransom, don’t click anything and delete the email. Then change your passwords, update your software and antivirus, and enrol in multi-factor authentication."
+  },
+  "sources": [
+   {
+    "label": "IT – Phishing",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/awareness/phishing"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-courriel-compte-ferme",
+  "category": "ti",
+  "keywords": [
+   "compte sera fermé courriel",
+   "votre compte expire",
+   "account will be terminated email",
+   "verify your account email",
+   "courriel suspect compte"
+  ],
+  "question": {
+   "fr": "J’ai reçu un courriel disant que mon compte uOttawa sera fermé : est-ce vrai ?",
+   "en": "I got an email saying my uOttawa account will be closed: is it real?"
+  },
+  "answer": {
+   "fr": "Ces messages qui parlent de ton compte, par exemple qu’il sera fermé ou que tu dois te connecter pour continuer, sont habituellement frauduleux. Quitte le courriel et communique toi-même avec le Centre de services TI pour vérifier. Méfie-toi même d’une adresse uOttawa, car un compte peut avoir été piraté.",
+   "en": "Messages about your account, for example that it will be closed or that you must log in to keep it, are typically fraudulent. Exit the email and contact the IT Service Desk yourself to check. Be wary even of a uOttawa address, since an account may have been compromised."
+  },
+  "sources": [
+   {
+    "label": "IT – Phishing",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/awareness/phishing"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-teams-clavardage-150-jours",
+  "category": "ti",
+  "keywords": [
+   "messages teams supprimés",
+   "clavardage teams disparu",
+   "teams chat deleted",
+   "teams chat 150 days",
+   "historique teams"
+  ],
+  "question": {
+   "fr": "Pourquoi mes anciens messages Teams ont-ils disparu ?",
+   "en": "Why did my old Teams messages disappear?"
+  },
+  "answer": {
+   "fr": "Les messages des conversations individuelles et de groupe dans Teams sont supprimés automatiquement après 150 jours. De plus, les sites et fichiers SharePoint liés à une équipe sont supprimés après 180 jours d’inactivité, avec un avis avant la suppression. Garde ailleurs ce que tu veux conserver.",
+   "en": "Messages in individual and group chats in Teams are automatically removed after 150 days. Also, SharePoint sites and files linked to a team are removed after 180 days of inactivity, with a notice before deletion. Keep anything you want to save somewhere else."
+  },
+  "sources": [
+   {
+    "label": "IT – MS Teams",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-teams"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-teams-creer-equipe",
+  "category": "ti",
+  "keywords": [
+   "créer une équipe teams",
+   "nouvelle équipe teams",
+   "create a team in teams",
+   "request a teams team",
+   "teams pour mon groupe"
+  ],
+  "question": {
+   "fr": "Comment créer une nouvelle équipe dans Microsoft Teams ?",
+   "en": "How do I create a new team in Microsoft Teams?"
+  },
+  "answer": {
+   "fr": "Tu envoies une demande par le Centre libre-service des TI, et l’équipe de gestion de l’information l’approuve avant la création. Teams est gratuit pour les utilisateurs admissibles. Une équipe peut compter moins de 5 000 membres et jusqu’à 200 canaux.",
+   "en": "You send a request through the IT Self-Service Centre, and the Information Management Team approves it before the team is created. Teams is free for eligible users. A team can have fewer than 5,000 members and up to 200 channels."
+  },
+  "sources": [
+   {
+    "label": "IT – MS Teams",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-teams"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-eduroam-android",
+  "category": "ti",
+  "keywords": [
+   "eduroam android",
+   "eduroam ne marche pas android",
+   "eduroam android settings",
+   "peap mschapv2",
+   "identité anonyme eduroam"
+  ],
+  "question": {
+   "fr": "Eduroam ne fonctionne pas sur mon téléphone Android : quels réglages utiliser ?",
+   "en": "Eduroam doesn’t work on my Android phone: what settings should I use?"
+  },
+  "answer": {
+   "fr": "Choisis la méthode EAP PEAP, l’authentification de phase 2 MSCHAPV2, le certificat « Utiliser les certificats système » et le domaine uottawa.ca. Comme identité, entre ton adresse uOttawa complète et ton mot de passe uoAccess. Laisse le champ « identité anonyme » complètement vide : si « anonymous » s’y inscrit tout seul, efface-le.",
+   "en": "Choose EAP method PEAP, phase 2 authentication MSCHAPV2, CA certificate Use system certificates and domain uottawa.ca. For identity, enter your full uOttawa email address and your uoAccess password. Leave the anonymous identity field completely blank: if anonymous appears automatically, delete it."
+  },
+  "sources": [
+   {
+    "label": "IT – Eduroam",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/eduroam"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-eduroam-windows-mac",
+  "category": "ti",
+  "keywords": [
+   "eduroam windows",
+   "eduroam mac",
+   "eduroam won’t connect laptop",
+   "use my windows user account eduroam",
+   "configurer eduroam ordinateur"
+  ],
+  "question": {
+   "fr": "Comment connecter mon ordinateur Windows ou Mac à eduroam ?",
+   "en": "How do I connect my Windows or Mac computer to eduroam?"
+  },
+  "answer": {
+   "fr": "Normalement, aucune configuration manuelle n’est nécessaire : choisis eduroam, entre ton adresse uOttawa complète et ton mot de passe. Sur Windows, ne coche pas « Utiliser mon compte d’utilisateur Windows ». Sur Mac, coche « Mémoriser ce réseau » pour te reconnecter automatiquement.",
+   "en": "Normally no manual setup is needed: choose eduroam and enter your full uOttawa email address and password. On Windows, don’t check Use my Windows user account. On a Mac, check Remember this network so you reconnect automatically."
+  },
+  "sources": [
+   {
+    "label": "IT – Eduroam",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/eduroam"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-eduroam-invites-sans-eduroam",
+  "category": "ti",
+  "keywords": [
+   "invité sans eduroam",
+   "compte parrainé wifi",
+   "guest without eduroam",
+   "sponsored account wifi",
+   "visiteur université sans eduroam"
+  ],
+  "question": {
+   "fr": "Mon établissement n’a pas eduroam : comment avoir un accès Wi-Fi pour un séjour à l’Université ?",
+   "en": "My institution doesn’t have eduroam: how do I get Wi-Fi access for a stay at the University?"
+  },
+  "answer": {
+   "fr": "Les visiteurs dont l’établissement n’offre pas eduroam ont besoin d’un compte parrainé par une faculté, un département ou un service de l’Université. Parle à la personne ou à l’unité qui t’accueille. Pour une courte visite, le réseau public uoPublic reste une option.",
+   "en": "Visitors whose institution doesn’t offer eduroam need an account sponsored by a University faculty, department or service. Talk to the person or unit hosting you. For a short visit, the uoPublic network is still an option."
+  },
+  "sources": [
+   {
+    "label": "IT – Eduroam",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/eduroam"
+   },
+   {
+    "label": "IT – uoPublic",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/uopublic"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-mfa-delai-activation",
+  "category": "ti",
+  "keywords": [
+   "afm activée quand",
+   "mfa 24 heures",
+   "mfa not working yet",
+   "mfa activation delay",
+   "brightspace mfa"
+  ],
+  "question": {
+   "fr": "Je viens de m’inscrire à l’authentification multifacteur : quand sera-t-elle active ?",
+   "en": "I just enrolled in multi-factor authentication: when will it be active?"
+  },
+  "answer": {
+   "fr": "Pour le VPN, elle s’applique dès ta prochaine connexion. Pour les autres systèmes, comme Brightspace, uoCampus et Microsoft 365, l’authentification multifacteur est activée dans les 24 heures. Tu peux vérifier ton inscription sur le portail AFM.",
+   "en": "For VPN, it applies at your next connection. For other systems, such as Brightspace, uoCampus and Microsoft 365, multi-factor authentication is activated within 24 hours. You can confirm your enrolment on the MFA portal."
+  },
+  "sources": [
+   {
+    "label": "IT – Multi-factor authentication (MFA)",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/mfa"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-mfa-appareils-compatibles",
+  "category": "ti",
+  "keywords": [
+   "authenticator compatible",
+   "afm vie privée localisation",
+   "mfa compatible phone",
+   "authenticator track location",
+   "authenticator android ios version"
+  ],
+  "question": {
+   "fr": "Quel téléphone me faut-il pour l’authentification multifacteur, et l’application me suit-elle ?",
+   "en": "What phone do I need for multi-factor authentication, and does the app track me?"
+  },
+  "answer": {
+   "fr": "Il te faut l’application Microsoft Authenticator sur un appareil iOS 11 ou plus récent, ou Android 6.0 ou plus récent, téléphone ou tablette. L’application ne suit pas ta position. Si ton appareil n’est pas compatible, demande un jeton physique au Centre de services TI.",
+   "en": "You need the Microsoft Authenticator app on a device running iOS 11 or later, or Android 6.0 or later, phone or tablet. The app doesn’t track your location. If your device isn’t compatible, request a hardware token from the IT Service Desk."
+  },
+  "sources": [
+   {
+    "label": "IT – Multi-factor authentication (MFA)",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/security/mfa"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-mfa-diplome-reinitialiser",
+  "category": "ti",
+  "keywords": [
+   "diplômé réinitialiser afm",
+   "alumni mfa reset",
+   "mfa reset form",
+   "ssmr ne fonctionne pas",
+   "reset mfa alumni"
+  ],
+  "question": {
+   "fr": "Je suis diplômé et l’outil libre-service ne marche pas : comment réinitialiser mon AFM ?",
+   "en": "I’m a graduate and the self-service tool doesn’t work: how do I reset my MFA?"
+  },
+  "answer": {
+   "fr": "Si tu ne peux pas utiliser l’outil de réinitialisation libre-service de l’AFM, par exemple parce que tu es diplômé, remplis le formulaire de demande de réinitialisation et choisis « AFM » à la question sur ce que tu veux réinitialiser. Le traitement peut prendre du temps, d’où l’intérêt d’essayer d’abord l’outil libre-service.",
+   "en": "If you can’t use the Self-Service MFA Reset tool, for example because you’re an alumnus, fill out the reset request form and select MFA at the question about what you need to reset. Processing can take a while, which is why you should try the self-service tool first."
+  },
+  "sources": [
+   {
+    "label": "IT – Account Management",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/account"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-vpn-etudiants-cycles-sup",
+  "category": "ti",
+  "keywords": [
+   "adresse vpn étudiant",
+   "serveur vpn",
+   "vpn graduate student address",
+   "uovpn students",
+   "anyconnect server"
+  ],
+  "question": {
+   "fr": "Je suis aux études supérieures : quelle adresse de serveur VPN dois-je utiliser ?",
+   "en": "I’m a graduate student: which VPN server address do I use?"
+  },
+  "answer": {
+   "fr": "Dans l’application AnyConnect, entre l’adresse de serveur uovpn.uottawa.ca/students, puis tes identifiants uoAccess. Une notification d’authentification multifacteur apparaîtra sur ton téléphone : clique sur Approuver. Le VPN est offert aux employés et aux étudiants des cycles supérieurs.",
+   "en": "In the AnyConnect app, enter the server address uovpn.uottawa.ca/students, then your uoAccess credentials. A multi-factor authentication notification will appear on your phone: tap Approve. VPN is available to employees and graduate students."
+  },
+  "sources": [
+   {
+    "label": "IT – Virtual private network (VPN)",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/vpn"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-vpn-personnel-conflit",
+  "category": "ti",
+  "keywords": [
+   "vpn ne se connecte pas",
+   "vpn personnel",
+   "vpn won’t connect",
+   "personal vpn conflict",
+   "deux vpn"
+  ],
+  "question": {
+   "fr": "Le VPN de l’Université refuse de se connecter : que vérifier ?",
+   "en": "The University VPN won’t connect: what should I check?"
+  },
+  "answer": {
+   "fr": "Une seule connexion VPN peut être active à la fois : si tu utilises un VPN personnel, déconnecte-le avant de lancer celui de l’Université. Assure-toi aussi d’avoir configuré l’authentification multifacteur, obligatoire pour le VPN. Si ça ne fonctionne toujours pas, communique avec le Centre de services TI.",
+   "en": "Only one VPN connection can be active at a time: if you use a personal VPN, disconnect it before launching the University’s. Also make sure you’ve set up multi-factor authentication, which is required for VPN. If it still doesn’t work, contact the IT Service Desk."
+  },
+  "sources": [
+   {
+    "label": "IT – Virtual private network (VPN)",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/vpn"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-vpn-langue",
+  "category": "ti",
+  "keywords": [
+   "vpn en français",
+   "langue anyconnect",
+   "anyconnect language",
+   "vpn french",
+   "changer langue vpn"
+  ],
+  "question": {
+   "fr": "Comment mettre le client VPN AnyConnect en français ?",
+   "en": "How do I change the AnyConnect VPN client language?"
+  },
+  "answer": {
+   "fr": "Sur Windows, la langue d’AnyConnect suit les paramètres régionaux du système, pas la langue d’affichage. Dans le Panneau de configuration, ouvre Région, onglet Administration, puis « Modifier les paramètres régionaux du système » et choisis Français (Canada) ou Anglais (Canada).",
+   "en": "On Windows, AnyConnect’s language follows the system locale, not the display language. In Control Panel, open Region, go to the Administrative tab, click Change system locale and choose French (Canada) or English (Canada)."
+  },
+  "sources": [
+   {
+    "label": "IT – Virtual private network (VPN)",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/internet/vpn"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-feuille-scantron",
+  "category": "ti",
+  "keywords": [
+   "feuille réponse examen",
+   "crayon examen choix multiples",
+   "scantron sheet",
+   "bubble sheet exam",
+   "optical sheet pencil"
+  ],
+  "question": {
+   "fr": "Comment bien remplir une feuille de réponses à lecture optique ?",
+   "en": "How do I fill out a bubble answer sheet correctly?"
+  },
+  "answer": {
+   "fr": "Utilise un crayon HB2 ou un stylo à bille noir ou bleu, et noircis complètement l’ovale. Efface clairement toute réponse que tu changes, ne fais aucune marque inutile et ne plie pas la feuille. Ainsi, tes réponses seront bien enregistrées.",
+   "en": "Use an HB2 pencil or a black or blue ballpoint pen, and fill in the oval completely. Clearly erase any answer you change, make no stray marks and don’t fold the sheet. That way, your answers will be recorded properly."
+  },
+  "sources": [
+   {
+    "label": "IT – Gear up for your exams",
+    "url": "https://www.uottawa.ca/about-us/information-technology/it-for-you/students/gear-up-exams"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-power-bi-pro",
+  "category": "ti",
+  "keywords": [
+   "power bi",
+   "power bi pro coût",
+   "power bi licence",
+   "tableau de bord",
+   "dashboard software"
+  ],
+  "question": {
+   "fr": "Les étudiants ont-ils accès à Power BI ?",
+   "en": "Do students have access to Power BI?"
+  },
+  "answer": {
+   "fr": "La liste des logiciels des TI indique Power BI Pro pour les étudiants, les professeurs et le personnel, mais une licence supplémentaire coûte 228 dollars par utilisateur, facturés chaque année. Les TI n’offrent pas de soutien direct pour ce logiciel. Vérifie la page des logiciels, car les offres changent.",
+   "en": "The IT software list shows Power BI Pro for students, faculty and staff, but an additional licence costs $228 per user, billed annually. IT doesn’t provide direct support for this software. Check the software page, as offerings change."
+  },
+  "sources": [
+   {
+    "label": "IT – Software for students, staff and professors",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software"
+   },
+   {
+    "label": "IT – Power BI",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-power-bi"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zb-sas-etudiants",
+  "category": "ti",
+  "keywords": [
+   "sas étudiant",
+   "logiciel statistique",
+   "sas software students",
+   "statistics software",
+   "acheter sas"
+  ],
+  "question": {
+   "fr": "Puis-je avoir le logiciel statistique SAS comme étudiant ?",
+   "en": "Can I get SAS statistical software as a student?"
+  },
+  "answer": {
+   "fr": "Oui, SAS figure dans la liste des logiciels des TI pour les étudiants, mais il s’achète auprès du fournisseur, qui en assure aussi le soutien. Pour d’autres logiciels gratuits comme NVivo, ArcGIS Pro ou ChemDraw, consulte la liste des logiciels, mise à jour régulièrement.",
+   "en": "Yes, SAS is on the IT software list for students, but it’s purchased from the vendor, which also provides support. For other free software like NVivo, ArcGIS Pro or ChemDraw, check the software list, which is updated regularly."
+  },
+  "sources": [
+   {
+    "label": "IT – Software for students, staff and professors",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zb-putty-ssh",
+  "category": "ti",
+  "keywords": [
+   "putty",
+   "ssh",
+   "telnet",
+   "connexion serveur ssh",
+   "terminal ssh windows"
+  ],
+  "question": {
+   "fr": "Comment me connecter à un serveur en SSH depuis Windows ?",
+   "en": "How do I connect to a server over SSH from Windows?"
+  },
+  "answer": {
+   "fr": "Les TI proposent PuTTY, un programme Telnet et SSH avec installateur Windows, gratuit pour les étudiants, les professeurs et le personnel. Tu le télécharges à partir de la liste des logiciels des TI ; le soutien est offert par le fournisseur.",
+   "en": "IT offers PuTTY, a Telnet and SSH program with a Windows-style installer, free for students, faculty and staff. You download it from the IT software list; support is provided by the vendor."
+  },
+  "sources": [
+   {
+    "label": "IT – Software for students, staff and professors",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-applications-microsoft-365",
+  "category": "ti",
+  "keywords": [
+   "applications microsoft 365",
+   "forms onenote planner",
+   "what apps in microsoft 365",
+   "microsoft forms sondage",
+   "outils microsoft 365"
+  ],
+  "question": {
+   "fr": "Quelles applications sont incluses dans Microsoft 365 à l’Université ?",
+   "en": "Which apps are included in the University’s Microsoft 365?"
+  },
+  "answer": {
+   "fr": "En plus de Word, Excel, PowerPoint, Outlook, Teams et OneDrive, tu as accès entre autres à OneNote, Forms pour créer des sondages et des quiz, Planner, To Do, Whiteboard, Sway, Lists et Clipchamp, par le portail Microsoft 365. Les TI soutiennent les licences et l’installation, mais pas chaque application en profondeur.",
+   "en": "Besides Word, Excel, PowerPoint, Outlook, Teams and OneDrive, you get OneNote, Forms for surveys and quizzes, Planner, To Do, Whiteboard, Sway, Lists and Clipchamp, among others, through the Microsoft 365 portal. IT supports licensing and installation, but not in-depth help for each app."
+  },
+  "sources": [
+   {
+    "label": "IT – Microsoft 365",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-fin-automne-2026",
+  "category": "calendrier",
+  "keywords": [
+   "common law fin des cours automne",
+   "common law december 9",
+   "common law last class fall",
+   "common law papers due",
+   "common law horaire du lundi"
+  ],
+  "question": {
+   "fr": "En common law, quand finissent les cours de l’automne 2026 ?",
+   "en": "In Common Law, when do Fall 2026 classes end?"
+  },
+  "answer": {
+   "fr": "Les cours de common law ont lieu du 9 septembre au 9 décembre 2026, et le 9 décembre suit l’horaire du lundi pour remplacer l’Action de grâce. Les examens ont lieu du 10 au 22 décembre, et tous les travaux, y compris les projets de recherche dirigée, sont dus le 22 décembre à 16 h.",
+   "en": "Common Law classes run from September 9 to December 9, 2026, and December 9 follows the Monday schedule to make up for Thanksgiving. Exams run December 10 to 22, and all papers, including Directed Research Projects, are due December 22 at 4 p.m."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-notes-automne-2026",
+  "category": "calendrier",
+  "keywords": [
+   "common law notes automne",
+   "common law fall grades",
+   "common law grade review fall",
+   "common law notes 18 janvier",
+   "common law mid-term grades"
+  ],
+  "question": {
+   "fr": "En common law, quand recevrai-je mes notes de l’automne 2026 ?",
+   "en": "In Common Law, when will I get my Fall 2026 grades?"
+  },
+  "answer": {
+   "fr": "Les notes finales de l’automne sont approuvées par le Conseil de la faculté et publiées le 18 janvier 2027 avant 16 h, comme les notes de mi-année des étudiants de première année. La date limite pour demander la révision d’une note d’examen final est le 2 février 2027.",
+   "en": "Fall final grades are approved by Faculty Council and posted on January 18, 2027 by 4 p.m., as are first-year mid-term grades. The deadline to request a review of a final exam grade is February 2, 2027."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-examens-differes-2027",
+  "category": "calendrier",
+  "keywords": [
+   "common law examen différé",
+   "common law deferred exam",
+   "common law deferred march",
+   "common law différés mars",
+   "common law supplemental"
+  ],
+  "question": {
+   "fr": "En common law, quand ont lieu les examens différés des cours d’automne et de janvier ?",
+   "en": "In Common Law, when are deferred exams for fall and January courses?"
+  },
+  "answer": {
+   "fr": "Les examens différés des cours d’automne 2026 et des cours de janvier 2027 ont lieu du 1er au 5 mars 2027. Les périodes d’examens de reprise ne sont pas encore fixées ; surveille la page des dates importantes de la Section de common law.",
+   "en": "Deferred exams for Fall 2026 courses and January 2027 courses take place March 1 to 5, 2027. Supplemental exam periods are still to be determined; watch the Common Law Section’s important dates page."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-session-janvier-2027",
+  "category": "calendrier",
+  "keywords": [
+   "common law session de janvier",
+   "common law january session",
+   "common law january exam",
+   "common law janvier 2027",
+   "january term law"
+  ],
+  "question": {
+   "fr": "En common law, comment se déroule la session de janvier 2027 ?",
+   "en": "In Common Law, how does the January 2027 session work?"
+  },
+  "answer": {
+   "fr": "La session de janvier va du 5 au 22 janvier 2027 : les cours ont lieu du 5 au 20 janvier, le 21 janvier est une pause d’étude et l’examen a lieu le 22 janvier. Tous les travaux sont dus le 22 janvier à 16 h, et une semaine de relâche suit du 24 au 30 janvier.",
+   "en": "The January session runs January 5 to 22, 2027: classes are January 5 to 20, January 21 is a study break and the exam is on January 22. All papers are due January 22 at 4 p.m., and a term break follows from January 24 to 30."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-janvier-dates-limites",
+  "category": "calendrier",
+  "keywords": [
+   "common law janvier date limite",
+   "common law january withdraw",
+   "common law january add course",
+   "common law satisfaisant janvier",
+   "drop january law course"
+  ],
+  "question": {
+   "fr": "En common law, quelles sont les dates limites pour les cours de janvier 2027 ?",
+   "en": "In Common Law, what are the deadlines for January 2027 courses?"
+  },
+  "answer": {
+   "fr": "Pour la session de janvier, tu peux t’inscrire ou modifier tes cours jusqu’au 7 janvier 2027. Le dernier jour pour abandonner avec crédit financier est le 12 janvier, et sans crédit financier, le 15 janvier. Le 15 janvier est aussi la date limite pour choisir des cours évalués « satisfaisant ou non satisfaisant ».",
+   "en": "For the January session, you can enrol or change courses until January 7, 2027. The last day to withdraw with a financial credit is January 12, and without a financial credit, January 15. January 15 is also the deadline to choose courses graded Satisfactory or Not satisfactory."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-janvier-notes",
+  "category": "calendrier",
+  "keywords": [
+   "common law notes janvier",
+   "common law january grades",
+   "common law february 9",
+   "révision note janvier droit",
+   "common law grade review january"
+  ],
+  "question": {
+   "fr": "En common law, quand sont publiées les notes de la session de janvier 2027 ?",
+   "en": "In Common Law, when are January 2027 session grades posted?"
+  },
+  "answer": {
+   "fr": "Les notes finales de la session de janvier sont approuvées et publiées le 9 février 2027 avant 16 h. Tu as jusqu’au 23 février 2027 pour demander la révision d’une note d’examen final.",
+   "en": "January session final grades are approved and posted on February 9, 2027 by 4 p.m. You have until February 23, 2027 to request a review of a final exam grade."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-hiver-2027-dates",
+  "category": "calendrier",
+  "keywords": [
+   "common law hiver 2027",
+   "common law winter term",
+   "common law reading week march",
+   "semaine de lecture common law hiver",
+   "common law winter classes"
+  ],
+  "question": {
+   "fr": "En common law, quelles sont les dates du trimestre d’hiver 2027 ?",
+   "en": "In Common Law, what are the Winter 2027 term dates?"
+  },
+  "answer": {
+   "fr": "Le trimestre d’hiver de common law va du 1er février au 30 avril 2027, avec des cours du 1er février au 14 avril. La semaine de lecture a lieu du 1er au 5 mars, le congé de Pâques du 26 au 29 mars, et les examens du 16 au 29 avril.",
+   "en": "The Common Law winter term runs February 1 to April 30, 2027, with classes from February 1 to April 14. Reading week is March 1 to 5, the Easter break March 26 to 29, and exams April 16 to 29."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-hiver-2027-dates-limites",
+  "category": "calendrier",
+  "keywords": [
+   "common law hiver abandon",
+   "common law winter withdraw deadline",
+   "common law winter add course",
+   "common law february 5",
+   "common law march 19"
+  ],
+  "question": {
+   "fr": "En common law, quelles sont les dates limites d’inscription et d’abandon à l’hiver 2027 ?",
+   "en": "In Common Law, what are the Winter 2027 enrolment and withdrawal deadlines?"
+  },
+  "answer": {
+   "fr": "Tu peux t’inscrire ou modifier tes cours d’hiver jusqu’au 5 février 2027. Le dernier jour pour abandonner un cours avec crédit financier est le 16 février, et sans crédit financier, le 19 mars 2027. Le formulaire d’inscription à l’exigence du travail majeur est dû le 12 février.",
+   "en": "You can enrol in or change winter courses until February 5, 2027. The last day to withdraw from a course with a financial credit is February 16, and without a financial credit, March 19, 2027. The Major Paper Requirement registration form is due February 12."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-hiver-2027-notes",
+  "category": "calendrier",
+  "keywords": [
+   "common law notes hiver",
+   "common law winter grades",
+   "common law may 14",
+   "common law academic standing",
+   "common law travaux hiver"
+  ],
+  "question": {
+   "fr": "En common law, quand recevrai-je mes notes de l’hiver 2027 ?",
+   "en": "In Common Law, when will I get my Winter 2027 grades?"
+  },
+  "answer": {
+   "fr": "Tous les travaux d’hiver, y compris les projets de recherche dirigée, sont dus le 29 avril 2027 à 16 h. Les notes finales d’hiver sont approuvées et publiées dans uoZone le 14 mai 2027 avant 16 h, et le rendement académique officiel est publié le 26 mai 2027.",
+   "en": "All winter papers, including Directed Research Projects, are due April 29, 2027 at 4 p.m. Winter final grades are approved and posted in uoZone on May 14, 2027 by 4 p.m., and official academic standing is posted on May 26, 2027."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-formulaire-option",
+  "category": "calendrier",
+  "keywords": [
+   "common law formulaire d’option",
+   "common law option form",
+   "option coordinator",
+   "common law april 8",
+   "common law option"
+  ],
+  "question": {
+   "fr": "En common law, quand dois-je remettre mon formulaire d’option ?",
+   "en": "In Common Law, when is my option form due?"
+  },
+  "answer": {
+   "fr": "Le formulaire d’option, signé par la coordonnatrice ou le coordonnateur de l’option, doit être remis au Centre étudiant au plus tard le 8 avril 2027.",
+   "en": "The option form, signed by the option coordinator, must be submitted to the Student Centre by April 8, 2027."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-rattrapage-hiver-2027",
+  "category": "calendrier",
+  "keywords": [
+   "common law jour de la famille rattrapage",
+   "common law makeup classes april",
+   "common law april 14 monday",
+   "cours vendredi saint common law",
+   "claw april 13"
+  ],
+  "question": {
+   "fr": "En common law, quand sont repris les cours annulés du jour de la Famille et du Vendredi saint ?",
+   "en": "In Common Law, when are classes cancelled for Family Day and Good Friday made up?"
+  },
+  "answer": {
+   "fr": "Pour les cours de common law seulement, les cours du vendredi 26 mars, Vendredi saint, sont repris le mardi 13 avril 2027 selon l’horaire du vendredi. Ceux du lundi 15 février, jour de la Famille, sont repris le mercredi 14 avril selon l’horaire du lundi.",
+   "en": "For Common Law courses only, classes from Friday, March 26, Good Friday, are made up on Tuesday, April 13, 2027 on the Friday schedule. Those from Monday, February 15, Family Day, are made up on Wednesday, April 14 on the Monday schedule."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cl-travail-majeur-inscription",
+  "category": "calendrier",
+  "keywords": [
+   "travail majeur common law",
+   "major paper requirement",
+   "common law major paper form",
+   "recherche dirigée inscription",
+   "directed research project deadline"
+  ],
+  "question": {
+   "fr": "En common law, quand dois-je m’inscrire à un projet de recherche dirigée ou au travail majeur ?",
+   "en": "In Common Law, when must I register for a Directed Research Project or the Major Paper Requirement?"
+  },
+  "answer": {
+   "fr": "Pour la session de janvier 2027, la demande de projet de recherche dirigée est due le 7 janvier et le formulaire du travail majeur le 8 janvier. Pour l’hiver 2027, c’est le 5 février pour la recherche dirigée et le 12 février pour le travail majeur.",
+   "en": "For the January 2027 session, the Directed Research Project request is due January 7 and the Major Paper Requirement form January 8. For Winter 2027, it’s February 5 for the Directed Research Project and February 12 for the major paper."
+  },
+  "sources": [
+   {
+    "label": "Common Law – Important dates and deadlines",
+    "url": "https://www.uottawa.ca/faculty-law/common-law/student-centre/important-dates-and-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-coop-ete-2027-stage",
+  "category": "calendrier",
+  "keywords": [
+   "stage coop été 2027",
+   "coop work term summer 2027",
+   "coop may 3",
+   "dates stage coop",
+   "coop summer dates"
+  ],
+  "question": {
+   "fr": "Quelles sont les dates du stage coop de l’été 2027 ?",
+   "en": "What are the dates of the Summer 2027 co-op work term?"
+  },
+  "answer": {
+   "fr": "Le stage d’été 2027 a lieu du 3 mai au 27 août 2027, soit environ 15 à 17 semaines. Le rapport de stage doit être remis au plus tard le 9 septembre 2027 avant midi, peu importe ta faculté. Les webinaires et modules d’apprentissage du programme coop sont obligatoires.",
+   "en": "The Summer 2027 work term runs May 3 to August 27, 2027, about 15 to 17 weeks. The work term report is due by September 9, 2027 before noon, whatever your faculty. Co-op webinars and learning modules are mandatory."
+  },
+  "sources": [
+   {
+    "label": "Co-op – Key dates",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/key-dates"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-coop-postuler-hiver-2027",
+  "category": "calendrier",
+  "keywords": [
+   "postuler coop janvier 2027",
+   "coop apply jobs january",
+   "coop interviews january 21",
+   "coop cv deadline",
+   "portail coop 2027"
+  ],
+  "question": {
+   "fr": "Quand puis-je postuler aux emplois coop pour l’été 2027 ?",
+   "en": "When can I apply to co-op jobs for Summer 2027?"
+  },
+  "answer": {
+   "fr": "Pour un premier stage, ton CV coop doit être téléversé dans le Portail coop au plus tard le 4 janvier 2027. Les offres s’ouvrent le 13 janvier 2027, sans candidatures tardives acceptées, et les entrevues commencent le 21 janvier. Tu peux voir et confirmer ton horaire d’entrevues à partir du 19 janvier.",
+   "en": "For a first work term, your co-op resume must be uploaded to the Co-op Portal by January 4, 2027. Job postings open January 13, 2027, with no late applications accepted, and interviews start January 21. You can view and confirm your interview schedule from January 19."
+  },
+  "sources": [
+   {
+    "label": "Co-op – Key dates",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/key-dates"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-coop-retrait-2027",
+  "category": "calendrier",
+  "keywords": [
+   "quitter coop date limite",
+   "coop withdrawal deadline 2027",
+   "retrait coop sans pénalité",
+   "leave co-op january 18",
+   "abandonner coop"
+  ],
+  "question": {
+   "fr": "Jusqu’à quand puis-je me retirer du programme coop sans pénalité ?",
+   "en": "Until when can I withdraw from co-op without penalty?"
+  },
+  "answer": {
+   "fr": "Si tu es en trimestre d’études, le dernier jour pour te retirer du programme coop sans pénalité scolaire, en vue de l’été 2027, est le 18 janvier 2027. Tu dois remplir le formulaire de retrait en ligne.",
+   "en": "If you’re on a study term, the last day to withdraw from co-op without academic penalty, for the Summer 2027 cycle, is January 18, 2027. You must fill out the online withdrawal form."
+  },
+  "sources": [
+   {
+    "label": "Co-op – Key dates",
+    "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/key-dates"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-stages-sciences-sante-dates",
+  "category": "calendrier",
+  "keywords": [
+   "inscription stage clinique",
+   "sciences de l’activité physique stage",
+   "practical education enrolment deadline",
+   "human kinetics placement deadline",
+   "nursing clinical enrolment"
+  ],
+  "question": {
+   "fr": "Jusqu’à quand puis-je m’inscrire à un stage en sciences de la santé ?",
+   "en": "Until when can I enrol in a Health Sciences placement?"
+  },
+  "answer": {
+   "fr": "Tu peux t’inscrire en ligne jusqu’aux dates limites de ton école : par exemple, en sciences de l’activité physique, le 1er août pour l’automne et le 15 décembre pour l’hiver ; en sciences infirmières, le 15 août pour l’automne et l’hiver. Après ces dates, il faut passer par le Bureau des études avec l’approbation de l’école, et en sciences infirmières, une place n’est garantie que si tu t’inscris avant le 23 juin.",
+   "en": "You can enrol online until your school’s deadlines: for example, in Human Kinetics, August 1 for fall and December 15 for winter; in Nursing, August 15 for both fall and winter. After those dates, you must go through the Academic Office with the school’s approval, and in Nursing, a placement is guaranteed only if you enrol by June 23."
+  },
+  "sources": [
+   {
+    "label": "Faculty of Health Sciences – Practical education enrolment deadlines",
+    "url": "https://www.uottawa.ca/faculty-health-sciences/academic-office/clinical-enrolment-dates"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-fetes-religieuses-examens-avril-2027",
+  "category": "calendrier",
+  "keywords": [
+   "pâque juive 2027",
+   "pessah examens",
+   "passover 2027",
+   "religious holiday april exams",
+   "vaisakhi 2027"
+  ],
+  "question": {
+   "fr": "Y a-t-il des fêtes religieuses pendant les examens d’avril 2027 ?",
+   "en": "Are there religious holidays during the April 2027 exams?"
+  },
+  "answer": {
+   "fr": "Selon la liste de l’Université, le Vaisakhi tombe le 14 avril 2027, et Pessah, la Pâque juive, du 22 au 29 avril, en plein pendant les examens du 16 au 29 avril. Pessah commence au coucher du soleil la veille. Si tu as besoin d’un accommodement religieux, fais ta demande à l’avance selon le règlement sur les accommodements religieux.",
+   "en": "According to the University’s list, Vaisakhi falls on April 14, 2027, and Pesach, or Passover, from April 22 to 29, right during the April 16 to 29 exams. Passover begins at sundown the evening before. If you need a religious accommodation, request it in advance under the religious accommodations regulation."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines – religious holidays",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-fetes-religieuses-mars-2027",
+  "category": "calendrier",
+  "keywords": [
+   "nowruz 2027",
+   "holi 2027",
+   "pourim 2027",
+   "purim 2027",
+   "fêtes religieuses mars"
+  ],
+  "question": {
+   "fr": "Quelles fêtes religieuses tombent en mars 2027 ?",
+   "en": "Which religious holidays fall in March 2027?"
+  },
+  "answer": {
+   "fr": "Selon la liste de l’Université, Laylat al-Qadr est le 5 mars, l’Aïd al-Fitr le 10 mars, Nowruz le 21 mars, Holi le 22 mars et Pourim les 22 et 23 mars 2027. Le Vendredi saint est le 26 mars et Pâques le 28 mars. Les dates de l’Aïd sont confirmées à la dernière minute selon la lune.",
+   "en": "According to the University’s list, Laylat al-Qadr is March 5, Eid al-Fitr March 10, Nowruz March 21, Holi March 22 and Purim March 22 and 23, 2027. Good Friday is March 26 and Easter March 28. Eid dates are confirmed at the last minute based on the moon."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines – religious holidays",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-fetes-religieuses-printemps-2027",
+  "category": "calendrier",
+  "keywords": [
+   "pâques orthodoxe 2027",
+   "aïd al-adha 2027",
+   "eid al adha 2027",
+   "orthodox easter 2027",
+   "wesak 2027"
+  ],
+  "question": {
+   "fr": "Quelles fêtes religieuses tombent en mai 2027 ?",
+   "en": "Which religious holidays fall in May 2027?"
+  },
+  "answer": {
+   "fr": "Selon la liste de l’Université, le Vendredi saint orthodoxe est le 30 avril et la Pâque orthodoxe le 2 mai 2027. Yom HaShoah est les 3 et 4 mai, la Pentecôte orthodoxe le 16 mai, l’Aïd al-Adha les 16 et 17 mai et le Wesak le 20 mai. La date de l’Aïd est confirmée à la dernière minute selon la lune.",
+   "en": "According to the University’s list, Orthodox Good Friday is April 30 and Orthodox Easter May 2, 2027. Yom HaShoah is May 3 and 4, Orthodox Pentecost May 16, Eid al-Adha May 16 and 17, and Wesak May 20. The Eid date is confirmed at the last minute based on the moon."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines – religious holidays",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-fetes-religieuses-automne-2027",
+  "category": "calendrier",
+  "keywords": [
+   "rosh hashana 2027",
+   "yom kippour 2027",
+   "yom kippur 2027",
+   "diwali 2027",
+   "souccot 2027"
+  ],
+  "question": {
+   "fr": "Quand tombent les grandes fêtes juives et Diwali à l’automne 2027 ?",
+   "en": "When do the High Holidays and Diwali fall in Fall 2027?"
+  },
+  "answer": {
+   "fr": "Selon la liste de l’Université, Rosh Hashana a lieu du 1er au 3 octobre 2027, Yom Kippour les 10 et 11 octobre et Souccot du 15 au 22 octobre ; ces fêtes commencent au coucher du soleil la veille. Navratri va du 30 septembre au 8 octobre, et Diwali tombe le 29 octobre 2027.",
+   "en": "According to the University’s list, Rosh Hashanah is October 1 to 3, 2027, Yom Kippur October 10 and 11, and Sukkot October 15 to 22; these holidays begin at sundown the evening before. Navratri runs September 30 to October 8, and Diwali falls on October 29, 2027."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines – religious holidays",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-fetes-religieuses-janvier-2027",
+  "category": "calendrier",
+  "keywords": [
+   "fêtes religieuses janvier 2027",
+   "guru gobind singh",
+   "makar sankranti 2027",
+   "laylat al miraj 2027",
+   "epiphany orthodox 2027"
+  ],
+  "question": {
+   "fr": "Quelles fêtes religieuses tombent en janvier 2027 ?",
+   "en": "Which religious holidays fall in January 2027?"
+  },
+  "answer": {
+   "fr": "Selon la liste de l’Université, Laylat al-Miraj est le 5 janvier, la naissance de Guru Gobind Singh Ji le 6 janvier, Maghi et Makar Sankranti le 14 janvier, l’Épiphanie orthodoxe le 19 janvier et le Nouvel An mahayana le 22 janvier 2027. Laylat al-Baraat a lieu les 23 et 24 janvier.",
+   "en": "According to the University’s list, Laylat al-Miraj is January 5, the birth of Guru Gobind Singh Ji January 6, Maghi and Makar Sankranti January 14, Orthodox Epiphany January 19 and Mahayana New Year January 22, 2027. Laylat al-Baraat is January 23 and 24."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines – religious holidays",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-programme-multidisciplinaire",
+  "category": "reglements",
+  "keywords": [
+   "programme multidisciplinaire",
+   "multidisciplinary program",
+   "trois disciplines",
+   "multidisciplinary degree",
+   "programme plusieurs disciplines"
+  ],
+  "question": {
+   "fr": "Qu’est-ce qu’un programme multidisciplinaire ?",
+   "en": "What is a multidisciplinary program?"
+  },
+  "answer": {
+   "fr": "C’est un programme de premier cycle qui exige des cours dans au moins trois disciplines. Il mène à un baccalauréat spécialisé, et une variante permet d’y ajouter une mineure.",
+   "en": "It’s an undergraduate program that requires courses in at least three disciplines. It leads to an honours bachelor’s, and one version lets you add a minor."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-doctorat-premier-cycle",
+  "category": "reglements",
+  "keywords": [
+   "doctorat de premier cycle",
+   "undergraduate doctorate",
+   "md pharmd premier cycle",
+   "professional doctorate undergraduate",
+   "médecine pharmacie droit premier cycle"
+  ],
+  "question": {
+   "fr": "Qu’est-ce qu’un doctorat de premier cycle ?",
+   "en": "What is an undergraduate doctorate?"
+  },
+  "answer": {
+   "fr": "C’est un grade de premier cycle offert dans certains programmes professionnels, comme la médecine, la pharmacie ou le droit. Sa durée, son nombre de crédits et son niveau sont fixés par les normes d’agrément de la profession visée.",
+   "en": "It’s an undergraduate degree offered in certain professional programs, such as medicine, pharmacy or law. Its length, number of units and level are set by the accreditation standards of the profession concerned."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-programme-collaboratif-international",
+  "category": "reglements",
+  "keywords": [
+   "programme collaboratif international",
+   "international collaborative program",
+   "étudiant université partenaire étrangère",
+   "transfer from partner university abroad",
+   "partenaire international uottawa"
+  ],
+  "question": {
+   "fr": "Qu’est-ce qu’un programme collaboratif international ?",
+   "en": "What is an international collaborative program?"
+  },
+  "answer": {
+   "fr": "C’est une entente qui permet aux étudiants d’une université partenaire à l’étranger de poursuivre leurs études à l’Université d’Ottawa. Ils peuvent soit transférer dans un programme de l’Université, soit y faire une période d’études qui compte pour leur diplôme d’origine et les prépare à être admis ici. L’Université valide d’abord les cours et exigences du partenaire.",
+   "en": "It’s an agreement that lets students at a partner university abroad continue their studies at the University of Ottawa. They either transfer into a uOttawa program or complete a study period here that may count toward their home degree and prepares them for admission. The University first validates the partner’s courses and requirements."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-exigences-programme-modifiees",
+  "category": "reglements",
+  "keywords": [
+   "exigences de programme changées",
+   "program requirements changed",
+   "nouvelles exigences programme",
+   "am i affected program change",
+   "modification de programme pénalité"
+  ],
+  "question": {
+   "fr": "Les exigences de mon programme ont changé : est-ce que ça me pénalise ?",
+   "en": "My program requirements changed: will that penalize me?"
+  },
+  "answer": {
+   "fr": "Non, ça ne doit pas te pénaliser. Les cours et programmes sont recommandés par les facultés et approuvés par le Sénat, et quand les exigences changent, les facultés doivent s’assurer que les modifications ne pénalisent pas les étudiants déjà inscrits. Parle à ton bureau des études si tu as un doute sur ton cheminement.",
+   "en": "No, it shouldn’t penalize you. Courses and programs are recommended by faculties and approved by Senate, and when requirements change, faculties must make sure the changes don’t penalize students already enrolled. Talk to your academic office if you’re unsure about your path."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-2 – Programmes d’études",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b2-programmes-etudes"
+   },
+   {
+    "label": "Academic Regulation B-2 – Program of Studies",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-2-program-studies"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-reprendre-prealable-reussi",
+  "category": "reglements",
+  "keywords": [
+   "reprendre un préalable",
+   "repeat prerequisite",
+   "refaire cours préalable",
+   "sujets spéciaux reprise",
+   "special topics repeat"
+  ],
+  "question": {
+   "fr": "Puis-je reprendre un cours préalable même si j’ai déjà réussi le cours suivant ?",
+   "en": "Can I repeat a prerequisite even though I already passed the next course?"
+  },
+  "answer": {
+   "fr": "Oui, en général, sauf pour les cours de l’École de gestion Telfer et les cours de langue de la Faculté des arts. Pour les cours de sujets spéciaux, la règle de reprise s’applique seulement si le sujet est exactement le même. Certaines facultés, comme la Section de common law et l’Éducation, ne suivent pas ce règlement.",
+   "en": "Yes, generally, except for Telfer School of Management courses and Faculty of Arts language courses. For Special Topics courses, the repeat rule applies only to offerings on the exact same topic. Some faculties, like the Common Law Section and Education, don’t follow this regulation."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique B-4 – Inscription",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/b-4-inscription"
+   },
+   {
+    "label": "Academic Regulation B-4 – Registration",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/b-4-registration"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-activites-hors-campus",
+  "category": "reglements",
+  "keywords": [
+   "recherche terrain études supérieures",
+   "activités hors campus",
+   "off-campus research graduate",
+   "conference travel graduate",
+   "cours autre établissement temps plein"
+  ],
+  "question": {
+   "fr": "Aux études supérieures à temps plein, puis-je faire des activités hors campus ?",
+   "en": "As a full-time graduate student, can I do academic activities off campus?"
+  },
+  "answer": {
+   "fr": "Oui, avec l’approbation de ton directeur de thèse ou de la direction du programme : par exemple de la recherche sur le terrain ou en bibliothèque, un cours dans un autre établissement ou une conférence. Tu dois rester en communication régulière avec ton directeur ou ton programme.",
+   "en": "Yes, with the approval of your thesis supervisor or graduate program director: for example field or library research, a course at another institution or a conference. You must stay in regular communication with your supervisor or program."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-1 – Catégories et statuts aux études supérieures",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c-1-categories-statuts-etudiants-etudes-superieures"
+   },
+   {
+    "label": "Academic Regulation C-1 – Categories and Status of Graduate Students",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-1-categories-status-graduate-students"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-cs-memoire-sujet",
+  "category": "reglements",
+  "keywords": [
+   "sujet du mémoire",
+   "reprendre un travail pour mémoire",
+   "major research paper topic",
+   "research paper reading list",
+   "mémoire plan de travail"
+  ],
+  "question": {
+   "fr": "Puis-je bâtir mon mémoire à partir d’un travail déjà fait ?",
+   "en": "Can I build my major research paper on work I’ve already done?"
+  },
+  "answer": {
+   "fr": "Oui, avec l’approbation de la direction du programme, et le professeur responsable du travail d’origine sera normalement ton directeur. Le mémoire doit toutefois aller nettement plus loin que le travail initial. Avant le trimestre, entends-toi avec ton directeur sur le sujet, une liste de lectures et un calendrier de travail.",
+   "en": "Yes, with the program director’s approval, and the professor responsible for the original work will normally be your supervisor. However, the paper must show significant advancement beyond the original work. Before the term, agree with your supervisor on the topic, a reading list and a work schedule."
+  },
+  "sources": [
+   {
+    "label": "Règlement académique C-8 – Mémoire",
+    "url": "https://www.uottawa.ca/notre-universite/leadership-gouvernance/politiques-reglements/c8-memoire"
+   },
+   {
+    "label": "Academic Regulation C-8 – Major Research Paper",
+    "url": "https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/c-8-major-research-paper"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-memoire-rapport-hiver-2027",
+  "category": "calendrier",
+  "keywords": [
+   "date limite mémoire hiver 2027",
+   "rapport de génie hiver 2027",
+   "major research paper deadline winter 2027",
+   "engineering report april 29",
+   "mrp april 2027"
+  ],
+  "question": {
+   "fr": "Quelle est la date limite pour remettre mon mémoire ou mon rapport de génie à l’hiver 2027 ?",
+   "en": "What is the deadline to submit my major research paper or engineering report in Winter 2027?"
+  },
+  "answer": {
+   "fr": "Le dernier jour de l’hiver 2027 pour remettre le mémoire, ou le rapport de génie sans devoir t’inscrire au printemps-été, est le 29 avril 2027. Certains programmes ont une date plus tôt, alors confirme-la avec ton unité scolaire.",
+   "en": "The last day of Winter 2027 to submit the major research paper, or the engineering report without having to enrol in Spring-Summer, is April 29, 2027. Some programs have an earlier date, so confirm it with your academic unit."
+  },
+  "sources": [
+   {
+    "label": "Important academic dates and deadlines – Winter 2027",
+    "url": "https://www.uottawa.ca/study/important-academic-dates-deadlines/winter-2027"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-uoaccess-alias-invalide",
+  "category": "ti",
+  "keywords": [
+   "connexion avec mon adresse nom complet",
+   "alias uoaccess",
+   "full name email login",
+   "can’t log in with alias",
+   "identifiant uoaccess invalide"
+  ],
+  "question": {
+   "fr": "Puis-je me connecter avec mon adresse courriel à nom complet ?",
+   "en": "Can I log in with my full-name email address?"
+  },
+  "answer": {
+   "fr": "Non. Ton identifiant uoAccess est seulement le nom court avant @uOttawa.ca dans ton adresse principale, par exemple jsmit000. Une adresse à nom complet, comme prénom.nom, ou un alias lié à ton compte ne sont pas des identifiants uoAccess valides.",
+   "en": "No. Your uoAccess ID is only the short name before @uOttawa.ca in your main address, for example jsmit000. A full-name address, like first.last, or an alias linked to your account are not valid uoAccess IDs."
+  },
+  "sources": [
+   {
+    "label": "IT – uoAccess",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/account/uoaccess"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-copilot-renseignements-personnels",
+  "category": "ti",
+  "keywords": [
+   "copilot renseignements personnels",
+   "données confidentielles ia",
+   "personal information copilot",
+   "confidential data ai tool",
+   "chatgpt données université"
+  ],
+  "question": {
+   "fr": "Puis-je mettre des renseignements personnels ou confidentiels dans Copilot ou un autre outil d’IA ?",
+   "en": "Can I put personal or confidential information into Copilot or another AI tool?"
+  },
+  "answer": {
+   "fr": "Évite-le. Copilot n’est pas recommandé pour recueillir ou saisir des renseignements personnels sans autorisation légale et but universitaire légitime. Copilot est aussi la seule plateforme d’IA approuvée pour s’intégrer aux données de l’Université : dans les autres outils, n’entre aucune information interne, confidentielle ou restreinte.",
+   "en": "Avoid it. Copilot isn’t recommended for collecting or entering personal information without legal authority and a legitimate University purpose. Copilot is also the only AI platform approved to integrate with University data: in other tools, don’t enter any information classified as internal, confidential or restricted."
+  },
+  "sources": [
+   {
+    "label": "IT – MS Copilot",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-copilot"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zb-onedrive-usage",
+  "category": "ti",
+  "keywords": [
+   "photos personnelles onedrive",
+   "onedrive pour quoi",
+   "what to store on onedrive",
+   "onedrive personal photos",
+   "onedrive travail équipe"
+  ],
+  "question": {
+   "fr": "Que devrais-je garder dans mon OneDrive uOttawa ?",
+   "en": "What should I store in my uOttawa OneDrive?"
+  },
+  "answer": {
+   "fr": "OneDrive sert à tes propres documents de travail et à tes brouillons pas encore prêts à partager. Il n’est pas recommandé pour tes photos personnelles, pour les documents officiels ni pour les fichiers dont toute ton équipe a besoin : pour le travail d’équipe, utilise plutôt un espace partagé comme Teams. Pense aussi à retirer les liens de partage dont tu n’as plus besoin.",
+   "en": "OneDrive is for your own working documents and drafts you aren’t ready to share. It isn’t recommended for personal photos, official documents or files your whole team needs: for team work, use a shared space like Teams instead. Also remember to remove sharing links you no longer need."
+  },
+  "sources": [
+   {
+    "label": "IT – MS OneDrive",
+    "url": "https://www.uottawa.ca/about-us/information-technology/services/software/m365/ms-onedrive"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ }
+]

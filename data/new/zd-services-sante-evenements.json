@@ -1,0 +1,3482 @@
+[
+ {
+  "id": "zd-agents-pouvoir-arrestation",
+  "category": "sante",
+  "keywords": [
+   "agent de sécurité",
+   "arrestation",
+   "arrest",
+   "security guard powers",
+   "pouvoirs des agents",
+   "propriété privée",
+   "private property",
+   "intrusion"
+  ],
+  "question": {
+   "fr": "Est-ce que les agents de sécurité du campus peuvent arrêter quelqu'un ?",
+   "en": "Can campus security guards arrest someone?"
+  },
+  "answer": {
+   "fr": "Oui. Les terrains de l'Université sont une propriété privée : en vertu de l'article 494 du Code criminel, les agents du Service de la protection peuvent arrêter une personne qu'ils voient commettre une infraction criminelle sur le campus. Ils peuvent aussi donner un avis d'intrusion, oral ou écrit, qui interdit à quelqu'un l'accès au campus ou à certains secteurs comme les résidences.",
+   "en": "Yes. University property is private property, so under section 494 of the Criminal Code, Protection Services guards can arrest someone they see committing a criminal offence on campus. They can also give a trespass notice, verbal or written, barring a person from the campus or from certain areas such as residences."
+  },
+  "sources": [
+   {
+    "label": "Service de la protection – uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-agents-demande-identite",
+  "category": "sante",
+  "keywords": [
+   "carte d'identité",
+   "pièce d'identité",
+   "security asks id",
+   "agent demande identité",
+   "identification",
+   "laboratoire",
+   "restricted area",
+   "refuse to identify"
+  ],
+  "question": {
+   "fr": "Un agent de sécurité peut-il me demander mes pièces d'identité ?",
+   "en": "Can a security guard ask for my ID on campus?"
+  },
+  "answer": {
+   "fr": "Oui, surtout dans les secteurs à accès restreint comme les laboratoires de sciences, selon le Règlement 33 sur la sécurité. Si tu refuses de t'identifier, on peut te donner un avis d'intrusion et te demander de quitter les lieux immédiatement. Si tu refuses de partir, tu pourrais être arrêté en vertu de la Loi sur l'entrée sans autorisation.",
+   "en": "Yes, especially in restricted areas such as science labs, under Policy 33 on security. If you refuse to identify yourself, you may be given a trespass notice and asked to leave immediately. Refusing to leave can lead to arrest under the Trespass to Property Act."
+  },
+  "sources": [
+   {
+    "label": "Service de la protection – uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-agents-formation",
+  "category": "sante",
+  "keywords": [
+   "formation agents",
+   "security training",
+   "agents de sécurité",
+   "premiers soins",
+   "first aid guards",
+   "patrouille",
+   "patrol",
+   "vélo",
+   "bike patrol"
+  ],
+  "question": {
+   "fr": "Quelle formation ont les agents du Service de la protection ?",
+   "en": "What training do Protection Services guards have?"
+  },
+  "answer": {
+   "fr": "Les agents détiennent notamment des formations en premiers soins, RCR, défibrillateur et oxygène, en gestion de crise et de conflit, en légitime défense et en prévention du harcèlement sexuel. Plusieurs ont un diplôme collégial en techniques policières ou en sécurité. Ils travaillent en quatre équipes pour assurer une présence 24 heures sur 24 et se déplacent à pied, à vélo et en véhicule hybride.",
+   "en": "Guards hold training such as first aid, CPR, defibrillator and oxygen, crisis and conflict management, self-defence and sexual harassment awareness. Many have a college diploma in police foundations or law and security. They work in four shift teams for round-the-clock coverage and get around on foot, by bike and in hybrid vehicles."
+  },
+  "sources": [
+   {
+    "label": "Service de la protection – uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+   },
+   {
+    "label": "Services – Service de la protection",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/services"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vandalisme-consequences",
+  "category": "sante",
+  "keywords": [
+   "vandalisme",
+   "vandalism",
+   "dommages résidence",
+   "damage residence",
+   "enquête",
+   "investigation",
+   "rembourser",
+   "criminal charges"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qui arrive si quelqu'un fait du vandalisme sur le campus ?",
+   "en": "What happens if someone vandalizes something on campus?"
+  },
+  "answer": {
+   "fr": "La division des enquêtes du Service de la protection enquête sur les infractions criminelles commises sur les campus, en collaboration avec les doyens et la police. Par exemple, un étudiant identifié pour du vandalisme en résidence doit rembourser les dommages à l'Université. Pour d'autres actes criminels, des accusations peuvent être portées devant les tribunaux.",
+   "en": "Protection Services' Investigations Division looks into criminal offences on campus, working with deans and the police. For example, a student identified for vandalism in residence must reimburse the University for the damage. For other criminal acts, charges may go before the courts."
+  },
+  "sources": [
+   {
+    "label": "Service de la protection – uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+   },
+   {
+    "label": "Services – Service de la protection",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/services"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-drone-campus",
+  "category": "sante",
+  "keywords": [
+   "drone",
+   "faire voler un drone",
+   "fly a drone",
+   "uav",
+   "drone campus",
+   "transports canada",
+   "alta vista",
+   "permission drone"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire voler un drone sur le campus ?",
+   "en": "Can I fly a drone on campus?"
+  },
+  "answer": {
+   "fr": "Seulement avec une autorisation : remplis le formulaire de demande de drone du Service de la protection, avec le lieu, la date, le type et le poids du drone. Au-delà de 250 grammes, il faut la certification de pilote de Transports Canada, un certificat d'assurance qui nomme uOttawa et un plan de vol NAV Canada. Les drones sont interdits au campus Alta Vista, à cause de l'héliport du CHEO.",
+   "en": "Only with permission: fill out the Protection Services drone request form with the location, date, type and weight of the drone. Above 250 grams, you need Transport Canada pilot certification, an insurance certificate naming uOttawa and a NAV Canada flight plan. Drones aren't allowed at the Alta Vista campus because of the CHEO heliport."
+  },
+  "sources": [
+   {
+    "label": "Formulaire de demande de drone – uOttawa",
+    "url": "https://uoforms2.uottawa.ca/en/protection-services/drone-request-form"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-travailler-protection",
+  "category": "services",
+  "keywords": [
+   "emploi agent de sécurité",
+   "security guard job",
+   "travailler protection",
+   "work at protection services",
+   "bilingue",
+   "qualifications",
+   "job sécurité campus"
+  ],
+  "question": {
+   "fr": "Comment devenir agent de sécurité à l'Université ?",
+   "en": "How do I become a security guard at the University?"
+  },
+  "answer": {
+   "fr": "Le Service de la protection demande un diplôme collégial en techniques juridiques et sécurité ou l'équivalent, d'être bilingue à l'oral et à l'écrit, un certificat valide de premiers soins et RCR, et un permis de conduire valide. Les offres d'emploi sont conditionnelles à une entrevue, une évaluation psychologique, un examen médical et une vérification des antécédents. Les postes sont affichés en ligne.",
+   "en": "Protection Services asks for a college diploma in law and security or equivalent, spoken and written bilingualism, valid first aid and CPR certification, and a valid driver's licence. Job offers depend on passing an interview, a psychological assessment, a medical exam and a background check. Positions are posted online."
+  },
+  "sources": [
+   {
+    "label": "Travailler au Service de la protection",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection/work-protection"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-gestion-urgences-equipe",
+  "category": "sante",
+  "keywords": [
+   "gestion des urgences",
+   "emergency management",
+   "plan de continuité",
+   "business continuity",
+   "sécurité incendie",
+   "fire safety program",
+   "règlement 125"
+  ],
+  "question": {
+   "fr": "Qui s'occupe de la préparation aux urgences à l'Université ?",
+   "en": "Who handles emergency preparedness at the University?"
+  },
+  "answer": {
+   "fr": "C'est l'équipe de gestion des urgences, au 139, privé Louis-Pasteur, sous le Bureau de la dirigeante principale de la gestion des risques. Elle dirige le Centre des opérations d'urgence et gère trois programmes : gestion des urgences, continuité des activités et sécurité incendie, selon le Règlement 125. Les unités peuvent la contacter pour bâtir leur plan d'urgence.",
+   "en": "It's the Emergency Management team, at 139 Louis-Pasteur, under the Office of the Chief Risk Officer. It runs the Emergency Operations Centre and three programs: emergency management, business continuity and fire safety, under Policy 125. Units can contact it for help building their emergency plans."
+  },
+  "sources": [
+   {
+    "label": "Gestion des urgences – uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-emergency-management"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-fumee-corridor",
+  "category": "sante",
+  "keywords": [
+   "fumée corridor",
+   "smoke in hallway",
+   "fumée escalier",
+   "smoke stairwell",
+   "coincé",
+   "trapped fire",
+   "incendie",
+   "fire"
+  ],
+  "question": {
+   "fr": "Il y a de la fumée dans le corridor ou l'escalier : qu'est-ce que je fais ?",
+   "en": "There's smoke in the hallway or stairwell: what do I do?"
+  },
+  "answer": {
+   "fr": "Il peut être plus sûr de rester dans ta pièce : ferme la porte et bouche les ouvertures. Dans un escalier enfumé, sors-en vite et trouve une autre sortie, sinon retourne dans ta pièce. Appelle le Service de la protection au 613-562-5411, donne ta position exacte et agite un chandail de couleur pâle à la fenêtre pour qu'on te repère.",
+   "en": "It may be safer to stay in your room: close the door and seal any openings. If the stairwell is smoky, leave it quickly and find another exit, or go back to your room. Call Protection Services at 613-562-5411, give your exact location and wave a light-coloured shirt in the window so rescuers can find you."
+  },
+  "sources": [
+   {
+    "label": "Autres dangers – Êtes-vous prêt?",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-inondation-fuite",
+  "category": "sante",
+  "keywords": [
+   "inondation",
+   "flood",
+   "fuite d'eau",
+   "water leak",
+   "dégât d'eau",
+   "eau qui coule",
+   "leak campus"
+  ],
+  "question": {
+   "fr": "Que faire en cas d'inondation ou de grosse fuite d'eau dans un bâtiment ?",
+   "en": "What should I do if there's flooding or a big water leak in a building?"
+  },
+  "answer": {
+   "fr": "Avise tout de suite le Service de la protection de toute fuite importante. Si c'est sécuritaire, éloigne le matériel fragile de l'eau, débranche les appareils électriques et monte plus haut ou quitte la zone. Reste loin de l'eau en mouvement : 15 centimètres suffisent pour te faire perdre pied. Pour une petite fuite, comme un robinet qui goutte, compose le 5000 d'un téléphone du campus.",
+   "en": "Notify Protection Services right away of any significant leak. If it's safe, move vulnerable materials out of the water's path, unplug electrical equipment and move higher up or leave the area. Stay away from moving water: just 15 centimetres can knock you off your feet. For a minor leak, like a dripping faucet, dial 5000 from a campus phone."
+  },
+  "sources": [
+   {
+    "label": "Autres dangers – Êtes-vous prêt?",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vol-qualifie",
+  "category": "sante",
+  "keywords": [
+   "vol qualifié",
+   "robbery",
+   "se faire voler",
+   "being robbed",
+   "activité criminelle",
+   "criminal activity",
+   "agression vol"
+  ],
+  "question": {
+   "fr": "Que faire si je me fais voler ou si je suis témoin d'un crime sur le campus ?",
+   "en": "What should I do if I'm robbed or witness a crime on campus?"
+  },
+  "answer": {
+   "fr": "Éloigne-toi du danger immédiat. Si on te vole, donne exactement ce qu'on te demande, rien de plus, et note mentalement l'apparence des personnes et la direction où elles partent. Avise ensuite le Service de la protection au 613-562-5411, attends-le à l'endroit convenu et ne touche à aucune preuve laissée sur place.",
+   "en": "Get away from immediate danger. If you're being robbed, give exactly what's demanded and nothing more, and make a mental note of what the people look like and which way they go. Then notify Protection Services at 613-562-5411, wait for them at the agreed spot and don't touch any evidence left behind."
+  },
+  "sources": [
+   {
+    "label": "Autres dangers – Êtes-vous prêt?",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-urgence-medicale-temoin",
+  "category": "sante",
+  "keywords": [
+   "urgence médicale",
+   "medical emergency",
+   "quelqu'un s'effondre",
+   "someone collapsed",
+   "blessé",
+   "injured person",
+   "malaise"
+  ],
+  "question": {
+   "fr": "Quelqu'un se blesse ou fait un malaise devant moi sur le campus : que faire ?",
+   "en": "Someone is hurt or falls ill in front of me on campus: what do I do?"
+  },
+  "answer": {
+   "fr": "Avise immédiatement le Service de la protection au 613-562-5411. Si tu as une formation en premiers soins, donne-les si c'est sécuritaire. Suis ensuite les consignes des agents et des intervenants d'urgence, et reste sur place jusqu'à ce qu'on te dise de partir.",
+   "en": "Notify Protection Services immediately at 613-562-5411. If you're trained in first aid, give it if it's safe to do so. Then follow the instructions of the guards and emergency responders, and stay at the scene until you're told you can leave."
+  },
+  "sources": [
+   {
+    "label": "Autres dangers – Êtes-vous prêt?",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-personne-menacante",
+  "category": "sante",
+  "keywords": [
+   "personne menaçante",
+   "threatening person",
+   "menace",
+   "threat",
+   "comportement violent",
+   "violent behaviour",
+   "ligne ouverte"
+  ],
+  "question": {
+   "fr": "Quelqu'un me menace en face à face : comment réagir ?",
+   "en": "Someone is threatening me face to face: how should I react?"
+  },
+  "answer": {
+   "fr": "Reste le plus calme possible et essaie de calmer la personne : reconnais ce qu'elle ressent, sans jamais la confronter. Si la situation s'aggrave, appelle le Service de la protection ; même si tu ne peux pas parler, laisse la ligne ouverte et des agents seront envoyés. Si la personne part, note dans quelle direction.",
+   "en": "Stay as calm as you can and try to keep the person calm: acknowledge their feelings, and never confront them. If things escalate, call Protection Services; even if it isn't safe to speak, leave the line open and patrol officers will be sent. If the person leaves, note which way they went."
+  },
+  "sources": [
+   {
+    "label": "Autres dangers – Êtes-vous prêt?",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-appel-protection-transmis",
+  "category": "sante",
+  "keywords": [
+   "violence sexuelle",
+   "sexual violence",
+   "protection services",
+   "signalement",
+   "report",
+   "bureau des droits de la personne",
+   "human rights office"
+  ],
+  "question": {
+   "fr": "Si j'appelle le Service de la protection pour une violence sexuelle, qu'est-ce qui se passe ensuite ?",
+   "en": "If I call Protection Services about sexual violence, what happens next?"
+  },
+  "answer": {
+   "fr": "Un rapport est créé et transmis en toute confidentialité au Bureau des droits de la personne. Une conseillère de l'équipe de prévention et d'intervention en matière de violence sexuelle te contactera rapidement pour faire un suivi, te soutenir et t'expliquer tes options. Le Service de la protection est ouvert en tout temps : 613-562-5411 en urgence.",
+   "en": "A report is created and forwarded in complete confidentiality to the Human Rights Office. A counsellor from the Sexual Violence Prevention and Response team will promptly contact you to follow up, support you and explain your options. Protection Services is open at all times: 613-562-5411 for emergencies."
+  },
+  "sources": [
+   {
+    "label": "Divulguer une violence sexuelle et porter plainte",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/report-incident"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-limites-confidentialite",
+  "category": "sante",
+  "keywords": [
+   "confidentialité",
+   "confidentiality",
+   "violence sexuelle",
+   "sexual violence",
+   "obligation légale",
+   "legal obligation",
+   "divulgation",
+   "secret"
+  ],
+  "question": {
+   "fr": "Est-ce qu'une divulgation de violence sexuelle reste toujours confidentielle ?",
+   "en": "Does a disclosure of sexual violence always stay confidential?"
+  },
+  "answer": {
+   "fr": "L'Université la traite en toute confidentialité et limite l'information aux personnes qui doivent la connaître pour agir. La confidentialité ne peut pas être garantie seulement dans certains cas : risque qu'une personne se blesse ou blesse quelqu'un, risque pour la communauté, ou obligation légale, par exemple si une personne mineure est impliquée. Le Bureau des droits de la personne peut t'en dire plus avant que tu parles.",
+   "en": "The University treats it in complete confidentiality and limits information to those who need to know to act. Confidentiality can't be guaranteed only in specific cases: a risk that someone harms themselves or someone else, a risk to the community, or a legal obligation, for example if a minor is involved. The Human Rights Office can explain more before you share."
+  },
+  "sources": [
+   {
+    "label": "Divulguer une violence sexuelle et porter plainte",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/report-incident"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-services-bdp",
+  "category": "sante",
+  "keywords": [
+   "plan de sécurité",
+   "safety plan",
+   "violence sexuelle",
+   "sexual violence services",
+   "police",
+   "preuves",
+   "evidence",
+   "accommodements"
+  ],
+  "question": {
+   "fr": "Concrètement, comment le Bureau des droits de la personne peut m'aider après une violence sexuelle ?",
+   "en": "What can the Human Rights Office actually do for me after sexual violence?"
+  },
+  "answer": {
+   "fr": "L'équipe offre de l'écoute, t'oriente vers les bons services et t'aide à faire un plan de sécurité avec le Service de la protection. Elle peut faire le lien avec la police d'Ottawa si tu le veux, t'aider à demander des accommodements scolaires ou au travail, et documenter la situation et conserver les preuves dans une base de données sécurisée. Tu peux la joindre au 613-562-5222.",
+   "en": "The team offers a listening ear, refers you to the right services and helps you build a safety plan with Protection Services. It can liaise with the Ottawa Police if you want, help you request academic or workplace accommodations, and document the situation and store evidence in a secure database. You can reach it at 613-562-5222."
+  },
+  "sources": [
+   {
+    "label": "Divulguer une violence sexuelle et porter plainte",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/report-incident"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-gestionnaire",
+  "category": "sante",
+  "keywords": [
+   "gestionnaire",
+   "manager",
+   "employé divulgue",
+   "employee disclosure",
+   "violence sexuelle",
+   "sexual violence workplace",
+   "ressources humaines"
+  ],
+  "question": {
+   "fr": "Je suis gestionnaire et un employé me divulgue une violence sexuelle : que dois-je faire ?",
+   "en": "I'm a manager and an employee disclosed sexual violence to me: what should I do?"
+  },
+  "answer": {
+   "fr": "Tes obligations peuvent être différentes, car l'Université a des obligations légales envers ses employés en vertu de la Loi sur la santé et la sécurité au travail. Avant d'agir, communique avec le Bureau des droits de la personne ou les Ressources humaines, qui te guideront selon la situation. L'équipe peut aussi te donner une consultation rapide et confidentielle.",
+   "en": "Your obligations may be different, since the University has legal duties to employees under the Occupational Health and Safety Act. Before taking action, contact the Human Rights Office or Human Resources, who will guide you based on the situation. The team can also give you a quick, confidential consultation."
+  },
+  "sources": [
+   {
+    "label": "Offrir son soutien – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/offering-support"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-quoi-eviter",
+  "category": "sante",
+  "keywords": [
+   "quoi ne pas dire",
+   "what not to say",
+   "divulgation",
+   "disclosure",
+   "violence sexuelle",
+   "support survivor",
+   "soutenir"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que je devrais éviter de dire si quelqu'un me confie une violence sexuelle ?",
+   "en": "What should I avoid saying if someone tells me about sexual violence?"
+  },
+  "answer": {
+   "fr": "Ne blâme jamais la personne : ne suggère pas qu'elle ment, ne parle pas de ce qu'elle aurait dû faire et ne minimise pas ce qui s'est passé. Ne la traite pas différemment et ne prends pas de décisions à sa place. Évite aussi de mettre tes propres émotions de l'avant ou de vouloir te venger pour elle ; respecte ses choix et mentionne-lui le Bureau des droits de la personne.",
+   "en": "Never blame the person: don't suggest they're lying, don't talk about what they should have done, and don't minimize what happened. Don't treat them differently or make decisions for them. Also avoid putting your own feelings first or seeking revenge on their behalf; respect their choices and mention the Human Rights Office."
+  },
+  "sources": [
+   {
+    "label": "Offrir son soutien – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/offering-support"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-masque",
+  "category": "sante",
+  "keywords": [
+   "masque",
+   "mask",
+   "grippe",
+   "flu symptoms",
+   "centre de santé",
+   "health centre",
+   "port du masque",
+   "mask policy"
+  ],
+  "question": {
+   "fr": "Est-ce que je dois porter un masque au Centre de santé et de mieux-être ?",
+   "en": "Do I have to wear a mask at the Student Health and Wellness Centre?"
+  },
+  "answer": {
+   "fr": "Oui, si tu as des symptômes semblables à ceux de la grippe : toute personne qui en a doit porter un masque au Centre. Le Centre est au Complexe sportif Minto, 801, avenue King-Edward, local N203.",
+   "en": "Yes, if you have flu-like symptoms: anyone with them must wear a mask in the Centre. The Centre is in the Minto Sports Complex, 801 King Edward Avenue, room N203."
+  },
+  "sources": [
+   {
+    "label": "Centre de santé et de mieux-être étudiant",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-courriel-securise",
+  "category": "sante",
+  "keywords": [
+   "courriel",
+   "email",
+   "renseignements médicaux",
+   "health information",
+   "confidentialité",
+   "privacy",
+   "dossier santé",
+   "telus"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux envoyer mes informations médicales par courriel au Centre de santé ?",
+   "en": "Can I email my medical information to the Health Centre?"
+  },
+  "answer": {
+   "fr": "Le Centre ne peut pas garantir la sécurité des renseignements de santé envoyés par courriel. Il recommande plutôt d'utiliser un canal sécurisé comme le dossier de santé collaboratif de TELUS. Pour une question urgente, appelle le 613-562-5777.",
+   "en": "The Centre can't guarantee the security of health information sent by email. It recommends using a secure channel such as the TELUS Collaborative Health Record instead. For an urgent question, call 613-562-5777."
+  },
+  "sources": [
+   {
+    "label": "Centre de santé et de mieux-être étudiant",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-espace-autochtone",
+  "category": "sante",
+  "keywords": [
+   "purification",
+   "smudging",
+   "cérémonie autochtone",
+   "indigenous ceremony",
+   "cercle de guérison",
+   "healing circle",
+   "centre de santé",
+   "inclusif"
+  ],
+  "question": {
+   "fr": "Le Centre de santé a-t-il un espace pour les pratiques autochtones ?",
+   "en": "Does the Health Centre have a space for Indigenous practices?"
+  },
+  "answer": {
+   "fr": "Oui. Le Centre de santé et de mieux-être comprend une salle de purification par la fumée et des espaces pour les cercles de guérison ou les cérémonies autochtones. Son personnel est formé sur l'équité, la diversité, l'inclusion et les soins tenant compte des traumatismes.",
+   "en": "Yes. The Student Health and Wellness Centre includes a smudging room and spaces for healing circles or Indigenous ceremonies. Its staff are trained in equity, diversity and inclusion and in trauma-informed care."
+  },
+  "sources": [
+   {
+    "label": "FAQ – Centre de santé et de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-specialiste-reference",
+  "category": "sante",
+  "keywords": [
+   "spécialiste",
+   "specialist",
+   "référence",
+   "referral",
+   "centre de santé",
+   "dermatologue",
+   "voir un spécialiste"
+  ],
+  "question": {
+   "fr": "Comment voir un médecin spécialiste quand je suis étudiant ?",
+   "en": "How do I see a medical specialist as a student?"
+  },
+  "answer": {
+   "fr": "Il faut une référence : ton médecin de famille ou ton infirmière praticienne peut la faire, par exemple au Centre de santé et de mieux-être. Le bureau du spécialiste t'appellera ensuite pour fixer le rendez-vous. Si le Centre n'offre pas le service dont tu as besoin, il te dirigera vers un spécialiste.",
+   "en": "You need a referral: your family doctor or nurse practitioner can make one, for example at the Student Health and Wellness Centre. The specialist's office will then call you to book the appointment. If the Centre doesn't offer the service you need, it will refer you to a specialist."
+  },
+  "sources": [
+   {
+    "label": "Professionnels de la santé 101",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-providers"
+   },
+   {
+    "label": "FAQ – Centre de santé et de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-commentaires",
+  "category": "sante",
+  "keywords": [
+   "commentaires",
+   "feedback",
+   "plainte centre de santé",
+   "complaint health centre",
+   "suggestion",
+   "formulaire",
+   "avis"
+  ],
+  "question": {
+   "fr": "Comment donner mon avis sur le Centre de santé et de mieux-être ?",
+   "en": "How do I give feedback about the Student Health and Wellness Centre?"
+  },
+  "answer": {
+   "fr": "Remplis le formulaire de commentaires en ligne du Centre. Si tu veux qu'on te réponde, laisse tes coordonnées : le Centre te contactera dans les trois jours ouvrables. N'y mets pas d'information sur ton dossier médical.",
+   "en": "Fill out the Centre's online feedback form. If you want a reply, leave your contact information and the Centre will get back to you within three business days. Don't include any information from your medical record."
+  },
+  "sources": [
+   {
+    "label": "FAQ – Centre de santé et de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   },
+   {
+    "label": "Centre de santé et de mieux-être étudiant",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-rappels-rdv",
+  "category": "sante",
+  "keywords": [
+   "rappel",
+   "reminder",
+   "rendez-vous",
+   "appointment",
+   "texto",
+   "courriel",
+   "centre de santé",
+   "oublier"
+  ],
+  "question": {
+   "fr": "Est-ce que le Centre de santé m'envoie un rappel de rendez-vous ?",
+   "en": "Does the Health Centre send appointment reminders?"
+  },
+  "answer": {
+   "fr": "Oui, par courtoisie, le Centre envoie des rappels par courriel ou par texto pour tous les rendez-vous. Mais si tu n'en reçois pas, tu restes responsable d'arriver à l'heure. Si tu ne peux pas venir, annule le plus tôt possible au 613-562-5777.",
+   "en": "Yes, as a courtesy the Centre sends email or text reminders for all appointments. But if you don't get one, you're still responsible for arriving on time. If you can't make it, cancel as early as possible at 613-562-5777."
+  },
+  "sources": [
+   {
+    "label": "Centre de santé et de mieux-être étudiant",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-frais-formulaires",
+  "category": "sante",
+  "keywords": [
+   "frais formulaire",
+   "form fee",
+   "formulaire accommodements",
+   "accommodation form",
+   "rafeo",
+   "osap form",
+   "lettre d'attestation",
+   "certificat"
+  ],
+  "question": {
+   "fr": "Combien coûte un formulaire rempli par le Centre de santé ?",
+   "en": "How much does the Health Centre charge to fill out a form?"
+  },
+  "answer": {
+   "fr": "Selon la liste de frais du Centre, le formulaire pour les accommodements scolaires coûte 60 $, le formulaire RAFEO 30 $, une lettre d'attestation 10 $ et le formulaire clinique de préstage 30 $. Certains frais sont sujets à la TVH. Les frais peuvent changer sans préavis, alors vérifie la liste à jour.",
+   "en": "According to the Centre's fee list, the academic accommodations form costs $60, an OSAP form $30, a letter of attestation $10 and a clinical pre-placement form $30. Some fees are subject to HST. Fees can change without notice, so check the current list."
+  },
+  "sources": [
+   {
+    "label": "Liste des frais – Centre de santé",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/fees-not-covered"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-csme-rdv-non-assure",
+  "category": "sante",
+  "keywords": [
+   "pas d'assurance",
+   "no insurance",
+   "rendez-vous non assuré",
+   "uninsured appointment",
+   "frais médecin",
+   "cost doctor",
+   "sans carte santé"
+  ],
+  "question": {
+   "fr": "Combien coûte un rendez-vous au Centre de santé si je n'ai pas d'assurance maladie valide ?",
+   "en": "How much is a Health Centre appointment if I don't have valid health insurance?"
+  },
+  "answer": {
+   "fr": "Un rendez-vous médical non assuré coûte au moins 120 $, plus le coût des actes, selon la liste de frais du Centre. Les laboratoires non couverts coûtent 30 $ plus le prix des tests, et les vaccins non couverts sont facturés au coût du vaccin. Ces frais peuvent changer, vérifie la liste à jour.",
+   "en": "An uninsured medical appointment costs at least $120, plus the cost of procedures, according to the Centre's fee list. Uncovered lab work is $30 plus the cost of the tests, and uncovered vaccines are charged at the cost of the vaccine. These fees can change, so check the current list."
+  },
+  "sources": [
+   {
+    "label": "Liste des frais – Centre de santé",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/fees-not-covered"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-csme-renouvellement-telephone",
+  "category": "sante",
+  "keywords": [
+   "renouvellement ordonnance",
+   "prescription renewal",
+   "téléphone",
+   "by phone",
+   "fax",
+   "frais ordonnance",
+   "renouveler médicament"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux faire renouveler une ordonnance par téléphone au Centre de santé ?",
+   "en": "Can I get a prescription renewed by phone at the Health Centre?"
+  },
+  "answer": {
+   "fr": "Oui, mais un renouvellement d'ordonnance par téléphone ou par télécopieur coûte 15 $, selon la liste de frais du Centre. Le renouvellement fait pendant un rendez-vous fait partie des services médicaux offerts. Si manquer ton médicament causerait un sevrage, consulte avant la fin de ton ordonnance.",
+   "en": "Yes, but a prescription renewal by phone or fax costs $15, according to the Centre's fee list. Renewal during an appointment is part of the medical services offered. If running out of your medication would cause withdrawal, see a physician before your prescription runs out."
+  },
+  "sources": [
+   {
+    "label": "Liste des frais – Centre de santé",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/fees-not-covered"
+   },
+   {
+    "label": "Soins de santé – Quand et où",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-when-and-where"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-futurs-etudiants",
+  "category": "sante",
+  "keywords": [
+   "nouvel étudiant",
+   "incoming student",
+   "offre d'admission",
+   "admission accepted",
+   "avant la rentrée",
+   "before classes",
+   "centre de santé"
+  ],
+  "question": {
+   "fr": "J'ai accepté mon offre d'admission, mais je n'ai pas encore commencé : puis-je avoir du soutien au Centre de santé ?",
+   "en": "I accepted my offer but haven't started yet: can I get support from the Health Centre?"
+  },
+  "answer": {
+   "fr": "Oui, pour certains services : les étudiants qui arrivent et qui ont accepté leur offre peuvent accéder à l'évaluation d'accueil en santé mentale et aux services d'éducation à la santé avant de commencer leurs études. Les services médicaux, eux, exigent d'être inscrit et d'avoir payé les frais de santé du trimestre ou les frais d'inscription du Centre. Appelle le 613-562-5777 pour vérifier ton cas.",
+   "en": "Yes, for some services: incoming students who've accepted their offer can access the mental health intake and health education services before starting their studies. Medical services, however, require you to be enrolled and to have paid the term's health fee or the Centre's enrolment fee. Call 613-562-5777 to check your situation."
+  },
+  "sources": [
+   {
+    "label": "Admissibilité des étudiants aux services",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/student-eligibility-services"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-etudes-interrompues",
+  "category": "sante",
+  "keywords": [
+   "interruption des études",
+   "interrupted studies",
+   "congé",
+   "leave of absence",
+   "centre de santé",
+   "b-6.5",
+   "pas inscrit"
+  ],
+  "question": {
+   "fr": "J'ai interrompu mes études ou je suis en congé : puis-je encore aller au Centre de santé ?",
+   "en": "I've interrupted my studies or I'm on leave: can I still use the Health Centre?"
+  },
+  "answer": {
+   "fr": "Oui, si tu as déjà vu un professionnel du Centre pour des services médicaux ou de santé mentale, et que tu paies les frais d'inscription du Centre pour chaque trimestre où tu l'utilises. Cela vaut pour les études interrompues au premier cycle selon le règlement B-6.5 et les congés approuvés aux cycles supérieurs. Apporte ta carte étudiante à chaque visite.",
+   "en": "Yes, if you've already seen a Centre practitioner for medical or mental health services, and you pay the Centre's enrolment fee for each term you use it. This applies to undergraduate studies interrupted under regulation B-6.5 and to approved graduate leaves. Bring your student card to every visit."
+  },
+  "sources": [
+   {
+    "label": "Admissibilité des étudiants aux services",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/student-eligibility-services"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-csme-aucun-rdv-affiche",
+  "category": "sante",
+  "keywords": [
+   "aucun rendez-vous",
+   "no appointments",
+   "portail vide",
+   "no slots",
+   "complet",
+   "booked up",
+   "centre de santé",
+   "clinique sans rendez-vous"
+  ],
+  "question": {
+   "fr": "Je ne vois aucun rendez-vous disponible sur le portail du Centre de santé : c'est normal ?",
+   "en": "I don't see any appointments on the Health Centre portal: is that normal?"
+  },
+  "answer": {
+   "fr": "Oui : quand il n'y a plus de place, les rendez-vous n'apparaissent tout simplement pas sur le portail ni dans l'application. Les plages de la semaine suivante sortent le vendredi à 8 h, et quelques rendez-vous pour urgences mineures sortent chaque matin de semaine à 8 h. Sinon, la page Soins de santé, quand et où te propose d'autres options, comme une clinique sans rendez-vous.",
+   "en": "Yes: when there are no openings, appointments simply don't show on the portal or the app. Next week's slots are released Fridays at 8 a.m., and a few minor-emergency appointments come out every weekday morning at 8 a.m. Otherwise, the Health care, when and where page suggests other options, such as a walk-in clinic."
+  },
+  "sources": [
+   {
+    "label": "Comprendre les temps d'attente",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/understanding-wait-times"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-education-sante-personnalisee",
+  "category": "sante",
+  "keywords": [
+   "éducation à la santé",
+   "health education",
+   "promotion de la santé",
+   "health promotion specialist",
+   "naviguer système santé",
+   "phep",
+   "plan de soins"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que le programme d'éducation à la santé personnalisée ?",
+   "en": "What is the Personalized Health Education Program?"
+  },
+  "answer": {
+   "fr": "C'est un rendez-vous gratuit avec une spécialiste en promotion de la santé, au Centre de santé et de mieux-être, pour t'aider à t'y retrouver dans les ressources, faire un plan de soins ou fixer des objectifs. Cette personne n'est pas une professionnelle médicale et ne pose pas de diagnostic. Le service est confidentiel et réservé aux étudiants de uOttawa ; tu peux t'y inscrire toi-même au 613-562-5777.",
+   "en": "It's a free appointment with a Health Promotion Specialist at the Student Health and Wellness Centre who helps you navigate resources, build a care plan or set goals. The specialist isn't a medical professional and doesn't diagnose. The service is confidential and only for uOttawa students; you can self-refer at 613-562-5777."
+  },
+  "sources": [
+   {
+    "label": "Programme d'éducation à la santé personnalisée",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/personalized-health-education-program"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-sept-piliers",
+  "category": "sante",
+  "keywords": [
+   "sept piliers",
+   "seven pillars",
+   "mieux-être",
+   "wellness",
+   "dimensions",
+   "bien-être",
+   "promotion de la santé"
+  ],
+  "question": {
+   "fr": "Que sont les sept piliers du mieux-être à uOttawa ?",
+   "en": "What are uOttawa's seven pillars of wellness?"
+  },
+  "answer": {
+   "fr": "À uOttawa, le mieux-être est vu comme un équilibre entre sept dimensions : émotionnelle, physique, sociale, intellectuelle, environnementale, financière et spirituelle. L'équipe de promotion de la santé t'accompagne dans chacune avec des ateliers, des ressources et le Salon du mieux-être.",
+   "en": "At uOttawa, wellness is seen as a balance between seven dimensions: emotional, physical, social, intellectual, environmental, financial and spiritual. The Health Promotion team supports you in each one through workshops, resources and the Wellness Lounge."
+  },
+  "sources": [
+   {
+    "label": "Coin éducation – Sept piliers du mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/7-pillars-wellness"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-pharmacie-tests-sang",
+  "category": "sante",
+  "keywords": [
+   "test sanguin",
+   "blood test",
+   "hba1c",
+   "cholestérol",
+   "lipid profile",
+   "pharmacie",
+   "pharmacy test",
+   "diabète"
+  ],
+  "question": {
+   "fr": "Est-ce que la pharmacie du campus fait des tests comme le cholestérol ?",
+   "en": "Does the campus pharmacy do tests like cholesterol?"
+  },
+  "answer": {
+   "fr": "Oui, la Clinique de soins pharmaceutiques Shoppers Drug Mart au Complexe Minto offre des tests : 35 $ pour un bilan lipidique et 25 $ pour l'HbA1c, selon sa page. Elle est au local N209, au 2e étage. Vérifie les tarifs à jour avant d'y aller.",
+   "en": "Yes, the Shoppers Drug Mart Pharmacy Care Clinic at the Minto Complex offers testing: $35 for a lipid profile and $25 for HbA1c, according to its page. It's in room N209, on the 2nd floor. Check current prices before you go."
+  },
+  "sources": [
+   {
+    "label": "Clinique de soins pharmaceutiques Shoppers Drug Mart",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/shoppers-drug-mart-pharmacy-care-clinic"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-pharmacie-fievre-jaune",
+  "category": "sante",
+  "keywords": [
+   "fièvre jaune",
+   "yellow fever",
+   "santé-voyage",
+   "travel health",
+   "malaria",
+   "vaccin voyage",
+   "certificat international",
+   "pharmacie"
+  ],
+  "question": {
+   "fr": "Où faire ma consultation santé-voyage avant de partir à l'étranger ?",
+   "en": "Where can I get a travel health consultation before going abroad?"
+  },
+  "answer": {
+   "fr": "La Clinique de soins pharmaceutiques du Complexe Minto offre des consultations santé-voyage : évaluation des vaccins selon ta destination, ordonnances préventives pour la malaria ou le mal de l'altitude, et vaccin contre la fièvre jaune avec certificat international de vaccination. Les frais varient selon tes besoins. Vérifie aussi avec ta faculté, qui pourrait couvrir certains coûts.",
+   "en": "The Pharmacy Care Clinic at the Minto Complex offers travel health consultations: a vaccine assessment for your destination, preventive prescriptions for malaria or altitude sickness, and yellow fever vaccination with the International Certificate of Vaccination. Fees vary with your needs. Also check with your faculty, which may cover some costs."
+  },
+  "sources": [
+   {
+    "label": "Clinique de soins pharmaceutiques Shoppers Drug Mart",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/shoppers-drug-mart-pharmacy-care-clinic"
+   },
+   {
+    "label": "FAQ – Centre de santé et de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-pharmacie-ramu-affection",
+  "category": "sante",
+  "keywords": [
+   "ramu",
+   "uhip",
+   "affection mineure",
+   "minor ailment",
+   "infection urinaire",
+   "pharmacien",
+   "hors province",
+   "19 $"
+  ],
+  "question": {
+   "fr": "J'ai le RAMU : le pharmacien du campus peut-il traiter une affection mineure ?",
+   "en": "I have UHIP: can the campus pharmacist treat a minor ailment?"
+  },
+  "answer": {
+   "fr": "Oui, mais l'évaluation d'une affection mineure, comme une infection urinaire ou une conjonctivite, est couverte seulement pour l'OHIP ; avec le RAMU ou une assurance d'une autre province, elle coûte 19 $ à la pharmacie. Tu peux aussi consulter au Centre de santé et de mieux-être, qui accepte ces assurances.",
+   "en": "Yes, but a minor ailment assessment, like a urinary tract infection or pink eye, is covered only for OHIP; with UHIP or an out-of-province plan, it costs $19 at the pharmacy. You can also go to the Student Health and Wellness Centre, which accepts these plans."
+  },
+  "sources": [
+   {
+    "label": "Clinique de soins pharmaceutiques Shoppers Drug Mart",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/shoppers-drug-mart-pharmacy-care-clinic"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-pharmacie-renouvellement",
+  "category": "sante",
+  "keywords": [
+   "remplir ordonnance",
+   "fill prescription",
+   "renouveler",
+   "renew prescription",
+   "pharmacie",
+   "frais 15 $",
+   "pharmacy fee"
+  ],
+  "question": {
+   "fr": "Combien coûte faire remplir ou renouveler une ordonnance à la pharmacie du campus ?",
+   "en": "How much does it cost to fill or renew a prescription at the campus pharmacy?"
+  },
+  "answer": {
+   "fr": "Selon la page de la Clinique de soins pharmaceutiques, remplir ou renouveler une ordonnance sans changement coûte 15 $. Les injections coûtent 20 $, sauf les vaccins contre la grippe et la COVID-19, qui sont gratuits. Ton assurance peut couvrir une partie de ces frais.",
+   "en": "According to the Pharmacy Care Clinic page, filling or renewing a prescription with no changes costs $15. Injections cost $20, except flu and COVID-19 vaccines, which are free. Your insurance may cover part of these fees."
+  },
+  "sources": [
+   {
+    "label": "Clinique de soins pharmaceutiques Shoppers Drug Mart",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/shoppers-drug-mart-pharmacy-care-clinic"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-pharmacie-public",
+  "category": "sante",
+  "keywords": [
+   "pharmacie publique",
+   "pharmacy public",
+   "pas étudiant",
+   "non-student",
+   "employé",
+   "staff",
+   "médicament sans ordonnance",
+   "over the counter"
+  ],
+  "question": {
+   "fr": "Je ne suis pas étudiant : puis-je utiliser la pharmacie du Complexe Minto ?",
+   "en": "I'm not a student: can I use the pharmacy at the Minto Complex?"
+  },
+  "answer": {
+   "fr": "Oui. Les conseils sur les médicaments en vente libre sont gratuits pour tout le monde : étudiants, professeurs, employés et grand public. Les autres services peuvent être couverts ou non par ton assurance ; sinon, tu les paies toi-même. La pharmacie est au local N209 du Complexe Minto, 613-788-2029.",
+   "en": "Yes. Advice on over-the-counter medications is free for everyone: students, faculty, staff and the general public. Other services may or may not be covered by your insurance; if not, you pay for them yourself. The pharmacy is in room N209 of the Minto Complex, 613-788-2029."
+  },
+  "sources": [
+   {
+    "label": "Clinique de soins pharmaceutiques Shoppers Drug Mart",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/shoppers-drug-mart-pharmacy-care-clinic"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-imagerie-attente",
+  "category": "sante",
+  "keywords": [
+   "irm",
+   "mri",
+   "scan",
+   "ct scan",
+   "tomodensitométrie",
+   "attente imagerie",
+   "imaging wait",
+   "radiologie"
+  ],
+  "question": {
+   "fr": "Combien de temps faut-il attendre pour une IRM ou un scan à Ottawa ?",
+   "en": "How long is the wait for an MRI or CT scan in Ottawa?"
+  },
+  "answer": {
+   "fr": "Selon la page de l'Université, l'attente pour une IRM peut aller de 4 jours à 4 mois, et de 1 jour à 6 mois pour un scan, selon tes besoins. Le gouvernement de l'Ontario publie les temps d'attente moyens par établissement. Demande s'il y a des plages le soir ou la fin de semaine, souvent plus disponibles.",
+   "en": "According to the University's page, the wait for an MRI can range from 4 days to 4 months, and from 1 day to 6 months for a CT scan, depending on your needs. The Government of Ontario publishes average wait times by location. Ask about evening or weekend slots, which are often more available."
+  },
+  "sources": [
+   {
+    "label": "Comprendre les temps d'attente",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/understanding-wait-times"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-conseils-reduire-attente",
+  "category": "sante",
+  "keywords": [
+   "réduire attente",
+   "reduce wait",
+   "liste d'annulation",
+   "cancellation list",
+   "attente soins",
+   "wait times tips",
+   "rendez-vous plus tôt"
+  ],
+  "question": {
+   "fr": "Comment avoir un rendez-vous médical plus vite ?",
+   "en": "How can I get a medical appointment sooner?"
+  },
+  "answer": {
+   "fr": "Demande s'il y a une liste d'attente ou d'annulation pour qu'on t'appelle si une place se libère. Sois flexible : les plages du soir, de nuit ou de fin de semaine sont souvent plus disponibles, surtout en imagerie. Si tu peux te déplacer, demande des spécialistes ou hôpitaux hors de ta région, et suis bien les consignes avant le rendez-vous pour éviter de le reporter.",
+   "en": "Ask if there's a wait or cancellation list so you're called if a spot opens. Be flexible: evening, night or weekend slots are often more available, especially for imaging. If you can travel, ask about specialists or hospitals outside your region, and follow pre-appointment instructions carefully to avoid rescheduling."
+  },
+  "sources": [
+   {
+    "label": "Comprendre les temps d'attente",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/understanding-wait-times"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-infirmiere-praticienne",
+  "category": "sante",
+  "keywords": [
+   "infirmière praticienne",
+   "nurse practitioner",
+   "ip",
+   "np",
+   "prescrire",
+   "prescribe",
+   "sans référence",
+   "no referral"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'une infirmière praticienne peut faire pour moi ?",
+   "en": "What can a nurse practitioner do for me?"
+  },
+  "answer": {
+   "fr": "Une infirmière praticienne joue un rôle semblable à celui d'un médecin : elle pose des diagnostics, prescrit des médicaments et des tests, et te réfère à des spécialistes. Elle peut aussi faire des points de suture et soigner des plaies. Pas besoin de référence pour en voir une, et il y en a au Centre de santé et de mieux-être.",
+   "en": "A nurse practitioner plays a role similar to a doctor's: they diagnose conditions, prescribe medications and tests, and refer you to specialists. They can also do stitches and wound care. You don't need a referral to see one, and there are some at the Student Health and Wellness Centre."
+  },
+  "sources": [
+   {
+    "label": "Professionnels de la santé 101",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-providers"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-un-medecin-par-province",
+  "category": "sante",
+  "keywords": [
+   "médecin de famille",
+   "family doctor",
+   "inscrit",
+   "rostered",
+   "une seule province",
+   "one per province",
+   "accès soins",
+   "health care connect"
+  ],
+  "question": {
+   "fr": "Puis-je être inscrit auprès de deux médecins de famille ?",
+   "en": "Can I be registered with two family doctors?"
+  },
+  "answer": {
+   "fr": "Non : au Canada, tu peux être inscrit auprès d'un seul médecin de famille par province. Pour en trouver un en Ontario, inscris-toi tôt à Accès Soins, car les listes d'attente sont longues. En attendant, si tu es étudiant inscrit, tu peux quand même consulter au Centre de santé et de mieux-être.",
+   "en": "No: in Canada, you can be registered with only one family doctor per province. To find one in Ontario, sign up early with Health Care Connect, since wait lists are long. Meanwhile, as an enrolled student you can still see someone at the Student Health and Wellness Centre."
+  },
+  "sources": [
+   {
+    "label": "Professionnels de la santé 101",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-providers"
+   },
+   {
+    "label": "FAQ – Centre de santé et de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/frequently-asked-questions"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-contraception-csme",
+  "category": "sante",
+  "keywords": [
+   "contraception",
+   "birth control",
+   "stérilet",
+   "iud",
+   "implant contraceptif",
+   "contraceptive implant",
+   "santé des femmes",
+   "women's health"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux avoir une consultation pour la contraception sur le campus ?",
+   "en": "Can I get a birth control consultation on campus?"
+  },
+  "answer": {
+   "fr": "Oui. Au Centre de santé et de mieux-être, des médecins en santé des femmes offrent des consultations en contraception, la pose d'implant contraceptif et la consultation et pose de stérilet. Une référence peut être nécessaire pour voir un médecin avec cette spécialité. Prends rendez-vous au 613-562-5777.",
+   "en": "Yes. At the Student Health and Wellness Centre, women's health physicians offer contraception consultations, contraceptive implant insertion, and IUD consultation and insertion. A referral may be needed to see a physician with this specialty. Book at 613-562-5777."
+  },
+  "sources": [
+   {
+    "label": "Professionnels de la santé 101",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-providers"
+   },
+   {
+    "label": "Soins de santé physique – Centre de santé",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/student-health-wellness-centre/physical-health"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-rhume-grippe-signes-graves",
+  "category": "sante",
+  "keywords": [
+   "rhume",
+   "cold",
+   "grippe",
+   "flu",
+   "symptômes",
+   "symptoms",
+   "difficulté à respirer",
+   "trouble breathing"
+  ],
+  "question": {
+   "fr": "J'ai le rhume ou la grippe : quand est-ce que c'est grave ?",
+   "en": "I have a cold or the flu: when is it serious?"
+  },
+  "answer": {
+   "fr": "La page de l'Université, qui n'est pas un avis médical, conseille de bien t'hydrater, te reposer, te laver les mains et éviter les visites, et de parler de médicaments en vente libre à un pharmacien. Appelle le 911, ou le Service de la protection au 613-562-5411 sur le campus, si tu as de la difficulté à respirer, une douleur à la poitrine qui ne cesse pas, de la confusion ou les lèvres bleutées. En cas de doute, appelle le 811.",
+   "en": "The University's page, which isn't medical advice, suggests staying hydrated, resting, washing your hands and avoiding visits, and asking a pharmacist about over-the-counter medication. Call 911, or Protection Services at 613-562-5411 on campus, if you have trouble breathing, non-stop chest pain, confusion or bluish lips. If unsure, call 811."
+  },
+  "sources": [
+   {
+    "label": "Soins de santé – Quand et où",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/health-care-when-and-where"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-assurance-ambulance",
+  "category": "sante",
+  "keywords": [
+   "ambulance",
+   "coût ambulance",
+   "ambulance cost",
+   "assurance",
+   "insurance",
+   "vitamine d",
+   "prise de sang non couverte",
+   "not covered"
+  ],
+  "question": {
+   "fr": "Est-ce que l'ambulance est couverte par mon assurance santé ?",
+   "en": "Is an ambulance covered by my health insurance?"
+  },
+  "answer": {
+   "fr": "La plupart des régimes de base ne couvrent pas l'ambulance : tu pourrais devoir la payer. Certains vaccins, comme celui du VPH ou de l'hépatite B, et certaines prises de sang, comme la vitamine D ou B12, ne sont pas couverts non plus par le régime de base. Ton régime complémentaire peut toutefois les couvrir, alors vérifie auprès de ton assureur.",
+   "en": "Most basic plans don't cover ambulances, so you might have to pay. Some vaccines, like HPV or hepatitis B, and some blood tests, like vitamin D or B12, aren't covered by the basic plan either. Your supplementary plan may cover them, so check with your insurer."
+  },
+  "sources": [
+   {
+    "label": "Assurance santé étudiante",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/insurance"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-assurance-changer-province",
+  "category": "sante",
+  "keywords": [
+   "changer de province",
+   "moving province",
+   "carte santé",
+   "health card",
+   "nouvelle province",
+   "ohip",
+   "ramq",
+   "trois mois"
+  ],
+  "question": {
+   "fr": "Je déménage en Ontario d'une autre province : que se passe-t-il avec ma carte santé ?",
+   "en": "I'm moving to Ontario from another province: what happens to my health card?"
+  },
+  "answer": {
+   "fr": "Si tu déménages d'une province à une autre, tu dois demander ta nouvelle carte santé dans les 3 mois pour garder une couverture continue ; pendant ce temps, ton ancienne province paie tes soins. Après 3 mois sans nouvelle carte, tu n'as plus de couverture provinciale. Si tu ne fais que visiter une autre province, ta carte reste valide pour recevoir des soins.",
+   "en": "If you move from one province to another, you need to apply for your new health card within 3 months to keep continuous coverage; meanwhile, your old province covers your care. After 3 months without a new card, you no longer have provincial coverage. If you're only visiting another province, your card still lets you receive care."
+  },
+  "sources": [
+   {
+    "label": "Assurance santé étudiante",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/insurance"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vaccin-grippe-campagne",
+  "category": "sante",
+  "keywords": [
+   "vaccin grippe",
+   "flu shot",
+   "flu vaccine",
+   "vaccination saisonnière",
+   "seasonal flu",
+   "pharmacie minto",
+   "sans rendez-vous"
+  ],
+  "question": {
+   "fr": "Quand et où puis-je recevoir le vaccin contre la grippe cette année ?",
+   "en": "When and where can I get the flu shot this year?"
+  },
+  "answer": {
+   "fr": "La campagne de vaccination contre la grippe a lieu du 26 octobre 2026 au 31 mars 2027, de 8 h à 16 h, à la pharmacie Shoppers Drug Mart du Complexe Minto, local N209. Tu peux y aller sans rendez-vous, mais les étudiants avec rendez-vous passent en priorité. Porte un chandail à manches courtes pour aller plus vite.",
+   "en": "The flu vaccine campaign runs from October 26, 2026, to March 31, 2027, from 8 a.m. to 4 p.m., at the Shoppers Drug Mart pharmacy in the Minto Complex, room N209. Walk-ins are welcome, but students with appointments get priority. Wear a short-sleeved shirt to make it quick."
+  },
+  "sources": [
+   {
+    "label": "Vaccin contre la grippe saisonnière – événement",
+    "url": "https://www.uottawa.ca/campus-life/events-all/seasonal-flu-vaccine"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-chien-therapie-vs-service",
+  "category": "sante",
+  "keywords": [
+   "chien de thérapie",
+   "therapy dog",
+   "chien d'assistance",
+   "service dog",
+   "différence",
+   "zoothérapie",
+   "animal"
+  ],
+  "question": {
+   "fr": "Quelle est la différence entre un chien de thérapie et un chien d'assistance ?",
+   "en": "What's the difference between a therapy dog and a service dog?"
+  },
+  "answer": {
+   "fr": "Un chien d'assistance est dressé pour aider une personne précise avec des tâches, par exemple guider une personne malvoyante. Un chien de thérapie, lui, est choisi pour rester calme pendant des visites encadrées avec beaucoup de gens, comme celles du Salon du mieux-être. Ses visites sur le campus sont organisées avec des organismes comme l'Ambulance Saint-Jean.",
+   "en": "A service dog is trained to perform tasks for a specific person, like guiding someone with a visual impairment. A therapy dog is chosen to stay calm during supervised visits with lots of people, like those at the Wellness Lounge. Campus visits are organized with groups such as St. John Ambulance."
+  },
+  "sources": [
+   {
+    "label": "Paws, pause, repeat – programme de chiens de thérapie",
+    "url": "https://www.uottawa.ca/campus-life/news-all/paws-pause-repeat-inside-uottawas-therapy-dog-program"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-centre-mieux-etre-musiciens",
+  "category": "sante",
+  "keywords": [
+   "musicien",
+   "musician",
+   "centre de mieux-être des musiciens",
+   "musician wellness centre",
+   "trac",
+   "performance anxiety",
+   "santé auditive",
+   "hearing"
+  ],
+  "question": {
+   "fr": "Y a-t-il des services de mieux-être pour les musiciens ?",
+   "en": "Are there wellness services for musicians?"
+  },
+  "answer": {
+   "fr": "Oui, le Centre de mieux-être des musiciens offre des ateliers, des événements, du coaching et des consultations cliniques conçus pour les musiciens. On y aborde la prévention et le traitement de la douleur, la santé auditive, l'anxiété de performance et la pleine conscience. Le centre publie ses activités sur Facebook.",
+   "en": "Yes, the Musician Wellness Centre offers workshops, events, coaching and clinical consultations designed for musicians. Topics include pain prevention and treatment, hearing health, performance anxiety and mindfulness. The centre posts its activities on Facebook."
+  },
+  "sources": [
+   {
+    "label": "Services complémentaires sur le campus",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/complementary-services"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-compass",
+  "category": "sante",
+  "keywords": [
+   "compass",
+   "initiative étudiante",
+   "student-led",
+   "mieux-être",
+   "wellness project",
+   "bien-être étudiant",
+   "s'inscrire"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que Compass ?",
+   "en": "What is Compass?"
+  },
+  "answer": {
+   "fr": "Compass est une initiative menée par des étudiants pour soutenir la santé mentale et le mieux-être des étudiants. Tu peux découvrir le projet et t'y inscrire à partir de la page des services complémentaires du Centre de santé et de mieux-être.",
+   "en": "Compass is a student-led initiative to support student mental health and wellness. You can learn about the project and sign up from the Student Health and Wellness Centre's complementary services page."
+  },
+  "sources": [
+   {
+    "label": "Services complémentaires sur le campus",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/complementary-services"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-inviter-equipe-mieux-etre",
+  "category": "sante",
+  "keywords": [
+   "inviter",
+   "invite",
+   "équipe mieux-être",
+   "student wellness team",
+   "présentation en classe",
+   "classroom presentation",
+   "kiosque",
+   "événement"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux inviter l'équipe du mieux-être à mon événement ou dans ma classe ?",
+   "en": "Can I invite the Student Wellness team to my event or class?"
+  },
+  "answer": {
+   "fr": "Oui. Remplis la demande de participation de l'équipe du mieux-être étudiant, sur la page des ressources fréquemment utilisées, pour l'inviter à ton événement ou dans une classe. Pour toute question, contacte le 613-562-5777.",
+   "en": "Yes. Fill out the Student Wellness participation request, on the frequently used resources page, to invite the team to your event or classroom. For questions, call 613-562-5777."
+  },
+  "sources": [
+   {
+    "label": "Ressources fréquemment utilisées – Santé et mieux-être",
+    "url": "https://uottawa.ca/campus-life/health-wellness/frequently-used-services"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-gestion-cas-signaler-etudiant",
+  "category": "sante",
+  "keywords": [
+   "professeur inquiet",
+   "worried about a student",
+   "signaler étudiant",
+   "refer a student",
+   "gestion de cas",
+   "case management",
+   "consultation"
+  ],
+  "question": {
+   "fr": "Je suis professeur ou employé et je m'inquiète pour un étudiant : à qui m'adresser ?",
+   "en": "I'm a professor or staff member worried about a student: who do I contact?"
+  },
+  "answer": {
+   "fr": "Si sa sécurité est menacée ou que c'est une urgence, appelle tout de suite le Service de la protection au 613-562-5411. Sinon, tu peux remplir le formulaire de référence à l'équipe de gestion de cas, idéalement en prévenant l'étudiant, ou le formulaire de consultation si tu n'es pas sûr que ce soit le bon service. Après une référence, l'équipe communique avec l'étudiant d'habitude dans les 3 jours ouvrables.",
+   "en": "If the student's safety is at risk or it's an emergency, call Protection Services right away at 613-562-5411. Otherwise, fill out the referral form for the Case Management team, ideally letting the student know, or the consultation form if you're unsure it's the right service. After a referral, the team usually reaches out within 3 business days."
+  },
+  "sources": [
+   {
+    "label": "Gestion de cas",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/case-management"
+   },
+   {
+    "label": "Comprendre les temps d'attente",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/understanding-wait-times"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-ateliers-mieux-etre-tirage",
+  "category": "evenements",
+  "keywords": [
+   "ateliers mieux-être",
+   "wellness workshops",
+   "tirage",
+   "prize draw",
+   "carte-cadeau",
+   "gift card",
+   "bingo",
+   "café mieux-être"
+  ],
+  "question": {
+   "fr": "Quels ateliers de mieux-être sont offerts, et y a-t-il des prix à gagner ?",
+   "en": "What wellness workshops are offered, and are there prizes?"
+  },
+  "answer": {
+   "fr": "Le programme de mieux-être par les pairs offre, de septembre à mars, des ateliers interactifs comme Art for the Heart, le bingo lumineux, des quiz sur la santé sexuelle et des cafés mieux-être. Si tu participes à au moins trois ateliers en 2026-2027, selon les feuilles de présence signées, tu cours la chance de gagner une des deux cartes-cadeaux Le Choix du Président de 100 $. Le calendrier est sur la page des ateliers.",
+   "en": "From September to March, the Peer Wellness Program offers interactive workshops such as Art for the Heart, glow bingo, sex-ed trivia and wellness cafés. If you attend at least three workshops in 2026-2027, as shown on signed attendance sheets, you're entered to win one of two $100 President's Choice gift cards. The calendar is on the workshops page."
+  },
+  "sources": [
+   {
+    "label": "Événements et ateliers de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-workshop-series"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-ateliers-sante-menstruelle",
+  "category": "evenements",
+  "keywords": [
+   "santé menstruelle",
+   "menstrual health",
+   "endométriose",
+   "endometriosis",
+   "sopk",
+   "pmos",
+   "atelier",
+   "workshop"
+  ],
+  "question": {
+   "fr": "Y a-t-il des ateliers sur la santé menstruelle ou l'endométriose ?",
+   "en": "Are there workshops on menstrual health or endometriosis?"
+  },
+  "answer": {
+   "fr": "Oui, l'équipe du mieux-être a offert à l'automne un atelier sur la santé menstruelle, le syndrome ovarien métabolique polyendocrinien et l'endométriose, ainsi qu'un atelier en deux parties sur les habitudes de vie pour gérer ces symptômes. Consulte le calendrier des ateliers de mieux-être pour les prochaines dates.",
+   "en": "Yes, this fall the Wellness team offered a workshop on menstrual health, polyendocrine metabolic ovarian syndrome and endometriosis, plus a two-part lifestyle workshop on managing those symptoms. Check the wellness workshops calendar for upcoming dates."
+  },
+  "sources": [
+   {
+    "label": "Événements et ateliers de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-workshop-series"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-ateliers-cuisine",
+  "category": "evenements",
+  "keywords": [
+   "atelier cuisine",
+   "cooking workshop",
+   "tasty techniques",
+   "pantry remix",
+   "cuisiner pas cher",
+   "budget cooking",
+   "snack box"
+  ],
+  "question": {
+   "fr": "Y a-t-il des ateliers de cuisine gratuits pour les étudiants ?",
+   "en": "Are there free cooking workshops for students?"
+  },
+  "answer": {
+   "fr": "Oui, l'équipe du mieux-être offre des ateliers gratuits pour bien manger avec un petit budget, et tu repars avec ce que tu cuisines. Par exemple, Tasty Techniques a lieu le 25 novembre 2026 à la résidence Friel et le 3 mars 2027 au CUO, et Pantry Remix le 19 janvier 2027 au Terminus du CUO. Certains ateliers demandent une inscription.",
+   "en": "Yes, the Wellness team offers free workshops on eating well on a budget, and you take home what you cook. For example, Tasty Techniques takes place November 25, 2026, at Friel Residence and March 3, 2027, at the UCU, and Pantry Remix on January 19, 2027, at the UCU Terminus. Some require registration."
+  },
+  "sources": [
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   },
+   {
+    "label": "Événements et ateliers de mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-workshop-series"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-evenements-salle-manger",
+  "category": "evenements",
+  "keywords": [
+   "événements salle à manger",
+   "dining hall events",
+   "soirée thématique",
+   "themed meals",
+   "cuisine internationale",
+   "chef",
+   "repas thématique"
+  ],
+  "question": {
+   "fr": "Est-ce qu'il y a des événements spéciaux à la Salle à manger ?",
+   "en": "Are there special events at the Dining Hall?"
+  },
+  "answer": {
+   "fr": "Oui, la Salle à manger organise plus de 70 événements pendant l'année universitaire : soirées de cuisine internationale, menus de chefs invités et célébrations saisonnières. Consulte la page des événements de la Salle à manger pour le calendrier.",
+   "en": "Yes, the Dining Hall hosts more than 70 events during the academic year: international cuisine nights, chef-inspired menus and seasonal celebrations. Check the Dining Hall events page for the calendar."
+  },
+  "sources": [
+   {
+    "label": "Événements de la Salle à manger",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/dining-hall/dining-hall-events"
+   },
+   {
+    "label": "Forfaits repas étudiants",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/meal-plan-options"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-match-fierte-volleyball",
+  "category": "evenements",
+  "keywords": [
+   "match de la fierté",
+   "pride game",
+   "volleyball féminin",
+   "women's volleyball",
+   "gee-gees",
+   "rmc",
+   "montpetit"
+  ],
+  "question": {
+   "fr": "C'est quoi le match de la fierté des Gee-Gees en volleyball ?",
+   "en": "What is the Gee-Gees volleyball Pride game?"
+  },
+  "answer": {
+   "fr": "C'est un match de l'équipe féminine de volleyball des Gee-Gees contre le Collège militaire royal du Canada, pour célébrer l'amour et l'inclusion. Il a lieu le 28 novembre 2026, de 15 h à 17 h, au pavillon Montpetit, avec la prestation d'un artiste local et des cadeaux. Les billets se prennent en ligne.",
+   "en": "It's a Gee-Gees women's volleyball game against the Royal Military College of Canada that celebrates love and inclusion. It takes place November 28, 2026, from 3 to 5 p.m., in Montpetit Hall, with a local artist's performance and giveaways. Tickets are available online."
+  },
+  "sources": [
+   {
+    "label": "Match de la fierté – volleyball féminin",
+    "url": "https://www.uottawa.ca/campus-life/events-all/gee-gees-womens-volleyball-pride-game"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-marche-payez-ce-que-vous-pouvez",
+  "category": "evenements",
+  "keywords": [
+   "payez ce que vous pouvez",
+   "pay what you can",
+   "marché",
+   "market",
+   "légumes",
+   "produce",
+   "sécurité alimentaire",
+   "pop-up"
+  ],
+  "question": {
+   "fr": "C'était quoi le marché « payez ce que vous pouvez » sur le campus ?",
+   "en": "What was the pay-what-you-can market on campus?"
+  },
+  "answer": {
+   "fr": "C'est le premier marché d'épicerie éphémère « payez ce que vous pouvez » de l'Université, tenu le 12 novembre 2026 au Carré universitaire. On suggérait un don de 5 $ pour un sac de fruits et légumes aux étudiants et de 20 $ au personnel ; l'argent est réinvesti dans la banque alimentaire de la SÉUO. C'est un projet pilote de la stratégie de sécurité alimentaire ; le Carrefour de soutien alimentaire annonce les prochains.",
+   "en": "It was the University's first pay-what-you-can grocery pop-up, held November 12, 2026, in University Square. Students were asked for a suggested $5 donation for a bag of produce and staff for $20; the money goes back into the UOSU Food Bank. It's a pilot under the food security strategy; the Food Support Hub lists upcoming ones."
+  },
+  "sources": [
+   {
+    "label": "Nouveau marché payez ce que vous pouvez",
+    "url": "https://www.uottawa.ca/campus-life/news-all/students-helping-students-new-pay-what-you-can-market-strengthens-food-security"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-collation-bagues-cadres-fleurs",
+  "category": "evenements",
+  "keywords": [
+   "bague",
+   "ring",
+   "cadre diplôme",
+   "diploma frame",
+   "fleurs",
+   "flowers",
+   "collation des grades",
+   "convocation day"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux acheter une bague ou un cadre pour mon diplôme le jour de la collation ?",
+   "en": "Can I buy a ring or diploma frame on convocation day?"
+  },
+  "answer": {
+   "fr": "Oui, le Bureau des relations avec les diplômés vend les bagues officielles de l'Université et des cadres pour diplômes le jour de la collation des grades. Des bouquets de fleurs sont aussi vendus au Centre Rogers Ottawa le jour même.",
+   "en": "Yes, the Alumni Relations Office sells official University rings and diploma frames on convocation day. Flower bouquets are also sold at Rogers Centre Ottawa that day."
+  },
+  "sources": [
+   {
+    "label": "Le jour de la cérémonie – collation des grades",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-collation-deroulement",
+  "category": "evenements",
+  "keywords": [
+   "déroulement collation",
+   "convocation ceremony order",
+   "ordre de remise",
+   "phd",
+   "maîtrise",
+   "durée cérémonie",
+   "how long convocation"
+  ],
+  "question": {
+   "fr": "Comment se déroule la cérémonie de collation des grades ?",
+   "en": "How does the convocation ceremony unfold?"
+  },
+  "answer": {
+   "fr": "La cérémonie dure environ 2 h à 2 h 30 : discours d'ouverture, puis les diplômés traversent la scène dans l'ordre assigné, en commençant par les doctorats, puis les maîtrises et le premier cycle. Après la scène, tu passes en coulisses pour une photo et ton diplôme, puis tu retournes dans la salle jusqu'à la fin. Reste dans l'ordre où on t'a placé pour que ton nom soit lu correctement.",
+   "en": "The ceremony lasts about 2 to 2.5 hours: opening remarks, then graduates cross the stage in their assigned order, starting with PhDs, then master's and undergraduate degrees. After the stage, you go backstage for a photo and your diploma, then return to the hall until the end. Stay in the order you were placed so your name is read correctly."
+  },
+  "sources": [
+   {
+    "label": "Le jour de la cérémonie – collation des grades",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-doctorats-honorifiques",
+  "category": "evenements",
+  "keywords": [
+   "doctorat honorifique",
+   "honorary doctorate",
+   "honoris causa",
+   "collation",
+   "distinction",
+   "convocation honour"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qu'un doctorat honorifique ?",
+   "en": "What is an honorary doctorate?"
+  },
+  "answer": {
+   "fr": "C'est une distinction universitaire spéciale que l'Université décerne à des personnes dont les réalisations personnelles et professionnelles ont beaucoup apporté à l'Université, à leur discipline ou à la société. Les récipiendaires sont honorés lors des cérémonies de collation des grades et présentés sur la page de la cérémonie.",
+   "en": "It's a special academic distinction the University awards to people whose personal and professional achievements have made an invaluable contribution to the University, their field or society. Recipients are honoured during convocation ceremonies and listed on the ceremony page."
+  },
+  "sources": [
+   {
+    "label": "Le jour de la cérémonie – collation des grades",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-collation-photographe-personnel",
+  "category": "evenements",
+  "keywords": [
+   "photographe personnel",
+   "personal photographer",
+   "photos invités",
+   "guest photos",
+   "collation",
+   "prendre des photos",
+   "convocation pictures"
+  ],
+  "question": {
+   "fr": "Mes invités peuvent-ils prendre des photos pendant la collation, ou amener un photographe ?",
+   "en": "Can my guests take photos during convocation, or bring a photographer?"
+  },
+  "answer": {
+   "fr": "Les invités peuvent prendre des photos de leur siège en tout temps, et s'approcher du cordon à l'avant quand les diplômés sont appelés. Par contre, les photographes personnels ne sont pas permis pendant la cérémonie. Des photographes professionnels de PhotoGrad sont sur place, et la cérémonie est diffusée en direct sur YouTube.",
+   "en": "Guests can take photos from their seats at any time, and approach the rope at the front when graduates are called. However, personal photographers aren't allowed during the ceremony. Professional PhotoGrad photographers are on site, and the ceremony is livestreamed on YouTube."
+  },
+  "sources": [
+   {
+    "label": "Le jour de la cérémonie – collation des grades",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-collation-hebergement",
+  "category": "evenements",
+  "keywords": [
+   "hébergement collation",
+   "convocation accommodation",
+   "résidence invités",
+   "family stay",
+   "dormir",
+   "where to stay convocation",
+   "chambre"
+  ],
+  "question": {
+   "fr": "Où ma famille peut-elle dormir pour ma collation des grades ?",
+   "en": "Where can my family stay for my convocation?"
+  },
+  "answer": {
+   "fr": "Les résidences de l'Université offrent de l'hébergement pour les diplômés et leurs invités pendant la période de collation du printemps. Réserve ta chambre sur le site des résidences. Le jour même, le plus simple pour se rendre au Centre Rogers Ottawa est le train léger jusqu'à la station Rideau.",
+   "en": "University residences offer accommodation for graduates and their guests during the spring convocation period. Book your room on the residences website. On the day, the easiest way to reach Rogers Centre Ottawa is the LRT to Rideau Station."
+  },
+  "sources": [
+   {
+    "label": "Le jour de la cérémonie – collation des grades",
+    "url": "https://www.uottawa.ca/study/obtain-your-degree/day-ceremony"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-irc-evenements",
+  "category": "evenements",
+  "keywords": [
+   "gala autochtone",
+   "indigenous student gala",
+   "journée d'orientation autochtone",
+   "indigenous orientation day",
+   "mashkawazìwogamig",
+   "événements autochtones",
+   "dîners étudiants"
+  ],
+  "question": {
+   "fr": "Quels événements organise le Centre de ressources autochtones ?",
+   "en": "What events does the Indigenous Resource Centre hold?"
+  },
+  "answer": {
+   "fr": "Mashkawazìwogamig organise notamment le Gala annuel des étudiants autochtones, des dîners étudiants et des ateliers, ainsi qu'une Journée d'orientation des étudiants autochtones pour faciliter ton arrivée. Le jeudi, de septembre à avril, un dîner soupe et bannique est offert à tous les étudiants au 145, privé Séraphin-Marion. Inscris-toi au centre pour recevoir les annonces.",
+   "en": "Mashkawazìwogamig holds the Annual Indigenous Student Gala, student lunches and workshops, plus an Indigenous Student Orientation Day to ease your transition. On Thursdays, from September to April, a soup and bannock lunch is open to all students at 145 Séraphin-Marion. Register with the centre to get announcements."
+  },
+  "sources": [
+   {
+    "label": "Centre de ressources autochtones Mashkawazìwogamig",
+    "url": "https://www.uottawa.ca/about-us/indigenous/indigenous-resource-centre"
+   },
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-salle-manger-regles-entree",
+  "category": "services",
+  "keywords": [
+   "salle à manger",
+   "dining hall",
+   "prix à la porte",
+   "door rate",
+   "entre deux repas",
+   "between meals",
+   "trois heures",
+   "argent comptant"
+  ],
+  "question": {
+   "fr": "Combien de temps je peux rester à la Salle à manger si je paie à la porte ?",
+   "en": "How long can I stay at the Dining Hall if I pay at the door?"
+  },
+  "answer": {
+   "fr": "Le prix à la porte est valide pour une période de repas ou jusqu'à trois heures, avec accès à toutes les stations. Si tu entres entre deux périodes, c'est le tarif du repas suivant qui s'applique. Si tu paies comptant, l'entrée est possible jusqu'à 22 h 30, car la Salle ferme à 23 h. Les tarifs sont affichés sur la page de la Salle à manger.",
+   "en": "The door rate is valid for one meal period or up to three hours, with access to all stations. If you come in between meal periods, the upcoming meal's rate applies. If you pay cash, entry is until 10:30 p.m., since the hall closes at 11 p.m. Rates are posted on the Dining Hall page."
+  },
+  "sources": [
+   {
+    "label": "Salle à manger – uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/dining-hall"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-salle-manger-enfants",
+  "category": "services",
+  "keywords": [
+   "enfants",
+   "kids",
+   "famille",
+   "family",
+   "salle à manger",
+   "dining hall",
+   "rabais 50 %",
+   "diplômés",
+   "alumni"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux amener mes enfants à la Salle à manger ?",
+   "en": "Can I bring my kids to the Dining Hall?"
+  },
+  "answer": {
+   "fr": "Oui, tout le monde est bienvenu, et les enfants de 5 ans et moins ont 50 % de rabais sur le prix à la porte. Les employés doivent montrer leur carte d'employé pour avoir le tarif de la communauté universitaire, et les diplômés leur carte de membre de l'Association des diplômés.",
+   "en": "Yes, everyone is welcome, and kids 5 and under get 50% off the door rate. Employees need to show their employee card to get the University community rate, and alumni their Alumni Association membership card."
+  },
+  "sources": [
+   {
+    "label": "Salle à manger – uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/dining-hall"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-boite-repas",
+  "category": "services",
+  "keywords": [
+   "boîte-repas",
+   "boxed lunch",
+   "lunch à emporter",
+   "stage",
+   "placement",
+   "longues journées de cours",
+   "forfait repas"
+  ],
+  "question": {
+   "fr": "J'ai un forfait repas mais des cours toute la journée : est-ce que je peux avoir un lunch à emporter ?",
+   "en": "I have a meal plan but classes all day: can I get a boxed lunch?"
+  },
+  "answer": {
+   "fr": "Oui, si tu as un forfait de 5 ou 7 jours et cinq heures de cours consécutives ou plus, ou un stage hors campus, tu es admissible au programme de boîtes-repas. Inscris-toi par courriel avec une preuve, comme ton horaire, puis commande avant midi la veille. Ton lunch t'attend aux caisses de la Salle à manger à partir de 7 h.",
+   "en": "Yes, if you have a 5- or 7-day plan and five or more consecutive hours of classes, or an off-campus placement, you qualify for the boxed lunch program. Register by email with proof, like your schedule, then order by noon the day before. Your lunch is ready at the Dining Hall cashiers any time after 7 a.m."
+  },
+  "sources": [
+   {
+    "label": "Forfaits repas étudiants",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/meal-plan-options"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-dining-dollars-fin-session",
+  "category": "services",
+  "keywords": [
+   "dollars repas",
+   "dining dollars",
+   "dollars flex",
+   "flex dollars",
+   "fin de session",
+   "end of term",
+   "conversion",
+   "solde restant"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qui arrive à mes dollars repas qui restent à la fin de la session ?",
+   "en": "What happens to my leftover Dining dollars at the end of the term?"
+  },
+  "answer": {
+   "fr": "Les dollars repas inutilisés sont convertis en dollars Flex, moins les taxes applicables et des frais d'administration de 26 $. Les dollars Flex, eux, se reportent d'une année à l'autre sans frais. Attention : après six ans d'inactivité du compte, les fonds restants deviennent la propriété de l'Université.",
+   "en": "Unused Dining dollars are converted to Flex dollars, minus applicable taxes and a $26 admin fee. Flex dollars carry over from year to year with no fees. Note that after six years of account inactivity, the remaining funds become the University's property."
+  },
+  "sources": [
+   {
+    "label": "Forfaits repas étudiants",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/meal-plan-options"
+   },
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-dining-dollars-taxe",
+  "category": "services",
+  "keywords": [
+   "dollars repas",
+   "dining dollars",
+   "sans taxe",
+   "tax-free",
+   "économiser",
+   "save 13%",
+   "forfait repas",
+   "tvh"
+  ],
+  "question": {
+   "fr": "Est-ce que les dollars repas me font économiser les taxes ?",
+   "en": "Do Dining dollars save me tax?"
+  },
+  "answer": {
+   "fr": "Oui. Les dollars repas sont une monnaie sans taxe : tu évites la taxe de 13 % sur la nourriture préparée sur le campus, dans plus de 20 points de vente. Avec le forfait à la carte, tu peux aussi payer le tarif de la porte de la Salle à manger avec tes dollars repas et sauver la taxe. Les dollars repas sont réservés aux détenteurs d'un forfait.",
+   "en": "Yes. Dining dollars are tax-free: you avoid the 13% tax on food prepared on campus at more than 20 locations. With the pay-as-you-go plan, you can also use them to pay the Dining Hall door rate and skip the tax. Dining dollars are only for meal plan holders."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-exemption-forfait-obligatoire",
+  "category": "services",
+  "keywords": [
+   "exemption forfait repas",
+   "meal plan exemption",
+   "allergies",
+   "casher",
+   "kosher",
+   "diététiste",
+   "dietitian",
+   "résidence obligatoire"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux être exempté du forfait repas obligatoire en résidence ?",
+   "en": "Can I be exempted from the mandatory residence meal plan?"
+  },
+  "answer": {
+   "fr": "Seulement pour trois raisons : plusieurs allergies que le programme de restrictions alimentaires ne peut pas accommoder, des raisons religieuses comme une diète casher, ou une diète prescrite par un médecin que les Services alimentaires ne peuvent pas offrir. Contacte d'abord la diététiste ; le traitement peut prendre jusqu'à dix jours ouvrables et n'est pas garanti. Si c'est accepté, tu es remboursé à partir de la date où ton accès a pris fin.",
+   "en": "Only for three reasons: multiple food allergies the Dietary Restrictions Program can't accommodate, religious reasons like a kosher diet, or a physician-prescribed diet Food Services can't provide. Contact the dietitian first; processing can take up to ten business days and isn't guaranteed. If approved, you're refunded from the date your access ended."
+  },
+  "sources": [
+   {
+    "label": "Forfaits repas étudiants",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/meal-plan-options"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-programme-restrictions-alimentaires",
+  "category": "services",
+  "keywords": [
+   "allergie",
+   "allergy",
+   "maladie cœliaque",
+   "celiac",
+   "sans arachides",
+   "nut-free",
+   "restrictions alimentaires",
+   "dietary restrictions program"
+  ],
+  "question": {
+   "fr": "J'ai une allergie alimentaire ou la maladie cœliaque : comment manger en sécurité à la Salle à manger ?",
+   "en": "I have a food allergy or celiac disease: how can I eat safely at the Dining Hall?"
+  },
+  "answer": {
+   "fr": "Inscris-toi au programme de restrictions alimentaires si tu as un forfait de 5 ou 7 jours : les repas sont préparés dans une cuisine séparée, sans arachides ni noix, et une diététiste révise les recettes. Tu reçois un formulaire de commande le mardi matin et tu commandes avant le mercredi midi. Tes repas, identifiés à ton nom, t'attendent dans les frigos de la station My Pantry.",
+   "en": "Join the Dietary Restrictions Program if you have a 5- or 7-day plan: meals are made in a separate kitchen with no peanuts or tree nuts, and a dietitian reviews the recipes. You get an order form Tuesday mornings and order by noon Wednesday. Your meals, labelled with your name, wait for you in the My Pantry station fridges."
+  },
+  "sources": [
+   {
+    "label": "Restrictions alimentaires et allergies",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/dietary-restrictions"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-paniers-cadeaux",
+  "category": "services",
+  "keywords": [
+   "panier-cadeau",
+   "care package",
+   "colis",
+   "gâteau d'anniversaire",
+   "birthday cake",
+   "première moisson",
+   "cadeau étudiant",
+   "gift"
+  ],
+  "question": {
+   "fr": "Comment envoyer un panier-cadeau à un étudiant sur le campus ?",
+   "en": "How can I send a care package to a student on campus?"
+  },
+  "answer": {
+   "fr": "Les Services alimentaires offrent des paniers-cadeaux préparés par Première Moisson, comme le combo anniversaire avec gâteau personnalisé ou le combo gourmandises. Remplis le formulaire de commande en ligne ; on te rappellera pour le paiement, et la personne viendra chercher son cadeau chez Première Moisson. Les prix sont indiqués sur la page des paniers.",
+   "en": "Food Services offers care packages made by Première Moisson, such as the birthday combo with a personalized cake or the sweet tooth combo. Fill out the online order form; you'll be called for payment, and the recipient picks up the gift at Première Moisson. Prices are listed on the care packages page."
+  },
+  "sources": [
+   {
+    "label": "Paniers-cadeaux – Services alimentaires",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/care-packages"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-commentaires-services-alimentaires",
+  "category": "services",
+  "keywords": [
+   "plainte nourriture",
+   "food complaint",
+   "commentaires",
+   "feedback",
+   "salle à manger",
+   "text n tell",
+   "restaurant campus",
+   "services alimentaires"
+  ],
+  "question": {
+   "fr": "Comment faire une plainte ou un commentaire sur la nourriture du campus ?",
+   "en": "How do I complain or give feedback about campus food?"
+  },
+  "answer": {
+   "fr": "Tu peux parler directement aux chefs ou aux gérants de salle, utiliser Text 'n Tell dans la Salle à manger, remplir le formulaire de commentaires en ligne ou laisser un message au 613-562-5800, poste 2075. Le formulaire te permet de choisir le point de service visé et le sujet, comme la propreté, le prix ou le bilinguisme, et d'ajouter une photo.",
+   "en": "You can talk directly to the chefs or floor managers, use Text 'n Tell in the Dining Hall, fill out the online feedback form or leave a voicemail at 613-562-5800, ext. 2075. The form lets you pick the location and the topic, like cleanliness, price or bilingualism, and add a photo."
+  },
+  "sources": [
+   {
+    "label": "Commentaires – Services alimentaires",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/feedback"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-food-lounge-gee-gees",
+  "category": "services",
+  "keywords": [
+   "athlètes",
+   "student athletes",
+   "gee-gees food lounge",
+   "repas gratuits",
+   "free meals",
+   "minto",
+   "cuisine commune"
+  ],
+  "question": {
+   "fr": "Y a-t-il du soutien alimentaire pour les athlètes des Gee-Gees ?",
+   "en": "Is there food support for Gee-Gees athletes?"
+  },
+  "answer": {
+   "fr": "Oui, le Gee-Gees Food Lounge, au Complexe sportif Minto, est un espace réservé aux étudiants-athlètes. On y trouve des repas gratuits, de la cuisine en groupe, des ateliers de cuisine et un lieu pour socialiser, chaque semaine.",
+   "en": "Yes, the Gee-Gees Food Lounge at the Minto Sports Complex is a space for student athletes. It offers free meals, communal cooking, cooking workshops and a place to socialize, every week."
+  },
+  "sources": [
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-meal-friel",
+  "category": "services",
+  "keywords": [
+   "meal@friel",
+   "résidence friel",
+   "repas communautaire",
+   "community meal",
+   "repas chaud",
+   "hot meal",
+   "st. alban"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que Meal@Friel ?",
+   "en": "What is Meal@Friel?"
+  },
+  "answer": {
+   "fr": "Ce sont des repas communautaires chauds offerts aux étudiants de la résidence Friel, au 240, rue Friel, en partenariat avec l'église St. Alban's. C'est sans inscription, toutes les deux semaines.",
+   "en": "It's hot community meals for students living in Friel residence, at 240 Friel Street, in partnership with St. Alban's Church. It's drop-in, every two weeks."
+  },
+  "sources": [
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-paysages-comestibles",
+  "category": "services",
+  "keywords": [
+   "arbres fruitiers",
+   "fruit trees",
+   "paysages comestibles",
+   "edible landscapes",
+   "bleuets",
+   "pommes",
+   "pollinisateurs",
+   "cueillir"
+  ],
+  "question": {
+   "fr": "Est-ce vrai qu'on peut cueillir des fruits sur le campus ?",
+   "en": "Is it true you can pick fruit on campus?"
+  },
+  "answer": {
+   "fr": "Oui ! Des arbustes et arbres fruitiers, comme des pommiers, des poiriers, des camerisiers et des bleuetiers, ont été plantés pour la communauté. On les trouve notamment devant le pavillon Lamoureux, près de l'entrée de la Salle à manger du CUO et près de la bibliothèque Morisset, de la fin mai à octobre, sans inscription.",
+   "en": "Yes! Fruit bushes and trees, like apple, pear, haskap and blueberry, were planted for the community. You'll find them in front of Lamoureux Hall, near the UCU Dining Hall entrance and near Morisset Library, from late May to October, no sign-up needed."
+  },
+  "sources": [
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   },
+   {
+    "label": "uOttawa takes a fruitful leap forward",
+    "url": "https://www.uottawa.ca/campus-life/news-all/uottawa-takes-fruitful-leap-forward"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-cuisinette-deja-vu",
+  "category": "services",
+  "keywords": [
+   "cuisinette",
+   "kitchenette",
+   "déjà vu",
+   "cuisiner sur le campus",
+   "cook on campus",
+   "fed up",
+   "séuo"
+  ],
+  "question": {
+   "fr": "Y a-t-il un endroit sur le campus où je peux cuisiner ?",
+   "en": "Is there a place on campus where I can cook?"
+  },
+  "answer": {
+   "fr": "Oui, dans le cadre de la campagne Fed Up de la SÉUO, les étudiants peuvent louer gratuitement la cuisinette du Déjà Vu. La campagne offre aussi un repas chaud gratuit pendant les examens finaux, avec l'église St. Albans, et un kiosque de légumes gratuits à la bibliothèque Morisset pendant les examens d'hiver.",
+   "en": "Yes, through UOSU's Fed Up campaign, students can rent the Deja Vu kitchenette for free. The campaign also offers a free hot meal during final exams, with St. Albans Church, and a free produce stand in Morisset Library during winter exams."
+  },
+  "sources": [
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-aide-alimentaire-gatineau",
+  "category": "services",
+  "keywords": [
+   "gatineau",
+   "banque alimentaire",
+   "food bank",
+   "aide alimentaire",
+   "centre en sécurité alimentaire",
+   "rue guay",
+   "outaouais"
+  ],
+  "question": {
+   "fr": "J'habite à Gatineau : où trouver de l'aide alimentaire d'urgence ?",
+   "en": "I live in Gatineau: where can I find emergency food help?"
+  },
+  "answer": {
+   "fr": "Le Centre en sécurité alimentaire de Gatineau, au 176, rue Guay, offre de l'aide alimentaire d'urgence une fois par mois aux résidents de Gatineau. Prends rendez-vous par appel ou texto au 873-376-2724, ou présente-toi en personne avec une pièce d'identité et une preuve d'adresse. Tu peux aussi chercher par adresse sur le site de Moisson Outaouais.",
+   "en": "The Centre en sécurité alimentaire de Gatineau, at 176 rue Guay, offers emergency food assistance once a month to Gatineau residents. Book by calling or texting 873-376-2724, or go in person with ID and proof of address. You can also search by address on Moisson Outaouais's website."
+  },
+  "sources": [
+   {
+    "label": "Carrefour de soutien alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/food-support"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-salle-manger-verte",
+  "category": "services",
+  "keywords": [
+   "restaurant vert",
+   "green restaurant",
+   "certification",
+   "4 étoiles",
+   "4-star",
+   "salle à manger écologique",
+   "durabilité"
+  ],
+  "question": {
+   "fr": "Est-ce que la Salle à manger est écologique ?",
+   "en": "Is the Dining Hall eco-friendly?"
+  },
+  "answer": {
+   "fr": "Oui, depuis 2023, c'est la première salle à manger universitaire au Canada certifiée Restaurant vert 4 étoiles. La Green Restaurant Association évalue l'eau et l'énergie, les déchets et les produits jetables, l'approvisionnement durable et les produits de nettoyage. Sa conception zéro déchet a réduit les emballages pour emporter de près d'un million d'articles par année.",
+   "en": "Yes, since 2023 it's been Canada's first 4-star Certified Green university dining hall. The Green Restaurant Association assesses water and energy use, waste and disposables, sustainable sourcing and cleaning products. Its zero-waste design cut take-out packaging by nearly a million items a year."
+  },
+  "sources": [
+   {
+    "label": "Durabilité alimentaire sur le campus",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/food-sustainability-zero-waste"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-ustensiles-reutilisables",
+  "category": "services",
+  "keywords": [
+   "ustensiles",
+   "cutlery",
+   "fourchette",
+   "utensils",
+   "plastique",
+   "single-use plastic",
+   "bois",
+   "ustensiles gee-gees"
+  ],
+  "question": {
+   "fr": "Pourquoi il n'y a pas d'ustensiles en plastique sur le campus ?",
+   "en": "Why aren't there plastic utensils on campus?"
+  },
+  "answer": {
+   "fr": "Pour respecter l'interdiction fédérale des plastiques à usage unique, le campus a réduit les ustensiles jetables. Des ustensiles en bois compostables sont offerts sur demande au comptoir, avec un supplément de 25 cents. Tu peux aussi acheter les ustensiles réutilisables en acier inoxydable des Gee-Gees pour 5,99 $ plus taxes, par exemple au Go Café de Lamoureux ou chez Paramount au CRX.",
+   "en": "To follow the federal ban on single-use plastics, the campus cut back on disposable utensils. Compostable wooden ones are available on request at the counter for a 25-cent surcharge. You can also buy Gee-Gees reusable stainless steel cutlery for $5.99 plus tax, for example at Go Café in Lamoureux or Paramount in CRX."
+  },
+  "sources": [
+   {
+    "label": "Durabilité alimentaire sur le campus",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/food-sustainability-zero-waste"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-friendlier",
+  "category": "services",
+  "keywords": [
+   "friendlier",
+   "contenant réutilisable",
+   "reusable container",
+   "consigne",
+   "deposit",
+   "50 cents",
+   "zéro déchet",
+   "retour contenant"
+  ],
+  "question": {
+   "fr": "Comment fonctionnent les contenants Friendlier ?",
+   "en": "How do Friendlier containers work?"
+  },
+  "answer": {
+   "fr": "Dans les comptoirs participants, comme les Go Café, Paramount ou Elements, ton repas dans un contenant Friendlier inclut une consigne de 50 cents. Scanne le contenant avec l'application Friendlier, vide les restes et dépose-le dans un bac de retour ; ta consigne revient dans l'application, ce qui peut prendre jusqu'à deux semaines. Pas besoin de le laver, et sans téléphone, tu peux réclamer sur le site de Friendlier.",
+   "en": "At participating counters, like Go Café, Paramount or Elements, a meal in a Friendlier container includes a 50-cent deposit. Scan the container with the Friendlier app, scrape out leftovers and drop it in a return bin; your deposit comes back in the app, which can take up to two weeks. No need to wash it, and without a phone you can claim it on Friendlier's website."
+  },
+  "sources": [
+   {
+    "label": "Friendlier – Services alimentaires",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/friendlier"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-reduction-dechets-alimentaires",
+  "category": "services",
+  "keywords": [
+   "déchets",
+   "waste reduction",
+   "styromousse",
+   "styrofoam",
+   "huile de cuisson",
+   "biocarburant",
+   "compost",
+   "eau embouteillée"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que les Services alimentaires font pour réduire les déchets ?",
+   "en": "What does Food Services do to reduce waste?"
+  },
+  "answer": {
+   "fr": "Toute l'huile de cuisson usée est transformée en biocarburant, et les emballages en styromousse sont interdits sur tout le campus. uOttawa a été la première université ontarienne à interdire la vente d'eau embouteillée, et les restes de production alimentaire sont compostés. Il y a aussi le programme de tasses réutilisables, avec un rabais de 10 cents sur ta boisson.",
+   "en": "All used cooking oil is turned into biofuel, and Styrofoam food packaging is banned campus-wide. uOttawa was the first Ontario university to ban bottled water sales, and food production scraps are composted. There's also the reusable cup program, with 10 cents off your drink."
+  },
+  "sources": [
+   {
+    "label": "Durabilité alimentaire sur le campus",
+    "url": "https://www.uottawa.ca/campus-life/eat-campus/food-sustainability-zero-waste"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-strategie-securite-alimentaire",
+  "category": "services",
+  "keywords": [
+   "sécurité alimentaire",
+   "food security",
+   "stratégie",
+   "strategy",
+   "insécurité alimentaire",
+   "food insecurity",
+   "paniers",
+   "hampers"
+  ],
+  "question": {
+   "fr": "Qu'est-ce que la stratégie de sécurité alimentaire de l'Université ?",
+   "en": "What is the University's food security strategy?"
+  },
+  "answer": {
+   "fr": "C'est un plan de cinq ans de uOttawa, de la SÉUO et de la GSAÉD pour améliorer l'accès à la nourriture. La première année prévoit entre autres 2 685 repas chauds de plus aux campus Lees et Roger-Guindon, 2 200 sacs de légumes de plus et 377 paniers de plus à la banque alimentaire de la SÉUO. Selon l'enquête canadienne sur le bien-être sur les campus de 2025, 42 % des étudiants de uOttawa vivent une forme d'insécurité alimentaire.",
+   "en": "It's a five-year plan by uOttawa, UOSU and GSAÉD to improve access to food. Year one includes 2,685 extra hot meals at the Lees and Roger Guindon campuses, 2,200 more produce bags and 377 more hampers at the UOSU Food Bank. According to the 2025 Canadian Campus Wellbeing Survey, 42% of uOttawa students experience some degree of food insecurity."
+  },
+  "sources": [
+   {
+    "label": "Stratégie de sécurité alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/food-security-strategy"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-aider-insecurite-alimentaire",
+  "category": "services",
+  "keywords": [
+   "faire un don",
+   "donate",
+   "fonds d'accès alimentaire",
+   "food access fund",
+   "mardi je donne",
+   "giving tuesday",
+   "denrées non périssables",
+   "aider"
+  ],
+  "question": {
+   "fr": "Comment aider les étudiants qui manquent de nourriture ?",
+   "en": "How can I help students who don't have enough food?"
+  },
+  "answer": {
+   "fr": "Tu peux donner au Fonds d'accès alimentaire de uOttawa, présenté sur la page de la stratégie de sécurité alimentaire. Le 1er décembre, la campagne Mardi je donne de l'Université vise l'insécurité alimentaire, et tu peux aussi donner des denrées non périssables. Les marchés « payez ce que vous pouvez » financent aussi la banque alimentaire de la SÉUO.",
+   "en": "You can donate to the uOttawa Food Access Fund, featured on the food security strategy page. On December 1, the University's Giving Tuesday drive focuses on food insecurity, and you can also donate non-perishable food. Pay-what-you-can markets also fund the UOSU Food Bank."
+  },
+  "sources": [
+   {
+    "label": "Stratégie de sécurité alimentaire",
+    "url": "https://www.uottawa.ca/campus-life/food-security-strategy"
+   },
+   {
+    "label": "The Gee – bulletin étudiant",
+    "url": "https://www.uottawa.ca/campus-life/the-gee"
+   },
+   {
+    "label": "Nouveau marché payez ce que vous pouvez",
+    "url": "https://www.uottawa.ca/campus-life/news-all/students-helping-students-new-pay-what-you-can-market-strengthens-food-security"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-free-food-alert-cueillette",
+  "category": "services",
+  "keywords": [
+   "free food alert",
+   "nourriture gratuite",
+   "free food",
+   "restes d'événements",
+   "leftovers",
+   "contenant",
+   "hôte",
+   "host"
+  ],
+  "question": {
+   "fr": "Comment je récupère la nourriture annoncée par Free Food Alert ?",
+   "en": "How do I pick up food announced on Free Food Alert?"
+  },
+  "answer": {
+   "fr": "Inscris-toi avec ton adresse @uOttawa.ca : tu reçois une notification dans l'application et un courriel quand il reste de la nourriture après un événement. Tu as un délai limité, fixé par l'hôte, pour aller la chercher, et tu dois apporter ton propre contenant, thermos ou tasse. Les professeurs et employés peuvent aussi devenir hôtes et envoyer des alertes après leurs événements.",
+   "en": "Sign up with your @uOttawa.ca address: you'll get an app notification and an email when food is left over after an event. You have a limited window, set by the host, to pick it up, and you must bring your own container, thermos or mug. Professors and staff can also become hosts and send alerts after their events."
+  },
+  "sources": [
+   {
+    "label": "Lancement de Free Food Alert",
+    "url": "https://www.uottawa.ca/campus-life/news-all/free-food-alert-launch"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-utilisations",
+  "category": "services",
+  "keywords": [
+   "carte étudiante",
+   "student card",
+   "à quoi sert",
+   "what is it for",
+   "uottawa card",
+   "carte bibliothèque",
+   "clé résidence",
+   "carleton"
+  ],
+  "question": {
+   "fr": "À quoi sert ma carte étudiante uOttawa ?",
+   "en": "What is my uOttawa student card used for?"
+  },
+  "answer": {
+   "fr": "C'est ta pièce d'identité officielle, aussi exigée aux examens et au Centre de santé. Elle sert de clé pour les résidences, les labos et certaines classes, de carte d'accès aux installations sportives, de U-Pass et de carte de forfait repas. C'est aussi ta carte de bibliothèque, valide pour emprunter aux bibliothèques affiliées de Carleton et de l'Université Saint-Paul.",
+   "en": "It's your official ID, also required at exams and at the Health Centre. It's your key card for residences, labs and some classrooms, your sports facility pass, your U-Pass and your meal plan card. It's also your library card, valid for borrowing at the affiliated Carleton and Saint Paul University libraries."
+  },
+  "sources": [
+   {
+    "label": "Carte étudiante uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/student-card"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-photo-exigences",
+  "category": "services",
+  "keywords": [
+   "photo carte étudiante",
+   "student card photo",
+   "exigences photo",
+   "photo requirements",
+   "lunettes",
+   "glasses",
+   "photo refusée",
+   "rejected photo"
+  ],
+  "question": {
+   "fr": "Quelles sont les exigences pour la photo de ma carte étudiante ?",
+   "en": "What are the requirements for my student card photo?"
+  },
+  "answer": {
+   "fr": "Elles ressemblent à celles d'une photo de passeport : photo récente de moins de six mois, en couleur, sans filtre, sur fond blanc ou gris pâle, le visage centré et rien qui le touche. Pas de lunettes de soleil ni de couvre-chef, sauf les couvre-chefs religieux qui laissent tout le visage visible ; les lunettes teintées sur ordonnance sont permises si on voit tes yeux. Une photo non conforme est refusée et retarde ta carte.",
+   "en": "They mirror passport photo rules: a photo taken in the last six months, in colour, no filters, on a plain white or light grey background, face centred with nothing touching it. No sunglasses or headgear, except religious head coverings that keep your full face visible; tinted prescription glasses are fine if your eyes show. A photo that doesn't comply is rejected and delays your card."
+  },
+  "sources": [
+   {
+    "label": "Obtenir une carte étudiante uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/student-card/get-student-card"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-photo-voile",
+  "category": "services",
+  "keywords": [
+   "voile",
+   "veil",
+   "niqab",
+   "photo carte",
+   "student card photo",
+   "employée femme",
+   "female employee",
+   "infoservice"
+  ],
+  "question": {
+   "fr": "Je porte un voile qui cache une partie de mon visage : comment faire ma photo de carte étudiante ?",
+   "en": "I wear a veil that covers part of my face: how do I get my student card photo?"
+  },
+  "answer": {
+   "fr": "Tu peux contacter InfoService pour être photographiée sans ton voile par une employée, avant l'ouverture d'InfoService à 9 h. Les couvre-chefs religieux sont acceptés sur la photo s'ils laissent tout le visage visible.",
+   "en": "You can contact InfoService to arrange to be photographed without your veil by a female employee, before InfoService opens at 9 a.m. Religious head coverings are accepted in the photo if your full face is visible."
+  },
+  "sources": [
+   {
+    "label": "Obtenir une carte étudiante uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/student-card/get-student-card"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-pieces-identite",
+  "category": "services",
+  "keywords": [
+   "pièce d'identité",
+   "id",
+   "récupérer carte",
+   "pick up card",
+   "passeport",
+   "permis de conduire",
+   "carte de statut",
+   "acceptée"
+  ],
+  "question": {
+   "fr": "Quelle pièce d'identité je dois apporter pour récupérer ma carte étudiante ?",
+   "en": "What ID do I need to pick up my student card?"
+  },
+  "answer": {
+   "fr": "Une pièce d'identité valide émise par un gouvernement, par exemple un passeport, une carte NEXUS, un permis de conduire, une carte de statut indien, une carte de résident permanent, un certificat de citoyenneté ou un certificat de naissance. Les cartes de crédit et les autres pièces ne sont pas acceptées. Va au Service de la carte uOttawa, 90, privé Université, local 145.",
+   "en": "Valid government-issued ID, such as a passport, NEXUS card, driver's licence, Indian Status Card, permanent resident card, citizenship certificate or birth certificate. Credit cards and other IDs aren't accepted. Go to the uOttawa Card Service, 90 University Private, room 145."
+  },
+  "sources": [
+   {
+    "label": "Obtenir une carte étudiante uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/student-card/get-student-card"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-bornes-recharge",
+  "category": "services",
+  "keywords": [
+   "borne de rechargement",
+   "card loader",
+   "ajouter des fonds",
+   "add funds",
+   "dollars flex",
+   "recharger carte",
+   "carte visiteur",
+   "discover uottawa"
+  ],
+  "question": {
+   "fr": "Où sont les bornes pour ajouter de l'argent sur ma carte uOttawa ?",
+   "en": "Where are the machines to add money to my uOttawa card?"
+  },
+  "answer": {
+   "fr": "Il y a des bornes au pavillon Morisset (1er étage), au pavillon Fauteux (4e étage, bibliothèque), au pavillon Lamoureux (bibliothèque, local 203), au pavillon Tabaret (InfoService, local 129), dans le hall du 90 Université et à la bibliothèque de Roger-Guindon. Tape ta carte, paie par Visa, Mastercard ou Interac Flash, puis tape ta carte de nouveau. Tu peux aussi y acheter une carte visiteur Discover uOttawa pour 3 $.",
+   "en": "Card loaders are in Morisset Hall (1st floor), Fauteux Hall (4th floor library), Lamoureux Hall (library, room 203), Tabaret Hall (InfoService, room 129), the 90 University lobby and the Roger Guindon library. Tap your card, pay by Visa, Mastercard or Interac Flash, then tap again. You can also buy a Discover uOttawa visitor card there for $3."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-depot-en-ligne",
+  "category": "services",
+  "keywords": [
+   "dépôt en ligne",
+   "online deposit",
+   "ajouter argent",
+   "add money",
+   "minimum",
+   "interac",
+   "portail carte",
+   "uoaccess"
+  ],
+  "question": {
+   "fr": "Comment ajouter de l'argent en ligne sur ma carte uOttawa ?",
+   "en": "How do I add money online to my uOttawa card?"
+  },
+  "answer": {
+   "fr": "Connecte-toi au portail de la carte uOttawa avec ton identifiant uoAccès et ton mot de passe. Tu peux payer par Visa, Mastercard ou virement Interac en ligne, avec certaines banques comme BMO, TD, RBC et Banque Scotia. Le dépôt minimum est de 26 $.",
+   "en": "Log in to the uOttawa Card portal with your uoAccess ID and password. You can pay by Visa, Mastercard or Interac online transfer with certain banks, like BMO, TD, RBC and Scotiabank. The minimum deposit is $26."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-parents",
+  "category": "services",
+  "keywords": [
+   "parents",
+   "ajouter des fonds",
+   "add funds",
+   "carte de mon enfant",
+   "dependant's card",
+   "dollars flex",
+   "accès parent",
+   "parent access"
+  ],
+  "question": {
+   "fr": "Mes parents peuvent-ils mettre de l'argent sur ma carte uOttawa ?",
+   "en": "Can my parents put money on my uOttawa card?"
+  },
+  "answer": {
+   "fr": "Oui. Avec l'accès parent du portail en ligne, ils se connectent avec ton numéro d'étudiant et ton nom de famille. Ils peuvent ajouter des fonds, mais pas voir tes transactions ni désactiver ta carte.",
+   "en": "Yes. With parent access in the online portal, they log in using your student number and last name. They can add funds, but they can't see your transactions or deactivate your card."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-contester-transaction",
+  "category": "services",
+  "keywords": [
+   "contester",
+   "dispute",
+   "transaction non autorisée",
+   "unauthorized charge",
+   "carte uottawa",
+   "erreur de paiement",
+   "remboursement"
+  ],
+  "question": {
+   "fr": "Je vois une transaction que je n'ai pas faite sur ma carte uOttawa : que faire ?",
+   "en": "I see a transaction I didn't make on my uOttawa card: what do I do?"
+  },
+  "answer": {
+   "fr": "Essaie d'abord de régler le problème directement avec le commerce ou le service concerné. Si ça ne marche pas, avise le Service de la carte uOttawa en personne dans les 30 jours suivant la transaction ; chaque contestation est traitée au cas par cas. Si ta carte a été perdue ou volée, désactive-la tout de suite en ligne.",
+   "en": "First try to settle it directly with the vendor or service involved. If that doesn't work, notify the uOttawa Card Service in person within 30 days of the transaction; each dispute is handled case by case. If your card was lost or stolen, deactivate it online right away."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-remboursement-flex",
+  "category": "services",
+  "keywords": [
+   "remboursement",
+   "refund",
+   "dollars flex",
+   "flex dollars",
+   "forfait repas",
+   "meal plan refund",
+   "formulaire",
+   "argent sur la carte"
+  ],
+  "question": {
+   "fr": "Comment me faire rembourser l'argent qui reste sur ma carte uOttawa ?",
+   "en": "How do I get a refund for money left on my uOttawa card?"
+  },
+  "answer": {
+   "fr": "Remplis le formulaire de remboursement pour les dollars Flex ou le forfait repas, après avoir vérifié ton admissibilité dans l'entente du titulaire de carte, aux sections 9 et 15. Une demande ne garantit pas le remboursement. Sinon, tes dollars Flex se reportent d'année en année sans frais.",
+   "en": "Fill out the refund form for Flex dollars or a meal plan, after checking your eligibility in the cardholder agreement, sections 9 and 15. Submitting a request doesn't guarantee approval. Otherwise, your Flex dollars carry over from year to year with no fees."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-paiement-comptoir",
+  "category": "services",
+  "keywords": [
+   "argent comptant",
+   "cash",
+   "service de la carte",
+   "card service",
+   "paiement",
+   "chèque certifié",
+   "mandat",
+   "money order"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux payer comptant au Service de la carte uOttawa ?",
+   "en": "Can I pay cash at the uOttawa Card Service?"
+  },
+  "answer": {
+   "fr": "Non, le Service de la carte n'accepte pas l'argent comptant. Au comptoir, tu peux payer par carte de crédit Visa ou Mastercard, par Interac, ou par chèque certifié ou mandat en dollars canadiens, à l'ordre de « uOttawa Card Service ». Le bureau est au 90, privé Université, local 145.",
+   "en": "No, the Card Service doesn't accept cash. At the counter, you can pay by Visa or Mastercard, Interac, or a certified cheque or money order in Canadian dollars made out to \"uOttawa Card Service\". The office is at 90 University Private, room 145."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-carte-heures-ete",
+  "category": "services",
+  "keywords": [
+   "heures d'été",
+   "summer hours",
+   "service de la carte",
+   "card service",
+   "u-pass bureau",
+   "heures d'ouverture",
+   "opening hours",
+   "90 université"
+  ],
+  "question": {
+   "fr": "Quelles sont les heures du Service de la carte uOttawa l'été ?",
+   "en": "What are the uOttawa Card Service's summer hours?"
+  },
+  "answer": {
+   "fr": "Du 11 mai au 7 août 2026, le Service de la carte était ouvert du lundi au vendredi, de 9 h à 15 h 30. Du 10 août 2026 au 10 mai 2027, c'est de 9 h à 16 h 30, du lundi au vendredi. Les heures changent chaque année, alors vérifie la page avant de te déplacer.",
+   "en": "From May 11 to August 7, 2026, the Card Service was open Monday to Friday, 9 a.m. to 3:30 p.m. From August 10, 2026, to May 10, 2027, it's 9 a.m. to 4:30 p.m., Monday to Friday. Hours change each year, so check the page before you go."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-flex-ou-utiliser",
+  "category": "services",
+  "keywords": [
+   "dollars flex",
+   "flex dollars",
+   "où utiliser",
+   "where to use",
+   "buanderie",
+   "laundry",
+   "distributrices",
+   "vending machines"
+  ],
+  "question": {
+   "fr": "Où est-ce que je peux utiliser mes dollars Flex ?",
+   "en": "Where can I use my Flex dollars?"
+  },
+  "answer": {
+   "fr": "Partout sur le campus où la carte est acceptée : Salle à manger, kiosques alimentaires, distributrices, buanderies des résidences, Librairie du campus, docUcentre, impression et photocopies. Tu peux même payer des documents officiels et des frais de retard. Il n'y a aucuns frais bancaires, et tu profites des caisses express à la Librairie et à la Salle à manger.",
+   "en": "Anywhere on campus the card is accepted: the Dining Hall, food kiosks, vending machines, residence laundry, the Campus Bookstore, docUcentre, printing and photocopying. You can even pay for official documents and late fees. There are no banking fees, and you get express checkout at the Bookstore and Dining Hall."
+  },
+  "sources": [
+   {
+    "label": "Gérer le compte de la carte uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/uottawa-card/manage-uottawa-card-account"
+   },
+   {
+    "label": "Carte étudiante uOttawa",
+    "url": "https://www.uottawa.ca/campus-life/student-card"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-irc-inscription",
+  "category": "services",
+  "keywords": [
+   "s'identifier autochtone",
+   "identify as indigenous",
+   "inscription centre autochtone",
+   "register irc",
+   "premières nations",
+   "inuit",
+   "métis",
+   "liste d'envoi"
+  ],
+  "question": {
+   "fr": "Comment m'inscrire au Centre de ressources autochtones ?",
+   "en": "How do I register with the Indigenous Resource Centre?"
+  },
+  "answer": {
+   "fr": "Si tu t'identifies comme membre des Premières Nations, Inuit ou Métis, inscris-toi en personne au centre Mashkawazìwogamig, au 145, privé Séraphin-Marion, ou écris-lui pour t'identifier. Tu seras ajouté à la liste d'envoi pour les événements, les offres d'emploi et les dates limites de bourses. Les visites sans rendez-vous sont bienvenues, ou prends rendez-vous au 613-562-5800, poste 4529.",
+   "en": "If you identify as First Nations, Inuit or Métis, register in person at Mashkawazìwogamig, 145 Séraphin-Marion Private, or email the centre to identify. You'll be added to the mailing list for events, job postings and scholarship deadlines. Walk-ins are welcome, or book an appointment at 613-562-5800, ext. 4529."
+  },
+  "sources": [
+   {
+    "label": "Centre de ressources autochtones Mashkawazìwogamig",
+    "url": "https://www.uottawa.ca/about-us/indigenous/indigenous-resource-centre"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-irc-services",
+  "category": "services",
+  "keywords": [
+   "aîné",
+   "elder",
+   "gardien du savoir",
+   "knowledge keeper",
+   "aide juridique",
+   "legal advice",
+   "labo informatique",
+   "computer lab"
+  ],
+  "question": {
+   "fr": "Quels services offre le Centre de ressources autochtones ?",
+   "en": "What services does the Indigenous Resource Centre offer?"
+  },
+  "answer": {
+   "fr": "Une fois inscrit, tu as accès à de l'orientation scolaire et personnelle, du soutien par les pairs, du mentorat par des étudiants autochtones plus avancés et des offres d'emploi. Tu peux rencontrer un aîné ou un gardien du savoir traditionnel, seul ou en groupe. Le centre offre aussi des références juridiques gratuites par la Clinique juridique communautaire, et des postes d'étude, un labo informatique et une imprimante.",
+   "en": "Once registered, you get academic and personal guidance, peer support, mentoring by upper-year Indigenous students and job postings. You can meet an Elder or traditional knowledge keeper, individually or in a group. The centre also offers free legal referrals through the Community Legal Clinic, plus study stations, a computer lab and a printer."
+  },
+  "sources": [
+   {
+    "label": "Centre de ressources autochtones Mashkawazìwogamig",
+    "url": "https://www.uottawa.ca/about-us/indigenous/indigenous-resource-centre"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-irc-nom-histoire",
+  "category": "services",
+  "keywords": [
+   "mashkawazìwogamig",
+   "signification",
+   "meaning",
+   "lieu de force",
+   "place of strength",
+   "kitigan zibi",
+   "histoire centre autochtone"
+  ],
+  "question": {
+   "fr": "Que veut dire Mashkawazìwogamig ?",
+   "en": "What does Mashkawazìwogamig mean?"
+  },
+  "answer": {
+   "fr": "Mashkawazìwogamig signifie « Lieu de force ». C'est le nom offert en 2018 au Centre de ressources autochtones par le Cercle des aînés de Kitigan Zibi. Le centre a été créé en 1997, sous le nom de Centre de ressources autochtones, et se trouve au 145, privé Séraphin-Marion depuis l'été 2021.",
+   "en": "Mashkawazìwogamig means \"Place of Strength\". The name was gifted to the Indigenous Resource Centre in 2018 by the Kitigan Zibi Elders Circle. The centre was created in 1997, then called the Aboriginal Resource Centre, and has been at 145 Séraphin-Marion Private since summer 2021."
+  },
+  "sources": [
+   {
+    "label": "Centre de ressources autochtones Mashkawazìwogamig",
+    "url": "https://www.uottawa.ca/about-us/indigenous/indigenous-resource-centre"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-sto-fidelite",
+  "category": "transport",
+  "keywords": [
+   "sto",
+   "fidélité",
+   "laissez-passer annuel",
+   "annual pass",
+   "gatineau",
+   "retenue salariale",
+   "payroll deduction",
+   "employés"
+  ],
+  "question": {
+   "fr": "Je suis employé : puis-je payer mon laissez-passer de la STO par retenue sur la paie ?",
+   "en": "I'm an employee: can I pay for my STO pass through payroll deduction?"
+  },
+  "answer": {
+   "fr": "Non, la STO n'offre plus la retenue sur la paie depuis le 1er mars 2020. Elle a été remplacée par le programme FIDÉLITÉ, un abonnement annuel qui donne 10 % de rabais sur les laissez-passer mensuels, prélevés directement dans ton compte bancaire. Les détails sont sur le site de la STO.",
+   "en": "No, the STO stopped offering payroll deduction on March 1, 2020. It was replaced by the FIDÉLITÉ Program, an annual pass with a 10% discount on monthly passes, taken directly from your bank account. Details are on the STO website."
+  },
+  "sources": [
+   {
+    "label": "Transport alternatif – Stationnement",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/alternative-transportation"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-recharge-ve-regles",
+  "category": "transport",
+  "keywords": [
+   "borne de recharge",
+   "ev charging",
+   "connecteur",
+   "j1772",
+   "flo",
+   "limite de temps",
+   "time limit",
+   "voiture électrique"
+  ],
+  "question": {
+   "fr": "Ai-je besoin de l'application flo pour recharger ma voiture électrique au campus ?",
+   "en": "Do I need the flo app to charge my electric car on campus?"
+  },
+  "answer": {
+   "fr": "Non : même si les bornes de niveau 2 sont de marque flo, tu paies uniquement avec l'application HotSpot, avec le code inscrit sur l'affiche bleue. Les bornes ont des connecteurs J1772 ; apporte ton adaptateur au besoin. Il n'y a pas de limite de temps, mais le supplément horaire n'a pas de maximum quotidien, alors une fois ta recharge finie, déplace-toi vers une place ordinaire.",
+   "en": "No: even though the Level 2 stations are flo-branded, you pay only with the HotSpot app, using the code on the blue sign. The stations have J1772 connectors; bring your own adapter if needed. There's no time limit, but the hourly surcharge has no daily maximum, so once you're charged, move to a regular spot."
+  },
+  "sources": [
+   {
+    "label": "Recharge de véhicules électriques",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/electric-vehicle-charging"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-stationnement-prepaye",
+  "category": "transport",
+  "keywords": [
+   "prépayer stationnement",
+   "prepay parking",
+   "hotspot",
+   "place garantie",
+   "guaranteed spot",
+   "stationnement journalier",
+   "daily parking",
+   "complet"
+  ],
+  "question": {
+   "fr": "Si je paie mon stationnement à l'avance avec HotSpot, ma place est-elle garantie ?",
+   "en": "If I prepay parking with HotSpot, is my spot guaranteed?"
+  },
+  "answer": {
+   "fr": "Non. Tu peux prépayer le stationnement journalier dans HotSpot, mais ça ne garantit pas qu'il y aura une place à ton arrivée, et l'Université n'est pas responsable si tu as payé sans trouver de place. Il est donc fortement recommandé d'attendre d'avoir trouvé une place avant de payer.",
+   "en": "No. You can prepay daily parking in HotSpot, but it doesn't guarantee a space when you arrive, and the University isn't responsible if you paid and found no spot. It's strongly recommended to wait until you've found a space before paying."
+  },
+  "sources": [
+   {
+    "label": "Stationnement journalier – non-détenteurs de permis",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/daily-parking-non-permit-holders"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-stationnement-responsabilite",
+  "category": "transport",
+  "keywords": [
+   "voiture volée",
+   "car stolen",
+   "dommages véhicule",
+   "vehicle damage",
+   "responsabilité",
+   "liability",
+   "stationnement",
+   "vol dans auto"
+  ],
+  "question": {
+   "fr": "Si ma voiture est endommagée ou volée dans un stationnement du campus, l'Université est-elle responsable ?",
+   "en": "If my car is damaged or stolen in a campus lot, is the University responsible?"
+  },
+  "answer": {
+   "fr": "Non, le Bureau du stationnement n'assume aucune responsabilité pour les dommages ou le vol de véhicules et de leur contenu sur le campus. Signale tout vol au Service de la protection au 613-562-5499, ou au 613-562-5411 en urgence.",
+   "en": "No, the Parking Office assumes no responsibility for damage to, or theft of, vehicles and their contents on campus. Report any theft to Protection Services at 613-562-5499, or 613-562-5411 in an emergency."
+  },
+  "sources": [
+   {
+    "label": "Règlements – Stationnement",
+    "url": "https://www.uottawa.ca/about-us/parking/regulations"
+   },
+   {
+    "label": "Service de la protection – uOttawa",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/protection"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-stationnement-infractions-multiples",
+  "category": "transport",
+  "keywords": [
+   "plusieurs contraventions",
+   "multiple tickets",
+   "remorquage",
+   "towing",
+   "avis de courtoisie",
+   "courtesy notice",
+   "privilèges de stationnement",
+   "agents de patrouille"
+  ],
+  "question": {
+   "fr": "Qu'est-ce qui arrive si j'accumule les contraventions de stationnement sur le campus ?",
+   "en": "What happens if I keep getting parking tickets on campus?"
+  },
+  "answer": {
+   "fr": "Le Bureau donne souvent un avis de courtoisie plutôt qu'une contravention, sauf pour les infractions graves, comme une place accessible sans permis. Mais les personnes qui cumulent les infractions perdent leurs privilèges de stationnement sur le campus, et leur véhicule est remorqué à leurs frais. Les agents de patrouille sont autorisés par la Ville d'Ottawa à émettre des contraventions municipales.",
+   "en": "The Office often issues a courtesy notice instead of a ticket, except for serious violations like using an accessible spot without a permit. But people with multiple infractions lose their campus parking privileges, and their vehicle is towed at their expense. Patrol officers are deputized by the City of Ottawa to issue City tickets."
+  },
+  "sources": [
+   {
+    "label": "Contester une contravention",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/appeal-ticket"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-permis-revente",
+  "category": "transport",
+  "keywords": [
+   "revendre permis",
+   "resell permit",
+   "transférer permis",
+   "transfer permit",
+   "permis de stationnement",
+   "événements spéciaux",
+   "special events",
+   "règlements"
+  ],
+  "question": {
+   "fr": "Est-ce que je peux revendre mon permis de stationnement à quelqu'un ?",
+   "en": "Can I resell my parking permit to someone?"
+  },
+  "answer": {
+   "fr": "Non. Les permis de stationnement appartiennent à l'Université et seuls le Bureau du stationnement et du transport durable peut les vendre ou les transférer. Le Bureau peut aussi modifier temporairement les règles de stationnement lors d'événements spéciaux. Pour toute question, appelle le 613-562-5800, poste 3807.",
+   "en": "No. Parking permits are University property, and only the Parking and Sustainable Transportation Office can sell or transfer them. The Office can also temporarily change parking rules for special events. For questions, call 613-562-5800, ext. 3807."
+  },
+  "sources": [
+   {
+    "label": "Règlements – Stationnement",
+    "url": "https://www.uottawa.ca/about-us/parking/regulations"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-navette-pleine-septembre",
+  "category": "transport",
+  "keywords": [
+   "navette pleine",
+   "shuttle full",
+   "septembre",
+   "roger-guindon",
+   "attendre",
+   "heure de pointe",
+   "rush hour",
+   "navette"
+  ],
+  "question": {
+   "fr": "La navette vers Roger-Guindon est pleine : c'est normal ?",
+   "en": "The shuttle to Roger Guindon is full: is that normal?"
+  },
+  "answer": {
+   "fr": "Oui, surtout pendant les premières semaines de septembre, de 8 h à 9 h 30 et de midi à 14 h : tu pourrais devoir attendre la navette suivante, habituellement 30 minutes plus tard. L'embarquement se fait selon le principe du premier arrivé, premier servi. Tu peux aussi prendre le transport en commun avec ton U-Pass, en planifiant ton trajet sur le site d'OC Transpo.",
+   "en": "Yes, especially during the first weeks of September, from 8 to 9:30 a.m. and noon to 2 p.m.: you may have to wait for the next shuttle, usually 30 minutes later. Boarding is first come, first served. You can also take transit with your U-Pass, planning your route on the OC Transpo website."
+  },
+  "sources": [
+   {
+    "label": "Navette – Stationnement et transport durable",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/shuttle-bus"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-covoit-capitaine",
+  "category": "transport",
+  "keywords": [
+   "capitaine covoiturage",
+   "carpool captain",
+   "groupe de covoiturage",
+   "carpool group",
+   "permis covoiturage",
+   "responsabilités",
+   "remboursement annuel"
+  ],
+  "question": {
+   "fr": "Quel est le rôle du capitaine d'un groupe de covoiturage ?",
+   "en": "What does a carpool group's captain do?"
+  },
+  "answer": {
+   "fr": "Le capitaine est la personne-ressource du groupe auprès du Bureau du transport durable. Il reçoit et paie le permis de covoiturage, perçoit les frais du groupe, s'assure que le permis est affiché et partage équitablement le remboursement annuel. Il doit aussi signaler un permis perdu et, si le groupe se dissout, rendre le permis dans le mois qui suit.",
+   "en": "The captain is the group's main contact with the Sustainable Transportation Office. They receive and pay for the carpool permit, collect the group's fees, make sure the permit is displayed and fairly share the annual rebate. They must also report a lost permit and, if the group dissolves, return the permit within one month."
+  },
+  "sources": [
+   {
+    "label": "Covoiturage – Stationnement",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/carpooling"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-covoit-essai-occasionnel",
+  "category": "transport",
+  "keywords": [
+   "essayer covoiturage",
+   "try carpooling",
+   "trois mois",
+   "three months",
+   "permis journalier occasionnel",
+   "occasional day permit",
+   "remboursement",
+   "brooks mann"
+  ],
+  "question": {
+   "fr": "Si je me joins à un covoiturage, est-ce que je perds mon ancien permis de stationnement ?",
+   "en": "If I join a carpool, do I lose my old parking permit?"
+  },
+  "answer": {
+   "fr": "Non, tu peux essayer le covoiturage jusqu'à trois mois sans perdre ton ancien permis si tu décides de reconduire seul. Et si tu dois parfois venir sans ton groupe, le stationnement aux garages Brooks ou Mann t'est remboursé jusqu'à 17,50 $ par fois, deux fois par session, avec le formulaire de réclamation et ton reçu original.",
+   "en": "No, you can try carpooling for up to three months without losing your old permit if you decide to drive alone again. And if you occasionally have to come without your group, parking at Brooks or Mann garage is reimbursed up to $17.50 per occasion, twice per session, with the claim form and your original receipt."
+  },
+  "sources": [
+   {
+    "label": "Covoiturage – Stationnement",
+    "url": "https://www.uottawa.ca/about-us/administration-services/office-chief-risk-officer/parking/carpooling"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-moins-18-ans",
+  "category": "sante",
+  "keywords": [
+   "moins de 18 ans",
+   "under 18",
+   "cheo",
+   "agression sexuelle mineur",
+   "sexual assault minor",
+   "adolescent",
+   "violence sexuelle"
+  ],
+  "question": {
+   "fr": "J'ai moins de 18 ans et j'ai subi une agression sexuelle : où trouver des soins ?",
+   "en": "I'm under 18 and was sexually assaulted: where can I get care?"
+  },
+  "answer": {
+   "fr": "Le programme d'aide aux victimes d'agression sexuelle du CHEO, l'hôpital pour enfants de l'Est de l'Ontario, soutient les patients de moins de 18 ans et leur famille. Son équipe d'infirmières, de travailleurs sociaux et de médecins d'urgence offre des soins et du soutien psychosocial. Sur le campus, le Bureau des droits de la personne peut aussi t'accompagner au 613-562-5222 ; en danger, compose le 911.",
+   "en": "The sexual assault program at CHEO, the Children's Hospital of Eastern Ontario, supports patients under 18 and their families. Its team of nurses, social workers and emergency doctors provides care and psychosocial support. On campus, the Human Rights Office can also help at 613-562-5222; if you're in danger, call 911."
+  },
+  "sources": [
+   {
+    "label": "Ressources sur le campus, hors campus et en ligne – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-hommes-survivants",
+  "category": "sante",
+  "keywords": [
+   "homme survivant",
+   "male survivor",
+   "hommes",
+   "men",
+   "violence sexuelle",
+   "sexual abuse",
+   "men & healing",
+   "cfs ottawa"
+  ],
+  "question": {
+   "fr": "Je suis un homme et j'ai subi de la violence sexuelle : y a-t-il des ressources pour moi ?",
+   "en": "I'm a man who experienced sexual violence: are there resources for me?"
+  },
+  "answer": {
+   "fr": "Oui. Men & Healing offre du soutien spécialisé aux hommes ayant subi des abus sexuels ou physiques dans l'enfance, en thérapie individuelle ou en groupe. Le Service à la famille et counselling d'Ottawa offre aussi gratuitement du counselling aux victimes d'abus sexuels, hommes et femmes. Le Bureau des droits de la personne de l'Université soutient tout le monde, au 613-562-5222.",
+   "en": "Yes. Men & Healing offers specialized support to men who experienced childhood sexual or physical abuse, through individual or group therapy. Counselling and Family Services Ottawa also offers free counselling for victims of sexual abuse, men and women. The University's Human Rights Office supports everyone, at 613-562-5222."
+  },
+  "sources": [
+   {
+    "label": "Ressources sur le campus, hors campus et en ligne – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-protection-decision",
+  "category": "sante",
+  "keywords": [
+   "signaler sans poursuivre",
+   "report without pursuing",
+   "service de la protection",
+   "rapport",
+   "violence sexuelle",
+   "sexual violence report",
+   "ma décision"
+  ],
+  "question": {
+   "fr": "Si je parle au Service de la protection d'une violence sexuelle, suis-je obligé de porter plainte ?",
+   "en": "If I talk to Protection Services about sexual violence, do I have to press charges?"
+  },
+  "answer": {
+   "fr": "Non. Le Service de la protection peut t'aider si tu veux signaler un incident ou simplement parler à quelqu'un. Il peut rédiger un rapport, mais il respectera ta décision si tu préfères ne pas donner suite. Tu le joins en tout temps au 613-562-5499, ou au 613-562-5411 en urgence.",
+   "en": "No. Protection Services can help if you want to report an incident or just talk to someone. It can write a report, but it will respect your decision if you'd rather not pursue the matter. You can reach it anytime at 613-562-5499, or 613-562-5411 in an emergency."
+  },
+  "sources": [
+   {
+    "label": "Ressources sur le campus, hors campus et en ligne – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-residence-changement",
+  "category": "sante",
+  "keywords": [
+   "résidence",
+   "residence",
+   "changer de chambre",
+   "room change",
+   "violence sexuelle",
+   "sexual violence",
+   "logement et vie en résidence",
+   "accommodements"
+  ],
+  "question": {
+   "fr": "J'habite en résidence et j'ai vécu une violence sexuelle : la résidence peut-elle m'aider ?",
+   "en": "I live in residence and experienced sexual violence: can residence help me?"
+  },
+  "answer": {
+   "fr": "Oui. Le Service du logement et de la vie en résidence offre un service de counselling confidentiel interne, dans un environnement sûr et accessible. Selon la situation, il peut aussi accorder des accommodements, comme un changement de chambre ou de résidence. Le Bureau des droits de la personne peut t'aider dans ces démarches.",
+   "en": "Yes. Housing and Residence Life offers an in-house confidential counselling service in a safe, accessible setting. Depending on the circumstances, it can also grant accommodations, like a room or residence change. The Human Rights Office can help you with these steps."
+  },
+  "sources": [
+   {
+    "label": "Ressources sur le campus, hors campus et en ligne – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-vs-ressources-communautes",
+  "category": "sante",
+  "keywords": [
+   "inuit",
+   "tungasuvvingat",
+   "project agape",
+   "survivants noirs",
+   "black survivors",
+   "violence fondée sur le genre",
+   "gender-based violence",
+   "ressources culturelles"
+  ],
+  "question": {
+   "fr": "Y a-t-il des ressources pour les survivants inuits ou noirs de violence sexuelle ?",
+   "en": "Are there resources for Inuit or Black survivors of sexual violence?"
+  },
+  "answer": {
+   "fr": "Oui. Tungasuvvingat Inuit est un organisme de services urbains pour les Inuits de tous âges, qui aide à trouver du soutien tout en restant lié à sa culture. Project Agape est un organisme dirigé par des survivants noirs, qui offre des ressources et des ateliers sur la violence fondée sur le genre et le mieux-être. Le Bureau des droits de la personne peut t'orienter au 613-562-5222.",
+   "en": "Yes. Tungasuvvingat Inuit is an urban services provider for Inuit of all ages that helps you find support while staying connected to your culture. Project Agape is a Black, survivor-led organization offering resources and workshops on gender-based violence and wellness. The Human Rights Office can guide you at 613-562-5222."
+  },
+  "sources": [
+   {
+    "label": "Ressources sur le campus, hors campus et en ligne – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-unite-soutien-victimes-police",
+  "category": "sante",
+  "keywords": [
+   "victime d'un crime",
+   "crime victim",
+   "unité de soutien aux victimes",
+   "victim support unit",
+   "police d'ottawa",
+   "counselling de crise",
+   "rappel"
+  ],
+  "question": {
+   "fr": "J'ai été victime d'un crime : la police d'Ottawa offre-t-elle du soutien ?",
+   "en": "I was the victim of a crime: does the Ottawa Police offer support?"
+  },
+  "answer": {
+   "fr": "Oui, l'Unité de soutien aux victimes du Service de police d'Ottawa offre de l'aide professionnelle et du counselling de crise aux victimes de crimes ou de circonstances tragiques. Il faut laisser un message, et un conseiller te rappellera le plus tôt possible. En cas de danger, compose le 911, ou le 613-562-5411 sur le campus.",
+   "en": "Yes, the Ottawa Police Service Victim Support Unit provides professional assistance and crisis counselling to victims of crime or tragic circumstances. You'll need to leave a message, and a counsellor will call you back as soon as possible. If you're in danger, call 911, or 613-562-5411 on campus."
+  },
+  "sources": [
+   {
+    "label": "Ressources sur le campus, hors campus et en ligne – Violence sexuelle",
+    "url": "https://www.uottawa.ca/about-us/administration-services/human-rights-office/sexual-violence-support-prevention/resources-on-off-campus"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ },
+ {
+  "id": "zd-salon-mieux-etre-fin-semaine",
+  "category": "sante",
+  "keywords": [
+   "salon du mieux-être",
+   "wellness lounge",
+   "fin de semaine",
+   "weekend",
+   "90u",
+   "samedi",
+   "dimanche",
+   "soir"
+  ],
+  "question": {
+   "fr": "Est-ce que le Salon du mieux-être est ouvert la fin de semaine ?",
+   "en": "Is the Wellness Lounge open on weekends?"
+  },
+  "answer": {
+   "fr": "Oui, celui du 90U : depuis le 8 septembre 2026, il est ouvert de 17 h à 22 h du lundi au vendredi, de 13 h à 22 h le samedi et de midi à 16 h le dimanche. Il est fermé du 10 décembre 2026 au 11 janvier 2027 pour les examens et les Fêtes. Le Salon du CUO, lui, est ouvert en semaine seulement.",
+   "en": "Yes, the one at 90U: since September 8, 2026, it's open 5 to 10 p.m. Monday to Friday, 1 to 10 p.m. on Saturday and noon to 4 p.m. on Sunday. It's closed from December 10, 2026, to January 11, 2027, for exams and the holidays. The UCU lounge is open on weekdays only."
+  },
+  "sources": [
+   {
+    "label": "Salon du mieux-être",
+    "url": "https://www.uottawa.ca/campus-life/health-wellness/wellness-lounge"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "pointer"
+ },
+ {
+  "id": "zd-tremblement-dehors-auto",
+  "category": "sante",
+  "keywords": [
+   "tremblement de terre",
+   "earthquake",
+   "en voiture",
+   "driving",
+   "dehors",
+   "outdoors",
+   "séisme",
+   "répliques"
+  ],
+  "question": {
+   "fr": "Que faire si un tremblement de terre arrive pendant que je conduis ?",
+   "en": "What should I do if an earthquake hits while I'm driving?"
+  },
+  "answer": {
+   "fr": "Range-toi sur le côté et laisse la route libre pour les véhicules d'urgence. Reste dans ton véhicule jusqu'à ce que plusieurs minutes passent sans répliques. Ne t'arrête pas sous des structures comme les ponts, les viaducs ou les fils électriques.",
+   "en": "Pull over and keep the road clear for emergency vehicles. Stay in your vehicle until several minutes have passed without aftershocks. Don't stop under overhead structures such as bridges, overpasses or power lines."
+  },
+  "sources": [
+   {
+    "label": "Autres dangers – Êtes-vous prêt?",
+    "url": "https://www.uottawa.ca/campus-life/are-you-ready/hazard-specific"
+   }
+  ],
+  "verifiedOn": "2026-11-23",
+  "status": "official"
+ }
+]

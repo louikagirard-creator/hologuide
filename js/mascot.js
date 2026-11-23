@@ -790,7 +790,12 @@ export class GeeGee {
       this.model.position.y = P.y; this.model.rotation.y = P.ry - 0.22 + this.modelYaw + this.yaw;
       this.model.rotation.x = 0; this.model.rotation.z = P.rz;
       this.poseRig(t, dt);
-      this.face?.set(this.eyeState?.blink || 0, S.mouth);
+      // Visage : paupières, bouche, regard (les yeux devancent la tête), oreilles (même frémissement que le
+      // Gee-Gee fait en code : 0,35 rad = oreille à fond).
+      this.face?.set(this.eyeState?.blink || 0, S.mouth, {
+        gaze: { x: S.gaze.x * 1.6, y: S.gaze.y * 2 },
+        earL: this.ears[0].rotation.x / 0.35, earR: this.ears[1].rotation.x / 0.35
+      });
     }
 
     // Modèle réaliste (Gee-Gee réaliste ou cheval) : même pose que le Gee-Gee fait en code

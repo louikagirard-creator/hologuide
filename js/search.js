@@ -63,7 +63,10 @@ function smalltalk(n0) {
   for (const [id, list] of SMALLTALK_SQ) {
     for (const p of list) {
       const multi = p.trim().includes(' ');
-      if (core === p || (multi && all.length <= 7 && n.includes(p))) return id;
+      if (core === p) return { id, whole: true };
+      // Expression dans une phrase courte : on vérifiera qu'aucune fiche ne répond nettement mieux
+      // (« à quelle heure ferme la bibliothèque » n'est pas « ferme-la »)
+      if (multi && all.length <= 7 && n.includes(p)) return { id, whole: false };
     }
   }
   return null;
@@ -134,17 +137,8 @@ function score(item, n, qwords, cats) {
   let s = 0, exact = 0;
   const hit = new Set(); // mots de la question expliqués par cette fiche
   for (const k of item.kws) {
-<<<<<<< Updated upstream
-    if (n.includes(k)) s += (2 + k.trim().split(' ').length) * facetWeight(k.trim().split(' ')); // expression exacte : plus elle est longue, plus elle compte
-    else if (k.length >= 7 && !k.trim().includes(' ') && qwords.some((w) => w.length >= 5 && !ALL_WORDS.has(w) && lev(w, k.trim()) <= 1)) s += 2.5; // mot-clé avec une faute
-  }
-  for (const w of qwords) {
-    if (w.length < 3) continue;
-    const f = FACET.has(w) ? 0.4 : 1;
-    if (item.vocab.includes(w)) s += idf(w) * f;
-    else if (w.length >= 5 && !ALL_WORDS.has(w) && item.vocab.some((v) => v.length >= 5 && lev(w, v) <= 1)) s += 0.75 * f;
-=======
-    if (n.includes(k)) { s += 2 + k.trim().split(' ').length; exact++; for (const w of k.trim().split(' ')) hit.add(w); } // expression exacte : plus elle est longue, plus elle compte
+    // (Buffy) un mot-clé fait seulement de mots d'aspect (« ouvert », « samedi ») compte moins que le sujet nommé
+    if (n.includes(k)) { s += (2 + k.trim().split(' ').length) * facetWeight(k.trim().split(' ')); exact++; for (const w of k.trim().split(' ')) hit.add(w); } // expression exacte : plus elle est longue, plus elle compte
     else if (k.length >= 7 && !k.trim().includes(' ')) {
       const kk = k.trim(), tol = kk.length >= 8 ? 2 : 1; // mot long : deux fautes permises (« morriset » pour « morisset »)
       const w = qwords.find((x) => x.length >= 5 && !ALL_WORDS.has(x) && lev(x, kk, tol) <= tol);
@@ -153,10 +147,10 @@ function score(item, n, qwords, cats) {
   }
   for (const w of qwords) {
     if (w.length < 3) continue;
-    if (item.vset.has(w)) { s += idf(w); exact++; hit.add(w); }
-    else if (item.aset.has(w)) { s += TUNE.answerWeight * idfA(w); hit.add(w); } // mot présent seulement dans la réponse : indice plus faible
-    else if (w.length >= 5 && !ALL_WORDS.has(w) && item.vocab.some((v) => v.length >= 5 && lev(w, v) <= 1)) { s += 0.75; hit.add(w); }
->>>>>>> Stashed changes
+    const f = FACET.has(w) ? 0.4 : 1;
+    if (item.vset.has(w)) { s += idf(w) * f; exact++; hit.add(w); }
+    else if (item.aset.has(w)) { s += TUNE.answerWeight * idfA(w) * f; hit.add(w); } // mot présent seulement dans la réponse : indice plus faible
+    else if (w.length >= 5 && !ALL_WORDS.has(w) && item.vocab.some((v) => v.length >= 5 && lev(w, v) <= 1)) { s += 0.75 * f; hit.add(w); }
   }
   if (cats.has(item.e.category)) s += 0.5;
   if (cats.where && item.where && exact) s += TUNE.whereBonus; // « où est… » : les fiches qui disent où se trouve quelque chose
@@ -185,7 +179,7 @@ export function findAnswer(text) {
   const all = n.trim().split(' ');
   if (all.every((w) => LAUGH.has(w) || gibberish(w) || w.length < 2) && all.some((w) => LAUGH.has(w) || gibberish(w))) return { type: 'unclear', alts: [], top: [] }; // « lol », « aaaaaa », « kdkdkd lol »
   const st = smalltalk(n);
-  if (st) return { type: 'smalltalk', intent: st };
+  if (st?.whole) return { type: 'smalltalk', intent: st.id };
   if (all.length <= 4 && HELLO.some((h) => n.includes(` ${h} `) || ` ${all.map(squash).join(' ')} `.includes(` ${squash(h)} `))) return { type: 'hello' };
   if (THANKS.some((h) => n.includes(norm(h))) && all.length <= 5) return { type: 'thanks' };
   const cats = new Set(CAT_HINTS.filter((c) => c.hints.some((h) => n.includes(h))).map((c) => c.id));
@@ -193,6 +187,7 @@ export function findAnswer(text) {
   cats.where = / (ou est|ou sont|ou se trouve|ou trouver|where is|where are|where s|where can i find|how do i get to|comment aller|comment me rendre|c est ou) /.test(n);
   const ranked = INDEX.map((it) => ({ e: it.e, ...score(it, n, qwords, cats) })).filter((r) => r.s > 0).sort((a, b) => b.s - a.s);
   const best = ranked[0];
+  if (st && !(best && best.base >= TUNE.sureScore && best.cover >= 0.6)) return { type: 'smalltalk', intent: st.id };
   if ((!best || best.s < 2.5) && all.every((w) => gibberish(w) || w.length < 3) && all.some(gibberish)) return { type: 'unclear', alts: [], top: [] };
   const top = ranked.slice(0, 6).map((r) => r.e); // candidates pour l'IA (elle relit plus de fiches que l'écran n'en montre)
   // Réponse seulement si la fiche explique une bonne partie de la question (sinon « qui a gagné le match hier »

@@ -3,7 +3,8 @@ import { CASES } from './cases.js';
 let ok = 0;
 for (const [q, want] of CASES) {
   const r = findAnswer(q); const got = r.type === 'answer' ? r.entry.id : r.type;
-  if (got === want) ok++; else console.log(`ÉCHEC « ${q} » → ${got} (attendu ${want})`);
+  // plusieurs fiches équivalentes acceptées : ['a', 'b']
+  if ([want].flat().includes(got)) ok++; else console.log(`ÉCHEC « ${q} » → ${got} (attendu ${want})`);
 }
 // Réponse cadrée : la phrase qui traite de ce qui est demandé passe en premier, sans rien retirer du texte officiel.
 const check = (name, cond) => { if (cond) ok++; else console.log(`ÉCHEC ${name}`); };

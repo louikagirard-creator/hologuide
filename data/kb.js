@@ -11520,7 +11520,9 @@ export const KB = [
    "archives",
    "second cup",
    "ou est mrt",
-   "where is morisset",
+   "where is the library",
+  "ou est la bibliotheque",
+  "where is morisset",
    "65 university"
   ],
   "question": {

@@ -1,0 +1,1512 @@
+[
+ {
+  "q": "quoi faut pour rentrer a uottawa, genre les conditions?",
+  "expect": [
+   "admission-conditions"
+  ]
+ },
+ {
+  "q": "je peux tu commencer en janvier au lieu de septembre",
+  "expect": [
+   "a-admission-hiver"
+  ]
+ },
+ {
+  "q": "defer my offer of admission one year",
+  "expect": [
+   "a-report-admission"
+  ]
+ },
+ {
+  "q": "depot admission combien",
+  "expect": [
+   "a-depot-admission"
+  ]
+ },
+ {
+  "q": "how do you get into law school or teachers college or med here",
+  "expect": [
+   "a-programmes-professionnels"
+  ]
+ },
+ {
+  "q": "date limite demande admission automne",
+  "expect": [
+   "a-dates-limites-automne"
+  ]
+ },
+ {
+  "q": "Can I start my studies in the spring-summer term?",
+  "expect": [
+   "a-admission-printemps-ete"
+  ]
+ },
+ {
+  "q": "faut-il faire un test de langue pour etre accepté",
+  "expect": [
+   "a-exigences-linguistiques"
+  ]
+ },
+ {
+  "q": "my english score is too low can i still get in",
+  "expect": [
+   "a-programme-intensif-anglais",
+   "zc-resultat-langue-insuffisant"
+  ]
+ },
+ {
+  "q": "jai ete refuse est ce que je peux contester la decision",
+  "expect": [
+   "a-appel-decision-admission"
+  ]
+ },
+ {
+  "q": "J'ai 35 ans et j'ai pas étudié depuis 15 ans, est-ce que je peux m'inscrire comme adulte?",
+  "expect": [
+   "a-candidat-adulte"
+  ]
+ },
+ {
+  "q": "got my offer, what do i do next",
+  "expect": [
+   "a-offre-admission-etapes"
+  ]
+ },
+ {
+  "q": "visite du campus reserver",
+  "expect": [
+   "a-visite-campus"
+  ]
+ },
+ {
+  "q": "comment je m'inscris au coop",
+  "expect": [
+   "a-admission-coop"
+  ]
+ },
+ {
+  "q": "prouver mon niveau de francais pour l'immersion test d'entree",
+  "expect": [
+   "h-immersion-test-entree"
+  ]
+ },
+ {
+  "q": "frais changement de programme et changer de faculte",
+  "expect": [
+   "k-changement-programme-frais-exceptions"
+  ]
+ },
+ {
+  "q": "Quand est-ce que je dois appliquer au PAPU en sciences infirmières pis ça commence quand?",
+  "expect": [
+   "m-papu-dates"
+  ]
+ },
+ {
+  "q": "what average do i need for the PAPU nursing program",
+  "expect": [
+   "m-papu-mpc"
+  ]
+ },
+ {
+  "q": "bilinguisme maitrise admission date limite",
+  "expect": [
+   "m-ma-bilinguisme-admission"
+  ]
+ },
+ {
+  "q": "c'est quoi la moyenne pour common law, le lsat est-tu obligatoire",
+  "expect": [
+   "m-droit-moyenne-lsat"
+  ]
+ },
+ {
+  "q": "who can apply to pharmd",
+  "expect": [
+   "m-pharmd-admissibilite"
+  ]
+ },
+ {
+  "q": "combien ca coute appliquer aux etudes superieures, faut payer pour chaque programme?",
+  "expect": [
+   "m-cycles-sup-frais-demande"
+  ]
+ },
+ {
+  "q": "MBA Telfer admission requirments",
+  "expect": [
+   "m-mba-admission"
+  ]
+ },
+ {
+  "q": "tests de langue acceptes pour le bcom en anglais",
+  "expect": [
+   "n-bcom-tests-langue"
+  ]
+ },
+ {
+  "q": "what documents do I need to submit for the MBA application",
+  "expect": [
+   "n-mba-documents-demande"
+  ]
+ },
+ {
+  "q": "deadline for the environmental sustainability master's",
+  "expect": [
+   "n-durabilite-env-date-limite"
+  ]
+ },
+ {
+  "q": "je viens du cegep, comment l'universite recoit mes notes, code permanent?",
+  "expect": [
+   "zc-code-permanent-cegep"
+  ]
+ },
+ {
+  "q": "j'ai applique mais j'ai recu aucun courriel de confirmation c'est normal?",
+  "expect": [
+   "zc-accuse-reception-demande"
+  ]
+ },
+ {
+  "q": "will you send back my original documents",
+  "expect": [
+   "zc-documents-non-retournes"
+  ]
+ },
+ {
+  "q": "J'applique au Juris Doctor, je dois envoyer mes papiers où exactement?",
+  "expect": [
+   "zc-juris-doctor-olsas"
+  ]
+ },
+ {
+  "q": "my final grades are late, do I get more time to meet my conditions",
+  "expect": [
+   "zc-documents-conditions-retard"
+  ]
+ },
+ {
+  "q": "refusé, comment améliorer mon dossier pour reappliquer",
+  "expect": [
+   "zc-refus-ameliorer-dossier"
+  ]
+ },
+ {
+  "q": "I studied abroad, which diploma do I need to get into a bachelor's",
+  "expect": [
+   "zc-international-diplome-equivalent"
+  ]
+ },
+ {
+  "q": "lettre d'intention candidat adulte quoi mettre dedans",
+  "expect": [
+   "zc-adulte-lettre-intention"
+  ]
+ },
+ {
+  "q": "credits cegep combien je peux avoir",
+  "expect": [
+   "zc-credits-cegep"
+  ]
+ },
+ {
+  "q": "what does OPT 1XXX mean on my transfer credits",
+  "expect": [
+   "zc-credits-opt-generaux"
+  ]
+ },
+ {
+  "q": "est-ce que certains programmes acceptent pas les credits de transfert",
+  "expect": [
+   "zc-programmes-sans-credits-transfert"
+  ]
+ },
+ {
+  "q": "comment envoyer mes resultats ielts a l'universite",
+  "expect": [
+   "zc-ielts-envoi-resultats"
+  ]
+ },
+ {
+  "q": "j'ai fait l'ecole a la maison est-ce que je peux etre admis",
+  "expect": [
+   "zc-ecole-maison-admission"
+  ]
+ },
+ {
+  "q": "do AP courses give me university credit",
+  "expect": [
+   "zc-credits-ap"
+  ]
+ },
+ {
+  "q": "quelle difference entre admission pis inscription",
+  "expect": [
+   "zc-admission-vs-inscription"
+  ]
+ },
+ {
+  "q": "internationl student when should i send my aplication",
+  "expect": [
+   "zc-international-15-janvier"
+  ]
+ },
+ {
+  "q": "how long does it take to get an admission decision",
+  "expect": [
+   "zc-delai-traitement-demande"
+  ]
+ },
+ {
+  "q": "je peux tu demander des bourses avant d'avoir mon offre",
+  "expect": [
+   "zc-bourses-apres-demande"
+  ]
+ },
+ {
+  "q": "my moyenne is a bit under the cutoff can i explain my situation",
+  "expect": [
+   "zc-declaration-experience-personnelle"
+  ]
+ },
+ {
+  "q": "quel test GMAT pour le MBA de Telfer",
+  "expect": [
+   "m-mba-tests-admission"
+  ]
+ },
+ {
+  "q": "Est-ce que je dois être bilingue pour aller à l'ÉSAPI?",
+  "expect": [
+   "m-esapi-bilingue"
+  ]
+ },
+ {
+  "q": "conditions d'admission bcom telfer",
+  "expect": [
+   "m-bcom-admission"
+  ]
+ },
+ {
+  "q": "I'm waiting for my PR, do I apply as an international student for the MBA?",
+  "expect": [
+   "n-mba-residence-permanente-statut"
+  ]
+ },
+ {
+  "q": "casper test BEd c'est quoi",
+  "expect": [
+   "m-bed-casper"
+  ]
+ },
+ {
+  "q": "Est-ce qu'on a des cours le jour de l'Action de grâce?",
+  "expect": [
+   "b-action-grace-2026"
+  ]
+ },
+ {
+  "q": "reading week winter 2027 dates",
+  "expect": [
+   "b-semaine-lecture-hiver-2027"
+  ]
+ },
+ {
+  "q": "quand les notes finales deviennent officielles",
+  "expect": [
+   "b-notes-officielles"
+  ]
+ },
+ {
+  "q": "when are deferred exams",
+  "expect": [
+   "b-periodes-examens-differes"
+  ]
+ },
+ {
+  "q": "premiere journee de cours session dhiver 2027",
+  "expect": [
+   "b-debut-hiver-2027"
+  ]
+ },
+ {
+  "q": "c'est quand le dernier cours cette session d'automne",
+  "expect": [
+   "b-fin-cours-automne-2026"
+  ]
+ },
+ {
+  "q": "is the university closed over the holidays, christmas break",
+  "expect": [
+   "b-conge-fetes-2026"
+  ]
+ },
+ {
+  "q": "date limite abandon cours hiver 2027",
+  "expect": [
+   "b-dates-limites-hiver-2027"
+  ]
+ },
+ {
+  "q": "when does the final exam schedule come out",
+  "expect": [
+   "b-publication-horaire-examens"
+  ]
+ },
+ {
+  "q": "collation des grades printemps 2027 c'est quand",
+  "expect": [
+   "b-collation-2027"
+  ]
+ },
+ {
+  "q": "deadline to prove canadian status to pay domestic fees",
+  "expect": [
+   "k-statut-legal-date-limite"
+  ]
+ },
+ {
+  "q": "MSc management application deadline",
+  "expect": [
+   "n-msc-gestion-date-limite"
+  ]
+ },
+ {
+  "q": "est-ce qu'il peut y avoir des examens le samedi ou le soir",
+  "expect": [
+   "v-examens-soir-fin-de-semaine"
+  ]
+ },
+ {
+  "q": "Je suis étudiant libre, quand est-ce que je peux m'inscrire à mes cours d'hiver 2027?",
+  "expect": [
+   "v-inscription-non-diplome-hiver-2027"
+  ]
+ },
+ {
+  "q": "summer 2027 tuition payment deadline no late fee",
+  "expect": [
+   "v-paiement-ete-2027"
+  ]
+ },
+ {
+  "q": "quand je vais pouvoir choisir mes cours pour 2027-2028",
+  "expect": [
+   "v-inscription-cours-automne-2027"
+  ]
+ },
+ {
+  "q": "En common law, c'est quoi les dates limites pour s'inscrire pis abandonner en hiver 2027?",
+  "expect": [
+   "zb-cl-hiver-2027-dates-limites"
+  ]
+ },
+ {
+  "q": "diwali et fetes juives automne 2027 dates",
+  "expect": [
+   "zb-fetes-religieuses-automne-2027"
+  ]
+ },
+ {
+  "q": "deadline to switch a course to audit status winter 2027",
+  "expect": [
+   "v-statut-auditeur-hiver-2027"
+  ]
+ },
+ {
+  "q": "thesis submission deadline fall 2026 so I don't have to register in winter",
+  "expect": [
+   "v-these-depot-automne-2026"
+  ]
+ },
+ {
+  "q": "quand je peux postuler aux jobs coop pour l'ete 2027",
+  "expect": [
+   "zb-coop-postuler-hiver-2027"
+  ]
+ },
+ {
+  "q": "jusqua quand je peux me retirer du coop sans penalite",
+  "expect": [
+   "zb-coop-retrait-2027"
+  ]
+ },
+ {
+  "q": "Is there a study day before winter 2027 finals?",
+  "expect": [
+   "v-pause-etude-hiver-2027"
+  ]
+ },
+ {
+  "q": "hanouka 2026 pendant les examens",
+  "expect": [
+   "v-hanoucca-2026"
+  ]
+ },
+ {
+  "q": "periode evaluation des cours quand",
+  "expect": [
+   "b-evaluation-enseignement"
+  ]
+ },
+ {
+  "q": "how do i find out the prereqs for a course",
+  "expect": [
+   "prealables"
+  ]
+ },
+ {
+  "q": "je peux tu prendre des cours l'ete",
+  "expect": [
+   "cours-ete"
+  ]
+ },
+ {
+  "q": "comment je m'inscris a mes cours sur uozone",
+  "expect": [
+   "inscription"
+  ]
+ },
+ {
+  "q": "drop a course how",
+  "expect": [
+   "retrait"
+  ]
+ },
+ {
+  "q": "combien de cours pour etre temps plein",
+  "expect": [
+   "charge-cours"
+  ]
+ },
+ {
+  "q": "how do i read a course code like CRM 1301",
+  "expect": [
+   "b-code-cours"
+  ]
+ },
+ {
+  "q": "Je suis premier sur la liste d'attente pis y'a des places, pourquoi j'suis pas inscrit?",
+  "expect": [
+   "b-liste-attente-pas-inscrit"
+  ]
+ },
+ {
+  "q": "what do LEC DGD LAB TUT mean in my schedule",
+  "expect": [
+   "b-composantes-cours"
+  ]
+ },
+ {
+  "q": "suivre un cours en auditeur libre sans credits",
+  "expect": [
+   "b-auditeur"
+  ]
+ },
+ {
+  "q": "je veux prendre un cours dans une autre universite, lettre de permission",
+  "expect": [
+   "b-lettre-permission"
+  ]
+ },
+ {
+  "q": "I'm missing a high school prerequisite what should I do",
+  "expect": [
+   "b-cours-appoint"
+  ]
+ },
+ {
+  "q": "can i take a class at carleton",
+  "expect": [
+   "b-cours-carleton",
+   "a-echange-carleton"
+  ]
+ },
+ {
+  "q": "waitlist how does it work for a full class",
+  "expect": [
+   "b-liste-attente"
+  ]
+ },
+ {
+  "q": "est-ce que je peux aller au cours pendant que je suis sur la liste d'attente",
+  "expect": [
+   "b-liste-attente-assister"
+  ]
+ },
+ {
+  "q": "le cours a l'air ouvert mais ca me laisse pas m'inscrire",
+  "expect": [
+   "b-places-reservees"
+  ]
+ },
+ {
+  "q": "comment savoir si un cours est en ligne ou en presentiel",
+  "expect": [
+   "b-cours-en-ligne"
+  ]
+ },
+ {
+  "q": "can I take more than 15 credits in one semester",
+  "expect": [
+   "b-plus-15-credits"
+  ]
+ },
+ {
+  "q": "reprendre un cours pour ameliorer ma note",
+  "expect": [
+   "b-reprendre-cours"
+  ]
+ },
+ {
+  "q": "electives with no prerequisites",
+  "expect": [
+   "b-cours-sans-prealables"
+  ]
+ },
+ {
+  "q": "je veux apprendre l'espagnol comme cours au choix",
+  "expect": [
+   "b-langues-modernes"
+  ]
+ },
+ {
+  "q": "can a high school student take a university course",
+  "expect": [
+   "b-eleve-secondaire"
+  ]
+ },
+ {
+  "q": "take courses without being in a program",
+  "expect": [
+   "a-etudiant-libre",
+   "b-etudiant-libre",
+   "h-etudiant-non-candidat"
+  ]
+ },
+ {
+  "q": "c koi un cours bilingue",
+  "expect": [
+   "b-cours-bilingue"
+  ]
+ },
+ {
+  "q": "version anglaise d'un cours comment la trouver",
+  "expect": [
+   "b-cours-equivalent-langue"
+  ]
+ },
+ {
+  "q": "Je suis en stage coop cet hiver, est-ce que je peux quand même suivre un cours en même temps?",
+  "expect": [
+   "h-coop-cours-pendant-stage"
+  ]
+ },
+ {
+  "q": "can I do volunteering instead of an assignment, community engaged learning",
+  "expect": [
+   "h-apprentissage-communautaire-cel"
+  ]
+ },
+ {
+  "q": "Je suis prof, comment ça marche l'évaluation de mon cours par les étudiants?",
+  "expect": [
+   "u-evaluation-cours-profs"
+  ]
+ },
+ {
+  "q": "emprunter une camera pour un projet de cours",
+  "expect": [
+   "u-pret-equipement-av"
+  ]
+ },
+ {
+  "q": "projector not working in my class who do I call",
+  "expect": [
+   "u-aide-technique-classe"
+  ]
+ },
+ {
+  "q": "services de la biblio pour les profs",
+  "expect": [
+   "u-bibliotheque-profs"
+  ]
+ },
+ {
+  "q": "B.Ed courses as a special student",
+  "expect": [
+   "m-bed-etudiant-special"
+  ]
+ },
+ {
+  "q": "ressources IA pour enseigner",
+  "expect": [
+   "u-ia-enseignement"
+  ]
+ },
+ {
+  "q": "faire imprimer un recueil de cours pour mes etudiants",
+  "expect": [
+   "u-recueil-cours"
+  ]
+ },
+ {
+  "q": "how is my year of study determined for registration",
+  "expect": [
+   "b-annee-etudes"
+  ]
+ },
+ {
+  "q": "mat1722 c'est quel genre de cours",
+  "expect": [
+   "j-mat1722"
+  ]
+ },
+ {
+  "q": "what's MAT 1748 about",
+  "expect": [
+   "j-mat1748"
+  ]
+ },
+ {
+  "q": "sta2100 description",
+  "expect": [
+   "j-sta2100"
+  ]
+ },
+ {
+  "q": "Je pense prendre PHY1321 l'an prochain, ça parle de quoi?",
+  "expect": [
+   "j-phy1321"
+  ]
+ },
+ {
+  "q": "chm 1301 c'est quoi",
+  "expect": [
+   "j-chm1301"
+  ]
+ },
+ {
+  "q": "psy1102 cest quoi le contenu",
+  "expect": [
+   "j-psy1102"
+  ]
+ },
+ {
+  "q": "ECO1502 what do you learn",
+  "expect": [
+   "j-eco1502"
+  ]
+ },
+ {
+  "q": "je suis en crim, c'est quoi le cours CRM1301",
+  "expect": [
+   "j-crm1301"
+  ]
+ },
+ {
+  "q": "phi1101 contenu du cours",
+  "expect": [
+   "j-phi1101"
+  ]
+ },
+ {
+  "q": "cmn1160 ca parle de quoi",
+  "expect": [
+   "j-cmn1160"
+  ]
+ },
+ {
+  "q": "ADM1100 intro course description",
+  "expect": [
+   "j-adm1100"
+  ]
+ },
+ {
+  "q": "adm2350 c koi",
+  "expect": [
+   "j-adm2350"
+  ]
+ },
+ {
+  "q": "nsg1132 sciences inf c'est quoi",
+  "expect": [
+   "j-nsg1132"
+  ]
+ },
+ {
+  "q": "adm1370 c'est sur quoi",
+  "expect": [
+   "aa-adm1370"
+  ]
+ },
+ {
+  "q": "je suis a telfer, ADM 2352 ca couvre quoi",
+  "expect": [
+   "aa-adm2352"
+  ]
+ },
+ {
+  "q": "bio 2133 description du cours",
+  "expect": [
+   "aa-bio2133"
+  ]
+ },
+ {
+  "q": "CHG1125 chemical engineering course what is it",
+  "expect": [
+   "aa-chg1125"
+  ]
+ },
+ {
+  "q": "chg2317 cest quoi",
+  "expect": [
+   "aa-chg2317"
+  ]
+ },
+ {
+  "q": "chm 2330 contenu",
+  "expect": [
+   "aa-chm2330"
+  ]
+ },
+ {
+  "q": "c quoi CMN2173",
+  "expect": [
+   "aa-cmn2173"
+  ]
+ },
+ {
+  "q": "CRM 2302 descrption",
+  "expect": [
+   "aa-crm2302"
+  ]
+ },
+ {
+  "q": "crm2308 ça parle de quoi",
+  "expect": [
+   "aa-crm2308"
+  ]
+ },
+ {
+  "q": "csi2372 in computer science what is it",
+  "expect": [
+   "aa-csi2372"
+  ]
+ },
+ {
+  "q": "cours CVG2140 genie civil",
+  "expect": [
+   "aa-cvg2140"
+  ]
+ },
+ {
+  "q": "cvg 2181?",
+  "expect": [
+   "aa-cvg2181"
+  ]
+ },
+ {
+  "q": "ECO2151 cest quoi le cours",
+  "expect": [
+   "aa-eco2151"
+  ]
+ },
+ {
+  "q": "Je suis en génie électrique, c'est quoi ELG2137 exactement?",
+  "expect": [
+   "aa-elg2137"
+  ]
+ },
+ {
+  "q": "eng1320 english course",
+  "expect": [
+   "aa-eng1320"
+  ]
+ },
+ {
+  "q": "fra 2705 cest quoi",
+  "expect": [
+   "aa-fra2705"
+  ]
+ },
+ {
+  "q": "HIS1101 what's that history course",
+  "expect": [
+   "aa-his1101"
+  ]
+ },
+ {
+  "q": "lin1315 linguistique c'est quoi",
+  "expect": [
+   "aa-lin1315"
+  ]
+ },
+ {
+  "q": "what's MAT1302 linear algebra?",
+  "expect": [
+   "aa-mat1302"
+  ]
+ },
+ {
+  "q": "mat2122 contenu",
+  "expect": [
+   "aa-mat2122"
+  ]
+ },
+ {
+  "q": "nut1104 nutrition c'est quoi",
+  "expect": [
+   "aa-nut1104"
+  ]
+ },
+ {
+  "q": "phy1300 cest pour qui",
+  "expect": [
+   "aa-phy1300"
+  ]
+ },
+ {
+  "q": "psy 2116 c'est quoi",
+  "expect": [
+   "aa-psy2116"
+  ]
+ },
+ {
+  "q": "soc1301 intro socio?",
+  "expect": [
+   "aa-soc1301"
+  ]
+ },
+ {
+  "q": "what happens if i fail a final exam",
+  "expect": [
+   "echec-examen"
+  ]
+ },
+ {
+  "q": "relevé de notes officiel comment l'avoir",
+  "expect": [
+   "releves"
+  ]
+ },
+ {
+  "q": "comment declarer une absence a un examen",
+  "expect": [
+   "b-declaration-absence-examen"
+  ]
+ },
+ {
+  "q": "can i keep my phone or smartwatch during the exam",
+  "expect": [
+   "b-appareils-examen"
+  ]
+ },
+ {
+  "q": "je peux tu voir ma copie d'examen apres la correction",
+  "expect": [
+   "b-voir-copie-examen",
+   "v-voir-documents-note"
+  ]
+ },
+ {
+  "q": "que veut dire DFR ou EIN sur mon releve",
+  "expect": [
+   "b-symboles-releve"
+  ]
+ },
+ {
+  "q": "j'ai manqué mon exam final comment demander un differe",
+  "expect": [
+   "examen-differe"
+  ]
+ },
+ {
+  "q": "calcul de la moyenne MPC",
+  "expect": [
+   "mpc-gpa",
+   "v-calcul-moyenne"
+  ]
+ },
+ {
+  "q": "grading scale A+ A B what percentage",
+  "expect": [
+   "bareme-notes",
+   "v-echelle-notes"
+  ]
+ },
+ {
+  "q": "Do I need a doctor's note if I miss an exam because I'm sick?",
+  "expect": [
+   "b-certificat-medical-examen"
+  ]
+ },
+ {
+  "q": "jai 2 exam en meme temps quoi faire",
+  "expect": [
+   "b-conflit-examens"
+  ]
+ },
+ {
+  "q": "what if im late to my exam",
+  "expect": [
+   "b-retard-examen"
+  ]
+ },
+ {
+  "q": "examen annulé tempete de neige",
+  "expect": [
+   "b-examen-annule-tempete"
+  ]
+ },
+ {
+  "q": "note de passage d'un cours c'est combien",
+  "expect": [
+   "b-note-passage"
+  ]
+ },
+ {
+  "q": "deans honour list how to get on it",
+  "expect": [
+   "b-palmares-doyen"
+  ]
+ },
+ {
+  "q": "can the room or time of my exam change after the schedule is posted",
+  "expect": [
+   "v-horaire-examen-change"
+  ]
+ },
+ {
+  "q": "Comment me préparer pour un examen en ligne, genre la technique?",
+  "expect": [
+   "v-preparer-examen-ligne"
+  ]
+ },
+ {
+  "q": "religious accommodation during an exam",
+  "expect": [
+   "v-accommodement-religieux-pendant-examen"
+  ]
+ },
+ {
+  "q": "les 60$ de la declaration d'absence sont tu remboursables",
+  "expect": [
+   "v-remboursement-frais-absence"
+  ]
+ },
+ {
+  "q": "If I defer a final exam in April, can I still graduate in June?",
+  "expect": [
+   "v-differe-diplome-juin"
+  ]
+ },
+ {
+  "q": "write my exam at an approved exam centre elsewhere in canada",
+  "expect": [
+   "v-centre-examen-canada"
+  ]
+ },
+ {
+  "q": "j'peux amener un dictionnaire ou mes notes a l'examen?",
+  "expect": [
+   "v-documents-permis-examen"
+  ]
+ },
+ {
+  "q": "revision de note comment faire",
+  "expect": [
+   "v-revision-note-etapes"
+  ]
+ },
+ {
+  "q": "how to appeal to the senate appeals committee",
+  "expect": [
+   "v-appel-senat-comment"
+  ]
+ },
+ {
+  "q": "ma note peut tu baisser si je demande une revision",
+  "expect": [
+   "v-revision-note-baisser"
+  ]
+ },
+ {
+  "q": "Which calculators are allowed on science finals?",
+  "expect": [
+   "v-calculatrices-sciences"
+  ]
+ },
+ {
+  "q": "En génie, combien d'examens différés je peux demander par cours?",
+  "expect": [
+   "v-genie-un-differe-par-cours"
+  ]
+ },
+ {
+  "q": "fire alarm during an exam what happens",
+  "expect": [
+   "v-alerte-incendie-examen"
+  ]
+ },
+ {
+  "q": "je me sens vraiment mal pendant l'examen, je peux arreter?",
+  "expect": [
+   "v-malaise-pendant-examen"
+  ]
+ },
+ {
+  "q": "I missed a quiz in a lab, do I fill the absence declaration?",
+  "expect": [
+   "v-absence-quiz-labo"
+  ]
+ },
+ {
+  "q": "deces dans la famille raison acceptee pour differer",
+  "expect": [
+   "v-raisons-acceptees-differe"
+  ]
+ },
+ {
+  "q": "ou est le centre d'examens adaptes",
+  "expect": [
+   "v-centre-examens-adaptes-lieu"
+  ]
+ },
+ {
+  "q": "documents needed for ADHD accommodations",
+  "expect": [
+   "v-documentation-tdah-apprentissage"
+  ]
+ },
+ {
+  "q": "comment ma note finale est arrondie",
+  "expect": [
+   "v-arrondi-note-finale"
+  ]
+ },
+ {
+  "q": "erreur sur mon rapport de notes, une note manque",
+  "expect": [
+   "v-erreur-releve-notes"
+  ]
+ },
+ {
+  "q": "my exam isnt showing on my exam schedule",
+  "expect": [
+   "v-examen-absent-horaire"
+  ]
+ },
+ {
+  "q": "scantron correction examen choix multiples",
+  "expect": [
+   "u-scantron"
+  ]
+ },
+ {
+  "q": "est-ce que mon handicap va paraitre sur mon releve",
+  "expect": [
+   "v-handicap-releve-confidentiel"
+  ]
+ },
+ {
+  "q": "common law can I write exams on my laptop examplify",
+  "expect": [
+   "v-common-law-examplify"
+  ]
+ },
+ {
+  "q": "diploma when do i get it and when is convocation",
+  "expect": [
+   "diplome-convocation"
+  ]
+ },
+ {
+  "q": "Comment je fais pour choisir le bon programme pour moi? Je sais pas quoi étudier",
+  "expect": [
+   "a-trouver-programme"
+  ]
+ },
+ {
+  "q": "programmes faculte des sciences de la sante",
+  "expect": [
+   "a-faculte-sciences-sante"
+  ]
+ },
+ {
+  "q": "where is telfer school of management",
+  "expect": [
+   "a-ecole-gestion-telfer"
+  ]
+ },
+ {
+  "q": "departements de la faculte des arts",
+  "expect": [
+   "f-arts-departements"
+  ]
+ },
+ {
+  "q": "do I need an audition to study music",
+  "expect": [
+   "f-musique"
+  ]
+ },
+ {
+  "q": "English department what do they offer",
+  "expect": [
+   "f-anglais"
+  ]
+ },
+ {
+  "q": "c quoi la linguistique pis ou l'etudier",
+  "expect": [
+   "f-linguistique"
+  ]
+ },
+ {
+  "q": "greek and roman antiquity where to study",
+  "expect": [
+   "f-etudes-anciennes-religions",
+   "o-majeure-antiquite-grecque-romaine"
+  ]
+ },
+ {
+  "q": "bac en criminologie",
+  "expect": [
+   "f-criminologie"
+  ]
+ },
+ {
+  "q": "Is social work offered in english?",
+  "expect": [
+   "f-service-social"
+  ]
+ },
+ {
+  "q": "human rights and conflict studies program",
+  "expect": [
+   "f-conflits-droits-humains"
+  ]
+ },
+ {
+  "q": "biologie premier cycle c'est quoi le programme",
+  "expect": [
+   "f-biologie"
+  ]
+ },
+ {
+  "q": "Je suis diplômé en common law, est-ce que je peux faire une licence en droit civil?",
+  "expect": [
+   "f-programme-national-droit-civil"
+  ]
+ },
+ {
+  "q": "ophthalmic medical technology program",
+  "expect": [
+   "f-technologie-ophtalmique"
+  ]
+ },
+ {
+  "q": "how do I find a thesis supervisor",
+  "expect": [
+   "h-cs-trouver-directeur"
+  ]
+ },
+ {
+  "q": "microprogramme cycles superieurs c'est quoi",
+  "expect": [
+   "h-cs-microprogrammes"
+  ]
+ },
+ {
+  "q": "these par articles possible?",
+  "expect": [
+   "h-cs-formats-these"
+  ]
+ },
+ {
+  "q": "can I do co-op during my masters",
+  "expect": [
+   "h-cs-coop-maitrise"
+  ]
+ },
+ {
+  "q": "job d'ete en recherche au bac, BRPC",
+  "expect": [
+   "h-recherche-brpc-usra"
+  ]
+ },
+ {
+  "q": "full degree online possible?",
+  "expect": [
+   "h-programmes-en-ligne"
+  ]
+ },
+ {
+  "q": "programmes en etudes autochtones",
+  "expect": [
+   "h-autochtone-programmes"
+  ]
+ },
+ {
+  "q": "how long is the intensive english program",
+  "expect": [
+   "m-cal-duree-programmes"
+  ]
+ },
+ {
+  "q": "majeure en francais langue seconde c'est pour qui",
+  "expect": [
+   "m-majeure-fls"
+  ]
+ },
+ {
+  "q": "Est-ce que la physio pis l'ergo sont données en anglais à la maîtrise?",
+  "expect": [
+   "m-readaptation-langue"
+  ]
+ },
+ {
+  "q": "psychology phd how many years, part time?",
+  "expect": [
+   "m-psy-doctorat-duree"
+  ]
+ },
+ {
+  "q": "immersion francaise au bcom telfer comment ca marche",
+  "expect": [
+   "m-bcom-immersion"
+  ]
+ },
+ {
+  "q": "telfer accreditations AACSB",
+  "expect": [
+   "m-telfer-agrements"
+  ]
+ },
+ {
+  "q": "maitrise transformation numerique et innovation",
+  "expect": [
+   "p-cs-transformation-numerique"
+  ]
+ },
+ {
+  "q": "maitrise en genetique",
+  "expect": [
+   "p-cs-genetique-humaine"
+  ]
+ },
+ {
+  "q": "Is there an epidemiology master's?",
+  "expect": [
+   "p-cs-epidemiologie"
+  ]
+ },
+ {
+  "q": "je veux devenir infirmiere praticienne",
+  "expect": [
+   "p-cs-infirmiere-praticienne"
+  ]
+ },
+ {
+  "q": "doctorat sciences de la readaptation",
+  "expect": [
+   "p-cs-sciences-readaptation"
+  ]
+ },
+ {
+  "q": "maitrise developpement international",
+  "expect": [
+   "p-cs-developpement-international"
+  ]
+ },
+ {
+  "q": "est-ce qu'il y a un programme sur les psychedeliques",
+  "expect": [
+   "p-cs-psychedeliques"
+  ]
+ },
+ {
+  "q": "masters in creative writing",
+  "expect": [
+   "p-cs-anglais"
+  ]
+ },
+ {
+  "q": "maitrise linguistique",
+  "expect": [
+   "p-cs-linguistique"
+  ]
+ },
+ {
+  "q": "maitrise en interpretation de conference",
+  "expect": [
+   "p-cs-interpretation-conference"
+  ]
+ },
+ {
+  "q": "BFA acting theatre",
+  "expect": [
+   "o-bfa-jeu"
+  ]
+ },
+ {
+  "q": "je veux faire un bac en musique et un bac en sciences en meme temps",
+  "expect": [
+   "o-bmus-bsc"
+  ]
+ },
+ {
+  "q": "double bac communication science po",
+  "expect": [
+   "o-ba-communication-science-politique"
+  ]
+ },
+ {
+  "q": "psychology and linguistics joint honours",
+  "expect": [
+   "o-ba-psychologie-linguistique"
+  ]
+ },
+ {
+  "q": "certificate in creative writing",
+  "expect": [
+   "o-certificat-creation-litteraire"
+  ]
+ },
+ {
+  "q": "bac en economie et politiques publiques",
+  "expect": [
+   "o-bscsoc-economie-politiques-publiques"
+  ]
+ },
+ {
+  "q": "fast track bachelor + master in public administration",
+  "expect": [
+   "o-administration-publique-maitrise"
+  ]
+ },
+ {
+  "q": "option gestion internationale bcom",
+  "expect": [
+   "o-bcom-gestion-internationale"
+  ]
+ },
+ {
+  "q": "combine commerce and JD",
+  "expect": [
+   "o-bcom-juris-doctor"
+  ]
+ },
+ {
+  "q": "microprogramme marchés financiers telfer",
+  "expect": [
+   "o-micro-marches-financiers"
+  ]
+ },
+ {
+  "q": "y a tu un programme de kinesiologie",
+  "expect": [
+   "o-kinesiologie",
+   "o-bsc-sciences-activite-physique",
+   "f-sciences-activite-physique"
+  ]
+ },
+ {
+  "q": "mathematiques financieres et economie bsc",
+  "expect": [
+   "o-bsc-mathematiques-financieres"
+  ]
+ },
+ {
+  "q": "canadian and american law degree at the same time",
+  "expect": [
+   "o-jd-universites-americaines"
+  ]
+ },
+ {
+  "q": "Language Acquisition Research Lab c'est quoi",
+  "expect": [
+   "r-labo-acquisition-langage"
+  ]
+ },
+ {
+  "q": "au bcom difference entre option mineure et microprogramme",
+  "expect": [
+   "n-bcom-option-mineure-microprogramme"
+  ]
+ },
+ {
+  "q": "does the telfer MBA have a thesis and what's the graduation rate",
+  "expect": [
+   "n-mba-these-diplomation"
+  ]
+ },
+ {
+  "q": "can I do a phd after the msc in management",
+  "expect": [
+   "n-msc-gestion-doctorat"
+  ]
+ },
+ {
+  "q": "ou se trouve l'ecole des sciences de l'information",
+  "expect": [
+   "t-sciences-information"
+  ]
+ },
+ {
+  "q": "where is the school of epidemiology and public health",
+  "expect": [
+   "t-seph"
+  ]
+ },
+ {
+  "q": "departement anesthesiologie ou",
+  "expect": [
+   "t-anesthesiologie"
+  ]
+ },
+ {
+  "q": "research priorities of the university",
+  "expect": [
+   "s-axes-strategiques-recherche"
+  ]
+ },
+ {
+  "q": "c quoi le CIRCEM",
+  "expect": [
+   "s-centre-circem"
+  ]
+ },
+ {
+  "q": "Alex Trebek forum for dialogue",
+  "expect": [
+   "s-forum-dialogue-trebek"
+  ]
+ },
+ {
+  "q": "laboratoire metis recherche",
+  "expect": [
+   "s-laboratoire-recherche-metis"
+  ]
+ },
+ {
+  "q": "dates du programme intensif d'anglais prochaine session",
+  "expect": [
+   "y-pia-dates"
+  ]
+ },
+ {
+  "q": "je n'ai jamais appris le francais quel cours je peux suivre",
+  "expect": [
+   "y-cours-fls-esl-debutant"
+  ]
+ },
+ {
+  "q": "mon programme de maitrise exige un test de langue seconde comment ca fonctionne",
+  "expect": [
+   "y-test-competence-cycles-superieurs"
+  ]
+ }
+]

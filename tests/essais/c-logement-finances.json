@@ -1,0 +1,1513 @@
+[
+ {
+  "q": "chu etudiant etranger, comment j'fais pour m'inscrire a uottawa pis c quoi les papiers qu'il faut ?",
+  "expect": [
+   "international-admission"
+  ]
+ },
+ {
+  "q": "how many hours a week can i work off campus with a study permit",
+  "expect": [
+   "a-travail-pendant-etudes"
+  ]
+ },
+ {
+  "q": "PAL attestation provinciale c'est quoi pis comment l'avoir",
+  "expect": [
+   "a-lettre-attestation-provinciale"
+  ]
+ },
+ {
+  "q": "programme pilote immigration francophone hors quebec",
+  "expect": [
+   "a-programme-pilote-francophone"
+  ]
+ },
+ {
+  "q": "I'm at another university and want to come here on exchange for a semester",
+  "expect": [
+   "a-echange-entrant"
+  ]
+ },
+ {
+  "q": "mon permis d'etudes est pas arrivé pis la session commence lundi, je fais quoi?",
+  "expect": [
+   "a-report-permis-etudes"
+  ]
+ },
+ {
+  "q": "DLI number",
+  "expect": [
+   "m-numero-eed"
+  ]
+ },
+ {
+  "q": "combien ca coute partir en stage a l'etranger en sciences sociales",
+  "expect": [
+   "m-fss-stage-etranger-couts"
+  ]
+ },
+ {
+  "q": "any scholarships for incoming exchange students?",
+  "expect": [
+   "n-echange-entrant-bourse"
+  ]
+ },
+ {
+  "q": "je viens en echange, est-ce que je dois payer le upass pis le ramu? pis j'ai acces au gym?",
+  "expect": [
+   "n-echange-entrant-upass-ramu-gym"
+  ]
+ },
+ {
+  "q": "I lost my study permit, never got the paper one either",
+  "expect": [
+   "n-permis-perdu-jamais-recu"
+  ]
+ },
+ {
+  "q": "mon permis expire la semaine prochaine mais j'ai deja demandé de le prolonger, je peux rester?",
+  "expect": [
+   "n-permis-statut-conserve"
+  ]
+ },
+ {
+  "q": "how long will my PGWP be valid",
+  "expect": [
+   "n-ptpd-duree-validite"
+  ]
+ },
+ {
+  "q": "est-ce que je peux travailler dès que j'arrive au Canada?",
+  "expect": [
+   "n-arrivee-canada-quand-travail"
+  ]
+ },
+ {
+  "q": "my study permit expires right after my last semester but before final grades come out, what about my pgwp?",
+  "expect": [
+   "n-permis-validite-fin-programme"
+  ]
+ },
+ {
+  "q": "IELTS score needed for masters",
+  "expect": [
+   "h-cs-tests-langue"
+  ]
+ },
+ {
+  "q": "les etudiants internationaux ont-tu le droit de faire le coop",
+  "expect": [
+   "h-coop-etudiants-internationaux"
+  ]
+ },
+ {
+  "q": "J'atterris à Toronto pis après je prends le train pour Ottawa, c'est où que je reçois mon permis d'études?",
+  "expect": [
+   "y-permis-premier-point-entree"
+  ]
+ },
+ {
+  "q": "transferring from a college in Toronto to uOttawa, do I need a new study permit?",
+  "expect": [
+   "y-changer-etablissement-permis"
+  ]
+ },
+ {
+  "q": "je retourne chez nous pour l'ete, quoi verifier avant de sortir du pays",
+  "expect": [
+   "y-voyage-hors-canada-verifier"
+  ]
+ },
+ {
+  "q": "can i work full time during the summer break as an intl student",
+  "expect": [
+   "y-conges-planifies"
+  ]
+ },
+ {
+  "q": "eligibilty for post graduation work permit",
+  "expect": [
+   "y-ptpd-admissibilite"
+  ]
+ },
+ {
+  "q": "est-ce que je peux continuer a travailler pendant que ma demande de PTPD est en traitement",
+  "expect": [
+   "y-ptpd-travail-apres-demande"
+  ]
+ },
+ {
+  "q": "can the university immigration advisors help me with permanent residence",
+  "expect": [
+   "y-residence-permanente-conseil"
+  ]
+ },
+ {
+  "q": "jai pas encore payer mon ramu, je suis couvert quand meme?",
+  "expect": [
+   "y-ramu-couverture-avant-paiement"
+  ]
+ },
+ {
+  "q": "I start my master's in January, do I get the extra health and dental insurance?",
+  "expect": [
+   "y-assurance-complementaire-cs-hiver"
+  ]
+ },
+ {
+  "q": "quoi mettre dans ma lettre de motivation pour l'echange",
+  "expect": [
+   "y-echange-lettre-motivation"
+  ]
+ },
+ {
+  "q": "my exchange got approved, what happens next",
+  "expect": [
+   "y-echange-apres-acceptation"
+  ]
+ },
+ {
+  "q": "I'm from the UK, do I still have to take an English test?",
+  "expect": [
+   "zc-langue-pas-citoyennete"
+  ]
+ },
+ {
+  "q": "question sur le RAMU, j'appelle Cowan ou l'université?",
+  "expect": [
+   "zc-ramu-qui-contacter"
+  ]
+ },
+ {
+  "q": "combien d'assurances santé faut que j'aie comme etudiant internationnal",
+  "expect": [
+   "zc-deux-assurances-sante"
+  ]
+ },
+ {
+  "q": "cours en ligne effet sur le PTPD",
+  "expect": [
+   "n-ptpd-etudes-en-ligne"
+  ]
+ },
+ {
+  "q": "can i go on exchange to a country with a travel advisory",
+  "expect": [
+   "y-voyage-destination-risque"
+  ]
+ },
+ {
+  "q": "Comment marche le coop en génie? Faut-il appliquer dès la première année?",
+  "expect": [
+   "coop-genie"
+  ]
+ },
+ {
+  "q": "where are computer science and electrical engineering taught",
+  "expect": [
+   "a-eecs"
+  ]
+ },
+ {
+  "q": "makerspce heures",
+  "expect": [
+   "a-makerspace-richard-labbe"
+  ]
+ },
+ {
+  "q": "is there a machine shop students can use",
+  "expect": [
+   "a-centre-brunsfield"
+  ]
+ },
+ {
+  "q": "j'ai une idée de startup techno, y a-tu un accélérateur à l'université?",
+  "expect": [
+   "a-makerlaunch"
+  ]
+ },
+ {
+  "q": "engineering summer camps for kids",
+  "expect": [
+   "a-genie-jeunes"
+  ]
+ },
+ {
+  "q": "departements de la fac des sciences",
+  "expect": [
+   "a-faculte-sciences"
+  ]
+ },
+ {
+  "q": "programes en chimie pis biochimi",
+  "expect": [
+   "f-chimie-biochimie"
+  ]
+ },
+ {
+  "q": "parle-moi du bac en informatique",
+  "expect": [
+   "f-informatique"
+  ]
+ },
+ {
+  "q": "what's computer engineering about",
+  "expect": [
+   "f-genie-informatique"
+  ]
+ },
+ {
+  "q": "c koi le genie mecanique",
+  "expect": [
+   "f-genie-mecanique"
+  ]
+ },
+ {
+  "q": "GNG1105",
+  "expect": [
+   "j-gng1105"
+  ]
+ },
+ {
+  "q": "c'est quoi le cours iti 1120",
+  "expect": [
+   "j-iti1120"
+  ]
+ },
+ {
+  "q": "is there a master's in civil engineering",
+  "expect": [
+   "p-cs-genie-civil"
+  ]
+ },
+ {
+  "q": "maitrise en intelligence artificielle",
+  "expect": [
+   "p-cs-ia-interdisciplinaire"
+  ]
+ },
+ {
+  "q": "option gestion et entrepreneuriat en genie",
+  "expect": [
+   "o-genie-gestion-entrepreneuriat"
+  ]
+ },
+ {
+  "q": "can I get a physics degree and electrical engineering at the same time",
+  "expect": [
+   "o-physique-genie-electrique"
+  ]
+ },
+ {
+  "q": "what 3D printers does the makerspace have",
+  "expect": [
+   "r-makerspace-imprimantes-3d"
+  ]
+ },
+ {
+  "q": "y a tu des casques de realite virtuelle au makerspace",
+  "expect": [
+   "r-makerspace-rv-numerisation-3d"
+  ]
+ },
+ {
+  "q": "John McEntyre team space for competition teams",
+  "expect": [
+   "r-espace-equipes-john-mcentyre"
+  ]
+ },
+ {
+  "q": "j'ai entendu dire qu'il y a une microbrasserie en génie chimique??",
+  "expect": [
+   "r-craft-lab-microbrasserie"
+  ]
+ },
+ {
+  "q": "ou est le departement de genie civil",
+  "expect": [
+   "t-genie-civil"
+  ]
+ },
+ {
+  "q": "centre de réalité étendue",
+  "expect": [
+   "s-centre-realite-etendue"
+  ]
+ },
+ {
+  "q": "laser cuter at makerspace do i need trainning",
+  "expect": [
+   "r-makerspace-decoupe-laser"
+  ]
+ },
+ {
+  "q": "genie logiciel le coop est-tu obligatoire",
+  "expect": [
+   "f-genie-logiciel"
+  ]
+ },
+ {
+  "q": "what residences are there on campus",
+  "expect": [
+   "logement-residence",
+   "d-types-residences"
+  ]
+ },
+ {
+  "q": "chercher un appart hors campus",
+  "expect": [
+   "logement-hors-campus",
+   "w-hc-aide-logement"
+  ]
+ },
+ {
+  "q": "la rez Marchand c comment?",
+  "expect": [
+   "d-res-marchand"
+  ]
+ },
+ {
+  "q": "what's hendersen residence like",
+  "expect": [
+   "d-res-henderson"
+  ]
+ },
+ {
+  "q": "learning communities in residence",
+  "expect": [
+   "d-communautes-apprentissage"
+  ]
+ },
+ {
+  "q": "le lavabo coule dans ma chambre en rez, comment je fais une demande de reparation",
+  "expect": [
+   "d-reparations-residence"
+  ]
+ },
+ {
+  "q": "how much is rent near campus",
+  "expect": [
+   "d-loyers-moyens"
+  ]
+ },
+ {
+  "q": "quand ouvre le portail du logement pour l'an prochain",
+  "expect": [
+   "m-portail-logement-ouverture"
+  ]
+ },
+ {
+  "q": "what's included in the residence room price",
+  "expect": [
+   "m-residence-prix-inclus"
+  ]
+ },
+ {
+  "q": "je veux etre coloc avec ma meilleure amie en residence comment on fait",
+  "expect": [
+   "m-residence-colocataire"
+  ]
+ },
+ {
+  "q": "90U room price",
+  "expect": [
+   "w-res-cout-90u"
+  ]
+ },
+ {
+  "q": "rideau residance how much",
+  "expect": [
+   "w-res-cout-rideau"
+  ]
+ },
+ {
+  "q": "le lit en rez c'est quelle grandeur, pis les draps sont fournis?",
+  "expect": [
+   "w-res-taille-lit"
+  ]
+ },
+ {
+  "q": "can i bring a mini fridge and kettle to my dorm",
+  "expect": [
+   "w-res-appareils-cuisine"
+  ]
+ },
+ {
+  "q": "adrese postale residence",
+  "expect": [
+   "w-res-adresse-postale"
+  ]
+ },
+ {
+  "q": "mon coloc est vraiment insuportable on se chicane tout le temps",
+  "expect": [
+   "w-res-conflit-colocataire"
+  ]
+ },
+ {
+  "q": "je peux tu avoir mon chat en residence",
+  "expect": [
+   "w-res-animaux"
+  ]
+ },
+ {
+  "q": "can I stay in residence over the christmas break",
+  "expect": [
+   "w-res-rester-fetes"
+  ]
+ },
+ {
+  "q": "moving out of res where do i get boxes and carts",
+  "expect": [
+   "w-res-boites-chariots"
+  ]
+ },
+ {
+  "q": "emmenager en rez avant la date officielle",
+  "expect": [
+   "w-res-emmenagement-tot"
+  ]
+ },
+ {
+  "q": "sublet my residnce room for summer",
+  "expect": [
+   "w-res-sous-location"
+  ]
+ },
+ {
+  "q": "coment avoir une chambre simple",
+  "expect": [
+   "w-res-chambre-simple"
+  ]
+ },
+ {
+  "q": "I'd like to live in Gatineau, is that ok while studying at uOttawa?",
+  "expect": [
+   "w-hc-quartiers-gatineau"
+  ]
+ },
+ {
+  "q": "depot residence comment payer",
+  "expect": [
+   "w-res-depot-paiement"
+  ]
+ },
+ {
+  "q": "how does the university choose my roommate",
+  "expect": [
+   "w-res-jumelage-colocataire"
+  ]
+ },
+ {
+  "q": "wifi marche pas",
+  "expect": [
+   "ti",
+   "wifi"
+  ]
+ },
+ {
+  "q": "uozone c'est quoi au juste",
+  "expect": [
+   "uozone"
+  ]
+ },
+ {
+  "q": "forgot my uoAccess password",
+  "expect": [
+   "e-mot-de-passe-oublie"
+  ]
+ },
+ {
+  "q": "j'ai changé de cell pis mon authentification multifacteur marche plus",
+  "expect": [
+   "e-mfa-nouveau-telephone"
+  ]
+ },
+ {
+  "q": "IT help desk phone number or chat",
+  "expect": [
+   "e-joindre-ti"
+  ]
+ },
+ {
+  "q": "do i need the uottawa vpn from home",
+  "expect": [
+   "e-vpn"
+  ]
+ },
+ {
+  "q": "free software for students like office",
+  "expect": [
+   "e-logiciels-gratuits"
+  ]
+ },
+ {
+  "q": "je suis juste en visite, comment j'imprime",
+  "expect": [
+   "e-imprimer-visiteur"
+  ]
+ },
+ {
+  "q": "imprimente au crx?",
+  "expect": [
+   "i-crx-imprimante"
+  ]
+ },
+ {
+  "q": "where can i print in the engineering buildings",
+  "expect": [
+   "i-imprimantes-genie"
+  ]
+ },
+ {
+  "q": "labo d'informatique a la fac de droit",
+  "expect": [
+   "r-labo-info-droit-ftx430"
+  ]
+ },
+ {
+  "q": "VirtuO",
+  "expect": [
+   "u-virtuo-portail"
+  ]
+ },
+ {
+  "q": "rabais laptop etudiant",
+  "expect": [
+   "zb-rabais-ordinateur-etudiant"
+  ]
+ },
+ {
+  "q": "how many people can I send one uottawa email to at once",
+  "expect": [
+   "zb-courriel-limite-destinataires"
+  ]
+ },
+ {
+  "q": "I'm an applicant, how do I log in to uoZone?",
+  "expect": [
+   "zb-candidat-identifiants-uozone"
+  ]
+ },
+ {
+  "q": "limites copilot version gratuite",
+  "expect": [
+   "zb-copilot-limites-web"
+  ]
+ },
+ {
+  "q": "jai recu un courriel qui dit quil a mon mot de passe pis il veut de l'argent sinon il publie des videos",
+  "expect": [
+   "zb-arnaque-sextorsion"
+  ]
+ },
+ {
+  "q": "create a new team in microsoft teams",
+  "expect": [
+   "zb-teams-creer-equipe"
+  ]
+ },
+ {
+  "q": "mettre AnyConnect en francais",
+  "expect": [
+   "zb-vpn-langue"
+  ]
+ },
+ {
+  "q": "SAS sofware student",
+  "expect": [
+   "zb-sas-etudiants"
+  ]
+ },
+ {
+  "q": "eduroam marche pas sur mon android",
+  "expect": [
+   "zb-eduroam-android"
+  ]
+ },
+ {
+  "q": "I don't have a smartphone, how am I supposed to do MFA?",
+  "expect": [
+   "e-mfa-sans-telephone"
+  ]
+ },
+ {
+  "q": "c'est quoi cette affaire holographique ici?",
+  "expect": [
+   "borne-projet"
+  ]
+ },
+ {
+  "q": "is this kiosk saving what I say?",
+  "expect": [
+   "confidentialite"
+  ]
+ },
+ {
+  "q": "comment je garde un résumé de ce qu'on s'est dit",
+  "expect": [
+   "resume-qr"
+  ]
+ },
+ {
+  "q": "y a quoi comme events sur le campus cette semaine",
+  "expect": [
+   "evenements",
+   "g-evenements-publics"
+  ]
+ },
+ {
+  "q": "c koi la semaine 101",
+  "expect": [
+   "c-semaine-101",
+   "z-semaine-101-dates"
+  ]
+ },
+ {
+  "q": "welcom week",
+  "expect": [
+   "c-semaine-accueil",
+   "z-semaine-accueil-programme"
+  ]
+ },
+ {
+  "q": "how many guests can I bring to convocation",
+  "expect": [
+   "c-billets-collation"
+  ]
+ },
+ {
+  "q": "pourquoi on s'appelle les Gee-Gees?",
+  "expect": [
+   "g-nom-gee-gees"
+  ]
+ },
+ {
+  "q": "est-ce que l'université fête le 25 septembre, la journée des franco-ontariens?",
+  "expect": [
+   "g-jour-franco-ontarien"
+  ]
+ },
+ {
+  "q": "do I get a free coffee if I bring my own mug",
+  "expect": [
+   "g-tasse-reutilisable"
+  ]
+ },
+ {
+  "q": "ou acheter billets match gee gees",
+  "expect": [
+   "l-billets-ou-acheter"
+  ]
+ },
+ {
+  "q": "can my club book a group outing to a Gee-Gees game",
+  "expect": [
+   "l-groupes-matchs"
+  ]
+ },
+ {
+  "q": "coupe alerts",
+  "expect": [
+   "l-coupe-alerts"
+  ]
+ },
+ {
+  "q": "assemblee generale du seuo",
+  "expect": [
+   "l-seuo-assemblee-generale"
+  ]
+ },
+ {
+  "q": "what is uoshow",
+  "expect": [
+   "z-uoshow"
+  ]
+ },
+ {
+  "q": "mois de la francophonie",
+  "expect": [
+   "z-mois-francophonie"
+  ]
+ },
+ {
+  "q": "is there an awards night for gee gees athletes",
+  "expect": [
+   "z-prix-gee-gees"
+  ]
+ },
+ {
+  "q": "atelier endometriose",
+  "expect": [
+   "zd-ateliers-sante-menstruelle"
+  ]
+ },
+ {
+  "q": "pride game volleyball",
+  "expect": [
+   "zd-match-fierte-volleyball"
+  ]
+ },
+ {
+  "q": "comment ça se passe la cérémonie de collation, on marche sur le stage?",
+  "expect": [
+   "zd-collation-deroulement"
+  ]
+ },
+ {
+  "q": "my parents are coming for my graduation where can they stay",
+  "expect": [
+   "zd-collation-hebergement"
+  ]
+ },
+ {
+  "q": "le match Panda c'est quoi",
+  "expect": [
+   "g-match-panda"
+  ]
+ },
+ {
+  "q": "comment je fais pour rejoinde un club",
+  "expect": [
+   "clubs",
+   "c-foire-clubs"
+  ]
+ },
+ {
+  "q": "how do i strat my own club",
+  "expect": [
+   "creer-club"
+  ]
+ },
+ {
+  "q": "c'est quoi le SEUO",
+  "expect": [
+   "seuo",
+   "c-seuo-membre"
+  ]
+ },
+ {
+  "q": "is there an engineering student society",
+  "expect": [
+   "ess-genie",
+   "l-aeg-genie"
+  ]
+ },
+ {
+  "q": "association facultaire c'est quoi",
+  "expect": [
+   "c-associations-facultaires"
+  ]
+ },
+ {
+  "q": "grad student association",
+  "expect": [
+   "c-gsaed"
+  ]
+ },
+ {
+  "q": "ou joue l'equipe de hockey des gars",
+  "expect": [
+   "l-hockey-masculin"
+  ]
+ },
+ {
+  "q": "cross contry team",
+  "expect": [
+   "l-athletisme-cross-country"
+  ]
+ },
+ {
+  "q": "y a tu de la crosse a uottawa",
+  "expect": [
+   "l-crosse"
+  ]
+ },
+ {
+  "q": "water polo team?",
+  "expect": [
+   "l-badminton-golf-waterpolo"
+  ]
+ },
+ {
+  "q": "telfer studnet association",
+  "expect": [
+   "l-association-telfer"
+  ]
+ },
+ {
+  "q": "esports",
+  "expect": [
+   "l-esports",
+   "q-club-esports"
+  ]
+ },
+ {
+  "q": "what kinds of clubs are there",
+  "expect": [
+   "q-clubs-categories"
+  ]
+ },
+ {
+  "q": "anakbayan",
+  "expect": [
+   "q-club-anakbayan"
+  ]
+ },
+ {
+  "q": "asso des étudiants ivoiriens",
+  "expect": [
+   "q-club-ivorian"
+  ]
+ },
+ {
+  "q": "BIPOC business society",
+  "expect": [
+   "q-club-bipoc-business"
+  ]
+ },
+ {
+  "q": "black students in STEM association",
+  "expect": [
+   "q-club-black-stem"
+  ]
+ },
+ {
+  "q": "brazily fitness c koi",
+  "expect": [
+   "q-club-brazily-fitness"
+  ]
+ },
+ {
+  "q": "caribbean students association",
+  "expect": [
+   "q-club-caribbean"
+  ]
+ },
+ {
+  "q": "asso etudiante en droit criminel",
+  "expect": [
+   "q-club-criminal-law"
+  ]
+ },
+ {
+  "q": "Hillel Ottawa",
+  "expect": [
+   "q-club-hillel"
+  ]
+ },
+ {
+  "q": "club latino",
+  "expect": [
+   "q-club-latin-american-heritage"
+  ]
+ },
+ {
+  "q": "club culturel libanais",
+  "expect": [
+   "q-club-lebanese-cultural-lcc"
+  ]
+ },
+ {
+  "q": "MERCI medical equipment club",
+  "expect": [
+   "q-club-medical-equipment-redistribution-collaborative"
+  ]
+ },
+ {
+  "q": "new media club",
+  "expect": [
+   "q-club-new-media"
+  ]
+ },
+ {
+  "q": "refugee support association",
+  "expect": [
+   "q-club-refugee-support"
+  ]
+ },
+ {
+  "q": "TEDx uottawa",
+  "expect": [
+   "q-club-tedxuottawa"
+  ]
+ },
+ {
+  "q": "association marketing telfer",
+  "expect": [
+   "q-club-telfer-marketing"
+  ]
+ },
+ {
+  "q": "U of O ski and snow club",
+  "expect": [
+   "q-club-u-o-ski-snow"
+  ]
+ },
+ {
+  "q": "club de langue des signes americaine",
+  "expect": [
+   "q-club-asl"
+  ]
+ },
+ {
+  "q": "undergrad research initiative",
+  "expect": [
+   "q-club-undergraduate-research-initiative"
+  ]
+ },
+ {
+  "q": "y a-tu un club de lecture?",
+  "expect": [
+   "q-club-avid-readers",
+   "q-club-page-turners"
+  ]
+ },
+ {
+  "q": "club de velo",
+  "expect": [
+   "q-club-cycling"
+  ]
+ },
+ {
+  "q": "global medical brigades",
+  "expect": [
+   "q-club-global-medical-brigade"
+  ]
+ },
+ {
+  "q": "Hong Kong cultural association",
+  "expect": [
+   "q-club-hong-kong-cultural"
+  ]
+ },
+ {
+  "q": "asso marocaime",
+  "expect": [
+   "q-club-moroccan"
+  ]
+ },
+ {
+  "q": "outdoors club for hiking and camping",
+  "expect": [
+   "q-club-outdoors"
+  ]
+ },
+ {
+  "q": "club de theatr",
+  "expect": [
+   "q-club-theatre"
+  ]
+ },
+ {
+  "q": "club de danse de l'uottawa",
+  "expect": [
+   "q-club-dance"
+  ]
+ },
+ {
+  "q": "escrime gee gees",
+  "expect": [
+   "q-club-geegees-fencing"
+  ]
+ },
+ {
+  "q": "mature students association",
+  "expect": [
+   "q-club-mature"
+  ]
+ },
+ {
+  "q": "team diabetes",
+  "expect": [
+   "q-club-team-diabetes"
+  ]
+ },
+ {
+  "q": "j'ai perdu ma grand-mère, y a-tu un endroit calme sur le campus pour me recueillir?",
+  "expect": [
+   "z-seuo-centre-deuil"
+  ]
+ },
+ {
+  "q": "free tax filing for grad students",
+  "expect": [
+   "z-gsaed-impots-ufile"
+  ]
+ },
+ {
+  "q": "clubs pis événements a telfer",
+  "expect": [
+   "n-telfer-evenements-clubs"
+  ]
+ },
+ {
+  "q": "where does the gee gees footbal team play",
+  "expect": [
+   "l-football"
+  ]
+ },
+ {
+  "q": "Fed Up campaign UOSU",
+  "expect": [
+   "z-seuo-fed-up"
+  ]
+ },
+ {
+  "q": "reserver une salle a la gradhouse",
+  "expect": [
+   "z-gsaed-salles-gradhouse"
+  ]
+ },
+ {
+  "q": "indigenous students association",
+  "expect": [
+   "l-association-etudiants-autochtones"
+  ]
+ },
+ {
+  "q": "how do I volunteer with the students union",
+  "expect": [
+   "l-benevolat-seuo"
+  ]
+ },
+ {
+  "q": "ou est le centre de sante",
+  "expect": [
+   "sante"
+  ]
+ },
+ {
+  "q": "la clinique c'est tu gratuit",
+  "expect": [
+   "c-frais-clinique"
+  ]
+ },
+ {
+  "q": "how does the student health insurance work",
+  "expect": [
+   "c-assurance-sante"
+  ]
+ },
+ {
+  "q": "je suis inscrit a aucun cours cette session, je peux quand meme aller a la clinique?",
+  "expect": [
+   "m-csme-sans-cours"
+  ]
+ },
+ {
+  "q": "fisio or massage therapy on campus",
+  "expect": [
+   "m-physio-massotherapie"
+  ]
+ },
+ {
+  "q": "j'ai le ramu pis j'ai vu un medecin, pourquoi j'ai recu une facture",
+  "expect": [
+   "n-ramu-voir-medecin-facture"
+  ]
+ },
+ {
+  "q": "I'm doing my semester remotely from back home, can I get exempted from UHIP?",
+  "expect": [
+   "n-ramu-etudes-hors-canada"
+  ]
+ },
+ {
+  "q": "I'm having suicidal thoughts, who can I call right now",
+  "expect": [
+   "x-ligne-988"
+  ]
+ },
+ {
+  "q": "grad student 24/7 mental health support",
+  "expect": [
+   "x-ssp-cycles-sup"
+  ]
+ },
+ {
+  "q": "groupe pour etudiants avec TDAH",
+  "expect": [
+   "x-groupe-tdah"
+  ]
+ },
+ {
+  "q": "salon du mieux etre heures",
+  "expect": [
+   "x-salon-mieux-etre"
+  ]
+ },
+ {
+  "q": "j'ai des problemes avec l'ecole, l'argent pis ma santé en meme temps, quelqu'un peut m'aider a tout gerer?",
+  "expect": [
+   "x-gestion-de-cas"
+  ]
+ },
+ {
+  "q": "free condums",
+  "expect": [
+   "x-condoms-gratuits"
+  ]
+ },
+ {
+  "q": "mon ami a trop bu pis il va pas bien",
+  "expect": [
+   "x-intoxication-alcool"
+  ]
+ },
+ {
+  "q": "im at saint paul university can i use the health centre",
+  "expect": [
+   "x-saint-paul-sante-mentale"
+  ]
+ },
+ {
+  "q": "uowellness app",
+  "expect": [
+   "x-appli-uowellness"
+  ]
+ },
+ {
+  "q": "how long is the wiat at the ER in ottawa",
+  "expect": [
+   "x-attente-urgence-hopital"
+  ]
+ },
+ {
+  "q": "trouver un medcin de famille a ottawa",
+  "expect": [
+   "x-trouver-medecin-famille"
+  ]
+ },
+ {
+  "q": "naloxne kit on campus",
+  "expect": [
+   "x-naloxone-campus"
+  ]
+ },
+ {
+  "q": "ou est le centre de soutien en violence sexuelle",
+  "expect": [
+   "x-centre-soutien-violence-sexuelle"
+  ]
+ },
+ {
+  "q": "what documents do I need for ADHD accommodations",
+  "expect": [
+   "x-documentation-tdah-accommodements"
+  ]
+ },
+ {
+  "q": "je suis sourde, y a des interpretes en langue des signes?",
+  "expect": [
+   "x-interpretation-langue-signes"
+  ]
+ },
+ {
+  "q": "part-time grad student, can I join the GSAED health plan",
+  "expect": [
+   "x-gsaed-assurance-adhesion"
+  ]
+ },
+ {
+  "q": "avec le ramu ou je peux consulter sans payer d'avance",
+  "expect": [
+   "x-ramu-reseau-cowan"
+  ]
+ },
+ {
+  "q": "y a de la fumee dans l'escalier je fais quoi",
+  "expect": [
+   "zd-fumee-corridor"
+  ]
+ },
+ {
+  "q": "someone is threatening me in person what do i do",
+  "expect": [
+   "zd-personne-menacante"
+  ]
+ },
+ {
+  "q": "espace pour les pratiques autochtones au centre de sante",
+  "expect": [
+   "zd-csme-espace-autochtone"
+  ]
+ },
+ {
+  "q": "how much to get a form filled out at the health centre",
+  "expect": [
+   "zd-csme-frais-formulaires"
+  ]
+ },
+ {
+  "q": "je suis en conge d'etudes, je peux encore aller au centre de sante?",
+  "expect": [
+   "zd-csme-etudes-interrompues"
+  ]
+ },
+ {
+  "q": "can the campus pharmacy test my cholesterol",
+  "expect": [
+   "zd-pharmacie-tests-sang"
+  ]
+ },
+ {
+  "q": "je suis pas etudiant, je peux utiliser la pharmacie du minto?",
+  "expect": [
+   "zd-pharmacie-public"
+  ]
+ },
+ {
+  "q": "I'm moving to Ontario from BC, what happens to my health card",
+  "expect": [
+   "zd-assurance-changer-province"
+  ]
+ },
+ {
+  "q": "compass",
+  "expect": [
+   "zd-compass"
+  ]
+ },
+ {
+  "q": "male survivor of sexual assault resources",
+  "expect": [
+   "zd-vs-hommes-survivants"
+  ]
+ },
+ {
+  "q": "quelqu'un fait une surdose, quoi faire",
+  "expect": [
+   "x-naloxone-surdose"
+  ]
+ },
+ {
+  "q": "est-ce que je dois payer pour mes rendez-vous en sante mentale",
+  "expect": [
+   "x-sante-mentale-facturation-assurance"
+  ]
+ },
+ {
+  "q": "frais de scolarit combien",
+  "expect": [
+   "frais-scolarite"
+  ]
+ },
+ {
+  "q": "OSAP",
+  "expect": [
+   "osap"
+  ]
+ },
+ {
+  "q": "payment plan for grad students",
+  "expect": [
+   "e-plan-paiement-cycles-superieurs"
+  ]
+ },
+ {
+  "q": "can i pay my fees with a cheque",
+  "expect": [
+   "e-payer-cheque"
+  ]
+ },
+ {
+  "q": "remboursement interac quand",
+  "expect": [
+   "e-remboursement-interac"
+  ]
+ },
+ {
+  "q": "bourse pour etudier en francais",
+  "expect": [
+   "e-bourse-etudes-francais"
+  ]
+ },
+ {
+  "q": "I'm broke and can't pay rent, is there emergency money",
+  "expect": [
+   "e-pret-urgence"
+  ]
+ },
+ {
+  "q": "what happens to the rest of my OSAP after tuition is paid",
+  "expect": [
+   "e-osap-surplus"
+  ]
+ },
+ {
+  "q": "mes parents restent en ontario mais pas moi, je suis considéré ontarien?",
+  "expect": [
+   "k-etudiant-a-charge-ontario"
+  ]
+ },
+ {
+  "q": "je dois encore de l'argent a l'universite, je peux aller a ma collation?",
+  "expect": [
+   "k-solde-du-collation"
+  ]
+ },
+ {
+  "q": "my payment doesnt show up on my account statement",
+  "expect": [
+   "n-compte-paiement-non-affiche"
+  ]
+ },
+ {
+  "q": "deadline international fee exemption",
+  "expect": [
+   "y-exoneration-dates-limites"
+  ]
+ },
+ {
+  "q": "bourse doctorat pour faire de la recherche a l'etranger",
+  "expect": [
+   "y-bourse-mobilite-recherche-doctorat"
+  ]
+ },
+ {
+  "q": "erasmus+",
+  "expect": [
+   "y-bourse-erasmus"
+  ]
+ },
+ {
+  "q": "Loran scolarship",
+  "expect": [
+   "z-bourse-loran"
+  ]
+ },
+ {
+  "q": "bource jean chretien",
+  "expect": [
+   "z-bourse-jean-chretien"
+  ]
+ },
+ {
+  "q": "I grew up in foster care, is there any financial help for me",
+  "expect": [
+   "z-bourse-jeunes-proteges"
+  ]
+ },
+ {
+  "q": "ma moyenne est 7.95, ils arrondissent pour garder ma bourse?",
+  "expect": [
+   "z-bourse-moyenne-arrondie"
+  ]
+ },
+ {
+  "q": "mackenzie king",
+  "expect": [
+   "z-bourse-mackenzie-king"
+  ]
+ },
+ {
+  "q": "how long does osap take and when's the deadline",
+  "expect": [
+   "z-rafeo-delai"
+  ]
+ },
+ {
+  "q": "is my program eligible for OSAP",
+  "expect": [
+   "z-rafeo-programmes-exclus"
+  ]
+ },
+ {
+  "q": "I'm American, can I use US federal loans at uOttawa",
+  "expect": [
+   "z-prets-americains"
+  ]
+ },
+ {
+  "q": "combien ca coute une premiere annee de bac pour un etudiant ontarien",
+  "expect": [
+   "z-cout-annee-ontario"
+  ]
+ },
+ {
+  "q": "ancilary fees per term",
+  "expect": [
+   "z-droits-accessoires-montants"
+  ]
+ },
+ {
+  "q": "double majeure c'est quel programme qui decide mes frais",
+  "expect": [
+   "z-premiere-discipline-droits"
+  ]
+ },
+ {
+  "q": "combien coute un examen de reprise",
+  "expect": [
+   "z-frais-examen-reprise"
+  ]
+ },
+ {
+  "q": "I typed the wrong answer for my Interac refund, how do I get my money",
+  "expect": [
+   "z-remboursement-interac-problemes"
+  ]
+ },
+ {
+  "q": "upas payer quand",
+  "expect": [
+   "zc-upass-facture-automne"
+  ]
+ },
+ {
+  "q": "j'ai la double citoyenneté canadienne, j'ai droit aux bourses internationales?",
+  "expect": [
+   "zc-bourse-internationale-double-citoyennete"
+  ]
+ },
+ {
+  "q": "tips for using a credit card without going into debt",
+  "expect": [
+   "zc-carte-credit-conseils"
+  ]
+ },
+ {
+  "q": "certificat medical remboursement quoi mettre",
+  "expect": [
+   "zc-remboursement-certificat-medical"
+  ]
+ },
+ {
+  "q": "what happens if i pay tuition late",
+  "expect": [
+   "e-frais-retard"
+  ]
+ },
+ {
+  "q": "payer mes frais de l'etranger",
+  "expect": [
+   "e-payer-etranger"
+  ]
+ },
+ {
+  "q": "T2202",
+  "expect": [
+   "e-recu-impot-t2202"
+  ]
+ },
+ {
+  "q": "osap coop summer term",
+  "expect": [
+   "z-rafeo-coop-ete"
+  ]
+ },
+ {
+  "q": "international tuition how much",
+  "expect": [
+   "frais-internationaux"
+  ]
+ },
+ {
+  "q": "engineering admission scholarship for equity and diversity",
+  "expect": [
+   "z-bourse-genie-edi"
+  ]
+ }
+]

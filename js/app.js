@@ -235,6 +235,16 @@ function ask(text, id, opts = {}) {
     $('#view').prepend(asked(q));
     gg?.react(res.type);
     say(t(res.type), p);
+  } else if (res.type === 'smalltalk' || res.type === 'unclear') {
+    // Bavardage ou charabia : une courte réplique de Gee-Gee, puis les sujets pour repartir
+    const list = res.type === 'unclear' ? [t('unclear')] : t(`st_${res.intent}`);
+    const said = list[Math.floor(Math.random() * list.length)];
+    logExchange({ q, a: said, url: '', type: res.type });
+    if (res.type === 'unclear') bump((s) => { s.unanswered++; });
+    const p = spokenText(said);
+    setView(asked(q), p, h('p', { class: 'section', text: t('popular') }), topicTiles(profileTopics().slice(0, 3)));
+    gg?.react({ bye: 'bye', howareyou: 'hello', whoareyou: 'hello', help: 'answer', joke: 'answer', compliment: 'thanks', insult: 'none', yesno: 'answer' }[res.intent] || 'none');
+    say(said, p);
   } else {
     // Pas de fiche : on cherche dans l'index des ~36 000 pages officielles
     const pages = searchLinks(q, state.lang);

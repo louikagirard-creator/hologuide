@@ -1,0 +1,1529 @@
+[
+ {
+  "q": "cest ou le pavillon crx",
+  "expect": [
+   "crx"
+  ]
+ },
+ {
+  "q": "wheres the STEM complx",
+  "expect": [
+   "site"
+  ]
+ },
+ {
+  "q": "social sciences building FSS",
+  "expect": [
+   "fss"
+  ]
+ },
+ {
+  "q": "I have a meeting in Desmarais, how do I get there from here?",
+  "expect": [
+   "desmarais"
+  ]
+ },
+ {
+  "q": "tabarret hall",
+  "expect": [
+   "tabaret"
+  ]
+ },
+ {
+  "q": "campsu map pls",
+  "expect": [
+   "carte-campus"
+  ]
+ },
+ {
+  "q": "Je cherche le gym Montpetit, c'est dans quelle direction?",
+  "expect": [
+   "montpetit"
+  ]
+ },
+ {
+  "q": "where do i go for SASS academic success stuff",
+  "expect": [
+   "marie-curie"
+  ]
+ },
+ {
+  "q": "c'est quoi la politique sur le plagiat icitte",
+  "expect": [
+   "fraude-academique"
+  ]
+ },
+ {
+  "q": "j'ai eu une note que je trouve vraiment injuste, est-ce que je peux la contester?",
+  "expect": [
+   "note-appel"
+  ]
+ },
+ {
+  "q": "c koi etre en probation scolaire",
+  "expect": [
+   "probation"
+  ]
+ },
+ {
+  "q": "im sick and gonna mis my lecture tomorow, what am I supposed to do",
+  "expect": [
+   "absence-cours"
+  ]
+ },
+ {
+  "q": "heures morriset",
+  "expect": [
+   "bibliotheque",
+   "e-heures-morisset"
+  ]
+ },
+ {
+  "q": "ou je peux etudier tard le soir sur le campus",
+  "expect": [
+   "etudier-tard"
+  ]
+ },
+ {
+  "q": "reserver salle de travail en groupe a morisset",
+  "expect": [
+   "salle-etude",
+   "e-reserver-salle-morisset"
+  ]
+ },
+ {
+  "q": "I have a disability and need extra time on exams, who do I talk to?",
+  "expect": [
+   "sass",
+   "b-accommodements-scolaires",
+   "c-accommodements-scolaires"
+  ]
+ },
+ {
+  "q": "jcoule mes cours, y'a tu des ressources pour m'aider?",
+  "expect": [
+   "soutien-academique"
+  ]
+ },
+ {
+  "q": "quelquun peut maider a ecrire ma disertation?",
+  "expect": [
+   "redaction"
+  ]
+ },
+ {
+  "q": "need help with my resume and finding a co-op job",
+  "expect": [
+   "carriere",
+   "c-revision-cv"
+  ]
+ },
+ {
+  "q": "Mon cours se donne en anglais, mais je peux tu remettre mes travaux en français?",
+  "expect": [
+   "b-droit-langue-travaux"
+  ]
+ },
+ {
+  "q": "c'est quoi qui doit être obligatoirement dans un plan de cours",
+  "expect": [
+   "b-plan-de-cours"
+  ]
+ },
+ {
+  "q": "est-ce que j'ai le droit d'utiliser chatgpt pour mes devoirs",
+  "expect": [
+   "b-ia-integrite"
+  ]
+ },
+ {
+  "q": "is using cheg considerd cheating",
+  "expect": [
+   "b-sites-reponses-chegg"
+  ]
+ },
+ {
+  "q": "I need to miss an exam for Eid, how do I get an accommodation?",
+  "expect": [
+   "b-accommodement-religieux"
+  ]
+ },
+ {
+  "q": "moyene minimum pour avoir mon bac",
+  "expect": [
+   "b-conditions-baccalaureat"
+  ]
+ },
+ {
+  "q": "combien de cours faut que je fasse a uottawa pour avoir mon diplome si je viens dun autre college",
+  "expect": [
+   "b-exigence-residence"
+  ]
+ },
+ {
+  "q": "can I do a second bachelors at uottawa after finishing my first one",
+  "expect": [
+   "b-deuxieme-baccalaureat"
+  ]
+ },
+ {
+  "q": "ma premiere annee a ete un desastre, je peux recommencer a zero?",
+  "expect": [
+   "b-reinitialisation-scolaire"
+  ]
+ },
+ {
+  "q": "What do I do if there's an emergency right now on campus",
+  "expect": [
+   "c-urgence-campus"
+  ]
+ },
+ {
+  "q": "Je finis tard pis j'ai pas envie de marcher toute seule jusqu'au train, quelqu'un peut m'accompagner?",
+  "expect": [
+   "c-raccompagnement"
+  ]
+ },
+ {
+  "q": "objet perdu",
+  "expect": [
+   "c-objets-perdus"
+  ]
+ },
+ {
+  "q": "jai perdu ma carte etudiantte",
+  "expect": [
+   "c-carte-perdue"
+  ]
+ },
+ {
+  "q": "ma carte marche pu, elle ouvre plus les portes",
+  "expect": [
+   "c-carte-defectueuse",
+   "d-service-carte"
+  ]
+ },
+ {
+  "q": "y'a tu de la bouffe halal ou vegé",
+  "expect": [
+   "c-options-alimentaires"
+  ]
+ },
+ {
+  "q": "where can i pray",
+  "expect": [
+   "c-salle-priere",
+   "x-salles-priere"
+  ]
+ },
+ {
+  "q": "my bike chain broke, anywhere to fix it on campus?",
+  "expect": [
+   "c-velo-coop",
+   "w-velo-stations-reparation"
+  ]
+ },
+ {
+  "q": "Is there somewhere private I can breastfeed my baby?",
+  "expect": [
+   "c-salle-allaitement"
+  ]
+ },
+ {
+  "q": "j'ai l'impression que l'université m'a traité injustement, a qui je peux en parler",
+  "expect": [
+   "c-ombud"
+  ]
+ },
+ {
+  "q": "harcelemnt discrimination qui contacter",
+  "expect": [
+   "c-droits-personne"
+  ]
+ },
+ {
+  "q": "who helps students with an academic appeal",
+  "expect": [
+   "c-centre-droits-etudiants"
+  ]
+ },
+ {
+  "q": "how do I prep for a job intervew",
+  "expect": [
+   "c-simulation-entrevue"
+  ]
+ },
+ {
+  "q": "fauteux hall",
+  "expect": [
+   "d-fauteux"
+  ]
+ },
+ {
+  "q": "ou est simmard",
+  "expect": [
+   "d-simard"
+  ]
+ },
+ {
+  "q": "pavillon hamlin",
+  "expect": [
+   "d-hamelin"
+  ]
+ },
+ {
+  "q": "where is morriset",
+  "expect": [
+   "d-morisset"
+  ]
+ },
+ {
+  "q": "Perez hall, the music building",
+  "expect": [
+   "d-perez"
+  ]
+ },
+ {
+  "q": "le departement d'arts visuels c'est ou?",
+  "expect": [
+   "d-100-laurier"
+  ]
+ },
+ {
+  "q": "roger guidon c ou",
+  "expect": [
+   "d-roger-guindon"
+  ]
+ },
+ {
+  "q": "c'est quoi la grosse bâtisse en vitre sur King Edward?",
+  "expect": [
+   "d-centrale-thermique"
+  ]
+ },
+ {
+  "q": "history department office?",
+  "expect": [
+   "d-seraphin-marion"
+  ]
+ },
+ {
+  "q": "math and stat departement where",
+  "expect": [
+   "d-king-edward"
+  ]
+ },
+ {
+  "q": "what do the letters like MRT or SMD mean on my schedule",
+  "expect": [
+   "d-codes-pavillons"
+  ]
+ },
+ {
+  "q": "y'a tu une station de train sur le campus?",
+  "expect": [
+   "d-station-uottawa"
+  ]
+ },
+ {
+  "q": "how do I get to lees campus from here",
+  "expect": [
+   "d-aller-lees"
+  ]
+ },
+ {
+  "q": "horraire navette",
+  "expect": [
+   "d-navette-horaire",
+   "navette"
+  ]
+ },
+ {
+  "q": "where do I catch the shuttle",
+  "expect": [
+   "d-navette-arret"
+  ]
+ },
+ {
+  "q": "u pass comment ca marche",
+  "expect": [
+   "d-upass-utiliser"
+  ]
+ },
+ {
+  "q": "est-ce que ma upass marche l'été",
+  "expect": [
+   "d-upass-ete"
+  ]
+ },
+ {
+  "q": "Just landed at the Ottawa airport, how do I get to the university?",
+  "expect": [
+   "d-aeroport"
+  ]
+ },
+ {
+  "q": "vignette de stationnement comment l'avoir",
+  "expect": [
+   "d-vignette-stationnement"
+  ]
+ },
+ {
+  "q": "where is the parking office",
+  "expect": [
+   "d-bureau-stationnement"
+  ]
+ },
+ {
+  "q": "j'ai eu un ticket de parking sur le campus, je fais quoi",
+  "expect": [
+   "d-contravention"
+  ]
+ },
+ {
+  "q": "EV chargin station",
+  "expect": [
+   "d-borne-recharge"
+  ]
+ },
+ {
+  "q": "Para Transpo pick up spots on campus",
+  "expect": [
+   "d-para-transpo"
+  ]
+ },
+ {
+  "q": "law library study room booking",
+  "expect": [
+   "e-salle-etude-droit"
+  ]
+ },
+ {
+  "q": "Where is the Brian Dickson library",
+  "expect": [
+   "e-biblio-droit",
+   "d-bibliotheque-droit"
+  ]
+ },
+ {
+  "q": "biblio sciences de la sante c ou",
+  "expect": [
+   "e-biblio-sciences-sante"
+  ]
+ },
+ {
+  "q": "combien ca coute imprimmer a la biblio",
+  "expect": [
+   "e-cout-impression-biblio"
+  ]
+ },
+ {
+  "q": "la biblio a pas le livre que je veux, je peux l'emprunter d'une autre universite?",
+  "expect": [
+   "e-pret-entre-bibliotheques"
+  ]
+ },
+ {
+  "q": "I need help formatting my bibliography and citing sources",
+  "expect": [
+   "e-aide-citation"
+  ]
+ },
+ {
+  "q": "quiet floor in morisset?",
+  "expect": [
+   "e-zones-silencieuses"
+  ]
+ },
+ {
+  "q": "late fes library?",
+  "expect": [
+   "e-amendes-biblio"
+  ]
+ },
+ {
+  "q": "la biblio est fermée, ou je retourne mon livre",
+  "expect": [
+   "e-retour-livre"
+  ]
+ },
+ {
+  "q": "how do I put a hold on a book thats checked out and get it when its ready",
+  "expect": [
+   "e-reserver-livre"
+  ]
+ },
+ {
+  "q": "acceder aux articles de la biblio de chez nous",
+  "expect": [
+   "e-ressources-distance"
+  ]
+ },
+ {
+  "q": "Is it okay to just study in CRX?",
+  "expect": [
+   "e-carrefour-apprentissage"
+  ]
+ },
+ {
+  "q": "depuis quand l'universite est bilingue",
+  "expect": [
+   "g-bilinguisme-histoire"
+  ]
+ },
+ {
+  "q": "On est sur le territoire de quelle nation autochtone ici?",
+  "expect": [
+   "g-territoire-algonquin"
+  ]
+ },
+ {
+  "q": "J'ai une idée de startup, où je vais pour avoir de l'aide?",
+  "expect": [
+   "g-carrefour-entrepreneuriat",
+   "h-carrefour-entrepreneuriat"
+  ]
+ },
+ {
+  "q": "mon fils veut venir etudier ici l'an prochain, qui peut nous renseigner?",
+  "expect": [
+   "g-bureau-liaison"
+  ]
+ },
+ {
+  "q": "entree accessible CRX",
+  "expect": [
+   "g-crx-entrees-accessibles"
+  ]
+ },
+ {
+  "q": "toilletes CRX",
+  "expect": [
+   "g-crx-toilettes",
+   "i-innova-toilettes"
+  ]
+ },
+ {
+  "q": "gender nuetral bathroom",
+  "expect": [
+   "g-toilettes-non-genrees",
+   "i-toilettes-non-genrees-campus"
+  ]
+ },
+ {
+  "q": "je suis en fauteuil roulant, comment je me prépare si il faut evacuer le batiment?",
+  "expect": [
+   "g-plan-urgence-personnalise"
+  ]
+ },
+ {
+  "q": "fire alarm goin off what do i do",
+  "expect": [
+   "g-alarme-incendie"
+  ]
+ },
+ {
+  "q": "J'vois de la fumée qui sort d'un local dans le pavillon, je fais quoi?",
+  "expect": [
+   "g-decouvrir-feu"
+  ]
+ },
+ {
+  "q": "run hide defend meaning",
+  "expect": [
+   "g-courir-cacher-defendre",
+   "x-courir-cacher-defendre"
+  ]
+ },
+ {
+  "q": "c quoi une alerte garder et securiser",
+  "expect": [
+   "g-garder-securiser",
+   "x-tenir-et-securiser"
+  ]
+ },
+ {
+  "q": "whats sheltr in place",
+  "expect": [
+   "g-abri-sur-place",
+   "x-abriter-sur-place"
+  ]
+ },
+ {
+  "q": "sac abandonné louche dans le couloir, je fais quoi?",
+  "expect": [
+   "g-colis-suspect"
+  ]
+ },
+ {
+  "q": "pourquoi y'a pas de bouteilles d'eau en vente sur le campus",
+  "expect": [
+   "g-eau-embouteillee",
+   "i-eau-en-bouteille"
+  ]
+ },
+ {
+  "q": "I graduated last year, am I in the alumni association?",
+  "expect": [
+   "g-association-diplomes"
+  ]
+ },
+ {
+  "q": "je peux travailler sur le campus pendant mes etudes?",
+  "expect": [
+   "g-emplois-etudiants-campus",
+   "h-emploi-campus"
+  ]
+ },
+ {
+  "q": "coop salary how much do you make and for how many months",
+  "expect": [
+   "h-coop-salaire-duree"
+  ]
+ },
+ {
+  "q": "comment trouvé mon stage coop",
+  "expect": [
+   "h-coop-trouver-stage"
+  ]
+ },
+ {
+  "q": "can i do my coop in vancouver or somewhere else in canada",
+  "expect": [
+   "h-coop-national"
+  ]
+ },
+ {
+  "q": "can I walk in to see a career counsellor without an appointment?",
+  "expect": [
+   "h-carriere-sans-rendez-vous"
+  ]
+ },
+ {
+  "q": "Got an email offering me a job from \"uOttawa\", seems sketchy",
+  "expect": [
+   "h-emploi-arnaques"
+  ]
+ },
+ {
+  "q": "comment avoir une attestation officielle de mes heures de benevolat",
+  "expect": [
+   "h-dossier-cocurriculaire"
+  ]
+ },
+ {
+  "q": "where can I practice my french conversation",
+  "expect": [
+   "h-ateliers-conversation"
+  ]
+ },
+ {
+  "q": "c'est quoi INNOVA",
+  "expect": [
+   "i-innova"
+  ]
+ },
+ {
+  "q": "accessible washroom crx",
+  "expect": [
+   "i-crx-toilettes-accessibles"
+  ]
+ },
+ {
+  "q": "CRX wheelchair accessible?",
+  "expect": [
+   "i-crx-accessibilite"
+  ]
+ },
+ {
+  "q": "aller du CRX aux autres pavillons sans sortir dehors, c'est possible?",
+  "expect": [
+   "i-crx-passages"
+  ]
+ },
+ {
+  "q": "ou je peux m'assoir pour attendre dans le crx",
+  "expect": [
+   "i-crx-salons"
+  ]
+ },
+ {
+  "q": "digitl skills hub",
+  "expect": [
+   "i-centre-competences-numeriques"
+  ]
+ },
+ {
+  "q": "podcast recording studio",
+  "expect": [
+   "i-studio-balado"
+  ]
+ },
+ {
+  "q": "where can i try VR",
+  "expect": [
+   "i-realite-virtuelle"
+  ]
+ },
+ {
+  "q": "tim hortons crx",
+  "expect": [
+   "i-crx-tim-hortons",
+   "i-tim-hortons-campus"
+  ]
+ },
+ {
+  "q": "y a til un thai express pas loin",
+  "expect": [
+   "i-thai-express"
+  ]
+ },
+ {
+  "q": "manger dans le pavillon SITE",
+  "expect": [
+   "i-site-manger",
+   "za-site-atrium"
+  ]
+ },
+ {
+  "q": "I'm at UCU, where can I grab lunch?",
+  "expect": [
+   "i-ucu-manger"
+  ]
+ },
+ {
+  "q": "pub sur le campu",
+  "expect": [
+   "i-pub-campus"
+  ]
+ },
+ {
+  "q": "I'm starving it's 1am, anything open near campus?",
+  "expect": [
+   "i-manger-apres-minuit"
+  ]
+ },
+ {
+  "q": "chinesse food on campus?",
+  "expect": [
+   "i-flour-kitchen"
+  ]
+ },
+ {
+  "q": "remplir ma gourde d'eau",
+  "expect": [
+   "i-eau-potable"
+  ]
+ },
+ {
+  "q": "are there therapy dogs on campus during exams",
+  "expect": [
+   "i-chiens-therapie"
+  ]
+ },
+ {
+  "q": "comment je reserve ma photo de finissant gratuite",
+  "expect": [
+   "i-photo-gratuite",
+   "n-collation-photo-rendez-vous"
+  ]
+ },
+ {
+  "q": "relever de note non oficiel",
+  "expect": [
+   "k-releve-non-officiel"
+  ]
+ },
+ {
+  "q": "I need my official transcript in digital format for grad school applications",
+  "expect": [
+   "k-releve-officiel-numerique"
+  ]
+ },
+ {
+  "q": "send my transcript to an employer",
+  "expect": [
+   "k-releve-envoi-tiers"
+  ]
+ },
+ {
+  "q": "j'ai besoin d'une preuve officielle que je suis inscrit pour mon proprio",
+  "expect": [
+   "k-attestation-etudes-officielle"
+  ]
+ },
+ {
+  "q": "j'ai perdu mon diplôme, comment en ravoir un autre",
+  "expect": [
+   "k-duplicata-diplome"
+  ]
+ },
+ {
+  "q": "my employer wants to verify my degree, how does it work",
+  "expect": [
+   "k-auradata-verification"
+  ]
+ },
+ {
+  "q": "est-ce que ma mere peut avoir acces a mes notes",
+  "expect": [
+   "k-parents-acces-dossier"
+  ]
+ },
+ {
+  "q": "change legal name in my student file",
+  "expect": [
+   "k-changer-nom-officiel"
+  ]
+ },
+ {
+  "q": "je veux utiliser mon nom choisi au lieu de mon nom legal",
+  "expect": [
+   "k-nom-privilegie"
+  ]
+ },
+ {
+  "q": "combien de credits pour etre a temps plein",
+  "expect": [
+   "k-temps-plein-frais-statut"
+  ]
+ },
+ {
+  "q": "how do I apply to graduate",
+  "expect": [
+   "k-comment-demander-diplome"
+  ]
+ },
+ {
+  "q": "suma cum laude meaning",
+  "expect": [
+   "k-mentions-distinction"
+  ]
+ },
+ {
+  "q": "la collation des grades ça se passe où?",
+  "expect": [
+   "k-collation-lieu-acces"
+  ]
+ },
+ {
+  "q": "documents pour prolonger mon permis d'etudes",
+  "expect": [
+   "k-documents-prolongation-permis"
+  ]
+ },
+ {
+  "q": "is the gym membership included in my fees?",
+  "expect": [
+   "l-abonnement-etudiant-inclus"
+  ]
+ },
+ {
+  "q": "mon chum est pas étudiant, il peut s'abonner au gym?",
+  "expect": [
+   "l-abonnement-communaute"
+  ]
+ },
+ {
+  "q": "gym locker rental",
+  "expect": [
+   "l-casiers-montpetit"
+  ]
+ },
+ {
+  "q": "woman only gym hours",
+  "expect": [
+   "l-heures-femmes-gym"
+  ]
+ },
+ {
+  "q": "casque obligatoire pour patiner a minto?",
+  "expect": [
+   "l-patinage-casque"
+  ]
+ },
+ {
+  "q": "I don't have a team, can I still join intramurals?",
+  "expect": [
+   "l-intramuros-individuel"
+  ]
+ },
+ {
+  "q": "can I opt out of UOSU fees",
+  "expect": [
+   "l-seuo-prelevements"
+  ]
+ },
+ {
+  "q": "centre de la fiertée LGBTQ",
+  "expect": [
+   "l-centre-fierte"
+  ]
+ },
+ {
+  "q": "free pads or a pregnancy test on campus?",
+  "expect": [
+   "l-centre-ressources-feministes"
+  ]
+ },
+ {
+  "q": "can I share my parking permit with my roommate",
+  "expect": [
+   "m-permis-partage"
+  ]
+ },
+ {
+  "q": "les permis de stationnement sont tous vendus, quoi faire?",
+  "expect": [
+   "m-permis-indisponibles",
+   "w-stat-permis-etudiant-epuises"
+  ]
+ },
+ {
+  "q": "l'ombudsman c'est confidentiel?",
+  "expect": [
+   "m-ombud-confidentialite"
+  ]
+ },
+ {
+  "q": "public computers library",
+  "expect": [
+   "r-ordinateurs-publics-bibliotheque"
+  ]
+ },
+ {
+  "q": "SIMDUT obligatoire pour travailler en labo?",
+  "expect": [
+   "r-simdut-obligatoire"
+  ]
+ },
+ {
+  "q": "Accident in my lab, someone got burned, who do I call?",
+  "expect": [
+   "r-urgence-labo"
+  ]
+ },
+ {
+  "q": "NRM facility",
+  "expect": [
+   "r-rmn-spectroscopie",
+   "s-centre-rmn"
+  ]
+ },
+ {
+  "q": "microdonnées Statistique Canada",
+  "expect": [
+   "r-cdro-statistique-canada",
+   "s-centre-donnees-ottawa-outaouais"
+  ]
+ },
+ {
+  "q": "my ISPR login isnt working",
+  "expect": [
+   "r-ispr-connexion-compte"
+  ]
+ },
+ {
+  "q": "plagiat pis violation du droit d'auteur c'est la meme chose?",
+  "expect": [
+   "n-droit-auteur-plagiat"
+  ]
+ },
+ {
+  "q": "je peux remettre le même travail dans deux cours?",
+  "expect": [
+   "v-autoplagiat",
+   "za-autoplagiat"
+  ]
+ },
+ {
+  "q": "c quoi les sanctions si je me fais pogner a tricher",
+  "expect": [
+   "v-sanctions-fraude"
+  ]
+ },
+ {
+  "q": "c'est ma premiere offense pis c'est mineur, qu'est-ce qui va m'arriver?",
+  "expect": [
+   "v-fraude-approche-pedagogique"
+  ]
+ },
+ {
+  "q": "got a misconduct allegation email, how long do i have to respond",
+  "expect": [
+   "v-fraude-allegation-reponse"
+  ]
+ },
+ {
+  "q": "si j'abandonne le cours l'accusation de fraude disparait tu?",
+  "expect": [
+   "v-fraude-abandon-cours"
+  ]
+ },
+ {
+  "q": "my teammate plagiarized in our group project, am I in trouble too?",
+  "expect": [
+   "v-travail-equipe-integrite"
+  ]
+ },
+ {
+  "q": "cours bilingue code avec un 9",
+  "expect": [
+   "zb-cours-bilingue-code"
+  ]
+ },
+ {
+  "q": "is attendance mandatory in classes",
+  "expect": [
+   "zb-assiduite-cours"
+  ]
+ },
+ {
+  "q": "je peux faire ma presentation orale en francais dans un cours en anglais?",
+  "expect": [
+   "zb-langue-presentations-orales"
+  ]
+ },
+ {
+  "q": "how many units for a major",
+  "expect": [
+   "zb-majeure-definition"
+  ]
+ },
+ {
+  "q": "difference entre double majeure et specialisation bidisciplinaire",
+  "expect": [
+   "zb-double-majeure-bidisciplinaire"
+  ]
+ },
+ {
+  "q": "what is a microprogram",
+  "expect": [
+   "zb-microprogramme-premier-cycle"
+  ]
+ },
+ {
+  "q": "do I need to be bilingual to study here",
+  "expect": [
+   "zb-bilinguisme-pas-exige"
+  ]
+ },
+ {
+  "q": "j'ai repris un cours que j'avais deja passé pis je l'ai coulé, qu'est-ce qui arrive?",
+  "expect": [
+   "zb-reprise-cours-perte-credits"
+  ]
+ },
+ {
+  "q": "can I get credits for my work experience",
+  "expect": [
+   "zb-reconnaissance-acquis"
+  ]
+ },
+ {
+  "q": "how are my carleton grades converted",
+  "expect": [
+   "zb-carleton-conversion-notes"
+  ]
+ },
+ {
+  "q": "why did i get an NC on my transcript for a course I took somewhere else with permission",
+  "expect": [
+   "zb-lettre-permission-releve"
+  ]
+ },
+ {
+  "q": "combien de temps j'ai pour finir mon doctorat",
+  "expect": [
+   "zb-cs-temps-limite-doctorat"
+  ]
+ },
+ {
+  "q": "passer de la maitrise au doc sans finir la maitrise",
+  "expect": [
+   "zb-cs-passage-maitrise-doctorat"
+  ]
+ },
+ {
+  "q": "I owe money to the university, can I still get my diploma?",
+  "expect": [
+   "zb-cs-solde-documents-officiels"
+  ]
+ },
+ {
+  "q": "full time grad student how many hours can I work",
+  "expect": [
+   "zb-cs-temps-plein-emploi"
+  ]
+ },
+ {
+  "q": "does my survey project need ethics approval",
+  "expect": [
+   "u-ethique-quand"
+  ]
+ },
+ {
+  "q": "combien de temps la faculte garde mon dossier etudiant",
+  "expect": [
+   "zb-conservation-dossier-faculte"
+  ]
+ },
+ {
+  "q": "relance scolaire combien ca coute pis combien de temps",
+  "expect": [
+   "n-relance-delai-frais"
+  ]
+ },
+ {
+  "q": "with an academic reset do my old grades get erased?",
+  "expect": [
+   "n-relance-notes-cours"
+  ]
+ },
+ {
+  "q": "I'm international, what happens if I take less than 12 credits?",
+  "expect": [
+   "k-international-temps-partiel"
+  ]
+ },
+ {
+  "q": "etudiant international, je veux prendre un conge de mes etudes",
+  "expect": [
+   "k-conge-autorise-international"
+  ]
+ },
+ {
+  "q": "past law exmas",
+  "expect": [
+   "za-examens-anterieurs-droit"
+  ]
+ },
+ {
+  "q": "bloomberg terminl",
+  "expect": [
+   "za-labo-finance-bloomberg"
+  ]
+ },
+ {
+  "q": "la biblio peut m'envoyer des livres par la poste?",
+  "expect": [
+   "za-livraison-domicile"
+  ]
+ },
+ {
+  "q": "I'm a student at McGill, can I borrow books here?",
+  "expect": [
+   "za-pret-autres-universites"
+  ]
+ },
+ {
+  "q": "pourquoi mon compte biblio est bloqué",
+  "expect": [
+   "za-privileges-suspendus"
+  ]
+ },
+ {
+  "q": "the database only shows the abstract, how do I get the full article",
+  "expect": [
+   "za-texte-integral-article"
+  ]
+ },
+ {
+  "q": "ou trouver les lectures que mon prof a mis en reserve",
+  "expect": [
+   "za-ares-reserve-cours"
+  ]
+ },
+ {
+  "q": "book is at the annex, how do I get it",
+  "expect": [
+   "za-annexe-entreposage"
+  ]
+ },
+ {
+  "q": "grad student carrel at Morisset",
+  "expect": [
+   "za-carrels-morisset"
+  ]
+ },
+ {
+  "q": "can a librarian help me with a systematic review",
+  "expect": [
+   "za-synthese-connaissances"
+  ]
+ },
+ {
+  "q": "ordi avec ArcGIS a morisset",
+  "expect": [
+   "za-labo-sig-morisset"
+  ]
+ },
+ {
+  "q": "how do I find a uottawa thesys",
+  "expect": [
+   "za-trouver-theses"
+  ]
+ },
+ {
+  "q": "APA ou MLA, lequel je prends?",
+  "expect": [
+   "za-styles-citation"
+  ]
+ },
+ {
+  "q": "je voudrais que la biblio achete un livre",
+  "expect": [
+   "za-suggerer-achat"
+  ]
+ },
+ {
+  "q": "is the library open on stat holidays",
+  "expect": [
+   "za-heures-lees-crx-pointer"
+  ]
+ },
+ {
+  "q": "I lost a library book, how much do I have to pay?",
+  "expect": [
+   "za-equipement-retour"
+  ]
+ },
+ {
+  "q": "can i put copyrighted images in my class presentation",
+  "expect": [
+   "n-droit-auteur-travaux-etudiants"
+  ]
+ },
+ {
+  "q": "how long does copyright last in canada",
+  "expect": [
+   "n-droit-auteur-duree"
+  ]
+ },
+ {
+  "q": "un endroit a morisset pour faire un appel zoom sans deranger personne",
+  "expect": [
+   "za-morisset-cabine-telephonique"
+  ]
+ },
+ {
+  "q": "UCU accessible entrance",
+  "expect": [
+   "za-acces-ucu"
+  ]
+ },
+ {
+  "q": "how do I get into tabaret with a wheelchair",
+  "expect": [
+   "za-acces-tabaret"
+  ]
+ },
+ {
+  "q": "le monte-escalier a fauteux comment ca marche",
+  "expect": [
+   "za-monte-escalier-fauteux"
+  ]
+ },
+ {
+  "q": "pourquoi ca s'appelle Morisset",
+  "expect": [
+   "za-nom-morisset"
+  ]
+ },
+ {
+  "q": "who was jock turcot",
+  "expect": [
+   "za-nom-jock-turcot"
+  ]
+ },
+ {
+  "q": "departement de criminologie c'est ou",
+  "expect": [
+   "za-rue-stewart"
+  ]
+ },
+ {
+  "q": "are there tunnels under campus",
+  "expect": [
+   "za-tunnels-campus"
+  ]
+ },
+ {
+  "q": "is there a real courtroom in the law building",
+  "expect": [
+   "za-fauteux-salle-audience"
+  ]
+ },
+ {
+  "q": "can I go from UCU to Morisset without going outside? it's freezing",
+  "expect": [
+   "za-lien-ucu-morisset"
+  ]
+ },
+ {
+  "q": "manger pres de hamelin",
+  "expect": [
+   "za-manger-hamelin"
+  ]
+ },
+ {
+  "q": "engineering student association office",
+  "expect": [
+   "za-cby-associations"
+  ]
+ },
+ {
+  "q": "pharmacie ou clinique sans rendez-vous proche du campus",
+  "expect": [
+   "za-100-marie-curie-sante"
+  ]
+ },
+ {
+  "q": "what's on each floor of vanier",
+  "expect": [
+   "za-vanier-etages"
+  ]
+ },
+ {
+  "q": "y'a un aquarium sur le campus?",
+  "expect": [
+   "s-laboratoire-vivant-aquarium"
+  ]
+ },
+ {
+  "q": "labs au niveau 0 de colonel by",
+  "expect": [
+   "r-labos-cby-niveau-0"
+  ]
+ },
+ {
+  "q": "studio de CHUO dans morisset",
+  "expect": [
+   "za-morisset-studios"
+  ]
+ },
+ {
+  "q": "my card isn't working on the bus yet, first week of september",
+  "expect": [
+   "w-upass-periode-grace"
+  ]
+ },
+ {
+  "q": "tous mes cours sont en ligne, je paye tu la upass?",
+  "expect": [
+   "w-upass-cours-en-ligne"
+  ]
+ },
+ {
+  "q": "I live in Kemptville outside the OC Transpo zone, can I skip the upass?",
+  "expect": [
+   "w-upass-exemption-hors-zone"
+  ]
+ },
+ {
+  "q": "je marche pour venir au campus, je peux me désinscrire de la upass?",
+  "expect": [
+   "w-upass-pas-exemption"
+  ]
+ },
+ {
+  "q": "ma demande d'exemption upass a ete refusée, je peux faire appel?",
+  "expect": [
+   "w-upass-appel"
+  ]
+ },
+ {
+  "q": "liste d'attente permis stationnement etudiant",
+  "expect": [
+   "w-stat-liste-attente"
+  ]
+ },
+ {
+  "q": "je peux laisser mon char la nuit dans le stationnement l'hiver?",
+  "expect": [
+   "w-stat-deneigement"
+  ]
+ },
+ {
+  "q": "hotspot parking app how does it work",
+  "expect": [
+   "w-stat-hotspot"
+  ]
+ },
+ {
+  "q": "parking on campus in the evening or on weekends",
+  "expect": [
+   "w-stat-soir-fin-semaine"
+  ]
+ },
+ {
+  "q": "j'ai le pied dans le platre, je peux me stationner plus proche?",
+  "expect": [
+   "w-stat-temporaire-mobilite"
+  ]
+ },
+ {
+  "q": "looking for a carpool buddy to get to campus",
+  "expect": [
+   "w-covoit-jumelage"
+  ]
+ },
+ {
+  "q": "taxi scamm",
+  "expect": [
+   "w-taxi-arnaque",
+   "x-arnaque-taxi"
+  ]
+ },
+ {
+  "q": "comment me rendre au campus de la gare VIA",
+  "expect": [
+   "w-gare-via-rail"
+  ]
+ },
+ {
+  "q": "I forgot my bag on the shuttle",
+  "expect": [
+   "w-navette-objets-perdus"
+  ]
+ },
+ {
+  "q": "my bike got stolen, what do I do",
+  "expect": [
+   "w-velo-antivol"
+  ]
+ },
+ {
+  "q": "my car got broken into in a campus lot, is the uni responsible?",
+  "expect": [
+   "zd-stationnement-responsabilite"
+  ]
+ },
+ {
+  "q": "faut tu l'app flo pour charger mon auto electrique",
+  "expect": [
+   "zd-recharge-ve-regles"
+  ]
+ },
+ {
+  "q": "can I resell my parking pass to someone",
+  "expect": [
+   "zd-permis-revente"
+  ]
+ },
+ {
+  "q": "la navette pour roger guindon est toujours pleine, c normal?",
+  "expect": [
+   "zd-navette-pleine-septembre"
+  ]
+ },
+ {
+  "q": "fummer vapoter campus",
+  "expect": [
+   "x-fumer-campus"
+  ]
+ },
+ {
+  "q": "est-ce que je peux fumer du cannabis dans ma residence?",
+  "expect": [
+   "x-cannabis-campus"
+  ]
+ },
+ {
+  "q": "what do I do if there's a tornado warning",
+  "expect": [
+   "x-tornade"
+  ]
+ },
+ {
+  "q": "can I bring my service dog to class",
+  "expect": [
+   "x-animal-assistance-campus"
+  ]
+ },
+ {
+  "q": "je veux etre preneur de notes benevole",
+  "expect": [
+   "x-preneur-notes-benevole"
+  ]
+ },
+ {
+  "q": "what happens to my dining dollars left at the end of the term",
+  "expect": [
+   "zd-dining-dollars-fin-session"
+  ]
+ },
+ {
+  "q": "j'ai une allergie aux arachides, comment manger en securite a la salle a manger",
+  "expect": [
+   "zd-programme-restrictions-alimentaires"
+  ]
+ },
+ {
+  "q": "y'a tu une cuisinette ou je peux cuisiner sur le campus",
+  "expect": [
+   "zd-cuisinette-deja-vu"
+  ]
+ },
+ {
+  "q": "photo de carte etudiante avec un voile",
+  "expect": [
+   "zd-carte-photo-voile"
+  ]
+ },
+ {
+  "q": "add money to my uottawa card online",
+  "expect": [
+   "zd-carte-depot-en-ligne"
+  ]
+ },
+ {
+  "q": "y'a une transaction que j'ai pas faite sur ma carte uottawa",
+  "expect": [
+   "zd-carte-contester-transaction"
+  ]
+ },
+ {
+  "q": "mashkawaziwogamig sa veut dire quoi",
+  "expect": [
+   "zd-irc-nom-histoire"
+  ]
+ },
+ {
+  "q": "I got hurt at work today, what should I do?",
+  "expect": [
+   "u-accident-travail"
+  ]
+ },
+ {
+  "q": "le SÉUO peut m'aider si je suis dans la marde financierement?",
+  "expect": [
+   "l-seuo-fonds-urgence"
+  ]
+ },
+ {
+  "q": "plan de gestion des donnees de recherche aide",
+  "expect": [
+   "za-gestion-donnees-recherche",
+   "s-centre-gestion-donnees-recherche"
+  ]
+ },
+ {
+  "q": "je sais pas par ou commencer mon travail, je bloque",
+  "expect": [
+   "n-redaction-commencer-travail"
+  ]
+ },
+ {
+  "q": "does a thesis statement have to be one sentence",
+  "expect": [
+   "n-redaction-enonce-these"
+  ]
+ },
+ {
+  "q": "le gym est tu gratuit pendant mon stage coop",
+  "expect": [
+   "n-coop-gym-pendant-stage"
+  ]
+ }
+]

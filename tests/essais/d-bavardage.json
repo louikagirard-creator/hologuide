@@ -1,0 +1,1507 @@
+[
+ {
+  "q": "salut",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "bonjour gee-gee",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "hey",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "allo",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "good morning",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "bonjour",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "bonsoir",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "hi",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "hello there",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "yo",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "salut gee gee!",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "allo allo",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "hey gee-gee",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "coucou",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "bon matin",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "hi there!",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "heyyy",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "bonjour toi",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "good afternoon",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "salutt",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "merci!",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "thx",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "merci beaucoup c'était utile",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "thanks",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "thank you so much",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "merci bcp",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "mercii",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "ty",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "thanks gee-gee, that helped",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "merci gee-gee",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "un gros merci",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "cheers thanks",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "merci ben gros",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "thank u",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "merci pour ton aide",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "bye",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "au revoir",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "à plus",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "bonne journée",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "see you",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "a+",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "bye bye",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "see ya later",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "bonne soiree",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "ciao",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "à la prochaine",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "goodbye",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "later!",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "bye gee-gee",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "a tantot",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "comment ça va",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "ça va?",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "how are you",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "tu vas bien",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "comment ca va gee-gee",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "sa va?",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "how's it going",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "how are you doing today",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "comment tu vas",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "ça va bien toi?",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "whats up",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "how r u",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "tu vas bien aujourd'hui?",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "quoi de neuf",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "how have you been",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "t'es qui",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "c'est quoi ton nom",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "are you a robot",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "es-tu une IA",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "who are you",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "what is your name",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "comment tu t'appelles",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "t ki toi",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "es-tu un vrai cheval",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "are you chatgpt",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "qui t'a créé",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "who made you",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "c'est quoi cette borne",
+  "expect": [
+   "whoareyou",
+   "borne-projet"
+  ]
+ },
+ {
+  "q": "what is this kiosk",
+  "expect": [
+   "whoareyou",
+   "borne-projet"
+  ]
+ },
+ {
+  "q": "t'es-tu un humain",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "are you a real person",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "pourquoi t'es un cheval",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "what kind of animal are you",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "es tu un robot ou une personne",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "c koi hologuide",
+  "expect": [
+   "whoareyou",
+   "borne-projet"
+  ]
+ },
+ {
+  "q": "aide",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "help",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "tu peux faire quoi",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "what can I ask you",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "comment ca marche",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "how does this work",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "je peux te demander quoi",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "what can you do",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "jai besoin d'aide",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "help me please",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "comment je t'utilise",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "tu sers a quoi",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "what are you for",
+  "expect": [
+   "help",
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "quelles questions je peux poser",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "how do i use this thing",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "raconte-moi une blague",
+  "expect": [
+   "joke"
+  ]
+ },
+ {
+  "q": "tell me a joke",
+  "expect": [
+   "joke"
+  ]
+ },
+ {
+  "q": "fais-moi rire",
+  "expect": [
+   "joke"
+  ]
+ },
+ {
+  "q": "une blague svp",
+  "expect": [
+   "joke"
+  ]
+ },
+ {
+  "q": "say something funny",
+  "expect": [
+   "joke"
+  ]
+ },
+ {
+  "q": "t'as une joke?",
+  "expect": [
+   "joke"
+  ]
+ },
+ {
+  "q": "dis moi une blague de cheval",
+  "expect": [
+   "joke"
+  ]
+ },
+ {
+  "q": "make me laugh",
+  "expect": [
+   "joke"
+  ]
+ },
+ {
+  "q": "know any good jokes?",
+  "expect": [
+   "joke"
+  ]
+ },
+ {
+  "q": "conte moi une joke drole",
+  "expect": [
+   "joke"
+  ]
+ },
+ {
+  "q": "t'es cool",
+  "expect": [
+   "compliment"
+  ]
+ },
+ {
+  "q": "je t'aime",
+  "expect": [
+   "compliment"
+  ]
+ },
+ {
+  "q": "good job",
+  "expect": [
+   "compliment"
+  ]
+ },
+ {
+  "q": "tu es beau",
+  "expect": [
+   "compliment"
+  ]
+ },
+ {
+  "q": "you're awesome",
+  "expect": [
+   "compliment"
+  ]
+ },
+ {
+  "q": "t'es vraiment smart",
+  "expect": [
+   "compliment"
+  ]
+ },
+ {
+  "q": "i love you gee-gee",
+  "expect": [
+   "compliment"
+  ]
+ },
+ {
+  "q": "bravo t'es bon",
+  "expect": [
+   "compliment"
+  ]
+ },
+ {
+  "q": "you're cute",
+  "expect": [
+   "compliment"
+  ]
+ },
+ {
+  "q": "t'es le meilleur",
+  "expect": [
+   "compliment"
+  ]
+ },
+ {
+  "q": "t'es nul",
+  "expect": [
+   "insult"
+  ]
+ },
+ {
+  "q": "you're useless",
+  "expect": [
+   "insult"
+  ]
+ },
+ {
+  "q": "ferme-la",
+  "expect": [
+   "insult"
+  ]
+ },
+ {
+  "q": "t'es poche",
+  "expect": [
+   "insult"
+  ]
+ },
+ {
+  "q": "you're so dumb",
+  "expect": [
+   "insult"
+  ]
+ },
+ {
+  "q": "shut up",
+  "expect": [
+   "insult"
+  ]
+ },
+ {
+  "q": "t'es inutile",
+  "expect": [
+   "insult"
+  ]
+ },
+ {
+  "q": "this kiosk sucks",
+  "expect": [
+   "insult"
+  ]
+ },
+ {
+  "q": "t'es con",
+  "expect": [
+   "insult"
+  ]
+ },
+ {
+  "q": "stupid horse",
+  "expect": [
+   "insult"
+  ]
+ },
+ {
+  "q": "ok",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "oui",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "non",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "d'accord",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "cool",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "yes",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "nope",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "okay",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "ouais",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "nah",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "correct",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "sure",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "oki",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "yep",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "ben non",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "je me sens vraiment déprimé",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "I feel anxious all the time",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "j'ai des idées noires",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "je suis tellement stressé que je dors plus",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "i feel so alone here",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "jen peux plus de rien",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "i don't want to be here anymore",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "je pleure tout le temps depuis des semaines",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "I'm having panic attacks",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "je me sens vide",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "personne m'aime",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "i think i'm depressed",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "je fais des crises d'anxiété",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "i want to hurt myself",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "jai envie de tout lacher",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "I can't cope with anything anymore",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "je me sens tellement seul a l'université",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "everything feels hopeless",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "je pense a mourir",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "im so overwhelmed i can't breathe",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "blablabla",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "asdfgh",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "jfjfjf",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "lol",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "...",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "qwerty",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "mdr",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "????",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "hmmm",
+  "expect": [
+   "none",
+   "yesno"
+  ]
+ },
+ {
+  "q": "zzzz",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "aaaaaaaa",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "123456",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "kdkdkd lol",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "😂😂😂",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "ijsdfoij sdf",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "qui a gagné le match des Canadiens hier",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "recette de pâtes au fromage",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "c'est quoi la capitale de l'Australie",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "how do I train for a marathon",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "quel temps fait-il demain",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "combien font 2+2",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "quelle heure est-il",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "explique la photosynthèse",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "who won the super bowl",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "what's the weather like in Ottawa today",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "c'est qui le premier ministre du canada",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "qui va gagner les elections americaines",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "how tall is taylor swift",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "donne moi une recette de gateau au chocolat",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "resous x au carré egal 9",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "whats the score of the senators game",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "c'est quand les admissions a McGill",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "what are the tuition fees at Carleton",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "comment aller a l'université de montréal en bus",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "peux-tu faire mon devoir de chimie",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "write my essay on the french revolution",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "traduis bonjour en japonais",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "what's the best pizza place in toronto",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "combien coûte un billet d'avion pour paris",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "how do i fix my car's brakes",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "quel est le meilleur film de l'année",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "c'est quoi le sens de la vie",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "comment faire du pain maison",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "how many calories in a banana",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "qui est le meilleur joueur de hockey de tous les temps",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "recommend me a netflix series",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "c'est quoi bitcoin",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "should i buy tesla stock",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "how do i bake cookies",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "le prix de l'essence aujourd'hui",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "what is the speed of light",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "explique moi la relativité d'einstein",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "comment perdre du poids rapidement",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "where can i watch the world cup",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "c'est quoi la meilleure equipe de soccer",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "combien de pattes a une araignee",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "what year did world war 2 end",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "comment changer un pneu",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "is Drake coming to ottawa",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "what time does costco close",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "quelle est la population de la chine",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "horaire du cinema ce soir",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "comment jouer aux échecs",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "what's the capital of mongolia",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "how do i get a us visa",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "qui a ecrit harry potter",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "fais moi un poeme sur l'automne",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "convert 100 dollars to euros",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "combien de temps pour cuire un oeuf dur",
+  "expect": [
+   "none"
+  ]
+ },
+ {
+  "q": "bonjour gee gee comment",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "hey hey",
+  "expect": [
+   "hello"
+  ]
+ },
+ {
+  "q": "merci infiniment",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "thanks a lot buddy",
+  "expect": [
+   "thanks"
+  ]
+ },
+ {
+  "q": "bonne fin de journee",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "take care, bye",
+  "expect": [
+   "bye"
+  ]
+ },
+ {
+  "q": "ca roule?",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "you doing ok?",
+  "expect": [
+   "howareyou"
+  ]
+ },
+ {
+  "q": "es-tu un chatbot",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "is gee-gee a boy or a girl",
+  "expect": [
+   "whoareyou"
+  ]
+ },
+ {
+  "q": "menu",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "je sais pas quoi te demander",
+  "expect": [
+   "help"
+  ]
+ },
+ {
+  "q": "bof",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "mouais",
+  "expect": [
+   "yesno"
+  ]
+ },
+ {
+  "q": "jme sens vraiment pas bien mentalement",
+  "expect": [
+   "sensitive"
+  ]
+ },
+ {
+  "q": "i feel like a failure and nothing matters",
+  "expect": [
+   "sensitive"
+  ]
+ }
+]

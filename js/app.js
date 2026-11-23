@@ -76,7 +76,8 @@ function attract() {
   clearInterval(state.endTick); clearTimeout(state.qrGesture);
   state.lang = 'fr'; Object.assign(state, DEFAULTS); applySettings(); applyText(); // réglages par défaut pour la personne suivante
   show('attract');
-  gg?.react('hello'); // la mascotte salue à l'accueil, puis toutes les 10 s tant qu'elle est au repos
+  gg?.setIdle?.(true); // personne n'utilise la boîte : la mascotte alterne marche sur place et salut
+  gg?.react('hello'); // elle salue d'abord à l'accueil, puis reprend son manège
   let i = 0;
   const tick = () => {
     const k = i % TEXT.fr.tips.length;
@@ -86,7 +87,7 @@ function attract() {
   clearInterval(tipTimer); tick(); tipTimer = setInterval(tick, 6000);
 }
 // La session commence au premier toucher : son journal (questions, réponses, liens officiels) est prêt dès l'accueil.
-function openStart() { clearInterval(tipTimer); startLog(); show('start'); markChoices(); }
+function openStart() { clearInterval(tipTimer); gg?.setIdle?.(false); startLog(); show('start'); markChoices(); } // quelqu'un touche la boîte : la veille s'arrête
 function markChoices() {
   $$('[data-lang]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.lang === state.lang)));
   $$('[data-profile]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.profile === state.profile)));
@@ -268,6 +269,7 @@ function startSession() {
 }
 function endSession() {
   hideIdle(); closeOverlays();
+  gg?.setIdle?.(false);
   stopSpeaking(); gg?.stopTalking();
   clearTimeout(state.session?.noticeTimer);
   const log = state.session?.log || [];

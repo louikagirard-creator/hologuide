@@ -12,7 +12,8 @@ const C = { garnet: 0x8f001a, garnetDark: 0x5c0010, grey: 0x6d6e71, coat: 0xece7
 const MODEL_URL = 'assets/geegee.glb';
 const MODEL_MAX_W = 2.05; // largeur maximale du modèle importé au repos (il a les bras écartés), en unités de la scène
 const FIT_MARGIN = 1.1; // marge autour des mains (perspective + léger pivot du modèle) : rien ne touche le bord de la colonne
-const WAVE_EVERY = 10; // secondes entre deux salutations de la mascotte importée
+const WALK_FOR = 7;   // secondes de marche entre deux salutations de la mascotte importée, tant que personne ne l'utilise
+const IDLE_PAUSE = 1; // petite pose au repos avant de repasser à la marche ou au salut
 const FLOOR = -1.33;   // dessous des souliers = plancher de la boîte
 const TOP = 2.02;      // bout des oreilles
 const FIT = 1.06;      // marge au-dessus des oreilles
@@ -72,10 +73,11 @@ export class GeeGee {
     this.state = {
       mouth: 0, syllables: [], talking: false, gesture: null, calm: false, pose: null, attention: null,
       blinkAt: now() + 1.5, blinkStart: -1, earAt: now() + 2, earStart: -1, earSide: 0,
-      gaze: new THREE.Vector2(), gazeTo: new THREE.Vector2(), gazeAt: now() + 1, fidgetAt: now() + 8, last: now(),
-      waveAt: now() + WAVE_EVERY
+      gaze: new THREE.Vector2(), gazeTo: new THREE.Vector2(), gazeAt: now() + 1, fidgetAt: now() + 8, last: now()
     };
     this.holdPose = false; // vrai quand la mascotte importée tient la pose « voici le code QR »
+    // Veille (modèle importé) : on alterne marche sur place et salut tant que personne n'interagit.
+    this.idleAllowed = true; this.idleAt = now() + 2; this.waveNext = true; this.walkOn = false;
     new ResizeObserver(() => this.resize()).observe(this.el);
     window.addEventListener('pointerdown', (e) => this.lookToward(e.clientX, e.clientY), { passive: true });
   }
@@ -246,12 +248,22 @@ export class GeeGee {
   // Largeur à réserver au repos pour le modèle importé : ses gestes courants (salut, mains ouvertes), pas le grand
   // signe d'au revoir, qui est plus large et fait reculer un peu la caméra (voir pullBack).
   reachW() { return this.baseHalf ? this.baseHalf * 2 : MODEL_MAX_W; }
+  // Demi-largeur visible à une rotation donnée : la silhouette d'un clip vaut x*|cos| + z*|sin| quand on tourne.
+  reachAt(name, yaw) {
+    const h = this.clipHalf?.get(name || '');
+    if (!h) return 0;
+    return h.x * Math.abs(Math.cos(yaw)) + h.z * Math.abs(Math.sin(yaw));
+  }
   // Recul de la caméra pour que le geste en cours reste entier dans la colonne : 1 pour les gestes courants,
-  // un peu plus pendant le grand signe d'au revoir.
+  // un peu plus pendant le grand signe d'au revoir, et plus encore quand la rotation au doigt présente la mascotte
+  // de profil (les bras qui pointaient vers la caméra occupent alors toute la largeur de l'image).
+  // On cadre sur la rotation visée autant que sur la rotation actuelle : la caméra recule avant que le bras n'arrive au bord.
   pullBack() {
-    const clip = this.state.gesture ? this.gestureClip : this.talkOn ? this.talkClip : null;
-    const half = clip && this.clipReach?.get(clip.name);
-    return half && this.baseHalf ? Math.max(1, half / this.baseHalf) : 1;
+    const clip = this.state.gesture ? this.gestureClip : this.talkOn ? this.talkClip : this.walkOn ? this.walkClip : null;
+    if (!this.baseHalf) return 1;
+    const name = clip?.name || '';
+    const half = Math.max(this.reachAt(name, this.yaw), this.reachAt(name, this.yawTo));
+    return Math.max(1, half / this.baseHalf);
   }
   snapshot() { this.frame(); return this.renderer.domElement.toDataURL('image/png'); }
 
@@ -299,7 +311,9 @@ export class GeeGee {
     this.talkOn = false; // un geste remplace l'animation de parole (stopAllAction ci-dessous)
     clearTimeout(this.talkStopTimer);
     this.state.gesture = { name, t0: now(), dur: clip ? Math.max(dur, clip.duration) : dur };
-    if (['wave', 'bye', 'present'].includes(name)) this.state.waveAt = now() + WAVE_EVERY; // la prochaine salutation compte à partir de ce geste
+    // Un geste interrompt la veille : la marche s'arrête et le cycle (marche puis salut) reprend après le geste.
+    this.stopWalk();
+    this.waveNext = false; this.idleAt = now() + IDLE_PAUSE;
     // Avec le modèle importé : joue l'animation du fichier (salut, au revoir, mains ouvertes), puis revient au repos.
     if (clip && this.mixer) {
       const a = this.mixer.clipAction(clip);
@@ -321,6 +335,7 @@ export class GeeGee {
     if (want === this.talkOn) return;
     this.talkOn = want;
     if (want) {
+      this.stopWalk(); // parler l'emporte sur la marche de veille
       const a = this.talkAction = this.mixer.clipAction(this.talkClip);
       this.mixer.stopAllAction();
       a.reset().setLoop(THREE.LoopRepeat, Infinity).fadeIn(0.25).play();
@@ -331,6 +346,45 @@ export class GeeGee {
       clearTimeout(this.talkStopTimer);
       this.talkStopTimer = setTimeout(() => { if (!this.talkOn) a.stop(); }, 400);
     }
+  }
+
+  // ---------- Veille : marche et salut en alternance ----------
+  // Au repos, le modèle importé n'a pas d'animation d'attente : plutôt que de rester figé, il marche sur place
+  // puis salue de la main, puis remarche, tant que personne n'interagit avec la boîte.
+  // La veille ne tourne que sur l'écran d'accueil (setIdle) : dès qu'une personne touche la boîte, elle s'arrête.
+  setIdle(on) {
+    this.idleAllowed = on !== false;
+    if (!this.idleAllowed) { this.stopWalk(); this.idleAt = now() + 2; }
+  }
+  idleTick(t) {
+    const S = this.state;
+    if (!this.idleAllowed || S.talking || S.gesture || this.holdPose) { this.stopWalk(); return; }
+    if (this.walkOn) {
+      if (t < this.walkUntil) return;
+      this.stopWalk();
+      this.waveNext = true; this.idleAt = t + IDLE_PAUSE; // petite pose au repos avant de saluer
+      return;
+    }
+    if (t < this.idleAt) return;
+    if (this.waveNext) { this.waveNext = false; this.react('hello'); }
+    else { this.waveNext = true; this.startWalk(WALK_FOR); }
+  }
+  startWalk(seconds) {
+    if (!this.mixer || !this.walkClip || this.state.gesture || this.state.talking || this.holdPose) return;
+    this.talkOn = false; clearTimeout(this.talkStopTimer);
+    const a = this.walkAction = this.mixer.clipAction(this.walkClip);
+    this.mixer.stopAllAction();
+    a.reset().setLoop(THREE.LoopRepeat, Infinity).fadeIn(0.3).play();
+    this.walkOn = true; this.walkUntil = now() + seconds;
+  }
+  stopWalk() {
+    if (!this.walkOn) return;
+    this.walkOn = false;
+    const a = this.walkAction; this.walkAction = null;
+    if (!a) return;
+    a.fadeOut(0.3);
+    clearTimeout(this.walkStopTimer);
+    this.walkStopTimer = setTimeout(() => { if (!this.walkOn) a.stop(); }, 400);
   }
 
   // ---------- Style de la mascotte ----------
@@ -386,9 +440,11 @@ export class GeeGee {
       this.pinInPlace(m);
       this.talkClip = this.clipFor('talk');
       this.modelReach = this.measureReach(m); // mains comprises, sur toutes les animations
+      this.walkClip = this.clipFor('walk'); // « walking_man » : la marche sur place de la veille
       // Cadrage de repos : le plus large des gestes courants, sans compter le grand signe d'au revoir.
       const bye = this.clipFor('bye');
-      this.baseHalf = Math.max(...[...this.clipReach].filter(([n]) => n !== bye?.name).map(([, h]) => h));
+      const rest = this.clipHalf.get('') || { x: MODEL_MAX_W / 2, z: 0 };
+      this.baseHalf = Math.max(rest.x, ...[...this.clipHalf].filter(([n]) => n && n !== bye?.name).map(([, h]) => h.x));
       this.setStyle(this.style);
     } catch (err) { console.warn('Modèle 3D non chargé, Gee-Gee fait en code utilisé à la place :', err); }
   }
@@ -406,47 +462,59 @@ export class GeeGee {
       for (let i = 0; i < v.length; i += 3) { v[i] = x0; v[i + 2] = z0; }
     }
   }
-  // Demi-largeur maximale du modèle dans chacun de ses gestes : le grand signe d'au revoir écarte les bras bien plus
-  // que la pose de repos. Le cadrage s'en sert pour que rien ne touche le bord de la colonne de gauche.
-  // Deux passes : un balayage rapide (peu de sommets, beaucoup d'instants) trouve les moments où les mains vont le
-  // plus loin, puis ces moments sont mesurés sommet par sommet — une main qui salue va plus vite que l'échantillonnage.
+  // Demi-largeur (x) et demi-profondeur (z) maximales du modèle dans chacun de ses gestes et au repos : le grand signe
+  // d'au revoir écarte les bras bien plus que la pose de repos, et la rotation au doigt change la silhouette.
+  // Le cadrage s'en sert pour que rien ne touche le bord de la colonne de gauche.
   measureReach(root) {
-    if (!this.clips?.length || !this.mixer) return 0;
+    if (!this.clips?.length || !this.mixer) return { x: 0, z: 0 };
     const meshes = []; root.traverse((o) => { if (o.isMesh && o.getVertexPosition) meshes.push(o); });
-    if (!meshes.length) return 0;
+    if (!meshes.length) return { x: 0, z: 0 };
     const v = new THREE.Vector3();
-    const poseAt = (t) => {
-      this.mixer.setTime(t);
+    const setPose = () => {
       root.updateMatrixWorld(true);
       for (const mesh of meshes) mesh.skeleton?.update(); // sans rendu, les matrices des os ne sont pas recalculées
     };
+    const poseAt = (t) => { this.mixer.setTime(t); setPose(); };
+    // Étendue de la silhouette en largeur (x) et en profondeur (z) : en tournant au doigt, les bras qui pointent
+    // vers la caméra prennent la place qu'occupaient ceux qui pointaient de côté.
     const scan = (stride) => {
-      let m = 0;
+      let x = 0, z = 0;
       for (const mesh of meshes) {
         const n = mesh.geometry.attributes.position.count;
         for (let k = 0; k < n; k += stride) {
           mesh.getVertexPosition(k, v).applyMatrix4(mesh.matrixWorld);
-          m = Math.max(m, Math.abs(v.x - root.position.x));
+          x = Math.max(x, Math.abs(v.x - root.position.x));
+          z = Math.max(z, Math.abs(v.z - root.position.z));
         }
       }
-      return m;
+      return { x, z };
     };
-    let half = 0;
-    this.clipReach = new Map();
+    this.clipHalf = new Map();
+    // Pose de repos (aucune animation) : c'est elle qu'on voit entre deux gestes.
+    this.mixer.stopAllAction(); this.mixer.setTime(0); setPose();
+    this.clipHalf.set('', scan(1));
+    let half = { x: 0, z: 0 };
     for (const clip of this.clips) {
       this.mixer.stopAllAction();
       const a = this.mixer.clipAction(clip); a.reset().play();
+      // Deux passes : un balayage rapide trouve les instants les plus larges (en x comme en z), puis ces instants
+      // sont mesurés sommet par sommet — une main qui salue va plus vite que l'échantillonnage.
       const N = 120, moments = [];
       for (let i = 0; i < N; i++) {
         const t = clip.duration * i / N;
         poseAt(t);
-        moments.push([scan(20), t]);
+        const s = scan(20);
+        moments.push([Math.max(s.x, s.z), t]);
       }
       moments.sort((p, q) => q[0] - p[0]);
-      let reach = moments[0]?.[0] || 0;
-      for (const [, t] of moments.slice(0, 3)) { poseAt(t); reach = Math.max(reach, scan(1)); }
-      this.clipReach.set(clip.name, reach);
-      half = Math.max(half, reach);
+      const reach = { x: 0, z: 0 };
+      for (const [, t] of moments.slice(0, 4)) {
+        poseAt(t);
+        const s = scan(1);
+        reach.x = Math.max(reach.x, s.x); reach.z = Math.max(reach.z, s.z);
+      }
+      this.clipHalf.set(clip.name, reach);
+      half = { x: Math.max(half.x, reach.x), z: Math.max(half.z, reach.z) };
       a.stop();
     }
     this.mixer.stopAllAction(); this.mixer.setTime(0);
@@ -527,12 +595,15 @@ export class GeeGee {
     const S = this.state, t = now();
     const dt = Math.min(0.05, t - S.last); S.last = t;
     const T = this.target(t);
-    // Salutation toutes les 10 s quand la mascotte importée est au repos (et pas pendant qu'elle parle).
-    if (this.model && !S.gesture && !S.talking && !this.holdPose && t > S.waveAt) this.react('hello');
+    // Veille : la mascotte importée alterne marche et salut tant que personne n'interagit avec elle.
+    if (this.model) this.idleTick(t);
     this.yaw = mix(this.yaw, this.yawTo, 1 - Math.exp(-dt * 10)); // suit le doigt, sans à-coup
     if (this.baseDist) { // pendant le flex, il se tourne de trois quarts et recule un peu : les bras restent dans la colonne
       const fx = this.state.pose?.flex || 0;
-      this.camZoom = mix(this.camZoom ?? 1, this.pullBack(), 1 - Math.exp(-dt * 3));
+      // On recule tout de suite quand la silhouette s'élargit (geste, rotation au doigt) : la caméra ne doit jamais
+      // être en retard sur le bras. On revient doucement, sans à-coup.
+      const want = this.pullBack(), zoom = this.camZoom ?? 1;
+      this.camZoom = want > zoom ? want : mix(zoom, want, 1 - Math.exp(-dt * 4));
       this.camera.position.set(0, this.baseY, this.baseDist * this.camZoom * (1 + 0.12 * fx));
       this.camera.lookAt(0, this.baseY, 0);
     }

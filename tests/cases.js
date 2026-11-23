@@ -18,5 +18,7 @@ export const CASES = [
   // Base élargie (23 novembre 2026)
   ['combien de crédits pour une mineure', 'zb-mineure-definition'], ['réglages eduroam android', 'zb-eduroam-android'],
   ['Copilot uottawa', 'zb-copilot-gratuit'], ['toefl score minimum', 'zc-toefl-admission'],
-  ['FAFSA prêt américain', 'zc-fafsa-etapes'], ['cours bilingue', 'zb-cours-bilingue-code']
+  ['FAFSA prêt américain', 'zc-fafsa-etapes'], ['cours bilingue', 'zb-cours-bilingue-code'],
+  // Le nom du pavillon doit battre un simple mot d'aspect (« ouvert », « samedi »)
+  ['le CRX est-il ouvert samedi', 'crx'], ['à quelle heure ferme la bibliothèque', 'bibliotheque']
 ];

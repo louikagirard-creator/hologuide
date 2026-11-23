@@ -2,7 +2,7 @@
 // Une seule réponse à l'écran à la fois : le texte s'illumine mot par mot pendant que Gee-Gee parle (il sert de sous-titre).
 // Les échanges précédents restent dans l'historique (transcription complète).
 import { TEXT, LINKS, TOPIC_ORDER, TOPIC_SHORT } from './i18n.js';
-import { findAnswer, byId, inCategory, CATEGORIES } from './search.js';
+import { findAnswer, focusAnswer, byId, inCategory, CATEGORIES } from './search.js';
 import { speak, stopSpeaking, listen, canListen } from './speech.js';
 import { GeeGee } from './mascot.js';
 import { VideoGeeGee, CLIPS } from './avatar-video.js';
@@ -200,7 +200,7 @@ function ask(text, id, opts = {}) {
   if (weak && state.useAI && ai.state === 'ready') setTimeout(() => enhanceAI(q, res), 0); // en arrière-plan : la réponse habituelle s'affiche tout de suite
 
   if (res.type === 'answer') {
-    const e = res.entry, answer = L(e.answer);
+    const e = res.entry, answer = focusAnswer(e, q, state.lang); // phrase qui répond à la question en premier, texte officiel complet
     logExchange({ q, id: e.id, a: answer, url: e.sources[0]?.url || '' });
     bump((s) => { s.top[e.id] = (s.top[e.id] || 0) + 1; });
     const p = spokenText(answer);

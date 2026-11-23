@@ -46,17 +46,24 @@ const DF = new Map();
 INDEX.forEach((it) => it.vocab.forEach((w) => DF.set(w, (DF.get(w) || 0) + 1)));
 const idf = (w) => Math.min(2, 0.4 + Math.log(INDEX.length / (DF.get(w) || 1)) / 3);
 const CAT_HINTS = CATEGORIES.map((c) => ({ id: c.id, hints: c.hints.map(norm) }));
+// Mots d'aspect : ils disent CE QUI est demandé (heures, jour, prix…), pas DE QUOI on parle.
+// Sans pondération, « le CRX est-il ouvert samedi ? » partait sur la fiche du Centre Brunsfield, la seule à parler d'ouverture le samedi.
+const FACET = new Set(`heure heures horaire horaires ouvert ouverte ouverts ouvertes ouvre ouvrent ferme fermes fermee fermees fermeture
+  samedi dimanche lundi mardi mercredi jeudi vendredi matin soir midi nuit aujourd demain weekend week end
+  hours open opens opening close closes closed closing weekend weekdays monday tuesday wednesday thursday friday saturday sunday morning evening`.split(/\s+/));
+const facetWeight = (parts) => (parts.every((w) => FACET.has(w)) ? 0.4 : 1);
 
 function score(item, n, qwords, cats) {
   let s = 0;
   for (const k of item.kws) {
-    if (n.includes(k)) s += 2 + k.trim().split(' ').length; // expression exacte : plus elle est longue, plus elle compte
+    if (n.includes(k)) s += (2 + k.trim().split(' ').length) * facetWeight(k.trim().split(' ')); // expression exacte : plus elle est longue, plus elle compte
     else if (k.length >= 7 && !k.trim().includes(' ') && qwords.some((w) => w.length >= 5 && !ALL_WORDS.has(w) && lev(w, k.trim()) <= 1)) s += 2.5; // mot-clé avec une faute
   }
   for (const w of qwords) {
     if (w.length < 3) continue;
-    if (item.vocab.includes(w)) s += idf(w);
-    else if (w.length >= 5 && !ALL_WORDS.has(w) && item.vocab.some((v) => v.length >= 5 && lev(w, v) <= 1)) s += 0.75;
+    const f = FACET.has(w) ? 0.4 : 1;
+    if (item.vocab.includes(w)) s += idf(w) * f;
+    else if (w.length >= 5 && !ALL_WORDS.has(w) && item.vocab.some((v) => v.length >= 5 && lev(w, v) <= 1)) s += 0.75 * f;
   }
   if (cats.has(item.e.category)) s += 0.5;
   if (cats.club && item.e.category === 'associations') s += 1.5; // « club de … » : les fiches de clubs d'abord
@@ -78,6 +85,41 @@ export function findAnswer(text) {
   const top = ranked.slice(0, 6).map((r) => r.e); // candidates pour l'IA (elle relit plus de fiches que l'écran n'en montre)
   if (best && best.s >= 2.5) return { type: 'answer', entry: best.e, score: best.s, alts: ranked.slice(1, 4).filter((r) => r.s >= 2).map((r) => r.e), top };
   return { type: 'none', alts: ranked.slice(0, 3).filter((r) => r.s >= 1).map((r) => r.e), top };
+}
+
+// Phrase de la fiche qui répond le mieux à la question : on ne retire rien du texte officiel, on met seulement
+// en tête la phrase qui traite du point demandé (heures, prix, date, téléphone, adresse) au lieu de toujours commencer par l'adresse.
+const FACETS = [
+  { q: /\b(heure|heures|horaire|horaires|ouvert|ouverte|ouverts|ouvertes|ouvre|ouvrent|ferme|fermee|fermeture|open|opens|opening|close|closes|closed|hours|time)\b/, s: /(heure|horaire|ouvert|ferme|open|close|hours|\d\s?h\b|a\.m\.|p\.m\.|midi|minuit)/i },
+  { q: /\b(combien|prix|tarif|tarifs|cout|coutent|coute|cost|costs|price|prices|fee|fees|pay|payer)\b/, s: /(\$|prix|tarif|cout|frais|fee|cost|price)/i },
+  { q: /\b(quand|date|dates|deadline|echeance|jusqu)\b/, s: /\b(janvier|fevrier|mars|avril|mai|juin|juillet|aout|septembre|octobre|novembre|decembre|january|february|march|april|june|july|august|september|october|november|december)\b/i },
+  { q: /\b(telephone|phone)\b/, s: /\d{3}[-.\s]?\d{3}[-.\s]?\d{4}/ },
+  { q: /(\bou est\b|\bou se trouve\b|\badresse\b|where|address)/, s: /(adresse|rue|avenue|promenade|situe|located|address|local [a-z]?\d)/i }
+];
+const ANAPHORA = /^(il|elle|ils|elles|c'est|ce sont|ca|cela|ceci|it|they|this|that|these|those|there)\b/i;
+const NO_ACCENT = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+
+// Découpe en phrases sans casser un prix (« 12.50 ») ni une heure (« 7 a.m. »).
+const DOT = '\u2024';
+const sentences = (t) => (t.replace(/\b([ap])\.m\.?(?=\s|$)/gi, `$1${DOT}m${DOT}`).match(/[^.!?…]+[.!?…]+(?:\s+|$)|[^.!?…]+$/g) || [t])
+  .map((x) => x.trim().replaceAll(DOT, '.')).filter(Boolean);
+
+// Réponse de la fiche, cadrée sur la question : même contenu officiel, phrase la plus pertinente en premier.
+export function focusAnswer(entry, question, lang = 'fr') {
+  const text = String(entry?.answer?.[lang] || entry?.answer?.fr || '');
+  const parts = sentences(text);
+  if (parts.length < 2) return text;
+  const asked = NO_ACCENT(question);
+  const facets = FACETS.filter((f) => f.q.test(asked)); // question sans point précis : on laisse l'ordre officiel
+  if (!facets.length) return text;
+  const own = new Set([...words(entry.question?.fr || ''), ...words(entry.question?.en || '')]); // mots qui nomment le sujet, pas ce qui est demandé
+  const qw = words(asked).filter((w) => w.length > 2 && !own.has(w));
+  const scored = parts.map((s, i) => ({
+    s, i, k: facets.reduce((a, f) => a + (f.s.test(s) ? 2 : 0), 0) + qw.reduce((a, w) => a + (new Set(words(s)).has(w) ? 1 : 0), 0)
+  }));
+  const best = scored.reduce((a, b) => (b.k > a.k ? b : a), scored[0]);
+  if (best.i === 0 || best.k < 2 || best.k <= scored[0].k || ANAPHORA.test(best.s)) return text; // « C'est là que… » ne peut pas ouvrir la réponse
+  return [best.s, ...parts.filter((_, i) => i !== best.i)].join(' ');
 }
 
 export const byId = (id) => KB.find((e) => e.id === id);

@@ -10,6 +10,7 @@ import { loadCampus, routeForEntry, drawRoute } from './campusmap.js';
 import { loadLinks, searchLinks } from './links.js';
 import { ai, aiSupported, loadAI, aiAnswer, AI_ENDPOINT } from './ai.js';
 import { recapData, recapLink } from './recap.js';
+import { loadSemantic, senseScores } from './semantic.js';
 
 const $ = (s, root = document) => root.querySelector(s);
 const $$ = (s, root = document) => [...root.querySelectorAll(s)];
@@ -186,12 +187,14 @@ function logExchange(item) {
 }
 
 // ---------- Questions ----------
-function ask(text, id, opts = {}) {
+async function ask(text, id, opts = {}) {
   const started = performance.now();
   const entry = id ? byId(id) : null;
   const q = entry ? L(entry.question) : text.trim();
   if (!q) return;
-  const res = entry ? { type: 'answer', entry, alts: [], score: 99 } : findAnswer(q);
+  // Recherche par le sens en plus des mots-clés dès que le modèle est prêt (quelques dizaines de ms, sur place)
+  const sem = entry ? null : await senseScores(q).catch(() => null);
+  const res = entry ? { type: 'answer', entry, alts: [], score: 99 } : findAnswer(q, { sem });
   const ms = Math.max(1, Math.round(performance.now() - started));
   if (!opts.retry) bump((s) => { s.questions++; });
 
@@ -542,6 +545,7 @@ function bind() {
 
 loadCampus();
 loadLinks();
+setTimeout(() => loadSemantic(), 3000); // modèle de la recherche par le sens : téléchargé en arrière-plan, une seule fois
 setTimeout(startAI, 4000); // IA : après l'affichage, pour ne pas ralentir le démarrage
 applyText();
 placeMascot();

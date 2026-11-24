@@ -8,7 +8,7 @@ Dépôt : https://github.com/louikagirard-creator/hologuide — toute l'équipe 
 L'équipe doit voir le travail des autres. À chaque demande de modification :
 1. **Avant de commencer** : `git pull --rebase` pour récupérer les modifications des coéquipiers.
 2. Faire la modification demandée, puis lancer les tests : `node tests/search.test.mjs` et `node tests/ai.test.mjs` (tout doit réussir).
-   - Si on touche à la recherche (`js/search.js`) ou à la base : `node tests/essais.mjs` (banc de 1000 questions réalistes, avec fautes, anglais, bavardage et charabia). Le score ne doit pas baisser (85,6 % au 23 novembre 2026) ; `--erreurs` liste chaque erreur.
+   - Si on touche à la recherche (`js/search.js`) ou à la base : `node tests/essais.mjs` (banc de 1000 questions réalistes, avec fautes, anglais, bavardage et charabia). Le score ne doit pas baisser (93,9 % avec la recherche par le sens, 85,6 % avec `--mots`, au 23 novembre 2026) ; `--erreurs` liste chaque erreur.
 3. **Tout de suite après** : `git add -A`, `git commit -m "<prénom> : <ce qui a changé, en français>"`, puis `git push`.
    - Si `git push` est refusé parce qu'un coéquipier a publié entre-temps : `git pull --rebase`, régler les conflits s'il y en a, relancer les tests, puis `git push`.
    - Ne jamais utiliser `git push --force`. Ne jamais publier de secret (`.env`, clé API, mot de passe).
@@ -28,6 +28,7 @@ On voit tout l'historique de l'équipe ici : https://github.com/louikagirard-cre
 - **Seulement de l'information officielle** de uottawa.ca (ou SÉUO, GSAÉD, Gee-Gees), avec la page source dans `sources`. Ne jamais inventer d'heures, de prix ni de dates.
 - Pas de conseils en santé mentale : `js/search.js` redirige ces questions vers le Centre de santé et de bien-être, et vers le 911 en cas d'urgence.
 - Pour ajouter des réponses : écrire un fichier JSON dans `data/new/` (voir le format dans `tools/merge-kb.mjs`), puis `node tools/merge-kb.mjs --write`.
+- Recherche par le sens (`js/semantic.js`) : après avoir ajouté des fiches, recalculer leurs vecteurs avec `node tools/build-sens.mjs` (une fois avant : `npm install --no-save @huggingface/transformers@3.7.5`). Sinon les nouvelles fiches restent trouvables par mots-clés seulement.
 - Ajouter une question type dans `tests/cases.js` pour chaque nouveau sujet important.
 
 ## Fichiers

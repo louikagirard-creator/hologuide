@@ -139,7 +139,7 @@ const GENERIC = new Set('uottawa ottawa universite university campus etudiant et
 // Mots-clés inutilisables écartés : faits seulement de petits mots (« es », « the », « a- », « qui peut ») ; sinon ils
 // correspondent à presque toutes les phrases (« t'es qui » donnait l'Association des étudiants japonais).
 const usable = (k) => { const w = k.trim().split(' ').filter(Boolean); return w.length && w.some((x) => x.length >= 2 && !STOP.has(x)); };
-const INDEX = KB.map((e) => {
+const INDEX = KB.map((e, i) => {
   const kws = e.keywords.map(norm).filter(usable);
   const vocab = new Set([...kws.flatMap((k) => k.trim().split(' ')), ...words(e.question.fr), ...words(e.question.en)]);
   const v = [...vocab].filter((w) => w.length > 2 && !STOP.has(w));
@@ -148,7 +148,7 @@ const INDEX = KB.map((e) => {
   // (sans les mots présents partout : « uottawa », « campus »… sinon « C'est quoi I.T.I.S-uOttawa ? » attirait toute question avec « uottawa »)
   const qf = words(e.question.fr).filter((w) => w.length > 2 && !GENERIC.has(w)), qe = words(e.question.en).filter((w) => w.length > 2 && !GENERIC.has(w));
   const where = /^(ou |where |how do i get to |comment (me rendre|aller|se rendre))/.test(norm(e.question.fr).trim() + ' ') || /^(where |how do i get to )/.test(norm(e.question.en).trim() + ' ');
-  return { e, kws, idk: norm(e.id.replace(/^[a-z]-/, '')), vocab: v, vset: new Set(v), aset, qfr: new Set(qf), qen: new Set(qe), where,
+  return { i, e, kws, idk: norm(e.id.replace(/^[a-z]-/, '')), vocab: v, vset: new Set(v), aset, qfr: new Set(qf), qen: new Set(qe), where,
     gfr: grams(e.question.fr), gen: grams(e.question.en) };
 });
 const ALL_WORDS = new Set(INDEX.flatMap((it) => it.vocab)); // un mot connu n'est pas une faute de frappe
@@ -168,7 +168,7 @@ const FACET = new Set(`heure heures horaire horaires ouvert ouverte ouverts ouve
 const facetWeight = (parts) => (parts.every((w) => FACET.has(w)) ? 0.4 : 1);
 
 // Réglages (ajustés avec le banc d'essai tests/essais.mjs)
-export const TUNE = { answerWeight: 0.35, minScore: 2.5, minCover: 0.5, sureScore: 5, focus: 10, focusIdf: true, whereBonus: 2, tri: 10 };
+export const TUNE = { answerWeight: 0.35, minScore: 2.5, minCover: 0.5, sureScore: 5, focus: 10, focusIdf: true, whereBonus: 2, tri: 10, sem: 60, semFloor: 0.8, semSure: 0.84 };
 function score(item, n, qwords, cats) {
   let s = 0, exact = 0;
   const hit = new Set(); // mots de la question expliqués par cette fiche
@@ -211,7 +211,9 @@ function score(item, n, qwords, cats) {
   return { s: exact ? s : s * 0.6, base, cover };
 }
 
-export function findAnswer(text) {
+// opts.sem (facultatif) : ressemblance de sens entre la question et chaque fiche (même ordre que KB, de −1 à 1),
+// calculée par js/semantic.js. Sans elle, la recherche par mots-clés fonctionne seule, comme avant.
+export function findAnswer(text, { sem = null } = {}) {
   const n = expand(norm(text));
   const qwords = words(n);
   if (SENSITIVE.some((k) => n.includes(norm(k)))) return { type: 'sensitive' };
@@ -227,7 +229,16 @@ export function findAnswer(text) {
   const cats = new Set(CAT_HINTS.filter((c) => c.hints.some((h) => n.includes(h))).map((c) => c.id));
   cats.club = / (club|clubs|association etudiante|student club) /.test(n);
   cats.where = / (ou est|ou sont|ou se trouve|ou trouver|where is|where are|where s|where can i find|how do i get to|comment aller|comment me rendre|c est ou) /.test(n);
-  const ranked = INDEX.map((it) => ({ it, e: it.e, ...score(it, n, qwords, cats) })).filter((r) => r.s > 0).sort((a, b) => b.s - a.s);
+  let ranked = INDEX.map((it) => ({ it, e: it.e, ...score(it, n, qwords, cats) }));
+  if (sem) {
+    // Recherche par le sens : ajoute la ressemblance (au-dessus d'un plancher) ; une fiche sans aucun mot commun
+    // peut ainsi gagner (« my bike chain broke » → stations de réparation de vélos).
+    for (const r of ranked) {
+      r.sim = sem[r.it.i] || 0;
+      r.s += TUNE.sem * Math.max(0, r.sim - TUNE.semFloor) / (1 - TUNE.semFloor);
+    }
+  }
+  ranked = ranked.filter((r) => r.s > 0).sort((a, b) => b.s - a.s);
   // Reclassement des 30 premières par ressemblance des lettres avec la question de chaque fiche
   if (TUNE.tri && ranked.length > 1) {
     const g = grams(n);
@@ -243,7 +254,7 @@ export function findAnswer(text) {
   // trouvait une fiche grâce à un seul mot), sauf correspondance très forte. Après le reclassement, la première fiche
   // peut ne couvrir qu'une partie de la question : on remonte la première des cinq meilleures qui passe le seuil
   // (« à quelle heure ferme la bibliothèque » → heures de la bibliothèque, pas le Wi-Fi de la bibliothèque fermée).
-  const pass = (r) => r.s >= TUNE.minScore && (r.cover >= TUNE.minCover || r.base >= TUNE.sureScore);
+  const pass = (r) => r.s >= TUNE.minScore && (r.cover >= TUNE.minCover || r.base >= TUNE.sureScore || (r.sim || 0) >= TUNE.semSure);
   const okIdx = ranked.slice(0, 5).findIndex(pass);
   if (okIdx > 0) ranked.unshift(...ranked.splice(okIdx, 1));
   best = ranked[0];

@@ -2,7 +2,7 @@ import { findAnswer, focusAnswer, byId } from '../js/search.js';
 import { CASES } from './cases.js';
 let ok = 0;
 for (const [q, want] of CASES) {
-  const r = findAnswer(q); const got = r.type === 'answer' ? r.entry.id : r.type;
+  const r = findAnswer(q); const got = r.type === 'answer' ? r.entry.id : r.type === 'offtopic' ? 'none' : r.type; // hors sujet = pas de fiche
   // plusieurs fiches équivalentes acceptées : ['a', 'b']
   if ([want].flat().includes(got)) ok++; else console.log(`ÉCHEC « ${q} » → ${got} (attendu ${want})`);
 }

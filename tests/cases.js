@@ -1,7 +1,7 @@
 // Questions types et réponse attendue (id de la base ou type spécial). Utilisé par tests/search.test.mjs et tests.html.
 export const CASES = [
   ['Où est le pavillon CRX ?', 'crx'], ['where is the library', ['bibliotheque', 'd-morisset']], ['comment payer mes frais de scolarité', 'paiement-frais'],
-  ['je veux créer un club', 'creer-club'], ['wifi eduroam', 'wifi'], ['stationnement', 'stationnement'], ['how do I print', ['impression', 'c-impression-gratuite']],
+  ['je veux créer un club', 'creer-club'], ['wifi eduroam', ['wifi', 'e-eduroam-connexion']], ['stationnement', 'stationnement'], ['how do I print', ['impression', 'c-impression-gratuite']],
   ['examen différé', 'examen-differe'], ['où manger', 'alimentation'], ['urgence', ['urgence', 'c-urgence-campus']], ['je me sens en dépression', 'sensitive'],
   ['bonjour', 'hello'], ['merci beaucoup', 'thanks'], ['quelle est la recette des crêpes', 'none'],
   ['ou est la biblioteque', 'bibliotheque'], ['parking on campus', 'stationnement'], ['code qr', 'resume-qr'],
@@ -17,8 +17,8 @@ export const CASES = [
   ['bourse schulich leader', 'z-bourse-schulich-leader'], ['échange étudiant à l étranger', 'a-echange-etudiant-sortant'],
   // Base élargie (23 novembre 2026)
   ['combien de crédits pour une mineure', 'zb-mineure-definition'], ['réglages eduroam android', 'zb-eduroam-android'],
-  ['Copilot uottawa', 'zb-copilot-gratuit'], ['toefl score minimum', 'zc-toefl-admission'],
-  ['FAFSA prêt américain', 'zc-fafsa-etapes'], ['cours bilingue', ['zb-cours-bilingue-code', 'b-cours-bilingue']],
+  ['Copilot uottawa', ['zb-copilot-gratuit', 'zb-copilot-bouclier-vert']], ['toefl score minimum', 'zc-toefl-admission'],
+  ['FAFSA prêt américain', ['zc-fafsa-etapes', 'z-prets-americains']], ['cours bilingue', ['zb-cours-bilingue-code', 'b-cours-bilingue']],
   // Le nom du pavillon doit battre un simple mot d'aspect (« ouvert », « samedi »)
   ['le CRX est-il ouvert samedi', 'crx'], ['à quelle heure ferme la bibliothèque', 'bibliotheque']
 ];

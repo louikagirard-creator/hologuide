@@ -71,6 +71,23 @@ function smalltalk(n0) {
   }
   return null;
 }
+// Hors sujet évident : Gee-Gee dit qu'il répond seulement sur l'Université (au lieu d'une fiche trouvée par hasard).
+// Volontairement précis : « club d'échecs », « cours de cinéma » ou « bus vers Carleton » restent des questions du campus.
+const OFFTOPIC = [
+  /\b(meteo|weather|forecast|quel temps|temps qu il fait|va t il pleuvoir|il va pleuvoir|rain tomorrow|snow tomorrow|neiger demain)\b/, // météo
+  /\b(quelle heure est il|quelle heure il est|what time is it|quel jour on est|on est quel jour|what day is it|what s the date today)\b/, // heure, date du jour
+  /\b(combien font|combien fait \d|what is \d+ \d|resous|resoudre|solve for|equation|derivee de|integrale de)\b/, // calcul
+  /\b(capitale de|capital of|population de la|population of|vitesse de la lumiere|speed of light|premier ministre|prime minister|president des etats|president of the|sens de la vie|meaning of life|qui a invente|who invented|world war|guerre mondiale|what year did)\b/, // culture générale
+  /\b(netflix|meilleur film|best movie|series? to watch|recommend me a (movie|show|series)|recette|recipe|cuire un|faire du pain|bake a|poeme|poem|paroles de|song lyrics|changer un pneu|change a tire|cinema ce soir|movie tonight)\b/, // loisirs
+  /\b(canadiens|habs|senators game|maple leafs|leafs|nhl|nba|nfl|mlb|super bowl|world cup|coupe du monde|stanley cup|coupe stanley|meilleur joueur|best player|meilleure equipe de|best team in|drake|taylor swift)\b/, // sport pro, vedettes
+  /\b(fais mon devoir|faire mon devoir|do my homework|write my essay|ecris mon|redige mon|photosynthese|photosynthesis|traduis|translate this)\b/, // devoirs
+  /\b(mcgill|universite de montreal|udem|concordia|universite laval|sherbrooke|u of t|uoft|university of toronto|queen s university|waterloo|mcmaster|ubc|harvard|stanford|mit)\b/, // autres universités
+  /\b(billet d avion|plane ticket|flight to|vol pour paris|bitcoin|crypto|tesla stock|acheter des actions|buy stock|prix de l essence|gas price)\b/ // voyages, argent
+];
+const OTHER_UNI = OFFTOPIC[7];
+// Une autre université, mais pour un lien avec nous (emprunter des livres, transférer des crédits, échange) : vraie question
+const LINKED = /\b(emprunt\w*|borrow\w*|biblio\w*|library|librar\w+|livres?|books?|transf\w+|credits?|echange|exchange|ici|here|chez vous)\b/;
+const ANCHOR = /\b(uottawa|u ottawa|universite d ottawa|university of ottawa|gee gee|gees|campus)\b/; // la question parle bien de chez nous
 // Charabia (« blablabla », « asdfgh ») : aucune voyelle, ou une syllabe répétée ; on répond « je n'ai pas compris ».
 const gibberish = (w) => w.length >= 4 && !/\d/.test(w) && (!/[aeiouy]/.test(w) || /(.{1,3})\1{2,}/.test(w));
 
@@ -99,6 +116,24 @@ function lev(a, b, max = 1) { // distance d'édition (tolérance d'une ou deux f
   return d[a.length][b.length];
 }
 
+// Trigrammes de lettres (« ins », « nsc », « scr »…) : rapprochent « inscrire » et « inscription », « payer » et « paiement »,
+// et résistent aux fautes. Servent à reclasser les meilleures fiches (voir findAnswer).
+function grams(text) {
+  const m = new Map();
+  for (const w of words(text)) {
+    if (w.length < 3) continue;
+    const x = `_${w}_`;
+    for (let i = 0; i + 3 <= x.length; i++) { const g = x.slice(i, i + 3); m.set(g, (m.get(g) || 0) + 1); }
+  }
+  let nrm = 0; for (const v of m.values()) nrm += v * v;
+  return { m, nrm: Math.sqrt(nrm) || 1 };
+}
+function cosine(a, b) {
+  let d = 0;
+  const [small, big] = a.m.size < b.m.size ? [a, b] : [b, a];
+  for (const [g, v] of small.m) { const w = big.m.get(g); if (w) d += v * w; }
+  return d / (a.nrm * b.nrm);
+}
 const GENERIC = new Set('uottawa ottawa universite university campus etudiant etudiante student students'.split(' '));
 // Index préparé une seule fois au chargement.
 // Mots-clés inutilisables écartés : faits seulement de petits mots (« es », « the », « a- », « qui peut ») ; sinon ils
@@ -113,7 +148,8 @@ const INDEX = KB.map((e) => {
   // (sans les mots présents partout : « uottawa », « campus »… sinon « C'est quoi I.T.I.S-uOttawa ? » attirait toute question avec « uottawa »)
   const qf = words(e.question.fr).filter((w) => w.length > 2 && !GENERIC.has(w)), qe = words(e.question.en).filter((w) => w.length > 2 && !GENERIC.has(w));
   const where = /^(ou |where |how do i get to |comment (me rendre|aller|se rendre))/.test(norm(e.question.fr).trim() + ' ') || /^(where |how do i get to )/.test(norm(e.question.en).trim() + ' ');
-  return { e, kws, idk: norm(e.id.replace(/^[a-z]-/, '')), vocab: v, vset: new Set(v), aset, qfr: new Set(qf), qen: new Set(qe), where };
+  return { e, kws, idk: norm(e.id.replace(/^[a-z]-/, '')), vocab: v, vset: new Set(v), aset, qfr: new Set(qf), qen: new Set(qe), where,
+    gfr: grams(e.question.fr), gen: grams(e.question.en) };
 });
 const ALL_WORDS = new Set(INDEX.flatMap((it) => it.vocab)); // un mot connu n'est pas une faute de frappe
 // Rareté de chaque mot : « différés » ou « fauteux » départagent mieux les réponses que « examens » ou « pavillon ».
@@ -132,13 +168,16 @@ const FACET = new Set(`heure heures horaire horaires ouvert ouverte ouverts ouve
 const facetWeight = (parts) => (parts.every((w) => FACET.has(w)) ? 0.4 : 1);
 
 // Réglages (ajustés avec le banc d'essai tests/essais.mjs)
-export const TUNE = { answerWeight: 0.35, minScore: 2.5, minCover: 0.5, sureScore: 5, focus: 10, focusIdf: true, whereBonus: 2 };
+export const TUNE = { answerWeight: 0.35, minScore: 2.5, minCover: 0.5, sureScore: 5, focus: 10, focusIdf: true, whereBonus: 2, tri: 10 };
 function score(item, n, qwords, cats) {
   let s = 0, exact = 0;
   const hit = new Set(); // mots de la question expliqués par cette fiche
   for (const k of item.kws) {
     // (Buffy) un mot-clé fait seulement de mots d'aspect (« ouvert », « samedi ») compte moins que le sujet nommé
-    if (n.includes(k)) { s += (2 + k.trim().split(' ').length) * facetWeight(k.trim().split(' ')); exact++; for (const w of k.trim().split(' ')) hit.add(w); } // expression exacte : plus elle est longue, plus elle compte
+    if (n.includes(k)) {
+      s += (2 + k.trim().split(' ').length) * facetWeight(k.trim().split(' ')) + (k === n ? 10 : 0); // la question EST ce mot-clé (« code qr ») : fiche visée
+      exact++; for (const w of k.trim().split(' ')) hit.add(w);
+    } // expression exacte : plus elle est longue, plus elle compte
     else if (k.length >= 7 && !k.trim().includes(' ')) {
       const kk = k.trim(), tol = kk.length >= 8 ? 2 : 1; // mot long : deux fautes permises (« morriset » pour « morisset »)
       const w = qwords.find((x) => x.length >= 5 && !ALL_WORDS.has(x) && lev(x, kk, tol) <= tol);
@@ -180,19 +219,36 @@ export function findAnswer(text) {
   if (all.every((w) => LAUGH.has(w) || gibberish(w) || w.length < 2) && all.some((w) => LAUGH.has(w) || gibberish(w))) return { type: 'unclear', alts: [], top: [] }; // « lol », « aaaaaa », « kdkdkd lol »
   const st = smalltalk(n);
   if (st?.whole) return { type: 'smalltalk', intent: st.id };
+  // (sur le texte sans la règle des pluriels : « temps » doit rester « temps », « senators » rester « senators »)
+  const raw = ` ${String(text || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[’']/g, ' ').replace(/[^a-z0-9]+/g, ' ').trim()} `;
+  if (!ANCHOR.test(raw) && OFFTOPIC.some((re) => re.test(raw)) && !(OTHER_UNI.test(raw) && LINKED.test(raw))) return { type: 'offtopic', alts: [], top: [] };
   if (all.length <= 4 && HELLO.some((h) => n.includes(` ${h} `) || ` ${all.map(squash).join(' ')} `.includes(` ${squash(h)} `))) return { type: 'hello' };
   if (THANKS.some((h) => n.includes(norm(h))) && all.length <= 5) return { type: 'thanks' };
   const cats = new Set(CAT_HINTS.filter((c) => c.hints.some((h) => n.includes(h))).map((c) => c.id));
   cats.club = / (club|clubs|association etudiante|student club) /.test(n);
   cats.where = / (ou est|ou sont|ou se trouve|ou trouver|where is|where are|where s|where can i find|how do i get to|comment aller|comment me rendre|c est ou) /.test(n);
-  const ranked = INDEX.map((it) => ({ e: it.e, ...score(it, n, qwords, cats) })).filter((r) => r.s > 0).sort((a, b) => b.s - a.s);
-  const best = ranked[0];
-  if (st && !(best && best.base >= TUNE.sureScore && best.cover >= 0.6)) return { type: 'smalltalk', intent: st.id };
+  const ranked = INDEX.map((it) => ({ it, e: it.e, ...score(it, n, qwords, cats) })).filter((r) => r.s > 0).sort((a, b) => b.s - a.s);
+  // Reclassement des 30 premières par ressemblance des lettres avec la question de chaque fiche
+  if (TUNE.tri && ranked.length > 1) {
+    const g = grams(n);
+    const head = ranked.slice(0, 30);
+    for (const r of head) r.s += TUNE.tri * Math.max(cosine(g, r.it.gfr), cosine(g, r.it.gen));
+    head.sort((a, b) => b.s - a.s);
+    ranked.splice(0, head.length, ...head);
+  }
+  let best = ranked[0];
+  if (st && !ranked.slice(0, 5).some((r) => r.base >= TUNE.sureScore && r.cover >= TUNE.minCover)) return { type: 'smalltalk', intent: st.id };
   if ((!best || best.s < 2.5) && all.every((w) => gibberish(w) || w.length < 3) && all.some(gibberish)) return { type: 'unclear', alts: [], top: [] };
-  const top = ranked.slice(0, 6).map((r) => r.e); // candidates pour l'IA (elle relit plus de fiches que l'écran n'en montre)
   // Réponse seulement si la fiche explique une bonne partie de la question (sinon « qui a gagné le match hier »
-  // trouvait une fiche grâce à un seul mot), sauf correspondance très forte.
-  if (best && best.s >= TUNE.minScore && (best.cover >= TUNE.minCover || best.base >= TUNE.sureScore)) return { type: 'answer', entry: best.e, score: best.s, alts: ranked.slice(1, 4).filter((r) => r.s >= 2).map((r) => r.e), top };
+  // trouvait une fiche grâce à un seul mot), sauf correspondance très forte. Après le reclassement, la première fiche
+  // peut ne couvrir qu'une partie de la question : on remonte la première des cinq meilleures qui passe le seuil
+  // (« à quelle heure ferme la bibliothèque » → heures de la bibliothèque, pas le Wi-Fi de la bibliothèque fermée).
+  const pass = (r) => r.s >= TUNE.minScore && (r.cover >= TUNE.minCover || r.base >= TUNE.sureScore);
+  const okIdx = ranked.slice(0, 5).findIndex(pass);
+  if (okIdx > 0) ranked.unshift(...ranked.splice(okIdx, 1));
+  best = ranked[0];
+  const top = ranked.slice(0, 6).map((r) => r.e); // candidates pour l'IA (elle relit plus de fiches que l'écran n'en montre)
+  if (best && pass(best)) return { type: 'answer', entry: best.e, score: best.s, alts: ranked.slice(1, 4).filter((r) => r.s >= 2).map((r) => r.e), top };
   return { type: 'none', alts: ranked.slice(0, 3).filter((r) => r.s >= 1).map((r) => r.e), top };
 }
 

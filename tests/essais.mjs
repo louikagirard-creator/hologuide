@@ -15,7 +15,7 @@ for (const f of readdirSync('tests/essais').filter((n) => n.endsWith('.json')).s
   for (const { q, expect } of list) {
     const r = findAnswer(q);
     // Ce que la borne a fait : id de la fiche, ou type (le charabia « unclear » compte comme « none »)
-    const got = r.type === 'answer' ? r.entry.id : r.type === 'smalltalk' ? r.intent : r.type === 'unclear' ? 'none' : r.type;
+    const got = r.type === 'answer' ? r.entry.id : r.type === 'smalltalk' ? r.intent : r.type === 'unclear' || r.type === 'offtopic' ? 'none' : r.type;
     const ok = expect.includes(got);
     const close = !ok && r.type === 'answer' && (r.alts || []).some((a) => expect.includes(a.id)); // bonne fiche proposée juste en dessous
     total++; if (ok) { good++; g++; } else { if (close) { near++; n++; } errors.push({ f, q, got, expect, close }); }

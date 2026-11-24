@@ -235,12 +235,12 @@ function ask(text, id, opts = {}) {
     $('#view').prepend(asked(q));
     gg?.react(res.type);
     say(t(res.type), p);
-  } else if (res.type === 'smalltalk' || res.type === 'unclear') {
+  } else if (res.type === 'smalltalk' || res.type === 'unclear' || res.type === 'offtopic') {
     // Bavardage ou charabia : une courte réplique de Gee-Gee, puis les sujets pour repartir
-    const list = res.type === 'unclear' ? [t('unclear')] : t(`st_${res.intent}`);
+    const list = res.type === 'smalltalk' ? t(`st_${res.intent}`) : [t(res.type)];
     const said = list[Math.floor(Math.random() * list.length)];
     logExchange({ q, a: said, url: '', type: res.type });
-    if (res.type === 'unclear') bump((s) => { s.unanswered++; });
+    if (res.type !== 'smalltalk') bump((s) => { s.unanswered++; });
     const p = spokenText(said);
     setView(asked(q), p, h('p', { class: 'section', text: t('popular') }), topicTiles(profileTopics().slice(0, 3)));
     gg?.react({ bye: 'bye', howareyou: 'hello', whoareyou: 'hello', help: 'answer', joke: 'answer', compliment: 'thanks', insult: 'none', yesno: 'answer' }[res.intent] || 'none');

@@ -8,7 +8,7 @@ Dépôt : https://github.com/louikagirard-creator/hologuide — toute l'équipe 
 L'équipe doit voir le travail des autres. À chaque demande de modification :
 1. **Avant de commencer** : `git pull --rebase` pour récupérer les modifications des coéquipiers.
 2. Faire la modification demandée, puis lancer les tests : `node tests/search.test.mjs` et `node tests/ai.test.mjs` (tout doit réussir).
-   - Si on touche à la recherche (`js/search.js`) ou à la base : `node tests/essais.mjs` (banc de 1000 questions réalistes, avec fautes, anglais, bavardage et charabia). Le score ne doit pas baisser (93,9 % avec la recherche par le sens, 85,6 % avec `--mots`, au 23 novembre 2026) ; `--erreurs` liste chaque erreur.
+   - Si on touche à la recherche (`js/search.js`) ou à la base : `node tests/essais.mjs` (banc de 1000 questions réalistes, avec fautes, anglais, bavardage et charabia). Le score ne doit pas baisser (94,6 % sur 1300 questions avec la recherche par le sens, 85,3 % avec `--mots`, au 23 novembre 2026 ; le lot e-nouvelles-questions n'a pas servi aux réglages : c'est la mesure la plus honnête) ; `--erreurs` liste chaque erreur.
 3. **Tout de suite après** : `git add -A`, `git commit -m "<prénom> : <ce qui a changé, en français>"`, puis `git push`.
    - Si `git push` est refusé parce qu'un coéquipier a publié entre-temps : `git pull --rebase`, régler les conflits s'il y en a, relancer les tests, puis `git push`.
    - Ne jamais utiliser `git push --force`. Ne jamais publier de secret (`.env`, clé API, mot de passe).

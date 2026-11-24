@@ -1117,12 +1117,14 @@
  {
   "q": "I'm having suicidal thoughts, who can I call right now",
   "expect": [
+   "sensitive",
    "x-ligne-988"
   ]
  },
  {
   "q": "grad student 24/7 mental health support",
   "expect": [
+   "sensitive",
    "x-ssp-cycles-sup"
   ]
  },
@@ -1285,6 +1287,7 @@
  {
   "q": "est-ce que je dois payer pour mes rendez-vous en sante mentale",
   "expect": [
+   "sensitive",
    "x-sante-mentale-facturation-assurance"
   ]
  },

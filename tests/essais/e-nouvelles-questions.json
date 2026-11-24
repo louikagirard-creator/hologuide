@@ -1,0 +1,1819 @@
+[
+ {
+  "q": "lettres de reco pour la maitrise ça marche comment?",
+  "expect": [
+   "h-cs-lettres-recommandation"
+  ]
+ },
+ {
+  "q": "Je parle déjà français couramment, est-ce que je dois quand même faire le test de langue pour entrer au B.Éd.?",
+  "expect": [
+   "m-bed-test-langue"
+  ]
+ },
+ {
+  "q": "admision requirments master information studies",
+  "expect": [
+   "m-msi-admission"
+  ]
+ },
+ {
+  "q": "I'm at Algonquin College right now, can I transfer into the Telfer commerce program?",
+  "expect": [
+   "n-bcom-transfert"
+  ]
+ },
+ {
+  "q": "Faut-tu que je me trouve un superviseur pour la maîtrise en durabilité de l'environnement?",
+  "expect": [
+   "n-durabilite-env-directeur"
+  ]
+ },
+ {
+  "q": "what happens if my final grades don't meet the conditions on my offer",
+  "expect": [
+   "zc-conditions-non-remplies"
+  ]
+ },
+ {
+  "q": "j'ai été refusé en génie après un an à Carleton, je dois suivre quels cours pour réappliquer",
+  "expect": [
+   "zc-refus-genie-sciences",
+   "zc-refus-options-universite"
+  ]
+ },
+ {
+  "q": "Is the IELTS General Training I did for immigration accepted for admission?",
+  "expect": [
+   "zc-tests-langue-refuses"
+  ]
+ },
+ {
+  "q": "besides TOEFL and IELTS what other englsh tests do you acept",
+  "expect": [
+   "zc-autres-tests-anglais"
+  ]
+ },
+ {
+  "q": "on me demande mes plans de cours pour mes crédits de transfert, j'envoie quoi exactement",
+  "expect": [
+   "zc-credits-plans-cours"
+  ]
+ },
+ {
+  "q": "euh je viens du cegep pis je me demande quand je vais savoir quels credits sont reconnus",
+  "expect": [
+   "a-credits-transfert-admission",
+   "zc-credits-delai-resultat"
+  ]
+ },
+ {
+  "q": "how do i know which courses and what average i need for my program",
+  "expect": [
+   "a-prealables-programme"
+  ]
+ },
+ {
+  "q": "c quand la semaine de lecture à l'automne 2026",
+  "expect": [
+   "b-semaine-lecture-automne-2026"
+  ]
+ },
+ {
+  "q": "congés fériés hiver 2027?",
+  "expect": [
+   "b-jours-feries-hiver-2027"
+  ]
+ },
+ {
+  "q": "quand est-ce que je peux m'inscrire aux cours du printemps-été 2027",
+  "expect": [
+   "b-inscription-printemps-ete-2027"
+  ]
+ },
+ {
+  "q": "elle est où la liste des fêtes religieuses reconnues",
+  "expect": [
+   "b-fetes-religieuses"
+  ]
+ },
+ {
+  "q": "Les cours commence à quelle heure le matin pis finissent à quelle heure le soir?",
+  "expect": [
+   "b-heures-cours"
+  ]
+ },
+ {
+  "q": "what does concurrent course mean? and what's a credit exactly",
+  "expect": [
+   "b-credit-unite-concomitant"
+  ]
+ },
+ {
+  "q": "Mon prof veut nous donner un gros exam pendant la derniere semaine de cours, a-t-il le droit?",
+  "expect": [
+   "b-derniere-semaine-retroaction"
+  ]
+ },
+ {
+  "q": "c'est quoi la date limite pour demander une révision de ma note d'examen final",
+  "expect": [
+   "b-revision-note-delais"
+  ]
+ },
+ {
+  "q": "quelle moyenne il faut pour être admis au doc",
+  "expect": [
+   "h-cs-exigences-minimales",
+   "zb-cs-admission-moyenne-doctorat"
+  ]
+ },
+ {
+  "q": "Can I take a grad course at Carleton and have it count toward my degree here?",
+  "expect": [
+   "h-cs-cours-autre-universite"
+  ]
+ },
+ {
+  "q": "est-ce que je peux creer mon propre cours pis avoir des credit",
+  "expect": [
+   "h-cours-autodiriges"
+  ]
+ },
+ {
+  "q": "test de classement ESL comment je fais",
+  "expect": [
+   "h-test-classement-langue"
+  ]
+ },
+ {
+  "q": "Je suis déjà en 2e année, est-ce que je peux ajouter l'immersion française à mon programme?",
+  "expect": [
+   "h-immersion-ajouter"
+  ]
+ },
+ {
+  "q": "are there reserved seats for indigenous students",
+  "expect": [
+   "h-autochtone-places-reservees"
+  ]
+ },
+ {
+  "q": "I need to change my name before my diploma gets printed, when's the deadline?",
+  "expect": [
+   "k-nom-avant-impression-diplome"
+  ]
+ },
+ {
+  "q": "euh j'ai fait un cours d'été dans une autre université pour finir mon bac, faut-tu que je fasse quelque chose pour que ça compte pour mon diplôme",
+  "expect": [
+   "k-cours-ailleurs-avant-diplome"
+  ]
+ },
+ {
+  "q": "PAPU sciences infirmières exigences",
+  "expect": [
+   "m-papu-exigences"
+  ]
+ },
+ {
+  "q": "Are French second language courses offered online?",
+  "expect": [
+   "m-majeure-fls-en-ligne"
+  ]
+ },
+ {
+  "q": "mon bac est en commerce, pas en santé, est-ce que je peux quand même appliquer aux maîtrises en réadaptation? pis y a tu une entrevue",
+  "expect": [
+   "m-readaptation-sans-bac-connexe"
+  ]
+ },
+ {
+  "q": "je veux aller en droit plus tard, je devrais faire quel bac avant",
+  "expect": [
+   "m-droit-programme-prealable"
+  ]
+ },
+ {
+  "q": "I just finished cegep, do my studies count for PharmD admission?",
+  "expect": [
+   "m-pharmd-cegep"
+  ]
+ },
+ {
+  "q": "Peux-tu me dire si je peux rentrer au MBA sans diplôme universitaire",
+  "expect": [
+   "n-mba-sans-diplome"
+  ]
+ },
+ {
+  "q": "when will i hear back about my mba aplication",
+  "expect": [
+   "n-mba-delai-reponse"
+  ]
+ },
+ {
+  "q": "GMAT obligatoire pour la MSc en gestion?",
+  "expect": [
+   "n-msc-gestion-gmat-anglais"
+  ]
+ },
+ {
+  "q": "Prof here, how do I get access to a classroom or the equipment in it?",
+  "expect": [
+   "u-acces-salle-classe"
+  ]
+ },
+ {
+  "q": "jai rapporté le projecteur en retard au service audiovisuel, ça va me couter quoi",
+  "expect": [
+   "u-retard-equipement-av"
+  ]
+ },
+ {
+  "q": "how much does video production cost from audiovisual services",
+  "expect": [
+   "u-location-production-av"
+  ]
+ },
+ {
+  "q": "Je donne un cours de sociologie et mes étudiants doivent faire un petit sondage avec des participants pour leur travail de session. Est-ce que ça prend une approbation éthique?",
+  "expect": [
+   "u-ethique-travaux-cours"
+  ]
+ },
+ {
+  "q": "dates de dépôt de thèse hiver 2027",
+  "expect": [
+   "v-these-depot-hiver-2027"
+  ]
+ },
+ {
+  "q": "quand les notes de l'été 2027 deviennent officielles",
+  "expect": [
+   "v-notes-ete-2027"
+  ]
+ },
+ {
+  "q": "exam dates and when grades come out for fall 2027",
+  "expect": [
+   "v-examens-automne-2027"
+  ]
+ },
+ {
+  "q": "Les examens différés d'anatomie ANP c'est quand?",
+  "expect": [
+   "v-differes-anatomie-anp"
+  ]
+ },
+ {
+  "q": "my internet crashed in the middle of my online exam what do I do",
+  "expect": [
+   "v-probleme-technique-examen-ligne",
+   "v-panne-technique-examen-final"
+  ]
+ },
+ {
+  "q": "le surveillant en chef s'est pas présenté à l'examen, qu'est-ce qui se passe",
+  "expect": [
+   "v-surveillant-absent"
+  ]
+ },
+ {
+  "q": "My prof and I disagree about my religious accommodation, what now?",
+  "expect": [
+   "v-accommodement-religieux-desaccord"
+  ]
+ },
+ {
+  "q": "J'ai rempli la déclaration d'absence, qui va me contacter après?",
+  "expect": [
+   "v-qui-contacte-apres-declaration"
+  ]
+ },
+ {
+  "q": "c'est-tu grave si je remplis souvent des déclarations d'absence",
+  "expect": [
+   "v-absences-frequentes-examens"
+  ]
+ },
+ {
+  "q": "le billet du medecin doit dire quoi pour un exament manqué",
+  "expect": [
+   "v-certificat-medical-contenu"
+  ]
+ },
+ {
+  "q": "horaire examens differes genie",
+  "expect": [
+   "v-genie-horaire-differes"
+  ]
+ },
+ {
+  "q": "I'm in Arts and I missed my deferred exam too, can I defer it again?",
+  "expect": [
+   "v-arts-re-differe"
+  ]
+ },
+ {
+  "q": "je vais être à Vancouver, je peux-tu écrire mon examen différé dans un centre d'examen là-bas?",
+  "expect": [
+   "v-centre-examen-differe-non"
+  ]
+ },
+ {
+  "q": "est-ce que les profs ont le droit de faire une courbe? genre mon prof de chimie a monté toutes les notes",
+  "expect": [
+   "v-courbe-notes"
+  ]
+ },
+ {
+  "q": "mon prof peut-tu donner l'examen final avant la période d'examens officielle?",
+  "expect": [
+   "v-examen-final-hors-periode"
+  ]
+ },
+ {
+  "q": "Je suis rendu chez nous en Côte d'Ivoire pour l'été, puis-je écrire mon examen supplémentaire en ligne pis j'ai combien de temps?",
+  "expect": [
+   "v-supplementaire-delai-lieu"
+  ]
+ },
+ {
+  "q": "exam de common law demain pis j'ai perdu ma carte étudiante, help",
+  "expect": [
+   "v-common-law-carte-perdue"
+  ]
+ },
+ {
+  "q": "comment ça se passe le jour d'un examen au centre d'examens adaptés",
+  "expect": [
+   "v-jour-examen-adapte"
+  ]
+ },
+ {
+  "q": "where do I leave my backpack at the acommodated exam centre",
+  "expect": [
+   "v-casiers-examen-adapte"
+  ]
+ },
+ {
+  "q": "Est-ce qu'un interprète peut m'accompagner pendant mes examens?",
+  "expect": [
+   "v-interpretation-examens"
+  ]
+ },
+ {
+  "q": "deadline to contest a grade I got on an assignment during the term",
+  "expect": [
+   "v-revision-note-travail-session"
+  ]
+ },
+ {
+  "q": "on peut tu demander une révision de note pour un travail d'équipe",
+  "expect": [
+   "v-revision-note-groupe"
+  ]
+ },
+ {
+  "q": "Can the Senate appeals committee actually change my grade?",
+  "expect": [
+   "v-appel-senat-note"
+  ]
+ },
+ {
+  "q": "j'ai dépassé les 10 jours pour faire appel au Sénat, c'est trop tard?",
+  "expect": [
+   "v-appel-senat-retard"
+  ]
+ },
+ {
+  "q": "ça veut dire quoi CTN sur mon relevé",
+  "expect": [
+   "v-symboles-ctn-aud-cr"
+  ]
+ },
+ {
+  "q": "in common law, when are the classes cancelled on Family Day and Good Friday made up?",
+  "expect": [
+   "zb-cl-rattrapage-hiver-2027"
+  ]
+ },
+ {
+  "q": "dates stage coop ete 2027",
+  "expect": [
+   "zb-coop-ete-2027-stage"
+  ]
+ },
+ {
+  "q": "Are there religious holidays during the April 2027 exams?",
+  "expect": [
+   "zb-fetes-religieuses-examens-avril-2027"
+  ]
+ },
+ {
+  "q": "date limite pour remettre mon rapport de génie à l'hiver 2027",
+  "expect": [
+   "zb-memoire-rapport-hiver-2027"
+  ]
+ },
+ {
+  "q": "how do I upload my documents for my application",
+  "expect": [
+   "zc-soumettre-documents-uodoc"
+  ]
+ },
+ {
+  "q": "j'ai déjà appliqué mais je veux ajouter le coop, c'est-tu possible?",
+  "expect": [
+   "zc-modifier-demande-admission"
+  ]
+ },
+ {
+  "q": "I sent my transcript but my conditions still aren't checked off, why?",
+  "expect": [
+   "zc-conditions-pas-cochees"
+  ]
+ },
+ {
+  "q": "refusé direct en sortant du secondaire, c'est quoi mes options",
+  "expect": [
+   "zc-refus-options-secondaire"
+  ]
+ },
+ {
+  "q": "I got rejected last year because my average was too low. What courses can I take to bring it up before I reapply?",
+  "expect": [
+   "zc-cours-hausser-moyenne"
+  ]
+ },
+ {
+  "q": "comment éviter de me faire frauder quand je fais ma demande d'admission",
+  "expect": [
+   "zc-fraude-demande-admission"
+  ]
+ },
+ {
+  "q": "mon test de langue doit-tu être récent?",
+  "expect": [
+   "zc-test-langue-validite"
+  ]
+ },
+ {
+  "q": "can I get exempted from the french test for a french program",
+  "expect": [
+   "zc-exemption-francais-autres"
+  ]
+ },
+ {
+  "q": "I have a 3 year college diploma from Algonquin in business, how many credits can I get if I apply to Telfer?",
+  "expect": [
+   "zc-credits-college"
+  ]
+ },
+ {
+  "q": "avec mes credits de transfert, je vais commencer en 2e annee?",
+  "expect": [
+   "zc-credits-niveau-annee"
+  ]
+ },
+ {
+  "q": "Telfer m'a demandé un autre test de langue alors que j'ai déjà le score exigé, pourquoi?",
+  "expect": [
+   "zc-telfer-test-langue-supplementaire"
+  ]
+ },
+ {
+  "q": "c'est quoi le cours MAT1720",
+  "expect": [
+   "j-mat1720"
+  ]
+ },
+ {
+  "q": "whats PSY 1502 about",
+  "expect": [
+   "j-psy1502"
+  ]
+ },
+ {
+  "q": "ADM2313 c'est quel genre de cours",
+  "expect": [
+   "aa-adm2313"
+  ]
+ },
+ {
+  "q": "y a-t-il une maitrise en audiologie",
+  "expect": [
+   "p-cs-audiologie"
+  ]
+ },
+ {
+  "q": "y a tu une maîtrise en traduction",
+  "expect": [
+   "p-cs-maitrise-traduction"
+  ]
+ },
+ {
+  "q": "Est-ce qu'il y a un bac en arts que je peux faire entièrement en ligne? je travaille à temps plein",
+  "expect": [
+   "o-ba-etudes-interdisciplinaires-en-ligne"
+  ]
+ },
+ {
+  "q": "what's the business analytics option in commerce",
+  "expect": [
+   "o-bcom-analytique-gestion"
+  ]
+ },
+ {
+  "q": "certificat en droit autochtone ça existe?",
+  "expect": [
+   "o-certificat-droit-autochtone"
+  ]
+ },
+ {
+  "q": "I'm not ready to take content courses in french in first year, can I still do immersion?",
+  "expect": [
+   "n-immersion-pas-pret"
+  ]
+ },
+ {
+  "q": "les diplômés de la MSc en gestion font quoi après",
+  "expect": [
+   "n-msc-gestion-debouches"
+  ]
+ },
+ {
+  "q": "c'est où le Département de médecine",
+  "expect": [
+   "t-departement-medecine"
+  ]
+ },
+ {
+  "q": "dates pis frais du uOttawa English Experience",
+  "expect": [
+   "y-uoee-dates-frais"
+  ]
+ },
+ {
+  "q": "do any Telfer BCom options prepare you for the CPA?",
+  "expect": [
+   "m-bcom-titres-professionnels"
+  ]
+ },
+ {
+  "q": "Est-ce que je peux pratiquer le droit au Canada avec une maîtrise en droit d'une université étrangère?",
+  "expect": [
+   "m-pratiquer-droit-diplome-etranger"
+  ]
+ },
+ {
+  "q": "c'est quoi le programme des pages à la Chambre des communes",
+  "expect": [
+   "h-page-chambre-communes"
+  ]
+ },
+ {
+  "q": "can I get two degrees faster",
+  "expect": [
+   "h-doubles-diplomes-acceleres",
+   "f-sciences-doubles-diplomes"
+  ]
+ },
+ {
+  "q": "Où est le centre de services aux étudiants de Telfer?",
+  "expect": [
+   "f-telfer-centre-services"
+  ]
+ },
+ {
+  "q": "quand je dois remettre mon rapport de progres de these",
+  "expect": [
+   "h-cs-rapport-progres"
+  ]
+ },
+ {
+  "q": "CBY c'est où",
+  "expect": [
+   "cby"
+  ]
+ },
+ {
+  "q": "le pavillon vanier c'est où",
+  "expect": [
+   "d-vanier"
+  ]
+ },
+ {
+  "q": "brooks complex what is it",
+  "expect": [
+   "d-brooks"
+  ]
+ },
+ {
+  "q": "c'est quoi le monument de la francophonie",
+  "expect": [
+   "g-monument-francophonie"
+  ]
+ },
+ {
+  "q": "gender neutral washroom near here?",
+  "expect": [
+   "i-toilettes-non-genrees-crx",
+   "i-toilettes-non-genrees-campus",
+   "g-toilettes-non-genrees"
+  ]
+ },
+ {
+  "q": "qu'est-ce qu'il y a pour les étudiants dans le pavillon FSS",
+  "expect": [
+   "i-fss-interieur"
+  ]
+ },
+ {
+  "q": "what's inside the ARC building",
+  "expect": [
+   "r-labos-arc"
+  ]
+ },
+ {
+  "q": "entrée accessible pavillon Pérez",
+  "expect": [
+   "za-acces-perez"
+  ]
+ },
+ {
+  "q": "how do i get into Minto in a wheelchiar",
+  "expect": [
+   "za-acces-minto"
+  ]
+ },
+ {
+  "q": "Le 100 Laurier est-tu accessible en fauteuil roulant? mon ami veut voir l'expo",
+  "expect": [
+   "za-acces-100-laurier"
+  ]
+ },
+ {
+  "q": "c'était qui Fauteux",
+  "expect": [
+   "za-nom-fauteux"
+  ]
+ },
+ {
+  "q": "how do I get from FSS to Vanier without going outside",
+  "expect": [
+   "za-lien-vanier-fss"
+  ]
+ },
+ {
+  "q": "legal services in brooks?",
+  "expect": [
+   "za-brooks-services"
+  ]
+ },
+ {
+  "q": "qu'est-ce qui apparait sur mon relevé de notes officiel",
+  "expect": [
+   "k-releve-contenu"
+  ]
+ },
+ {
+  "q": "c'est quoi le congé autofinancé",
+  "expect": [
+   "u-conge-autofinance"
+  ]
+ },
+ {
+  "q": "c'est quel comité d'éthique qui évalue mon projet de recherche",
+  "expect": [
+   "u-cer-lequel"
+  ]
+ },
+ {
+  "q": "comment ça se passe le processus régulier pour une allégation de fraude scolaire",
+  "expect": [
+   "v-fraude-processus-regulier"
+  ]
+ },
+ {
+  "q": "pourquoi la fac de droit a une session en janvier",
+  "expect": [
+   "zb-trimestres-faculte-droit"
+  ]
+ },
+ {
+  "q": "différence entre bac pis bac spécialisé",
+  "expect": [
+   "zb-baccalaureat-specialise-definition"
+  ]
+ },
+ {
+  "q": "I went to a class all term without being registered, can I register after the fact?",
+  "expect": [
+   "zb-inscription-retroactive"
+  ]
+ },
+ {
+  "q": "aux études supérieures, je peux passer de temps plein à temps partiel?",
+  "expect": [
+   "zb-cs-temps-partiel"
+  ]
+ },
+ {
+  "q": "combien de temps j'ai pour finir ma maîtrise",
+  "expect": [
+   "zb-cs-temps-limite-maitrise"
+  ]
+ },
+ {
+  "q": "ÉSAPI temps partiel, quelle moyenne je dois garder",
+  "expect": [
+   "m-esapi-temps-partiel-moyenne"
+  ]
+ },
+ {
+  "q": "les poteaux avec la lumière bleue c'est quoi",
+  "expect": [
+   "c-telephones-urgence"
+  ]
+ },
+ {
+  "q": "où manger tard le soir ou la fin de semaine",
+  "expect": [
+   "c-manger-tard"
+  ]
+ },
+ {
+  "q": "y a tu des cours de danse ou d'arts martiaux",
+  "expect": [
+   "c-cours-sportifs"
+  ]
+ },
+ {
+  "q": "free printng on campus?",
+  "expect": [
+   "c-impression-gratuite"
+  ]
+ },
+ {
+  "q": "I'd like to learn about the history of the university, where should I go?",
+  "expect": [
+   "g-archives-histoire"
+  ]
+ },
+ {
+  "q": "Hi I'm just visiting my daughter today and I'm kind of lost, where should I start",
+  "expect": [
+   "g-visiteur-premier-arret"
+  ]
+ },
+ {
+  "q": "quoi faire en cas de confinement",
+  "expect": [
+   "g-confinement"
+  ]
+ },
+ {
+  "q": "what are uottawa's environmental sustainability goals",
+  "expect": [
+   "g-durabilite-objectifs"
+  ]
+ },
+ {
+  "q": "how do i become a TA or RA",
+  "expect": [
+   "h-cs-assistanats"
+  ]
+ },
+ {
+  "q": "bourses pour faire mon coop à l'étranger",
+  "expect": [
+   "h-coop-bourses-mobilite"
+  ]
+ },
+ {
+  "q": "y a tu des salons de l'emploi sur le campus",
+  "expect": [
+   "h-carriere-salons"
+  ]
+ },
+ {
+  "q": "c'est quoi l'ILOB",
+  "expect": [
+   "h-ilob-presentation"
+  ]
+ },
+ {
+  "q": "on peut-tu acheter à manger à Morisset",
+  "expect": [
+   "i-morisset-manger"
+  ]
+ },
+ {
+  "q": "guichet automatik sur le campus?",
+  "expect": [
+   "i-guichet-automatique"
+  ]
+ },
+ {
+  "q": "paper official transcript how much",
+  "expect": [
+   "k-releve-officiel-papier"
+  ]
+ },
+ {
+  "q": "j'ai un formulaire de REEE à faire remplir par l'université, je fais comment",
+  "expect": [
+   "k-formulaire-reee-bourse"
+  ]
+ },
+ {
+  "q": "what is MesCertif and how do i pay for my digital documents",
+  "expect": [
+   "k-mescertif-fonctionnement"
+  ]
+ },
+ {
+  "q": "what can I do myself in uoZone for my student file",
+  "expect": [
+   "k-uozone-dossier"
+  ]
+ },
+ {
+  "q": "bureau des études faculté de droit c'est où",
+  "expect": [
+   "k-bureaux-droit"
+  ]
+ },
+ {
+  "q": "I'm getting two degrees from two faculties, how does that work",
+  "expect": [
+   "k-deux-grades"
+  ]
+ },
+ {
+  "q": "chu étudiant international, comment inviter ma famille à ma collation",
+  "expect": [
+   "k-lettre-invitation-collation"
+  ]
+ },
+ {
+  "q": "tutoring for student athletes",
+  "expect": [
+   "l-tutorat-athletes"
+  ]
+ },
+ {
+  "q": "est-ce qu'on peut emprunter de l'équipement de sport genre des raquettes",
+  "expect": [
+   "l-pret-equipement"
+  ]
+ },
+ {
+  "q": "summer camps for kids at uottawa?",
+  "expect": [
+   "l-camps-ete"
+  ]
+ },
+ {
+  "q": "responsabilités d'un capitaine aux intramuros",
+  "expect": [
+   "l-intramuros-capitaines"
+  ]
+ },
+ {
+  "q": "can the GSAED fund my trip to a conference",
+  "expect": [
+   "l-gsaed-financement-projets"
+  ]
+ },
+ {
+  "q": "who is allowed to go to the ombudsman",
+  "expect": [
+   "m-ombud-qui-peut"
+  ]
+ },
+ {
+  "q": "c'est quoi l'indicatif régional d'Ottawa pis comment avoir un forfait cell",
+  "expect": [
+   "m-indicatif-forfait-cellulaire"
+  ]
+ },
+ {
+  "q": "how can an employer verify that someone graduated from uottawa",
+  "expect": [
+   "m-diplomes-verification-statut"
+  ]
+ },
+ {
+  "q": "je travaille seul au labo le soir, y a tu un outil de sécurité",
+  "expect": [
+   "r-travail-seul-securuo"
+  ]
+ },
+ {
+  "q": "NanoFab c'est quoi",
+  "expect": [
+   "r-nanofab",
+   "s-nanofab"
+  ]
+ },
+ {
+  "q": "I'm not a student, can I take part in research studies?",
+  "expect": [
+   "r-ispr-bassin-communautaire"
+  ]
+ },
+ {
+  "q": "je viens d'être engagé à l'université, je commence par où",
+  "expect": [
+   "u-portail-accueil"
+  ]
+ },
+ {
+  "q": "employee discount at the campus store?",
+  "expect": [
+   "u-rabais-boutique"
+  ]
+ },
+ {
+  "q": "comment demander une réparation dans mon bureau, la fenêtre ferme pu pis il fait frette",
+  "expect": [
+   "u-bon-travail-immeubles"
+  ]
+ },
+ {
+  "q": "is there an app for leftover free food after events",
+  "expect": [
+   "x-free-food-alert"
+  ]
+ },
+ {
+  "q": "je veux être premier répondant bénévole sur le campus",
+  "expect": [
+   "x-ebic-benevole"
+  ]
+ },
+ {
+  "q": "c'est quoi qui compte comme du harcelement a l'université",
+  "expect": [
+   "x-harcelement-definition"
+  ]
+ },
+ {
+  "q": "if I pay at the door at the dining hall how long can I stay",
+  "expect": [
+   "zd-salle-manger-regles-entree"
+  ]
+ },
+ {
+  "q": "comment envoyer un panier cadeau à ma fille en résidence pour ses exams",
+  "expect": [
+   "zd-paniers-cadeaux"
+  ]
+ },
+ {
+  "q": "how do i get back the money left on my uOttawa card",
+  "expect": [
+   "zd-carte-remboursement-flex"
+  ]
+ },
+ {
+  "q": "comment j'emprunte un livre",
+  "expect": [
+   "emprunt-livre"
+  ]
+ },
+ {
+  "q": "can I borrow a laptop or a camera from the library",
+  "expect": [
+   "e-pret-equipement"
+  ]
+ },
+ {
+  "q": "salles d'étude accessibles à la bibliothèque",
+  "expect": [
+   "e-salles-accessibles"
+  ]
+ },
+ {
+  "q": "copyright question who do I ask",
+  "expect": [
+   "n-bureau-droit-auteur"
+  ]
+ },
+ {
+  "q": "est-ce que la bibli m'avertit avant que mon livre soit du? j'ai déjà eu des frais de retard l'an passé",
+  "expect": [
+   "za-avis-courtoisie"
+  ]
+ },
+ {
+  "q": "can I email the library my question",
+  "expect": [
+   "za-courriel-biblio"
+  ]
+ },
+ {
+  "q": "je suis en stage en enseignement, où trouver des livres jeunesse pis des trousses pédagogiques",
+  "expect": [
+   "za-centre-ressources-collection"
+  ]
+ },
+ {
+  "q": "Lees campus library where is it and can I book a room",
+  "expect": [
+   "za-biblio-lees"
+  ]
+ },
+ {
+  "q": "imprimantes morisset",
+  "expect": [
+   "za-imprimantes-morisset"
+  ]
+ },
+ {
+  "q": "j'ai une dyslexie, comment avoir les livres de la bibliothèque en format accessible",
+  "expect": [
+   "za-formats-accessibles"
+  ]
+ },
+ {
+  "q": "digital humanties project help",
+  "expect": [
+   "za-humanites-numeriques"
+  ]
+ },
+ {
+  "q": "hours for the FSS library and the management library",
+  "expect": [
+   "za-heures-fss-gestion"
+  ]
+ },
+ {
+  "q": "comment me rendre au campus en bus",
+  "expect": [
+   "transport"
+  ]
+ },
+ {
+  "q": "U-Pass exemption how",
+  "expect": [
+   "d-upass-exemption"
+  ]
+ },
+ {
+  "q": "stationement accessible",
+  "expect": [
+   "d-stationnement-accessible"
+  ]
+ },
+ {
+  "q": "can I pay for parking with cash",
+  "expect": [
+   "m-stationnement-paiement"
+  ]
+ },
+ {
+  "q": "je pars en congé 4 mois, je peux suspendre mon permis de stationnement?",
+  "expect": [
+   "u-permis-suspension"
+  ]
+ },
+ {
+  "q": "j'ai un contrat de 8 mois, quel permis de stationnement je peux avoir",
+  "expect": [
+   "u-permis-contrat-court"
+  ]
+ },
+ {
+  "q": "how long does a upass exemption take",
+  "expect": [
+   "w-upass-delai-exemption"
+  ]
+ },
+ {
+  "q": "types de permis de stationnement",
+  "expect": [
+   "w-stat-types-permis"
+  ]
+ },
+ {
+  "q": "how do I recognize a legit taxi in ottawa",
+  "expect": [
+   "w-taxi-autorise"
+  ]
+ },
+ {
+  "q": "la navete roule pas quels jours",
+  "expect": [
+   "w-navette-jours-sans-service"
+  ]
+ },
+ {
+  "q": "c'est quoi les archives et collections spéciales de la bibli",
+  "expect": [
+   "za-archives-collections-speciales"
+  ]
+ },
+ {
+  "q": "qui appeler pour une question administrative générale",
+  "expect": [
+   "infoservice"
+  ]
+ },
+ {
+  "q": "where's the gym",
+  "expect": [
+   "c-ou-est-gym",
+   "sports",
+   "montpetit"
+  ]
+ },
+ {
+  "q": "Où manger dans le CRX",
+  "expect": [
+   "i-crx-manger"
+  ]
+ },
+ {
+  "q": "library help in the CRX?",
+  "expect": [
+   "i-crx-aide-bibliotheque"
+  ]
+ },
+ {
+  "q": "how do I contact the alumni office",
+  "expect": [
+   "g-bureau-diplomes",
+   "za-laurier-diplomes"
+  ]
+ },
+ {
+  "q": "je travaille pas en labo mais je dois y entrer des fois, quelle formation je dois faire",
+  "expect": [
+   "r-orientation-labo-non-labo"
+  ]
+ },
+ {
+  "q": "how do I pick up food from Free Food Alert",
+  "expect": [
+   "zd-free-food-alert-cueillette"
+  ]
+ },
+ {
+  "q": "j'arrive pas à choisir mon option au BCom, qui peut m'aider",
+  "expect": [
+   "n-bcom-choisir-option-emplois"
+  ]
+ },
+ {
+  "q": "pour ma carte d'employé je veux pas téléverser mon passeport, y a tu d'autres options",
+  "expect": [
+   "m-carte-employe-piece-identite"
+  ]
+ },
+ {
+  "q": "what reasons are accepted for an authorized leave and can I work during it",
+  "expect": [
+   "k-conge-international-conditions"
+  ]
+ },
+ {
+  "q": "urgence sur le campus quoi faire",
+  "expect": [
+   "urgence",
+   "c-urgence-campus"
+  ]
+ },
+ {
+  "q": "how long is the wait to see a docter at the health centre",
+  "expect": [
+   "m-csme-delai"
+  ]
+ },
+ {
+  "q": "j'ai été hospitalisé pis j'ai le RAMU, je fais quoi",
+  "expect": [
+   "n-ramu-hospitalisation"
+  ]
+ },
+ {
+  "q": "do the campus mental health services take emergencies",
+  "expect": [
+   "sensitive",
+   "x-sante-mentale-pas-urgence"
+  ]
+ },
+ {
+  "q": "y a tu des chiens de zootherapie",
+  "expect": [
+   "x-zootherapie"
+  ]
+ },
+ {
+  "q": "my psychotherapy appointment isn't at Minto, where do I go",
+  "expect": [
+   "x-rdv-psy-site-satellite"
+  ]
+ },
+ {
+  "q": "si je parle d'une agression au bureau des droits de la personne ça devient une plainte automatiquement?",
+  "expect": [
+   "x-devoiler-sans-porter-plainte"
+  ]
+ },
+ {
+  "q": "can a security guard ask for my ID",
+  "expect": [
+   "zd-agents-demande-identite"
+  ]
+ },
+ {
+  "q": "is a sexual violence disclosure always kept confidential",
+  "expect": [
+   "zd-vs-limites-confidentialite"
+  ]
+ },
+ {
+  "q": "combien ça coûte voir un médecin au centre de santé si j'ai pas d'assurance maladie valide",
+  "expect": [
+   "zd-csme-rdv-non-assure"
+  ]
+ },
+ {
+  "q": "UHIP c'est quoi pis comment je l'obtiens",
+  "expect": [
+   "uhip",
+   "c-ramu"
+  ]
+ },
+ {
+  "q": "I'm new in Canada and kinda lonely, is there someone who can help me adjust",
+  "expect": [
+   "a-mentorat-regional"
+  ]
+ },
+ {
+  "q": "do i need a permit to work remotely for a canadian employer from abroad",
+  "expect": [
+   "n-permis-teletravail-etranger"
+  ]
+ },
+ {
+  "q": "ma PAL doit-elle rester valide pendant tout mon séjour",
+  "expect": [
+   "y-pal-validite"
+  ]
+ },
+ {
+  "q": "My visa expired, can I go to the US and come back to Canada?",
+  "expect": [
+   "y-voyage-etats-unis"
+  ]
+ },
+ {
+  "q": "j'ai fini mes cours, je peux continuer à travailler avant de demander mon PTPD?",
+  "expect": [
+   "y-ptpd-travail-avant-demande"
+  ]
+ },
+ {
+  "q": "Appletree clinic charged me even though I have UHIP, why",
+  "expect": [
+   "y-ramu-appletree"
+  ]
+ },
+ {
+  "q": "how do I register for my uottawa courses while I'm on exchange",
+  "expect": [
+   "y-echange-trf1000"
+  ]
+ },
+ {
+  "q": "residence application how",
+  "expect": [
+   "residence-demande"
+  ]
+ },
+ {
+  "q": "Hyman Soloway résidence c'est comment",
+  "expect": [
+   "d-res-hyman-soloway"
+  ]
+ },
+ {
+  "q": "how much is a room at the annex",
+  "expect": [
+   "w-res-cout-annex"
+  ]
+ },
+ {
+  "q": "faire mon lavage en rez c'est payant? pis c'est où les laveuses",
+  "expect": [
+   "w-res-buanderie"
+  ]
+ },
+ {
+  "q": "can I have guests over in residence? my boyfriend wants to sleep over on weekends",
+  "expect": [
+   "w-res-invites"
+  ]
+ },
+ {
+  "q": "où stationner pour déménager de la rez",
+  "expect": [
+   "w-res-stationnement-demenagement"
+  ]
+ },
+ {
+  "q": "is residence guaranteed for international students",
+  "expect": [
+   "w-res-garantie-internationaux"
+  ]
+ },
+ {
+  "q": "can I break my residence contract for medical reasons",
+  "expect": [
+   "w-res-resiliation-medicale"
+  ]
+ },
+ {
+  "q": "comment payer mes frais de scolarite",
+  "expect": [
+   "paiement-frais"
+  ]
+ },
+ {
+  "q": "are my scholarships taxable",
+  "expect": [
+   "e-feuillet-t4a"
+  ]
+ },
+ {
+  "q": "comment prouver que je suis résident permanent pour payer les frais canadiens",
+  "expect": [
+   "k-statut-legal-preuve"
+  ]
+ },
+ {
+  "q": "mon chèque a rebondi, y a tu des frais?",
+  "expect": [
+   "n-compte-cheque-sans-provision"
+  ]
+ },
+ {
+  "q": "can international students get a student loan",
+  "expect": [
+   "y-prets-etudiants-internationaux"
+  ]
+ },
+ {
+  "q": "bourse d'admission faculté des arts",
+  "expect": [
+   "z-bourse-arts-decanat"
+  ]
+ },
+ {
+  "q": "when is my entrance scholarship paid out",
+  "expect": [
+   "z-bourse-versement-quand"
+  ]
+ },
+ {
+  "q": "im an international student starting a bachelors next fall, how much is first year gonna cost me in total",
+  "expect": [
+   "z-cout-annee-international"
+  ]
+ },
+ {
+  "q": "y a des frais pour garder ma place si je prends une session off",
+  "expect": [
+   "z-frais-maintien-place"
+  ]
+ },
+ {
+  "q": "who decides tuition increases",
+  "expect": [
+   "zc-qui-fixe-droits"
+  ]
+ },
+ {
+  "q": "comment sauver de l'argent sur mes manuels",
+  "expect": [
+   "zc-economiser-manuels"
+  ]
+ },
+ {
+  "q": "what reasons aren't accepted to cancel my fees after the deadline",
+  "expect": [
+   "zc-remboursement-motifs-refuses"
+  ]
+ },
+ {
+  "q": "quand ont lieu les activités d'accueil pour les nouveaux",
+  "expect": [
+   "orientation"
+  ]
+ },
+ {
+  "q": "gee-gees game tickets price",
+  "expect": [
+   "l-billets-prix"
+  ]
+ },
+ {
+  "q": "how do I check my uottawa email",
+  "expect": [
+   "e-courriel-outlook"
+  ]
+ },
+ {
+  "q": "labos informatiques sciences sociales, ils ont quels logiciels",
+  "expect": [
+   "r-labo-info-sciences-sociales-vnr"
+  ]
+ },
+ {
+  "q": "can I auto-forward my uottawa emails to my gmail",
+  "expect": [
+   "zb-courriel-transfert-automatique"
+  ]
+ },
+ {
+  "q": "how do I turn on MFA",
+  "expect": [
+   "mfa"
+  ]
+ },
+ {
+  "q": "est-ce que je peux personnaliser mon bac en génie",
+  "expect": [
+   "a-genie-options-diplome"
+  ]
+ },
+ {
+  "q": "where can I learn to use a laser cutter",
+  "expect": [
+   "a-makerlab-formation"
+  ]
+ },
+ {
+  "q": "who can answer my questions about my study permit",
+  "expect": [
+   "a-conseillers-immigration"
+  ]
+ },
+ {
+  "q": "how do I do an exchange abroad",
+  "expect": [
+   "a-echange-etudiant-sortant"
+  ]
+ },
+ {
+  "q": "pharmacie sur le campus?",
+  "expect": [
+   "c-pharmacie"
+  ]
+ },
+ {
+  "q": "how much is a meal plan",
+  "expect": [
+   "d-plans-repas-cout"
+  ]
+ },
+ {
+  "q": "chu barré dehors de ma chambre en rez, j'ai perdu ma clé",
+  "expect": [
+   "d-cle-perdue"
+  ]
+ },
+ {
+  "q": "problème avec brightspace qui peut m'aider",
+  "expect": [
+   "e-soutien-brightspace"
+  ]
+ },
+ {
+  "q": "can I pay tuition in installments",
+  "expect": [
+   "e-promesse-de-payer"
+  ]
+ },
+ {
+  "q": "la date limite de paiement approche pis ma bourse est pas encore dans mon compte, j'ai peur d'avoir des frais de retard",
+  "expect": [
+   "e-bourse-pas-versee"
+  ]
+ },
+ {
+  "q": "dépôt d'admission combien pis remboursable?",
+  "expect": [
+   "e-depot-admission",
+   "a-depot-admission"
+  ]
+ },
+ {
+  "q": "what is electrical engineering like at uottawa",
+  "expect": [
+   "f-genie-electrique"
+  ]
+ },
+ {
+  "q": "funding for a research internship abroad",
+  "expect": [
+   "h-recherche-mitacs-globalink"
+  ]
+ },
+ {
+  "q": "labos informatiques génie",
+  "expect": [
+   "i-labo-info-genie"
+  ]
+ },
+ {
+  "q": "can I rent a gown for photos outside of convocation",
+  "expect": [
+   "k-toge-hors-collation"
+  ]
+ },
+ {
+  "q": "y a tu une équipe de ski",
+  "expect": [
+   "l-ski-alpin-fond"
+  ]
+ },
+ {
+  "q": "give me some examples of clubs",
+  "expect": [
+   "l-clubs-populaires"
+  ]
+ },
+ {
+  "q": "combien de choix de chambre je dois mettre dans ma demande de rez",
+  "expect": [
+   "m-residence-preferences"
+  ]
+ },
+ {
+  "q": "where do I get my T4 after my coop",
+  "expect": [
+   "n-coop-t4"
+  ]
+ },
+ {
+  "q": "do I need a study permit for online courses if I'm already in Canada",
+  "expect": [
+   "n-permis-etudes-en-ligne-canada"
+  ]
+ },
+ {
+  "q": "how to report a phishing email",
+  "expect": [
+   "u-signaler-courriel-suspect"
+  ]
+ },
+ {
+  "q": "can i get an email adress with my full name",
+  "expect": [
+   "u-courriel-nom-complet"
+  ]
+ },
+ {
+  "q": "I'm not doing well and I need to talk to someone right now",
+  "expect": [
+   "x-besoin-parler-maintenant"
+  ]
+ },
+ {
+  "q": "groupe de soutien pour le deuil, ma grand-mère est décédée",
+  "expect": [
+   "x-groupe-deuil"
+  ]
+ },
+ {
+  "q": "free period products on campus",
+  "expect": [
+   "x-produits-menstruels-gratuits",
+   "l-centre-ressources-feministes"
+  ]
+ },
+ {
+  "q": "depistage ITS sur le campus",
+  "expect": [
+   "x-depistage-its-vih"
+  ]
+ },
+ {
+  "q": "can I see a psychiatrist at the health centre",
+  "expect": [
+   "x-psychiatre-psychologue-campus"
+  ]
+ },
+ {
+  "q": "comment savoir si je vais à l'urgence ou dans une clinique sans rendez-vous",
+  "expect": [
+   "x-urgence-ou-clinique"
+  ]
+ },
+ {
+  "q": "the assault happened off campus at a party, can uottawa still help me",
+  "expect": [
+   "x-violence-sexuelle-hors-campus"
+  ]
+ },
+ {
+  "q": "je commence en septembre pis j'ai un handicap, quand m'inscrire aux accommodements",
+  "expect": [
+   "x-accommodements-nouvel-etudiant"
+  ]
+ },
+ {
+  "q": "im already covered by my parents insurence, can I opt out of the student health plan",
+  "expect": [
+   "x-assurance-seuo-retrait"
+  ]
+ },
+ {
+  "q": "comment avoir ma carte RAMU",
+  "expect": [
+   "x-ramu-carte"
+  ]
+ },
+ {
+  "q": "IRCC email about travel document suspension what does it mean",
+  "expect": [
+   "y-suspension-document-voyage"
+  ]
+ },
+ {
+  "q": "plan d'études pour le permis d'études, comment l'écrire",
+  "expect": [
+   "y-plan-etudes-contenu"
+  ]
+ },
+ {
+  "q": "When should I aply to extend my study permit? mine expires in august",
+  "expect": [
+   "y-prolonger-permis-quand"
+  ]
+ },
+ {
+  "q": "est-ce que le bénévolat compte dans mes 24h par semaine? je fais du bénévolat dans une banque alimentaire en plus de ma job",
+  "expect": [
+   "y-benevolat-24-heures"
+  ]
+ },
+ {
+  "q": "pendant mon échange je paie mes frais de scolarité à qui",
+  "expect": [
+   "y-echange-frais-scolarite-hote"
+  ]
+ },
+ {
+  "q": "do I need to go through an agent to apply",
+  "expect": [
+   "y-agent-recrutement-obligatoire"
+  ]
+ },
+ {
+  "q": "bourse pour étudiants en situation de handicap",
+  "expect": [
+   "z-bourse-handicap"
+  ]
+ },
+ {
+  "q": "I'm from Alberta, who do I ask for a student lone",
+  "expect": [
+   "z-aide-autres-provinces"
+  ]
+ },
+ {
+  "q": "how much is a course as a special student",
+  "expect": [
+   "z-frais-etudiant-libre"
+  ]
+ },
+ {
+  "q": "si j'arrete juste d'aller a un cours ça l'annule-tu",
+  "expect": [
+   "zc-abandon-cours-mention-abs"
+  ]
+ },
+ {
+  "q": "bourse pour les anglos qui étudient en français",
+  "expect": [
+   "zc-bourse-fls"
+  ]
+ },
+ {
+  "q": "my study permit was refused, how do I reapply",
+  "expect": [
+   "zc-permis-refus-nouvelle-demande"
+  ]
+ },
+ {
+  "q": "flu shot where this year",
+  "expect": [
+   "zd-vaccin-grippe-campagne"
+  ]
+ },
+ {
+  "q": "contraception consultation on campus?",
+  "expect": [
+   "zd-contraception-csme"
+  ]
+ },
+ {
+  "q": "free cooking workshops for students?",
+  "expect": [
+   "zd-ateliers-cuisine"
+  ]
+ },
+ {
+  "q": "renouveler une prescription par téléphone au centre de santé",
+  "expect": [
+   "zd-csme-renouvellement-telephone"
+  ]
+ },
+ {
+  "q": "someone just collapsed in front of me what do I do",
+  "expect": [
+   "zd-urgence-medicale-temoin"
+  ]
+ },
+ {
+  "q": "SÉUO exécutif c'est qui",
+  "expect": [
+   "l-seuo-executif"
+  ]
+ },
+ {
+  "q": "comment partir un club avec le SÉUO",
+  "expect": [
+   "q-clubs-creer-seuo",
+   "creer-club"
+  ]
+ },
+ {
+  "q": "is there a boxing club",
+  "expect": [
+   "q-club-boxing-uobc"
+  ]
+ },
+ {
+  "q": "est-ce que je peux contester une décision du comité des clubs du SÉUO",
+  "expect": [
+   "z-seuo-comite-appels"
+  ]
+ },
+ {
+  "q": "Mois de l'histoire des Noirs, l'université fait quoi",
+  "expect": [
+   "z-mois-histoire-noirs"
+  ]
+ },
+ {
+  "q": "genre quel ordi portable il me faut pour mes cours? je commence en génie logiciel",
+  "expect": [
+   "zb-ordinateur-portable-exigences"
+  ]
+ },
+ {
+  "q": "do I keep my email after graduating",
+  "expect": [
+   "zb-courriel-apres-diplome"
+  ]
+ },
+ {
+  "q": "how to fill out a scantron sheet properly",
+  "expect": [
+   "zb-feuille-scantron"
+  ]
+ },
+ {
+  "q": "le Centre Brunsfield peut-tu usiner une pièce pour moi",
+  "expect": [
+   "r-brunsfield-services"
+  ]
+ },
+ {
+  "q": "clé pour un labo de genie comment l'avoir",
+  "expect": [
+   "r-cles-acces-labo-genie"
+  ]
+ },
+ {
+  "q": "Département de génie mécanique c'est où",
+  "expect": [
+   "t-genie-mecanique"
+  ]
+ },
+ {
+  "q": "I get an error message in Workday what do I do",
+  "expect": [
+   "u-workday-aide"
+  ]
+ }
+]

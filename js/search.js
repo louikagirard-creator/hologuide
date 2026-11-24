@@ -6,7 +6,7 @@ import { KB, CATEGORIES } from '../data/kb.js';
 export const STOP = new Set(('le la les un une des de du d l au aux et ou a à en est sont je tu il elle on nous vous ils mon ma mes ton ta tes son sa ses ' +
   'ce cette ces qui que quoi quel quelle quels quelles comment ou où pour par sur dans avec pas ne se me te y ai as faire fait peux peut veux ' +
   'the a an of to in on at for and or is are am be i you he she it we they my your his her its our their what which who how where when do does can ' +
-  'want need please svp stp est-ce ca ça c s t es suis etes moi toi e d ve its when why pourquoi quand ' +
+  'want need please svp stp est-ce ca ça c s t es suis etes moi toi e d ve when why pourquoi quand ' +
   // langage parlé et verbes passe-partout : ils ne disent rien du sujet (« c koi », « genre », « gonna »)
   'koi ki quoi cest jai etre avoir aller faut falloir genre pis ben bin coudonc voudrais aimerais savoir dire dois doit devrait pourrais puis vais va ' +
   'know tell get got gonna wanna like just also any some there here this that these those have has had will would could should may might much many ' +
@@ -50,6 +50,7 @@ const SMALLTALK = [
   ['yesno', ['ben non', 'ben oui', 'bah oui', 'bah non', 'non merci', 'no thanks', 'no thank you', 'c est bon', 'that s all', 'c est tout', 'rien', 'nothing', 'pas pour l instant', 'not now', 'merci c est tout', 'mmm', 'hmm', 'ah ok', 'oh ok', 'bof', 'mouais', 'meh',  'okk', 'vrm', 'vraiment', 'really', 'ok', 'okay', 'oki', 'oui', 'non', 'd accord', 'dac', 'cool', 'yes', 'no', 'nope', 'yep', 'yeah', 'ouais', 'ouin', 'correct', 'parfait', 'super', 'k',
     'ok merci', 'sure', 'alright', 'all right', 'got it', 'compris', 'je vois', 'i see', 'pas grave', 'ok cool', 'nah', 'si']]
 ].map(([id, list]) => [id, list.map(norm)]); // même normalisation que la question (accents, pluriels : « ouais » → « ouai »)
+const THANKS_WORDS = new Set('merci mercii thanks thank thx ty cheers gros grand ben bin infiniment beaucoup bcp mille fois encore tellement so much lot lots big many again vraiment super top'.split(' '));
 const LAUGH = new Set('lol lool mdr ptdr haha hahaha hihi hehe xd lmao rofl'.split(' '));
 const FILLER = new Set('gee geegee gg stp svp please pls hey yo dis alors donc euh hum bien vraiment really so well toi you lol haha'.split(' '));
 const squash = (x) => x.replace(/([a-z])\1+/g, '$1'); // « heyyy », « salutt », « okkk »
@@ -79,7 +80,7 @@ const OFFTOPIC = [
   /\b(combien font|combien fait \d|what is \d+ \d|resous|resoudre|solve for|equation|derivee de|integrale de)\b/, // calcul
   /\b(capitale de|capital of|population de la|population of|vitesse de la lumiere|speed of light|premier ministre|prime minister|president des etats|president of the|sens de la vie|meaning of life|qui a invente|who invented|world war|guerre mondiale|what year did)\b/, // culture générale
   /\b(netflix|meilleur film|best movie|series? to watch|recommend me a (movie|show|series)|recette|recipe|cuire un|faire du pain|bake a|poeme|poem|paroles de|song lyrics|changer un pneu|change a tire|cinema ce soir|movie tonight)\b/, // loisirs
-  /\b(canadiens|habs|senators game|maple leafs|leafs|nhl|nba|nfl|mlb|super bowl|world cup|coupe du monde|stanley cup|coupe stanley|meilleur joueur|best player|meilleure equipe de|best team in|drake|taylor swift)\b/, // sport pro, vedettes
+  /\b(match des canadiens|game des canadiens|canadiens game|canadiens de montreal|les canadiens ont|habs|senators game|maple leafs|leafs|nhl|nba|nfl|mlb|super bowl|world cup|coupe du monde|stanley cup|coupe stanley|meilleur joueur|best player|meilleure equipe de|best team in|drake|taylor swift)\b/, // sport pro, vedettes
   /\b(fais mon devoir|faire mon devoir|do my homework|write my essay|ecris mon|redige mon|photosynthese|photosynthesis|traduis|translate this)\b/, // devoirs
   /\b(mcgill|universite de montreal|udem|concordia|universite laval|sherbrooke|u of t|uoft|university of toronto|queen s university|waterloo|mcmaster|ubc|harvard|stanford|mit)\b/, // autres universités
   /\b(billet d avion|plane ticket|flight to|vol pour paris|bitcoin|crypto|tesla stock|acheter des actions|buy stock|prix de l essence|gas price)\b/ // voyages, argent
@@ -218,14 +219,18 @@ export function findAnswer(text, { sem = null } = {}) {
   const qwords = words(n);
   if (SENSITIVE.some((k) => n.includes(norm(k)))) return { type: 'sensitive' };
   const all = n.trim().split(' ');
-  if (all.every((w) => LAUGH.has(w) || gibberish(w) || w.length < 2) && all.some((w) => LAUGH.has(w) || gibberish(w))) return { type: 'unclear', alts: [], top: [] }; // « lol », « aaaaaa », « kdkdkd lol »
   const st = smalltalk(n);
   if (st?.whole) return { type: 'smalltalk', intent: st.id };
+  if (all.length <= 4 && HELLO.some((h) => n.includes(` ${h} `) || ` ${all.map(squash).join(' ')} `.includes(` ${squash(h)} `))) return { type: 'hello' };
+  // Remerciement : seul ou avec des mots d'insistance (« un gros merci », « merci infiniment ») tout de suite ; dans une
+  // autre phrase, seulement si aucune fiche ne répond nettement (« MERCI medical equipment club » est le nom d'un club)
+  const thanks = THANKS.some((h) => n.includes(norm(h))) && all.length <= 5;
+  if (thanks && all.every((w) => THANKS_WORDS.has(w) || FILLER.has(w) || STOP.has(w))) return { type: 'thanks' };
+  // « lol », « aaaaaa », « kdkdkd lol », ou rien de lisible (« ... », « ???? »)
+  if (!n.trim() || (all.every((w) => LAUGH.has(w) || gibberish(w) || w.length < 2) && all.some((w) => LAUGH.has(w) || gibberish(w)))) return { type: 'unclear', alts: [], top: [] };
   // (sur le texte sans la règle des pluriels : « temps » doit rester « temps », « senators » rester « senators »)
   const raw = ` ${String(text || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[’']/g, ' ').replace(/[^a-z0-9]+/g, ' ').trim()} `;
   if (!ANCHOR.test(raw) && OFFTOPIC.some((re) => re.test(raw)) && !(OTHER_UNI.test(raw) && LINKED.test(raw))) return { type: 'offtopic', alts: [], top: [] };
-  if (all.length <= 4 && HELLO.some((h) => n.includes(` ${h} `) || ` ${all.map(squash).join(' ')} `.includes(` ${squash(h)} `))) return { type: 'hello' };
-  if (THANKS.some((h) => n.includes(norm(h))) && all.length <= 5) return { type: 'thanks' };
   const cats = new Set(CAT_HINTS.filter((c) => c.hints.some((h) => n.includes(h))).map((c) => c.id));
   cats.club = / (club|clubs|association etudiante|student club) /.test(n);
   cats.where = / (ou est|ou sont|ou se trouve|ou trouver|where is|where are|where s|where can i find|how do i get to|comment aller|comment me rendre|c est ou) /.test(n);
@@ -248,7 +253,9 @@ export function findAnswer(text, { sem = null } = {}) {
     ranked.splice(0, head.length, ...head);
   }
   let best = ranked[0];
-  if (st && !ranked.slice(0, 5).some((r) => r.base >= TUNE.sureScore && r.cover >= TUNE.minCover)) return { type: 'smalltalk', intent: st.id };
+  const confident = ranked.slice(0, 5).some((r) => r.base >= TUNE.sureScore && r.cover >= TUNE.minCover);
+  if (st && !confident) return { type: 'smalltalk', intent: st.id };
+  if (thanks && !confident) return { type: 'thanks' };
   if ((!best || best.s < 2.5) && all.every((w) => gibberish(w) || w.length < 3) && all.some(gibberish)) return { type: 'unclear', alts: [], top: [] };
   // Réponse seulement si la fiche explique une bonne partie de la question (sinon « qui a gagné le match hier »
   // trouvait une fiche grâce à un seul mot), sauf correspondance très forte. Après le reclassement, la première fiche
